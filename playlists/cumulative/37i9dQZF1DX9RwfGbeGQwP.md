@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,558 songs - 2 day 10 hr 35 min
+1,560 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2022-10-15 | 2023-09-22 |
 | [Glenmore](https://open.spotify.com/track/73l8ddiWBcggsz1NqA1pIv) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Glenmore](https://open.spotify.com/album/5XKRlZAf9dSL4nMAPlRAR1) | 1:56 | 2024-09-13 | 2024-10-09 |
 | [Glimmer](https://open.spotify.com/track/6vHpwXwx4jV9iUjq6RzxdZ) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Glimmer](https://open.spotify.com/album/2U5infJxCF83jzqiqasVyJ) | 2:04 | 2023-03-08 | 2024-08-22 |
+| [Glimpse of Spring](https://open.spotify.com/track/7rBTtQmKLjhQR35dYuhjNH) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Glimpse of Spring](https://open.spotify.com/album/0JM60MAftkuQn4xanVh5mM) | 1:39 | 2025-03-21 |  |
 | [Glitch Sunset](https://open.spotify.com/track/30cNkj6a0i9yjxz5E4hSwH) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Glitch Sunset](https://open.spotify.com/album/5c58qAL3B7hykcTImx0BV2) | 2:03 | 2022-10-15 | 2023-08-04 |
 | [Glorious](https://open.spotify.com/track/6MtDXkpB4tCtiRIFfAyzCE) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Glorious](https://open.spotify.com/album/0Gp6gzfEUO9RPly3O6hyOz) | 2:11 | 2022-01-27 | 2022-07-01 |
 | [Go Time](https://open.spotify.com/track/5JMpTtLvOURWPEQiWngaPF) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Go Time](https://open.spotify.com/album/1UKehuNkpnmef1mtY4tu8Q) | 2:26 | 2023-05-19 | 2023-10-20 |
@@ -529,7 +530,7 @@
 | [Good vs Easy](https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Beyond Memory](https://open.spotify.com/album/1SlthAO37B8iyB3awgf9sl) | 1:56 | 2022-08-19 | 2024-09-17 |
 | [goodbye](https://open.spotify.com/track/61QjLbt7ZdeGguZNjKL9ty) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [goodbye](https://open.spotify.com/album/02bYztomWxqVUnEZi1Cphu) | 1:36 | 2022-11-25 | 2023-09-29 |
 | [Graceland Drive](https://open.spotify.com/track/4UNCSVU2mC94tO2g7gxizh) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Graceland Drive](https://open.spotify.com/album/11vVWuXVWNRRMMAKdmxA2D) | 2:28 | 2022-10-15 |  |
-| [Grains](https://open.spotify.com/track/2UMA25hOygW14Ib1rPvEbO) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Slow Feet](https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw) | 2:15 | 2023-03-08 |  |
+| [Grains](https://open.spotify.com/track/2UMA25hOygW14Ib1rPvEbO) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Slow Feet](https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw) | 2:15 | 2023-03-08 | 2025-03-25 |
 | [Gratitude](https://open.spotify.com/track/1D6EplUJtLZqNMLTzo8xP8) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb), [Kaymor](https://open.spotify.com/artist/4BBxAKGmxWIX5ztgwqanVl) | [Gratitude](https://open.spotify.com/album/7i9HbhoPrQUsMH41uQhSQ2) | 2:11 | 2022-12-23 | 2023-10-06 |
 | [Grava](https://open.spotify.com/track/0JXecbPggkex2WUbQnyPID) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Grava](https://open.spotify.com/album/5X7xtSXccXdVKSr6C9Yx8U) | 2:22 | 2022-11-11 | 2023-09-29 |
 | [gravel trap](https://open.spotify.com/track/66yzKiMDLw08z8Oa9JlgrS) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [gravel trap](https://open.spotify.com/album/3W8lioV1UYFdp7x5ioe82s) | 1:33 | 2022-09-02 | 2023-09-05 |
@@ -909,7 +910,7 @@
 | [Nanny's Lullaby](https://open.spotify.com/track/6vxZvCHuexWyAj0VdJsGnS) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Nanny's Lullaby](https://open.spotify.com/album/0EJDO54exCA6ix4hhzxhoV) | 2:23 | 2022-09-30 | 2023-04-21 |
 | [Nardis](https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nardis](https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2) | 2:18 | 2022-12-09 | 2023-09-29 |
 | [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-04 |  |
-| [natten](https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [natten EP](https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h) | 2:27 | 2023-01-13 |  |
+| [natten](https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [natten EP](https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h) | 2:27 | 2023-01-13 | 2025-03-25 |
 | [Nattsudd](https://open.spotify.com/track/6HMT16Rk6JTTQ2LuYLHVRb) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Nattsudd](https://open.spotify.com/album/1oJoXscf6fpPQKbzDJe2OT) | 2:36 | 2022-01-27 | 2022-07-08 |
 | [NEAR](https://open.spotify.com/track/72u6WlUdYIx62Z33Xvh7A4) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 1:35 | 2022-01-27 | 2022-06-10 |
 | [Necklace \- Coffe Ambience](https://open.spotify.com/track/6UbEwbpoVMUDNG94ART8qm) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Necklace](https://open.spotify.com/album/5Bl50pCXxV6cRISd7uNcFu) | 2:34 | 2022-05-27 |  |
@@ -1542,6 +1543,7 @@
 | [Wonderful](https://open.spotify.com/track/31cAdgsOf2Cr8feLpZWl4F) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Wonderful](https://open.spotify.com/album/00JdDGfjrJGbfjoJjuC7dZ) | 1:50 | 2022-04-22 | 2022-11-12 |
 | [Wonderful Times](https://open.spotify.com/track/2G00hkPjXrG0EUktsv7Pbc) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Wonderful Times](https://open.spotify.com/album/6QxZonwGmPwndaqt0khNDB) | 1:27 | 2022-01-27 | 2022-04-22 |
 | [Wonderland](https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2) | [So\_nny](https://open.spotify.com/artist/1sHQ9ZkPcQPs3TIG3EJFd4) | [Wonderland](https://open.spotify.com/album/1FXPEiafiBIQoBL2FnoWGl) | 2:30 | 2022-01-27 | 2022-09-09 |
+| [Woodpecker](https://open.spotify.com/track/0SpFgelmLt7W2JOMGDh0sW) | [Mokezi](https://open.spotify.com/artist/3H4BXDh1utWbNJp32pTqIg) | [Woodpecker](https://open.spotify.com/album/24XOU1tMWVtnrYCbTqhiCZ) | 2:23 | 2025-03-21 |  |
 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 | 2022-01-27 | 2023-02-25 |
 | [Work pays off](https://open.spotify.com/track/6ab6nXkRapc3cOVFrXEWsx) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Work pays off](https://open.spotify.com/album/4hbn79COPXl8hl2kV9lQ1l) | 1:48 | 2022-12-16 | 2023-10-06 |
 | [WorkinOnIt](https://open.spotify.com/track/6LWGINtQbDX9tdfQDIAmNJ) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [WorkinOnIt](https://open.spotify.com/album/57vOrniaei6IvRen9ZoOX2) | 2:50 | 2022-11-11 | 2023-09-29 |

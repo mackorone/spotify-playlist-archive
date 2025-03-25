@@ -5805,6 +5805,24 @@
     },
     {
       "album": {
+        "name": "My Pure Soul",
+        "url": "https://open.spotify.com/album/2AUDTriJVz2RDyKSweOyem"
+      },
+      "artists": [
+        {
+          "name": "Khen",
+          "url": "https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458517,
+      "name": "My Pure Soul",
+      "url": "https://open.spotify.com/track/6zIXKdIG7aHSg6sbgALaS2"
+    },
+    {
+      "album": {
         "name": "Helem",
         "url": "https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig"
       },
@@ -8866,7 +8884,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 401815,
       "name": "Wawanko",
       "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"

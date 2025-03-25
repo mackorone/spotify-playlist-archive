@@ -1583,6 +1583,28 @@
     },
     {
       "album": {
+        "name": "Walking on a String",
+        "url": "https://open.spotify.com/album/0pOJaR7bqllOb7vdoG3ikJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249386,
+      "name": "Walking on a String",
+      "url": "https://open.spotify.com/track/4QxJ0UMVvF9aNiYXkJW8kg"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },

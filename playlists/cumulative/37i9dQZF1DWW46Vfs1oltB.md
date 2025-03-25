@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> Lil Moshpit, Sik\-K\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> Swings\(스윙스\)\)
 
-1,482 songs - 3 day 8 hr 23 min
+1,484 songs - 3 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Blue Dot](https://open.spotify.com/track/3PcowXtn7A3Lh85fnJqkzg) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [COLD](https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5) | 3:07 | 2025-03-07 |  |
 | [BLUE EYES](https://open.spotify.com/track/6Xgyil4wclc5xkSIPRNm0n) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [BLUE EYES](https://open.spotify.com/album/5PtJt372FJGveehhET997C) | 2:38 | 2021-12-21 | 2022-07-03 |
 | [Blue Lemonade](https://open.spotify.com/track/10h8Wyi5meEmmtF6TOVSSV) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [SKANDALOUZ](https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn) | 2:56 | 2021-12-29 | 2022-04-14 |
+| [Blues Freestyle](https://open.spotify.com/track/0J1K9qSjKoeYj5pCuEa4AI) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Fire](https://open.spotify.com/album/3Pkrhxj5qPtzrDkCMq9GZH) | 3:04 | 2025-03-24 |  |
 | [Bmf](https://open.spotify.com/track/1AvQ2z67p1VbsoaRZuDoDe) | [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x) | [Bmf](https://open.spotify.com/album/48jDWeLCIKsj4jkkSlxI2l) | 2:34 | 2024-10-30 | 2024-12-06 |
 | [BMX](https://open.spotify.com/track/2DcTED1q1ZVAIHNquDXTIG) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7), [Inho Cho](https://open.spotify.com/artist/0qJNreQWAffirTysXKEDJx), [Osshun Gum](https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q) | [BMX](https://open.spotify.com/album/5LJJ9NGeemiXmDEqut5jKM) | 3:07 | 2022-01-15 | 2022-06-17 |
 | [BODY](https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 2:03 | 2024-11-20 | 2024-11-23 |
@@ -671,6 +672,7 @@
 | [KAZINO](https://open.spotify.com/track/245onUPHGD1DYuiacxTuW0) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [KAZINO](https://open.spotify.com/album/1f9cws6SZ0iKoHrcmn39ZY) | 3:05 | 2021-12-18 | 2023-12-27 |
 | [KC \(BUST IT DOWN\) \(feat\. Leellamarz\)](https://open.spotify.com/track/1S7JmOOTfu7Wzf7EfnxFyd) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [KC \(BUST IT DOWN\) \(feat\. Leellamarz\)](https://open.spotify.com/album/7kWJmTh6RHCueZmCJM5mvl) | 2:41 | 2024-02-06 | 2024-06-05 |
 | [KC2 \(Feat\. JMIN, HAON\)](https://open.spotify.com/track/7zgHEl7FKvSYoinueRFl1H) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [K\-FLIP](https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N) | 3:09 | 2025-01-10 |  |
+| [Keep Going 2](https://open.spotify.com/track/0JmP2LJR0LSBxpR5G2eLTW) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Fire](https://open.spotify.com/album/3Pkrhxj5qPtzrDkCMq9GZH) | 2:09 | 2025-03-24 |  |
 | [Keep it \(Feat\. INJAE\)](https://open.spotify.com/track/0rkYEvHedxbS59qDB7d4x9) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [INJAE \(인재\)](https://open.spotify.com/artist/1FqH4sqKNZ1IodpvtEe9Ld) | [The Life\-Changing Album](https://open.spotify.com/album/0dzcrGXJmPiIH75kSdrOrA) | 2:26 | 2024-03-05 | 2024-06-05 |
 | [KG MODE \(Feat\. NY KID\)](https://open.spotify.com/track/4mFisK0UM1MoBSFacgagEx) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [NY Kid](https://open.spotify.com/artist/4WHZ2ZdKtRVJT09KhmToNN) | [WHITE GROOVE](https://open.spotify.com/album/5iPAzZ47yi7XXRQlz2zbAJ) | 2:52 | 2023-01-20 | 2023-03-25 |
 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 | 2022-10-03 | 2022-12-10 |

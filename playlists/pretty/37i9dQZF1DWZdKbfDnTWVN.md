@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl?si=5xyCYQLiQri8MCuj7DF3NQ"> Shekina Karen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,630 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,633 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 15 | [The Mack is Back](https://open.spotify.com/track/6Jtxb02or9xcPKSnY5Aqvz) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [The Mack is Back](https://open.spotify.com/album/3I56GKsabdvhhl9jec8qbk) | 4:12 |
 | 16 | [LOST IN TRANSLATION](https://open.spotify.com/track/0PSKymqsC41SiRrezmiBbA) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [LOST IN TRANSLATION](https://open.spotify.com/album/1VX7DXJVKvHiBAuWdd4y9H) | 3:22 |
 | 17 | [Navigate](https://open.spotify.com/track/4DIP9hzCiOu0GzvabVPAwM) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Ajay \[Buruklyn Boyz\]](https://open.spotify.com/artist/1wv9gyGuWt7zm0a3tNxWdC) | [Navigate](https://open.spotify.com/album/54OayHIssRRoWcgUCoocNj) | 3:31 |
-| 18 | [NI9ES](https://open.spotify.com/track/6TSm1FtxtLjCGV83qTPHEi) | [R€€Z¥](https://open.spotify.com/artist/6erwz1LQ4Hgn4xLlFrPU7W), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [NI9ES](https://open.spotify.com/album/0N11WLidAu35rH4AaYTAqp) | 3:46 |
+| 18 | [NI9ES](https://open.spotify.com/track/6TSm1FtxtLjCGV83qTPHEi) | [Reezy Reez](https://open.spotify.com/artist/0yR4SBkHS8Tc9asApK2FcS), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [NI9ES](https://open.spotify.com/album/0N11WLidAu35rH4AaYTAqp) | 3:46 |
 | 19 | [IF I DO, IF I DON'T](https://open.spotify.com/track/0BGksyPJgbgD9oRnNYvlat) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [VISION 2020](https://open.spotify.com/album/18E926OD0EL7QrLWo3ymBy) | 3:14 |
 | 20 | [Under the Influence](https://open.spotify.com/track/3r056cmJmmTHK44fEffRCW) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Under the Influence](https://open.spotify.com/album/1Lvah0pWShiH6euqsHGJ6w) | 2:12 |
 | 21 | [Wrong Number](https://open.spotify.com/track/0x37PScSmzhTe0bYbKMbwN) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl) | [Wrong Number](https://open.spotify.com/album/5q5POBPDjToiYiLLyaKCbG) | 3:32 |

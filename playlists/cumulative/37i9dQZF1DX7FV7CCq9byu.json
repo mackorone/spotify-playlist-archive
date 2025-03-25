@@ -3757,6 +3757,28 @@
     },
     {
       "album": {
+        "name": "Genom mina fingrar",
+        "url": "https://open.spotify.com/album/4RhsjMYovZgmGbNoJhI29z"
+      },
+      "artists": [
+        {
+          "name": "Vince Wavy",
+          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
+        },
+        {
+          "name": "Linus Kajman",
+          "url": "https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154919,
+      "name": "Genom mina fingrar",
+      "url": "https://open.spotify.com/track/2Qog40ZTyO7ZfLz56qdlXp"
+    },
+    {
+      "album": {
         "name": "Every Night Fantasy",
         "url": "https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z"
       },
@@ -4996,7 +5018,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 146808,
       "name": "I Do (Joni's Song)",
       "url": "https://open.spotify.com/track/0VHOjjYADIXIYBj2uRzATe"
@@ -6314,6 +6336,24 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "album": {
+        "name": "Love Me To Heaven",
+        "url": "https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206561,
+      "name": "Love Me To Heaven",
+      "url": "https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr"
     },
     {
       "album": {
@@ -7898,7 +7938,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 179930,
       "name": "On and On and On",
       "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
@@ -11274,7 +11314,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 177571,
       "name": "Tur i oturen",
       "url": "https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K"

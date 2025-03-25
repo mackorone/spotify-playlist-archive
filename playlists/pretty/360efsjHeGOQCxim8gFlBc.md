@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 488 likes - 300 songs - 12 hr 25 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 487 likes - 300 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 299 | [Solas](https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Solas](https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF) | 2:26 |
 | 300 | [raindrops](https://open.spotify.com/track/6LFt83kO2UpsmzRlNBw3uM) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [raindrops](https://open.spotify.com/album/7D0dlYz2XBjxINaBVrCzF2) | 2:04 |
 
-Snapshot ID: `AAAGVRyYz16cwgJDR/AsWkUW8kBENSnG`
+Snapshot ID: `AAAGVmbtYRcafhQG/x2uaspR7FyFtGnW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Nobuyuki Tsujii
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,612 likes - 78 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,640 likes - 78 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

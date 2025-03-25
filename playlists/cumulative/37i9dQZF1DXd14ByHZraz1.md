@@ -4,7 +4,7 @@
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-229 songs - 11 hr 57 min
+230 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Baile Lotadão](https://open.spotify.com/track/6R8sBJjTQnFffxSU4u4Kg9) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Gesualdi](https://open.spotify.com/artist/0ddLKgLdOJFY0ghicM70Wk) | [Baile Lotadão](https://open.spotify.com/album/7LWs9wqCZIUPsZAllaKjEY) | 2:42 | 2024-03-01 | 2024-12-20 |
 | [Beat, Slow, Check](https://open.spotify.com/track/2FvSLbaOuopFsY2ZUaJPX1) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/3Gb5HF8D2stlV841uR3n0J) | 3:05 | 2021-12-24 | 2023-02-01 |
 | [Beat, Slow, Check](https://open.spotify.com/track/6wTbJIaTtp14XhndssikxH) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/1EdGMNwdiGuM8Qn6GYm69H) | 3:05 | 2023-01-27 | 2023-11-11 |
-| [BLACK WIDOW](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [BLACK WIDOW](https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK) | 2:09 | 2024-04-05 |  |
+| [BLACK WIDOW](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [BLACK WIDOW](https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK) | 2:09 | 2024-04-05 | 2025-03-25 |
 | [Body Control](https://open.spotify.com/track/1DOiUHIWeuSePVnulxXRdM) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [Control](https://open.spotify.com/album/4JEt6Wo4ADJAoGi0NND8hm) | 3:50 | 2022-04-08 | 2024-02-17 |
 | [Body On My Mind](https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/1BwEL9Uw8vU3ND0KCaTmdw) | 2:49 | 2021-12-24 | 2022-07-29 |
 | [Body On My Mind](https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 002](https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk) | 2:49 | 2022-10-28 | 2022-11-13 |
@@ -113,6 +113,7 @@
 | [I Know](https://open.spotify.com/track/0iZDUCkSEzzBllavstdPsd) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [I Know](https://open.spotify.com/album/1AERPcpgt9mOmzJykuqHsI) | 2:39 | 2021-12-24 | 2023-07-01 |
 | [I Promise You](https://open.spotify.com/track/21xz5b75yyHYTC1BWidmFU) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Promise You \- EP](https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA) | 2:52 | 2024-03-22 | 2025-01-24 |
 | [I Want Love \- Cat Dealers Remix](https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [I Want Love \(Cat Dealers Remix\)](https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS) | 3:41 | 2021-12-24 | 2023-01-28 |
+| [In Love Today](https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [In Love Today](https://open.spotify.com/album/3dKHCgmYp0ZTtS3UAwtFmn) | 2:45 | 2025-03-24 |  |
 | [In My Mind](https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/0ns8wB6mJDe5AZbYDnlPSG) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [In My Mind](https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8) | 2:55 | 2022-07-08 | 2022-11-26 |
 | [In the Night \- Sevek Remix](https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [In the Night \(Sevek Remix\)](https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC) | 3:04 | 2022-05-20 | 2022-10-29 |

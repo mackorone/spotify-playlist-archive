@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-790 songs - 1 day 23 hr 0 min
+791 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Casida de la Rosa](https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Casida de la Rosa](https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI) | 5:31 | 2021-12-24 |  |
 | [Castillos en el aire](https://open.spotify.com/track/1QF9SAhVilC3klM7JgngIt) | [Alberto Montero](https://open.spotify.com/artist/1yfrUGP5Y5AaA7FOpb5xQO) | [Castillos en el aire](https://open.spotify.com/album/5jRKmPqAxShFeYXDalOiW7) | 2:51 | 2024-06-14 | 2024-06-29 |
 | [Cenicientes del carbón](https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [Cenicientes del carbón](https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19) | 4:04 | 2025-03-20 |  |
+| [Cerca cerca](https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr) | [Habla de Mí en Presente](https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn) | [Cerca cerca](https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf) | 3:09 | 2025-03-20 |  |
 | [Cereza](https://open.spotify.com/track/4qrMdlF0WaiWUoeWivAj0Q) | [Sara Valenzuela](https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc), [Uku Trío Bs](https://open.spotify.com/artist/1v0JdoB8SdjzVUS76pZ0Bj) | [En La Cocina](https://open.spotify.com/album/2ncBuRIlsaDCMJS4EU6Cr5) | 3:53 | 2023-12-11 | 2023-12-16 |
 | [Cereza \(feat\. Uku Trío Bs\)](https://open.spotify.com/track/0YkiJubevyQZHkv5ujoIqm) | [Sara Valenzuela](https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc), [Uku Trío Bs](https://open.spotify.com/artist/1v0JdoB8SdjzVUS76pZ0Bj) | [En La Cocina](https://open.spotify.com/album/3wVGKwyKkhkkWhqbvfMll0) | 3:53 | 2021-12-24 | 2022-07-28 |
 | [Cero Conflicto](https://open.spotify.com/track/6RSPvAQnEghzgIs3dFcgHI) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Cero Conflicto](https://open.spotify.com/album/12q8eD899Uh8CWlBtuxqSn) | 3:22 | 2023-06-02 | 2023-06-24 |
@@ -228,7 +229,7 @@
 | [El don de la ternura](https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5) | 4:57 | 2022-07-22 | 2024-03-02 |
 | [El don de la ternura](https://open.spotify.com/track/4UjvNMH8l88rk7OmLXtyIK) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [El don de la ternura](https://open.spotify.com/album/4NchRZ46MzLJaTfN9ugXwu) | 4:57 | 2021-12-24 | 2022-07-27 |
 | [El enemigo](https://open.spotify.com/track/1z2PsIPTnUng2WGmxpTMSD) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [El enemigo](https://open.spotify.com/album/1q9OcAi9pBIlY8YzzPKRYF) | 4:04 | 2022-05-27 | 2022-07-01 |
-| [El Estallido](https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Blanca la Almendrita](https://open.spotify.com/artist/4SHp6hFKS5azKCDDXrsLB5), [María del Tango](https://open.spotify.com/artist/3Sj2eDMpmDWqmqIOtWyVEU) | [El Estallido](https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8) | 3:45 | 2021-12-24 |  |
+| [El Estallido](https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Blanca la Almendrita](https://open.spotify.com/artist/4SHp6hFKS5azKCDDXrsLB5), [María del Tango](https://open.spotify.com/artist/3Sj2eDMpmDWqmqIOtWyVEU) | [El Estallido](https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8) | 3:45 | 2021-12-24 | 2025-03-25 |
 | [El hombre de la habitación de al lado](https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [El hombre de la habitación de al lado](https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC) | 3:54 | 2024-07-05 | 2024-11-12 |
 | [El Incendio](https://open.spotify.com/track/3zS5XBRjrShQHdNEm1VBbi) | [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [El Incendio](https://open.spotify.com/album/416M3NiP0nm7feY21N6xZv) | 3:53 | 2023-06-30 | 2023-10-01 |
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2021-12-24 | 2022-07-27 |

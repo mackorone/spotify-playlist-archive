@@ -4,7 +4,7 @@
 
 > 
 
-576 songs - 1 day 12 hr 56 min
+577 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,8 @@
 | [Somebody else.](https://open.spotify.com/track/6FghSTlzBr93mtoBzxvz0A) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:56 | 2024-07-16 |  |
 | [Someone Else](https://open.spotify.com/track/3f90aCH4ohR2He7054FLdf) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Loveless I](https://open.spotify.com/album/6oICQlFFse7v0qbnPo2L7l) | 2:56 | 2024-07-18 |  |
 | [Something Human](https://open.spotify.com/track/1esX5rtwwssnsEQNQk0HGg) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 | 2025-03-24 |  |
-| [Something is Afoot on Old Man McGrady's River](https://open.spotify.com/track/5KmnoRZuuBrmLHvAexDB1n) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 | 2025-03-24 |  |
+| [Something is Afoot on Old Man McGrady's River](https://open.spotify.com/track/5KmnoRZuuBrmLHvAexDB1n) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 | 2025-03-24 | 2025-03-25 |
+| [Something Is Afoot On Old Man McGrady's River \(Swampwater Version\)](https://open.spotify.com/track/1bZEU6rvGpIcxV4H1yWl0l) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Something Is Afoot On Old Man McGrady's River \(Swampwater Version\)](https://open.spotify.com/album/7lIqir36DIQKwMHfCJ2zy0) | 3:26 | 2025-03-25 |  |
 | [Something Wild](https://open.spotify.com/track/2XsQS1noUOFR0NfX1VUIoK) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Pete's Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YrocR69AHthl982tykNpQ) | 3:43 | 2024-07-16 |  |
 | [Song Of Durin](https://open.spotify.com/track/2pBS4XbHNBrjeSuhvWYAoS) | [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U), [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Bobby Bass](https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj) | [Song Of Durin](https://open.spotify.com/album/7pLftf1izScqTztweuxtw4) | 5:32 | 2024-07-17 |  |
 | [Soundscapes](https://open.spotify.com/track/3zIAy5GKWwbmBu6aaQymKM) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Plethoria](https://open.spotify.com/album/4chBvvHjAX7KoMwiilTdse) | 5:31 | 2024-07-22 |  |

@@ -4,7 +4,7 @@
 
 > Sueña lindo, corazón..\. 💖✨ Ximena Sariñana en portada.
 
-377 songs - 21 hr 18 min
+378 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Me Fui](https://open.spotify.com/track/7xo0Cq0yX79sSaKfxq7Q5r) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Virgo](https://open.spotify.com/album/2hfztFKn9oM1Imy42FH1nX) | 4:45 | 2022-06-29 | 2024-05-04 |
 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 | 2023-02-08 | 2023-03-11 |
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-07-11 | 2024-11-30 |
+| [Me lo merezco](https://open.spotify.com/track/1QDWKOcIKpo8UMkufMdpQG) | [Silvia & Karmen](https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK) | [Me lo merezco](https://open.spotify.com/album/4AJJoolBDiitJ7qZJzZgHP) | 2:38 | 2025-03-21 |  |
 | [Me Lo Merezco \- Versión Acústica \- En Las Nubes](https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \- Versión Acústica \(En Las Nubes\)](https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD) | 3:14 | 2024-09-06 |  |
 | [Me Voy](https://open.spotify.com/track/4GTEErX3wGuOhGWyCSO40m) | [Querido Erick](https://open.spotify.com/artist/5LHD6YYVDxYixAaP7V5Q15), [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Me Voy](https://open.spotify.com/album/5D5aIWqN1naFBwL7u3kTYf) | 3:01 | 2025-02-21 | 2025-03-15 |
 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-07-28 | 2023-08-25 |
@@ -270,7 +271,7 @@
 | [Paso de Ti](https://open.spotify.com/track/1FteZcmUIFijY4oVL7piy2) | [Miriam Flores](https://open.spotify.com/artist/3nB5huZMjDDJx7XgkT0ptQ) | [Paso de Ti](https://open.spotify.com/album/3wL27cOIC6fwCFKbUDf8b7) | 3:14 | 2022-04-01 | 2022-09-10 |
 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 | 2024-06-07 |  |
 | [Pinceles](https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz) | [Javi Medina](https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pinceles](https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv) | 3:02 | 2025-02-28 |  |
-| [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 | 2023-04-21 |  |
+| [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 | 2023-04-21 | 2025-03-25 |
 | [Polvo de Gigantes](https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Kintsugi](https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ) | 2:37 | 2024-09-06 | 2024-09-21 |
 | [Popango](https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n) | 2:44 | 2024-09-06 |  |
 | [Por Debajo de la Mesa](https://open.spotify.com/track/3KCeHZSB3tN57gIiWj40Nl) | [Diego Boneta](https://open.spotify.com/artist/1Pu2OFhNGOTakxDgxoIXiv) | [Luis Miguel la Serie Temporada Final](https://open.spotify.com/album/6HhpzEOsGl0a0v2ybCaSIh) | 3:05 | 2022-02-04 | 2022-07-02 |

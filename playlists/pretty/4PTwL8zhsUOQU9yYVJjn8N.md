@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > 
 
-[can of beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 218 likes - 176 songs - 5 hr 35 min
+[can of beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 220 likes - 176 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

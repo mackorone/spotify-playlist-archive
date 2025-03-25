@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4727,
+  "num_followers": 4728,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z939gAAAAACDKCyXPWQj75HOPH0++V1l",
+  "snapshot_id": "Z99PAAAAAABk1Tbh+2UlBBsCaIodixbh",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "pretty little thing",
-        "url": "https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 190959,
-      "name": "pretty little thing",
-      "url": "https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i don't think i love you anymore",
         "url": "https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 229383,
       "name": "i don't think i love you anymore",
       "url": "https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "pretty little thing",
+        "url": "https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 190959,
+      "name": "pretty little thing",
+      "url": "https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wish you were here",
         "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 202706,
       "name": "wish you were here",
       "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,

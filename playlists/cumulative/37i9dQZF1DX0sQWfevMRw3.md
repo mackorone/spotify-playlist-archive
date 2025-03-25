@@ -4,7 +4,7 @@
 
 > ROCKSTAR LIFE!!
 
-1,346 songs - 2 day 8 hr 0 min
+1,347 songs - 2 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -970,6 +970,7 @@
 | [RIDER GENOM STORMEN](https://open.spotify.com/track/7HCbDvMjml1tPMPB4VqA67) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [RIDER GENOM STORMEN](https://open.spotify.com/album/1hsKA0teHPi3wzSbpmLiph) | 2:28 | 2024-10-24 | 2025-01-31 |
 | [RIKTIGT JÄVLA FULL \(Dunka plåt\)](https://open.spotify.com/track/7306szl1WpxRboJ3lNAbe8) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z) | [RIKTIGT JÄVLA FULL \(Dunka plåt\)](https://open.spotify.com/album/6L6GKBOLuxUA2qknoQ88ct) | 2:00 | 2023-10-12 | 2024-06-07 |
 | [Ring The Alarm \- Habstrakt Remix](https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Ring The Alarm \(Remixes\)](https://open.spotify.com/album/6161quyAWtf6v1f0kIUd4w) | 2:56 | 2022-03-24 | 2022-08-26 |
+| [RISBERG MOTHERFUCKER](https://open.spotify.com/track/7DQTuD8g4AuEA7iba9sSBn) | [GUSTAV VASA](https://open.spotify.com/artist/4M9B85tBesL0Mh7xDS6pRu) | [RISBERG MOTHERFUCKER](https://open.spotify.com/album/7dWOaZvsJSRU4Z6NvsYzOu) | 2:06 | 2025-03-24 |  |
 | [RITUALEN](https://open.spotify.com/track/6n6HXqnJS3J1yDubpfvqQ2) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [RITUALEN](https://open.spotify.com/album/5KB3DXhTfXozmOKmhqcnLe) | 1:47 | 2024-09-19 |  |
 | [ROCKSTAR](https://open.spotify.com/track/48XSXC4CQm24XxWQ9guxDt) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [MADNEZZ](https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b) | [ROCKSTAR](https://open.spotify.com/album/2QMBLj4uUKhan24XJOYSHs) | 1:36 | 2024-03-07 | 2024-03-22 |
 | [ROM & COLA](https://open.spotify.com/track/4jxmEBgLV1TFjvtoNpajSX) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [ROM & COLA](https://open.spotify.com/album/70s21vVO6lI3E8fWUU6siA) | 2:46 | 2023-04-27 | 2023-12-01 |

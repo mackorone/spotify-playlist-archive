@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa"
+    },
+    {
+      "album": {
         "name": "Blah Blah Blah (Lilly Palmer Remix)",
         "url": "https://open.spotify.com/album/4qeYTHSRWhb87wSI2RBZz6"
       },
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 141818,
       "name": "EINS ZWEI",
       "url": "https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF"

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-440 songs - 20 hr 57 min
+441 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Midnight Groove](https://open.spotify.com/track/4C4o9gN2yrifR5k7FIsDze) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Storytelling](https://open.spotify.com/album/08Y9RaMwqw9G2kv9xW7NZU) | 2:00 | 2024-09-06 |  |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2023-08-22 |  |
 | [Milan](https://open.spotify.com/track/6xPcweC9D2b71oNuDKHaGX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Milan](https://open.spotify.com/album/1ArWhIgs9AndfjneCPIPJj) | 1:52 | 2024-10-11 |  |
-| [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 | 2023-08-22 |  |
+| [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 | 2023-08-22 | 2025-03-25 |
 | [mira la noche](https://open.spotify.com/track/6wFX7sd6VMY6Fqd29fkgmq) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [mira la noche](https://open.spotify.com/album/2OpONlRS6cr5lYQpJwY8cz) | 1:52 | 2024-08-30 |  |
 | [Missed Calls](https://open.spotify.com/track/0wI4j8xIUq8ql69MokWCE5) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Missed Calls](https://open.spotify.com/album/6i4TU3QacIgzdkdNWBpvFB) | 2:33 | 2024-11-08 | 2024-11-13 |
 | [Mojave](https://open.spotify.com/track/3JoDvIn0bE0PAO6ICKpDOT) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Mojave](https://open.spotify.com/album/4D8rZuw0TU2n4I34bretGk) | 1:56 | 2024-10-18 | 2025-03-04 |
@@ -311,6 +311,7 @@
 | [PullUp](https://open.spotify.com/track/4L6lW4q3kYfPGPF5J8G3Cp) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [PullUp](https://open.spotify.com/album/1E6X5irCtk3YZ6VnRDaE6d) | 2:09 | 2024-08-23 |  |
 | [Pure Souls](https://open.spotify.com/track/04BEKCNSXz4AKz3ky9JYuR) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [Pure Souls](https://open.spotify.com/album/1ae2rnSlKkul1mpG8bo2X1) | 2:20 | 2024-10-11 | 2024-12-18 |
 | [Reality](https://open.spotify.com/track/4b9EngfGZovzQ8cSkOzrqp) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Reality](https://open.spotify.com/album/5i3VAJjQaAjPoK9HyH0Erp) | 2:38 | 2024-11-15 |  |
+| [Recourse](https://open.spotify.com/track/51WCLrFoBdD7ZBHKTYQ470) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Recourse](https://open.spotify.com/album/0qAGPDk6ykXQdgrJE6ibU1) | 2:00 | 2025-03-22 |  |
 | [Remote Frontiers](https://open.spotify.com/track/2IobuIcnIUtGqLqEV6is3K) | [Doctor Bionic](https://open.spotify.com/artist/3TPhgDRLSKmQM9Hrehaw4X) | [Remote Frontiers](https://open.spotify.com/album/2zyYuvpthRJLXQEqGWgNiP) | 2:31 | 2024-03-20 | 2024-06-08 |
 | [Remote Frontiers](https://open.spotify.com/track/5DBod0aGdSpZPSvVZJ3LIY) | [Doctor Bionic](https://open.spotify.com/artist/3TPhgDRLSKmQM9Hrehaw4X) | [In The Infinite](https://open.spotify.com/album/009o4j48Se3I5pAU7yQAdC) | 2:31 | 2024-01-26 | 2024-04-19 |
 | [Remote Planet](https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Remote Planet](https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R) | 2:42 | 2023-08-22 | 2024-11-22 |

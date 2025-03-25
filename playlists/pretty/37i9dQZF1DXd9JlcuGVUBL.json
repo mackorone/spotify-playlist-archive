@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/0Y2DVvg0bwD4dBrjNZTxqd?si=EWU53sHxThqJJzdHNOdyUA\">Logan Pietersen</a>  ",
-  "num_followers": 36870,
+  "num_followers": 36882,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
     },
     {
-      "added_at": "2025-02-27 22:00:21",
-      "album": {
-        "name": "In Case You Missed It",
-        "url": "https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 165611,
-      "name": "In Case You Missed It",
-      "url": "https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ"
-    },
-    {
       "added_at": "2025-03-06 22:00:11",
       "album": {
         "name": "Only God Knows",
@@ -811,6 +795,22 @@
     {
       "added_at": "2025-02-27 22:00:21",
       "album": {
+        "name": "In Case You Missed It",
+        "url": "https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 165611,
+      "name": "In Case You Missed It",
+      "url": "https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-03-06 22:00:11",
       "album": {
-        "name": "PATTERNS (DELUXE)",
-        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
+        "name": "Call Me If You Miss Me",
+        "url": "https://open.spotify.com/album/1XTodZ2bafoeNTgWnm4RNg"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 148826,
-      "name": "Future Tripping",
-      "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
+      "duration_ms": 193753,
+      "name": "Call Me If You Miss Me",
+      "url": "https://open.spotify.com/track/3LWYsVIye7sFfYTL3s9ksO"
     }
   ],
   "unique_name": "Country Musiek",

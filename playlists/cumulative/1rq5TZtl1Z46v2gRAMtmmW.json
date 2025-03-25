@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Lose Time",
         "url": "https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq"
       },
@@ -6426,6 +6444,28 @@
       "duration_ms": 190812,
       "name": "Tell Somebody",
       "url": "https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt"
+    },
+    {
+      "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "SAMSON",
+          "url": "https://open.spotify.com/artist/2I2FhyufVacXGtnLVt5mcp"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "The 6",
+      "url": "https://open.spotify.com/track/2xZGHDB2CudDDIWjEQpdtB"
     },
     {
       "album": {

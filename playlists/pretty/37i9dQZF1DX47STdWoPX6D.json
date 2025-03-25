@@ -1,13 +1,733 @@
 {
-  "description": "The latest and the greatest of CHH!  Cover: Childlike CiCi & Tommy Royale",
-  "num_followers": 25353,
+  "description": "The latest and the greatest of CHH!  Cover: 1K Phew",
+  "num_followers": 25370,
   "original_name": "The Blaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9dgAAAAAOH+hpv+6e6PhkNxlhNlAx",
+  "snapshot_id": "Z+GvBwAAAAC+DETsIjq52bbnsjR2SVQJ",
   "tracks": [
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "ROB HELL",
+        "url": "https://open.spotify.com/album/36m7D5xlqA3w3rp0Xaf1N1"
+      },
+      "artists": [
+        {
+          "name": "indie tribe",
+          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 151173,
+      "name": "ROB HELL",
+      "url": "https://open.spotify.com/track/6868cDsJrSGPyYnO8HPxHZ"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "JERICHO WALLS",
+        "url": "https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "JERICHO WALLS",
+      "url": "https://open.spotify.com/track/2lboNYBNF71Ju153GaMrez"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "No Credit",
+        "url": "https://open.spotify.com/album/55tp0It5C7nRrD7PdsqxsX"
+      },
+      "artists": [
+        {
+          "name": "Tvinci",
+          "url": "https://open.spotify.com/artist/6hPbln4GBHfWGSt2UV6VkI"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "No Credit",
+      "url": "https://open.spotify.com/track/29dJB4ODGWTfK2D6JasVMp"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Jesus (Guitars & Melodies)",
+        "url": "https://open.spotify.com/album/1M2jNFIHdlkR2RpJo7bfsa"
+      },
+      "artists": [
+        {
+          "name": "BigGucciDame",
+          "url": "https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "Stick To You",
+      "url": "https://open.spotify.com/track/27hnXWSk1t26LVZWy9A71b"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "JOHN GOTTI",
+        "url": "https://open.spotify.com/album/3G67GdSxZYH2ZqvrthfDBj"
+      },
+      "artists": [
+        {
+          "name": "Jay Sanon",
+          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
+        },
+        {
+          "name": "A-Dub White",
+          "url": "https://open.spotify.com/artist/0fIrICgUetNRbRQxq3yxyZ"
+        },
+        {
+          "name": "Justcallmedt",
+          "url": "https://open.spotify.com/artist/7EHTupr4wX3dZxNZTMS83R"
+        }
+      ],
+      "duration_ms": 131655,
+      "name": "JOHN GOTTI",
+      "url": "https://open.spotify.com/track/0jh5wtzeQIDJ0zhxZTj1dl"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Still Good",
+        "url": "https://open.spotify.com/album/0R3q4OmgWK4vy2jZJaBAeI"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Still Good",
+      "url": "https://open.spotify.com/track/4h0CP7LUg6qk1vYY5LFMl0"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "ANTICONIC",
+        "url": "https://open.spotify.com/album/2F3Qj4l9Xna4o2HXunbNYV"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Derek Ryan",
+          "url": "https://open.spotify.com/artist/73082XnqLoO2xyCv8vzEed"
+        },
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        }
+      ],
+      "duration_ms": 177827,
+      "name": "ANTICONIC",
+      "url": "https://open.spotify.com/track/6fy665mgimK9xs11g3XX4H"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "WHAT SHE WANT",
+        "url": "https://open.spotify.com/album/2XD9T52RrAZLIezcQUShfe"
+      },
+      "artists": [
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "WHAT SHE WANT",
+      "url": "https://open.spotify.com/track/4rduRv9UA1WAka2xhqve7h"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Holy Matrimony",
+        "url": "https://open.spotify.com/album/3z0Gnryl3SSH62tvM9VW7S"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        },
+        {
+          "name": "JBthaPreacher",
+          "url": "https://open.spotify.com/artist/6ShMmu8ZCu6MUoJfui5YK6"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Feel Like I'm Chosen",
+      "url": "https://open.spotify.com/track/48KVaLFM7HKfygQrCUvKVj"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "STARTED",
+        "url": "https://open.spotify.com/album/3tSiry5d2vEAs0ZDKC3a2k"
+      },
+      "artists": [
+        {
+          "name": "Tommy Zuko",
+          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
+        }
+      ],
+      "duration_ms": 152815,
+      "name": "STARTED",
+      "url": "https://open.spotify.com/track/3EeF1e0q38cRoSvmK7ex9g"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "SAVING SOULS",
+        "url": "https://open.spotify.com/album/24z2BwXk3Wh3ItVYzlQAx3"
+      },
+      "artists": [
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        },
+        {
+          "name": "Christ Jr",
+          "url": "https://open.spotify.com/artist/0K6nL5WlOn54yzjNE0Erho"
+        }
+      ],
+      "duration_ms": 146782,
+      "name": "SAVING SOULS",
+      "url": "https://open.spotify.com/track/3PEnk2Lo8xkISS6VI0lglt"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Faith On Me",
+        "url": "https://open.spotify.com/album/5o30JscY1DWp75JNe7TiUK"
+      },
+      "artists": [
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        },
+        {
+          "name": "Jay Boskie Beatz",
+          "url": "https://open.spotify.com/artist/3E07lBtIN8yzuURnswRxXO"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Faith On Me",
+      "url": "https://open.spotify.com/track/2JXxCyRZJT1wZownI0AG51"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/42eUMzXKPM6T20qqeL4WsR"
+      },
+      "artists": [
+        {
+          "name": "Fame Holiday",
+          "url": "https://open.spotify.com/artist/2AjbOeYS0jcF0t2F0RDgNy"
+        },
+        {
+          "name": "Kdfromthepack",
+          "url": "https://open.spotify.com/artist/4okNmvwnCdNJhRQGPxUi4R"
+        },
+        {
+          "name": "RVIVXL",
+          "url": "https://open.spotify.com/artist/5C1BuQjvF1s7Usyff3T36B"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/6kS9MutQKO5iPQdyhu0Xmw"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/7iNl1uaZS9YZ01w34gVAnW"
+      },
+      "artists": [
+        {
+          "name": "Tre'Gadd",
+          "url": "https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH"
+        }
+      ],
+      "duration_ms": 135211,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/0B2FSziIOUOexBMObYeeGl"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "JUDGE",
+        "url": "https://open.spotify.com/album/3IGgwoQwVe3BzxbLWfn086"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "duration_ms": 158791,
+      "name": "JUDGE",
+      "url": "https://open.spotify.com/track/640ckWIJM3LgPrX7tNsMY3"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/30Xb00UkEKIIZ6ej6UxfvJ"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5XUaLbZhgjRHYQqoI3MPER"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Eyes on the Lord",
+        "url": "https://open.spotify.com/album/5cZNDxLeNIjz45hhid9v2w"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Deca OTA",
+          "url": "https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Eyes on the Lord",
+      "url": "https://open.spotify.com/track/0BPfP5LxU8mAEbpDhWvhuw"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Don't Quit Your Day Job",
+        "url": "https://open.spotify.com/album/0yeppKUZi6aKwvtygi8wO5"
+      },
+      "artists": [
+        {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Don't Quit Your Day Job",
+      "url": "https://open.spotify.com/track/1xZGdbvKJqXQRluoQOsRis"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Yeshua Freestyle 2",
+        "url": "https://open.spotify.com/album/4dumf4vok78qM5iq7r0jws"
+      },
+      "artists": [
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 137948,
+      "name": "Yeshua Freestyle 2",
+      "url": "https://open.spotify.com/track/4IhaG4eL2Jt29gBUZaspkA"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "All Buckets",
+        "url": "https://open.spotify.com/album/1oTjKNnKQwqCCgexH8CsrA"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Dre Murray",
+          "url": "https://open.spotify.com/artist/5Q45hW4q5wKLjtnJlSgeq0"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "All Buckets",
+      "url": "https://open.spotify.com/track/5IPgpuMOmPynbzzjW9Y8kg"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/3XhqXjrxHdeKXDuhLVCVZ8"
+      },
+      "artists": [
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/31bVN2ytLpd0w38pr08igz"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/05BpLprJtUKJM3YVO5hbhN"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 203395,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6VadsLXUBVWwK4kI2RldZD"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Takeoff",
+        "url": "https://open.spotify.com/album/0nRMT17FQguyIzEM52ud1O"
+      },
+      "artists": [
+        {
+          "name": "BigGucciDame",
+          "url": "https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi"
+        }
+      ],
+      "duration_ms": 96507,
+      "name": "Takeoff",
+      "url": "https://open.spotify.com/track/7iUzWNE9TEOeNbyNKLNmCw"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "GANGSTA",
+        "url": "https://open.spotify.com/album/4Xu8fp1b0VpJV1Jtvb6Rh3"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/08zHLkifBXiRSroGv9WSBb"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/58Nvt6xXv8XCuIqRWNTumw"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 125467,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/3oRjAEpFOlbXltuQklNVhE"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/3iD30AtMz6I2NsUsZWh54Z"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/03WQxRTLaMCA5LrTk4bjaZ"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "NARROW PATHS",
+        "url": "https://open.spotify.com/album/4CJcvCzeNLJXmWPdMlMS8G"
+      },
+      "artists": [
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+        },
+        {
+          "name": "350",
+          "url": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
+        },
+        {
+          "name": "Aable",
+          "url": "https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "NARROW PATHS",
+      "url": "https://open.spotify.com/track/0xrxVdP2oKNzg5d142rjrU"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "IN JESUS NAME",
+        "url": "https://open.spotify.com/album/0O5sZNMeD8hE5OT1CcjLjd"
+      },
+      "artists": [
+        {
+          "name": "DJLC",
+          "url": "https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ"
+        },
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        }
+      ],
+      "duration_ms": 152866,
+      "name": "IN JESUS NAME",
+      "url": "https://open.spotify.com/track/3XDGiVI4KmTwaG6pNKk1G4"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "ONE FOR THE BOOKS",
+        "url": "https://open.spotify.com/album/5pLcpsNy4lO3NzkfC05yZc"
+      },
+      "artists": [
+        {
+          "name": "KRL",
+          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        },
+        {
+          "name": "K Diamond",
+          "url": "https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "ONE FOR THE BOOKS",
+      "url": "https://open.spotify.com/track/1TS5vlAFPB7Bd70DOOEUTw"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "LIKE JESUS",
+        "url": "https://open.spotify.com/album/5Sz71X9rEs8bFFj1UkcdxV"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "duration_ms": 179318,
+      "name": "LIKE JESUS",
+      "url": "https://open.spotify.com/track/0yJPQ1b5ib0fHpADIlrhH6"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "NEW CREATION",
+        "url": "https://open.spotify.com/album/3qmzX4Qivzfen0hHrYyZQq"
+      },
+      "artists": [
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "NEW CREATION",
+      "url": "https://open.spotify.com/track/4feBVRAdRx9qbowN7oDm4B"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/2rN3lrhU35DyShiftw0BEn"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/1WRU7UlaMltJyVhYDDv7fl"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "VALEDICTORIAN",
+        "url": "https://open.spotify.com/album/07OuxfQjR1biaMhG6BjR9T"
+      },
+      "artists": [
+        {
+          "name": "NXTMIKE",
+          "url": "https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g"
+        }
+      ],
+      "duration_ms": 118437,
+      "name": "VALEDICTORIAN",
+      "url": "https://open.spotify.com/track/21arRyPEFuQHiQTcMAg2Oj"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Yours, Always",
+        "url": "https://open.spotify.com/album/4soFZ1FFZnHoWGSTK09Ogl"
+      },
+      "artists": [
+        {
+          "name": "Thomas Austin",
+          "url": "https://open.spotify.com/artist/7CX2IocKUqEmOQ74CsU9zt"
+        },
+        {
+          "name": "Jalen Jackson",
+          "url": "https://open.spotify.com/artist/29XB8DEu3JLWyMjbJrdDp9"
+        }
+      ],
+      "duration_ms": 159671,
+      "name": "Out My Control",
+      "url": "https://open.spotify.com/track/6uJDmFVcRjNQRtZkSg2oK2"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "No Believe",
+        "url": "https://open.spotify.com/album/164i4f84lNDM7UT12tsO8i"
+      },
+      "artists": [
+        {
+          "name": "Tylan1k",
+          "url": "https://open.spotify.com/artist/6PY88og97O47AlwuyFFRhr"
+        }
+      ],
+      "duration_ms": 261536,
+      "name": "No Believe",
+      "url": "https://open.spotify.com/track/45jyUtYL6lB4xscuPFOXiB"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "the DOUBT",
+        "url": "https://open.spotify.com/album/0RzzohanLH2Ra4zfAUucPy"
+      },
+      "artists": [
+        {
+          "name": "E.i. the King",
+          "url": "https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO"
+        }
+      ],
+      "duration_ms": 151632,
+      "name": "the DOUBT",
+      "url": "https://open.spotify.com/track/5uLRoIeQm1BtUKumsyEnaa"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "Audacity",
+        "url": "https://open.spotify.com/album/4g8lC3Y6FDGMZS6AmKDAa3"
+      },
+      "artists": [
+        {
+          "name": "Jessica Hitte",
+          "url": "https://open.spotify.com/artist/1QErs01XzOjAqSUkgz9A58"
+        }
+      ],
+      "duration_ms": 146315,
+      "name": "Audacity",
+      "url": "https://open.spotify.com/track/2Bo0ei5Mk2sno0XoQYhmc5"
+    },
+    {
+      "added_at": "2025-03-24 19:14:15",
+      "album": {
+        "name": "How We Do It",
+        "url": "https://open.spotify.com/album/3ta7C38ElwkCt24ueIu6z6"
+      },
+      "artists": [
+        {
+          "name": "International Show",
+          "url": "https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT"
+        },
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 157281,
+      "name": "How We Do It",
+      "url": "https://open.spotify.com/track/5XJYLq82OYQ6Qo6lvQIJXC"
+    },
     {
       "added_at": "2025-03-07 05:00:38",
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,752 songs - 6 day 5 hr 19 min
+2,753 songs - 6 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-01-09 | 2024-01-20 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-05-03 | 2022-12-30 |
 | [Arrullo al Niño Dios](https://open.spotify.com/track/74FEhGq8SIJGXU3nBGWYFc) | [Coro Natividad](https://open.spotify.com/artist/3DjaCjQu0t4kjkf1hcrzvQ) | [Alabanzas Cristianas Que Llegan al Alma, Vol\. 19](https://open.spotify.com/album/49NXmN5OXAy9GNFfU6JpGd) | 4:05 | 2022-12-26 | 2024-01-03 |
+| [Arrullo De Estrellas](https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Programaton](https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD) | 4:12 | 2025-03-24 |  |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-08-09 | 2022-08-14 |
 | [Arte](https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Arte](https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj) | 3:36 | 2022-04-27 | 2022-06-01 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-12-10 |
@@ -813,7 +814,7 @@
 | [En Argentina Naci](https://open.spotify.com/track/1eDVvuPpEEe90AyANLKJGm) | [Diego Redes](https://open.spotify.com/artist/53ZoDw3I4QsmqW5ROApRlt), [Adrian Araujo](https://open.spotify.com/artist/5zI0aII6LDdZm2D5MLm9t1) | [En Argentina Naci](https://open.spotify.com/album/3lKaP0P4vprTqAGFsrvI0G) | 2:52 | 2022-12-21 | 2022-12-27 |
 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 | 2023-05-02 | 2023-05-12 |
 | [En Blindadas](https://open.spotify.com/track/2WyHP7rSsgdYP8mgS8KI9c) | [LMV Music](https://open.spotify.com/artist/6yocMWhp8YtUXVNqmRpApu) | [En Blindadas](https://open.spotify.com/album/0p83iDu3iVlUNPCWLwd9WJ) | 2:26 | 2023-04-11 | 2023-04-14 |
-| [En El Próximo Big Bang](https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [En El Próximo Big Bang](https://open.spotify.com/album/7cQgKOmoMOPit6b0NPaR3I) | 3:03 | 2025-02-15 |  |
+| [En El Próximo Big Bang](https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [En El Próximo Big Bang](https://open.spotify.com/album/7cQgKOmoMOPit6b0NPaR3I) | 3:03 | 2025-02-15 | 2025-03-25 |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-06-07 | 2022-08-17 |
 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 | 2023-03-11 | 2023-03-15 |
 | [En lo profundo/Peso](https://open.spotify.com/track/4mEIqavz99DpHXxi3wK46I) | [Sugey Torres](https://open.spotify.com/artist/1ND1UzX6EmIrVxfsRowxIc) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:22 | 2022-02-08 | 2022-02-22 |

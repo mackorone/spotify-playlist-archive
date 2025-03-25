@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 718951,
+  "num_followers": 719022,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
     },
     {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 223638,
-      "name": "If You Want To",
-      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
-    },
-    {
       "added_at": "2024-01-30 13:10:16",
       "album": {
         "name": "Norman Fucking Rockwell!",
@@ -551,6 +535,22 @@
       "duration_ms": 218287,
       "name": "Fuck it I love you",
       "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 223638,
+      "name": "If You Want To",
+      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
     },
     {
       "added_at": "2024-01-19 14:43:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
-        "name": "Lady's Bridge",
-        "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
-      },
-      "artists": [
-        {
-          "name": "Richard Hawley",
-          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Tonight the Streets Are Ours",
-      "url": "https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
         "name": "Not High On Drugz",
         "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 252372,
       "name": "Not High On Drugz",
       "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Lady's Bridge",
+        "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
+      },
+      "artists": [
+        {
+          "name": "Richard Hawley",
+          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Tonight the Streets Are Ours",
+      "url": "https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2"
     },
     {
       "added_at": "2024-01-19 14:43:19",

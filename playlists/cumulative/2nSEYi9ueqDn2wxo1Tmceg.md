@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-1,269 songs - 3 day 14 hr 46 min
+1,270 songs - 3 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 | 2024-01-17 | 2024-03-01 |
 | [pretender to surrender](https://open.spotify.com/track/3eC4Ks2cmVc8xUi0UaTxYO) | [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk), [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [pretender to surrender](https://open.spotify.com/album/1a0zCTyhCUZlR9n32amZBR) | 4:54 | 2024-06-12 | 2024-07-18 |
 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 | 2024-09-18 | 2024-10-24 |
+| [Priestess](https://open.spotify.com/track/7rQFHQ5mtzmdWxNkTbsuub) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Priestess](https://open.spotify.com/album/6BUKIcQNRwCyxnpDX7gAKN) | 5:24 | 2025-03-24 |  |
 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-03-06 | 2024-04-24 |
 | [PUDDLE \( OF ME \)](https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 4:11 | 2025-03-19 |  |
 | [Pulling Stitches](https://open.spotify.com/track/6CycPGevU7MQNmImScrJEh) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Pulling Stitches](https://open.spotify.com/album/3ErkAcb0jUkphb9WblF846) | 4:12 | 2023-05-31 | 2023-07-13 |

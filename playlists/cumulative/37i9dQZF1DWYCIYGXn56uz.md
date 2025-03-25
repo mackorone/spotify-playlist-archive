@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Emanuele Aloia
 
-653 songs - 1 day 6 hr 18 min
+654 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [Voglio Innamorarmi](https://open.spotify.com/track/2phwwQDC5KyglBMPxO8eof) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Voglio Innamorarmi](https://open.spotify.com/album/7cQCBvJeKOxoZSr0FIM1mZ) | 1:53 | 2024-03-21 | 2024-04-12 |
 | [Vorrei](https://open.spotify.com/track/0zZzsWmNBZuzxg80aJdgT2) | [Amedeo Preziosi](https://open.spotify.com/artist/7r9k0d7uURPaucWBl9pMwu) | [Vorrei](https://open.spotify.com/album/3yrHXLLKrmhuRis3E1gP8C) | 3:05 | 2023-04-20 | 2023-05-19 |
 | [VORREI](https://open.spotify.com/track/3zloVfHZF9XgnP7njHqA5f) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [BRILLEREMO](https://open.spotify.com/album/5hWOZRjtsxnjZ4AQPZZwKm) | 2:47 | 2025-02-05 |  |
+| [Vorrei](https://open.spotify.com/track/1aWkWhJxE3un97FpwgIc8K) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Vorrei](https://open.spotify.com/album/6REeztTQ4uQYlonoeKd53k) | 2:42 | 2025-03-24 |  |
 | [Walzer](https://open.spotify.com/track/25dbsaSLdfR1mDx4tMJGGq) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Walzer](https://open.spotify.com/album/3inCtUyQAJXPL37INxLJVn) | 3:09 | 2025-01-16 |  |
 | [Weekend](https://open.spotify.com/track/54wc6ODYOxQu1ctjPpzuVp) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Macs](https://open.spotify.com/artist/6HVUM2E6gjSKOp5NZbEqau) | [Weekend](https://open.spotify.com/album/2uneWiq89MM88wczRm3dv9) | 2:23 | 2023-06-08 | 2023-07-28 |
 | [Wemmino](https://open.spotify.com/track/0S2cH6G7ZMu2Ru5y7HWRHR) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Wemmino](https://open.spotify.com/album/0fcHdWn9kmHhsDukLp3vSu) | 2:12 | 2024-09-26 | 2024-10-25 |

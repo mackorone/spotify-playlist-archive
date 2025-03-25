@@ -1,12 +1,12 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 46611,
+  "num_followers": 46619,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "AAAYl07uJBw4vHAdRXbGTCiJNnBhkKQ1",
+  "snapshot_id": "AAAYmBDexIZowJZkrHXwOwp+rSg4E7Z/",
   "tracks": [
     {
       "added_at": "2025-03-14 14:36:43",
@@ -55,6 +55,22 @@
       "duration_ms": 178000,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/3DzkN2BI3xN75rGkekWE6Y"
+    },
+    {
+      "added_at": "2025-03-24 15:05:55",
+      "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2025-03-21 05:32:36",

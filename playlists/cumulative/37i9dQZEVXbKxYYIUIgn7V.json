@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 201231,
       "name": "Aldan\u0131r\u0131m",
       "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
@@ -2452,6 +2452,24 @@
       "duration_ms": 131428,
       "name": "Baby, You're the One (Whole Again)",
       "url": "https://open.spotify.com/track/4J9oreH8X23uV8dhjo9uwq"
+    },
+    {
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "album": {
@@ -6642,7 +6660,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 197769,
       "name": "denkst du an mich?",
       "url": "https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD"
@@ -8332,7 +8350,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -8350,7 +8368,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -9642,7 +9660,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 217800,
       "name": "Frieden",
       "url": "https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR"
@@ -10432,7 +10450,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 241946,
       "name": "Gib mir Sonne",
       "url": "https://open.spotify.com/track/2vBDgzSZDJIM5b3faeSWoz"
@@ -10450,7 +10468,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 241946,
       "name": "Gib mir Sonne",
       "url": "https://open.spotify.com/track/3sfKfoEJp8uR7syEMze89R"
@@ -13264,7 +13282,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 219266,
       "name": "Ich bin ich (Wir sind wir)",
       "url": "https://open.spotify.com/track/0ot1wz5O4oPuhuCmjA7Q0t"
@@ -13282,7 +13300,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "Ich bin ich (Wir sind wir)",
       "url": "https://open.spotify.com/track/0b0yqfrtoZCaO6X9uYOUTh"
@@ -13300,7 +13318,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 225320,
       "name": "Ich geh in Flammen auf",
       "url": "https://open.spotify.com/track/0cGAa8NCAcbA7OkRrXEujM"
@@ -13318,7 +13336,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 225440,
       "name": "Ich geh in Flammen auf",
       "url": "https://open.spotify.com/track/0honJ8pZAEtOlStmyQgIGP"
@@ -14602,7 +14620,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 179631,
       "name": "Kant",
       "url": "https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as"
@@ -16204,7 +16222,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 175853,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
@@ -19216,7 +19234,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 107111,
       "name": "MTG - RITMO ZELDA - Super Slowed",
       "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
@@ -24919,6 +24937,24 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5HIjsaeGMPfxz56cxQcKeG"
+      },
+      "artists": [
+        {
+          "name": "DjDefJam",
+          "url": "https://open.spotify.com/artist/01jWgqGqGq0TRVM64Nrvth"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1qoq4WVrZfucm5WI22MLum"
+    },
+    {
+      "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
@@ -28736,7 +28772,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 165661,
       "name": "Verwandtschaftstreffen",
       "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
@@ -28884,7 +28920,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 185200,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/34EclK5pWi2OqUz5cDm2X2"
@@ -30214,7 +30250,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 290560,
       "name": "Wir sind am Leben",
       "url": "https://open.spotify.com/track/0qswPWTZe8YobpJGBPKOl9"
@@ -30232,7 +30268,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 290560,
       "name": "Wir sind am Leben",
       "url": "https://open.spotify.com/track/4BUyrU4rOlZeUfexP1COs2"

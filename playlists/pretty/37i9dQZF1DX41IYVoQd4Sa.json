@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31680,
+  "num_followers": 31681,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d9\u05d5\u05de\u05d4",
-        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
-      },
-      "artists": [
-        {
-          "name": "Tohar Gadasi",
-          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "\u05d9\u05d5\u05de\u05d4",
-      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
         "url": "https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 234477,
       "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
       "url": "https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05d9\u05d5\u05de\u05d4",
+        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
+      },
+      "artists": [
+        {
+          "name": "Tohar Gadasi",
+          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "\u05d9\u05d5\u05de\u05d4",
+      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
-        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
-      },
-      "artists": [
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        }
-      ],
-      "duration_ms": 196914,
-      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05dc\u05d0 \u05d6\u05de\u05df \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
-        "url": "https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P"
+        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
+        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
       },
       "artists": [
         {
-          "name": "Roy Rieck",
-          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
         }
       ],
-      "duration_ms": 161011,
-      "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
-      "url": "https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu"
+      "duration_ms": 196914,
+      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -843,38 +827,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
-        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
-      },
-      "artists": [
-        {
-          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
-          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
-        }
-      ],
-      "duration_ms": 150829,
-      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "Running Out of Time",
         "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
       },
@@ -891,6 +843,54 @@
       "duration_ms": 180661,
       "name": "Running Out of Time",
       "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
+        "url": "https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P"
+      },
+      "artists": [
+        {
+          "name": "Roy Rieck",
+          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+        }
+      ],
+      "duration_ms": 161011,
+      "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
+      "url": "https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
+      },
+      "artists": [
+        {
+          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
+          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
+        }
+      ],
+      "duration_ms": 150829,
+      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -991,22 +991,22 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "Chasin' You",
-        "url": "https://open.spotify.com/album/7xpEGPX6zHBckWJsRsyg05"
+        "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
       },
       "artists": [
         {
-          "name": "Jimit",
-          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
+          "name": "Meirav Hellinger",
+          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
         },
         {
-          "name": "Qerenne",
-          "url": "https://open.spotify.com/artist/7JZm3yOXS88tsetaCzU7Kk"
+          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Chasin' You",
-      "url": "https://open.spotify.com/track/1UK85DkBUwCEfy4tMEO3tz"
+      "duration_ms": 183750,
+      "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
-      },
-      "artists": [
-        {
-          "name": "Meirav Hellinger",
-          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
-        },
-        {
-          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
         "url": "https://open.spotify.com/album/06NWZGpy4LHAAajTtMiTjU"
       },
@@ -1079,18 +1059,38 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4",
-        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
+        "name": "Chasin' You",
+        "url": "https://open.spotify.com/album/7xpEGPX6zHBckWJsRsyg05"
       },
       "artists": [
         {
-          "name": "Liron Amram",
-          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+          "name": "Jimit",
+          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
+        },
+        {
+          "name": "Qerenne",
+          "url": "https://open.spotify.com/artist/7JZm3yOXS88tsetaCzU7Kk"
         }
       ],
-      "duration_ms": 228800,
-      "name": "\u05e0\u05e9\u05de\u05d4",
-      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
+      "duration_ms": 220800,
+      "name": "Chasin' You",
+      "url": "https://open.spotify.com/track/1UK85DkBUwCEfy4tMEO3tz"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "160",
+        "url": "https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL"
+      },
+      "artists": [
+        {
+          "name": "Yael Selinger",
+          "url": "https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l"
+        }
+      ],
+      "duration_ms": 205535,
+      "name": "160",
+      "url": "https://open.spotify.com/track/1GKT0DSkBm7h6Q7sohvsKx"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

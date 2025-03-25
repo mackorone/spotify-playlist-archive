@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,279 songs - 11 day 11 hr 41 min
+7,281 songs - 11 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3701,6 +3701,7 @@
 | [Lottalofi](https://open.spotify.com/track/3EdIb3dhDV0i7pKnflosVK) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [Lottalofi](https://open.spotify.com/album/0gOCJZ9376hpcPcuwdzTpU) | 1:50 | 2024-03-29 |  |
 | [lotus](https://open.spotify.com/track/22dXmd0KmGPtj5Q0Q25yrU) | [desci](https://open.spotify.com/artist/0pD7DmPsnzsvpKAD2xECQg) | [spectra](https://open.spotify.com/album/1HMGNMkiLOCDYOizHEfCwG) | 2:23 | 2021-12-03 | 2022-06-24 |
 | [Lotus](https://open.spotify.com/track/626uDYzL00EWwr92rTREz3) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [Lotus](https://open.spotify.com/album/2paC2xkR5fHXKSh4AdA5T2) | 2:10 | 2025-02-07 | 2025-03-20 |
+| [Lounge](https://open.spotify.com/track/70qMimZ6epl4mK90JsXHY2) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Lounge](https://open.spotify.com/album/0sfvy3tHJ20t0Fc8Z9xkHI) | 2:04 | 2025-03-21 |  |
 | [lounge life](https://open.spotify.com/track/4zHwNqoIVdtq6BVg4b6r0x) | [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb), [sage green](https://open.spotify.com/artist/48XozkeJU7sbKjb0DG40ts) | [lounge life](https://open.spotify.com/album/5bvih2zwhn2PvGMQebhySh) | 1:58 | 2022-05-27 | 2022-09-23 |
 | [Lounge Pony](https://open.spotify.com/track/15YqQldesDAP9s43MzFk3q) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [Lounge Pony](https://open.spotify.com/album/1pgUDDxFjA5xXQdjpCJQGG) | 2:17 | 2023-11-10 | 2024-11-09 |
 | [Loungerie](https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages](https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0) | 3:15 | 2019-09-24 | 2020-10-21 |
@@ -4674,7 +4675,7 @@
 | [Ortswechsel](https://open.spotify.com/track/3PJ9CERQeU0AaBN0y3rpzW) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Ortswechsel](https://open.spotify.com/album/3m6kJXRWRugO0wkRfvD4mZ) | 2:33 | 2022-05-27 | 2022-09-23 |
 | [Osaka Nights](https://open.spotify.com/track/4a0WC3ApmFk5p43KiS4eSU) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Jazzy Colors](https://open.spotify.com/album/26Fgladf4zdKfupy9NRQBc) | 1:56 | 2022-08-12 | 2022-11-25 |
 | [Oscar](https://open.spotify.com/track/1EEup4dljCCgxl6hKmX5iq) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Oscar](https://open.spotify.com/album/05F4sYiGZN3SBeghF53YXo) | 1:41 | 2022-11-25 | 2023-02-14 |
-| [Osmose](https://open.spotify.com/track/1qWJsjvvbdFis62MybI97R) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Rayny Season](https://open.spotify.com/album/7A35ZJ6PsQskIxTnrR20kZ) | 1:34 | 2025-02-16 |  |
+| [Osmose](https://open.spotify.com/track/1qWJsjvvbdFis62MybI97R) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Rayny Season](https://open.spotify.com/album/7A35ZJ6PsQskIxTnrR20kZ) | 1:34 | 2025-02-16 | 2025-03-25 |
 | [Otohime](https://open.spotify.com/track/4q4a1ulxT3k3QwwOViJIVB) | [Kaito](https://open.spotify.com/artist/2lCgmXS37lpSjEh9TjERwg) | [Otohime](https://open.spotify.com/album/2AXlErh9GKEe81R1PMD33F) | 3:06 | 2023-10-06 | 2023-10-13 |
 | [Otoño](https://open.spotify.com/track/43iIy646LwEgRZskB3whCx) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Otoño](https://open.spotify.com/album/7AXcEGjpLnyJVDYRElWvjI) | 2:07 | 2022-11-25 | 2023-02-14 |
 | [ottos visa](https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [ottos visa](https://open.spotify.com/album/5BZ89t6bxwxcPbQAH1FXcE) | 2:53 | 2024-01-05 |  |
@@ -4949,6 +4950,7 @@
 | [Portland](https://open.spotify.com/track/7dklGgzUIW4VJEdkpDXb6z) | [Chris Punsalan](https://open.spotify.com/artist/6F9M9IjvizLuFrLZSg7E0R), [Vybe Village](https://open.spotify.com/artist/6WlHbfsgF448dcHWx2bP0P) | [Portland](https://open.spotify.com/album/5yECq5iHi52O59vIJIR6E8) | 1:44 | 2023-02-07 | 2023-04-28 |
 | [Portland Polaroid](https://open.spotify.com/track/674f0TGg4kREs57Sy60BkF) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg), [LeProdude](https://open.spotify.com/artist/1Zg71RppIywlpSLoC99gPN) | [Portland Polaroid](https://open.spotify.com/album/6TGfhTfjT0r5QqfaMAzsih) | 2:09 | 2022-03-11 | 2022-08-12 |
 | [Portugal](https://open.spotify.com/track/3veP9Z9IG4gxTa951pgVlN) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Portugal](https://open.spotify.com/album/5MmjBiPS7LyXxUidGRXgLm) | 1:57 | 2023-05-23 | 2023-07-14 |
+| [Portugale](https://open.spotify.com/track/2unwq9B3Taf2bKfPTmvvfl) | [green room](https://open.spotify.com/artist/1Bjq9Mz4rswruhp5A8ucmS) | [Portugale](https://open.spotify.com/album/4ScVeBnxfFc0x9Oy44vSSJ) | 2:47 | 2025-03-21 |  |
 | [poseidon](https://open.spotify.com/track/6MpZRAlMbG1PvjuMNtzp9t) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [poseidon](https://open.spotify.com/album/63BcmPVShgWasXts8qMikS) | 2:01 | 2024-01-26 |  |
 | [Post Truth](https://open.spotify.com/track/71UZNO2eVE8dqoThogxIin) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Post Truth](https://open.spotify.com/album/064VOoFuTQLCSlfGccJAjq) | 1:23 | 2023-03-30 | 2023-08-11 |
 | [Postscript](https://open.spotify.com/track/2IzGJOFFpV8C5MrIN4JEWr) | [These Brittle Bones](https://open.spotify.com/artist/5KlIaIphSopJ8iyuv6aYrX) | [Postscript](https://open.spotify.com/album/18VAvbPNnV5FXz8Z2fDeUa) | 4:18 | 2021-12-17 | 2022-06-24 |
@@ -5803,7 +5805,7 @@
 | [Sonora](https://open.spotify.com/track/3lXvhEIHd3tmlj9q8LMYZn) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Sonora](https://open.spotify.com/album/78CC6Sn8J6k6UaPU1YRtnx) | 1:57 | 2023-09-22 | 2023-11-11 |
 | [Sonria](https://open.spotify.com/track/6fzn8DEoLQ4yS8EWscKWh2) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Sonria](https://open.spotify.com/album/1A2ipy6ToGRmL7IxLAQzVj) | 1:56 | 2022-07-29 | 2022-11-11 |
 | [Soothing](https://open.spotify.com/track/7l8s5ZpeGf4U7IHt26NnJl) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Soothing](https://open.spotify.com/album/57U5FHh6q9JGbKzooBXkDG) | 2:18 | 2023-03-30 | 2023-09-30 |
-| [Soothing Raindrops](https://open.spotify.com/track/3xG8uvGqlHKrUsAXpQ8wuu) | [ლBird](https://open.spotify.com/artist/0VIOp3E6HQqkg2KgTWTRUW), [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [Soothing Raindrops](https://open.spotify.com/album/2HMlSnxE2OD3s3Ssqa3w1t) | 2:38 | 2024-01-19 |  |
+| [Soothing Raindrops](https://open.spotify.com/track/3xG8uvGqlHKrUsAXpQ8wuu) | [ლBird](https://open.spotify.com/artist/0VIOp3E6HQqkg2KgTWTRUW), [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [Soothing Raindrops](https://open.spotify.com/album/2HMlSnxE2OD3s3Ssqa3w1t) | 2:38 | 2024-01-19 | 2025-03-25 |
 | [soothing slow](https://open.spotify.com/track/2I1rQ8ULEI4jbh28pz2C4n) | [lo.a.pauly](https://open.spotify.com/artist/24bLJIthLjTIcLO2iw9saJ) | [soothing slow](https://open.spotify.com/album/0c0MZM1KmS06hbIlKNUGnm) | 2:04 | 2023-04-27 | 2023-12-15 |
 | [Soothing Soul](https://open.spotify.com/track/3eMevS3j71zgG6dBcIuRjh) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Soothing Soul](https://open.spotify.com/album/4htr7KOlw6sWY3iXWwDfjn) | 2:45 | 2022-06-24 | 2022-10-14 |
 | [Soothing star](https://open.spotify.com/track/1gKBkhM4UkG2aVaOlP7r2m) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV), [droemsk](https://open.spotify.com/artist/1BCaWmZ5a7IMTP5EFSPkfL) | [Soothing star](https://open.spotify.com/album/72hF6k6r7vqt8kJRwL5nyL) | 2:23 | 2022-12-23 | 2023-04-21 |

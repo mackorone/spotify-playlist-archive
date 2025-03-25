@@ -4,7 +4,7 @@
 
 > All the stuff that will blow your speakers!
 
-491 songs - 23 hr 21 min
+492 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Monsters](https://open.spotify.com/track/6MAq8P7XpeUrrQvgs7HaH4) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Monsters](https://open.spotify.com/album/3yRy0K3B5kNwmfGkwtbI9I) | 2:56 | 2024-08-01 | 2024-08-16 |
 | [Moonlight \- Rework](https://open.spotify.com/track/72Gh9sEY2u6qZr2wUvsq3R) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf) | [Moonlight \(Rework\)](https://open.spotify.com/album/2uRWXCyL1Cjrq37UkKgNVJ) | 2:12 | 2024-09-19 | 2024-12-13 |
 | [Move](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Move](https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx) | 2:59 | 2024-06-06 | 2025-01-13 |
-| [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE) | 1:45 | 2024-05-08 |  |
+| [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE) | 1:45 | 2024-05-08 | 2025-03-25 |
 | [Mwaki \- Timmy Trumpet Remix](https://open.spotify.com/track/7z50UJZ28IIBkmyLR1oKCd) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Mwaki \(Timmy Trumpet Remix\)](https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk) | 2:57 | 2024-02-01 | 2024-03-30 |
 | [My Beat Goes](https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [My Beat Goes](https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB) | 3:46 | 2023-12-14 |  |
 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 | 2024-03-07 | 2025-02-22 |
@@ -392,6 +392,7 @@
 | [Send In The Clowns](https://open.spotify.com/track/1bzx6npJsVaNqCHC1yrcfz) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-12 | 2023-10-17 |
 | [Send In The Clowns](https://open.spotify.com/track/1odvsb7xNGrPaAQ0lFQhV3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 | 2023-10-12 | 2023-10-20 |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0yOoZhgw8WodwGmRkUiAnQ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/2O28I0wjK89MANxIjqqcuW) | 2:29 | 2025-01-23 |  |
+| [Sensation](https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Sensation](https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u) | 3:21 | 2025-03-20 |  |
 | [Sensual, on Ecstasy \- Sped Up Version](https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Sensual, on Ecstasy \(Sped Up Version\)](https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7) | 5:24 | 2023-08-31 | 2024-03-14 |
 | [Set Me Free](https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr) | [BAN DELLO](https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v) | [Set Me Free](https://open.spotify.com/album/2m06bkOopa7O0bFUz7ba7Z) | 3:00 | 2024-11-07 | 2024-12-06 |
 | [Seven Nation Army](https://open.spotify.com/track/7BFwwCduDBbDG9fk9SlAYm) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [KRAIZ](https://open.spotify.com/artist/5RbgNkBwfYSM8yIYXn0Gwk) | [Seven Nation Army](https://open.spotify.com/album/3CPKAtHz1wxfXacap7HbDk) | 2:37 | 2024-07-25 | 2025-01-17 |

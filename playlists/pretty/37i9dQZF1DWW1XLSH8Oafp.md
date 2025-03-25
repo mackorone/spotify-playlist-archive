@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Confidence Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,296 likes - 150 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,260 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 60 | [Enjoy Yourself](https://open.spotify.com/track/5yXvjipyD1AcO31ZGcvCI0) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Enjoy Yourself](https://open.spotify.com/album/2JMGpsq1PPEjig8CPRdXru) | 2:52 |
 | 61 | [C'MON \- Mattu Remix](https://open.spotify.com/track/6Bi86mzhP4OV7Jg3NBLMXQ) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc), [Mattu](https://open.spotify.com/artist/1GxVO1YvMaSyl8lu7Jqrl5) | [C'MON \(Mattu Remix\)](https://open.spotify.com/album/2ONcFZ1ZDf1mmOz5c3gS90) | 2:11 |
 | 62 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
-| 63 | [lemons](https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [lemons](https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI) | 2:29 |
+| 63 | [lemons](https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [lemons](https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI) | 2:29 |
 | 64 | [We Do This](https://open.spotify.com/track/73ckVtfKPl5yQF5VCtXdrA) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [We Do This](https://open.spotify.com/album/3ed8yV3c4asmd2dTfJMADS) | 2:27 |
 | 65 | [Rhetorical Questions \(Blusher Remix\)](https://open.spotify.com/track/2yR4MZSMXfgcT5O8w5yioN) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rhetorical Questions \(Blusher Remix\)](https://open.spotify.com/album/43KW7OcT2YIJTRmkydX53b) | 2:46 |
 | 66 | [sexo virtual <3](https://open.spotify.com/track/7nq8bUgZPqbiLqVErw7XgR) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [sexo virtual <3](https://open.spotify.com/album/2n3TOU1GsBZwuuuUxiDAJF) | 2:51 |

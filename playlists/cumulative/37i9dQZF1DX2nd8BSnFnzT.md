@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Terno Rei
 
-525 songs - 1 day 5 hr 16 min
+527 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [EU E MINHAS PARANOIAS](https://open.spotify.com/track/53ylj8tXCrgUMeaYH1Pqwb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [EU E MINHAS PARANOIAS](https://open.spotify.com/album/6whjB8ocTRso6tuTNdhDtc) | 2:54 | 2022-01-14 | 2022-02-19 |
 | [Eu Faria Tudo Outra Vez](https://open.spotify.com/track/1qdKNLMA0gXKLlwnxYLia9) | [Betto Zanchi](https://open.spotify.com/artist/0lmuib0DqIGQjRKZYlUgKg) | [Eu Faria Tudo Outra Vez](https://open.spotify.com/album/1DE06AGFxzs8XlvvgFRX4c) | 3:00 | 2022-09-23 | 2023-04-15 |
 | [Eu Gosto de Rock And Roll](https://open.spotify.com/track/6oqWo4Ee1SjF1vxGhZfzMd) | [Violúdico](https://open.spotify.com/artist/5ma4JYFEJuYk7jp1XwJIF7) | [Eu Gosto de Rock And Roll](https://open.spotify.com/album/4Q0S08HoIFK30C3pGCB0jr) | 3:40 | 2022-04-15 | 2022-04-29 |
-| [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 | 2023-11-24 |  |
+| [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 | 2023-11-24 | 2025-03-25 |
 | [Eu Não Matei Joana D’Arc](https://open.spotify.com/track/3dmf5saG9vX9CnB9Ldbq9d) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N), [Os Eremitas da Montanha](https://open.spotify.com/artist/1CboKfy0paRZ5qnGHBS58u) | [Antologia Politicamente Incorreta dos Anos 80 pelo Rock](https://open.spotify.com/album/4wZppJaGUTOErkatEfLKYT) | 3:59 | 2022-05-13 | 2022-05-20 |
 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 |  |
 | [EU NÃO TÔ LEGAL](https://open.spotify.com/track/27iTXxl8tuMNdK7zolwemN) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [SUCESSO A QUALQUER CUSTO](https://open.spotify.com/album/6iVwmn3dr07JEPqNXtVwPr) | 2:27 | 2023-08-18 | 2024-01-27 |
@@ -311,6 +311,7 @@
 | [NINGUÉM SEGURA A GENTE](https://open.spotify.com/track/1IY7R5UlUoBnntviHe1Iyx) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [NINGUÉM SEGURA A GENTE](https://open.spotify.com/album/2rhWYBZjwNNftb8BXJ1ExP) | 1:21 | 2023-07-21 | 2024-03-09 |
 | [No Dope](https://open.spotify.com/track/6hK9ZwfGFXChenmoRMA3QO) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Autointitulado](https://open.spotify.com/album/11vCaFZctm7B0iZZHWF1gq) | 2:42 | 2022-01-28 | 2023-03-03 |
 | [NO FUNDO ME IMPORTO](https://open.spotify.com/track/30AQgaI2sH71GQDq1F8xHM) | [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [NO FUNDO ME IMPORTO](https://open.spotify.com/album/6nIvhEFimta5iqjv67kFhR) | 3:28 | 2024-01-26 | 2024-07-19 |
+| [No Strings Attached](https://open.spotify.com/track/6FpowdSCmaN7Kk2Sgv8QFe) | [Abraskadabra](https://open.spotify.com/artist/0YYh1MN3VtMPwamadN4xp2) | [No Strings Attached](https://open.spotify.com/album/2R3BO51lmiNLzZ8qJ8r43D) | 2:28 | 2025-03-24 |  |
 | [Nocaute](https://open.spotify.com/track/0MZt5iQS6ah3lKLZEavtoU) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Cuidado Você \(Deluxe\)](https://open.spotify.com/album/5Jj8kFZl3UoONgo9YNSHiq) | 3:10 | 2024-07-12 |  |
 | [Nome do Amor](https://open.spotify.com/track/0OvaGYo2WMvl9F9YvbG52H) | [Gus Nascimento](https://open.spotify.com/artist/2WeX0MjSzcLnqnZbbskV9q) | [Nome do Amor](https://open.spotify.com/album/1HGtq3UpIAIxsRmFSW3xlL) | 3:30 | 2022-06-03 | 2022-06-11 |
 | [Nossa Amizade](https://open.spotify.com/track/3OiDED20S9xhjGL0TZ6mb5) | [Anima Mea](https://open.spotify.com/artist/5Cu2zpWPt83iBOsNBdgvOI) | [Nossa Amizade](https://open.spotify.com/album/4ZTbVtTCuViTg5bG7v6N3J) | 3:17 | 2024-01-26 | 2024-05-03 |
@@ -395,7 +396,7 @@
 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/2eS2ehUejP0cvXId8hRPNN) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Barão 40 \(Sucessos\)](https://open.spotify.com/album/1hY5slKrrcJ3WsQ6IF3rCm) | 5:16 | 2022-09-09 | 2023-02-18 |
 | [PROFETA](https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [PROFETA](https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR) | 2:41 | 2024-10-18 | 2025-03-01 |
 | [Prova](https://open.spotify.com/track/5VLsC6rl5IYGs0ZnEk1Cv8) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Prova](https://open.spotify.com/album/6RmjVpt4iAIBOh8apPlENU) | 2:32 | 2022-09-02 | 2022-10-29 |
-| [PROVÉRBIOS](https://open.spotify.com/track/3GngykYM9zXXxcGnRiPVMG) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PROVÉRBIOS](https://open.spotify.com/album/4saG213AiMINBA9x87HViB) | 3:45 | 2024-04-26 |  |
+| [PROVÉRBIOS](https://open.spotify.com/track/3GngykYM9zXXxcGnRiPVMG) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PROVÉRBIOS](https://open.spotify.com/album/4saG213AiMINBA9x87HViB) | 3:45 | 2024-04-26 | 2025-03-25 |
 | [PROVÉRBIOS \- Ao vivo no Palco Supernova \- Rock in Rio Brasil 2024](https://open.spotify.com/track/6eM6SoD46IaCXEVqmn6DUS) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Black Pantera: Ao Vivo no Palco Supernova \- Rock in Rio Brasil 2024](https://open.spotify.com/album/6qYxd1toC2OvJw1MXUxwEt) | 3:39 | 2025-03-14 |  |
 | [Próxima Parada](https://open.spotify.com/track/42bFwHGyQYqQ4mH8xRwpev) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Próxima Parada](https://open.spotify.com/album/0befpqVNcB4LbMwhKmR2Uc) | 2:51 | 2025-03-14 |  |
 | [PURGATÓRIO](https://open.spotify.com/track/3CrwV01FCQHHsSvEX1XOWt) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VÊNUS≠netuno](https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8) | 2:37 | 2023-11-17 | 2024-06-22 |
@@ -411,6 +412,7 @@
 | [Queda Livre](https://open.spotify.com/track/6bbJfRj9tp9BN2FTqqKzIB) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 2](https://open.spotify.com/album/6o0zg6G1XY9KqwyTPmZCsV) | 3:40 | 2022-07-08 | 2022-09-03 |
 | [Queima!](https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Queima!](https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h) | 2:30 | 2022-07-29 | 2022-08-02 |
 | [QUEM NUNCA??](https://open.spotify.com/track/3LhSiMorC6IntBm252H00W) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Egypcio](https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6) | [QUEM NUNCA??](https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV) | 3:36 | 2023-11-10 |  |
+| [quero MAIS](https://open.spotify.com/track/6RKOKsO0CjpzzKrIOuRSum) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [quero MAIS](https://open.spotify.com/album/0bYca4gn3JGd723cTqNeQJ) | 2:55 | 2025-03-24 |  |
 | [Quero Ser Eu Mesmo](https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN), [Samurai Ghile](https://open.spotify.com/artist/3kSm6WL86cVmLKLTFS3G6N) | [Quero Ser Eu Mesmo](https://open.spotify.com/album/04YbltMjXDT4Kmv07nbxXO) | 3:26 | 2022-01-14 | 2022-04-16 |
 | [Quintal de Ilusões](https://open.spotify.com/track/1rtbQCSZnoqekCaYzFrgFT) | [kamposcomk](https://open.spotify.com/artist/5v7FspAp61fDlTWCdbdWmE) | [Quintal de Ilusões](https://open.spotify.com/album/6SItZTMqdkxqoUWIbNnxAt) | 3:06 | 2024-02-23 | 2024-05-03 |
 | [raiva](https://open.spotify.com/track/5ohmUHZRVYckbotO3zP30w) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [raiva](https://open.spotify.com/album/3ahG4lLXnrvZjc9Sb89BP1) | 3:15 | 2022-05-20 | 2022-09-24 |

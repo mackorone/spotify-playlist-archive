@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Jon B
 
-707 songs - 1 day 18 hr 27 min
+708 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Brown Eyed Girl](https://open.spotify.com/track/4cRILh1CrOeqPfeOao8Ygl) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Ernie Isley](https://open.spotify.com/artist/3zgBwOoVIZBiNd3wIrKnhS) | [Brown Eyed Girl](https://open.spotify.com/album/1Ku5pnag29dA2UCj7MrTc2) | 4:32 | 2023-06-16 | 2023-07-01 |
 | [Butterflies](https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Butterflies](https://open.spotify.com/album/2h1DBv3Q0QtwcqkGSrX0cE) | 2:50 | 2024-07-19 | 2024-12-19 |
 | [Cake](https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Cake](https://open.spotify.com/album/7DmA6EiEUYmVKZevOulCzI) | 3:05 | 2024-10-13 | 2024-11-23 |
-| [Call Me When You Get There Pt\. 2](https://open.spotify.com/track/1RkFjYs3gPyTkCvDbzeOR5) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Call Me When You Get There Pt\. 2](https://open.spotify.com/album/7nYy4a0aOWNsLfDgCBYwLZ) | 3:21 | 2025-02-14 |  |
+| [Call Me When You Get There Pt\. 2](https://open.spotify.com/track/1RkFjYs3gPyTkCvDbzeOR5) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Call Me When You Get There Pt\. 2](https://open.spotify.com/album/7nYy4a0aOWNsLfDgCBYwLZ) | 3:21 | 2025-02-14 | 2025-03-25 |
 | [CALM](https://open.spotify.com/track/12VPP012wzcbfcAQWp92rV) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 4:25 | 2024-11-15 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2022-08-26 | 2023-08-26 |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-08-26 | 2023-04-30 |
@@ -586,6 +586,7 @@
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-02-24 | 2023-10-11 |
 | [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 | 2023-10-17 |
 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2022-03-11 | 2022-10-15 |
+| [Stronger](https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stronger](https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga) | 2:49 | 2025-03-21 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Stuck In My Ways](https://open.spotify.com/album/0zBM2ZzLPYBSwSFV2k5LSH) | 3:37 | 2024-10-13 | 2025-02-22 |
 | [Summer Breeze](https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Summer Breeze](https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu) | 3:42 | 2022-10-14 | 2023-10-07 |
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |

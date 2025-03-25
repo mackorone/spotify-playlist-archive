@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 243816,
       "name": "100.000",
       "url": "https://open.spotify.com/track/3ONthFKTmjEkuxN6WCCRsZ"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 123280,
       "name": "1000 Sterne",
       "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "2 Meter tiefer",
+        "url": "https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234426,
+      "name": "2 Meter tiefer",
+      "url": "https://open.spotify.com/track/30uhHnDywyLLAgSGPZIOPK"
+    },
+    {
+      "album": {
         "name": "3 Sekunden (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
@@ -162,7 +180,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 174673,
       "name": "6 Minuten",
       "url": "https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI"
@@ -678,7 +696,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
@@ -918,6 +936,28 @@
       "duration_ms": 136200,
       "name": "Engel",
       "url": "https://open.spotify.com/track/46EwNycSh1V6DTtsIffbS0"
+    },
+    {
+      "album": {
+        "name": "Erinnerung",
+        "url": "https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "Erinnerung",
+      "url": "https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i"
     },
     {
       "album": {
@@ -1304,10 +1344,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 150369,
       "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
       "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
+    },
+    {
+      "album": {
+        "name": "Herzklopfen",
+        "url": "https://open.spotify.com/album/6EXiHynRnmQZXPIsQuVx2J"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154700,
+      "name": "Herzklopfen",
+      "url": "https://open.spotify.com/track/6dLWasqyHJFkQqOGTrbeLO"
     },
     {
       "album": {
@@ -1402,7 +1460,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 147973,
       "name": "Ich brauche dich",
       "url": "https://open.spotify.com/track/7qj80xIKTGfCS2JI0wzjtN"
@@ -1560,7 +1618,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 180400,
       "name": "Immerhin echt",
       "url": "https://open.spotify.com/track/2KTvsH0ggIv4K5V0ZomsPA"
@@ -1604,6 +1662,28 @@
       "duration_ms": 141290,
       "name": "in meinem kopf",
       "url": "https://open.spotify.com/track/2CbAl19E2akV4zXoCa3dW1"
+    },
+    {
+      "album": {
+        "name": "IN PROBLEME VERLIEBT",
+        "url": "https://open.spotify.com/album/2nu9ewIrsF2wa2LNsfPREW"
+      },
+      "artists": [
+        {
+          "name": "Takt32",
+          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
+        },
+        {
+          "name": "Alies",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182020,
+      "name": "IN PROBLEME VERLIEBT",
+      "url": "https://open.spotify.com/track/0es19ZwyuDtq6ZsNu2IfwB"
     },
     {
       "album": {
@@ -1901,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Leyfi",
+        "url": "https://open.spotify.com/album/1Zb8ozA5TKXIBcwUIOEkC5"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177446,
+      "name": "Leyfi",
+      "url": "https://open.spotify.com/track/6MH1qbmbOjmM2ZJSzFPnOA"
+    },
+    {
+      "album": {
         "name": "LICHTER AUS",
         "url": "https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS"
       },
@@ -2072,6 +2170,28 @@
       "duration_ms": 149000,
       "name": "L\u00fcg mich nicht an",
       "url": "https://open.spotify.com/track/4QOcHsWgyt5be1NqIw5iH6"
+    },
+    {
+      "album": {
+        "name": "Ma Baby 2",
+        "url": "https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150870,
+      "name": "Ma Baby 2",
+      "url": "https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh"
     },
     {
       "album": {
@@ -2312,7 +2432,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 228736,
       "name": "Monoton",
       "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
@@ -2392,6 +2512,24 @@
       "duration_ms": 158400,
       "name": "Narben",
       "url": "https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK"
+    },
+    {
+      "album": {
+        "name": "Nicht Perfekt",
+        "url": "https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179411,
+      "name": "Nicht Perfekt",
+      "url": "https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN"
     },
     {
       "album": {
@@ -2889,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "LEVIN LIAM LEAKS 2025",
+        "url": "https://open.spotify.com/album/4EM21MaOPc7LwPZPWUfEwv"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131315,
+      "name": "Sanduhr",
+      "url": "https://open.spotify.com/track/0hab3VhPV6LIWZbOgwm67L"
+    },
+    {
+      "album": {
         "name": "schwarze SUVs",
         "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
@@ -3220,6 +3376,24 @@
       "duration_ms": 186247,
       "name": "Uluda\u011f und Sorgen",
       "url": "https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d"
+    },
+    {
+      "album": {
+        "name": "Ungebrochen",
+        "url": "https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230546,
+      "name": "Ungebrochen",
+      "url": "https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS"
     },
     {
       "album": {
@@ -3562,7 +3736,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 171690,
       "name": "Why Does My Heart Feel So Bad? (feat. Moby)",
       "url": "https://open.spotify.com/track/1SU8huXD15iemDITwALHb3"

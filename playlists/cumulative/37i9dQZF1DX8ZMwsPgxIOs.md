@@ -2,7 +2,7 @@
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind: Adam Beyer takeover! Get your tickets for Drumcode at DRUMSHEDS <a href=https://drumshedslondon.com/event/drumcode\-london\-2025//>here</a>.
+> Techno is a state of mind: Adam Beyer takeover!
 
 500 songs - 1 day 13 hr 23 min
 

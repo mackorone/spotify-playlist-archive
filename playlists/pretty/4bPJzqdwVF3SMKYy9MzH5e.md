@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,076 songs - 4 day 15 hr 10 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,077 songs - 4 day 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2084,5 +2084,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2074 | [MOJO JOJO](https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:36 |
 | 2075 | [FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:07 |
 | 2076 | [1992 \- Sped Up Mix](https://open.spotify.com/track/476c8bUBACCdxVUto9sbxA) | [No\_4mat](https://open.spotify.com/artist/0KWgRtUbQXSiICkWp7g213) | [1992 \(Sped Up + Slowed Mixes\)](https://open.spotify.com/album/46pdmAc5MqLcOWz5c7aQzk) | 1:29 |
+| 2077 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 |
 
-Snapshot ID: `AAAD5QfEofCKGvN+WqxuK5fl9Fkl7Por`
+Snapshot ID: `AAAD5lLTNda7TualZ5tjD9wreBmOVaSg`

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125462,
+  "num_followers": 125466,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT1YJTWeEzeJRUDjLS+MxsL9vk+C37",
+  "snapshot_id": "AAAT1rV1/GCx9+rap2H5+RZvUxbrzoyV",
   "tracks": [
+    {
+      "added_at": "2025-03-24 14:11:57",
+      "album": {
+        "name": "Blood in the Water",
+        "url": "https://open.spotify.com/album/47QSSm5YYzXzbe2ABmcfds"
+      },
+      "artists": [
+        {
+          "name": "Protostar",
+          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
+        },
+        {
+          "name": "Laminar",
+          "url": "https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "duration_ms": 255743,
+      "name": "Blood in the Water",
+      "url": "https://open.spotify.com/track/64LJtrzSzV08fQ9R1CgRak"
+    },
     {
       "added_at": "2025-03-21 14:49:39",
       "album": {

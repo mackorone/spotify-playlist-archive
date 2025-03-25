@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,135,797 likes - 198 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,135,814 likes - 198 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 104 | [Not Chinese Food](https://open.spotify.com/track/1pCXHVpLYsI43foeqhi88x) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:49 |
 | 105 | [We'll Meet Again](https://open.spotify.com/track/1mPDy9ZXL0QvARgyACMFxS) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:58 |
 | 106 | [Six Facts](https://open.spotify.com/track/1mXodH7QcmZuU2D9IuAlkx) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:03 |
-| 107 | [Strike Zone](https://open.spotify.com/track/3YzmA5gwimciQ5AZyKSd4w) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [KEEP IT UP](https://open.spotify.com/album/5n81anOT1X7UnSHtq4PL2i) | 6:00 |
+| 107 | [Strike Zone](https://open.spotify.com/track/3YzmA5gwimciQ5AZyKSd4w) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Keep It Up](https://open.spotify.com/album/5n81anOT1X7UnSHtq4PL2i) | 6:00 |
 | 108 | [Stairway Chase \- Midnight Run/Soundtrack Version](https://open.spotify.com/track/05lbekVWHDS9M6IGyFf3DJ) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Midnight Run](https://open.spotify.com/album/7aPehd0iXm8oiI8VvIipQ0) | 0:54 |
 | 109 | [A Certain Kind of Feeling](https://open.spotify.com/track/7cPiktgYyO08Gwh66IDBlf) | [John Anthony](https://open.spotify.com/artist/4YXQFr6uLQ9QAQFsKYetGa) | [Golden Guitar Years](https://open.spotify.com/album/1yrrjgxtLP1HRjpW7xKxNq) | 3:20 |
 | 110 | [Boogie Man](https://open.spotify.com/track/79cQrs3nLQ7J3t5jJXSo2z) | [Sid Phillips](https://open.spotify.com/artist/33Esqj5IXYL4uVyhFc3yKS) | [Archives 6 \- 1940s and 1950s](https://open.spotify.com/album/4DN7kCBbGdlstHWvPeYEST) | 2:26 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind: Adam Beyer takeover! Get your tickets for Drumcode at DRUMSHEDS <a href=https://drumshedslondon.com/event/drumcode\-london\-2025//>here</a>.
+> Techno is a state of mind: Adam Beyer takeover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,539 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,581 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 99 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
 | 100 | [Reflections](https://open.spotify.com/track/3iGqK1cxsegZS0r34kYLDm) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Reflections](https://open.spotify.com/album/5dbxq2t69Uw9V2kKOEtqCu) | 4:47 |
 
-Snapshot ID: `Z9takgAAAAAeqTuE3KGNMMsdM8KsXr9C`
+Snapshot ID: `Z+E9nAAAAADAiD4DbiIPQ/1Mq3ageICr`

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-678 songs - 1 day 6 hr 56 min
+679 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Do It Over](https://open.spotify.com/track/2lEGr8w1XYJ2cyRoKrGui7) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Do It Over](https://open.spotify.com/album/38lfw021YLO2OWKwHcvZUb) | 3:17 | 2021-11-16 | 2022-02-19 |
 | [DON'T GO](https://open.spotify.com/track/27yUP9TuKvq79adnq0jjAL) | [Kayps](https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [DON'T GO](https://open.spotify.com/album/3tOS1tlJPl6F539lKeslAq) | 1:58 | 2023-03-17 | 2023-04-09 |
 | [Don't Matter](https://open.spotify.com/track/3lbHMI0nkBhZPnbb4jnzhK) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Don't Matter](https://open.spotify.com/album/2ZgpmixiU543Vpseg7s04E) | 2:26 | 2022-11-11 | 2022-12-21 |
+| [Don't Trip](https://open.spotify.com/track/4kYzEV2PbBVUzrU5G6AScl) | [B00sted](https://open.spotify.com/artist/4euUANc6f6VpwUfymwi1Ju) | [Don't Trip](https://open.spotify.com/album/6Om2bXRbFBpO6Lttp7Iqcb) | 2:17 | 2025-03-24 |  |
 | [Don't Wanna Fall In Love](https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 3:52 | 2022-04-04 | 2022-07-09 |
 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 | 2024-10-18 |  |
 | [Doses](https://open.spotify.com/track/7BuzrXNz1be3Ko6r77fGJK) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Doses](https://open.spotify.com/album/0g8Vpwny9zWPCbZehp2OJn) | 3:12 | 2021-11-16 | 2022-02-19 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,109 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,128 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
-| 2 | [Right Where I'm Supposed to Be](https://open.spotify.com/track/0EJgN1QHZ7aIWT2ggqZL5C) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm Him 2](https://open.spotify.com/album/4qcdBStuMPfHMYOUzqBjbp) | 2:12 |
-| 3 | [War](https://open.spotify.com/track/0KFBeOOgwCtOgn8yucRy1X) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [War](https://open.spotify.com/album/5yiHTjdshcqtHKlmiJ5I6Y) | 2:50 |
-| 4 | [ALERT](https://open.spotify.com/track/5TEHc0XCXLrD4avIxeUFMy) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [ALERT](https://open.spotify.com/album/5S8apcg3hbln0Pgt0Ssq5S) | 2:26 |
+| 2 | [Heaven Sent](https://open.spotify.com/track/3oRjAEpFOlbXltuQklNVhE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Heaven Sent](https://open.spotify.com/album/58Nvt6xXv8XCuIqRWNTumw) | 2:05 |
+| 3 | [Right Where I'm Supposed to Be](https://open.spotify.com/track/0EJgN1QHZ7aIWT2ggqZL5C) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm Him 2](https://open.spotify.com/album/4qcdBStuMPfHMYOUzqBjbp) | 2:12 |
+| 4 | [War](https://open.spotify.com/track/0KFBeOOgwCtOgn8yucRy1X) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [War](https://open.spotify.com/album/5yiHTjdshcqtHKlmiJ5I6Y) | 2:50 |
 | 5 | [Woke Up This Morning](https://open.spotify.com/track/0T22HzueBkYKi1whnS1YiN) | [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [Woke Up This Morning](https://open.spotify.com/album/1s3ijlyu1aRrxHy8ELBZyb) | 2:12 |
 | 6 | [I Need Help](https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [I Need Help](https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2) | 2:48 |
 | 7 | [Still Here](https://open.spotify.com/track/2cuI3ZFQxp92Lw2Udgwucw) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Still Here](https://open.spotify.com/album/5CX6SJZM34BEFTBujK9T9i) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Thank You](https://open.spotify.com/track/0qGSovU6VNe2p5cT63jq99) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Thank You](https://open.spotify.com/album/2K0o1pR9VC9EAtuZQflDYg) | 5:09 |
 | 80 | [BEAUTIFUL SCARS \(feat\. OBanga\)](https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [OBanga](https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv) | [BEAUTIFUL SCARS \(feat\. OBanga\)](https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp) | 3:46 |
 
-Snapshot ID: `Z9zkfAAAAADL+YpYDy0wJQsoTF37nJto`
+Snapshot ID: `Z+GuQQAAAAAzi5e9nOGZzYzFqgOcRbke`

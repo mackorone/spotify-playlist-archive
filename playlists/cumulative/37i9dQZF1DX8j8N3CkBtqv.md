@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Divyam Sodhi, Khwaab, Hanita Bhambri and other exciting artists.
 
-1,012 songs - 2 day 7 hr 15 min
+1,013 songs - 2 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Alone](https://open.spotify.com/track/5as5nPPMgQe8d6ckvsbam2) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Alone](https://open.spotify.com/album/2yChy4tPTlcy4cZ31dASyr) | 2:48 | 2023-10-20 | 2023-11-11 |
 | [Alone](https://open.spotify.com/track/07BBjWSQWHrmQ5HHoO09i9) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Alone](https://open.spotify.com/album/0yjjoGvVbYQQ2xlpI6Vfom) | 2:48 | 2023-10-06 | 2023-11-08 |
 | [Alvida](https://open.spotify.com/track/5thblsAqf4jB54nfOOEjRY) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Alvida](https://open.spotify.com/album/3fvJ9WSPLaz2ZV1COObTsF) | 4:56 | 2024-09-20 | 2024-10-26 |
-| [Anjaana](https://open.spotify.com/track/6bBLCABXWOSTv7W4anHyhs) | [Gravero](https://open.spotify.com/artist/0g4FyrO2K2vs07oAwWraAj), [NVKE](https://open.spotify.com/artist/4LWCduPbzGdOh1JiHMDRvg), [Vasu Kainth](https://open.spotify.com/artist/4ABmINOwfRxQr5SDuEsoCp) | [Anjaana](https://open.spotify.com/album/5klVox3HFspgDZLvOdokqT) | 3:22 | 2025-01-17 |  |
+| [Anjaana](https://open.spotify.com/track/6bBLCABXWOSTv7W4anHyhs) | [Gravero](https://open.spotify.com/artist/0g4FyrO2K2vs07oAwWraAj), [NVKE](https://open.spotify.com/artist/4LWCduPbzGdOh1JiHMDRvg), [Vasu Kainth](https://open.spotify.com/artist/4ABmINOwfRxQr5SDuEsoCp) | [Anjaana](https://open.spotify.com/album/5klVox3HFspgDZLvOdokqT) | 3:22 | 2025-01-17 | 2025-03-25 |
 | [Anjaana](https://open.spotify.com/track/3ebbxhIuOz0Fj2hS1Onxx4) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Anup Satam](https://open.spotify.com/artist/3n9JV7cfpRT3PiLLO2ckHf) | [Anjaana](https://open.spotify.com/album/6JZ21dZJTtAFC1EA1KsAXN) | 3:28 | 2024-01-26 | 2024-02-24 |
 | [Antariksh](https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Antariksh](https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj) | 2:45 | 2023-05-19 | 2023-07-15 |
 | [Antihero](https://open.spotify.com/track/0tmVekD1MN9NDAKntGbOyO) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Antihero](https://open.spotify.com/album/1mWgasxdZFASpH5ITWiVw8) | 3:33 | 2023-10-20 | 2023-11-25 |
@@ -331,6 +331,7 @@
 | [Heartrate](https://open.spotify.com/track/5eIpJTGFOmhTvqhoSUgatA) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Alawn](https://open.spotify.com/artist/63v5XfKCQ3evu4ySkziIEZ) | [Heartrate](https://open.spotify.com/album/1T2eznFNyLN4vDATnHpcRy) | 2:42 | 2024-12-13 | 2025-01-11 |
 | [Heaven Made Ishq](https://open.spotify.com/track/1Hdb1FkpQG4gv4Y2lMGqqR) | [Vinay Katoch](https://open.spotify.com/artist/0X7ulxroScmdiJuVS2nAce) | [Heaven Made Ishq](https://open.spotify.com/album/7kCEhdHENF145d0HDSPiUU) | 3:44 | 2023-10-13 | 2023-11-18 |
 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 | 2024-08-23 | 2024-11-09 |
+| [Hey Aisha](https://open.spotify.com/track/5MBc50q8DgItOwgeHx5zav) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Hey Aisha](https://open.spotify.com/album/23ikRwidyOtMo336MTwyBS) | 2:42 | 2025-03-21 |  |
 | [Hiraeth](https://open.spotify.com/track/4pTzZRo3JVA61E4ZoMYCbC) | [HEMANSHI](https://open.spotify.com/artist/2xdamRjIF9E9zAI11rT0Vx) | [Hiraeth](https://open.spotify.com/album/4ouPdUvSeHtwPlQ4h25ByJ) | 3:24 | 2024-09-20 | 2024-10-19 |
 | [Hissa](https://open.spotify.com/track/2qJZtHjoPd4kTW9yks7fQI) | [Kartik Sachdeva](https://open.spotify.com/artist/2rTtNkwWNAdHbfPhmCzCFx), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Hissa](https://open.spotify.com/album/2p0uXXaoRE4veYx6XOQi9k) | 2:42 | 2024-04-26 | 2024-06-29 |
 | [Ho Jo Tu Saamne Mere](https://open.spotify.com/track/2KUL4RwUKHRHnKJ8HnQi34) | [Mohit dogra](https://open.spotify.com/artist/0YhaFoYZeuu2Bnuf2EnjVH), [JUNAID AHMED](https://open.spotify.com/artist/1BvmJTLuPCi65qVZ3QsSih), [Shreya Bajpai](https://open.spotify.com/artist/5KseHb3FbamXt1d0P5SS4N) | [Ho Jo Tu Saamne Mere](https://open.spotify.com/album/1HZfKhqALlkOlGE6DxxDZd) | 3:17 | 2024-02-10 | 2024-03-02 |

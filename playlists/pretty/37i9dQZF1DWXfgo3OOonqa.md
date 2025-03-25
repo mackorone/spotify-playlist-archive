@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,995 likes - 106 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,998 likes - 106 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 11 | [DRUNK AND LOVED](https://open.spotify.com/track/7yN6x2Hhlfk0Gssv1Fu39v) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DRUNK AND LOVED](https://open.spotify.com/album/3WXEivTwwkiYGxhFsaijxx) | 2:41 |
 | 12 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |
 | 13 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
-| 14 | [ÄR DU KVAR?](https://open.spotify.com/track/5u0pr0bLjfWZuJt08xWA2i) | [Ravin](https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm) | [ÄR DU KVAR?](https://open.spotify.com/album/1ELaFleNs2CVcs09HT4okI) | 2:02 |
-| 15 | [4LIFE](https://open.spotify.com/track/2fqY6Sw40xnB6y1SPHFnIN) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [4LIFE](https://open.spotify.com/album/3mnUnUKdtRGL4KrYMmauoC) | 2:45 |
+| 14 | [4LIFE](https://open.spotify.com/track/2fqY6Sw40xnB6y1SPHFnIN) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [4LIFE](https://open.spotify.com/album/3mnUnUKdtRGL4KrYMmauoC) | 2:45 |
+| 15 | [Kriga](https://open.spotify.com/track/5E9vggvjMWnJdfX8RGP4Kd) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Kriga](https://open.spotify.com/album/13pjLf4uNELarvRt4RRVfC) | 2:10 |
 | 16 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 |
-| 17 | [Kriga](https://open.spotify.com/track/5E9vggvjMWnJdfX8RGP4Kd) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Kriga](https://open.spotify.com/album/13pjLf4uNELarvRt4RRVfC) | 2:10 |
-| 18 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 |
-| 19 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
-| 20 | [ord mot ord](https://open.spotify.com/track/5KqdQSnwZHvSkzjfBToKga) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [ord mot ord](https://open.spotify.com/album/57O0oZw1dXNehqQmLQdlwB) | 2:39 |
+| 17 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 |
+| 18 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
+| 19 | [ord mot ord](https://open.spotify.com/track/5KqdQSnwZHvSkzjfBToKga) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [ord mot ord](https://open.spotify.com/album/57O0oZw1dXNehqQmLQdlwB) | 2:39 |
+| 20 | [ÄR DU KVAR?](https://open.spotify.com/track/5u0pr0bLjfWZuJt08xWA2i) | [Ravin](https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm) | [ÄR DU KVAR?](https://open.spotify.com/album/1ELaFleNs2CVcs09HT4okI) | 2:02 |
 | 21 | [Händerna Mot Pannan](https://open.spotify.com/track/76KpCGl9YQ4cUFSgU9dMX8) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [Händerna Mot Pannan](https://open.spotify.com/album/2Y7WZ6XHe4jsNOW82sGN0s) | 2:48 |
 | 22 | [LYFTER](https://open.spotify.com/track/5ydBK5gDFVVZlbX6KU9VO5) | [nOnting](https://open.spotify.com/artist/2ZE4QDUxlhBy82CQidNTxJ) | [LYFTER](https://open.spotify.com/album/2JOcNikcgGNYHrUEdAr1b0) | 2:18 |
 | 23 | [Lila](https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lila](https://open.spotify.com/album/5FCD1dm5HTiUmDGeSAanFs) | 2:15 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 105 | [Burna Boy](https://open.spotify.com/track/2F2ZiGOzgHJ1uAlzDjoNlV) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1) | [Burna Boy](https://open.spotify.com/album/3VnYNpptu0Nbatuhz2nglz) | 2:12 |
 | 106 | [UPPKÄFTIG](https://open.spotify.com/track/5devaSNJcbsvW4IDOfZpgr) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [UPPKÄFTIG](https://open.spotify.com/album/4TpjaYpDpfPRrcX2sUE9OB) | 2:08 |
 
-Snapshot ID: `Z9yeBgAAAAAk6fmob1DzI4o0P1cvoqGm`
+Snapshot ID: `Z+EQvgAAAACuUpky8kircK8XEDBme3QJ`

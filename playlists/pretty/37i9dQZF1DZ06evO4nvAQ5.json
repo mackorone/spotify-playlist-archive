@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15096,
+  "num_followers": 15102,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z939gAAAAACs/N3bs+1V9tFTF0EjPvhb",
+  "snapshot_id": "Z99PAAAAAABEERr+t4DlJuyN4kX7CrxN",
   "tracks": [
     {
       "added_at": null,
@@ -851,26 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OILEI",
-        "url": "https://open.spotify.com/album/5QuXzMxfzTnbEjaSInFJGP"
+        "name": "J Boog - EP",
+        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
       },
       "artists": [
         {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fia",
-          "url": "https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W"
         }
       ],
-      "duration_ms": 180173,
-      "name": "OILEI",
-      "url": "https://open.spotify.com/track/1Yy7BIwEgAN8sLoag73Wws"
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"
     },
     {
       "added_at": null,
@@ -891,18 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog - EP",
-        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
+        "name": "OILEI",
+        "url": "https://open.spotify.com/album/5QuXzMxfzTnbEjaSInFJGP"
       },
       "artists": [
         {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fia",
+          "url": "https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W"
         }
       ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"
+      "duration_ms": 180173,
+      "name": "OILEI",
+      "url": "https://open.spotify.com/track/1Yy7BIwEgAN8sLoag73Wws"
     },
     {
       "added_at": null,

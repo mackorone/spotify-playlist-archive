@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/6cTCQadznFMnTs5L2qASr2"
+      },
+      "artists": [
+        {
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271475,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/4tqtM60N1uebSSaHbhP5kr"
+    },
+    {
+      "album": {
         "name": "Back On 74 (Rework)",
         "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
       },
@@ -225,6 +243,32 @@
     },
     {
       "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
+    },
+    {
+      "album": {
         "name": "Bailemos",
         "url": "https://open.spotify.com/album/2tFgPPGJFURXkDIPMLm8tj"
       },
@@ -244,7 +288,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 206129,
       "name": "Bailemos",
       "url": "https://open.spotify.com/track/0Q3dJttX9WCrWhXa9oJ2H7"
@@ -266,7 +310,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 317400,
       "name": "Broke in Pieces - Da Mike Remix",
       "url": "https://open.spotify.com/track/1mrYJPQk0RVslIPRPCdLOY"
@@ -398,6 +442,28 @@
       "duration_ms": 196697,
       "name": "DIPLOMATICO",
       "url": "https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk"
+    },
+    {
+      "album": {
+        "name": "Dont Stress Me Remix",
+        "url": "https://open.spotify.com/album/5vJbIzL3f7AzRyJcqrSUud"
+      },
+      "artists": [
+        {
+          "name": "DSF",
+          "url": "https://open.spotify.com/artist/3K2gZWyRAOJH7Wlek8VOBC"
+        },
+        {
+          "name": "CISUMMI",
+          "url": "https://open.spotify.com/artist/3TndCXavazaX36ikXqPIcq"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "Dont Stress Me - CISUMMI Remix",
+      "url": "https://open.spotify.com/track/7vXFM4Gwv2ETNQRPtOR8FS"
     },
     {
       "album": {
@@ -1080,7 +1146,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 194504,
       "name": "Prayer in C - Nitefreak Remix",
       "url": "https://open.spotify.com/track/7n7Ng4zFYfjNsOiDrczya5"
@@ -1412,7 +1478,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 416014,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
@@ -1438,6 +1504,24 @@
       "duration_ms": 240000,
       "name": "Waka Waka",
       "url": "https://open.spotify.com/track/6ldDfax9utzz1AbtAghcJV"
+    },
+    {
+      "album": {
+        "name": "What Are You Fighting For?",
+        "url": "https://open.spotify.com/album/26611Va1iKRiIW7vjmC7wq"
+      },
+      "artists": [
+        {
+          "name": "MP3",
+          "url": "https://open.spotify.com/artist/3mGlF6auEAbK1Z9q0VtsjB"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "What Are You Fighting For?",
+      "url": "https://open.spotify.com/track/3X9gX44aXXBrcYRsntDjYP"
     },
     {
       "album": {

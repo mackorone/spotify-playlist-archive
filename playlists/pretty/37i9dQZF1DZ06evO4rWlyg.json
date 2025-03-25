@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 143049,
+  "num_followers": 143072,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z939gAAAAACkRkiImsMvDlEwEBxYAZHw",
+  "snapshot_id": "Z99PAAAAAADnGgRDS2wOJTC/F6pg9kNe",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venus As A Boy",
-        "url": "https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m"
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 253533,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/13UgnCvGXgcnzRmkSD5VAU"
+      "duration_ms": 199293,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
     },
     {
       "added_at": null,
@@ -403,6 +403,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Venus As A Boy",
+        "url": "https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/13UgnCvGXgcnzRmkSD5VAU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 44405,
+      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
+      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homogenic",
         "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
@@ -412,9 +444,25 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 199293,
-      "name": "Pluto",
-      "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
+      "duration_ms": 186266,
+      "name": "Immature - Mark Bell's Version",
+      "url": "https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -451,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 308960,
-      "name": "It's Not Up To You",
-      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homogenic",
         "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
@@ -476,9 +508,25 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 186266,
-      "name": "Immature - Mark Bell's Version",
-      "url": "https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA"
+      "duration_ms": 269066,
+      "name": "5 Years",
+      "url": "https://open.spotify.com/track/3mmB2OL6YP2FwMR6eQ5mp5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 338400,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
     },
     {
       "added_at": null,
@@ -515,38 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 338400,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "5 Years",
-      "url": "https://open.spotify.com/track/3mmB2OL6YP2FwMR6eQ5mp5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pagan Poetry",
         "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
       },
@@ -570,11 +586,15 @@
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
         }
       ],
-      "duration_ms": 44405,
-      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
-      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
+      "duration_ms": 286903,
+      "name": "Atopos",
+      "url": "https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc"
     },
     {
       "added_at": null,
@@ -627,26 +647,6 @@
       "duration_ms": 180200,
       "name": "History Of Touches",
       "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Kasimyn",
-          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
-        }
-      ],
-      "duration_ms": 286903,
-      "name": "Atopos",
-      "url": "https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc"
     },
     {
       "added_at": null,

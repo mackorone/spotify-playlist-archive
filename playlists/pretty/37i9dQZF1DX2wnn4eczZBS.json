@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: LE MOTAT",
-  "num_followers": 10019,
+  "num_followers": 10022,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Ballenbak",
-        "url": "https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ"
-      },
-      "artists": [
-        {
-          "name": "Maartje",
-          "url": "https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA"
-        }
-      ],
-      "duration_ms": 157253,
-      "name": "Ballenbak",
-      "url": "https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "Lach",
         "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 186600,
       "name": "Lach",
       "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "Ballenbak",
+        "url": "https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ"
+      },
+      "artists": [
+        {
+          "name": "Maartje",
+          "url": "https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA"
+        }
+      ],
+      "duration_ms": 157253,
+      "name": "Ballenbak",
+      "url": "https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
+        "name": "Spijbelaar",
+        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "duration_ms": 216582,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
         "name": "David Bowie/Beckham",
         "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 163261,
       "name": "Het Vliegt Voorbij",
       "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
-        "name": "Spijbelaar",
-        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
-      },
-      "artists": [
-        {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
-        }
-      ],
-      "duration_ms": 216582,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Context",
-        "url": "https://open.spotify.com/album/0dKVmAfWPz7JOoxuTXv83O"
-      },
-      "artists": [
-        {
-          "name": "Nelcon",
-          "url": "https://open.spotify.com/artist/61xqUrJF99VPEWL442d7R9"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Alles goed?",
-      "url": "https://open.spotify.com/track/4ipYkev86TwpdpLNxFzcOG"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "Naar de Stad",
         "url": "https://open.spotify.com/album/1UK8ZH7gSxr6qEPH0HMh9O"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 179297,
       "name": "Naar de Stad",
       "url": "https://open.spotify.com/track/6FCgiuKSCNEL0OByqSyaHV"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "Context",
+        "url": "https://open.spotify.com/album/0dKVmAfWPz7JOoxuTXv83O"
+      },
+      "artists": [
+        {
+          "name": "Nelcon",
+          "url": "https://open.spotify.com/artist/61xqUrJF99VPEWL442d7R9"
+        }
+      ],
+      "duration_ms": 142151,
+      "name": "Alles goed?",
+      "url": "https://open.spotify.com/track/4ipYkev86TwpdpLNxFzcOG"
     },
     {
       "added_at": "2025-03-20 23:00:21",

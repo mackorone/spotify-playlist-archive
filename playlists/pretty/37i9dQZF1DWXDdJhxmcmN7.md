@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > Beats lo\-fi con sabor mexa\. Takeover: Chill&Go\. Arte: Lis Marroquin
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,949 likes - 60 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,967 likes - 60 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 31 | [Mi tierra](https://open.spotify.com/track/30bFkZVlFbKsYxRoR1JUmf) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [México lofi](https://open.spotify.com/album/1B9IWojkmn40BhjoinC6hQ) | 1:57 |
 | 32 | [Lo\-Fi en la Fila de la Tortilleria](https://open.spotify.com/track/0gPUW4qsIqJYUQ39bLpsca) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi en la Fila de la Tortilleria](https://open.spotify.com/album/0jyumxuWRrgx7YvxtgthGs) | 3:17 |
 | 33 | [Trompo de Pastor](https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt) | [Omar Juárez](https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2) | [Trompo de Pastor](https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk) | 2:30 |
-| 34 | [Taco de barbacoa](https://open.spotify.com/track/0HmemevuitE85g3zqOVk78) | [hazzelbeats](https://open.spotify.com/artist/3dT7oRtDgSIB5HENQ223Nb), [Jintan](https://open.spotify.com/artist/0gJ5W1d93HtmOhINhMe0WY) | [Taco de barbacoa](https://open.spotify.com/album/4tHJKkqpiJ5ccLFA7LdYrY) | 2:30 |
-| 35 | [ajijic, jalisco](https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8), [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [ajijic, jalisco](https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV) | 3:22 |
+| 34 | [ajijic, jalisco](https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8), [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [ajijic, jalisco](https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV) | 3:22 |
+| 35 | [Taco de barbacoa](https://open.spotify.com/track/0HmemevuitE85g3zqOVk78) | [hazzelbeats](https://open.spotify.com/artist/3dT7oRtDgSIB5HENQ223Nb), [Jintan](https://open.spotify.com/artist/0gJ5W1d93HtmOhINhMe0WY) | [Taco de barbacoa](https://open.spotify.com/album/4tHJKkqpiJ5ccLFA7LdYrY) | 2:30 |
 | 36 | [Arrebol](https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy) | [Gagdropers](https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf) | [22](https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw) | 2:12 |
 | 37 | [Shiny](https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Shiny](https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi) | 2:09 |
 | 38 | [Sonora Sunset](https://open.spotify.com/track/5L43t8y0vjwa8MDHySdVz0) | [Shō.gun](https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8) | [Sonora Sunset](https://open.spotify.com/album/0pRI7eDfbsp8CTNyR3bgUy) | 2:01 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 51 | [la zona](https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM) | [SUNNO](https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq) | [la zona](https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx) | 2:04 |
 | 52 | [En el Cielo](https://open.spotify.com/track/5DJGKa53WG0Pn9szJjQ60I) | [Bandido Beat](https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL) | [En el Cielo](https://open.spotify.com/album/4yE40cxEjhBueMrHhYCRno) | 5:30 |
 | 53 | [lavender latte](https://open.spotify.com/track/1gRfQnwZEcbbkucYGdbe3s) | [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [lavender latte](https://open.spotify.com/album/6MP5IP8ISceZd8YZGL6H4W) | 2:02 |
-| 54 | [Taco Envenenado](https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4) | [Aguachill](https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Taco Envenenado](https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW) | 1:58 |
+| 54 | [Sunny Day](https://open.spotify.com/track/4kKKdnlF6IdudQcwnjnTkH) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5), [Clipsheet](https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2) | [Sunny Day](https://open.spotify.com/album/5v8MUduPnrFiMUIvZyfS1q) | 1:44 |
 | 55 | [Me gusta el Sol, el buen cigarro y la mala señora](https://open.spotify.com/track/1KvNhuk22WvMiaFFy0kr4W) | [Suerte Lo\-Fi](https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX) | [Me gusta el Sol, el buen cigarro y la mala señora](https://open.spotify.com/album/0ePX9nW3rs2tleV8wP1mnn) | 1:42 |
-| 56 | [Sunny Day](https://open.spotify.com/track/4kKKdnlF6IdudQcwnjnTkH) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5), [Clipsheet](https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2) | [Sunny Day](https://open.spotify.com/album/5v8MUduPnrFiMUIvZyfS1q) | 1:44 |
+| 56 | [Taco Envenenado](https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4) | [Aguachill](https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Taco Envenenado](https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW) | 1:58 |
 | 57 | [Los Vinilos de Mi Abuelo](https://open.spotify.com/track/066KFPg9SDg95q5Gbzgu06) | [Unsxgned](https://open.spotify.com/artist/3OAjPREfc1vOHOBQp4f4z6) | [Los Vinilos de Mi Abuelo](https://open.spotify.com/album/5ydNvh7aeSfYrPWL2Q7r7I) | 2:45 |
 | 58 | [Another Chrismast](https://open.spotify.com/track/32Mk9n4NLiQ2UJs73xGpvo) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Another Chrismast](https://open.spotify.com/album/1sMBHtMqurzzvcG67UhWFo) | 2:23 |
 | 59 | [Nimbo](https://open.spotify.com/track/4CFFQpQm9Mn3fSruzOIw74) | [Kebyn Moon](https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV), [Ian Franco](https://open.spotify.com/artist/5vFcmgMFHRuuEa6yGyegkz) | [Moonberry](https://open.spotify.com/album/4niIBIv2crfcrkaSw4y7Hd) | 1:31 |

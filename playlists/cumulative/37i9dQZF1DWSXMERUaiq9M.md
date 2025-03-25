@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-455 songs - 1 day 4 hr 49 min
+456 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/track/1O7pI4ybNEMxp4LlHvs3Wt) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/album/5wXSYWE44yMtGpsmsMlW9F) | 1:48 | 2024-03-22 | 2024-12-29 |
 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 | 2023-10-20 | 2024-08-23 |
 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 | 2024-07-04 |  |
+| [Blade](https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Blade](https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY) | 2:48 | 2025-03-24 |  |
 | [Blah Blah Blah \- Lilly Palmer Remix](https://open.spotify.com/track/21aEJ91bw1NPPi0n0oQwOQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Blah Blah Blah \(Lilly Palmer Remix\)](https://open.spotify.com/album/4qeYTHSRWhb87wSI2RBZz6) | 3:34 | 2024-11-11 | 2024-12-10 |
 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 | 2023-03-25 | 2024-08-11 |
 | [Blow Ya Mind \- DJ Daddy Trance Remix](https://open.spotify.com/track/3iLQehOg4428qsiYSDrRqN) | [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Blow Ya Mind \(DJ Daddy Trance Remix\)](https://open.spotify.com/album/7BfuBVZAwSaFBV4WSDsB2O) | 3:03 | 2023-11-23 | 2024-04-26 |
@@ -118,7 +119,7 @@
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-16 | 2024-11-07 |
 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 | 2023-03-10 | 2023-06-29 |
 | [Edwin Rosen Vertigo \- Academic Remix](https://open.spotify.com/track/7960s9wdbpgSwGFg2SxHtj) | [Edwin Rosen](https://open.spotify.com/artist/5P7LNVuQRN9Ath8svUaUnV), [Academic](https://open.spotify.com/artist/2sUryncO3HHMUDslIciLZk) | [Edwin Rosen Vertigo \(Academic Remix\)](https://open.spotify.com/album/5G18wJMs69jln4Aw8ZpAFb) | 3:52 | 2023-03-22 | 2023-03-23 |
-| [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 |  |
+| [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 | 2025-03-25 |
 | [Elektra](https://open.spotify.com/track/01e8d1lr1fFyPuIGOCRnRG) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [White Keys Vol.2](https://open.spotify.com/album/73JNp7GCaS3sh9QBCY6uOY) | 7:05 | 2023-08-10 | 2023-08-19 |
 | [ELEMENTS 2](https://open.spotify.com/track/41ms08jzNzvkdFjWVyeiE7) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [ELEMENTS 2](https://open.spotify.com/album/5rYkb1JeOzm6I1QzDV5ozq) | 3:51 | 2024-12-28 | 2025-01-07 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2023-03-10 | 2023-06-06 |

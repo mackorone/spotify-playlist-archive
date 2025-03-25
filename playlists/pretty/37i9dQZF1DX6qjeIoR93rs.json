@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 78002,
+  "num_followers": 78022,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
+        "name": "Gaza - Tradition musicale palestinienne",
+        "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
+      },
+      "artists": [
+        {
+          "name": "Ensemble Musical De Palestine",
+          "url": "https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Mayel ya Ghuzayel",
+      "url": "https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9"
+    },
+    {
+      "added_at": "2025-02-14 07:09:03",
+      "album": {
         "name": "Sobo El Gahwa",
         "url": "https://open.spotify.com/album/7ylO1Fv0pXSm89nnuQyuhX"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 260555,
       "name": "Sobo El Gahwa",
       "url": "https://open.spotify.com/track/2huCtJ3Sql6a4P74wbzogy"
-    },
-    {
-      "added_at": "2025-02-14 07:09:03",
-      "album": {
-        "name": "Gaza - Tradition musicale palestinienne",
-        "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
-      },
-      "artists": [
-        {
-          "name": "Ensemble Musical De Palestine",
-          "url": "https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Mayel ya Ghuzayel",
-      "url": "https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9"
     },
     {
       "added_at": "2025-02-14 07:09:03",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
-        "name": "Le meilleur, vol.1",
-        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
-      },
-      "artists": [
-        {
-          "name": "Nass El Ghiwane",
-          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
-        }
-      ],
-      "duration_ms": 383333,
-      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
-      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
-    },
-    {
-      "added_at": "2025-02-14 07:09:03",
-      "album": {
         "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
         "url": "https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 169970,
       "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
+    },
+    {
+      "added_at": "2025-02-14 07:09:03",
+      "album": {
+        "name": "Le meilleur, vol.1",
+        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
+      },
+      "artists": [
+        {
+          "name": "Nass El Ghiwane",
+          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
+        }
+      ],
+      "duration_ms": 383333,
+      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
+      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
     },
     {
       "added_at": "2025-02-14 07:09:03",

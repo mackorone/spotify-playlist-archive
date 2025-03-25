@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "A Late Night Serenade",
+        "url": "https://open.spotify.com/album/2vuiwUznhdYMq6ascPADwk"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "A Late Night Serenade",
+      "url": "https://open.spotify.com/track/2uxZkdO0Q62XN7Vqls91Vn"
+    },
+    {
+      "album": {
         "name": "A Letter to Yesterday",
         "url": "https://open.spotify.com/album/7hcZnNWNS4GntGkGbOjPIV"
       },
@@ -3025,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "Blue Lavender",
+        "url": "https://open.spotify.com/album/3An9gls3ekkrNYmMBCnMEc"
+      },
+      "artists": [
+        {
+          "name": "Billie Shaw",
+          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220571,
+      "name": "Blue Lavender",
+      "url": "https://open.spotify.com/track/5YtBxc8IHmVA9oKdTwl8RW"
+    },
+    {
+      "album": {
         "name": "Blue Mist",
         "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
       },
@@ -3331,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "Bright Sun",
+        "url": "https://open.spotify.com/album/5kEAcZLb9yOTioAQCBYJ2m"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211410,
+      "name": "Bright Sun",
+      "url": "https://open.spotify.com/track/7b1OIQd1udLag3ERkvhm9E"
+    },
+    {
+      "album": {
         "name": "October Blue",
         "url": "https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh"
       },
@@ -3598,7 +3652,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 275597,
       "name": "Cameo",
       "url": "https://open.spotify.com/track/12wvasvMpPD6WvvHVxtC3p"
@@ -5139,6 +5193,24 @@
     },
     {
       "album": {
+        "name": "Deep Purple",
+        "url": "https://open.spotify.com/album/1Emo8vKq8MJz1mDRFBrKKT"
+      },
+      "artists": [
+        {
+          "name": "LaSalle Street Trio",
+          "url": "https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157817,
+      "name": "Deep Purple",
+      "url": "https://open.spotify.com/track/5Ke4IJIfRq22AQmJAQY4y0"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR"
       },
@@ -5258,7 +5330,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 212285,
       "name": "Dime in the Payphone",
       "url": "https://open.spotify.com/track/37cRCP2V3367tAbWA5PMok"
@@ -5666,7 +5738,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 231610,
       "name": "Each Fall To Spring",
       "url": "https://open.spotify.com/track/0jPV9bDPhYqsMQP0rIDGms"
@@ -5810,7 +5882,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 189234,
       "name": "East Of The Sun",
       "url": "https://open.spotify.com/track/0OuZzvIHAKYit34s4NH7WH"
@@ -6973,6 +7045,24 @@
     },
     {
       "album": {
+        "name": "Flowers In April",
+        "url": "https://open.spotify.com/album/6DdIzO1qq7YQae5CP8n115"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Flowers In April",
+      "url": "https://open.spotify.com/track/0nAGENNfFwnukiGVxygTJ2"
+    },
+    {
+      "album": {
         "name": "Fluster",
         "url": "https://open.spotify.com/album/5zDXxceLBK4Ojz08uNZ2KB"
       },
@@ -7128,7 +7218,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 198750,
       "name": "For Ellen",
       "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
@@ -8205,6 +8295,24 @@
     },
     {
       "album": {
+        "name": "Have You Met Miss Jones",
+        "url": "https://open.spotify.com/album/7dykJj6Io1cYijnvaA7VkG"
+      },
+      "artists": [
+        {
+          "name": "Grace Carey",
+          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199874,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/6aoLCgYA8ZbqSu1raQ3uJI"
+    },
+    {
+      "album": {
         "name": "Hay Square Serenade",
         "url": "https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr"
       },
@@ -8360,7 +8468,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 144375,
       "name": "Hector's Plan",
       "url": "https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta"
@@ -12226,7 +12334,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 170952,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr"
@@ -12662,6 +12770,24 @@
       "duration_ms": 288368,
       "name": "Living In Paradise",
       "url": "https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm"
+    },
+    {
+      "album": {
+        "name": "Living Is Easy (When I'm In Love With You)",
+        "url": "https://open.spotify.com/album/7IfhDHsTpLYeUomcShrzxB"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Edmonstone Trio",
+          "url": "https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249869,
+      "name": "Living Is Easy (When I'm In Love With You)",
+      "url": "https://open.spotify.com/track/6JEWpl5wGIwAo3yKbrIwKs"
     },
     {
       "album": {
@@ -13969,6 +14095,24 @@
     },
     {
       "album": {
+        "name": "Midnight Drift",
+        "url": "https://open.spotify.com/album/0HqXns0wRSdl5i3npa8dgR"
+      },
+      "artists": [
+        {
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217990,
+      "name": "Midnight Drift",
+      "url": "https://open.spotify.com/track/6UjkXOZj0kZB3XTJrGxoIS"
+    },
+    {
+      "album": {
         "name": "Midnight Fairytale",
         "url": "https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev"
       },
@@ -14672,7 +14816,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 168741,
       "name": "Moonrays",
       "url": "https://open.spotify.com/track/6akhlCuFUh7zxQ1UnEjZaK"
@@ -17164,7 +17308,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 182993,
       "name": "Platinum Goose",
       "url": "https://open.spotify.com/track/3eoLFO9XPg6vnONeRen5hf"
@@ -17254,7 +17398,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 216860,
       "name": "Poor Butterfly",
       "url": "https://open.spotify.com/track/2vyuIth7SkLbbfx0wX8KsC"
@@ -17762,7 +17906,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 229756,
       "name": "Remembering Benny",
       "url": "https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk"
@@ -18162,6 +18306,24 @@
       "duration_ms": 191000,
       "name": "Rotorua City",
       "url": "https://open.spotify.com/track/6zWvcIrTdwy8MjeiboMOqN"
+    },
+    {
+      "album": {
+        "name": "Rowboat",
+        "url": "https://open.spotify.com/album/1c9fAorQJk2w003sNiyyKR"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305848,
+      "name": "Rowboat",
+      "url": "https://open.spotify.com/track/7k65vp0BYTr0prFMvU3lEJ"
     },
     {
       "album": {
@@ -18813,6 +18975,24 @@
     },
     {
       "album": {
+        "name": "Sight Unseen",
+        "url": "https://open.spotify.com/album/3owpUGZwXXSO0Dtq3N7bcI"
+      },
+      "artists": [
+        {
+          "name": "Luke Marantz Trio",
+          "url": "https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208242,
+      "name": "Sight Unseen",
+      "url": "https://open.spotify.com/track/6OD0P0d2ERLOycczP76iNh"
+    },
+    {
+      "album": {
         "name": "Signs in the Wind",
         "url": "https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP"
       },
@@ -18864,6 +19044,24 @@
       "duration_ms": 195029,
       "name": "Silent Streets",
       "url": "https://open.spotify.com/track/0FrtYU16g7KDBnG9F5tCHe"
+    },
+    {
+      "album": {
+        "name": "Silent Tears",
+        "url": "https://open.spotify.com/album/49oSQrv44JLQhlxamijJm7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Coleman",
+          "url": "https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Silent Tears",
+      "url": "https://open.spotify.com/track/0bMbs6I68kelkV7uPhhmtj"
     },
     {
       "album": {
@@ -21146,7 +21344,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 213835,
       "name": "The April Skies",
       "url": "https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C"
@@ -21308,7 +21506,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 279587,
       "name": "The Day You Smiled at Me",
       "url": "https://open.spotify.com/track/7e1B09RgHXZ9TokYMQBCUF"
@@ -21762,6 +21960,24 @@
       "duration_ms": 195587,
       "name": "The Meadows",
       "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
+    },
+    {
+      "album": {
+        "name": "The Melody of You",
+        "url": "https://open.spotify.com/album/0gdK3yGxWOdx73bjXzQ9O6"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184509,
+      "name": "The Melody of You",
+      "url": "https://open.spotify.com/track/4eqdf1YMA4Qg4IP95OtbfQ"
     },
     {
       "album": {
@@ -22406,7 +22622,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 220443,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb"
@@ -22878,7 +23094,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 184877,
       "name": "Time Remembered",
       "url": "https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr"
@@ -23652,7 +23868,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 225815,
       "name": "Verdi",
       "url": "https://open.spotify.com/track/1PkzwTamcxLX4xILLLPe2X"
@@ -24484,7 +24700,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 229500,
       "name": "What's New?",
       "url": "https://open.spotify.com/track/5gZrDkL79PnqKg7OxOOdoM"
@@ -25222,7 +25438,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 169266,
       "name": "Without Doubt",
       "url": "https://open.spotify.com/track/6GcDZlQB7lBvWck6lqoFqk"
@@ -25626,7 +25842,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 144855,
       "name": "You Left With My Heart Still Yours",
       "url": "https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP"

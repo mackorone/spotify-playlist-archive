@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 213371,
+  "num_followers": 213399,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Ellipsis (Deluxe)",
+        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 217933,
+      "name": "Re-arrange",
+      "url": "https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Start A Riot",
         "url": "https://open.spotify.com/album/2udv3G6saR7mLvp20Sfvcw"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 199773,
       "name": "Dangerous Night",
       "url": "https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Ellipsis (Deluxe)",
-        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 217933,
-      "name": "Re-arrange",
-      "url": "https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd"
     },
     {
       "added_at": "2024-07-05 23:46:34",

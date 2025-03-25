@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Eugenio In Via Di Gioia in cover della playlist con il meglio dell’indie italiano \(che ha una nuova grafica 👀\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,783 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,850 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

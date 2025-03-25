@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Chintya Gabriella
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,825 likes - 96 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,834 likes - 96 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

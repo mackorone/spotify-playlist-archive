@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: YENTOWN
 
-1,508 songs - 3 day 5 hr 6 min
+1,509 songs - 3 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1081,7 +1081,7 @@
 | [Shake it](https://open.spotify.com/track/08e40TWCmgLnXVqvNEkhKN) | [Louis Cañeda](https://open.spotify.com/artist/5wStUyoSJKQ1DI3VbKqhcD), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl) | [LiL Ape with Friend's Mix Tape](https://open.spotify.com/album/1zNyRZMGPr19p7VJ6WF2Qs) | 2:32 | 2023-11-07 | 2023-11-22 |
 | [Shakin'](https://open.spotify.com/track/5ZreAcjNsT2Ojw2aA8uIRP) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm), [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Shakin'](https://open.spotify.com/album/7xdcH7yMgj0Z4erfYnNPoN) | 2:48 | 2024-09-03 | 2024-09-11 |
 | [She Left Me \- Holiday Passport](https://open.spotify.com/track/7ez5okk3h61X3M4VHlDwKB) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [She Left Me \(Holiday Passport\)](https://open.spotify.com/album/7CKLJLvTXxSv5lzQiGuTl3) | 2:37 | 2025-02-12 | 2025-02-26 |
-| [She was fifteen](https://open.spotify.com/track/4D3xbIu8E9MXhfDg6sTG2S) | [BRON\-K](https://open.spotify.com/artist/2NYHPpKa60Anj4TJwUjUvD) | [She was fifteen](https://open.spotify.com/album/7DYkqZi6mOjFGOZczpbCxM) | 2:55 | 2025-02-18 |  |
+| [She was fifteen](https://open.spotify.com/track/4D3xbIu8E9MXhfDg6sTG2S) | [BRON\-K](https://open.spotify.com/artist/2NYHPpKa60Anj4TJwUjUvD) | [She was fifteen](https://open.spotify.com/album/7DYkqZi6mOjFGOZczpbCxM) | 2:55 | 2025-02-18 | 2025-03-25 |
 | [SHIBUKI BOY](https://open.spotify.com/track/1Aj5xn9cHByP8NmXbvI8me) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [SHIBUKI BOY](https://open.spotify.com/album/2gNtzHZ7UNQWj3EKe5aKKW) | 2:37 | 2023-10-03 | 2023-11-29 |
 | [SHINUHODO](https://open.spotify.com/track/69IMWw9QRc46zDz9GhGBoW) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [SHINUHODO](https://open.spotify.com/album/1oCxkPibqcgXKPBXqrvNyn) | 2:42 | 2023-12-06 | 2024-01-24 |
 | [Shonan Crazy](https://open.spotify.com/track/4KLHuOm1Rx5pWEhxcM16ag) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/1A1yMVgOJlvlO8pkia9ThB) | 2:30 | 2024-04-02 | 2024-04-17 |
@@ -1473,6 +1473,7 @@
 | [最低だけど最高](https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy) | [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo) | [最低だけど最高](https://open.spotify.com/album/4EZrC1LZyiTb3DV3igu8Bl) | 1:43 | 2024-03-12 | 2024-03-27 |
 | [最後だとしても...](https://open.spotify.com/track/7gLBZMoFeOwWMak8UVPSym) | [句潤](https://open.spotify.com/artist/1uDNlSRJxFFJLWXr11s0Bz), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [句が呼ぶ煙](https://open.spotify.com/album/7wXuPfXn4vqtOtI8OdsX2a) | 3:21 | 2024-02-06 | 2024-02-21 |
 | [東京無宿](https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM) | [BLYY](https://open.spotify.com/artist/6yX4DVkXlVVzckdFcqer1p) | [東京無宿](https://open.spotify.com/album/4TyEPsSOhakTnVobdu9cb5) | 3:43 | 2024-01-23 | 2024-02-28 |
+| [楽笑](https://open.spotify.com/track/1x8rEMmMWZi7oBSXu9Hu4v) | [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [楽笑](https://open.spotify.com/album/7yEWbkp8cZvyvsXfontgx0) | 2:20 | 2025-03-24 |  |
 | [欲張 feat\. Jin Dogg](https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [欲張 feat\. Jin Dogg](https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia) | 3:39 | 2024-07-02 | 2024-08-21 |
 | [正夢](https://open.spotify.com/track/75oFQY95GilHqIMQYAWItl) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [正夢](https://open.spotify.com/album/5KM1cPxjzMu9WRP4skATa7) | 2:45 | 2024-06-25 | 2024-07-24 |
 | [武道館](https://open.spotify.com/track/7i3W7Z8Tc3VCJ6NzP7JVIt) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [武道館](https://open.spotify.com/album/2w5S8LyebM1PDvK5b1Y4Gu) | 2:34 | 2025-02-04 | 2025-02-26 |

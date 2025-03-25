@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-878 songs - 3 day 4 hr 21 min
+879 songs - 3 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Drive](https://open.spotify.com/track/67aiZtmB5ZBCGxBN3pOL6C) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive](https://open.spotify.com/album/0VMZ7bBIr5PxYsgYBBEEdE) | 4:43 | 2022-11-23 | 2023-04-01 |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-04-08 | 2024-03-27 |
 | [Drowning](https://open.spotify.com/track/1cwt2CE4yESnT0gLT46IJO) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [Drowning](https://open.spotify.com/album/73SLZEZYiyYcwMEY0gHhWx) | 3:40 | 2024-07-19 | 2024-08-11 |
-| [Dudadu Flip](https://open.spotify.com/track/1NVtj1xF3OArkrtqhWTn0K) | [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu Flip](https://open.spotify.com/album/1Jvf7bpiHMVtTG7LSR9X1l) | 3:19 | 2024-07-19 |  |
+| [Dudadu Flip](https://open.spotify.com/track/1NVtj1xF3OArkrtqhWTn0K) | [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu Flip](https://open.spotify.com/album/1Jvf7bpiHMVtTG7LSR9X1l) | 3:19 | 2024-07-19 | 2025-03-25 |
 | [Duel](https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Duel](https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f) | 9:34 | 2022-05-20 | 2023-11-14 |
 | [Dvaraka](https://open.spotify.com/track/655xQvb0DNxJ8PUHjDnDYy) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [Dvaraka](https://open.spotify.com/album/0G47sYDbrRXUDahMALCsBH) | 8:26 | 2021-05-07 | 2022-04-21 |
 | [Ederlezi](https://open.spotify.com/track/2ZQK68ctm8rFny71kyvnUc) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Ederlezi](https://open.spotify.com/album/7HMEPFeIAiSXriShJwUzb9) | 3:03 | 2023-07-28 | 2023-09-23 |
@@ -480,6 +480,7 @@
 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 | 2023-06-09 | 2024-04-13 |
 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 | 2021-04-21 | 2023-04-01 |
 | [Mariposa](https://open.spotify.com/track/4vBoDgmhEeGd8mNBS9gTso) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Mariposa](https://open.spotify.com/album/7c431xYw1mJqGslm1DkQ3g) | 7:31 | 2021-07-09 | 2022-07-10 |
+| [Masterclass](https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Masterclass](https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD) | 3:32 | 2025-03-21 |  |
 | [Matahale](https://open.spotify.com/track/1t2prKx2l2b4mxsk3rlhaD) | [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Matahale](https://open.spotify.com/album/4h8slpY81obL56W9pz0Umj) | 3:12 | 2024-11-15 |  |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
 | [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 | 2024-10-16 |

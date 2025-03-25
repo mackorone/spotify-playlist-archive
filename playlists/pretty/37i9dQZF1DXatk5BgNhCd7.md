@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\.  Sergio George & Ryan Castro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,553 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,554 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 42 | [Por esa Amante](https://open.spotify.com/track/4TaskmHGyktWYQxj3Q1D3W) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Por esa Amante](https://open.spotify.com/album/5Kf6EQSLGAD5AvTdtZAfdY) | 3:11 |
 | 43 | [Chicle](https://open.spotify.com/track/2npV4EpwmN1LX8EEHTYa4o) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP), [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Chicle](https://open.spotify.com/album/3fFZ2nWnCA67GdDsVls8ht) | 2:46 |
 | 44 | [Porque Te Vas](https://open.spotify.com/track/0zZTDvd4QeWd4PHrEXNQ8T) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Porque Te Vas](https://open.spotify.com/album/35bkjlH5s7kSayeSJGDAju) | 2:33 |
-| 45 | [Evoluciøn \- ELDC](https://open.spotify.com/track/2pYHa7ZfmaP2lpiFNcMP1g) | [Prophex](https://open.spotify.com/artist/4QeD9XFoPEHht1Mj8InACT) | [Evoluciøn \(ELDC\)](https://open.spotify.com/album/1MSikNQdRGmElq248GtiXv) | 2:30 |
+| 45 | [Evoluciøn](https://open.spotify.com/track/2pYHa7ZfmaP2lpiFNcMP1g) | [Prophex](https://open.spotify.com/artist/4QeD9XFoPEHht1Mj8InACT) | [Evoluciøn](https://open.spotify.com/album/1MSikNQdRGmElq248GtiXv) | 2:30 |
 | 46 | [Simplemente Gracias](https://open.spotify.com/track/295ndYgBQW0cvBsWQasE5X) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv), [Rau](https://open.spotify.com/artist/7vOc2lSKE0icwRLbSvbY0h), [DJ Ramon](https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1), [Frank Santos](https://open.spotify.com/artist/7a6MDGQsPtRUbENWSjTjhf) | [Simplemente Gracias](https://open.spotify.com/album/1SE05NJPfaduljuIvaJSSm) | 3:25 |
 | 47 | [Valentino](https://open.spotify.com/track/42uEYWvXhdvLQFR4MwPgPF) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Valentino](https://open.spotify.com/album/5NHq9QNYK00JgoLEjdyvav) | 2:43 |
 | 48 | [Marimba y Acordeón](https://open.spotify.com/track/3ErtRTSe19O3hTGyQUJd1G) | [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Marimba y Acordeón](https://open.spotify.com/album/2W0TKAsiPjDzmqUn9CflX0) | 2:18 |

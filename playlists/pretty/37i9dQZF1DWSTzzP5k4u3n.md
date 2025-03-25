@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Jaakko Kulta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,055 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,051 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
-| 2 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 1 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 2 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
 | 3 | [Sinéadin laulu](https://open.spotify.com/track/4vOWTsPhnxTSqAREpvv6vK) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Sinéadin laulu](https://open.spotify.com/album/1Wi3dvZvlpAYltEfd0nIfy) | 3:29 |
 | 4 | [Sun Silmistä Aurinko Nousee](https://open.spotify.com/track/2x9WxOczWrn52S5vrn9dHO) | [Max Olavi & Elävät Kuvat](https://open.spotify.com/artist/280wSk35Poeg85y2oxb5xe), [Jepa Lambert](https://open.spotify.com/artist/0x2sRpqcE6H2nZeYT6Gb1w) | [Sun Silmistä Aurinko Nousee](https://open.spotify.com/album/5GKYWz1g4HXTsBFWv8lv1e) | 3:32 |
 | 5 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Betauros](https://open.spotify.com/track/4INn4558yOHfnkYOtVFWYZ) | [Grillijono K.O.](https://open.spotify.com/artist/08QXOSGFgaJw93nk0a2Dk5), [Vesku Jokinen](https://open.spotify.com/artist/58tsj94tcDnxNnMhHkIc2E) | [Betauros](https://open.spotify.com/album/4Kp4KN2FNtCCBQZTB8X5Q1) | 3:08 |
 | 80 | [Tää ei hajoo](https://open.spotify.com/track/6rSRbR53rRzVSnDXV2Hr1N) | [Indica](https://open.spotify.com/artist/1Nc6H2qbH5SljekjNBTX7m) | [Tää ei hajoo / Kieroja aarioita](https://open.spotify.com/album/6XhSAiVeoGAs8z0j40zIn2) | 3:07 |
 
-Snapshot ID: `Z9yQLQAAAAD7daUtofhdcJLRhLMyVcOw`
+Snapshot ID: `Z+EtmQAAAAD2Jh1njha5eD2G9OyZbRKP`

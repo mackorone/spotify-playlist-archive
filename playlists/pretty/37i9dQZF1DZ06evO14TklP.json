@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 11991,
+  "num_followers": 12000,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z939gAAAAACJI/83L+57kZqaE3S8QmW2",
+  "snapshot_id": "Z99PAAAAAAADBRCMM7NNPmNmwSETDf9N",
   "tracks": [
     {
       "added_at": null,
@@ -995,22 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+        "name": "Temporary Lover",
+        "url": "https://open.spotify.com/album/6ZHopj9rFD6Hz6tCluHnFW"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+          "name": "Adrian Jean",
+          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
         },
         {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
+      "duration_ms": 231367,
+      "name": "Temporary Lover",
+      "url": "https://open.spotify.com/track/2VERl2PyQuLQdz0iteB4NO"
     },
     {
       "added_at": null,
@@ -1035,22 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temporary Lover",
-        "url": "https://open.spotify.com/album/6ZHopj9rFD6Hz6tCluHnFW"
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
       },
       "artists": [
         {
-          "name": "Adrian Jean",
-          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
-        },
-        {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
         }
       ],
-      "duration_ms": 231367,
-      "name": "Temporary Lover",
-      "url": "https://open.spotify.com/track/2VERl2PyQuLQdz0iteB4NO"
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,

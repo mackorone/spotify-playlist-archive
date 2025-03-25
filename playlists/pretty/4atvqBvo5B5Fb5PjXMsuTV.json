@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Mar 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Mar 23:04 UTC.",
   "num_followers": 89,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAQgIC1rX20nF86WuHDU7vXGk7CYDH0",
+  "snapshot_id": "AAAQiPkYi1EVYVLyGR8hAyY9MZ6drObf",
   "tracks": [
+    {
+      "added_at": "2025-03-24 14:04:16",
+      "album": {
+        "name": "KING OF CALIFORNIA",
+        "url": "https://open.spotify.com/album/3mK6APzuCJiLAIaq8O8Mq5"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 162424,
+      "name": "KING OF CALIFORNIA",
+      "url": "https://open.spotify.com/track/5A6e0rRHhLkmgP4bj8LB7R"
+    },
+    {
+      "added_at": "2025-03-24 19:04:35",
+      "album": {
+        "name": "The Bog Body",
+        "url": "https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 173310,
+      "name": "The Bog Body",
+      "url": "https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI"
+    },
     {
       "added_at": "2025-03-22 04:03:53",
       "album": {
@@ -269,6 +301,22 @@
       "url": "https://open.spotify.com/track/1zdKJi5A8h86jHXK2jNfPZ"
     },
     {
+      "added_at": "2025-03-24 09:04:07",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1KCWO9riv5TIiv1V2jUYQk"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4t4veTYSVvPHSWSlLMAvRC"
+    },
+    {
       "added_at": "2025-03-22 04:03:53",
       "album": {
         "name": "WTFG!",
@@ -291,6 +339,22 @@
       "duration_ms": 164022,
       "name": "WTFG!",
       "url": "https://open.spotify.com/track/7kMFqDbwdxt6XMKGF2uyL6"
+    },
+    {
+      "added_at": "2025-03-24 23:04:20",
+      "album": {
+        "name": "REGULAR",
+        "url": "https://open.spotify.com/album/3v2eZs4VRPNFaScPJ0NIna"
+      },
+      "artists": [
+        {
+          "name": "Blorg",
+          "url": "https://open.spotify.com/artist/2IvNkB1MfnjQKzx5W0i048"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "REGULAR",
+      "url": "https://open.spotify.com/track/41622a8BwvqRZClwstpYJt"
     },
     {
       "added_at": "2025-03-21 09:03:27",
@@ -763,70 +827,6 @@
       "duration_ms": 165392,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/34cEqOnaJRikAuS8fijvZk"
-    },
-    {
-      "added_at": "2025-03-15 19:03:16",
-      "album": {
-        "name": "CUT THE LIGHTS.",
-        "url": "https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "CUT THE LIGHTS.",
-      "url": "https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb"
-    },
-    {
-      "added_at": "2025-03-19 19:03:21",
-      "album": {
-        "name": "SMARTPHONE MAKE ME DUMB",
-        "url": "https://open.spotify.com/album/0wtqjgDzHqDPgUtkavt79b"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 157103,
-      "name": "SMARTPHONE MAKE ME DUMB",
-      "url": "https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE"
-    },
-    {
-      "added_at": "2025-03-14 14:04:12",
-      "album": {
-        "name": "Sword",
-        "url": "https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 146504,
-      "name": "Sword",
-      "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
-    },
-    {
-      "added_at": "2025-03-14 09:04:36",
-      "album": {
-        "name": "Mac's Omelette",
-        "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 238845,
-      "name": "Mac\u2019s Omelette",
-      "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
     }
   ],
   "unique_name": "New Singles Now",

@@ -12349,6 +12349,24 @@
     },
     {
       "album": {
+        "name": "Vorrei",
+        "url": "https://open.spotify.com/album/6REeztTQ4uQYlonoeKd53k"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162187,
+      "name": "Vorrei",
+      "url": "https://open.spotify.com/track/1aWkWhJxE3un97FpwgIc8K"
+    },
+    {
+      "album": {
         "name": "Walzer",
         "url": "https://open.spotify.com/album/3inCtUyQAJXPL37INxLJVn"
       },

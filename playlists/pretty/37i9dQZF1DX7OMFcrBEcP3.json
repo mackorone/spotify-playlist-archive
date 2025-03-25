@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 103824,
+  "num_followers": 103865,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Macario Leyva",
+      "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "La Caspa Del Diablo-Corridos A Toda Ley",
         "url": "https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 156160,
       "name": "La Caspa Del Diablo",
       "url": "https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Macario Leyva",
-      "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL"
-      },
-      "artists": [
-        {
-          "name": "Beto Quintanilla",
-          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "El Ultimo Contrabando",
-      "url": "https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "La Cadena",
         "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 174693,
       "name": "La Botella (Dos Botellas De Mescal)",
       "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL"
+      },
+      "artists": [
+        {
+          "name": "Beto Quintanilla",
+          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "El Ultimo Contrabando",
+      "url": "https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "\u00a1pa Puros Compas! Vol. Ii",
-        "url": "https://open.spotify.com/album/5NdplNnKYPN84dicsTocv4"
+        "name": "Los Corridos Favoritos Del Jefe",
+        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 183000,
-      "name": "La Cheyene del A\u00f1o",
-      "url": "https://open.spotify.com/track/1Befsq8QTEAJNKnxKlPPUM"
+      "duration_ms": 219360,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
     }
   ],
   "unique_name": "We Love Corridos Viejitos ",

@@ -4,7 +4,7 @@
 
 > Inspirational hip hop\. Cover: Fridayy
 
-486 songs - 1 day 0 hr 15 min
+487 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [After The Funeral](https://open.spotify.com/track/1u0zWJ26f6fL7QH96Ei8B1) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [After The Funeral](https://open.spotify.com/album/2aI5qyjygnMEV5TQ0HgQ2j) | 3:42 | 2021-12-11 | 2022-07-25 |
 | [Against All Odds](https://open.spotify.com/track/4B8hf4Ormi2uOLIq6oykvR) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm) | [Streets Don't Love You 3](https://open.spotify.com/album/6l9ucGVweupaJKog9shQXP) | 2:42 | 2021-12-11 | 2022-07-29 |
 | [AIRWAVES \(feat\. Nelo\) \- Bonus Track](https://open.spotify.com/track/6HcjfTeIoXWwzcI8eQkfmy) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Nelo](https://open.spotify.com/artist/5uJ2uxaXBkkL5coxnItGRF) | [2045: Airwavs \(Deluxe Version\)](https://open.spotify.com/album/1eTbM6TKDaaW5bMOnboCsf) | 2:16 | 2021-12-11 | 2022-03-18 |
-| [ALERT](https://open.spotify.com/track/5TEHc0XCXLrD4avIxeUFMy) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [ALERT](https://open.spotify.com/album/5S8apcg3hbln0Pgt0Ssq5S) | 2:26 | 2025-02-28 |  |
+| [ALERT](https://open.spotify.com/track/5TEHc0XCXLrD4avIxeUFMy) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [ALERT](https://open.spotify.com/album/5S8apcg3hbln0Pgt0Ssq5S) | 2:26 | 2025-02-28 | 2025-03-25 |
 | [all I want](https://open.spotify.com/track/1P28yEIU9Pis3kCV3DAPmk) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD), [Sarah Nathalié](https://open.spotify.com/artist/0IdR2Dmxza6Xl7qe0XuXNs) | [all I want](https://open.spotify.com/album/3Cx9NPdArl92k7Viu7znWd) | 2:41 | 2021-12-11 | 2022-07-29 |
 | [All In the Wrist](https://open.spotify.com/track/13cM3Tbw3vs0hEwTi3JwJx) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Highlight Tapes, Vol\. 1](https://open.spotify.com/album/5vTdtFjNXMEaQOjvPhUImJ) | 2:51 | 2021-12-11 | 2022-11-19 |
 | [All On Me](https://open.spotify.com/track/66Qz1284tEvO6GPfQVTlZc) | [Deraj](https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD) | [All On Me](https://open.spotify.com/album/5W9FuE8N3U51eBNgfxotWp) | 2:55 | 2022-03-25 | 2022-07-29 |
@@ -175,6 +175,7 @@
 | [Heart Of Stone](https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Heart Of Stone](https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf) | 4:15 | 2024-06-25 |  |
 | [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 | 2022-05-28 | 2022-11-19 |
 | [Heaven](https://open.spotify.com/track/5Ie2QBQyUYCcJvQxvsXvBz) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q), [King Koro](https://open.spotify.com/artist/4R1pqL0Q87tj2KZO1Fu3mG) | [Heaven](https://open.spotify.com/album/2MuSjMBXRimvn45wHLiG0f) | 3:43 | 2022-03-19 | 2022-07-29 |
+| [Heaven Sent](https://open.spotify.com/track/3oRjAEpFOlbXltuQklNVhE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Heaven Sent](https://open.spotify.com/album/58Nvt6xXv8XCuIqRWNTumw) | 2:05 | 2025-03-24 |  |
 | [Hero](https://open.spotify.com/track/3KOPnwgJYpXP2UEL3zfJ0H) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Table Or Bouff](https://open.spotify.com/album/75eH6od0lKW3zkDBkgRCsJ) | 2:22 | 2021-12-11 | 2022-05-26 |
 | [Hey Yah](https://open.spotify.com/track/6DZCrikjLYlj2BzL7uiwuY) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [Hey Yah](https://open.spotify.com/album/11Mvz5iryNu1nbBnY6jRU8) | 2:42 | 2024-10-04 |  |
 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 | 2024-06-25 |  |

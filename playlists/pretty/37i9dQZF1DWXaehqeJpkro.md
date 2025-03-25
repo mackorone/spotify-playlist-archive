@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Hwang Ga Ram\(황가람\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,368 likes - 210 songs - 13 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,389 likes - 210 songs - 13 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

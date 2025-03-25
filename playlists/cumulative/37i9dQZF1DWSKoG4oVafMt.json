@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Aalam-Aara",
+        "url": "https://open.spotify.com/album/68ZTmW4egXGO7nTmefYZRf"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413454,
+      "name": "Aalam-Aara",
+      "url": "https://open.spotify.com/track/1gesrbg2KRgSfMUTtjDvNm"
+    },
+    {
+      "album": {
         "name": "Aam Jahi",
         "url": "https://open.spotify.com/album/2StecmOF61gAUsiEyvobIg"
       },
@@ -1172,6 +1190,28 @@
       "duration_ms": 80039,
       "name": "Baariyan",
       "url": "https://open.spotify.com/track/68RUO1BnU4QEaTdDtoeh8h"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/6fytaawAbnhAIlFIji4tsZ"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127280,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6NhJMhbFTNcyJzChYcXNTS"
     },
     {
       "album": {
@@ -11338,7 +11378,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 214965,
       "name": "Main Nai Aana",
       "url": "https://open.spotify.com/track/1TDZo642ZAk25MKD8uCcYL"
@@ -21690,7 +21730,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 152210,
       "name": "You & I",
       "url": "https://open.spotify.com/track/20xEtcpN5E3CvI0zBlk40v"

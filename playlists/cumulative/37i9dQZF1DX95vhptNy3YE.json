@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 152408,
       "name": "Bloquinho",
       "url": "https://open.spotify.com/track/1FLFQBah9xsUn13FtYkBLM"
@@ -8359,6 +8359,28 @@
     },
     {
       "album": {
+        "name": "Medley de Igarat\u00e1 5",
+        "url": "https://open.spotify.com/album/544GUkybVf5Wr84qI9tITj"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Medley de Igarat\u00e1 5",
+      "url": "https://open.spotify.com/track/0UGkmvbIWUVwCg9MMusBxg"
+    },
+    {
+      "album": {
         "name": "Mega da Gang 06",
         "url": "https://open.spotify.com/album/08Hzh10xxUrZG1qWVZmub3"
       },
@@ -12692,7 +12714,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 127500,
       "name": "Rotina 2",
       "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
@@ -15350,7 +15372,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 172768,
       "name": "Viv\u00eancias",
       "url": "https://open.spotify.com/track/1y0Rdm4A2E0F8rgMv3GsZd"

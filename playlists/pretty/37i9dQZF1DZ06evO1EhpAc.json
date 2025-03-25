@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9344,
+  "num_followers": 9345,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z939gAAAAADxrOdZYy8TZFAFy3eNyu1c",
+  "snapshot_id": "Z99PAAAAAADeZNPUCTau80rUSfi6ytrK",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 201446,
-      "name": "Drink I\u2019m Sippin On",
-      "url": "https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What a Joy",
         "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 208173,
       "name": "Swim Me",
       "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 201446,
+      "name": "Drink I\u2019m Sippin On",
+      "url": "https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz"
     },
     {
       "added_at": null,

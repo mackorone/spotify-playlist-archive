@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AFROJACK
 
-3,356 songs - 6 day 13 hr 8 min
+3,357 songs - 6 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3349,6 +3349,7 @@
 | [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 | 2024-12-12 | 2024-12-20 |
 | [Young, Wild & Free](https://open.spotify.com/track/7Hs4pE0qAVak7p8BVboO33) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC) | [Young, Wild & Free](https://open.spotify.com/album/3Si9ovQvvUzhRJwVSoFCpS) | 2:22 | 2023-12-14 | 2024-01-12 |
 | [Youngblood](https://open.spotify.com/track/2jbTS3L4vuMfz1Eg4znvWp) | [HYPER BOYZ](https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o), [Gianluca Dimeo](https://open.spotify.com/artist/5OBm2KxB9JIw4o9msXkeNQ) | [Youngblood](https://open.spotify.com/album/0qxx6wPHdx5Ilsrj30aXW2) | 2:43 | 2024-10-03 | 2024-10-11 |
+| [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 | 2025-03-24 |  |
 | [Your Body](https://open.spotify.com/track/00eEHoCCKjdP9sit6VVvXf) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Athenica](https://open.spotify.com/artist/6P8u7jHjhsQSi2b55HrItV) | [Your Body](https://open.spotify.com/album/0if2sllL96owHH3cFJ2Uj2) | 3:27 | 2024-10-10 | 2024-10-18 |
 | [Your Healing](https://open.spotify.com/track/76QXvcalKv6ZX4G71KSyx8) | [Evil Twiin](https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Your Healing](https://open.spotify.com/album/1pFVWbRQh5dxLVqKKyKuVz) | 2:44 | 2025-01-02 | 2025-01-10 |
 | [Your Love](https://open.spotify.com/track/5sjsi4egcX7MuABlhWHja3) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Your Love](https://open.spotify.com/album/1wPXrUHbEusBfZtcUMfxhP) | 2:34 | 2024-05-09 | 2024-06-14 |

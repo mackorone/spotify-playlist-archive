@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ren er her!\u2600\ufe0f\n",
-  "num_followers": 92853,
+  "num_followers": 92903,
   "original_name": "V\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
-        "name": "Beautifully Ordinary",
-        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 304812,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
         "name": "Syrener (Akustisk)",
         "url": "https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 187322,
       "name": "Syrener - Akustisk",
       "url": "https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "added_at": "2025-03-21 10:53:21",
@@ -919,18 +919,22 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
-        "name": "Hei p\u00e5 deg",
-        "url": "https://open.spotify.com/album/5GxpzfMjhjPrpk7lFLIhGz"
+        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
+        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        },
+        {
+          "name": "Lars Vaular",
+          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
         }
       ],
-      "duration_ms": 163938,
-      "name": "Hei p\u00e5 deg",
-      "url": "https://open.spotify.com/track/7z08TMcTNpMClzFJ1Jo9oQ"
+      "duration_ms": 220333,
+      "name": "S\u00e5 easy",
+      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
     },
     {
       "added_at": "2025-03-21 10:53:21",
@@ -955,38 +959,18 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
-        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
-        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
+        "name": "Hei p\u00e5 deg",
+        "url": "https://open.spotify.com/album/5GxpzfMjhjPrpk7lFLIhGz"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        },
-        {
-          "name": "Lars Vaular",
-          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 220333,
-      "name": "S\u00e5 easy",
-      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
+      "duration_ms": 163938,
+      "name": "Hei p\u00e5 deg",
+      "url": "https://open.spotify.com/track/7z08TMcTNpMClzFJ1Jo9oQ"
     },
     {
       "added_at": "2025-03-21 10:53:21",
@@ -1003,6 +987,54 @@
       "duration_ms": 197529,
       "name": "P\u00e5 bes\u00f8k",
       "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/5P0xHV91J1zC52nemvDhI6"
+      },
+      "artists": [
+        {
+          "name": "Alma Owren",
+          "url": "https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE"
+        }
+      ],
+      "duration_ms": 259545,
+      "name": "under the surface",
+      "url": "https://open.spotify.com/track/3McAq7FX81QzdpueW2CT1F"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
+        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
+        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 195202,
+      "name": "Noen som forst\u00e5r",
+      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     },
     {
       "added_at": "2025-03-21 10:53:21",
@@ -1035,6 +1067,22 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
         "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
         "url": "https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf"
       },
@@ -1063,38 +1111,6 @@
       "duration_ms": 226251,
       "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
       "url": "https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
-        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
-        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        }
-      ],
-      "duration_ms": 195202,
-      "name": "Noen som forst\u00e5r",
-      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
     },
     {
       "added_at": "2025-03-21 10:53:21",
@@ -1135,26 +1151,6 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
-        "name": "Trenger deg n\u00e5",
-        "url": "https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 166474,
-      "name": "Trenger deg n\u00e5",
-      "url": "https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
       },
@@ -1187,38 +1183,6 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/5P0xHV91J1zC52nemvDhI6"
-      },
-      "artists": [
-        {
-          "name": "Alma Owren",
-          "url": "https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE"
-        }
-      ],
-      "duration_ms": 259545,
-      "name": "under the surface",
-      "url": "https://open.spotify.com/track/3McAq7FX81QzdpueW2CT1F"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
-        "name": "Silver Bead Eyes",
-        "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
-      },
-      "artists": [
-        {
-          "name": "Resa Saffa Park",
-          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Every Part of Me",
-      "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
         "name": "Skyfri himmel",
         "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
       },
@@ -1239,6 +1203,42 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
+        "name": "Silver Bead Eyes",
+        "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
+      },
+      "artists": [
+        {
+          "name": "Resa Saffa Park",
+          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Every Part of Me",
+      "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
+        "name": "Trenger deg n\u00e5",
+        "url": "https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 166474,
+      "name": "Trenger deg n\u00e5",
+      "url": "https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
-        "name": "Keeps Me Going",
-        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Keeps Me Going",
-      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
         "name": "Dans med meg",
         "url": "https://open.spotify.com/album/0CRtzpxCmfPCpujTsP2pWo"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 174492,
       "name": "Dans med meg",
       "url": "https://open.spotify.com/track/4WWC3GHZTLLjP2IPCOFbMh"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
+        "name": "Keeps Me Going",
+        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Keeps Me Going",
+      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
     },
     {
       "added_at": "2025-03-21 10:53:21",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
         "name": "Over deg",
         "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 147093,
       "name": "Over deg",
       "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
-        "name": "Woods",
-        "url": "https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
     },
     {
       "added_at": "2025-03-21 10:53:21",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+        "name": "Woods",
+        "url": "https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+      "duration_ms": 207186,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
     },
     {
       "added_at": "2025-03-21 10:53:21",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-03-21 10:53:21",
       "album": {
-        "name": "Glem meg, men jeg glemmer aldri",
-        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
-      },
-      "artists": [
-        {
-          "name": "William Gamborg",
-          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
-        }
-      ],
-      "duration_ms": 142263,
-      "name": "Glem meg, men jeg glemmer aldri",
-      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
-    },
-    {
-      "added_at": "2025-03-21 10:53:21",
-      "album": {
         "name": "B\u00f8lger",
         "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 133875,
       "name": "B\u00f8lger",
       "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
+    },
+    {
+      "added_at": "2025-03-21 10:53:21",
+      "album": {
+        "name": "Glem meg, men jeg glemmer aldri",
+        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
+      },
+      "artists": [
+        {
+          "name": "William Gamborg",
+          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
+        }
+      ],
+      "duration_ms": 142263,
+      "name": "Glem meg, men jeg glemmer aldri",
+      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
     },
     {
       "added_at": "2025-03-21 10:53:21",

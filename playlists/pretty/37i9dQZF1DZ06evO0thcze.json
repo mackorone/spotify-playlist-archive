@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 54219,
+  "num_followers": 54232,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z939gAAAAAC/Rhm+5NZ7MEc/IEgYZRXs",
+  "snapshot_id": "Z99PAAAAAAA/D3sVaiKbP7b4404YBRHI",
   "tracks": [
     {
       "added_at": null,
@@ -1227,30 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eres Ese Algo 2.0",
-        "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Keith Nieto",
-          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Eres Ese Algo 2.0",
-      "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIENTE",
         "url": "https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 302104,
       "name": "CALIENTE",
       "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eres Ese Algo 2.0",
+        "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Eres Ese Algo 2.0",
+      "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
     },
     {
       "added_at": null,

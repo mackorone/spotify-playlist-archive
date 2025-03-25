@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: caroline
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,875 likes - 120 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,889 likes - 120 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

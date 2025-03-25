@@ -71887,6 +71887,28 @@
     },
     {
       "album": {
+        "name": "Lounge",
+        "url": "https://open.spotify.com/album/0sfvy3tHJ20t0Fc8Z9xkHI"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        },
+        {
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124801,
+      "name": "Lounge",
+      "url": "https://open.spotify.com/track/70qMimZ6epl4mK90JsXHY2"
+    },
+    {
+      "album": {
         "name": "lounge life",
         "url": "https://open.spotify.com/album/5bvih2zwhn2PvGMQebhySh"
       },
@@ -90904,7 +90926,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 94285,
       "name": "Osmose",
       "url": "https://open.spotify.com/track/1qWJsjvvbdFis62MybI97R"
@@ -96280,6 +96302,24 @@
       "duration_ms": 117333,
       "name": "Portugal",
       "url": "https://open.spotify.com/track/3veP9Z9IG4gxTa951pgVlN"
+    },
+    {
+      "album": {
+        "name": "Portugale",
+        "url": "https://open.spotify.com/album/4ScVeBnxfFc0x9Oy44vSSJ"
+      },
+      "artists": [
+        {
+          "name": "green room",
+          "url": "https://open.spotify.com/artist/1Bjq9Mz4rswruhp5A8ucmS"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167357,
+      "name": "Portugale",
+      "url": "https://open.spotify.com/track/2unwq9B3Taf2bKfPTmvvfl"
     },
     {
       "album": {
@@ -112842,7 +112882,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 158597,
       "name": "Soothing Raindrops",
       "url": "https://open.spotify.com/track/3xG8uvGqlHKrUsAXpQ8wuu"

@@ -9933,6 +9933,24 @@
     },
     {
       "album": {
+        "name": "Hi How Are You",
+        "url": "https://open.spotify.com/album/2wZcpjsg8eNUVqY324mFu5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johnston",
+          "url": "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123040,
+      "name": "Poor You",
+      "url": "https://open.spotify.com/track/0622aJvNezLY5HG5MEnXoF"
+    },
+    {
+      "album": {
         "name": "Play (2014 Remastered Version)",
         "url": "https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD"
       },

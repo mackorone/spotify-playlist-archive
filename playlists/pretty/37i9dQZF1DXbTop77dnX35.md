@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ladipoe, Lady Donli, Zlatan and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,214 likes - 62 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,267 likes - 62 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 36 | [Masterclass](https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Masterclass](https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD) | 3:32 |
 | 37 | [Abebrese](https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Abebrese](https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX) | 4:20 |
 | 38 | [Bus Station](https://open.spotify.com/track/1sz2GFRnJf1f4Tx7tEA7CZ) | [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bridges](https://open.spotify.com/album/2XwWcIBHG5wqwM2OhKK9ra) | 2:56 |
-| 39 | [Abasakoom](https://open.spotify.com/track/1nwny3zV6GwX1qIESCROJI) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Abasakoom](https://open.spotify.com/album/3DOEGSS6s8EGMaS0W6PgMm) | 2:35 |
+| 39 | [Abasakoom](https://open.spotify.com/track/1nwny3zV6GwX1qIESCROJI) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Abasakoom](https://open.spotify.com/album/3DOEGSS6s8EGMaS0W6PgMm) | 2:36 |
 | 40 | [Puuush](https://open.spotify.com/track/5HM3f22ZV9furYzzsvMBbF) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Puuush](https://open.spotify.com/album/1Ph67R5NJn34js6QoxMiUn) | 2:46 |
 | 41 | [See Me yah](https://open.spotify.com/track/5ta3DW7XdUPYtlZNCUVGHc) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 2:38 |
 | 42 | [Oga Doctor](https://open.spotify.com/track/3LfgcQJeyrt8O52xQUDc06) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Oga Doctor](https://open.spotify.com/album/4Z5Rv19PpVJPv6KeKPhpI4) | 5:41 |

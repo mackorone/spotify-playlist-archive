@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Aimless",
+        "url": "https://open.spotify.com/album/2nZTSSGr5nd7wAdkdL76mt"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Aimless",
+      "url": "https://open.spotify.com/track/6V6r27N6KvM5VMyHfcwvvN"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5Vk1XNAWSV7mWfTnSM6qlB"
       },

@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Municipal Waste
 
-434 songs - 1 day 6 hr 46 min
+435 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Beyond the Convent Walls](https://open.spotify.com/track/7zVIIZOOoO6keBdfKL8WGH) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/5dcBkiNfBkgdLeXseS88JM) | 4:29 | 2021-12-17 |  |
 | [Black Magic](https://open.spotify.com/track/4cJhBmeJ7KiBeuy7oxRnZ3) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Show No Mercy](https://open.spotify.com/album/3D6BriGykla1Qi2YzeoE7X) | 4:03 | 2022-07-13 |  |
 | [Black Metal Sucks](https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z) | [Lich King](https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz) | [Do\-Over](https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D) | 3:09 | 2021-12-17 |  |
+| [Blackened](https://open.spotify.com/track/1odk70HBNbdk4wU0Ja9JR7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 6:42 | 2024-06-27 |  |
 | [Blackened \(Remastered\)](https://open.spotify.com/track/0M1pfDTZGWC7cBuEx3FwwT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered\)](https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t) | 6:42 | 2022-12-15 | 2024-04-19 |
 | [Blacklist](https://open.spotify.com/track/2K2aRJUaQl3CKKHELRqGZ6) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo Of The Damned](https://open.spotify.com/album/6Wp4fJsIhMNNyFB2ptnBUv) | 6:16 | 2021-12-17 | 2022-07-29 |
 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 | 2022-07-13 | 2024-04-19 |
@@ -251,7 +252,7 @@
 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 | 2023-07-31 |  |
 | [More Than Meets the Eye](https://open.spotify.com/track/4pwKVmEsLZAIFW05f88ZT4) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Formation of Damnation](https://open.spotify.com/album/5jTrbs0ea9De2sg0xrYzMK) | 4:33 | 2022-07-13 |  |
 | [Morgöth Tales](https://open.spotify.com/track/16VlzY5QqBBbJNTDsfrCQK) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Morgöth Tales](https://open.spotify.com/album/2341CvwtFQJyPRB4ytPUgQ) | 4:57 | 2023-07-31 |  |
-| [Motorbreath \(Remastered\)](https://open.spotify.com/track/1QQgmN383kUqjioRoTSfF3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 3:07 | 2022-07-13 |  |
+| [Motorbreath \(Remastered\)](https://open.spotify.com/track/1QQgmN383kUqjioRoTSfF3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 3:07 | 2022-07-13 | 2025-03-25 |
 | [My Time](https://open.spotify.com/track/1sqsPBnKuxll8URvRCZHkm) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [My Time](https://open.spotify.com/album/2JyepvdOYShc2hc9uKMgRz) | 3:53 | 2021-12-17 | 2022-07-29 |
 | [My Time](https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Mourn the Southern Skies](https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom) | 3:53 | 2022-07-13 | 2024-04-19 |
 | [Napalm In The Morning](https://open.spotify.com/track/04vA6gMckJePW0RAxijZcm) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/5calVaFQFKLSAg0LZ3FQqy) | 5:56 | 2022-07-13 | 2022-07-29 |

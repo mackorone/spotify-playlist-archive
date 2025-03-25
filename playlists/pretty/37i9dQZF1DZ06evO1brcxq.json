@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 148137,
+  "num_followers": 148219,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z939gAAAAADEqZSuGG7jqv88PM32DzED",
+  "snapshot_id": "Z99PAAAAAADdvV3QbYg8eDYC8Z0n8V90",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Number 1 Angel",
+        "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 201755,
+      "name": "Roll with Me",
+      "url": "https://open.spotify.com/track/0D6VCA9ycrkk9kH9F0p0AB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dirty Sexy Money (feat. Charli XCX & French Montana)",
         "url": "https://open.spotify.com/album/613u1KxcevDq5Kd8j0zD2U"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 172687,
       "name": "Dirty Sexy Money (feat. Charli XCX & French Montana)",
       "url": "https://open.spotify.com/track/0tPQPaOKM32WgMSbPCYyRH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Number 1 Angel",
-        "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 201755,
-      "name": "Roll with Me",
-      "url": "https://open.spotify.com/track/0D6VCA9ycrkk9kH9F0p0AB"
     }
   ],
   "unique_name": "This Is Charli xcx",

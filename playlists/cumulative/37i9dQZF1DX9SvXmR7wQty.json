@@ -49241,6 +49241,24 @@
     },
     {
       "album": {
+        "name": "Sains et saufs",
+        "url": "https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "Sains et saufs",
+      "url": "https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi"
+    },
+    {
+      "album": {
         "name": "Sainte-Rita",
         "url": "https://open.spotify.com/album/0HbcKi9jIdUOg38c1r6BzJ"
       },
@@ -61670,7 +61688,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 149701,
       "name": "\u00c9clipse",
       "url": "https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7"

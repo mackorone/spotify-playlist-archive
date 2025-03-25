@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd_waLOSAXrA\">Panda Bear</a>",
-  "num_followers": 67337,
+  "num_followers": 67333,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQgaOu8ur95noklxwJjy5dRpnG0IsE",
+  "snapshot_id": "AAAQg4gMykNdZ8NQjfel+6WdIV3aUeLm",
   "tracks": [
+    {
+      "added_at": "2025-03-24 14:14:51",
+      "album": {
+        "name": "Priestess",
+        "url": "https://open.spotify.com/album/6BUKIcQNRwCyxnpDX7gAKN"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 324886,
+      "name": "Priestess",
+      "url": "https://open.spotify.com/track/7rQFHQ5mtzmdWxNkTbsuub"
+    },
     {
       "added_at": "2025-03-19 10:54:33",
       "album": {

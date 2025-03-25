@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house  💣  tech house technicians, featuring J\. Worra
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,746 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,805 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,14 +97,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 87 | [Dame Más \(Gasolina\)](https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Dame Más \(Gasolina\)](https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf) | 3:01 |
 | 88 | [Don't Touch That Dial](https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Don't Touch That Dial EP](https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl) | 3:14 |
 | 89 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 |
-| 90 | [MERTHER](https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [MERTHER](https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo) | 3:09 |
-| 91 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
+| 90 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
+| 91 | [MERTHER](https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [MERTHER](https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo) | 3:09 |
 | 92 | [Serotonine](https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Serotonine EP](https://open.spotify.com/album/2IJ0OyFYDdHyoWZ4ZRNx8s) | 3:20 |
 | 93 | [Latinamerica \(feat\. Vika\)](https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Jayie](https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG), [Vika](https://open.spotify.com/artist/4oJoVioxaLXaqrc9YTvKKu) | [Latinamerica \(feat\. Vika\)](https://open.spotify.com/album/2bHb66F60DMmKtFlmlkFJK) | 2:04 |
 | 94 | [See You Sweat](https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [See You Sweat](https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i) | 3:29 |
 | 95 | [Pressure](https://open.spotify.com/track/3wdOS1vNOk05bJyV83etSd) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pressure](https://open.spotify.com/album/5ucAylWdRxiWt2PfdVUmiu) | 3:12 |
-| 96 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
-| 97 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
+| 96 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
+| 97 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
 | 98 | [So Good \- Heat Mix](https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [So Good \(Heat Mix\)](https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW) | 4:00 |
 | 99 | [Push The Tempo \- Odd Mob Remix](https://open.spotify.com/track/3lUpvA6ty7qoNLxcBOu2Q1) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Push The Tempo \(Odd Mob Remix\)](https://open.spotify.com/album/3J39d41BkleUhTqYJG2e2S) | 2:58 |
 | 100 | [Bread \(Odd Mob Remix\)](https://open.spotify.com/track/2a7S20OOYMYdwka6SxCynO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Bread: The Remixes](https://open.spotify.com/album/0fdeYl2s70ftEpAfpU6JPh) | 3:08 |

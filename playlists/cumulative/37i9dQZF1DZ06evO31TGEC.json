@@ -686,7 +686,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 202573,
       "name": "Ella (Me Cans\u00e9 De Rogarle)",
       "url": "https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk"
@@ -1018,10 +1018,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 187600,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/7cQu1Br0VrCs193cn3eyTO"
+    },
+    {
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/2OrvSQTMHDlBx9t9WGVck0"
     },
     {
       "album": {
@@ -1264,6 +1282,24 @@
       "duration_ms": 180185,
       "name": "Nadie Es De Nadie",
       "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
+    },
+    {
+      "album": {
+        "name": "Mis Decretos",
+        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162321,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/5gmL3RvxGZM0VW1E38HvnF"
     },
     {
       "album": {

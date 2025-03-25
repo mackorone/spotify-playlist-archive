@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 37047,
+  "num_followers": 37045,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Starcrossed",
+        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Starcrossed",
+      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Starcrossed",
-        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Starcrossed",
-      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -483,22 +483,18 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK"
+        "name": "Tontauben",
+        "url": "https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z"
       },
       "artists": [
         {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "Justin J. Moore",
-          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+          "name": "Hecht",
+          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
         }
       ],
-      "duration_ms": 151845,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI"
+      "duration_ms": 196400,
+      "name": "Tontauben",
+      "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -551,18 +547,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "With Me",
-        "url": "https://open.spotify.com/album/2r8MZFgKkGqUzblhjKDBub"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK"
       },
       "artists": [
         {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
         }
       ],
-      "duration_ms": 197979,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/2suQhCn72hzEVDJjr88yr7"
+      "duration_ms": 151845,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "With Me",
+        "url": "https://open.spotify.com/album/2r8MZFgKkGqUzblhjKDBub"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 197979,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/2suQhCn72hzEVDJjr88yr7"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "February",
         "url": "https://open.spotify.com/album/1aS4Ymw0GPsZI5sASa0Bq1"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 131528,
       "name": "Honolulu",
       "url": "https://open.spotify.com/track/5pW5kURQgNzOgNLtYBhFxh"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Tontauben",
-        "url": "https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z"
-      },
-      "artists": [
-        {
-          "name": "Hecht",
-          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Tontauben",
-      "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "No Time to Cry",
-        "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "No Time to Cry",
-      "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "No Time to Cry",
+        "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "No Time to Cry",
+      "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Tribut",
+        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+      },
+      "artists": [
+        {
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+        }
+      ],
+      "duration_ms": 197992,
+      "name": "Tribut",
+      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Chlorine",
         "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Tribut",
-        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
       "artists": [
         {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 197992,
-      "name": "Tribut",
-      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -839,22 +855,6 @@
       "duration_ms": 152000,
       "name": "ENEMY",
       "url": "https://open.spotify.com/track/2ml2U1MZUnXfnHPghzQZ7q"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Balloons",
         "url": "https://open.spotify.com/album/2lP6OqzWUHRpdzaKyrTL1c"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 215445,
       "name": "Balloons",
       "url": "https://open.spotify.com/track/1V47lbZfZhqeSHpj8I8rDU"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -1015,6 +1015,38 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
+      },
+      "artists": [
+        {
+          "name": "Andryy",
+          "url": "https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP"
+        }
+      ],
+      "duration_ms": 194379,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG"
       },
@@ -1047,22 +1079,6 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
-      },
-      "artists": [
-        {
-          "name": "Andryy",
-          "url": "https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP"
-        }
-      ],
-      "duration_ms": 194379,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
         "name": "Hinterem Mond",
         "url": "https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 163578,
       "name": "Sand",
       "url": "https://open.spotify.com/track/320FkP0qHyl7w1a1oDpyhE"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
+        "name": "What if It All Works Out",
+        "url": "https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 213494,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -1135,38 +1151,6 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "kissing you at midnight",
-        "url": "https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 193294,
-      "name": "kissing you at midnight",
-      "url": "https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "What if It All Works Out",
-        "url": "https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 213494,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
         "name": "Milchstrass (feat. Aaron Asteria)",
         "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 237680,
       "name": "Milchstrass (feat. Aaron Asteria)",
       "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
+        "name": "kissing you at midnight",
+        "url": "https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "kissing you at midnight",
+      "url": "https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7"
     }
   ],
   "unique_name": "Swiss Made",

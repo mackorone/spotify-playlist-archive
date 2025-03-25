@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 164500,
       "name": "Addicted (feat. Haley Maze)",
       "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 141120,
       "name": "BAD",
       "url": "https://open.spotify.com/track/7HJ36tzl7OSLgFeRuCNvdZ"
@@ -8488,7 +8488,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 139842,
       "name": "Run It!",
       "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
@@ -10494,6 +10494,24 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
+    },
+    {
+      "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/3drZTTzMPAJzZlw06fX2hE"
+      },
+      "artists": [
+        {
+          "name": "Yurie",
+          "url": "https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/6fTWk9wpKkE64teVqn8KkS"
     },
     {
       "album": {

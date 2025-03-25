@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Dabin
 
-745 songs - 1 day 20 hr 36 min
+746 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [So Alive](https://open.spotify.com/track/0h6bm47GyD7bArUBTGEkp9) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [So Alive](https://open.spotify.com/album/0jCAy2DkhbyDW7uaONsiIX) | 4:09 | 2022-07-08 | 2023-04-09 |
 | [So Long \- Tails Remix](https://open.spotify.com/track/3FLxGmYJyextdbsVPZxn5p) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [So Long \(Tails Remix\)](https://open.spotify.com/album/0C8IJ8Gmzhsby8BpZiItgc) | 4:12 | 2022-07-08 | 2022-08-06 |
 | [So What](https://open.spotify.com/track/1ZrEy4fu5wiHOmNf1tN2HP) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [jasper](https://open.spotify.com/artist/4GlglNbE2y1QJC1I2Jjolj) | [So What](https://open.spotify.com/album/4JJULQ9cPENN67nIzQOw8Q) | 2:56 | 2024-09-20 | 2025-03-08 |
-| [Solar](https://open.spotify.com/track/61jTmmE6BNfmAFZ8zrBttX) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Solar](https://open.spotify.com/album/0iLc7PUs0lw2pQiDATYlN8) | 3:23 | 2024-08-02 |  |
+| [Solar](https://open.spotify.com/track/61jTmmE6BNfmAFZ8zrBttX) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Solar](https://open.spotify.com/album/0iLc7PUs0lw2pQiDATYlN8) | 3:23 | 2024-08-02 | 2025-03-25 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 |  |
 | [Someone You Forget](https://open.spotify.com/track/1oLxRluTxUVVsp4k86y21R) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Someone You Forget](https://open.spotify.com/album/2D2ektN5qMfIV98wsZbwNg) | 5:23 | 2025-01-24 |  |
 | [Something To Hold On To](https://open.spotify.com/track/5uxw5qlOS0fD2asqjjMzRs) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Aaron Shirk](https://open.spotify.com/artist/70P7yFhHgxKx4SMe6JCNOW), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Something To Hold On To](https://open.spotify.com/album/3rm0YLNGsLrIvzXODYkgkW) | 4:18 | 2024-03-29 | 2024-09-21 |
@@ -730,6 +730,7 @@
 | [Wild And Broken \(feat\. RBBTS\)](https://open.spotify.com/track/5NuTqBz0vd3z3eBDmTg6no) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Wild And Broken \(feat\. RBBTS\)](https://open.spotify.com/album/58eFCzM4IjqdcTV2RCSTYy) | 4:03 | 2022-07-08 | 2022-08-06 |
 | [Wild Ones](https://open.spotify.com/track/2nCMeiTtIRskxjAzCamebn) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Wild Ones](https://open.spotify.com/album/3fZcUSJ3t0u4XftTN9aB2v) | 3:28 | 2022-07-08 | 2022-08-06 |
 | [Windows Down](https://open.spotify.com/track/67nRUNr1aMLlCKhtPQ62gC) | [Protohype](https://open.spotify.com/artist/7KG6QgP9Xb87ybAr9C24qw), [Cristina Soto](https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj) | [Windows Down](https://open.spotify.com/album/3szKESHOV0A3hPxLBwe6kp) | 4:08 | 2024-03-29 | 2024-04-27 |
+| [Wings](https://open.spotify.com/track/4poYxHtQHxKTZJc1XZSJbc) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC) | [Wings](https://open.spotify.com/album/3lwop6Iumg14L5xmjlRuBB) | 2:48 | 2025-03-24 |  |
 | [Wisdom \- Amidy Remix](https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Wisdom \(Amidy Remix\)](https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp) | 3:50 | 2022-07-08 | 2023-08-26 |
 | [Wish I Knew](https://open.spotify.com/track/6xEterOgHQcyiChE5CODKQ) | [MEDZ](https://open.spotify.com/artist/61c8McUZCtrU9WOjvFkyiL), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Wish I Knew](https://open.spotify.com/album/0Bes7F5BY6HDso4gwRNzjP) | 4:01 | 2024-11-30 |  |
 | [With Or Without](https://open.spotify.com/track/00gAMKnttfhle0s8FYz7IM) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [With Or Without](https://open.spotify.com/album/4wGeavaJF8hxmfSIzdNywd) | 3:44 | 2024-03-29 | 2024-11-16 |

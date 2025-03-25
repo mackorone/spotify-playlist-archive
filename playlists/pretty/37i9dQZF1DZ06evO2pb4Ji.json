@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 394225,
+  "num_followers": 394217,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z939gAAAAACHOLl3PsuYYaqamnVej1dO",
+  "snapshot_id": "Z99PAAAAAAD8MUOCausQadwGvVa/HPYh",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bite Marks",
-        "url": "https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "TEYA",
-          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
-        }
-      ],
-      "duration_ms": 190138,
-      "name": "Bite Marks",
-      "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bite Marks",
+        "url": "https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "TEYA",
+          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
+        }
+      ],
+      "duration_ms": 190138,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
     },
     {
       "added_at": null,

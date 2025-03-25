@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,849 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,844 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 58 | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/track/1quDa34OPuY1chb0vAKmtO) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/album/2RsXIpTTgPkd0F7YDUi7uH) | 2:16 |
 | 59 | [Christmas Time](https://open.spotify.com/track/3dEcwdMkpGKBqikwgjGXXv) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Christmas Time](https://open.spotify.com/album/3jOlSmUriGAdcDeSwZjgEH) | 2:42 |
 | 60 | [Wish Upon a Christmas](https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Wish Upon a Christmas](https://open.spotify.com/album/5yhVdVdyZKjPE59rxqCyVx) | 2:01 |
-| 61 | [Christmas Magic Is Real](https://open.spotify.com/track/2FjDZXnhsnKnFgY1Juwdmw) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Christmas Magic Is Real](https://open.spotify.com/album/3wRPH0AezxzaVgQiUHJB4R) | 3:09 |
+| 61 | [Jingle Bell Rock](https://open.spotify.com/track/4UUA9qltzLq1nCMXioOQTH) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [HOLIDAYS ROCK!](https://open.spotify.com/album/0tEMmsMMWCsPNosJanxsbV) | 1:50 |
 | 62 | [Run Rudolph Run](https://open.spotify.com/track/5dz0znJokWnGpYiAXMi2NJ) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Run Rudolph Run](https://open.spotify.com/album/4SXUAm1Xiw1HHsEwq99WBR) | 2:42 |
-| 63 | [Jingle Bell Rock](https://open.spotify.com/track/4UUA9qltzLq1nCMXioOQTH) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [HOLIDAYS ROCK!](https://open.spotify.com/album/0tEMmsMMWCsPNosJanxsbV) | 1:50 |
+| 63 | [Christmas Magic Is Real](https://open.spotify.com/track/2FjDZXnhsnKnFgY1Juwdmw) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Christmas Magic Is Real](https://open.spotify.com/album/3wRPH0AezxzaVgQiUHJB4R) | 3:09 |
 | 64 | [Christmas with you](https://open.spotify.com/track/6jjAQS6XXVmVDUqpyOgs4v) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Jools TV Christmas](https://open.spotify.com/album/355T45LxWwMhANrNznc4ZB) | 3:01 |
-| 65 | [Santa's Sleigh Ride](https://open.spotify.com/track/5b6ptNl6YEzoXmyP6iIup5) | [Lalay Kids TV](https://open.spotify.com/artist/5qDABs4BS5VQ5iZd37a0x3) | [Santa's Sleigh Ride](https://open.spotify.com/album/4Rvmgzr1xHGwCDonEnGsLE) | 2:23 |
-| 66 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7Bw7S2olPWsEzG3DVSttXP) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Cool Christmas Jams](https://open.spotify.com/album/7gjsSVAOCPS8QQn4CiedmL) | 2:42 |
+| 65 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7Bw7S2olPWsEzG3DVSttXP) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Cool Christmas Jams](https://open.spotify.com/album/7gjsSVAOCPS8QQn4CiedmL) | 2:42 |
+| 66 | [Santa's Sleigh Ride](https://open.spotify.com/track/5b6ptNl6YEzoXmyP6iIup5) | [Lalay Kids TV](https://open.spotify.com/artist/5qDABs4BS5VQ5iZd37a0x3) | [Santa's Sleigh Ride](https://open.spotify.com/album/4Rvmgzr1xHGwCDonEnGsLE) | 2:23 |
 | 67 | [The Music](https://open.spotify.com/track/6yIl6zgZVbX6LXbV9EmZfL) | [Joanie Leeds](https://open.spotify.com/artist/4KOQZQuOdq1Zllyn7Nr4hK), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura](https://open.spotify.com/artist/0W03k2LZLelspojCKb5kRC), [Joya](https://open.spotify.com/artist/3AfWNkURxSMTRbMQm9cgLs) | [Oy Vey! Another Christmas Album](https://open.spotify.com/album/62jTIp3GFKbQRAYgOZlgPo) | 0:30 |
 | 68 | [Have a Very Merry Christmas!](https://open.spotify.com/track/6qGtA3NfXR2AONLk0DXLLz) | [Planet Pop](https://open.spotify.com/artist/7yptVkFCSbyrn0yLT2loFA), [ELT Songs](https://open.spotify.com/artist/2mP8Vg7ktmt4KASyZYj5rt) | [Planet Pop's Christmas Party](https://open.spotify.com/album/5izRIZXfu5qFId9v52Ysrl) | 2:24 |
 | 69 | [Winter Wonderland](https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Best Christmas Songs for Children](https://open.spotify.com/album/0CxmYny82lUsiY9BOPuDuL) | 2:55 |

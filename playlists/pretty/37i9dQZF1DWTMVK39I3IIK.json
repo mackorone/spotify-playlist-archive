@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Soleima",
-  "num_followers": 46116,
+  "num_followers": 46112,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
-        "name": "S\u00e6tter Alt P\u00e5 Spil",
-        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 197589,
-      "name": "S\u00e6tter Alt P\u00e5 Spil",
-      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
-    },
-    {
-      "added_at": "2025-03-21 08:19:46",
-      "album": {
         "name": "ATTITUDE",
         "url": "https://open.spotify.com/album/3OzfQT3HXKSMWWZYRwp4bN"
       },
@@ -539,22 +523,34 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
-        "name": "DR\u00d8MMEHUG",
-        "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
+        "name": "S\u00e6tter Alt P\u00e5 Spil",
+        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
       "artists": [
         {
-          "name": "HUGORM",
-          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
-        },
-        {
-          "name": "PRISMA",
-          "url": "https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au"
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
         }
       ],
-      "duration_ms": 168090,
-      "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
-      "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
+      "duration_ms": 197589,
+      "name": "S\u00e6tter Alt P\u00e5 Spil",
+      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
+    },
+    {
+      "added_at": "2025-03-21 08:19:46",
+      "album": {
+        "name": "I Know All The Words But I Can't Say Goodbye",
+        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
+      },
+      "artists": [
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "duration_ms": 207558,
+      "name": "We Grow",
+      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
     },
     {
       "added_at": "2025-03-21 08:19:46",
@@ -575,18 +571,22 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
-        "name": "I Know All The Words But I Can't Say Goodbye",
-        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
+        "name": "DR\u00d8MMEHUG",
+        "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
       },
       "artists": [
         {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+          "name": "HUGORM",
+          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
+        },
+        {
+          "name": "PRISMA",
+          "url": "https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au"
         }
       ],
-      "duration_ms": 207558,
-      "name": "We Grow",
-      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
+      "duration_ms": 168090,
+      "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
+      "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
     },
     {
       "added_at": "2025-03-21 08:19:46",
@@ -623,6 +623,26 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE"
+      },
+      "artists": [
+        {
+          "name": "SOL",
+          "url": "https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj"
+        },
+        {
+          "name": "Emil Kruse",
+          "url": "https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun"
+        }
+      ],
+      "duration_ms": 176067,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU"
+    },
+    {
+      "added_at": "2025-03-21 08:19:46",
+      "album": {
         "name": "Desires",
         "url": "https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD"
       },
@@ -655,42 +675,6 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
-        "name": "Turn Around",
-        "url": "https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE"
-      },
-      "artists": [
-        {
-          "name": "SOL",
-          "url": "https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj"
-        },
-        {
-          "name": "Emil Kruse",
-          "url": "https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun"
-        }
-      ],
-      "duration_ms": 176067,
-      "name": "Turn Around",
-      "url": "https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU"
-    },
-    {
-      "added_at": "2025-03-21 08:19:46",
-      "album": {
-        "name": "Dele Af Mig",
-        "url": "https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga"
-      },
-      "artists": [
-        {
-          "name": "milo",
-          "url": "https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF"
-        }
-      ],
-      "duration_ms": 167883,
-      "name": "Dele Af Mig",
-      "url": "https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls"
-    },
-    {
-      "added_at": "2025-03-21 08:19:46",
-      "album": {
         "name": "Elendig Software",
         "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 251665,
       "name": "A thousand lies",
       "url": "https://open.spotify.com/track/3g0lxrU7wv7j64QLAt2Krc"
+    },
+    {
+      "added_at": "2025-03-21 08:19:46",
+      "album": {
+        "name": "Dele Af Mig",
+        "url": "https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga"
+      },
+      "artists": [
+        {
+          "name": "milo",
+          "url": "https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF"
+        }
+      ],
+      "duration_ms": 167883,
+      "name": "Dele Af Mig",
+      "url": "https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls"
     },
     {
       "added_at": "2025-03-21 08:19:46",
@@ -855,18 +855,34 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
-        "name": "hva s\u00e5?",
-        "url": "https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj"
+        "name": "Et Sted p\u00e5 Vesterbro",
+        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+          "name": "Augusta Schackinger",
+          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
         }
       ],
-      "duration_ms": 164696,
-      "name": "hva s\u00e5?",
-      "url": "https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe"
+      "duration_ms": 148521,
+      "name": "Et Sted p\u00e5 Vesterbro",
+      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
+    },
+    {
+      "added_at": "2025-03-21 08:19:46",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST"
     },
     {
       "added_at": "2025-03-21 08:19:46",
@@ -891,34 +907,18 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN"
+        "name": "hva s\u00e5?",
+        "url": "https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj"
       },
       "artists": [
         {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
         }
       ],
-      "duration_ms": 178746,
-      "name": "Carpe Diem",
-      "url": "https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST"
-    },
-    {
-      "added_at": "2025-03-21 08:19:46",
-      "album": {
-        "name": "Et Sted p\u00e5 Vesterbro",
-        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
-      },
-      "artists": [
-        {
-          "name": "Augusta Schackinger",
-          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
-        }
-      ],
-      "duration_ms": 148521,
-      "name": "Et Sted p\u00e5 Vesterbro",
-      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
+      "duration_ms": 164696,
+      "name": "hva s\u00e5?",
+      "url": "https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe"
     },
     {
       "added_at": "2025-03-21 08:19:46",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "Brev Fra En Forr\u00e6der",
-      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
-    },
-    {
-      "added_at": "2025-03-21 08:19:46",
-      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "added_at": "2025-03-21 08:19:46",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "Brev Fra En Forr\u00e6der",
+      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
     },
     {
       "added_at": "2025-03-21 08:19:46",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
+        "name": "T\u00e6nker Du Mon Nogensinde P\u00e5 Os",
+        "url": "https://open.spotify.com/album/70S07sIasspR3twjbfN6BZ"
+      },
+      "artists": [
+        {
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "T\u00e6nker Du Mon Nogensinde P\u00e5 Os",
+      "url": "https://open.spotify.com/track/58HZHUAFH29Ujc3033yIw1"
+    },
+    {
+      "added_at": "2025-03-21 08:19:46",
+      "album": {
         "name": "I'm Sick of Missing You",
         "url": "https://open.spotify.com/album/5O0EsehiDCiX5MxcOuJObJ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 112099,
       "name": "I'm Sick of Missing You",
       "url": "https://open.spotify.com/track/6AKcw88IDs1odE5xiHZxqV"
-    },
-    {
-      "added_at": "2025-03-21 08:19:46",
-      "album": {
-        "name": "T\u00e6nker Du Mon Nogensinde P\u00e5 Os",
-        "url": "https://open.spotify.com/album/70S07sIasspR3twjbfN6BZ"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "T\u00e6nker Du Mon Nogensinde P\u00e5 Os",
-      "url": "https://open.spotify.com/track/58HZHUAFH29Ujc3033yIw1"
     },
     {
       "added_at": "2025-03-21 08:19:46",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-03-21 08:19:46",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 220384,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
-    },
-    {
-      "added_at": "2025-03-21 08:19:46",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+    },
+    {
+      "added_at": "2025-03-21 08:19:46",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 220384,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
     },
     {
       "added_at": "2025-03-21 08:19:46",

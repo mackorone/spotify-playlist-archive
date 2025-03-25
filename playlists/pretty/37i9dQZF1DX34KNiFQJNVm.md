@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mumuzinho com Péricles, NATTAN, MC Kevin O Chris, Rael com Luedji Luna e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,045,297 likes - 53 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,045,401 likes - 53 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

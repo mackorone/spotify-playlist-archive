@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 315947,
+  "num_followers": 315957,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 400037,
+      "name": "Earth To Sea",
+      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
         "name": "Contently Miserable",
         "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
         }
       ],
-      "duration_ms": 400037,
-      "name": "Earth To Sea",
-      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+      "duration_ms": 202026,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -663,22 +679,6 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "The Heart",
-        "url": "https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 277492,
-      "name": "The Heart",
-      "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Your Type",
         "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "what if love isn't enough",
-        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
+        "name": "The Heart",
+        "url": "https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD"
       },
       "artists": [
         {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
         }
       ],
-      "duration_ms": 228522,
-      "name": "what if love isn't enough",
-      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
+      "duration_ms": 277492,
+      "name": "The Heart",
+      "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1147,6 +1131,22 @@
       "duration_ms": 264279,
       "name": "Standard Tuning",
       "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "what if love isn't enough",
+        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 228522,
+      "name": "what if love isn't enough",
+      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc"
-      },
-      "artists": [
-        {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
-        }
-      ],
-      "duration_ms": 220458,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "All We've Ever Known",
-        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc"
       },
       "artists": [
         {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
         }
       ],
-      "duration_ms": 241499,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
+      "duration_ms": 220458,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1263,22 +1247,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Migraine",
-        "url": "https://open.spotify.com/album/1Ys261IwpQi3LLoCyjK5s7"
-      },
-      "artists": [
-        {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
-        }
-      ],
-      "duration_ms": 221001,
-      "name": "Migraine",
-      "url": "https://open.spotify.com/track/7wX5nXtf9cWMVvM0e0JwbV"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Simona",
         "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
       },
@@ -1291,6 +1259,38 @@
       "duration_ms": 228642,
       "name": "Cielo Negro",
       "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Migraine",
+        "url": "https://open.spotify.com/album/1Ys261IwpQi3LLoCyjK5s7"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "duration_ms": 221001,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/7wX5nXtf9cWMVvM0e0JwbV"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Agape",
-        "url": "https://open.spotify.com/album/0OUsdW7NNurcD9FgDMWPex"
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
       },
       "artists": [
         {
-          "name": ".com",
-          "url": "https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ"
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
         }
       ],
-      "duration_ms": 189769,
-      "name": "Agape",
-      "url": "https://open.spotify.com/track/20Q3uWKaK1C9VQMYjfXq9R"
+      "duration_ms": 185182,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
     }
   ],
   "unique_name": "Dreampop",

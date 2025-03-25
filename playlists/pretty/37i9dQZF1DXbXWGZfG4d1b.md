@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,055 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,058 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 67 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 |
 | 68 | [Las Cosas que Fueron Antes](https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cinta Testigo, Vol\. 1](https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW) | 3:02 |
 | 69 | [Estoy Bien](https://open.spotify.com/track/3lzASIb59OFvxqNTw6B5FK) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Estoy Bien](https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8) | 2:51 |
-| 70 | [El Invierno](https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp) | [Bifes con ensalada](https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y) | [El Invierno](https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO) | 3:20 |
-| 71 | [Otra Vez De Nuevo](https://open.spotify.com/track/16GZsyUlkEHMdXjc9JucoL) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [El Misterio de Paul Higgs](https://open.spotify.com/album/7yv62EzM7FgvQnCWPZKnBa) | 4:26 |
+| 70 | [Otra Vez De Nuevo](https://open.spotify.com/track/16GZsyUlkEHMdXjc9JucoL) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [El Misterio de Paul Higgs](https://open.spotify.com/album/7yv62EzM7FgvQnCWPZKnBa) | 4:26 |
+| 71 | [El Invierno](https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp) | [Bifes con ensalada](https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y) | [El Invierno](https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO) | 3:20 |
 | 72 | [Oh my goth](https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Creo que necesito ir a dar una vuelta](https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee) | 3:12 |
 | 73 | [Puedo ver el mar en tus ojos](https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Puedo ver el mar en tus ojos](https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF) | 3:01 |
 | 74 | [El Buen Fantasma](https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Buen Fantasma](https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA) | 2:59 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 88 | [El Dato \- Vivo La Plata](https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Vivo La Plata](https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA) | 3:36 |
 | 89 | [Quiero Ser una Luciérnaga](https://open.spotify.com/track/0gdCMqI69uSqiUMJ6ymqIF) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd), [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Ramiro Garcia Morete](https://open.spotify.com/artist/5YB1X9Z6pRk36FRshYqGGE), [Tato Urbiztondo](https://open.spotify.com/artist/3EaKKv3hOH8Umk2ZN8nSW2), [Emiliano Santillan](https://open.spotify.com/artist/5L8XFW3sEM3771fgtGkUvG) | [Cinta Testigo, Vol\. 1](https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW) | 3:11 |
 | 90 | [Desconsuelo](https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Desconsuelo](https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T) | 4:03 |
-| 91 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 |
-| 92 | [siempre es para siempre](https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64) | [Feli Ruiz](https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5) | [siempre es para siempre](https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW) | 3:23 |
+| 91 | [siempre es para siempre](https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64) | [Feli Ruiz](https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5) | [siempre es para siempre](https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW) | 3:23 |
+| 92 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 |
 | 93 | [Los Carritos](https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [Fantasías de Violencia](https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4) | 4:13 |
 | 94 | [Pastillas](https://open.spotify.com/track/51SYnvMbQqIiw8EbGh2HZK) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Pastillas](https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo) | 3:20 |
 | 95 | [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 |

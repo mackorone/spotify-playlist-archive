@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31085,
+  "num_followers": 31087,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQCZeX7kbNGwgr2k4i/aEs4L3XgABF",
+  "snapshot_id": "AAAQDR0XNIKnGvZEMtTFP7lmxEQ9fxrV",
   "tracks": [
     {
       "added_at": "2025-03-13 17:24:00",
@@ -115,6 +115,42 @@
       "duration_ms": 227934,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
+    },
+    {
+      "added_at": "2025-03-24 17:24:47",
+      "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF"
+    },
+    {
+      "added_at": "2025-03-24 17:24:51",
+      "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "SAMSON",
+          "url": "https://open.spotify.com/artist/2I2FhyufVacXGtnLVt5mcp"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "The 6",
+      "url": "https://open.spotify.com/track/2xZGHDB2CudDDIWjEQpdtB"
     },
     {
       "added_at": "2024-10-23 16:45:04",

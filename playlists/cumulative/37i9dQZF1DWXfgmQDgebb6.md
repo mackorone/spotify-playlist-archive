@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: 예빛\(Yebit\)\)
 
-364 songs - 23 hr 8 min
+367 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [always get lonely](https://open.spotify.com/track/3n7yfICjsQoCV66J403qms) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:26 | 2023-04-22 |  |
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-27 |  |
 | [And It's Over](https://open.spotify.com/track/1rnsLPSOHmNegyegIxoUgK) | [SURYEON](https://open.spotify.com/artist/5jyPaTMuPzds0MAd8WtxAd) | [IMPERFECT](https://open.spotify.com/album/3MuXy7w4uc8qGUWkxtDRXw) | 2:52 | 2022-06-18 |  |
+| [Aqua Man](https://open.spotify.com/track/5tEouf2s1SPwAIkOHnvWtQ) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [24:26 \(5th Anniversary Remaster Edition\)](https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU) | 3:46 | 2025-03-24 |  |
 | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/track/6Z7EQCTRd1xvYNQA4e8cXu) | [hyangni](https://open.spotify.com/artist/3cJZkGtAEEajyDOnbYe42O), [Telefonist](https://open.spotify.com/artist/3ICg4qSKMB3EuuEjiyuVIw) | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/album/1a91fUH02ghx9W49pD7Kfx) | 3:19 | 2022-05-27 |  |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-13 |  |
 | [astroboy.](https://open.spotify.com/track/5B7K0zs5gkaueWXzgd0vk7) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [cheer up!](https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8) | 4:00 | 2022-05-27 |  |
@@ -35,6 +36,7 @@
 | [Be My \(feat\. Lokid\)](https://open.spotify.com/track/0cGqf70zFVKVPFq5S6vWOM) | [Uza](https://open.spotify.com/artist/2i1YHJ5ulcVQJt6zNLeSkL), [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [Be My](https://open.spotify.com/album/3U5Unwd0vnKVNWiXdMGayU) | 5:00 | 2022-07-04 |  |
 | [Beautiful](https://open.spotify.com/track/2r7FeGOELjIHKIpPjLeXvd) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [SURFING](https://open.spotify.com/album/4gjhFa54JUgELzHmQoR4J1) | 3:17 | 2022-05-27 |  |
 | [Before 12 o'clock \(feat\. Honey Apple\)](https://open.spotify.com/track/5jYJzEEMCJE98cM41rwt98) | [LQMC](https://open.spotify.com/artist/1gQdzJ75h4L7e38xJhoczx), [Honey Apple](https://open.spotify.com/artist/7h7sOqNmc6mzSQuDRHmyev) | [Before 12 o'clock](https://open.spotify.com/album/2QsHZ9YZesFSpwb8f67fvu) | 3:31 | 2022-05-27 |  |
+| [BENTLEY 2](https://open.spotify.com/track/3Lye9n9zKVuJyB51jmp8EL) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 2](https://open.spotify.com/album/4fSn71IKAOVVu5ujvYG46a) | 4:13 | 2025-03-24 |  |
 | [Bi\-elijah](https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C) | [Y2K92](https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9) | [The Songs for the NOT\-YETs](https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX) | 4:47 | 2023-02-20 | 2023-03-18 |
 | [Birthday](https://open.spotify.com/track/0xOBqBL9Gy68Dc8ZA3fAIE) | [Festy Wxs](https://open.spotify.com/artist/21HMWviztlB3LNqP0nE4nu) | [Birthday](https://open.spotify.com/album/2GIJXudMpFp9ql5s6joZwX) | 2:07 | 2022-05-27 |  |
 | [BLEACHING \(feat\. Crush\)](https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 4:04 | 2023-06-13 |  |
@@ -190,6 +192,7 @@
 | [Liquor](https://open.spotify.com/track/4ouWk35JipdUIXfnvqg57U) | [Mesani](https://open.spotify.com/artist/7pua8I58KTTR311ZD8fagJ), [eeri](https://open.spotify.com/artist/1HxM1IZDClrR9OCpaXPMNa), [Laura](https://open.spotify.com/artist/1xwZAAavDMKPqjGiE2tqNu) | [Liquor](https://open.spotify.com/album/0n1DZGOSHvWlTzU6ephAto) | 3:55 | 2022-05-27 |  |
 | [Lost](https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Raw Gems Vol.1](https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC) | 1:56 | 2022-12-19 |  |
 | [love machine](https://open.spotify.com/track/1fSJP4kju7ptpwefeW4gbY) | [xiihu](https://open.spotify.com/artist/1VkBOxWu1Zt1mdsd7Ex1u1) | [Synthetic Heart](https://open.spotify.com/album/1uD8IR3fuDcIPWgvA1KS7c) | 3:05 | 2022-05-27 |  |
+| [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/track/3MtaDHBUCkfge8xExxyiQL) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/album/0ZYEIvgcYlfGWdOFCr7KV6) | 4:11 | 2025-03-24 |  |
 | [LOVE WRESTLE♡ \(feat\. NECTA\)](https://open.spotify.com/track/32cFWxZW9bVja4ffMXqOqg) | [earring](https://open.spotify.com/artist/4cF7iEYb69nJrn5PTTfj9S), [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [LOVE GAZE](https://open.spotify.com/album/5GcwUyyiaQAoX0uXJBVP02) | 2:48 | 2022-07-04 |  |
 | [lovestory](https://open.spotify.com/track/5xvtmuZYPQnofnu9O0vc7L) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [EGG](https://open.spotify.com/album/6riQ6u1zptxd4GdyjH0YtZ) | 3:20 | 2025-03-18 |  |
 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 | 2022-07-08 | 2025-03-19 |

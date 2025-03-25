@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Across The Way",
+        "url": "https://open.spotify.com/album/2Ru0paYVsDMN6ProWWkvje"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228201,
+      "name": "Across The Way",
+      "url": "https://open.spotify.com/track/0EhctTHXX6MRtNHHurF4Ay"
+    },
+    {
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0xye9fPdkqLWvaW52XXpg5"
       },
@@ -2055,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Blue Lavender",
+        "url": "https://open.spotify.com/album/3An9gls3ekkrNYmMBCnMEc"
+      },
+      "artists": [
+        {
+          "name": "Billie Shaw",
+          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220571,
+      "name": "Blue Lavender",
+      "url": "https://open.spotify.com/track/5YtBxc8IHmVA9oKdTwl8RW"
+    },
+    {
+      "album": {
         "name": "Early Morning Thoughts",
         "url": "https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO"
       },
@@ -2268,6 +2304,24 @@
       "duration_ms": 225600,
       "name": "Breathe the Air",
       "url": "https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI"
+    },
+    {
+      "album": {
+        "name": "Bright Sun",
+        "url": "https://open.spotify.com/album/5kEAcZLb9yOTioAQCBYJ2m"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211410,
+      "name": "Bright Sun",
+      "url": "https://open.spotify.com/track/7b1OIQd1udLag3ERkvhm9E"
     },
     {
       "album": {
@@ -4738,7 +4792,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 193237,
       "name": "Forever Promises",
       "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
@@ -6484,7 +6538,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 179233,
       "name": "If I could just go back",
       "url": "https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv"
@@ -9029,6 +9083,24 @@
     },
     {
       "album": {
+        "name": "Midnight Drift",
+        "url": "https://open.spotify.com/album/0HqXns0wRSdl5i3npa8dgR"
+      },
+      "artists": [
+        {
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217990,
+      "name": "Midnight Drift",
+      "url": "https://open.spotify.com/track/6UjkXOZj0kZB3XTJrGxoIS"
+    },
+    {
+      "album": {
         "name": "Midnight Fog",
         "url": "https://open.spotify.com/album/66aPKq9OcOikr2QZCQcslM"
       },
@@ -9706,7 +9778,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 271128,
       "name": "My Fortune",
       "url": "https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P"
@@ -10138,7 +10210,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 185346,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP"

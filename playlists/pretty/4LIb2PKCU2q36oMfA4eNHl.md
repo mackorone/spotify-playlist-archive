@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,468 likes - 101 songs - 6 hr 22 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,465 likes - 101 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Afterlife](https://open.spotify.com/track/6SRDUA2621H5vjtgl7qy1V) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Afterlife](https://open.spotify.com/album/6DM0yWvaTl6y0yC4n6JtzZ) | 3:27 |
+| 1 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 |
 | 2 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 |
-| 3 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 |
+| 3 | [Afterlife](https://open.spotify.com/track/6SRDUA2621H5vjtgl7qy1V) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Afterlife](https://open.spotify.com/album/6DM0yWvaTl6y0yC4n6JtzZ) | 3:27 |
 | 4 | [Slow Wave](https://open.spotify.com/track/0ScX9yeeb1vKqe6SMdjlVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:26 |
 | 5 | [Come Together](https://open.spotify.com/track/7n8sDrEcuMt0yezLDhIbnN) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Come Together / Naturish](https://open.spotify.com/album/51bI3TSSCHo87eNRjPeHMj) | 3:42 |
 | 6 | [All My Life](https://open.spotify.com/track/6txjv1bYloEaQ65SainV1Y) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:12 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 100 | [Night Drums](https://open.spotify.com/track/2ZcJPY7GajuGFRCLjoFULR) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 2:00 |
 | 101 | [Erase \(An Apparition\)](https://open.spotify.com/track/3YubJlJNgsLhggBLTUdtZx) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Apparitions](https://open.spotify.com/album/1mcEBBcWomsTWDQYWOaH8D) | 4:18 |
 
-Snapshot ID: `AAAKoizSoS+151IirQKXlv54n9UEpXtn`
+Snapshot ID: `AAAKpFwx3qHrPPjMfmWg8Tncz6+Jg/W1`

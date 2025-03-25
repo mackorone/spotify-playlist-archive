@@ -4,32 +4,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Lyyti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,470 likes - 86 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,472 likes - 86 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tuolileikki](https://open.spotify.com/track/6qWZGPbYtmjAabpIUyQFpW) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Tuolileikki](https://open.spotify.com/album/5TwY7Bs9WqD0LgNFOKJnOj) | 3:17 |
-| 2 | [Tarviin](https://open.spotify.com/track/4NNZjH7qQNDABudl4RKHyd) | [Vimma](https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa) | [Tarviin](https://open.spotify.com/album/0BlDrUFzyjsBp7yliFnGXz) | 3:15 |
-| 3 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
-| 4 | [Miten voin tietää mitä elämältä haluan, jos en edes tiedä mitä haluan aamupalaksi](https://open.spotify.com/track/2zxR8Zy8Mb8sxwM8vk4wv0) | [Lala Salama](https://open.spotify.com/artist/1cfCkkOJXJRyw1Xt3BNCMV) | [Miltähän me näytettäis yhdessä](https://open.spotify.com/album/2DxKlkJ9f1C4odH4tRs42j) | 2:29 |
-| 5 | [Siinä sä nyt oot](https://open.spotify.com/track/5qVqn8H1kLo3w7UvOdg4Db) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Siinä sä nyt oot](https://open.spotify.com/album/51iluio0Fl3zsyCvL0Nwts) | 3:15 |
-| 6 | [Basement](https://open.spotify.com/track/5QsXBQEAnBm061R1KxNIqF) | [Cats Of Transnistria](https://open.spotify.com/artist/2Rnlk97rOW76miPCgrvZKX) | [IV](https://open.spotify.com/album/5rz3Ke8X06MZ68kh1iCAKJ) | 5:39 |
-| 7 | [Annatko pusun](https://open.spotify.com/track/3vpbJ7A9CVMPWRrivcly0o) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Annatko pusun](https://open.spotify.com/album/0q3JtPqdVrG8iLmoTK4QW4) | 2:46 |
-| 8 | [Bruce Wayne Saves The Day](https://open.spotify.com/track/0PZM17tVwFATzQNaDtSrUG) | [Icons Of Elegance](https://open.spotify.com/artist/4CGwhxlwo7fMWrVxJFHNNn) | [Bruce Wayne Saves The Day](https://open.spotify.com/album/73hHKiL2Pr6hB6Fw21bSX0) | 2:48 |
-| 9 | [Kaikki mikä tulee](https://open.spotify.com/track/7z5JDX9bGwyLoYuMRFGZ3v) | [Ilmi Lupiini](https://open.spotify.com/artist/5AoVV4Ybs442k5wZz2owAl) | [Kaikki mikä tulee](https://open.spotify.com/album/0nQima8VLVVwLdDTUg6iaX) | 3:45 |
-| 10 | [Leskenlehdet](https://open.spotify.com/track/229wYThavUePmywOQZmnJF) | [Kaikki turhat haaveet](https://open.spotify.com/artist/5rsorJ0ZGBj6QvSbRMHDtK) | [Leskenlehdet](https://open.spotify.com/album/2IKhkFKHfZbOLkdQWvyHPp) | 4:34 |
-| 11 | [Erottamattomat](https://open.spotify.com/track/2HmGYyoMBYtCOwnYAB3gyH) | [Vepu](https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom) | [Erottamattomat](https://open.spotify.com/album/1of5tbdzEaA7VRibMmrqem) | 2:43 |
-| 12 | [Paperiset Päivät](https://open.spotify.com/track/4jyknSM1eMtixAd0YwcutS) | [Pilven Piirtäjät](https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t), [Annika Pudas](https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA) | [Paperiset Päivät](https://open.spotify.com/album/4b1MbCeXmAEXqdyUacZuVt) | 3:29 |
-| 13 | [Elää ikuisesti](https://open.spotify.com/track/0bLYdup2nKHNlunxfvCttA) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Elää ikuisesti](https://open.spotify.com/album/2yHTGxaJNub6eG2n4Spkt7) | 3:55 |
-| 14 | [Symmetriaa](https://open.spotify.com/track/4ZFusNynZ3uXg0oXzPm1Q7) | [Saga Olsson](https://open.spotify.com/artist/1HCzCxx9PSWC6fTLZcm4Ek) | [Symmetriaa](https://open.spotify.com/album/47I8GEs41hJy9HKozpfUct) | 3:28 |
-| 15 | [Kuka sä oot tänään](https://open.spotify.com/track/2NeuM1kAiyDF4DI0jnFcBn) | [Janeveera](https://open.spotify.com/artist/3sFdVn4olCxJnN7geK95jg) | [Ohutnahkainen Narkissos](https://open.spotify.com/album/0BWQ7m7pLZxsYZ2PtVmktf) | 4:22 |
-| 16 | [Algoritmit](https://open.spotify.com/track/3qrR8uHIglfpGhOwS1nust) | [Zombit lomalla](https://open.spotify.com/artist/1bQLxB5BbeT6AkgayWXrVm) | [Algoritmit](https://open.spotify.com/album/0haCBdpo3qC2ajyIaDpHQR) | 3:50 |
-| 17 | [Toni](https://open.spotify.com/track/42N6uHQQ22WeVSMIF9phpU) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Toni](https://open.spotify.com/album/6wmxC8rUjJ9zLo8LDQXyur) | 4:01 |
-| 18 | [Phantom Zone](https://open.spotify.com/track/09YD08iqHkTGxlzzBPvlyj) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Rural Slang](https://open.spotify.com/album/1sOnGYSmCUSsoPukHx59X9) | 3:40 |
-| 19 | [Thank You](https://open.spotify.com/track/5AZEM801pHz7NoEm3hqrZV) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Thank you](https://open.spotify.com/album/4xlS0Sdn9HyERoDpYnfSSx) | 3:03 |
-| 20 | [Muuttolintu](https://open.spotify.com/track/5XXSqZd96vY7yNBdblu8EA) | [Viitasen Piia](https://open.spotify.com/artist/2WpScmc4G7o82KSp8grFer) | [Muuttolintu](https://open.spotify.com/album/05FaWb4qOXOHh2m9kAcIIi) | 3:23 |
-| 21 | [Lohtulaulu](https://open.spotify.com/track/7jm1wsdoB1aUllnaejdmTH) | [Juha\-Matti Paska](https://open.spotify.com/artist/2RxxwYRUZZFbnPftjUwwJE) | [Lohtulaulu](https://open.spotify.com/album/7MFDo4wAcN3sq4QAFR898E) | 3:43 |
-| 22 | [Freedom Manifesto](https://open.spotify.com/track/6ItFcsAm8gYHrFXdk3Ld5W) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Freedom Manifesto](https://open.spotify.com/album/1rvPGQtlfboRHZ3JtFRVhe) | 3:35 |
+| 2 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
+| 3 | [Kaikki mikä tulee](https://open.spotify.com/track/7z5JDX9bGwyLoYuMRFGZ3v) | [Ilmi Lupiini](https://open.spotify.com/artist/5AoVV4Ybs442k5wZz2owAl) | [Kaikki mikä tulee](https://open.spotify.com/album/0nQima8VLVVwLdDTUg6iaX) | 3:45 |
+| 4 | [Siinä sä nyt oot](https://open.spotify.com/track/5qVqn8H1kLo3w7UvOdg4Db) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Siinä sä nyt oot](https://open.spotify.com/album/51iluio0Fl3zsyCvL0Nwts) | 3:15 |
+| 5 | [Annatko pusun](https://open.spotify.com/track/3vpbJ7A9CVMPWRrivcly0o) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Annatko pusun](https://open.spotify.com/album/0q3JtPqdVrG8iLmoTK4QW4) | 2:46 |
+| 6 | [Tarviin](https://open.spotify.com/track/4NNZjH7qQNDABudl4RKHyd) | [Vimma](https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa) | [Tarviin](https://open.spotify.com/album/0BlDrUFzyjsBp7yliFnGXz) | 3:15 |
+| 7 | [Basement](https://open.spotify.com/track/5QsXBQEAnBm061R1KxNIqF) | [Cats Of Transnistria](https://open.spotify.com/artist/2Rnlk97rOW76miPCgrvZKX) | [IV](https://open.spotify.com/album/5rz3Ke8X06MZ68kh1iCAKJ) | 5:39 |
+| 8 | [Leskenlehdet](https://open.spotify.com/track/229wYThavUePmywOQZmnJF) | [Kaikki turhat haaveet](https://open.spotify.com/artist/5rsorJ0ZGBj6QvSbRMHDtK) | [Leskenlehdet](https://open.spotify.com/album/2IKhkFKHfZbOLkdQWvyHPp) | 4:34 |
+| 9 | [Kuka sä oot tänään](https://open.spotify.com/track/2NeuM1kAiyDF4DI0jnFcBn) | [Janeveera](https://open.spotify.com/artist/3sFdVn4olCxJnN7geK95jg) | [Ohutnahkainen Narkissos](https://open.spotify.com/album/0BWQ7m7pLZxsYZ2PtVmktf) | 4:22 |
+| 10 | [Bruce Wayne Saves The Day](https://open.spotify.com/track/0PZM17tVwFATzQNaDtSrUG) | [Icons Of Elegance](https://open.spotify.com/artist/4CGwhxlwo7fMWrVxJFHNNn) | [Bruce Wayne Saves The Day](https://open.spotify.com/album/73hHKiL2Pr6hB6Fw21bSX0) | 2:48 |
+| 11 | [Freedom Manifesto](https://open.spotify.com/track/6ItFcsAm8gYHrFXdk3Ld5W) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Freedom Manifesto](https://open.spotify.com/album/1rvPGQtlfboRHZ3JtFRVhe) | 3:35 |
+| 12 | [Elää ikuisesti](https://open.spotify.com/track/0bLYdup2nKHNlunxfvCttA) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Elää ikuisesti](https://open.spotify.com/album/2yHTGxaJNub6eG2n4Spkt7) | 3:55 |
+| 13 | [Miten voin tietää mitä elämältä haluan, jos en edes tiedä mitä haluan aamupalaksi](https://open.spotify.com/track/2zxR8Zy8Mb8sxwM8vk4wv0) | [Lala Salama](https://open.spotify.com/artist/1cfCkkOJXJRyw1Xt3BNCMV) | [Miltähän me näytettäis yhdessä](https://open.spotify.com/album/2DxKlkJ9f1C4odH4tRs42j) | 2:29 |
+| 14 | [Erottamattomat](https://open.spotify.com/track/2HmGYyoMBYtCOwnYAB3gyH) | [Vepu](https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom) | [Erottamattomat](https://open.spotify.com/album/1of5tbdzEaA7VRibMmrqem) | 2:43 |
+| 15 | [Paperiset Päivät](https://open.spotify.com/track/4jyknSM1eMtixAd0YwcutS) | [Pilven Piirtäjät](https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t), [Annika Pudas](https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA) | [Paperiset Päivät](https://open.spotify.com/album/4b1MbCeXmAEXqdyUacZuVt) | 3:29 |
+| 16 | [Symmetriaa](https://open.spotify.com/track/4ZFusNynZ3uXg0oXzPm1Q7) | [Saga Olsson](https://open.spotify.com/artist/1HCzCxx9PSWC6fTLZcm4Ek) | [Symmetriaa](https://open.spotify.com/album/47I8GEs41hJy9HKozpfUct) | 3:28 |
+| 17 | [Algoritmit](https://open.spotify.com/track/3qrR8uHIglfpGhOwS1nust) | [Zombit lomalla](https://open.spotify.com/artist/1bQLxB5BbeT6AkgayWXrVm) | [Algoritmit](https://open.spotify.com/album/0haCBdpo3qC2ajyIaDpHQR) | 3:50 |
+| 18 | [Toni](https://open.spotify.com/track/42N6uHQQ22WeVSMIF9phpU) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Toni](https://open.spotify.com/album/6wmxC8rUjJ9zLo8LDQXyur) | 4:01 |
+| 19 | [Phantom Zone](https://open.spotify.com/track/09YD08iqHkTGxlzzBPvlyj) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Rural Slang](https://open.spotify.com/album/1sOnGYSmCUSsoPukHx59X9) | 3:40 |
+| 20 | [Thank You](https://open.spotify.com/track/5AZEM801pHz7NoEm3hqrZV) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Thank you](https://open.spotify.com/album/4xlS0Sdn9HyERoDpYnfSSx) | 3:03 |
+| 21 | [Muuttolintu](https://open.spotify.com/track/5XXSqZd96vY7yNBdblu8EA) | [Viitasen Piia](https://open.spotify.com/artist/2WpScmc4G7o82KSp8grFer) | [Muuttolintu](https://open.spotify.com/album/05FaWb4qOXOHh2m9kAcIIi) | 3:23 |
+| 22 | [Lohtulaulu](https://open.spotify.com/track/7jm1wsdoB1aUllnaejdmTH) | [Juha\-Matti Paska](https://open.spotify.com/artist/2RxxwYRUZZFbnPftjUwwJE) | [Lohtulaulu](https://open.spotify.com/album/7MFDo4wAcN3sq4QAFR898E) | 3:43 |
 | 23 | [Touch Me](https://open.spotify.com/track/6QjHL2PQGYydnDvp07PnWt) | [Mute Frank](https://open.spotify.com/artist/35Qt5LBqwwMjiyOhmx18qe) | [Touch Me](https://open.spotify.com/album/3b09iTgziOlkDjKXir4jzN) | 2:49 |
 | 24 | [Vihreä Maa](https://open.spotify.com/track/06Homiz7XWOncuAM5COzkO) | [Toinen Minä](https://open.spotify.com/artist/3K9wW0sJAijYzvONudfys5) | [Vihreä Maa](https://open.spotify.com/album/6VYdQ7vhUzCmD3NnECAqO4) | 3:30 |
 | 25 | [Epätyypillistä](https://open.spotify.com/track/4GlchpBzDqvwFKbZjnLDeR) | [Pekka Tapani](https://open.spotify.com/artist/2S793yJciLKt7JWMCiINpy) | [Epätyypillistä](https://open.spotify.com/album/79UdhW6CmIRkEEAVLI4xWS) | 3:15 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 85 | [Seitsemän ja puoli kuukautta](https://open.spotify.com/track/3OIe4uGODVMYKPMWQNX8N8) | [Aaron Bojang](https://open.spotify.com/artist/7LJ1OC1Q0EjlKfi73PnyqP) | [Seitsemän ja puoli kuukautta](https://open.spotify.com/album/1w88JazReeMcR2WKY93dxW) | 4:12 |
 | 86 | [Jos alkaa saan uudelleen](https://open.spotify.com/track/3ETvZjC9p1RV8UHokrjBdM) | [Jani Matti Juhani](https://open.spotify.com/artist/68XqQfLoVgplwesDOKhU0a), [Knipi](https://open.spotify.com/artist/4wLgqkai4BYWNKbHcQJi7c) | [Jos alkaa saan uudelleen](https://open.spotify.com/album/3Wg2cVxspa7N5KgXxtC0vC) | 2:17 |
 
-Snapshot ID: `Z9yQLgAAAAD6b3dX/gHD8R+1dwNdmHtx`
+Snapshot ID: `Z+E/dAAAAAC/KEogFAVqvoAuEiCZqKrK`

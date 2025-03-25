@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L3N5IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L3TKoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Zwischenphase",
         "url": "https://open.spotify.com/album/191TZlivZyXydwrNA3vl04"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Grande Amore",
         "url": "https://open.spotify.com/album/1r1Nzairl8K0xtzGi3Il1b"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/01JATpwGBlirlrNfDHTjaD"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Bara Bada Bastu",
         "url": "https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "1 AM",
+        "url": "https://open.spotify.com/album/6evgAhkIjw7vxBuKLObXWK"
+      },
+      "artists": [
+        {
+          "name": "Civ",
+          "url": "https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT"
+        }
+      ],
+      "duration_ms": 133571,
+      "name": "1 AM",
+      "url": "https://open.spotify.com/track/52p5h1D2QAfjiqmKawgMKg"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "FKK",
         "url": "https://open.spotify.com/album/2SCQG96E5KDqoLaf3dibK8"
@@ -77,39 +93,23 @@
       "url": "https://open.spotify.com/track/6hrOv7I9xpHHnANcjTzpDN"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "1 AM",
-        "url": "https://open.spotify.com/album/6evgAhkIjw7vxBuKLObXWK"
+        "name": "Die Suche geht weiter",
+        "url": "https://open.spotify.com/album/74Bh1HOfRp5XOROPzmoUa4"
       },
       "artists": [
         {
-          "name": "Civ",
-          "url": "https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT"
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
         }
       ],
-      "duration_ms": 133571,
-      "name": "1 AM",
-      "url": "https://open.spotify.com/track/52p5h1D2QAfjiqmKawgMKg"
+      "duration_ms": 241946,
+      "name": "Gib mir Sonne",
+      "url": "https://open.spotify.com/track/3sfKfoEJp8uR7syEMze89R"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
-      },
-      "artists": [
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Brich mich",
         "url": "https://open.spotify.com/album/3T5br6m5wsjODxas4HyLeN"
@@ -125,7 +125,23 @@
       "url": "https://open.spotify.com/track/2r67sBB5WQWUdrVKz8sFnU"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Das gro\u00dfe Leben",
+        "url": "https://open.spotify.com/album/2xmHSwlrxgD1YTYN2NsWCV"
+      },
+      "artists": [
+        {
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Ich bin ich (Wir sind wir)",
+      "url": "https://open.spotify.com/track/0b0yqfrtoZCaO6X9uYOUTh"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "KAD JA UMREM DRAGA",
         "url": "https://open.spotify.com/album/2ZlhIa1vqhdpogBOg81Vqs"
@@ -141,10 +157,26 @@
       "url": "https://open.spotify.com/track/432d9CK8yaTlqFkKeQb4pP"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "Die Suche geht weiter",
-        "url": "https://open.spotify.com/album/1CzgVI1LsJ1OpBHf02MKms"
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
       },
       "artists": [
         {
@@ -152,28 +184,64 @@
           "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Gib mir Sonne",
-      "url": "https://open.spotify.com/track/2vBDgzSZDJIM5b3faeSWoz"
+      "duration_ms": 210693,
+      "name": "Liebe ist alles",
+      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "Das grosse Leben",
-        "url": "https://open.spotify.com/album/6EBxhlURNq9HHavejX0dnt"
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
       },
       "artists": [
         {
-          "name": "Rosenstolz",
-          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Ich bin ich (Wir sind wir)",
-      "url": "https://open.spotify.com/track/0ot1wz5O4oPuhuCmjA7Q0t"
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Deja Vu (Schtuka)",
+        "url": "https://open.spotify.com/album/6qvvaxC9FJkD310DK1mAgJ"
+      },
+      "artists": [
+        {
+          "name": "FERDY",
+          "url": "https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw"
+        },
+        {
+          "name": "Sleiken",
+          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Deja Vu - Schtuka",
+      "url": "https://open.spotify.com/track/0aoOmxWETiAnX6oyotEPik"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "24 SONGS",
         "url": "https://open.spotify.com/album/1JhyhL2JfZH0NW7vpvLoMI"
@@ -197,75 +265,7 @@
       "url": "https://open.spotify.com/track/6QK8cvVsFnrS3i165Mpozd"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "PASSO BEM SOLTO",
-        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
-      },
-      "artists": [
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        }
-      ],
-      "duration_ms": 116072,
-      "name": "PASSO BEM SOLTO - Slowed",
-      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Herz",
-        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
-      },
-      "artists": [
-        {
-          "name": "Rosenstolz",
-          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Liebe ist alles",
-      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Deja Vu (Schtuka)",
-        "url": "https://open.spotify.com/album/6qvvaxC9FJkD310DK1mAgJ"
-      },
-      "artists": [
-        {
-          "name": "FERDY",
-          "url": "https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw"
-        },
-        {
-          "name": "Sleiken",
-          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Deja Vu - Schtuka",
-      "url": "https://open.spotify.com/track/0aoOmxWETiAnX6oyotEPik"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "tau mich auf",
         "url": "https://open.spotify.com/album/04MWP99bu9qkXCUOKwbrXI"
@@ -281,7 +281,23 @@
       "url": "https://open.spotify.com/track/5juhjvfn7Ve8o7wbCAhB2E"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Wir sind am Leben (Standard Edition)",
+        "url": "https://open.spotify.com/album/1wTivTzXE3PlY4YOrgC2Xk"
+      },
+      "artists": [
+        {
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
+        }
+      ],
+      "duration_ms": 290560,
+      "name": "Wir sind am Leben",
+      "url": "https://open.spotify.com/track/4BUyrU4rOlZeUfexP1COs2"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Dein Mann Freestyle",
         "url": "https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu"
@@ -297,23 +313,7 @@
       "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Wir sind am Leben",
-        "url": "https://open.spotify.com/album/0pfyIxeYNi24uh09y90ehQ"
-      },
-      "artists": [
-        {
-          "name": "Rosenstolz",
-          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
-        }
-      ],
-      "duration_ms": 290560,
-      "name": "Wir sind am Leben",
-      "url": "https://open.spotify.com/track/0qswPWTZe8YobpJGBPKOl9"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Have You Ever Seen The Rain",
         "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Bitters\u00fc\u00df",
         "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
@@ -353,23 +353,39 @@
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "Bauchnabelpiercing",
-        "url": "https://open.spotify.com/album/5CfZd04qm6D3jUvGnxvDUq"
+        "name": "messy",
+        "url": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP"
       },
       "artists": [
         {
-          "name": "LOKIMITDERMASKE",
-          "url": "https://open.spotify.com/artist/12sYca2Uo32YM8nzx70cnQ"
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
         }
       ],
-      "duration_ms": 108099,
-      "name": "LOKIMITDERMASKE",
-      "url": "https://open.spotify.com/track/0XqsNbAln5av1V8OCi9KzQ"
+      "duration_ms": 207873,
+      "name": "messy",
+      "url": "https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Das gro\u00dfe Leben",
+        "url": "https://open.spotify.com/album/2xmHSwlrxgD1YTYN2NsWCV"
+      },
+      "artists": [
+        {
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Ich geh in Flammen auf",
+      "url": "https://open.spotify.com/track/0cGAa8NCAcbA7OkRrXEujM"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -389,39 +405,7 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "messy",
-        "url": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 207873,
-      "name": "messy",
-      "url": "https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Das grosse Leben",
-        "url": "https://open.spotify.com/album/6EBxhlURNq9HHavejX0dnt"
-      },
-      "artists": [
-        {
-          "name": "Rosenstolz",
-          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
-        }
-      ],
-      "duration_ms": 225440,
-      "name": "Ich geh in Flammen auf",
-      "url": "https://open.spotify.com/track/0honJ8pZAEtOlStmyQgIGP"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "alle m\u00e4rchen sind gelogen",
         "url": "https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD"
@@ -437,23 +421,23 @@
       "url": "https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+        "name": "Bauchnabelpiercing",
+        "url": "https://open.spotify.com/album/5CfZd04qm6D3jUvGnxvDUq"
       },
       "artists": [
         {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+          "name": "LOKIMITDERMASKE",
+          "url": "https://open.spotify.com/artist/12sYca2Uo32YM8nzx70cnQ"
         }
       ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+      "duration_ms": 108099,
+      "name": "LOKIMITDERMASKE",
+      "url": "https://open.spotify.com/track/0XqsNbAln5av1V8OCi9KzQ"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Mona Lisa Motion",
         "url": "https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch"
@@ -469,7 +453,23 @@
       "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "We Hug Now",
         "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
@@ -485,7 +485,43 @@
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 212002,
+      "name": "ME JALO",
+      "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/76JTVsNTKILsVlA2511fIH"
+      },
+      "artists": [
+        {
+          "name": "Rayelle",
+          "url": "https://open.spotify.com/artist/5ZMPpV5VxNpgr3IWOpcc4c"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/3B7m4NXcyKBysZ3wZBZBs4"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -509,43 +545,39 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "MALA M\u00cdA",
-        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+        "name": "me & you",
+        "url": "https://open.spotify.com/album/2KbDjW2XjpgFC6VTfwkTYu"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
         }
       ],
-      "duration_ms": 212002,
-      "name": "ME JALO",
-      "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+      "duration_ms": 138376,
+      "name": "me & you",
+      "url": "https://open.spotify.com/track/2qX5NeJHw3LGR2cNoY8qbK"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/76JTVsNTKILsVlA2511fIH"
+        "name": "Hey H\u00fcbscher",
+        "url": "https://open.spotify.com/album/07U2UeVs7ng6xrgqw4adUl"
       },
       "artists": [
         {
-          "name": "Rayelle",
-          "url": "https://open.spotify.com/artist/5ZMPpV5VxNpgr3IWOpcc4c"
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
         }
       ],
-      "duration_ms": 146500,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/3B7m4NXcyKBysZ3wZBZBs4"
+      "duration_ms": 147826,
+      "name": "Hey H\u00fcbscher",
+      "url": "https://open.spotify.com/track/5dulYsLWKRiYKUnfNuPckL"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
@@ -565,39 +597,7 @@
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Hey H\u00fcbscher",
-        "url": "https://open.spotify.com/album/07U2UeVs7ng6xrgqw4adUl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Hey H\u00fcbscher",
-      "url": "https://open.spotify.com/track/5dulYsLWKRiYKUnfNuPckL"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "me & you",
-        "url": "https://open.spotify.com/album/2KbDjW2XjpgFC6VTfwkTYu"
-      },
-      "artists": [
-        {
-          "name": "YAKARY",
-          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
-        }
-      ],
-      "duration_ms": 138376,
-      "name": "me & you",
-      "url": "https://open.spotify.com/track/2qX5NeJHw3LGR2cNoY8qbK"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0"
@@ -613,23 +613,23 @@
       "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 171335,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Get Jiggy",
         "url": "https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu"
@@ -649,23 +649,7 @@
       "url": "https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Running Around",
         "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
@@ -681,39 +665,55 @@
       "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/5JjNFN6LfQsR7meLATMHnh"
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
       "artists": [
         {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 216362,
-      "name": "El Gigante De Hierro",
-      "url": "https://open.spotify.com/track/5LvsZfsl2895yNFHxKg0LV"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "Kant",
-        "url": "https://open.spotify.com/album/4szjsBraAhoWG3XNHednZK"
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/5Ejt90f4O6IHBHATwuvoJT"
       },
       "artists": [
         {
-          "name": "Miriana Conte",
-          "url": "https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         }
       ],
-      "duration_ms": 179631,
-      "name": "Kant",
-      "url": "https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as"
+      "duration_ms": 124887,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/3fMPJ47HnAKqzLYmxnjZ39"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 171335,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "36 Grad - Hoodtrap",
         "url": "https://open.spotify.com/album/0WkIqSVc535xwowtHsFZW3"
@@ -729,7 +729,59 @@
       "url": "https://open.spotify.com/track/6RCKTCkQ9aCeRQVrzN4ba1"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "ICH KOMME",
+        "url": "https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "duration_ms": 180314,
+      "name": "ICH KOMME",
+      "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "denkst du an mich?",
+        "url": "https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "duration_ms": 197769,
+      "name": "denkst du an mich?",
+      "url": "https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Aldan\u0131r\u0131m",
+        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
+      },
+      "artists": [
+        {
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
+        },
+        {
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Aldan\u0131r\u0131m",
+      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "Ms. Whitman",
         "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
@@ -745,7 +797,39 @@
       "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/5JjNFN6LfQsR7meLATMHnh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216362,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/5LvsZfsl2895yNFHxKg0LV"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5HIjsaeGMPfxz56cxQcKeG"
+      },
+      "artists": [
+        {
+          "name": "DjDefJam",
+          "url": "https://open.spotify.com/artist/01jWgqGqGq0TRVM64Nrvth"
+        }
+      ],
+      "duration_ms": 152920,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1qoq4WVrZfucm5WI22MLum"
+    },
+    {
+      "added_at": "2025-03-24 15:41:04",
       "album": {
         "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
@@ -765,104 +849,20 @@
       "url": "https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7"
     },
     {
-      "added_at": "2025-03-23 15:53:41",
+      "added_at": "2025-03-24 15:41:04",
       "album": {
-        "name": "tell you straight",
-        "url": "https://open.spotify.com/album/5Ejt90f4O6IHBHATwuvoJT"
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
         }
       ],
-      "duration_ms": 124887,
-      "name": "tell you straight",
-      "url": "https://open.spotify.com/track/3fMPJ47HnAKqzLYmxnjZ39"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Frieden",
-        "url": "https://open.spotify.com/album/6KChMYkGsRpK2xmq24Eiut"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Frieden",
-      "url": "https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "MTG - RITMO ZELDA",
-        "url": "https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV"
-      },
-      "artists": [
-        {
-          "name": "JXM",
-          "url": "https://open.spotify.com/artist/2nGwC9QG6Hpw4fSDgNpn5n"
-        },
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
-        }
-      ],
-      "duration_ms": 107111,
-      "name": "MTG - RITMO ZELDA - Super Slowed",
-      "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Volevo essere un duro",
-        "url": "https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs"
-      },
-      "artists": [
-        {
-          "name": "Lucio Corsi",
-          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Volevo essere un duro",
-      "url": "https://open.spotify.com/track/34EclK5pWi2OqUz5cDm2X2"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "Verwandtschaftstreffen",
-        "url": "https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p"
-      },
-      "artists": [
-        {
-          "name": "RIAN",
-          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
-        }
-      ],
-      "duration_ms": 165661,
-      "name": "Verwandtschaftstreffen",
-      "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
-    },
-    {
-      "added_at": "2025-03-23 15:53:41",
-      "album": {
-        "name": "ICH KOMME",
-        "url": "https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx"
-      },
-      "artists": [
-        {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
-        }
-      ],
-      "duration_ms": 180314,
-      "name": "ICH KOMME",
-      "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
+      "duration_ms": 175853,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
     }
   ],
   "unique_name": "Viral 50 - Austria",

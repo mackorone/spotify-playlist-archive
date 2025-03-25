@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Roy
 
-3,181 songs - 7 day 0 hr 49 min
+3,182 songs - 7 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2534,6 +2534,7 @@
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-02-17 | 2023-03-04 |
 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 | 2024-02-09 | 2024-04-19 |
 | [Saigne](https://open.spotify.com/track/1asVdZ0iYxCfmlIZ97C9z1) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Cullinan](https://open.spotify.com/album/5ChxUxNLebxMXdHGtveexw) | 2:44 | 2022-11-11 | 2022-11-29 |
+| [Sains et saufs](https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ) | 3:41 | 2025-03-21 |  |
 | [Sainte\-Rita](https://open.spotify.com/track/2H8XayBXl4ju8RbJMXXzx5) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [Sainte\-Rita](https://open.spotify.com/album/0HbcKi9jIdUOg38c1r6BzJ) | 3:13 | 2022-01-21 | 2022-02-05 |
 | [SAL Tour](https://open.spotify.com/track/7zduvebDa9IjEXrONa09qx) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [SAL Tour](https://open.spotify.com/album/4sNa8HLLS8mfIYJlVUcQe7) | 2:30 | 2023-10-13 | 2023-10-21 |
 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 | 2023-10-13 | 2023-10-21 |
@@ -3171,7 +3172,7 @@
 | [Ça vient du south](https://open.spotify.com/track/5vfmc4DiJbuKa3nqMlQl0t) | [Mouss](https://open.spotify.com/artist/3zhPXb3F4YcYSkzwBRC3Zk), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Dj Ghxst](https://open.spotify.com/artist/6zHYC1eALaSEOF6u8C8896), [KGN16](https://open.spotify.com/artist/0kPgdfGqvMvnH7euvIejFK) | [Ça vient du south](https://open.spotify.com/album/6u1hsxuetUOsWctrCKXgNY) | 3:26 | 2022-09-23 | 2022-10-08 |
 | [Échapper à la nuit](https://open.spotify.com/track/5vSCx5P8XF7dqRVhH8bRuX) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Échapper à la nuit](https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy) | 3:38 | 2022-10-21 | 2022-11-12 |
 | [Écho](https://open.spotify.com/track/72cFHDISfSGOIPHfzpYLdk) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Écho](https://open.spotify.com/album/71SpsXCcdpvvFQzYtBYz3v) | 5:29 | 2024-09-20 | 2024-09-28 |
-| [Éclipse](https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Éclipse](https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW) | 2:29 | 2025-02-21 |  |
+| [Éclipse](https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Éclipse](https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW) | 2:29 | 2025-02-21 | 2025-03-25 |
 | [Écrans de fumée](https://open.spotify.com/track/0yXtC20fnBlyqIocHbNPCb) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Écrans de fumée](https://open.spotify.com/album/4gDEdtMv859EtUC2miVZh4) | 2:41 | 2024-10-25 | 2024-11-02 |
 | [Électron libre \(vue par Jérôme Minière\) \- Remix](https://open.spotify.com/track/2qPTtecKlZ7RLKQGy6AJqq) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Électron libre \(vue par Jérôme Minière\) \[Remix\]](https://open.spotify.com/album/4QZMDWPkLkLnQWOAVWCNeS) | 4:03 | 2022-05-13 | 2022-05-28 |
 | [Élégante solitude](https://open.spotify.com/track/0loARlB8O9A4pzg11S9HcA) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Élégante solitude](https://open.spotify.com/album/2B5BVIG8wV5t0KBxSeMyem) | 4:20 | 2025-03-14 | 2025-03-22 |

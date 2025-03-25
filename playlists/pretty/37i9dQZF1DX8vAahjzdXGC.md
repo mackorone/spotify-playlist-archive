@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Selena Gomez & benny blanco, j\-hope, Andi Rianto, Lyodra, dan Rony Parulian hingga Bunga Citra Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,165 likes - 84 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,193 likes - 84 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

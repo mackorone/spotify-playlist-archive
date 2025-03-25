@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: Myst, Might, Mayhem(\uad34\ub825\ub09c\uc2e0)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 102436,
+  "num_followers": 102437,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Goodbye Now (Love Revolution X TOMORROW X TOGETHER) [Original Webtoon Soundtrack]",
-        "url": "https://open.spotify.com/album/6dT50XMh2FjyJOINykOAd3"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 276520,
-      "name": "Goodbye Now",
-      "url": "https://open.spotify.com/track/1bIhEN6lxZTokWS7Qk5DJP"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
         "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 226560,
       "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
       "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Goodbye Now (Love Revolution X TOMORROW X TOGETHER) [Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/6dT50XMh2FjyJOINykOAd3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Goodbye Now",
+      "url": "https://open.spotify.com/track/1bIhEN6lxZTokWS7Qk5DJP"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
+        "name": "True Love (Secret Relationships X LEECHANGSUB)",
+        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
         "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
         "url": "https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 199146,
       "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
       "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
-        "name": "True Love (Secret Relationships X LEECHANGSUB)",
-        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Only you (The Moon during the Day X GB9)",
-        "url": "https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw"
+        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
       },
       "artists": [
         {
-          "name": "GB9",
-          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 286013,
-      "name": "Only you (The Moon during the Day X GB9)",
-      "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "The Moon Has Passed (The Moon during the Day)",
         "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 226386,
       "name": "The Moon Has Passed",
       "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Only you (The Moon during the Day X GB9)",
+        "url": "https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw"
+      },
+      "artists": [
+        {
+          "name": "GB9",
+          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Only you (The Moon during the Day X GB9)",
+      "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Better for Me (Nth Romance X MeloMance)",
-        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Better for Me (Nth Romance X MeloMance)",
-      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
         "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 176997,
       "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
       "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Better for Me (Nth Romance X MeloMance)",
+        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Better for Me (Nth Romance X MeloMance)",
+      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-        "url": "https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-      "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.1",
         "url": "https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 196680,
       "name": "The day",
       "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+        "url": "https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+      "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "The One And Only You (The Moon during the Day X SANDEUL)",
-        "url": "https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "The One And Only You (The Moon during the Day X SANDEUL)",
-      "url": "https://open.spotify.com/track/1AmPwrfNriJEukByD7Qpg5"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
         "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 207773,
       "name": "First Love Story",
       "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "The One And Only You (The Moon during the Day X SANDEUL)",
+        "url": "https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "The One And Only You (The Moon during the Day X SANDEUL)",
+      "url": "https://open.spotify.com/track/1AmPwrfNriJEukByD7Qpg5"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-        "url": "https://open.spotify.com/album/2HXglsCZnqJU8W1qd6cER8"
-      },
-      "artists": [
-        {
-          "name": "HAEUN",
-          "url": "https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-      "url": "https://open.spotify.com/track/1Ag5qTEW7daPrRNgQESisT"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "Remember my love (Bunny and Guys X Solji)",
         "url": "https://open.spotify.com/album/6e6OSfYHtIrnASNXG2iU5O"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 214920,
       "name": "Remember my love (Bunny and Guys X Solji)",
       "url": "https://open.spotify.com/track/4oBgJxXgZjd9b46yt6sCEO"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+        "url": "https://open.spotify.com/album/2HXglsCZnqJU8W1qd6cER8"
+      },
+      "artists": [
+        {
+          "name": "HAEUN",
+          "url": "https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+      "url": "https://open.spotify.com/track/1Ag5qTEW7daPrRNgQESisT"
     },
     {
       "added_at": "2025-02-17 08:25:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,288 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,262 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 42 | [How to Impress God](https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [How to Impress God](https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs) | 3:13 |
 | 43 | [Lop Sided](https://open.spotify.com/track/5pOEFbZDVXm9Atxc2K09is) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:19 |
 | 44 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
-| 45 | [Long Live J Dilla \(feat\. Westside Gunn & Busta Rhymes\)](https://open.spotify.com/track/6XeOVikH7XkydXrQWVvA6b) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Long Live J Dilla \(feat\. Westside Gunn & Busta Rhymes\)](https://open.spotify.com/album/78sjCz3km5DH9G99u8VnOi) | 3:14 |
-| 46 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |
+| 45 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |
+| 46 | [Long Live J Dilla \(feat\. Westside Gunn & Busta Rhymes\)](https://open.spotify.com/track/6XeOVikH7XkydXrQWVvA6b) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Long Live J Dilla \(feat\. Westside Gunn & Busta Rhymes\)](https://open.spotify.com/album/78sjCz3km5DH9G99u8VnOi) | 3:14 |
 | 47 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:05 |
 | 48 | [Make It Out](https://open.spotify.com/track/1t7C4tmbmFXRu6bPsiWMqS) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Ron E](https://open.spotify.com/artist/0NzaWuALv0Wr2gcdSbQ5zn) | [At the Church Steps](https://open.spotify.com/album/4tLWhQpJdmm85tLzNyotDv) | 2:58 |
 | 49 | [Ferraris in The Rain Part 2 \(feat\. ScHoolBoy Q & Freddie Gibbs\)](https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Ferraris in The Rain Part 2 \(feat\. ScHoolBoy Q & Freddie Gibbs\)](https://open.spotify.com/album/2hGVmhbARvihNo7UQsna9W) | 2:49 |

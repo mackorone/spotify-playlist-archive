@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kojo Cue
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,136 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,133 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 17 | [3:30](https://open.spotify.com/track/3oPg26PoYh2LriJ4aUUVYt) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [3:30](https://open.spotify.com/album/4UZrOGejXG1MBO4wFbLDjz) | 3:41 |
 | 18 | [Tesco \(Feat\. Medikal\)](https://open.spotify.com/track/446yWd379q3bDzKbXyZ7UO) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:41 |
 | 19 | [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 |
-| 20 | [Abasakoom](https://open.spotify.com/track/1nwny3zV6GwX1qIESCROJI) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Abasakoom](https://open.spotify.com/album/3DOEGSS6s8EGMaS0W6PgMm) | 2:35 |
+| 20 | [Abasakoom](https://open.spotify.com/track/1nwny3zV6GwX1qIESCROJI) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Abasakoom](https://open.spotify.com/album/3DOEGSS6s8EGMaS0W6PgMm) | 2:36 |
 | 21 | [Born In Hell](https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Born in Hell](https://open.spotify.com/album/75ypH24gbGXUjhJWYDw4XG) | 2:15 |
 | 22 | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/track/51uFHphBfV17Bw6v1D0X20) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/album/6JtzGphkHwXPTV9GnGp4g1) | 3:54 |
 | 23 | [Killa Ji Mi](https://open.spotify.com/track/0VCyasPlRLFaGjFSSEeoWf) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Killa Ji Mi](https://open.spotify.com/album/3AB58hkHnLuIYGmF9fpu3q) | 2:43 |

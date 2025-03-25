@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 15371,
+  "num_followers": 15376,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 328826,
-      "name": "The Blacker The Berry",
-      "url": "https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 381560,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 328826,
+      "name": "The Blacker The Berry",
+      "url": "https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0"
     },
     {
       "added_at": "2022-10-01 16:57:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Los Ángeles Azules, Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,223 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,231 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 95 | [La Negra](https://open.spotify.com/track/5CjsiSWhEvSK433qJAZ8EI) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Negra](https://open.spotify.com/album/1YaB98YlipNhjR5WYDOE7V) | 3:04 |
 | 96 | [Adoro](https://open.spotify.com/track/10DXxZz4pj3Y3kNrutKbB8) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Adoro](https://open.spotify.com/album/5j4gCXvNTkOlYblzmA7eYR) | 3:30 |
 | 97 | [El Mariachi Lloró](https://open.spotify.com/track/5ertVAOnOCegOvxGm7NYkc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Mariachi Lloró](https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM) | 2:57 |
-| 98 | [La Influencer Remix \(feat\. Briella\)](https://open.spotify.com/track/67VP8CBffZhguBERckdiJx) | [HeyBroders](https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [La Influencer Remix \(feat\. Briella\)](https://open.spotify.com/album/20Pb2cZlvOn3lp3dw8Yrtn) | 3:27 |
-| 99 | [De aqui para siempre](https://open.spotify.com/track/6VfdXl0d29QlfEzyHkTJTI) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [De aqui para siempre](https://open.spotify.com/album/21DHxGNZBb3pRc7qDRRo9p) | 2:37 |
+| 98 | [De aqui para siempre](https://open.spotify.com/track/6VfdXl0d29QlfEzyHkTJTI) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [De aqui para siempre](https://open.spotify.com/album/21DHxGNZBb3pRc7qDRRo9p) | 2:37 |
+| 99 | [La Influencer Remix \(feat\. Briella\)](https://open.spotify.com/track/67VP8CBffZhguBERckdiJx) | [HeyBroders](https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [La Influencer Remix \(feat\. Briella\)](https://open.spotify.com/album/20Pb2cZlvOn3lp3dw8Yrtn) | 3:27 |
 | 100 | [Será](https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Será](https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f) | 2:37 |
 
 Snapshot ID: `Z5yXPwAAAACSgGJTBzm3BC/8exn6YGlZ`

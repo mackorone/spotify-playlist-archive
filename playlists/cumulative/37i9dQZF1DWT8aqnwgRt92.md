@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,830 songs - 4 day 18 hr 0 min
+1,831 songs - 4 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,7 +1054,7 @@
 | [あかね組活動日誌 \~戌班\~](https://open.spotify.com/track/3Qa8YxZnfvB5fOAXeMxRsH) | [ツバキ\(CV.夏吉ゆうこ\)](https://open.spotify.com/artist/7tOxPicOurwzotqSOOyJ3e), [サザンカ\(CV.根本京里\)](https://open.spotify.com/artist/05ofTrdMQI3YIRgSMRTcYR), [アサガオ\(CV.鈴代紗弓\)](https://open.spotify.com/artist/4fs0KnSXQVtyQI9Wk8CNLp) | [くノ一ツバキの胸の内 あかね組音楽集](https://open.spotify.com/album/5CqMoquYlIMeLagF72UxLW) | 1:31 | 2023-01-19 | 2023-01-25 |
 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-20 | 2023-07-12 |
 | [あなたに](https://open.spotify.com/track/1gJ5uea5uL4DjH12o5Y3GB) | [ひーなー\(CV.鬼頭明里\)](https://open.spotify.com/artist/2sLgcsB91sV4RpYrUWBY53), [かーなー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/16zEQFZFTlfzyceqwJ1Ccy) | [「沖縄で好きになった子が方言すぎてツラすぎる」エンディングテーマ「あなたに」](https://open.spotify.com/album/17S1V070Wo47UCIoYemN3B) | 3:11 | 2025-01-11 | 2025-01-22 |
-| [あのね、](https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [あのね、](https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR) | 3:38 | 2025-01-21 |  |
+| [あのね、](https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [あのね、](https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR) | 3:38 | 2025-01-21 | 2025-03-25 |
 | [ありがと、大好きになってくれて](https://open.spotify.com/track/7oKRqIJQoWcyd2kZvjwl1f) | [恋太郎ファミリー](https://open.spotify.com/artist/7usiekwkfBXIT1v92xDSAE) | [ありがと、大好きになってくれて](https://open.spotify.com/album/3mOBzEqO0nmWEL7LBTozsG) | 4:05 | 2025-02-04 |  |
 | [ありがとう心から](https://open.spotify.com/track/4tW1ll2xcGoPEnqW6mIvZP) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [ありがとう心から / 勇気100%](https://open.spotify.com/album/4eno2QgwDFw3VrCsNJRHig) | 3:49 | 2024-12-30 | 2025-01-12 |
 | [ある呪文](https://open.spotify.com/track/2V7O1PRmvosh5diyVXeYBY) | [織重 夕](https://open.spotify.com/artist/0KvyTAf3LiFMWOxA4FctDD), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ある呪文](https://open.spotify.com/album/4r9Z5Eo8bSezHxSDFzfJhJ) | 3:09 | 2024-04-26 | 2024-05-10 |
@@ -1596,6 +1596,7 @@
 | [意解けない](https://open.spotify.com/track/6scErVzEb9MrpaMQCeTFld) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [意解けない](https://open.spotify.com/album/3kbsCLdjF3xWylKkSzvUtN) | 3:47 | 2024-07-09 | 2024-09-11 |
 | [愛 for you！](https://open.spotify.com/track/3fPO6F6dAA7JAOfxxuCYF5) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [愛 for you!／希望の花を](https://open.spotify.com/album/0n7Ea2wsdIg2GHHL0ligwV) | 4:33 | 2024-06-12 | 2024-06-26 |
 | [愛 for you！](https://open.spotify.com/track/6rQyAQaTUSq3OxchmqX3id) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [愛 for you！](https://open.spotify.com/album/2YaIpRXwoQj9QFqDGNjkTl) | 4:33 | 2024-04-11 | 2024-04-24 |
+| [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 | 2025-03-24 |  |
 | [愛さずにはいられない](https://open.spotify.com/track/6nZEMBbpH6NttHeVO1zM6p) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [愛さずにはいられない](https://open.spotify.com/album/3ZPU7Ryee6Vuj1mgee6m6p) | 3:06 | 2024-12-10 | 2025-01-10 |
 | [愛してしまえば](https://open.spotify.com/track/6jkK5p4lb9qpyqYSfKbmnk) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [愛してしまえば](https://open.spotify.com/album/0vPEjOHMirZ5EtXtqzjThq) | 4:38 | 2023-07-04 | 2023-07-19 |
 | [愛は心の仕事です](https://open.spotify.com/track/3WvRH0s72oqOHQsBuUWotX) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Memories of Romance in Driving](https://open.spotify.com/album/7ItGfR7FpS07xlAeJWhwlC) | 4:20 | 2022-09-27 | 2022-10-28 |

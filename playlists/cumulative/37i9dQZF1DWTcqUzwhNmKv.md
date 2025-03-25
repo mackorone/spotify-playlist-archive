@@ -4,7 +4,7 @@
 
 > Bloodywood are on top of today's best Metal playlist.
 
-920 songs - 2 day 12 hr 25 min
+921 songs - 2 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/album/5DPtedtBLcjXS2skojck70) | 4:14 | 2024-05-10 | 2024-06-08 |
 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 | 2022-04-15 | 2022-05-13 |
 | [Aftermath](https://open.spotify.com/track/7xGYng4pNaJwSTjuOlxyhO) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Aftermath](https://open.spotify.com/album/3a5NPxFKXmzqWKurkUSfZS) | 3:01 | 2024-06-14 | 2024-08-17 |
+| [Aimless](https://open.spotify.com/track/6V6r27N6KvM5VMyHfcwvvN) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Aimless](https://open.spotify.com/album/2nZTSSGr5nd7wAdkdL76mt) | 3:37 | 2025-03-24 |  |
 | [Alive](https://open.spotify.com/track/4xjIW6ZI4SL0DKya6P4ECA) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Alive](https://open.spotify.com/album/5Vk1XNAWSV7mWfTnSM6qlB) | 3:09 | 2024-10-04 | 2025-02-15 |
 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 | 2022-07-08 | 2022-08-06 |
 | [All For Nothing](https://open.spotify.com/track/4jVxw1PPpXYVtmZp6UQwmE) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [All For Nothing](https://open.spotify.com/album/7AD4sMaffGvpkWrBOQOEoq) | 4:08 | 2025-02-14 |  |

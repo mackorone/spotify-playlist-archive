@@ -963,6 +963,32 @@
     },
     {
       "album": {
+        "name": "Eu Te Amo",
+        "url": "https://open.spotify.com/album/4J0WZH4mWET5RVwqahp9rQ"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218417,
+      "name": "Eu Te Amo",
+      "url": "https://open.spotify.com/track/3wy6Tbn1ZXXksS8wee2dmQ"
+    },
+    {
+      "album": {
         "name": "Falando Dela 2",
         "url": "https://open.spotify.com/album/68pf9T0gTuRSDWO9rdCjaF"
       },
@@ -1426,7 +1452,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 194345,
       "name": "Meia Luz",
       "url": "https://open.spotify.com/track/1lGzIH7kcbOpn5AH00dg4a"
@@ -1512,6 +1538,28 @@
       "duration_ms": 301182,
       "name": "Met\u00e1fora",
       "url": "https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5"
+    },
+    {
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "album": {
@@ -2268,7 +2316,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-25",
       "duration_ms": 185951,
       "name": "Raio Sol",
       "url": "https://open.spotify.com/track/7jDKIsrmTbkBt1b7IUlDJf"

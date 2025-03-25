@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-317 songs - 17 hr 32 min
+318 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [HIT THA CLUB](https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [HIT THA CLUB](https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9) | 2:46 | 2023-01-26 | 2023-10-26 |
 | [Hola](https://open.spotify.com/track/0Zf1Tmdc5NLc6DNfZ1Ysgx) | [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [Hola](https://open.spotify.com/album/42N6ZcoJFuendlUrb7lLAL) | 2:15 | 2024-08-30 | 2024-12-19 |
 | [Holy Calamity](https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Holy Calamity](https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj) | 2:41 | 2025-01-10 |  |
+| [HUSTLING](https://open.spotify.com/track/7ySDKaBTtBlF9xrqQLv3vv) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [BLACK FREQUENCY](https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH) | [HUSTLING](https://open.spotify.com/album/7LoYny56xOCivnclKkPgX7) | 3:03 | 2025-03-20 |  |
 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 | 2023-06-08 | 2024-12-13 |
 | [Hypnosis](https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Hypnosis](https://open.spotify.com/album/2NaIPARHXxQq8HFpPPThTX) | 2:24 | 2022-12-08 | 2023-03-07 |
 | [I AM](https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [I AM](https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy) | 3:01 | 2023-11-02 | 2024-05-03 |
@@ -178,7 +179,7 @@
 | [Made it to Thunderdome](https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe) | [Nightshift](https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Made it to Thunderdome](https://open.spotify.com/album/51RFeHthhnta86KQO92uyY) | 3:47 | 2023-12-21 | 2024-09-10 |
 | [Magic](https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr) | [Noctyz](https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh) | [Magic](https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn) | 2:49 | 2023-10-16 | 2024-10-04 |
 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 | 2024-11-08 |  |
-| [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 | 2024-06-13 |  |
+| [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 | 2024-06-13 | 2025-03-25 |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 | 2024-03-20 |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |

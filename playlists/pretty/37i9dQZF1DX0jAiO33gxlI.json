@@ -1,6 +1,6 @@
 {
   "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Victor Xam\u00e3, Pecaos",
-  "num_followers": 221933,
+  "num_followers": 221926,
   "original_name": "Presen\u00e7a Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -428,6 +428,10 @@
       },
       "artists": [
         {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
@@ -454,10 +458,6 @@
         {
           "name": "Duquesa",
           "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
       "duration_ms": 414703,
@@ -844,16 +844,16 @@
       },
       "artists": [
         {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
           "name": "Pineapple StormTv",
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
           "name": "Saffi",
           "url": "https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k"
+        },
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
         }
       ],
       "duration_ms": 141898,

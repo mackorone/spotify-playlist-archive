@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1971,
+  "num_followers": 1970,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Kirby Stone Touch",
+        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
+      },
+      "artists": [
+        {
+          "name": "Kirby Stone Four",
+          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Best Of The Four Coins",
         "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 161906,
       "name": "Underneath The Linden Tree",
       "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Kirby Stone Touch",
-        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
-      },
-      "artists": [
-        {
-          "name": "Kirby Stone Four",
-          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
     },
     {
       "added_at": "2020-08-17 22:49:59",

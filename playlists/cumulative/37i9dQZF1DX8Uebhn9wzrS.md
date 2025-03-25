@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,278 songs - 3 day 14 hr 50 min
+2,279 songs - 3 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Beyond the garden](https://open.spotify.com/track/2qpqbfuEx0umWCplWvt8Ym) | [Dizzy Boy](https://open.spotify.com/artist/4WMeBMNmAV2fcw5UYjBqho) | [Beyond the garden](https://open.spotify.com/album/0u3sYI2WBuiNRZUA0xlpNh) | 2:43 | 2024-10-25 | 2024-11-30 |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2022-04-15 | 2022-07-22 |
 | [big buddha](https://open.spotify.com/track/3ctgxH0ZpE50qscnZYBY1H) | [Max Hayward](https://open.spotify.com/artist/7BYvlfn9FHd6YH5eTY93zP) | [big buddha](https://open.spotify.com/album/7o1tcY2UDb2b8ZxHQnSRN5) | 2:28 | 2024-01-05 |  |
+| [Bike Ride](https://open.spotify.com/track/2NQD7y6GbLRPFeblfuU0vE) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [Buttersweet](https://open.spotify.com/artist/3guhmCaFBa3ixLAQkTlcsD) | [Bike Ride](https://open.spotify.com/album/1waTniSlm2PtMkEuE73dUT) | 2:44 | 2025-03-21 |  |
 | [Bird Eye](https://open.spotify.com/track/0Ag2FDxOVElHuBYn0BDYjQ) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [Bird Eye](https://open.spotify.com/album/6bEUQXrP8KJCMtM7Xz8QaE) | 2:27 | 2022-11-18 | 2025-03-16 |
 | [Birds in a Tree](https://open.spotify.com/track/66XDRP8a73wHcqMqnWM0z7) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [The Way She Moves](https://open.spotify.com/album/6d56jnrEI4HSi6khvktQDr) | 3:15 | 2022-07-22 | 2025-03-22 |
 | [Bisous](https://open.spotify.com/track/1wUOHakggAQ1fg4BCAbaq7) | [yamamay](https://open.spotify.com/artist/0tl8KGqIQCHIhEHhIwideF), [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Bisous](https://open.spotify.com/album/3gaAdTukRzzLUVUYCRP7SA) | 1:50 | 2022-11-11 | 2023-09-16 |
@@ -226,7 +227,7 @@
 | [Bliss](https://open.spotify.com/track/6IpHohsQdyLeujYXbyqhk9) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Bliss](https://open.spotify.com/album/6PowpprpOOEx7TPQKXEgF7) | 2:02 | 2022-04-15 | 2022-10-14 |
 | [Bloom](https://open.spotify.com/track/1D2tsPNJJ99p7suTnZowyZ) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Bloom](https://open.spotify.com/album/0tXIIM7OPMIuMFB8MeqrrM) | 1:50 | 2022-08-12 | 2022-12-03 |
 | [Bloom](https://open.spotify.com/track/4rGs4GdBN8gs7OOTV7qMHc) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Bloom](https://open.spotify.com/album/7nV8JqhjlGGnmOOgI2Z31l) | 2:30 | 2022-07-01 | 2022-11-26 |
-| [Blooming](https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Blooming](https://open.spotify.com/album/1K0zCRnqgr9RTkBIP97P50) | 2:11 | 2023-02-06 |  |
+| [Blooming](https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Blooming](https://open.spotify.com/album/1K0zCRnqgr9RTkBIP97P50) | 2:11 | 2023-02-06 | 2025-03-25 |
 | [Blossom](https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF) | [Esoterak](https://open.spotify.com/artist/1GCwB469xHamTI5nnHjD8F) | [Blossom](https://open.spotify.com/album/78JlQLKwFrVgJ386stGMnP) | 2:00 | 2022-04-15 | 2022-04-22 |
 | [Blue and Yellow](https://open.spotify.com/track/0wcWZTGYcsExq65e7Yexf1) | [Scarabeetz](https://open.spotify.com/artist/5Jh56uhWBGydHRgEwCMjqr) | [Blue and Yellow](https://open.spotify.com/album/17J7VL0I0YDggyq0QRaMzU) | 2:16 | 2022-09-09 | 2022-12-24 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
@@ -248,7 +249,7 @@
 | [Blush](https://open.spotify.com/track/6smVZWU1IXU6HCGR5DN61g) | [Kyoto Dreams](https://open.spotify.com/artist/4iEdyYO8Va1fewpUAi6Mt2) | [Blush](https://open.spotify.com/album/6jWdLsVGwOaMVZlU5WIQ3V) | 2:37 | 2022-04-15 | 2022-07-08 |
 | [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2022-12-02 | 2024-10-22 |
 | [Boat In The Water](https://open.spotify.com/track/3HnK4jipVHwmYjskVtxp8c) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Boat In The Water](https://open.spotify.com/album/41OlZWdyIBOPqMJeyawECU) | 2:29 | 2022-06-24 | 2022-11-19 |
-| [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 | 2025-03-24 |
+| [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 |  |
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-05-13 | 2022-11-12 |
 | [Bonanza](https://open.spotify.com/track/27cTfNXrA0SfCp1ucqB3Ee) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Bonanza](https://open.spotify.com/album/16OmFtl47xkK1ygCXqTTIY) | 2:33 | 2022-09-09 | 2023-01-07 |
 | [Bonsai](https://open.spotify.com/track/0JS2nQBvx8JDpNadPPlqNb) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Bonsai](https://open.spotify.com/album/5zWHDrWb8dBqMyJrebpqMU) | 2:15 | 2023-01-06 | 2023-10-20 |
@@ -656,7 +657,7 @@
 | [Far Away](https://open.spotify.com/track/5RfqX9XamBQDQYYIV1dVVZ) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Riverside Girl](https://open.spotify.com/album/042BqwGJ0kRSfsjlSYmtVH) | 3:11 | 2024-09-06 | 2024-10-12 |
 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 | 2023-10-13 |  |
 | [far far away](https://open.spotify.com/track/02lD05wrDhtJVJkQELhwkt) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [aurora](https://open.spotify.com/album/6ImO1VVSZr0cpYuhtBbXvp) | 2:52 | 2023-03-20 | 2024-02-09 |
-| [Far Far Away](https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr) | [Nelly Lang](https://open.spotify.com/artist/3yH3UFanIqAoYmtq7uFW4w) | [Far Far Away](https://open.spotify.com/album/2YR8abEvi7Wk25Nwb2hQ72) | 1:51 | 2022-10-28 |  |
+| [Far Far Away](https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr) | [Nelly Lang](https://open.spotify.com/artist/3yH3UFanIqAoYmtq7uFW4w) | [Far Far Away](https://open.spotify.com/album/2YR8abEvi7Wk25Nwb2hQ72) | 1:51 | 2022-10-28 | 2025-03-25 |
 | [Far Out](https://open.spotify.com/track/3XRvlPzPQ5kbsHWnXKz5qD) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Far Out](https://open.spotify.com/album/1aiQ2fMrMllGqLTTiNpnSE) | 1:55 | 2022-04-22 | 2022-11-12 |
 | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/track/3sKKyt8RryZTi8HZD0Qqu4) | [Domo 759](https://open.spotify.com/artist/0PWZbiy5ZX5uSWrPPVRhYz) | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/album/4csKfMmsQHpSCZYYFLtkcw) | 3:15 | 2023-11-17 |  |
 | [Fare Wells](https://open.spotify.com/track/1ACtHypM6VcEFCncUM0dAZ) | [Zapati\_](https://open.spotify.com/artist/7104dNwyew90099F5cyLBR) | [Fare Wells](https://open.spotify.com/album/0r1gugBZpWj7HjAO7gvXfm) | 2:18 | 2022-12-23 | 2024-10-01 |

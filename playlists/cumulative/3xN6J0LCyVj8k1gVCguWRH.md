@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,677 songs - 10 day 22 hr 13 min
+4,678 songs - 10 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2262,6 +2262,7 @@
 | [Lazy Leg](https://open.spotify.com/track/6AcWdmn7mgj9kdUt69H9yT) | [Sabolious](https://open.spotify.com/artist/47u6aQaJf5PSotCEpFqod2) | [Lazy Leg](https://open.spotify.com/album/6QbU6qAkiDar2JtaziGjDw) | 3:26 | 2023-05-05 | 2023-05-27 |
 | [Le Départ](https://open.spotify.com/track/0FTpFi1BlqoBVELlh7jK50) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 0:59 | 2024-06-05 | 2024-06-17 |
 | [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 | 2024-05-10 | 2024-06-08 |
+| [Le figuier au fond du jardin](https://open.spotify.com/track/4etpBaDV3NUvc9IGqhTAXV) | [François Poitou](https://open.spotify.com/artist/7cCqzc4QhvUENcxMYxLZkh) | [Le figuier au fond du jardin](https://open.spotify.com/album/5Wfnka0nzxHMdFDfTCtmeN) | 4:54 | 2025-03-24 |  |
 | [LEAN INTO YOUR LIGHT](https://open.spotify.com/track/5JXlhlhcZ28g9CXetsNEV7) | [Emma Grace Glover](https://open.spotify.com/artist/3HxzFjcKnykatz0tCOQSVQ) | [LEAN INTO YOUR LIGHT](https://open.spotify.com/album/4mmPEedBdAOV1wTAkQhVcC) | 3:27 | 2024-11-01 | 2024-11-13 |
 | [Lean On Me](https://open.spotify.com/track/0YCELaUtj7DZ7AUXoYyK8Z) | [Hero Da Kyng](https://open.spotify.com/artist/5b6xoFlWI8D7XFQMwnGE6r) | [Lean On Me](https://open.spotify.com/album/66aalciMfBRygXCBySPJgP) | 2:30 | 2024-05-10 | 2024-05-22 |
 | [Leave](https://open.spotify.com/track/7ojOuwJIa8JHqQBtiGe6fG) | [Jacob Miller](https://open.spotify.com/artist/5ETV1D5HBcoygYbYGEAln6) | [Leave](https://open.spotify.com/album/2Ec0JzyMefidRWUoITDtJN) | 4:27 | 2022-01-28 | 2022-02-13 |
@@ -2906,7 +2907,7 @@
 | [Now I Let You Go](https://open.spotify.com/track/7KTRd4UcAxLqFRGRvvzbcu) | [Teeya Lamée](https://open.spotify.com/artist/0eDr9FGxuaqEVJk76OQUvT) | [Now I Let You Go](https://open.spotify.com/album/2c5TZ0SQztTckMP3eqYN0X) | 3:11 | 2023-05-12 | 2023-06-01 |
 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 | 2023-07-20 |  |
 | [Nterini](https://open.spotify.com/track/4xAUEwVbO5BhqsH49CAOhI) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fenfo \(Something To Say\)](https://open.spotify.com/album/1gMIIzT2Pjr1RiUGtx0DKR) | 3:43 | 2021-08-28 | 2021-09-11 |
-| [Nu World](https://open.spotify.com/track/4LodvPHU8U1TLywYmR34Gc) | [Reiyo The Giant](https://open.spotify.com/artist/7nV15MrvqAi8kPaDZrzB0n) | [Nu World](https://open.spotify.com/album/41fKAUIfmkhBgScZbRaR5k) | 3:20 | 2025-03-13 |  |
+| [Nu World](https://open.spotify.com/track/4LodvPHU8U1TLywYmR34Gc) | [Reiyo The Giant](https://open.spotify.com/artist/7nV15MrvqAi8kPaDZrzB0n) | [Nu World](https://open.spotify.com/album/41fKAUIfmkhBgScZbRaR5k) | 3:20 | 2025-03-13 | 2025-03-25 |
 | [Nude](https://open.spotify.com/track/5bM9FBsjHQDMKRqUkE6djJ) | [Alfreda](https://open.spotify.com/artist/57HS6X4QpZkt1JeT7QpNcM) | [Nude](https://open.spotify.com/album/15tBCdWKZDpPQw7o7QESUK) | 3:03 | 2024-05-31 | 2024-06-14 |
 | [Null Zone](https://open.spotify.com/track/1GTKGgt1vsPyfkDi5Cci5D) | [Nathan Jo](https://open.spotify.com/artist/0ZfpcAF716riIelTgj5hlh), [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [Null Zone](https://open.spotify.com/album/0lgkkQCnQlFomjHcv7RwxR) | 5:55 | 2021-04-30 | 2021-05-16 |
 | [Number I Could Call](https://open.spotify.com/track/6OzHWS0TON5mN09AIjpAYU) | [Vita Schmidt](https://open.spotify.com/artist/7bkrFxOcOZFC5fw0VpbGEz) | [Number I Could Call](https://open.spotify.com/album/3KuIeShQaoTi02shrOSuBy) | 3:27 | 2019-10-21 | 2019-11-16 |
@@ -3753,7 +3754,7 @@
 | [Stay With Me](https://open.spotify.com/track/3GsegUxwMHr5rJinsCINKb) | [Kharel](https://open.spotify.com/artist/2p0AnNwfqv9FHnSIrDQCs4), [Meneme](https://open.spotify.com/artist/3SBkpulxxUycrB3HUsNqTt) | [Stay With Me](https://open.spotify.com/album/7z3HcPPVrhdmVAw9F4MBID) | 3:14 | 2022-09-09 | 2022-09-25 |
 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2024-04-16 | 2024-08-13 |
 | [Steez](https://open.spotify.com/track/6irHIvfQ3VKFjptbxXdu0M) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3) | [STEEZ.](https://open.spotify.com/album/3n2qzMsi6TkIlHeSiMmkbh) | 2:32 | 2024-11-16 | 2024-11-28 |
-| [Stella by Starlight](https://open.spotify.com/track/2Z233Rf0skSjn89l2K73SP) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Joel Frahm](https://open.spotify.com/artist/78tGlRBjLrulJ8xqoZw83M), [Ted Ludwig](https://open.spotify.com/artist/0cyqWumlYCxrN2Olg5Do2D) | [Watch What Happens](https://open.spotify.com/album/7N3zzw2MJBaPeZwksk3nTc) | 4:45 | 2025-03-13 |  |
+| [Stella by Starlight](https://open.spotify.com/track/2Z233Rf0skSjn89l2K73SP) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Joel Frahm](https://open.spotify.com/artist/78tGlRBjLrulJ8xqoZw83M), [Ted Ludwig](https://open.spotify.com/artist/0cyqWumlYCxrN2Olg5Do2D) | [Watch What Happens](https://open.spotify.com/album/7N3zzw2MJBaPeZwksk3nTc) | 4:45 | 2025-03-13 | 2025-03-25 |
 | [Step By Step](https://open.spotify.com/track/3TBGtnf1PS0SJ3CbEypNJJ) | [Greg Kercia](https://open.spotify.com/artist/0RXD7pvIwFOwn23hiXME2j) | [Step By Step](https://open.spotify.com/album/0vzEV8U82txVfRFa0rMj06) | 2:56 | 2024-04-19 | 2024-05-01 |
 | [Step In To It](https://open.spotify.com/track/1cQOUaEmmxsH9ysBFlryaL) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Step In To It](https://open.spotify.com/album/29UncCrdvLYBjHXZLsWZ9v) | 3:33 | 2023-12-31 | 2024-01-19 |
 | [Step Inside](https://open.spotify.com/track/7iQguavBLI7T1nfS47WNnB) | [Paul Murray](https://open.spotify.com/artist/7dDbi4M7by85JJ0oNvCzpi) | [Step Inside](https://open.spotify.com/album/1ec4aQXPL4FnO6iKG0wwRQ) | 3:35 | 2021-05-03 | 2021-06-03 |

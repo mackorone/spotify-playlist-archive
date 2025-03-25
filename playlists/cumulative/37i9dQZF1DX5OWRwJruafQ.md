@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Jassa Dhillon
 
-579 songs - 1 day 3 hr 45 min
+580 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Malwe De Raje](https://open.spotify.com/track/5ITY0lvSWSKT8GPhLLYnxd) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Malwe De Raje](https://open.spotify.com/album/4Ji8jO7M7iuFvuc8mmCDGR) | 4:07 | 2024-12-05 | 2025-02-05 |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-03-29 | 2023-07-15 |
 | [Mangni](https://open.spotify.com/track/3bKVJpK65oFqGPTosuD9uu) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Munda Maanaa Da](https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8) | 2:45 | 2024-10-07 |  |
-| [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 | 2025-02-24 |  |
+| [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 | 2025-02-24 | 2025-03-25 |
 | [Manifest](https://open.spotify.com/track/2DmNIqrR70dUtcs4ljNl6a) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Manifest](https://open.spotify.com/album/11PJMOJkvhx55dOpJQRUV8) | 2:28 | 2024-04-11 |  |
 | [Mann Di Ni Tu](https://open.spotify.com/track/27hoh50gG4ls3RIyZeCqiA) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Mann Di Ni Tu](https://open.spotify.com/album/2MouNJrp808vRMsSsMgDUJ) | 2:28 | 2023-05-11 | 2023-07-21 |
 | [Masle](https://open.spotify.com/track/1i2Hf9IxuHbfi8MbrdmfRx) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Masle](https://open.spotify.com/album/06dpLPWKYdm1T6bdMJBROL) | 2:53 | 2024-08-06 |  |
@@ -526,6 +526,7 @@
 | [Top](https://open.spotify.com/track/4jSjnF8GRvWO0nxfudh1yz) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3) | [Top](https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq) | 3:41 | 2024-09-09 | 2024-09-29 |
 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 | 2023-09-20 | 2025-03-11 |
 | [Top G](https://open.spotify.com/track/0lZkllHCEw17P8ZHKIRXk1) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Top G](https://open.spotify.com/album/4cgtmGUyBfMNKLGJkPpK9J) | 3:04 | 2025-02-04 | 2025-02-19 |
+| [Tora Fera](https://open.spotify.com/track/6YTXVqQbVWDJf5udXWuH9c) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Tora Fera](https://open.spotify.com/album/4FsDWdB6xfeMgL6rzR7E5F) | 2:55 | 2025-03-24 |  |
 | [Toy](https://open.spotify.com/track/14pPJbEMx6JZU8RItbY1Vq) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Toy](https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25) | 3:04 | 2023-03-29 | 2023-12-16 |
 | [True Flex](https://open.spotify.com/track/142EYw6fdw4RPKuNSuvYvc) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [True Flex](https://open.spotify.com/album/0ZuI6fA71OYPGfk6aQaAxS) | 3:07 | 2024-05-10 | 2024-05-17 |
 | [True Stories](https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [True Stories](https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl) | 1:57 | 2023-06-16 | 2024-01-23 |

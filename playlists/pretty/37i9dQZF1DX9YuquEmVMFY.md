@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 WORLD TOUR / JUNK 3월 22일\(토\) 19:00, 3월 23일\(일\) 18:00 @ 인스파이어 아레나
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,753 likes - 20 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,793 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

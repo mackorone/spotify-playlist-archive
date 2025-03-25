@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "SURVIVOR",
+        "url": "https://open.spotify.com/album/5WtJnnQy8iMz2ucyO6g4DZ"
+      },
+      "artists": [
+        {
+          "name": "PARG",
+          "url": "https://open.spotify.com/artist/2tm0hthZZUgjJ4c8jzbZ4K"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178300,
+      "name": "SURVIVOR",
+      "url": "https://open.spotify.com/track/4FqL1MlFQ67DipYCbmHzj8"
+    },
+    {
+      "album": {
         "name": "Tavo akys",
         "url": "https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F"
       },

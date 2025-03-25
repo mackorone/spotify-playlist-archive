@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [160](https://open.spotify.com/track/1GKT0DSkBm7h6Q7sohvsKx) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [160](https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL) | 3:25 | 2025-03-06 | 2025-03-14 |
+| [160](https://open.spotify.com/track/1GKT0DSkBm7h6Q7sohvsKx) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [160](https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL) | 3:25 | 2025-03-06 |  |
 | [5/4](https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z) | [Sheygets](https://open.spotify.com/artist/2cPjbkjCnAz8t7tZMPDah8) | [עוד משקאות חריפים](https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK) | 3:45 | 2024-07-12 | 2024-09-13 |
 | [A Better Man](https://open.spotify.com/track/3ioH5vhka49gZPgq1jlBJr) | [Ofir Lessel](https://open.spotify.com/artist/7fxgWT81yP2N3u9lGNY5VR) | [A Better Man](https://open.spotify.com/album/2wWFjG5njtoWHIZvN3PVl2) | 4:49 | 2025-03-20 |  |
 | [A Thousand Times](https://open.spotify.com/track/3lJnPyMLhZ2javY7UZl36K) | [Russo](https://open.spotify.com/artist/0ECpBE2RTJep1cVxNFulEA), [Roni Bar Hadas](https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44) | [A Thousand Times](https://open.spotify.com/album/0KoAvYIp3jyn8XrFnxCqaF) | 2:56 | 2024-06-27 | 2024-10-04 |
@@ -178,7 +178,7 @@
 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 | 2024-06-27 | 2025-03-21 |
 | [נחגוג ומגוג](https://open.spotify.com/track/1xk0PcgVTo7eFXH33mx0Lb) | [Eifo HaYeled](https://open.spotify.com/artist/4tOEC0rfs2z2Sf1Tv2OKAg) | [נחגוג ומגוג](https://open.spotify.com/album/2XD0veAhxlLTqYlP37G4OP) | 3:10 | 2024-11-28 | 2025-01-31 |
 | [נכנע לך](https://open.spotify.com/track/1HHfRiRLtMmRedkKSnaneH) | [The White Screen](https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7), [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM) | [נכנע לך](https://open.spotify.com/album/7aR3BakZBsbkgqGpNtqp5o) | 4:25 | 2024-06-27 | 2024-07-12 |
-| [נשמה](https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3) | [Liron Amram](https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ) | [נשמה](https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ) | 3:48 | 2024-12-19 |  |
+| [נשמה](https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3) | [Liron Amram](https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ) | [נשמה](https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ) | 3:48 | 2024-12-19 | 2025-03-25 |
 | [נשמה יקרה](https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [נשמה יקרה](https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk) | 3:26 | 2024-09-12 |  |
 | [סבתא חנה](https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [Shlomi Saranga](https://open.spotify.com/artist/2b9OkxEH6i2Dxm9RqA9Eti) | [שמש וענן](https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8) | 3:07 | 2024-06-27 | 2025-03-21 |
 | [סוף משחק](https://open.spotify.com/track/7EuIv6aW0ZEBo3HzUADXyt) | [Yali Sobol](https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa) | [מים על הסלע](https://open.spotify.com/album/3jLR8IBnfPjfkZTyYY0TB2) | 3:56 | 2025-01-16 | 2025-03-21 |

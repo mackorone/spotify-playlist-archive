@@ -3001,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Don't Trip",
+        "url": "https://open.spotify.com/album/6Om2bXRbFBpO6Lttp7Iqcb"
+      },
+      "artists": [
+        {
+          "name": "B00sted",
+          "url": "https://open.spotify.com/artist/4euUANc6f6VpwUfymwi1Ju"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137896,
+      "name": "Don't Trip",
+      "url": "https://open.spotify.com/track/4kYzEV2PbBVUzrU5G6AScl"
+    },
+    {
+      "album": {
         "name": "Smyle (Extended)",
         "url": "https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr"
       },
