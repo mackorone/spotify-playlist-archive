@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-817 songs - 1 day 11 hr 28 min
+820 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [Mareld](https://open.spotify.com/track/7njI830XuQtdheC4m9LCgm) | [Ron Melass](https://open.spotify.com/artist/61JpiETiqqg2JJIKbXO04g) | [Mareld](https://open.spotify.com/album/1BATEK1hhvNdASdRQR8euJ) | 1:57 | 2022-05-27 | 2022-07-08 |
 | [Matira](https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Matira](https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN) | 2:20 | 2023-08-10 |  |
 | [Maybe It's Not Too Late](https://open.spotify.com/track/2OPSOulWZFo8pu0cOwBEOE) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Maybe It's Not Too Late](https://open.spotify.com/album/0XNxtbuDlEXhIqAUYSpSwC) | 2:07 | 2022-11-25 | 2024-04-19 |
-| [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 | 2023-06-02 |  |
+| [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 | 2023-06-02 | 2025-03-26 |
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 | 2024-04-05 |
 | [Melancolia](https://open.spotify.com/track/2YbIbI797f6htjFAwzcIGJ) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Melancolia](https://open.spotify.com/album/23k6kKSxaMIEmkSsqg118j) | 2:21 | 2021-12-08 | 2022-03-19 |
 | [Melhor Coisa](https://open.spotify.com/track/5DcUfrX3AbVu3pnHLJbwaf) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Melhor Coisa](https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ) | 2:12 | 2023-04-21 |  |
@@ -534,6 +534,7 @@
 | [Peaceful Serendipity](https://open.spotify.com/track/5xHRYoLiovEdivPfVfcIkj) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Peaceful Serendipity](https://open.spotify.com/album/38PZrESjNrvZr77Xv6zrcw) | 1:58 | 2024-02-02 | 2024-02-23 |
 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 | 2021-12-08 | 2022-04-06 |
 | [Pescadores](https://open.spotify.com/track/1kUaMtCK9JFPHUqPY9vEWN) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 2:47 | 2022-05-27 | 2022-08-05 |
+| [Petals](https://open.spotify.com/track/2qxVO2JX4ayyUjdvTjEpmX) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Petals](https://open.spotify.com/album/0dOqSiYaRrSbXzTB4z9iKp) | 2:29 | 2025-03-25 |  |
 | [Peyton](https://open.spotify.com/track/5nUAFJs7AXuw8oALXh0wQX) | [Gabin Young](https://open.spotify.com/artist/3ZuB0jYTfhTCPaK6G9Ljfd) | [Peyton](https://open.spotify.com/album/7MGnQ4kVdBH0quMv2QY2LO) | 2:26 | 2023-01-06 | 2024-10-16 |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-08 | 2024-04-05 |
 | [Pine Barrens](https://open.spotify.com/track/1moLhzV03IwcCSlbyq0q0I) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/3tXbPp7iD9LQJ2dV4RR1W7) | 2:09 | 2022-10-28 | 2023-04-28 |
@@ -602,6 +603,7 @@
 | [Serendipity](https://open.spotify.com/track/0V7r7muOAacZx6KEnHDp5o) | [Kel Giamo](https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW) | [Serendipity](https://open.spotify.com/album/1ZAjt37hf6EcdFBcIKagLC) | 1:58 | 2021-12-08 | 2023-02-25 |
 | [Serene Skies](https://open.spotify.com/track/5rvvtkkXrd8jvosvE0jJj0) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Serene Skies](https://open.spotify.com/album/2u8VTwNX8BXBTGRfAQf2x6) | 2:03 | 2023-08-10 | 2024-04-05 |
 | [Serengeti](https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Serengeti](https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ) | 2:34 | 2023-05-12 |  |
+| [Serenna Vale](https://open.spotify.com/track/2wFah7Gqdl9AU6SOzPcLym) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Serenna Vale](https://open.spotify.com/album/6HVT7lmc1v5TMA8ZA6ADor) | 3:12 | 2025-03-25 |  |
 | [Seven Hills of Rome](https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Seven Hills of Rome](https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1) | 2:12 | 2021-12-08 | 2022-06-03 |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2021-12-08 | 2022-07-08 |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
@@ -690,7 +692,7 @@
 | [Tapera](https://open.spotify.com/track/3QEgrZujYt6cFcmq8VMVK2) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Tapera](https://open.spotify.com/album/3aUBs02jKhkYw0aBHZh6fR) | 2:34 | 2024-02-02 |  |
 | [Tears but Not of Pain](https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Tears but Not of Pain](https://open.spotify.com/album/49im8S6HBvYk0BHPHWDYh6) | 3:21 | 2024-03-29 | 2024-06-07 |
 | [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-08 |  |
-| [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 |  |
+| [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 | 2025-03-26 |
 | [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 |  |
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2021-12-08 | 2022-09-03 |
 | [The Dunes](https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Dunes](https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL) | 2:47 | 2022-05-13 | 2023-05-13 |
@@ -719,6 +721,7 @@
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-24 | 2024-12-11 |
 | [Thousand Years Ago](https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Thousand Years Ago](https://open.spotify.com/album/336D8kHYPubaAtmgCsVMMv) | 2:19 | 2022-05-13 | 2024-05-24 |
 | [Through Wildflowers](https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Through Wildflowers](https://open.spotify.com/album/74Y1eBKeQVPlr0RxbeMORi) | 2:00 | 2023-06-08 | 2024-04-19 |
+| [Tides of Time](https://open.spotify.com/track/6bHB1PEW54dYJIR5oAbSmr) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Tides of Time](https://open.spotify.com/album/0uPPdqGv2a51MuKFuaDfjF) | 2:26 | 2025-03-25 |  |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-21 | 2024-05-24 |
 | [Together Again](https://open.spotify.com/track/163pGELrVriFgvYwdiOHlW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Together Again](https://open.spotify.com/album/14Iv2IpxEhAsdqehdpbHfc) | 2:31 | 2024-06-28 | 2024-09-26 |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-23 | 2023-03-10 |

@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover : Thirumali
 
-260 songs - 13 hr 28 min
+261 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Kaantha Reprised](https://open.spotify.com/track/7qU4teUQNnqYr2vzTcLVZu) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kaantha Reprised](https://open.spotify.com/album/1UMpLamggLlvdcJ7IwvLhF) | 3:46 | 2022-07-13 | 2023-07-24 |
 | [Kaavalino?](https://open.spotify.com/track/2YqGnNIC2w1nXuv5PtPpd5) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [Soultrip Beats](https://open.spotify.com/artist/05wCNPP0MOxwaGgIYKZGm7) | [Kaavalino?](https://open.spotify.com/album/7IyuRS8ThskiE9cddnCmzp) | 2:16 | 2024-02-01 | 2024-02-13 |
 | [KAAYI](https://open.spotify.com/track/4POXo4IBs74MRjBB5NctbP) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [KAAYI](https://open.spotify.com/album/6MGV4xLMxk0PcOyCGBmNR2) | 3:08 | 2024-01-15 |  |
-| [KABAR](https://open.spotify.com/track/2qZ887g5AznECp6SyPDiG4) | [Shabab](https://open.spotify.com/artist/2adX9X3TKBcCmzBmc1pcIT) | [KABAR](https://open.spotify.com/album/65HjRHPyEx21z1A7y5rH2S) | 2:36 | 2025-01-08 |  |
+| [KABAR](https://open.spotify.com/track/2qZ887g5AznECp6SyPDiG4) | [Shabab](https://open.spotify.com/artist/2adX9X3TKBcCmzBmc1pcIT) | [KABAR](https://open.spotify.com/album/65HjRHPyEx21z1A7y5rH2S) | 2:36 | 2025-01-08 | 2025-03-26 |
 | [Kadha](https://open.spotify.com/track/2l4EVn50WSQIu5Z34hRg1y) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Kadha](https://open.spotify.com/album/204Cd7br9ZbJwx8VsVQcsR) | 2:15 | 2024-03-28 | 2024-05-22 |
 | [Kafan](https://open.spotify.com/track/68xGI5z4Uwzvi2ZLEOr3NU) | [Hijaz](https://open.spotify.com/artist/3sEu2YHVQXAjHylWx6prpI) | [Kafan](https://open.spotify.com/album/6mytAwiM55TpIc9OBV6BsW) | 2:25 | 2025-01-09 | 2025-02-21 |
 | [Kaipuzha to Balewadi](https://open.spotify.com/track/1HNIF808e9TsC9iR9WNGMi) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [Kaipuzha to Balewadi](https://open.spotify.com/album/18NoTZC6G1zSKxvKSThiPh) | 2:34 | 2025-01-30 |  |
@@ -109,6 +109,7 @@
 | [Kedu Paad](https://open.spotify.com/track/2qv73mnazsmpjp5zPuTRu0) | [Prashant Singh](https://open.spotify.com/artist/7jOZcQODVv7ui0kZfFzGrm), [ARGYZM](https://open.spotify.com/artist/6TYn4CSy7DJ0LEh70tGBBu) | [Kedu Paad](https://open.spotify.com/album/5bTGRFQ7fkaJXFVCiMyFFc) | 2:29 | 2025-03-07 |  |
 | [Keep It Silent](https://open.spotify.com/track/1vDYwkdjvtBc9X17M9Tlce) | [riPz](https://open.spotify.com/artist/371uEcwtjldtDNJ8J7j7LA) | [Keep It Silent](https://open.spotify.com/album/4GCbS10HhsdFbxFxmRFKFa) | 2:45 | 2023-10-10 | 2024-02-13 |
 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 | 2023-09-25 |  |
+| [Khibir](https://open.spotify.com/track/5SakZ21qJWrQ6QVJzcwgOk) | [X\_SAAMBRO](https://open.spotify.com/artist/2G7khiorjSizxWGd4zorgr) | [Khibir](https://open.spotify.com/album/4XeEf6WlJwEHVzVgXd8F91) | 2:42 | 2025-03-25 |  |
 | [Kilippattu](https://open.spotify.com/track/2BsqpmOiRP2bMRcOGpkQIT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Kilippattu](https://open.spotify.com/album/2987ZN6ldWDnTomTM8rICN) | 2:33 | 2022-08-29 | 2025-02-25 |
 | [King of Kotha \- Title Track](https://open.spotify.com/track/1eDHz1S9HJYfBbI2UW7yvU) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [King of Kotha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ) | 3:02 | 2023-08-23 | 2024-03-18 |
 | [Kireedam \- From "Nadikar"](https://open.spotify.com/track/2g4039ejgn6ANY5cj3zPAh) | [Yakzan Gary Pereira](https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [Kireedam \(From "Nadikar"\)](https://open.spotify.com/album/5ZCDubJcQbrJBA0ixYqwdh) | 2:54 | 2024-04-17 | 2024-05-22 |

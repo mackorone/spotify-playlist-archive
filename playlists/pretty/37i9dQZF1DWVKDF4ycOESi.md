@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Lucio Corsi in cover + le migliori uscite della settimana! Con brani di Gaia, Luchè, Tananai, NASKA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,921 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,931 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 52 | [Di Più](https://open.spotify.com/track/4fg6CHm1uquppJnW7fuECL) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [Di Più](https://open.spotify.com/album/3Na5YNfKtTtkxk4NVEXvyL) | 2:41 |
 | 53 | [Mille Risse](https://open.spotify.com/track/0HyP021OfM03b5cPn2Ql3m) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [Mille Risse](https://open.spotify.com/album/7swYsL0AYLgkSyCpXGIQ4K) | 2:42 |
 | 54 | [2Sconosciuti](https://open.spotify.com/track/6BRSkQDqNWkAT3YjVtYp6n) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [2Sconosciuti](https://open.spotify.com/album/7hl74k0WBGe4j0jYSQwn6J) | 3:33 |
-| 55 | [Maria \(feat\. Frenetik&Orang3, Fugazza & Suorcristona\) \- Vesuvia Sound System Version](https://open.spotify.com/track/3WmVk7vUGsH3VAZoposyZU) | [Meg](https://open.spotify.com/artist/3Rj4K75L3kVCxrJZTZNx6G), [Frenetik&Orang3](https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w), [Fugazza](https://open.spotify.com/artist/1YAa92W8pJFSbFvrMv24z9), [Suorcristona](https://open.spotify.com/artist/0Bqog93ANuhgpTLGIzcwza) | [Maria](https://open.spotify.com/album/4uANBS0c07k0UhbCHpbANT) | 3:26 |
+| 55 | [Maria \- Vesuvia Sound System Version](https://open.spotify.com/track/3WmVk7vUGsH3VAZoposyZU) | [Meg](https://open.spotify.com/artist/3Rj4K75L3kVCxrJZTZNx6G), [Frenetik&Orang3](https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w), [Fugazza](https://open.spotify.com/artist/1YAa92W8pJFSbFvrMv24z9), [Suorcristona](https://open.spotify.com/artist/0Bqog93ANuhgpTLGIzcwza) | [Maria](https://open.spotify.com/album/4uANBS0c07k0UhbCHpbANT) | 3:26 |
 | 56 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
 | 57 | [Hasta El Fondo](https://open.spotify.com/track/7txAKuxgyFiBAb8EkSOQ2W) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Hasta El Fondo](https://open.spotify.com/album/36sJVQ62R6JUaE98pAnWXR) | 2:20 |
 | 58 | [Language Of Love](https://open.spotify.com/track/5DXEoQhgxXds4gwNgTQfHP) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Language Of Love](https://open.spotify.com/album/6UWP1g39NtTOVHmv7c0gTP) | 2:40 |

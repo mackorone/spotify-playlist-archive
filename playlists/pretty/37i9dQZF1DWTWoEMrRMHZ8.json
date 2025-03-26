@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Josyara",
-  "num_followers": 349595,
+  "num_followers": 349600,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "PERDURAR (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1mlXUGcS3vUAWeCFB6u7zq"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        }
+      ],
+      "duration_ms": 143812,
+      "name": "Ainda Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1sDCgVenukInykyvUroLvy"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "Rivo III e a F\u00e9",
         "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "PERDURAR (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1mlXUGcS3vUAWeCFB6u7zq"
-      },
-      "artists": [
-        {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
-        }
-      ],
-      "duration_ms": 143812,
-      "name": "Ainda Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1sDCgVenukInykyvUroLvy"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "\u00c2mbar",
         "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
@@ -519,26 +519,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "Ao Persistirem os Sintomas",
-        "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3 Brandileone",
-          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Salto",
-      "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "Praia do Futuro",
         "url": "https://open.spotify.com/album/24izpsE4XkFEwNRoauYBPg"
       },
@@ -563,6 +543,26 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "Ao Persistirem os Sintomas",
+        "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3 Brandileone",
+          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Salto",
+      "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "Paula Toller - Ao Vivo - Amorosa (40 anos de carreira)",
         "url": "https://open.spotify.com/album/5oX1k6VHPJgqGAlZN1CHdd"
       },
@@ -583,26 +583,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "Bananeira",
-        "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 213377,
-      "name": "Bananeira",
-      "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "JV30 Tour Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 342150,
       "name": "Ela Une Todas as Coisas - Ao Vivo",
       "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "Bananeira",
+        "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 213377,
+      "name": "Bananeira",
+      "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "Quatro Contas",
-        "url": "https://open.spotify.com/album/6JwRw6KKuyiP9y3XxY1v0P"
-      },
-      "artists": [
-        {
-          "name": "Dona Onete",
-          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
-        }
-      ],
-      "duration_ms": 197842,
-      "name": "Quatro Contas",
-      "url": "https://open.spotify.com/track/5cItnbFV1GfC6YqWcx3rgT"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "For\u00e7a Estranha",
         "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 257739,
       "name": "For\u00e7a Estranha",
       "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "Quatro Contas",
+        "url": "https://open.spotify.com/album/6JwRw6KKuyiP9y3XxY1v0P"
+      },
+      "artists": [
+        {
+          "name": "Dona Onete",
+          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
+        }
+      ],
+      "duration_ms": 197842,
+      "name": "Quatro Contas",
+      "url": "https://open.spotify.com/track/5cItnbFV1GfC6YqWcx3rgT"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "Tudo Vai Passar",
-        "url": "https://open.spotify.com/album/0tR5HQQUBNNV53ftPbBVEb"
-      },
-      "artists": [
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "duration_ms": 209810,
-      "name": "Tudo Vai Passar",
-      "url": "https://open.spotify.com/track/5cfFBCFwLRG4CqaUkAZ8vK"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "Multicolorida",
         "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 256344,
       "name": "Multicolorida",
       "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "Tudo Vai Passar",
+        "url": "https://open.spotify.com/album/0tR5HQQUBNNV53ftPbBVEb"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "duration_ms": 209810,
+      "name": "Tudo Vai Passar",
+      "url": "https://open.spotify.com/track/5cfFBCFwLRG4CqaUkAZ8vK"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -963,6 +963,22 @@
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -991,26 +1007,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "Despedida",
-        "url": "https://open.spotify.com/album/6yINlRRwEkPuyDC9o9G5Ls"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 192656,
-      "name": "Despedida",
-      "url": "https://open.spotify.com/track/5ANWipW4jLoF4EmmGd2mH7"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "Um Triz",
         "url": "https://open.spotify.com/album/3NUebQrHVZGIiKMd4KAEq3"
       },
@@ -1035,6 +1031,26 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "Rabiscos",
+        "url": "https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC"
+      },
+      "artists": [
+        {
+          "name": "Projeto Caleidosc\u00f3pio",
+          "url": "https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW"
+        },
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Rabiscos",
+      "url": "https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "Uma Estrela Misteriosa",
         "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
@@ -1051,6 +1067,26 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "Despedida",
+        "url": "https://open.spotify.com/album/6yINlRRwEkPuyDC9o9G5Ls"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Despedida",
+      "url": "https://open.spotify.com/track/5ANWipW4jLoF4EmmGd2mH7"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "Chuva de Prata",
         "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
       },
@@ -1063,22 +1099,6 @@
       "duration_ms": 231716,
       "name": "Chuva de Prata",
       "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -1131,42 +1151,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
-        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 273139,
-      "name": "Depois de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
-        "name": "Rabiscos",
-        "url": "https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC"
-      },
-      "artists": [
-        {
-          "name": "Projeto Caleidosc\u00f3pio",
-          "url": "https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW"
-        },
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Rabiscos",
-      "url": "https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "Alma Turva",
         "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 241860,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "50 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
-      },
-      "artists": [
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
-        }
-      ],
-      "duration_ms": 263014,
-      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "O Sol Continua a Brilhar",
         "url": "https://open.spotify.com/album/6GiFFInc6a3GrR6hMBf4U5"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 227000,
       "name": "O Sol Continua a Brilhar",
       "url": "https://open.spotify.com/track/65hTgXFT86xqKrKO8LtGDP"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "50 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
+      },
+      "artists": [
+        {
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+        }
+      ],
+      "duration_ms": 263014,
+      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
     },
     {
       "added_at": "2025-03-21 03:00:30",

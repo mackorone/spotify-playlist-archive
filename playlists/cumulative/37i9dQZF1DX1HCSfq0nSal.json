@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. JC Reyes",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Yapi",
   "name": "PEGAO",
   "tracks": [
     {
@@ -6794,7 +6794,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 199666,
       "name": "Jaramillo",
       "url": "https://open.spotify.com/track/34vVtit2wHVwJeAhhROxGE"
@@ -9040,7 +9040,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 304746,
       "name": "Mayor Que Yo 3",
       "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
@@ -10451,6 +10451,28 @@
     },
     {
       "album": {
+        "name": "GIRASOLES",
+        "url": "https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275121,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/3HPaGfBzwJGMKv6fPxWgPi"
+    },
+    {
+      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC"
       },
@@ -10672,6 +10694,32 @@
       "duration_ms": 240377,
       "name": "Oh Na Na",
       "url": "https://open.spotify.com/track/2EtOOnd0tseAvHcm3WzACQ"
+    },
+    {
+      "album": {
+        "name": "Oh, Baby!",
+        "url": "https://open.spotify.com/album/0HRgeAzttAzYWEgqsfjxW5"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206548,
+      "name": "Oh, Baby!",
+      "url": "https://open.spotify.com/track/4HolbU9Yjvr69EpuITpQ5a"
     },
     {
       "album": {
@@ -11696,6 +11744,28 @@
       "duration_ms": 184817,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/10u2iOS0r6plfb9GknD7g4"
+    },
+    {
+      "album": {
+        "name": "Por Vos",
+        "url": "https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185394,
+      "name": "Por Vos",
+      "url": "https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz"
     },
     {
       "album": {
@@ -13606,7 +13676,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 153460,
       "name": "Siete",
       "url": "https://open.spotify.com/track/30uBwESUFs5bNxPf7YCOaV"

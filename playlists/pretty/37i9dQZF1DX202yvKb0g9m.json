@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 134353,
+  "num_followers": 134365,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Do I Do",
-        "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
-      },
-      "artists": [
-        {
-          "name": "Maurice McGee",
-          "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
-        }
-      ],
-      "duration_ms": 434999,
-      "name": "Do I Do - Extended Mix",
-      "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "In Gold",
         "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 379695,
       "name": "Sumo Acid Crew",
       "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Do I Do",
+        "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
+      },
+      "artists": [
+        {
+          "name": "Maurice McGee",
+          "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
+        }
+      ],
+      "duration_ms": 434999,
+      "name": "Do I Do - Extended Mix",
+      "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
     },
     {
       "added_at": "2024-07-10 08:16:23",

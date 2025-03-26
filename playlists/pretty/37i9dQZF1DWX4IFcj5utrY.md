@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI?si=94Q5YrYJRUSzowE7Hwzc\-w">!Sooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,707 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,717 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 9 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 |
 | 10 | [Njalo](https://open.spotify.com/track/7d5mCjXNlMmNz9SlBWR9F4) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [Njalo](https://open.spotify.com/album/3vQTRdT20zloJ9ZDCiGWim) | 6:00 |
 | 11 | [Not The Same \- Black Coffee feat\. Shoba Remix](https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX), [Shoba](https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU) | [Not The Same \(Black Coffee feat\. Shoba Remix\)](https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX) | 3:36 |
-| 12 | [Praise Him \- Edit](https://open.spotify.com/track/3FYkN8ywICgGma6HusjWvz) | [D'General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l), [V.Underground](https://open.spotify.com/artist/4OuzOxUUiPZBhHWyYqTPRq), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Before The Dawn](https://open.spotify.com/album/2uyvvFLj0yQQMn1yi6UwTp) | 3:57 |
+| 12 | [Praise Him \- Edit](https://open.spotify.com/track/3FYkN8ywICgGma6HusjWvz) | [D.General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l), [V.Underground](https://open.spotify.com/artist/4OuzOxUUiPZBhHWyYqTPRq), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Before The Dawn](https://open.spotify.com/album/2uyvvFLj0yQQMn1yi6UwTp) | 3:57 |
 | 13 | [Subanomona](https://open.spotify.com/track/1q8iDWZBjtjz2ClG0DHPHO) | [BlaQRhythm](https://open.spotify.com/artist/2o9225GgSICygCOxroILhb), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [XXVI](https://open.spotify.com/album/540mWucmj2AlhjBcHRmwg5) | 5:56 |
 | 14 | [Dilemma](https://open.spotify.com/track/7eKeQediyrqllhKJzSXNLX) | [Zeleah](https://open.spotify.com/artist/3zJC9kfGPk83Qfv6VZ9XtK), [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Dilemma](https://open.spotify.com/album/3yQSk6yKjJJ9o5iMsCE8CQ) | 4:24 |
 | 15 | [Classified Information](https://open.spotify.com/track/361hffq6c7Lo2u2umTNacB) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Dv que](https://open.spotify.com/artist/1Ae3DnQn8BghTxZrNY5Ie4) | [Classified Information](https://open.spotify.com/album/1JeIIu4tGhcTaR24DUViVF) | 5:42 |

@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/4hmLkwYebkm1t1jeaTcHRI"
+      },
+      "artists": [
+        {
+          "name": "Mischa",
+          "url": "https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152553,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/4lAfcWz7Ot38gWEqYwl8wP"
+    },
+    {
+      "album": {
         "name": "Fragile Beauty",
         "url": "https://open.spotify.com/album/63UFtAXFba8wSrPEouv010"
       },

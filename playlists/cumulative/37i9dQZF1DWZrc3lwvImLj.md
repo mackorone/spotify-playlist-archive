@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-464 songs - 20 hr 19 min
+465 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Forbidden Chords](https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR) | [Eugenius R\. Malmgren](https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9) | [Forbidden Chords](https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A) | 2:19 | 2023-11-07 |  |
 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 | 2021-12-14 | 2022-02-03 |
 | [Forget Me Not](https://open.spotify.com/track/1HQF8Vz4Kae6oLhni2E54z) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Forget Me Not](https://open.spotify.com/album/5slVwW2ujScGX4vXkuRAZB) | 2:42 | 2023-08-14 |  |
+| [Forgiveness](https://open.spotify.com/track/4lAfcWz7Ot38gWEqYwl8wP) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Forgiveness](https://open.spotify.com/album/4hmLkwYebkm1t1jeaTcHRI) | 2:32 | 2025-03-25 |  |
 | [Fragile Beauty](https://open.spotify.com/track/1hroEYeXHwndmO03pfIu9u) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Fragile Beauty](https://open.spotify.com/album/63UFtAXFba8wSrPEouv010) | 2:30 | 2023-05-09 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2021-12-14 | 2023-11-08 |
 | [From Yesterday](https://open.spotify.com/track/7b6VZCEYcorGozuy3h5SzT) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [From Yesterday](https://open.spotify.com/album/6Zybuuq4NKifmpUHBnAIOk) | 3:09 | 2024-05-07 |  |

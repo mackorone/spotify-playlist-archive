@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 84 | [Losing \(feat\. Victoria Monet\)](https://open.spotify.com/track/3PT4ANAXNdcounngFpsfOp) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Summer on Sunset](https://open.spotify.com/album/02ThwzqmsOgd3oS0XXZwT6) | 3:19 |
 | 85 | [For The Thrill \(feat\. B.o.B\)](https://open.spotify.com/track/0JnVZIgTuBJvA7ZGKpnX4C) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 3:22 |
 
-Snapshot ID: `Abs8FgAAAACbEag56MxQaj/5IyGhBXI/`
+Snapshot ID: `AbtB6AAAAADsywibdEnbZik7eHXV7/q1`

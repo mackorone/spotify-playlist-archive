@@ -4,7 +4,7 @@
 
 > Ubur\-ubur ikan lele, nek sedih ya dijogeti wae! 😢
 
-110 songs - 9 hr 17 min
+111 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy) | 4:34 | 2023-10-11 | 2024-04-19 |
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-09-01 | 2023-12-03 |
 | [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-12 |  |
+| [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 | 2025-03-25 |  |
 | [Ngertenono Ati \- NDX A.K.A\. Version](https://open.spotify.com/track/4Ozqq0yyfqdaI3i7lXxw8X) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ngertenono Ati \(NDX A.K.A\. Version\)](https://open.spotify.com/album/6t3BaKpsXsMDVozmbOqFBS) | 4:00 | 2024-12-09 |  |
 | [Njarem](https://open.spotify.com/track/4blk67iSazQOqxcT9VaxMP) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF), [Dask Music](https://open.spotify.com/artist/347FJUPALm4tIlsgYJPVCQ) | [Njarem](https://open.spotify.com/album/27YAoA59XEtW70BYkLvJjL) | 7:38 | 2025-01-13 |  |
 | [Nyekso Batin](https://open.spotify.com/track/5UhAkrQMv5n9ID1Ut8qaRz) | [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg) | [Nyekso Batin](https://open.spotify.com/album/4hwokUDyl4OCYVXIFVja2m) | 3:43 | 2024-01-11 |  |

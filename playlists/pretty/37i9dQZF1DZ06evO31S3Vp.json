@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 205407,
+  "num_followers": 205467,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAABya0/FjoYHRv+18t6y0Xoq",
+  "snapshot_id": "Z+CggAAAAACq5sFTOqArpKrhRqOPSqRJ",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 278557,
-      "name": "Locadora (Vers\u00e3o Estendida)",
-      "url": "https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX"
+      "duration_ms": 181234,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 181234,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
+      "duration_ms": 278557,
+      "name": "Locadora (Vers\u00e3o Estendida)",
+      "url": "https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX"
     },
     {
       "added_at": null,
@@ -487,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sim",
-        "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
+        "name": "Louquinho",
+        "url": "https://open.spotify.com/album/3ibAprngolKW66RngB6cBs"
       },
       "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
         {
           "name": "J\u00e3o",
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 229868,
-      "name": "Sim",
-      "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
+      "duration_ms": 176556,
+      "name": "Louquinho",
+      "url": "https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louquinho",
-        "url": "https://open.spotify.com/album/3ibAprngolKW66RngB6cBs"
+        "name": "Sim",
+        "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
       },
       "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
         {
           "name": "J\u00e3o",
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 176556,
-      "name": "Louquinho",
-      "url": "https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K"
+      "duration_ms": 229868,
+      "name": "Sim",
+      "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
     },
     {
       "added_at": null,

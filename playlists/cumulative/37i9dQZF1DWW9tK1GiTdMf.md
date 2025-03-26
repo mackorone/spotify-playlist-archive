@@ -4,7 +4,7 @@
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ NASKA in cover
 
-1,275 songs - 2 day 10 hr 31 min
+1,276 songs - 2 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Cadillac](https://open.spotify.com/track/3Nkme9D8Z64mmxCAzKADFx) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Cadillac](https://open.spotify.com/album/6yg9gTG0pooPXPGUx7A6pH) | 2:05 | 2024-10-10 | 2024-11-29 |
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-19 | 2022-11-11 |
 | [CALIFORNIA](https://open.spotify.com/track/2Upio2JODVoKIOh2aIJ7T5) | [Piccola kappa](https://open.spotify.com/artist/1OtNgQFoP2nnK8dxxTcLhN), [Giast](https://open.spotify.com/artist/1Sms2Hz4kX49kNnzNW9MKT) | [CALIFORNIA](https://open.spotify.com/album/59yOTe96oUF6wQxl4r2Rv5) | 2:49 | 2024-09-12 | 2024-10-11 |
+| [Calore](https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Calore](https://open.spotify.com/album/0Bdudd1JyswBKGJUXUweOe) | 3:01 | 2025-03-26 |  |
 | [Cambiare mai](https://open.spotify.com/track/66uMoh8K65vxhfluSkx6eF) | [KTB](https://open.spotify.com/artist/4RanGqewn3LGLSogjFniW7), [Thamia](https://open.spotify.com/artist/4s6aa0xhs7T3WdTcaMAFfQ) | [Cambiare mai](https://open.spotify.com/album/4V08PEEMr4On9dgguyf9vA) | 2:36 | 2023-05-04 | 2023-09-15 |
 | [Camelot](https://open.spotify.com/track/5d7x7HeFJ9BksuEwhskqbi) | [Marco444](https://open.spotify.com/artist/5wOm0bGomUCwtrXipTu0KQ) | [Camelot](https://open.spotify.com/album/5rG7vUV0uA0fan4uA6Clua) | 3:05 | 2023-09-28 | 2023-11-17 |
 | [Camilla \(una canzone non d'amore\)](https://open.spotify.com/track/4fokeaDTupkU8tu8Log3H0) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Camilla \(una canzone non d'amore\)](https://open.spotify.com/album/539KQ4fJ6FOXD1Pwc2eTRb) | 2:24 | 2025-01-30 |  |

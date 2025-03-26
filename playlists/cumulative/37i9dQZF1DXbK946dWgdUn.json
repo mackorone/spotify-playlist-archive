@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "12345 Once I Caught A Fish Alive!",
+      "url": "https://open.spotify.com/track/24darTBz4XHHhCnVnKk1hj"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 6",
         "url": "https://open.spotify.com/album/6oGuepMubkd3bVOvPpAoeA"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Apples And Bananas (Phonics Song)",
       "url": "https://open.spotify.com/track/3gQeoqayS6qcoH8FtAlCh8"
@@ -502,10 +520,46 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 157624,
       "name": "Cece Had a Little Cat",
       "url": "https://open.spotify.com/track/0i2tS6f6pFQznI7MliWq05"
+    },
+    {
+      "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Cece's Funny Face Song - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/5Wmr7Chi80Wp2xULl4wz2x"
+    },
+    {
+      "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Cece's Looby Loo - Have Fun and Dance - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/3qhRPZQZZ7ALHuPicPS0Ey"
     },
     {
       "album": {
@@ -870,7 +924,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 206750,
       "name": "Great Day on CoComelon Lane - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/26l8C2Awi4ECGIUk20EBMY"
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 104205,
       "name": "I Am the Music Man",
       "url": "https://open.spotify.com/track/4uxhJp1bmlq4CbcIdazq5s"
@@ -1212,7 +1266,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 42372,
       "name": "Imagine With Me - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/0RPpvoJ9AeccU97dBc87QB"
@@ -1363,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "JJ's Firefighter Birthday Song - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/0Wj2qN8qJk734VLlydxSzB"
+    },
+    {
+      "album": {
         "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
       },
@@ -1446,10 +1518,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 155936,
       "name": "Just Be You - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/7c4tTrAG0Bl6rPOMg1fLWM"
+    },
+    {
+      "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124654,
+      "name": "Keep Trying - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/4UfXxbrRGHvpvrpwi7duMp"
     },
     {
       "album": {
@@ -1482,7 +1572,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 140903,
       "name": "Learn By Looking - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/0m3uLY3oHA9RPPPgq1remn"
@@ -1648,10 +1738,46 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 159500,
       "name": "Moving Day for Cody",
       "url": "https://open.spotify.com/track/5Uiuk0LY3UZqp0B87PZGp9"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhyme Classics",
+        "url": "https://open.spotify.com/album/1PVJR4CpiodjHeOktptL0G"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104549,
+      "name": "Mr. Sun",
+      "url": "https://open.spotify.com/track/4XHKJMno0cp0uGcvF4HyjL"
+    },
+    {
+      "album": {
+        "name": "Sing, Dance, Party!, Vol. 3",
+        "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146229,
+      "name": "Muffin Man - Dance Party",
+      "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
     },
     {
       "album": {
@@ -1684,7 +1810,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 151636,
       "name": "My Dog Song - Bingo's Bathtime - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/1PhKKsjIhhqSstioXXphXw"
@@ -1828,7 +1954,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 147147,
       "name": "Old MacDonald",
       "url": "https://open.spotify.com/track/5txSLkf7BeYIgTtUnVDDG8"
@@ -1936,7 +2062,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 118218,
       "name": "One Potato, Two Potatoes",
       "url": "https://open.spotify.com/track/0ogBezZTS2EgTbET8eiZhB"
@@ -2080,9 +2206,9 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 108208,
-      "name": "Peek a Boo",
+      "name": "Peekaboo",
       "url": "https://open.spotify.com/track/2Gwr0pH5khUHZDhFpyM1iS"
     },
     {
@@ -2188,7 +2314,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 179160,
       "name": "Pots n' Pans Band",
       "url": "https://open.spotify.com/track/3blHEvoO9gOnDcCvNmFFKN"
@@ -2224,7 +2350,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 135001,
       "name": "Rain Rain Go Away",
       "url": "https://open.spotify.com/track/5R2lEtGNrVmwCEY5cRor9n"
@@ -2476,7 +2602,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 134117,
       "name": "She'll Be Coming Round the Mountain",
       "url": "https://open.spotify.com/track/1Z7tsmCvV0QboBo37Iykri"
@@ -2627,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "That's What Good Friends Do - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/1Y2X1HTpThmlbFz0hyJi0W"
+    },
+    {
+      "album": {
         "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
       },
@@ -2638,7 +2782,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 156528,
       "name": "The Alphabet Construction Song - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/5VnLXorP9j6J3nqwsuc4MF"
@@ -2822,7 +2966,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 151834,
       "name": "The Garbage Truck Song - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/5k0S0JuuWRvGPb3eUhJ5TI"
@@ -2840,7 +2984,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 40000,
       "name": "The Grateful Song - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/5G97ypiatwDL3obmOhisn9"
@@ -2966,7 +3110,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 171989,
       "name": "The Nursery Rhyme Rehearsal - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/1F6WI8YKG1Ri11IzxdYDep"
@@ -3056,7 +3200,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 145478,
       "name": "The Teacher Song Singalong - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/0MDc4YTVLZCoFGHdRBEl1q"
@@ -3276,7 +3420,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 207340,
       "name": "Wheels on the Bus",
       "url": "https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS"

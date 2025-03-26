@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,955 likes - 56 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,982 likes - 56 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 11 | [Stranger \(To Stability\) \- Len Faki Podium Mix](https://open.spotify.com/track/76hOvPvs6Fvd98IbKg8Iym) | [Dustin Zahn](https://open.spotify.com/artist/6ScDJaxsDqmtEB0CZY3WAC), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [Stranger \(To Stability\)](https://open.spotify.com/album/1b8hfcMvmVTfCIkkgj6m1B) | 9:07 |
 | 12 | [Mars \- Hervé Re\-Edit](https://open.spotify.com/track/5BU6lka5cehwhwNp42lNKO) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Remix Masters, Vol\. 2](https://open.spotify.com/album/0Rz5MdcwWR15CeCRnSkYTO) | 4:03 |
 | 13 | [After Five](https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five](https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe) | 3:36 |
-| 14 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
+| 14 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
 | 15 | [Percolator \- Chris Lake Remix](https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Percolator \(Chris Lake & Bontan Remixes\)](https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I) | 3:19 |
 | 16 | [Indie](https://open.spotify.com/track/7rSuqMaEloVncVc8RDdoDX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Lulu](https://open.spotify.com/album/1xZUXMzen8YSf6CbR8wPFH) | 7:16 |
 | 17 | [Kilt](https://open.spotify.com/track/2xYGMOnVUO9P62uiYDu4aD) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Bucklyn Bridge EP](https://open.spotify.com/album/6L25aUr2Ntt2pfYfXMcpDp) | 4:47 |

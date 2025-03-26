@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week \- Aminé!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,520 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,511 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 15 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 |
 | 16 | [Caught by a wind \- BFF Remix](https://open.spotify.com/track/3rWhcc83PqPmQhQdYnysW8) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Caught by a wind \(BFF Remix\)](https://open.spotify.com/album/5bc056yR8YXTmZIzioAEz4) | 3:31 |
 | 17 | [Emasculate](https://open.spotify.com/track/0PIsET3ekLyiw82zlaDU8B) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Emasculate](https://open.spotify.com/album/18AvIFD1U4sg7hSSYHnhh3) | 2:26 |
-| 18 | [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:23 |
+| 18 | [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:24 |
 | 19 | [Different](https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Different](https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY) | 3:26 |
 | 20 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 |
 | 21 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |

@@ -5129,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "Brilliance",
+        "url": "https://open.spotify.com/album/1W0mk3xAk2BxCI94BBlTAw"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60319,
+      "name": "Brilliance",
+      "url": "https://open.spotify.com/track/1FYo0Wcua2dT7NOWRCcIPT"
+    },
+    {
+      "album": {
         "name": "Bring A Torch, Jeanette, Isabella Arr. For Cello",
         "url": "https://open.spotify.com/album/1oqtc7Os80wnymIK1dUmqr"
       },

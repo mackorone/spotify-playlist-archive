@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: LUSILLON.
 
-378 songs - 19 hr 42 min
+379 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Lo mejor](https://open.spotify.com/track/3gmjylKlL1X7F9bbxhgdSr) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Lo mejor](https://open.spotify.com/album/5QF1Z0ciM5WetxxMHNEWCG) | 1:57 | 2024-06-27 |  |
 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 | 2024-06-27 | 2024-11-08 |
 | [Lo Que Llevo Dentro](https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Lo Que Llevo Dentro](https://open.spotify.com/album/3K7wtLyCYZ65eGkZpfKZal) | 4:27 | 2024-06-27 | 2024-08-30 |
+| [Lo Que Me Pasa](https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Lo Que Me Pasa](https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm) | 2:52 | 2025-03-21 |  |
 | [Lo que Queda Tras el Apagón](https://open.spotify.com/track/2Xfu3HBvqt29dTjuVQmDDs) | [mafalda](https://open.spotify.com/artist/7zyZ33s4LRFS3S0r7eKBZs) | [Lo que Queda Tras el Apagón](https://open.spotify.com/album/1xqtJXfhS8gMSnNkDqi7HO) | 4:08 | 2024-06-27 | 2024-07-05 |
 | [Lo que yo te he querido](https://open.spotify.com/track/6uVKzyquFqdEOcwDKVpeSF) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW), [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Lo que yo te he querido](https://open.spotify.com/album/6qC0JcKUO8kNEftI6iXxlF) | 3:23 | 2025-03-20 |  |
 | [Loba](https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Loba](https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H) | 3:13 | 2024-10-17 |  |
@@ -212,7 +213,7 @@
 | [Madriz Madriz](https://open.spotify.com/track/2XUhcZOcLPAWwAnUclFpeu) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Madriz Madriz](https://open.spotify.com/album/6Aa0m8lK0IwjuKYn7hQXvX) | 3:17 | 2024-06-27 | 2024-08-16 |
 | [Malicia](https://open.spotify.com/track/5ylsvgN3rSWBU6PnyRbfIs) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Malicia](https://open.spotify.com/album/35LXS0jbbnya85SBWrWdwj) | 2:57 | 2024-06-27 | 2024-11-01 |
 | [mangata](https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [mangata](https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq) | 3:03 | 2024-06-27 | 2024-09-20 |
-| [Mar Menor](https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Mar Menor](https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW) | 3:13 | 2024-12-19 |  |
+| [Mar Menor](https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Mar Menor](https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW) | 3:13 | 2024-12-19 | 2025-03-26 |
 | [MARICARMEN](https://open.spotify.com/track/43IK9P5MlkuDsnvfCo7IDb) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [MARICARMEN](https://open.spotify.com/album/3EVKwSXBWb5im9V4EJqwB3) | 3:13 | 2024-09-12 | 2024-12-27 |
 | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 | 2024-07-04 | 2024-09-02 |
 | [MATCHPOINT!](https://open.spotify.com/track/080505yqCmNc5Lqjx0uqCu) | [Desmelenao](https://open.spotify.com/artist/5e3AeuzcPHLKIimvkRlK5m), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [MATCHPOINT!](https://open.spotify.com/album/5AKCt1BVoVVdXAHWSWAzZh) | 2:37 | 2024-08-08 | 2024-08-30 |

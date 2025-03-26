@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Promessa ed Ele A in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,602 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,590 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FEBBRE DELL'ORO \(feat\. Ele A\)](https://open.spotify.com/track/3LXTuGn1b170DuUnr2FLBv) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/3S0Lghs0zeHRNDclNlW8FN) | 2:41 |
-| 2 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 |
-| 3 | [11 SETTEMBRE](https://open.spotify.com/track/2Trj3ehOeoaU11vbMqWLjV) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [11 SETTEMBRE](https://open.spotify.com/album/45lNAPbTPla560wDvlMzuj) | 2:31 |
-| 4 | [Nobel](https://open.spotify.com/track/6s4a92uIlM0xMZdFHLPd4B) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Nobel](https://open.spotify.com/album/1bCZFkMsmW80aYGsqHFwPk) | 1:43 |
+| 2 | [Nobel](https://open.spotify.com/track/6s4a92uIlM0xMZdFHLPd4B) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Nobel](https://open.spotify.com/album/1bCZFkMsmW80aYGsqHFwPk) | 1:43 |
+| 3 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 |
+| 4 | [11 SETTEMBRE](https://open.spotify.com/track/2Trj3ehOeoaU11vbMqWLjV) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [11 SETTEMBRE](https://open.spotify.com/album/45lNAPbTPla560wDvlMzuj) | 2:31 |
 | 5 | [modelle \(feat\. Glocky\)](https://open.spotify.com/track/2jLfLjYKOpdHBZKfgB3OQX) | [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [fashion](https://open.spotify.com/album/4ZWmRYT9j60NUmqUeCYJWN) | 2:49 |
 | 6 | [2025 Baby](https://open.spotify.com/track/2tJ3KEJrXWM1g2hnBaIBu5) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [2025 Baby](https://open.spotify.com/album/3cZ7BoGN4z1R7AtPuhq7iN) | 3:03 |
 | 7 | [Stellina](https://open.spotify.com/track/59ToSWwKmlwI6TIgZkw60M) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Stellina](https://open.spotify.com/album/5IKV5k9xXPyN1siJYoX3ku) | 3:02 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 64 | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/album/1kVpGWPrFHLWXogTepm0fr) | 3:37 |
 | 65 | [Guai \(feat\. 500 Tony\)](https://open.spotify.com/track/0stM35iC4QmN6NgDf3cC8K) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX), [500 Tony](https://open.spotify.com/artist/63d4RGe7dFRblTjwL7b1Ae) | [Guai \(feat\. 500 Tony\)](https://open.spotify.com/album/1AJ0OTnbocYr60b9tW4IVh) | 2:05 |
 | 66 | [Quieres 2 \(feat\. Kassimi\)](https://open.spotify.com/track/2Mx0YmeL8i5nI92rRZLpf6) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [BDM Mixtape Vol\. 2](https://open.spotify.com/album/3SC2ghyniCmrenRhldYyCm) | 2:41 |
-| 67 | [Designer](https://open.spotify.com/track/0vVlbAhszpZA3bGQAsRscf) | [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [Designer](https://open.spotify.com/album/69Mib5QHaVG4VPhCiyfmsg) | 2:01 |
+| 67 | [designer](https://open.spotify.com/track/0vVlbAhszpZA3bGQAsRscf) | [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [designer](https://open.spotify.com/album/69Mib5QHaVG4VPhCiyfmsg) | 2:01 |
 | 68 | [Afghani](https://open.spotify.com/track/00huCKAYoo2mp6X4Dui3lF) | [Zeta Cooper](https://open.spotify.com/artist/6YiWOx2th8mcrKHgZhfkIs) | [Afghani](https://open.spotify.com/album/0GEdK9W95gRilQtdWvGb2l) | 2:06 |
 | 69 | [Lucido](https://open.spotify.com/track/4Y2Zy6NAEPg7qf8PzcWCrU) | [7ends](https://open.spotify.com/artist/0lQ3y3LHkjma0rLxDouQWS) | [Lucido](https://open.spotify.com/album/2RZavm57jILWRu4Mli3RdJ) | 2:08 |
 | 70 | [Dopo Lo Show](https://open.spotify.com/track/6gXxDRnlhr2zdcnBpZmszH) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Dopo Lo Show](https://open.spotify.com/album/6ZuKUb0n6l5bJ75Lywt0Er) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 74 | [TUTA ADIDAS \(feat\. Ensi\)](https://open.spotify.com/track/03BFDoQc6D3OQd1A6EzItH) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [CIRCO GRAN SIBERIA: parte 1](https://open.spotify.com/album/5WE1XU3XDyhZY0r16911sj) | 2:15 |
 | 75 | [PRETTY MF](https://open.spotify.com/track/5zCvnWc3l0lZ5J0zMMT0hS) | [Blackmill](https://open.spotify.com/artist/5SeYas0LiuReImA5tTojc0), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [PRETTY MF](https://open.spotify.com/album/5ReCaOauMC6cxk4B7AuabY) | 2:55 |
 
-Snapshot ID: `Z9yeNwAAAAC/sbiB2vEr+KBbzv0Z/46t`
+Snapshot ID: `Z+K0jQAAAABbkphGXwr9PPqvRDGN1D3d`

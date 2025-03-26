@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: MAN WITH A MISSION",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: coldrain",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 164117,
       "name": "Enchant",
       "url": "https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6"
@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "INCOMPLETE",
+        "url": "https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "INCOMPLETE",
+      "url": "https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh"
+    },
+    {
+      "album": {
         "name": "Inside Of Me",
         "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
       },
@@ -2552,6 +2570,24 @@
       "duration_ms": 199160,
       "name": "Kodou",
       "url": "https://open.spotify.com/track/19A7WBwlU8wK0419zlQSFn"
+    },
+    {
+      "album": {
+        "name": "Ghost Notes",
+        "url": "https://open.spotify.com/album/6BdGedS0lcdybP3AZeF72v"
+      },
+      "artists": [
+        {
+          "name": "The Ravens",
+          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222063,
+      "name": "Kyomeiyako",
+      "url": "https://open.spotify.com/track/3qi6h1nnr5C8F8YJLSyP1j"
     },
     {
       "album": {
@@ -3286,7 +3322,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 200752,
       "name": "My Own Salvation",
       "url": "https://open.spotify.com/track/4LkzQ531jFA5ZHXxy5SxO2"
@@ -4814,6 +4850,28 @@
       "duration_ms": 213400,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
+    },
+    {
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/0mykSFL8zFbdYEukPwm9RA"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        },
+        {
+          "name": "Matt Good",
+          "url": "https://open.spotify.com/artist/2pAflbiYeStDJMRqKSZ4go"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207085,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/4luQpgdQDlshLspiKfkmPI"
     },
     {
       "album": {
@@ -6430,7 +6488,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"

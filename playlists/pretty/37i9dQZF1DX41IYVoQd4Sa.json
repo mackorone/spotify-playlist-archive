@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31681,
+  "num_followers": 31686,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
-      },
-      "artists": [
-        {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
-        },
-        {
-          "name": "Zulat Choir",
-          "url": "https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7"
-        }
-      ],
-      "duration_ms": 326979,
-      "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "Running Out of Time",
         "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
       },
@@ -847,6 +827,26 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
+        "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
+      },
+      "artists": [
+        {
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+        },
+        {
+          "name": "Zulat Choir",
+          "url": "https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7"
+        }
+      ],
+      "duration_ms": 326979,
+      "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
         "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
         "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 206000,
       "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
       "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
+      },
+      "artists": [
+        {
+          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
+          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
+        }
+      ],
+      "duration_ms": 150829,
+      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -879,18 +895,22 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
+        "name": "Down for a Moment",
+        "url": "https://open.spotify.com/album/5lTKPUUyncECFr1dQxK8D9"
       },
       "artists": [
         {
-          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
-          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
+          "name": "Jimit",
+          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
+        },
+        {
+          "name": "Shelly Archer",
+          "url": "https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM"
         }
       ],
-      "duration_ms": 150829,
-      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
+      "duration_ms": 199875,
+      "name": "Down for a Moment",
+      "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -991,26 +1011,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
-      },
-      "artists": [
-        {
-          "name": "Meirav Hellinger",
-          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
-        },
-        {
-          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
         "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 177000,
       "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
       "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
-        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea (\u05d1\u05d0\u05e8\u05d1\u05d9 Live)",
-        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
-      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -1075,6 +1059,26 @@
       "duration_ms": 220800,
       "name": "Chasin' You",
       "url": "https://open.spotify.com/track/1UK85DkBUwCEfy4tMEO3tz"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
+      },
+      "artists": [
+        {
+          "name": "Meirav Hellinger",
+          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
+        },
+        {
+          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
     },
     {
       "added_at": "2025-03-20 22:00:07",

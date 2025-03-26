@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30b3\u30ec\u30b5\u30ef",
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: YOASOBI",
   "name": "Teen Culture",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 163793,
       "name": "22",
       "url": "https://open.spotify.com/track/3CV7ldwEV40B3H3aPNago4"
@@ -850,6 +850,24 @@
       "duration_ms": 211266,
       "name": "bathroom",
       "url": "https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0"
+    },
+    {
+      "album": {
+        "name": "BE CLASSIC",
+        "url": "https://open.spotify.com/album/4hjnuvQELOGNFix32suzo9"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159080,
+      "name": "BE CLASSIC",
+      "url": "https://open.spotify.com/track/6qactUdK4Lql5d31ow4669"
     },
     {
       "album": {
@@ -3572,7 +3590,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 204000,
       "name": "Hey phone",
       "url": "https://open.spotify.com/track/11S58dYnSjkWPD6jLaBRv7"
@@ -4151,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "Jinsei wa mix nuts no kumiawase",
+        "url": "https://open.spotify.com/album/2qEL9SlFDAL6YoIbxfIWzl"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234289,
+      "name": "Jinsei wa mix nuts no kumiawase",
+      "url": "https://open.spotify.com/track/2zyM9MlG0LULnGhJiQ1ITM"
+    },
+    {
+      "album": {
         "name": "UNLOCK!",
         "url": "https://open.spotify.com/album/6WpOudAdvJNyi5htlKPaaC"
       },
@@ -4506,6 +4542,24 @@
       "duration_ms": 152633,
       "name": "L4DY",
       "url": "https://open.spotify.com/track/4S7rVcmRg9wEpAwu05ynvc"
+    },
+    {
+      "album": {
+        "name": "Gradation",
+        "url": "https://open.spotify.com/album/2FsPwRN3eVBic4gVtixjnx"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167616,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1wi50gwaeaIfA9UuC3N6b1"
     },
     {
       "album": {
@@ -4946,7 +5000,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 210225,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/5yH5ZOM6rzDisQrahixgM9"
@@ -6456,10 +6510,28 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 194653,
       "name": "PLAYER 1",
       "url": "https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm"
+    },
+    {
+      "album": {
+        "name": "PLAYERS",
+        "url": "https://open.spotify.com/album/6OtUkMrwUzUzhPqvKiRIVe"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201155,
+      "name": "PLAYERS",
+      "url": "https://open.spotify.com/track/30GGgQDoRSBsjck9tMmDDP"
     },
     {
       "album": {
@@ -7498,7 +7570,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 248778,
       "name": "Somebody help us",
       "url": "https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i"
@@ -7913,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "SUPER CRUISIN'",
+        "url": "https://open.spotify.com/album/7I9I6ETKigeRg1sx50aArZ"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "SUPER CRUISIN'",
+      "url": "https://open.spotify.com/track/0kOfUCUvagEqAG7SEpkgph"
+    },
+    {
+      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
       },
@@ -8154,6 +8244,24 @@
       "duration_ms": 192960,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/5ARYBmzAgJcxs4wlQJNAuS"
+    },
+    {
+      "album": {
+        "name": "The End of the F***ing World",
+        "url": "https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "The End of the F***ing World",
+      "url": "https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS"
     },
     {
       "album": {
@@ -12198,7 +12306,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 198196,
       "name": "\u30d3\u30bf\u30fc\u30d0\u30ab\u30f3\u30b9",
       "url": "https://open.spotify.com/track/6DYV1GqwCTrvfPcjeFwjLt"
@@ -14218,7 +14326,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 272587,
       "name": "\u591c\u901a\u3057",
       "url": "https://open.spotify.com/track/3GzJacz20gcWlrHBcL6dJE"
@@ -14636,7 +14744,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 203211,
       "name": "\u604b",
       "url": "https://open.spotify.com/track/2BjsXpCV4Bw1P4pXmlTv7b"
@@ -14752,7 +14860,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 245900,
       "name": "\u604b\u3092\u3072\u305d\u3081\u3066",
       "url": "https://open.spotify.com/track/7KfcUxHjapiDyb2nGXF0Lr"
@@ -14770,7 +14878,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 287771,
       "name": "\u604b\u5fc3\u306f\u8e0a\u308b",
       "url": "https://open.spotify.com/track/4YbaGfMsfQi4Jj4mgQ0Qf2"
@@ -15859,6 +15967,24 @@
     },
     {
       "album": {
+        "name": "\u5104\u4e07\u9577\u8005",
+        "url": "https://open.spotify.com/album/2eZvursJChaG1LSVwXaQ3c"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146811,
+      "name": "\u7a3c\u3054\u3046",
+      "url": "https://open.spotify.com/track/4JMvzpPGlIaYUGapXxAJ1h"
+    },
+    {
+      "album": {
         "name": "\u7b11\u3044\u8a71",
         "url": "https://open.spotify.com/album/7pNGGFs7y4gRbyMJ1DYbno"
       },
@@ -16460,7 +16586,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 202816,
       "name": "\u8a00\u306e\u5203",
       "url": "https://open.spotify.com/track/7z1bhmlycYsU9QhkaoxgqQ"
@@ -16568,7 +16694,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 205984,
       "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
       "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"

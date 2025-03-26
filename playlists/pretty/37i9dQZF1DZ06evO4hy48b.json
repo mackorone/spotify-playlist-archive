@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 206552,
+  "num_followers": 206582,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAAAO5lwJqpYtXd6Y4jgo3moF",
+  "snapshot_id": "Z+CggAAAAAC233SQJOOa8eSy6lvlPyl9",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Berl\u00edn",
-        "url": "https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 213179,
       "name": "11 RAZONES",
       "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Berl\u00edn",
+        "url": "https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 146493,
+      "name": "Berl\u00edn",
+      "url": "https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH"
     },
     {
       "added_at": null,

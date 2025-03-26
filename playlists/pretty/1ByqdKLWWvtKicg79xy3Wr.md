@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/1ByqdKLWWvtKicg79xy3Wr.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deeper In Love](https://open.spotify.com/track/3BFCjTGbWRudKgbvHnL5y9) | [RDGO](https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c) | [Deeper In Love](https://open.spotify.com/album/3F1NLBRCdJLFlNxqtclz3S) | 2:33 |
-| 2 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 |
+| 2 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 |
 | 3 | [Fly Life \- salute Remix](https://open.spotify.com/track/3LTHqCkYnYtqTYDqoi3FPl) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Fly Life \(salute Remix\)](https://open.spotify.com/album/1h4I9xCeVDCmnQ0ZU9sUE1) | 5:22 |
 | 4 | [The Ride](https://open.spotify.com/track/1YnFltuRxUzeSoYGBylKOs) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [The Ride](https://open.spotify.com/album/00FaP9dz2MH7dpEVJxcjn8) | 3:08 |
 | 5 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 219 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 219 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 184 | [Sicko](https://open.spotify.com/track/1HviCfLLU3yd7SktE1AmvO) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:32 |
 | 185 | [Friday](https://open.spotify.com/track/2vTf9a0lLSWVKNtwpVQ498) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Friday](https://open.spotify.com/album/49CKOwAEpZZn1L9CDbNibI) | 4:28 |
 | 186 | [Stay In](https://open.spotify.com/track/3K6fxJQP324dGBh0ugobb3) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 2:52 |
-| 187 | [Steph Curry](https://open.spotify.com/track/2SoD6N6lXUp9cPmFkEFW3Q) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:18 |
-| 188 | [Confession](https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confession](https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK) | 3:21 |
+| 187 | [Confession](https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confession](https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK) | 3:21 |
+| 188 | [Steph Curry](https://open.spotify.com/track/2SoD6N6lXUp9cPmFkEFW3Q) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:18 |
 | 189 | [BEVERLY HILLS HEARTACHE](https://open.spotify.com/track/0FzlhwaKweyfZPnBwUkYZ4) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 3:06 |
 | 190 | [IDK \(I DECAY\)](https://open.spotify.com/track/7vkV4BYH5c1ejoLgLJ9Hqq) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA), [Kiya Juliet](https://open.spotify.com/artist/41Qhb1pKOLWD9ZYc0FUQWc) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 3:45 |
 | 191 | [Crayola](https://open.spotify.com/track/3SzBzT0sUaKRMaD9MtmnlH) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [The Black Box](https://open.spotify.com/album/2eYRi6t0GbWNxhLY8r7IPT) | 3:02 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 218 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 219 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Abs8NAAAAAB7HFffIDdhlfQOaguLSlkp`
+Snapshot ID: `AbtBwAAAAAAhx5aWqANAT3uELk8FScIc`

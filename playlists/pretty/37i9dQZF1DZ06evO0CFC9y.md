@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,100 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,104 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Get Dark](https://open.spotify.com/track/1NdkKzGcN1e5h2Quk6tuXF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Get Dark](https://open.spotify.com/album/6tyg893U6i4o9yKH0K6Pms) | 2:40 |
 | 50 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
 
-Snapshot ID: `Z99PAAAAAABz1g1shk06tr1XDaf9C5yk`
+Snapshot ID: `Z+CggAAAAAAhEKuzqjrheGH69vkaDK80`

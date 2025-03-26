@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,948 songs - 1 day 15 hr 35 min
+1,949 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Bright Days Ahead](https://open.spotify.com/track/1cP9izXEJhwRXb9twUkRhm) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Cello Reflections, Vol\. 2](https://open.spotify.com/album/48wfrUhD16y2U8Lz6HuKRC) | 2:02 | 2022-01-12 | 2024-01-30 |
 | [Bright Future](https://open.spotify.com/track/6pM9OOuaEWjl7fsG9RhSjg) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Acceptance](https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz) | 1:06 | 2022-01-12 |  |
 | [Bright Shadows](https://open.spotify.com/track/3TPDtZgR50La8ZzwihbjFl) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Innerscape](https://open.spotify.com/album/7Irucj3F7RZXtGA5ePsBig) | 1:12 | 2022-01-12 |  |
+| [Brilliance](https://open.spotify.com/track/1FYo0Wcua2dT7NOWRCcIPT) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Brilliance](https://open.spotify.com/album/1W0mk3xAk2BxCI94BBlTAw) | 1:00 | 2025-03-25 |  |
 | [Bring A Torch, Jeanette, Isabella Arr\. For Cello](https://open.spotify.com/track/5ODzhwCOsGb2GaLNXFcWp5) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Bring A Torch, Jeanette, Isabella Arr\. For Cello](https://open.spotify.com/album/1oqtc7Os80wnymIK1dUmqr) | 1:11 | 2024-02-09 | 2024-02-13 |
 | [Calling](https://open.spotify.com/track/30lPH79Dq5k5DGCNkakAnO) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calling](https://open.spotify.com/album/4bWWMAVUPkSWBG95A7gbdz) | 1:00 | 2024-07-05 |  |
 | [Calling](https://open.spotify.com/track/64sFWTTC8olFhxI4nXaPYZ) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |

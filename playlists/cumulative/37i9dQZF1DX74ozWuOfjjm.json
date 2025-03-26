@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 263172,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/5ntJrJGw1eBIf5gqYGxSW6"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 219476,
       "name": "Attention",
       "url": "https://open.spotify.com/track/6xkEK7TVelFA1yklYtQDjp"
@@ -1541,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/7dzLDBV3oNWqCkzhaJwwNZ"
+      },
+      "artists": [
+        {
+          "name": "Brooke x Starce",
+          "url": "https://open.spotify.com/artist/1Td0BYkjml67dZzC42d6wC"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167678,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0mYYFPLZVTXFmp917gR0Bg"
+    },
+    {
+      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/5GzNSpUNves3fARPloCsDk"
       },
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 176718,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/5Tx84RyiFBtsFrfWOnLatD"
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 249186,
       "name": "Cherry Pie",
       "url": "https://open.spotify.com/track/2DF87oCynNUL2Sl83Jqckh"
@@ -2556,6 +2574,24 @@
       "duration_ms": 130560,
       "name": "Cold Touch",
       "url": "https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM"
+    },
+    {
+      "album": {
+        "name": "Collarbones",
+        "url": "https://open.spotify.com/album/7vfXQ3wZdjiTeQfHYHPY8U"
+      },
+      "artists": [
+        {
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186058,
+      "name": "Collarbones",
+      "url": "https://open.spotify.com/track/5MFslBntygBVJlsStmdqkU"
     },
     {
       "album": {
@@ -3888,7 +3924,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 170689,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0wuwvWJ29u9UZAWZAS4zKe"
@@ -5997,6 +6033,24 @@
     },
     {
       "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/7JbmLYkkjfISLAhldGYJRB"
+      },
+      "artists": [
+        {
+          "name": "Elsie Lange",
+          "url": "https://open.spotify.com/artist/2buBNFLcZYBQxJwj14HC7X"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/4YsgPUa1HTPXulIpprgQgp"
+    },
+    {
+      "album": {
         "name": "Coming In From The Dark",
         "url": "https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq"
       },
@@ -8010,7 +8064,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 198251,
       "name": "Laila",
       "url": "https://open.spotify.com/track/0VS6Zx5v82N0LFDgVOvgMO"
@@ -10917,6 +10971,24 @@
     },
     {
       "album": {
+        "name": "Post High Slide",
+        "url": "https://open.spotify.com/album/4yIdXuxYCX87HG4l2PnYCg"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216530,
+      "name": "Post High Slide",
+      "url": "https://open.spotify.com/track/0Oy5bmDDnMpqCv8eYpPqTM"
+    },
+    {
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB"
       },
@@ -11828,7 +11900,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 184634,
       "name": "Seahorses",
       "url": "https://open.spotify.com/track/3lfYwz6hv1BbzaPtVWNgL9"
@@ -11958,6 +12030,24 @@
       "duration_ms": 191265,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/29ZBpjEMa3oUqkCgqH3qZA"
+    },
+    {
+      "album": {
+        "name": "Shangri-La",
+        "url": "https://open.spotify.com/album/4zsMUZ7yhV6dy8Ey6tuPQW"
+      },
+      "artists": [
+        {
+          "name": "Meg Washington",
+          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216587,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/2PnLnsEBUVNnxj9H9d7pjZ"
     },
     {
       "album": {
@@ -12152,7 +12242,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 156646,
       "name": "Silver Linings",
       "url": "https://open.spotify.com/track/0Q0SFHz2nQr0yQVGJZy7I2"
@@ -12919,6 +13009,24 @@
     },
     {
       "album": {
+        "name": "Stew",
+        "url": "https://open.spotify.com/album/1R5hmJeyACWo4wpygYfxHa"
+      },
+      "artists": [
+        {
+          "name": "Astari",
+          "url": "https://open.spotify.com/artist/1kBSImxHkjHRta3gIk3zDF"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215978,
+      "name": "Stew",
+      "url": "https://open.spotify.com/track/6Cp8LcZwDd90omngF1K8Em"
+    },
+    {
+      "album": {
         "name": "NARA",
         "url": "https://open.spotify.com/album/2NcmpiE2xQ91mZww28lpwT"
       },
@@ -13010,6 +13118,24 @@
       "duration_ms": 210100,
       "name": "Strawberry Kisses",
       "url": "https://open.spotify.com/track/2kjUj86ES5b1nBfTMzN6Uv"
+    },
+    {
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169941,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan gems in one playlist\. Cover: Vinka
 
-391 songs - 20 hr 8 min
+392 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [More Love](https://open.spotify.com/track/1C6KQftJvaupHvNSSIIN9D) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [More Love](https://open.spotify.com/album/5Tw7909lweMrp0K45iqYOQ) | 3:14 | 2023-06-09 | 2023-07-05 |
 | [Motivation](https://open.spotify.com/track/3NeG7QOw2YdYMrgoRkvgys) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Motivation](https://open.spotify.com/album/7HkJMXNejO0EqBZqHdOjCa) | 2:17 | 2025-02-21 |  |
 | [Mpakasa](https://open.spotify.com/track/3pwBAkk0rCwXl2nDmcY9es) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Mpakasa](https://open.spotify.com/album/0IJXotvomhn59wnb0g7u3v) | 3:06 | 2022-09-01 | 2022-09-10 |
+| [Mpeke](https://open.spotify.com/track/4qwAAODLtRAqWANUwvRSBw) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Mpeke](https://open.spotify.com/album/4YW3EZJ9G89tB7MVQCLN34) | 3:45 | 2025-03-25 |  |
 | [Mr Director](https://open.spotify.com/track/3FS3nezNWMJ2iDSgxffLjF) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Sisaaga](https://open.spotify.com/album/0UpY66n45LVS5N8rfcYXRN) | 3:02 | 2022-12-09 | 2023-01-13 |
 | [MR DJ](https://open.spotify.com/track/3mpBwA7vh0nbaAuoMXJcRt) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Sizza Man](https://open.spotify.com/artist/2rNe3IlppemaChFevJjP34), [Radio and Weasel](https://open.spotify.com/artist/4wlrcfdGvTtW83ahXY1Ho1), [Rabadaba](https://open.spotify.com/artist/4cckg0GGhtgxEOCS4XjXgO), [KS Alpha](https://open.spotify.com/artist/2FVz5mqQ0W8YfqgBUq7kw6), [Viboyo Oweyo](https://open.spotify.com/artist/4nNWboFa5mjFsHBVTx2zcy), [GNL Zamba](https://open.spotify.com/artist/2FMFjfHjH2pMqsRoKdRten), [Peter Miles](https://open.spotify.com/artist/5N4K2rer8TYi6JGQiHmRhv) | [MR DJ](https://open.spotify.com/album/5qL4LfYGLxWAnvmdnYnKwD) | 5:04 | 2024-03-15 | 2024-04-06 |
 | [Mufaliso](https://open.spotify.com/track/26Li04nrV5DfJUEWKkYYo6) | [Hatim and Dokey](https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ), [Kodish](https://open.spotify.com/artist/14Qge9gMzt7IBs6MsRhN2X) | [Mufaliso](https://open.spotify.com/album/3KBtyfdRMk6CwwE1hp9ek6) | 3:41 | 2023-07-13 | 2024-02-03 |
@@ -394,7 +395,7 @@
 | [YANSIGALAMU](https://open.spotify.com/track/20AU478BGEdpmVuTJdqqsn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [Fik Gaza](https://open.spotify.com/artist/7Ed62iIwlbzO0MmuBuWv6z) | [YANSIGALAMU](https://open.spotify.com/album/6RhjYsjwVD3KLM3nKoCVhs) | 2:44 | 2024-06-21 | 2024-10-25 |
 | [Yo Body](https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Yo Body](https://open.spotify.com/album/4NRlTxbeenzGsRORM3gLPC) | 3:15 | 2024-02-23 | 2024-08-09 |
 | [You Got It](https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [You Got It](https://open.spotify.com/album/08UekIFugezDczFaJR9tjJ) | 3:25 | 2022-07-08 | 2022-11-07 |
-| [Young Everyday](https://open.spotify.com/track/53VFdjL8eUPYcuK5GvWtQA) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [JdM Officiall](https://open.spotify.com/artist/2AoAtbPPpR9DsmiQwrQpq9) | [Young Everyday](https://open.spotify.com/album/5UQXiVsW8GcXFato68GCGo) | 2:58 | 2024-10-10 |  |
+| [Young Everyday](https://open.spotify.com/track/53VFdjL8eUPYcuK5GvWtQA) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [JdM Officiall](https://open.spotify.com/artist/2AoAtbPPpR9DsmiQwrQpq9) | [Young Everyday](https://open.spotify.com/album/5UQXiVsW8GcXFato68GCGo) | 2:58 | 2024-10-10 | 2025-03-26 |
 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2022-11-17 | 2024-02-03 |
 | [Your Sky Has No Limit\(Remix\)](https://open.spotify.com/track/5w5nAChJ1GYZbZkG7KmBKS) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Chase Bell](https://open.spotify.com/artist/57Y3Yk8FH0HglxHzvuCQn5) | [Your Sky Has No Limit\(Remix\)](https://open.spotify.com/album/7ecsebsRRk5R1JITUMUcrG) | 3:34 | 2024-05-03 | 2024-06-08 |
 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 | 2022-11-10 | 2023-03-25 |

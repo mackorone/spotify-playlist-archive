@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Terno Rei
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,503 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,484 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 52 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
 | 53 | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3) | 2:57 |
 | 54 | [Admirável Chip Novo \- Ao Vivo](https://open.spotify.com/track/0xOLW52lNZdUssAMxgcTn5) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [ACNXX Ao Vivo em Salvador](https://open.spotify.com/album/6gNktSnoD3M0KFIecwOBeJ) | 3:43 |
-| 55 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 |
+| 55 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 |
 | 56 | [Mágoas Passadas](https://open.spotify.com/track/02B1IKMtl384QRV2KydzEu) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/5vwVHEMflft9bYfPnZFLeH) | 4:20 |
 | 57 | [Por que a gente é assim?](https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Barão 40 \(Clássicos\)](https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la) | 3:41 |
 | 58 | [Gigante](https://open.spotify.com/track/50RIHpnMyCjRLrFXoVbvsM) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/6JiDLzuNVsMHO7qoePgoRZ) | 3:57 |

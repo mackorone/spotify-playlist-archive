@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. Jacinto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,133 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,127 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [calma](https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [calma](https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh) | 2:20 |
 | 2 | [BBYOSEQESTASPENSANDO](https://open.spotify.com/track/3EvVWuqkOsSXR64SsIlyMu) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [BBYOSEQESTASPENSANDO](https://open.spotify.com/album/2zK3Lk2CBACz7s5U60cGJA) | 3:47 |
-| 3 | [Don Julio](https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Don Julio](https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6) | 2:40 |
+| 3 | [donjulio](https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [donjulio](https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6) | 2:40 |
 | 4 | [ControL](https://open.spotify.com/track/7qvYtQN4rNYRTrgq8dFmee) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Gordon Raphael](https://open.spotify.com/artist/09LiOtBPJw0anSdJcpG4y1) | [ControL](https://open.spotify.com/album/6Cl0IOD7WnZjaQLme6fBPS) | 3:24 |
 | 5 | [Viajero](https://open.spotify.com/track/3EDzoW77kXu4CAGVw2dwmq) | [Paleta Pastel](https://open.spotify.com/artist/2jcmSSQQqVvAytNPnJtsEX) | [N T P M](https://open.spotify.com/album/7vYRJ18QunDuoEzF2pDbhe) | 2:40 |
 | 6 | [FASHION Boy](https://open.spotify.com/track/0pbGmSJWGVcsqhh6KCevAe) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [CDMXXXXXXXXXXXXX](https://open.spotify.com/album/6WOVWNdr0k4c2VQVhO5Fft) | 2:57 |

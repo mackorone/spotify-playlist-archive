@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 18353,
+  "num_followers": 18355,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAAB5jXTmRO3AOexBgw3+AhEp",
+  "snapshot_id": "Z+CggAAAAABOTMDX3HxrqX60Hq051fsV",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/2CccpAbBdXvE1C6PzCP5B3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 236586,
       "name": "Fui feliz",
       "url": "https://open.spotify.com/track/4eg5oafPZjlFK6xYF6qs3Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/2CccpAbBdXvE1C6PzCP5B3"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Axfixiar",
-      "url": "https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resiste M\u00e1s Que Yo",
         "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Axfixiar",
+      "url": "https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 213946,
       "name": "Brigida",
       "url": "https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Bueno De Morir De Amor",
-        "url": "https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Lo Bueno De Morir De Amor",
-      "url": "https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 359233,
       "name": "Carne - En Vivo",
       "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Bueno De Morir De Amor",
+        "url": "https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Lo Bueno De Morir De Amor",
+      "url": "https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-698 songs - 2 day 6 hr 7 min
+698 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Euphoria](https://open.spotify.com/track/29bvDzVtefT0PDoC4BDUpQ) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Euphoria \| Tanz der Planeten](https://open.spotify.com/album/4DRNTwsmWHDch8Sizreid3) | 7:32 | 2023-09-01 | 2023-09-30 |
 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 | 2024-12-05 |  |
 | [Every Breath](https://open.spotify.com/track/6mTWTcuOnCGktsCXeCEEjK) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Every Breath](https://open.spotify.com/album/4UUnFvSEbJhp6Tyuut9ncu) | 3:25 | 2024-07-25 |  |
-| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 | 2025-03-20 |  |
+| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 | 2025-03-20 |  |
 | [Exploration](https://open.spotify.com/track/5F1zvhsJgKnoQ0SsHXYFcs) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Exploration](https://open.spotify.com/album/3tgWHAwuMFYX4Bv1KhW4yx) | 6:47 | 2023-11-09 | 2024-07-13 |
 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-08-11 | 2024-04-19 |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-28 | 2023-08-18 |

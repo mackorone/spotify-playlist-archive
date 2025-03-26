@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Bolaget, Jack Harlow, Olivia Lobato och Morgan Wallen med flera\. Happy New Music Friday!
 
-18,228 songs - 39 day 8 hr 52 min
+18,228 songs - 39 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4846,7 +4846,7 @@
 | [Evighet \(feat\. Molly Hammar\)](https://open.spotify.com/track/0dlKJgfewt5XU5ucn9VCFP) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Evighet \(feat\. Molly Hammar\)](https://open.spotify.com/album/4kpBAjYFH85VWZHJ3jMxk0) | 2:38 | 2025-01-02 | 2025-01-10 |
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-02-25 |
 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 | 2023-11-17 | 2023-12-09 |
-| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 | 2025-03-20 |  |
+| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 | 2025-03-20 |  |
 | [Evolution](https://open.spotify.com/track/3khZfJxwsaXAPM4riEPHZB) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution](https://open.spotify.com/album/4Duw84CjAvQ1DVfoEJR4tG) | 4:26 | 2024-01-11 | 2024-01-19 |
 | [Ex](https://open.spotify.com/track/6RZQRn1cp0AgraqbQt87Cm) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Ex](https://open.spotify.com/album/3AjwRqossPPmviLhB9KgVF) | 3:06 | 2022-01-27 | 2022-02-04 |
 | [Ex \(feat\. SKAAR\)](https://open.spotify.com/track/7wZ17yt2CbvDHj7dqfM2DR) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Ex \(feat\. SKAAR\)](https://open.spotify.com/album/46Z5rL7kMabzOWiOmyNtfw) | 3:06 | 2023-01-26 | 2023-02-03 |

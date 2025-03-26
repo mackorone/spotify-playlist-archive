@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Selena Gomez & benny blanco, j\-hope, Andi Rianto, Lyodra, dan Rony Parulian hingga Bunga Citra Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,193 likes - 84 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,207 likes - 84 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 34 | [Jangan Main Main](https://open.spotify.com/track/7ivIA9uIzc471c1RO57FSq) | [Mariani Oelong](https://open.spotify.com/artist/6vVEB5LyxuoIoWNSESZqGa) | [Jangan Main Main](https://open.spotify.com/album/4ZZnvX0EpLCSwaE7scl2gR) | 4:10 |
 | 35 | [Dari Kemarin](https://open.spotify.com/track/63V1GgVJ5RzwQ9V5V6Psr4) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Dari Kemarin](https://open.spotify.com/album/5nuOKWKTbrozwIxUMdEWD3) | 4:14 |
 | 36 | [Smarana](https://open.spotify.com/track/0IdbozX5F9rlR1uSSiwlmb) | [VREYA](https://open.spotify.com/artist/6BxtKT3VsGzAM1CZpGQgka), [Romano Guitar Boy](https://open.spotify.com/artist/4V2B4o9ulMViRgnnae4F6P) | [Smarana](https://open.spotify.com/album/6oFuADCVqWHRTQIQB5Cfge) | 4:13 |
-| 37 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 |
+| 37 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 |
 | 38 | [Home](https://open.spotify.com/track/22i7oKxWixV0j16Yfrutrd) | [OJA Records](https://open.spotify.com/artist/3gI5NRSwnCDNtfSne6rDiY), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Home](https://open.spotify.com/album/7fjMhAu1TbKdnF0QOQo8ys) | 3:44 |
 | 39 | [Ramadhan Lebaran](https://open.spotify.com/track/0TyKA677iVAKJNo5jucYio) | [ARBA'A Voice](https://open.spotify.com/artist/1HdFcssI8w7bUdnol1hrLK) | [Ramadhan Lebaran](https://open.spotify.com/album/260VsD52DLIra6JoxG3gcP) | 3:44 |
 | 40 | [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 |

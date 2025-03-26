@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147051,
+      "name": "Esa Fue Mi Novia",
+      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
+    },
+    {
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/56x9DFswcIstlVuPa0WG13"
       },
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 162321,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/5gmL3RvxGZM0VW1E38HvnF"

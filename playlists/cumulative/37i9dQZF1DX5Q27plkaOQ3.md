@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with ALLEYCVT
 
-966 songs - 2 day 5 hr 25 min
+967 songs - 2 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 | 2024-08-20 |
 | [Lasers](https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW) | [Lasers](https://open.spotify.com/album/4wx2Az0dfbr23XFjOXQgsg) | 3:31 | 2022-01-07 | 2022-03-12 |
 | [Last One Standing \- Ace Aura Remix](https://open.spotify.com/track/0I0ZJ1IBED5wOAlm7RvRjP) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Last One Standing \(Ace Aura Remix\)](https://open.spotify.com/album/0oaPiQBOy6KkiwfCDTtMo8) | 3:53 | 2022-10-28 | 2023-10-14 |
+| [Leaving](https://open.spotify.com/track/452vTHc6AiCfL9UUk431qB) | [Perry Wayne](https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB), [Saturn](https://open.spotify.com/artist/2ODyrbjNNSAcPWIE01IlMr) | [Leaving](https://open.spotify.com/album/5kFR2EHrkSYS72Ao7tVSer) | 3:56 | 2025-03-21 |  |
 | [Legalize Nuclear Bombs](https://open.spotify.com/track/5Tp9Ojtfm0VX7vR3u8oHwv) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Legalize Nuclear Bombs](https://open.spotify.com/album/0tDknUXGhQ2i5dOZUU7VPz) | 2:48 | 2023-10-13 | 2023-12-23 |
 | [LET ME GO](https://open.spotify.com/track/4aUnltWb3sOlx6ME7R9AOQ) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [LET ME GO](https://open.spotify.com/album/5V6RDQ5iP3JSOHGSrMasxT) | 2:30 | 2024-10-11 | 2024-12-07 |
 | [Let Me Go](https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Let Me Go](https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus) | 3:42 | 2022-11-28 | 2023-03-18 |
@@ -630,7 +631,7 @@
 | [Overtone](https://open.spotify.com/track/2ytaa43QSNp4UDXRV2LyX9) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Overtone](https://open.spotify.com/album/6ar4vhJRAdixcN4uSFH4l8) | 3:06 | 2023-07-21 | 2023-08-26 |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-04-22 | 2023-04-01 |
 | [Pain](https://open.spotify.com/track/6fuqMcgCHL1IJpUWMdo8eX) | [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky), [Free Fall](https://open.spotify.com/artist/5Y0oHsIgmZzj38UIN48CCS), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Pain](https://open.spotify.com/album/6uQ74sZvl0pPpO1VVDHh1K) | 4:16 | 2023-12-08 | 2024-01-20 |
-| [Panic](https://open.spotify.com/track/3aPvwYWMlCzY8OOC4VSN0v) | [Future Exit](https://open.spotify.com/artist/6XICNhCH7FSsdoX3fDGUGm), [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Panic](https://open.spotify.com/album/4Mzh3iXKnuCpiRdCrpH8Pw) | 3:07 | 2025-02-16 |  |
+| [Panic](https://open.spotify.com/track/3aPvwYWMlCzY8OOC4VSN0v) | [Future Exit](https://open.spotify.com/artist/6XICNhCH7FSsdoX3fDGUGm), [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Panic](https://open.spotify.com/album/4Mzh3iXKnuCpiRdCrpH8Pw) | 3:07 | 2025-02-16 | 2025-03-26 |
 | [Panic Attack](https://open.spotify.com/track/1Q8bsSSZ3I1IZ8LLb75cQX) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0) | [Panic Attack](https://open.spotify.com/album/3le7rjwQCqHDBpKGzvIknm) | 3:22 | 2025-03-01 |  |
 | [Parachute](https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Parachute](https://open.spotify.com/album/5g9FEdY7SHc21AD2duTgac) | 3:52 | 2022-06-03 | 2023-04-01 |
 | [Paradise](https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Paradise](https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG) | 3:30 | 2023-03-17 | 2024-09-07 |

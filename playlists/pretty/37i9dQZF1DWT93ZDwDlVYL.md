@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 
 > Podcast che devi avere sul tuo RADAR: BenNaNa Podcast, Casi Umani, EST RADIO, Mitologia Gettata, Pianeta B12
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,657 likes - 5 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658 likes - 5 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

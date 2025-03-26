@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 113542,
+  "num_followers": 113558,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-20 13:14:42",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 140945,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi"
-    },
-    {
-      "added_at": "2025-03-20 13:14:42",
-      "album": {
         "name": "En g\u00e5ng till",
         "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 163346,
       "name": "En g\u00e5ng till",
       "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
+    },
+    {
+      "added_at": "2025-03-20 13:14:42",
+      "album": {
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 140945,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi"
     },
     {
       "added_at": "2025-03-20 13:14:42",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-03-20 13:14:42",
       "album": {
-        "name": "Nattens heltar",
-        "url": "https://open.spotify.com/album/5Yhf8clTjdSnbP8AIoW68x"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        }
-      ],
-      "duration_ms": 240422,
-      "name": "Nattens heltar",
-      "url": "https://open.spotify.com/track/6rLje26mUt2sQ5dgqsEy5M"
-    },
-    {
-      "added_at": "2025-03-20 13:14:42",
-      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 170526,
       "name": "N\u00e5 er det freda'n igjen",
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2025-03-20 13:14:42",
+      "album": {
+        "name": "Nattens heltar",
+        "url": "https://open.spotify.com/album/5Yhf8clTjdSnbP8AIoW68x"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        }
+      ],
+      "duration_ms": 240422,
+      "name": "Nattens heltar",
+      "url": "https://open.spotify.com/track/6rLje26mUt2sQ5dgqsEy5M"
     },
     {
       "added_at": "2025-03-20 13:14:42",

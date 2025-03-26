@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-289 songs - 15 hr 58 min
+291 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [SAD!](https://open.spotify.com/track/22QfL13HHu4ryuIksT4Fkj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 2:51 | 2022-11-18 | 2022-11-26 |
 | [Sailing](https://open.spotify.com/track/1rt2VVHzUfrYqD9HGY0jGg) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sailing](https://open.spotify.com/album/1gmD0abuhaunLrRRVMpFYY) | 2:18 | 2024-04-17 |  |
 | [Sailing](https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Sailing](https://open.spotify.com/album/26VqwTUlZPYlDFdFr86HsM) | 1:45 | 2023-02-21 | 2023-10-17 |
+| [Sailor Song](https://open.spotify.com/track/49e4CgdNvJpIpIiyCUy5Jo) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Sailor Song](https://open.spotify.com/album/5dCgSCucTvGdkHgZaYEYDn) | 2:53 | 2025-03-25 |  |
 | [Samson](https://open.spotify.com/track/3QEYwF3sQ8TFrJd4lGt1uM) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Regina Spektor](https://open.spotify.com/album/1LzX7qSVoKMGmmARb2DYbb) | 2:58 | 2022-11-18 | 2022-11-26 |
 | [Santa Tell Me](https://open.spotify.com/track/6vZcMoD5JVz2xC7WkKU8Vi) | [Penny Lanegan](https://open.spotify.com/artist/7bsYtGwA2k9Xt84WJT8lBY) | [Santa Tell Me](https://open.spotify.com/album/18uTr2S7O7Ipl1Qp4Kvqck) | 2:50 | 2024-11-19 | 2025-01-15 |
 | [Save Me](https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs BTS](https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI) | 3:20 | 2022-11-18 | 2022-11-26 |
@@ -290,6 +291,7 @@
 | [Wonderwall](https://open.spotify.com/track/37mbKfCK38Kkyg7ivgcxzV) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Wonderwall](https://open.spotify.com/album/0O46PzSt1njOguGiMHF9Pu) | 4:30 | 2023-02-28 |  |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2021-11-25 |  |
 | [Yellow](https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Covers, Vol\. 1](https://open.spotify.com/album/0yFuG8TdMSfrTE5repnCWN) | 4:23 | 2022-05-13 | 2023-02-22 |
+| [Yesterday](https://open.spotify.com/track/0y1sd3xVFcmWb3wRAyGp53) | [The Enneagrams](https://open.spotify.com/artist/6hSPm8hejwOjSWxFT1BCHJ) | [Yesterday](https://open.spotify.com/album/45cN17gBhJE9L0DSOQ5w1K) | 2:11 | 2025-03-25 |  |
 | [You and Me](https://open.spotify.com/track/6yoNRCtmcgAqKUJ9hvLaqT) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [The Modern Wedding Collection, Vol\. 2](https://open.spotify.com/album/2XwUsjzSF4Qxd7cHcFSCsm) | 4:27 | 2022-11-18 | 2022-11-26 |
 | [You Are Not Alone](https://open.spotify.com/track/1cIeaqYDfdLuNK6lI1jkre) | [Petal & Thorn](https://open.spotify.com/artist/3Ul2PMlam8P1icRAZJlAUM) | [You Are Not Alone](https://open.spotify.com/album/5ktiaAEAmPsLLYmVTmJJ5E) | 3:15 | 2025-03-18 |  |
 | [You For Christmas](https://open.spotify.com/track/6nvWWxWbvaRt78K40zcSoA) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [You For Christmas](https://open.spotify.com/album/05sUSQ5lX2UI8bfQrJ6bD7) | 2:16 | 2024-12-10 | 2025-01-08 |

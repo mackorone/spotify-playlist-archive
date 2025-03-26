@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Abuela",
+        "url": "https://open.spotify.com/album/5MSAqzWWNeS7JMNdjnMQ9C"
+      },
+      "artists": [
+        {
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Abuela",
+      "url": "https://open.spotify.com/track/2vdknEP3BN6ex9Fhx6X5Wa"
+    },
+    {
+      "album": {
         "name": "Agave",
         "url": "https://open.spotify.com/album/6r8jn5NGZv72u1MHgfzE6r"
       },
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 154666,
       "name": "Dilla Impresses Me",
       "url": "https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ"
@@ -2815,6 +2833,32 @@
     },
     {
       "album": {
+        "name": "Former Glory",
+        "url": "https://open.spotify.com/album/3BduGow9Zh2JhJzXLrUzNd"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        },
+        {
+          "name": "Marvin Frey",
+          "url": "https://open.spotify.com/artist/1ay8QiQk931SyvOAsGuqOM"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108200,
+      "name": "Former Glory",
+      "url": "https://open.spotify.com/track/0H8Gg3A5oLQU4IBtZiaVio"
+    },
+    {
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/4OhdSAUk38vuqxwdWEBLn4"
       },
@@ -3132,7 +3176,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 160000,
       "name": "Great Void",
       "url": "https://open.spotify.com/track/0JDeLjaHDaXT3SR9SjrNCt"
@@ -3448,6 +3492,28 @@
       "duration_ms": 129438,
       "name": "Household",
       "url": "https://open.spotify.com/track/5dRj6Gevj4UKpWkIu0INIe"
+    },
+    {
+      "album": {
+        "name": "how we feel",
+        "url": "https://open.spotify.com/album/6XzG4kURxYNTdiGynbDRBJ"
+      },
+      "artists": [
+        {
+          "name": "igory",
+          "url": "https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9"
+        },
+        {
+          "name": "howupheelin'",
+          "url": "https://open.spotify.com/artist/23RWeaDeSVPWEOGogfsQ0i"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "how we feel",
+      "url": "https://open.spotify.com/track/3qt1oqvYx1RRUBWmNAjjnv"
     },
     {
       "album": {
@@ -6102,7 +6168,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 186666,
       "name": "Pipe Dream",
       "url": "https://open.spotify.com/track/2j55REbJcq6dgZ5FxWDaxE"

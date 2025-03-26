@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,368 likes - 99 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,370 likes - 99 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 66 | [球根](https://open.spotify.com/track/6Y8ufRaiBKrtuK1roOhfB3) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [球根](https://open.spotify.com/album/5oIGwNjumfEQr57ea9ZFum) | 5:37 |
 | 67 | [G.W.D](https://open.spotify.com/track/0dtghVBbAUTjgHURS8yrvV) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [G.W.D](https://open.spotify.com/album/2AecKnxnCmJLUo0kefA6rm) | 4:03 |
 | 68 | [愛のしるし](https://open.spotify.com/track/0qOScdYDctpYsSzMEWnZfE) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/5oedxeKettM2bBe04NXJ63) | 2:48 |
-| 69 | [散歩道](https://open.spotify.com/track/3pvZjxm6ioiy6nxJRVLGz8) | [ジュディ アンド マリー](https://open.spotify.com/artist/5buYs1L6KXtObF1eIqpxdu) | [散歩道](https://open.spotify.com/album/3pZe0keaeQoIFXK6BQMMdO) | 5:06 |
+| 69 | [散歩道](https://open.spotify.com/track/3pvZjxm6ioiy6nxJRVLGz8) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [散歩道](https://open.spotify.com/album/3pZe0keaeQoIFXK6BQMMdO) | 5:06 |
 | 70 | [Raining](https://open.spotify.com/track/2ExowITXUxgRENJmHElnjB) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クムイウタ](https://open.spotify.com/album/1l8oBk3x6WEB0v2QbsH2xu) | 5:30 |
 | 71 | [命の別名](https://open.spotify.com/track/1jtHUdvwYkfpjqHFLhnPMT) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [命の別名](https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I) | 5:02 |
 | 72 | [冷たい花](https://open.spotify.com/track/7is19WRnzjExRRTesFtDGw) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [the brilliant green](https://open.spotify.com/album/3cjzTbEFAVuGqRfvGC6H55) | 4:37 |

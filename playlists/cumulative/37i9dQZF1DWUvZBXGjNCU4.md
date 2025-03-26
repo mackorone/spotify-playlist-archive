@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-380 songs - 17 hr 10 min
+383 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 | 2022-05-13 | 2024-04-20 |
 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 | 2022-05-13 |  |
 | [Lucent](https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Lucent](https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn) | 2:04 | 2023-02-24 |  |
+| [Lullaby](https://open.spotify.com/track/7goB8XbGH0dOpuOKh33M2V) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lullaby](https://open.spotify.com/album/0gltiSlcJXlCkGICZ5hVx5) | 2:54 | 2025-03-25 |  |
 | [Lute](https://open.spotify.com/track/2NdSxdafeYHyE0UT2tu2CR) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Odoacer](https://open.spotify.com/album/6Zgfn2b9hQTXgN4tOVuau3) | 2:57 | 2022-05-13 | 2024-04-06 |
 | [Make It Work](https://open.spotify.com/track/17Az6X46sOMM3VftW91VFE) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Make It Work](https://open.spotify.com/album/3sFtgLbCMHcBvQCboBM32I) | 3:04 | 2022-05-13 | 2022-06-10 |
 | [Malgré le néant](https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Malgré le néant](https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5) | 2:46 | 2022-05-13 |  |
@@ -281,6 +282,7 @@
 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 | 2022-05-13 | 2023-02-25 |
 | [Secure Place](https://open.spotify.com/track/27EKDvsmQrZeAoACrcfMs1) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Secure Place](https://open.spotify.com/album/01B3d2G5Qri7B6Bzjj34PV) | 2:57 | 2024-04-19 |  |
 | [See It Through](https://open.spotify.com/track/0ZlfrENWdpQyEsBfynIFGF) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [See It Through](https://open.spotify.com/album/3VD0JGd9cvNWuMKFpIjlpq) | 3:02 | 2023-12-15 |  |
+| [Serenade of the Pines](https://open.spotify.com/track/4j5AE4ET1c63FQY28xGBkM) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Serenade of the Pines](https://open.spotify.com/album/6AWJhJV5UVVbzHwW3S5L2j) | 2:43 | 2025-03-25 |  |
 | [Seven Hills of Rome](https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Seven Hills of Rome](https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1) | 2:12 | 2022-05-13 | 2022-06-10 |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-05-13 | 2024-04-06 |
 | [Shaded Woods](https://open.spotify.com/track/6SnVbQzle9hpH2is7VN49J) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Shaded Woods](https://open.spotify.com/album/6DtHlr0H9aaFYOP39tEsjt) | 2:49 | 2024-09-10 |  |
@@ -335,6 +337,7 @@
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-05-13 | 2023-04-28 |
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-31 |
 | [The Safflower Harvest](https://open.spotify.com/track/2Bb66gsw9HlLjMLrVjSJv8) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:57 | 2022-05-13 | 2023-02-25 |
+| [The second day of the year](https://open.spotify.com/track/4t0dPZpKTEwhrp86jFq0Oy) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [The second day of the year](https://open.spotify.com/album/0J9M3YE2BiynCk10uuKkNO) | 2:03 | 2025-03-25 |  |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-05-13 | 2024-05-10 |
 | [The sweeping wind](https://open.spotify.com/track/4ME6RzLbiTxN4sz9qKceAM) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The sweeping wind](https://open.spotify.com/album/1zAw0rdmcMrWlFrhtb37kj) | 2:41 | 2024-11-20 |  |
 | [The Wait Is Finally Over](https://open.spotify.com/track/7845ttrSnatgaUwevW7mAX) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [The Wait Is Finally Over](https://open.spotify.com/album/6eKi4KS6HBKCrtjUznDdZZ) | 3:49 | 2022-05-13 | 2022-06-10 |

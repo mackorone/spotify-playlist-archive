@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 
 > 
 
-[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 277 songs - 15 hr 38 min
+[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 278 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 | 167 | [Alone Together](https://open.spotify.com/track/0w1c9M3a9WCsxmBs3UkqlA) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [Hello?](https://open.spotify.com/album/0SMAjPAbO2Aa4LbEevyvAv) | 4:01 |
 | 168 | [Let's Drive](https://open.spotify.com/track/5ktZxvZfHryz2Z60qooeGH) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [Hello?](https://open.spotify.com/album/0SMAjPAbO2Aa4LbEevyvAv) | 3:04 |
 | 169 | [Feels Just Like the First Time](https://open.spotify.com/track/5umSOeQ2Lgv3myxbc92Apl) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [Feels Just Like the First Time](https://open.spotify.com/album/61LQazanbzTV7jXxZ2029P) | 2:48 |
-| 170 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
+| 170 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
 | 171 | [Gordon's Gardenparty](https://open.spotify.com/track/3cxCBoboAnw7m3Z2srEe8E) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Life \(Remastered\)](https://open.spotify.com/album/7uatFjjGOQoccdiFh8uOHx) | 3:21 |
 | 172 | [RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:57 |
 | 173 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 |
@@ -285,5 +285,6 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 | 275 | [Finally Alone](https://open.spotify.com/track/7JyhhEb1LKIuDiHy6bWdet) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 2:24 |
 | 276 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 |
 | 277 | [Steady](https://open.spotify.com/track/4VjG1jgzgfCuttqVc6DHYF) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:24 |
+| 278 | [The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 |
 
-Snapshot ID: `AAABPicywsgJuKOK5kOtVR5w/5VDNOC1`
+Snapshot ID: `AAABP02A2hzswvBomxUWgwtjZBEv9Ubv`

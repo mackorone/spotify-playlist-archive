@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "I Found the Day",
+        "url": "https://open.spotify.com/album/3oWKbBZvbTsvf5rrgOQyMs"
+      },
+      "artists": [
+        {
+          "name": "Carl Fletcher",
+          "url": "https://open.spotify.com/artist/6MJVrtr9vMYLrCv6y0ypzK"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147571,
+      "name": "I Found the Day",
+      "url": "https://open.spotify.com/track/50jkiTxHbEAi2h9wOZVbgE"
+    },
+    {
+      "album": {
         "name": "The Road To Euphoria",
         "url": "https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW"
       },

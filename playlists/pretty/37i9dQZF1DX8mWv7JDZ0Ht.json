@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lagum",
-  "num_followers": 437911,
+  "num_followers": 437897,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "encontro de alma",
+        "url": "https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "encontro de alma",
+      "url": "https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "Baila Comigo",
         "url": "https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 186341,
       "name": "Baila Comigo",
       "url": "https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
-        "name": "encontro de alma",
-        "url": "https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "encontro de alma",
-      "url": "https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "Depois do Fim (Deluxe)",
+        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 132439,
+      "name": "C\u00f3cegas",
+      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "belo horizonte (metade de mim)",
         "url": "https://open.spotify.com/album/0G8JkUOLgYOf5XfgL8Fw2N"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 152111,
       "name": "belo horizonte (metade de mim)",
       "url": "https://open.spotify.com/track/4Q668LogaM0KnJWlqSzyHt"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
-        "name": "Depois do Fim (Deluxe)",
-        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 132439,
-      "name": "C\u00f3cegas",
-      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "me chama",
         "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 157846,
       "name": "me chama",
       "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
         "name": "Pra Casar",
         "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 147812,
       "name": "tonteira",
       "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 186223,
+      "name": "CHUVA DE VER\u00c3O",
+      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
         "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 161079,
       "name": "HOMENS S\u00c3O DE MARTE",
       "url": "https://open.spotify.com/track/6STnMIg2g9fwOnsbGauDQO"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
-        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 186223,
-      "name": "CHUVA DE VER\u00c3O",
-      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "Meu Corpo Pede",
+        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "Meu corpo pede",
+      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "Todos os Futuros",
         "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 152027,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
-        "name": "NEM SE O MUNDO ACABAR",
-        "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 152450,
-      "name": "NEM SE O MUNDO ACABAR",
-      "url": "https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -987,6 +987,22 @@
       "duration_ms": 136630,
       "name": "Jaqueta",
       "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
+        "name": "NEM SE O MUNDO ACABAR",
+        "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 152450,
+      "name": "NEM SE O MUNDO ACABAR",
+      "url": "https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -1091,6 +1107,26 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
+        "name": "Todas as Saudades",
+        "url": "https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 173294,
+      "name": "Desperd\u00edcio",
+      "url": "https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK"
+    },
+    {
+      "added_at": "2025-03-21 03:00:30",
+      "album": {
         "name": "LEBLON",
         "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
       },
@@ -1111,26 +1147,6 @@
       "duration_ms": 151032,
       "name": "LEBLON",
       "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
-        "name": "Todas as Saudades",
-        "url": "https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 173294,
-      "name": "Desperd\u00edcio",
-      "url": "https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-03-21 03:00:30",
       "album": {
-        "name": "Meu Corpo Pede",
-        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
+        "name": "Coisa Rara",
+        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
       },
       "artists": [
         {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 173365,
-      "name": "Meu corpo pede",
-      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
+      "duration_ms": 165441,
+      "name": "Coisa Rara",
+      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
     },
     {
       "added_at": "2025-03-21 03:00:30",
@@ -1227,22 +1243,6 @@
       "duration_ms": 124666,
       "name": "Depois do Fim",
       "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
-    },
-    {
-      "added_at": "2025-03-21 03:00:30",
-      "album": {
-        "name": "Coisa Rara",
-        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 165441,
-      "name": "Coisa Rara",
-      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
     },
     {
       "added_at": "2025-03-21 03:00:30",

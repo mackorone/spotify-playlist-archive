@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,678 songs - 10 day 22 hr 18 min
+4,681 songs - 10 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1685,6 +1685,7 @@
 | [Gum Love](https://open.spotify.com/track/70JsGwiwYu72dWGJMtSlH3) | [Phantomelo](https://open.spotify.com/artist/0e52fRrgWuE2V31MUOKzTt) | [Pet Your Dog More](https://open.spotify.com/album/27yV3TI7rr4iHeQXmuO1Fi) | 2:42 | 2024-07-31 | 2024-08-12 |
 | [Gumbo Nights](https://open.spotify.com/track/2qW7TFuS4Ilz9xWylYvKFc) | [Gumbo on Wax](https://open.spotify.com/artist/18QsWeobZeDiceXPfAOv2C) | [Gumbo Nights](https://open.spotify.com/album/1UpMD7NMQzk5eulKjoFaD7) | 2:06 | 2022-12-02 | 2022-12-24 |
 | [Guy Next Door](https://open.spotify.com/track/52tfvT6wAmGsmJHQdrVpZn) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Guy Next Door](https://open.spotify.com/album/5D64tffO6EyavgR0X7a1VY) | 3:43 | 2024-06-01 | 2024-06-14 |
+| [Gypsy Groove](https://open.spotify.com/track/1RfiOaZ9rjozELTYjOBStk) | [Bryan Lubeck](https://open.spotify.com/artist/3RztoEJuNXx3QNR5HKN63m) | [Tuscan Sky](https://open.spotify.com/album/4Z8OSC7xAWN1QIdGU5BRYG) | 4:13 | 2025-03-26 |  |
 | [Hace Calor](https://open.spotify.com/track/4rHonGCjoqsUUvsdPvwRI7) | [Sebastian Jaramillo](https://open.spotify.com/artist/1gAzUE1AN0yRSBOqWANrQf) | [Hace Calor](https://open.spotify.com/album/44syB3GecTTDbqTYAfp9nr) | 2:44 | 2024-03-10 | 2024-03-18 |
 | [Hacer café](https://open.spotify.com/track/11SL91oltizqkEbM0wGrXy) | [Ramón Betancor](https://open.spotify.com/artist/31CKqxPOF5gZ3UB6UoHDX6) | [Lenguajes del instinto](https://open.spotify.com/album/7J8A6zlLdsxwXOaMGwciRk) | 4:23 | 2023-07-14 | 2023-07-29 |
 | [Hagia Sophia \- Demo Version](https://open.spotify.com/track/4yhD06Hr2Qm02KojAS0KqB) | [Demo](https://open.spotify.com/artist/224Fi9M0ii3XYIvr5IysAe) | [Hagia Sophia \(Demo Version\)](https://open.spotify.com/album/2RPr3hO0J2lMn4iiiFDg1C) | 3:52 | 2020-11-06 | 2020-11-27 |
@@ -2749,6 +2750,7 @@
 | [My Gut](https://open.spotify.com/track/1vnRZVQEEOXxWph57js5OP) | [Ark White](https://open.spotify.com/artist/0T9bXazaIkt3kOSTPpCFUe) | [My Gut](https://open.spotify.com/album/5uTlBOB0DdYkBpicQPEW2M) | 4:07 | 2022-12-09 | 2022-12-31 |
 | [My Head](https://open.spotify.com/track/4HC480g0BPfdzlbk3DEgE3) | [Piper\-Grace](https://open.spotify.com/artist/7EB0xNGHxFCHYgE5NZHFuj) | [My Head](https://open.spotify.com/album/2pPpQd5PLRiJ8QprZiYlFZ) | 2:16 | 2022-06-22 | 2022-07-16 |
 | [My Kind](https://open.spotify.com/track/1av0KbWB2vOVxkRKsrESna) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [My Kind](https://open.spotify.com/album/4pZhWXgxao6lAEwb1k3yfY) | 2:16 | 2024-01-26 | 2024-02-07 |
+| [My Kinda Cowgirl](https://open.spotify.com/track/1kkdyp5T1aYjCnUeOyEFVz) | [TT](https://open.spotify.com/artist/4KNXuX5qorQkvQDDQ0A0L0) | [Man on the Corner](https://open.spotify.com/album/0YbnlU8rBkn26beErml8Zv) | 3:27 | 2025-03-25 |  |
 | [My lil friend](https://open.spotify.com/track/22HFcU0WBxr8kaIljPiyOf) | [Dav3 Mack](https://open.spotify.com/artist/09e6yrrxhZPdQn4WcESkyU) | [Vibrations](https://open.spotify.com/album/6CXx3AgTexIOiMJXUYey6p) | 2:38 | 2024-05-31 | 2024-06-11 |
 | [My Love](https://open.spotify.com/track/5MWROLaEEcQgWGZ16QuyI6) | [Bella Delle](https://open.spotify.com/artist/2Ss9z0SG3FQwFJVpWoyafk) | [My Love](https://open.spotify.com/album/62GJz4BTrOuEGYPLPtL672) | 3:03 | 2023-07-15 | 2023-08-04 |
 | [My Love \(Borth Remix\)](https://open.spotify.com/track/3QA979rq5SWdIH2Rsm2TPg) | [Eric Anders](https://open.spotify.com/artist/7wYbNTiiFpJwzAwFk910dl), [Mark O'Bitz](https://open.spotify.com/artist/1l1iTfSE17m7r3FZehWsIR) | [Bardo Hauntings II: Borth Remixes](https://open.spotify.com/album/4xomyU3RIbujt0hAJLxkwc) | 3:54 | 2022-10-28 | 2022-11-19 |
@@ -4470,6 +4472,7 @@
 | [What You Need](https://open.spotify.com/track/5hZMRif9diTeQ1jKr8Gus9) | [Vita Schmidt](https://open.spotify.com/artist/7bkrFxOcOZFC5fw0VpbGEz) | [What You Need](https://open.spotify.com/album/0cq1F6Rr5z016UzQ6ZOwUX) | 3:49 | 2019-12-01 | 2019-12-11 |
 | [What's a Little Snow?](https://open.spotify.com/track/1oKh6OZhIm7oWt7WemTYYt) | [CavTheMusician](https://open.spotify.com/artist/1leimZIjQmdQBLxAO649Eg) | [What's a Little Snow?](https://open.spotify.com/album/4m9g6ifQSNfpL7v0Yghf16) | 3:33 | 2024-11-29 | 2024-12-11 |
 | [What's On Your Mind](https://open.spotify.com/track/0FVb71Ze5hVobgJ5k7m3L9) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Walk You Home](https://open.spotify.com/album/0sCekvrb4MfLtKBv8Cjr9V) | 2:29 | 2024-07-02 | 2024-07-14 |
+| [whatalife](https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:53 | 2025-03-25 |  |
 | [Whatever Is Fine](https://open.spotify.com/track/4uPz7YeEI66LsIdlRueC7e) | [Zack Gogginz](https://open.spotify.com/artist/0l7YhbuMJ1EDXR3qmdDTDR) | [Whatever Is Fine](https://open.spotify.com/album/5Ab9fsEQcYRumhYJniC6aq) | 5:43 | 2023-01-25 | 2023-02-26 |
 | [Whatever U Tell Me](https://open.spotify.com/track/62q39hLMLokPdXrxwV6Yq6) | [ANGE](https://open.spotify.com/artist/1VSyH0QvgTpqKMhkcmgkyR) | [Whatever U Tell Me](https://open.spotify.com/album/2bGOdIovp3ito7Qw7kkciS) | 3:05 | 2021-10-13 | 2021-10-28 |
 | [What’s In The Tea?](https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45) | [Calimossa](https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q) | [What’s In The Tea?](https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO) | 2:53 | 2024-08-12 |  |

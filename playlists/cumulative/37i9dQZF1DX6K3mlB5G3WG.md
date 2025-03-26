@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Tananai
 
-1,121 songs - 2 day 9 hr 37 min
+1,123 songs - 2 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [3/4 di gin](https://open.spotify.com/track/2xMHGR94FGc1coNn3vEaCG) | [Diego Stray](https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM) | [3/4 di gin](https://open.spotify.com/album/25sikafWx9ecDA8Bkf9TRX) | 3:17 | 2025-01-09 | 2025-01-31 |
 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-21 | 2025-01-24 |
 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 | 2025-01-23 | 2025-02-14 |
+| [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 | 2025-03-25 |  |
 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 | 2024-07-04 | 2024-07-27 |
 | [5cm](https://open.spotify.com/track/09zTRP1jupO6evQj54cqoO) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [5cm](https://open.spotify.com/album/4nU1cJTiDUmTp5bcNOIdAU) | 2:52 | 2025-02-28 |  |
 | [7 Trompetas](https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [7 Trompetas](https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg) | 2:49 | 2024-12-19 | 2025-01-17 |
@@ -778,6 +779,7 @@
 | [pretty](https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [pretty](https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5) | 2:30 | 2025-02-28 |  |
 | [Pretty Boy](https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Pretty Boy](https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat) | 2:03 | 2024-08-15 | 2024-09-20 |
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-08-15 | 2024-09-20 |
+| [Prima di domani](https://open.spotify.com/track/3lN3C6Z2z3wCS86v54cupC) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc), [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Prima di domani](https://open.spotify.com/album/0W3zbc56CnIu8UZDgiYZuj) | 2:48 | 2025-03-25 |  |
 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 | 2025-03-20 |  |
 | [PSILOCYBIN & DAISIES](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 | 2025-03-06 |  |
 | [PUNK LOVE STORIA](https://open.spotify.com/track/76axnsywKEligswiOVYW2M) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 | 2024-10-17 | 2024-11-15 |

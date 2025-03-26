@@ -5095,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
+    },
+    {
+      "album": {
         "name": "Birds of a Feather, Vol. 1",
         "url": "https://open.spotify.com/album/65kDeUOJ7UAXQJtdmXYtT5"
       },
@@ -9208,7 +9226,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 129679,
       "name": "Summit",
       "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"

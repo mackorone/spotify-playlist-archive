@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,811 likes - 122 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,098 likes - 122 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 5 | [Red Light](https://open.spotify.com/track/2EiJ8L7AFkiKXHqqU6x96K) | [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Red Light](https://open.spotify.com/album/3Ow1LjWwNkxd2VpJiS9gdc) | 2:03 |
 | 6 | [BLOODBATH](https://open.spotify.com/track/30IcVPNfNfWeEqbSzQhMi6) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [BLOODBATH](https://open.spotify.com/album/6sQM9QliULfS4QOLrxK8Jk) | 2:12 |
 | 7 | [GLITTERFORCEXRIDE \- Slowed Version](https://open.spotify.com/track/08kEBHCpJTps6nCJplTrLv) | [DALEXA](https://open.spotify.com/artist/4aE2np27ZICYzB6ZNoleX0) | [GLITTERFORCEXRIDE \(Slowed Version\)](https://open.spotify.com/album/7rCxcwRCqPIid3wBBzoIJv) | 2:41 |
-| 8 | [NUNCA MUDA?](https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL) | [NUNCA MUDA?](https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy) | 1:21 |
+| 8 | [NUNCA MUDA?](https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [NUNCA MUDA?](https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy) | 1:21 |
 | 9 | [SMB \(w/ Hongjoong of ATEEZ\)](https://open.spotify.com/track/37BYze5s1mi14oE0U0c3Fg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SMB \(w/ Hongjoong of ATEEZ\)](https://open.spotify.com/album/1Lgz2bQZCHu1scUkX0qpnl) | 2:13 |
 | 10 | [DRIFT](https://open.spotify.com/track/0QSh05v4E3vSul9upXDxQv) | [Vyzer](https://open.spotify.com/artist/5jLQxZDFd3vrRb7t8OETCA), [Lytra](https://open.spotify.com/artist/765caWhYCY7Yiw5F6jZZHg), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [DRIFT](https://open.spotify.com/album/6S5hVidKHCnyrFYDPWaUcb) | 1:56 |
 | 11 | [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL) | 1:59 |

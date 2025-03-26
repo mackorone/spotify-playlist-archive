@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,637 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,698 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 46 | [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 |
 | 47 | [GIÀU NHẤT KHU PHÙ HOA](https://open.spotify.com/track/7bgTQM4WaCDHMVxYxP78qq) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [WeChoice Awards 2024](https://open.spotify.com/album/34kM1CZ2wolcVmmHBiDuRO) | 5:20 |
 | 48 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
-| 49 | [I'M THINKING ABOUT YOU \(feat\. RHYDER, WEAN, Đức Phúc, Hùng Huỳnh & tlinh\)](https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [Hùng Huỳnh](https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ANH TRAI "SAY HI", Tập 8](https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A) | 4:38 |
-| 50 | [Mưa Cứ Rơi](https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR) | [Mr.A](https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Mưa Cứ Rơi](https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8) | 2:57 |
+| 49 | [Mưa Cứ Rơi](https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR) | [Mr.A](https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Mưa Cứ Rơi](https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8) | 2:57 |
+| 50 | [I'M THINKING ABOUT YOU \(feat\. RHYDER, WEAN, Đức Phúc, Hùng Huỳnh & tlinh\)](https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [Hùng Huỳnh](https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ANH TRAI "SAY HI", Tập 8](https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A) | 4:38 |
 
 Snapshot ID: `Z9MPHQAAAABZdLBLGWQiQupYwTcIX8Ow`

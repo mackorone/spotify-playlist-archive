@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Miss Monique
 
-5,062 songs - 17 day 22 hr 43 min
+5,062 songs - 17 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1418,7 +1418,7 @@
 | [Everything Collapses](https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up), [Ash Code](https://open.spotify.com/artist/5RgEBlZV41hfY0KgUDiQvy) | [Everything Collapses](https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0) | 5:05 | 2023-05-25 | 2023-06-16 |
 | [Everything Is Gonna Be Alright](https://open.spotify.com/track/36pZvURCrdUt9Nvip1Qj7o) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Everything Is Gonna Be Alright](https://open.spotify.com/album/4ajpsbkQhaZVfnnmJez6LE) | 5:53 | 2022-08-04 | 2022-08-26 |
 | [Everything Is Yours](https://open.spotify.com/track/1Xy1Cv7iClxOaoSDpxqTab) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [coiro](https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY) | [Everything Is Yours](https://open.spotify.com/album/7p49YAWSQgXV18DhpuCMcI) | 4:47 | 2023-11-02 | 2023-11-25 |
-| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 | 2025-03-20 |  |
+| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 | 2025-03-20 |  |
 | [Evolution](https://open.spotify.com/track/1jLvJbr4zWKygvn3dDbeOa) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Evolution](https://open.spotify.com/album/4Mw9FahZmlbXpzNo4H9WGr) | 3:48 | 2023-06-30 | 2023-07-14 |
 | [EVOLUTION](https://open.spotify.com/track/29V8VIOKYvlWMSm3s7mTsJ) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [EVOLUTION](https://open.spotify.com/album/0xdtMKiVBPXGY7uognRoGc) | 5:26 | 2023-08-25 | 2023-09-08 |
 | [Evolution of Thinking](https://open.spotify.com/track/5mcCm356p4P3EAAJld3ZCd) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Evolution of Thinking](https://open.spotify.com/album/7wihVpHT2KIgsYvxPhr8Ya) | 3:42 | 2022-11-03 | 2022-11-18 |

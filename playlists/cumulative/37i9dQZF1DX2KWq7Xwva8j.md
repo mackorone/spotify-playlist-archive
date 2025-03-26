@@ -2,7 +2,7 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí\. Foto: LUSILLON.
+> El futuro ya está aquí\. Foto: LUSILLON, Barry B, céro, Vera GRV y Julieta.
 
 286 songs - 13 hr 55 min
 

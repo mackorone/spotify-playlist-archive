@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 258526,
+  "num_followers": 258657,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Y Yo Sin Ti",
-        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Y Yo Sin Ti",
-      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Hombre Talentoso",
         "url": "https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 213648,
       "name": "Tu Ingratitud",
       "url": "https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Y Yo Sin Ti",
+        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Y Yo Sin Ti",
+      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Mi Eterno Amor Secreto (En Vivo)",
-        "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 233728,
-      "name": "Mi Eterno Amor Secreto (En Vivo)",
-      "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Por Eso...Gracias",
         "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 210733,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Mi Eterno Amor Secreto (En Vivo)",
+        "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 233728,
+      "name": "Mi Eterno Amor Secreto (En Vivo)",
+      "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 196986,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
+      "duration_ms": 196800,
+      "name": "Para Que No Te Vayas",
+      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1228,25 +1228,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Para Que No Te Vayas",
-      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Victor Garc\u00eda",
-        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
-      },
-      "artists": [
-        {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
+      "duration_ms": 196986,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1263,6 +1247,22 @@
       "duration_ms": 258493,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/7ddotqHpNB4DEEyqyqADGv"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Victor Garc\u00eda",
+        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Necesito una Compa\u00f1era",
-        "url": "https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l"
-      },
-      "artists": [
-        {
-          "name": "La Furia del Bravo",
-          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Necesito una Compa\u00f1era",
-      "url": "https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Como fui a enamorarme de ti",
         "url": "https://open.spotify.com/album/5gTPhW1jEwW02Ngtc0yhLx"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 234021,
       "name": "Como fui a enamorarme de ti",
       "url": "https://open.spotify.com/track/6ZtlLTjNCmFK8rO14BL1vh"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Necesito una Compa\u00f1era",
+        "url": "https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Necesito una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Los Bukis",
-        "url": "https://open.spotify.com/album/0laqwYnxxk6KMzOND9b4ks"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/0gYnWBpArbOOokGLDDhzyG"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Y Para Siempre ...",
         "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 211586,
       "name": "Ladr\u00f3n De Buena Suerte",
       "url": "https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Los Bukis",
+        "url": "https://open.spotify.com/album/0laqwYnxxk6KMzOND9b4ks"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/0gYnWBpArbOOokGLDDhzyG"
     },
     {
       "added_at": "2025-01-23 17:30:18",

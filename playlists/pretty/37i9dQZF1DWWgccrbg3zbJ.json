@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 411980,
+  "num_followers": 412327,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,30 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Saudade Vem Correndo",
+      "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "Alvorada",
         "url": "https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho"
       },
@@ -163,30 +187,6 @@
       "duration_ms": 179853,
       "name": "Tarde em itapu\u00e3",
       "url": "https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Saudade Vem Correndo",
-      "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -259,6 +259,26 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "O Melhor da Parceria",
+        "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -279,26 +299,6 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Mr. Bossa Nova",
-        "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
-      },
-      "artists": [
-        {
-          "name": "Quarteto do Rio",
-          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
         "name": "Amoroso",
         "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
@@ -315,22 +315,22 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "O Melhor da Parceria",
-        "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
+        "name": "Mr. Bossa Nova",
+        "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "Quarteto do Rio",
+          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
         },
         {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         }
       ],
-      "duration_ms": 160080,
-      "name": "Insensatez",
-      "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
+      "duration_ms": 146666,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "O Poeta e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 200426,
       "name": "Bossa Nova Cha Cha",
       "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "O Poeta e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "Samba De Verao",
+      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 139253,
       "name": "Agua De Beber",
       "url": "https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "Samba De Verao",
-      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
     },
     {
       "added_at": "2024-07-08 08:03:54",

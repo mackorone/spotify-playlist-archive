@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 52172,
+  "num_followers": 52186,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
-      },
-      "artists": [
-        {
-          "name": "Bell X1",
-          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Rocky Took A Lover",
-      "url": "https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Solo In Soho",
         "url": "https://open.spotify.com/album/2rDqLB2SCj6lgiVkdYnA7c"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 218826,
       "name": "King's Call",
       "url": "https://open.spotify.com/track/3x3oEFoQzTwqrMLj6Zufgf"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
+      },
+      "artists": [
+        {
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Rocky Took A Lover",
+      "url": "https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
+        "name": "Heartworm",
+        "url": "https://open.spotify.com/album/3vOq1lCyVUrnbqXK2ZYhRJ"
       },
       "artists": [
         {
-          "name": "Bell X1",
-          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
+          "name": "Whipping Boy",
+          "url": "https://open.spotify.com/artist/3oadMDBL4Wv7F5lkVwRWy2"
         }
       ],
-      "duration_ms": 233240,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/2147WIWlvQkAMW8l0QZWF7"
+      "duration_ms": 170733,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/4qrZQgux5HbzKblPGFY0y0"
     }
   ],
   "unique_name": "Irish Rock Classics",

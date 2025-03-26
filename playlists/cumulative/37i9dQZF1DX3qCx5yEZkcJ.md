@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-559 songs - 23 hr 8 min
+560 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Lanai Gardens](https://open.spotify.com/track/1El1ynnuq0aBHj6cfr83ew) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/6OwYJoEWZUhTuYsTBr9SD6) | 2:17 | 2019-06-14 | 2019-08-13 |
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 |  |
 | [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 | 2020-12-11 | 2023-01-13 |
+| [Lavender](https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [Lavender](https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk) | 2:43 | 2025-03-21 |  |
 | [Laverne](https://open.spotify.com/track/0pYdhNukjrkpBWdq75GXSm) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Birds of a Feather, Vol\. 1](https://open.spotify.com/album/65kDeUOJ7UAXQJtdmXYtT5) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Lazy Days](https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Lazy Days](https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc) | 2:12 | 2023-10-26 | 2023-12-30 |
 | [Lazy Days](https://open.spotify.com/track/6LtIELSxjBVXOCPJwicGvP) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Lazy Days](https://open.spotify.com/album/5ZsS71c790zjzt30CeDCOQ) | 2:12 | 2023-10-26 | 2023-10-28 |
@@ -476,7 +477,7 @@
 | [Summer Awaits](https://open.spotify.com/track/4agJMCUURmHv1aOZtQdO6m) | [sad boy with a laptop](https://open.spotify.com/artist/55ZGP7wiI7sIfU36CTeBzT), [neeks](https://open.spotify.com/artist/01wJR8orhmzSLT8rO8rM5N) | [Summer Awaits](https://open.spotify.com/album/48lzKgiaAOPe9JQFgSjs1r) | 3:24 | 2019-05-26\* | 2019-06-15 |
 | [Summer Daze](https://open.spotify.com/track/3BSzWZRiWIHn0lRVk07II2) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Summer Daze](https://open.spotify.com/album/0MjZ8jj6E0hKb2zC4lS4iR) | 1:42 | 2024-07-18 | 2024-08-30 |
 | [Summer Morn](https://open.spotify.com/track/49JWJhkmD7pMIWQzgdAosk) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/0v3QRpAjXCkiKco1MRZOwr) | 3:36 | 2022-07-21 | 2022-07-29 |
-| [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 | 2023-01-12 |  |
+| [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 | 2023-01-12 | 2025-03-26 |
 | [Sunday Afternoon](https://open.spotify.com/track/2zdlHufpRwuVnyTTolms55) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:30 | 2019-05-26\* | 2020-06-19 |
 | [Sunny Side Up](https://open.spotify.com/track/0s2hmzyQlyqbNCfaLWJYGA) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Tales of 16 Pads](https://open.spotify.com/album/6BRSjqcNOOyuZ50x9ukHhQ) | 1:52 | 2019-05-26\* | 2020-01-14 |
 | [sunset cruise](https://open.spotify.com/track/1Hg3AkNPFx7fBAbfhktzKy) | [aimless](https://open.spotify.com/artist/5dGqZk0lZFQB6MIus08k8e) | [Dreamscape](https://open.spotify.com/album/7wGmkGKrf6utupIkjMh4ms) | 1:34 | 2020-06-19 | 2022-06-21 |

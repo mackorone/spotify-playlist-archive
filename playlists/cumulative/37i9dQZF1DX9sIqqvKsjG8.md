@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-932 songs - 1 day 15 hr 50 min
+935 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-05-06 |
 | [Forgiveness](https://open.spotify.com/track/7IOhTZyPfyCPhO041cdiDv) | [Francesco Tulman](https://open.spotify.com/artist/4EdOyuppNt5Sa85jGs4dC4) | [Forgiveness](https://open.spotify.com/album/1Znd2KJt1kbfwFqBjur2bU) | 2:07 | 2021-12-07 | 2022-05-06 |
 | [Forgotten me](https://open.spotify.com/track/31SFfgcrOi5VtaVAQE7qFl) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Ourselves, as we are](https://open.spotify.com/album/54dKyTMnecZ9sxs5zpeLi9) | 4:23 | 2023-02-28 | 2024-10-23 |
+| [Forgotten Photographs](https://open.spotify.com/track/4jBBWqTt0BmeFDNmkEffpJ) | [Francis Monet](https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu) | [Forgotten Photographs](https://open.spotify.com/album/7vHQfVzpqaWSF7d7Zjd0pe) | 2:43 | 2025-03-25 |  |
 | [Fortune Teller](https://open.spotify.com/track/3V5W0NKk7JkGzBMoMOrOHb) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Fortune Teller](https://open.spotify.com/album/4tai0Aw4yNU9YuS37uqJoM) | 2:24 | 2024-04-15 |  |
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2021-12-07 | 2023-01-27 |
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2021-12-07 | 2022-11-12 |
@@ -582,6 +583,7 @@
 | [Perpetual Love](https://open.spotify.com/track/5nurzGE9SXZZ838fjXSeGc) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Perpetual Love](https://open.spotify.com/album/0uYBoCygs8xET6THws9ixT) | 2:06 | 2021-12-07 | 2022-10-14 |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-07 | 2022-10-25 |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2021-12-07 | 2023-09-23 |
+| [Plethora](https://open.spotify.com/track/4LfQBA00ulFCsOn8KU7Kun) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Plethora](https://open.spotify.com/album/6m9imWHxW8RviFXfygdo6z) | 2:18 | 2025-03-25 |  |
 | [Pneuma](https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Pneuma](https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI) | 2:21 | 2023-04-25 |  |
 | [Poema](https://open.spotify.com/track/7a2UsjQknwvctwlSYhiikH) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Poema](https://open.spotify.com/album/3mcNY82C2lWEMJPWv7NYiX) | 2:01 | 2023-04-25 |  |
 | [Ponceau](https://open.spotify.com/track/1qCrvHUu3jt5oSpvYaVrwH) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Ponceau](https://open.spotify.com/album/3j3xtTJJmUqWW4g4ZocnsD) | 2:09 | 2024-05-29 |  |
@@ -787,6 +789,7 @@
 | [The Fumes](https://open.spotify.com/track/3hFMkp1whfTIyByhaJZh6D) | [Roger Swift](https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k) | [The Fumes](https://open.spotify.com/album/1VWjsaA5igX9DTdq1aevoI) | 4:00 | 2024-03-15 |  |
 | [The Heartbeat of The Coral Reef](https://open.spotify.com/track/4JDDpSkJRWUOX59NPvGBWZ) | [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P), [Bernd Schreiber](https://open.spotify.com/artist/5i7bpSZSBxxIl6gVqF0sHa) | [The Heartbeat of the Coral Reef](https://open.spotify.com/album/1gYCz6gYXyhIpWze6p4VIv) | 2:40 | 2022-08-25 | 2023-02-14 |
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-11-24 | 2023-09-30 |
+| [The Hills At Home](https://open.spotify.com/track/0dHVSVhzz0d9MHJ8WxhEsw) | [Richard Noé](https://open.spotify.com/artist/5WxEK0rCJfxI9TN0dbVoWp) | [The Hills At Home](https://open.spotify.com/album/2tO9XFDUdJKyZFrzDJLd9D) | 2:48 | 2025-03-25 |  |
 | [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2021-12-07 | 2022-08-26 |
 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 | 2024-03-15 |  |
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2022-06-07 | 2022-10-25 |

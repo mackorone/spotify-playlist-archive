@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Mateca, Franco, the Sir!
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,163 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,133 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 4 | [C.A.P](https://open.spotify.com/track/6848Jh2cFXvILaNmoaezOG) | [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [BOLA + 1 BECK](https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni) | 2:20 |
 | 5 | [Maybach Music](https://open.spotify.com/track/2fqsa0ggW71AZmI2Z6c3oK) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [StoopidXool](https://open.spotify.com/artist/6ufMjaOmZOf0WCMgE7nR8i), [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M) | [Maybach Music](https://open.spotify.com/album/6yxx3iub9uyaU7oapfpUyQ) | 2:30 |
 | 6 | [Mônaco Freestyle](https://open.spotify.com/track/0d7oIw2t0f6oCXJUfWYw8E) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Mônaco Freestyle](https://open.spotify.com/album/6Otfotttr4Eym1WvTyxk1z) | 1:52 |
-| 7 | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/track/7mH5v6QmkYn9c4fDeif8G6) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/album/1aqNAndcVgnMBVd6BxCak7) | 2:22 |
+| 7 | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/track/7mH5v6QmkYn9c4fDeif8G6) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/album/1aqNAndcVgnMBVd6BxCak7) | 2:22 |
 | 8 | [Quando o Álcool Entra na Sua Mente](https://open.spotify.com/track/2sniIfWH6USYPLYuJk5igA) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Quando o Álcool Entra na Sua Mente](https://open.spotify.com/album/3izLrhzByhA49ZLmNsDNPV) | 3:02 |
 | 9 | [Oi Tudo Bem?](https://open.spotify.com/track/0GAUWpbb5tY4rUUAk51lWE) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [TRINCA](https://open.spotify.com/album/1ZZVf6Ynbeq1B8Ooh1im6j) | 3:24 |
 | 10 | [Sem Foto](https://open.spotify.com/track/2xYyitQHifMU31LPWGRVSZ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Sem Foto](https://open.spotify.com/album/2uKrEWsu00pkCZBZrfgyS2) | 2:56 |

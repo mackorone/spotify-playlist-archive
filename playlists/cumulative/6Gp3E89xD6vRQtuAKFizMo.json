@@ -3213,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Guerrilla",
+        "url": "https://open.spotify.com/album/4Ni9Ox6Ggj5mrHaRT4592a"
+      },
+      "artists": [
+        {
+          "name": "Altierr",
+          "url": "https://open.spotify.com/artist/1KsOKDPD4azbQGuRzeW2rn"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195234,
+      "name": "Guerrilla",
+      "url": "https://open.spotify.com/track/1Wys7K0G79CGrFyBxa951Q"
+    },
+    {
+      "album": {
         "name": "H8 December",
         "url": "https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S"
       },

@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEuY2KQyfQiFAsDnUTOXw0PTvwNiuN",
+  "snapshot_id": "AAAEyN0quuR2NWZx826NL+UP4L6iXQmB",
   "tracks": [
+    {
+      "added_at": "2025-03-25 08:42:45",
+      "album": {
+        "name": "\u30be\u30f3\u30d3\u306e\u30d1\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/0e8yDW7o1AJR2n1IDBerog"
+      },
+      "artists": [
+        {
+          "name": "\u8584\u5869\u6307\u6570",
+          "url": "https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u30be\u30f3\u30d3\u306e\u30d1\u30f3\u30c1 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/4cPiE1hYhYyS8gDdaGEfz7"
+    },
+    {
+      "added_at": "2025-03-25 08:43:15",
+      "album": {
+        "name": "Sad Dancer",
+        "url": "https://open.spotify.com/album/1HWuQmW8s6LPUrTnxhdsQt"
+      },
+      "artists": [
+        {
+          "name": "\u306d\u3058\u5f0f",
+          "url": "https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT"
+        }
+      ],
+      "duration_ms": 232264,
+      "name": "\u57f7\u7740\u5217\u8eca",
+      "url": "https://open.spotify.com/track/1o6OmnpavwKEoTk846yQke"
+    },
+    {
+      "added_at": "2025-03-25 08:43:30",
+      "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b3\u30fc\u30d2\u30fc",
+        "url": "https://open.spotify.com/album/1cTu9TM59bgN4CUa9qE1A3"
+      },
+      "artists": [
+        {
+          "name": "MINO-U",
+          "url": "https://open.spotify.com/artist/71Y3Ll2Yp2CUVtgo3FitWi"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b3\u30fc\u30d2\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0t21zZWoPnWm7ThRiS4PO3"
+    },
+    {
+      "added_at": "2025-03-25 08:43:42",
+      "album": {
+        "name": "\u82b1\u3005\u6625\u306f\u307e\u305f\u5efb\u308b",
+        "url": "https://open.spotify.com/album/5Pztu5thNKc6u6SaL7zcQJ"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30be\u30f3",
+          "url": "https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "\u82b1\u3005\u6625\u306f\u307e\u305f\u5efb\u308b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7nYcHorqr8YLUWKIxlFv6H"
+    },
+    {
+      "added_at": "2025-03-25 08:43:54",
+      "album": {
+        "name": "\u6625\u3092\u5f85\u3064\u4eba",
+        "url": "https://open.spotify.com/album/7LHRwd0Wcz698WdMs7DdCB"
+      },
+      "artists": [
+        {
+          "name": "PolyphonicBranch",
+          "url": "https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN"
+        }
+      ],
+      "duration_ms": 270234,
+      "name": "\u6625\u3092\u5f85\u3064\u4eba (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7MwXqqRUI80QgoalRxuEYz"
+    },
     {
       "added_at": "2025-03-18 07:20:17",
       "album": {
@@ -651,106 +743,6 @@
       "duration_ms": 194285,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/72m0AT9qSoAlBUVFKmyoHI"
-    },
-    {
-      "added_at": "2025-01-14 08:22:50",
-      "album": {
-        "name": "after snow",
-        "url": "https://open.spotify.com/album/6gfg4TrfFpEEngNQlmqML0"
-      },
-      "artists": [
-        {
-          "name": "_yura",
-          "url": "https://open.spotify.com/artist/1jxGAfQMLbetiCQqXToD8z"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 375519,
-      "name": "after snow (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/5emnRRtcWwmd9RVnJ0cHNd"
-    },
-    {
-      "added_at": "2025-01-14 08:22:07",
-      "album": {
-        "name": "patchworks",
-        "url": "https://open.spotify.com/album/69dTOTCuzoeI5Qldq27jBE"
-      },
-      "artists": [
-        {
-          "name": "\u306d\u3053\u3080\u3089",
-          "url": "https://open.spotify.com/artist/5V5JyDffrmxxEK7q8eA2Aa"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "\u5bc6\u304b\u306a\u308b\u4ea4\u4fe1\u66f2 (Resewed by \u306d\u3053\u3080\u3089)",
-      "url": "https://open.spotify.com/track/0rvnULP8z3U3muTYa2aVnG"
-    },
-    {
-      "added_at": "2025-01-14 08:22:23",
-      "album": {
-        "name": "\u79d8\u5bc6\u306e\u5712",
-        "url": "https://open.spotify.com/album/4sbDj0N0viohjETe3g4QSn"
-      },
-      "artists": [
-        {
-          "name": "Babuchan",
-          "url": "https://open.spotify.com/artist/5padwROp67kEIr6RKczjKH"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "\u79d8\u5bc6\u306e\u5712 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1mVhlQXSXpNzxohMwRmsKa"
-    },
-    {
-      "added_at": "2025-01-14 08:22:38",
-      "album": {
-        "name": "show time!!!!!!",
-        "url": "https://open.spotify.com/album/4khl9vRZSZpWpjmZXTz2mT"
-      },
-      "artists": [
-        {
-          "name": "\u52a0\u8cc0(\u30cd\u30ae\u30b7\u30e3\u30ef\u30fcP)",
-          "url": "https://open.spotify.com/artist/11wmNSrLRQHfaR2Gb8ehHm"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 178342,
-      "name": "\u3066\u3044\u304d\u3063\u3066\u3043\u30fc\u3058\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4n0I1EfexojDuAmAUd0lkU"
-    },
-    {
-      "added_at": "2025-01-14 08:23:02",
-      "album": {
-        "name": "\u5b89\u7720KAITO\u90e8",
-        "url": "https://open.spotify.com/album/4D0GbRs4bSbVEgCP0itlJL"
-      },
-      "artists": [
-        {
-          "name": "kijima",
-          "url": "https://open.spotify.com/artist/1SgONA50hAdrYYYtBnxC4n"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "\u3042\u306e\u9803\u306e\u50d5 (feat. KAITO)",
-      "url": "https://open.spotify.com/track/3sLciWztJqolcFYCjcfbmk"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

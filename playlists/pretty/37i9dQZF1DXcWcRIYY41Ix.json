@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128693,
+  "num_followers": 128703,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Pude verte",
-        "url": "https://open.spotify.com/album/3g7BZPOTZzDCrXUgKiUof7"
-      },
-      "artists": [
-        {
-          "name": "Sara S\u00edstole",
-          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
-        },
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "Pude verte",
-      "url": "https://open.spotify.com/track/4AAtZeRKz2yp8LlrYoy8om"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
+        "name": "Pude verte",
+        "url": "https://open.spotify.com/album/3g7BZPOTZzDCrXUgKiUof7"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "Pude verte",
+      "url": "https://open.spotify.com/track/4AAtZeRKz2yp8LlrYoy8om"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "Tinc una sort",
+        "url": "https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm"
+      },
+      "artists": [
+        {
+          "name": "Aleix Triad\u00f3",
+          "url": "https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Tinc una sort",
+      "url": "https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1235,26 +1255,6 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Tinc una sort",
-        "url": "https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm"
-      },
-      "artists": [
-        {
-          "name": "Aleix Triad\u00f3",
-          "url": "https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "Tinc una sort",
-      "url": "https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
         "name": "Agua Bendita",
         "url": "https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0"
       },
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "Traigo un canto guardado",
+        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "duration_ms": 228555,
+      "name": "Traigo un canto guardado",
+      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "Y YA NADA",
         "url": "https://open.spotify.com/album/4bMMiMiAK4jAkiSIg36hcJ"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 234144,
       "name": "Y YA NADA",
       "url": "https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
-        "name": "Traigo un canto guardado",
-        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3nica Giraldo",
-          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
-        }
-      ],
-      "duration_ms": 228555,
-      "name": "Traigo un canto guardado",
-      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Fado",
-        "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
-      },
-      "artists": [
-        {
-          "name": "La Pena",
-          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
-        }
-      ],
-      "duration_ms": 268018,
-      "name": "Fado",
-      "url": "https://open.spotify.com/track/2EzKiPAcNG3Ozihcj8Np10"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
         "name": "Una carta con tu nombre",
         "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 235075,
       "name": "Una carta con tu nombre",
       "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
+        "name": "Fado",
+        "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
+      },
+      "artists": [
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "duration_ms": 268018,
+      "name": "Fado",
+      "url": "https://open.spotify.com/track/2EzKiPAcNG3Ozihcj8Np10"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+      },
+      "artists": [
+        {
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+        }
+      ],
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "As vidas caladas",
         "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
       },
       "artists": [
         {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
         }
       ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1687,22 +1703,6 @@
       "duration_ms": 229655,
       "name": "Jurema Blanca",
       "url": "https://open.spotify.com/track/3okjDbZn0vuuKYUTyVt6DB"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1739,6 +1739,22 @@
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
+        "name": "Cerca cerca",
+        "url": "https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf"
+      },
+      "artists": [
+        {
+          "name": "Habla de M\u00ed en Presente",
+          "url": "https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn"
+        }
+      ],
+      "duration_ms": 189605,
+      "name": "Cerca cerca",
+      "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Cerca cerca",
-        "url": "https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf"
-      },
-      "artists": [
-        {
-          "name": "Habla de M\u00ed en Presente",
-          "url": "https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn"
-        }
-      ],
-      "duration_ms": 189605,
-      "name": "Cerca cerca",
-      "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Tananan\u00e1",
-        "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
-      },
-      "artists": [
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "Tananan\u00e1",
-      "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
         "name": "Arrullito",
         "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
+        "name": "Tananan\u00e1",
+        "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "Tananan\u00e1",
+      "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
     },
     {
       "added_at": "2025-03-20 23:00:14",

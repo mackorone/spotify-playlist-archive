@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ultraligera.",
-  "num_followers": 25477,
+  "num_followers": 25481,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
-        "name": "Danza de la muerte",
-        "url": "https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Danza de la muerte",
-      "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/27e4FfyKW2sdN45j6dBP64"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
+        "name": "Danza de la muerte",
+        "url": "https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Danza de la muerte",
+      "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
         "name": "De aqu\u00ed a un mes",
         "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
       },
@@ -1247,38 +1247,6 @@
       "duration_ms": 141023,
       "name": "De aqu\u00ed a un mes",
       "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "T E R A P I A",
-        "url": "https://open.spotify.com/album/2diKSpEGcWiSRxa1jopIw1"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1os Bravos",
-          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
-        }
-      ],
-      "duration_ms": 154921,
-      "name": "T E R A P I A",
-      "url": "https://open.spotify.com/track/1NzgTx7ZC91tQkwsCYZTFg"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "No va a doler",
-        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 160048,
-      "name": "No va a doler",
-      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -1303,18 +1271,34 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
-        "name": "Me paso por tu zona",
-        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
+        "name": "No va a doler",
+        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
         }
       ],
-      "duration_ms": 131272,
-      "name": "Me paso por tu zona",
-      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
+      "duration_ms": 160048,
+      "name": "No va a doler",
+      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "T E R A P I A",
+        "url": "https://open.spotify.com/album/2diKSpEGcWiSRxa1jopIw1"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Bravos",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        }
+      ],
+      "duration_ms": 154921,
+      "name": "T E R A P I A",
+      "url": "https://open.spotify.com/track/1NzgTx7ZC91tQkwsCYZTFg"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
+        "name": "Amor y Resiliencia",
+        "url": "https://open.spotify.com/album/4aY9msZhbxir4Q1BoBvfxw"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "duration_ms": 231230,
+      "name": "Alan",
+      "url": "https://open.spotify.com/track/79UTXCeBar703rirVTLbeE"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
         "name": "La gran renuncia",
         "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
       },
@@ -1347,38 +1347,6 @@
       "duration_ms": 146132,
       "name": "La gran renuncia",
       "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Eres Un Regalo",
-        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 210428,
-      "name": "Eres Un Regalo",
-      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -1399,6 +1367,38 @@
       "duration_ms": 203033,
       "name": "Luna Rosa",
       "url": "https://open.spotify.com/track/4LZBFAuIZBYjPepXBggr3H"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "Me paso por tu zona",
+        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 131272,
+      "name": "Me paso por tu zona",
+      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
+        "name": "Eres Un Regalo",
+        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "duration_ms": 210428,
+      "name": "Eres Un Regalo",
+      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
         "name": "Himno de las flores",
         "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Amor y Resiliencia",
-        "url": "https://open.spotify.com/album/4aY9msZhbxir4Q1BoBvfxw"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 231230,
-      "name": "Alan",
-      "url": "https://open.spotify.com/track/79UTXCeBar703rirVTLbeE"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -1599,6 +1599,22 @@
       "duration_ms": 183900,
       "name": "Yo Nunca He",
       "url": "https://open.spotify.com/track/09hobK7AC3FLTjMGnoz25P"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "Vivo En Las Nubes",
+        "url": "https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "duration_ms": 192888,
+      "name": "Vivo En Las Nubes",
+      "url": "https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -1679,22 +1695,6 @@
       "duration_ms": 197253,
       "name": "Huella de ti",
       "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Vivo En Las Nubes",
-        "url": "https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 192888,
-      "name": "Vivo En Las Nubes",
-      "url": "https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p"
     }
   ],
   "unique_name": "Rock 2025",

@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: Miya Folick
+> Songs from LGBTQIA+ artists\.  Cover: LUKAS OSCAR
 
-1,450 songs - 3 day 6 hr 45 min
+1,451 songs - 3 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,7 +711,7 @@
 | [King Kong](https://open.spotify.com/track/5CiG5NP7m7IbqNl8QLF9il) | [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Parallel](https://open.spotify.com/album/6aO0SJdC67T4ufViXz4ZAc) | 2:55 | 2023-08-01 | 2023-08-09 |
 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-11 |  |
 | [Kitty Kush](https://open.spotify.com/track/0VTOjRq2Z4DILnxPgF3VAm) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Kitty Kush](https://open.spotify.com/album/24BgUfeQ8tVfLLAlsokZs4) | 2:21 | 2024-07-16 | 2024-08-14 |
-| [Kizuketa](https://open.spotify.com/track/6JEsTgS8qVrNklp5GQ4JHN) | [SHINJIRO ATAE](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [Kizuketa](https://open.spotify.com/album/1Q9u1ns31b3KXCkptFVETk) | 2:38 | 2025-01-14 |  |
+| [Kizuketa](https://open.spotify.com/track/6JEsTgS8qVrNklp5GQ4JHN) | [SHINJIRO ATAE](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [Kizuketa](https://open.spotify.com/album/1Q9u1ns31b3KXCkptFVETk) | 2:38 | 2025-01-14 | 2025-03-26 |
 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 | 2023-11-14 | 2023-11-30 |
 | [Know Someone](https://open.spotify.com/track/0cTNeoYonQaeArcopcPt73) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Know Someone](https://open.spotify.com/album/4pAP4YIHv1v7qrpxyhRLbf) | 4:20 | 2023-08-08 | 2023-09-13 |
 | [KoOkOo](https://open.spotify.com/track/6K4wSJbaRk7sGWs2dfgHeX) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [KoOkOo](https://open.spotify.com/album/7qwo1A3u9JxRTwWhiNrOLR) | 3:58 | 2023-06-01 | 2023-07-12 |
@@ -802,6 +802,7 @@
 | [Magnetic Field](https://open.spotify.com/track/4AkhBdhZNpIs17kFG6B0dx) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Magnetic Field](https://open.spotify.com/album/0fHYpziHlPlbpOzoODFa2k) | 3:48 | 2024-11-12 | 2024-12-05 |
 | [Mai fermi](https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Mai fermi](https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9) | 3:55 | 2024-07-09 | 2024-08-14 |
 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 | 2023-03-07 | 2023-04-01 |
+| [MAKE IT OUT ALIVE](https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MAKE IT OUT ALIVE](https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw) | 2:51 | 2025-03-25 |  |
 | [Makes Me Sick](https://open.spotify.com/track/2gCIv3pJkzfX4kRj6wnIAS) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Makes Me Sick](https://open.spotify.com/album/2eS6hfchrO12pXPSvH5YDy) | 2:24 | 2022-03-04 | 2022-04-16 |
 | [Mal Barre](https://open.spotify.com/track/6vKtdGio7i2y4fcfQHWGX3) | [Judith Kiddo](https://open.spotify.com/artist/0zmgqS8lHVypUSBvUogMgz) | [READY TO HEAL](https://open.spotify.com/album/7A7TAQmGAuMZ6MJnKGMbGY) | 3:49 | 2023-06-01 | 2023-07-12 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-12-04 | 2025-01-15 |

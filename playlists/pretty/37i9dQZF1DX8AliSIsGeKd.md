@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,334 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,581 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 4 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
 | 5 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 |
 | 6 | [Unconditional](https://open.spotify.com/track/239fX9EmhCkfrAkMqY4LsK) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Unconditional](https://open.spotify.com/album/23WwMdhEaZBdk2HmeeXl1f) | 3:13 |
-| 7 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 |
+| 7 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 |
 | 8 | [Electric Birds](https://open.spotify.com/track/0B8eWg1gdVO3ctAK392FYz) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real](https://open.spotify.com/album/706xtFNjk7TMRnHGzNrOHR) | 5:16 |
 | 9 | [Glow](https://open.spotify.com/track/7pIa7fOolntS1WcQMuy3c8) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 4:28 |
 | 10 | [Have You Turned Off the Oven](https://open.spotify.com/track/6xdebgu8tMcyO0q96Hqlmy) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [Have You Turned Off the Oven](https://open.spotify.com/album/4h9nLdTOP2VmKbKp15OYUD) | 6:24 |

@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en volks\. Cover: Raymon Hermans
+> Wekelijkse update met Hollands en volks\. Cover: Samuel Welten
 
 266 songs - 13 hr 4 min
 

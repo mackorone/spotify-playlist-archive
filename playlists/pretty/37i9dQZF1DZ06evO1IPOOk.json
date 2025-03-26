@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1831042,
+  "num_followers": 1831819,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAACjCLWaitnNbumdMuaeCj4l",
+  "snapshot_id": "Z+CggAAAAAAZdahUjp/xKbcIiCHTD4Y3",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "good kid, m.A.A.d city",
-        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 310720,
-      "name": "Bitch, Don\u2019t Kill My Vibe",
-      "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i",
         "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 231933,
       "name": "i",
       "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 310720,
+      "name": "Bitch, Don\u2019t Kill My Vibe",
+      "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Bowl LIX Halftime Show (Live)",
-        "url": "https://open.spotify.com/album/2Q9sOmcZFz7IsoVyF8G3s4"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "NFL",
-          "url": "https://open.spotify.com/artist/1oj9F8x44ah5gxYecEj8ch"
-        }
-      ],
-      "duration_ms": 800699,
-      "name": "Super Bowl LIX Halftime Show - Live",
-      "url": "https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 216933,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Bowl LIX Halftime Show (Live)",
+        "url": "https://open.spotify.com/album/2Q9sOmcZFz7IsoVyF8G3s4"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "NFL",
+          "url": "https://open.spotify.com/artist/1oj9F8x44ah5gxYecEj8ch"
+        }
+      ],
+      "duration_ms": 800699,
+      "name": "Super Bowl LIX Halftime Show - Live",
+      "url": "https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM"
     },
     {
       "added_at": null,

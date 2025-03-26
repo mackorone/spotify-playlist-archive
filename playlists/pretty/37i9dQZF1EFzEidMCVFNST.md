@@ -343,8 +343,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 333 | [Substituído \- Ao Vivo](https://open.spotify.com/track/6wtsyaDZOnOwhaWH8knXtZ) | [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [Química \(Ao Vivo\)](https://open.spotify.com/album/7w8qd0nWH8tixJScorxcHq) | 2:48 |
 | 334 | [A Química](https://open.spotify.com/track/4l7OjdyU6LR2AFJPShRzV5) | [Helena e Rodrigo](https://open.spotify.com/artist/5jtAN0UDDubVHtF8Epxyk4) | [A Química](https://open.spotify.com/album/4Q1szNu63lHF7Tz1emgLDb) | 2:30 |
 | 335 | [Respeita Nosso Fim](https://open.spotify.com/track/3kWjB7kKX15lfG6gHVQVYJ) | [Ray do Arrocha](https://open.spotify.com/artist/0UwiwtgSxDxDMLMaELRmUV) | [2019](https://open.spotify.com/album/5deGBkx5pWnsBmdjH1zN1J) | 2:49 |
-| 336 | [Se Fosse por Mim](https://open.spotify.com/track/1vDocgEa55zcDnCYbgVPlD) | [Carlos & Jader](https://open.spotify.com/artist/473bilpSqOHFCBbT1nk83z) | [Tudo Pode, Vol\. 1](https://open.spotify.com/album/1HHQ6xiQgOt7vLlm1i3DYh) | 2:40 |
-| 337 | [Deve Haver](https://open.spotify.com/track/1KUthtIQJQEqBYOgewiMEs) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7gVXiIpReG9lHFg6jPDmHU) | 3:29 |
+| 336 | [Deve Haver](https://open.spotify.com/track/1KUthtIQJQEqBYOgewiMEs) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7gVXiIpReG9lHFg6jPDmHU) | 3:29 |
+| 337 | [Se Fosse por Mim](https://open.spotify.com/track/1vDocgEa55zcDnCYbgVPlD) | [Carlos & Jader](https://open.spotify.com/artist/473bilpSqOHFCBbT1nk83z) | [Tudo Pode, Vol\. 1](https://open.spotify.com/album/1HHQ6xiQgOt7vLlm1i3DYh) | 2:40 |
 | 338 | [Ela Mitou \- Ao Vivo](https://open.spotify.com/track/7rHcjd7x9tOfkiDGydEzhA) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 3:08 |
 | 339 | [Bichaozão](https://open.spotify.com/track/7hJ7ZSgct4oEkkeAJ7EEyr) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Gleydson Gavião](https://open.spotify.com/artist/2eSyfNgqkRpB4Ggu55P1Gg) | [Desliga o 4G \(DELUXE\)](https://open.spotify.com/album/67nUaaRzsfSkAx1Zqimf6Z) | 2:07 |
 | 340 | [Esquenta dos Solteiros \- Ao Vivo](https://open.spotify.com/track/4vpQ1DAkBZrf9hy40SUR7h) | [Felipe Duram](https://open.spotify.com/artist/1SbicVDBNjShlmCFsznYv7) | [Amor, Segredos e Roupas \(Ao Vivo\)](https://open.spotify.com/album/7bCdaskPVirNDwsnLcOyg7) | 2:36 |
@@ -402,4 +402,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 392 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
 | 393 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `Abs8IAAAAACx+ab/XNsVvP/IDZ5peP3k`
+Snapshot ID: `AbtBygAAAAD6tv6Yb8bz2wJLwiyrIdIa`

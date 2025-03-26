@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 64331,
+  "num_followers": 64352,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 206600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "PNAU",
+        "url": "https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "With You Forever",
+      "url": "https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "SBTRKT",
         "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 201000,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "PNAU",
-        "url": "https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "With You Forever",
-      "url": "https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -1179,18 +1179,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Season High",
-        "url": "https://open.spotify.com/album/5WQJ8sVhjbhhQ0ReiilyO2"
+        "name": "Northern Sulphuric Soul",
+        "url": "https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+        },
+        {
+          "name": "Veba",
+          "url": "https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ"
         }
       ],
-      "duration_ms": 256973,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3D049Sbjbtn5PjKFSlcv2R"
+      "duration_ms": 344933,
+      "name": "Spellbound (feat. Veba)",
+      "url": "https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg"
     },
     {
       "added_at": "2024-12-17 13:01:13",

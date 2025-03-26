@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1350079,
+  "num_followers": 1350434,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 255546,
       "name": "Bla Bla Bla",
       "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -755,7 +755,7 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Can\u2018t Stop Raving",
+        "name": "Can't Stop Raving",
         "url": "https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB"
       },
       "artists": [
@@ -765,7 +765,7 @@
         }
       ],
       "duration_ms": 216333,
-      "name": "Can\u2018t Stop Raving (Video Mix)",
+      "name": "Can\u2018t Stop Raving - Video Mix",
       "url": "https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L"
     },
     {

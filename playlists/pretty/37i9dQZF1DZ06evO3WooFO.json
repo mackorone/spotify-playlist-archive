@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 600366,
+  "num_followers": 600442,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAABvn1nKZuzmRZDhPoDkLkLt",
+  "snapshot_id": "Z+CggAAAAAA0HW5NXRWZiCRhH4e8c2ai",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+        "name": "Dude Ranch",
+        "url": "https://open.spotify.com/album/2CoVyQi2zIifUNBcVR0gEH"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 208114,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/1ja4311zfLHqUL96poSXfP"
+      "duration_ms": 165373,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/6WkSUgo1VdpzgtiXKlFPcY"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dude Ranch",
-        "url": "https://open.spotify.com/album/2CoVyQi2zIifUNBcVR0gEH"
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 165373,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/6WkSUgo1VdpzgtiXKlFPcY"
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/1ja4311zfLHqUL96poSXfP"
     },
     {
       "added_at": null,

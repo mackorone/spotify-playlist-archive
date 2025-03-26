@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy dance music
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,457 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,461 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 46 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
 | 47 | [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 |
 | 48 | [Where Do We Go](https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Where Do We Go](https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7) | 2:42 |
-| 49 | [Red](https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Red](https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q) | 2:50 |
-| 50 | [Take Me Away](https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Take Me Away](https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj) | 3:06 |
+| 49 | [Take Me Away](https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Take Me Away](https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj) | 3:06 |
+| 50 | [Red](https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Red](https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q) | 2:50 |
 | 51 | [Elsewhere](https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Reconnect](https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG) | 3:13 |
 | 52 | [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 |
 | 53 | [Calling Back](https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [DAHR](https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f) | [Calling Back](https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm) | 5:05 |

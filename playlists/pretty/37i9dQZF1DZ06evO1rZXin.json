@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAADm51LM06/rxgql/2+pIgHx",
+  "snapshot_id": "Z+CggAAAAABSxGnuXqe9arvpMTZoZPPw",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Camar\u00f3n Pelao",
-      "url": "https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu"
+      "duration_ms": 168200,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
+      "duration_ms": 177586,
+      "name": "Camar\u00f3n Pelao",
+      "url": "https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sigas Llorando",
-        "url": "https://open.spotify.com/album/3WFlN0l37hFY6WkXPNNpfD"
+        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 156831,
-      "name": "No Sigas Llorando",
-      "url": "https://open.spotify.com/track/4utL0KRhxyqPLIDTQB20YX"
+      "duration_ms": 184900,
+      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
-        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
+        "name": "No Sigas Llorando",
+        "url": "https://open.spotify.com/album/3WFlN0l37hFY6WkXPNNpfD"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 184900,
-      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
-      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
+      "duration_ms": 156831,
+      "name": "No Sigas Llorando",
+      "url": "https://open.spotify.com/track/4utL0KRhxyqPLIDTQB20YX"
     },
     {
       "added_at": null,

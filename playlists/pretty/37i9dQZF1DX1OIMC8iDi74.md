@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with WINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,141 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,118 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 90 | [Crazy In The Club](https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [DIMEPIECE](https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU) | [Crazy In The Club](https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr) | 2:29 |
 | 91 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 |
 | 92 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
-| 93 | [Lost With You](https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Lost With You](https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c) | 3:10 |
+| 93 | [MIND](https://open.spotify.com/track/29ilRGUY6l2jasbZ12K1Uf) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Yash Bansal](https://open.spotify.com/artist/3sqpT2IVKtrhy6tfv0NosT) | [MIND](https://open.spotify.com/album/0H6g1gg5Wz9MPIMh7ZfSPr) | 3:27 |
 | 94 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 |
-| 95 | [MIND](https://open.spotify.com/track/29ilRGUY6l2jasbZ12K1Uf) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Yash Bansal](https://open.spotify.com/artist/3sqpT2IVKtrhy6tfv0NosT) | [MIND](https://open.spotify.com/album/0H6g1gg5Wz9MPIMh7ZfSPr) | 3:27 |
+| 95 | [Lost With You](https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Lost With You](https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c) | 3:10 |
 | 96 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
 | 97 | [Addiction](https://open.spotify.com/track/0HqJvuOzycUzCjAH3ZbjdS) | [Leveller Beats](https://open.spotify.com/artist/5yHwZWYTpwhOj6RjRep7gC), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Addiction](https://open.spotify.com/album/1adaWczVKUAxvXR7rX4teZ) | 2:39 |
 | 98 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
 | 99 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
-| 100 | [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 |
+| 100 | [Cycles](https://open.spotify.com/track/5wD1R8jJ3OkmO77LzKFYFV) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Cycles](https://open.spotify.com/album/0vwGdvJ3deQNv696OiPlro) | 3:58 |
 
 Snapshot ID: `Z92lagAAAAAmSk02MSE3jkbl4jZDJ+SQ`

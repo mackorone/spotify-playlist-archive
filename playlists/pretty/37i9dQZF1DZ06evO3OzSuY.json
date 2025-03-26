@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24547,
+  "num_followers": 24556,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAAAbggP16v7z1ya4xINYUgcN",
+  "snapshot_id": "Z+CggAAAAAD+TMv3HskTuEJSovER1ohC",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney Channel Play It Loud",
-        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Remember Me - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Live For",
         "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
       },
@@ -479,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Todo Ritmo: I <3 Dance (Music From the TV Series)",
         "url": "https://open.spotify.com/album/5bTbeUe1dHjvpr6m2nN834"
       },
@@ -511,6 +479,38 @@
       "duration_ms": 135653,
       "name": "Contagious Love",
       "url": "https://open.spotify.com/track/1twMlAUezt1FcoXcK0Wydf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disney Channel Play It Loud",
+        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Remember Me - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
     },
     {
       "added_at": null,

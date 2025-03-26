@@ -4,7 +4,7 @@
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Giovanni Toscano
 
-428 songs - 21 hr 15 min
+429 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bugatti](https://open.spotify.com/track/2apryPbnyXcLiZi2rNMODg) | [GIMA](https://open.spotify.com/artist/2mWd2GZ0OtmKom3LSqvjcH) | [Bugatti](https://open.spotify.com/album/2zYSivNQ6vyYMgA8SvZtfo) | 2:57 | 2025-02-27 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
 | [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 | 2024-12-18 |
+| [Calore](https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Calore](https://open.spotify.com/album/0Bdudd1JyswBKGJUXUweOe) | 3:01 | 2025-03-26 |  |
 | [Campari](https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw) | [Kate](https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv) | [Campari](https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp) | 2:41 | 2024-11-26 | 2024-12-13 |
 | [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2025-01-10 |
 | [Canzone poco originale sulla solitudine](https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0) | [EDEL](https://open.spotify.com/artist/6Ny5r6ph1IWIPvufBpGEah) | [Canzone poco originale sulla solitudine](https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr) | 3:35 | 2024-11-12 | 2024-12-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 14514,
+  "num_followers": 14521,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,18 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
-        "name": "Mez\u00edtl\u00e1b",
-        "url": "https://open.spotify.com/album/2TUAFNnuCHQzwsKXrJH4CG"
+        "name": "Reped\u00e9s",
+        "url": "https://open.spotify.com/album/4WHc3gnK10jBszh0iAInJk"
       },
       "artists": [
         {
-          "name": "Platon Karataev",
-          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
-        },
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+          "name": "Analog Balaton",
+          "url": "https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ"
         }
       ],
-      "duration_ms": 207546,
-      "name": "Mez\u00edtl\u00e1b",
-      "url": "https://open.spotify.com/track/7AV4aH4TEg2YggBzVaKgjS"
+      "duration_ms": 269226,
+      "name": "Rajtad",
+      "url": "https://open.spotify.com/track/4H1g77oFJOssK6sc7jMQl4"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -311,18 +307,22 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
-        "name": "Reped\u00e9s",
-        "url": "https://open.spotify.com/album/4WHc3gnK10jBszh0iAInJk"
+        "name": "Mez\u00edtl\u00e1b",
+        "url": "https://open.spotify.com/album/2TUAFNnuCHQzwsKXrJH4CG"
       },
       "artists": [
         {
-          "name": "Analog Balaton",
-          "url": "https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ"
+          "name": "Platon Karataev",
+          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
+        },
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
         }
       ],
-      "duration_ms": 269226,
-      "name": "Rajtad",
-      "url": "https://open.spotify.com/track/4H1g77oFJOssK6sc7jMQl4"
+      "duration_ms": 207546,
+      "name": "Mez\u00edtl\u00e1b",
+      "url": "https://open.spotify.com/track/7AV4aH4TEg2YggBzVaKgjS"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
-        "name": "M\u00e9g egyszer",
-        "url": "https://open.spotify.com/album/2loTF9hGY7XmM2kcYxtZ2J"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "M\u00e9g egyszer",
-      "url": "https://open.spotify.com/track/3WYpq009XoLt1tYYjxDSdy"
-    },
-    {
-      "added_at": "2025-03-07 12:46:10",
-      "album": {
         "name": "Menj",
         "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 227391,
       "name": "Menj",
       "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
+    },
+    {
+      "added_at": "2025-03-07 12:46:10",
+      "album": {
+        "name": "M\u00e9g egyszer",
+        "url": "https://open.spotify.com/album/2loTF9hGY7XmM2kcYxtZ2J"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "M\u00e9g egyszer",
+      "url": "https://open.spotify.com/track/3WYpq009XoLt1tYYjxDSdy"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
+        "name": "Csillagb\u00f3l f\u00e9ny",
+        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 251423,
+      "name": "Csillagb\u00f3l f\u00e9ny",
+      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
+    },
+    {
+      "added_at": "2025-03-07 12:46:10",
+      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 153000,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo"
-    },
-    {
-      "added_at": "2025-03-07 12:46:10",
-      "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
-        "name": "Csillagb\u00f3l f\u00e9ny",
-        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
       "artists": [
         {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
         }
       ],
-      "duration_ms": 251423,
-      "name": "Csillagb\u00f3l f\u00e9ny",
-      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
-        "name": "Ugyanitt v\u00e1rlak",
-        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
-      },
-      "artists": [
-        {
-          "name": "Margaret Island",
-          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Ugyanitt v\u00e1rlak",
-      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
-    },
-    {
-      "added_at": "2025-03-07 12:46:10",
-      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
       },
@@ -879,22 +863,6 @@
       "duration_ms": 183000,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
-    },
-    {
-      "added_at": "2025-03-07 12:46:10",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
-      },
-      "artists": [
-        {
-          "name": "Kov\u00e1cs Harmat",
-          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -915,6 +883,38 @@
       "duration_ms": 213333,
       "name": "Nekedval\u00f3s\u00e1g",
       "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
+    },
+    {
+      "added_at": "2025-03-07 12:46:10",
+      "album": {
+        "name": "Ugyanitt v\u00e1rlak",
+        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
+      },
+      "artists": [
+        {
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Ugyanitt v\u00e1rlak",
+      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
+    },
+    {
+      "added_at": "2025-03-07 12:46:10",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
+      },
+      "artists": [
+        {
+          "name": "Kov\u00e1cs Harmat",
+          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
+        "name": "N\u00e9gyes-Hatos",
+        "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
+      },
+      "artists": [
+        {
+          "name": "Bankrupt",
+          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "N\u00e9gyes-Hatos",
+      "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
+    },
+    {
+      "added_at": "2025-03-07 12:46:10",
+      "album": {
         "name": "CsakNEONkisl\u00e1ny (szintetikus csnk sz\u00e1mok egy m\u00e1sik dimenzi\u00f3b\u00f3l)",
         "url": "https://open.spotify.com/album/3CGvOhL2QfHd5JLxrLJXB0"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 190663,
       "name": "Szilikonkab\u00e1t",
       "url": "https://open.spotify.com/track/4SFwj5PFxfwQ6Ky24Mr347"
-    },
-    {
-      "added_at": "2025-03-07 12:46:10",
-      "album": {
-        "name": "N\u00e9gyes-Hatos",
-        "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
-      },
-      "artists": [
-        {
-          "name": "Bankrupt",
-          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "N\u00e9gyes-Hatos",
-      "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
-        "name": "11 (K\u00e9t Sz\u00e1l)",
-        "url": "https://open.spotify.com/album/54PPiS0I8Bo9B3vklp2akb"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 299516,
-      "name": "11 - K\u00e9t Sz\u00e1l",
-      "url": "https://open.spotify.com/track/4t1hKKIaMVj6hcLhYLhBHo"
-    },
-    {
-      "added_at": "2025-03-07 12:46:10",
-      "album": {
         "name": "Ahogy szeretn\u00e9m",
         "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 151500,
       "name": "kurvanagy ???",
       "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+    },
+    {
+      "added_at": "2025-03-07 12:46:10",
+      "album": {
+        "name": "11 (K\u00e9t Sz\u00e1l)",
+        "url": "https://open.spotify.com/album/54PPiS0I8Bo9B3vklp2akb"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 299516,
+      "name": "11 - K\u00e9t Sz\u00e1l",
+      "url": "https://open.spotify.com/track/4t1hKKIaMVj6hcLhYLhBHo"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
-        "name": "Od\u00fa",
-        "url": "https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 210005,
-      "name": "Od\u00fa",
-      "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
-    },
-    {
-      "added_at": "2025-03-07 12:46:10",
-      "album": {
         "name": "M\u00c1SHOGY F\u00daJ",
         "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2025-03-07 12:46:10",
       "album": {
-        "name": "beleszakad",
-        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
+        "name": "Od\u00fa",
+        "url": "https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu"
       },
       "artists": [
         {
-          "name": "Pand\u00f3ra Projekt",
-          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
         }
       ],
-      "duration_ms": 184000,
-      "name": "beleszakad",
-      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
+      "duration_ms": 210005,
+      "name": "Od\u00fa",
+      "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
     },
     {
       "added_at": "2025-03-07 12:46:10",
@@ -1291,6 +1275,22 @@
       "duration_ms": 195340,
       "name": "T\u00fckr\u00f6k",
       "url": "https://open.spotify.com/track/6B3vedA8YoHYokjtQpF0Ti"
+    },
+    {
+      "added_at": "2025-03-07 12:46:10",
+      "album": {
+        "name": "beleszakad",
+        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
+      },
+      "artists": [
+        {
+          "name": "Pand\u00f3ra Projekt",
+          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "beleszakad",
+      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
     },
     {
       "added_at": "2025-03-07 12:46:10",

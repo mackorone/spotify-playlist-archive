@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente italiana, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:1XPiLkWgALxMZ3jC7ytz9w\">Tocka</a>",
+  "description": "Solo musica indipendente italiana, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:2xP0ZgiHfJOP8dzz3ij10b\">VAEVA</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 187000,
       "name": "Bellezza",
       "url": "https://open.spotify.com/track/7IdxiU3MFOS0QD6xXyJN9q"
@@ -4960,7 +4960,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 233999,
       "name": "CHAPTER 02 - Macka Leaves",
       "url": "https://open.spotify.com/track/2BUg4QufWzzGxfmLibK4Yk"
@@ -6399,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "cuore/lingua",
+        "url": "https://open.spotify.com/album/7dqdG6ik1seJW2Qkbi4ndE"
+      },
+      "artists": [
+        {
+          "name": "CALLIOPE",
+          "url": "https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184021,
+      "name": "cuore/lingua",
+      "url": "https://open.spotify.com/track/47yVA5bXYQvo7n4uUuedq2"
+    },
+    {
+      "album": {
         "name": "Curami",
         "url": "https://open.spotify.com/album/12Q4OOuHdn7UwFuNEgHoTY"
       },
@@ -6414,6 +6432,24 @@
       "duration_ms": 210250,
       "name": "Curami",
       "url": "https://open.spotify.com/track/3sKJ4KHTFqbMD0MT6t0DYM"
+    },
+    {
+      "album": {
+        "name": "C\u2019era il temporale",
+        "url": "https://open.spotify.com/album/177yUinU6gugy5boWvLJdg"
+      },
+      "artists": [
+        {
+          "name": "VAEVA",
+          "url": "https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182351,
+      "name": "C\u2019era il temporale",
+      "url": "https://open.spotify.com/track/6yBrNu2P7S2vRDzLDNzLIK"
     },
     {
       "album": {
@@ -6922,6 +6958,28 @@
       "duration_ms": 416516,
       "name": "Di Notte",
       "url": "https://open.spotify.com/track/5FYqdO5RozWC0MwNa1wwnB"
+    },
+    {
+      "album": {
+        "name": "Di Pi\u00f9",
+        "url": "https://open.spotify.com/album/3Na5YNfKtTtkxk4NVEXvyL"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161653,
+      "name": "Di Pi\u00f9",
+      "url": "https://open.spotify.com/track/4fg6CHm1uquppJnW7fuECL"
     },
     {
       "album": {
@@ -8287,6 +8345,24 @@
     },
     {
       "album": {
+        "name": "FAMMI A PEZZI",
+        "url": "https://open.spotify.com/album/347O7g3xqeTyxAIsD9W9Cv"
+      },
+      "artists": [
+        {
+          "name": "Your Grave",
+          "url": "https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142140,
+      "name": "FAMMI A PEZZI",
+      "url": "https://open.spotify.com/track/55TMkP8yjabvA9zs2nVFmt"
+    },
+    {
+      "album": {
         "name": "FAMMI MALE",
         "url": "https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq"
       },
@@ -8450,6 +8526,24 @@
       "duration_ms": 174000,
       "name": "Fare di meglio",
       "url": "https://open.spotify.com/track/38xL9y63aPO8MyFv6Vq4T8"
+    },
+    {
+      "album": {
+        "name": "FARE SCHIFO",
+        "url": "https://open.spotify.com/album/1lbLuEjFAWE0oc3NMjtWG2"
+      },
+      "artists": [
+        {
+          "name": "NOVE",
+          "url": "https://open.spotify.com/artist/3XIYJmJjLZKAXy9soJQHBo"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "FARE SCHIFO",
+      "url": "https://open.spotify.com/track/3AyZSu59HdoYhuCZQd3iJH"
     },
     {
       "album": {
@@ -9802,7 +9896,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 156789,
       "name": "GAS!",
       "url": "https://open.spotify.com/track/0JzIrz3i8sfas9otFUGG61"
@@ -10114,6 +10208,24 @@
       "duration_ms": 166196,
       "name": "Gocce",
       "url": "https://open.spotify.com/track/3SEae5NvhxHrZyU7DkpCEF"
+    },
+    {
+      "album": {
+        "name": "GOCCE D'ACQUA",
+        "url": "https://open.spotify.com/album/1EY13p7bwzrDLR4snNlruh"
+      },
+      "artists": [
+        {
+          "name": "EUFORIA",
+          "url": "https://open.spotify.com/artist/16lbAhDR415StnqDDa4UpO"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154634,
+      "name": "GOCCE D'ACQUA",
+      "url": "https://open.spotify.com/track/5f7cnpawPXpcMWctahPaE5"
     },
     {
       "album": {
@@ -15345,6 +15457,24 @@
     },
     {
       "album": {
+        "name": "Mille Risse",
+        "url": "https://open.spotify.com/album/7swYsL0AYLgkSyCpXGIQ4K"
+      },
+      "artists": [
+        {
+          "name": "Seltsam",
+          "url": "https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162573,
+      "name": "Mille Risse",
+      "url": "https://open.spotify.com/track/0HyP021OfM03b5cPn2Ql3m"
+    },
+    {
+      "album": {
         "name": "MILLE VOLTE",
         "url": "https://open.spotify.com/album/0ezOW15IZ6A1xF7y443DIZ"
       },
@@ -16535,6 +16665,24 @@
     },
     {
       "album": {
+        "name": "quel che resta",
+        "url": "https://open.spotify.com/album/1nJLGimuFDWndkY2IfscSj"
+      },
+      "artists": [
+        {
+          "name": "nora lang",
+          "url": "https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138250,
+      "name": "niente",
+      "url": "https://open.spotify.com/track/4jsFobVLotgBfwt668zjw1"
+    },
+    {
+      "album": {
         "name": "Niente da perdere",
         "url": "https://open.spotify.com/album/3401AVbriMGB3NlScDU6kw"
       },
@@ -16738,7 +16886,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 191241,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/2nmnMonrtE28LqDpnqiFQe"
@@ -22729,6 +22877,24 @@
     },
     {
       "album": {
+        "name": "SCUOLABUS",
+        "url": "https://open.spotify.com/album/0z1DLCVrlj2qsTKbIbYUL5"
+      },
+      "artists": [
+        {
+          "name": "DALAI XV",
+          "url": "https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103291,
+      "name": "SCUOLABUS",
+      "url": "https://open.spotify.com/track/7ajmySUH6ZxWt8Zees1Vbm"
+    },
+    {
+      "album": {
         "name": "SCUORN",
         "url": "https://open.spotify.com/album/2T1G3vwNKwKSFMNrLkOuu5"
       },
@@ -23004,7 +23170,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 140526,
       "name": "SENSAZIONALE!",
       "url": "https://open.spotify.com/track/4igvak5O51abdmaVvWOFUK"
@@ -23388,6 +23554,24 @@
       "duration_ms": 443413,
       "name": "Setting Of The Sun",
       "url": "https://open.spotify.com/track/3HVINZ2GShhkChl0Sn7Rap"
+    },
+    {
+      "album": {
+        "name": "Sfortuna",
+        "url": "https://open.spotify.com/album/30gsWWP9QKJ1qgVFMWuKQA"
+      },
+      "artists": [
+        {
+          "name": "ADA",
+          "url": "https://open.spotify.com/artist/2uS7BJhs2VgVCgeFzMnecg"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Sfortuna",
+      "url": "https://open.spotify.com/track/4xyYHVnivJt9gT9dMIH58H"
     },
     {
       "album": {

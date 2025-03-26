@@ -1,31 +1,15 @@
 {
   "description": "Groove to your favorite tracks from CoComelon! ",
-  "num_followers": 217361,
+  "num_followers": 217656,
   "original_name": "CoComelon Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6abGgAAAAD9UveI3ZJf1tuoBQ1evseS",
+  "snapshot_id": "Z+L8vAAAAAD+/kWdQpr3ehKZ0h6TSOxL",
   "tracks": [
     {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "CoComelon Essentials",
-        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 127026,
-      "name": "Head Shoulders Knees and Toes",
-      "url": "https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA"
-    },
-    {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "Nursery Rhymes by CoComelon",
         "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
@@ -41,10 +25,10 @@
       "url": "https://open.spotify.com/track/5wVJTaoVAbhFrQC1QZVPO3"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "Nursery Rhymes by CoComelon",
-        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+        "name": "CoComelon Essentials",
+        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
       },
       "artists": [
         {
@@ -52,12 +36,28 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 127203,
-      "name": "Baby Shark",
-      "url": "https://open.spotify.com/track/7zD97mcPo9fng0aJqUhFvd"
+      "duration_ms": 127026,
+      "name": "Head Shoulders Knees and Toes",
+      "url": "https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 124654,
+      "name": "Keep Trying - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/4UfXxbrRGHvpvrpwi7duMp"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "Nursery Rhymes by CoComelon",
         "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/3fd7MTDoNDYsgtwA79s092"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "Belly Button Song",
-        "url": "https://open.spotify.com/album/1lY0r5OMOwuImX9dLsK0oz"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Belly Button Song",
-      "url": "https://open.spotify.com/track/5AHRFT8ZqvSGZxCl5Fv1oy"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "The Nursery Rhyme Rehearsal - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/1F6WI8YKG1Ri11IzxdYDep"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Kids Hits, Vol. 1",
         "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
@@ -121,391 +89,7 @@
       "url": "https://open.spotify.com/track/0dF7HP4wDwxCtID3mXpdYX"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
-      "album": {
-        "name": "Nursery Rhymes by CoComelon",
-        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 177477,
-      "name": "Twinkle Twinkle Little Star",
-      "url": "https://open.spotify.com/track/2hjtkscZtzpcGgQwR84dGQ"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 14",
-        "url": "https://open.spotify.com/album/4al58zNQHDwc60Ns2VKuCO"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Pots n' Pans Band",
-      "url": "https://open.spotify.com/track/3blHEvoO9gOnDcCvNmFFKN"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 129761,
-      "name": "Itsy Bitsy Spider",
-      "url": "https://open.spotify.com/track/6cKlr2BOXBaqiuaHUY5Zwo"
-    },
-    {
-      "added_at": "2024-01-19 22:19:44",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 130496,
-      "name": "Rock-a-Bye Baby",
-      "url": "https://open.spotify.com/track/3NEgsdTwk3tIjt6x4d2VzE"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 145478,
-      "name": "The Teacher Song Singalong - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/0MDc4YTVLZCoFGHdRBEl1q"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "Rocketship Song",
-        "url": "https://open.spotify.com/album/33zHc0MlqacyEELiBpn8Ja"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 136691,
-      "name": "Rocketship Song",
-      "url": "https://open.spotify.com/track/37cPTHpUJy0dvTxt6tTYXM"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Five Little Monkeys Jumping on the Bed",
-      "url": "https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 136002,
-      "name": "Finger Family",
-      "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 128127,
-      "name": "Humpty Dumpty",
-      "url": "https://open.spotify.com/track/7mFYASuwFDuAQvR8nwytux"
-    },
-    {
-      "added_at": "2024-05-22 20:24:26",
-      "album": {
-        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Great Day on CoComelon Lane - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/26l8C2Awi4ECGIUk20EBMY"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "Who Took the Cookie",
-        "url": "https://open.spotify.com/album/6uW7IxBSG4aOblM4SdZafK"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 157916,
-      "name": "Who Took the Cookie",
-      "url": "https://open.spotify.com/track/4pRmte8RU7xcTtJl4ypCRh"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 118218,
-      "name": "One Potato, Two Potatoes",
-      "url": "https://open.spotify.com/track/1yon4uhxW75G48LGFarDZe"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "Learning with JJ",
-        "url": "https://open.spotify.com/album/5kunIlf9hIKsfU8mmNtxrK"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "Same and Different Superhero Song",
-      "url": "https://open.spotify.com/track/6I3qx7AQFL5qIsuDBSbbLs"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Yes Yes Vegetables Song",
-      "url": "https://open.spotify.com/track/76r1P6yfRpuicgw5pxTvae"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 154087,
-      "name": "Bath Song",
-      "url": "https://open.spotify.com/track/17NymnDl7GVw0HvT6pXFKU"
-    },
-    {
-      "added_at": "2024-05-22 20:24:26",
-      "album": {
-        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 144605,
-      "name": "JJ\u2019s Head Shoulders Knees and Toes - Songs from the Netflix Series",
-      "url": "https://open.spotify.com/track/2ZUUUuWFCi5j2wD3am1m8x"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "Nursery Rhymes by CoComelon",
-        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 144844,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2UTkYyycHc6q8eLAA9raDu"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "Shopping Cart Song",
-        "url": "https://open.spotify.com/album/0JkIkHcsffhLj5JApmDWIq"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Shopping Cart Song",
-      "url": "https://open.spotify.com/track/3d3CitK7iXEYxKusP7KeyU"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 39077,
-      "name": "Happy Birthday Singalong - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/3LacNncNWW1kLffW07dWjP"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "Cece Had a Little Cat",
-        "url": "https://open.spotify.com/album/7LmAgEgQ8uIKj6gvwBuM5D"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 157624,
-      "name": "Cece Had a Little Cat",
-      "url": "https://open.spotify.com/track/0i2tS6f6pFQznI7MliWq05"
-    },
-    {
-      "added_at": "2024-01-19 22:19:44",
-      "album": {
-        "name": "CoComelon Lane (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 37696,
-      "name": "About to Do Something New - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/0eBDNreqzPgXAU1SrBQ17D"
-    },
-    {
-      "added_at": "2024-05-22 20:24:26",
-      "album": {
-        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 156528,
-      "name": "The Alphabet Construction Song - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/5VnLXorP9j6J3nqwsuc4MF"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "Animal Friends",
-        "url": "https://open.spotify.com/album/3ruWCcleKVyiRNZTP4NE95"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "Mary Had a Little Lamb",
-      "url": "https://open.spotify.com/track/12o2pvdkWhOeEMbAXma5Cq"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "Fun with Family and Friends",
-        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 183124,
-      "name": "Where is Bingo",
-      "url": "https://open.spotify.com/track/3RIS32uy5KFccsC9X89jYM"
-    },
-    {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
@@ -521,7 +105,7 @@
       "url": "https://open.spotify.com/track/2cj2Koazip7GO5jVJx8Avy"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "Nursery Rhymes by CoComelon",
         "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
@@ -532,12 +116,108 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 125158,
-      "name": "London Bridge Is Falling Down",
-      "url": "https://open.spotify.com/track/6zY4JAgARtLxqLasf3RDm2"
+      "duration_ms": 127203,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/7zD97mcPo9fng0aJqUhFvd"
     },
     {
-      "added_at": "2024-05-22 20:24:26",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 130496,
+      "name": "Rock-a-Bye Baby",
+      "url": "https://open.spotify.com/track/3NEgsdTwk3tIjt6x4d2VzE"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Cece's Funny Face Song - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/5Wmr7Chi80Wp2xULl4wz2x"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Yes Yes Vegetables Song",
+      "url": "https://open.spotify.com/track/76r1P6yfRpuicgw5pxTvae"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 177477,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/2hjtkscZtzpcGgQwR84dGQ"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 155936,
+      "name": "Just Be You - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/7c4tTrAG0Bl6rPOMg1fLWM"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 129761,
+      "name": "Itsy Bitsy Spider",
+      "url": "https://open.spotify.com/track/6cKlr2BOXBaqiuaHUY5Zwo"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
@@ -553,10 +233,10 @@
       "url": "https://open.spotify.com/track/4LoSarEwwPmoiSxjFzlxQW"
     },
     {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "Let's Play!",
-        "url": "https://open.spotify.com/album/4QFoOP1nrmlSi0U1ajH1iE"
+        "name": "Belly Button Song",
+        "url": "https://open.spotify.com/album/1lY0r5OMOwuImX9dLsK0oz"
       },
       "artists": [
         {
@@ -564,108 +244,12 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 163003,
-      "name": "JJ Says",
-      "url": "https://open.spotify.com/track/44pkcxAxTC6FQPjANGSdQ1"
+      "duration_ms": 142500,
+      "name": "Belly Button Song",
+      "url": "https://open.spotify.com/track/5AHRFT8ZqvSGZxCl5Fv1oy"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 159125,
-      "name": "First Day of School",
-      "url": "https://open.spotify.com/track/3haP3mk7a0lb2VJ5Psg2hU"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "It's Cody Time",
-        "url": "https://open.spotify.com/album/1juAhGmG127GftTq1YIKWY"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Moving Day for Cody",
-      "url": "https://open.spotify.com/track/5Uiuk0LY3UZqp0B87PZGp9"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "Nursery Rhymes by CoComelon",
-        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 135234,
-      "name": "Row, Row, Row Your Boat",
-      "url": "https://open.spotify.com/track/2zhqBdbprnVQux9m6SKm9C"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
-      "album": {
-        "name": "Fun with Family and Friends",
-        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Pop's the Bubbles",
-      "url": "https://open.spotify.com/track/7kE4pQwbkFq1s7rifctDKq"
-    },
-    {
-      "added_at": "2024-01-19 22:19:44",
-      "album": {
-        "name": "CoComelon Lane (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 148021,
-      "name": "JJ's Animal Dance - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/1qelidddRllijPzk8pUYAt"
-    },
-    {
-      "added_at": "2024-01-19 22:19:44",
-      "album": {
-        "name": "CoComelon Lane (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 42372,
-      "name": "Imagine With Me - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/0RPpvoJ9AeccU97dBc87QB"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
@@ -681,7 +265,7 @@
       "url": "https://open.spotify.com/track/4QXNJnBV6Dlbvp8tzY9xEu"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Kids Hits, Vol. 1",
         "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
@@ -692,15 +276,15 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 170770,
-      "name": "The Soccer Song (Football Song)",
-      "url": "https://open.spotify.com/track/27iOGgZhoVyb7FWuukbwus"
+      "duration_ms": 128127,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/7mFYASuwFDuAQvR8nwytux"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+        "name": "CoComelon Lane (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
       },
       "artists": [
         {
@@ -708,15 +292,15 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 181948,
-      "name": "The Teacher Song",
-      "url": "https://open.spotify.com/track/16jfafeVhzDQe5QAr7sOqJ"
+      "duration_ms": 148021,
+      "name": "JJ's Animal Dance - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/1qelidddRllijPzk8pUYAt"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "CoComelon Kids Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+        "name": "Learning with JJ",
+        "url": "https://open.spotify.com/album/5kunIlf9hIKsfU8mmNtxrK"
       },
       "artists": [
         {
@@ -724,28 +308,12 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 149983,
-      "name": "Looby Loo",
-      "url": "https://open.spotify.com/track/2aqZSUnGtSrtXjZVnAcrSH"
+      "duration_ms": 192773,
+      "name": "Same and Different Superhero Song",
+      "url": "https://open.spotify.com/track/6I3qx7AQFL5qIsuDBSbbLs"
     },
     {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 83968,
-      "name": "Wheels on the Bus Singalong - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/6UgT88XAUKDX4rSdsmNdWG"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Kids Hits, Vol. 2",
         "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
@@ -756,15 +324,15 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 159425,
-      "name": "The More We Get Together",
-      "url": "https://open.spotify.com/track/7Bwj13RT9tKcNeziqcaNak"
+      "duration_ms": 136002,
+      "name": "Finger Family",
+      "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "CoComelon Kids Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
       },
       "artists": [
         {
@@ -772,12 +340,28 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 189055,
-      "name": "Abc Song with Balloons",
-      "url": "https://open.spotify.com/track/0N11kzLp426b4jIz445WgW"
+      "duration_ms": 104205,
+      "name": "I Am the Music Man",
+      "url": "https://open.spotify.com/track/4uxhJp1bmlq4CbcIdazq5s"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Shopping Cart Song",
+        "url": "https://open.spotify.com/album/0JkIkHcsffhLj5JApmDWIq"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Shopping Cart Song",
+      "url": "https://open.spotify.com/track/3d3CitK7iXEYxKusP7KeyU"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
@@ -793,39 +377,7 @@
       "url": "https://open.spotify.com/track/7Jvyg8W0q1SqNoOuzgnq3I"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
-      "album": {
-        "name": "CoComelon Lane (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Pat-a-Cake - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/6gDBPj9whZLqaIIFwIgTdP"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 166559,
-      "name": "Nina\u2019s Traffic Safety Song - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/0zTK4cFam4KxYbuhYB2iHA"
-    },
-    {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Kids Hits, Vol. 2",
         "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
@@ -836,15 +388,15 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 227994,
-      "name": "Yes Yes Playground Song",
-      "url": "https://open.spotify.com/track/1BDzCATEWGKriNZVNRRoam"
+      "duration_ms": 169302,
+      "name": "Five Little Monkeys Jumping on the Bed",
+      "url": "https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ"
     },
     {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
+        "name": "Rocketship Song",
+        "url": "https://open.spotify.com/album/33zHc0MlqacyEELiBpn8Ja"
       },
       "artists": [
         {
@@ -852,12 +404,60 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 148610,
-      "name": "Cody\u2019s Train Song - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/1RohxcwOwHjqlzlLcq1CR2"
+      "duration_ms": 136691,
+      "name": "Rocketship Song",
+      "url": "https://open.spotify.com/track/37cPTHpUJy0dvTxt6tTYXM"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Animal Friends",
+        "url": "https://open.spotify.com/album/3ruWCcleKVyiRNZTP4NE95"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "Mary Had a Little Lamb",
+      "url": "https://open.spotify.com/track/12o2pvdkWhOeEMbAXma5Cq"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 37696,
+      "name": "About to Do Something New - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/0eBDNreqzPgXAU1SrBQ17D"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 118218,
+      "name": "One Potato, Two Potatoes",
+      "url": "https://open.spotify.com/track/1yon4uhxW75G48LGFarDZe"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
@@ -873,7 +473,71 @@
       "url": "https://open.spotify.com/track/09T30ojn7xWZNvExmzowUR"
     },
     {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Sing, Dance, Party!, Vol. 3",
+        "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 146229,
+      "name": "Muffin Man - Dance Party",
+      "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 148610,
+      "name": "Cody\u2019s Train Song - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/1RohxcwOwHjqlzlLcq1CR2"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Nursery Rhyme Classics",
+        "url": "https://open.spotify.com/album/1PVJR4CpiodjHeOktptL0G"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 104549,
+      "name": "Mr. Sun",
+      "url": "https://open.spotify.com/track/4XHKJMno0cp0uGcvF4HyjL"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 189055,
+      "name": "Abc Song with Balloons",
+      "url": "https://open.spotify.com/track/0N11kzLp426b4jIz445WgW"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
@@ -889,23 +553,7 @@
       "url": "https://open.spotify.com/track/3UxSfayeOI8QPHmar3IiMp"
     },
     {
-      "added_at": "2024-05-22 20:24:26",
-      "album": {
-        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 172338,
-      "name": "Cece\u2019s Twinkle Twinkle Little Star - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/0eIg4etRYqOo0f9JbwJAYH"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Kids Hits, Vol. 2",
         "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
@@ -916,12 +564,76 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 174507,
-      "name": "Helping Song",
-      "url": "https://open.spotify.com/track/39J1tyOEwPHKwodeNVtUZk"
+      "duration_ms": 154087,
+      "name": "Bath Song",
+      "url": "https://open.spotify.com/track/17NymnDl7GVw0HvT6pXFKU"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Who Took the Cookie",
+        "url": "https://open.spotify.com/album/6uW7IxBSG4aOblM4SdZafK"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 157916,
+      "name": "Who Took the Cookie",
+      "url": "https://open.spotify.com/track/4pRmte8RU7xcTtJl4ypCRh"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 135234,
+      "name": "Row, Row, Row Your Boat",
+      "url": "https://open.spotify.com/track/2zhqBdbprnVQux9m6SKm9C"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 83968,
+      "name": "Wheels on the Bus Singalong - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/6UgT88XAUKDX4rSdsmNdWG"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 144844,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2UTkYyycHc6q8eLAA9raDu"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
@@ -937,7 +649,71 @@
       "url": "https://open.spotify.com/track/1CTYFYLKkikkQoYJsHQfVo"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 181948,
+      "name": "The Teacher Song",
+      "url": "https://open.spotify.com/track/16jfafeVhzDQe5QAr7sOqJ"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 159425,
+      "name": "The More We Get Together",
+      "url": "https://open.spotify.com/track/7Bwj13RT9tKcNeziqcaNak"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "JJ's Firefighter Birthday Song - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/0Wj2qN8qJk734VLlydxSzB"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 125158,
+      "name": "London Bridge Is Falling Down",
+      "url": "https://open.spotify.com/track/6zY4JAgARtLxqLasf3RDm2"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
@@ -948,12 +724,204 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 151834,
-      "name": "The Garbage Truck Song - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/5k0S0JuuWRvGPb3eUhJ5TI"
+      "duration_ms": 149508,
+      "name": "Pat-a-Cake - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/6gDBPj9whZLqaIIFwIgTdP"
     },
     {
-      "added_at": "2023-11-15 19:46:49",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 149983,
+      "name": "Looby Loo",
+      "url": "https://open.spotify.com/track/2aqZSUnGtSrtXjZVnAcrSH"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 144605,
+      "name": "JJ\u2019s Head Shoulders Knees and Toes - Songs from the Netflix Series",
+      "url": "https://open.spotify.com/track/2ZUUUuWFCi5j2wD3am1m8x"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 174507,
+      "name": "Helping Song",
+      "url": "https://open.spotify.com/track/39J1tyOEwPHKwodeNVtUZk"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 172338,
+      "name": "Cece\u2019s Twinkle Twinkle Little Star - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/0eIg4etRYqOo0f9JbwJAYH"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 159125,
+      "name": "First Day of School",
+      "url": "https://open.spotify.com/track/3haP3mk7a0lb2VJ5Psg2hU"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 39077,
+      "name": "Happy Birthday Singalong - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/3LacNncNWW1kLffW07dWjP"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 227994,
+      "name": "Yes Yes Playground Song",
+      "url": "https://open.spotify.com/track/1BDzCATEWGKriNZVNRRoam"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "That's What Good Friends Do - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/1Y2X1HTpThmlbFz0hyJi0W"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 135001,
+      "name": "Rain Rain Go Away",
+      "url": "https://open.spotify.com/track/5R2lEtGNrVmwCEY5cRor9n"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Pop's the Bubbles",
+      "url": "https://open.spotify.com/track/7kE4pQwbkFq1s7rifctDKq"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 108208,
+      "name": "Peekaboo",
+      "url": "https://open.spotify.com/track/2Gwr0pH5khUHZDhFpyM1iS"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 183124,
+      "name": "Where is Bingo",
+      "url": "https://open.spotify.com/track/3RIS32uy5KFccsC9X89jYM"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Kids Hits, Vol. 2",
         "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
@@ -969,10 +937,10 @@
       "url": "https://open.spotify.com/track/3tBWiiKF79JoxYLCmgx28Z"
     },
     {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
+        "name": "CoComelon Lane, Vol. 4 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT"
       },
       "artists": [
         {
@@ -980,15 +948,15 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 140903,
-      "name": "Learn By Looking - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/0m3uLY3oHA9RPPPgq1remn"
+      "duration_ms": 156000,
+      "name": "Cece's Looby Loo - Have Fun and Dance - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/3qhRPZQZZ7ALHuPicPS0Ey"
     },
     {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
       },
       "artists": [
         {
@@ -996,12 +964,12 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 151636,
-      "name": "My Dog Song - Bingo's Bathtime - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/1PhKKsjIhhqSstioXXphXw"
+      "duration_ms": 194666,
+      "name": "12345 Once I Caught A Fish Alive!",
+      "url": "https://open.spotify.com/track/24darTBz4XHHhCnVnKk1hj"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "CoComelon Lane (Songs From the Netflix Series)",
         "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
@@ -1017,10 +985,10 @@
       "url": "https://open.spotify.com/track/2DYu5OfYvFPwVV4oBcVAu2"
     },
     {
-      "added_at": "2024-12-05 20:56:17",
+      "added_at": "2025-03-25 18:58:04",
       "album": {
-        "name": "CoComelon Lane, Vol. 3 (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
       },
       "artists": [
         {
@@ -1028,12 +996,44 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 40000,
-      "name": "The Grateful Song - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/5G97ypiatwDL3obmOhisn9"
+      "duration_ms": 170770,
+      "name": "The Soccer Song (Football Song)",
+      "url": "https://open.spotify.com/track/27iOGgZhoVyb7FWuukbwus"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 166559,
+      "name": "Nina\u2019s Traffic Safety Song - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/0zTK4cFam4KxYbuhYB2iHA"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "She'll Be Coming Round the Mountain",
+      "url": "https://open.spotify.com/track/1Z7tsmCvV0QboBo37Iykri"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "Nursery Rhymes by CoComelon",
         "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
@@ -1044,12 +1044,28 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 118218,
-      "name": "One Potato, Two Potatoes",
-      "url": "https://open.spotify.com/track/0ogBezZTS2EgTbET8eiZhB"
+      "duration_ms": 214000,
+      "name": "Apples And Bananas (Phonics Song)",
+      "url": "https://open.spotify.com/track/3gQeoqayS6qcoH8FtAlCh8"
     },
     {
-      "added_at": "2024-01-19 22:19:44",
+      "added_at": "2025-03-25 18:58:04",
+      "album": {
+        "name": "Let's Play!",
+        "url": "https://open.spotify.com/album/4QFoOP1nrmlSi0U1ajH1iE"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 163003,
+      "name": "JJ Says",
+      "url": "https://open.spotify.com/track/44pkcxAxTC6FQPjANGSdQ1"
+    },
+    {
+      "added_at": "2025-03-25 18:58:04",
       "album": {
         "name": "Nursery Rhymes by CoComelon",
         "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
@@ -1063,38 +1079,6 @@
       "duration_ms": 128127,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/7v9Z86eNCt9yUTk2Hy0uQk"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 207340,
-      "name": "Wheels on the Bus",
-      "url": "https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS"
-    },
-    {
-      "added_at": "2024-12-05 20:56:17",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 147147,
-      "name": "Old MacDonald",
-      "url": "https://open.spotify.com/track/5txSLkf7BeYIgTtUnVDDG8"
     }
   ],
   "unique_name": "CoComelon Official Playlist",

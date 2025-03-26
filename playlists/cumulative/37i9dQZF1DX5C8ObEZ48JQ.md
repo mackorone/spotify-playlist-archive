@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF?si=aZWAGFHMTIipljZtJuRcjw">Kunmie</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp?si=pwV\-9W\_ZTQqY4o8aZSxNpQ">Muthoka</a>\. Artwork: Isu Kim.
 
 1,256 songs - 2 day 14 hr 48 min
 

@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/7emvnt7GCyMhZvWHUba7pG"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145216,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3sDeBdOesQIVbwVLqjNurZ"
+    },
+    {
+      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/0UavhP7ertnNlOaZ9j5b8W"
       },
@@ -2216,6 +2234,24 @@
       "duration_ms": 152127,
       "name": "Fallen Apples\u2019 Scent",
       "url": "https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai"
+    },
+    {
+      "album": {
+        "name": "Falling whisper",
+        "url": "https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj"
+      },
+      "artists": [
+        {
+          "name": "Jesse Rostad",
+          "url": "https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165304,
+      "name": "Falling whisper",
+      "url": "https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI"
     },
     {
       "album": {

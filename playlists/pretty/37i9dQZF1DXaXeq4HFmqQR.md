@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen: un homenaje a Violeta Parra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,389 likes - 35 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,387 likes - 35 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [Con los Pies Sobre la Tierra](https://open.spotify.com/track/047xrMTkNMLHqpz9IPqYZR) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [Con los Pies Sobre la Tierra](https://open.spotify.com/album/3wCZNKak482e3SvU3CJVa4) | 2:26 |
 | 17 | [Permiso](https://open.spotify.com/track/1hs8eutktH2210mudKOo2Z) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 4:12 |
 | 18 | [A la Mar Fui por Naranjas](https://open.spotify.com/track/55vHYlcaslpFY3ZTSkYT48) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 2:56 |
-| 19 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
+| 19 | [Tu Isla](https://open.spotify.com/track/3gDgHQ0o6d4QFGh8Uo1jSF) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Tu Isla](https://open.spotify.com/album/78d7xBJ5aj3JHBCHJObniR) | 4:42 |
 | 20 | [Arriba Quemando el Sol](https://open.spotify.com/track/0LYLqBgE7h0eMKJuqLQ3gi) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Canciones Reencontradas en París](https://open.spotify.com/album/1ps5BA5hN2pCCtDFVZF341) | 2:39 |
-| 21 | [Tu Isla](https://open.spotify.com/track/3gDgHQ0o6d4QFGh8Uo1jSF) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Tu Isla](https://open.spotify.com/album/78d7xBJ5aj3JHBCHJObniR) | 4:42 |
+| 21 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
 | 22 | [Colibrí](https://open.spotify.com/track/0EKGAB37A6Pi3Sc59jUATI) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV) | [Del otro lado](https://open.spotify.com/album/0CxTT7EJUX7xluQQyBL1Au) | 2:47 |
 | 23 | [Barquito de Papel](https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi) | [Los Ojos del Corazón](https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b) | 3:51 |
 | 24 | [Huaynito de Amor](https://open.spotify.com/track/4p6Qm5fkbJaedDg1U3020S) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 2:28 |

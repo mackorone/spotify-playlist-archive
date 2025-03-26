@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,026 songs - 2 day 14 hr 24 min
+1,027 songs - 2 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,6 +833,7 @@
 | [Ser Guitarra](https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Ser Guitarra](https://open.spotify.com/album/3xZM5pC6lmpRMXnTPSeLJZ) | 2:59 | 2021-12-24 | 2022-07-29 |
 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 | 2021-12-24 |  |
 | [Set Fire To The Rain](https://open.spotify.com/track/352UHNRKcQBaGKReDvtyM4) | [Ben Botfield](https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy) | [Set Fire To The Rain](https://open.spotify.com/album/3sDhleu0YVFM5svz2JuwJi) | 3:46 | 2022-04-01 | 2022-04-19 |
+| [She Says](https://open.spotify.com/track/6DPv1snsx1dXdBtpzdDx8H) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [She Says](https://open.spotify.com/album/2VgnmhWzYmBONU5A6N0zOK) | 3:21 | 2025-03-25 |  |
 | [SHIPEA2](https://open.spotify.com/track/2OYk9eNssiDzHzfsw1MF8V) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [EL DISKO](https://open.spotify.com/album/14zetboF0QGhGGsWabeiWT) | 3:27 | 2022-04-13 | 2022-04-21 |
 | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs) | 3:39 | 2022-04-13 |  |
 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 | 2021-12-24 | 2022-07-27 |
@@ -981,7 +982,7 @@
 | [Vento Sardo](https://open.spotify.com/track/1NbWJcul8xK4AtYzTBLCnm) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Portas](https://open.spotify.com/album/3l2TdM4HyHoifHzpfzhvaT) | 4:15 | 2022-04-01 | 2022-04-21 |
 | [Vení Mirá](https://open.spotify.com/track/1eaVLscCKBbqFQWlJM4UVb) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vivo en el Sillón](https://open.spotify.com/album/7iOslvqM5fW1vfARRkojrO) | 3:44 | 2022-04-01 | 2022-04-07 |
 | [Veredas Opuestas](https://open.spotify.com/track/0vMWJPVfHgXCHdEKZuWm2I) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Cerro Dublín](https://open.spotify.com/album/5rLCOjWrccuxzkmsPHYWyb) | 2:39 | 2022-04-01 | 2022-04-20 |
-| [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 | 2021-12-24 |  |
+| [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 | 2021-12-24 | 2025-03-26 |
 | [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2022-01-07 |  |
 | [Viaje](https://open.spotify.com/track/3BW824tqfWRLv9UC51wwkK) | [Ignacio Agulles](https://open.spotify.com/artist/5OGiIDhzkSxIfmnqVQPVJx) | [Habitar Tu Cosmos](https://open.spotify.com/album/6JVkhlRUkXy1Bpx4YHeSui) | 4:18 | 2022-03-24 | 2022-04-19 |
 | [VIAJERXS](https://open.spotify.com/track/5w9yYfOEV9Eo4ptiMzzuUq) | [Miranda Myndlis](https://open.spotify.com/artist/0PgWnms78CLlPRS1smSAnh) | [VIAJERXS](https://open.spotify.com/album/4STKa7im5mdCeAZqwlnk5s) | 3:46 | 2022-03-28 | 2022-04-19 |

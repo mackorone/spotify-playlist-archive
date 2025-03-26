@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-852 songs - 1 day 12 hr 46 min
+856 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 | 2024-08-21 |
 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 | 2022-03-25 | 2023-08-19 |
 | [In Search of Gems](https://open.spotify.com/track/10Ilz6KAPyPnizZvNApmsf) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [In Search of Gems](https://open.spotify.com/album/3Fq4PRvtCZkVm7QbatRWvX) | 2:32 | 2024-10-15 |  |
+| [in the midst of it all](https://open.spotify.com/track/01TxcPPCKazazwFTOuN6pw) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [in the midst of it all](https://open.spotify.com/album/7z8KoOPi1DbWuyXCzvCS8e) | 2:40 | 2025-03-25 |  |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [In vino veritas](https://open.spotify.com/track/6BjN3um3X3aF0xI0i29NY1) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [New Amsterdam](https://open.spotify.com/album/10FZBKArCxME3V2PB8C818) | 3:07 | 2022-07-15 | 2022-10-29 |
 | [Inamorata](https://open.spotify.com/track/6o3KXEq44ThRSknUDcIXAT) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Inamorata](https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa) | 2:29 | 2023-03-24 | 2024-05-25 |
@@ -405,7 +406,7 @@
 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 | 2023-10-27 | 2024-04-05 |
 | [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2022-10-28 | 2023-06-16 |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-03-10 | 2025-03-11 |
-| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 | 2025-03-26 |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 | 2024-09-11 |
 | [Left Unsaid](https://open.spotify.com/track/70kfWgQvwouRNgxush5oEv) | [Caro Courbet](https://open.spotify.com/artist/52zVeu3wctCuT0MKNL67hx) | [Left Unsaid](https://open.spotify.com/album/5fKMfqNLcSxp2Ec9Y2v5aL) | 2:11 | 2022-12-16 | 2023-03-25 |
 | [Lemon Butterflies](https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Lemon Butterflies](https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4) | 1:24 | 2022-07-01 | 2022-10-07 |
@@ -445,6 +446,7 @@
 | [Lovelight](https://open.spotify.com/track/17c3bS1IscSItKzhhzdc4N) | [Geoff Henzel](https://open.spotify.com/artist/1GEOzSfLdNej1BIxdMQWN5) | [Lovelight](https://open.spotify.com/album/1E7UDTzbiqvLmpuR7wymWB) | 1:53 | 2022-02-01 | 2023-08-19 |
 | [Lovers](https://open.spotify.com/track/4KYoSAttyUqmzYisjrK8WR) | [Marc Holland](https://open.spotify.com/artist/4DxiFVzQ4xv4YqS7eow6Mn) | [Lovers](https://open.spotify.com/album/2NKE6ENQqre2SzfA4NAy8E) | 2:36 | 2021-12-08 | 2022-11-18 |
 | [Low\-lying Indiana](https://open.spotify.com/track/5NYLrenhF9CwDOgun0jdP0) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Low\-lying Indiana](https://open.spotify.com/album/3Z5FUnIVf3Vo4sSJBs8AEV) | 1:52 | 2025-01-20 |  |
+| [Lullaby](https://open.spotify.com/track/7goB8XbGH0dOpuOKh33M2V) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lullaby](https://open.spotify.com/album/0gltiSlcJXlCkGICZ5hVx5) | 2:54 | 2025-03-25 |  |
 | [Lumen](https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Lumen](https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD) | 2:36 | 2023-08-24 | 2025-03-11 |
 | [luminous](https://open.spotify.com/track/0jR7590uCLfEK8pe8bZAMC) | [Zé Barreto](https://open.spotify.com/artist/2O6o9mCeoLTDmsYBamVWBl) | [luminous](https://open.spotify.com/album/02BK5YS4DVi2adBR0grygQ) | 3:14 | 2021-12-08 | 2022-05-11 |
 | [Luna](https://open.spotify.com/track/1rvZQZNnabwvwlxGZF1pTP) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Luna](https://open.spotify.com/album/4hwoBpIAlTDBniGD8C916b) | 2:13 | 2024-05-31 |  |
@@ -569,6 +571,7 @@
 | [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 | 2024-10-10 |
 | [Patagonia Wind](https://open.spotify.com/track/1fl6ukQEOZMlVTjncfPXph) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Patagonia Wind](https://open.spotify.com/album/2JHhVGRoYytdxgslOztSp4) | 3:31 | 2021-12-08 | 2024-04-05 |
 | [Pavanas](https://open.spotify.com/track/3fc3Boou33c1h65A5EK0k0) | [Alain LaFontaine](https://open.spotify.com/artist/6WyfaTdxOnKaMAseLi5McX) | [Pavanas](https://open.spotify.com/album/7aNculG2nCCrehRVP4N3Ya) | 2:19 | 2022-07-08 | 2022-07-15 |
+| [Pavane](https://open.spotify.com/track/47utqXLQhk4iOfHq7QvIPj) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pavane](https://open.spotify.com/album/4KLvqHlBudcOsFD6ReSG6v) | 2:25 | 2025-03-25 |  |
 | [Peaberry](https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Peaberry](https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA) | 2:49 | 2023-09-29 |  |
 | [Peace for Awhile](https://open.spotify.com/track/7rNGsE6Nrvld0AMel0QZMW) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Pure Guitar](https://open.spotify.com/album/3Kxw34FNunjYtq8fJ4HdCG) | 2:05 | 2022-05-27 | 2022-09-09 |
 | [Peaceful evenings](https://open.spotify.com/track/0nJgsQqeqEU6nYipv81Ttw) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Peaceful evenings](https://open.spotify.com/album/7irDIdlp7tl6TRe6JJdAwq) | 2:16 | 2023-12-15 |  |
@@ -604,6 +607,7 @@
 | [Relief](https://open.spotify.com/track/64jQvDKwEQZEaoFVbeCLq1) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Relief](https://open.spotify.com/album/5Fpta2MS8KOIXKdQIIehPk) | 2:23 | 2022-10-28 | 2023-02-11 |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 |  |
 | [Remember Me \- Acoustic Guitar Fingerstyle](https://open.spotify.com/track/4PJKrajpXGcWDKgloksMxl) | [Liu Musix](https://open.spotify.com/artist/32P70mYx8VgEtP4byzEjiI) | [Remember Me \(Acoustic Guitar Fingerstyle\)](https://open.spotify.com/album/7kx9txBwz5cAYn4ZzD5cF8) | 1:14 | 2022-06-10 | 2022-11-18 |
+| [Remember Yesterday](https://open.spotify.com/track/7IMwaA8RH2Rkmz8B8DhIf3) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Remember Yesterday](https://open.spotify.com/album/2QwaFDwr9RmEiAeDKBEUP5) | 2:16 | 2025-03-25 |  |
 | [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2022-10-07 | 2024-05-04 |
 | [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 | 2022-11-25 | 2024-05-25 |
 | [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-03-24 | 2024-10-16 |

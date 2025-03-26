@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-411 songs - 17 hr 39 min
+413 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-01-06 | 2023-05-10 |
 | [As Morning Dawns](https://open.spotify.com/track/3T3d7TsbpAPTxhh1f3gSQO) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [As Morning Dawns](https://open.spotify.com/album/7vq49IqKG1cn48o4UNWoav) | 1:30 | 2024-10-23 |  |
 | [As The Day Breaks](https://open.spotify.com/track/4Hg2XDxHhPq9eKzcSeL0cD) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [As The Day Breaks](https://open.spotify.com/album/50Dyze2ncQAkBMN6pd5ZZC) | 3:11 | 2022-08-05 | 2022-12-10 |
+| [Ascension](https://open.spotify.com/track/3sDeBdOesQIVbwVLqjNurZ) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Ascension](https://open.spotify.com/album/7emvnt7GCyMhZvWHUba7pG) | 2:25 | 2025-03-25 |  |
 | [Atlantis](https://open.spotify.com/track/4VNPuY4jUY94G9I2XcLnZj) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Atlantis](https://open.spotify.com/album/0UavhP7ertnNlOaZ9j5b8W) | 2:45 | 2025-02-24 |  |
 | [Até o Fim](https://open.spotify.com/track/1BkAjte1N1xGkRprWpczQL) | [Callum Welch](https://open.spotify.com/artist/5xHojkpWvFQNmyVcAW6RKe) | [Até o Fim](https://open.spotify.com/album/1qK7kniKkgorGEAmuRBCTn) | 2:50 | 2022-03-04 | 2024-04-06 |
 | [Aurora Prelude](https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Aurora Prelude](https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi) | 2:32 | 2024-03-29 |  |
@@ -131,6 +132,7 @@
 | [Excelsior](https://open.spotify.com/track/4iFR7YK1CfJDoLlUde5WnP) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Happy Days Are Long Awaited](https://open.spotify.com/album/5wdIAlVfMZD8wk927tNQgf) | 3:26 | 2022-03-04 | 2022-04-06 |
 | [Fair Game](https://open.spotify.com/track/2FPEeTcNxk9qk8TxwwcxOL) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Fair Game](https://open.spotify.com/album/7rSE3kCkuQwPHaIXyJU3L8) | 2:51 | 2022-03-04 | 2022-07-08 |
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |
+| [Falling whisper](https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Falling whisper](https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj) | 2:45 | 2025-03-25 |  |
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-03-04 | 2024-05-10 |
 | [Fantasia in Bb Major](https://open.spotify.com/track/6eExSQ2BD9wBt1P05zKmHv) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Fantasia in Bb Major](https://open.spotify.com/album/7HHccRDjuN27tMFgHG6jpj) | 2:05 | 2023-02-24 |  |
 | [Favor from the Wind](https://open.spotify.com/track/6jhxoEzxae8CW2ScL7ehsT) | [Janet Noguera](https://open.spotify.com/artist/7BX5I0rBq9BLKCyJHQr2GD) | [Favor from the Wind](https://open.spotify.com/album/6EQJJ0BLotBsUpafBhjfR1) | 4:43 | 2024-02-02 | 2024-04-20 |

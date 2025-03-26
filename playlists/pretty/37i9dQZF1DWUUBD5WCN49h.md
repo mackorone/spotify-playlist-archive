@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Ru\. & Magixx
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,411 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,419 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 42 | [Nefertiti Complex](https://open.spotify.com/track/4ltzHo6YcHUz1kicimK4NK) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Nesha’s Cypher](https://open.spotify.com/album/0Q1jUGy3d5AG9G7zUjAeRo) | 4:11 |
 | 43 | [ENERGIZER](https://open.spotify.com/track/1njBLd3TypdWafrkYiknMM) | [Sativa Boy](https://open.spotify.com/artist/3Cb8Qntc4sL4OGsh6B0YIE), [Saint Murz](https://open.spotify.com/artist/4UUEgDWmH17UTFNih4VGYg) | [ENERGIZER](https://open.spotify.com/album/3fCDwg5uSGtpIALQcdyxIL) | 2:49 |
 | 44 | [In Your Absence](https://open.spotify.com/track/3HketnIKQG9qvE4YN8dKzp) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Patience & Heart / In your absence](https://open.spotify.com/album/09fe9REmQVxJNGIRBgpgfw) | 2:25 |
-| 45 | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/track/3YnaqBaUzBzqTl0UB4DQJi) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/album/78ifkKkoXwrREDN28GeIez) | 3:30 |
+| 45 | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/track/3YnaqBaUzBzqTl0UB4DQJi) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/album/78ifkKkoXwrREDN28GeIez) | 3:30 |
 | 46 | [Four Rounds](https://open.spotify.com/track/1OTzF1P0GumLThWaXrMKrK) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Swadu](https://open.spotify.com/artist/0sT2f64cwU0t11bxv2Sy1y) | [Four Rounds](https://open.spotify.com/album/3dm1skw86X03fWunBlOnYM) | 3:24 |
 | 47 | [Lego](https://open.spotify.com/track/0gW1onAnSs7pf9LHIhlGNp) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Lego](https://open.spotify.com/album/5j4HNbEloTq9YOB4hzuOpg) | 2:14 |
 | 48 | [What It Was](https://open.spotify.com/track/4OlQ74x5B5Wtjc69oercOv) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [What It Was](https://open.spotify.com/album/50XAWfjkgBYO4P9dU19cNF) | 2:48 |

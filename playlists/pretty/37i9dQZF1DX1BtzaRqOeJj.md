@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BtzaRqOeJj.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:4FZ3j1oH43e7cukCALsCwf">Jack White's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BtzaRqOeJj.md) - [plain]
 | 14 | [4](https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:37 |
 | 15 | [502](https://open.spotify.com/track/73nqzSYK9PwJ7bwk1kXJ2g) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What!](https://open.spotify.com/album/4rW8n1hOkavPGIxPvEnT18) | 3:28 |
 | 16 | [1,000,000](https://open.spotify.com/track/7wWa2By6UumtuTAv1RAVfF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Slip](https://open.spotify.com/album/6Et26zmZ0Gu4ocrxyU3dSp) | 3:56 |
-| 17 | [19\-2000](https://open.spotify.com/track/1kSWrMDt439cT64WpjJigW) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 3:30 |
+| 17 | [19\-2000](https://open.spotify.com/track/1kSWrMDt439cT64WpjJigW) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja), [Tina Weymouth](https://open.spotify.com/artist/7fOP0dm7y70BHCUc1zr6vR) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 3:30 |
 | 18 | [11:59](https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:20 |
 | 19 | [777\-9311](https://open.spotify.com/track/1Uj2yJKcIdNHcQu4DMr6cX) | [The Time](https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv) | [What Time Is It?](https://open.spotify.com/album/57YH772Zn30jNACjrTpbFK) | 8:05 |
 | 20 | [103](https://open.spotify.com/track/3d1MzZCtQuFmnwjgdW7ZkT) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [God Games](https://open.spotify.com/album/5foItJB5J4HL2Iim9BHpfk) | 4:05 |

@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana ✨ cover: CARO WOW
 
-504 songs - 23 hr 50 min
+505 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [100 anni \(piangi\) \(feat\. gIANMARIA & Mostro\)](https://open.spotify.com/track/4HCC59hmk0rQIyz7t1O0nz) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:54 | 2024-07-11 | 2024-11-29 |
 | [1Respiro](https://open.spotify.com/track/5raGBzEsePZbvJaD7nJCFe) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [1Respiro](https://open.spotify.com/album/655PnvJrqmrdBouFbwGzXj) | 2:50 | 2024-11-14 | 2025-01-10 |
 | [2Sconosciuti](https://open.spotify.com/track/6BRSkQDqNWkAT3YjVtYp6n) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [2Sconosciuti](https://open.spotify.com/album/7hl74k0WBGe4j0jYSQwn6J) | 3:33 | 2025-03-20 |  |
+| [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 | 2025-03-26 |  |
 | [8 PM](https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [8 PM](https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V) | 3:14 | 2024-07-25 | 2024-12-13 |
 | [A cosa serve l'estate](https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS), [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [A cosa serve l'estate](https://open.spotify.com/album/6zVOn1d1LL73QTvSLbiXUO) | 3:41 | 2024-09-19 | 2024-11-22 |
 | [Abissi](https://open.spotify.com/track/3smy1msq7GesCIYDgkQIWv) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Abissi](https://open.spotify.com/album/0lnZeaIZQcFfEC2kDj4QjW) | 2:30 | 2025-01-30 |  |

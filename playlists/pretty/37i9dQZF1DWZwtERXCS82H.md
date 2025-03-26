@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,002 likes - 202 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,382 likes - 202 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,35 +15,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 5 | [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 |
 | 6 | [The evolving mind](https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The evolving mind](https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c) | 2:14 |
 | 7 | [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 |
-| 8 | [Lost In The Bookstore](https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lost In The Bookstore](https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT) | 2:51 |
-| 9 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 |
-| 10 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 |
-| 11 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
+| 8 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 |
+| 9 | [Lost In The Bookstore](https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lost In The Bookstore](https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT) | 2:51 |
+| 10 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
+| 11 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 |
 | 12 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
 | 13 | [Shades of Wounded Light](https://open.spotify.com/track/37UIiW5Bncp2INQ7rT6szi) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [Shades of Wounded Light](https://open.spotify.com/album/23mhihANYnLrPtF8RmT6JG) | 2:50 |
 | 14 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 |
-| 15 | [Towards Perfection](https://open.spotify.com/track/36hXU10yupqsRUftnTFAyy) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Towards Perfection](https://open.spotify.com/album/6saaRnHoS7SRny6LhPWoLq) | 2:04 |
-| 16 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
+| 15 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
+| 16 | [Towards Perfection](https://open.spotify.com/track/36hXU10yupqsRUftnTFAyy) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Towards Perfection](https://open.spotify.com/album/6saaRnHoS7SRny6LhPWoLq) | 2:04 |
 | 17 | [Unfinished](https://open.spotify.com/track/5WOo4d8DeMEBPLdIN3sMiX) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Unfinished](https://open.spotify.com/album/5SwuDGKMqebn7tRnrNQPKg) | 2:21 |
-| 18 | [Hemma](https://open.spotify.com/track/4bxyy4ZscSjyo7oXfink7z) | [Carl Sture](https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ) | [Hemma](https://open.spotify.com/album/5ncrTGHYzOvqoRQf808O2R) | 2:36 |
-| 19 | [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 |
-| 20 | [I Know You](https://open.spotify.com/track/5QCQvHat9B9VgaENda7gbs) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Know You](https://open.spotify.com/album/2mSXKlafDrp0KUqJ3UkN4x) | 2:51 |
+| 18 | [I Know You](https://open.spotify.com/track/5QCQvHat9B9VgaENda7gbs) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Know You](https://open.spotify.com/album/2mSXKlafDrp0KUqJ3UkN4x) | 2:51 |
+| 19 | [Hemma](https://open.spotify.com/track/4bxyy4ZscSjyo7oXfink7z) | [Carl Sture](https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ) | [Hemma](https://open.spotify.com/album/5ncrTGHYzOvqoRQf808O2R) | 2:36 |
+| 20 | [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 |
 | 21 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
-| 22 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 |
-| 23 | [Pajaros blancos](https://open.spotify.com/track/3r82q3kloSXj8ybjRNroLN) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Pajaros blancos](https://open.spotify.com/album/3szBCrDbDK5ethdxGuXMiO) | 2:04 |
-| 24 | [Silent Bloom](https://open.spotify.com/track/0keMPNZ9MeQSN25xr14fUb) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Silent Bloom](https://open.spotify.com/album/1l2ue47R65IiChM0w4Z0Xo) | 2:07 |
-| 25 | [A Tiny Wallflower](https://open.spotify.com/track/00PvDazidS7DSFKcKWuhkM) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [A Tiny Wallflower](https://open.spotify.com/album/0cdGpIveNRpHKB54mrEGvx) | 2:26 |
-| 26 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 |
-| 27 | [Greeting The Sun](https://open.spotify.com/track/3GokcudGhem91ONdxbHDti) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Greeting The Sun](https://open.spotify.com/album/077Krfqlw6OvRbWF5z1QkK) | 2:12 |
+| 22 | [Silent Bloom](https://open.spotify.com/track/0keMPNZ9MeQSN25xr14fUb) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Silent Bloom](https://open.spotify.com/album/1l2ue47R65IiChM0w4Z0Xo) | 2:07 |
+| 23 | [Only you](https://open.spotify.com/track/0QAA5dIWYqGGC9gkxWniEO) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Only you](https://open.spotify.com/album/2ewQ6rgeUj5HL0fJUUJT17) | 3:08 |
+| 24 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 |
+| 25 | [Pajaros blancos](https://open.spotify.com/track/3r82q3kloSXj8ybjRNroLN) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Pajaros blancos](https://open.spotify.com/album/3szBCrDbDK5ethdxGuXMiO) | 2:04 |
+| 26 | [A Tiny Wallflower](https://open.spotify.com/track/00PvDazidS7DSFKcKWuhkM) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [A Tiny Wallflower](https://open.spotify.com/album/0cdGpIveNRpHKB54mrEGvx) | 2:26 |
+| 27 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 |
 | 28 | [Isabelle](https://open.spotify.com/track/1ZOGR0g0RPxcdMLqVmR5xg) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Isabelle](https://open.spotify.com/album/2OtktlXxPi0Gj2UY5BuuhF) | 2:11 |
-| 29 | [Only you](https://open.spotify.com/track/0QAA5dIWYqGGC9gkxWniEO) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Only you](https://open.spotify.com/album/2ewQ6rgeUj5HL0fJUUJT17) | 3:08 |
+| 29 | [Hesitation](https://open.spotify.com/track/1M3g85FhPtucLX893XDtu7) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Hesitation](https://open.spotify.com/album/1YsXA9uFTY4uriq3jh5lt4) | 2:25 |
 | 30 | [Sing, Vogel, Sing!](https://open.spotify.com/track/7HqDwn7I6wglTZX7Nhf3t7) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sing, Vogel, Sing!](https://open.spotify.com/album/3Ebf5QRLd5WdjDZXaqc4CA) | 2:22 |
 | 31 | [Summer Nights](https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Summer Nights](https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t) | 2:03 |
-| 32 | [Hesitation](https://open.spotify.com/track/1M3g85FhPtucLX893XDtu7) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Hesitation](https://open.spotify.com/album/1YsXA9uFTY4uriq3jh5lt4) | 2:25 |
+| 32 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 |
 | 33 | [Layer by layer](https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Layer by layer](https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts) | 2:28 |
-| 34 | [The Silence Between](https://open.spotify.com/track/382kcRL3AVBg8aguRl6yb2) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [The Silence Between](https://open.spotify.com/album/5hkFqk1cZcdWaQ71xrbzC1) | 3:01 |
-| 35 | [Dove](https://open.spotify.com/track/5r14ZWcqv5vEplSjakKrI6) | [Nerina Fiore](https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS) | [Dove](https://open.spotify.com/album/2l9k81Trad8jQkupJUZKNW) | 2:27 |
-| 36 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 |
+| 34 | [Greeting The Sun](https://open.spotify.com/track/3GokcudGhem91ONdxbHDti) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Greeting The Sun](https://open.spotify.com/album/077Krfqlw6OvRbWF5z1QkK) | 2:12 |
+| 35 | [The Silence Between](https://open.spotify.com/track/382kcRL3AVBg8aguRl6yb2) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [The Silence Between](https://open.spotify.com/album/5hkFqk1cZcdWaQ71xrbzC1) | 3:01 |
+| 36 | [Dove](https://open.spotify.com/track/5r14ZWcqv5vEplSjakKrI6) | [Nerina Fiore](https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS) | [Dove](https://open.spotify.com/album/2l9k81Trad8jQkupJUZKNW) | 2:27 |
 | 37 | [Moonglade](https://open.spotify.com/track/4NDadJdcT4V4BdXCZMEAbn) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Moonglade](https://open.spotify.com/album/1PBrsZDQjiFQZ8EM2TQUIV) | 2:31 |
 | 38 | [Clouds like birds](https://open.spotify.com/track/6XvQ90cDCjLdeaQGrqciuh) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Clouds like birds](https://open.spotify.com/album/4oYnziQxx6W6qndNYE4B9W) | 2:18 |
 | 39 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 201 | [Portraits](https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Portraits](https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt) | 2:20 |
 | 202 | [Take One Deep Breath](https://open.spotify.com/track/3IvshJQQfn2hGuwnMoUTUI) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Take One Deep Breath](https://open.spotify.com/album/1iMcNpnCMSH4NUAIaYq016) | 2:32 |
 
-Snapshot ID: `Z9mU7wAAAAB7YvGJh8CSgsX8VyKWR2gg`
+Snapshot ID: `Z+LSBQAAAAD7RbGBljePaRDCLYExioc2`

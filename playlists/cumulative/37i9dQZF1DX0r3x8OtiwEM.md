@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-682 songs - 2 day 18 hr 27 min
+683 songs - 2 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Eko Plate](https://open.spotify.com/track/4LJ0JnNo6qaU3ZSQkHzlr5) | [Abe](https://open.spotify.com/artist/4DuSBVCmI9rMlrIHlS7buZ) | [Eko Plate](https://open.spotify.com/album/10kBatupJFTUuhHDUT3VT5) | 6:59 | 2019-10-19 | 2020-03-30 |
 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 | 2020-09-19 | 2022-04-21 |
 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 | 2023-01-13 |  |
+| [Electric Birds](https://open.spotify.com/track/0B8eWg1gdVO3ctAK392FYz) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real](https://open.spotify.com/album/706xtFNjk7TMRnHGzNrOHR) | 5:16 | 2025-03-21 |  |
 | [Elements of Trust \- Sanchez & Pietkun Remix](https://open.spotify.com/track/0TT6SbrHgkhmWx01S03jah) | [Gabriel Filip](https://open.spotify.com/artist/0RTHaVU7mWqrznMzZ9PwTP), [Pietkun](https://open.spotify.com/artist/2TAEAlmHigdK9FoOiSiruu), [Ignacio Sanchez](https://open.spotify.com/artist/61EaMjDo9dzzoU2FJVwWew) | [Elements of Trust](https://open.spotify.com/album/7aIdMrakwT0uSvy4CTsMjp) | 7:01 | 2019-08-06\* | 2019-09-13 |
 | [Elevation](https://open.spotify.com/track/118BQT160hFuM2JsBsa92g) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Elevation](https://open.spotify.com/album/5DHK349qDEGtNXfpmQ32hN) | 6:41 | 2023-11-27 | 2024-12-07 |
 | [Emerge As New](https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Emerge As New](https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM) | 5:10 | 2022-02-25 | 2022-07-19 |
@@ -527,7 +528,7 @@
 | [Skylight](https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi) | [Kakoon](https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL) | [Skylight](https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB) | 7:22 | 2021-02-24 | 2022-10-22 |
 | [Sledi Toku](https://open.spotify.com/track/2P9atiBKXqG543yPl3gtzO) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [Sledi Toku](https://open.spotify.com/album/21endjynO2HcNX2HKbLE13) | 8:15 | 2019-09-27 | 2020-05-19 |
 | [Slip](https://open.spotify.com/track/2fjSqGaz3ElHPdGxfVLtCv) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Slip](https://open.spotify.com/album/3yz2COT2SPoRPK0j5ux1SJ) | 7:07 | 2020-02-01 | 2020-08-08 |
-| [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 |  |
+| [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 | 2025-03-26 |
 | [Smiling Birds](https://open.spotify.com/track/222a7UeWbEtafZgtG5Jk8L) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Smiling Birds](https://open.spotify.com/album/17ikFw6pP5z3wNHP0uLEnZ) | 7:01 | 2021-11-23 | 2022-03-21 |
 | [Solar](https://open.spotify.com/track/2GBRDBk7T7S9HH2qnb7hGz) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Solar](https://open.spotify.com/album/1XuAu9y2hafCD9euPlTjd2) | 5:03 | 2022-04-04 | 2022-04-17 |
 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 | 2023-04-05 | 2023-04-29 |

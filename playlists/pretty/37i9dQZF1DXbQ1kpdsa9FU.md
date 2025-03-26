@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: MercyMe
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,734 likes - 150 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,842 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 56 | [Just Be Held](https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 3:41 |
 | 57 | [Speak Life](https://open.spotify.com/track/7FO6QgfJRKtEwZiYO0dIO9) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Eye On It \(Deluxe Edition\)](https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV) | 3:25 |
 | 58 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 |
-| 59 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 |
-| 60 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 |
+| 59 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 |
+| 60 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 |
 | 61 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
 | 62 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 63 | [Hello, My Name Is](https://open.spotify.com/track/2XEdrmqNM9ZQQ24ViuceB0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Into The Light](https://open.spotify.com/album/0RqGqJYEYyDhgeSiZVoXfH) | 3:43 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 84 | [Defender](https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Own It](https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0) | 7:04 |
 | 85 | [The Motions](https://open.spotify.com/track/59FkotsbW1sGb8LGZKE7ud) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Something To Say](https://open.spotify.com/album/0dpyKYwLMyjXGYlreUP49a) | 3:46 |
 | 86 | [Worn](https://open.spotify.com/track/6jAAYLKxXPyeEoddXu6Gf7) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [The Struggle](https://open.spotify.com/album/3TunW3H9Be9xvvR9Ip7a0L) | 4:04 |
-| 87 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 |
-| 88 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 |
+| 87 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 |
+| 88 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 |
 | 89 | [The Words I Would Say](https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 3:20 |
 | 90 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
 | 91 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 |
@@ -126,11 +126,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 116 | [El\-Shaddai](https://open.spotify.com/track/2VED4X4iTTLD4g1TQqxtAi) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Greatest Hits](https://open.spotify.com/album/7pfhRkBsKxw8mPNcVKReAT) | 4:07 |
 | 117 | [He Covers Me](https://open.spotify.com/track/61IVYRbXr7bxHl0aiGe1eH) | [Steve Camp](https://open.spotify.com/artist/2rps6bNkDy2wcyv7w33nI6) | [One On One](https://open.spotify.com/album/5uYffu8aERkexDcLKouRIK) | 4:47 |
 | 118 | [Great Is The Lord](https://open.spotify.com/track/22bkzEa4BFafq0KrxqOTCG) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Project](https://open.spotify.com/album/0EcvZ4VSakvBkSzOypDZKg) | 2:54 |
-| 119 | [God Is In Control](https://open.spotify.com/track/5EBozQIT1SrEskijMLfevl) | [Twila Paris](https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm) | [Beyond A Dream](https://open.spotify.com/album/6AgCHYULVFNDheiZtOpMxA) | 5:45 |
-| 120 | [Rescuer \(Good News\)](https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Rescuer \(Good News\)](https://open.spotify.com/album/5mati4th5xS4GWys74MiR2) | 3:28 |
+| 119 | [Rescuer \(Good News\)](https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Rescuer \(Good News\)](https://open.spotify.com/album/5mati4th5xS4GWys74MiR2) | 3:28 |
+| 120 | [God Is In Control](https://open.spotify.com/track/5EBozQIT1SrEskijMLfevl) | [Twila Paris](https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm) | [Beyond A Dream](https://open.spotify.com/album/6AgCHYULVFNDheiZtOpMxA) | 5:45 |
 | 121 | [The Champion](https://open.spotify.com/track/5w1Oq2woEW7QpEBQSzCb5x) | [Carman](https://open.spotify.com/artist/3kTcyaSYP5fqlqrNUvxiER) | [The Champion](https://open.spotify.com/album/5izNB1WvXcrTHUy3RE1XB6) | 8:39 |
-| 122 | [Friend of a Wounded Heart](https://open.spotify.com/track/7dKaS16uoCHqQJg0AlHdwT) | [Wayne Watson](https://open.spotify.com/artist/7M8NpXAQ8mw9SN4323qa8S) | [Watercolour Ponies](https://open.spotify.com/album/4D03taESIu1pdn4tRDabew) | 5:25 |
-| 123 | [The Basics Of Life](https://open.spotify.com/track/659nJCCP4NGGU8ncSM5NW1) | [4Him](https://open.spotify.com/artist/5F211gZjfoqvH8v7erGdsy) | [The Basics Of Life](https://open.spotify.com/album/6W0BrIYO2ouSiErccmwG4i) | 5:13 |
+| 122 | [The Basics Of Life](https://open.spotify.com/track/659nJCCP4NGGU8ncSM5NW1) | [4Him](https://open.spotify.com/artist/5F211gZjfoqvH8v7erGdsy) | [The Basics Of Life](https://open.spotify.com/album/6W0BrIYO2ouSiErccmwG4i) | 5:13 |
+| 123 | [Friend of a Wounded Heart](https://open.spotify.com/track/7dKaS16uoCHqQJg0AlHdwT) | [Wayne Watson](https://open.spotify.com/artist/7M8NpXAQ8mw9SN4323qa8S) | [Watercolour Ponies](https://open.spotify.com/album/4D03taESIu1pdn4tRDabew) | 5:25 |
 | 124 | [When God Ran](https://open.spotify.com/track/4DEJa4TcaYUEVuiVX3PB5U) | [Benny Hester](https://open.spotify.com/artist/03CAU4k3sKX2o210ir9dRo) | [Benny from Here](https://open.spotify.com/album/48vIX0dteo2c9niPazAXEj) | 5:03 |
 | 125 | [We Will Stand](https://open.spotify.com/track/2167rwWY1N0bUmSZQ522kL) | [Russ Taff](https://open.spotify.com/artist/0hxYrVr7PlRoiYuYaKBctb) | [Walls of Glass](https://open.spotify.com/album/70v746yqHqYh3GnzTjBZmV) | 4:38 |
 | 126 | [Word of God Speak](https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Spoken For](https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN) | 3:07 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 146 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
 | 147 | [Flawless](https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:15 |
 | 148 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
-| 149 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 |
-| 150 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
+| 149 | [HAPPY](https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP) | [Eric Champlin](https://open.spotify.com/artist/00sjYUgXKrnRL9EajnFQTa), [Haylie Allcott](https://open.spotify.com/artist/7JhR8iHc1tpV79FCvWFl6I) | [HAPPY](https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt) | 4:02 |
+| 150 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 |
 
 Snapshot ID: `Z1loQgAAAAA+Q5Y3JAB7+eq1VCksOjph`

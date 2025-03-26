@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49765,
+  "num_followers": 49772,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAADtrR/tJph5/n83xcIlbOb0",
+  "snapshot_id": "Z+CggAAAAADyNZYFSSuRIynY21hpuiEf",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon de Nino",
-        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 162746,
-      "name": "Mi Todo",
-      "url": "https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA"
+      "duration_ms": 193773,
+      "name": "Terrenal",
+      "url": "https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+        "name": "Corazon de Nino",
+        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Terrenal",
-      "url": "https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO"
+      "duration_ms": 162746,
+      "name": "Mi Todo",
+      "url": "https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Esa Muchacha Me Gusta",
-      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -415,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Decretos",
-        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -424,9 +408,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Quisiera Ser Un Mago",
-      "url": "https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0"
+      "duration_ms": 176626,
+      "name": "Esa Muchacha Me Gusta",
+      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
       "duration_ms": 183941,
       "name": "Ten\u00eda Due\u00f1o",
       "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Decretos",
+        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Quisiera Ser Un Mago",
+      "url": "https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0"
     },
     {
       "added_at": null,
@@ -495,38 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cristaleros Michoacanos",
-        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Andamos Borrachos",
-      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Aniversario Duetos",
         "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
@@ -547,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camina Sin Mirar Atras",
-        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
       "artists": [
         {
@@ -556,9 +524,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 182582,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
     },
     {
       "added_at": null,
@@ -583,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+        "name": "Cristaleros Michoacanos",
+        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
       },
       "artists": [
         {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Bendito Amor",
-      "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
+      "duration_ms": 139075,
+      "name": "Andamos Borrachos",
+      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 160213,
       "name": "Regalo del Cielo",
       "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Bendito Amor",
+      "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Sea Lo Que Sea",
-      "url": "https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camina Sin Mirar Atras",
         "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 168153,
       "name": "Ense\u00f1ame a Olvidar",
       "url": "https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Sea Lo Que Sea",
+      "url": "https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Decretos",
-        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 162321,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/5gmL3RvxGZM0VW1E38HvnF"
+      "duration_ms": 147051,
+      "name": "Esa Fue Mi Novia",
+      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
     }
   ],
   "unique_name": "This Is El Chapo De Sinaloa",

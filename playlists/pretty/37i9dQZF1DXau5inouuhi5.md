@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau5inouuhi5.md) - [plain]
 
 > Listen to music and soundtrack from Kingdom Hearts series\. PC\(Steam®\)版『キングダム ハーツ』シリーズ発売記念。シリーズ作品のサウンドトラックを聴いて作品の思い出を振り返ろう。 © Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,470 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,500 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

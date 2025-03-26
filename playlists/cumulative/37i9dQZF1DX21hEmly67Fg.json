@@ -3727,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/5dCgSCucTvGdkHgZaYEYDn"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rick",
+          "url": "https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173395,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/49e4CgdNvJpIpIiyCUy5Jo"
+    },
+    {
+      "album": {
         "name": "Vitamin String Quartet Performs Regina Spektor",
         "url": "https://open.spotify.com/album/1LzX7qSVoKMGmmARb2DYbb"
       },
@@ -5166,6 +5184,24 @@
       "duration_ms": 263863,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/45cN17gBhJE9L0DSOQ5w1K"
+      },
+      "artists": [
+        {
+          "name": "The Enneagrams",
+          "url": "https://open.spotify.com/artist/6hSPm8hejwOjSWxFT1BCHJ"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131735,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0y1sd3xVFcmWb3wRAyGp53"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 黒田卓也
 
-265 songs - 19 hr 2 min
+266 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Crow's Nest \(Instrumental\)](https://open.spotify.com/track/76V8o5KXMitCRLpYcZJUPl) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Crow's Nest \(Instrumental\)](https://open.spotify.com/album/1h5NuAreC9D8kQ4EeyvMhR) | 6:08 | 2024-09-19 | 2025-02-07 |
 | [Cruisin' \(0816\)](https://open.spotify.com/track/7H8yfP3eYpQTvdoRzXcXNt) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W) | [Cruisin' \(0816\)](https://open.spotify.com/album/5gmZZJ3lpFQSoQ6QrGgkTh) | 5:10 | 2024-08-15 | 2025-02-07 |
 | [Dancin' Your Own Time](https://open.spotify.com/track/4uTTEq6jnBkW3PmcDw44KC) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [Halfway Somewhere](https://open.spotify.com/album/0dZQ5a3iDoioa5wYeSc04E) | 4:03 | 2024-08-29 | 2024-11-15 |
+| [Darn That Stream](https://open.spotify.com/track/1KePdA771IrZuwbnVkMugX) | [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg), [David Bryant](https://open.spotify.com/artist/2jGd4zEZ9WqoOqhdDjT8PX), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Tokyo Quartet](https://open.spotify.com/album/3LTdeLIwuoWVbxvJml5AG7) | 4:28 | 2025-03-25 |  |
 | [david](https://open.spotify.com/track/0HcKyjCAvv2I3MDGqHYSh5) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [david](https://open.spotify.com/album/6MNMvxkiPfHkCxUYVM1dcj) | 5:09 | 2024-07-18 | 2025-01-17 |
 | [dawn highway](https://open.spotify.com/track/54s18WiYM4XlfFDfUOvIa3) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [dawn highway](https://open.spotify.com/album/5anIBZvF2hBoS8rnRgAYsL) | 3:29 | 2024-06-27 | 2024-07-19 |
 | [Deep](https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Below Dawn](https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw) | 4:10 | 2024-06-27 | 2024-11-08 |
@@ -93,7 +94,7 @@
 | [Fleeting Fantasy](https://open.spotify.com/track/7cnffSWM6sJuNuMzQapfJX) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Fleeting Fantasy](https://open.spotify.com/album/2uS7xMZ7XI5GM6lqTOp61c) | 4:12 | 2024-06-27 | 2024-12-20 |
 | [Floating Ocean](https://open.spotify.com/track/77d3P1x4OEPstx9enrcbVF) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [河野祐亮](https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD) | [Floating Ocean](https://open.spotify.com/album/5mDPGDsPVnykhjVOrHg58c) | 3:45 | 2024-06-27 | 2024-07-12 |
 | [fly bys](https://open.spotify.com/track/76P6aUFKiERCEpcVqMB8i2) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [fly bys](https://open.spotify.com/album/47lONTnQXNykToQaD6OUPD) | 3:35 | 2024-06-27 | 2024-07-19 |
-| [Free](https://open.spotify.com/track/698G8JleGPVeEXZBpaGGlC) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Find Your Flame \(Deluxe Edition\)](https://open.spotify.com/album/2PC32ErhVUGoW7kgO5pyvy) | 2:51 | 2024-10-18 |  |
+| [Free](https://open.spotify.com/track/698G8JleGPVeEXZBpaGGlC) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Find Your Flame \(Deluxe Edition\)](https://open.spotify.com/album/2PC32ErhVUGoW7kgO5pyvy) | 2:51 | 2024-10-18 | 2025-03-26 |
 | [Free as a Bird](https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Free as a Bird](https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ) | 2:59 | 2024-06-27 | 2025-01-16 |
 | [Free Hit](https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd) | [44th Move](https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI) | [Free Hit](https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh) | 4:49 | 2025-02-21 |  |
 | [Frica](https://open.spotify.com/track/3mLKKFQbo5HYW2DIRo63f3) | [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Frica](https://open.spotify.com/album/4HyLxdVq2zut2z0NKsgT75) | 2:22 | 2025-01-30 |  |

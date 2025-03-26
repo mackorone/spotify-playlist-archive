@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-419 songs - 20 hr 9 min
+420 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Going Down \(feat\. David Vance\)](https://open.spotify.com/track/1d20LZIqK8JxYksxyMEGai) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [David Vance](https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB) | [Going Down \(feat\. David Vance\)](https://open.spotify.com/album/1I3X1A5rZY4uYaV9JTI4tg) | 3:35 | 2024-03-08 |  |
 | [Good Time \(feat\. Josh Rubin\)](https://open.spotify.com/track/40Y5AgFF6JHGmjrlk37Z2N) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Good Time \(feat\. Josh Rubin\)](https://open.spotify.com/album/7EubmHn3suSP7ROZPbp16R) | 2:45 | 2024-11-15 |  |
 | [Guaracha En Reggaetonlandia](https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Guaracha En Reggaetonlandia](https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf) | 2:26 | 2022-10-28 | 2023-04-15 |
+| [Guerrilla](https://open.spotify.com/track/1Wys7K0G79CGrFyBxa951Q) | [Altierr](https://open.spotify.com/artist/1KsOKDPD4azbQGuRzeW2rn) | [Guerrilla](https://open.spotify.com/album/4Ni9Ox6Ggj5mrHaRT4592a) | 3:15 | 2025-03-25 |  |
 | [H8 December](https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [H8 December](https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S) | 2:20 | 2022-09-19 | 2023-04-09 |
 | [Hachiroku](https://open.spotify.com/track/1i4abDsWpBNJZ0FIwxcwZi) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:53 | 2023-07-24 | 2023-12-14 |
 | [Hands Up](https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf) | 2:11 | 2023-11-22 |  |

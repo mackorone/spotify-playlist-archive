@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Court",
-  "num_followers": 325705,
+  "num_followers": 326822,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z906kwAAAADOsedNuNdCWiy4dUSTDI20",
+  "snapshot_id": "Z+JUFgAAAAAykxthDvoOzRCrE6/0lKfw",
   "tracks": [
     {
       "added_at": "2025-03-12 11:56:08",
@@ -63,6 +63,30 @@
       "duration_ms": 250083,
       "name": "Godari Gattu Meedha (From \"Sankranthiki Vasthunam\")",
       "url": "https://open.spotify.com/track/0ibgjKZZ56aoelJ76o7OW9"
+    },
+    {
+      "added_at": "2025-03-25 06:58:30",
+      "album": {
+        "name": "RANU BOMBAI KI RANU",
+        "url": "https://open.spotify.com/album/020Uee4xX9W3N5jKsAukX5"
+      },
+      "artists": [
+        {
+          "name": "Ramu Rathod",
+          "url": "https://open.spotify.com/artist/3rBCIwmTIyxNRnVYSl9hGv"
+        },
+        {
+          "name": "Singer Prabha",
+          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
+        },
+        {
+          "name": "Kalyan Keys",
+          "url": "https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN"
+        }
+      ],
+      "duration_ms": 256665,
+      "name": "RANU BOMBAI KI RANU",
+      "url": "https://open.spotify.com/track/4CMs30Udn5tShfPyF7gYvD"
     },
     {
       "added_at": "2024-11-30 11:14:40",
@@ -815,26 +839,6 @@
       "duration_ms": 204181,
       "name": "Samayama (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Dhamaka (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/08qZ0FNkJSDN1Qd5w0pDxG"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Janakirao Ramana",
-          "url": "https://open.spotify.com/artist/4syBj6PRvC9jyIFX8j23kZ"
-        }
-      ],
-      "duration_ms": 130287,
-      "name": "Pulsar Bike",
-      "url": "https://open.spotify.com/track/48CzymfD7NHtc78cwVkbtD"
     },
     {
       "added_at": "2023-08-30 10:44:11",

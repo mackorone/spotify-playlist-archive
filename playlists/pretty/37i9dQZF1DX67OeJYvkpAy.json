@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: JBEE",
-  "num_followers": 88813,
+  "num_followers": 88804,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Suicycle",
-        "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
+        "name": "In The Function",
+        "url": "https://open.spotify.com/album/5RjOhkZh1bZeHSqyDn3kqN"
       },
       "artists": [
         {
-          "name": "Mic Righteous",
-          "url": "https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe"
+          "name": "020whitton",
+          "url": "https://open.spotify.com/artist/2VJrhcbkgaDz3iOvY6fNHP"
+        },
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
         }
       ],
-      "duration_ms": 392013,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
+      "duration_ms": 154285,
+      "name": "In The Function",
+      "url": "https://open.spotify.com/track/1qhaTJjO2l1Z6rDDwCpbF4"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -611,22 +615,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "In The Function",
-        "url": "https://open.spotify.com/album/5RjOhkZh1bZeHSqyDn3kqN"
+        "name": "Suicycle",
+        "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
       },
       "artists": [
         {
-          "name": "020whitton",
-          "url": "https://open.spotify.com/artist/2VJrhcbkgaDz3iOvY6fNHP"
-        },
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+          "name": "Mic Righteous",
+          "url": "https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe"
         }
       ],
-      "duration_ms": 154285,
-      "name": "In The Function",
-      "url": "https://open.spotify.com/track/1qhaTJjO2l1Z6rDDwCpbF4"
+      "duration_ms": 392013,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 194148,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 167653,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 133090,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "My Girl (Gemini)",
         "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 153045,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 194148,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "High On Love",
+        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/4ea2vWlwximLGKvkvwArSr"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 159764,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/1OVkxs6N32KszTbvWRftjj"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 128261,
-      "name": "18+",
-      "url": "https://open.spotify.com/track/09ZtF118npmR6x9Ef0emf3"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 128261,
+      "name": "18+",
+      "url": "https://open.spotify.com/track/09ZtF118npmR6x9Ef0emf3"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "One Mic",
         "url": "https://open.spotify.com/album/0WjAPpOCAJlotirvomOlrS"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 121756,
       "name": "One Mic",
       "url": "https://open.spotify.com/track/4dNN3iheouRkT2A9WELKpn"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "High On Love",
-        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
     },
     {
       "added_at": "2024-11-22 00:00:00",

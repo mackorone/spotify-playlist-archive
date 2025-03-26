@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-685 songs - 1 day 10 hr 45 min
+686 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Mortals \- TOKYO MACHINE & Boom Kitty Remix](https://open.spotify.com/track/03K9YeLWE900kmpSesDBWe) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR) | [Mortals \(TOKYO MACHINE & Boom Kitty Remix\)](https://open.spotify.com/album/2PzBtE2GgtPzBEQxuxVQ1m) | 2:48 | 2025-02-14 |  |
 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 | 2025-01-18 |  |
 | [Mortals Funk Remix \- Super Slowed](https://open.spotify.com/track/0EjJODssbRN1jVm29M0o1e) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:59 | 2025-01-18 | 2025-02-19 |
+| [Move Like This](https://open.spotify.com/track/3IaHPMLtcdxwiZbWr6gEv6) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Move Like This](https://open.spotify.com/album/1kK1JmclbiW3rH2rjOeqNV) | 3:35 | 2025-03-25 |  |
 | [Move Your Body](https://open.spotify.com/track/1E0PKMOhTg2nWK7ifIbmen) | [3rd Prototype](https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM) | [Move Your Body](https://open.spotify.com/album/55H4HshD6Jw9r5N1323b7J) | 1:55 | 2024-02-29 | 2024-09-29 |
 | [Muscle Up](https://open.spotify.com/track/6ohMnobGz2rZWko0FQ0PQf) | [Skan](https://open.spotify.com/artist/7z8fkGpUDt6eb6fyysRTH9), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr), [Ryo](https://open.spotify.com/artist/1PJlpvzsApOmPyX3FnSPcF) | [Muscle Up](https://open.spotify.com/album/2MJM7Xx1488SZsiBdmdyYI) | 3:08 | 2025-01-18 |  |
 | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/2RpT6tu1l0TxoWqxT4auQl) | 4:26 | 2023-08-08 | 2023-12-14 |

@@ -4,7 +4,7 @@
 
 > The greatest indie love songs of all time.
 
-279 songs - 17 hr 20 min
+280 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Cosmic Love](https://open.spotify.com/track/04sO2Rg7eeIY9VZ3eZgCLN) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Between Two Lungs](https://open.spotify.com/album/3cVNp1AXxdzoKIs9r6keWU) | 4:15 | 2021-01-28 |  |
 | [Cosmic Love](https://open.spotify.com/track/1xp5RKjcfA5Yvru7lXU05S) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Indie Pop Hits](https://open.spotify.com/album/66MdzEPOopho1pzpjyKkSn) | 4:15 | 2022-02-10 | 2022-11-14 |
 | [Couldn't Love You More](https://open.spotify.com/track/6saaAftAvHFzQwPlFK78zt) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Sweet Little Mystery: The Essential](https://open.spotify.com/album/18m02LzsKL4eUMPBZJjoxg) | 3:06 | 2021-01-28 | 2022-07-29 |
-| [Crazy For Your Love](https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Crazy For Your Love](https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ) | 2:21 | 2023-02-02 |  |
+| [Crazy For Your Love](https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Crazy For Your Love](https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ) | 2:21 | 2023-02-02 | 2025-03-26 |
 | [Crossfire](https://open.spotify.com/track/0T8ibs120UwmNjAjaUg3XV) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/6wp2diTN8cYauyNRRN7Opy) | 4:16 | 2022-02-10 | 2022-02-12 |
 | [Crossfire](https://open.spotify.com/track/6S8r0pRxRUy3OF3UUtNjdN) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:16 | 2022-02-10 | 2023-06-16 |
 | [Cupid](https://open.spotify.com/track/3dvvQrTIzBbPh5egjpSs1n) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Love In The 4th Dimension](https://open.spotify.com/album/6A3pxUItYNmraeFxuRsCqs) | 3:43 | 2021-01-28 | 2022-07-29 |
@@ -153,6 +153,7 @@
 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2021-01-28 | 2022-10-13 |
 | [Lucky](https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ) | 2:33 | 2023-02-02 | 2023-02-14 |
 | [Luv Note](https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:30 | 2023-02-02 |  |
+| [Made to Fall in Love](https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK) | 4:53 | 2025-03-25 |  |
 | [Made Up Lovesong \#43](https://open.spotify.com/track/2g0xsUTDAvNHPVT8TBp1DI) | [Guillemots](https://open.spotify.com/artist/3zD5liDjbqljSRorrrcEjs) | [Beautiful Love:The Indie Love Songs Collection](https://open.spotify.com/album/0YZ3GmTMj486lzbqBT35mh) | 3:32 | 2021-01-28 | 2022-07-29 |
 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 | 2022-02-10 |  |
 | [Maps](https://open.spotify.com/track/51d8xMd8YK29y12Zv73tzi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [RockAndLove](https://open.spotify.com/album/5i8vucIGJY8GqQFxTwKp00) | 3:34 | 2022-02-10 | 2022-11-13 |

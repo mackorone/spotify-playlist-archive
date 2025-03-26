@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/5Nepx5m7eUkT6cGPfZw5P1"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/3PIbikkz34top9WuKEvXiF"
+    },
+    {
+      "album": {
         "name": "Acoustic -Self Cover Album-",
         "url": "https://open.spotify.com/album/47ZFoBWIddVjqRCAqd7DCz"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 219536,
       "name": "Baby, with u",
       "url": "https://open.spotify.com/track/5EeLVUwIXCVHRSewdL06of"
@@ -2362,7 +2380,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 196932,
       "name": "Red Wine (It Tastes Young & Rich)",
       "url": "https://open.spotify.com/track/4YZXpETSuNWLCPv1kzKtYC"
@@ -2470,10 +2488,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 321800,
       "name": "Sign",
       "url": "https://open.spotify.com/track/5ZLkGLEYYDlgcDXK6A2vYO"
+    },
+    {
+      "album": {
+        "name": "Snipe the Heart",
+        "url": "https://open.spotify.com/album/3YmUPSA8MQTgAlR7g5HIAe"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197905,
+      "name": "Snipe the Heart",
+      "url": "https://open.spotify.com/track/3AkkSI6l7UWyiGxhxkiAjB"
     },
     {
       "album": {
@@ -2852,7 +2888,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 191531,
       "name": "Valentine and Youth",
       "url": "https://open.spotify.com/track/0X3gRxgqfvts6uMVvvBbYI"
@@ -3927,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30a4\u30e9\u30f4",
+        "url": "https://open.spotify.com/album/2gV2q3RbMikOMCehg1J0OI"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u308c\u304f\u3093",
+          "url": "https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "\u30a2\u30a4\u30e9\u30f4",
+      "url": "https://open.spotify.com/track/5yx8EZA8L9CCWGYj4haNvU"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30ef\u30ca",
         "url": "https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM"
       },
@@ -4722,6 +4776,24 @@
       "duration_ms": 208944,
       "name": "\u30e9\u30d6\u30c8\u30ad\u30b7\u30f3",
       "url": "https://open.spotify.com/track/1PqW2TPT4hmuBDt8lhUOhA"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30c8\u30ec",
+        "url": "https://open.spotify.com/album/7MBFV60Ea2mPYvE3630MZ3"
+      },
+      "artists": [
+        {
+          "name": "CUTIE STREET",
+          "url": "https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "\u30e9\u30d6\u30c8\u30ec",
+      "url": "https://open.spotify.com/track/7rDBnVl5x89WuhWmmLRQfU"
     },
     {
       "album": {
@@ -6104,7 +6176,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 259195,
       "name": "\u60aa\u5922\u306e\u3088\u3046\u306a",
       "url": "https://open.spotify.com/track/56OS3wtq9IiVDiO0hW1yKm"
@@ -6248,7 +6320,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 271973,
       "name": "\u611b\u306e\u7406",
       "url": "https://open.spotify.com/track/4gE87R2Q0COLyin2WkG8vP"
@@ -6396,6 +6468,24 @@
       "duration_ms": 275957,
       "name": "\u6182\u3044\u685c",
       "url": "https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw"
+    },
+    {
+      "album": {
+        "name": "\u633f\u5165\u6b4c",
+        "url": "https://open.spotify.com/album/59CltZlhPEnyJDJzL9sUL2"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177722,
+      "name": "\u633f\u5165\u6b4c",
+      "url": "https://open.spotify.com/track/1fVv4ryroKX1SjibfjdwQn"
     },
     {
       "album": {
@@ -6860,7 +6950,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 190575,
       "name": "\u7fa4\u9752",
       "url": "https://open.spotify.com/track/72mV4ZPL2UBGwgWyqdllIx"

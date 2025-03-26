@@ -9685,6 +9685,24 @@
     },
     {
       "album": {
+        "name": "wie es ist",
+        "url": "https://open.spotify.com/album/7lj1zNPlp5Fh3rBh6ph539"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Dachlatte",
+      "url": "https://open.spotify.com/track/0FvwBLpAdFz5e9VNerg4w2"
+    },
+    {
+      "album": {
         "name": "Dachlatte (Paul Seul Remix)",
         "url": "https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM"
       },
@@ -15104,7 +15122,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 133006,
       "name": "Fensterscheibe",
       "url": "https://open.spotify.com/track/2jearao8gVhLfhTqTsXXR4"

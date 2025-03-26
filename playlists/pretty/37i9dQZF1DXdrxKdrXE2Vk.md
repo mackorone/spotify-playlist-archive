@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: UPPERROOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,766 likes - 79 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,901 likes - 79 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 27 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Jonathan Clarke](https://open.spotify.com/artist/5HTyP5XAnJHFgHNGEOa5p1) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
 | 28 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 |
 | 29 | [By Faith \- Live](https://open.spotify.com/track/7H4V5C60XWxsFccje1u5nC) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N), [Michael Shannon](https://open.spotify.com/artist/72uWvSo9H7FQfhYQKbUEoc) | [By Faith \(Live\)](https://open.spotify.com/album/4wA6COc1OTeH3va8hT3LfE) | 6:05 |
-| 30 | [He's My God](https://open.spotify.com/track/0jzssFel0Sr4RZ77QatDgp) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Joy Wharton](https://open.spotify.com/artist/5IJlUFsS8bZ8fTzHyB2SCd), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9) | [He's My God](https://open.spotify.com/album/5ye1ToBlXkXdhinRVKDQG4) | 5:25 |
+| 30 | [He's My God](https://open.spotify.com/track/0jzssFel0Sr4RZ77QatDgp) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9), [Joy Anna](https://open.spotify.com/artist/3DMwqA8h2EJy4vmjEmQDdV) | [He's My God](https://open.spotify.com/album/5ye1ToBlXkXdhinRVKDQG4) | 5:25 |
 | 31 | [The Blood Of Jesus \- Live](https://open.spotify.com/track/4IBee17YDcWnLviAheYZIN) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [The Blood Of Jesus \(Live\)](https://open.spotify.com/album/6GXOSSBgf8U7TXnlvPZUwR) | 5:40 |
 | 32 | [Most Holy \- Live](https://open.spotify.com/track/5GQp9y0WMMFEeHS9ChXfBe) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Most Holy \(Live\)](https://open.spotify.com/album/4G1HJAwYALbyfj7s3KQueP) | 7:27 |
 | 33 | [Song To The Lamb \- Live](https://open.spotify.com/track/06WlwvDwIGg0BRtnnj4G0K) | [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk), [Chris Burns](https://open.spotify.com/artist/3E4c1Fq51LkCGfVngrEHlm), [Leonard Ray Jarman](https://open.spotify.com/artist/6o1flHceho6J3t1Nhhn7Tt) | [Song To The Lamb \(Live\)](https://open.spotify.com/album/6Y4yVQr840VjdiDHTupBMG) | 8:18 |

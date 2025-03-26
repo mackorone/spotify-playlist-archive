@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-807 songs - 1 day 11 hr 4 min
+808 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-19 |  |
 | [Forget Me Not](https://open.spotify.com/track/1HQF8Vz4Kae6oLhni2E54z) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Forget Me Not](https://open.spotify.com/album/5slVwW2ujScGX4vXkuRAZB) | 2:42 | 2023-08-14 |  |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2022-04-21 | 2022-07-21 |
+| [Forgotten Photographs](https://open.spotify.com/track/4jBBWqTt0BmeFDNmkEffpJ) | [Francis Monet](https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu) | [Forgotten Photographs](https://open.spotify.com/album/7vHQfVzpqaWSF7d7Zjd0pe) | 2:43 | 2025-03-25 |  |
 | [Forgotten Wonders](https://open.spotify.com/track/6Kex7iddmKt0i9pWiNns2i) | [Dreams on Ivories](https://open.spotify.com/artist/7HE4ZAv2dzUX80AKnCOnqV) | [Forgotten Wonders](https://open.spotify.com/album/7ffHf6mFT5zKOGDZuZhYWy) | 2:17 | 2022-04-21 | 2022-07-21 |
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2022-04-21 | 2024-04-04 |
 | [Fractions](https://open.spotify.com/track/4zHsgYHkouqqPwlGcgsOVo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Fractions](https://open.spotify.com/album/1ZlQ3IKKLFUt7firrpyCD4) | 2:17 | 2024-07-15 |  |

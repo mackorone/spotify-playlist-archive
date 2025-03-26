@@ -4287,6 +4287,32 @@
     },
     {
       "album": {
+        "name": "Bemisaal",
+        "url": "https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        },
+        {
+          "name": "rohh",
+          "url": "https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168086,
+      "name": "Dheere Dheere",
+      "url": "https://open.spotify.com/track/2UqZKzgUmm7StpSPx050t4"
+    },
+    {
+      "album": {
         "name": "Dhuaan",
         "url": "https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4"
       },
@@ -4340,12 +4366,12 @@
           "url": "https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4"
         },
         {
-          "name": "Shloke Lal",
-          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
-        },
-        {
           "name": "Harjot Kaur",
           "url": "https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
         }
       ],
       "date_added": "2025-03-21",
@@ -5580,6 +5606,10 @@
         {
           "name": "Bharath",
           "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
         }
       ],
       "date_added": "2025-01-31",
@@ -18570,7 +18600,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 137738,
       "name": "Teri Rahi",
       "url": "https://open.spotify.com/track/2Oafe9yQRBa7n45jcDYmFI"

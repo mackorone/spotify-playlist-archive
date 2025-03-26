@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 42284,
+  "num_followers": 42297,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "Sooner",
-        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 191160,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "DID I LIE",
         "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 141967,
       "name": "Larger Than Life (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -863,30 +863,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "Pace",
-        "url": "https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 178048,
-      "name": "Obianuju",
-      "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -911,22 +887,26 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "LCV3: Sweet Surrender.",
-        "url": "https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M"
+        "name": "Pace",
+        "url": "https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI"
       },
       "artists": [
         {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         },
         {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 224954,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN"
+      "duration_ms": 178048,
+      "name": "Obianuju",
+      "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -947,6 +927,26 @@
       "duration_ms": 169444,
       "name": "France Feeling",
       "url": "https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "LCV3: Sweet Surrender.",
+        "url": "https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "duration_ms": 224954,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -1090,6 +1090,10 @@
         {
           "name": "Brown Joel",
           "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
       "duration_ms": 210404,
@@ -1235,22 +1239,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "Carry for Head",
-        "url": "https://open.spotify.com/album/2C9hH4tenhrgU8fdxvn9cJ"
-      },
-      "artists": [
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        }
-      ],
-      "duration_ms": 146050,
-      "name": "Carry for Head",
-      "url": "https://open.spotify.com/track/03tU30XBVABjq0KRBJL4N3"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "Juste un Vendredi",
         "url": "https://open.spotify.com/album/4PEmo8y2wO77HbJniDoAk0"
       },
@@ -1267,6 +1255,22 @@
       "duration_ms": 193001,
       "name": "No Love",
       "url": "https://open.spotify.com/track/1vGvRiSzARAfvfVVcQ4JhX"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "Carry for Head",
+        "url": "https://open.spotify.com/album/2C9hH4tenhrgU8fdxvn9cJ"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "duration_ms": 146050,
+      "name": "Carry for Head",
+      "url": "https://open.spotify.com/track/03tU30XBVABjq0KRBJL4N3"
     },
     {
       "added_at": "2025-03-21 07:03:59",

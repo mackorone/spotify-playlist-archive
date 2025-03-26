@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,461 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,458 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 254 | [Jerry](https://open.spotify.com/track/2cg8aiFDLOPis3XaczNIVq) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg) | [Jerry](https://open.spotify.com/album/76QkizQNGfiXYBpSSl2COz) | 3:10 |
 | 255 | [Pelo](https://open.spotify.com/track/3WC7H9CHoDw6d58w97Bj36) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg), [Lucas Inutilismo](https://open.spotify.com/artist/6TspMCBrYONflLYikm9Ivb) | [Robson](https://open.spotify.com/album/30i6dZCyg2EbkSmZi4vEq1) | 3:40 |
 | 256 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
-| 257 | [Clint Eastwood](https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 5:40 |
-| 258 | [19\-2000](https://open.spotify.com/track/71koAFCnGnugRdGIDfS7f4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:30 |
+| 257 | [Clint Eastwood](https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 5:40 |
+| 258 | [19\-2000](https://open.spotify.com/track/71koAFCnGnugRdGIDfS7f4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja), [Tina Weymouth](https://open.spotify.com/artist/7fOP0dm7y70BHCUc1zr6vR) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:30 |
 | 259 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 |
 | 260 | [História de Verão](https://open.spotify.com/track/6F1kCUTjvdALqB6p5VkqwR) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Teoria Dinâmica Gastativa](https://open.spotify.com/album/2qK5koEmC0NIKohGdGeqX6) | 2:58 |
 | 261 | [Morada](https://open.spotify.com/track/4fDta9k8aRElUr8LalrWQx) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Alegria Compartilhada](https://open.spotify.com/album/3rTCTUpjm9Rpfu1DZ5kExZ) | 3:48 |

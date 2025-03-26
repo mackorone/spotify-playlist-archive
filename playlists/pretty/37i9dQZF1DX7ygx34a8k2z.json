@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 270530,
+  "num_followers": 270656,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+      "duration_ms": 292800,
+      "name": "I Wanna Be Adored - Remastered 2009",
+      "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -527,18 +527,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 292800,
-      "name": "I Wanna Be Adored - Remastered 2009",
-      "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Beautiful Freak",
-        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Novocaine For The Soul",
-      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 198666,
       "name": "Iceblink Luck",
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Beautiful Freak",
+        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Novocaine For The Soul",
+      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Sweet Oblivion",
-        "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
-      },
-      "artists": [
-        {
-          "name": "Screaming Trees",
-          "url": "https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "Nearly Lost You",
-      "url": "https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 208266,
       "name": "No Distance Left to Run",
       "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
+      },
+      "artists": [
+        {
+          "name": "Screaming Trees",
+          "url": "https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "Nearly Lost You",
+      "url": "https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Ladies and gentlemen we are floating in space",
-        "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Ladies and gentlemen we are floating in space",
-      "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Whatever And Ever Amen (Remastered Edition)",
         "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 271720,
       "name": "Brick",
       "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Ladies and gentlemen we are floating in space",
+        "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Ladies and gentlemen we are floating in space",
+      "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
     },
     {
       "added_at": "2025-01-15 04:11:50",

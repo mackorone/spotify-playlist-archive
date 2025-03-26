@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,016 songs - 1 day 15 hr 21 min
+1,018 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 | 2023-11-17 |  |
 | [barista](https://open.spotify.com/track/0wAlWdKvZ4WS4NJ5veqcOU) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [barista](https://open.spotify.com/album/5lBIty29ReEAnUdxWzcelj) | 2:42 | 2022-12-09 | 2024-02-02 |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-15 | 2022-07-08 |
+| [Beachday](https://open.spotify.com/track/586J6JJVXILOxqF6XApzVQ) | [mellow rhino](https://open.spotify.com/artist/2fNtlz2vENfPEcrapnws9u) | [Beachday](https://open.spotify.com/album/7m19ffqNN9zxOT26Sw9EFS) | 2:08 | 2025-03-21 |  |
 | [Beat Crusher](https://open.spotify.com/track/3zCQK3MbJfryLGpDZdPO9i) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [Beat Crusher](https://open.spotify.com/album/7GSXF4jI5bIMgELjbkKiFK) | 2:10 | 2024-09-06 |  |
 | [beatheart](https://open.spotify.com/track/64q8ufbBeVKpIOdQOX3oDb) | [its\-ya\-boi](https://open.spotify.com/artist/1FbBiHKRJo32d7cDKVXkqK) | [beatheart](https://open.spotify.com/album/7Hw3BQdIFLbN0cosNLEHu9) | 2:32 | 2022-11-11 | 2025-01-01 |
 | [BeatStop](https://open.spotify.com/track/6wC0qvBQ705DXdclZTWaec) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [BeatStop](https://open.spotify.com/album/0ZC94kziQDtZsIc9mD39Il) | 1:56 | 2022-04-15 | 2022-04-22 |
@@ -288,7 +289,7 @@
 | [Forest For Rest](https://open.spotify.com/track/6eQmbEMHQYPkRj44AWf04J) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Forest For Rest](https://open.spotify.com/album/62FAt5TMcVFgsj6mFP4RzC) | 2:44 | 2024-02-23 |  |
 | [Forever](https://open.spotify.com/track/21zRahHVewQL1Auzm64pd2) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/55Q1Osijq5pFwpFHio0s8S) | 1:58 | 2022-07-01 | 2022-11-20 |
 | [Forever](https://open.spotify.com/track/7mgyF0MVvFzvWhrGlR3YUn) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/1LM5SvKdVqLsFa1T3di8x2) | 1:58 | 2022-11-11 | 2023-11-17 |
-| [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 | 2022-11-11 |  |
+| [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 | 2022-11-11 | 2025-03-26 |
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-08-19 |
 | [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 |  |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
@@ -766,6 +767,7 @@
 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2023-09-22 |  |
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-04-15 | 2022-06-03 |
 | [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
+| [Skippy](https://open.spotify.com/track/2LHxUoqCPDbroBUzYJvIMi) | [Skipclass](https://open.spotify.com/artist/27cq2WN6MbO7i9788ZKFIr) | [Skippy](https://open.spotify.com/album/4TIbONnA1JbjdbQcUAppg5) | 2:28 | 2025-03-21 |  |
 | [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 | 2025-02-23 |
 | [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 |  |
 | [Slapperoni Pizza](https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:11 | 2022-04-15 | 2022-05-20 |
@@ -997,7 +999,7 @@
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-15 | 2022-09-24 |
 | [Winding Down](https://open.spotify.com/track/2d1rs0lIYPWQ26Z0S81fRY) | [BB Queen](https://open.spotify.com/artist/0xYs9AtekcZjUcEjJBqtmN) | [Winding Down](https://open.spotify.com/album/05v43i2aZhI8tSmORcWSDE) | 2:31 | 2025-02-07 | 2025-02-15 |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-04-15 | 2022-07-08 |
-| [Winter Wander](https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Winter Wander](https://open.spotify.com/album/1A5gxXGpnI1l7jGHzDt66n) | 1:46 | 2023-01-06 |  |
+| [Winter Wander](https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Winter Wander](https://open.spotify.com/album/1A5gxXGpnI1l7jGHzDt66n) | 1:46 | 2023-01-06 | 2025-03-26 |
 | [Wisps Of Mist](https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Wisps Of Mist](https://open.spotify.com/album/3ojY79JiyqFY39CIwmZ5oD) | 2:26 | 2022-04-15 | 2022-12-10 |
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [Wonder](https://open.spotify.com/track/5i0QmCyCt4qJudSqoNbu17) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Wonder](https://open.spotify.com/album/1upkA8NqjW7otpz8jaheYg) | 3:12 | 2022-04-15 | 2023-10-13 |

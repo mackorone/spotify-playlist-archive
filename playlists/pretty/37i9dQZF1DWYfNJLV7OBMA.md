@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,160 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,172 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 42 | [Hawasaka Ma](https://open.spotify.com/track/6pnC2gyFfl7uDRcjpsWp6l) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Hawasaka Ma](https://open.spotify.com/album/4eEoUBODtF68bzZl3OgmGZ) | 3:04 |
 | 43 | [Mal Onchilla](https://open.spotify.com/track/1kQzWYUZnqQJm3H43eDNXd) | [Hana Shafa](https://open.spotify.com/artist/7occ8YAUAF3XJbC3uCq1iL), [Dilshan L Silva](https://open.spotify.com/artist/2Gby4q72O2NHHE3JxhgV3f), [Lasitha Jayaneththi Arachchige](https://open.spotify.com/artist/4fLFMxE5SjvOzSPjr6D8B9) | [Mal Onchilla](https://open.spotify.com/album/67zFApoGwQ250TbCqGg3aQ) | 3:12 |
 | 44 | [Kuweni](https://open.spotify.com/track/6V9CHG6y1FmHiLv3REsCy8) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Ridma Weerawardena](https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt) | 3:50 |
-| 45 | [Ru Ra](https://open.spotify.com/track/0TxZCH6wo1JFnoZBn8Nbl1) | [Sanjula himala](https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr) | [Ru Ra](https://open.spotify.com/album/1CID5j3JO9XK7U0FaOdnBn) | 4:04 |
+| 45 | [Ru Ra](https://open.spotify.com/track/0TxZCH6wo1JFnoZBn8Nbl1) | [Sanjula Himala](https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr) | [Ru Ra](https://open.spotify.com/album/1CID5j3JO9XK7U0FaOdnBn) | 4:04 |
 | 46 | [Mala Kada Kada](https://open.spotify.com/track/5WPeMdupVP00VnQ2ecVfPj) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Yasas Medagedara](https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Mala Kada Kada](https://open.spotify.com/album/25G5AEF45z7ZORY7e1CvmW) | 3:14 |
 | 47 | [Danena Thuru Maa](https://open.spotify.com/track/0HSAlDJA3C54woJgIUPice) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Amith Guru](https://open.spotify.com/artist/7n7yFD0oaBaphaVWZpfbbT), [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u), [Manuranga Wijesekara](https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw) | [Danena Thuru Maa](https://open.spotify.com/album/0V3JnYuxmhAWEkNniY2lii) | 3:55 |
 | 48 | [Desin Pe](https://open.spotify.com/track/7ft5a2Qp16zOS9F6mIIkeG) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Gold](https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25) | 2:49 |

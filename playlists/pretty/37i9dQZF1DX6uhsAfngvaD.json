@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 315957,
+  "num_followers": 315985,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,38 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Quite Like You",
+        "url": "https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 179839,
+      "name": "Quite Like You",
+      "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -695,38 +727,6 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "Quite Like You",
-        "url": "https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X"
-      },
-      "artists": [
-        {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
-        }
-      ],
-      "duration_ms": 179839,
-      "name": "Quite Like You",
-      "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -883,22 +883,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Back Into Your Arms",
-        "url": "https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO"
+        "name": "Wry",
+        "url": "https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC"
       },
       "artists": [
         {
-          "name": "RINSE",
-          "url": "https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0"
-        },
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
         }
       ],
-      "duration_ms": 263801,
-      "name": "Back Into Your Arms",
-      "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
+      "duration_ms": 180000,
+      "name": "Wry",
+      "url": "https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -919,18 +915,42 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Wry",
-        "url": "https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC"
+        "name": "Back Into Your Arms",
+        "url": "https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO"
       },
       "artists": [
         {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+          "name": "RINSE",
+          "url": "https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Wry",
-      "url": "https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2"
+      "duration_ms": 263801,
+      "name": "Back Into Your Arms",
+      "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "How Can I Love? (When I Can't Get Away from You)",
+        "url": "https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q"
+      },
+      "artists": [
+        {
+          "name": "fika",
+          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
+        },
+        {
+          "name": "Bambie",
+          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "How Can I Love? - When I Can't Get Away from You",
+      "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -971,26 +991,6 @@
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "How Can I Love? (When I Can't Get Away from You)",
-        "url": "https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q"
-      },
-      "artists": [
-        {
-          "name": "fika",
-          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
-        },
-        {
-          "name": "Bambie",
-          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "How Can I Love? - When I Can't Get Away from You",
-      "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Simona",
-        "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
+        "name": "Migraine",
+        "url": "https://open.spotify.com/album/1Ys261IwpQi3LLoCyjK5s7"
       },
       "artists": [
         {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
         }
       ],
-      "duration_ms": 228642,
-      "name": "Cielo Negro",
-      "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
+      "duration_ms": 221001,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/7wX5nXtf9cWMVvM0e0JwbV"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1279,34 +1279,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Migraine",
-        "url": "https://open.spotify.com/album/1Ys261IwpQi3LLoCyjK5s7"
+        "name": "Simona",
+        "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
       },
       "artists": [
         {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
         }
       ],
-      "duration_ms": 221001,
-      "name": "Migraine",
-      "url": "https://open.spotify.com/track/7wX5nXtf9cWMVvM0e0JwbV"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "Zero Division Error",
-        "url": "https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk"
-      },
-      "artists": [
-        {
-          "name": "Parks, Squares and Alleys",
-          "url": "https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Alliance",
-      "url": "https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv"
+      "duration_ms": 228642,
+      "name": "Cielo Negro",
+      "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1323,6 +1307,22 @@
       "duration_ms": 182000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Zero Division Error",
+        "url": "https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk"
+      },
+      "artists": [
+        {
+          "name": "Parks, Squares and Alleys",
+          "url": "https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Alliance",
+      "url": "https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv"
     },
     {
       "added_at": "2024-08-29 20:23:41",

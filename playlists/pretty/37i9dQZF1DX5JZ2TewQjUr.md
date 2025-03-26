@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Science Noodles
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,078 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,080 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Samba Love](https://open.spotify.com/track/1hcEue7ZkwNYa7FohZQ8uC) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Pacific](https://open.spotify.com/album/0aXxE3f2pCjvN1A6vEXMqT) | 3:45 |
+| 1 | [Samba Love](https://open.spotify.com/track/1hcEue7ZkwNYa7FohZQ8uC) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Pacific](https://open.spotify.com/album/0aXxE3f2pCjvN1A6vEXMqT) | 3:44 |
 | 2 | [DEAL WITH IT](https://open.spotify.com/track/5hBEMwZ849YNPOdB46ooZU) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [DEAL WITH IT](https://open.spotify.com/album/4mkixXEWQ1fgJZiYebclGu) | 1:46 |
 | 3 | [綠蔭吹成黃葉](https://open.spotify.com/track/3XGpWQQZ5Fbqwy3uFEqkGF) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [綠蔭吹成黃葉](https://open.spotify.com/album/2pa3gOjEpjLlfLaHlqP4Uw) | 3:26 |
 | 4 | [10khours sketch \#2 \(you're jazzy in some ways..\)](https://open.spotify.com/track/2YxPNFMlQGZxQ5sSZHQ1b4) | [Denni N](https://open.spotify.com/artist/0yDDyHmNe83A0flHy0CalI) | [10khours sketch \#2 \(you're jazzy in some ways..\)](https://open.spotify.com/album/7LKbgrjKJOqJMw9V9eSt0r) | 1:11 |

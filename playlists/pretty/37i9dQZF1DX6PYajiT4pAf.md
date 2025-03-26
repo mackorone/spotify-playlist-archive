@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Delaossa, Omar Montes x Dei V, Ozuna, Lia Kali y más novedades importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,859 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,904 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 57 | [Los soñadores](https://open.spotify.com/track/0fay0oYGjnJUm0iLaExaxP) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Las Canciones](https://open.spotify.com/album/2PrzbAdSOI01AANMuKAMN6) | 3:26 |
 | 58 | [Castillo en Ruinas](https://open.spotify.com/track/7ESe9QIay00CDlxbtyec55) | [Chukky](https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL) | [Castillo en Ruinas](https://open.spotify.com/album/6L25SqByJUp9Gxg3Lto8kY) | 3:26 |
 | 59 | [MollyPop](https://open.spotify.com/track/6HR73PCcFmqL3rjZVHDVZK) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [La Zowi](https://open.spotify.com/artist/6iTCV7WQDFGtZAdojMMduD) | [Les jolies filles aiment Jok'air](https://open.spotify.com/album/5AisXJ0N4Roto7eJnamm3j) | 2:45 |
-| 60 | [La Nota](https://open.spotify.com/track/0vDtUGsi3l1o82Rk78Kkuw) | [Antonio Hernandez](https://open.spotify.com/artist/18ee3OkoEvUU0BiFGVU2Pw), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw) | [La Nota](https://open.spotify.com/album/2nX5ckMt2hIokHqGh8PZGl) | 2:20 |
+| 60 | [La Nota](https://open.spotify.com/track/0vDtUGsi3l1o82Rk78Kkuw) | [Antonio Hernandez](https://open.spotify.com/artist/18ee3OkoEvUU0BiFGVU2Pw), [Chimbala](https://open.spotify.com/artist/6fGM9PqJYECNrB8OTzRHl3), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw) | [La Nota](https://open.spotify.com/album/2nX5ckMt2hIokHqGh8PZGl) | 2:20 |
 | 61 | [undertaKer](https://open.spotify.com/track/3zidJQizzKer6HSfWOwbpZ) | [Jose De Las Heras](https://open.spotify.com/artist/7trKViRlVbKr7Yrh9ygHnS) | [undertaKer](https://open.spotify.com/album/6bqc0YrS0rlHNCkiFa1c73) | 1:52 |
 | 62 | [Así Como Yo](https://open.spotify.com/track/0FIJYA90VHeLFYLXKNM3CI) | [Flowtiago](https://open.spotify.com/artist/51U0VfysnTpUUDwXgDjdfi), [Javi Lacrema](https://open.spotify.com/artist/6AUHpQKhdpbYUcHRDX3Z2G) | [Así Como Yo](https://open.spotify.com/album/0JzJngGPURIt1jIjRbC7Yy) | 2:48 |
 | 63 | [4CEROS](https://open.spotify.com/track/4R0gb8dFJjIFEfmYfUnqvd) | [Yassir](https://open.spotify.com/artist/0gO4impF9bswjUblyD7bRF), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [F Y FE](https://open.spotify.com/album/0A63RYgvCQ6Oc4TPvd57sL) | 2:32 |

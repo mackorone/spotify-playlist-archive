@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: LE MOTAT",
-  "num_followers": 10022,
+  "num_followers": 10023,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Altijd Anders",
-        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
+        "name": "Het Outro",
+        "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
       },
       "artists": [
         {
-          "name": "Massi",
-          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
         }
       ],
-      "duration_ms": 228813,
-      "name": "Altijd Anders",
-      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
+      "duration_ms": 200223,
+      "name": "Het Outro",
+      "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -499,18 +499,18 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Het Outro",
-        "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
+        "name": "Altijd Anders",
+        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
       },
       "artists": [
         {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+          "name": "Massi",
+          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
         }
       ],
-      "duration_ms": 200223,
-      "name": "Het Outro",
-      "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
+      "duration_ms": 228813,
+      "name": "Altijd Anders",
+      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Het Vliegt Voorbij",
-        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 163261,
-      "name": "Het Vliegt Voorbij",
-      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "Opslaan",
         "url": "https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 157752,
       "name": "Nieuw Begin",
       "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "Het Vliegt Voorbij",
+        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 163261,
+      "name": "Het Vliegt Voorbij",
+      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "BOM",
-        "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
-      },
-      "artists": [
-        {
-          "name": "Hang Youth",
-          "url": "https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR"
-        }
-      ],
-      "duration_ms": 126902,
-      "name": "BOM",
-      "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "alsof",
         "url": "https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 212091,
       "name": "alsof",
       "url": "https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "IJsberen",
+        "url": "https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5"
+      },
+      "artists": [
+        {
+          "name": "puntjudith",
+          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "IJsberen",
+      "url": "https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz"
     }
   ],
   "unique_name": "indiepuntnl",

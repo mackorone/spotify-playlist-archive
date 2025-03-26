@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: FBC, ogoin, Linguini, Pepito
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,466 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,495 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 29 | [Da Madrugada](https://open.spotify.com/track/2KtidsJE7J9iIm4Xc48Am1) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 3:27 |
 | 30 | [NASCI PRA ISSO](https://open.spotify.com/track/4WwJ4xNXqRjNJOXYm38QNa) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [HIGHBOYZ](https://open.spotify.com/album/0LXnhPYep0AOA1c7BFg7Vm) | 3:06 |
 | 31 | [Big Man](https://open.spotify.com/track/2fEcLZdJP3Ni4vMAUabEHS) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [MAD GUI](https://open.spotify.com/artist/3EurgulwAwWZ9hjxOQ0NXv) | [Big Man](https://open.spotify.com/album/5LPDZn3qaYJTlT6EgHWM4v) | 3:07 |
-| 32 | [viva \- Transamazônica](https://open.spotify.com/track/08v6FRPd8214z7cwKFXF7d) | [LUM](https://open.spotify.com/artist/7aJWXkqpgvMlRnVKGJIbrU), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV), [Maria](https://open.spotify.com/artist/6wDMp8s08WsQLmJcEHmK87) | [viva \(Transamazônica\)](https://open.spotify.com/album/4mgRiDbTno5N2UuWfAKePW) | 5:00 |
+| 32 | [Viva \- Transamazônica](https://open.spotify.com/track/08v6FRPd8214z7cwKFXF7d) | [LUM](https://open.spotify.com/artist/7aJWXkqpgvMlRnVKGJIbrU), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV), [Maria](https://open.spotify.com/artist/6wDMp8s08WsQLmJcEHmK87) | [Viva \(Transamazônica\)](https://open.spotify.com/album/4mgRiDbTno5N2UuWfAKePW) | 5:00 |
 | 33 | [Momentos](https://open.spotify.com/track/4gXbu96gGyRM52KFYGBge5) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Douglas Lemos](https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:23 |
 | 34 | [Guerra de Ego](https://open.spotify.com/track/6b65ALxPcGEEozmTTjyhpq) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [O Lado Bom do Homem Mau](https://open.spotify.com/album/0Gl7QJiBqjNsnogLP5yuLb) | 2:12 |
 | 35 | [Sagrado](https://open.spotify.com/track/6cNCBpAOFUAPqZ2PT89Iuu) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Skimn](https://open.spotify.com/artist/1KDMy6PF82No6Tx2VGdFXt) | [Sagrado](https://open.spotify.com/album/29vFt57MdPG6NPWsoZHoNF) | 4:43 |

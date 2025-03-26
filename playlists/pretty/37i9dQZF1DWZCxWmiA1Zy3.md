@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain]
 
 > Pátria Rock apresenta.\. O Melhor do Rock 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,726 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,728 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain]
 | 18 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 |
 | 19 | [Por que a gente é assim?](https://open.spotify.com/track/0AeCeTB7umsEiVtkgtaAzG) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Barão 40 \(De Luxe\)](https://open.spotify.com/album/3CXJqomBAVSchsGaa2bwzO) | 3:41 |
 | 20 | [Remédios](https://open.spotify.com/track/3MXugNQaPFyMhvFFpXq6JK) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Remédios](https://open.spotify.com/album/5QyX1DXEcpmW6EIH3PPt2U) | 2:31 |
-| 21 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 |
+| 21 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 |
 | 22 | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/track/3B6Fu8JF1qJyrNbJw0VxRQ) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Power to Play \(Deluxe\)](https://open.spotify.com/album/2UbVeYyraCseKNgBgVNl9K) | 3:05 |
 | 23 | [NÃO VAMOS DESISTIR](https://open.spotify.com/track/6MBgEdXWbIHXSjIr4qvPf1) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [JARDINEIROS: A COLHEITA](https://open.spotify.com/album/2NGW6FBoycZlN0WVY4HDSb) | 4:05 |
 | 24 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 |

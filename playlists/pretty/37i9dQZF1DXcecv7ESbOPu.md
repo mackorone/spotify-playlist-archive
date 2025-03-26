@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Bolaget, Jack Harlow, Olivia Lobato och Morgan Wallen med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,277 likes - 106 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,272 likes - 106 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 55 | [FKN FULL](https://open.spotify.com/track/45nG7r7ew7QwZWTxLujJvM) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO) | [FKN FULL](https://open.spotify.com/album/1ArMPJAJXTYvR82ngtPYCC) | 1:55 |
 | 56 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 |
 | 57 | [Explorer](https://open.spotify.com/track/5yIH0jItIzbjKLFg5RfH4n) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Explorer](https://open.spotify.com/album/3Z61UlrZhASq7RPyDVu4Sh) | 4:12 |
-| 58 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 |
+| 58 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 |
 | 59 | [What Could Go Right \(feat\. Lanie Gardner\)](https://open.spotify.com/track/2iMX5bHSf125ZHBIysZ9na) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [What Could Go Right \(feat\. Lanie Gardner\)](https://open.spotify.com/album/6SDYyML3WrQNUQVn6ds4If) | 3:31 |
 | 60 | [Grått hjärta](https://open.spotify.com/track/2e69EDxpXQcL3sjEWczftg) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Grått hjärta](https://open.spotify.com/album/0l3dlQtLAH060ylPe7ksnD) | 3:02 |
 | 61 | [Blanket](https://open.spotify.com/track/0FqcoQSLlQ1Q1y1Wl60TSr) | [Weatherday](https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK) | [Hornet Disaster](https://open.spotify.com/album/5iVnuOpMVfaLfhq9vpWcj4) | 4:00 |

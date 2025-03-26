@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103960,
+      "name": "Arena Crumbles",
+      "url": "https://open.spotify.com/track/1LAnfY23PwlCd4hzwZcn8V"
+    },
+    {
+      "album": {
         "name": "Maleficent (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 225093,
       "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
       "url": "https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn"

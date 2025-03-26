@@ -4,14 +4,14 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-296 songs - 13 hr 59 min
+297 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 | 2023-01-24 | 2024-11-12 |
 | [432 Hz Omgivande](https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Omgivande](https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx) | 2:30 | 2023-12-18 | 2024-12-05 |
 | [528 Hz Whispered Stream](https://open.spotify.com/track/6Gv8jmDrZ41knvfN6n5qOO) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [528 Hz Whispered Stream](https://open.spotify.com/album/1qjyXMiu6uFH6emC5OcD4W) | 2:31 | 2023-11-18 | 2024-12-05 |
-| [A Flowing Stream](https://open.spotify.com/track/6qHrWqMeZEMl7SOIHF0qmO) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [A Flowing Stream](https://open.spotify.com/album/78VKBRnDa8TVkZGgaQYriO) | 3:33 | 2024-12-04 |  |
+| [A Flowing Stream](https://open.spotify.com/track/6qHrWqMeZEMl7SOIHF0qmO) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [A Flowing Stream](https://open.spotify.com/album/78VKBRnDa8TVkZGgaQYriO) | 3:33 | 2024-12-04 | 2025-03-26 |
 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 | 2023-09-12 |  |
 | [A Grand Arrival](https://open.spotify.com/track/0Nj4m8NYfLPhViRvsX6x7d) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [A Grand Arrival](https://open.spotify.com/album/3Vq8HUnRwN9YNVNDuIxVk4) | 2:32 | 2024-10-03 |  |
 | [A Growing Feeling](https://open.spotify.com/track/1peg4JKeWIybo6q2pdbwh7) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [A Growing Feeling](https://open.spotify.com/album/3M47OSMcsv1Lzcbm787mmo) | 3:17 | 2024-11-11 |  |
@@ -242,6 +242,7 @@
 | [Sauntering Dream](https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Jonathan Warman](https://open.spotify.com/artist/4rOuVyfJluPW9tHKjL2FWf) | [Wandering Mind](https://open.spotify.com/album/5xdnfDa5waDfIgSu7M6KGF) | 3:19 | 2023-03-13 | 2023-05-20 |
 | [Seasonal](https://open.spotify.com/track/4H4IsE65mrXvEq0C141s11) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Seasonal](https://open.spotify.com/album/6AOfXfTdIbeiFjmVZ1PaiY) | 2:43 | 2024-07-16 |  |
 | [Sequoia Peace \(Forest\)](https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Sequoia Peace \(Forest\)](https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7) | 2:54 | 2024-04-01 |  |
+| [Seraphina Woods](https://open.spotify.com/track/1Lr6cJOM3mN15AsGox2k5I) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Seraphina Woods](https://open.spotify.com/album/37Cby65UbMz5qWGaay3ABk) | 2:22 | 2025-03-14 |  |
 | [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 | 2024-11-28 | 2025-02-22 |
 | [Shallow Water](https://open.spotify.com/track/75tYEiKbrxBIyVo1azYqDm) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Shallow Water](https://open.spotify.com/album/4LW8rj1QIbDvp1BIzYiLNo) | 2:44 | 2023-10-26 |  |
 | [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 | 2023-03-13 |  |

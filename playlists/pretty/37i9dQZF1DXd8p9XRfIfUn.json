@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 78998,
+  "num_followers": 79013,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Pal' Otro A\u00f1o",
+        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 150894,
+      "name": "Pal' Otro A\u00f1o",
+      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
         "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 181894,
       "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
       "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Pal' Otro A\u00f1o",
-        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 150894,
-      "name": "Pal' Otro A\u00f1o",
-      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
     },
     {
       "added_at": "2025-02-07 06:00:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: KURT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,923 likes - 103 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,939 likes - 103 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 2 | [Shiba](https://open.spotify.com/track/6I0BSbYQsRsK2kj8oAePuW) | [Olga Myko](https://open.spotify.com/artist/2dLakvfiBcJx7FUznJn8ct) | [Shiba](https://open.spotify.com/album/6GJRwsLIkBoCHXQby8N9Oq) | 3:05 |
 | 3 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
 | 4 | [Chemicals](https://open.spotify.com/track/75H2T9O2y4b5JlORHVZlBe) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 3:03 |
-| 5 | [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:23 |
+| 5 | [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:24 |
 | 6 | [Clairo](https://open.spotify.com/track/64NyvsFj1ErJ66XtLw41gx) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [Clairo](https://open.spotify.com/album/0mWTMQVfVqE3so5uDbXHjU) | 3:33 |
 | 7 | [Vanessa](https://open.spotify.com/track/3lR2ucuERNadX6zFrvNf2g) | [plotones](https://open.spotify.com/artist/2uiobStTvqQjT30aHqnUKl), [4lex](https://open.spotify.com/artist/5Y3TAUyFG5nZpYVecDRtZ1) | [Vanessa](https://open.spotify.com/album/4OlKyBH2uCf07RcybeYaBf) | 3:05 |
 | 8 | [you say you can't dance](https://open.spotify.com/track/3hWO0CxfHNMqeLJtG7RVfv) | [tetteris](https://open.spotify.com/artist/1ESDypoYXnCyOoQrItdFwr) | [you say you can't dance](https://open.spotify.com/album/1JoiIvQ6WItXghaG4xbWeX) | 3:52 |

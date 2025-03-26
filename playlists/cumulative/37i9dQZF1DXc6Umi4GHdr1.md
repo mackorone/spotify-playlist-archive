@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-418 songs - 18 hr 33 min
+421 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Fairplex](https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Fairplex](https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu) | 2:07 | 2023-08-11 |  |
 | [Fairytale](https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Fairytale](https://open.spotify.com/album/4f3CoCIOgJGOPgdZLu8ycA) | 2:28 | 2023-10-27 | 2024-06-28 |
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-03-10 | 2024-06-28 |
+| [Falling whisper](https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Falling whisper](https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj) | 2:45 | 2025-03-25 |  |
 | [Felicitas](https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Felicitas](https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT) | 2:45 | 2024-02-23 |  |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-06-10 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-26 | 2023-06-16 |
@@ -348,7 +349,7 @@
 | [Tears but Not of Pain](https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Tears but Not of Pain](https://open.spotify.com/album/49im8S6HBvYk0BHPHWDYh6) | 3:21 | 2024-03-29 |  |
 | [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-08 |  |
 | [Ternura](https://open.spotify.com/track/1iXvVzkyogXKfdr6IJqyd7) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Ternura](https://open.spotify.com/album/7rQKkMoi3oWcfpQzoBUQoE) | 1:45 | 2022-08-12 | 2023-06-10 |
-| [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 |  |
+| [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 | 2025-03-26 |
 | [The Autumn Travel](https://open.spotify.com/track/7LP1t5oBkzHKN7382egeou) | [Claude Amek](https://open.spotify.com/artist/4M0jA8df8J36E5xsqNGaAT) | [October Roads](https://open.spotify.com/album/3Ms99VQwBTFGwgxroh8Cpr) | 1:48 | 2021-12-10 | 2023-08-26 |
 | [The beauty](https://open.spotify.com/track/1N35jodnlu7EdXVRn6xUSk) | [Juri van Saal](https://open.spotify.com/artist/4A2xXIV6Lb1Rn69X3sQanA) | [The beauty](https://open.spotify.com/album/2WckICyFQx4UBmaPNeDqik) | 2:52 | 2022-05-27 | 2022-07-22 |
 | [The Collection](https://open.spotify.com/track/3Ya03j53tWkhHhj1yGdcsk) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Collection](https://open.spotify.com/album/0RzE3dGwanDWLdbtBRSjv5) | 2:38 | 2024-01-12 |  |
@@ -368,6 +369,7 @@
 | [The Wind's Lullaby](https://open.spotify.com/track/59RRgYSHSvKlM9awfBm0hk) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Wind's Lullaby](https://open.spotify.com/album/4TeJFDFWCKMUocydiW9Pnv) | 2:26 | 2023-08-11 | 2024-05-10 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-31 | 2023-06-16 |
 | [Three\-Two](https://open.spotify.com/track/12crmTFG4QHnePz3KYMlD1) | [Clogs](https://open.spotify.com/artist/12BDNYhvDp2RIeF9pabPzv) | [Veil Waltz](https://open.spotify.com/album/6u7QsDt1OyTk6W29X8PNwr) | 4:35 | 2021-12-10 | 2022-07-22 |
+| [Tides of Time](https://open.spotify.com/track/6bHB1PEW54dYJIR5oAbSmr) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Tides of Time](https://open.spotify.com/album/0uPPdqGv2a51MuKFuaDfjF) | 2:26 | 2025-03-25 |  |
 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 | 2021-12-10 | 2022-04-06 |
 | [Tiffany Falls](https://open.spotify.com/track/64DGZauPKihie7TgNccWD3) | [Emilio Bonito](https://open.spotify.com/artist/2IfsWJpQDkbX21LUME6KvO) | [Tiffany Falls](https://open.spotify.com/album/7uwReBkPLCXlsRQW4XD9yz) | 3:32 | 2021-12-10 | 2022-05-27 |
 | [Timeless](https://open.spotify.com/track/21Av8NmwEwc6uYIjjeUm54) | [Parascope](https://open.spotify.com/artist/3HL4rODpP9DHDgCUlsJnvG) | [Timeless](https://open.spotify.com/album/37Ffg43nlbeDlocMD3VtPj) | 2:28 | 2021-12-10 | 2022-07-22 |
@@ -399,6 +401,7 @@
 | [Viña del Mar](https://open.spotify.com/track/157jiCEqa3UihOdwBpQQao) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Viña del Mar](https://open.spotify.com/album/7Hd589biVwD6MvtfZ1AcUL) | 2:24 | 2023-12-15 |  |
 | [Voluntad](https://open.spotify.com/track/5XHgDP6VEOqMbhFLqh78Xx) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Voluntad](https://open.spotify.com/album/2rV6cBlzGCjPaQZDTSbbWJ) | 2:51 | 2021-12-10 | 2023-03-10 |
 | [Wait A Minute](https://open.spotify.com/track/1JXcIdNOsdZepUrvsfXOEo) | [Mary\-Anne Petersen](https://open.spotify.com/artist/10jkdLoGCp06EB8vIRKAWO) | [Wait A Minute](https://open.spotify.com/album/1RG0woIFkj9cbmuMRVl7fV) | 2:42 | 2022-04-22 | 2024-05-10 |
+| [Waiting in Peace](https://open.spotify.com/track/5KUcHigYlfphYK7rSFkH1r) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Waiting in Peace](https://open.spotify.com/album/7Hjwl9neapOTk1CjxmSH3C) | 2:00 | 2025-03-25 |  |
 | [Waking up Together](https://open.spotify.com/track/23nKAenI7gT7WGbBajVvNU) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Waking up Together](https://open.spotify.com/album/1oDFfdQooDk1Elf7Sp5brr) | 2:18 | 2024-03-08 |  |
 | [Walking Around Santiago](https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Walking Around Santiago](https://open.spotify.com/album/0ZIPPkIC1LFYM3W5HyPewJ) | 4:46 | 2021-12-10 | 2024-06-07 |
 | [Weaving Together](https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Weaving Together](https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D) | 3:23 | 2023-08-11 |  |

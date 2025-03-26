@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/7eo39n32RoBLx2Z2yFfsnG"
+      },
+      "artists": [
+        {
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197575,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt"
+    },
+    {
+      "album": {
         "name": "Above Light",
         "url": "https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R"
       },
@@ -4406,6 +4424,24 @@
       "duration_ms": 144681,
       "name": "Liebevoll",
       "url": "https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE"
+    },
+    {
+      "album": {
+        "name": "Light As A Feather",
+        "url": "https://open.spotify.com/album/1Ug8cU7eAWPnyMcr7GGocA"
+      },
+      "artists": [
+        {
+          "name": "Viro Marix",
+          "url": "https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156322,
+      "name": "Light As A Feather",
+      "url": "https://open.spotify.com/track/3U30zuvNNHUUMSI954bWZk"
     },
     {
       "album": {

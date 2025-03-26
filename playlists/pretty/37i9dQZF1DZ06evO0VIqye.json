@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 59138,
+  "num_followers": 59141,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAACISGkKj0wf2jZmswok0lHy",
+  "snapshot_id": "Z+CggAAAAAAdIiBAeY97Rcit1zahVQoP",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/55UIB1pXg1Pk9lrfIb8NB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 232333,
       "name": "You Drive Me Wild",
       "url": "https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/55UIB1pXg1Pk9lrfIb8NB6"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Sessions",
-        "url": "https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 204413,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/5kvMLw3iuA2dHH7FLFDgsM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 223986,
-      "name": "You Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an"
+      "duration_ms": 140066,
+      "name": "Wooly Bully",
+      "url": "https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Tulane",
-      "url": "https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
         "url": "https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 140066,
-      "name": "Wooly Bully",
-      "url": "https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC"
+      "duration_ms": 223986,
+      "name": "You Don't Know What You've Got",
+      "url": "https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an"
     },
     {
       "added_at": null,

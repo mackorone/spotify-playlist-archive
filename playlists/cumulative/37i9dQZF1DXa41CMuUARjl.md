@@ -4,7 +4,7 @@
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from FISHER
 
-27,644 songs - 70 day 12 hr 46 min
+27,644 songs - 70 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7310,7 +7310,7 @@
 | [Evil](https://open.spotify.com/track/5LLkZ1gyQMNPXtQv89pdQA) | [MKII](https://open.spotify.com/artist/5f3LuTeqMEAwXLyyCHXlLq) | [Evil](https://open.spotify.com/album/5GAnH3uoPdXsum34mhcMDR) | 4:44 | 2021-12-24 | 2022-01-08 |
 | [Evil Containment Wave \(Part I\)](https://open.spotify.com/track/6DyB6Psx1GLXLuTvQVHETh) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq), [Alphabet Backwards](https://open.spotify.com/artist/3JeIOoKDvnUwwKFRJ49xVz) | [Evil Containment Wave \(Part I\)](https://open.spotify.com/album/7Km5lsYeEWgqCNUiel08QQ) | 3:16 | 2021-06-19 | 2021-06-26 |
 | [Evil Disco](https://open.spotify.com/track/5tceYJ8X88NSBim5zvNyF9) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5), [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm), [Aazure](https://open.spotify.com/artist/6Jb3ccunkcizgKwtD7vDLK) | [Evil Disco](https://open.spotify.com/album/2t8ujUqxAatJ0CIUsg9hvf) | 2:20 | 2023-06-02 | 2023-06-10 |
-| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 | 2025-03-21 |  |
+| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 | 2025-03-21 |  |
 | [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-01-20 | 2023-01-28 |
 | [Evolution](https://open.spotify.com/track/1nSBTGGMQOMyxd1sjJJNYP) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Evolution](https://open.spotify.com/album/5KLWVpEIkvBgWCji7U41QS) | 4:28 | 2023-03-03 | 2023-03-11 |
 | [Evolve](https://open.spotify.com/track/2DYs3OfhbkMI5kPGaeBFP8) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae) | [Evolve](https://open.spotify.com/album/1ngkXilbueu063Ktrpimvc) | 3:30 | 2023-04-21 | 2023-04-29 |
@@ -9556,8 +9556,8 @@
 | [Gonna Be Good](https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [FINALLY OUT](https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE) | 3:16 | 2024-12-20 | 2024-12-28 |
 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 | 2023-06-23 | 2023-07-01 |
 | [Gonna Catch You](https://open.spotify.com/track/3UqABzhccOCis1XySpzBFj) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Gonna Catch You](https://open.spotify.com/album/1dMH8HpOjvSLAcxQJXUwga) | 2:47 | 2021-10-30 | 2021-11-06 |
+| [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 | 2025-03-21 |  |
 | [Gonna Do](https://open.spotify.com/track/0L6DKxzgsWcE9AG6iOWUug) | [MRKO](https://open.spotify.com/artist/5uNbVdVkqoaEX6x0hIBNNH), [Sophia May](https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg) | [Gonna Do](https://open.spotify.com/album/0JkCtV1vrOblos8JYV2RTa) | 3:12 | 2025-01-03 | 2025-01-11 |
-| [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 | 2025-03-21 |  |
 | [Gonna Get Over You \- A\-Trak & wev Remix](https://open.spotify.com/track/5Q5ZyDXzk1PTTbQjD9smer) | [France Joli](https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [wev](https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i) | [Gonna Get Over You \(A\-Trak & wev Remix\)](https://open.spotify.com/album/0Vs7Y1rNioGQPNPCFRCrx7) | 5:23 | 2023-01-27 | 2023-02-04 |
 | [GONNA GET THRU](https://open.spotify.com/track/3XWwNfOWrALIGDFYVPVv4o) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [GONNA GET THRU](https://open.spotify.com/album/1xaU4SLIkG4xZUWw6jjNEo) | 3:20 | 2024-10-25 | 2024-11-02 |
 | [Good](https://open.spotify.com/track/2WYQ1ex9hor40oR6y2uNQn) | [Alien Rave](https://open.spotify.com/artist/6G4NpYvuRETWNR3PC4AK1S) | [Good](https://open.spotify.com/album/3jtBRy7R4S0APDEDMzEGoB) | 5:12 | 2020-09-25 | 2020-10-02 |

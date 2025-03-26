@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Ximena Sari\u00f1ana en portada.",
-  "num_followers": 192243,
+  "num_followers": 192247,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "desahogo",
-        "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "desahogo",
-      "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
-    },
-    {
-      "added_at": "2025-03-21 06:00:30",
-      "album": {
         "name": "Me Dediqu\u00e9 a Perderte",
         "url": "https://open.spotify.com/album/2Ymv1eZ4yvRQ1YYU8kYz4u"
       },
@@ -587,34 +571,18 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "yo creo que todxs estamos mal",
-        "url": "https://open.spotify.com/album/2HXkcH9CJG5zhCFudV9QWx"
+        "name": "desahogo",
+        "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
       },
       "artists": [
         {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 196204,
-      "name": "yo creo que todxs estamos mal",
-      "url": "https://open.spotify.com/track/3suD9pn0TYxok32F2VU7lO"
-    },
-    {
-      "added_at": "2025-03-21 06:00:30",
-      "album": {
-        "name": "La Casa de Mis Pap\u00e1s",
-        "url": "https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
-        }
-      ],
-      "duration_ms": 176844,
-      "name": "La Casa de Mis Pap\u00e1s",
-      "url": "https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ"
+      "duration_ms": 189583,
+      "name": "desahogo",
+      "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -639,18 +607,34 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+        "name": "La Casa de Mis Pap\u00e1s",
+        "url": "https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
         }
       ],
-      "duration_ms": 185727,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+      "duration_ms": 176844,
+      "name": "La Casa de Mis Pap\u00e1s",
+      "url": "https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ"
+    },
+    {
+      "added_at": "2025-03-21 06:00:30",
+      "album": {
+        "name": "yo creo que todxs estamos mal",
+        "url": "https://open.spotify.com/album/2HXkcH9CJG5zhCFudV9QWx"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "yo creo que todxs estamos mal",
+      "url": "https://open.spotify.com/track/3suD9pn0TYxok32F2VU7lO"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -667,6 +651,38 @@
       "duration_ms": 226027,
       "name": "febrero",
       "url": "https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf"
+    },
+    {
+      "added_at": "2025-03-21 06:00:30",
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+    },
+    {
+      "added_at": "2025-03-21 06:00:30",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/50dOULM8wbuHH77XdNquwX"
+      },
+      "artists": [
+        {
+          "name": "Jack Rabbit",
+          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
+        }
+      ],
+      "duration_ms": 167900,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/4IYvNtWQMSmtUopvVfdtUA"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -787,22 +803,6 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/3chBDiP97QKgFLAlVszXm1"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 197274,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/2ThpWJnD1rJchQ6CSFT19z"
-    },
-    {
-      "added_at": "2025-03-21 06:00:30",
-      "album": {
         "name": "La Gata Bajo la Lluvia (Sesi\u00f3n Ac\u00fastica en Vivo)",
         "url": "https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "aeropuerto",
-        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/3chBDiP97QKgFLAlVszXm1"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         }
       ],
-      "duration_ms": 214226,
-      "name": "aeropuerto",
-      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
+      "duration_ms": 197274,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/2ThpWJnD1rJchQ6CSFT19z"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "palacio <3",
-        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "palacio <3",
-      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
-    },
-    {
-      "added_at": "2025-03-21 06:00:30",
-      "album": {
         "name": "Natalia Lafourcade Live at Carnegie Hall",
         "url": "https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/50dOULM8wbuHH77XdNquwX"
+        "name": "palacio <3",
+        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
       },
       "artists": [
         {
-          "name": "Jack Rabbit",
-          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 167900,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/4IYvNtWQMSmtUopvVfdtUA"
+      "duration_ms": 156000,
+      "name": "palacio <3",
+      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -919,6 +903,22 @@
       "duration_ms": 170240,
       "name": "Calle Sin Salida",
       "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
+    },
+    {
+      "added_at": "2025-03-21 06:00:30",
+      "album": {
+        "name": "aeropuerto",
+        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "aeropuerto",
+      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
-        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 210200,
-      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
-      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
+      "duration_ms": 174651,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI"
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
       },
       "artists": [
         {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 174651,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g"
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
+        "name": "MUJER MARAVILLA",
+        "url": "https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "MUJER MARAVILLA",
+      "url": "https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB"
+    },
+    {
+      "added_at": "2025-03-21 06:00:30",
+      "album": {
         "name": "a\u00f1o nuevo",
         "url": "https://open.spotify.com/album/56Mx91RHVVImdY8mCcR4Bm"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 197876,
       "name": "a\u00f1o nuevo",
       "url": "https://open.spotify.com/track/7ajLeP8dofCboY5MpQ5ymP"
-    },
-    {
-      "added_at": "2025-03-21 06:00:30",
-      "album": {
-        "name": "MUJER MARAVILLA",
-        "url": "https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "MUJER MARAVILLA",
-      "url": "https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB"
     },
     {
       "added_at": "2025-03-21 06:00:30",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2025-03-21 06:00:30",
       "album": {
-        "name": "Me lo merezco",
-        "url": "https://open.spotify.com/album/4AJJoolBDiitJ7qZJzZgHP"
+        "name": "Espacio Infinito",
+        "url": "https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror"
       },
       "artists": [
         {
-          "name": "Silvia & Karmen",
-          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Me lo merezco",
-      "url": "https://open.spotify.com/track/1QDWKOcIKpo8UMkufMdpQG"
+      "duration_ms": 210243,
+      "name": "Espacio Infinito",
+      "url": "https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa"
     },
     {
       "added_at": "2025-03-21 06:00:30",

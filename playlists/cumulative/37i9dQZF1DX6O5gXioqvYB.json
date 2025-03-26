@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Calore",
+        "url": "https://open.spotify.com/album/0Bdudd1JyswBKGJUXUweOe"
+      },
+      "artists": [
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181008,
+      "name": "Calore",
+      "url": "https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw"
+    },
+    {
+      "album": {
         "name": "Campari",
         "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
       },

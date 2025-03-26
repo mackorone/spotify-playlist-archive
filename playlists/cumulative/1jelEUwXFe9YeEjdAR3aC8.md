@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-736 songs - 1 day 17 hr 17 min
+737 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-12 | 2023-03-28 |
 | [Didn’t Care](https://open.spotify.com/track/4sc3GpJtxOB17Ng9PcdNVq) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Didn't Care](https://open.spotify.com/album/1iKIf39XkjsKa5xCKJmcN4) | 2:44 | 2022-08-01 | 2022-08-16 |
 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 | 2022-10-10 | 2023-01-19 |
+| [Dinner](https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Dinner](https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA) | 3:48 | 2025-03-26 |  |
 | [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 | 2023-04-10 | 2023-05-16 |
 | [Disaster Master](https://open.spotify.com/track/6Rc4PmDPhncehmLCif5saJ) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Disaster Master](https://open.spotify.com/album/08rcc4ZDi0i86AuhsDYNi7) | 5:35 | 2023-04-10 | 2023-05-09 |
 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 | 2024-05-17 |  |

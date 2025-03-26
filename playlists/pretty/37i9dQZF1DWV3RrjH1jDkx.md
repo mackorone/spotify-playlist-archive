@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\.  Alessandra og Synne Vo!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,331 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,333 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 56 | [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 |
 | 57 | [Guaro con Ron](https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Guaro con Ron](https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2) | 2:28 |
 | 58 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
-| 59 | [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:23 |
+| 59 | [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:24 |
 | 60 | [US AGAINST THE WORLD](https://open.spotify.com/track/3CCkIzrrem7qVqNvLPeAS7) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [US AGAINST THE WORLD](https://open.spotify.com/album/4mLG9rjxhN1SOIHFpeoSxl) | 2:37 |
 | 61 | [Bedre Alene](https://open.spotify.com/track/0OwjofdWA5RQt0SYcXlE4H) | [Mabira](https://open.spotify.com/artist/5p2uXqRrFhecZ4dLGzXlLz), [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Du Stanser Verden](https://open.spotify.com/album/064AhwBeASRbZnEmpuIZ8I) | 2:44 |
 | 62 | [Ma Chérie Madame](https://open.spotify.com/track/068b07t6rDTkG4prCJ3JQN) | [Sander Elstad](https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX) | [Ma Chérie Madame](https://open.spotify.com/album/6GgP4v0eBYxPlWlGnFRcGm) | 3:10 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 88 | [Here's To You](https://open.spotify.com/track/76V5fHHSOIf3EMb0ketb63) | [Siri Stranger](https://open.spotify.com/artist/38HzMCbZZ9EYDxpzvstt5V) | [Here's To You](https://open.spotify.com/album/7j3HQ1P6jZN42hSzy6lsuW) | 3:18 |
 | 89 | [Fish In A Jar](https://open.spotify.com/track/3Ig4FOUvC9E1lCSVZRo5cs) | [Warlocks](https://open.spotify.com/artist/3Pr20Uk55vImXSisXHnD2d) | [Fish In A Jar](https://open.spotify.com/album/5Wa5qR0U1wqWxvmCRYQqO3) | 3:30 |
 | 90 | [All I See Is You](https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [All I See Is You](https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY) | 2:37 |
-| 91 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 |
+| 91 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 |
 | 92 | [Want It](https://open.spotify.com/track/6NzIiBuvtfwtcaAK6HzfMQ) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Want It](https://open.spotify.com/album/0TbKK880OLEKrDziuvCrtg) | 3:24 |
 | 93 | [Dead Weight](https://open.spotify.com/track/29vy57r5gJtWrpUpFpbfiS) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Dead Weight](https://open.spotify.com/album/4xfDCq11r0Kka6CG1hhgp6) | 3:37 |
 | 94 | [You're Gonna Worry About Me One Day](https://open.spotify.com/track/1vBfEbQ0DXkwUEPhYtLnb5) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Delicious Delusional](https://open.spotify.com/album/2qjNiLhOarJTEWpPvXCJiC) | 3:54 |

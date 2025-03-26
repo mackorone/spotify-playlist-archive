@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 274239,
       "name": "11:11 - Jazz Version",
       "url": "https://open.spotify.com/track/21Zg58JQ1sw6IlGtjSVZWE"
@@ -4550,6 +4550,24 @@
       "duration_ms": 190652,
       "name": "A good day for love",
       "url": "https://open.spotify.com/track/5VFNQCiVLCYKBhSfOQTsr8"
+    },
+    {
+      "album": {
+        "name": "A Good Day Must Be Coming",
+        "url": "https://open.spotify.com/album/1Fs498xtAZC8allOqiLdhM"
+      },
+      "artists": [
+        {
+          "name": "Hong Dae Kwang",
+          "url": "https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "A Good Day Must Be Coming",
+      "url": "https://open.spotify.com/track/3SKYJgpmasgRDKHWxiTcnL"
     },
     {
       "album": {
@@ -9792,7 +9810,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 201760,
       "name": "Almond Chocolate (Korean Ver.)",
       "url": "https://open.spotify.com/track/6L2DSQ4tjyyTnPAOQDVfCr"
@@ -34556,7 +34574,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 214000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0owSnuNM561WS2dSicHJxw"
@@ -52420,7 +52438,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 192040,
       "name": "ENDLESS DREAM",
       "url": "https://open.spotify.com/track/61UuwMzvBnkyIq12ou1oFX"
@@ -57742,7 +57760,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 238786,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/1b09gsCCBEaqumTkakB8yk"
@@ -75532,6 +75550,24 @@
     {
       "album": {
         "name": "Hey",
+        "url": "https://open.spotify.com/album/4eGL0T7oqFCJPI0KTO8abl"
+      },
+      "artists": [
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204306,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/5h9SFwINpTVMkRThbD1Rcm"
+    },
+    {
+      "album": {
+        "name": "Hey",
         "url": "https://open.spotify.com/album/3z4MsXWHIM1XE5f486qNRL"
       },
       "artists": [
@@ -77587,6 +77623,28 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1HnEpNrnDpHhASiudXRZaN"
+      },
+      "artists": [
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        },
+        {
+          "name": "weswes",
+          "url": "https://open.spotify.com/artist/0UrtYquIWcpcJGd0FBGAzw"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218461,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4didEmySjFKXXXqSwY9Gs3"
+    },
+    {
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/1Q30R1N9qIZ5WJssfghhK1"
       },
@@ -77722,28 +77780,6 @@
       "duration_ms": 159750,
       "name": "home (Feat. Korean)",
       "url": "https://open.spotify.com/track/0EyGUDmehvBiZ6RQDtn7Ai"
-    },
-    {
-      "album": {
-        "name": "Home (feat. weswes)",
-        "url": "https://open.spotify.com/album/1HnEpNrnDpHhASiudXRZaN"
-      },
-      "artists": [
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
-        },
-        {
-          "name": "weswes",
-          "url": "https://open.spotify.com/artist/7I4bBzx1loY8T6Oh8CNaxs"
-        }
-      ],
-      "date_added": "2025-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218461,
-      "name": "Home (feat. weswes)",
-      "url": "https://open.spotify.com/track/4didEmySjFKXXXqSwY9Gs3"
     },
     {
       "album": {
@@ -85230,6 +85266,24 @@
     {
       "album": {
         "name": "I mean, I love you",
+        "url": "https://open.spotify.com/album/6Prz3rz2O7pLw7gvWTCX5s"
+      },
+      "artists": [
+        {
+          "name": "JUNG SEUNG WON",
+          "url": "https://open.spotify.com/artist/09ngtdzXUe1fVts4588N6T"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234373,
+      "name": "I mean, I love you",
+      "url": "https://open.spotify.com/track/4xETbvLrAWwUkjP5kfqylP"
+    },
+    {
+      "album": {
+        "name": "I mean, I love you",
         "url": "https://open.spotify.com/album/5rVmEhbUPDyUbmN7jMv04M"
       },
       "artists": [
@@ -91474,7 +91528,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 226186,
       "name": "ImPerfect",
       "url": "https://open.spotify.com/track/3V8YCV8jWBI0hlK22fXGKj"
@@ -117953,6 +118007,28 @@
     },
     {
       "album": {
+        "name": "MBTI (feat. JEONAIN)",
+        "url": "https://open.spotify.com/album/24Sw3o1rDxEav4eqz20jMp"
+      },
+      "artists": [
+        {
+          "name": "Chamsom",
+          "url": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
+        },
+        {
+          "name": "JEONAIN",
+          "url": "https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159247,
+      "name": "MBTI (feat. JEONAIN)",
+      "url": "https://open.spotify.com/track/00ngsIo6DNIRty1ARrAeDk"
+    },
+    {
+      "album": {
         "name": "McNasty",
         "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
       },
@@ -126616,6 +126692,24 @@
       "duration_ms": 188427,
       "name": "My One",
       "url": "https://open.spotify.com/track/67dGM7vsArZNWZ9qrXFKsR"
+    },
+    {
+      "album": {
+        "name": "My One and Only",
+        "url": "https://open.spotify.com/album/1SKfPz2zR3mOWx3M32NFUZ"
+      },
+      "artists": [
+        {
+          "name": "Yein",
+          "url": "https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "My One and Only",
+      "url": "https://open.spotify.com/track/1zYJexgxwWcRfFe400YPKd"
     },
     {
       "album": {
@@ -148248,6 +148342,24 @@
       "duration_ms": 226906,
       "name": "Rachacha",
       "url": "https://open.spotify.com/track/7hPwwu8WY6khgbieQZntAS"
+    },
+    {
+      "album": {
+        "name": "Y2K TAPE",
+        "url": "https://open.spotify.com/album/1OknC3vCmtSeTXnCkoxE1y"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "RADIO",
+      "url": "https://open.spotify.com/track/7n8Q0Munp9VPDUgZGJ6qa1"
     },
     {
       "album": {
@@ -189787,6 +189899,24 @@
     },
     {
       "album": {
+        "name": "To Be Forgotten",
+        "url": "https://open.spotify.com/album/2TwUuRm0CcH2kxzxlGEuhG"
+      },
+      "artists": [
+        {
+          "name": "Kim Yoon Hee",
+          "url": "https://open.spotify.com/artist/6XAymhtlGpm4EOWElxhjC0"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229171,
+      "name": "To Be Forgotten",
+      "url": "https://open.spotify.com/track/5lNVflF7T362750B55DSDN"
+    },
+    {
+      "album": {
         "name": "To be honest",
         "url": "https://open.spotify.com/album/5pFXN6DU3OjKKo7Jt1sb74"
       },
@@ -190152,7 +190282,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 158680,
       "name": "To Reach You",
       "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
@@ -195654,7 +195784,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 152500,
       "name": "Universe",
       "url": "https://open.spotify.com/track/5SRsNgwKzVCrNS09jiM4MK"
@@ -204350,7 +204480,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 169786,
       "name": "WHEE!",
       "url": "https://open.spotify.com/track/3UCnEKnght7sSlycogaSak"
@@ -208291,6 +208421,24 @@
     },
     {
       "album": {
+        "name": "WINDOW",
+        "url": "https://open.spotify.com/album/2LFU26NCXTh3tckm9nne7e"
+      },
+      "artists": [
+        {
+          "name": "PL",
+          "url": "https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "WINDOW",
+      "url": "https://open.spotify.com/track/4PdTwe7KfxxI5TXxYD1P9J"
+    },
+    {
+      "album": {
         "name": "Window",
         "url": "https://open.spotify.com/album/286La3Jy7Ja4uXm0GLvxmj"
       },
@@ -211515,6 +211663,28 @@
     },
     {
       "album": {
+        "name": "WYTD (Feat. JOONIE)",
+        "url": "https://open.spotify.com/album/5vhgWZQw7RDKxAVKYww1t7"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        },
+        {
+          "name": "JOONIE",
+          "url": "https://open.spotify.com/artist/3eXkt1nVfgCsKiMIupInVZ"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158243,
+      "name": "WYTD (Feat. JOONIE)",
+      "url": "https://open.spotify.com/track/7dVBCTWjY7a95cIuAn2p77"
+    },
+    {
+      "album": {
         "name": "[ Rorschach ] Part 2",
         "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
       },
@@ -212056,7 +212226,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 191801,
       "name": "YELLOW",
       "url": "https://open.spotify.com/track/7jKwFhIqA1a1HLk6AsVDYc"
@@ -216592,6 +216762,24 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/3BJEs64DRdk7ieFcVmkiL4"
+      },
+      "artists": [
+        {
+          "name": "Bye Bye Badman",
+          "url": "https://open.spotify.com/artist/14stFRB2PwF6QdKNHDdMnh"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239263,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/0V55yoQCXcqzMG3QU5lRl6"
     },
     {
       "album": {

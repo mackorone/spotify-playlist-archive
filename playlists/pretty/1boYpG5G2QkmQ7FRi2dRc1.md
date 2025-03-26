@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 289,095 likes - 36 songs - 1 hr 59 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 289,084 likes - 36 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 29 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 |
 | 30 | [Juice](https://open.spotify.com/track/5Z4fVgbRNz1aPy6bdf2jca) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Juice](https://open.spotify.com/album/2iY3g0sYtGjooe98tq46MB) | 3:22 |
 | 31 | [Where Did You Go](https://open.spotify.com/track/2uSzybi2WiQq53sV4YP0L5) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Where Did You Go](https://open.spotify.com/album/22SUak4hVnLacCQKUHjMi0) | 2:12 |
-| 32 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 |
+| 32 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 |
 | 33 | [Goodbye](https://open.spotify.com/track/3AMD3YBrlPw3NxZqNULK4H) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Goodbye](https://open.spotify.com/album/4wJJ91qvsRkV91wRjnCbJX) | 3:29 |
 | 34 | [Just Another Love Song \- Radio](https://open.spotify.com/track/572OoFzBv3brHdVzTVXJOB) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Just Another Love Song \(Radio\)](https://open.spotify.com/album/1YBVE7xgGCmQg6ocp0sKjq) | 4:44 |
 | 35 | [Give Me Your Energy](https://open.spotify.com/track/2nDk0yjTb7DBr6HoE96Y0z) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Will Cain](https://open.spotify.com/artist/6geQBRSOoOQgjy0wRpNZfZ) | [Give Me Your Energy](https://open.spotify.com/album/6Oe3fT6TrgPs3VwhXIkrBu) | 2:05 |

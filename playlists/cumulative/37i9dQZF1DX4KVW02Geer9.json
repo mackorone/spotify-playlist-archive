@@ -1231,6 +1231,36 @@
     },
     {
       "album": {
+        "name": "Tokyo Quartet",
+        "url": "https://open.spotify.com/album/3LTdeLIwuoWVbxvJml5AG7"
+      },
+      "artists": [
+        {
+          "name": "\u4e95\u4e0a\u9298",
+          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
+        },
+        {
+          "name": "David Bryant",
+          "url": "https://open.spotify.com/artist/2jGd4zEZ9WqoOqhdDjT8PX"
+        },
+        {
+          "name": "Marty Holoubek",
+          "url": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "Darn That Stream",
+      "url": "https://open.spotify.com/track/1KePdA771IrZuwbnVkMugX"
+    },
+    {
+      "album": {
         "name": "david",
         "url": "https://open.spotify.com/album/6MNMvxkiPfHkCxUYVM1dcj"
       },
@@ -1726,7 +1756,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 171226,
       "name": "Free",
       "url": "https://open.spotify.com/track/698G8JleGPVeEXZBpaGGlC"

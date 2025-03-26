@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,225 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,238 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 | 5 | [Kannoram \- From Naam Series](https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [T Suriavelan](https://open.spotify.com/artist/62pHLcXg1Hp1QaiX3l1IsR), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kannoram \(From Naam Series\)](https://open.spotify.com/album/0OX03EF2d7QRRzx8YtANXQ) | 5:21 |
 | 6 | [Kaadhal Alaipayuthey](https://open.spotify.com/track/0gn50It1wJxkhAn7IQe5XS) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Kaadhal Alaipayuthey](https://open.spotify.com/album/4xZOOlqlaIY9CZcwt2Rjjn) | 3:04 |
 | 7 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 |
-| 8 | [Tharunangal \- From "Think Indie"](https://open.spotify.com/track/0MBe9DRlGzrJFRteb7kA3i) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Tharunangal \(From "Think Indie"\)](https://open.spotify.com/album/5F5U3hC2yuHOA7CMN068bC) | 2:28 |
+| 8 | [Tharunangal \- From "Think Indie"](https://open.spotify.com/track/0MBe9DRlGzrJFRteb7kA3i) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [Tharunangal \(From "Think Indie"\)](https://open.spotify.com/album/5F5U3hC2yuHOA7CMN068bC) | 2:28 |
 | 9 | [Pagal Iravai \| Maraigirai](https://open.spotify.com/track/2jQQTuzwJWEtwayffAADIe) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI) | [Pagal Iravai \| Maraigirai](https://open.spotify.com/album/4Et3flF6ldGOucwRw22VEd) | 4:48 |
 | 10 | [Neethaney](https://open.spotify.com/track/4nBLO0QAckCUSVaT24xjAV) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Priya Jerson](https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2) | [Neethaney](https://open.spotify.com/album/2dO7hYYYZUaoGIQvAmtDnK) | 4:13 |
 | 11 | [Manam](https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Manam](https://open.spotify.com/album/1PjbUFaXW8HFuvYGwIwtdd) | 4:00 |

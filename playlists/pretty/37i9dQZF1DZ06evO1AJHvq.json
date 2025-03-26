@@ -1,12 +1,12 @@
 {
   "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 434358,
+  "num_followers": 434410,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAAB+yRFjiGzmYSRgG17VZilw",
+  "snapshot_id": "Z+CggAAAAAB2eb3VcPoTlJtycDwptZsb",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relatos de Jefes",
-        "url": "https://open.spotify.com/album/4k2TGFs6r9LSWdDk86Wg6o"
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
       },
       "artists": [
-        {
-          "name": "Jos\u00e9 Guicho",
-          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
-        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 211533,
-      "name": "El Guero de Guamuchil",
-      "url": "https://open.spotify.com/track/07Elm8YRCmlAZcz8YVA7dV"
+      "duration_ms": 252107,
+      "name": "La Muerte Del Cardenal",
+      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+        "name": "Relatos de Jefes",
+        "url": "https://open.spotify.com/album/4k2TGFs6r9LSWdDk86Wg6o"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Guicho",
+          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
+        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 252107,
-      "name": "La Muerte Del Cardenal",
-      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
+      "duration_ms": 211533,
+      "name": "El Guero de Guamuchil",
+      "url": "https://open.spotify.com/track/07Elm8YRCmlAZcz8YVA7dV"
     },
     {
       "added_at": null,

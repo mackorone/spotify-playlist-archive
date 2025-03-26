@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,716 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,717 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 4 | [Roseuhh](https://open.spotify.com/track/5vAzNd2oiafo5yB79MII1u) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Muji Fit](https://open.spotify.com/artist/3AKk2SrkSQUqW3F2WfSsbq) | [Roseuhh](https://open.spotify.com/album/4hV8WQ4LF45Zvqy331fCRX) | 3:48 |
 | 5 | [Iruppen](https://open.spotify.com/track/6zYC2cUgamLYbi7LbjKg74) | [Vathshan](https://open.spotify.com/artist/6ri9k2w6ZVXHghuukFQjcz), [Jerone B](https://open.spotify.com/artist/4EYTQPjQI2KbkhdCziPYd5) | [Iruppen](https://open.spotify.com/album/2PguHoayiMNOx3mzll6zrf) | 4:03 |
 | 6 | [Soul](https://open.spotify.com/track/5IalEiACOaWwafT5K0CENa) | [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Punitha Ramakrishnan](https://open.spotify.com/artist/1eSxNM0BFeaFCV3OQ7sipM) | [Soul](https://open.spotify.com/album/5jRl6diqbmVdmNzmvBxBN3) | 3:35 |
-| 7 | [Tharunangal \- From "Think Indie"](https://open.spotify.com/track/0MBe9DRlGzrJFRteb7kA3i) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Tharunangal \(From "Think Indie"\)](https://open.spotify.com/album/5F5U3hC2yuHOA7CMN068bC) | 2:28 |
+| 7 | [Tharunangal \- From "Think Indie"](https://open.spotify.com/track/0MBe9DRlGzrJFRteb7kA3i) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [Tharunangal \(From "Think Indie"\)](https://open.spotify.com/album/5F5U3hC2yuHOA7CMN068bC) | 2:28 |
 | 8 | [Padhe Padhe \(1mm Originals\)](https://open.spotify.com/track/0jMWvP1cdTtvLheCUJSMss) | [Dinesh Chandrasekhar](https://open.spotify.com/artist/1JQFKVPnyx86axpdxADe7K), [Sashank S](https://open.spotify.com/artist/4rv5ShQhoPBKGiuydRLdTH), [Kapa Chaitanya](https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk) | [Padhe Padhe \(1mm Originals\)](https://open.spotify.com/album/6SsmTthKyQAf2gK214dL4v) | 2:51 |
 | 9 | [Adiye Paduthadha](https://open.spotify.com/track/0eJfW6OvnpAlU4c7j3Y7Sj) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Adiye Paduthadha](https://open.spotify.com/album/0ENQp0ak7FMjhgTWvstp0F) | 3:38 |
 | 10 | [Empty hand](https://open.spotify.com/track/3njyySsHr7viXEfgxv5v3U) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB), [Guru Gopalan](https://open.spotify.com/artist/3ZCZd3bpEeDoCczZUBNPYW) | [Empty hand](https://open.spotify.com/album/2IDykOuQ2l1S5knqnGP2Ri) | 3:01 |

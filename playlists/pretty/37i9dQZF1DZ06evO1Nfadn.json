@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 31601,
+  "num_followers": 31616,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAABLVa4KzubkuexyKwO5H52/",
+  "snapshot_id": "Z+CggAAAAADsS5/euE61C8ezNXgAQAxN",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "La Prendita",
-      "url": "https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 166900,
       "name": "El Toca Toca",
       "url": "https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "La Prendita",
+      "url": "https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE"
     },
     {
       "added_at": null,
@@ -251,6 +251,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "Te Lavaste la Cara, El Mono No",
+      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 145880,
+      "name": "La Estrella De Los Bailes",
+      "url": "https://open.spotify.com/track/6nL6rki8gwWb0b0fRPkgAq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los 15 para Coleccionar",
         "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
@@ -276,41 +324,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 145880,
-      "name": "La Estrella De Los Bailes",
-      "url": "https://open.spotify.com/track/6nL6rki8gwWb0b0fRPkgAq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 170933,
-      "name": "Te Lavaste la Cara, El Mono No",
-      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
+      "duration_ms": 162400,
+      "name": "Los Hombres No Deben Llorar - Live Version",
+      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
     },
     {
       "added_at": null,
@@ -327,22 +343,6 @@
       "duration_ms": 211306,
       "name": "El Toro Pinto",
       "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Los Hombres No Deben Llorar - Live Version",
-      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
     },
     {
       "added_at": null,

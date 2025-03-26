@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 277733,
       "name": "Haremachi Note",
       "url": "https://open.spotify.com/track/5HE3LrVAHKRSQkr1Wi9uPR"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 253040,
       "name": "illminate",
       "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
@@ -826,10 +826,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 247013,
       "name": "Magie Magie",
       "url": "https://open.spotify.com/track/7MgKJtAKVJ2wSmZ7ixC6Uq"
+    },
+    {
+      "album": {
+        "name": "Magie\u00d7Magie",
+        "url": "https://open.spotify.com/album/4FLYXuJ7Qn1X5oYvVDaCau"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247013,
+      "name": "Magie\u00d7Magie",
+      "url": "https://open.spotify.com/track/3EZBAhq6Sxgu3QquGJpVlx"
     },
     {
       "album": {
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 277986,
       "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
       "url": "https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R"

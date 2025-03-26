@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:6aHaYKL09sA8L260zXNlVR">andreas odbjerg</a>, Soleima, Mille og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,450 likes - 103 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,444 likes - 103 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 13 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
 | 14 | [Jeg Sagde Op Som Gud I Dag](https://open.spotify.com/track/62uYReifLRkjethFCkENyu) | [Jacob Aksglæde](https://open.spotify.com/artist/38OuwRRstYfgqeP4EciiWU) | [Jeg Sagde Op Som Gud I Dag](https://open.spotify.com/album/118xYoNrhysTJMvmOxVePR) | 2:40 |
 | 15 | [gyldne løfter](https://open.spotify.com/track/4v1vC9ENhra6G8Qj95TJ9L) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [gyldne løfter](https://open.spotify.com/album/1OUMoazluzkG5nD8MI2BmQ) | 3:39 |
-| 16 | [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:23 |
+| 16 | [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:24 |
 | 17 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
 | 18 | [Hvor Er Du](https://open.spotify.com/track/71bdCscxsxiZihuKXComwu) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Til Hyggen og Til Livet](https://open.spotify.com/album/0jDfy9ZrYUXz9ZE5nVqUgO) | 2:30 |
 | 19 | [Breakaway](https://open.spotify.com/track/5BU8oF2vMA3qmiQiQzfJJO) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Breakaway](https://open.spotify.com/album/1Y16vmFyudlX72r8vPNW1d) | 2:26 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 52 | [Just Go](https://open.spotify.com/track/1RZLqmoCuVeKWXWyp9cLtU) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Just Go](https://open.spotify.com/album/3sIldPKhUAQYdy5AOrgEvV) | 3:37 |
 | 53 | [You're Gonna Worry About Me One Day](https://open.spotify.com/track/1vBfEbQ0DXkwUEPhYtLnb5) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Delicious Delusional](https://open.spotify.com/album/2qjNiLhOarJTEWpPvXCJiC) | 3:54 |
 | 54 | [Guaro con Ron](https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Guaro con Ron](https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2) | 2:28 |
-| 55 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 |
+| 55 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 |
 | 56 | [Just Because](https://open.spotify.com/track/3bFQKB80kvUlSplBWTFQwL) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Just Because](https://open.spotify.com/album/3DkyRfGlAnAGvs8ZNrcHBp) | 2:50 |
 | 57 | [Sleep When We're Dead](https://open.spotify.com/track/35fc0NCsFFXUkRkMJQZ0b2) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Sleep When We're Dead](https://open.spotify.com/album/6KupgnVlFhSUX0sjBvwbFy) | 3:40 |
 | 58 | [Proud](https://open.spotify.com/track/5Bnno6b2mmVozAO80DaA6T) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Proud](https://open.spotify.com/album/4x076qhw4E5POtKrEx3lDK) | 2:32 |

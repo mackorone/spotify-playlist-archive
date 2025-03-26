@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06?si=el9vhdyPQqGXOi\-QIAcwDg"> AKIA</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,479 likes - 286 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,534 likes - 286 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

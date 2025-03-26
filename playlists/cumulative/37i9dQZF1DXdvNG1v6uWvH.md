@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Jack Harlow, Ólafur Arnalds og mörgum fleiri!
 
-5,024 songs - 11 day 5 hr 22 min
+5,024 songs - 11 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 | 2024-08-16 |
 | [Beacons \- Edit](https://open.spotify.com/track/6Urj5dnoHKvq3Wl9FvwvBh) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Beacons](https://open.spotify.com/album/4q3JcToGd900RL1cdpiTJ0) | 6:12 | 2025-01-03 | 2025-01-10 |
 | [bear walk](https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california / bear walk](https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy) | 3:33 | 2024-12-06 | 2024-12-14 |
-| [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:23 | 2025-03-21 |  |
+| [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:24 | 2025-03-21 |  |
 | [Beat Fantasy](https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Beat Fantasy](https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy) | 3:07 | 2024-08-09 | 2024-08-16 |
 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 | 2024-11-22 | 2024-11-29 |
 | [Beating](https://open.spotify.com/track/5Tj1A91y13B94NzsuAiZMp) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [Beating](https://open.spotify.com/album/1YMYUHnCU5ZVqrNAD9uRBh) | 4:50 | 2025-01-03 | 2025-01-10 |
@@ -1338,7 +1338,7 @@
 | [Everything's Here And Nothing's Lost](https://open.spotify.com/track/73Dz3M1a3bWmwosBBB08xD) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path](https://open.spotify.com/album/7cbi6YeBaCjEdyzMdtwG45) | 4:06 | 2024-09-13 | 2024-09-20 |
 | [EVERYTIME](https://open.spotify.com/track/6H1tgszM6u4Q62qpqZyhop) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [EVERYTIME](https://open.spotify.com/album/0vRHjWxollDMNFKeJqHiAa) | 2:35 | 2024-11-15 | 2024-11-22 |
 | [Everytime](https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Everytime](https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy) | 2:49 | 2024-06-28 | 2024-07-05 |
-| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 | 2025-03-21 |  |
+| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 | 2025-03-21 |  |
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2024-07-26 | 2024-08-03 |
 | [EXIT 9 \- with Blxst and Offset](https://open.spotify.com/track/542Yp18797lywr3zZTG2sC) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [EXIT 9 \(with Blxst and Offset\)](https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl) | 3:30 | 2024-04-26 | 2024-05-03 |
 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-02-21 | 2025-02-28 |

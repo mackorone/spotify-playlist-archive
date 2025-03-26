@@ -174,7 +174,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 375519,
       "name": "after snow (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5emnRRtcWwmd9RVnJ0cHNd"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 136500,
       "name": "\u3042\u306e\u9803\u306e\u50d5 (feat. KAITO)",
       "url": "https://open.spotify.com/track/3sLciWztJqolcFYCjcfbmk"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 178342,
       "name": "\u3066\u3044\u304d\u3063\u3066\u3043\u30fc\u3058\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4n0I1EfexojDuAmAUd0lkU"
@@ -2805,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "\u30be\u30f3\u30d3\u306e\u30d1\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/0e8yDW7o1AJR2n1IDBerog"
+      },
+      "artists": [
+        {
+          "name": "\u8584\u5869\u6307\u6570",
+          "url": "https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u30be\u30f3\u30d3\u306e\u30d1\u30f3\u30c1 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/4cPiE1hYhYyS8gDdaGEfz7"
+    },
+    {
+      "album": {
         "name": "\u30e0\u30b8\u30ce\u30e0\u30b8\u30ab",
         "url": "https://open.spotify.com/album/0SQoB6R2kwzQ6cVcZFqPWs"
       },
@@ -3302,7 +3324,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 226750,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b3\u30fc\u30d2\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0t21zZWoPnWm7ThRiS4PO3"
@@ -3877,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "Sad Dancer",
+        "url": "https://open.spotify.com/album/1HWuQmW8s6LPUrTnxhdsQt"
+      },
+      "artists": [
+        {
+          "name": "\u306d\u3058\u5f0f",
+          "url": "https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232264,
+      "name": "\u57f7\u7740\u5217\u8eca",
+      "url": "https://open.spotify.com/track/1o6OmnpavwKEoTk846yQke"
+    },
+    {
+      "album": {
         "name": "\u590f\u304c\u96f6\u308c\u3066\u3086\u304f",
         "url": "https://open.spotify.com/album/44g5X0WFJrAyfMIOinNQfO"
       },
@@ -4056,7 +4096,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 249000,
       "name": "\u5bc6\u304b\u306a\u308b\u4ea4\u4fe1\u66f2 (Resewed by \u306d\u3053\u3080\u3089)",
       "url": "https://open.spotify.com/track/0rvnULP8z3U3muTYa2aVnG"
@@ -4242,6 +4282,24 @@
       "duration_ms": 279782,
       "name": "\u65e5\u4ed8\u5909\u66f4\u7dda",
       "url": "https://open.spotify.com/track/2adCfkUDD1bS6fcXVPLlTe"
+    },
+    {
+      "album": {
+        "name": "\u6625\u3092\u5f85\u3064\u4eba",
+        "url": "https://open.spotify.com/album/7LHRwd0Wcz698WdMs7DdCB"
+      },
+      "artists": [
+        {
+          "name": "PolyphonicBranch",
+          "url": "https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270234,
+      "name": "\u6625\u3092\u5f85\u3064\u4eba (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7MwXqqRUI80QgoalRxuEYz"
     },
     {
       "album": {
@@ -4710,7 +4768,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 217040,
       "name": "\u79d8\u5bc6\u306e\u5712 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1mVhlQXSXpNzxohMwRmsKa"
@@ -4790,6 +4848,28 @@
       "duration_ms": 330750,
       "name": "\u8272\u5f69\u306e\u8857 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1i2KRYbtrWiblUuBOUP4kR"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u3005\u6625\u306f\u307e\u305f\u5efb\u308b",
+        "url": "https://open.spotify.com/album/5Pztu5thNKc6u6SaL7zcQJ"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30be\u30f3",
+          "url": "https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "\u82b1\u3005\u6625\u306f\u307e\u305f\u5efb\u308b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7nYcHorqr8YLUWKIxlFv6H"
     },
     {
       "album": {

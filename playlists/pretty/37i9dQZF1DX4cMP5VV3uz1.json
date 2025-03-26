@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 162817,
+  "num_followers": 162828,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,26 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
+        "name": "Innocence 2025",
+        "url": "https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Innocence 2025",
+      "url": "https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73"
+    },
+    {
+      "added_at": "2025-03-14 14:56:07",
+      "album": {
         "name": "CHARGIE",
         "url": "https://open.spotify.com/album/6tMEfHFJfpGBpIIbbu7fFo"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 139457,
       "name": "CHARGIE",
       "url": "https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se"
-    },
-    {
-      "added_at": "2025-03-14 14:56:07",
-      "album": {
-        "name": "Innocence 2025",
-        "url": "https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        },
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Innocence 2025",
-      "url": "https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -455,6 +455,38 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
+        "name": "Stop & Search",
+        "url": "https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa"
+      },
+      "artists": [
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        }
+      ],
+      "duration_ms": 202858,
+      "name": "Stop & Search",
+      "url": "https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k"
+    },
+    {
+      "added_at": "2025-03-14 14:56:07",
+      "album": {
         "name": "Pon Di Bill",
         "url": "https://open.spotify.com/album/49I7wRDjGNocN5R2jIHFQ9"
       },
@@ -491,38 +523,6 @@
       "duration_ms": 209000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/250zOPOsHbZPEIeXmmipTR"
-    },
-    {
-      "added_at": "2025-03-14 14:56:07",
-      "album": {
-        "name": "Stop & Search",
-        "url": "https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa"
-      },
-      "artists": [
-        {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        },
-        {
-          "name": "Sweetie Irie",
-          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
-        },
-        {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Stop & Search",
-      "url": "https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -671,6 +671,26 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
+        "name": "Rubber Dub",
+        "url": "https://open.spotify.com/album/2jk4LHprmTfFc6zb0fOqht"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 235034,
+      "name": "Rubber Dub",
+      "url": "https://open.spotify.com/track/46dSNuFP3DFThvZyaBu5F5"
+    },
+    {
+      "added_at": "2025-03-14 14:56:07",
+      "album": {
         "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
         "url": "https://open.spotify.com/album/3c7tJnWUuYVCpcmeia459g"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 172413,
       "name": "Break It Down (feat. Emily Makis)",
       "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
-    },
-    {
-      "added_at": "2025-03-14 14:56:07",
-      "album": {
-        "name": "Rubber Dub",
-        "url": "https://open.spotify.com/album/2jk4LHprmTfFc6zb0fOqht"
-      },
-      "artists": [
-        {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 235034,
-      "name": "Rubber Dub",
-      "url": "https://open.spotify.com/track/46dSNuFP3DFThvZyaBu5F5"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 205517,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1gewxLCOFAUMimCaClzZEc"
+    },
+    {
+      "added_at": "2025-03-14 14:56:07",
+      "album": {
         "name": "Need Me So",
         "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 195348,
       "name": "Did I Forget Something",
       "url": "https://open.spotify.com/track/5rEPTlWwMXWZ3oXfwe30FA"
-    },
-    {
-      "added_at": "2025-03-14 14:56:07",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 205517,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1gewxLCOFAUMimCaClzZEc"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
-        "name": "Jungle Diva",
-        "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
+        "name": "Dubplate SZN",
+        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
       "artists": [
         {
@@ -1140,41 +1140,17 @@
           "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
         },
         {
-          "name": "Sarah Ikumu",
-          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
         },
         {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
         }
       ],
-      "duration_ms": 189176,
-      "name": "Jungle Diva",
-      "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
-    },
-    {
-      "added_at": "2025-03-14 14:56:07",
-      "album": {
-        "name": "Bass & Treble",
-        "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
-      },
-      "artists": [
-        {
-          "name": "Jappa",
-          "url": "https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI"
-        },
-        {
-          "name": "Wish Master",
-          "url": "https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn"
-        }
-      ],
-      "duration_ms": 228024,
-      "name": "Bass & Treble",
-      "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
+      "duration_ms": 190344,
+      "name": "Dubplate SZN",
+      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -1203,6 +1179,26 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
+        "name": "Bass & Treble",
+        "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
+      },
+      "artists": [
+        {
+          "name": "Jappa",
+          "url": "https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI"
+        },
+        {
+          "name": "Wish Master",
+          "url": "https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn"
+        }
+      ],
+      "duration_ms": 228024,
+      "name": "Bass & Treble",
+      "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
+    },
+    {
+      "added_at": "2025-03-14 14:56:07",
+      "album": {
         "name": "Freak Out",
         "url": "https://open.spotify.com/album/6YCaD2ZExyy10c99NxKVBD"
       },
@@ -1219,6 +1215,22 @@
       "duration_ms": 245517,
       "name": "Freak Out",
       "url": "https://open.spotify.com/track/0CCf2rqQQj1f49fFGmcLe8"
+    },
+    {
+      "added_at": "2025-03-14 14:56:07",
+      "album": {
+        "name": "I Miss The Old Macky",
+        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 155056,
+      "name": "I Miss The Old Macky",
+      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -1243,24 +1255,8 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
-        "name": "Loud Enuff",
-        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 177977,
-      "name": "Loud Enuff",
-      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
-    },
-    {
-      "added_at": "2025-03-14 14:56:07",
-      "album": {
-        "name": "Dubplate SZN",
-        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
+        "name": "Jungle Diva",
+        "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
       },
       "artists": [
         {
@@ -1268,17 +1264,21 @@
           "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
         },
         {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+          "name": "Sarah Ikumu",
+          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
         },
         {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Dubplate SZN",
-      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
+      "duration_ms": 189176,
+      "name": "Jungle Diva",
+      "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -1295,30 +1295,6 @@
       "duration_ms": 162068,
       "name": "Old School",
       "url": "https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr"
-    },
-    {
-      "added_at": "2025-03-14 14:56:07",
-      "album": {
-        "name": "Mad Ting",
-        "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Moody Good",
-          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 194685,
-      "name": "Mad Ting",
-      "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -1359,6 +1335,30 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
+        "name": "Mad Ting",
+        "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 194685,
+      "name": "Mad Ting",
+      "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "added_at": "2025-03-14 14:56:07",
+      "album": {
         "name": "Nancy Junglist",
         "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
       },
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
+        "name": "Loud Enuff",
+        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Loud Enuff",
+      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
+    },
+    {
+      "added_at": "2025-03-14 14:56:07",
+      "album": {
         "name": "Spire",
         "url": "https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x"
       },
@@ -1395,18 +1411,26 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
-        "name": "I Miss The Old Macky",
-        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
+        "name": "Bad Boy Horns",
+        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+        },
+        {
+          "name": "Waeys",
+          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
         }
       ],
-      "duration_ms": 155056,
-      "name": "I Miss The Old Macky",
-      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
+      "duration_ms": 252342,
+      "name": "Bad Boy Horns",
+      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
     },
     {
       "added_at": "2025-03-14 14:56:07",
@@ -1451,22 +1475,6 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
-        "name": "Abomination",
-        "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 168017,
-      "name": "Abomination",
-      "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
-    },
-    {
-      "added_at": "2025-03-14 14:56:07",
-      "album": {
         "name": "From The Dirt",
         "url": "https://open.spotify.com/album/5a87llnssLqkYFKLD0pqoL"
       },
@@ -1487,26 +1495,18 @@
     {
       "added_at": "2025-03-14 14:56:07",
       "album": {
-        "name": "Bad Boy Horns",
-        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
+        "name": "Abomination",
+        "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
       },
       "artists": [
         {
-          "name": "Kelvin 373",
-          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
-        },
-        {
-          "name": "Waeys",
-          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
-        },
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
         }
       ],
-      "duration_ms": 252342,
-      "name": "Bad Boy Horns",
-      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
+      "duration_ms": 168017,
+      "name": "Abomination",
+      "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
     },
     {
       "added_at": "2025-03-14 14:56:07",

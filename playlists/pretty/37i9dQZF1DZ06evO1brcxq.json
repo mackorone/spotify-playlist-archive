@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 148219,
+  "num_followers": 148297,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z99PAAAAAADdvV3QbYg8eDYC8Z0n8V90",
+  "snapshot_id": "Z+CggAAAAAAFV42zMhGD0B36OJLdFKU/",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELIO and Friends : The Remixes",
-        "url": "https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96"
+        "name": "Welcome To My Island (George Daniel & Charli XCX Remix)",
+        "url": "https://open.spotify.com/album/59dB0tQKHfwA837bRXuId4"
       },
       "artists": [
         {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         },
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "George Daniel",
+          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
         }
       ],
-      "duration_ms": 147368,
-      "name": "CHARGER (ft. Charli XCX)",
-      "url": "https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1"
+      "duration_ms": 202494,
+      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
+      "url": "https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2"
     },
     {
       "added_at": null,
@@ -847,26 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To My Island (George Daniel & Charli XCX Remix)",
-        "url": "https://open.spotify.com/album/59dB0tQKHfwA837bRXuId4"
+        "name": "ELIO and Friends : The Remixes",
+        "url": "https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
         },
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "George Daniel",
-          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
         }
       ],
-      "duration_ms": 202494,
-      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
-      "url": "https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2"
+      "duration_ms": 147368,
+      "name": "CHARGER (ft. Charli XCX)",
+      "url": "https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1"
     },
     {
       "added_at": null,

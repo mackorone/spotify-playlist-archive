@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 21736,
+  "num_followers": 21753,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-18 15:00:35",
       "album": {
-        "name": "KJ SEASON2",
-        "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
-      },
-      "artists": [
-        {
-          "name": "Kohjiya",
-          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
-        }
-      ],
-      "duration_ms": 122853,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/62mAKN9Ntrp9MFjBrbuTps"
-    },
-    {
-      "added_at": "2025-03-18 15:00:35",
-      "album": {
         "name": "NEW REAL (feat. Young Zetton)",
         "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 195375,
       "name": "NEW REAL (feat. Young Zetton)",
       "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
+    },
+    {
+      "added_at": "2025-03-18 15:00:35",
+      "album": {
+        "name": "KJ SEASON2",
+        "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "duration_ms": 122853,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/62mAKN9Ntrp9MFjBrbuTps"
     },
     {
       "added_at": "2025-03-18 15:00:35",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-03-18 15:00:35",
       "album": {
-        "name": "WOKE UP",
-        "url": "https://open.spotify.com/album/5bSVXn0a60q4pOpw9RTewh"
-      },
-      "artists": [
-        {
-          "name": "Young Coco",
-          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
-        }
-      ],
-      "duration_ms": 128289,
-      "name": "WOKE UP",
-      "url": "https://open.spotify.com/track/11JSTlSpQZbqbPLtwww8fW"
-    },
-    {
-      "added_at": "2025-03-18 15:00:35",
-      "album": {
         "name": "POP KILLERS (feat. ralph)",
         "url": "https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 159620,
       "name": "POP KILLERS (feat. ralph)",
       "url": "https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC"
+    },
+    {
+      "added_at": "2025-03-18 15:00:35",
+      "album": {
+        "name": "Yoyogi Alien",
+        "url": "https://open.spotify.com/album/1YDJUDRGsTWG8pSF3hR18O"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Yoyogi Alien",
+      "url": "https://open.spotify.com/track/3uyJWZDb8i49fmZSqPuc1F"
     },
     {
       "added_at": "2025-03-18 15:00:35",
@@ -871,6 +871,42 @@
     {
       "added_at": "2025-03-18 15:00:35",
       "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/5bSVXn0a60q4pOpw9RTewh"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "duration_ms": 128289,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/11JSTlSpQZbqbPLtwww8fW"
+    },
+    {
+      "added_at": "2025-03-18 15:00:35",
+      "album": {
+        "name": "Step Into The Arena",
+        "url": "https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "duration_ms": 226126,
+      "name": "Step Into The Arena",
+      "url": "https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka"
+    },
+    {
+      "added_at": "2025-03-18 15:00:35",
+      "album": {
         "name": "SUSUME (feat. NENE & JP THE WAVY)",
         "url": "https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh"
       },
@@ -895,18 +931,22 @@
     {
       "added_at": "2025-03-18 15:00:35",
       "album": {
-        "name": "Yoyogi Alien",
-        "url": "https://open.spotify.com/album/1YDJUDRGsTWG8pSF3hR18O"
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1"
       },
       "artists": [
         {
-          "name": "Young Coco",
-          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        },
+        {
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Yoyogi Alien",
-      "url": "https://open.spotify.com/track/3uyJWZDb8i49fmZSqPuc1F"
+      "duration_ms": 157625,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw"
     },
     {
       "added_at": "2025-03-18 15:00:35",
@@ -935,26 +975,6 @@
     {
       "added_at": "2025-03-18 15:00:35",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1"
-      },
-      "artists": [
-        {
-          "name": "Jin Dogg",
-          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
-        },
-        {
-          "name": "OVER KILL",
-          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
-        }
-      ],
-      "duration_ms": 157625,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw"
-    },
-    {
-      "added_at": "2025-03-18 15:00:35",
-      "album": {
         "name": "\u30e4\u30d0\u3044\u306a",
         "url": "https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 149619,
       "name": "\u30e4\u30d0\u3044\u306a",
       "url": "https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe"
-    },
-    {
-      "added_at": "2025-03-18 15:00:35",
-      "album": {
-        "name": "Step Into The Arena",
-        "url": "https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec"
-      },
-      "artists": [
-        {
-          "name": "PUNPEE",
-          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
-        },
-        {
-          "name": "JJJ",
-          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
-        }
-      ],
-      "duration_ms": 226126,
-      "name": "Step Into The Arena",
-      "url": "https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka"
     },
     {
       "added_at": "2025-03-18 15:00:35",

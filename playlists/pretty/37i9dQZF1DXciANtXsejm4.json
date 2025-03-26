@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 293767,
+  "num_followers": 293845,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
-    },
-    {
-      "added_at": "2025-03-14 20:59:39",
-      "album": {
         "name": "Mil preguntas",
         "url": "https://open.spotify.com/album/7lza5ZZmSVr77GQhfiSgjs"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 189286,
       "name": "Mil preguntas",
       "url": "https://open.spotify.com/track/1sWSkjycfa70S1zcn0zWA3"
+    },
+    {
+      "added_at": "2025-03-14 20:59:39",
+      "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2025-03-14 20:59:39",
@@ -767,18 +767,22 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+        "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
+        "url": "https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U"
       },
       "artists": [
         {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+          "name": "Los Amantes",
+          "url": "https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+      "duration_ms": 415610,
+      "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
+      "url": "https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu"
     },
     {
       "added_at": "2025-03-14 20:59:39",
@@ -799,38 +803,18 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
-        "name": "No se va",
-        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
       "artists": [
         {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 258937,
-      "name": "No se va",
-      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
-    },
-    {
-      "added_at": "2025-03-14 20:59:39",
-      "album": {
-        "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
-        "url": "https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U"
-      },
-      "artists": [
-        {
-          "name": "Los Amantes",
-          "url": "https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 415610,
-      "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
-      "url": "https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu"
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2025-03-14 20:59:39",
@@ -863,6 +847,22 @@
       "duration_ms": 192106,
       "name": "Ojal\u00e1 Que No Puedas",
       "url": "https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl"
+    },
+    {
+      "added_at": "2025-03-14 20:59:39",
+      "album": {
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
     },
     {
       "added_at": "2025-03-14 20:59:39",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
-        "name": "Cumbia Santafesina",
-        "url": "https://open.spotify.com/album/7mDi628GH3nmQeOH88RAIz"
-      },
-      "artists": [
-        {
-          "name": "Walter Encina",
-          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "No Me Di Cuenta",
-      "url": "https://open.spotify.com/track/3XtkRaIHYhaeio9C5MK7MU"
-    },
-    {
-      "added_at": "2025-03-14 20:59:39",
-      "album": {
         "name": "Grupo Trinidad y Sus Cantantes",
         "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
       "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
+    },
+    {
+      "added_at": "2025-03-14 20:59:39",
+      "album": {
+        "name": "Cumbia Santafesina",
+        "url": "https://open.spotify.com/album/7mDi628GH3nmQeOH88RAIz"
+      },
+      "artists": [
+        {
+          "name": "Walter Encina",
+          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "No Me Di Cuenta",
+      "url": "https://open.spotify.com/track/3XtkRaIHYhaeio9C5MK7MU"
     },
     {
       "added_at": "2025-03-14 20:59:39",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
-        "name": "Desn\u00fadame",
-        "url": "https://open.spotify.com/album/5j2YmyNql60Htp1WRFDOXv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alegria de Santa Fe",
-          "url": "https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 211865,
-      "name": "Desn\u00fadame",
-      "url": "https://open.spotify.com/track/2lijAMVz1pZxjcyqH14kCS"
-    },
-    {
-      "added_at": "2025-03-14 20:59:39",
-      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 238133,
       "name": "Enganchados 1 (No la estoy pasando bien / El no es mejor que yo / No puedo con otra)",
       "url": "https://open.spotify.com/track/6A58b2EXiYUGC9PJIyV2U2"
+    },
+    {
+      "added_at": "2025-03-14 20:59:39",
+      "album": {
+        "name": "Desn\u00fadame",
+        "url": "https://open.spotify.com/album/5j2YmyNql60Htp1WRFDOXv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria de Santa Fe",
+          "url": "https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 211865,
+      "name": "Desn\u00fadame",
+      "url": "https://open.spotify.com/track/2lijAMVz1pZxjcyqH14kCS"
     },
     {
       "added_at": "2025-03-14 20:59:39",
@@ -1351,22 +1351,22 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
-        "name": "Vivo Pensando en ti",
-        "url": "https://open.spotify.com/album/662eLNGODT9RQskLX0Y5Nx"
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
       "artists": [
         {
-          "name": "La Nueva Sensaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0qgjKIM2Zd6fWKcYgwZmPE"
+          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
+          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
         },
         {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
         }
       ],
-      "duration_ms": 238367,
-      "name": "Vivo Pensando en ti",
-      "url": "https://open.spotify.com/track/5GvCjJyuH91YhtEl9iKvlY"
+      "duration_ms": 294093,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl"
     }
   ],
   "unique_name": "Cumbia Santafesina",

@@ -4,7 +4,7 @@
 
 > Eugenio In Via Di Gioia in cover della playlist con il meglio dell’indie italiano \(che ha una nuova grafica 👀\)
 
-233 songs - 12 hr 16 min
+234 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 | 2024-06-27 |  |
 | [30 anni](https://open.spotify.com/track/2KEEm8VPtiBiBJd7AYDl83) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [30 anni](https://open.spotify.com/album/1W7OXNrgGHahRIVgfzE1xR) | 3:44 | 2025-01-16 | 2025-01-31 |
 | [3000 metri](https://open.spotify.com/track/1zxp2l0vas3D0o4EkVM9cQ) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S) | [3000 metri](https://open.spotify.com/album/6P4jVZP7VUFnGAL7yn4o97) | 3:09 | 2024-11-07 | 2024-11-29 |
+| [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 | 2025-03-26 |  |
 | [A cosa serve l'estate](https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS), [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [A cosa serve l'estate](https://open.spotify.com/album/6zVOn1d1LL73QTvSLbiXUO) | 3:41 | 2024-09-19 | 2024-10-25 |
 | [A piedi il mondo \(con te\)](https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [BDSR](https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE) | 3:59 | 2024-12-19 |  |
 | [A Vele Spiegate](https://open.spotify.com/track/3LVDkHER2X6n0xIIN8E6b3) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [A Vele Spiegate](https://open.spotify.com/album/4FO5fjqOFxSH7wP5DOQ8l0) | 3:19 | 2024-09-19 | 2024-10-04 |

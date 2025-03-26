@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con Tufic en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,037 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,080 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 85 | [Compañera](https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [Compañera](https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR) | 3:13 |
 | 86 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
 | 87 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
-| 88 | [Aquellos Ojos Verdes](https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg) | [Japonica](https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD) | [Aquellos Ojos Verdes](https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx) | 3:10 |
-| 89 | [Noche no te vayas](https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Noche no te vayas](https://open.spotify.com/album/30ptyLQeDVcUk1pwrcViIs) | 3:41 |
+| 88 | [Noche no te vayas](https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Noche no te vayas](https://open.spotify.com/album/30ptyLQeDVcUk1pwrcViIs) | 3:41 |
+| 89 | [Aquellos Ojos Verdes](https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg) | [Japonica](https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD) | [Aquellos Ojos Verdes](https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx) | 3:10 |
 | 90 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 91 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
 | 92 | [Mil Vidas](https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Mil Vidas](https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz) | 2:16 |

@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Who Will Fix Me Now?",
+        "url": "https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH"
+      },
+      "artists": [
+        {
+          "name": "Slow Degrade",
+          "url": "https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz"
+        }
+      ],
+      "duration_ms": 219352,
+      "name": "Who Will Fix Me Now?",
+      "url": "https://open.spotify.com/track/5w49lBNC26nILBbphwXyn0"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Moral Panic (The Complete Edition)",
         "url": "https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 223266,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/7yUrBn4yvBBfwXXfHTE2Wd"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Who Will Fix Me Now?",
-        "url": "https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH"
-      },
-      "artists": [
-        {
-          "name": "Slow Degrade",
-          "url": "https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz"
-        }
-      ],
-      "duration_ms": 219352,
-      "name": "Who Will Fix Me Now?",
-      "url": "https://open.spotify.com/track/5w49lBNC26nILBbphwXyn0"
     },
     {
       "added_at": "2024-12-03 09:27:47",

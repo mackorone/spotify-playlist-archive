@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything.<br/>cover: woody
 
-230 songs - 12 hr 7 min
+231 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 | 2024-10-10 | 2025-03-21 |
 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 | 2024-10-14 |
 | [digital emotional](https://open.spotify.com/track/2OjlCM4BoucwcJIqqeHwP0) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [digital emotional](https://open.spotify.com/album/3krbJzvRnqxeRUJrstAD4b) | 3:37 | 2025-03-21 |  |
+| [Digital Sex](https://open.spotify.com/track/7CXKDR1R6chTmixAh6z3rY) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw), [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Digital Sex](https://open.spotify.com/album/4kAjksDn0vkkvIzUYWEkhy) | 2:17 | 2025-03-21 |  |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 | 2025-03-14 |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-06-07 | 2025-03-08 |
 | [Do Not Go Gentle into Goodbyes](https://open.spotify.com/track/4J5MVJGewv7MjA2uuruxGV) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Anti\-People Pleaser, Pt\. 1](https://open.spotify.com/album/5Qf3rfAwHvdye91p3ebaiu) | 4:13 | 2025-03-14 |  |
@@ -94,7 +95,7 @@
 | [Give A Little Of Your Love](https://open.spotify.com/track/4R4jVksnEFM9T1yuyQGkyr) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Give A Little Of Your Love](https://open.spotify.com/album/1Q1cWOYVelc0Ofb0le0slM) | 3:29 | 2024-07-18 | 2024-08-02 |
 | [glass house \(feat\. Braden Bales\)](https://open.spotify.com/track/2wm7IiFx8bLBhLAuUFod3K) | [Ezra](https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY), [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [glass house \(feat\. Braden Bales\)](https://open.spotify.com/album/4mrdG4VhjZD8ID201pF151) | 2:56 | 2025-03-14 |  |
 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 | 2024-10-10 | 2025-03-23 |
-| [god complex](https://open.spotify.com/track/0DKzJ57P5U7hGlyntNOzk2) | [ALBI.](https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb) | [god complex](https://open.spotify.com/album/7kEDPyroJCXtUHk9CQ2ke2) | 2:03 | 2025-03-14 |  |
+| [god complex](https://open.spotify.com/track/0DKzJ57P5U7hGlyntNOzk2) | [ALBI.](https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb) | [god complex](https://open.spotify.com/album/7kEDPyroJCXtUHk9CQ2ke2) | 2:03 | 2025-03-14 | 2025-03-26 |
 | [god is dead](https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [a bit of a mad one](https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq) | 2:11 | 2024-06-07 | 2025-03-08 |
 | [Gone By Now](https://open.spotify.com/track/0yio4kiSB2YWZDRvY2EYvA) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Gone By Now](https://open.spotify.com/album/2EjLUeFLpRszl5dQOPZ3cl) | 3:21 | 2024-06-07 | 2024-07-23 |
 | [Good For Me](https://open.spotify.com/track/2n8dQ0i8f5qGbSuUFAKSJ1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Good For Me](https://open.spotify.com/album/3UdCt2WeU8nsaSNrBRl7BA) | 3:22 | 2024-10-10 | 2025-03-21 |

@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:6aHaYKL09sA8L260zXNlVR">andreas odbjerg</a>, Soleima, Mille og mange flere 👀
 
-4,667 songs - 10 day 1 hr 45 min
+4,667 songs - 10 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 | 2024-08-16 |
 | [Beacons \- Edit](https://open.spotify.com/track/6Urj5dnoHKvq3Wl9FvwvBh) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Beacons](https://open.spotify.com/album/4q3JcToGd900RL1cdpiTJ0) | 6:12 | 2025-01-02 | 2025-01-10 |
 | [bear walk](https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california / bear walk](https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy) | 3:33 | 2024-12-05 | 2024-12-13 |
-| [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:23 | 2025-03-20 |  |
+| [beast](https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [beast](https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq) | 3:24 | 2025-03-20 |  |
 | [Beat Fantasy](https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Beat Fantasy](https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy) | 3:07 | 2024-08-09 | 2024-08-16 |
 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 | 2024-11-21 | 2024-11-29 |
 | [Beautiful & Broken](https://open.spotify.com/track/1bSpiBU7f3SQP2OhkzsDZ9) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Beautiful & Broken](https://open.spotify.com/album/6TDWp0q6vlG51oDrB2bmN7) | 3:28 | 2024-05-02 | 2024-05-10 |
@@ -1283,7 +1283,7 @@
 | [Everytime](https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Everytime](https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy) | 2:49 | 2024-06-27 | 2024-07-05 |
 | [Everytime](https://open.spotify.com/track/6eqcR3Yns30SRYBfku6X5v) | [Gorgeous](https://open.spotify.com/artist/6C0TMfW4C2qCYxMkktQLXd) | [EXP](https://open.spotify.com/album/0RKOwG06Rt1FTlo1ntstf6) | 4:20 | 2024-09-26 | 2024-10-04 |
 | [Evighet \(feat\. Molly Hammar\)](https://open.spotify.com/track/0dlKJgfewt5XU5ucn9VCFP) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Evighet \(feat\. Molly Hammar\)](https://open.spotify.com/album/4kpBAjYFH85VWZHJ3jMxk0) | 2:38 | 2025-01-02 | 2025-01-10 |
-| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 3:52 | 2025-03-20 |  |
+| [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 | 2025-03-20 |  |
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2024-07-25 | 2024-08-02 |
 | [Ewayo](https://open.spotify.com/track/4UADomNPwWDwSW0g7nk09Z) | [Be.Lanuit](https://open.spotify.com/artist/0hx1mOaLwziaJkLfXZ9CSc), [Akinsola](https://open.spotify.com/artist/43fq8YVbnAj1GkqtB9x0y0), [Andrea Kamenar](https://open.spotify.com/artist/7LT8JmQQjGgirhji5G6EJU), [Tupac Peralta](https://open.spotify.com/artist/7q8PRM5cQUQd7MB4halkZV), [OliO](https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN) | [Ewayo](https://open.spotify.com/album/0uFsrI3jgyEIfeZ3bKw42S) | 5:21 | 2024-08-01 | 2024-08-09 |
 | [ex\-friends](https://open.spotify.com/track/5Bp8tsuBvmjeduS9oiLvHP) | [jazzygold](https://open.spotify.com/artist/5Qq8xrlwbzl6jaK7qjUl7m) | [ex\-friends](https://open.spotify.com/album/5tVvI5VQml1LzaUV7yk5a1) | 3:17 | 2024-10-24 | 2024-11-01 |

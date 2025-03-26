@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 736,
+  "num_followers": 741,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Sweet Memory",
         "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 211428,
       "name": "Sweet Memory",
       "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Basic Instinct",
-        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 284477,
-      "name": "SFC - Hommage Mix",
-      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "do you feel it too?",
         "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 308623,
       "name": "by the reservoir",
       "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 284477,
+      "name": "SFC - Hommage Mix",
+      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -791,18 +791,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Absent",
-        "url": "https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn"
+        "name": "Mercury Remixes",
+        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
       "artists": [
         {
-          "name": "Liam Thomas",
-          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Absent",
-      "url": "https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5"
+      "duration_ms": 207304,
+      "name": "Violet - DJ Python Remix",
+      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -823,22 +827,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Mercury Remixes",
-        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn"
       },
       "artists": [
         {
-          "name": "The Range",
-          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
         }
       ],
-      "duration_ms": 207304,
-      "name": "Violet - DJ Python Remix",
-      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
+      "duration_ms": 189473,
+      "name": "Absent",
+      "url": "https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5"
     }
   ],
   "unique_name": "Night Shift",

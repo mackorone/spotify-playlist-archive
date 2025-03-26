@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,377 songs - 6 day 22 hr 46 min
+4,378 songs - 6 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [Dangling](https://open.spotify.com/track/3C53MPJisfjnSxeKt0aStV) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Dangling](https://open.spotify.com/album/209UWiIoiru2UoVaIU3iTn) | 1:44 | 2020-04-18 | 2020-06-29 |
 | [Dark Beauty](https://open.spotify.com/track/7wwsagU4L9TcOdPLbquUn9) | [Jake Five](https://open.spotify.com/artist/4eEuMnsfDZ5YQqQaEfgmwM), [BEAT CIRCUS](https://open.spotify.com/artist/62aYokWOE5KvV0qfgNVM5S) | [Dark Beauty](https://open.spotify.com/album/1fJr36QIKZSk7XpKWRlU9v) | 1:38 | 2020-10-23 | 2021-05-21 |
 | [Dark Road](https://open.spotify.com/track/5tTYLRtP25cqgQ9uvCFZDm) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Dark Road](https://open.spotify.com/album/5XYRD0qpg6nsOZx8pcz4WD) | 2:19 | 2021-05-21 | 2021-10-01 |
+| [Dash!](https://open.spotify.com/track/5At6N0ckZJr0zOOU7HlqAT) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Dash!](https://open.spotify.com/album/4bDULKBUy7H40zkiOlSLYq) | 2:00 | 2025-03-21 |  |
 | [dashi](https://open.spotify.com/track/352Pz0upaKO1dZd5A9aJtA) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [salina \| dashi](https://open.spotify.com/album/7HAJrkn6X8ecTvqjtR7iKk) | 2:36 | 2020-02-22 | 2020-05-01 |
 | [Daughter of the Sun](https://open.spotify.com/track/76RMCZg2C9xZiARL0E2we6) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Daughter of the Sun](https://open.spotify.com/album/1H3QhC9scEPRQfmCwsDsdb) | 2:13 | 2021-10-22 | 2022-04-08 |
 | [Dawn at the Souk](https://open.spotify.com/track/05KyHSK22P4sLoszUk34dD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Dawn at the Souk](https://open.spotify.com/album/1WLgN8sZUOEukP5YAvS9Jt) | 5:06 | 2020-03-20 | 2020-08-30 |
@@ -2097,7 +2098,7 @@
 | [Lights](https://open.spotify.com/track/6PStVF9NRkaGba63BdYVBS) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Lights](https://open.spotify.com/album/0vqdLY4WsIGDSE9xZFcD7t) | 2:12 | 2021-08-07 | 2022-03-25 |
 | [Lights Out](https://open.spotify.com/track/1xYrQE0XStZEJ9Z5QnFsJL) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Lights Out](https://open.spotify.com/album/1PjzWg4NKA4MO6a1yN4yMv) | 1:48 | 2022-11-24 | 2024-04-19 |
 | [Lights Out](https://open.spotify.com/track/6S9TAvxvhHt3ASUMxcvvCz) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Lights Out](https://open.spotify.com/album/2ZCPxfJJJLdh3EO11edL6C) | 1:48 | 2022-10-06 | 2022-11-24 |
-| [Lights Out](https://open.spotify.com/track/2hbcvXGu8ztbkVrevLgAU9) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Lights Out](https://open.spotify.com/album/6fCN8CpzUGEFnAZIz0lnyq) | 2:12 | 2025-03-13 |  |
+| [Lights Out](https://open.spotify.com/track/2hbcvXGu8ztbkVrevLgAU9) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Lights Out](https://open.spotify.com/album/6fCN8CpzUGEFnAZIz0lnyq) | 2:12 | 2025-03-13 | 2025-03-26 |
 | [lightworks](https://open.spotify.com/track/6MkBupjsDf6EELEznF7mk3) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [lightworks](https://open.spotify.com/album/3FJHdvk1sbjW0lNIC3tM4m) | 1:32 | 2023-07-27 | 2023-08-11 |
 | [Like A Bird](https://open.spotify.com/track/3OTcXmVsChQzflumr0BtK8) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Like A Bird](https://open.spotify.com/album/6jf9OHWeJUmygZeGzkslQS) | 2:13 | 2021-04-30 | 2022-01-21 |
 | [Like Night Owls](https://open.spotify.com/track/6D6WzLKZ0e7qnHsANlslAQ) | [This Is Tomorrow](https://open.spotify.com/artist/3G5wyB2uNUo9x4nFXgPrws) | [Like Night Owls](https://open.spotify.com/album/5iNSTGaMQevZHHL5EzgLhL) | 2:19 | 2021-08-19 | 2021-09-17 |

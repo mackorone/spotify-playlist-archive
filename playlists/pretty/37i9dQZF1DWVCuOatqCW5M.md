@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Madhubanti Bagchi, Ankit Tiwari, maahi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,428 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,539 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Aawaz Do](https://open.spotify.com/track/0pAHpaWKEEorXtqZCZiRnK) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Aawaz Do](https://open.spotify.com/album/0xazmhBSxvw1TDZN0pw9Jz) | 4:00 |
 | 3 | [Zulf](https://open.spotify.com/track/14uN1lEz4N1MeLv1tIvKS3) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Anmol A](https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb) | [Zulf](https://open.spotify.com/album/6A9Q12ZPDTsD858nxnudyc) | 2:49 |
 | 4 | [Tera Mera Pyaar](https://open.spotify.com/track/3XmKj1xFPz6eOT2uYpFBzW) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Tera Mera Pyaar](https://open.spotify.com/album/6lNURvc3N5CgQss04ZaLhm) | 2:38 |
-| 5 | [Dil Behkaaye](https://open.spotify.com/track/4RluWOpOG1YBZEtUmEAExY) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rutvik Talashilkar](https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw) | [Dil Behkaaye](https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0) | 3:25 |
+| 5 | [Dil Behkaaye](https://open.spotify.com/track/4RluWOpOG1YBZEtUmEAExY) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rutvik Talashilkar](https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb) | [Dil Behkaaye](https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0) | 3:25 |
 | 6 | [Dheere Dheere](https://open.spotify.com/track/2UqZKzgUmm7StpSPx050t4) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf) | [Bemisaal](https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2) | 2:48 |
 | 7 | [Ahista](https://open.spotify.com/track/0SLMQa8gdZQIIlTsUbM3s5) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Ahista](https://open.spotify.com/album/4Ou8uV0i05EpPR0Ki1IlLH) | 2:43 |
 | 8 | [Till The End](https://open.spotify.com/track/3qQitFGov3WQj6ReNuL7lp) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Till The End](https://open.spotify.com/album/544L5sUOIu5g9vXVDg3r6K) | 3:42 |

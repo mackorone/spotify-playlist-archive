@@ -1,12 +1,12 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 719022,
+  "num_followers": 719126,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6/zbgAAAAAWPKU7QaeLRrjA1LqYW09C",
+  "snapshot_id": "Z+MVVwAAAAAUUvD/zxkG+fHIx1dkxqYe",
   "tracks": [
     {
       "added_at": "2024-01-19 14:43:19",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
     },
     {
+      "added_at": "2025-03-25 20:43:03",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 293709,
+      "name": "Made to Fall in Love",
+      "url": "https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj"
+    },
+    {
       "added_at": "2024-01-19 14:43:19",
       "album": {
         "name": "Either/Or",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "Paper Mache World",
-      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
         "name": "Not High On Drugz",
         "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 252372,
       "name": "Not High On Drugz",
       "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "Paper Mache World",
+      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
     },
     {
       "added_at": "2024-01-19 14:43:19",
@@ -1207,22 +1223,6 @@
       "duration_ms": 321496,
       "name": "One Life Stand",
       "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
-        "name": "Crazy For Your Love",
-        "url": "https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 141918,
-      "name": "Crazy For Your Love",
-      "url": "https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR"
     }
   ],
   "unique_name": "Indie Love Songs",

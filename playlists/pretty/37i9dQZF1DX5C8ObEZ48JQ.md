@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF?si=aZWAGFHMTIipljZtJuRcjw">Kunmie</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp?si=pwV\-9W\_ZTQqY4o8aZSxNpQ">Muthoka</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,330 likes - 53 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,336 likes - 53 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
-| 2 | [LET IT FALL](https://open.spotify.com/track/6cwKz4YmVkGC5lMxxUR5u2) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [MODIKA.](https://open.spotify.com/artist/0yIhOcXDITuo8fbnLTvR7m) | [Don't Forget to Remember](https://open.spotify.com/album/0mVgxsgka5Flw5eRE5DesS) | 3:46 |
-| 3 | [Free](https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Free](https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1) | 2:35 |
-| 4 | [Pookie](https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Pookie](https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr) | 2:09 |
+| 1 | [Free](https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Free](https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1) | 2:35 |
+| 2 | [Pookie](https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Pookie](https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr) | 2:09 |
+| 3 | [LET IT FALL](https://open.spotify.com/track/6cwKz4YmVkGC5lMxxUR5u2) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [MODIKA.](https://open.spotify.com/artist/0yIhOcXDITuo8fbnLTvR7m) | [Don't Forget to Remember](https://open.spotify.com/album/0mVgxsgka5Flw5eRE5DesS) | 3:46 |
+| 4 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
 | 5 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 |
 | 6 | [Mapenzi Oh](https://open.spotify.com/track/7ovrVcB1h2fSPSrPG4hs1P) | [Sasha Shlain](https://open.spotify.com/artist/4CC6yEE48Z0O0YdTrqtkAv), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx), [Marcien Oyono](https://open.spotify.com/artist/1Tn4OosVbV3i3xskawzYa1), [Jonathan Baptiste](https://open.spotify.com/artist/6C0c21f8n4Ep3V6mevPoGg), [Lukas Gasser](https://open.spotify.com/artist/0HGoOtlE0DS2mGlGIeJdZ0) | [Mapenzi Oh](https://open.spotify.com/album/1ufxfKBDZBgDfv0AHmFcuH) | 4:35 |
 | 7 | [Wassup!](https://open.spotify.com/track/0B6YlVI0TBMsh3iSfikWLo) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [Wassup!](https://open.spotify.com/album/6pKion8as4IjwIEE3xXOGn) | 1:59 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 52 | [Tire for you](https://open.spotify.com/track/6sQ2uap6DjHt3f8oGkIOYi) | [Ramoni](https://open.spotify.com/artist/2LTGsXndJZLNRNhNt1726O) | [Something Light](https://open.spotify.com/album/3DYsQLlWUFowxn4BA1FWud) | 2:52 |
 | 53 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 |
 
-Snapshot ID: `Z9n7BAAAAACCLc3f9R0Paa/Y94tTsOcI`
+Snapshot ID: `Z+M1hQAAAABiz/vRD180sJuCeHI1Fl8u`

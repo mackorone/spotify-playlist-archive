@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 544675,
+  "num_followers": 544904,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
-        "name": "La disparition",
-        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
-      },
-      "artists": [
-        {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Le chien d'avant garde",
-      "url": "https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
         "name": "Paris - I Love You",
         "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 165466,
       "name": "Un Homme Et Une Femme",
       "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "La disparition",
+        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Le chien d'avant garde",
+      "url": "https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y"
     },
     {
       "added_at": "2025-03-13 14:04:20",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
-        "name": "Souchon dans l'air (Vol. 1)",
-        "url": "https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Boogaerts",
-          "url": "https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ"
-        }
-      ],
-      "duration_ms": 214784,
-      "name": "Quand j'serai K.O",
-      "url": "https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
         "name": "13 Chansons d'Avant Le Deluge",
         "url": "https://open.spotify.com/album/15I7QvT8jQY5xvU2CBzWgf"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 141293,
       "name": "La Grippe",
       "url": "https://open.spotify.com/track/1syekyuaIRLfqGMP5quqhb"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "Souchon dans l'air (Vol. 1)",
+        "url": "https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Boogaerts",
+          "url": "https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ"
+        }
+      ],
+      "duration_ms": 214784,
+      "name": "Quand j'serai K.O",
+      "url": "https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc"
     },
     {
       "added_at": "2025-03-13 14:04:20",

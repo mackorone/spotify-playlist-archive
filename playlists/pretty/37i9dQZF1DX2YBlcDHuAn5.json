@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 32327,
+  "num_followers": 32369,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -703,8 +703,8 @@
     {
       "added_at": "2025-03-20 23:00:29",
       "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     },
     {
       "added_at": "2025-03-20 23:00:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-20 23:00:29",
       "album": {
-        "name": "The Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
-      },
-      "artists": [
-        {
-          "name": "Jodymoon",
-          "url": "https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "The Machine - Radio Edit",
-      "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
-    },
-    {
-      "added_at": "2025-03-20 23:00:29",
-      "album": {
         "name": "Red White & Blue",
         "url": "https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2025-03-20 23:00:29",
       "album": {
-        "name": "Mortality Blues",
-        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
+        "name": "The Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "Jodymoon",
+          "url": "https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0"
         }
       ],
-      "duration_ms": 195490,
-      "name": "Mortality Blues",
-      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
+      "duration_ms": 194741,
+      "name": "The Machine - Radio Edit",
+      "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
+    },
+    {
+      "added_at": "2025-03-20 23:00:29",
+      "album": {
+        "name": "Chase My Heart Away (Hero)",
+        "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 209963,
+      "name": "Chase My Heart Away (Hero)",
+      "url": "https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP"
     },
     {
       "added_at": "2025-03-20 23:00:29",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-03-20 23:00:29",
       "album": {
+        "name": "Mortality Blues",
+        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 195490,
+      "name": "Mortality Blues",
+      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
+    },
+    {
+      "added_at": "2025-03-20 23:00:29",
+      "album": {
         "name": "The Fire Inside",
         "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 215483,
       "name": "The Fire Inside",
       "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
-    },
-    {
-      "added_at": "2025-03-20 23:00:29",
-      "album": {
-        "name": "Chase My Heart Away (Hero)",
-        "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 209963,
-      "name": "Chase My Heart Away (Hero)",
-      "url": "https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP"
     }
   ],
   "unique_name": "Country & Americana",

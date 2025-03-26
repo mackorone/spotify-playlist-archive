@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con NXNNI en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,384 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,380 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fancy](https://open.spotify.com/track/4krdhLJa1yHDmnNiH70cfM) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Fancy](https://open.spotify.com/album/41yNYwf8sCplbz2u6CxkBE) | 2:13 |
 | 2 | [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 |
-| 3 | [Don Julio](https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Don Julio](https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6) | 2:40 |
+| 3 | [donjulio](https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [donjulio](https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6) | 2:40 |
 | 4 | [BBYOSEQESTASPENSANDO](https://open.spotify.com/track/3EvVWuqkOsSXR64SsIlyMu) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [BBYOSEQESTASPENSANDO](https://open.spotify.com/album/2zK3Lk2CBACz7s5U60cGJA) | 3:47 |
 | 5 | [ESA NO SOY YO](https://open.spotify.com/track/6ZLpqPelpfOwGAk45cgJnu) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [ESA NO SOY YO](https://open.spotify.com/album/3SCF4bXbTnnVmkgfMrPUtA) | 2:52 |
 | 6 | [flash y pose](https://open.spotify.com/track/0Pg1kpLvT0TxWWLsDERTpV) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [flash y pose](https://open.spotify.com/album/64D3u9SGPGXcG2nBOqCVg0) | 2:32 |

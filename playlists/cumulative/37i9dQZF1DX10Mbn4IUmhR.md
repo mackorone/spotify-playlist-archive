@@ -4,7 +4,7 @@
 
 > All the South African and global Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=R3PbfzAQTQqqx12\_amVaVQ"> Selena Gomez</a>, <a href="https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa?si=zhZPzo24RamKWGOBWPIQtg"> benny blanco</a>
 
-331 songs - 17 hr 39 min
+332 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-27 | 2024-07-12 |
 | [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 | 2025-02-13 | 2025-03-14 |
 | [Hot Mess](https://open.spotify.com/track/5tewOYXM6gHZ1Lux0JkIjm) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [Hot Mess](https://open.spotify.com/album/3F5Y3MJeZyHUEORFQHpB9q) | 3:31 | 2024-06-27 | 2024-07-12 |
-| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-11-07 |  |
+| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-11-07 | 2025-03-26 |
 | [How is Summer Over?](https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK) | [Nasrene](https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB) | [How is Summer Over?](https://open.spotify.com/album/7L1LfkPke0zvF5gRRJAzB1) | 2:59 | 2024-07-18 | 2024-08-16 |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-07-11 | 2024-10-11 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-11 | 2024-09-13 |
@@ -327,6 +327,7 @@
 | [wild for the night](https://open.spotify.com/track/04kGR7jjWKNFmh4ymVBUg9) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [wild for the night](https://open.spotify.com/album/2LlX6jiXRlwc0FgIaNde96) | 2:51 | 2025-01-09 | 2025-01-24 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-12-19 | 2025-02-21 |
 | [With You](https://open.spotify.com/track/79LggjXGWmOdad69uxByNI) | [Joss Austin](https://open.spotify.com/artist/2NKDYt1C1JET13SHsFYXbv) | [With You](https://open.spotify.com/album/2rKoC3qq6soseMbHedF07S) | 2:31 | 2024-06-27 | 2024-07-12 |
+| [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 | 2025-03-20 |  |
 | [Wolves](https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Feathers And Stone](https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T) | 3:02 | 2025-01-30 | 2025-02-21 |
 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 | 2024-11-07 | 2024-11-16 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-08-03 |

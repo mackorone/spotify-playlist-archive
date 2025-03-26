@@ -4,7 +4,7 @@
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-195 songs - 9 hr 17 min
+196 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [In Luv With The Money](https://open.spotify.com/track/3dw4v5lOsKRqIX3c1bouJW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 3:09 | 2023-11-10 | 2023-12-09 |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-11-03 | 2024-02-03 |
 | [jersey luv \(turn me on\)](https://open.spotify.com/track/0824LHgyDYQeWrLsQ7BWOn) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc) | [jersey luv \(turn me on\)](https://open.spotify.com/album/18VQoqu4E1cej9M1CsrxUq) | 3:03 | 2023-11-03 | 2024-01-27 |
+| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-25 |  |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-10 |  |
 | [Know Sum](https://open.spotify.com/track/59X7S4JPGgGqg64ec6SVsP) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J) | [Us, Never Them](https://open.spotify.com/album/7vjabFNeSqcUYWR2BQN5VZ) | 3:29 | 2023-11-03 | 2023-11-25 |
 | [L's](https://open.spotify.com/track/1n0uo2A19rtZn5L2bcvOtu) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [L's](https://open.spotify.com/album/6K1JXpnMjEoak85BbmZypZ) | 1:57 | 2024-02-02 | 2024-02-24 |

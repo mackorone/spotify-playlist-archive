@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-478 songs - 1 day 2 hr 32 min
+479 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Neene](https://open.spotify.com/track/3zSmzrISU59x6c0gwUxvHt) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD) | [Neene](https://open.spotify.com/album/05ysqm2w8zVUd1mJHipqhC) | 2:42 | 2023-09-14 | 2024-07-13 |
 | [Neene Illade](https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Neene Illade](https://open.spotify.com/album/2v8IFuiNx11xHjNpmA4PGk) | 3:23 | 2022-11-15 | 2023-08-25 |
 | [Neene Nanna Dilruba](https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX) | [Sneha P](https://open.spotify.com/artist/7a340nNpfXGVZrWSrJeZ1x), [Ashwin G](https://open.spotify.com/artist/7rY02n29nmQUH6J1sTs6lK) | [Neene Nanna Dilruba](https://open.spotify.com/album/12mK3U7Mre8X8KnDzdbHfj) | 3:06 | 2023-06-19 | 2024-02-10 |
+| [Neene Neene](https://open.spotify.com/track/2O3L5N83B5Nj2quehgw3Eb) | [Basvanth Rao](https://open.spotify.com/artist/1040bqOKKb9lUD7N3EcuLx) | [Bengaluru Love Story](https://open.spotify.com/album/6M9GV46FbDkhLAIOstGyP0) | 4:32 | 2025-03-25 |  |
 | [Neene Neene](https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Manvith Karkera](https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw) | [Neene Neene](https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY) | 4:36 | 2023-09-06 | 2024-03-15 |
 | [Neene Neene Bekendu](https://open.spotify.com/track/63nvMYxX3t6T2wkWnh0kxz) | [Chethan Shrinivas](https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3) | [Neene Neene Bekendu](https://open.spotify.com/album/7oe0UA4fGjPmkIu0d1Hm5R) | 4:16 | 2025-03-11 |  |
 | [Neenire Jotheyalli](https://open.spotify.com/track/43J5iLiNYuyjOlN0hCMoU1) | [Pratheek anchan](https://open.spotify.com/artist/22uihzHSRd4fg181KerX6n) | [Neenire Jotheyalli](https://open.spotify.com/album/2b3rqJgc9tt6m1DCZWNPha) | 2:26 | 2024-03-04 | 2024-08-23 |
@@ -443,7 +444,7 @@
 | [Stacks](https://open.spotify.com/track/3j8Okv8qvgtNgTGQ7MGplv) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Swastik](https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ) | [Stacks](https://open.spotify.com/album/5x7UNnk2TK0ngePIEkXcE5) | 2:46 | 2023-04-19 | 2023-12-23 |
 | [Stronger](https://open.spotify.com/track/4bOP9QVpv7oFJEgm0xmX25) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [Stronger](https://open.spotify.com/album/52uN6o62Z7y2cvUD3LXZyR) | 1:02 | 2023-08-31 | 2023-09-22 |
 | [Summane \- Female](https://open.spotify.com/track/44itZZWBw4sd1LsidpPiwx) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Bharath Gundi](https://open.spotify.com/artist/3iO5DnfZzC2LYxT1vndPxr), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Summane \(Female\)](https://open.spotify.com/album/5YWKgzbCNTGUcDGXe48sDe) | 3:33 | 2023-08-23 | 2023-09-21 |
-| [Sundari](https://open.spotify.com/track/7oI2ZmyMSqwDP9Kzxb6S39) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sundari](https://open.spotify.com/album/5JslBdBMzBts4MAd4RzafE) | 3:15 | 2024-11-05 |  |
+| [Sundari](https://open.spotify.com/track/7oI2ZmyMSqwDP9Kzxb6S39) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sundari](https://open.spotify.com/album/5JslBdBMzBts4MAd4RzafE) | 3:15 | 2024-11-05 | 2025-03-26 |
 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 | 2023-07-10 | 2023-07-29 |
 | [Taayi](https://open.spotify.com/track/0tqrpeWvarPFl78oJrsuNF) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Taayi](https://open.spotify.com/album/6lqNjsuD4cM4be2aXziu6j) | 3:54 | 2023-05-15 | 2023-06-08 |
 | [Tayiye devaru](https://open.spotify.com/track/4TR4BjGKgRqyCMyVHdKd0H) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Tayiye devaru](https://open.spotify.com/album/5yi8aECBuvPDfeYJOLC626) | 1:53 | 2024-02-21 | 2024-03-18 |

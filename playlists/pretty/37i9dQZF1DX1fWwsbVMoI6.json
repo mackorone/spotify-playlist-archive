@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 123986,
+  "num_followers": 124000,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-01-17 04:59:15",
       "album": {
-        "name": "Homenaje a Nuestra Kumbia",
-        "url": "https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW"
-      },
-      "artists": [
-        {
-          "name": "Tommy Portugal",
-          "url": "https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX"
-    },
-    {
-      "added_at": "2025-01-17 04:59:15",
-      "album": {
         "name": "Me extra\u00f1ar\u00e1s",
         "url": "https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 262440,
       "name": "Me extra\u00f1ar\u00e1s",
       "url": "https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf"
+    },
+    {
+      "added_at": "2025-01-17 04:59:15",
+      "album": {
+        "name": "Homenaje a Nuestra Kumbia",
+        "url": "https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW"
+      },
+      "artists": [
+        {
+          "name": "Tommy Portugal",
+          "url": "https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX"
     },
     {
       "added_at": "2025-01-17 04:59:15",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-01-17 04:59:15",
       "album": {
-        "name": "Julio Jaramillo",
-        "url": "https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9"
-      },
-      "artists": [
-        {
-          "name": "Papaya Dada",
-          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
-        },
-        {
-          "name": "Cumbia Club",
-          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
-        }
-      ],
-      "duration_ms": 143250,
-      "name": "Julio Jaramillo",
-      "url": "https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV"
-    },
-    {
-      "added_at": "2025-01-17 04:59:15",
-      "album": {
         "name": "Es para Ti Esta Serenata",
         "url": "https://open.spotify.com/album/2Dkbg4ojESNAQFQw3Y6lsC"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 242520,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/3ovuamiUGQPLN0HuVeCNKi"
+    },
+    {
+      "added_at": "2025-01-17 04:59:15",
+      "album": {
+        "name": "Julio Jaramillo",
+        "url": "https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9"
+      },
+      "artists": [
+        {
+          "name": "Papaya Dada",
+          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
+        },
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        }
+      ],
+      "duration_ms": 143250,
+      "name": "Julio Jaramillo",
+      "url": "https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV"
     }
   ],
   "unique_name": "Cumbias de Oro",

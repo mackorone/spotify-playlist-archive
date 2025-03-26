@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,320 likes - 170 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,359 likes - 170 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,964 likes - 65 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,979 likes - 65 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 29 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 30 | [pretty girls](https://open.spotify.com/track/3vEkBzAP09A4MEitPzWKWL) | [Sumwun](https://open.spotify.com/artist/3p6Sps6tkzvz5YzDqAZgu5), [LoVibe.](https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc) | [pretty girls](https://open.spotify.com/album/4s8fbAnwt0z7SM8SjkxWqn) | 1:30 |
 | 31 | [FANTAZIA](https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 5:36 |
-| 32 | [Bring The Sun feat\. Gry \- Original Mix](https://open.spotify.com/track/276YatmSVaFpD1L6Sclj6Q) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN) | [You Go Girl](https://open.spotify.com/album/50bVD7KSoqvKfvPVLqOHto) | 8:20 |
+| 32 | [Bring The Sun feat\. Gry](https://open.spotify.com/track/276YatmSVaFpD1L6Sclj6Q) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN) | [You Go Girl](https://open.spotify.com/album/50bVD7KSoqvKfvPVLqOHto) | 8:20 |
 | 33 | [Healing](https://open.spotify.com/track/3nhNVCiyHSYbYPFwoKbOA0) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Emotional Shift](https://open.spotify.com/album/68xVswDiJHf3kSVVoKVD9H) | 6:15 |
 | 34 | [Yeah Right](https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Big Fish Theory](https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS) | 3:08 |
 | 35 | [Blue \- Flume Remix](https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Blue \(Flume Remix\)](https://open.spotify.com/album/0jihZJEz7ZnvQVN6WBj5RC) | 2:46 |

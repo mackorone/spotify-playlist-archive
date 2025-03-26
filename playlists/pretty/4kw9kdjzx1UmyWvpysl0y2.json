@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125466,
+  "num_followers": 125465,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT1rV1/GCx9+rap2H5+RZvUxbrzoyV",
+  "snapshot_id": "AAAT2rB29zEHmX/3xeYnCqWCdfr50Q8d",
   "tracks": [
+    {
+      "added_at": "2025-03-25 15:10:13",
+      "album": {
+        "name": "Love Me, Let Me Go",
+        "url": "https://open.spotify.com/album/5AYD95jvzbiKdnk9K4BHan"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Love Me, Let Me Go",
+      "url": "https://open.spotify.com/track/3gfs6iBl6Zr0f4Lw1lXIqh"
+    },
     {
       "added_at": "2025-03-24 14:11:57",
       "album": {
@@ -1171,46 +1191,6 @@
       "duration_ms": 148422,
       "name": "SO ABSURD - VIP",
       "url": "https://open.spotify.com/track/7jzH4NsGtOq2mVAQRC5BD2"
-    },
-    {
-      "added_at": "2024-12-18 15:18:08",
-      "album": {
-        "name": "KRUSH TO KILL (G-REX Remix)",
-        "url": "https://open.spotify.com/album/5FN2LAcj3A5YZ4274IFONm"
-      },
-      "artists": [
-        {
-          "name": "RAIZHELL",
-          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
-        },
-        {
-          "name": "G-Rex",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "KRUSH TO KILL - G-REX Remix",
-      "url": "https://open.spotify.com/track/3Fpwoha5KNtegnJ8RHuOIL"
-    },
-    {
-      "added_at": "2024-12-17 16:12:27",
-      "album": {
-        "name": "Sun (The Remixes)",
-        "url": "https://open.spotify.com/album/3htJohEasfEYdfKZ3E7EIb"
-      },
-      "artists": [
-        {
-          "name": "Angara",
-          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
-        },
-        {
-          "name": "Gregory Esayan",
-          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Sun - Angara Mix",
-      "url": "https://open.spotify.com/track/6F4luCQcD7bwlHXX2XhPa5"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

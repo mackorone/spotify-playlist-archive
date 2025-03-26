@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 148000,
       "name": "Elegia",
       "url": "https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV"
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 131312,
       "name": "Encounters",
       "url": "https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x"
@@ -3126,7 +3126,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 160273,
       "name": "Forgotten notes",
       "url": "https://open.spotify.com/track/0xSBCt0AvtYVICiGHQNcUN"
@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 147258,
       "name": "Gentle Wind",
       "url": "https://open.spotify.com/track/199dJ94ukJhAJd4eKpAZLH"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 190701,
       "name": "Madrigale",
       "url": "https://open.spotify.com/track/5ypdfYneEqII1aOckEzzfz"
@@ -7573,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "Serenade of the Pines",
+        "url": "https://open.spotify.com/album/6AWJhJV5UVVbzHwW3S5L2j"
+      },
+      "artists": [
+        {
+          "name": "Noah Lorne",
+          "url": "https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Serenade of the Pines",
+      "url": "https://open.spotify.com/track/4j5AE4ET1c63FQY28xGBkM"
+    },
+    {
+      "album": {
         "name": "Serengeti",
         "url": "https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ"
       },
@@ -8585,6 +8603,24 @@
     },
     {
       "album": {
+        "name": "The Dreamer",
+        "url": "https://open.spotify.com/album/1MWZ3bhElou5DzdnnjnKVs"
+      },
+      "artists": [
+        {
+          "name": "J. Kahnberg",
+          "url": "https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141116,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/4JeCz2VmJDfpdw5nJUg7kV"
+    },
+    {
+      "album": {
         "name": "The Dust Settles",
         "url": "https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh"
       },
@@ -8780,6 +8816,24 @@
       "duration_ms": 149693,
       "name": "Tintern Abbey",
       "url": "https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1"
+    },
+    {
+      "album": {
+        "name": "To Say It Once Was",
+        "url": "https://open.spotify.com/album/1PfGLgBwkpTLVn8QQBHOk6"
+      },
+      "artists": [
+        {
+          "name": "Nova Lark",
+          "url": "https://open.spotify.com/artist/6cZcotbb3ld687qdhgRcG9"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131368,
+      "name": "To Say It Once Was",
+      "url": "https://open.spotify.com/track/3D7rpE2yBwLFS3pqFZD1hX"
     },
     {
       "album": {

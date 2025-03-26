@@ -9759,6 +9759,24 @@
     },
     {
       "album": {
+        "name": "POR LOS DOS",
+        "url": "https://open.spotify.com/album/5dzt1f81snIZTttryWqhOb"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187138,
+      "name": "POR LOS DOS",
+      "url": "https://open.spotify.com/track/4xZljchUKqZ7H1OxgbFLqO"
+    },
+    {
+      "album": {
         "name": "Por no bailar contigo",
         "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
       },
@@ -10405,6 +10423,28 @@
     },
     {
       "album": {
+        "name": "Readyactiva",
+        "url": "https://open.spotify.com/album/0xBtr21BdkR4skdcG1IKnR"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154063,
+      "name": "Readyactiva",
+      "url": "https://open.spotify.com/track/2hC3hT2iAyHlsANVNjt0kN"
+    },
+    {
+      "album": {
         "name": "Reci\u00e9n Soltera",
         "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
       },
@@ -10638,7 +10678,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 139090,
       "name": "Rubia",
       "url": "https://open.spotify.com/track/4XyMViJMzmJHVrwUDKrVGg"
@@ -12166,7 +12206,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-26",
       "duration_ms": 180563,
       "name": "Tienes Que Saber",
       "url": "https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k"
