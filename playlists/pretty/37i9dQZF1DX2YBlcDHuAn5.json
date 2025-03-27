@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 32369,
+  "num_followers": 32401,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-03-20 23:00:29",
       "album": {
+        "name": "Chase My Heart Away (Hero)",
+        "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 209963,
+      "name": "Chase My Heart Away (Hero)",
+      "url": "https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP"
+    },
+    {
+      "added_at": "2025-03-20 23:00:29",
+      "album": {
         "name": "Red White & Blue",
         "url": "https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2025-03-20 23:00:29",
       "album": {
-        "name": "Chase My Heart Away (Hero)",
-        "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 209963,
-      "name": "Chase My Heart Away (Hero)",
-      "url": "https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP"
-    },
-    {
-      "added_at": "2025-03-20 23:00:29",
-      "album": {
         "name": "Fortunes & Willows",
         "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-03-20 23:00:29",
       "album": {
+        "name": "Not Cause I Wanted To",
+        "url": "https://open.spotify.com/album/6eZygmRQkhCOX8ShR5uXmU"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 213131,
+      "name": "Not Cause I Wanted To",
+      "url": "https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef"
+    },
+    {
+      "added_at": "2025-03-20 23:00:29",
+      "album": {
         "name": "Mortality Blues",
         "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 195490,
       "name": "Mortality Blues",
       "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
-    },
-    {
-      "added_at": "2025-03-20 23:00:29",
-      "album": {
-        "name": "The Fire Inside",
-        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "The Fire Inside",
-      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
     }
   ],
   "unique_name": "Country & Americana",

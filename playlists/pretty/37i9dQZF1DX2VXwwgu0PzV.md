@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=NO2OWkluRhe\_OoxLcWAfOA>Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,444 likes - 111 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,465 likes - 111 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

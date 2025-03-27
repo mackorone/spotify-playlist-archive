@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: LUSILLON.",
-  "num_followers": 198802,
+  "num_followers": 198814,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
+        "name": "Ni bien ni mal",
+        "url": "https://open.spotify.com/album/4HjeRDJBkLYkI7Ysw5Wpn4"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Ni bien ni mal",
+      "url": "https://open.spotify.com/track/0MOlEfrgHvb7cNG8VtzI2A"
+    },
+    {
+      "added_at": "2025-03-21 09:13:16",
+      "album": {
         "name": "Amiguita como t\u00fa",
         "url": "https://open.spotify.com/album/0HaFvXnLbU5XkeBOdElMVu"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 186098,
       "name": "Amiguita como t\u00fa",
       "url": "https://open.spotify.com/track/4PbRIvIm1t92ecszR1TNr9"
-    },
-    {
-      "added_at": "2025-03-21 09:13:16",
-      "album": {
-        "name": "Ni bien ni mal",
-        "url": "https://open.spotify.com/album/4HjeRDJBkLYkI7Ysw5Wpn4"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Ni bien ni mal",
-      "url": "https://open.spotify.com/track/0MOlEfrgHvb7cNG8VtzI2A"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "( ali despierta )",
-        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
+        "name": "hibernarse",
+        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
       },
       "artists": [
         {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
         }
       ],
-      "duration_ms": 190127,
-      "name": "( ali despierta )",
-      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+      "duration_ms": 163576,
+      "name": "hibernarse",
+      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "Mar de Ardora",
-        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
+        "name": "( ali despierta )",
+        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
       },
       "artists": [
         {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
         }
       ],
-      "duration_ms": 268334,
-      "name": "Luces encendidas",
-      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
+      "duration_ms": 190127,
+      "name": "( ali despierta )",
+      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "hibernarse",
-        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
-      },
-      "artists": [
-        {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        }
-      ],
-      "duration_ms": 163576,
-      "name": "hibernarse",
-      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
-    },
-    {
-      "added_at": "2025-03-21 09:13:16",
-      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
+    },
+    {
+      "added_at": "2025-03-21 09:13:16",
+      "album": {
+        "name": "Mar de Ardora",
+        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 268334,
+      "name": "Luces encendidas",
+      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "tormenta",
-        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
       },
       "artists": [
         {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 256423,
-      "name": "tormenta",
-      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
+      "duration_ms": 179408,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+        "name": "tormenta",
+        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
       },
       "artists": [
         {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
         }
       ],
-      "duration_ms": 179408,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
+      "duration_ms": 256423,
+      "name": "tormenta",
+      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
-    },
-    {
-      "added_at": "2025-03-21 09:13:16",
-      "album": {
         "name": "Lo mejor",
         "url": "https://open.spotify.com/album/5QF1Z0ciM5WetxxMHNEWCG"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 117750,
       "name": "Lo mejor",
       "url": "https://open.spotify.com/track/3gmjylKlL1X7F9bbxhgdSr"
+    },
+    {
+      "added_at": "2025-03-21 09:13:16",
+      "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "Qu\u00e9 bien me siento",
-        "url": "https://open.spotify.com/album/0r3B8beJQGZjb1CcduyQWN"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        },
-        {
-          "name": "Omar Alcaide",
-          "url": "https://open.spotify.com/artist/2k9darlkYDLAfzDORZDMzx"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Qu\u00e9 bien me siento",
-      "url": "https://open.spotify.com/track/11NtPGb8E4qieMqhzJ1t9p"
-    },
-    {
-      "added_at": "2025-03-21 09:13:16",
-      "album": {
         "name": "Abraxas!",
         "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
       },
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
+        "name": "PARA QUE TE QUIERAS QUEDAR",
+        "url": "https://open.spotify.com/album/3GKQF08kDwWHLjWSYUW1N4"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 194142,
+      "name": "Vali\u00f3 la pena",
+      "url": "https://open.spotify.com/track/22uPAzwESHmS4OkGt9hXrE"
+    },
+    {
+      "added_at": "2025-03-21 09:13:16",
+      "album": {
         "name": "SUSANA",
         "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
       },
@@ -1307,26 +1307,6 @@
       "duration_ms": 202906,
       "name": "Antes nubes",
       "url": "https://open.spotify.com/track/6qdKpF4TtjaAHdhL7dwgRG"
-    },
-    {
-      "added_at": "2025-03-21 09:13:16",
-      "album": {
-        "name": "PARA QUE TE QUIERAS QUEDAR",
-        "url": "https://open.spotify.com/album/3GKQF08kDwWHLjWSYUW1N4"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        },
-        {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "Vali\u00f3 la pena",
-      "url": "https://open.spotify.com/track/22uPAzwESHmS4OkGt9hXrE"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -1379,18 +1359,18 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "Chicos malos",
-        "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
       "artists": [
         {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 230477,
-      "name": "Chicos malos",
-      "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -1415,22 +1395,6 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
-    },
-    {
-      "added_at": "2025-03-21 09:13:16",
-      "album": {
         "name": "La Plaza del Carmen",
         "url": "https://open.spotify.com/album/37TtAqZC3UPRSH0hDxxsaw"
       },
@@ -1443,6 +1407,42 @@
       "duration_ms": 225863,
       "name": "La Plaza del Carmen",
       "url": "https://open.spotify.com/track/1KngaoX2kdZM5RnKZrQhpS"
+    },
+    {
+      "added_at": "2025-03-21 09:13:16",
+      "album": {
+        "name": "Qu\u00e9 bien me siento",
+        "url": "https://open.spotify.com/album/0r3B8beJQGZjb1CcduyQWN"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "Omar Alcaide",
+          "url": "https://open.spotify.com/artist/2k9darlkYDLAfzDORZDMzx"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Qu\u00e9 bien me siento",
+      "url": "https://open.spotify.com/track/11NtPGb8E4qieMqhzJ1t9p"
+    },
+    {
+      "added_at": "2025-03-21 09:13:16",
+      "album": {
+        "name": "Chicos malos",
+        "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 230477,
+      "name": "Chicos malos",
+      "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "Perder El Tiempo",
-        "url": "https://open.spotify.com/album/2WlXXi8sRbBHE3NTOzBJRg"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 258069,
-      "name": "Perder El Tiempo",
-      "url": "https://open.spotify.com/track/2VGrr3Uch4p2nBsPinDqt4"
-    },
-    {
-      "added_at": "2025-03-21 09:13:16",
-      "album": {
         "name": "Otra vez el Mismo Drama",
         "url": "https://open.spotify.com/album/4y2L6raP85PifhybrRSgUp"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
+        "name": "Lo Que Me Pasa",
+        "url": "https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Lo Que Me Pasa",
+      "url": "https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR"
+    },
+    {
+      "added_at": "2025-03-21 09:13:16",
+      "album": {
         "name": "nada importa",
         "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
       },
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
-        "name": "contigo aqu\u00ed",
-        "url": "https://open.spotify.com/album/1xFKu31XFXJtGMwSDK4XqF"
+        "name": "Perder El Tiempo",
+        "url": "https://open.spotify.com/album/2WlXXi8sRbBHE3NTOzBJRg"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
         }
       ],
-      "duration_ms": 173075,
-      "name": "contigo aqu\u00ed",
-      "url": "https://open.spotify.com/track/7gExhLJOIdDcxdyZdnCFjI"
+      "duration_ms": 258069,
+      "name": "Perder El Tiempo",
+      "url": "https://open.spotify.com/track/2VGrr3Uch4p2nBsPinDqt4"
     },
     {
       "added_at": "2025-03-21 09:13:16",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-03-21 09:13:16",
       "album": {
+        "name": "contigo aqu\u00ed",
+        "url": "https://open.spotify.com/album/1xFKu31XFXJtGMwSDK4XqF"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 173075,
+      "name": "contigo aqu\u00ed",
+      "url": "https://open.spotify.com/track/7gExhLJOIdDcxdyZdnCFjI"
+    },
+    {
+      "added_at": "2025-03-21 09:13:16",
+      "album": {
         "name": "Desde el amor",
         "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 150222,
       "name": "D\u00eda de Muertos",
       "url": "https://open.spotify.com/track/1qWIo4GCLWQIWdghY6GsTm"
-    },
-    {
-      "added_at": "2025-03-21 09:13:16",
-      "album": {
-        "name": "Lo Que Me Pasa",
-        "url": "https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Lo Que Me Pasa",
-      "url": "https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR"
     },
     {
       "added_at": "2025-03-21 09:13:16",

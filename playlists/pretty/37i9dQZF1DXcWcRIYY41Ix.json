@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128703,
+  "num_followers": 128707,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "No supe verme",
         "url": "https://open.spotify.com/album/5UklZCjxd3FybV0D7Dmyda"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 211459,
       "name": "No supe verme",
       "url": "https://open.spotify.com/track/27E8QSVZ1u1IM7L7Va6GO1"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "Pude verte",
         "url": "https://open.spotify.com/album/3g7BZPOTZzDCrXUgKiUof7"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 195882,
       "name": "Pude verte",
       "url": "https://open.spotify.com/track/4AAtZeRKz2yp8LlrYoy8om"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -891,26 +891,6 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Tan delicada",
-        "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
-      },
-      "artists": [
-        {
-          "name": "Nadia Alvarez",
-          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
-        },
-        {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
-        }
-      ],
-      "duration_ms": 199096,
-      "name": "Tan delicada",
-      "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
         "name": "Tan solo una se\u00f1al",
         "url": "https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 218106,
       "name": "Tan solo una se\u00f1al",
       "url": "https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
+        "name": "Tan delicada",
+        "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
+      },
+      "artists": [
+        {
+          "name": "Nadia Alvarez",
+          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
+        },
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 199096,
+      "name": "Tan delicada",
+      "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "Tinc una sort",
+        "url": "https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm"
+      },
+      "artists": [
+        {
+          "name": "Aleix Triad\u00f3",
+          "url": "https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Tinc una sort",
+      "url": "https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "Esto No Es un Disco Vol.2",
         "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 158341,
       "name": "Testamento - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
-        "name": "Te vamos a salvar",
-        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
-      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1107,22 +1107,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Tinc una sort",
-        "url": "https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm"
+        "name": "Te vamos a salvar",
+        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
       "artists": [
         {
-          "name": "Aleix Triad\u00f3",
-          "url": "https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE"
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
         },
         {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 146333,
-      "name": "Tinc una sort",
-      "url": "https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq"
+      "duration_ms": 161000,
+      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
+      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "Agua Bendita",
+        "url": "https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 167967,
+      "name": "Agua Bendita",
+      "url": "https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "Lo que siento \u263c",
         "url": "https://open.spotify.com/album/2rqPUkz4fU03IGJm3KZtd4"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 180121,
       "name": "Lo que siento \u263c",
       "url": "https://open.spotify.com/track/19kEKunwApFk7zvuIqlYOs"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
-        "name": "Agua Bendita",
-        "url": "https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 167967,
-      "name": "Agua Bendita",
-      "url": "https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1671,38 +1671,18 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+        "name": "Cerca cerca",
+        "url": "https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf"
       },
       "artists": [
         {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+          "name": "Habla de M\u00ed en Presente",
+          "url": "https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn"
         }
       ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
-        "name": "Jurema Blanca",
-        "url": "https://open.spotify.com/album/1nulZh8RGIFieaS6m7G7Xd"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        },
-        {
-          "name": "ASH.RYNN",
-          "url": "https://open.spotify.com/artist/14pUScokA9iCquc4lQ8ey3"
-        }
-      ],
-      "duration_ms": 229655,
-      "name": "Jurema Blanca",
-      "url": "https://open.spotify.com/track/3okjDbZn0vuuKYUTyVt6DB"
+      "duration_ms": 189605,
+      "name": "Cerca cerca",
+      "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1727,6 +1707,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "Por Qu\u00e9?",
         "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
       },
@@ -1743,18 +1739,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
-        "name": "Cerca cerca",
-        "url": "https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf"
+        "name": "Jurema Blanca",
+        "url": "https://open.spotify.com/album/1nulZh8RGIFieaS6m7G7Xd"
       },
       "artists": [
         {
-          "name": "Habla de M\u00ed en Presente",
-          "url": "https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn"
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        },
+        {
+          "name": "ASH.RYNN",
+          "url": "https://open.spotify.com/artist/14pUScokA9iCquc4lQ8ey3"
         }
       ],
-      "duration_ms": 189605,
-      "name": "Cerca cerca",
-      "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
+      "duration_ms": 229655,
+      "name": "Jurema Blanca",
+      "url": "https://open.spotify.com/track/3okjDbZn0vuuKYUTyVt6DB"
     },
     {
       "added_at": "2025-03-20 23:00:14",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-03-20 23:00:14",
       "album": {
+        "name": "Payaso Triste",
+        "url": "https://open.spotify.com/album/3XDOfJBFQf3UHm0EJlapmx"
+      },
+      "artists": [
+        {
+          "name": "Borja Pic\u00f3",
+          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
+        }
+      ],
+      "duration_ms": 183945,
+      "name": "El Rat\u00f3n (Live)",
+      "url": "https://open.spotify.com/track/015OKJ6Vokg2Caflo5jxoQ"
+    },
+    {
+      "added_at": "2025-03-20 23:00:14",
+      "album": {
         "name": "Migas",
         "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 252668,
       "name": "REMOLINO",
       "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2025-03-20 23:00:14",
-      "album": {
-        "name": "Payaso Triste",
-        "url": "https://open.spotify.com/album/3XDOfJBFQf3UHm0EJlapmx"
-      },
-      "artists": [
-        {
-          "name": "Borja Pic\u00f3",
-          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
-        }
-      ],
-      "duration_ms": 183945,
-      "name": "El Rat\u00f3n (Live)",
-      "url": "https://open.spotify.com/track/015OKJ6Vokg2Caflo5jxoQ"
     },
     {
       "added_at": "2025-03-20 23:00:14",

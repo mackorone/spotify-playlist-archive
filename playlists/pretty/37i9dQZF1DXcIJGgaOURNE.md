@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,894 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,898 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [F.U.](https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:37 |
-| 2 | [Blue Tuesday](https://open.spotify.com/track/3ZQ4JAC0HSjp1NQH6DMy47) | [Delphi](https://open.spotify.com/artist/6gHK4krb22JhRvGvXTPkLX) | [Future Disco \- A Disco Fantasy](https://open.spotify.com/album/421Do1catowxMFN8k5WH7R) | 6:25 |
+| 2 | [Blue Tuesday](https://open.spotify.com/track/3ZQ4JAC0HSjp1NQH6DMy47) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe) | [Future Disco \- A Disco Fantasy](https://open.spotify.com/album/421Do1catowxMFN8k5WH7R) | 6:25 |
 | 3 | [Wanna](https://open.spotify.com/track/6ZH3DHp7GcwqNK2abNMqVE) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 2:15 |
 | 4 | [It's Gonna Be A Beautiful Night \- 2020 Remaster](https://open.spotify.com/track/42AMleuobxkaTiJ1TXI3DW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 9:01 |
 | 5 | [Mushrooms \- Justin Martin Remix](https://open.spotify.com/track/0fwZT1xaNE8FN26DdiPX5C) | [Marshall Jefferson vs\. Noosa Heads](https://open.spotify.com/artist/45KxlxhV4KySZkLb5pXo8V) | [Mushrooms Remixes](https://open.spotify.com/album/5UOw3xnHxJod0cyf6z5Qhg) | 8:26 |

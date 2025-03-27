@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1378309,
+  "num_followers": 1378323,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Fever Breaks",
+        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Old Black Magic",
+      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Fever Breaks",
-        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Old Black Magic",
-      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+        "name": "The Major Minor Collective (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "The Picturebooks",
+          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
+        },
+        {
+          "name": "Leah Wellbaum",
+          "url": "https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp"
         }
       ],
-      "duration_ms": 273866,
-      "name": "Smoke Rising",
-      "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
+      "duration_ms": 256773,
+      "name": "Beach Seduction (feat. Leah Wellbaum)",
+      "url": "https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "The Major Minor Collective (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
       },
       "artists": [
         {
-          "name": "The Picturebooks",
-          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
-        },
-        {
-          "name": "Leah Wellbaum",
-          "url": "https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp"
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
         }
       ],
-      "duration_ms": 256773,
-      "name": "Beach Seduction (feat. Leah Wellbaum)",
-      "url": "https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD"
+      "duration_ms": 273866,
+      "name": "Smoke Rising",
+      "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Want",
         "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 197973,
       "name": "Midnight Hour",
       "url": "https://open.spotify.com/track/4qkRbAJLkfwFGlwfRc1Emx"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6"
     }
   ],
   "unique_name": "Swagger",

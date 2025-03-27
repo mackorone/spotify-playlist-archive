@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-454 songs - 23 hr 13 min
+455 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Chilled Soul](https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn) | [Afro Lex Tex](https://open.spotify.com/artist/5KGFdiCXMIuYjmaVSKIOrS) | [Chilled Soul](https://open.spotify.com/album/6JY7isSUV7ZmpTCIX0s2k7) | 3:14 | 2024-01-17 |  |
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-13 |  |
 | [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 | 2022-12-09 |  |
-| [Collide](https://open.spotify.com/track/0AybRyGs6InawBTxnQUEeM) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Collide](https://open.spotify.com/album/3iFlBrrDy3cfZq4kwl0tZS) | 3:28 | 2025-01-21 | 2025-03-10 |
+| [Collide](https://open.spotify.com/track/0AybRyGs6InawBTxnQUEeM) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Collide](https://open.spotify.com/album/3iFlBrrDy3cfZq4kwl0tZS) | 3:28 | 2025-01-21 |  |
 | [Collide](https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Collide](https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx) | 3:13 | 2022-02-01 | 2024-09-07 |
 | [Compassion](https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Compassion](https://open.spotify.com/album/2TIvzUtfG9bbDTN60kM15E) | 2:24 | 2023-10-13 | 2024-10-30 |
 | [Continuum](https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Continuum](https://open.spotify.com/album/2DeTdg5j8vYfMQuAoE98Lu) | 2:45 | 2022-01-12 | 2023-03-15 |
@@ -256,7 +256,7 @@
 | [life cycle](https://open.spotify.com/track/4ehaeiOh82oQHaTOYU2X3O) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [life cycle](https://open.spotify.com/album/4bD96IkCbqtIp5IqcaVNzy) | 3:07 | 2024-05-20 |  |
 | [Life Seeds](https://open.spotify.com/track/6S7YeyRDlBdG41lo5ZAvin) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Life Seeds](https://open.spotify.com/album/31BeE7Bs2FHd1m1rOrFMMh) | 2:56 | 2024-01-17 | 2025-03-02 |
 | [Light for all](https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Light for all](https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX) | 2:58 | 2024-05-04 |  |
-| [Lightness and Focus](https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Lightness and Focus](https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW) | 2:30 | 2024-01-17 |  |
+| [Lightness and Focus](https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Lightness and Focus](https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW) | 2:30 | 2024-01-17 | 2025-03-27 |
 | [Lights Out](https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Lights Out](https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd) | 2:53 | 2022-01-12 | 2022-02-02 |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-01-12 | 2024-05-21 |
 | [Longing](https://open.spotify.com/track/65IABcx2DXfu4c1FDUW6V0) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Niclas Lundqvist](https://open.spotify.com/artist/5xhXAA1szAltReao2ctWBg) | [Longing](https://open.spotify.com/album/56RBZwRTH6Z1oG4HFG7weo) | 3:11 | 2024-07-09 |  |
@@ -338,6 +338,7 @@
 | [Profound](https://open.spotify.com/track/7bFOBsfgorHeX0rGBSwP84) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Profound](https://open.spotify.com/album/3Ff5RYjDp8Z87NtfxW3ght) | 3:13 | 2022-01-12 | 2022-03-19 |
 | [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2022-01-19 | 2022-04-22 |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2022-01-12 | 2023-03-15 |
+| [Quasar Quest](https://open.spotify.com/track/48R7cTJP60VuxoMv1orGwn) | [Solar Sentinels](https://open.spotify.com/artist/0CschpxHjAw3bDniuMXEbl) | [Quasar Quest](https://open.spotify.com/album/6rUBKligMdbGuBWbNa7E0d) | 3:56 | 2025-03-25 |  |
 | [Rachael Or Pris](https://open.spotify.com/track/52tvffLe50EKvIznL67HnT) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Rachael Or Pris](https://open.spotify.com/album/37lTxs02FjGCDpbEdGCte7) | 3:44 | 2022-01-12 | 2023-02-14 |
 | [Rain Gravitat](https://open.spotify.com/track/7oC2TTCDwexaML468NqBlp) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Rain Gravitat](https://open.spotify.com/album/0IhugtJosb1RC2llsPCFFI) | 3:27 | 2024-01-17 | 2024-06-17 |
 | [Reality](https://open.spotify.com/track/6aFkocMc8DruHQocIyMMFi) | [Aural Veneer](https://open.spotify.com/artist/2KxXrvu8Ji2aHsMLwrE0Go) | [Reality](https://open.spotify.com/album/2hhN0BhSiM9MgBickzVA3k) | 3:04 | 2024-03-06 |  |
@@ -427,7 +428,7 @@
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-07 | 2024-08-15 |
 | [Tranquil Tides](https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa) | [Kimelén Millán](https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK) | [Tranquil Tides](https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg) | 2:57 | 2024-05-04 |  |
 | [Tranquil Twilight](https://open.spotify.com/track/1r2H27I3r0rqCi4l2osIjc) | [Luminous Dreamer](https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U) | [Tranquil Twilight](https://open.spotify.com/album/1YoFs6VGUuqM6hc1AU0Ufd) | 3:07 | 2024-05-20 |  |
-| [Transcapes](https://open.spotify.com/track/7C3pUbqrdRAfY4SZ2jUyU5) | [Transformator](https://open.spotify.com/artist/5OkZS3lQjVTPo57alUdmHI) | [Transcapes](https://open.spotify.com/album/4Pt89Dbvuf4YvtxgupMYJo) | 3:19 | 2025-02-28 |  |
+| [Transcapes](https://open.spotify.com/track/7C3pUbqrdRAfY4SZ2jUyU5) | [Transformator](https://open.spotify.com/artist/5OkZS3lQjVTPo57alUdmHI) | [Transcapes](https://open.spotify.com/album/4Pt89Dbvuf4YvtxgupMYJo) | 3:19 | 2025-02-28 | 2025-03-27 |
 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 | 2022-12-30 | 2025-01-22 |
 | [Unfolding](https://open.spotify.com/track/5lgb2a2KzgBsk1Dmv87dKL) | [Manolakas](https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi) | [Unfolding](https://open.spotify.com/album/0yOaKPEteOBVPdhpHs0Xs7) | 2:32 | 2024-03-06 | 2024-03-21 |
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2022-04-13 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-767 songs - 2 day 6 hr 42 min
+768 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,13 +72,14 @@
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2021-12-17 | 2023-08-08 |
 | [Babalawo](https://open.spotify.com/track/6ifwhjw3szFwweQbAZAu7j) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:08 | 2021-10-06 | 2022-07-28 |
 | [Babel](https://open.spotify.com/track/02sVh7Sa1kaJBqUYYFog9w) | [Gratien Midonet](https://open.spotify.com/artist/0Zn7jloZgJ19mgN6YBkeIh) | [Bourg La Folie](https://open.spotify.com/album/3wSYFDchDY5T6FCd4jXEES) | 5:27 | 2021-10-06 | 2022-07-15 |
+| [Baby Brazil feat\. Las Palabras](https://open.spotify.com/track/4J5zalm3Wa04SZ9g3wy1s1) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Las Palabras](https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls) | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/album/3pvzgOeKcyPUOmAsaVB5tH) | 3:46 | 2025-03-26 |  |
 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB) | 3:10 | 2021-10-06 | 2024-04-19 |
 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/1G4aMGkzJV5yqF3XRHNqWL) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/4S0GIZfnkA1kK07ACLPyZJ) | 3:10 | 2021-10-06 | 2022-11-20 |
 | [Baile Infinito](https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Visceras](https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j) | 1:41 | 2022-09-15 | 2025-02-28 |
 | [Baixada](https://open.spotify.com/track/4zzMUiu5slOh0lI7QL2yNd) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Baixada](https://open.spotify.com/album/76AlDMHVPDI9ao1r5lppHU) | 2:21 | 2022-01-07 | 2022-07-29 |
 | [Bar Konon Mousso \(Musicien C'est Pas Quelqu'un\) \[Ben Gomori N'est Pas Musicien Edit\]](https://open.spotify.com/track/01WjUcodSI8u1srax6gr6y) | [Amadou Balaké](https://open.spotify.com/artist/1R3wyTMKl4aOXW9cbiFnME), [Ben Gomori](https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw) | [In Conclusion \(Ben Gomori Edits\)](https://open.spotify.com/album/6gw4pWgDD2gF2b5R80MYcD) | 8:01 | 2022-03-29 | 2022-04-21 |
 | [Barry White Vs\. Micheal Myers](https://open.spotify.com/track/6iGwa4Zfa7YGJ4jhga60gj) | [Chola Orange](https://open.spotify.com/artist/7ovA6Ves5dfylDwv6883wD) | [Chola Orange](https://open.spotify.com/album/3nnP9XAAzjXpkrqoFu07kA) | 2:51 | 2021-10-06 | 2022-04-21 |
-| [Bassa Bassa](https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs) | [Bassa Bassa](https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj) | 5:01 | 2022-03-29 |  |
+| [Bassa Bassa](https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs) | [Bassa Bassa](https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj) | 5:01 | 2022-03-29 | 2025-03-27 |
 | [Basta Parlare](https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Basta Parlare](https://open.spotify.com/album/0jaWU8aTVbgCkA5DFDQyGN) | 3:14 | 2022-11-25 | 2023-01-15 |
 | [Bayne Lay Yihedal](https://open.spotify.com/track/5ib4uV4lUJyFKXF6vfxmrk) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Bayne Lay Yihedal](https://open.spotify.com/album/59oXTvqVLMfbexfncNivia) | 5:09 | 2021-10-06 | 2022-07-27 |
 | [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 | 2023-04-05 | 2024-04-19 |

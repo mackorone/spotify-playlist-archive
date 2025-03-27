@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Darmaduman",
+        "url": "https://open.spotify.com/album/6MrE8aTkCV6xuSnVCRJ1Wz"
+      },
+      "artists": [
+        {
+          "name": "Duman",
+          "url": "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289029,
+      "name": "Eyvallah",
+      "url": "https://open.spotify.com/track/5kerT482x2Om29dA7s0RYO"
+    },
+    {
+      "album": {
         "name": "Farkl\u0131 Son",
         "url": "https://open.spotify.com/album/5RY7aUCkfmv5HGun7JSdDl"
       },
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 180000,
       "name": "Ses Ver",
       "url": "https://open.spotify.com/track/3d317ORpL5gxioLwsBd0KL"

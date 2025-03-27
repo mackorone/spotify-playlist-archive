@@ -1,6 +1,6 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 470203,
+  "num_followers": 470270,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-02-06 19:54:12",
       "album": {
+        "name": "Devil's Dozen",
+        "url": "https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Bottoms Up",
+      "url": "https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-02-06 19:54:12",
       "album": {
-        "name": "Devil's Dozen",
-        "url": "https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo"
-      },
-      "artists": [
-        {
-          "name": "Fiddler's Green",
-          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Bottoms Up",
-      "url": "https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D"
-    },
-    {
-      "added_at": "2024-02-06 19:54:12",
-      "album": {
         "name": "Pro Libertate",
         "url": "https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Raise 'em All",
-        "url": "https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I"
+        "name": "The Loyal Men",
+        "url": "https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788"
       },
       "artists": [
         {
-          "name": "Irish Moutarde",
-          "url": "https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P"
+          "name": "Black Tartan Clan",
+          "url": "https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt"
         }
       ],
-      "duration_ms": 157875,
-      "name": "The Cabin",
-      "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"
+      "duration_ms": 195578,
+      "name": "Banks of the Roses",
+      "url": "https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc"
     }
   ],
   "unique_name": "Celtic Punk",

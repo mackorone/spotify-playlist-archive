@@ -4,7 +4,7 @@
 
 > From India to MENA, these hits will make you dance.
 
-62 songs - 3 hr 56 min
+63 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 | 2023-01-24 |  |
 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 | 2023-01-24 |  |
 | [Aqbil Arwh Wayak](https://open.spotify.com/track/5Rk2fqUd9Be51v2RGCH4fP) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Aqbil Arwh Wayak](https://open.spotify.com/album/21cNclONW67PlEiEtMT81I) | 3:43 | 2024-03-13 | 2025-01-09 |
-| [Bhoora Bhoora](https://open.spotify.com/track/5bzK0v8khbUIe0PYLcKL3E) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Emperor TZZZARRR](https://open.spotify.com/artist/1uvWNcWID6KLkbLYDgw6Vv) | [Bhoora Bhoora](https://open.spotify.com/album/54c0hF6EJzvirDvfwXKe3n) | 3:09 | 2024-03-13 |  |
+| [Bhoora Bhoora](https://open.spotify.com/track/5bzK0v8khbUIe0PYLcKL3E) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Emperor TZZZARRR](https://open.spotify.com/artist/1uvWNcWID6KLkbLYDgw6Vv) | [Bhoora Bhoora](https://open.spotify.com/album/54c0hF6EJzvirDvfwXKe3n) | 3:09 | 2024-03-13 | 2025-03-27 |
 | [Bikhtissar](https://open.spotify.com/track/2YG9XwTOEWUj0BhiU5XgpL) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Bikhtissar](https://open.spotify.com/album/0xw0IgIfc7CVIRy6Ktlqyg) | 3:32 | 2023-01-24 |  |
 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 | 2023-01-24 |  |
 | [Crazy Habibi Vs Decent Munda \(From "Arjun Patiala"\)](https://open.spotify.com/track/7yy3HgKJEcwArL5k0v5rhF) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Crazy Habibi Vs Decent Munda \(From "Arjun Patiala"\)](https://open.spotify.com/album/5bmu1BwfMDK5uckWSVLZWZ) | 3:03 | 2023-01-24 |  |
@@ -69,6 +69,7 @@
 | [You're Gold \(feat\. Grini\)](https://open.spotify.com/track/0IyBqp1dLXqn5tQPk7rAXv) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [You're Gold \(feat\. Grini\)](https://open.spotify.com/album/49cjJDVqwheDN16PYjcdiq) | 3:13 | 2024-03-13 |  |
 | [Zariya](https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI) | [Coke Studio India Season 3: Episode 1](https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl) | 7:12 | 2023-01-24 |  |
 | [À L'Indienne](https://open.spotify.com/track/20FE3ViLCKzHaIZHHdIwi7) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [À L'Indienne](https://open.spotify.com/album/4aNQGmi002xvJi6YOla6uv) | 3:23 | 2023-01-24 |  |
+| [شناي](https://open.spotify.com/track/0uxvn45OTk88sjlwrrHSCm) | [حنان.](https://open.spotify.com/artist/0XW0YQBRv6ISDEL85T69WR) | [شناي](https://open.spotify.com/album/5LvDEg7s31vpqkQbtWGZFV) | 3:39 | 2024-03-13 |  |
 | [لا جوزاديرا \(feat\. Marc Anthony & Gente de Zona\) \- Arabic Version](https://open.spotify.com/track/00WbIozZcC3dIykrfOTJLP) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2), [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [لا جوزاديرا \(feat\. Marc Anthony & Gente de Zona\) \[Arabic Version\]](https://open.spotify.com/album/3fPJxq7mCKPcrSuxEg4XxW) | 3:27 | 2023-01-24 |  |
 
 \*This playlist was first scraped on 2023-08-27. Prior content cannot be recovered.

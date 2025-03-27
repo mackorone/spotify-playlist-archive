@@ -4,7 +4,7 @@
 
 > Music from "Blue Exorcist" ©加藤和恵／集英社・「青の祓魔師」製作委員会
 
-64 songs - 4 hr 27 min
+68 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Battle Scars](https://open.spotify.com/track/4wnhzZ1SVxmqKnuF7lzy8g) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 劇場版 オリジナル・サウンドトラック](https://open.spotify.com/album/5JsgerAqUre1VjnSkWmPx1) | 4:07 | 2024-10-05 |  |
 | [Battle Scars <Plugless Version>](https://open.spotify.com/track/1QcL8RXvctljx61nze2Thv) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 4:05 | 2024-10-05 |  |
 | [Battle Scars <Plugless Version>](https://open.spotify.com/track/7pKIb7GAKEb4ab6UYMTj21) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 京都不浄王篇 オリジナル・サウンドトラック](https://open.spotify.com/album/1soV6zVwfd9AjLIipFCT7I) | 4:06 | 2024-10-05 |  |
+| [Beyond the Snow](https://open.spotify.com/track/7ssz2kQhohTyiytgK312i9) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [青の祓魔師 オリジナル・サウンドトラック 2024\-25](https://open.spotify.com/album/4U7fpIxI48E5DD0lY8hbid) | 4:08 | 2025-03-26 |  |
 | [BGM的\-suite 1st\-Mov.：E戦場\-Aria](https://open.spotify.com/track/6XirOFa373xU7EQ3yJoRwg) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 2:58 | 2024-10-05 |  |
 | [BGM的\-suite 2nd\-Mov.：Technology ORCH.](https://open.spotify.com/track/2Q5FDXXHLEAUrtLiwlUqhN) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 3:08 | 2024-10-05 |  |
 | [BLUE](https://open.spotify.com/track/5XvB4O52PfmYWW1a3zuzHd) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 劇場版 オリジナル・サウンドトラック](https://open.spotify.com/album/5JsgerAqUre1VjnSkWmPx1) | 3:57 | 2024-10-05 |  |
@@ -21,6 +22,7 @@
 | [Blue Echo](https://open.spotify.com/track/0WraLnszw3kRk8KdFYcezo) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [CALL / Blue Echo](https://open.spotify.com/album/3OcY3OAPaRF8jqfCCQ7Kjy) | 4:37 | 2024-12-24 |  |
 | [BLUe\-eXOSUiTe\-toKYOto\-仁](https://open.spotify.com/track/7seZ0yw03TKLMIApsykrBd) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 京都不浄王篇 オリジナル・サウンドトラック](https://open.spotify.com/album/1soV6zVwfd9AjLIipFCT7I) | 5:59 | 2024-10-05 |  |
 | [BLUe\-eXOSUiTe\-toKYOto\-弌](https://open.spotify.com/track/3BF5Zyf0dS3g78vHq9pSrE) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 京都不浄王篇 オリジナル・サウンドトラック](https://open.spotify.com/album/1soV6zVwfd9AjLIipFCT7I) | 5:44 | 2024-10-05 |  |
+| [Boys Go Their Own Way](https://open.spotify.com/track/3DvEnXDSwsJWUPzJTXC86Z) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [青の祓魔師 オリジナル・サウンドトラック 2024\-25](https://open.spotify.com/album/4U7fpIxI48E5DD0lY8hbid) | 3:53 | 2025-03-26 |  |
 | [BPF1](https://open.spotify.com/track/6fFZYxGeVX7fvjv36yaKFN) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 京都不浄王篇 オリジナル・サウンドトラック](https://open.spotify.com/album/1soV6zVwfd9AjLIipFCT7I) | 3:00 | 2024-10-05 |  |
 | [CALL](https://open.spotify.com/track/6tiRYlOawafTibJQ0YSipQ) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [CALL / Blue Echo](https://open.spotify.com/album/3OcY3OAPaRF8jqfCCQ7Kjy) | 3:06 | 2024-12-24 |  |
 | [Call me later <nZk Plugless>](https://open.spotify.com/track/34rd41XWCNb0Pz2UgkZrAt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:23 | 2024-10-05 |  |
@@ -33,7 +35,9 @@
 | [IiMuRoYa\-$.feat 3rd\-Mov.：HEiW@→KiZUN@](https://open.spotify.com/track/4yOaxp7nUssJFcFNjiOaZD) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 4:13 | 2024-10-05 | 2024-12-25 |
 | [IiMuRoYa\-$.feat 4th\-Mov.：N\-tone](https://open.spotify.com/track/5WZr0sEIlzNxaH52LjEWNz) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 3:22 | 2024-10-05 |  |
 | [IN MY WORLD](https://open.spotify.com/track/3euISUbOuujVYcquudPMaT) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [IN MY WORLD](https://open.spotify.com/album/0EwhGinqbM907mkFc2wJR1) | 3:26 | 2024-10-05 |  |
+| [Izumo KAMIKI](https://open.spotify.com/track/2kqIwLvmVUxbOiZDt3paA9) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [青の祓魔師 オリジナル・サウンドトラック 2024\-25](https://open.spotify.com/album/4U7fpIxI48E5DD0lY8hbid) | 3:41 | 2025-03-26 |  |
 | [KEKKAI](https://open.spotify.com/track/0dWNNPsjxZyUEb4o6eMoTE) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 劇場版 オリジナル・サウンドトラック](https://open.spotify.com/album/5JsgerAqUre1VjnSkWmPx1) | 5:46 | 2024-10-05 |  |
+| [LUCIFER](https://open.spotify.com/track/56JvJCoo4R8EVXv8voSezQ) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [青の祓魔師 オリジナル・サウンドトラック 2024\-25](https://open.spotify.com/album/4U7fpIxI48E5DD0lY8hbid) | 5:30 | 2025-03-26 |  |
 | [MATSURI](https://open.spotify.com/track/72ZkPAbJf2wVHsFXcgaMeC) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 京都不浄王篇 オリジナル・サウンドトラック](https://open.spotify.com/album/1soV6zVwfd9AjLIipFCT7I) | 5:59 | 2024-10-05 |  |
 | [Me & Creed <Lite\-Tone\-Happy部 3:な>](https://open.spotify.com/track/5UR8SprTqrH9HnLTknoLBy) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:26 | 2024-10-05 |  |
 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 | 2024-10-05 |  |

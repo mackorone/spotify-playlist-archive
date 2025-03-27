@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [160](https://open.spotify.com/track/1GKT0DSkBm7h6Q7sohvsKx) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [160](https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL) | 3:25 | 2025-03-06 |  |
+| [160](https://open.spotify.com/track/1GKT0DSkBm7h6Q7sohvsKx) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [160](https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL) | 3:25 | 2025-03-06 | 2025-03-27 |
 | [5/4](https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z) | [Sheygets](https://open.spotify.com/artist/2cPjbkjCnAz8t7tZMPDah8) | [עוד משקאות חריפים](https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK) | 3:45 | 2024-07-12 | 2024-09-13 |
 | [A Better Man](https://open.spotify.com/track/3ioH5vhka49gZPgq1jlBJr) | [Ofir Lessel](https://open.spotify.com/artist/7fxgWT81yP2N3u9lGNY5VR) | [A Better Man](https://open.spotify.com/album/2wWFjG5njtoWHIZvN3PVl2) | 4:49 | 2025-03-20 |  |
 | [A Thousand Times](https://open.spotify.com/track/3lJnPyMLhZ2javY7UZl36K) | [Russo](https://open.spotify.com/artist/0ECpBE2RTJep1cVxNFulEA), [Roni Bar Hadas](https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44) | [A Thousand Times](https://open.spotify.com/album/0KoAvYIp3jyn8XrFnxCqaF) | 2:56 | 2024-06-27 | 2024-10-04 |
@@ -155,7 +155,7 @@
 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 | 2024-06-27 | 2024-08-10 |
 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 | 2024-07-25 |  |
 | [לגלגל את זה הלאה](https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [אירוע מתגלגל](https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF) | 4:19 | 2025-02-13 |  |
-| [להיות לבד \- בארבי Live](https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שירים מדלת אל דלת \(בארבי Live\)](https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp) | 3:40 | 2024-09-05 | 2025-03-26 |
+| [להיות לבד \- בארבי Live](https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שירים מדלת אל דלת \(בארבי Live\)](https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp) | 3:40 | 2024-09-05 |  |
 | [לחזור הביתה](https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [לחסד וגאולה המשך ישר](https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8) | 4:17 | 2024-09-12 | 2025-03-21 |
 | [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 | 2024-06-27 | 2024-09-06 |
 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 | 2024-06-27 | 2025-02-11 |

@@ -4,7 +4,7 @@
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-214 songs - 11 hr 18 min
+215 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Mete o Louco \(Liguori Remix\)](https://open.spotify.com/track/4f6GDjw0TqTltdZDjfibMS) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh), [Liguori](https://open.spotify.com/artist/50sHvLsccS7y3Ci40ZtSOk) | [Mete o Louco \(Liguori Remix\)](https://open.spotify.com/album/5myg7V8GHuN8fpojTJnFp1) | 2:33 | 2022-06-29 | 2022-07-29 |
 | [Miçanga \(feat\. BaianaSystem\) \[with Alok, Kawz\]](https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st) | [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Kawz](https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB) | [Miçanga \(feat\. BaianaSystem\) \[with Alok, Kawz\]](https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD) | 3:06 | 2025-01-24 |  |
 | [Momento com Você](https://open.spotify.com/track/1APDuk20SkmqvTk6HRaJoG) | [SoFly](https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO), [HOT\-Q](https://open.spotify.com/artist/6CO3icJe86W5FK3U73zyyR) | [Momento com Você](https://open.spotify.com/album/2ssM84PM3TrkJYC0a38NC4) | 2:41 | 2022-06-29 | 2022-07-27 |
-| [Monalisa \(KVSH Remix\)](https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Monalisa \(KVSH Remix\)](https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz) | 2:55 | 2023-02-03 |  |
+| [Monalisa \(KVSH Remix\)](https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Monalisa \(KVSH Remix\)](https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz) | 2:55 | 2023-02-03 | 2025-03-27 |
+| [Morar No Mar](https://open.spotify.com/track/5d21ic3cXPqd2uMwaDDoRx) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Tato](https://open.spotify.com/artist/6qx1m0fSdGssJ6o8Wn6w0e), [soa](https://open.spotify.com/artist/1Po9h1Y9gpv8SHdoGRxsBw) | [Morar No Mar](https://open.spotify.com/album/26jQcqCEEGISiJRDihBsXG) | 3:50 | 2025-03-24 |  |
 | [Never Let Me Go](https://open.spotify.com/track/1yzBGun3xDY7WpHOIP9nNp) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Never Let Me Go](https://open.spotify.com/album/1JhicJyEqq12ezmUwYJ5or) | 3:04 | 2022-06-29 | 2022-07-28 |
 | [Never Let Me Go](https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Never Let Me Go](https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K) | 3:03 | 2022-06-29 | 2023-11-09 |
 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 | 2022-06-29 | 2022-09-10 |

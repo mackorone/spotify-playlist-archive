@@ -616,6 +616,28 @@
     {
       "album": {
         "name": "Fell In Love",
+        "url": "https://open.spotify.com/album/5Gyiyw8PNkMhxgIC17CVcB"
+      },
+      "artists": [
+        {
+          "name": "C3llyPizzaz",
+          "url": "https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165266,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/0K2HUBAW8fv5kqpnx1dBAm"
+    },
+    {
+      "album": {
+        "name": "Fell In Love",
         "url": "https://open.spotify.com/album/5WcP2UBCmuvisS8trtAYCZ"
       },
       "artists": [
@@ -630,7 +652,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 165266,
       "name": "Fell In Love",
       "url": "https://open.spotify.com/track/44hFvYbXvLliVkeO9g9b7o"

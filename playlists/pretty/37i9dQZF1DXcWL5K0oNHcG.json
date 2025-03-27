@@ -1,13 +1,61 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: PANTERA BLUE. Artwork: Joy Yamusangie.",
-  "num_followers": 233544,
+  "num_followers": 233717,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9rETwAAAADyfY7QfHzy2st8Bsc9k48r",
+  "snapshot_id": "Z+QP9AAAAADHNbjkQNYgoTy7pzJCwgdX",
   "tracks": [
+    {
+      "added_at": "2025-03-26 14:32:20",
+      "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/5UQ6npLAKutJFaJfp9CAIV"
+      },
+      "artists": [
+        {
+          "name": "Poppy Daniels",
+          "url": "https://open.spotify.com/artist/5p4U401vBELQ6nbYLJHm3Z"
+        }
+      ],
+      "duration_ms": 277445,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/4iDRc7gJ4Uvhrn5r0sMHKy"
+    },
+    {
+      "added_at": "2025-03-26 14:32:20",
+      "album": {
+        "name": "Good Friends Call Me E",
+        "url": "https://open.spotify.com/album/0fx9lzzdZ2YE15QMIUoyIl"
+      },
+      "artists": [
+        {
+          "name": "Eliana Glass",
+          "url": "https://open.spotify.com/artist/1PJjW9Z03G2R0q6GM6QgFc"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Good Friends Call Me E",
+      "url": "https://open.spotify.com/track/0NH6yKue0LAEc0MitqOmwx"
+    },
+    {
+      "added_at": "2025-03-26 14:32:20",
+      "album": {
+        "name": "The Toro",
+        "url": "https://open.spotify.com/album/77AWJqA0ENHe9WRW6g0tC5"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+        }
+      ],
+      "duration_ms": 403747,
+      "name": "The Toro",
+      "url": "https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S"
+    },
     {
       "added_at": "2025-03-19 13:19:11",
       "album": {
@@ -903,70 +951,6 @@
       "duration_ms": 178500,
       "name": "More Purple Than Ever",
       "url": "https://open.spotify.com/track/0J38E8bTJINcEzUQiTlbW2"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Birdgang, Pt. II",
-        "url": "https://open.spotify.com/album/3yzVAvoG8f0ekZdDkk6JlT"
-      },
-      "artists": [
-        {
-          "name": "Plantfood",
-          "url": "https://open.spotify.com/artist/7cyfKXUHcgckmpciDHSsoR"
-        }
-      ],
-      "duration_ms": 374426,
-      "name": "Birdgang, Pt. II",
-      "url": "https://open.spotify.com/track/0BW6E4sY1wiFyYJpENPt7d"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Funky Beast",
-        "url": "https://open.spotify.com/album/1I07H0kVHWEaRS0EDBJcjX"
-      },
-      "artists": [
-        {
-          "name": "SiB Music",
-          "url": "https://open.spotify.com/artist/46IgprQeDeLQgAwexDkD1w"
-        }
-      ],
-      "duration_ms": 256250,
-      "name": "Funky Beast",
-      "url": "https://open.spotify.com/track/69zqSD2jeCHJtK25L4UARX"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Jump Start",
-        "url": "https://open.spotify.com/album/1sluTVFDZpkmI2i0g8mjvk"
-      },
-      "artists": [
-        {
-          "name": "Eric Parmelee",
-          "url": "https://open.spotify.com/artist/0qZsaW7DdPNSZ7u3NujPhs"
-        },
-        {
-          "name": "Caleb Arredondo",
-          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
-        },
-        {
-          "name": "Noah Roberts",
-          "url": "https://open.spotify.com/artist/4fLdviFT2uvSbhpIEL0Bjz"
-        },
-        {
-          "name": "Ford Chambers",
-          "url": "https://open.spotify.com/artist/3UaeSTAEdB4ADFh2eKjwTu"
-        },
-        {
-          "name": "Joshua Stenis",
-          "url": "https://open.spotify.com/artist/3nNkbve2b1CsEIshv8x8b5"
-        }
-      ],
-      "duration_ms": 578426,
-      "name": "Jump Start",
-      "url": "https://open.spotify.com/track/4gkydZOKiJCSBD0fR5BTDL"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

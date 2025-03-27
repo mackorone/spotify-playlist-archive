@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:6aHaYKL09sA8L260zXNlVR">andreas odbjerg</a>, Soleima, Mille og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,444 likes - 103 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,452 likes - 103 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 90 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 |
 | 91 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
 | 92 | [Ice on Fire](https://open.spotify.com/track/1GdHHx1qUk1KanvS8n2J8W) | [RYABINA](https://open.spotify.com/artist/3CaEOKhmKBnqdjg04OFuTG) | [Ice on Fire](https://open.spotify.com/album/069YrTvP2wEffsANhVdLRj) | 3:55 |
-| 93 | [HAM](https://open.spotify.com/track/62PlweeRpb77ci90RZ0Sln) | [Ashira](https://open.spotify.com/artist/3bnuxVJGEpeJXzOhs7NyzC) | [HAM](https://open.spotify.com/album/3vgGwr13ijvK33HYV2EBbj) | 2:37 |
+| 93 | [HAM](https://open.spotify.com/track/62PlweeRpb77ci90RZ0Sln) | [ASHIRA](https://open.spotify.com/artist/3bnuxVJGEpeJXzOhs7NyzC) | [HAM](https://open.spotify.com/album/3vgGwr13ijvK33HYV2EBbj) | 2:37 |
 | 94 | [Elsker Ik Dig](https://open.spotify.com/track/77SwgdT6mxsuASmhh3kCNL) | [Candidates of Ebba](https://open.spotify.com/artist/1Ogv6dsBV9NTZvtT0VZbUT) | [Elsker Ik Dig](https://open.spotify.com/album/3Qu1IgpCP1YdIehTjgVtU2) | 3:12 |
 | 95 | [Do It Like Me](https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 3:15 |
 | 96 | [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 |

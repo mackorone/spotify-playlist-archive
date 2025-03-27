@@ -2,9 +2,9 @@
 
 ### [Best of: Coke Studio Bharat](https://open.spotify.com/playlist/37i9dQZF1DXbw9rGYPXetO)
 
-> Hottest tracks from Coke Studio Bharat\. Cover: 'Holi Aayi Re' by Vishal Mishra, Malini Awasthi & Prateeksha Srivastava
+> Hottest tracks from Coke Studio Bharat\. Cover: 'Holo Lolo' by Shankuraj Konwar, Shalmali Kholgade
 
-58 songs - 14 hr 25 min
+59 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Goddess Evocation](https://open.spotify.com/track/52UG36Llh8DgE4DaFJ7tUX) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:39 | 2023-12-14 | 2025-03-04 |
 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 | 2025-03-03 |  |
 | [Holi Re Rasiya](https://open.spotify.com/track/6KJnxgN0lVgv9npvMBje3P) | [Mahan](https://open.spotify.com/artist/4DLHoVmcTLu8Ir0oycZvCi), [Maithili Thakur](https://open.spotify.com/artist/4l5GJirMP9yceDJOAqvuQY), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Ravi Kishan](https://open.spotify.com/artist/4RuzOqiZ3TbTKX30MleR1z), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Holi Re Rasiya](https://open.spotify.com/album/4bU4zFI8HVRIsnI7CDNs3C) | 3:43 | 2025-03-03 |  |
+| [Holo Lolo \| Coke Studio Bharat](https://open.spotify.com/track/3hJqcK8PvzbhIAyrgcKbCQ) | [Shankuraj Konwar](https://open.spotify.com/artist/2sTO4BkutHILz6xXwbbar9), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Holo Lolo \| Coke Studio Bharat](https://open.spotify.com/album/01U2i2MpX4XFJuty26VYty) | 4:41 | 2025-03-26 |  |
 | [Kaushi Kanada](https://open.spotify.com/track/2XOyluz7IWgOvvsRMtrYhw) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Madras 1964](https://open.spotify.com/album/6cDIt3S7CdWT8WrjzuDtJz) | 43:39 | 2022-03-03 | 2025-03-04 |
 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 | 2025-03-03 |  |
 | [Kya Karie Korimol](https://open.spotify.com/track/38DpYnVKdCy8f9OoUPBTSF) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Aashima Mahajan](https://open.spotify.com/artist/5joxaUVi9EcJ011oXF0Dvg) | [Kya Karie Korimol](https://open.spotify.com/album/2Ai7Wo8PtHic9rJK1Cjdpo) | 5:14 | 2025-03-03 |  |

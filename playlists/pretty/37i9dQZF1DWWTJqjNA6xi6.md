@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTJqjNA6xi6.md) - [plain]
 
 > Groove to your family's favorite tracks from Netflix Jr\. Jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112 likes - 28 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111 likes - 28 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

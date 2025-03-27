@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 165000,
       "name": "BTS",
       "url": "https://open.spotify.com/track/38pboK5eem22yXfuh9LMjX"
@@ -3364,6 +3364,32 @@
       "duration_ms": 158733,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/5BPoxXx4RiQ9jIV2XdA5Xg"
+      },
+      "artists": [
+        {
+          "name": "Jind",
+          "url": "https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Isajan",
+          "url": "https://open.spotify.com/artist/1ZAwMkiDj1MgIGdtEjf0xv"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/7uSpLsbpnwk0XTC1nLlpG2"
     },
     {
       "album": {

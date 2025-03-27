@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,096 likes - 194 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,124 likes - 194 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Dream Is Lost](https://open.spotify.com/track/5f6pwi2QJWirSSwcAnCadJ) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 2:45 |
-| 2 | [Home](https://open.spotify.com/track/03dJLOR6HlYLBVajj5cxA2) | [Gints Zilbalodis](https://open.spotify.com/artist/4q9ORXtwSESmnqDUdBUqMi), [Rihards Zalupe](https://open.spotify.com/artist/4nI8qjYW0A1QO0ycB4OHFu) | [Flow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7q9YwO9ldgxUXi1H9M9cuY) | 2:04 |
+| 1 | [Home](https://open.spotify.com/track/03dJLOR6HlYLBVajj5cxA2) | [Gints Zilbalodis](https://open.spotify.com/artist/4q9ORXtwSESmnqDUdBUqMi), [Rihards Zalupe](https://open.spotify.com/artist/4nI8qjYW0A1QO0ycB4OHFu) | [Flow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7q9YwO9ldgxUXi1H9M9cuY) | 2:04 |
+| 2 | [The Dream Is Lost](https://open.spotify.com/track/5f6pwi2QJWirSSwcAnCadJ) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 2:45 |
 | 3 | [Enlightenment \(Main Title Theme\) \- from "The White Lotus: Season 3"](https://open.spotify.com/track/2IGWD7cCtMJMfCBlXSIbz1) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Enlightenment \(Main Title Theme\) \[from "The White Lotus: Season 3"\]](https://open.spotify.com/album/68Tez3SUB1FkgpwfoTpaLY) | 1:46 |
-| 4 | [The Apple](https://open.spotify.com/track/0qWU5CdMJdFUYGsHk9gSVi) | [Jeff Morrow](https://open.spotify.com/artist/6ZJuPowdBLBXkvZE8FjuTY), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Śnieżka \(Muzyka z filmu/Wersja Deluxe\)](https://open.spotify.com/album/4mtZTDti3mhJgegPUYi2kn) | 4:56 |
-| 5 | [Ever After](https://open.spotify.com/track/6NypqYNHIIss621zWZ1N6r) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [Andrew Kawczynski](https://open.spotify.com/artist/35BsHSiq6tNWrLiFcIeXcu) | [Novocaine \(Music from the Motion Picture\)](https://open.spotify.com/album/0NTIqlLWlZ2OUPcIk4Y9hA) | 2:55 |
-| 6 | [The Alto Knights](https://open.spotify.com/track/4en2nJGlv1CFumOGPI6511) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [The Alto Knights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0cA3U7WhfdUXKNWt8mwYDq) | 3:44 |
+| 4 | [The Alto Knights](https://open.spotify.com/track/4en2nJGlv1CFumOGPI6511) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [The Alto Knights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0cA3U7WhfdUXKNWt8mwYDq) | 3:44 |
+| 5 | [The Apple](https://open.spotify.com/track/0qWU5CdMJdFUYGsHk9gSVi) | [Jeff Morrow](https://open.spotify.com/artist/6ZJuPowdBLBXkvZE8FjuTY), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Śnieżka \(Muzyka z filmu/Wersja Deluxe\)](https://open.spotify.com/album/4mtZTDti3mhJgegPUYi2kn) | 4:56 |
+| 6 | [Ever After](https://open.spotify.com/track/6NypqYNHIIss621zWZ1N6r) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [Andrew Kawczynski](https://open.spotify.com/artist/35BsHSiq6tNWrLiFcIeXcu) | [Novocaine \(Music from the Motion Picture\)](https://open.spotify.com/album/0NTIqlLWlZ2OUPcIk4Y9hA) | 2:55 |
 | 7 | [Ozdust Duet \- Bonus Track](https://open.spotify.com/track/5oUggqlg7zOto1unBbj393) | [The Wicked Orchestra](https://open.spotify.com/artist/0bVjGR347nlhO79Z3i881P) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 2:11 |
 | 8 | [Kissing In The Snow](https://open.spotify.com/track/4y2RIzHKWXVgP6Gec7pBaY) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Bridget Jones: Mad About the Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JkVU2P1Pm1uwolXAVc6Gr) | 1:52 |
 | 9 | [There’s Been An Incident](https://open.spotify.com/track/1XUDAKo66K6SosRYKo0T7m) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [The Residence \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0OhlGl9qI8leAkdmPm77ce) | 1:48 |
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 193 | ["I Just Hope She's Alright"](https://open.spotify.com/track/7BZHB6hhlQDP6epkc3ayZK) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 0:53 |
 | 194 | [There Is No Joker \- from "Joker: Folie à Deux"](https://open.spotify.com/track/53N9QpKnRLosiJ0oPkmb0j) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [There Is No Joker \(from "Joker: Folie à Deux"\)](https://open.spotify.com/album/7d1gzheOL14PQCI1xxUkGb) | 1:49 |
 
-Snapshot ID: `Z+J9JAAAAACkFxiblGsrxY2U7QI+znsh`
+Snapshot ID: `Z+PctAAAAAC6yX35GHcV1FT25MT/f7k0`

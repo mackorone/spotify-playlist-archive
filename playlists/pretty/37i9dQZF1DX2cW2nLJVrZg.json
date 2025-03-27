@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 258492,
+  "num_followers": 258491,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Bratt",
+          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
+        }
+      ],
+      "duration_ms": 109280,
+      "name": "Remember Me (Ernesto de la Cruz)",
+      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Beauty And The Beast (Special Edition)",
         "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 165186,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Coco (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Bratt",
-          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
-        }
-      ],
-      "duration_ms": 109280,
-      "name": "Remember Me (Ernesto de la Cruz)",
-      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
     },
     {
       "added_at": "2024-01-23 19:55:12",

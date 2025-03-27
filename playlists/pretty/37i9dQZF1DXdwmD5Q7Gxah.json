@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/introducing-lorem-and-friends?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Check out our newsletter...</a> Cover: Men I Trust",
-  "num_followers": 1178029,
+  "num_followers": 1178108,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z934VQAAAAB+CJZf7HkwBb1AezjZXtzg",
+  "snapshot_id": "Z+Q+uwAAAAAu+j4BGiKuLA5cWPK7RqeY",
   "tracks": [
     {
       "added_at": "2025-03-19 14:58:50",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2lOTK5uAzQ4OmRPXo2oAFX"
     },
     {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "GODSTAINED",
+        "url": "https://open.spotify.com/album/47pWWT0JyRpY7Fo2Wat8aY"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 205250,
+      "name": "GODSTAINED",
+      "url": "https://open.spotify.com/track/2IbtNIdNlVelpPNaRYEZdJ"
+    },
+    {
       "added_at": "2025-03-14 04:03:00",
       "album": {
         "name": "300 dreams",
@@ -41,22 +57,6 @@
       "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
     },
     {
-      "added_at": "2025-03-12 19:40:42",
-      "album": {
-        "name": "Relationships",
-        "url": "https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
-    },
-    {
       "added_at": "2025-03-21 04:00:55",
       "album": {
         "name": "undressed",
@@ -71,22 +71,6 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-03-19 15:46:02",
-      "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 211300,
-      "name": "Girl (2025)",
-      "url": "https://open.spotify.com/track/7DuXqTgphrMZUA0cRU92TL"
     },
     {
       "added_at": "2025-03-21 04:00:55",
@@ -137,6 +121,22 @@
       "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
     },
     {
+      "added_at": "2025-03-26 15:09:42",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Some Protector",
+      "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
+    },
+    {
       "added_at": "2025-03-14 04:03:00",
       "album": {
         "name": "Dusty",
@@ -153,24 +153,20 @@
       "url": "https://open.spotify.com/track/2mBzVP4ns9B4yPIZKjN9rV"
     },
     {
-      "added_at": "2025-03-21 04:00:55",
+      "added_at": "2025-03-19 15:46:02",
       "album": {
-        "name": "Good Stuff (Edit)",
-        "url": "https://open.spotify.com/album/3qNVaqCijxUA03OYFh88ul"
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
       "artists": [
         {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        },
-        {
-          "name": "Wild Pink",
-          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 209819,
-      "name": "Good Stuff - Edit",
-      "url": "https://open.spotify.com/track/6BZC33mJ7fbt7lHQDHnKyf"
+      "duration_ms": 211300,
+      "name": "Girl (2025)",
+      "url": "https://open.spotify.com/track/7DuXqTgphrMZUA0cRU92TL"
     },
     {
       "added_at": "2025-02-04 21:36:16",
@@ -203,6 +199,22 @@
       "duration_ms": 203093,
       "name": "I'll Take It",
       "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
+    },
+    {
+      "added_at": "2025-03-12 19:40:42",
+      "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
     },
     {
       "added_at": "2025-03-21 17:10:45",
@@ -255,6 +267,26 @@
       "duration_ms": 237133,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/3vxvz0JoRDvnx2jG9oPljA"
+    },
+    {
+      "added_at": "2025-03-21 04:00:55",
+      "album": {
+        "name": "Good Stuff (Edit)",
+        "url": "https://open.spotify.com/album/3qNVaqCijxUA03OYFh88ul"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        },
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "duration_ms": 209819,
+      "name": "Good Stuff - Edit",
+      "url": "https://open.spotify.com/track/6BZC33mJ7fbt7lHQDHnKyf"
     },
     {
       "added_at": "2025-03-14 04:03:00",
@@ -869,22 +901,6 @@
       "url": "https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB"
     },
     {
-      "added_at": "2025-03-07 05:00:40",
-      "album": {
-        "name": "Applesauce",
-        "url": "https://open.spotify.com/album/3OBdKoFtSsBVqk7UDWH2M0"
-      },
-      "artists": [
-        {
-          "name": "Esme Emerson",
-          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1rrhsaqMY5Fbxu5EoKxXqf"
-    },
-    {
       "added_at": "2025-02-14 05:00:17",
       "album": {
         "name": "Love & Money",
@@ -1109,22 +1125,6 @@
       "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
     },
     {
-      "added_at": "2025-02-14 05:00:17",
-      "album": {
-        "name": "Love Trap",
-        "url": "https://open.spotify.com/album/52rmgq7Ah95kNSemFMV3Zc"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Love Trap",
-      "url": "https://open.spotify.com/track/5T3WzOr1qHO9RYsuMJC6UN"
-    },
-    {
       "added_at": "2025-01-30 19:31:08",
       "album": {
         "name": "Killed For Sport",
@@ -1205,30 +1205,6 @@
       "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
     },
     {
-      "added_at": "2025-02-21 05:00:39",
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1Up7dZ7UFAuzu39oA7Xu4c"
-      },
-      "artists": [
-        {
-          "name": "child star",
-          "url": "https://open.spotify.com/artist/42v4JUoQVfM9w186KoL5B1"
-        },
-        {
-          "name": "Olivia O.",
-          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
-        },
-        {
-          "name": "Sean Henry",
-          "url": "https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk"
-        }
-      ],
-      "duration_ms": 124750,
-      "name": "shhh",
-      "url": "https://open.spotify.com/track/36iSnMkIwxiuCcwVtNiIpC"
-    },
-    {
       "added_at": "2025-02-11 18:55:25",
       "album": {
         "name": "Best Guess",
@@ -1291,30 +1267,6 @@
       "duration_ms": 216757,
       "name": "Besties",
       "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:46",
-      "album": {
-        "name": "Eso Que T\u00fa Llamas Amor",
-        "url": "https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 175336,
-      "name": "Eso Que T\u00fa Llamas Amor",
-      "url": "https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi"
     },
     {
       "added_at": "2025-02-07 05:00:46",
@@ -1661,22 +1613,6 @@
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
     },
     {
-      "added_at": "2025-01-07 18:32:03",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "Father Figure - Remastered - featured in 'Babygirl'",
-      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
-    },
-    {
       "added_at": "2025-01-14 02:49:11",
       "album": {
         "name": "Crying, Laughing, Loving, Lying",
@@ -1805,22 +1741,6 @@
       "url": "https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K"
     },
     {
-      "added_at": "2024-12-13 05:00:39",
-      "album": {
-        "name": "Damn Shame",
-        "url": "https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 168537,
-      "name": "Damn Shame",
-      "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
-    },
-    {
       "added_at": "2024-11-29 18:24:42",
       "album": {
         "name": "Ahora",
@@ -1891,22 +1811,6 @@
       "duration_ms": 181090,
       "name": "OCTOBER",
       "url": "https://open.spotify.com/track/1uYO5Jhgf4S1752bUL2IiW"
-    },
-    {
-      "added_at": "2024-12-05 18:21:31",
-      "album": {
-        "name": "Leash (Babygirl Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Leash (Babygirl Original Soundtrack)",
-      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
     },
     {
       "added_at": "2024-12-13 05:00:39",
@@ -2007,22 +1911,6 @@
       "duration_ms": 298000,
       "name": "this is my california",
       "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 261005,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
     },
     {
       "added_at": "2024-11-08 05:00:00",

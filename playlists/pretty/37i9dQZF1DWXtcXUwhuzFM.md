@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Jenni Vartiaiselta & Turistilta, BESSiltä & Käärijältä ja Haloo Helsingiltä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,296 likes - 110 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,298 likes - 110 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5801,6 +5801,24 @@
     },
     {
       "album": {
+        "name": "where we first met",
+        "url": "https://open.spotify.com/album/1dsRBQduYVoBbUhh3nIXm7"
+      },
+      "artists": [
+        {
+          "name": "Affinity88",
+          "url": "https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161733,
+      "name": "where we first met",
+      "url": "https://open.spotify.com/track/7gkW9sRR75Ca9ZAwgJj0JH"
+    },
+    {
+      "album": {
         "name": "Whimsical",
         "url": "https://open.spotify.com/album/3mtWkCVyqHW7FkeCO22zOq"
       },

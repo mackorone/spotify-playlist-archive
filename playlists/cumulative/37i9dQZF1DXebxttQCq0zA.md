@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-484 songs - 1 day 0 hr 18 min
+489 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2022-05-25 | 2022-09-28 |
 | [Cloud Gazing](https://open.spotify.com/track/5RA07TPFsjrAR9iDR0OiHC) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Floating Free](https://open.spotify.com/album/30KgVtVeomGLqbrmwF28kn) | 2:47 | 2023-03-09 | 2023-08-12 |
 | [Cloud Puff](https://open.spotify.com/track/3AbxPftquBRGJPtKnenpPl) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Cloud Puff](https://open.spotify.com/album/3s9XpZafAAY3DCCPaIsL8X) | 2:45 | 2022-05-25 | 2022-09-28 |
-| [Cometae](https://open.spotify.com/track/58MdxPGkmg7p5goVYJ0wXR) | [Enyaq](https://open.spotify.com/artist/67rg1RV1XGrujzyW4rZfYL) | [Cometae](https://open.spotify.com/album/74sbcCa8pZLerrZ0QtvHmo) | 3:14 | 2024-07-12 |  |
+| [Cometae](https://open.spotify.com/track/58MdxPGkmg7p5goVYJ0wXR) | [Enyaq](https://open.spotify.com/artist/67rg1RV1XGrujzyW4rZfYL) | [Cometae](https://open.spotify.com/album/74sbcCa8pZLerrZ0QtvHmo) | 3:14 | 2024-07-12 | 2025-03-27 |
 | [Comfortable Night](https://open.spotify.com/track/0WUTtM2dCgaV3DcKR1TUo0) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 3:46 | 2022-05-25 | 2022-12-10 |
 | [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 | 2022-05-25 | 2022-09-03 |
@@ -109,6 +109,7 @@
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2022-05-25 | 2022-09-28 |
 | [Desolate Moon](https://open.spotify.com/track/0NHBsBfpK4fOZ76OX7TeLv) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Desolate Moon](https://open.spotify.com/album/0gzaamILvQISQMVqRMmhs5) | 2:24 | 2025-03-11 |  |
 | [Determination](https://open.spotify.com/track/0IthIgkcnDg9SQ4KV3EOcE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 3:21 | 2022-05-25 | 2024-07-20 |
+| [Dewdrops at Dawn](https://open.spotify.com/track/43HbRE0WWFqKd6TyP9tdWX) | [Night Syndicate](https://open.spotify.com/artist/49T3w5GxDcNks7XGqmaONt) | [Dewdrops at Dawn](https://open.spotify.com/album/3lUPG1JbtL4y3sWX35KnG8) | 2:58 | 2025-03-26 |  |
 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 | 2022-05-25 | 2024-09-19 |
 | [Distant Oceans](https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Distant Oceans](https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80) | 2:18 | 2022-05-25 | 2023-03-18 |
 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 | 2022-05-25 | 2023-04-07 |
@@ -126,6 +127,7 @@
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-05-25 | 2022-09-28 |
 | [Earth](https://open.spotify.com/track/6trBzOG5bELahnPI7JsEXF) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Earth](https://open.spotify.com/album/4n9ubNL4T2PPrODesDMdEU) | 3:05 | 2024-06-10 | 2025-02-15 |
 | [Earthy Vibes](https://open.spotify.com/track/1InWzGbLaqF6HVmAzDTrKJ) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Earthy Vibes](https://open.spotify.com/album/75yfdMKQEm7b0PKat1lC0e) | 3:45 | 2024-06-10 |  |
+| [Ease](https://open.spotify.com/track/5TDdzDtyvRaChrNbatUSu9) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Ease](https://open.spotify.com/album/51rgSm6sHWB3kFrtlifmU7) | 2:58 | 2025-03-26 |  |
 | [eau du mist](https://open.spotify.com/track/1hJbakwBwRHO0RkuWMZTrL) | [Mellow Line](https://open.spotify.com/artist/04VbUIBiU4FPdTGp83ATXB) | [eau du mist](https://open.spotify.com/album/7G8jEerdN6GEqP81tAj4A3) | 3:00 | 2023-10-06 |  |
 | [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 | 2023-04-21 |  |
 | [Eclipse](https://open.spotify.com/track/6bC9aCrFNtCrX3EErko1gL) | [Solar Collective](https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC) | [Eclipse](https://open.spotify.com/album/1DlmOoDd9T7j29fUB8cOsq) | 2:33 | 2024-11-28 |  |
@@ -141,7 +143,7 @@
 | [Equilibrium](https://open.spotify.com/track/0aRSGdv7ImXsxk91fTqEf5) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Equilibrium](https://open.spotify.com/album/3Tr4GGB3iahsp5CVYtubVj) | 3:03 | 2022-05-25 | 2022-09-28 |
 | [Equinox](https://open.spotify.com/track/09crw6FF5gq4Rd0DLsI7n9) | [Ögonblick](https://open.spotify.com/artist/7lI51rVxjXEtquwOI7v04L) | [Equinox](https://open.spotify.com/album/4YZ4tlaZQbGjW9KoHcoWoo) | 2:58 | 2024-06-10 |  |
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-04-06 |  |
-| [Escapism](https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Escapism](https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH) | 3:18 | 2022-12-09 |  |
+| [Escapism](https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Escapism](https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH) | 3:18 | 2022-12-09 | 2025-03-27 |
 | [Eternal](https://open.spotify.com/track/19pvQd80cLdx4bWe0S4Inu) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Eternal](https://open.spotify.com/album/1crikuFAWGE9kyqkA6WzpF) | 2:58 | 2024-06-10 |  |
 | [Eternal Oasis](https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Oasis](https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV) | 2:38 | 2025-01-08 |  |
 | [Eternal Rest](https://open.spotify.com/track/0cmhNtPuQPQPeJl536CvVX) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Rest](https://open.spotify.com/album/31zDFGa0tjwiRQc897Pri9) | 3:18 | 2024-12-03 |  |
@@ -178,6 +180,7 @@
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2022-05-25 | 2022-09-03 |
 | [Future Natural](https://open.spotify.com/track/6TEANET5tqjSDj5FshlGIv) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Future Natural](https://open.spotify.com/album/5C2nRscGU9LGKyz3F87kY9) | 3:23 | 2024-07-12 |  |
 | [Gamma Freq Pads](https://open.spotify.com/track/1yOlQ6v0E3Jgo9iY0dtMyQ) | [Masters of Binaurality](https://open.spotify.com/artist/6em3rrtKhjff80iJWE6m6K) | [Total Sleep And Relaxation](https://open.spotify.com/album/11mWqnd5PEdfYuQYEHa2to) | 3:40 | 2022-05-25 | 2022-09-28 |
+| [Gateway Glitter](https://open.spotify.com/track/6Brzc1DjbCqhTuJl4wBDMM) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Gateway Glitter](https://open.spotify.com/album/5QXgxzxiOzManaZz4XBcoq) | 2:25 | 2025-03-26 |  |
 | [Gemoedsrust](https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Gemoedsrust](https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC) | 2:17 | 2023-05-05 |  |
 | [Gentle](https://open.spotify.com/track/19PlKAonAMJI24h468rBFp) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [Gentle](https://open.spotify.com/album/4EIyV7nsjGmJBgYjA5HtT5) | 2:58 | 2022-05-25 | 2024-11-29 |
 | [Gentle](https://open.spotify.com/track/4NhNqADCVHtinzGQkZrRkO) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Gentle](https://open.spotify.com/album/5QlJDob0lzv0Q6QsGUz2pW) | 2:53 | 2024-12-03 |  |
@@ -221,6 +224,7 @@
 | [Incan](https://open.spotify.com/track/5UjkShFEMrLqwajnpkzrL6) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Incan](https://open.spotify.com/album/0CmlUS7MiiPSxfP7qlmwzK) | 3:55 | 2022-05-25 | 2022-09-03 |
 | [Indiglow](https://open.spotify.com/track/5B7jFzHOJsESyrj7gMpwEQ) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [Indiglow](https://open.spotify.com/album/128G2pdIq4B8DDq9S2DMQJ) | 2:27 | 2023-02-09 |  |
 | [Inner Healing](https://open.spotify.com/track/4tI95LGsuUT7fiQhCCYJB6) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Inner Healing](https://open.spotify.com/album/4f5ww1dpmq9BfcaUTKK6V5) | 2:56 | 2025-02-14 |  |
+| [Inner Journey](https://open.spotify.com/track/5Bh0PGDtxyocdnAnWK47Sj) | [Luca Kerr](https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap) | [Inner Journey](https://open.spotify.com/album/1O4gaufyMdXEGxZjZLQa8G) | 2:58 | 2025-03-26 |  |
 | [Inner River](https://open.spotify.com/track/2ZHtE6Gdq09hEV4YdKurd5) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Inner River](https://open.spotify.com/album/25tcfPh3NVHPR7kdPnXL38) | 2:27 | 2023-07-13 | 2025-02-08 |
 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 | 2023-02-09 | 2023-11-11 |
 | [Intentions](https://open.spotify.com/track/4V6wywWLT9rFRH4CFtsRxU) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Calming Piano for Yoga and Meditation Vol 3](https://open.spotify.com/album/5cwbCf5VPtpZndvubNFKSo) | 2:48 | 2022-05-25 | 2024-09-19 |
@@ -336,6 +340,7 @@
 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 | 2022-05-25 | 2023-12-14 |
 | [Primordial](https://open.spotify.com/track/2LOzcym1nECzLWJMiKsq0Z) | [Everlasting Theta](https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9) | [Primordial](https://open.spotify.com/album/2D48vddS7KcQL8E6QuhnLu) | 2:47 | 2025-01-17 |  |
 | [Pure Ambience](https://open.spotify.com/track/1hE4uBGIfigYTxG8egwMQd) | [Jon Derison](https://open.spotify.com/artist/5vucpx7FKc7HDHdikz6R6Y) | [Pure Ambience](https://open.spotify.com/album/5aFMwrHZGnmcGQA0nXORsa) | 2:57 | 2023-09-08 | 2025-01-09 |
+| [Purple Haze](https://open.spotify.com/track/1zGbBv1zLpIqwrvcvQXVJk) | [Chalka](https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt) | [Purple Haze](https://open.spotify.com/album/3EdXijp4UdPAfc6Tf2mJQm) | 2:46 | 2025-03-26 |  |
 | [Purple Sunrise](https://open.spotify.com/track/6DkUtEi0XgqV8LmnbDVpna) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Purple Sunrise](https://open.spotify.com/album/1fySOtQ7AtVUlLmwzvd0tg) | 2:57 | 2022-05-25 | 2022-09-28 |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2022-05-25 | 2024-10-12 |
 | [Purpose in Life](https://open.spotify.com/track/166eTJCM3CNu0qJUhYi5Dd) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Purpose in Life](https://open.spotify.com/album/46k364xuGzamIjH3b4BYh7) | 2:49 | 2025-02-26 |  |

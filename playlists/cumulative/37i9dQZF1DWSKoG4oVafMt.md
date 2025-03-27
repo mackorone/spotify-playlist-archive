@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,047 songs - 2 day 8 hr 31 min
+1,048 songs - 2 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Baith Kol](https://open.spotify.com/track/1k7rYDge3QkW428fFhXTKK) | [Pooja M Suresh](https://open.spotify.com/artist/2kyyWFCwV1iTPxo69lZXid), [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Namyoho Studios](https://open.spotify.com/artist/4s3S5ufnXrulmx1a4xIftH) | [Baith Kol](https://open.spotify.com/album/0w1a5AEJ2PYA433M414kMZ) | 3:40 | 2022-10-25 | 2022-12-16 |
 | [Balle Ni Balle](https://open.spotify.com/track/3Quh2KLPpnsIi3itQWjuQR) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Balle Ni Balle](https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS) | 2:51 | 2022-04-08 | 2022-07-06 |
 | [Band Theke](https://open.spotify.com/track/0fmYXWzzqFYD6knpZK0Jal) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Band Theke](https://open.spotify.com/album/5oSCmWYXzDRAf0LGdCSRgw) | 3:07 | 2022-09-01 | 2023-02-04 |
+| [Bande Banjo](https://open.spotify.com/track/3XcS6alWOBfANFmLdm6Sah) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [PRIME](https://open.spotify.com/album/7MpcVVUt61Eq66u3gj4CIY) | 2:17 | 2025-03-26 |  |
 | [Bari Bari Barsi](https://open.spotify.com/track/035zpldhfoOyyprs860zNp) | [Pavie Virk](https://open.spotify.com/artist/0o5zJsNi1DeT2YQMqQ2XzP), [Tren D](https://open.spotify.com/artist/6V8eYCPda6zJq0PHiXMK7H), [Haricharanpreet](https://open.spotify.com/artist/7eOqLY143etr0rbhMxXAJN) | [Bari Bari Barsi](https://open.spotify.com/album/6CUmGQ80qLWHs3um0uv02C) | 3:01 | 2025-03-05 | 2025-03-24 |
 | [Barkat](https://open.spotify.com/track/6OdZThO7vgt6jjW2Z8BbC3) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Barkat](https://open.spotify.com/album/5VPpaSMokUAYHJVWJThV0l) | 3:09 | 2025-01-28 |  |
 | [Bas](https://open.spotify.com/track/1NfnyCDpRMTso2ow5fcfTL) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Bas](https://open.spotify.com/album/3JZ03IN16HsWOqVbz5pnhX) | 2:30 | 2022-03-18 | 2022-05-11 |
@@ -612,7 +613,7 @@
 | [Mukhda Dikha Do](https://open.spotify.com/track/67mb14eIBHuHol8biNzESH) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Mukhda Dikha Do](https://open.spotify.com/album/5VLVzZXBmfojRzPiWr3yTi) | 3:06 | 2022-03-22 | 2022-04-06 |
 | [Mulakat](https://open.spotify.com/track/5eVCyVrewEENgnQTccju4q) | [Preet Guree](https://open.spotify.com/artist/2YOq6u1oHUoGNvd5t4x7Ah), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [Mulakat](https://open.spotify.com/album/3xaONxvVN6ANn2g0hQa3QN) | 2:19 | 2025-01-30 | 2025-02-14 |
 | [Mulaqaat](https://open.spotify.com/track/3qFxc62CjyE8WYwigvvB9L) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Mulaqaat](https://open.spotify.com/album/1jI6jXWObHreumKnhzm6H3) | 2:14 | 2025-01-13 |  |
-| [Mulaqat](https://open.spotify.com/track/6tAtZJCUjklHHJDTA4q8Zu) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ) | [Mulaqat](https://open.spotify.com/album/6r25oF7XXhIzobYY6IqLoQ) | 3:00 | 2025-02-17 |  |
+| [Mulaqat](https://open.spotify.com/track/6tAtZJCUjklHHJDTA4q8Zu) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ) | [Mulaqat](https://open.spotify.com/album/6r25oF7XXhIzobYY6IqLoQ) | 3:00 | 2025-02-17 | 2025-03-27 |
 | [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 | 2022-11-16 | 2024-09-26 |
 | [Mundraan](https://open.spotify.com/track/047BsbiQMaej8JBT1KjBUe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Mundraan](https://open.spotify.com/album/1PRLIr0sT8RcvTMN92Vcr1) | 3:21 | 2022-03-18 | 2022-04-06 |
 | [Mundri](https://open.spotify.com/track/2voQrPy1f2ewL7xe9N0Gvp) | [AK](https://open.spotify.com/artist/0TjvVjDesZyTCmI7qR1sbn), [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v) | [Mundri](https://open.spotify.com/album/5DqF0dFjr3DMngneY9sel1) | 2:47 | 2024-04-01 | 2024-04-24 |

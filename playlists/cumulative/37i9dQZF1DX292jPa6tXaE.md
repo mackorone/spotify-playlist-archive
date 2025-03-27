@@ -4,7 +4,7 @@
 
 > Discover the future of Punjabi Pop!  Cover: Mehraj Deep
 
-290 songs - 13 hr 41 min
+291 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Letter To Her](https://open.spotify.com/track/7dyPxxWUY68kZUpzI6UMLc) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Karan Thabal](https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Letter To Her](https://open.spotify.com/album/3kGo5DF2RhAvBUN5uhOJD5) | 3:15 | 2025-02-25 |  |
 | [Level Up](https://open.spotify.com/track/2LNjZwyjOcxqsqRR1Lep4f) | [Lucky Maan](https://open.spotify.com/artist/09nbL4fECiLx91JQc7iONs), [Mr Harry](https://open.spotify.com/artist/6Aik27VekUXuiW9xnuWlIg) | [Level Up](https://open.spotify.com/album/4TSNQa5aBW9x1P39MUDNL4) | 2:51 | 2024-11-13 | 2025-02-06 |
 | [Links](https://open.spotify.com/track/2xaC6YEI9n8HpzxnI2K5t5) | [Jugnu](https://open.spotify.com/artist/15npeM86AY1blmqFunBx3C), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Links](https://open.spotify.com/album/60S8AvGNNAmYkeK2RgJODY) | 2:19 | 2025-01-15 | 2025-02-06 |
-| [Liyaqataan](https://open.spotify.com/track/5U5EQZhz1yAC9nPXJW9xPg) | [Nitin Suraan](https://open.spotify.com/artist/5TqBdtG4NoFEtlMxhA7JBt), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Liyaqataan](https://open.spotify.com/album/546NC64n967DCAys18EiZO) | 4:08 | 2025-02-19 |  |
+| [Liyaqataan](https://open.spotify.com/track/5U5EQZhz1yAC9nPXJW9xPg) | [Nitin Suraan](https://open.spotify.com/artist/5TqBdtG4NoFEtlMxhA7JBt), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Liyaqataan](https://open.spotify.com/album/546NC64n967DCAys18EiZO) | 4:08 | 2025-02-19 | 2025-03-27 |
 | [LONE WOLF](https://open.spotify.com/track/6h2MCDsH9CmBrsMSVNKeGT) | [TERA MUSAFIRR](https://open.spotify.com/artist/6GD40pnf6z91XAxh1j2EWj) | [LONE WOLF](https://open.spotify.com/album/2wAMkmFfh7YMnX43KoLhCb) | 5:07 | 2025-02-25 | 2025-03-12 |
 | [Long Distance](https://open.spotify.com/track/2uGov0C50BMmNhWEjznwIL) | [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Deep Bajheriwala](https://open.spotify.com/artist/7rZrBECX3UBrOBloYmC7jL) | [Long Distance](https://open.spotify.com/album/32aTwYbiLXm2Gna2RAkm3h) | 2:19 | 2024-07-03 | 2025-01-09 |
 | [Lovelorn](https://open.spotify.com/track/0zGC8T0XicGLBJbFCb2SLn) | [Pavvi Singh](https://open.spotify.com/artist/4p8vDVPxlrR6IVZvIwqsJF) | [Lovelorn](https://open.spotify.com/album/14XhzE5O1I4sq16dWx8s3a) | 2:36 | 2024-07-03 | 2024-07-24 |
@@ -206,6 +206,7 @@
 | [OPTION](https://open.spotify.com/track/68WvmWTqaNl31bGqPwPI6e) | [Zabar](https://open.spotify.com/artist/3CNza9Tg1IVE50uJHPUBVY), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [OPTION](https://open.spotify.com/album/08jlvWpErQ6Z4wrizk0kNj) | 2:22 | 2025-03-11 |  |
 | [Overseas](https://open.spotify.com/track/3nuhItD5LqhQeM5L7BCwR6) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Overseas](https://open.spotify.com/album/1KcsNHlf8gNW4kL6u1qDV1) | 2:47 | 2025-02-05 | 2025-02-13 |
 | [Paisa](https://open.spotify.com/track/49Enb7JmNLeNLq8k5YHp9S) | [Karma](https://open.spotify.com/artist/4sBNHDKJHXwpXVoMNRV3Ol) | [Paisa](https://open.spotify.com/album/7jLJcHGDgJxbkJtxN14gh9) | 2:08 | 2024-07-03 | 2025-01-09 |
+| [Panjab X Panjeba](https://open.spotify.com/track/4J21bKWKNBOGQGxwU4PNbE) | [Sharan Sidhu](https://open.spotify.com/artist/5Q891U4M4R0EfmmE8shQw4), [Big Scene](https://open.spotify.com/artist/27W0GoT0fL5RqmkozZ7aLo) | [Loveology](https://open.spotify.com/album/2pa7Dh99V2PGdyYla6FyA9) | 3:10 | 2025-03-26 |  |
 | [Parda](https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Parda](https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4) | 2:59 | 2025-01-08 | 2025-02-13 |
 | [Parkh Bhave](https://open.spotify.com/track/4SnYCYbjfTwxFg2eiyGnv8) | [Jass Loharka](https://open.spotify.com/artist/4uwTL08HMK8IyeWjo0QSsz), [Karan Gill](https://open.spotify.com/artist/2ea3VmDpcXorHQt5unAPfu) | [Parkh Bhave](https://open.spotify.com/album/75YscDnQn0CybrsMGlHMyd) | 3:08 | 2025-02-19 | 2025-03-20 |
 | [Pasand](https://open.spotify.com/track/3s607yqwmhwVTSEEu8kU1S) | [HRJXT](https://open.spotify.com/artist/4s5P33ladNMi7gcBMHwp9a), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Pasand](https://open.spotify.com/album/6IbHnrRFkokRd6jrOoSTfk) | 2:12 | 2024-07-03 | 2025-01-09 |

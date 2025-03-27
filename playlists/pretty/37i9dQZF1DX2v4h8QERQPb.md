@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Akapellah & ACRU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,291 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,290 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 11 | [ACDC](https://open.spotify.com/track/2jJcyBC0I8xsu4t3vpAlgx) | [Dyan](https://open.spotify.com/artist/3hpawnHbN5R65xVPnhJPFY), [Coco Palmer](https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY), [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [ACDC](https://open.spotify.com/album/5GgJMELI6lm7Oj18VRRe4i) | 2:23 |
 | 12 | [Don´ t get it twisted](https://open.spotify.com/track/3RS1ihyponepAi2YGwnhcY) | [ARA](https://open.spotify.com/artist/3e7RQVUk78GpHhRiBWULff) | [Don´ t get it twisted](https://open.spotify.com/album/71dpR933rqGGO8XgyfGPKy) | 2:38 |
 | 13 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 |
-| 14 | [24/Siempre All Star \- Malandro de America, T&K, Soui Uno & Klan](https://open.spotify.com/track/33cwtvPP4Vs5OGQJElDw3U) | [El Triangugulo Estudio](https://open.spotify.com/artist/4ZpKndfL3bhuCmJBvEgvWl), [Nucleo Aka Tintasucia](https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [24/Siempre All Star \- Malandro de America, T&K, Soui Uno & Klan](https://open.spotify.com/album/0zzSAdOvxcj43LOl7Yc5l5) | 3:57 |
+| 14 | [24/Siempre All Star \- Malandro de America, T&K, Soui Uno & Klan](https://open.spotify.com/track/33cwtvPP4Vs5OGQJElDw3U) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [24/Siempre All Star \- Malandro de America, T&K, Soui Uno & Klan](https://open.spotify.com/album/0zzSAdOvxcj43LOl7Yc5l5) | 3:57 |
 | 15 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
 | 16 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
 | 17 | [Dichos](https://open.spotify.com/track/5mWgrvAr7MJUGYeMmjXrJA) | [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Dichos](https://open.spotify.com/album/1FnfX2CotOw5zxfmM2xTwz) | 1:47 |

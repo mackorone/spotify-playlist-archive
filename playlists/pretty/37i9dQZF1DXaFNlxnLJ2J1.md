@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFNlxnLJ2J1.md) - [plain]
 
 > triste hits som fik os gennem 2023's hjertesorger og tårer \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 549 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 550 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

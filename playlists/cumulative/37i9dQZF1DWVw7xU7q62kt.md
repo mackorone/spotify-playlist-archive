@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-444 songs - 21 hr 4 min
+445 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 | 2024-12-23 |
 | [Emerald](https://open.spotify.com/track/5OSGlRXM9SLoEdGAhZ2FoS) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Emerald](https://open.spotify.com/album/4AK1LTE4aVQKdjQGbKCK8k) | 2:50 | 2024-03-08 | 2025-01-08 |
 | [enter wandsbek](https://open.spotify.com/track/3rjxHeLZEPGyReh6iVt0tT) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Made sum beats on tour in a Hamburg airbnb](https://open.spotify.com/album/1jhDMNtTx2zD1PjhAOPrOX) | 2:09 | 2024-11-29 | 2025-02-10 |
-| [Et Lite Øyeblikk Bare \- An NPR Tiny Desk Concert](https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [At Home \(An NPR Tiny Desk Concert\)](https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77) | 5:20 | 2023-12-08 |  |
+| [Et Lite Øyeblikk Bare \- An NPR Tiny Desk Concert](https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [At Home \(An NPR Tiny Desk Concert\)](https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77) | 5:20 | 2023-12-08 | 2025-03-27 |
 | [Even the Sun](https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Even the Sun](https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG) | 3:26 | 2023-10-13 | 2024-11-19 |
 | [Everyday Grind](https://open.spotify.com/track/67dACHT0a0YnQplyl3FuHe) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [LOBE](https://open.spotify.com/artist/3ZcQb1p2NgNSvnbmVkjgzY) | [Everyday Grind](https://open.spotify.com/album/0yvcEbaIdNcd9asKuDax2p) | 2:04 | 2024-10-18 |  |
 | [Everything We Don't Say](https://open.spotify.com/track/2WpL9ffTMRAafYzdjJ473x) | [Alsogood](https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG) | [Elsewhere](https://open.spotify.com/album/42B90GVqHsrQNOZYOHGOew) | 3:03 | 2024-01-26 | 2024-11-24 |
@@ -234,6 +234,7 @@
 | [Love of Mine](https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Here Today Gone Tomorrow](https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ) | 6:26 | 2024-09-27 | 2025-01-16 |
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
+| [Lovely Places](https://open.spotify.com/track/1CXsjw1Or0ViS66ycVUA2W) | [Monkay](https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Lovely Places](https://open.spotify.com/album/1jLJHOh1rOBQJobzDx934c) | 2:35 | 2025-03-22 |  |
 | [loveseasons](https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [loveseasons](https://open.spotify.com/album/1i6h5nVrl2t3aVYCut5mgw) | 1:59 | 2024-11-22 | 2025-02-08 |
 | [Lucid Dreams](https://open.spotify.com/track/3YIxQvOdOYYts92afIZpzz) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [Lucid Dreams](https://open.spotify.com/album/5NApnQmYbhyref8q5QNbpd) | 3:23 | 2024-12-13 | 2025-02-07 |
 | [Lunar](https://open.spotify.com/track/75XyOPZx7izKlAx3t7Z9eH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Estoric](https://open.spotify.com/artist/6N4Dpg7qAykAxA95NaYKLX), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Lunar](https://open.spotify.com/album/40w2cyLw0AFHejLi6BqqWr) | 2:06 | 2024-11-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,102 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,107 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 4 | [Prathi Kshanam](https://open.spotify.com/track/2jDtKQpU4xKaweJD15kthV) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Prathi Kshanam](https://open.spotify.com/album/6QcDiDHi8b4EV3J13ZIeCa) | 2:53 |
 | 5 | [Nidarove Cheliya](https://open.spotify.com/track/6JhDvJfUCR9G5wnUQZcmjx) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aditya Yashasvi](https://open.spotify.com/artist/00F8wb2vP6TZl4cUDL3tBg), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Nidarove Cheliya](https://open.spotify.com/album/0DmOGXWANZIx7ly9oMogwt) | 3:10 |
 | 6 | [Padha raa](https://open.spotify.com/track/0rfhJxxUlS4YeTPPuHUXjl) | [Bhargav Poludasu](https://open.spotify.com/artist/13yl701qf9J3ZlZKSt4cKj) | [Padha raa](https://open.spotify.com/album/1Pjehf3AqjBKFltsnIMR6n) | 1:21 |
-| 7 | [My Love \- Telugu](https://open.spotify.com/track/6IvRfKpHwofYcb3378pxMU) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s) | [My Love \(Telugu\)](https://open.spotify.com/album/0m0GKbuc0o7MJbBuuwiaCt) | 4:30 |
+| 7 | [My Love \- Telugu](https://open.spotify.com/track/6IvRfKpHwofYcb3378pxMU) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s), [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [My Love \(Telugu\)](https://open.spotify.com/album/0m0GKbuc0o7MJbBuuwiaCt) | 4:30 |
 | 8 | [Nee Andamaina Madhi](https://open.spotify.com/track/4aknSFeZ47FevS9ehHnU9Y) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Nee Andamaina Madhi](https://open.spotify.com/album/0SQZ0QqKuKvbESmcAUlO76) | 4:29 |
 | 9 | [Hello Chittamma](https://open.spotify.com/track/08JFxXy4ERFQFZAcEu8y86) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Hello Chittamma](https://open.spotify.com/album/3HaCAI70bGfKoAwrVpgUD8) | 2:27 |
 | 10 | [Mosam](https://open.spotify.com/track/4xKUTPkJajClzsQuNtFjU0) | [Karthik Clazix](https://open.spotify.com/artist/2aOAbLS45uroV7HtTUVtZ6) | [Mosam](https://open.spotify.com/album/11MbaXM3cacleXh59yRNVl) | 2:52 |

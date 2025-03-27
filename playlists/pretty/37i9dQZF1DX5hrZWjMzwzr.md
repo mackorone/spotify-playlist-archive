@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Posłuchaj wszystkich nominowanych utworów w kategorii singiel roku i zagłosuj na swoich faworytów na stronie popkiller.pl!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,431 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,600 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 |
 | 2 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
-| 3 | [NDA](https://open.spotify.com/track/1LTAYhorx76972Pr5ZOk8b) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [NDA](https://open.spotify.com/album/6AyR9OVzXt4FokEcjtautT) | 2:46 |
-| 4 | [Róż](https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi) | [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Róż](https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1) | 2:51 |
+| 3 | [Róż](https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi) | [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Róż](https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1) | 2:51 |
+| 4 | [NDA](https://open.spotify.com/track/1LTAYhorx76972Pr5ZOk8b) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [NDA](https://open.spotify.com/album/6AyR9OVzXt4FokEcjtautT) | 2:46 |
 | 5 | [Chyba że z Tobą](https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Chyba że z Tobą](https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L) | 2:11 |
 | 6 | [Plaster](https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [CERBER EP](https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU) | 2:35 |
 | 7 | [Woda Księżycowa](https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Woda Księżycowa](https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb) | 3:11 |

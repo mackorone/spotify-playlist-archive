@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: After",
-  "num_followers": 244598,
+  "num_followers": 244738,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9rqCAAAAAA8JuRz90L402RDo+sEkN4O",
+  "snapshot_id": "Z+Q+uwAAAAAWHoCmEyrtOgxwI3tzuDFF",
   "tracks": [
     {
       "added_at": "2025-03-19 16:00:08",
@@ -25,6 +25,150 @@
       "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
     },
     {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "Best Be Leaving",
+        "url": "https://open.spotify.com/album/30coJQv7G8UD5Lx76VQZE1"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 222042,
+      "name": "Best Be Leaving",
+      "url": "https://open.spotify.com/track/2pEQBzoeccf6TIbJU8O26c"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "when you leave / when you were around",
+        "url": "https://open.spotify.com/album/78993tLrhaUBssEaScVp0k"
+      },
+      "artists": [
+        {
+          "name": "woody",
+          "url": "https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4"
+        }
+      ],
+      "duration_ms": 192264,
+      "name": "when you leave",
+      "url": "https://open.spotify.com/track/4dF54aAxNcXkoyDzzuGEJz"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "this house isnt a home (deluxe)",
+        "url": "https://open.spotify.com/album/2uesdpyqldCq4SqO393NC5"
+      },
+      "artists": [
+        {
+          "name": "William Mcgee",
+          "url": "https://open.spotify.com/artist/1cJ33JB6MnN7qEv6AC4DOq"
+        }
+      ],
+      "duration_ms": 163818,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/6XzskqXNBVkpA4Jvn6JSrm"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "into a pretty room",
+        "url": "https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC"
+      },
+      "artists": [
+        {
+          "name": "lots of hands",
+          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "barnyard",
+      "url": "https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "Delicious Delusional",
+        "url": "https://open.spotify.com/album/2qjNiLhOarJTEWpPvXCJiC"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "duration_ms": 234875,
+      "name": "You're Gonna Worry About Me One Day",
+      "url": "https://open.spotify.com/track/1vBfEbQ0DXkwUEPhYtLnb5"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "Silent Corners",
+        "url": "https://open.spotify.com/album/4gkrYRPbNGuu0BzWyquUXH"
+      },
+      "artists": [
+        {
+          "name": "pencil",
+          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
+        }
+      ],
+      "duration_ms": 246196,
+      "name": "Silent Corners",
+      "url": "https://open.spotify.com/track/18jdrAHnog2uG5fxVhhvD0"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4rsCcAZL7vh7kVwUgiEC7B"
+      },
+      "artists": [
+        {
+          "name": "Alison Parade",
+          "url": "https://open.spotify.com/artist/0gIv5Qb2HQYRJD3UWdrWq9"
+        }
+      ],
+      "duration_ms": 266455,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/06JcTEOiof9WuOD0hi1Ufd"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "Close Proximity",
+        "url": "https://open.spotify.com/album/25Ka8Q4ZBwMLCBnRM4Enrp"
+      },
+      "artists": [
+        {
+          "name": "Chitra",
+          "url": "https://open.spotify.com/artist/1zjwHxjhMPXp4nrWwL9hwM"
+        }
+      ],
+      "duration_ms": 206911,
+      "name": "Close Proximity",
+      "url": "https://open.spotify.com/track/34nCjUuPCn57m76m7QYVYe"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "bed u made/gone",
+        "url": "https://open.spotify.com/album/6fklyzUp2bV8yJIavgY0sK"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "duration_ms": 151797,
+      "name": "bed u made",
+      "url": "https://open.spotify.com/track/3iu9usJ5Z2nvkrzT7lHqRY"
+    },
+    {
       "added_at": "2025-03-19 16:00:08",
       "album": {
         "name": "You got time and I got money",
@@ -39,6 +183,70 @@
       "duration_ms": 271583,
       "name": "You got time and I got money",
       "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "Losing Limits",
+        "url": "https://open.spotify.com/album/6maSNGCaZKGJ9RLzNMqduQ"
+      },
+      "artists": [
+        {
+          "name": "Kook Joey",
+          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
+        }
+      ],
+      "duration_ms": 192151,
+      "name": "Lying in the Sun",
+      "url": "https://open.spotify.com/track/6p9UiRaE5ePt9WmwJceN3s"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "you can try",
+        "url": "https://open.spotify.com/album/0sSXomqAp2nNMJHosDOijX"
+      },
+      "artists": [
+        {
+          "name": "Darling Darlene",
+          "url": "https://open.spotify.com/artist/7eVZP15eSwEOMxFY7rnDYg"
+        }
+      ],
+      "duration_ms": 192328,
+      "name": "you can try",
+      "url": "https://open.spotify.com/track/6Xc6n8XpS7FX4DFcUiJs2C"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "eisenach",
+        "url": "https://open.spotify.com/album/53nZsK8oxDYMV1Lz7HOCLt"
+      },
+      "artists": [
+        {
+          "name": "eisenach",
+          "url": "https://open.spotify.com/artist/0RO451V3eGOiatc3IQXtG7"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/0L3dHVfrJxHCwdNhuCRYuY"
+    },
+    {
+      "added_at": "2025-03-26 17:51:55",
+      "album": {
+        "name": "little room",
+        "url": "https://open.spotify.com/album/69n1pSsqcPHz83WAYOOxnD"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "duration_ms": 144182,
+      "name": "little room",
+      "url": "https://open.spotify.com/track/5ejcDCtiKg6fX0LHkBsZu4"
     },
     {
       "added_at": "2025-03-12 16:54:25",
@@ -1707,22 +1915,6 @@
       "duration_ms": 237250,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/2zL3Tut6HrIV6tVAGw8Gh7"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1nTunof0h6rRsRb7S0fxcZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Crystal",
-          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
-        }
-      ],
-      "duration_ms": 226478,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1DJxgr5EBDty2LY1HP089Z"
     },
     {
       "added_at": "2025-02-05 19:11:28",

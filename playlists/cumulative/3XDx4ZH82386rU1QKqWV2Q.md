@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-703 songs - 1 day 6 hr 36 min
+704 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2023-06-12 |  |
 | [MUSTANG](https://open.spotify.com/track/3lLDBAfGYx4ITHoXodltRn) | [DEAD HENDRIX](https://open.spotify.com/artist/4ZyGFfi6pXvtdvAHGG3hAH), [Yungcudii](https://open.spotify.com/artist/3mwtOvDz72R7r20IB3XuFN) | [MUSTANG](https://open.spotify.com/album/1t4puCS44u3PzXhH6wDo7u) | 3:30 | 2023-06-25 | 2023-07-25 |
 | [Mwanza](https://open.spotify.com/track/7lN6y4bRh5rx9OisjyDxgG) | [Duet Duet](https://open.spotify.com/artist/2oX9kFy8LAmOsDwBHG3xVi), [Sebastian Alm](https://open.spotify.com/artist/4mM5TuFqtIVOqCSemHP21x) | [Mwanza](https://open.spotify.com/album/70MLGaHhqdMIwSvEw3LU12) | 5:37 | 2023-06-12 | 2023-07-06 |
+| [My Beemer](https://open.spotify.com/track/4O5xCNc7GdOcZ3ciO5JZsA) | [O.G\. Soul](https://open.spotify.com/artist/3LQ4N3GOSoflK0FeWJQglo) | [My Beemer](https://open.spotify.com/album/3QOzFEDMZJl56fJph96lYn) | 4:48 | 2025-03-26 |  |
 | [My Time](https://open.spotify.com/track/4VlFjMNQgctMjKOHqQaYxV) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [My Time](https://open.spotify.com/album/3dGDZR5Xw4Pi7dadkxdIUc) | 2:28 | 2023-06-12 | 2024-01-13 |
 | [Nadir](https://open.spotify.com/track/2OWazXH6JQYRw79l6OTDNM) | [Shaun Knighton](https://open.spotify.com/artist/36UhJ32oUWNH5U5cwt7rdn) | [Metamorphic](https://open.spotify.com/album/1NrYQr0LT1zUCSvn2mFEuU) | 4:23 | 2025-01-13 | 2025-02-15 |
 | [NEFOR BRASILEIRO](https://open.spotify.com/track/4QnvZSnFkxBw6LsJ1sKapC) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [TRIO BRASILEIRO](https://open.spotify.com/album/2vRvBfelX9SLgtUs4Ia7YB) | 2:16 | 2023-08-05 | 2023-09-26 |

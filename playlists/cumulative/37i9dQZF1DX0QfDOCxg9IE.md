@@ -4,7 +4,7 @@
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-346 songs - 19 hr 14 min
+347 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-09-09 | 2024-09-17 |
 | [Australia](https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 3:56 | 2024-09-16 | 2024-09-24 |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-09-09 | 2024-09-24 |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-26 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-23 | 2024-11-19 |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-27 | 2025-02-18 |
 | [Balenciaga](https://open.spotify.com/track/3j6KwQsh6PYrgwGwrER0hn) | [Lil Tcios](https://open.spotify.com/artist/6Ps9RSBWcLa6PrHRuZATZ7) | [Balenciaga](https://open.spotify.com/album/5t0mLrWJVbTyO0LR2c21kJ) | 2:36 | 2025-01-27 |  |
@@ -223,7 +224,7 @@
 | [Mpires Gia To Spiti](https://open.spotify.com/track/7tiAlo4OwOePj3X0Z3EK0y) | [Rammenos Assos](https://open.spotify.com/artist/3pb0mN0l2oMj8RIkJFI2t4), [TAF LATHOS](https://open.spotify.com/artist/5sMTmnLClGnDFZm4c1yjCP), [Sumo Beats](https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF) | [Nosos Tou Realismou](https://open.spotify.com/album/5G91ijM2CCIjnRrcDFziB7) | 4:43 | 2024-07-01 |  |
 | [Mpleximo](https://open.spotify.com/track/7LRm4sfoGFaII0W2HSgEE6) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Eleuthero Pneuma](https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ), [Faust](https://open.spotify.com/artist/67oozDB50fyvjP9mltqPE4) | [Mpleximo](https://open.spotify.com/album/5sL3hMbQcL7seOhq64PQu2) | 3:16 | 2025-01-07 | 2025-02-11 |
 | [Mpoukali Sto Kefali](https://open.spotify.com/track/7h2E1j6f6away0eITpkRiJ) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9) | [Apistefto EP](https://open.spotify.com/album/6xTRwHfP4Re5LA6Yu0xSiW) | 3:35 | 2025-01-07 | 2025-01-21 |
-| [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-10 |  |
+| [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-10 | 2025-03-27 |
 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 | 2025-02-10 | 2025-02-18 |
 | [Murdergram Deux \(feat\. Eminem\)](https://open.spotify.com/track/4Fhph8yWRNFeIoI7iXQL4W) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [THE FORCE](https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2) | 3:05 | 2024-09-23 | 2024-10-08 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/1Rc15RYGBIi10GrL0Zrfob) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:15 | 2024-12-16 | 2025-01-08 |

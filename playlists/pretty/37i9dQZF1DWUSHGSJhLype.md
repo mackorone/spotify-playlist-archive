@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: DG e Batidão Stronda, J\. Eskine, Mc Davi, MC G15
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,099 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,261 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 31 | [Mtg Forró e Desmantelo](https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV) | [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9), [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt) | [Mtg Forró e Desmantelo](https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc) | 2:29 |
 | 32 | [Vou Passar Gelinho](https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Vou Passar Gelinho](https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY) | 2:22 |
 | 33 | [Cabelo de Sol](https://open.spotify.com/track/5K71WiSDgJv48q07H7NklJ) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08), [Kaká e Pedrinho](https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:56 |
-| 34 | [Energia de Gostosa](https://open.spotify.com/track/7nxo5gRHpcsIZy7n0mdCv7) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Energia de Gostosa](https://open.spotify.com/album/2JPwZ43Od1WStAVe0JoZi0) | 3:12 |
-| 35 | [Vamo de Pagodin](https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Vamo de Pagodin](https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q) | 2:40 |
+| 34 | [Vamo de Pagodin](https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Vamo de Pagodin](https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q) | 2:40 |
+| 35 | [Energia de Gostosa](https://open.spotify.com/track/7nxo5gRHpcsIZy7n0mdCv7) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Energia de Gostosa](https://open.spotify.com/album/2JPwZ43Od1WStAVe0JoZi0) | 3:12 |
 | 36 | [Piseiro Hawaiano](https://open.spotify.com/track/4b3zlZQaDrpabJcqIo92uD) | [DJ Marcão 019](https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v), [Dj Dédda](https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Piseiro Hawaiano](https://open.spotify.com/album/3MhtaWXDWaa0zX1HqmBaMS) | 2:40 |
 | 37 | [Não Fosse Tão Tarde \- MTG Remix](https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [Não Fosse Tão Tarde \(MTG Remix\)](https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni) | 1:57 |
 | 38 | [Patrai](https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB) | [Patrai](https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0) | 1:53 |

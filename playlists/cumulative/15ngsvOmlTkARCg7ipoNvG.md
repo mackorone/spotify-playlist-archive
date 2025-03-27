@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,949 songs - 1 day 15 hr 36 min
+1,950 songs - 1 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,6 +959,7 @@
 | [Life](https://open.spotify.com/track/0At6u6PcgTPEj9jYZakh2L) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Life](https://open.spotify.com/album/6s8Wat3mD96A4Be5dGJOKb) | 3:17 | 2022-01-12 | 2024-02-13 |
 | [Life Flows](https://open.spotify.com/track/6DxxEAQK3cO77ZuBUyKW76) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:31 | 2022-01-20 | 2024-01-30 |
 | [Life Flows \- Piano Version](https://open.spotify.com/track/2hhhwdXajvBPF42MFgOJSH) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:30 | 2022-01-12 | 2024-01-30 |
+| [Lifetime](https://open.spotify.com/track/0IaAl8h3nRMdC18om56m3a) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Lifetime](https://open.spotify.com/album/4Ph7iWZPhDMRmf0De6OgRT) | 1:00 | 2025-03-26 |  |
 | [Lifted](https://open.spotify.com/track/2nP73lh03qPlzvzRAadaFH) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Silent Serenity](https://open.spotify.com/album/38rdMbpYKjaOlNAhjI3JTQ) | 1:01 | 2022-05-13 |  |
 | [Lifting](https://open.spotify.com/track/4Liv1EES7TVBYCMKqqwNzD) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Lifting](https://open.spotify.com/album/2UGTebMshfXpdvKLRiRoLK) | 1:00 | 2025-03-22 |  |
 | [Light Again](https://open.spotify.com/track/5hy3n7aXrviovbzRI9Q1aV) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Light Again](https://open.spotify.com/album/2rTCoMfmqEzqG5uULSrvBw) | 1:00 | 2024-08-19 |  |

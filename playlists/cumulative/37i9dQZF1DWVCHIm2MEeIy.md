@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-520 songs - 1 day 20 hr 11 min
+521 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Another Life \- Marten Lou Remix](https://open.spotify.com/track/7IQDLhMpgQ23GIHh550TT9) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Another Life \(Remixes\)](https://open.spotify.com/album/59Kzou8grlp6UqVVL1HoT4) | 5:03 | 2024-01-22 |  |
 | [Antibodies](https://open.spotify.com/track/0vKfvNx0UCrEp56kJdQPfi) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [You Run](https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD) | 5:56 | 2022-09-22 | 2022-10-01 |
 | [Aquarius](https://open.spotify.com/track/5cxqV1SHGXM5LGNI8KrNxf) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 7:15 | 2022-04-15 | 2022-04-21 |
-| [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 | 2023-12-22 |  |
+| [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 | 2023-12-22 | 2025-03-27 |
 | [Arcade Mode](https://open.spotify.com/track/0pRIs6EFRLniTBxEsR0g0g) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Arcade Mode](https://open.spotify.com/album/0EM80Qxhya5qB06vdnBAMX) | 6:48 | 2022-04-15 | 2022-07-28 |
 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-11-27 | 2024-03-19 |
 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-11-14 | 2024-07-05 |
@@ -247,6 +247,7 @@
 | [Lady Cherry](https://open.spotify.com/track/5Aub2PCLAJi4QuMnN5g5d3) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/5eaviny1LfRUn4benBg9XD) | 5:42 | 2022-04-15 | 2022-07-27 |
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-08-12 | 2024-01-05 |
 | [Landa](https://open.spotify.com/track/72FN3KE2IoxGmyPGtQNcTV) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9) | 6:00 | 2023-11-27 | 2024-04-19 |
+| [Last Dance](https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N) | [JUNO \( DE \)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Last Dance](https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A) | 4:33 | 2025-03-14 |  |
 | [Last Night \(Korolova Remix\)](https://open.spotify.com/track/6cg1PezjpVSRsRa7f9SnIP) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Last Night \(Korolova Remix\)](https://open.spotify.com/album/1xcEl66LnB3qYVJrkIf4Mf) | 2:57 | 2025-01-20 |  |
 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 | 2024-06-06 |  |
 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-12 |  |

@@ -107,6 +107,22 @@
     {
       "added_at": "2024-06-06 00:12:16",
       "album": {
+        "name": "Data Doom",
+        "url": "https://open.spotify.com/album/2vGRBjJ30vbHMNdGYV4VUV"
+      },
+      "artists": [
+        {
+          "name": "Frankie and the Witch Fingers",
+          "url": "https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU"
+        }
+      ],
+      "duration_ms": 448850,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/2dWFqWIBk09lft3bxh0YuD"
+    },
+    {
+      "added_at": "2024-06-06 00:12:16",
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/4rUTEX2s54Ls9Co09BMbCv"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 125693,
       "name": "Caf\u00e9 Collonge",
       "url": "https://open.spotify.com/track/7bUn1hQq8BbJk9RE4S5Sf5"
-    },
-    {
-      "added_at": "2024-06-06 00:12:16",
-      "album": {
-        "name": "Data Doom",
-        "url": "https://open.spotify.com/album/2vGRBjJ30vbHMNdGYV4VUV"
-      },
-      "artists": [
-        {
-          "name": "Frankie and the Witch Fingers",
-          "url": "https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU"
-        }
-      ],
-      "duration_ms": 448850,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/2dWFqWIBk09lft3bxh0YuD"
     },
     {
       "added_at": "2024-06-06 00:12:16",

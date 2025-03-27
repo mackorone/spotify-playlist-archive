@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT?si=62\_gAMRWRnGgH45cIcnQXQ">Dr Dope</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,741 likes - 65 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,784 likes - 65 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

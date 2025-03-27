@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: LE MOTAT",
-  "num_followers": 10023,
+  "num_followers": 10028,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,22 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Vrijplaats",
-        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
+        "name": "drift",
+        "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
       },
       "artists": [
         {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        },
+        {
+          "name": "Mathieu Terryn",
+          "url": "https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK"
         }
       ],
-      "duration_ms": 233579,
-      "name": "Het Is Genoeg",
-      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
+      "duration_ms": 202866,
+      "name": "Ik heb je zo gemist",
+      "url": "https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -175,22 +179,18 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "drift",
-        "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
+        "name": "Vrijplaats",
+        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
       },
       "artists": [
         {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        },
-        {
-          "name": "Mathieu Terryn",
-          "url": "https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK"
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
         }
       ],
-      "duration_ms": 202866,
-      "name": "Ik heb je zo gemist",
-      "url": "https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS"
+      "duration_ms": 233579,
+      "name": "Het Is Genoeg",
+      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Het Hart Bestaat Niet En De Rest Ook Niet",
-        "url": "https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW"
-      },
-      "artists": [
-        {
-          "name": "Droom Dit",
-          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
-        }
-      ],
-      "duration_ms": 209532,
-      "name": "De Grens Tussen Ons",
-      "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "Lach",
         "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 186600,
       "name": "Lach",
       "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "Het Hart Bestaat Niet En De Rest Ook Niet",
+        "url": "https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "duration_ms": 209532,
+      "name": "De Grens Tussen Ons",
+      "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
+        "name": "Spijbelaar",
+        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "duration_ms": 216582,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
         "name": "Zonder Naam",
         "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 235704,
       "name": "Filmster",
       "url": "https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
-        "name": "Spijbelaar",
-        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
-      },
-      "artists": [
-        {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
-        }
-      ],
-      "duration_ms": 216582,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Opslaan",
-        "url": "https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1"
-      },
-      "artists": [
-        {
-          "name": "Hiltje",
-          "url": "https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Opslaan",
-      "url": "https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "Naamloze Liefde",
         "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Het Vliegt Voorbij",
-        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
+        "name": "Opslaan",
+        "url": "https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1"
       },
       "artists": [
         {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+          "name": "Hiltje",
+          "url": "https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8"
         }
       ],
-      "duration_ms": 163261,
-      "name": "Het Vliegt Voorbij",
-      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
+      "duration_ms": 189000,
+      "name": "Opslaan",
+      "url": "https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -659,6 +643,22 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
+        "name": "Het Vliegt Voorbij",
+        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 163261,
+      "name": "Het Vliegt Voorbij",
+      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
         "name": "Meester Van Niks",
         "url": "https://open.spotify.com/album/5Y5iMbFdJDo0h91qRW0lLU"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 136298,
       "name": "Steeds Weer",
       "url": "https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "i miss u [brood]",
+        "url": "https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp"
+      },
+      "artists": [
+        {
+          "name": "flens",
+          "url": "https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD"
+        }
+      ],
+      "duration_ms": 139889,
+      "name": "i miss u [brood]",
+      "url": "https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -723,22 +739,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "i miss u [brood]",
-        "url": "https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp"
-      },
-      "artists": [
-        {
-          "name": "flens",
-          "url": "https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD"
-        }
-      ],
-      "duration_ms": 139889,
-      "name": "i miss u [brood]",
-      "url": "https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "Ik Weet Het",
         "url": "https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 241833,
       "name": "Ik Weet Het",
       "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
-        "name": "Grote Broer",
-        "url": "https://open.spotify.com/album/1Q0RsEiKg0OxHfsIsGUPkc"
-      },
-      "artists": [
-        {
-          "name": "FULCO",
-          "url": "https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt"
-        }
-      ],
-      "duration_ms": 153066,
-      "name": "Grote Broer",
-      "url": "https://open.spotify.com/track/4csTiBrNaJRGzGNnbKCsO8"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -787,6 +771,38 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
+        "name": "Grote Broer",
+        "url": "https://open.spotify.com/album/1Q0RsEiKg0OxHfsIsGUPkc"
+      },
+      "artists": [
+        {
+          "name": "FULCO",
+          "url": "https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "Grote Broer",
+      "url": "https://open.spotify.com/track/4csTiBrNaJRGzGNnbKCsO8"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "BOM",
+        "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
+      },
+      "artists": [
+        {
+          "name": "Hang Youth",
+          "url": "https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR"
+        }
+      ],
+      "duration_ms": 126902,
+      "name": "BOM",
+      "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
         "name": "alsof",
         "url": "https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 212091,
       "name": "alsof",
       "url": "https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
-        "name": "IJsberen",
-        "url": "https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5"
-      },
-      "artists": [
-        {
-          "name": "puntjudith",
-          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "IJsberen",
-      "url": "https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz"
     }
   ],
   "unique_name": "indiepuntnl",

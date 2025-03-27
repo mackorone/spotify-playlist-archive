@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 101728,
+  "num_followers": 101740,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/5fCgeqHfCgT60KyhKQzvkK"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 161871,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3c27H2nNYfoipwl2f1ULnK"
+    },
+    {
+      "added_at": "2025-03-20 23:00:25",
+      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/3pxCU10ON1fpHhrtzpmGHl"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 127280,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/0kXPycOtpXRjNu6ckJQNZC"
-    },
-    {
-      "added_at": "2025-03-20 23:00:25",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/5fCgeqHfCgT60KyhKQzvkK"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 161871,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/3c27H2nNYfoipwl2f1ULnK"
     },
     {
       "added_at": "2025-03-20 23:00:25",
@@ -715,6 +715,26 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
+        "name": "4 o'Clock (In The Morning)",
+        "url": "https://open.spotify.com/album/333tnNxldO2bpInhctnz5W"
+      },
+      "artists": [
+        {
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        },
+        {
+          "name": "STRINGS",
+          "url": "https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs"
+        }
+      ],
+      "duration_ms": 124995,
+      "name": "4 o'Clock (In The Morning)",
+      "url": "https://open.spotify.com/track/3DKkPeLeZlJlvcq1R5Ot4A"
+    },
+    {
+      "added_at": "2025-03-20 23:00:25",
+      "album": {
         "name": "Lonely Days",
         "url": "https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 153683,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6"
-    },
-    {
-      "added_at": "2025-03-20 23:00:25",
-      "album": {
-        "name": "4 o'Clock (In The Morning)",
-        "url": "https://open.spotify.com/album/333tnNxldO2bpInhctnz5W"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "STRINGS",
-          "url": "https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs"
-        }
-      ],
-      "duration_ms": 124995,
-      "name": "4 o'Clock (In The Morning)",
-      "url": "https://open.spotify.com/track/3DKkPeLeZlJlvcq1R5Ot4A"
     },
     {
       "added_at": "2025-03-20 23:00:25",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
-        "name": "Beat Of The Drum",
-        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Beat Of The Drum",
-      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
-    },
-    {
-      "added_at": "2025-03-20 23:00:25",
-      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+    },
+    {
+      "added_at": "2025-03-20 23:00:25",
+      "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
     },
     {
       "added_at": "2025-03-20 23:00:25",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
-        "name": "That Feeling",
-        "url": "https://open.spotify.com/album/7El8pPTioa8zArZyUBOMOn"
-      },
-      "artists": [
-        {
-          "name": "Wonbeat & Purpose",
-          "url": "https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb"
-        }
-      ],
-      "duration_ms": 144347,
-      "name": "That Feeling",
-      "url": "https://open.spotify.com/track/4lql7uSnzEQkREh0eu92yh"
-    },
-    {
-      "added_at": "2025-03-20 23:00:25",
-      "album": {
         "name": "What You Need",
         "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF"
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/7El8pPTioa8zArZyUBOMOn"
       },
       "artists": [
         {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+          "name": "Wonbeat & Purpose",
+          "url": "https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb"
         }
       ],
-      "duration_ms": 159411,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9"
+      "duration_ms": 144347,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/4lql7uSnzEQkREh0eu92yh"
     },
     {
       "added_at": "2025-03-20 23:00:25",
@@ -1251,6 +1235,22 @@
       "duration_ms": 167630,
       "name": "Waste Your Love",
       "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
+    },
+    {
+      "added_at": "2025-03-20 23:00:25",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 159411,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9"
     },
     {
       "added_at": "2025-03-20 23:00:25",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
+        "name": "Never Fall Down",
+        "url": "https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "LAUWEND",
+          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
+        }
+      ],
+      "duration_ms": 144570,
+      "name": "Never Fall Down",
+      "url": "https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm"
+    },
+    {
+      "added_at": "2025-03-20 23:00:25",
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
       },
@@ -1403,46 +1423,6 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
-        "name": "Never Fall Down",
-        "url": "https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ"
-      },
-      "artists": [
-        {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
-        },
-        {
-          "name": "LAUWEND",
-          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
-        }
-      ],
-      "duration_ms": 144570,
-      "name": "Never Fall Down",
-      "url": "https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm"
-    },
-    {
-      "added_at": "2025-03-20 23:00:25",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "RMB",
-          "url": "https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z"
-    },
-    {
-      "added_at": "2025-03-20 23:00:25",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 174624,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
+    },
+    {
+      "added_at": "2025-03-20 23:00:25",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "RMB",
+          "url": "https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z"
     },
     {
       "added_at": "2025-03-20 23:00:25",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
+    },
+    {
+      "added_at": "2025-03-20 23:00:25",
+      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 147253,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
-    },
-    {
-      "added_at": "2025-03-20 23:00:25",
-      "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2025-03-20 23:00:25",
@@ -1811,26 +1811,22 @@
     {
       "added_at": "2025-03-20 23:00:25",
       "album": {
-        "name": "Stand In Line",
-        "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg"
       },
       "artists": [
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "Makasi",
+          "url": "https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6"
         },
         {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "RYVM",
-          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+          "name": "Dannii Murphy",
+          "url": "https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI"
         }
       ],
-      "duration_ms": 185451,
-      "name": "Stand In Line",
-      "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
+      "duration_ms": 214003,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq"
     }
   ],
   "unique_name": "Dance Workout",

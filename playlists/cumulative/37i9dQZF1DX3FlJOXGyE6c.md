@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3FlJOXGyE6c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3FlJOXGyE6c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3FlJOXGyE6c)
 
-### [刀剣乱舞\-ONLINE\- TOUKEN RANBU](https://open.spotify.com/playlist/37i9dQZF1DX3FlJOXGyE6c)
+### [TOUKEN RANBU\-ONLINE\-](https://open.spotify.com/playlist/37i9dQZF1DX3FlJOXGyE6c)
 
-> The world of”TOUKEN RANBU”! PCブラウザ・スマホアプリゲーム「刀剣乱舞\-ONLINE\-」。<br/>Musical、Animation、Movieと広がる革命的な世界を彩る楽曲を一つのプレイリストで！ \(C\)2015 EXNOA LLC/Nitroplus
+> The world of”TOUKEN RANBU”! \(C\)2015 EXNOA LLC/Nitroplus
 
-196 songs - 13 hr 26 min
+197 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Yellow Sac Spider song by Ookurikara・Buzengou](https://open.spotify.com/track/7tar2x21EFNywex6gJ5YF7) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Free Style](https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE) | 3:19 | 2022-07-27 | 2022-07-31 |
 | [Yellow Sac Spider　song by Ookurikara・Buzengou](https://open.spotify.com/track/3k224h3gmbCOc32CnaWBi5) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu：The Musical \-Shizuka no Umi no Paraíso\- \(Tsuujouban\)](https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X) | 3:19 | 2022-07-27 | 2024-04-19 |
 | [Yellow Sac Spider　song by 大倶利伽羅・豊前江](https://open.spotify.com/track/4UYO6FBrspx76RfO49BgOD) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Free Style](https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy) | 3:19 | 2022-05-24 |  |
+| [Yomibito shirazu](https://open.spotify.com/track/5124hALqoF3CSpzDg7XKm9) | [刀剣男士 formation of 花影](https://open.spotify.com/artist/1DkXdGLCENfore5KYcrjPZ), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu：The Musical “Hanakage yureru tomizu” \(tsujoban\)](https://open.spotify.com/album/4JfLUIkzH9eM3djVvbZbWj) | 3:21 | 2025-03-26 |  |
 | [YUKARI](https://open.spotify.com/track/0jUoi8hH8JFkNaVHxV7xC5) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Free Style](https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy) | 3:51 | 2022-05-24 |  |
 | [YUKARI](https://open.spotify.com/track/1IkRC7RBWK7JrlFP5BIEXA) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Free Style](https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE) | 3:51 | 2022-07-27 | 2022-07-31 |
 | [YUKARI](https://open.spotify.com/track/4diJhuOfSnpjCwUuooN9Fc) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu：The Musical \-Shizuka no Umi no Paraíso\- \(Tsuujouban\)](https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X) | 3:52 | 2022-07-27 | 2024-04-19 |

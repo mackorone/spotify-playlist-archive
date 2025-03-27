@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-324 songs - 9 hr 47 min
+325 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,10 +121,11 @@
 | [I'm a Little Teapot](https://open.spotify.com/track/1t6Gro7Tzeja1SBEiqmH2Q) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes](https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6) | 1:17 | 2022-02-25 | 2024-01-05 |
 | [I'm a Little Teapot](https://open.spotify.com/track/3wYY67cxg0p2CYKvUE3gMC) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Nursery Rhymes](https://open.spotify.com/album/7fsYuOn9XETjbWNNcOP6cG) | 1:17 | 2022-02-25 | 2022-07-29 |
 | [I'm A Nut](https://open.spotify.com/track/1IdtcZNxsFr1IcBvznRoQ1) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:17 | 2022-02-25 |  |
-| [If You're Happy and You Know \- It Clap Your Hands](https://open.spotify.com/track/0Kg0UEy9QxawjDgGaUp7ES) | [Nursery Rhymes and Kids Songs](https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO), [Twinkle Twinkle Little Star](https://open.spotify.com/artist/0ZsOdbAgZ60UYsgKCUzJKY), [Lullaby Babies](https://open.spotify.com/artist/695nGpWc1okscGp3hZklgP) | [If You're Happy and You Know \- It Clap Your Hands](https://open.spotify.com/album/5gPJuaeypFGQ5CHOnE1T3F) | 2:24 | 2025-01-31 |  |
+| [If You're Happy and You Know \- It Clap Your Hands](https://open.spotify.com/track/0Kg0UEy9QxawjDgGaUp7ES) | [Nursery Rhymes and Kids Songs](https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO), [Twinkle Twinkle Little Star](https://open.spotify.com/artist/0ZsOdbAgZ60UYsgKCUzJKY), [Lullaby Babies](https://open.spotify.com/artist/695nGpWc1okscGp3hZklgP) | [If You're Happy and You Know \- It Clap Your Hands](https://open.spotify.com/album/5gPJuaeypFGQ5CHOnE1T3F) | 2:24 | 2025-01-31 | 2025-03-27 |
 | [If You're Happy and You Know It](https://open.spotify.com/track/5VCVZBhLpLRoDqtkcXZN6m) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:20 | 2022-02-25 | 2024-01-05 |
 | [If You're Happy and You Know It](https://open.spotify.com/track/4jbFdoR43axNgUz4SE3Vnd) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes](https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6) | 1:32 | 2022-02-25 | 2024-04-19 |
 | [If You're Happy and You Know It](https://open.spotify.com/track/62pjp2SjPEGn0frGFVCJoV) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Nursery Rhymes](https://open.spotify.com/album/7fsYuOn9XETjbWNNcOP6cG) | 1:32 | 2022-02-25 | 2025-02-01 |
+| [If You're Happy And You Know It Clap Your Hands](https://open.spotify.com/track/1RZmi7MaS1rR9gMtg6UpFj) | [Nursery Rhymes and Kids Songs](https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO) | [Old Macdonald Had A Farm & more Playtime Songs](https://open.spotify.com/album/08hGwlAcjuErXnfyeBJudC) | 2:53 | 2025-03-26 |  |
 | [Incy Wincy Spider Nursery Rhyme](https://open.spotify.com/track/2qqrvZpBfR2QcjvruWJFAF) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChuTV Nursery Rhymes & Songs for Children, Vol\. 1](https://open.spotify.com/album/5VAhNC7AmHdWJhalTqvsnC) | 1:45 | 2023-02-24 | 2024-04-19 |
 | [Incy Wincy Spider Nursery Rhyme](https://open.spotify.com/track/03UUlyT64WFftDMfPuyXYy) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Toddler Songs & Nursery Rhymes for Babies, Vol\. 1 \(US Version\)](https://open.spotify.com/album/2ZKTW5UsFiU4Y9Z38SbY4a) | 1:45 | 2022-02-25 |  |
 | [It's Raining It's Pouring](https://open.spotify.com/track/05E2YbFAJE1DnHSuFfTk5V) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn About the Weather with Songs & Nursery Rhymes from LittleBabyBum](https://open.spotify.com/album/22KC6LLHas9oWKebH23kRZ) | 1:04 | 2022-02-25 | 2024-04-19 |

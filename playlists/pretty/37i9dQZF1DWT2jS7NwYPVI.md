@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: florence road
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,985 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,016 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 105 | [You Make Me Feel](https://open.spotify.com/track/3B0I1YyCjah641eYa3ifYM) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [You Make Me Feel](https://open.spotify.com/album/7ra8azvupwAiZylfwKQbP0) | 2:31 |
 | 106 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:28 |
 | 107 | [Cards](https://open.spotify.com/track/48dq8Z9gwrXZCiQP1Z1iTB) | [Bay Faction](https://open.spotify.com/artist/5wl4eeiKZTQ0mgm7jLoy7g) | [thanks, for waiting](https://open.spotify.com/album/2H4T5rX7sxg5iHQRvuapyD) | 3:06 |
-| 108 | [Box](https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Box](https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k) | 2:22 |
+| 108 | [Box](https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Box](https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k) | 2:20 |
 | 109 | [Over Again](https://open.spotify.com/track/1w8UoKQueghgkjHAHrNgdQ) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Over Again](https://open.spotify.com/album/63CUF8ws1kwCKXx2LTiArQ) | 2:33 |
 | 110 | [Mountain](https://open.spotify.com/track/2L2gjXyR49y51IyBz7wKvl) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Mountain](https://open.spotify.com/album/4e0AsgwbmUBQhy92uMUZfv) | 2:59 |
 | 111 | [I Got Exactly What I Wanted](https://open.spotify.com/track/09FLigvepMuPrheurqSp2G) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [I Got Exactly What I Wanted](https://open.spotify.com/album/43HUBMTsMmGmKaMMeefd5O) | 2:56 |

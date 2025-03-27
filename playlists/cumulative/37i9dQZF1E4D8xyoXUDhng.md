@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, James Cleveland, Tori Kelly and more
+> With Sunday Service Choir, Terrell Grice, James Cleveland and more
 
 1,722 songs - 5 day 10 hr 5 min
 

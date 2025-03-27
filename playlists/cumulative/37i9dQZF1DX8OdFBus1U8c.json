@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 220253,
       "name": "Ayyayyo",
       "url": "https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 130018,
       "name": "Galatta - From \"Aavesham\"",
       "url": "https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq"
@@ -3463,6 +3463,32 @@
     },
     {
       "album": {
+        "name": "NERA",
+        "url": "https://open.spotify.com/album/1WEsz10T3XhBmloE9Mmj5u"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "NERA",
+      "url": "https://open.spotify.com/track/2xQTNL2WMBDZdeWup9EZjs"
+    },
+    {
+      "album": {
         "name": "Jai Ganesh (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6S6FCMEo7uNTqeICbpli4O"
       },
@@ -3896,7 +3922,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 152999,
       "name": "Panchayath Kinar",
       "url": "https://open.spotify.com/track/56Xhc2nRo7mQLGmDzBDBWA"
@@ -4002,7 +4028,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 107787,
       "name": "Pathanam",
       "url": "https://open.spotify.com/track/7J1LLA1CxdLgP7wrM7slun"
@@ -4704,6 +4730,28 @@
       "duration_ms": 197916,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/55pmUCccXeZS5sEmGTMDJ9"
+    },
+    {
+      "album": {
+        "name": "Street Fight",
+        "url": "https://open.spotify.com/album/6phUJtFIkQVKLFSnbxRy7h"
+      },
+      "artists": [
+        {
+          "name": "THE JGS",
+          "url": "https://open.spotify.com/artist/1flgPX9tG9qslLNwlTXtiE"
+        },
+        {
+          "name": "FEBIN JACKSON",
+          "url": "https://open.spotify.com/artist/1nHy258dDeQFCx5WwCMekU"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Street Fight",
+      "url": "https://open.spotify.com/track/1jY48EnxoV0IK0Y0Oj8TrJ"
     },
     {
       "album": {
@@ -5409,6 +5457,28 @@
     },
     {
       "album": {
+        "name": "VADHAM",
+        "url": "https://open.spotify.com/album/2dHBwt4kmh7b1FcEKYhNoj"
+      },
+      "artists": [
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "RXZOR",
+          "url": "https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "VADHAM",
+      "url": "https://open.spotify.com/track/6XQYBCfikAQMj3hikSqokG"
+    },
+    {
+      "album": {
         "name": "Vappante Kaayi",
         "url": "https://open.spotify.com/album/64aE6tx1OZFzRU0zmwu5nv"
       },
@@ -5766,6 +5836,28 @@
       "duration_ms": 124153,
       "name": "Vyadhi",
       "url": "https://open.spotify.com/track/4rTg32mR6ETu2Aw30LPibh"
+    },
+    {
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/2nHqQWVAo8MY4v8TyucwnI"
+      },
+      "artists": [
+        {
+          "name": "draeKo",
+          "url": "https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205710,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/4CZKGhWUPmS8ZRFO07C4jA"
     },
     {
       "album": {

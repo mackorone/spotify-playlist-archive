@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,416 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,474 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,13 +107,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 97 | [La Cumbia Rebaja](https://open.spotify.com/track/78ls4TlaIOP9fJoEJiD8w0) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Cuando el Hombre Llega a Viejo](https://open.spotify.com/album/2X92nMtrA02l1TkO1w7jaP) | 3:24 |
 | 98 | [Sal Y Agua](https://open.spotify.com/track/3ySiLPf1YPmIPvtxRRoXIY) | [Vallenatos De La Cumbia](https://open.spotify.com/artist/5t77bXrErzIDWoU6cHwdEX) | [Por El Mundo](https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx) | 3:08 |
 | 99 | [Un Amor Bonito](https://open.spotify.com/track/1yoOO071BcqGCbvcw7j55E) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Un Amor Bonito](https://open.spotify.com/album/1kNpeJ3X2HW5VYcnVxACPq) | 3:11 |
-| 100 | [Vete a Buscar Aquel](https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm) | [Conjunto Oro](https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs) | [Lo Mejor De](https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP) | 3:32 |
+| 100 | [Cumbia Campesina](https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [A Díos Le Pido](https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3) | 3:52 |
 | 101 | [Mira, Mira, Mírala](https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Sin Limites](https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT) | 3:31 |
 | 102 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 |
-| 103 | [Cumbia Campesina](https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [A Díos Le Pido](https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3) | 3:52 |
+| 103 | [Vete a Buscar Aquel](https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm) | [Conjunto Oro](https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs) | [Lo Mejor De](https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP) | 3:32 |
 | 104 | [Marisol](https://open.spotify.com/track/154tEgzLRFFYozPO87d3VE) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 5:11 |
-| 105 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 |
-| 106 | [Si Yo Fuera Tu](https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [La Voz Del Corazón](https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV) | 3:43 |
+| 105 | [Si Yo Fuera Tu](https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [La Voz Del Corazón](https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV) | 3:43 |
+| 106 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 |
 | 107 | [Eras](https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Eras](https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg) | 3:39 |
 | 108 | [En Automático](https://open.spotify.com/track/3kGeAU2fVqf72NCoAJdxbT) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [En Automático](https://open.spotify.com/album/1ZQqsASquT4yZ6mXzWs3af) | 2:30 |
 | 109 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 |
@@ -124,14 +124,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 114 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |
 | 115 | [Cuando Lo Negro Sea Bello](https://open.spotify.com/track/6RNaww08bvsfCbE95pZkzh) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Éxitos Andrés Landero](https://open.spotify.com/album/3r1DwWNf3WIFGAvXF38p3a) | 3:09 |
 | 116 | [Cumbia Del Corazón](https://open.spotify.com/track/4dURe03os9BAxIO0RThU28) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Cumbia Del Corazón](https://open.spotify.com/album/3mfwypID037UHlutwTYINo) | 3:17 |
-| 117 | [Mi Pregón](https://open.spotify.com/track/5EyZuJ9a2FAsgWxmjffl73) | [Los Chikos RK Ritmo Kumbiero](https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt) | [Mi Pregón](https://open.spotify.com/album/6wiadyiTXY2DpfI6RMyXI2) | 3:21 |
-| 118 | [Volvamos a Empezar](https://open.spotify.com/track/5qdSF9c6H7Q42ukTSSe6F1) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Entre Compas y Canciones](https://open.spotify.com/album/26fFGqPpAOyAOEd1ZcIdD7) | 3:11 |
+| 117 | [Volvamos a Empezar](https://open.spotify.com/track/5qdSF9c6H7Q42ukTSSe6F1) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Entre Compas y Canciones](https://open.spotify.com/album/26fFGqPpAOyAOEd1ZcIdD7) | 3:11 |
+| 118 | [Mi Pregón](https://open.spotify.com/track/5EyZuJ9a2FAsgWxmjffl73) | [Los Chikos RK Ritmo Kumbiero](https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt) | [Mi Pregón](https://open.spotify.com/album/6wiadyiTXY2DpfI6RMyXI2) | 3:21 |
 | 119 | [Sobrenatural](https://open.spotify.com/track/5VtTEqT7UXNg1sN0HSdmjp) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Sobrenatural](https://open.spotify.com/album/0tKCqqv4jHow4pUvwFiUsj) | 3:26 |
 | 120 | [El Gallo Moro](https://open.spotify.com/track/1iQeJDK2YMwy0mSvMxtkV4) | [Paco Silva y su Tropa Colombiana](https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE) | [Wepe Jepe](https://open.spotify.com/album/7D9L6rKQbickno8hZKTS72) | 3:42 |
 | 121 | [No Mastico Culebras](https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [No Mastico Culebras](https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW) | 2:14 |
 | 122 | [Cumbia de la Sabana](https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT) | [Poder Vallenato](https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2) | [15 exitos pa'gozar](https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO) | 3:32 |
-| 123 | [Bonito Son \- Cumbia](https://open.spotify.com/track/5oKWdLFUaztcQVmNpWEGNU) | [La Tropa Co\. De Paco Silva](https://open.spotify.com/artist/3a4RKM5UNodp7XAgavbDmb) | [La Tropa Loca Antología Musical](https://open.spotify.com/album/0leIcMcsAybcwMPVMgnQEe) | 3:35 |
-| 124 | [Juro Que Es por Ella](https://open.spotify.com/track/20yublwhQkHSiko0ranSlT) | [Los Amantes Del Vallenato](https://open.spotify.com/artist/5Qc5HoAa0zKDjTlzJw2OBh) | [Juro Que Es por Ella](https://open.spotify.com/album/4R0zKvzfufpo1ptWhG7tuh) | 4:10 |
+| 123 | [Juro Que Es por Ella](https://open.spotify.com/track/20yublwhQkHSiko0ranSlT) | [Los Amantes Del Vallenato](https://open.spotify.com/artist/5Qc5HoAa0zKDjTlzJw2OBh) | [Juro Que Es por Ella](https://open.spotify.com/album/4R0zKvzfufpo1ptWhG7tuh) | 4:10 |
+| 124 | [Bonito Son \- Cumbia](https://open.spotify.com/track/5oKWdLFUaztcQVmNpWEGNU) | [La Tropa Co\. De Paco Silva](https://open.spotify.com/artist/3a4RKM5UNodp7XAgavbDmb) | [La Tropa Loca Antología Musical](https://open.spotify.com/album/0leIcMcsAybcwMPVMgnQEe) | 3:35 |
 | 125 | [El Pasito de Monterrey](https://open.spotify.com/track/0QTHRYvvhhYPWNmy9NtU6C) | [Los Colombinos](https://open.spotify.com/artist/53KlwkpvOp3HFXNqy2xJPA) | [Nacio la Cumbia](https://open.spotify.com/album/3tt2S0MOGeYHkkVcMLsOiZ) | 2:57 |
 
 Snapshot ID: `ZpWnIwAAAAA4gxB+97kZsB7Ies+n2r9W`

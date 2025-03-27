@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrfD7naNJCL.md) - [plain]
 
 > All\-new performances by the cast and exclusive content\. How many wonders can one playlist hold?
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,569 likes - 166 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,598 likes - 166 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

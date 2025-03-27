@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists every Wednesday\. Cover: LUNA KILLS \| Artwork: Nejc Prah
+> New music by the heaviest independent artists every Wednesday\. Cover: KNIFE BRIDE \| Artwork: Nejc Prah
 
-239 songs - 14 hr 4 min
+241 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/7sxNMD1pJTmGDx5xftYZZL) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Close Your Eyes](https://open.spotify.com/album/7seWR9BS10N3K8FOyaIuUF) | 2:56 | 2024-11-13 | 2024-12-05 |
 | [Code Of Silence](https://open.spotify.com/track/5O2SMJwgnK1wB8qzp91pdb) | [Into The Vein](https://open.spotify.com/artist/1FklvdgEAAOBSuwd9jSOjw) | [Code Of Silence](https://open.spotify.com/album/3GPfCNQXnrUmkslt16BVpj) | 3:52 | 2025-02-19 | 2025-03-20 |
 | [Cold Days](https://open.spotify.com/track/0MsHPU8lA5br6JhRDvQPmW) | [Satelles](https://open.spotify.com/artist/5nClylSnUA5IWiBI7T2960) | [Arcadia](https://open.spotify.com/album/1mxPusKMN5mp3vB0XF1JD4) | 3:28 | 2025-01-22 |  |
+| [Come Down](https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Come Down](https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl) | 3:16 | 2025-03-26 |  |
 | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m) | 2:28 | 2025-03-12 |  |
 | [Contraband](https://open.spotify.com/track/6HXUFds0VgH7RqU3WP41gK) | [Vacuous](https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS) | [Contraband](https://open.spotify.com/album/6FOtJeuCbI5lddNLcWJinZ) | 3:13 | 2025-02-19 |  |
 | [Control](https://open.spotify.com/track/2fs70ZstsXH78eFiEEVco7) | [Aligned](https://open.spotify.com/artist/69WneofMhPtLP6szibl3Kj) | [Control](https://open.spotify.com/album/186pcCHqSraORXKrxCuuft) | 3:04 | 2025-02-19 | 2025-02-27 |
@@ -62,6 +63,7 @@
 | [DEAD.DROP.DEAD](https://open.spotify.com/track/1y4cYXim9COISQbJwaEDR7) | [Behind Crimson Eyes](https://open.spotify.com/artist/3IA2lo6wAL3YARtRPWv6Qe) | [DEAD.DROP.DEAD](https://open.spotify.com/album/1NhU7c5wDevXf1EvFnMdkZ) | 3:17 | 2024-08-07 | 2025-02-20 |
 | [DEAD2ME](https://open.spotify.com/track/2qdvOOVk8hcaWANWS52QO8) | [INDEVTH](https://open.spotify.com/artist/0RQ9D4OzdWzSbznNC9DUy6) | [DEAD2ME](https://open.spotify.com/album/52DmfjMDD9pUyne2VX5QCW) | 2:46 | 2025-03-12 |  |
 | [Death Oath](https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz) | [Venemous](https://open.spotify.com/artist/28an2UZBnMulKfdQxhNOBq) | [Death Oath](https://open.spotify.com/album/36SPNysziXOCW7n2BSfD1L) | 3:32 | 2024-08-07 | 2025-02-06 |
+| [Deconstruct](https://open.spotify.com/track/4aPQhK7LjodfShzIRcdh4R) | [URSA](https://open.spotify.com/artist/5vHShL6Y7oe3QoEuTGSABf) | [Call of the Infinite](https://open.spotify.com/album/5ga6tW4gmd7LqBU9BvzrKH) | 5:58 | 2025-03-26 |  |
 | [Deep in the Mire](https://open.spotify.com/track/7Bik5U0sGl5n5UZqI35ram) | [The Hate Project](https://open.spotify.com/artist/00LS9pzopfrTLw1Cv17GHo) | [Deep in the Mire](https://open.spotify.com/album/6v0rQFKbG2vWSmUTQSkdDw) | 2:52 | 2024-11-13 | 2024-12-05 |
 | [Defanged](https://open.spotify.com/track/788hXJGi3E0uKwu8RnT6OU) | [Hidden Mothers](https://open.spotify.com/artist/4ngzSYix3OAL3ph7OjDXzn) | [Defanged](https://open.spotify.com/album/6mo8vsLScAv61zTgmqxT1p) | 4:59 | 2024-08-21 | 2024-10-03 |
 | [Delirium](https://open.spotify.com/track/5vdNhHmiucLU6jN9yvtm7D) | [Eschalon](https://open.spotify.com/artist/1jl0oWAKZ8BNB7Z8bnG7aZ) | [Delirium](https://open.spotify.com/album/6VEgNGWn8b9yfw8L8Nc0cp) | 2:43 | 2024-10-02 | 2024-12-05 |
@@ -108,7 +110,7 @@
 | [Hands](https://open.spotify.com/track/0cM0oeHBcYNqnJq4FYXRPT) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Hands](https://open.spotify.com/album/428vU1rpDMtNYEMJFRqLFr) | 4:34 | 2024-11-13 | 2024-12-05 |
 | [Heart of Thorns](https://open.spotify.com/track/2ww4jkfTyKGHqx0vWJ5HpG) | [Jager Henry](https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [Heart of Thorns](https://open.spotify.com/album/31tRafX6l8pVaplRXrtE4q) | 3:37 | 2024-08-07 | 2024-10-26 |
 | [Home](https://open.spotify.com/track/2vwet79qkBXw1uUcCMaLhS) | [HUE](https://open.spotify.com/artist/0zdplS4ya9kYvzqcwdrS1P), [Shooters ABM](https://open.spotify.com/artist/7btHSUR8idjj2wMF2iELXv) | [Home](https://open.spotify.com/album/61GqR5lDk787dO5ERGQZrB) | 3:21 | 2024-08-07 | 2024-09-26 |
-| [Honeycomb](https://open.spotify.com/track/3XQ3iUVc6IWjotTwBbK60w) | [Staticlone](https://open.spotify.com/artist/5qjpZpwuGtOkwajRLirQpK) | [Alone In Philadelphia](https://open.spotify.com/album/7mEotwa4o4lZSLAR23gfqV) | 2:11 | 2025-02-19 |  |
+| [Honeycomb](https://open.spotify.com/track/3XQ3iUVc6IWjotTwBbK60w) | [Staticlone](https://open.spotify.com/artist/5qjpZpwuGtOkwajRLirQpK) | [Alone In Philadelphia](https://open.spotify.com/album/7mEotwa4o4lZSLAR23gfqV) | 2:11 | 2025-02-19 | 2025-03-27 |
 | [Horizon Of Spikes](https://open.spotify.com/track/1VNm5rSLXOGBXKP5i2A09O) | [NECKBREAKKER](https://open.spotify.com/artist/4bEKeZm7yf8aOqam6RI4cJ) | [Horizon Of Spikes](https://open.spotify.com/album/5KUno95fDG555aIRIt7mC7) | 3:56 | 2024-09-11 | 2024-10-17 |
 | [Horror Domain](https://open.spotify.com/track/2Kg3mbefgrNLys9uJ9yfSs) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [What's Left Unsaid](https://open.spotify.com/album/473iM0z7iwQsy74zcilsRw) | 3:00 | 2024-11-13 | 2024-12-05 |
 | [House ≠ Home](https://open.spotify.com/track/4CQA3WAuyb3prHO2f9pSen) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [House ≠ Home](https://open.spotify.com/album/15AerqHUy84VzJfaIofLFS) | 2:55 | 2024-08-14 | 2024-09-05 |
@@ -185,7 +187,7 @@
 | [Shackled To A Corpse](https://open.spotify.com/track/4bK6WdeZKtQQfXaPSmQf2l) | [NECKBREAKKER](https://open.spotify.com/artist/4bEKeZm7yf8aOqam6RI4cJ) | [Shackled To A Corpse](https://open.spotify.com/album/0LyMGTtVJPRTDpBd4u4jy2) | 4:18 | 2024-10-16 | 2025-02-20 |
 | [Shadow Dancer](https://open.spotify.com/track/1JGV8Iy09eMNAYls0fYx8h) | [Vicious Rain](https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp) | [Shadow Dancer](https://open.spotify.com/album/1SmYK5HhYBJcJNcVKCfeME) | 4:24 | 2024-08-21 | 2024-10-17 |
 | [Shallow Ecstasy](https://open.spotify.com/track/6txxn4h97htvfu7Pty2gRs) | [Tómarúm](https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ) | [Shallow Ecstasy](https://open.spotify.com/album/1PxbJLDxCbB0MkhGXc7Qnr) | 7:02 | 2025-03-19 |  |
-| [Silence and Anger](https://open.spotify.com/track/58cTBYVkGQOV7Hu6xMPPXO) | [Basterds](https://open.spotify.com/artist/6xVKy3vtmK37fIthk9ic3o) | [Silence and Anger](https://open.spotify.com/album/3BzB9IGBO5DLqDMfbTJhA7) | 2:13 | 2025-02-05 |  |
+| [Silence and Anger](https://open.spotify.com/track/58cTBYVkGQOV7Hu6xMPPXO) | [Basterds](https://open.spotify.com/artist/6xVKy3vtmK37fIthk9ic3o) | [Silence and Anger](https://open.spotify.com/album/3BzB9IGBO5DLqDMfbTJhA7) | 2:13 | 2025-02-05 | 2025-03-27 |
 | [Silhouettes](https://open.spotify.com/track/0ucw2yCDJqm5CAAlJmW53L) | [Giant Walker](https://open.spotify.com/artist/4Xatn9rQkv4mU47XRJ2SE0) | [Silhouettes](https://open.spotify.com/album/2kVXK0yxdMGH4qwdq2OeVt) | 4:49 | 2024-08-07 | 2024-10-17 |
 | [Singularity](https://open.spotify.com/track/0EORJ4SKeXqkFm0YygZ2mE) | [Delusionist](https://open.spotify.com/artist/2ZQ8rHusHaKS9XgSdTDF2Q) | [Singularity](https://open.spotify.com/album/48dMZYznPzlM3DfFFk0Z23) | 5:10 | 2024-08-07 | 2025-01-30 |
 | [slay ur enemies](https://open.spotify.com/track/7aGGAZBZgdSRt49j7m38Zk) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [slay ur enemies](https://open.spotify.com/album/4Y7XARCKI2aX8ND7mKpwX3) | 2:48 | 2024-10-09 | 2025-01-23 |
@@ -240,7 +242,7 @@
 | [Warrior](https://open.spotify.com/track/3m1OCJcLK8ok9HILw1EQZ1) | [No Terror in the Bang](https://open.spotify.com/artist/6JucMO8FO1iC8WHtFjlb6S) | [Heal](https://open.spotify.com/album/4gD3SyJR72g31uhZHuU7xI) | 4:34 | 2024-12-04 | 2025-02-20 |
 | [Warrior](https://open.spotify.com/track/6qk8F2IGR7nvDHOS3rDV7O) | [No Terror in the Bang](https://open.spotify.com/artist/6JucMO8FO1iC8WHtFjlb6S) | [Warrior](https://open.spotify.com/album/4MAkD36KZnHMFatNBvcD2u) | 4:34 | 2024-08-07 | 2024-12-05 |
 | [waste](https://open.spotify.com/track/22uPsSttCJhrDGFhfx9zob) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [unpeople](https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI) | 3:51 | 2024-08-07 | 2024-11-14 |
-| [Wear Me like a Mitt, Romney](https://open.spotify.com/track/6QktPhKIIclGmELHmcWMWp) | [Missouri Executive Order 44](https://open.spotify.com/artist/4woFFhkcWSI6x4WbbIQVpD) | [Salt Sermon](https://open.spotify.com/album/3yyDV3P12TiZ0UPZ1PyMHt) | 1:26 | 2025-01-22 |  |
+| [Wear Me like a Mitt, Romney](https://open.spotify.com/track/6QktPhKIIclGmELHmcWMWp) | [Missouri Executive Order 44](https://open.spotify.com/artist/4woFFhkcWSI6x4WbbIQVpD) | [Salt Sermon](https://open.spotify.com/album/3yyDV3P12TiZ0UPZ1PyMHt) | 1:26 | 2025-01-22 | 2025-03-27 |
 | [Weight In Gold](https://open.spotify.com/track/7EBkEqFoIYxcCFPg5GiIND) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Weight In Gold](https://open.spotify.com/album/6QFIolS3xK52AVPXAFnIWi) | 4:13 | 2024-08-07 | 2024-10-26 |
 | [When It Betrays \(feat\. Colin Young\)](https://open.spotify.com/track/0g6olXNFO0lM3QVzjXDiS3) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh), [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy), [Colin Young](https://open.spotify.com/artist/1Czqbs3tZ9A71hT3SytLvw) | [When It Betrays \(feat\. Colin Young\)](https://open.spotify.com/album/5fQ5kzqWf2LC7vmg7BJytl) | 2:50 | 2025-02-19 |  |
 | [WHEN THE PANIC SETS IN](https://open.spotify.com/track/25kR37i0l28ag3RIAyFFIg) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [WHEN THE PANIC SETS IN](https://open.spotify.com/album/5c4akSDcRyPgmXftGjk7ug) | 3:44 | 2024-08-21 | 2024-12-05 |

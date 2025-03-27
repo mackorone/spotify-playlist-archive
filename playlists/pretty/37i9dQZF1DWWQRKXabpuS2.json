@@ -1,29 +1,13 @@
 {
   "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u063a\u0644\u0627\u0641: \u0641\u0647\u062f \u0627\u0644\u0639\u0645\u0631\u064a",
-  "num_followers": 39279,
+  "num_followers": 39277,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z77JcgAAAAC6EnMG8JXBT/9DZbZd00Lf",
+  "snapshot_id": "Z+OTlQAAAABTqgAHWRuFvB8Fu+8eT62j",
   "tracks": [
-    {
-      "added_at": "2025-02-12 15:02:13",
-      "album": {
-        "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs"
-      },
-      "artists": [
-        {
-          "name": "Djmubarak",
-          "url": "https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ"
-        }
-      ],
-      "duration_ms": 189904,
-      "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU"
-    },
     {
       "added_at": "2025-02-14 13:43:18",
       "album": {
@@ -89,22 +73,6 @@
       "url": "https://open.spotify.com/track/3Q9oZAr2wdgKsLcjGoOh95"
     },
     {
-      "added_at": "2025-02-18 11:48:07",
-      "album": {
-        "name": "\u0627\u062d\u0636\u0646 \u0627\u0644\u0630\u0643\u0631\u0649",
-        "url": "https://open.spotify.com/album/1mGto1het7EofBlcpQoDBf"
-      },
-      "artists": [
-        {
-          "name": "Dumooa Tahseen",
-          "url": "https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ"
-        }
-      ],
-      "duration_ms": 214101,
-      "name": "\u0627\u062d\u0636\u0646 \u0627\u0644\u0630\u0643\u0631\u0649",
-      "url": "https://open.spotify.com/track/7fl7MPGSlqTS6JwYMJGpXp"
-    },
-    {
       "added_at": "2025-02-11 10:13:31",
       "album": {
         "name": "Ensan Thani",
@@ -167,6 +135,22 @@
       "duration_ms": 287692,
       "name": "Momken Aeesh",
       "url": "https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz"
+    },
+    {
+      "added_at": "2025-02-12 15:02:13",
+      "album": {
+        "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs"
+      },
+      "artists": [
+        {
+          "name": "Djmubarak",
+          "url": "https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ"
+        }
+      ],
+      "duration_ms": 189904,
+      "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU"
     },
     {
       "added_at": "2025-02-14 10:52:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Piruka
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,709 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,746 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 72 | [Último Romântico do Mundo](https://open.spotify.com/track/1vcGNRmxiPiiFDq5QkOCqX) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1) | [Último Romântico do Mundo](https://open.spotify.com/album/2qB64vFyQDphIevGbXtGXH) | 2:11 |
 | 73 | [tua falta \(feat\. Lhast\)](https://open.spotify.com/track/3uf9kk76Jo7oaw6KzrWHcY) | [ed](https://open.spotify.com/artist/3NQzkrCGGhftMzKWApn44m), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [tua falta \(feat\. Lhast\)](https://open.spotify.com/album/2rm4EN7sSpcDxM6kVT3fgV) | 3:29 |
 | 74 | [PRIMAVERA](https://open.spotify.com/track/2gwjSaICLjXKNBodfe18ja) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [CCD \- CHOVE CÁ DENTRO](https://open.spotify.com/album/1AupBQGX909ZP4URCEsO10) | 3:16 |
-| 75 | [Melodia](https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Melodia](https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P) | 2:55 |
+| 75 | [Falei](https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn), [Dj Verigal](https://open.spotify.com/artist/2LcsmbSSktQ6RYj5VvUQfO), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI), [Kastro Songz](https://open.spotify.com/artist/55B8Gbt3M3EMDbn7gQa3Mr) | [Falei](https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4) | 2:57 |
 
 Snapshot ID: `Z9ysDgAAAABcC+HltIoWHOBN5s+fy7Ch`

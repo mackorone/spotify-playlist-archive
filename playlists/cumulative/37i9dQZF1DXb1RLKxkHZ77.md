@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadeera
 
-655 songs - 1 day 16 hr 58 min
+657 songs - 1 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Ilusi Keliru](https://open.spotify.com/track/0itY5LK5FZtLXu5LmvRJDU) | [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Ilusi Keliru](https://open.spotify.com/album/59MK6hD6j3Hd2m1t6WXgSV) | 3:47 | 2023-04-05 | 2023-06-01 |
 | [IMAN](https://open.spotify.com/track/6O2JNB7mnnFIDvtiTOBjtT) | [Ismail Izzani](https://open.spotify.com/artist/63Ns0cyE751e5RlTCS2lpO) | [IMAN](https://open.spotify.com/album/3U1FC16ytSYox0TC17QzMf) | 2:51 | 2024-09-11 | 2024-10-16 |
 | [Infiniti Cinta](https://open.spotify.com/track/1jIBXDiZRVoyUBZxwOZgHp) | [Zizan Razak](https://open.spotify.com/artist/2RCzl5Ja47S9izjAcDriUF) | [Infiniti Cinta](https://open.spotify.com/album/04WRPwN4YADh44fnRoF3LF) | 4:03 | 2024-01-24 | 2024-04-10 |
+| [Ingat](https://open.spotify.com/track/0QnyIDSjy366dQZjcHS2yF) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [The Storm](https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6) | 3:35 | 2025-03-26 |  |
 | [Ingin Pulang](https://open.spotify.com/track/5IACVQORTlNI2CEtJJXQpc) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Ingin Pulang](https://open.spotify.com/album/5jrqip2PrkzzDIXMigYaWs) | 3:34 | 2024-03-13 | 2024-05-09 |
 | [Ingkar Janji](https://open.spotify.com/track/599gm6M2EdYeGpV4TVpjin) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Ingkar Janji](https://open.spotify.com/album/5uq9r6KWHVzTcrOUCkjxGq) | 3:17 | 2024-03-06 | 2024-05-09 |
 | [INI MASA AKU](https://open.spotify.com/track/1F2mblK5PB6KoUd6qfKNBV) | [Deejyn](https://open.spotify.com/artist/2uYpUwuCRkel0KzDdwiyF0), [Reedzwann](https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok) | [INI MASA AKU](https://open.spotify.com/album/4k0mjYfIUk7qckspnMVyDV) | 2:27 | 2023-12-27 | 2024-01-25 |
@@ -347,7 +348,7 @@
 | [Last Time](https://open.spotify.com/track/7aGBpOkzoIaeZy1P9RwMYO) | [Killa Driz](https://open.spotify.com/artist/37Kp0IeMMN23eOnJANil3a), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7) | [Last Time](https://open.spotify.com/album/6c54LeoItJkebN1piuTyWI) | 3:59 | 2025-03-05 |  |
 | [Laut](https://open.spotify.com/track/0v0XEH9pzcIPKrehl914ky) | [Midnight Serenade](https://open.spotify.com/artist/54W9oHAP8OcFEkPgzm8Os2) | [Laut](https://open.spotify.com/album/2rzYi0p2uiYJqPbDii7flj) | 4:30 | 2025-02-26 |  |
 | [Layu Di Hujung Mekar](https://open.spotify.com/track/3GxKGD4HE7YSPkVKqy445n) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Layu Di Hujung Mekar](https://open.spotify.com/album/0Kq0OS9rB8nhcICy9pnAxG) | 4:27 | 2022-05-25 | 2022-09-16 |
-| [Lelaki Terakhir](https://open.spotify.com/track/1lAwADGrSaHWK3e3Su3QXG) | [Fattah Amin](https://open.spotify.com/artist/4yJ33lTnKh4Kiwrk2e64HH) | [Lelaki Terakhir](https://open.spotify.com/album/4Ebw5WhnYpEHlicRiUgrgH) | 3:09 | 2025-02-26 |  |
+| [Lelaki Terakhir](https://open.spotify.com/track/1lAwADGrSaHWK3e3Su3QXG) | [Fattah Amin](https://open.spotify.com/artist/4yJ33lTnKh4Kiwrk2e64HH) | [Lelaki Terakhir](https://open.spotify.com/album/4Ebw5WhnYpEHlicRiUgrgH) | 3:09 | 2025-02-26 | 2025-03-27 |
 | [Lemah](https://open.spotify.com/track/6BKEupNTtgSalOJ8g81N9r) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Lemah](https://open.spotify.com/album/2CqFFabg6MrgFbbRfcBCbW) | 4:04 | 2024-10-23 | 2024-11-28 |
 | [Lemak Manis](https://open.spotify.com/track/6baSCJVaZheBa1F9fUuP8E) | [KUGIRAN WAK JENG](https://open.spotify.com/artist/6gyk4ZJ4sVDo7hZc1nCJ9I) | [Lemak Manis](https://open.spotify.com/album/5XBSxHqclOFKq3DtafZwFO) | 4:25 | 2023-05-24 | 2023-06-15 |
 | [Lemas](https://open.spotify.com/track/1WWSoLU0JxOQEPsBowClCK) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq) | [Lemas](https://open.spotify.com/album/5SQWdDMdgty7ssDgO42eqh) | 3:57 | 2024-02-07 | 2024-03-07 |
@@ -355,6 +356,7 @@
 | [Lip Lap Raya](https://open.spotify.com/track/6HQEMPg896heLMLpcU4d9Z) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Lip Lap Raya](https://open.spotify.com/album/5Yc5oRuIzlUzcL9ZhG38mO) | 2:38 | 2022-05-25 | 2022-06-01 |
 | [Look At This](https://open.spotify.com/track/2sIBt75HNRZMFtFEoPgV3j) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Look At This](https://open.spotify.com/album/2C4xKICnTxn7rGSBpeJvsD) | 2:49 | 2023-02-22 | 2023-04-06 |
 | [LOTUS](https://open.spotify.com/track/4CdSVeRvrteDBAyHD4Cruc) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [LOTUS](https://open.spotify.com/album/4KKqYg6lKN5AVI81JyJH5D) | 4:58 | 2022-05-25 | 2022-09-22 |
+| [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 | 2025-03-26 |  |
 | [Luarbiasa](https://open.spotify.com/track/35gZphaBnnB6DuEtpKVK5g) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Luarbiasa](https://open.spotify.com/album/1KZaQnfO2XgQRj75cMtEej) | 3:34 | 2023-07-19 | 2023-09-21 |
 | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/track/1sAKfmljlUdzXAQWVaZrQu) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV), [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c) | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/album/4HrkoTSYeJ6xigRys3tGV5) | 3:46 | 2022-10-20 | 2022-12-15 |
 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 | 2024-10-03 | 2025-01-30 |
@@ -607,7 +609,7 @@
 | [Tangis](https://open.spotify.com/track/48bY0txTRuOJdMrbQu7O0W) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Tangis](https://open.spotify.com/album/1gqV1sVlPlXKzrShXJ0aBb) | 3:35 | 2024-06-19 | 2024-07-18 |
 | [Tangisan Seorang Pendosa](https://open.spotify.com/track/7CIwjDQLUz20LlX8gf59LZ) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Tangisan Seorang Pendosa](https://open.spotify.com/album/5uPak5uMBZwQCO5N4zN4Ud) | 3:31 | 2025-03-05 |  |
 | [Tango](https://open.spotify.com/track/2SH2Xx17dRLZWwASFb9bKx) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Tango](https://open.spotify.com/album/5ld61UwRepRdsPfmxeLydx) | 2:45 | 2023-11-01 | 2023-11-30 |
-| [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \(From "Tabayyun"\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 | 2025-02-12 |  |
+| [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \(From "Tabayyun"\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 | 2025-02-12 | 2025-03-27 |
 | [Tapi Bukan Denganmu](https://open.spotify.com/track/61bDItugzAphUO4awP5aHk) | [Bella Astillah](https://open.spotify.com/artist/3MPMcG7cDVBwFnEEzAQcKk) | [Tapi Bukan Denganmu](https://open.spotify.com/album/20HVjx0PuN8dJBcb9LJEEN) | 3:30 | 2024-10-09 | 2024-12-04 |
 | [Tega](https://open.spotify.com/track/0heJfKKROo8ELfJH94RUYe) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tega](https://open.spotify.com/album/5LyzuRigW4b7bP0yaXma1q) | 3:55 | 2022-09-08 | 2022-11-17 |
 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 | 2023-06-07 | 2023-07-12 |

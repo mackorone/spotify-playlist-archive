@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "all of that",
+        "url": "https://open.spotify.com/album/293q7RYvfWYahqOVV85gT5"
+      },
+      "artists": [
+        {
+          "name": "sunala.",
+          "url": "https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122112,
+      "name": "all of that",
+      "url": "https://open.spotify.com/track/2ctRPTyX78jlF3Q52AdjhZ"
+    },
+    {
+      "album": {
         "name": "alley",
         "url": "https://open.spotify.com/album/5ajbnD0oVAAmhKgKA92mtR"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 132000,
       "name": "behind the hill",
       "url": "https://open.spotify.com/track/4ymiPIQcRZgppsh4ocLfps"
@@ -8074,7 +8092,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 128000,
       "name": "KOI FISH",
       "url": "https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB"
@@ -9208,7 +9226,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 160365,
       "name": "Luma Beach",
       "url": "https://open.spotify.com/track/4Sn9pCrvAruVFVAIP3rppA"
@@ -13912,6 +13930,24 @@
       "duration_ms": 132000,
       "name": "See The Flowers",
       "url": "https://open.spotify.com/track/77MvpbDU4b23vr2rkEYOsq"
+    },
+    {
+      "album": {
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/3FhQrZJUEzTsdRV4WnXIxn"
+      },
+      "artists": [
+        {
+          "name": "hiking trip",
+          "url": "https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "See You Soon",
+      "url": "https://open.spotify.com/track/0YdoOXz8FBJBVZ5x3mKcV5"
     },
     {
       "album": {
@@ -18712,6 +18748,32 @@
       "duration_ms": 187764,
       "name": "Willow Whip",
       "url": "https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq"
+    },
+    {
+      "album": {
+        "name": "Win Some Lose Some - Instrumental",
+        "url": "https://open.spotify.com/album/5kgfyrBRCm2vXDWh7YRwIz"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        },
+        {
+          "name": "Sunday Supper",
+          "url": "https://open.spotify.com/artist/1dGhjuZe5hSXnfKGUoZnWS"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145326,
+      "name": "Win Some Lose Some - Instrumental",
+      "url": "https://open.spotify.com/track/5NerYFWTLAp7hufWNlCher"
     },
     {
       "album": {

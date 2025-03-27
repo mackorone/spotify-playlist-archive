@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,318 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,411 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 49 | [Because Of Who You Are](https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb) | [Vicki Yohe](https://open.spotify.com/artist/2ePc8jGwsMZtgQemYDJLY7) | [I Just Want You](https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf) | 5:18 |
 | 50 | [Won't He Do It](https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Greenleaf Soundtrack \- Season 2](https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt) | 3:29 |
 | 51 | [Gracefully Broken](https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:16 |
-| 52 | [Draw Me Close/Thy Will Be Done](https://open.spotify.com/track/6nwCQqMyCjeYVtByOtkZq1) | [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Marvin L\. Winans Presents: The Praise & Worship Experience](https://open.spotify.com/album/1ozNUUriplzs0TWgflNey5) | 6:25 |
-| 53 | [The Best In Me](https://open.spotify.com/track/1B5NWdLAt8GC4WKTPUCrLM) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Here I Am](https://open.spotify.com/album/2IIxW2mUKDpa3X6YC0NPlf) | 8:34 |
+| 52 | [The Best In Me](https://open.spotify.com/track/1B5NWdLAt8GC4WKTPUCrLM) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Here I Am](https://open.spotify.com/album/2IIxW2mUKDpa3X6YC0NPlf) | 8:34 |
+| 53 | [Draw Me Close/Thy Will Be Done](https://open.spotify.com/track/6nwCQqMyCjeYVtByOtkZq1) | [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Marvin L\. Winans Presents: The Praise & Worship Experience](https://open.spotify.com/album/1ozNUUriplzs0TWgflNey5) | 6:25 |
 | 54 | [We're Blessed](https://open.spotify.com/track/0ZD5LFsk2PMHicGH8MWRN8) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:42 |
 | 55 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
 | 56 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 84 | [I Told The Storm](https://open.spotify.com/track/2sZGeLC3p0vIBMWp4g2dxL) | [Greg O'Quin 'N Joyful Noyze](https://open.spotify.com/artist/4R4zqM6Mn6jgyE59Q7ZCMd) | [I Told The Storm](https://open.spotify.com/album/1yPqi2wuhnCZrnfCsD6hQR) | 4:30 |
 | 85 | [I Almost Let Go](https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3) | 5:40 |
 | 86 | [Great Is Your Mercy \- Live](https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 8:04 |
-| 87 | [Just Don't Wanna Know](https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i) | [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Alone But Not Alone](https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t) | 4:22 |
-| 88 | [I Won’t Complain](https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB) | [Rev\. Paul Jones](https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT) | [I Won’t Complain](https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed) | 4:52 |
+| 87 | [I Won’t Complain](https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB) | [Rev\. Paul Jones](https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT) | [I Won’t Complain](https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed) | 4:52 |
+| 88 | [Just Don't Wanna Know](https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i) | [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Alone But Not Alone](https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t) | 4:22 |
 | 89 | [I Will Bless the Lord \- Live](https://open.spotify.com/track/5Kt3OBConX9X0FSHZt39tI) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [An Invitation To Worship](https://open.spotify.com/album/7H9wB5xoMmttsEGEVimIPm) | 5:17 |
 | 90 | [Jesus Be a Fence Around Me \(Live\)](https://open.spotify.com/track/55XwQUPN08JYyxvULNPUk7) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Purpose By Design](https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA) | 7:30 |
 | 91 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4pc1Tfi0bguzV4LgA3nSSi) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Goshen](https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e) | 5:44 |

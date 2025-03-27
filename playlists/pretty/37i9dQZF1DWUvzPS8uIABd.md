@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. 🔥 Kannessa Haloo Helsinki!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,655 likes - 67 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,658 likes - 67 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

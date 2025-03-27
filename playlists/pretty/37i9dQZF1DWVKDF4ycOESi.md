@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Lucio Corsi in cover + le migliori uscite della settimana! Con brani di Gaia, Luchè, Tananai, NASKA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,931 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,942 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

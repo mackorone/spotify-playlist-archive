@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 5 hr 23 min
+113 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [EVERYTHING](https://open.spotify.com/track/0e5VVBA3Y3w0uCiHoWgXNQ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 1:45 | 2023-12-13 |  |
 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 | 2023-12-13 |  |
 | [Favourite Rapper / Hundred Million Religion](https://open.spotify.com/track/3vsuohYDStEaHt5EVPKKAz) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV) | 3:28 | 2023-12-13 |  |
-| [Fell In Love](https://open.spotify.com/track/44hFvYbXvLliVkeO9g9b7o) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5WcP2UBCmuvisS8trtAYCZ) | 2:45 | 2023-12-13 |  |
+| [Fell In Love](https://open.spotify.com/track/0K2HUBAW8fv5kqpnx1dBAm) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5Gyiyw8PNkMhxgIC17CVcB) | 2:45 | 2025-03-26 |  |
+| [Fell In Love](https://open.spotify.com/track/44hFvYbXvLliVkeO9g9b7o) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5WcP2UBCmuvisS8trtAYCZ) | 2:45 | 2023-12-13 | 2025-03-27 |
 | [Flashback](https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:37 | 2023-12-13 |  |
 | [Flashback](https://open.spotify.com/track/3M6uWThUeXWV1HCYnBz4wI) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Flashback](https://open.spotify.com/album/5l6Vbwho1oOexmkQ5GnBKu) | 4:03 | 2023-12-14 | 2024-02-02 |
 | [Foto \(feat\. Gemitaiz & MadMan\)](https://open.spotify.com/track/2cFyGMKscEgtlS6gqqBxAR) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [RIOT](https://open.spotify.com/album/3iT9nm6Y0s0peiRwFKLA7f) | 4:15 | 2023-12-13 |  |

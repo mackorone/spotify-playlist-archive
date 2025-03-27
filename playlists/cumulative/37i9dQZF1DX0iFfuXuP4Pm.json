@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Cup of Joe",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Sugarcane",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 232000,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/52YkZd4cJahDlGxQquQqSa"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 151500,
       "name": "Huling Liham",
       "url": "https://open.spotify.com/track/5lM05T9khhd1esKZNQ0u2p"
@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "KABANATA",
+        "url": "https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9"
+      },
+      "artists": [
+        {
+          "name": "JAO",
+          "url": "https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "KABANATA",
+      "url": "https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd"
+    },
+    {
+      "album": {
         "name": "Kahit Saglit",
         "url": "https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5"
       },
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 228707,
       "name": "KAMEHAMEHA",
       "url": "https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e"
@@ -3187,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Namimiss",
+        "url": "https://open.spotify.com/album/6uwX2fa0kncg9Y1bRk4Xqg"
+      },
+      "artists": [
+        {
+          "name": "Frank Ely",
+          "url": "https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Namimiss",
+      "url": "https://open.spotify.com/track/7lEGj6XSI3BWuIHMCcd9O3"
+    },
+    {
+      "album": {
         "name": "Namimiss Ko Na",
         "url": "https://open.spotify.com/album/2RAnZVfNBkdjyysTuTq6rL"
       },
@@ -3532,7 +3568,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 324000,
       "name": "OYAYI",
       "url": "https://open.spotify.com/track/5iXSkIei0VoKtw8tpsupg3"
@@ -3572,6 +3608,24 @@
       "duration_ms": 269903,
       "name": "Padama",
       "url": "https://open.spotify.com/track/3i7LbFROM0kQLM48OuoXev"
+    },
+    {
+      "album": {
+        "name": "Pag-ibig ng Ikaw at Ako",
+        "url": "https://open.spotify.com/album/4XcBixCavHYqmVPCAr2jwN"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280828,
+      "name": "Pag-ibig ng Ikaw at Ako",
+      "url": "https://open.spotify.com/track/1GqZU8Isnm4Bwx7V3na5tO"
     },
     {
       "album": {
@@ -3840,6 +3894,28 @@
       "duration_ms": 240000,
       "name": "PAPALAYO",
       "url": "https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz"
+    },
+    {
+      "album": {
+        "name": "Para Pilitin Ka",
+        "url": "https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196750,
+      "name": "Para Pilitin Ka",
+      "url": "https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct"
     },
     {
       "album": {

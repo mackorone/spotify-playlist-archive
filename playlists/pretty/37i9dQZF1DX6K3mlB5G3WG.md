@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Tananai
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,922 likes - 142 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,920 likes - 142 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

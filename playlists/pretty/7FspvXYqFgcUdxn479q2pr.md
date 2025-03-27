@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover:  Carpetman
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,491 likes - 68 songs - 3 hr 18 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,492 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 4 | [Say My Name](https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Say My Name](https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF) | 2:36 |
 | 5 | [All Right](https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [All Right](https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi) | 5:19 |
 | 6 | [TECHNO PIEPS](https://open.spotify.com/track/7MBgoczN6RoXUtpuGSKCA5) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb) | [TECHNO PIEPS](https://open.spotify.com/album/1P6nFrFtdvzyBQsOnrbrDP) | 2:10 |
-| 7 | [What's A Girl To Do \- Lee Ann Roberts Remix](https://open.spotify.com/track/2n4WGBY9hf6XDSR5kwPsKK) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [What's A Girl To Do \(Remix EP\)](https://open.spotify.com/album/6g4pi5R13bWwrlLM3aiSV1) | 2:36 |
+| 7 | [What's A Girl To Do \- Lee Ann Roberts Remix](https://open.spotify.com/track/2n4WGBY9hf6XDSR5kwPsKK) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [What's A Girl To Do \(Remix EP\)](https://open.spotify.com/album/6g4pi5R13bWwrlLM3aiSV1) | 2:37 |
 | 8 | [The Rhythm](https://open.spotify.com/track/617JXb8OeEFxtkIwpc79lm) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [The Rhythm](https://open.spotify.com/album/2ah4jT7B50wFbU42YjK0c7) | 3:25 |
 | 9 | [Kassira](https://open.spotify.com/track/1IwCCixN7uaezFCC1LxSzR) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Kassira](https://open.spotify.com/album/0wTj23sP3hmh79RaPFv87N) | 3:03 |
 | 10 | [The Rhythm](https://open.spotify.com/track/2MYSnX6Nqld1zRjZNxYNmC) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [The Rhythm](https://open.spotify.com/album/49KprVMw2TsJ7mPOGak3s3) | 3:32 |

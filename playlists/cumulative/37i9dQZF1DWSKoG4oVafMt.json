@@ -1409,6 +1409,28 @@
     },
     {
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/7MpcVVUt61Eq66u3gj4CIY"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        },
+        {
+          "name": "Deol Harman",
+          "url": "https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137684,
+      "name": "Bande Banjo",
+      "url": "https://open.spotify.com/track/3XcS6alWOBfANFmLdm6Sah"
+    },
+    {
+      "album": {
         "name": "Bari Bari Barsi",
         "url": "https://open.spotify.com/album/6CUmGQ80qLWHs3um0uv02C"
       },
@@ -12664,7 +12686,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 180923,
       "name": "Mulaqat",
       "url": "https://open.spotify.com/track/6tAtZJCUjklHHJDTA4q8Zu"

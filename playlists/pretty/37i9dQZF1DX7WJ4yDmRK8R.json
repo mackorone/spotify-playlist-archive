@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Tokyo Ska Paradise Orchestra ",
-  "num_followers": 399688,
+  "num_followers": 399710,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,18 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+        "name": "Hang-Ups",
+        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
       },
       "artists": [
         {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+      "duration_ms": 185026,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -75,18 +75,18 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "Hang-Ups",
-        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
       },
       "artists": [
         {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
         }
       ],
-      "duration_ms": 185026,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 170546,
-      "name": "Gangsters - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5PLkbN1xEJ3KoF1tyqjpfZ"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -223,22 +207,6 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
         "name": "Goldfinger",
         "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
       },
@@ -251,6 +219,38 @@
       "duration_ms": 190800,
       "name": "Here In Your Bedroom",
       "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 170546,
+      "name": "Gangsters - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5PLkbN1xEJ3KoF1tyqjpfZ"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -283,22 +283,6 @@
       "duration_ms": 420840,
       "name": "Rock Fort Rock",
       "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 366760,
-      "name": "Too Much Too Young - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1u2bt26ipUrk4kHvcLXl6R"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -383,6 +367,22 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 366760,
+      "name": "Too Much Too Young - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1u2bt26ipUrk4kHvcLXl6R"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
         "name": "Too Much Pressure",
         "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Monkey Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
         "name": "The Beacon Street Collection",
         "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 198226,
       "name": "Total Hate '95",
       "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Monkey Man - 2015 Remaster",
+      "url": "https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
+        "name": "Too Much Too Young",
+        "url": "https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
         "name": "Reggae Greats",
         "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
-        "name": "Too Much Too Young",
-        "url": "https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Doormat",
-      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 202106,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Doormat",
+      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "Tears of a Clown",
-        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
-      },
-      "artists": [
-        {
-          "name": "The Beat",
-          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "The Tears of a Clown",
-      "url": "https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
         "name": "Ordinary Life",
         "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182256,
       "name": "Morbid Obsessions",
       "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
+        "name": "Tears of a Clown",
+        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
+      },
+      "artists": [
+        {
+          "name": "The Beat",
+          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "The Tears of a Clown",
+      "url": "https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
         "name": "Upbeats & Beatdowns",
         "url": "https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 220133,
       "name": "A Flowery Song",
       "url": "https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
+        "name": "SKA DREAM",
+        "url": "https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rosenstock",
+          "url": "https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6"
+        }
+      ],
+      "duration_ms": 158534,
+      "name": "SKrAm!",
+      "url": "https://open.spotify.com/track/5ROazJQzZ1LqD2muLOEaHy"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -1399,22 +1415,6 @@
       "duration_ms": 280293,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
-        "name": "SKA DREAM",
-        "url": "https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz"
-      },
-      "artists": [
-        {
-          "name": "Jeff Rosenstock",
-          "url": "https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6"
-        }
-      ],
-      "duration_ms": 158534,
-      "name": "SKrAm!",
-      "url": "https://open.spotify.com/track/5ROazJQzZ1LqD2muLOEaHy"
     },
     {
       "added_at": "2025-02-07 06:00:15",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-02-07 06:00:15",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/0KWBkdZl57m7EJK9AWJcxm"
-      },
-      "artists": [
-        {
-          "name": "South Central Skankers",
-          "url": "https://open.spotify.com/artist/5aehZQpUqnfjIkjRogoRiq"
-        }
-      ],
-      "duration_ms": 164092,
-      "name": "Hello Again",
-      "url": "https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA"
-    },
-    {
-      "added_at": "2025-02-07 06:00:15",
-      "album": {
         "name": "Self Care",
         "url": "https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 148938,
       "name": "A Better Home",
       "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
+    },
+    {
+      "added_at": "2025-02-07 06:00:15",
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/0KWBkdZl57m7EJK9AWJcxm"
+      },
+      "artists": [
+        {
+          "name": "South Central Skankers",
+          "url": "https://open.spotify.com/artist/5aehZQpUqnfjIkjRogoRiq"
+        }
+      ],
+      "duration_ms": 164092,
+      "name": "Hello Again",
+      "url": "https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA"
     },
     {
       "added_at": "2025-02-07 06:00:15",

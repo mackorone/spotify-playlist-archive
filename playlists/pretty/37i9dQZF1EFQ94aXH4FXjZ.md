@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 85 | [If It's All the Same to You](https://open.spotify.com/track/4YBR3xUp3dTz7VGubLSrmL) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:15 |
 | 86 | [Jody a Kid](https://open.spotify.com/track/3nbYWZ9mc1EUmJLZpzaOJZ) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:43 |
 | 87 | [Nedělní ráno \(Sunday Morning Coming Down\)](https://open.spotify.com/track/5966S2MnaKG9n5JGIM5M4j) | [Pavel Bobek](https://open.spotify.com/artist/0ulIHeEFNTdyP8VIjGjq4O) | [Vic nehledam...](https://open.spotify.com/album/1P1o9btDCuonkTdng3hPso) | 3:49 |
-| 88 | [Jesus Was a Capricorn](https://open.spotify.com/track/4M6vy3Eu9GA7LHWHTKAM9O) | [Ryan Beaver](https://open.spotify.com/artist/4eZsjzl7q47rMHUyxeOGhr) | [Rx](https://open.spotify.com/album/1iRlHm22btTPS5mIOOhu9v) | 0:58 |
-| 89 | [Anybody That Don't Like Millie Jackson](https://open.spotify.com/track/5pRtWCKLb7W59TuBXlpwqZ) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Just a Lil' Bit Country](https://open.spotify.com/album/3AQTEd13jucQFeaVVdwPQq) | 2:53 |
+| 88 | [Anybody That Don't Like Millie Jackson](https://open.spotify.com/track/5pRtWCKLb7W59TuBXlpwqZ) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Just a Lil' Bit Country](https://open.spotify.com/album/3AQTEd13jucQFeaVVdwPQq) | 2:53 |
+| 89 | [Jesus Was a Capricorn](https://open.spotify.com/track/4M6vy3Eu9GA7LHWHTKAM9O) | [Ryan Beaver](https://open.spotify.com/artist/4eZsjzl7q47rMHUyxeOGhr) | [Rx](https://open.spotify.com/album/1iRlHm22btTPS5mIOOhu9v) | 0:58 |
 | 90 | [Killer Barracuda](https://open.spotify.com/track/0LYneQx7CEmZJseZ1MlVlT) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Shake Hands With The Devil](https://open.spotify.com/album/6AKIKI8Gpfe28g0j2Z4yc7) | 3:03 |
 | 91 | [The Prisoner](https://open.spotify.com/track/4ZqzUh3qVBgzDt7RhhxJKd) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 4:24 |
 | 92 | [Easy, Come On](https://open.spotify.com/track/2aJaPE28GJpFqWiREYBUgS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:38 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 108 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 109 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AbtBtgAAAABQNJ3bXcMiFwUNeETgZB3p`
+Snapshot ID: `AbtHVgAAAAASGnl9SN8tckdRdD++63vQ`

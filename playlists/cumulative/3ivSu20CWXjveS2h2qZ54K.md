@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,515 songs - 8 day 2 hr 33 min
+3,516 songs - 8 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,6 +713,7 @@
 | [Crybaby](https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Crybaby](https://open.spotify.com/album/5Wm0HVhzfIZa0Euf4CNXv7) | 2:54 | 2024-04-26 | 2024-05-10 |
 | [Crying At The End](https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Crying At The End](https://open.spotify.com/album/0HfjuMO9Uil1LZ664lb8D9) | 1:41 | 2024-08-08 | 2024-08-20 |
 | [Crystal Breath](https://open.spotify.com/track/4YLuySkJBHaMvPtdntLH87) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Crystal Breath](https://open.spotify.com/album/1CCdbTlll95A1LYyBQyq9S) | 3:27 | 2024-08-29 | 2024-09-07 |
+| [Crème Brulée](https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Crème Brulée](https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt) | 2:59 | 2025-03-26 |  |
 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 | 2024-06-27 | 2024-07-13 |
 | [Cuando Estás Despierta](https://open.spotify.com/track/50EZDjU44VPzAEv3u8KVew) | [Belcos](https://open.spotify.com/artist/47aSAF4QGS9UfeBw9SyGvB), [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Cuando Estás Despierta](https://open.spotify.com/album/6dYFPY9tXPB1bEGY4DR9Bq) | 3:58 | 2025-01-17 | 2025-01-25 |
 | [Cuando menos lo esperabas](https://open.spotify.com/track/4ja9c34Vg5fHkMfsZEPynD) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Cuando menos lo esperabas](https://open.spotify.com/album/5Ulbqah72S7iKs2GB8CV3l) | 3:20 | 2024-12-06 | 2024-12-14 |
@@ -1184,7 +1185,7 @@
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-01-17 | 2025-01-25 |
 | [FWG](https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [FWG](https://open.spotify.com/album/0maPmRE6UjqadOPD06CfWZ) | 2:58 | 2024-10-03 | 2024-10-12 |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-28 | 2025-03-08 |
-| [GAFAS VERSACE](https://open.spotify.com/track/4nPmKDHLiaQiPcB9pmF788) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu) | [GAFAS VERSACE](https://open.spotify.com/album/7nUrFSHLW71ucsaReXKtcW) | 2:06 | 2025-03-21 |  |
+| [GAFAS VERSACE](https://open.spotify.com/track/4nPmKDHLiaQiPcB9pmF788) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Sergi El Combo](https://open.spotify.com/artist/1EYlbxHuJPGGJxlJkf9c5u) | [GAFAS VERSACE](https://open.spotify.com/album/7nUrFSHLW71ucsaReXKtcW) | 2:06 | 2025-03-21 |  |
 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 | 2024-07-12 | 2024-07-19 |
 | [Galt](https://open.spotify.com/track/7j5hpfBlM5TqY3DkXTpGq6) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Galt](https://open.spotify.com/album/23rvvEZD5sNeIV3yvZR2b7) | 3:05 | 2025-03-21 |  |
 | [Ganamos](https://open.spotify.com/track/75rRbBs3E52UMSUXbwkbzz) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Ganamos](https://open.spotify.com/album/3lsdIWYVrtuWPdp1siBohA) | 2:41 | 2024-05-24 | 2024-06-12 |

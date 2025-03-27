@@ -170,7 +170,7 @@
 | [What U Want \- Edit](https://open.spotify.com/track/6NvjuIDIoOx0LKVoiJ5VQa) | [Austin Ato](https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66) | [What U Want \(Edit\)](https://open.spotify.com/album/0RdVnHdXGvSu5MOkYbMSLG) | 3:58 | 2023-12-11 | 2024-05-16 |
 | [Y6Y9](https://open.spotify.com/track/5vK6q2ezSUYIfxR9OXBlDM) | [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6) | [EN\-GIRO](https://open.spotify.com/album/6wraJpj5A19P6paIdaK1IJ) | 5:45 | 2024-10-24 |  |
 | [Yeah Yeah Yeah Yeah](https://open.spotify.com/track/0DCYkiHRSlVMHLc2zuFRnl) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Catching Wild, Pt\. 2](https://open.spotify.com/album/2FzLU9ux79YhiEBiAftdE2) | 5:30 | 2024-07-03 | 2024-08-09 |
-| [Yo Yo Get Funky \- Andre Zimmer Remix](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky \(Andre Zimmer Remix\)](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 | 2024-05-15 |  |
+| [Yo Yo Get Funky](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 | 2024-05-15 |  |
 | [Your Rolling Hills](https://open.spotify.com/track/0AmMB9IZyvBSn0wy8g7aUW) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97) | [Compost Black Label \#14](https://open.spotify.com/album/4oxkaYrOOZh6b3OTGFo6n4) | 4:25 | 2024-08-08 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

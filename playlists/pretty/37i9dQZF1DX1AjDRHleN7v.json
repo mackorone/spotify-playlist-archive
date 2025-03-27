@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 369392,
+  "num_followers": 369451,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,26 @@
     {
       "added_at": "2025-03-23 18:13:48",
       "album": {
+        "name": "Aeroporto (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Aeroporto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG"
+    },
+    {
+      "added_at": "2025-03-23 18:13:48",
+      "album": {
         "name": "Brisa Positiva",
         "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 158293,
       "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
       "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2025-03-23 18:13:48",
-      "album": {
-        "name": "Entre Borboletas e Avi\u00f5es",
-        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 207808,
-      "name": "Rede no Coqueiro",
-      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
     },
     {
       "added_at": "2025-03-23 18:13:48",
@@ -643,8 +643,8 @@
     {
       "added_at": "2025-03-23 18:13:48",
       "album": {
-        "name": "Aeroporto (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
+        "name": "Entre Borboletas e Avi\u00f5es",
+        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
       "artists": [
         {
@@ -652,13 +652,13 @@
           "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
         },
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
         }
       ],
-      "duration_ms": 220147,
-      "name": "Aeroporto - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG"
+      "duration_ms": 207808,
+      "name": "Rede no Coqueiro",
+      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
     },
     {
       "added_at": "2025-03-23 18:13:48",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2025-03-23 18:13:48",
       "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Na minha cabe\u00e7a",
+      "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
+    },
+    {
+      "added_at": "2025-03-23 18:13:48",
+      "album": {
         "name": "Vagabundo Dorme Sujo, Surfista Dorme Salgado",
         "url": "https://open.spotify.com/album/6J31O0Czw0DdoGjc3Ladlu"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 223069,
       "name": "Quanto Pesa",
       "url": "https://open.spotify.com/track/7mu58r9s9WcL2uRvTqvUmk"
-    },
-    {
-      "added_at": "2025-03-23 18:13:48",
-      "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Na minha cabe\u00e7a",
-      "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
     }
   ],
   "unique_name": "Praiana",

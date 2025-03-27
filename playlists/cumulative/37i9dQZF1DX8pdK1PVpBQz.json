@@ -49237,6 +49237,24 @@
     },
     {
       "album": {
+        "name": "Place Where I Go",
+        "url": "https://open.spotify.com/album/5AW3X0hzbgB10tZVgk6YMk"
+      },
+      "artists": [
+        {
+          "name": "Keanu Nelson",
+          "url": "https://open.spotify.com/artist/0TUcASMdcppH9mH0PzCpKG"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216340,
+      "name": "Place Where I Go",
+      "url": "https://open.spotify.com/track/1ivMAc4gwF8d9mEXFHYcbz"
+    },
+    {
+      "album": {
         "name": "Codec Tweak/Plaid",
         "url": "https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux"
       },
@@ -56930,7 +56948,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 220559,
       "name": "Slipstream",
       "url": "https://open.spotify.com/track/2SYlbxmIgCrSikbiwE9KUS"

@@ -4,7 +4,7 @@
 
 > featuring new materiaL from horsegiirL
 
-2,262 songs - 4 day 7 hr 1 min
+2,263 songs - 4 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1729,7 +1729,7 @@
 | [scorn](https://open.spotify.com/track/1DebtzEf3yvPC7qT5T3amB) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [scorn](https://open.spotify.com/album/27tkHrrk30C6GRZ2KX46Ij) | 2:01 | 2023-11-17 | 2024-01-23 |
 | [scorpion](https://open.spotify.com/track/5JomM1MOkgDEjvxO2hoCL8) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [insignia's manor](https://open.spotify.com/album/4cGpcf400VAqKAIBeFeB9a) | 1:45 | 2021-10-14 | 2022-02-24 |
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2021-10-06 | 2022-02-24 |
-| [search & destroy](https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [search & destroy](https://open.spotify.com/album/2740XBFuln7su35UWo3Awz) | 1:57 | 2024-09-16 |  |
+| [search & destroy](https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [search & destroy](https://open.spotify.com/album/2740XBFuln7su35UWo3Awz) | 1:57 | 2024-09-16 | 2025-03-27 |
 | [search party](https://open.spotify.com/track/4tYZQrEofMKE2XQ4pqCNLC) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [search party](https://open.spotify.com/album/7Manv4fQi6ewZTLpDIvEyK) | 4:58 | 2021-10-20 | 2022-01-13 |
 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 | 2021-03-26 | 2023-02-18 |
 | [Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Secret](https://open.spotify.com/album/4vAQSA1y2nD8O5Y20aJIzI) | 3:41 | 2024-10-11 |  |
@@ -2239,6 +2239,7 @@
 | [xtc](https://open.spotify.com/track/73N29v5tx5HgLrTh3u2AX8) | [Boy Virgo](https://open.spotify.com/artist/6qOXLXKu3ULLCLb9bqqVSM), [Baby Brat](https://open.spotify.com/artist/60JmfA2GmW0TxOzsZgjITw) | [xtc](https://open.spotify.com/album/6Rj5EonDXw6qthEUuFKL51) | 2:36 | 2022-04-08 | 2022-05-07 |
 | [xXXi\_wud\_nvrstøp\_ÜXXx](https://open.spotify.com/track/7vaFuClNKe02pjKYbXEJ46) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:54 | 2021-10-16 | 2021-10-21 |
 | [xXXi\_wud\_nvrstøp\_ÜXXx \(Remix\) \[feat\. Tommy Cash & Hannah Diamond\]](https://open.spotify.com/track/3bz4WlzYw6XatcaTIh0zGX) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 4:31 | 2020-10-13\* | 2020-10-16 |
+| [Xxxx pt 2](https://open.spotify.com/track/529lUcL9tLXXCsdI3yPM3O) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [Xxxx pt 2](https://open.spotify.com/album/7qoiIPsmyDpPpMdZkhOwqT) | 2:07 | 2025-03-26 |  |
 | [Yameii Vs\. The World](https://open.spotify.com/track/2DcbKbERz9dTe4pYNqgbaC) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Friday Night Basement, Vol\. 1](https://open.spotify.com/album/5s6CTwlOCnEQUgkfBl4UCQ) | 1:39 | 2021-07-18 | 2022-01-13 |
 | [Yeah Right](https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Big Fish Theory](https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS) | 3:08 | 2021-02-10 | 2021-02-26 |
 | [yellow patches](https://open.spotify.com/track/6yHdpcPQnbjagFjz8wVTYq) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Giant Claw](https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [yellow patches](https://open.spotify.com/album/4Abhnyu7vS2zAxOkZJvonh) | 3:44 | 2024-03-08 | 2024-08-17 |

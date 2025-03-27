@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: James Hype
 
-288 songs - 15 hr 7 min
+289 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-28 |  |
 | [Lift You Up](https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lift You Up](https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya) | 3:47 | 2024-07-06 |  |
 | [Light Up](https://open.spotify.com/track/6oNKYD0W4Kz5VUdQr0VA3L) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [PEAK](https://open.spotify.com/artist/5aZS5mYElPO6PvcIotNGfq), [Revay](https://open.spotify.com/artist/0qe0hilrHveQQyTOf6v9E7) | [Light Up](https://open.spotify.com/album/1J8nT1LbpVlEn1QketnLhg) | 2:04 | 2024-09-20 |  |
+| [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-03-26 |  |
 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 | 2024-06-07 |  |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-10-27 | 2025-02-04 |
 | [Look At My Body Pt\. II \(Feat\. Shygirl\) \(INJI's Version\)](https://open.spotify.com/track/48BrwE2MttRwOTKL2Ph2Pe) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Avedon](https://open.spotify.com/artist/0wrXBaqXLjMAraipqAbPVY) | [Look At My Body Pt\. II \(Feat\. Shygirl\) \(INJI's Version\)](https://open.spotify.com/album/0XipBibG5KNqItsp4Q7sSA) | 2:57 | 2024-06-14 |  |

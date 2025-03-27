@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: CARO WOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,505 likes - 112 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,518 likes - 112 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

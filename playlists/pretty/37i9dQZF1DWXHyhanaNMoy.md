@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Kleine John
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,863 likes - 69 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,866 likes - 69 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

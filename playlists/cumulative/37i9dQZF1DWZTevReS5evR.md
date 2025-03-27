@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-248 songs - 15 hr 12 min
+249 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 | 2023-03-24 | 2023-07-14 |
 | [Wishing We Were More Than Friends](https://open.spotify.com/track/3b0aSCJTi6UcnEXcIWX6Vp) | [push baby](https://open.spotify.com/artist/42TwJzIZt9eGsG1njt7wET) | [Wow, Big Legend](https://open.spotify.com/album/5bBq0I7swjttY0Sh5HgfYn) | 2:57 | 2023-03-24 | 2023-05-05 |
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-04-25 |  |
+| [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-03-26 |  |
 | [은방울 Lily of The Valley](https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [꽃 Flower](https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx) | 4:57 | 2023-03-24 | 2023-08-30 |
 
 \*This playlist was first scraped on 2023-03-26. Prior content cannot be recovered.

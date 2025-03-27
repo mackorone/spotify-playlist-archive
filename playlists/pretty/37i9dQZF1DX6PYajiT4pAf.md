@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Delaossa, Omar Montes x Dei V, Ozuna, Lia Kali y más novedades importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,904 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,959 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 39 | [Ruido](https://open.spotify.com/track/2VX0YOWQJjxVCHhPgnVCTG) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ruido](https://open.spotify.com/album/2YWYMfGYMjhpAAbcTgsZTt) | 3:44 |
 | 40 | [El Precio de la Fama](https://open.spotify.com/track/2xvHcesGZvLk3bMXZOM0Dd) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Carlytos Vela](https://open.spotify.com/artist/3nJOyieo1oaoXkoQU3QClT) | [El Precio de la Fama](https://open.spotify.com/album/6MEW2g6NRIIoFBQf0PtvMo) | 3:31 |
 | 41 | [RAPSINCORTE 52](https://open.spotify.com/track/3Z71w98ZzC2ff5Pe0deXxc) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [RAPSINCORTE 52](https://open.spotify.com/album/19xUkxCFDjvmYSJ6BcZIbD) | 1:31 |
-| 42 | [GAFAS VERSACE](https://open.spotify.com/track/4nPmKDHLiaQiPcB9pmF788) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu) | [GAFAS VERSACE](https://open.spotify.com/album/7nUrFSHLW71ucsaReXKtcW) | 2:06 |
+| 42 | [GAFAS VERSACE](https://open.spotify.com/track/4nPmKDHLiaQiPcB9pmF788) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Sergi El Combo](https://open.spotify.com/artist/1EYlbxHuJPGGJxlJkf9c5u) | [GAFAS VERSACE](https://open.spotify.com/album/7nUrFSHLW71ucsaReXKtcW) | 2:06 |
 | 43 | [DAMN BONITA](https://open.spotify.com/track/7AyRsS6ZKyDWUnbo0sEgBQ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [PRETTY BITCH HEARTBREAK](https://open.spotify.com/album/00yxQQK9tgWI9DSyQjJMWg) | 2:23 |
 | 44 | [Pa La Calle](https://open.spotify.com/track/4h1u8CqTrUwTNhGY3drzOz) | [LaBlackie](https://open.spotify.com/artist/7Mnggi1j35OsqH4Gkf3AZG) | [Pa La Calle](https://open.spotify.com/album/1dDbrIwz6s5aehs011BCU2) | 1:43 |
 | 45 | [Los Tiguerones También Lloran](https://open.spotify.com/track/6ZRdZcMAfc9ruSBOIdY7gM) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Chicho Severino](https://open.spotify.com/artist/1wTD4g0RwsDBhGj16YQJeu) | [Los Tiguerones También Lloran](https://open.spotify.com/album/0gLjcmGeWgbwdhmByUXdxH) | 2:27 |

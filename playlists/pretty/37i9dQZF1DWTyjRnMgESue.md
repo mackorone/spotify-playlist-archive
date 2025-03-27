@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Sydney Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,901 likes - 87 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,930 likes - 87 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

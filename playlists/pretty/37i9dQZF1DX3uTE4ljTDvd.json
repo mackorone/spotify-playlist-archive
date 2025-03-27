@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Alexsander Lucio",
-  "num_followers": 127695,
+  "num_followers": 127727,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
+        "name": "Ter Paz",
+        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
+      },
+      "artists": [
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        }
+      ],
+      "duration_ms": 285660,
+      "name": "Ter Paz",
+      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 341333,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "Ter Paz",
-        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 285660,
-      "name": "Ter Paz",
-      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Tomadon",
-          "url": "https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl"
-        }
-      ],
-      "duration_ms": 294918,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Daqui N\u00e3o Saio",
         "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 558500,
       "name": "Daqui N\u00e3o Saio",
       "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Tomadon",
+          "url": "https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl"
+        }
+      ],
+      "duration_ms": 294918,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -763,18 +763,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Sua Vida Em Mim",
-        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
+        "name": "Descansa em Mim",
+        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
       "artists": [
         {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+          "name": "Pablo Canalis",
+          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
+        },
+        {
+          "name": "Do Nosso Canto",
+          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
         }
       ],
-      "duration_ms": 330000,
-      "name": "Sua Vida Em Mim",
-      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
+      "duration_ms": 305000,
+      "name": "Descansa em Mim",
+      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -795,22 +799,18 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Descansa em Mim",
-        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
+        "name": "Sua Vida Em Mim",
+        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
       },
       "artists": [
         {
-          "name": "Pablo Canalis",
-          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
-        },
-        {
-          "name": "Do Nosso Canto",
-          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Descansa em Mim",
-      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+      "duration_ms": 330000,
+      "name": "Sua Vida Em Mim",
+      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Tu Me Fascinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
-      },
-      "artists": [
-        {
-          "name": "Mariana Vieira",
-          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
-        }
-      ],
-      "duration_ms": 283235,
-      "name": "Tu Me Fascinas - Ao Vivo",
-      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Vida Boa",
         "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 283947,
       "name": "Vida Boa",
       "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Tu Me Fascinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vieira",
+          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
+        }
+      ],
+      "duration_ms": 283235,
+      "name": "Tu Me Fascinas - Ao Vivo",
+      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
     },
     {
       "added_at": "2025-01-10 03:01:06",

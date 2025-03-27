@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jimmy Butler and Andrew Wiggins
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Bam Adebayo
 
 792 songs - 1 day 16 hr 47 min
 

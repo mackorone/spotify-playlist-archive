@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, James Cleveland, Tori Kelly and more
+> With Sunday Service Choir, Terrell Grice, James Cleveland and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 239 likes - 50 songs - 4 hr 4 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Holy Is The Lamb](https://open.spotify.com/track/314gW9paIqnhLx9ajEGwj8) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Come Walk With Me](https://open.spotify.com/album/4C0ByaAwvVtouMqWs5MRaq) | 4:39 |
 | 50 | [Are You Listening](https://open.spotify.com/track/0OuZaOqeo8ZW6gauO6SBsp) | [Kirk Franklin Presents Artists United For Haiti](https://open.spotify.com/artist/1O6Dsp61rF0wJRebkppsC2) | [Are You Listening](https://open.spotify.com/album/2LF3cDRJagimXJ9Wuwkro0) | 4:37 |
 
-Snapshot ID: `Z+NrlAAAAABZjOIIOkQMnBrkni1DjQ+G`
+Snapshot ID: `Z+S9IgAAAADlwx55lAA/XHZOjyNQQiPv`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-479 songs - 22 hr 48 min
+481 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Debaixo do Tapete \- Ao Vivo](https://open.spotify.com/track/7EkzkUtPhDccwXLzrhdCb7) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Resenha \(ao Vivo\)](https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv) | 2:47 | 2024-01-29 |  |
 | [Deixa em Off \- Ao Vivo](https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Turma do Pagode XV Anos \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq) | 2:53 | 2024-02-02 |  |
 | [Deixa em Off \- XV Anos Ao Vivo](https://open.spotify.com/track/3zQeFbC3qb9s7MkUvwGoJr) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Deixa em Off \(XV Anos Ao Vivo\)](https://open.spotify.com/album/4yrb4O59zn2BQdk3MQwIEv) | 2:52 | 2024-01-29 | 2024-02-02 |
-| [Deixa Ir](https://open.spotify.com/track/7azEIGsP1565VMeJXzunVH) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/2Ng3hFcV0NzZixOLu0dvav) | 2:32 | 2024-01-29 |  |
+| [Deixa Ir](https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5) | 2:32 | 2025-03-26 |  |
+| [Deixa Ir](https://open.spotify.com/track/7azEIGsP1565VMeJXzunVH) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/2Ng3hFcV0NzZixOLu0dvav) | 2:32 | 2024-01-29 | 2025-03-27 |
 | [Depois Que Virou Meu Ex](https://open.spotify.com/track/1oXWc7kZJYlIbNNGqE2sMb) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Problemão](https://open.spotify.com/album/7GrORnwPrNSWqhlMulKxW7) | 2:16 | 2025-01-09 |  |
 | [Desapegadim \(Tim Tim\)](https://open.spotify.com/track/6PKsGQCw58kixM8G5FkBUH) | [Ricardo e João Fernando](https://open.spotify.com/artist/150zwD7rTVIEK5wO25gYez) | [Desapegadim \(Tim Tim\)](https://open.spotify.com/album/7v7vg01DqulZ22600B8z3q) | 2:38 | 2024-01-29 |  |
 | [Desliga o 4G](https://open.spotify.com/track/1R5R9bmARvU61lq6wubMUx) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Desliga o 4G](https://open.spotify.com/album/2xdYgBmo25C5qG4IKC7LA8) | 2:10 | 2024-01-29 |  |
@@ -482,7 +483,8 @@
 | [Vontade De Morder](https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Vontade De Morder](https://open.spotify.com/album/7Iah8z9NOyOa6WUe0J22I1) | 2:34 | 2024-01-29 |  |
 | [Vovó e Vovô \- Ao Vivo](https://open.spotify.com/track/4ncJihAkNvx4w5KscrxDbF) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/15xpWd7MpVbVtDsywlPgZC) | 2:50 | 2024-08-18 |  |
 | [Vovó E Vovô \- Ao Vivo](https://open.spotify.com/track/4njbaMU8u5EUgsAplKcQvU) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo \- Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:50 | 2024-01-29 | 2024-08-19 |
-| [Xeque Mate](https://open.spotify.com/track/2ogfsVtMBgPhRcRR9C5Whq) | [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Xeque Mate](https://open.spotify.com/album/5shXhBw91IjTMPTyEL7gbG) | 2:18 | 2024-01-29 |  |
+| [Xeque Mate](https://open.spotify.com/track/2Fmdo91LokRQXBHQ7EvkAa) | [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Xeque Mate](https://open.spotify.com/album/3BHE5VHhmN7lChLML5hJ91) | 2:18 | 2025-03-26 |  |
+| [Xeque Mate](https://open.spotify.com/track/2ogfsVtMBgPhRcRR9C5Whq) | [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Xeque Mate](https://open.spotify.com/album/5shXhBw91IjTMPTyEL7gbG) | 2:18 | 2024-01-29 | 2025-03-27 |
 | [XIU \(Ao Vivo\)](https://open.spotify.com/track/3rPhs1KenxPSvob0spJ3jT) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:40 | 2024-01-29 |  |
 | [Água na Boca](https://open.spotify.com/track/5VGIMfnMwloQ4oGN1oDFXn) | [Carlito Gomes](https://open.spotify.com/artist/7hyhcEL9wuINMTpglufzf1) | [Cachaceira](https://open.spotify.com/album/6pq5vEnY3q3phGgllEzwkm) | 3:13 | 2024-01-29 |  |
 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/20idojjfvMehPvvljK40XJ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Áudio \(Ao Vivo em Brasília\)](https://open.spotify.com/album/5JJk2Tkdn1qizcO1bNrwPc) | 3:07 | 2024-01-30 | 2024-02-01 |

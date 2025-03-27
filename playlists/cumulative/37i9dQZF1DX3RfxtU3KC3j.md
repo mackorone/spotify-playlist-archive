@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Can Baydar x Teoman
 
-260 songs - 15 hr 22 min
+261 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [ESERDİN TENİMDE](https://open.spotify.com/track/3pK21lsBmOGbYKZk6LRDpr) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [ESERDİN TENİMDE](https://open.spotify.com/album/0hwNEUkW4Xs5ngaRoGEGYm) | 2:21 | 2024-06-28 | 2025-01-10 |
 | [Eteklerim Köpeklerim](https://open.spotify.com/track/4TzlwybUhX9LmvmXUIa6rd) | [Kıvılcım Ural](https://open.spotify.com/artist/6ZLqqEyXfQLMPixZtIO40b) | [Eteklerim Köpeklerim](https://open.spotify.com/album/6dqHO1DpXm7IHj7x8xhTCm) | 2:44 | 2024-11-07 | 2024-12-13 |
 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 | 2024-09-04 | 2024-09-27 |
+| [Eyvallah](https://open.spotify.com/track/5kerT482x2Om29dA7s0RYO) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Darmaduman](https://open.spotify.com/album/6MrE8aTkCV6xuSnVCRJ1Wz) | 4:49 | 2025-03-26 |  |
 | [Farklı Son](https://open.spotify.com/track/5M223VY30mtUPOcKwA30Qt) | [13\. Vagon](https://open.spotify.com/artist/5Qe6lA9TYMdFBUQIi0Gm0I) | [Farklı Son](https://open.spotify.com/album/5RY7aUCkfmv5HGun7JSdDl) | 2:10 | 2024-07-18 | 2024-08-09 |
 | [Fotoğraf](https://open.spotify.com/track/6V2ynLD5GO4zxMr7CYhUeA) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Fotoğraf](https://open.spotify.com/album/7o9tKQM1GCYxiYVt79FRiF) | 2:37 | 2024-12-12 | 2025-01-17 |
 | [Gecenin En Güzeli](https://open.spotify.com/track/4siCOv70WIGB1EuMrLyIZO) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Gecenin En Güzeli](https://open.spotify.com/album/5sEPycIdKlDyklOgFPnuem) | 3:55 | 2024-06-28 |  |
@@ -192,7 +193,7 @@
 | [Seni Yenicem Hayat](https://open.spotify.com/track/1nWdqC8cX8FAc2jNTmALKY) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Seni Yenicem Hayat](https://open.spotify.com/album/5gZy8C2XJBFxy7WqjL897y) | 4:08 | 2024-11-07 |  |
 | [Senin Yüzünden](https://open.spotify.com/track/6uR2FFnUKpfx7VHwhdlLKS) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Senin Yüzünden](https://open.spotify.com/album/5y375cJQNBVkAbrSigW9Sg) | 3:06 | 2025-03-20 |  |
 | [Serzenişte](https://open.spotify.com/track/2769e3EfBMnc1wmtbu5ubo) | [Vega](https://open.spotify.com/artist/5KrXBHAY7uhALwg4SPz9F8) | [Hafif Müzik](https://open.spotify.com/album/0kynB1IJW193AzHOFNOa5l) | 4:50 | 2024-10-22 |  |
-| [Ses Ver](https://open.spotify.com/track/3d317ORpL5gxioLwsBd0KL) | [Necati ve Saykolar](https://open.spotify.com/artist/7FcuvAno2oJYKcbRHpSTZu), [Erci E](https://open.spotify.com/artist/5Bd0FpVRSXZVGg1iLhYD3O) | [Ses Ver](https://open.spotify.com/album/7umOtHVpDEi0OwDIsd0fFI) | 3:00 | 2025-03-13 |  |
+| [Ses Ver](https://open.spotify.com/track/3d317ORpL5gxioLwsBd0KL) | [Necati ve Saykolar](https://open.spotify.com/artist/7FcuvAno2oJYKcbRHpSTZu), [Erci E](https://open.spotify.com/artist/5Bd0FpVRSXZVGg1iLhYD3O) | [Ses Ver](https://open.spotify.com/album/7umOtHVpDEi0OwDIsd0fFI) | 3:00 | 2025-03-13 | 2025-03-27 |
 | [Sev Beni](https://open.spotify.com/track/1mvvjz5T7vNCMu3qqLAOs1) | [Hedonutopia](https://open.spotify.com/artist/1NyTJce3BbQslEhW8uWPc5) | [Yakamoz Sandalı](https://open.spotify.com/album/5x6wBXewW7QERw2lrMCnSh) | 4:59 | 2024-10-22 | 2024-11-22 |
 | [Sevince](https://open.spotify.com/track/0TvXQc11qR3FF2iPJx994Q) | [Anıl Şallıel](https://open.spotify.com/artist/7wNfIZCBLC3oT0b9a7qcir), [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sevince](https://open.spotify.com/album/0qCCql5IbEuAB9m31eiFsB) | 3:06 | 2024-06-28 | 2024-12-13 |
 | [Sevme](https://open.spotify.com/track/4oGecQuYpeIQH7cOGRURkG) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Sevme](https://open.spotify.com/album/4obQjM8HLb2oEtXYd3yegb) | 2:21 | 2024-06-28 | 2024-09-13 |

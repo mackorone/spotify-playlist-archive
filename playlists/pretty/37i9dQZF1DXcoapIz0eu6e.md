@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 
 > The world is a stage\. Listen to the music from Joker and Joker: Folie à Deux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,107 likes - 81 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,109 likes - 81 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 | 4 | [World On A String](https://open.spotify.com/track/1CmyFUdrzcI2TldyJzOHSb) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 2:37 |
 | 5 | [If My Friends Could See Me Now](https://open.spotify.com/track/0I27tCo8rexgdYnhkSaL7k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 2:41 |
 | 6 | [That's Entertainment](https://open.spotify.com/track/2zOSxEAk90JTKYNHqE8LXc) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:09 |
-| 7 | [sMILE](https://open.spotify.com/track/38ILZqA8DlkbKfjosEDSb1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 3:38 |
+| 7 | [Smile](https://open.spotify.com/track/38ILZqA8DlkbKfjosEDSb1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 3:38 |
 | 8 | [The Joker](https://open.spotify.com/track/5zZoEDawAlJNgUzxknlV9V) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 2:54 |
 | 9 | [Folie à Deux](https://open.spotify.com/track/1ud0FiEQLVIDlWEqDIEvwW) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 2:58 |
 | 10 | [Gonna Build A Mountain](https://open.spotify.com/track/2KniNOsSdTc2XUewjfoRyF) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 2:51 |

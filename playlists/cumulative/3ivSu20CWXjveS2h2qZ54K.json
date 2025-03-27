@@ -13595,6 +13595,24 @@
     },
     {
       "album": {
+        "name": "Cr\u00e8me Brul\u00e9e",
+        "url": "https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt"
+      },
+      "artists": [
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179045,
+      "name": "Cr\u00e8me Brul\u00e9e",
+      "url": "https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC"
+    },
+    {
+      "album": {
         "name": "Cuando acabe el verano",
         "url": "https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW"
       },
@@ -22608,6 +22626,10 @@
         {
           "name": "Albany",
           "url": "https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu"
+        },
+        {
+          "name": "Sergi El Combo",
+          "url": "https://open.spotify.com/artist/1EYlbxHuJPGGJxlJkf9c5u"
         }
       ],
       "date_added": "2025-03-21",

@@ -905,6 +905,28 @@
     },
     {
       "album": {
+        "name": "ALLNIGHT",
+        "url": "https://open.spotify.com/album/1Hb96CttJEa2Il3LVUw7by"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        },
+        {
+          "name": "Guy Arthur",
+          "url": "https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "ALLNIGHT",
+      "url": "https://open.spotify.com/track/3RtcmXL01TskCmEZ1He2rB"
+    },
+    {
+      "album": {
         "name": "Almost 3am / 4am",
         "url": "https://open.spotify.com/album/7imIuXGdsrD3pXy9pFoIq7"
       },

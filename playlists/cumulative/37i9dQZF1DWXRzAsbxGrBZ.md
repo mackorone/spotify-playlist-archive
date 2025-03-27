@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-251 songs - 1 day 4 hr 58 min
+252 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Roots](https://open.spotify.com/track/3TbGj9hbpWLKJgvKGDATKf) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Roots](https://open.spotify.com/album/30x3AKPB2ObI21cIZwBvUK) | 5:04 | 2025-02-21 |  |
 | [S'khanyisele](https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Sir Bless](https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m) | [Thief In The Night](https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b) | 6:15 | 2022-09-14 | 2023-03-25 |
 | [Safari \- Original Mix](https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Safari](https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj) | 6:08 | 2022-09-14 | 2023-03-25 |
-| [Saka Nyuka](https://open.spotify.com/track/5NRTfbbrkyIJ7UKsMgrbS2) | [Soulfreakah](https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn), [Ezra](https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ) | [Reflexions Of Soul](https://open.spotify.com/album/6QUUeLGanYjk0ucVFV8O5k) | 7:36 | 2025-03-20 |  |
+| [Saka Nyuka](https://open.spotify.com/track/5NRTfbbrkyIJ7UKsMgrbS2) | [Soulfreakah](https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn), [Ezra](https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ) | [Reflexions Of Soul](https://open.spotify.com/album/6QUUeLGanYjk0ucVFV8O5k) | 7:36 | 2025-03-20 | 2025-03-27 |
 | [Sandcastle \- Sir LSG & The Bless Radio Edit](https://open.spotify.com/track/7wkPyS0jyJUEqxuxfuppFh) | [Sir LSG](https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5) | [Sandcastle \(Remixes\)](https://open.spotify.com/album/0OMsO7ck4mM05y1joUjI4k) | 4:22 | 2024-05-16 | 2024-05-23 |
 | [Santa Fe](https://open.spotify.com/track/3BGR4pjUMMZlc6gK2iZu00) | [Biko King](https://open.spotify.com/artist/4c65PT6IbqRhW1wNLhjbEj), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Jus Garden](https://open.spotify.com/artist/1Vv54QoRgcfMdGiQGd19lx) | [Lost in Rhythmic Echoes](https://open.spotify.com/album/2eW9TRzI9KuFK0ndmLNxSp) | 7:43 | 2025-03-07 |  |
 | [Sarhalel \- Ed\-Ward Remix](https://open.spotify.com/track/0RAXgMtZEM2KFwbsVqFCYU) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ed\-Ward, Intr0beatz & Jonny Miller Remixes](https://open.spotify.com/album/35EzfNv7BipGFSlUFlZbQX) | 6:10 | 2022-09-29 | 2023-03-18 |
@@ -203,6 +203,7 @@
 | [Sensitive \(feat\. Lily McKenzie\)](https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Emotions](https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA) | 3:40 | 2024-06-13 | 2025-03-08 |
 | [Seventeen](https://open.spotify.com/track/0pFoLE5PMOwP3pGEcxTiap) | [D.General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Rebirth](https://open.spotify.com/album/6EmeH4g6wfJdrs8UsgpmRe) | 6:50 | 2025-02-27 |  |
 | [She's On Fire](https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1) | [She's On Fire](https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS) | 6:42 | 2022-09-14 | 2023-05-13 |
+| [Shifted Blame](https://open.spotify.com/track/7Cibk0qF9vFYo9GWXnCt0j) | [D.General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq), [V.Underground](https://open.spotify.com/artist/4OuzOxUUiPZBhHWyYqTPRq) | [Rebirth](https://open.spotify.com/album/6EmeH4g6wfJdrs8UsgpmRe) | 7:41 | 2025-03-20 |  |
 | [Signs](https://open.spotify.com/track/0WLa7Q0oy1MftXRRfDVnMK) | [Abyss \(Giuseppe Morabito\)](https://open.spotify.com/artist/0tIjbzsH79MTlMHrimk9SB), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Signs](https://open.spotify.com/album/5GuOUlz4kPJxWmKFcCz3B9) | 3:18 | 2024-04-12 | 2024-06-14 |
 | [So Long](https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Aquatone](https://open.spotify.com/artist/657ZCz2bARTZsq9YXVjh3R) | [So Long](https://open.spotify.com/album/62iaygApaNNVrYyU7Xck2R) | 6:24 | 2024-05-03 |  |
 | [Solidarity](https://open.spotify.com/track/4G7KOUK2WuiGNRArzcFeDU) | [Senzo C](https://open.spotify.com/artist/00rQpaR5oh9jwZlyGMB0yA) | [Solidarity](https://open.spotify.com/album/0kkXWIhomnQLgmgbCgVu9s) | 7:36 | 2023-05-12 | 2023-07-24 |

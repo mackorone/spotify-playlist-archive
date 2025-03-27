@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: Myst, Might, Mayhem(\uad34\ub825\ub09c\uc2e0)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 102431,
+  "num_followers": 102433,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
+        "name": "True Love (Secret Relationships X LEECHANGSUB)",
+        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
         "name": "LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7DbEJaAcgnbnYEEbX4A9OO"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 257519,
       "name": "LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/382vwoXF6ksNuaPbMYiQy6"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
-        "name": "True Love (Secret Relationships X LEECHANGSUB)",
-        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Fox Rain (The Moon during the Day)",
-        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "Fox Rain (The Moon during the Day)",
-      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
         "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 207760,
       "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
       "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Fox Rain (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "Fox Rain (The Moon during the Day)",
+      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "After (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
         "url": "https://open.spotify.com/album/2yqqSjGCHVJrYmG3ZtY27I"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 225320,
       "name": "After",
       "url": "https://open.spotify.com/track/4mpL2RaLqcAuxQCJ3K0VMM"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4aiCefbVcnbq90DAWD1O3W"
-      },
-      "artists": [
-        {
-          "name": "paulkyte",
-          "url": "https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x"
-        }
-      ],
-      "duration_ms": 240705,
-      "name": "Hollow Wood",
-      "url": "https://open.spotify.com/track/1vJ9O7pcabPA2q6kze1pAH"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "Lee Doona Project Part 2",
         "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 286013,
       "name": "Only you (The Moon during the Day X GB9)",
       "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4aiCefbVcnbq90DAWD1O3W"
+      },
+      "artists": [
+        {
+          "name": "paulkyte",
+          "url": "https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x"
+        }
+      ],
+      "duration_ms": 240705,
+      "name": "Hollow Wood",
+      "url": "https://open.spotify.com/track/1vJ9O7pcabPA2q6kze1pAH"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Naver webtoon 'Love Revolution' (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh"
-      },
-      "artists": [
-        {
-          "name": "Oisobagi",
-          "url": "https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5"
-        }
-      ],
-      "duration_ms": 256314,
-      "name": "I Like You, But Got Tired of Liking You",
-      "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
         "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 203253,
       "name": "Only you (Romance 101 X Yang Yo Seop)",
       "url": "https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Naver webtoon 'Love Revolution' (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh"
+      },
+      "artists": [
+        {
+          "name": "Oisobagi",
+          "url": "https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "I Like You, But Got Tired of Liking You",
+      "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "Meeting (The Moon during the Day) [2023 Remake]",
-        "url": "https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Meeting (The Moon during the Day) [2023 Remake]",
-      "url": "https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
         "url": "https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 233647,
       "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
       "url": "https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "Meeting (The Moon during the Day) [2023 Remake]",
+        "url": "https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Meeting (The Moon during the Day) [2023 Remake]",
+      "url": "https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq"
     },
     {
       "added_at": "2025-02-17 08:25:33",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-02-17 08:25:33",
       "album": {
-        "name": "The One And Only You (The Moon during the Day X SANDEUL)",
-        "url": "https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "The One And Only You (The Moon during the Day X SANDEUL)",
-      "url": "https://open.spotify.com/track/1AmPwrfNriJEukByD7Qpg5"
-    },
-    {
-      "added_at": "2025-02-17 08:25:33",
-      "album": {
         "name": "Dear You (She is My Type\u2661 X Standing Egg)",
         "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 185533,
       "name": "Dear You (She is My Type\u2661 X Standing Egg)",
       "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
+    },
+    {
+      "added_at": "2025-02-17 08:25:33",
+      "album": {
+        "name": "The One And Only You (The Moon during the Day X SANDEUL)",
+        "url": "https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "The One And Only You (The Moon during the Day X SANDEUL)",
+      "url": "https://open.spotify.com/track/1AmPwrfNriJEukByD7Qpg5"
     },
     {
       "added_at": "2025-02-17 08:25:33",

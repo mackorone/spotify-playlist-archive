@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-252 songs - 21 hr 30 min
+253 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Destiny](https://open.spotify.com/track/222opzC3cyboeyO6KrK6L7) | [Monsieur Warradi](https://open.spotify.com/artist/5gARJT3niBXARYHtHWB1eA) | [Destiny](https://open.spotify.com/album/2wwDX8cXpomw1eEiQk2cPU) | 4:56 | 2022-07-05 | 2022-07-29 |
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-08-25 |  |
 | [Dimension](https://open.spotify.com/track/0pW2QctYRtN7crHRcGYaxy) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Dimension](https://open.spotify.com/album/4gsbBzVgdrPwfK84vlLluJ) | 5:55 | 2022-12-16 | 2023-02-13 |
-| [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 | 2024-11-22 |  |
+| [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 | 2024-11-22 | 2025-03-27 |
 | [Dirty Dicer \- Hk:22 Remix](https://open.spotify.com/track/5iiw4eOqKAhOygedGT2zqr) | [Rachel Raw](https://open.spotify.com/artist/2oCsW72XwqwBxv1NMUeaqv), [HK:22](https://open.spotify.com/artist/6PPBbNiP2tQRhEbO8p4YpO) | [Dirty Dicer](https://open.spotify.com/album/0Bmu8kAjCfpVFrBg3i08Xj) | 7:12 | 2022-07-11 | 2022-07-29 |
 | [Divine](https://open.spotify.com/track/26MH4z7yzxzbyIXASQzgcE) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp), [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Divine](https://open.spotify.com/album/2KGYL2E38AnuuueSzu5gaV) | 6:14 | 2022-07-05 | 2022-07-28 |
 | [Division \- Radio\-Edit](https://open.spotify.com/track/1ynZUjXYKCpeMyUpGxtHcS) | [Phoenix Movement](https://open.spotify.com/artist/7ffYTOTu3Z0t4a2A7515cL), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Division \(Radio\-Edit\)](https://open.spotify.com/album/0gESiltZOVYsFpXdedET9Y) | 5:40 | 2022-07-11 | 2022-07-13 |
@@ -162,6 +162,7 @@
 | [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 | 2024-07-12 |  |
 | [Pantheon](https://open.spotify.com/track/53UOfHeavMcTrt9ZaUadwY) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Pantheon](https://open.spotify.com/album/2zOrmsacDunjQO0wdDLxkl) | 3:16 | 2022-10-28 | 2022-11-17 |
 | [PARADISE](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PARADISE](https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ) | 2:43 | 2024-03-20 | 2024-11-27 |
+| [Party Don’t Stop](https://open.spotify.com/track/0wHvrVW47PQORaLEwjsGup) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Ad\-Apt](https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD) | [Party Don’t Stop](https://open.spotify.com/album/4edYdG2DNar0u4Yi2GdjAy) | 3:21 | 2025-03-21 |  |
 | [Perfect Disorder](https://open.spotify.com/track/6MQXn1h7kXG8tn6PvU9UKl) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Perfect Disorder](https://open.spotify.com/album/67oUR2wo7UmtCj4BpV55M9) | 6:19 | 2023-02-10 | 2023-03-29 |
 | [Perfect Disorder \- Roger Lavelle Remix](https://open.spotify.com/track/5SQ6u2IJsbgGkS9PDoIwCY) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Roger Lavelle](https://open.spotify.com/artist/3ZHqvLocrTfSbtm9DDJnqT) | [Perfect Disorder \(Roger Lavelle Remix\)](https://open.spotify.com/album/2oq8lReFxV7zlV8lKRWPvI) | 5:54 | 2023-09-08 | 2023-10-04 |
 | [Platia](https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL) | 3:12 | 2022-12-07 | 2024-01-22 |

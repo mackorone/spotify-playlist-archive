@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: JOSY, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Kristmann Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 199759,
       "name": "2016",
       "url": "https://open.spotify.com/track/63bse8TV0R796UVdecU8un"
@@ -4360,7 +4360,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 179655,
       "name": "Coquillage",
       "url": "https://open.spotify.com/track/6Fxqi0YXrgNtQYGqfkoRMy"
@@ -5234,7 +5234,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 189500,
       "name": "Deniable",
       "url": "https://open.spotify.com/track/1LirjwjXGwh5Q5x7m72eP5"
@@ -7273,6 +7273,24 @@
     },
     {
       "album": {
+        "name": "Fang mich auf",
+        "url": "https://open.spotify.com/album/5C3KuIzTREekOsltgyRlQG"
+      },
+      "artists": [
+        {
+          "name": "Kristmann",
+          "url": "https://open.spotify.com/artist/7KLZbk0PSap7F23qLNdYim"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158919,
+      "name": "Fang mich auf",
+      "url": "https://open.spotify.com/track/4pA0PpsxIPVhwwwSCiveY2"
+    },
+    {
+      "album": {
         "name": "Fear Of Failing",
         "url": "https://open.spotify.com/album/3nTUlXG8vbU4CSefdXpjsG"
       },
@@ -8076,6 +8094,24 @@
       "duration_ms": 142687,
       "name": "F\u00fchlst du das auch",
       "url": "https://open.spotify.com/track/56hNmXjjLdLPF4cKSTSM4I"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr dich sind alle gleich",
+        "url": "https://open.spotify.com/album/0RdZ8lkucn88rhl0ey0DNa"
+      },
+      "artists": [
+        {
+          "name": "NNELLA",
+          "url": "https://open.spotify.com/artist/1BxL57Hm6Vuo7tmkEfAvQi"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198728,
+      "name": "F\u00fcr dich sind alle gleich",
+      "url": "https://open.spotify.com/track/0Hcbgbhpy4jrJMrJmUyCBS"
     },
     {
       "album": {
@@ -10866,7 +10902,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 134960,
       "name": "Ich dachte",
       "url": "https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox"
@@ -11169,6 +11205,28 @@
     },
     {
       "album": {
+        "name": "In Her Kitchen",
+        "url": "https://open.spotify.com/album/7dxJdVqum74qw4xQ43HKOS"
+      },
+      "artists": [
+        {
+          "name": "Duxius",
+          "url": "https://open.spotify.com/artist/6Dy5qLD5AEFFuC5K0SfaG9"
+        },
+        {
+          "name": "Sarah Sordid",
+          "url": "https://open.spotify.com/artist/5MuMOdjhQUTTuapmVEt7Xq"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223928,
+      "name": "In Her Kitchen",
+      "url": "https://open.spotify.com/track/5bNWVGD2PzgK04z1PpHSR3"
+    },
+    {
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2xzSt9luR3DuVUGyHOiQBK"
       },
@@ -11382,6 +11440,24 @@
       "duration_ms": 410624,
       "name": "Invictus",
       "url": "https://open.spotify.com/track/4nhS14dJdWElNxgAeiVNjW"
+    },
+    {
+      "album": {
+        "name": "Irgendwann mal wir",
+        "url": "https://open.spotify.com/album/57HPot66sHneVjWA77YPe3"
+      },
+      "artists": [
+        {
+          "name": "LILLE",
+          "url": "https://open.spotify.com/artist/3IZz6OZ6nLwKS9zmrMjgAM"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180950,
+      "name": "Irgendwann mal wir",
+      "url": "https://open.spotify.com/track/3zyRYUBtZhIlGiZq1P2DbZ"
     },
     {
       "album": {
@@ -14693,6 +14769,24 @@
     },
     {
       "album": {
+        "name": "My Adderall",
+        "url": "https://open.spotify.com/album/0xuOUgxf7aqyIPc74jNjBn"
+      },
+      "artists": [
+        {
+          "name": "Anna Wydra",
+          "url": "https://open.spotify.com/artist/1KPslttsLzdof3L6ud4prw"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167852,
+      "name": "My Adderall",
+      "url": "https://open.spotify.com/track/4BfoHNVbPOy3zYyhp1wCWY"
+    },
+    {
+      "album": {
         "name": "My Body Is The Only Place",
         "url": "https://open.spotify.com/album/3QSAkwsNnd084waFESgguy"
       },
@@ -14762,6 +14856,24 @@
       "duration_ms": 161739,
       "name": "m\u00e4dchen ganz allein",
       "url": "https://open.spotify.com/track/385toNaLXdMCzbrJZXsT5f"
+    },
+    {
+      "album": {
+        "name": "m\u00fcde",
+        "url": "https://open.spotify.com/album/0PzfdY53ZbCI7Szz9tV3YO"
+      },
+      "artists": [
+        {
+          "name": "2ersitz",
+          "url": "https://open.spotify.com/artist/5qybgQbKI9S2X7mwSiQZFj"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271344,
+      "name": "m\u00fcde",
+      "url": "https://open.spotify.com/track/7gnLCrXx9y27VycLAKWj4R"
     },
     {
       "album": {
@@ -16922,6 +17034,24 @@
       "duration_ms": 146092,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/7ntXzseBU5DBoVSjmJ6NIP"
+    },
+    {
+      "album": {
+        "name": "Pretty Now",
+        "url": "https://open.spotify.com/album/0q72RZvRKY3sdKBahDda39"
+      },
+      "artists": [
+        {
+          "name": "Maia and the Squires",
+          "url": "https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279111,
+      "name": "Pretty Now",
+      "url": "https://open.spotify.com/track/5eFEQcZuxsyiv6w8RYYDKx"
     },
     {
       "album": {
@@ -19508,7 +19638,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 224717,
       "name": "Someday",
       "url": "https://open.spotify.com/track/2gKFnGLBEFp8xhSDoTWKAN"
@@ -20020,7 +20150,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 131683,
       "name": "STARK",
       "url": "https://open.spotify.com/track/0jQN7bOGCNYzb2WXBDF0Pk"
@@ -23234,7 +23364,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 147995,
       "name": "Was wir teilen",
       "url": "https://open.spotify.com/track/5K9nNE57PsVAVXzWDulAgs"

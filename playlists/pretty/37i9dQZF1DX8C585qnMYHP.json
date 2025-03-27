@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 185857,
+  "num_followers": 185865,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
+        "name": "Baqui",
+        "url": "https://open.spotify.com/album/2XwExprMzbNz9z0cuNjpTz"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Baqui",
+      "url": "https://open.spotify.com/track/283ejY2T9pXfjSq7oVOBze"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
         "name": "All good?",
         "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
-        "name": "Baqui",
-        "url": "https://open.spotify.com/album/2XwExprMzbNz9z0cuNjpTz"
-      },
-      "artists": [
-        {
-          "name": "Oxis",
-          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Baqui",
-      "url": "https://open.spotify.com/track/283ejY2T9pXfjSq7oVOBze"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 208484,
       "name": "Ready to Leave",
       "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "London Tipton Remix",
-        "url": "https://open.spotify.com/album/3u8X9iNjwiDrQuoTqGho09"
-      },
-      "artists": [
-        {
-          "name": "Fetish",
-          "url": "https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW"
-        },
-        {
-          "name": "chi",
-          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
-        }
-      ],
-      "duration_ms": 164001,
-      "name": "London Tipton Remix",
-      "url": "https://open.spotify.com/track/0EPOAe0idyN6jL3a7oPt2J"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 277042,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "London Tipton Remix",
+        "url": "https://open.spotify.com/album/3u8X9iNjwiDrQuoTqGho09"
+      },
+      "artists": [
+        {
+          "name": "Fetish",
+          "url": "https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW"
+        },
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "duration_ms": 164001,
+      "name": "London Tipton Remix",
+      "url": "https://open.spotify.com/track/0EPOAe0idyN6jL3a7oPt2J"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -699,22 +699,18 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "Old Age",
-        "url": "https://open.spotify.com/album/3ebtbu8s9W9a4AUP5T6feh"
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
       "artists": [
         {
-          "name": "1100",
-          "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
-        },
-        {
-          "name": "AMIANGELIKA",
-          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 236444,
-      "name": "Old Age",
-      "url": "https://open.spotify.com/track/7mr020BsS8ucWUoyn1EqM3"
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -731,6 +727,26 @@
       "duration_ms": 331916,
       "name": "Multifolds",
       "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "Old Age",
+        "url": "https://open.spotify.com/album/3ebtbu8s9W9a4AUP5T6feh"
+      },
+      "artists": [
+        {
+          "name": "1100",
+          "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
+        },
+        {
+          "name": "AMIANGELIKA",
+          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
+        }
+      ],
+      "duration_ms": 236444,
+      "name": "Old Age",
+      "url": "https://open.spotify.com/track/7mr020BsS8ucWUoyn1EqM3"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -783,38 +799,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
-      },
-      "artists": [
-        {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Distance Learner",
-      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "Lust 1",
         "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214613,
       "name": "Barbara",
       "url": "https://open.spotify.com/track/2t8sijt2I0w7LLQ3lIPCSb"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Distance Learner",
+      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
-      },
-      "artists": [
-        {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
-        }
-      ],
-      "duration_ms": 203955,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6SfxRLlE2hfTxJjG4Y5vrq"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "AMB001-008",
         "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 363353,
       "name": "AMB001",
       "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        }
+      ],
+      "duration_ms": 203955,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6SfxRLlE2hfTxJjG4Y5vrq"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "Boeckner!",
-        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
-      },
-      "artists": [
-        {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
-        }
-      ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "Whispering Ln",
         "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 320044,
       "name": "Moonlit Whispers",
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "Boeckner!",
+        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "Oxido En El Espejo",
         "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 283000,
       "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "Parallels II",
-        "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
-      },
-      "artists": [
-        {
-          "name": "Minor Conflict",
-          "url": "https://open.spotify.com/artist/2DJpF2PxGMPYry3ffKmTys"
-        }
-      ],
-      "duration_ms": 394523,
-      "name": "Parallels II",
-      "url": "https://open.spotify.com/track/31k85bFbmHYTe2rWGm7K92"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "humanus",
         "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 425036,
       "name": "attention",
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "Parallels II",
+        "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
+      },
+      "artists": [
+        {
+          "name": "Minor Conflict",
+          "url": "https://open.spotify.com/artist/2DJpF2PxGMPYry3ffKmTys"
+        }
+      ],
+      "duration_ms": 394523,
+      "name": "Parallels II",
+      "url": "https://open.spotify.com/track/31k85bFbmHYTe2rWGm7K92"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "V\u00e4ter und S\u00f6hne",
-        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
-      },
-      "artists": [
-        {
-          "name": "Alex Kaminski",
-          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
-        }
-      ],
-      "duration_ms": 353250,
-      "name": "V\u00e4ter und S\u00f6hne",
-      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "Arcadian Daze",
         "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 199894,
       "name": "Echo Drift",
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "V\u00e4ter und S\u00f6hne",
+        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
+      },
+      "artists": [
+        {
+          "name": "Alex Kaminski",
+          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
+        }
+      ],
+      "duration_ms": 353250,
+      "name": "V\u00e4ter und S\u00f6hne",
+      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
       "added_at": "2025-03-25 14:14:37",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-03-25 14:14:37",
       "album": {
-        "name": "Trances",
-        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
-      },
-      "artists": [
-        {
-          "name": "Jules Reidy",
-          "url": "https://open.spotify.com/artist/5KPawjVpDlK8qpInDjLPac"
-        }
-      ],
-      "duration_ms": 517998,
-      "name": "I",
-      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
-    },
-    {
-      "added_at": "2025-03-25 14:14:37",
-      "album": {
         "name": "y volvieron a transformarse, enfrente de nosotros,",
         "url": "https://open.spotify.com/album/2GuZgZ4s9CSsXx6fUxLN7P"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 245762,
       "name": "y volvieron a transformarse, enfrente de nosotros,",
       "url": "https://open.spotify.com/track/08SgLXVGR8a8pE5dQXpMRE"
+    },
+    {
+      "added_at": "2025-03-25 14:14:37",
+      "album": {
+        "name": "Trances",
+        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
+      },
+      "artists": [
+        {
+          "name": "Jules Reidy",
+          "url": "https://open.spotify.com/artist/5KPawjVpDlK8qpInDjLPac"
+        }
+      ],
+      "duration_ms": 517998,
+      "name": "I",
+      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

@@ -1,6 +1,6 @@
 {
   "description": "The wave of Latin Electronic music. Cover: Deorro, Jasiel Nu\u00f1ez",
-  "num_followers": 1931696,
+  "num_followers": 1931642,
   "original_name": "mint Latin",
   "owner": {
     "name": "Spotify",
@@ -1191,10 +1191,14 @@
     {
       "added_at": "2025-03-21 08:48:25",
       "album": {
-        "name": "Quiero Fiesta (feat. Boy Wonder CF, Three Seven Music, The Chosen Few)",
+        "name": "Quiero Fiesta (feat. Kiko el Crazy, Three Seven Music, The Chosen Few)",
         "url": "https://open.spotify.com/album/7xFN7ma6s9g2SfkaXnyV4R"
       },
       "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
         {
           "name": "DJ PEREIRA",
           "url": "https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD"
@@ -1204,24 +1208,20 @@
           "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
         },
         {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
           "name": "Three Seven Music",
           "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
         },
         {
           "name": "The Chosen Few",
           "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
         }
       ],
       "duration_ms": 191250,
-      "name": "Quiero Fiesta (feat. Boy Wonder CF, Three Seven Music, The Chosen Few)",
+      "name": "Quiero Fiesta (feat. Kiko el Crazy, Three Seven Music, The Chosen Few)",
       "url": "https://open.spotify.com/track/2s2VIrvLwByM1agfaPVss2"
     },
     {

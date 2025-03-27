@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 112,520 likes - 82 songs - 3 hr 30 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 112,507 likes - 78 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,14 +81,10 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 71 | [Wicked Game](https://open.spotify.com/track/0zGjgy0MGo9zrQZ2h8L64m) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe) | [Wicked Game](https://open.spotify.com/album/1iMa1NxG9yQJTLpRnmJfQZ) | 2:20 |
 | 72 | [All The Way Down](https://open.spotify.com/track/1JLUnZ3nhiaJ9XiZ62a8wG) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Plaha](https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [All The Way Down](https://open.spotify.com/album/5yiANlsz99kE9TWCTxPlzP) | 2:21 |
 | 73 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/6f5HftdP4BE9tLvCBAJHtC) | [LUKUS](https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi), [Balmy Buoy](https://open.spotify.com/artist/65usRz9lf3wbkGzsnNUa7d) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/4V5v3TQRHGd2wuUAbSqx9V) | 2:49 |
-| 74 | [Tied Down](https://open.spotify.com/track/5IGQ8MGFJ0K2lnbMIu1UeZ) | [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Tied Down](https://open.spotify.com/album/4xwh5oZKUFPC7d60os2FP8) | 2:31 |
-| 75 | [Nah Neh Nah](https://open.spotify.com/track/22vjtVGnN4Y3ktB1StsL5I) | [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB) | [Nah Neh Nah](https://open.spotify.com/album/3ACjt7MLdRFlXn79mcAUmg) | 2:46 |
-| 76 | [Breathing](https://open.spotify.com/track/19s7wAYW0yKLiHzKUZKs08) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Breathing](https://open.spotify.com/album/3KXlYR3ZbDaEpxxQ5T6Ez7) | 2:16 |
-| 77 | [Over Now](https://open.spotify.com/track/2VfQAkc56zgUTw5SdaZi7O) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [Over Now](https://open.spotify.com/album/04GKRUAL2jPhIgjGfeE2D1) | 2:00 |
-| 78 | [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 |
-| 79 | [Supreme](https://open.spotify.com/track/1uoI5qrXb71elu90cw8TxQ) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Alp Atesoglu](https://open.spotify.com/artist/1d9akcFLkx0GwxLmfMQgzV), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1), [Sax'Appeal](https://open.spotify.com/artist/4bAREk3cDlzskT2ILU8bBG) | [Supreme](https://open.spotify.com/album/5QKkjr0TjXIsiWpnBdNKFU) | 2:31 |
-| 80 | [The Way It Goes](https://open.spotify.com/track/59s5URqAqfW3zbXwt0BKH2) | [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [The Way It Goes](https://open.spotify.com/album/2YDpeYuc4U0oz9nMPPuhIu) | 1:57 |
-| 81 | [Leave It All Behind](https://open.spotify.com/track/1wnQbRh8gE5cDjpWCqNcBW) | [Sammy Adams](https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle) | [Leave It All Behind](https://open.spotify.com/album/4EklaB2tSrI11UhQeyIuam) | 1:57 |
-| 82 | [In The Shadows](https://open.spotify.com/track/00ZRZlwPUgdgug5fKqeQbp) | [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alexia Di Lorenzo](https://open.spotify.com/artist/7Ak8772rvZAdKDoFcIqLkt) | [In The Shadows](https://open.spotify.com/album/0YzgSXrb8YhFvsXZb2Lq5x) | 2:43 |
+| 74 | [Breathing](https://open.spotify.com/track/19s7wAYW0yKLiHzKUZKs08) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Breathing](https://open.spotify.com/album/3KXlYR3ZbDaEpxxQ5T6Ez7) | 2:16 |
+| 75 | [Over Now](https://open.spotify.com/track/2VfQAkc56zgUTw5SdaZi7O) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [Over Now](https://open.spotify.com/album/04GKRUAL2jPhIgjGfeE2D1) | 2:00 |
+| 76 | [Supreme](https://open.spotify.com/track/1uoI5qrXb71elu90cw8TxQ) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Alp Atesoglu](https://open.spotify.com/artist/1d9akcFLkx0GwxLmfMQgzV), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1), [Sax'Appeal](https://open.spotify.com/artist/4bAREk3cDlzskT2ILU8bBG) | [Supreme](https://open.spotify.com/album/5QKkjr0TjXIsiWpnBdNKFU) | 2:31 |
+| 77 | [The Way It Goes](https://open.spotify.com/track/59s5URqAqfW3zbXwt0BKH2) | [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [The Way It Goes](https://open.spotify.com/album/2YDpeYuc4U0oz9nMPPuhIu) | 1:57 |
+| 78 | [In The Shadows](https://open.spotify.com/track/00ZRZlwPUgdgug5fKqeQbp) | [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alexia Di Lorenzo](https://open.spotify.com/artist/7Ak8772rvZAdKDoFcIqLkt) | [In The Shadows](https://open.spotify.com/album/0YzgSXrb8YhFvsXZb2Lq5x) | 2:43 |
 
-Snapshot ID: `AAAd4jqNPplORwk7Z++ME+YfufJE9rs4`
+Snapshot ID: `AAAd5qrF2K0Ws06PyZJrvbPHtqXp5nJd`

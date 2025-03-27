@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The best new music by independent artists and labels, featuring Adryanna Cauduro\. Updates every Wednesday.
+> The best new music by independent artists and labels, featuring Dav Julca\. Updates every Wednesday.
 
-2,527 songs - 5 day 15 hr 37 min
+2,530 songs - 5 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [Candela](https://open.spotify.com/track/683OupaDPQs73s58zY2Aup) | [Lalezka](https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY) | [Candela](https://open.spotify.com/album/0oAKvpLkEE5SDJZSC2I5uN) | 2:24 | 2023-05-03 | 2023-05-18 |
 | [cansa'o](https://open.spotify.com/track/4FLgMLULpnoJiMuZL5E9iZ) | [RIIP DIEGO](https://open.spotify.com/artist/6faQ0OraxrYdQotaRRgoFS), [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd) | [cansa'o](https://open.spotify.com/album/29R9uWcMHW232bMpHnMY6U) | 2:41 | 2025-03-05 |  |
 | [Caparazón](https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Caparazón](https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp) | 3:07 | 2024-09-25 | 2024-10-24 |
-| [Capricho](https://open.spotify.com/track/458cSEghPwtxKFE9O14bZy) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Capricho](https://open.spotify.com/album/3NtAnlBQDSuLoBGtuO8coL) | 2:43 | 2025-02-19 |  |
+| [Capricho](https://open.spotify.com/track/458cSEghPwtxKFE9O14bZy) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Capricho](https://open.spotify.com/album/3NtAnlBQDSuLoBGtuO8coL) | 2:43 | 2025-02-19 | 2025-03-27 |
 | [Caprichosa](https://open.spotify.com/track/75JNtwTRzBlej0k2yBv0Ka) | [Julieta Jazmín](https://open.spotify.com/artist/4buGj0cwggVztIG09gvMJe) | [Caprichosa](https://open.spotify.com/album/2f2IpebBgW6adEB0kcnskw) | 3:41 | 2024-10-23 | 2024-12-05 |
 | [Cara Dura](https://open.spotify.com/track/4RyK2ICRupGryJznZi3Dlr) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt) | 3:32 | 2022-03-02 | 2022-03-24 |
 | [Caracoles](https://open.spotify.com/track/7D2iqTnsZi9KQKUu5BOd2b) | [Ferna](https://open.spotify.com/artist/58FJ0VvcKAYY89TFOczBfK) | [Caracoles](https://open.spotify.com/album/4o4IPuj2n9rgsgfP44cQ9E) | 2:59 | 2022-08-10 | 2022-09-09 |
@@ -1165,7 +1165,7 @@
 | [La Sombra de Lo Bello](https://open.spotify.com/track/0JXgwkLCCBzvmIvh71h3Aq) | [Feralucia](https://open.spotify.com/artist/5Cy9hXh0AFvHlRwdzzVPrB) | [La Sombra de Lo Bello](https://open.spotify.com/album/12vl5qERiH7j2NIdJLCctR) | 4:11 | 2022-02-09 | 2022-02-24 |
 | [La sombra visible](https://open.spotify.com/track/1TY1eRuJ3kIVqBkg5U1xLM) | [Pilu Fernández](https://open.spotify.com/artist/2wbpMVf2cJsSMRo7bVgz4p) | [La sombra visible](https://open.spotify.com/album/2t1cQcNUIiWzskUACKU0Er) | 4:51 | 2023-02-01 | 2023-02-16 |
 | [La Trampa](https://open.spotify.com/track/4fFoxalUsWW1qraPLpnb1T) | [Carla Cune](https://open.spotify.com/artist/1eJCiBiU5FzMEXBxrsNxkd) | [La Trampa](https://open.spotify.com/album/5xzOHndFvxS9b9VQrcYoFH) | 2:39 | 2023-03-08 | 2023-03-30 |
-| [La Trágica](https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH) | [Lucía Alegría](https://open.spotify.com/artist/0BLImZeexSmFhUPxbK4RZA) | [Una Fiesta al Desorden](https://open.spotify.com/album/3WB0YUQXFpFFEZEdD5GPMI) | 3:23 | 2025-02-12 |  |
+| [La Trágica](https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH) | [Lucía Alegría](https://open.spotify.com/artist/0BLImZeexSmFhUPxbK4RZA) | [Una Fiesta al Desorden](https://open.spotify.com/album/3WB0YUQXFpFFEZEdD5GPMI) | 3:23 | 2025-02-12 | 2025-03-27 |
 | [La Vaca Mariposa](https://open.spotify.com/track/0qxGNoCPsxPFudABEtEmwk) | [Criollas](https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV), [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Criollas](https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0) | 3:46 | 2024-06-05 | 2024-07-04 |
 | [La Vida No Quiso](https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [La Vida No Quiso](https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz) | 3:36 | 2023-08-16 | 2023-09-07 |
 | [La Voz](https://open.spotify.com/track/0UVuAXOUc8PEQmWNA0lYby) | [Medina Kid](https://open.spotify.com/artist/0YKjgRidRKLNziQyOhoJfU) | [La Voz](https://open.spotify.com/album/2zgwfypd1dMfazifvBmZb3) | 2:35 | 2022-01-26 | 2022-02-03 |
@@ -1960,6 +1960,7 @@
 | [Roto](https://open.spotify.com/track/2j823TVBnXyLGSQIRcbEME) | [underone mx](https://open.spotify.com/artist/7CZr4o7JvNgDf56kVLbTUv) | [Roto](https://open.spotify.com/album/4KH36DomBkrUJC3MLHkZpw) | 3:39 | 2023-08-02 | 2023-08-17 |
 | [Roto \(better off dead\)](https://open.spotify.com/track/0IYbyn7YPuGqSGTW2U7F6J) | [Nico Salas](https://open.spotify.com/artist/4JoeqMyMO3SFmxwYk3Iclr), [bbonsai!!!](https://open.spotify.com/artist/5e09T1HPyQw0grmg7BGFwj), [REZ1](https://open.spotify.com/artist/6LFXhkHPc8P6Ntsao5i4kO) | [Roto \(better off dead\)](https://open.spotify.com/album/3XDMYRH6NYXBC8lupjUvER) | 2:40 | 2023-11-15 | 2023-11-30 |
 | [Rs5](https://open.spotify.com/track/76lq8oJbdWxbczUAlqC2pJ) | [EL NAGO](https://open.spotify.com/artist/2ZOvUFl38SrMZ4H2pzO5lg) | [Rs5](https://open.spotify.com/album/3QE3LdwskDdy1v8BMiCT12) | 2:25 | 2023-01-12 | 2023-02-09 |
+| [RUBÍ](https://open.spotify.com/track/5fBNe6Gg6uIyrrdD8h5bhe) | [Olivia Herdt](https://open.spotify.com/artist/11IWeKauRXQykXxQtkHBGE) | [RUBÍ](https://open.spotify.com/album/2kzPYO0QtAeGO9ghlo78aJ) | 1:48 | 2025-03-26 |  |
 | [Ruinas](https://open.spotify.com/track/5qkMoytT5a4RYrl2a2hUGA) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ruinas](https://open.spotify.com/album/1pJbGnyljnstvqE1kiu8Bw) | 4:13 | 2024-05-22 | 2024-06-13 |
 | [Ruleta Rusa](https://open.spotify.com/track/1bOOJxff4kkanmp5FzqmHa) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Ruleta Rusa](https://open.spotify.com/album/0WeXDwMpxjIIDlE2WkRUN2) | 2:39 | 2022-02-02 | 2022-02-17 |
 | [Rumbo](https://open.spotify.com/track/4pKWfODArfyuHkUlmTju3e) | [Fernandache](https://open.spotify.com/artist/5IpuWhOGsfPLSOlpXmDmqa) | [Rumbo](https://open.spotify.com/album/5lxN31dy4i0Yr6CsiMHdwr) | 4:00 | 2025-02-26 |  |
@@ -2074,6 +2075,7 @@
 | [Sms](https://open.spotify.com/track/4VNjlmjBySyb9gZT24HrC2) | [Oregon Black](https://open.spotify.com/artist/3JL1vhNdCUGodO3nDTMmgT) | [Sms](https://open.spotify.com/album/7KoX5Is4MzptRfYJb9mbM9) | 3:42 | 2024-06-05 | 2024-06-13 |
 | [So Bad](https://open.spotify.com/track/0Bv41AllBqvKGzyOAOS4PH) | [Pezk](https://open.spotify.com/artist/5c7D1CAnaECx5upe6kjfAW) | [So Bad](https://open.spotify.com/album/03GJmaxCoDhr1Lyli3F4vr) | 3:58 | 2023-04-26 | 2023-05-11 |
 | [SO COOL](https://open.spotify.com/track/1ryKd7IlocyLhrL2lrtOAV) | [Delmar](https://open.spotify.com/artist/1S5SNkPc86rs4WDDY7YKTA) | [SO COOL](https://open.spotify.com/album/6Fo63rM6kZphWxrf80W4jd) | 2:39 | 2024-08-21 | 2024-09-05 |
+| [SO GOOD](https://open.spotify.com/track/1248JYGuWRNzUcvAK9H8si) | [Dav Julca](https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2) | [SO GOOD](https://open.spotify.com/album/2jdqrtSfHnjzvSNImTPfnv) | 3:48 | 2025-03-26 |  |
 | [So Good](https://open.spotify.com/track/6gyUY5sDj7I73De9DhAsLF) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [So Good](https://open.spotify.com/album/6cgSEVAwQ0C8fCiw7NgeDw) | 2:52 | 2023-10-11 | 2023-10-19 |
 | [Sobre La Loquera](https://open.spotify.com/track/5IXq7Lhy89lSgxmdvWuhMO) | [El Krack Mx](https://open.spotify.com/artist/5ti1sFtNy3wjVTwNFNxH2i) | [Sobre La Loquera](https://open.spotify.com/album/5cfDeRhggaNBaCXkRXoNPa) | 2:11 | 2023-07-26 | 2024-01-11 |
 | [Sobre La Mesa](https://open.spotify.com/track/2ARWCaEpgvheu6PAgryMWB) | [Mayppel](https://open.spotify.com/artist/0QZBPnnFmU9F4ihQW51gbo) | [Sobre La Mesa](https://open.spotify.com/album/7vj3gWA79BAN1vmlG91eU3) | 3:17 | 2024-08-14 | 2024-09-05 |
@@ -2151,6 +2153,7 @@
 | [Sábanas Mojadas](https://open.spotify.com/track/4zXAxx7dfk74nN8VQLn9p5) | [Alexxzandro](https://open.spotify.com/artist/4uFSptT61DCmQY8E48punv), [MNYLOW](https://open.spotify.com/artist/7baYWc35aEW5aDL0WMwxxD) | [Sábanas Mojadas](https://open.spotify.com/album/5WGFrugNZzsCPOwU7U7G1w) | 3:12 | 2023-01-12 | 2023-02-09 |
 | [Sé que duda](https://open.spotify.com/track/7iO76oGRAbCesh40vWU2kx) | [AKA Matador](https://open.spotify.com/artist/1QoUyBQnfHKfv9S80S2UjE) | [Sé que duda](https://open.spotify.com/album/3sRovFMDNmMggT6Fc4s1q8) | 3:04 | 2023-02-01 | 2023-02-16 |
 | [Sí o no](https://open.spotify.com/track/6rxTP2s9WazLfuvvMYqGG3) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Sí o no](https://open.spotify.com/album/2hyd7H9jwJxTPrN5zfdKFa) | 3:10 | 2022-03-16 | 2022-03-24 |
+| [SÍGUEME](https://open.spotify.com/track/4vb8Rou2dDUEtBOOo57eVu) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [SÍGUEME](https://open.spotify.com/album/1MQpU7y31iaIHoLWaTJxOf) | 3:17 | 2025-03-26 |  |
 | [Síndrome de la Cabaña](https://open.spotify.com/track/5AC8psJ6Ef1ecMXRvUmkhd) | [macloviiin](https://open.spotify.com/artist/1qmZ7rGi95Uk5bdi58E2wM) | [Síndrome de la Cabaña](https://open.spotify.com/album/4ywX0ggUpYByY4GIMvW5D7) | 3:07 | 2023-04-26 | 2023-05-11 |
 | [T Amo](https://open.spotify.com/track/3nMJ9HFjOqRaAlb6emFah5) | [Santi Valencia](https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX) | [T Amo, Me Odias ??](https://open.spotify.com/album/04Uh64r1eEy4KZLEiICPIy) | 2:51 | 2023-06-07 | 2023-06-22 |
 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-01-26 | 2022-02-03 |
@@ -2325,7 +2328,7 @@
 | [Tumbao Psicodélico](https://open.spotify.com/track/3P4MBwxqO19VCDgdJhXv4D) | [Wired Sessions](https://open.spotify.com/artist/5v9F5NyIAL0z99Ts8qIkrM), [San Miguel](https://open.spotify.com/artist/6vK56JfvMZfpb7wsOVaZ4S) | [Tumbao Psicodélico](https://open.spotify.com/album/6q19RtIGUiCvXq6lT8rlV9) | 3:21 | 2022-01-26 | 2022-02-17 |
 | [TUMOR](https://open.spotify.com/track/7i5PZTlLGyhE1nnhIJivqj) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [TUMOR](https://open.spotify.com/album/2YyO3YBY0uL4a8xvn73MVU) | 3:46 | 2023-09-27 | 2023-10-12 |
 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 | 2022-04-27 | 2022-05-19 |
-| [Tus Ojos \(3:33\)](https://open.spotify.com/track/5CvQSE6mWG7fA4ycRA2riF) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Tus Ojos \(3:33\)](https://open.spotify.com/album/3THNNKAcRLedI3N8YzRxDB) | 3:02 | 2025-02-19 |  |
+| [Tus Ojos \(3:33\)](https://open.spotify.com/track/5CvQSE6mWG7fA4ycRA2riF) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Tus Ojos \(3:33\)](https://open.spotify.com/album/3THNNKAcRLedI3N8YzRxDB) | 3:02 | 2025-02-19 | 2025-03-27 |
 | [Tus Te Quieros](https://open.spotify.com/track/7LrK8wbofELyG7kauy79fe) | [toni duart](https://open.spotify.com/artist/72d2PLgnOXyDT1HIGXC9Ls), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx), [Sara Mostaza](https://open.spotify.com/artist/64izd9xKBPFn7P1qNsaBQ9) | [Tus Te Quieros](https://open.spotify.com/album/2lZWw0bI5MHJ5W5S2uQYy7) | 2:44 | 2023-03-08 | 2023-03-30 |
 | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/track/0S5tLL40N5MtaxbYLEfjkT) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/album/0rFXbUb5ZLQs4xPBNKUprC) | 3:16 | 2023-10-04 | 2023-10-19 |
 | [Tuya](https://open.spotify.com/track/4QzQALrqr9cLdmT75FThbW) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Tuya](https://open.spotify.com/album/0xoaHBfzWupVVsW1mG6nqu) | 3:36 | 2023-04-19 | 2023-05-04 |

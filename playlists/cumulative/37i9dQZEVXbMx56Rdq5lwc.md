@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,998 songs - 4 day 14 hr 2 min
+1,999 songs - 4 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2023-05-24 | 2023-05-27 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-15 | 2024-08-11 |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-09 | 2022-12-11 |
+| [Didžiojo Piršto Teorija](https://open.spotify.com/track/10x9Z3NnCkxf22fPScSDC9) | [G&G Sindikatas](https://open.spotify.com/artist/2bqjifJKTLK1AS9AnGbX0L) | [Didžiojo Piršto Teorija](https://open.spotify.com/album/4KhMxVWBsoLkRGoJ73VWOT) | 4:23 | 2025-03-26 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-05 | 2022-11-24 |
 | [Die For You](https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 4:20 | 2022-12-29 | 2023-08-17 |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 | 2023-04-25 |
@@ -1294,7 +1295,7 @@
 | [Pastovi](https://open.spotify.com/track/7DJJrr7IuO3K5tSrKOuqmf) | [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [TURTAS](https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x) | 4:24 | 2024-12-10 | 2024-12-13 |
 | [Patalai](https://open.spotify.com/track/7fs9wSYvbh1udGqvLxxso1) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [Patalai](https://open.spotify.com/album/4TrwK62sSFa69ZJtuggsxE) | 3:41 | 2023-07-23 | 2024-02-22 |
 | [Patikimiausias](https://open.spotify.com/track/571Y9hYnpcsBS8Kg3HilW3) | [Angelou](https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0) | [Patikimiausias](https://open.spotify.com/album/3PgLkckFholMiQ8NgGLhxg) | 3:31 | 2024-09-21 | 2024-09-23 |
-| [Patogu](https://open.spotify.com/track/4MXAjSbfE8R8ugq99HKHUS) | [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [Patogu](https://open.spotify.com/album/6RnUzinMY6jMvVFPAz8sYP) | 3:35 | 2023-06-24 | 2025-03-26 |
+| [Patogu](https://open.spotify.com/track/4MXAjSbfE8R8ugq99HKHUS) | [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [Patogu](https://open.spotify.com/album/6RnUzinMY6jMvVFPAz8sYP) | 3:35 | 2023-06-24 |  |
 | [Patogu ir Smagu](https://open.spotify.com/track/30VaEPAdh6zaV8DjeFoFB4) | [7th Block](https://open.spotify.com/artist/7d3r71GLq14ZSF9TNxhyDt) | [Patogu ir Smagu](https://open.spotify.com/album/2iL6U1Z4qIph3gRsXHzjec) | 2:36 | 2021-03-27\* | 2021-05-13 |
 | [Patogu ir Smagu](https://open.spotify.com/track/5OjNp0fejcQP97YdWPNVgg) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Mad Money](https://open.spotify.com/artist/3rHPBR3KdAfmJRByzkk7jx), [7th Block](https://open.spotify.com/artist/7d3r71GLq14ZSF9TNxhyDt) | [Patogu ir Smagu](https://open.spotify.com/album/0unDW4Bx58ZtktOTS4OmKE) | 3:48 | 2021-04-26 | 2021-05-21 |
 | [Pavydas \(feat\. Abudu\)](https://open.spotify.com/track/0hH6De6Qfjkl5EAWCttMFe) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd), [Abudu](https://open.spotify.com/artist/1IguwRyjy5JKRb9ErCQsq1) | [Pavydas \(feat\. Abudu\)](https://open.spotify.com/album/2fhJ0M3WikM2dKMQmzzlcp) | 4:03 | 2023-05-27 | 2023-06-06 |
@@ -1678,7 +1679,7 @@
 | [Tavęs Trūksta \- Radio Edit](https://open.spotify.com/track/5ctPLu7AIAQmYPqjXjy5ZV) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Tavęs Trūksta \(Radio Edit\)](https://open.spotify.com/album/3CmhXDdiR7EMWeyhRdbE6Q) | 2:11 | 2023-07-07 | 2023-10-08 |
 | [Technicolour](https://open.spotify.com/track/7ElfaDjFKXAlfscXU4rRXK) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [Technicolour](https://open.spotify.com/album/5qwCs423PAmcHn2k4dW3WL) | 2:49 | 2021-05-21 | 2021-05-27 |
 | [TEFLON DON](https://open.spotify.com/track/2jnezASa7o0lP6aif6VrIf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 2:39 | 2024-09-21 | 2024-09-23 |
-| [Tekstai Užrašai](https://open.spotify.com/track/7kIglIEhYNsYqUGcp9TuwX) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Scenos](https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf) | 5:29 | 2025-03-22 |  |
+| [Tekstai Užrašai](https://open.spotify.com/track/7kIglIEhYNsYqUGcp9TuwX) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Scenos](https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf) | 5:29 | 2025-03-22 | 2025-03-27 |
 | [TELEKINESIS](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-07-29 | 2023-08-02 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-05-23 |
 | [Tell The Vision](https://open.spotify.com/track/34TiQsddaGhd8lmzJfxSzH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 1:44 | 2021-08-31 | 2021-09-02 |
@@ -1687,7 +1688,7 @@
 | [Ten, kur noriu](https://open.spotify.com/track/6WtxgI42kF4WbsVinpqNis) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Ten, kur noriu](https://open.spotify.com/album/604V9TFm95OEOj377WaTPq) | 3:13 | 2022-10-04 | 2022-10-06 |
 | [ten, kur noriu](https://open.spotify.com/track/4cGxUWA1jIEW6Oqa6ieBBC) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [DEBESIMIS BRAIDYTI](https://open.spotify.com/album/48M4JnKlrmi3WU3KOJr6cO) | 3:14 | 2022-11-13 | 2022-11-15 |
 | [Ten, Kur Tu](https://open.spotify.com/track/0dyTM71N5e3o3VJlhKoYgb) | [jautì](https://open.spotify.com/artist/1kfCwVVXg1E5gFZQPM152L), [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Meilė](https://open.spotify.com/album/7F9V8XJuvohR0MCuZYzz5a) | 4:29 | 2022-04-26 | 2022-04-29 |
-| [Tendencija](https://open.spotify.com/track/0ASkGHkVTBtMp5u7NLSHeI) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Scenos](https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf) | 4:36 | 2025-03-22 |  |
+| [Tendencija](https://open.spotify.com/track/0ASkGHkVTBtMp5u7NLSHeI) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Scenos](https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf) | 4:36 | 2025-03-22 | 2025-03-27 |
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-02-19 | 2024-07-01 |
 | [TEST2255 VOL2](https://open.spotify.com/track/13wts7VYJus2NMw868GlSa) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [VILKO ŠVELNUMAS](https://open.spotify.com/album/7mnMiGdr3rZQ1wDlPfXOzd) | 3:31 | 2021-05-19 | 2021-05-20 |
 | [Testosteronas](https://open.spotify.com/track/3L3QFJ6RbW25oUPsjgRXRs) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [DĖMESIO!](https://open.spotify.com/album/4VsOrX8Fg32ZQENEhUFTI5) | 2:31 | 2021-09-18 | 2021-09-21 |

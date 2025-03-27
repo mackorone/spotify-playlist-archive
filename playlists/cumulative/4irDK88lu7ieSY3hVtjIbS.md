@@ -4,7 +4,7 @@
 
 > Degeneracy at its finest!
 
-71 songs - 2 hr 59 min
+77 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,8 @@
 | [BLFC NUT PIZZA](https://open.spotify.com/track/62exuvhuFusS1wVutblemh) | [Glitch](https://open.spotify.com/artist/3Rry3IS3eBobtKtYekCrhZ), [Rodast](https://open.spotify.com/artist/30wOYBgn7sRcdTAqzeHVOG) | [BLFC NUT PIZZA](https://open.spotify.com/album/3rjcTikspIK40DJNFE9OiU) | 1:12 | 2023-11-27 |  |
 | [Boy kisser \(song\)](https://open.spotify.com/track/0zGjTWaMwZ7YXcagWAYGai) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Boy kisser \(song\)](https://open.spotify.com/album/126vT864AneXpsxM2zg75k) | 1:45 | 2023-11-14 |  |
 | [Can't Fail \- Original Mix](https://open.spotify.com/track/6V7dKyxkFAMsPskSoLxswl) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [We Are The Future / Can't Fail](https://open.spotify.com/album/5Ie016rV2foyvlspJBSSrK) | 6:18 | 2023-12-26 |  |
+| [CHANGED](https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 3:13 | 2025-03-26 |  |
+| [CUDDLY](https://open.spotify.com/track/5oZ9avBrfVtNmYQCkhGgPQ) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 1:51 | 2025-03-26 |  |
 | [Cum Check This](https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Cum Check This](https://open.spotify.com/album/3b7bk20U1R74sAi7xKHQxJ) | 3:11 | 2023-11-25 |  |
 | [Discord Femboy](https://open.spotify.com/track/7v2hjZiDBXL7aRD3ktpmxO) | [I Got Back Pain](https://open.spotify.com/artist/29xSC7v6DlUrisWQ05YFWq) | [Discord Femboy](https://open.spotify.com/album/0bAbgxaYko6g0JETRboiGv) | 3:14 | 2023-11-27 |  |
 | [DON'T WANT UR LOVE](https://open.spotify.com/track/7BwAhDxU8fZyta9NkqOBZw) | [YUMMYNOODZ](https://open.spotify.com/artist/4jgKnkaF9EvvB9GhQcu9Qa), [YUMPRINCESS](https://open.spotify.com/artist/1XfxA5eSAeL28olEJZymL9), [NOODLE](https://open.spotify.com/artist/10CIjpPG0S3S8WSW1IvGJ9) | [DON'T WANT UR LOVE](https://open.spotify.com/album/4cOrqpMZj8NhCM9NkX22J2) | 2:54 | 2024-10-28 |  |
@@ -37,6 +39,7 @@
 | [Femboy Hooters](https://open.spotify.com/track/09w1uILMUnv1IRNkNJ7mvs) | [Yung Waifu](https://open.spotify.com/artist/5RKNJVt2iVRvod1bxFPXJ2) | [Femboy Hooters](https://open.spotify.com/album/3iG0DdzHvMME6To1GEXLDK) | 1:44 | 2024-09-19 |  |
 | [femboy supremacy](https://open.spotify.com/track/5FE0polTp5p6qmd9ftDbPa) | [ dizzy crush](https://open.spotify.com/artist/5URoqCxBwQUTyfHHJOrAWg) | [femboy supremacy](https://open.spotify.com/album/7ha0aAUidu3dNq3tGc9ElF) | 1:49 | 2024-07-09 |  |
 | [Femboy Thighs](https://open.spotify.com/track/3GdAE41AknH000tjAg3h6Y) | [Lost in the Slosh](https://open.spotify.com/artist/7HIrrHpCUr8r6Q3et682hG) | [Femboy Thighs](https://open.spotify.com/album/5l5YWzTpQLBHVjOvQwE6v2) | 2:35 | 2024-01-08 |  |
+| [FURFAG](https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 4:44 | 2025-03-26 |  |
 | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/track/2fHZAXOHW6MloDdXRqNhrS) | [The Chalkeaters](https://open.spotify.com/artist/7x7YgBS9WW3rfvfagAlohI), [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/album/6rmH0AwGNsUm5juguz28ZQ) | 3:31 | 2024-09-19 |  |
 | [GAY](https://open.spotify.com/track/6VF6aSXwUqBsV2r92UnXu1) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Newgrounds Classics](https://open.spotify.com/album/4nemZnzaHpydHG2Q5rEfb2) | 1:55 | 2024-10-23 |  |
 | [Gay Fish \(From "South Park"\)](https://open.spotify.com/track/1tB6mPEnTFVxak5s2ZlMr6) | [Geek Music](https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw) | [Gay Fish \(From "South Park"\)](https://open.spotify.com/album/7mx01geXgpNSr2l5bzFv4T) | 2:25 | 2024-10-05 |  |
@@ -51,6 +54,7 @@
 | [Intro Jingle](https://open.spotify.com/track/3bcGDqANHU0nCa7Hvz3tw5) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 0:08 | 2024-07-10 |  |
 | [KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://open.spotify.com/track/2BIJTk3esSucfISGLvzRpk) | [Vertigoaway](https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6) | [das epos hohlraum](https://open.spotify.com/album/0wWiYDkqMuRet3EdiGGG1f) | 1:52 | 2024-12-30 |  |
 | [KNOT SONG](https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [KNOT SONG](https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT) | 2:18 | 2024-06-29 |  |
+| [KNOT SONG](https://open.spotify.com/track/39hUFFX2yGm26YXSu4QEYF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:18 | 2025-03-26 |  |
 | [Lesbian Vampire Furries](https://open.spotify.com/track/6k8OcyB2p4XjLEkeZl2yec) | [o96o](https://open.spotify.com/artist/4g8Ae41SII3GhoJkpGQTBn), [iGodzilla](https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez) | [Lesbian Vampire Furries](https://open.spotify.com/album/1Ah65nLN0BThi1taKGTde8) | 2:25 | 2024-10-23 |  |
 | [Lesson.69 Cum Escapade](https://open.spotify.com/track/71pqal0Gz61eQaPom9IoSI) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8), [Trent](https://open.spotify.com/artist/6dZRBnqw7IF03TJWYHYNYK) | [Walkies\~](https://open.spotify.com/album/5jYQwo9B5e0OY0FpnV4uot) | 3:21 | 2023-11-14 |  |
 | [LET ME MAIL YOUR PACKAGE](https://open.spotify.com/track/1SQyh672kIazKDwIFPci3y) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [FANSERVICE](https://open.spotify.com/album/1iRaZxijTjfQ0qZiU6BoZK) | 1:45 | 2024-10-05 |  |
@@ -61,9 +65,11 @@
 | [Ode to a Werewolf](https://open.spotify.com/track/5yTzesOGaZ16iv59cgam9b) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 2:10 | 2024-07-10 |  |
 | [Ode to a Werewolf \[Vintage Mix\]](https://open.spotify.com/track/4PzuY5iUwxpOEr5rRggNNU) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 2:10 | 2024-07-28 |  |
 | [ORDER:SCORE](https://open.spotify.com/track/0ZXddUNWkQ8ih8uv4GvfAi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 1:08 | 2023-11-14 |  |
+| [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 | 2025-03-26 |  |
 | [Pee Is Stored in the Balls](https://open.spotify.com/track/2b9j16zsLwG8ybr0BHGX6J) | [JayZeroRez](https://open.spotify.com/artist/3IzsT2GqnlgpQ5FOjWUMEo) | [Pee Is Stored in the Balls](https://open.spotify.com/album/03tRZ8xiTWQlXJPka0mJni) | 4:05 | 2024-09-19 |  |
 | [PEG ME](https://open.spotify.com/track/2gBwXk0yNuDfekC7YsILv7) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 1:37 | 2023-11-14 |  |
 | [Penis Music](https://open.spotify.com/track/293SzWJMSEmBksytKIa0pP) | [Portamento](https://open.spotify.com/artist/2xUFofsrGYO0451gYxcWXI) | [Low Polygonal Ascension](https://open.spotify.com/album/0LadYADSp8LlUtbWopw66b) | 1:15 | 2024-10-23 |  |
+| [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 | 2025-03-26 |  |
 | [pretty boys in pretty skirts](https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [adhd & attachment issues](https://open.spotify.com/album/5CLtHc5xDGdSU1dblmA4Iu) | 2:53 | 2024-01-09 |  |
 | [Professional Dog](https://open.spotify.com/track/22468108sXHJSMZ7Uffixx) | [4lung](https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L) | [The New 4lung Album](https://open.spotify.com/album/7ktcibSjb9UykTwVGR92NU) | 2:00 | 2024-07-17 |  |
 | [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 | 2024-07-17 |  |

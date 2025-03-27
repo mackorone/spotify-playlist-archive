@@ -3041,6 +3041,28 @@
     },
     {
       "album": {
+        "name": "Five EP",
+        "url": "https://open.spotify.com/album/1d1C5lZ34OxnzawtsFMnCD"
+      },
+      "artists": [
+        {
+          "name": "Jon Gurd",
+          "url": "https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Five",
+      "url": "https://open.spotify.com/track/1AyWOwYZStmF5jtgNThUWd"
+    },
+    {
+      "album": {
         "name": "Flek",
         "url": "https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa"
       },
@@ -6484,7 +6506,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 327663,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP"

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,111 songs - 2 day 9 hr 14 min
+1,114 songs - 2 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Another Way](https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Another Way](https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe) | 4:51 | 2022-10-07 | 2022-11-11 |
 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 | 2022-01-14 | 2022-03-05 |
 | [Anthem Of the Bells](https://open.spotify.com/track/4h5pNIuFxUYDwioQDbQ2kl) | [SKG](https://open.spotify.com/artist/062sVQSOvOr69kPms0aKDL) | [It's Cold Outside](https://open.spotify.com/album/5YWmOqClt8OSgWNYjmFMHe) | 1:10 | 2023-12-11 | 2024-01-30 |
+| [antidepressants](https://open.spotify.com/track/6rWLrj4M3PDu6XpgjY7vAU) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [antidepressants](https://open.spotify.com/album/7ymEP219k33PfwUwrHHI3C) | 1:58 | 2025-03-26 |  |
 | [Antidote](https://open.spotify.com/track/4abpXJR8JbbUcvse4ahiQn) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 2:36 | 2022-09-02 | 2022-11-24 |
 | [Anxious](https://open.spotify.com/track/3oHu4UWGFkZ44PcBGELEdf) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Aurora](https://open.spotify.com/album/7zqw1bn9eX0xi6ZjL9SYH0) | 2:40 | 2022-01-14 | 2022-06-04 |
 | [Anywhere You Want](https://open.spotify.com/track/5ELKE3vp9qZ2war37maWN3) | [BB Cooper](https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi) | [In My Dreams](https://open.spotify.com/album/6VMdhmUtWuoZtG866uXm9j) | 3:02 | 2022-08-26 | 2022-10-08 |
@@ -99,6 +100,7 @@
 | [Beautiful Nothing](https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Beautiful Nothing](https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f) | 3:31 | 2023-07-14 |  |
 | [Beautiful Strangers](https://open.spotify.com/track/0pSWd4x9Nc2JfyofJnjVg7) | [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd) | [Beautiful Strangers](https://open.spotify.com/album/1Wopro4nOGhYXwfNkOHmd9) | 3:00 | 2023-12-15 | 2024-04-05 |
 | [Begin](https://open.spotify.com/track/0T2n3HaXUmYa5m20OMvPDW) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Begin](https://open.spotify.com/album/2UILEJmXX3a0STzNJCWEqA) | 3:25 | 2023-04-08 | 2023-05-27 |
+| [Believe In You](https://open.spotify.com/track/1OMFtGibT1OB60YkaFSKl7) | [Vince Blais](https://open.spotify.com/artist/10gKXDvHvRN9O9VjYbR1zu), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Believe In You](https://open.spotify.com/album/786bVwJNNGaIq20luNg8qG) | 3:18 | 2025-03-26 |  |
 | [Better Alone \(with IDontloveu\)](https://open.spotify.com/track/3maRMTZGRVguZPqOBUFvOB) | [Jaxxtone](https://open.spotify.com/artist/3ASDNZT1AaVuC0bqu60oaY), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i), [IDontloveu](https://open.spotify.com/artist/6hw2y5rA6aoebyj53vUhZ3), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 3:37 | 2022-11-18 | 2023-02-22 |
 | [BETTER OFF ALONE](https://open.spotify.com/track/1xuA0Xfi6BVrTZDQnX8X4i) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [BETTER OFF ALONE](https://open.spotify.com/album/3yRr0L3utmRicx3Yc9kCj7) | 2:40 | 2023-10-27 | 2023-12-09 |
 | [Better Than Me](https://open.spotify.com/track/4Shq8PnJys8dyqZ1qLg83S) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Better Than Me](https://open.spotify.com/album/6ZDd3G0zZEm80Z0kARthcm) | 3:03 | 2022-11-04 | 2022-11-24 |
@@ -140,6 +142,7 @@
 | [Broken](https://open.spotify.com/track/1PA8t7QlRzSpUOZIlLLi6U) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Broken](https://open.spotify.com/album/0KIgFLZ7k3UTVXMe5SRwSo) | 3:48 | 2022-01-14 | 2022-09-15 |
 | [Broken](https://open.spotify.com/track/5hXuLtstJptYmLodghFa8V) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Pieces](https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb) | 3:48 | 2023-02-21 | 2023-07-29 |
 | [Broken \- VIP](https://open.spotify.com/track/6JjdMJw5pVpiNIM1eqOiPp) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Broken \- VIP](https://open.spotify.com/album/5wUYObziE4i9B9nSbyuV4A) | 3:57 | 2022-02-09 | 2022-07-29 |
+| [Brother](https://open.spotify.com/track/2Q1EJOyZelZfF7cdtH2WrZ) | [Future Magic](https://open.spotify.com/artist/6tZN3dkaAZSrv7ErRcCymN), [Robert Voxx](https://open.spotify.com/artist/1FcGBOscwSbYMcFW6du8mN) | [Collisions](https://open.spotify.com/album/3ele1OBaf3SVEcVdy5j1g3) | 4:52 | 2025-03-26 |  |
 | [Burn](https://open.spotify.com/track/6a0XyDhUU6jfOavzXOik7j) | [Yonexx](https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm), [lunar](https://open.spotify.com/artist/6ba0gaC9S69uLIwRyRvdMr), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Burn](https://open.spotify.com/album/1yTxpadK6ibPHYR0moDfxM) | 2:21 | 2023-09-15 | 2023-10-14 |
 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 | 2022-12-16 | 2022-12-27 |
 | [BURNING OUT](https://open.spotify.com/track/4Eo8tsg8EEMhQRSOYWawcF) | [BERNZ](https://open.spotify.com/artist/1mEkCpjXPIymCGkKCJzcl5) | [BURNING OUT](https://open.spotify.com/album/6NeHaP5TF8cyBVY1MT1XfB) | 2:10 | 2024-05-14 | 2024-08-14 |

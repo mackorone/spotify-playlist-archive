@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Jack Harlow, \u00d3lafur Arnalds og m\u00f6rgum fleiri!",
-  "num_followers": 9202,
+  "num_followers": 9203,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "For Melancholy Brunettes (& sad women)",
-        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Picture Window",
-      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
         "name": "Don't Wake Me Up",
         "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 154139,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
+        "name": "For Melancholy Brunettes (& sad women)",
+        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Picture Window",
+      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
         "name": "Never Forget You",
         "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 132000,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/2uSzybi2WiQq53sV4YP0L5"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
+        "name": "I Know You'd Kill",
+        "url": "https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 174493,
+      "name": "I Know You'd Kill",
+      "url": "https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
         "name": "Peace Reign",
         "url": "https://open.spotify.com/album/0pTNyJZT9TsdWpw1x7cdg7"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 155512,
       "name": "Peace Reign",
       "url": "https://open.spotify.com/track/37AnElQAdOqGpCwahotyce"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "I Know You'd Kill",
-        "url": "https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 174493,
-      "name": "I Know You'd Kill",
-      "url": "https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -767,6 +767,26 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
+        "name": "Want It",
+        "url": "https://open.spotify.com/album/0TbKK880OLEKrDziuvCrtg"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Want It",
+      "url": "https://open.spotify.com/track/6NzIiBuvtfwtcaAK6HzfMQ"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
         "name": "Dunes of Djoser",
         "url": "https://open.spotify.com/album/6eIlImZllNsBiBz8oejJ0x"
       },
@@ -799,22 +819,26 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "Want It",
-        "url": "https://open.spotify.com/album/0TbKK880OLEKrDziuvCrtg"
+        "name": "Crumble",
+        "url": "https://open.spotify.com/album/0Ma9ophXBUdVuwUqrG0t6g"
       },
       "artists": [
         {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
         },
         {
-          "name": "IYAMAH",
-          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+          "name": "Swizznife",
+          "url": "https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a"
+        },
+        {
+          "name": "May Li",
+          "url": "https://open.spotify.com/artist/4jQnjcUdngKVUr8GKjgRTJ"
         }
       ],
-      "duration_ms": 204137,
-      "name": "Want It",
-      "url": "https://open.spotify.com/track/6NzIiBuvtfwtcaAK6HzfMQ"
+      "duration_ms": 132098,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/4g8ibMfOiniXqYVwzMl8gK"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -843,30 +867,6 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "Crumble",
-        "url": "https://open.spotify.com/album/0Ma9ophXBUdVuwUqrG0t6g"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Swizznife",
-          "url": "https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a"
-        },
-        {
-          "name": "May Li",
-          "url": "https://open.spotify.com/artist/4jQnjcUdngKVUr8GKjgRTJ"
-        }
-      ],
-      "duration_ms": 132098,
-      "name": "Crumble",
-      "url": "https://open.spotify.com/track/4g8ibMfOiniXqYVwzMl8gK"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
         "name": "Language Of Love",
         "url": "https://open.spotify.com/album/6UWP1g39NtTOVHmv7c0gTP"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 160919,
       "name": "Language Of Love",
       "url": "https://open.spotify.com/track/5DXEoQhgxXds4gwNgTQfHP"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "You got time and I got money",
-        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 271583,
-      "name": "You got time and I got money",
-      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -935,42 +919,34 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "Running To The Sea (True Electric)",
-        "url": "https://open.spotify.com/album/0UpP0m7TRCsa2J5ErzyiFW"
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
       },
       "artists": [
         {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Barker & Baumecker",
-          "url": "https://open.spotify.com/artist/6Fg9F10CbylhQPMLd4EqLy"
-        },
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 416250,
-      "name": "Running To The Sea (True Electric)",
-      "url": "https://open.spotify.com/track/7MnVz2uBXiPo5RnLcNnMip"
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
     },
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "Mild To Moderate Pain",
-        "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
+        "name": "Made Of Stars",
+        "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
       },
       "artists": [
         {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
         }
       ],
-      "duration_ms": 195282,
-      "name": "Mild To Moderate Pain",
-      "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
+      "duration_ms": 196296,
+      "name": "Made of Stars",
+      "url": "https://open.spotify.com/track/0V0vq3DqvmLnJj2IqfGhyf"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -999,18 +975,42 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "Made Of Stars",
-        "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
+        "name": "Mild To Moderate Pain",
+        "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
       },
       "artists": [
         {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 196296,
-      "name": "Made of Stars",
-      "url": "https://open.spotify.com/track/0V0vq3DqvmLnJj2IqfGhyf"
+      "duration_ms": 195282,
+      "name": "Mild To Moderate Pain",
+      "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
+        "name": "Running To The Sea (True Electric)",
+        "url": "https://open.spotify.com/album/0UpP0m7TRCsa2J5ErzyiFW"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Barker & Baumecker",
+          "url": "https://open.spotify.com/artist/6Fg9F10CbylhQPMLd4EqLy"
+        },
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 416250,
+      "name": "Running To The Sea (True Electric)",
+      "url": "https://open.spotify.com/track/7MnVz2uBXiPo5RnLcNnMip"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1027,6 +1027,22 @@
       "duration_ms": 252346,
       "name": "Explorer",
       "url": "https://open.spotify.com/track/5yIH0jItIzbjKLFg5RfH4n"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
+        "name": "Dancing Around The Truth",
+        "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 230670,
+      "name": "Dancing Around The Truth",
+      "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1063,22 +1079,6 @@
       "duration_ms": 278821,
       "name": "Evocation",
       "url": "https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "Dancing Around The Truth",
-        "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 230670,
-      "name": "Dancing Around The Truth",
-      "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "formula",
-        "url": "https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 169972,
-      "name": "formula",
-      "url": "https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
         "name": "Velour",
         "url": "https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM"
       },
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/4wJJ91qvsRkV91wRjnCbJX"
+        "name": "formula",
+        "url": "https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW"
       },
       "artists": [
         {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        },
-        {
-          "name": "Amanda Cy",
-          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
         }
       ],
-      "duration_ms": 209888,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3AMD3YBrlPw3NxZqNULK4H"
+      "duration_ms": 169972,
+      "name": "formula",
+      "url": "https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1247,6 +1227,26 @@
       "duration_ms": 217426,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/29vy57r5gJtWrpUpFpbfiS"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4wJJ91qvsRkV91wRjnCbJX"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "duration_ms": 209888,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3AMD3YBrlPw3NxZqNULK4H"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "Nosebleeds / Open Season",
-        "url": "https://open.spotify.com/album/0RTlR2Q599mgWnBiR8jq2z"
-      },
-      "artists": [
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/1y8dE03i6y4c5wCODt4pxr"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/1LlxLzT0EoizvFPhlC7Jiz"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
+        "name": "Nosebleeds / Open Season",
+        "url": "https://open.spotify.com/album/0RTlR2Q599mgWnBiR8jq2z"
+      },
+      "artists": [
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/1y8dE03i6y4c5wCODt4pxr"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
         "name": "The Rhythm",
         "url": "https://open.spotify.com/album/49KprVMw2TsJ7mPOGak3s3"
       },
@@ -1387,38 +1387,6 @@
       "duration_ms": 212903,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/2MYSnX6Nqld1zRjZNxYNmC"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/3E5Ye9vpM8yRKmFirKAudy"
-      },
-      "artists": [
-        {
-          "name": "Art Nation",
-          "url": "https://open.spotify.com/artist/6V8nNGRYy1tDMxWUX0w32H"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/6UktA2MT2B4iVM3x1599l2"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "Like A Fire",
-        "url": "https://open.spotify.com/album/3m4L8w4ukhN8sLse4cOl1H"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "Like A Fire",
-      "url": "https://open.spotify.com/track/4C4Hsxfm5jgch9ZqvrFRCS"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1471,6 +1439,38 @@
       "duration_ms": 137500,
       "name": "C\u00b4MON",
       "url": "https://open.spotify.com/track/5OBRvab1IxAna8R7rHDCqi"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
+        "name": "Like A Fire",
+        "url": "https://open.spotify.com/album/3m4L8w4ukhN8sLse4cOl1H"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "Like A Fire",
+      "url": "https://open.spotify.com/track/4C4Hsxfm5jgch9ZqvrFRCS"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/3E5Ye9vpM8yRKmFirKAudy"
+      },
+      "artists": [
+        {
+          "name": "Art Nation",
+          "url": "https://open.spotify.com/artist/6V8nNGRYy1tDMxWUX0w32H"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6UktA2MT2B4iVM3x1599l2"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1539,38 +1539,6 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "beast",
-        "url": "https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq"
-      },
-      "artists": [
-        {
-          "name": "Wads",
-          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
-        }
-      ],
-      "duration_ms": 204399,
-      "name": "beast",
-      "url": "https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "Ecstasy In Space",
-        "url": "https://open.spotify.com/album/0bS66aXB3rM0HVRbJ5SJpR"
-      },
-      "artists": [
-        {
-          "name": "Blue Foundation",
-          "url": "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Ecstasy in Space",
-      "url": "https://open.spotify.com/track/30i5H3zurdOp2LwtFjAs3O"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
         "name": "Hold U Closer",
         "url": "https://open.spotify.com/album/6crolJlyKrzmrL7PBqfKBt"
       },
@@ -1591,6 +1559,22 @@
       "duration_ms": 131612,
       "name": "Hold U Closer",
       "url": "https://open.spotify.com/track/55LW8EYgDTt16pblYu5OyT"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
+        "name": "Ecstasy In Space",
+        "url": "https://open.spotify.com/album/0bS66aXB3rM0HVRbJ5SJpR"
+      },
+      "artists": [
+        {
+          "name": "Blue Foundation",
+          "url": "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Ecstasy in Space",
+      "url": "https://open.spotify.com/track/30i5H3zurdOp2LwtFjAs3O"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
+        "name": "beast",
+        "url": "https://open.spotify.com/album/4MtvbrG6KNeu7CQnPi43qq"
+      },
+      "artists": [
+        {
+          "name": "Wads",
+          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
+        }
+      ],
+      "duration_ms": 204399,
+      "name": "beast",
+      "url": "https://open.spotify.com/track/2JhFSMkUK0ahrfqvkYbU8x"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
         "name": "Away from my window",
         "url": "https://open.spotify.com/album/1JKwMfm0npkZB3wpp82cII"
       },
@@ -1631,22 +1631,6 @@
       "duration_ms": 150546,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4tMGLfiJ5lrd9i5HibUaMG"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "Terrified",
-        "url": "https://open.spotify.com/album/0tofZ5bIVEpKo1OIk6W846"
-      },
-      "artists": [
-        {
-          "name": "V. Christie",
-          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
-        }
-      ],
-      "duration_ms": 192444,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/50Emba1ptzsajP7aS3TRfY"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/0tofZ5bIVEpKo1OIk6W846"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 192444,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/50Emba1ptzsajP7aS3TRfY"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/7b3nfq04YzPyAhqIqYedeP"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 182727,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/7j8jE8iilAiyz5HhwtSHOn"
+    },
+    {
+      "added_at": "2025-03-21 04:00:42",
+      "album": {
+        "name": "Wedding Present",
+        "url": "https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs"
+      },
+      "artists": [
+        {
+          "name": "OLSSON",
+          "url": "https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH"
+        }
+      ],
+      "duration_ms": 245382,
+      "name": "Wedding Present",
+      "url": "https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi"
     },
     {
       "added_at": "2025-03-21 04:00:42",
@@ -1731,38 +1747,18 @@
     {
       "added_at": "2025-03-21 04:00:42",
       "album": {
-        "name": "Wedding Present",
-        "url": "https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs"
+        "name": "Leave It",
+        "url": "https://open.spotify.com/album/5fS6vppJIUqqAYWYrXwnhf"
       },
       "artists": [
         {
-          "name": "OLSSON",
-          "url": "https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH"
+          "name": "100%WET",
+          "url": "https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2"
         }
       ],
-      "duration_ms": 245382,
-      "name": "Wedding Present",
-      "url": "https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi"
-    },
-    {
-      "added_at": "2025-03-21 04:00:42",
-      "album": {
-        "name": "A Message",
-        "url": "https://open.spotify.com/album/1msgwc1aQ8XqdjlN8xn2c8"
-      },
-      "artists": [
-        {
-          "name": "Soia",
-          "url": "https://open.spotify.com/artist/4YccNujC5Tt1OmRFrCRQJG"
-        },
-        {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
-        }
-      ],
-      "duration_ms": 247970,
-      "name": "A Message",
-      "url": "https://open.spotify.com/track/1DJhGvf8cm4cN8EcwfbN0W"
+      "duration_ms": 194500,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/29yESaiLn4g3gHHzjOzmDw"
     }
   ],
   "unique_name": "New Music Friday Iceland",

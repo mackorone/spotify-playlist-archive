@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-650 songs - 1 day 14 hr 17 min
+651 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Hey Aara](https://open.spotify.com/track/0uSXccObNoMAHDaSjAi5dG) | [Sudharshan Senthilkumar](https://open.spotify.com/artist/12FIsAEo2PTfy3o0fmsoyp) | [Hey Aara](https://open.spotify.com/album/2FPmpo1FVMXpnjOg5PkGMr) | 3:40 | 2022-08-11 | 2023-02-07 |
 | [Hey Baby](https://open.spotify.com/track/62vCoiT650UeTvL3cq4Tud) | [Vithun Gopal](https://open.spotify.com/artist/1aFooHTtn9P4VBcBFIlVRe), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Hey Baby](https://open.spotify.com/album/1jhgVqj4Kq3ra5pxP8MEYr) | 3:38 | 2023-02-23 | 2023-03-18 |
 | [Hey Girl](https://open.spotify.com/track/3mEuJiQ0uuhEBP5ziB1d61) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Karthik Nick](https://open.spotify.com/artist/4BdmxUlU3i8DXOPwrscd7o) | [Hey Girl](https://open.spotify.com/album/538f51h9Q9qDirlYzx7xkI) | 4:06 | 2022-02-16 | 2022-07-08 |
+| [Hey Kadhal Kanmani](https://open.spotify.com/track/68rnua8CCiXP2pN8aqepBv) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Vivek ravi](https://open.spotify.com/artist/5hG8x8ynDBvUBOqYQOxpfU) | [Hey Kadhal Kanmani](https://open.spotify.com/album/6ZplA3nsVgTXXpXgbaVktU) | 2:27 | 2025-03-26 |  |
 | [Hey Sagiye](https://open.spotify.com/track/5UoDP4lBVA2Cpdg3J9GqSe) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Sagiye](https://open.spotify.com/album/1B0xbRHabbOWaPfQDw7eOc) | 3:08 | 2022-09-23 | 2022-10-07 |
 | [Hey Singari](https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts) | 3:51 | 2021-12-01 | 2022-08-12 |
 | [HIGH FASHION](https://open.spotify.com/track/7BtpADoxk4qpQiK3gQMtDb) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [HIGH FASHION](https://open.spotify.com/album/4OS7pjJGJ8gpoM8uFWgawi) | 2:12 | 2024-09-30 |  |
@@ -458,7 +459,7 @@
 | [Pengal Enna Choppa Choppa](https://open.spotify.com/track/5V6bMrPoYSfxQnItOFhTzZ) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 4:24 | 2022-07-27 | 2022-08-10 |
 | [Penne Penne](https://open.spotify.com/track/7wktPi8l3bXAhvOiWqKllr) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Sneha](https://open.spotify.com/artist/4sGKWGGLqfIOZL8tezvVQC), [Vaimu](https://open.spotify.com/artist/39gh6G2if8vM0DKvE9OnbY) | [Penne Penne](https://open.spotify.com/album/6XWoExiZ3TpM0jH3ukBaNU) | 2:57 | 2023-03-09 | 2023-03-18 |
 | [PENNE UN KANNAALA](https://open.spotify.com/track/5kVhEgkDxpTTAnAUqPaZKh) | [Praveen Gunendran](https://open.spotify.com/artist/1AXchzqueZFYKft4uSMMzC), [Praveen Ram](https://open.spotify.com/artist/6HyAuuOnTQuz48aHvCAAa7), [Guillermo de la Torre](https://open.spotify.com/artist/4U0LK6SVIw6sW4qOmVnTlO) | [PENNE UN KANNAALA](https://open.spotify.com/album/5GgMbPhVrH0r7eBV18zQf6) | 3:15 | 2022-07-14 | 2023-02-07 |
-| [Peranbey](https://open.spotify.com/track/0FqPlEEaI68rnTr2m80rqi) | [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Peranbey](https://open.spotify.com/album/66ftPnCRMbfsDrdiWfj8e3) | 3:27 | 2025-02-14 |  |
+| [Peranbey](https://open.spotify.com/track/0FqPlEEaI68rnTr2m80rqi) | [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Peranbey](https://open.spotify.com/album/66ftPnCRMbfsDrdiWfj8e3) | 3:27 | 2025-02-14 | 2025-03-27 |
 | [Perth \- Tamil Cover](https://open.spotify.com/track/4ZQ0GVESzV875sbZljIsYK) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Perth \(Tamil Cover\)](https://open.spotify.com/album/1VABy76095kihwbKcxQi4b) | 4:29 | 2022-09-23 | 2022-10-11 |
 | [Pesa Mozhi](https://open.spotify.com/track/38vVQIfbAAQkJ6HCGcnm6E) | [Prem](https://open.spotify.com/artist/4P2AbJbFAKIeG0q7stoJWh), [Khaviya](https://open.spotify.com/artist/0NSP91t444XUV1NSQX6cRQ) | [Pesa Mozhi](https://open.spotify.com/album/0M9e18gom99wQ7Q3NoXtYI) | 4:48 | 2022-07-15 | 2022-08-10 |
 | [Piditha Kirukey](https://open.spotify.com/track/2QKjiDbWqZRweSx0wXt7Ly) | [Staccato](https://open.spotify.com/artist/4xJ2OhwG11WMQg1RcwVVeX) | [Piditha Kirukey](https://open.spotify.com/album/4wAIGTaU0n7NzD23QeqoWr) | 3:04 | 2021-12-01 | 2022-05-31 |

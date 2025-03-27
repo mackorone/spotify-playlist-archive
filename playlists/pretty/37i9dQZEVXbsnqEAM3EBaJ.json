@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD1kTcaMcD96Lx7qgzFf/tk",
+  "snapshot_id": "AAAAAAAAAACjs/Zok10GSMs+FVbDCAjy",
   "tracks": [
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
-        "name": "Every Day Is Halloween (Squirrely Version)",
-        "url": "https://open.spotify.com/album/009u51Pmgicebl8veyAnCH"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "Every Day Is Halloween - Squirrely Version",
-      "url": "https://open.spotify.com/track/3tkydTKLL3pf7NWHKoqOGI"
-    },
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
@@ -139,30 +123,6 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "Harmonies of Soul 2",
-        "url": "https://open.spotify.com/album/6L5vVDTlc8zxzsQaknsqrK"
-      },
-      "artists": [
-        {
-          "name": "Drumatic&Fa\u00e7ade",
-          "url": "https://open.spotify.com/artist/5ZAUB7yRQT6EaeRBGmNYIx"
-        },
-        {
-          "name": "Nelerh",
-          "url": "https://open.spotify.com/artist/75RCJSBtdVE4Gu5Qyjt7Mx"
-        },
-        {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
-        }
-      ],
-      "duration_ms": 450304,
-      "name": "Nyathela (feat. Nelerh & Panda)",
-      "url": "https://open.spotify.com/track/5b7bKrKV1JKBGSED6omXwg"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
         "name": "Let's Go Dumb Crasy",
         "url": "https://open.spotify.com/album/68A6ehq49gNiFI6hrOwW60"
       },
@@ -187,22 +147,6 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14"
-      },
-      "artists": [
-        {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
-        }
-      ],
-      "duration_ms": 572600,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/4onSGbFyDBfo5vfodJghCz"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
         "name": "The Shadow Elite",
         "url": "https://open.spotify.com/album/368LvzVtG97TQPF42TAwch"
       },
@@ -215,6 +159,22 @@
       "duration_ms": 279493,
       "name": "The Shadow Elite",
       "url": "https://open.spotify.com/track/1hjiZRmHByToO3dPjFSGUH"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14"
+      },
+      "artists": [
+        {
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+        }
+      ],
+      "duration_ms": 572600,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/4onSGbFyDBfo5vfodJghCz"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -235,22 +195,6 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 215566,
-      "name": "Elegy",
-      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -267,22 +211,6 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "Awen",
-        "url": "https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Awen",
-      "url": "https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
         "name": "T.I.M.E.",
         "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
       },
@@ -295,6 +223,38 @@
       "duration_ms": 238407,
       "name": "T.I.M.E.",
       "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 215566,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "Awen",
+        "url": "https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Awen",
+      "url": "https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -351,22 +311,6 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "Myths of Fate (Orchestral Version)",
-        "url": "https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 270943,
-      "name": "Fear the Serpent - Orchestral Version",
-      "url": "https://open.spotify.com/track/5FM0Dejn9IkBuLT9T2A69m"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
         "name": "Himno De Yo Soy",
         "url": "https://open.spotify.com/album/2Wu9DsEkMIovr06z9ApwGP"
       },
@@ -383,22 +327,18 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV"
+        "name": "Myths of Fate (Orchestral Version)",
+        "url": "https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
         }
       ],
-      "duration_ms": 193490,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
+      "duration_ms": 270943,
+      "name": "Fear the Serpent - Orchestral Version",
+      "url": "https://open.spotify.com/track/5FM0Dejn9IkBuLT9T2A69m"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -563,46 +503,6 @@
       "duration_ms": 152998,
       "name": "Dance Dance Dance",
       "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
-        "name": "Harvest of Sorrow (All Versions)",
-        "url": "https://open.spotify.com/album/3gnOkMUVQ9gX8Fh7YOLqqi"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Mies Del Dolor",
-      "url": "https://open.spotify.com/track/3hnoHYb1sBnQgTbQKSblj6"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
-        "name": "Private Dancer (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Greg Walsh",
-          "url": "https://open.spotify.com/artist/1oVGKaQu7WJwgR6668lrrI"
-        },
-        {
-          "name": "Martyn Ware",
-          "url": "https://open.spotify.com/artist/0g4bxJkNeoMi0rRJw5hGPV"
-        }
-      ],
-      "duration_ms": 230146,
-      "name": "Let's Stay Together - Alternative Radio Mix, 1983",
-      "url": "https://open.spotify.com/track/4uW9miGI2E7d1aAvcEyVp3"
     },
     {
       "added_at": "2025-03-21 03:00:00",

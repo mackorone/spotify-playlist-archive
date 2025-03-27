@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Luidji
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,094 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,096 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 |
-| 2 | [Comic sans MS](https://open.spotify.com/track/6H3u3KdZT5d37IYhd5u6LW) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Comic sans MS](https://open.spotify.com/album/68sOOXtT9bAtUYAoXLh4i7) | 2:52 |
+| 2 | [Comic sans MS](https://open.spotify.com/track/7sD10DGosao4LdDLQAbHdf) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Comic sans MS](https://open.spotify.com/album/4g73kTRuuJEu2MgotPcgS4) | 2:52 |
 | 3 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
 | 4 | [Photo mentale](https://open.spotify.com/track/1JRa6FOWqQ0pJbZbV50jdS) | [Ève](https://open.spotify.com/artist/09X1kbjR9O2Cb3gdPvpgKG), [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp) | [Photo mentale](https://open.spotify.com/album/29hYSRZGCXVB64FXX765uo) | 3:44 |
 | 5 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 | 39 | [PAS CHEZ MOI](https://open.spotify.com/track/5IBwwAbYOhgXoOu8CgeQAV) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [PAS CHEZ MOI](https://open.spotify.com/album/0LwEw2LjM9mEVbENVdQ3eE) | 2:56 |
 | 40 | [A la folie](https://open.spotify.com/track/4CkPnK5pnxA5rGIgG6WmpU) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [A la folie](https://open.spotify.com/album/395fRjBGn4yoTYp97mAOUq) | 3:00 |
 
-Snapshot ID: `Z9yd+QAAAACqSj44EEtHXn+iaXcSZQG9`
+Snapshot ID: `Z+Qv1QAAAACbavYZwx+SJri4+BFHH3jw`

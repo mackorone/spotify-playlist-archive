@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los Ángeles Azules y Kenia OS
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,516 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,523 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 19 | [De Tu Vida Ya Me Voy](https://open.spotify.com/track/2CC0R86Z01F6q2W62XkByv) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [De Tu Vida Ya Me Voy](https://open.spotify.com/album/6tqdrYLnyDcpY65v61dPbe) | 3:12 |
 | 20 | [El Solicitado](https://open.spotify.com/track/0zi0S1FgVinwAxODEFrQpU) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Puras Selecciones](https://open.spotify.com/album/1yWwirbJDCSoI6gNDbOAAH) | 3:42 |
 | 21 | [Cruda Moral](https://open.spotify.com/track/7wQbIuItdaE8kUfMIbb7zL) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Cruda Moral](https://open.spotify.com/album/1HIvvTrMhtebUi8TpqKq6J) | 3:07 |
-| 22 | [Taj Mahal](https://open.spotify.com/track/0s1hvniGcida9Kj56kr7cq) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Héctor Vargas](https://open.spotify.com/artist/5uHR2sejCQXUW1HAmioYfk) | [Taj Mahal](https://open.spotify.com/album/4xdkvIKj5n2iBHzvI4HWdf) | 3:07 |
+| 22 | [Taj Mahal](https://open.spotify.com/track/0s1hvniGcida9Kj56kr7cq) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [Taj Mahal](https://open.spotify.com/album/4xdkvIKj5n2iBHzvI4HWdf) | 3:07 |
 | 23 | [Humo Tranqui](https://open.spotify.com/track/4Qw2oUPDxOSZsJPEqzJSgc) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Humo Tranqui](https://open.spotify.com/album/30ItvFHkxPnm6nEeIyUF4G) | 2:43 |
 | 24 | [Experiencia Religiosa](https://open.spotify.com/track/3djWOHPhNgMAVrt3ncEP0R) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Experiencia Religiosa](https://open.spotify.com/album/5zYmXwAGPsDadjbncry3PY) | 3:28 |
 | 25 | [La Pista Esta Caliente](https://open.spotify.com/track/0tWAdJsOTUewLYwehnyPb7) | [La Casetera](https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM) | [Lado A](https://open.spotify.com/album/45X6d0elMPmyJh0WYV4JjG) | 2:48 |

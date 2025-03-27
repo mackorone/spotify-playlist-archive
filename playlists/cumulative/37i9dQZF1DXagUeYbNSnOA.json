@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Adryanna Cauduro. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Dav Julca. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -7226,7 +7226,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 163137,
       "name": "Capricho",
       "url": "https://open.spotify.com/track/458cSEghPwtxKFE9O14bZy"
@@ -22142,7 +22142,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 203523,
       "name": "La Tr\u00e1gica",
       "url": "https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH"
@@ -37305,6 +37305,24 @@
     },
     {
       "album": {
+        "name": "RUB\u00cd",
+        "url": "https://open.spotify.com/album/2kzPYO0QtAeGO9ghlo78aJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Herdt",
+          "url": "https://open.spotify.com/artist/11IWeKauRXQykXxQtkHBGE"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "RUB\u00cd",
+      "url": "https://open.spotify.com/track/5fBNe6Gg6uIyrrdD8h5bhe"
+    },
+    {
+      "album": {
         "name": "Ruinas",
         "url": "https://open.spotify.com/album/1pJbGnyljnstvqE1kiu8Bw"
       },
@@ -39453,6 +39471,24 @@
     },
     {
       "album": {
+        "name": "SO GOOD",
+        "url": "https://open.spotify.com/album/2jdqrtSfHnjzvSNImTPfnv"
+      },
+      "artists": [
+        {
+          "name": "Dav Julca",
+          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228519,
+      "name": "SO GOOD",
+      "url": "https://open.spotify.com/track/1248JYGuWRNzUcvAK9H8si"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6cgSEVAwQ0C8fCiw7NgeDw"
       },
@@ -40908,6 +40944,28 @@
       "duration_ms": 190800,
       "name": "S\u00ed o no",
       "url": "https://open.spotify.com/track/6rxTP2s9WazLfuvvMYqGG3"
+    },
+    {
+      "album": {
+        "name": "S\u00cdGUEME",
+        "url": "https://open.spotify.com/album/1MQpU7y31iaIHoLWaTJxOf"
+      },
+      "artists": [
+        {
+          "name": "Xiuhtezcatl",
+          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
+        },
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197515,
+      "name": "S\u00cdGUEME",
+      "url": "https://open.spotify.com/track/4vb8Rou2dDUEtBOOo57eVu"
     },
     {
       "album": {
@@ -44266,7 +44324,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 182758,
       "name": "Tus Ojos (3:33)",
       "url": "https://open.spotify.com/track/5CvQSE6mWG7fA4ycRA2riF"

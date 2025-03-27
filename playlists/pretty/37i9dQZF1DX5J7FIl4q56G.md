@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Spiritworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,486 likes - 61 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,489 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,15 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [The Light Within](https://open.spotify.com/track/6E90ttNb3TeSsD7LXmJ3yq) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [The Light Within](https://open.spotify.com/album/0OHX8AeR7WEIKqcbYAwxsy) | 3:12 |
 | 50 | [deadweight](https://open.spotify.com/track/2HNepQwYw5c2CxUqFsL63u) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [deadweight](https://open.spotify.com/album/6itHZMPoU0VskvJf8iKqsP) | 3:30 |
 | 51 | [Follow Me](https://open.spotify.com/track/6N4x0cKUpaUyA84coOOZiK) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc) | [Follow Me](https://open.spotify.com/album/2g4nqGy8ISxrVvO2UHDoNk) | 5:01 |
-| 52 | [Rhythm of Love](https://open.spotify.com/track/7fd4gTMhiTwKAcUxNG5dHO) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Rhythm of Love](https://open.spotify.com/album/0Uk5EHLANopfR4a7a8PjS0) | 3:06 |
-| 53 | [BLUR](https://open.spotify.com/track/6bXJ8URWz3lhVcFLfofX2C) | [dead7](https://open.spotify.com/artist/35iAdp3TrZPJT5UCv9bq7V) | [BLUR](https://open.spotify.com/album/04OyhrsE5tEWLYjIeFAUJI) | 3:07 |
-| 54 | [A Dark & Graceful Wilderness](https://open.spotify.com/track/4JmUKz7Uht1PXRZOU3sdAk) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [A Dark & Graceful Wilderness](https://open.spotify.com/album/0YmQ8T741TBo5wrVGkTlEe) | 5:48 |
-| 55 | [Drowning](https://open.spotify.com/track/1oXT4tOrAoBiv0dvaPxS11) | [9 Dead](https://open.spotify.com/artist/5JV2PBzK9hKbN4fhUKJMUT) | [Drowning](https://open.spotify.com/album/2t8dfRsbX4msE4geqUqza2) | 2:57 |
-| 56 | [Gomorrah Nouveaux](https://open.spotify.com/track/2jV8ASwqzFdy1Xmdjmvt1R) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Goldstar](https://open.spotify.com/album/2jbYQIDVjx3cWz9yoDmkkU) | 4:34 |
-| 57 | [Prophetical Mercury Implement](https://open.spotify.com/track/5KDY1AovVtxn3mOjQ8Z4ZP) | [...And Oceans](https://open.spotify.com/artist/0rWmH68lIyVOGYhhvayFzu) | [Prophetical Mercury Implement](https://open.spotify.com/album/4pSt8ftfVB5b6dgLaGNkz7) | 6:56 |
-| 58 | [Rami](https://open.spotify.com/track/4Zdrv0DyXi8qi0qJZaaswG) | [Stormo](https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m) | [Tagli/Talee](https://open.spotify.com/album/2SAckXjXMAigSAf5GbpqJT) | 2:17 |
-| 59 | [Time for Freedom](https://open.spotify.com/track/7BEDqhB2vPjQUahnG1kKkQ) | [Defender](https://open.spotify.com/artist/0QxT3qKVFxIm78Q3o1PN3J) | [Dying to Live](https://open.spotify.com/album/3eLKqzmeKzXjj5C6gQWMvB) | 4:55 |
-| 60 | [Cryptic Psychosis](https://open.spotify.com/track/3K9f0k2mBTFd3wrxnJ0VVs) | [Ill Natured](https://open.spotify.com/artist/1MRRek8lSQRSpZ3a8j7EN9) | [Cryptic Psychosis](https://open.spotify.com/album/7eCfrXvVCMrvbEw4qOhbIA) | 2:27 |
-| 61 | [A Broken Symbol](https://open.spotify.com/track/3AyuwY4fY24Uf8hDP1DY5g) | [District105](https://open.spotify.com/artist/5ifAMBDQn2LbgddLbQWx9n) | [Chapter 1: The Lost Creator](https://open.spotify.com/album/6sq34BSCnM38g7ECHkTkU3) | 2:52 |
+| 52 | [BLUR](https://open.spotify.com/track/6bXJ8URWz3lhVcFLfofX2C) | [dead7](https://open.spotify.com/artist/35iAdp3TrZPJT5UCv9bq7V) | [BLUR](https://open.spotify.com/album/04OyhrsE5tEWLYjIeFAUJI) | 3:07 |
+| 53 | [A Dark & Graceful Wilderness](https://open.spotify.com/track/4JmUKz7Uht1PXRZOU3sdAk) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [A Dark & Graceful Wilderness](https://open.spotify.com/album/0YmQ8T741TBo5wrVGkTlEe) | 5:48 |
+| 54 | [Drowning](https://open.spotify.com/track/1oXT4tOrAoBiv0dvaPxS11) | [9 Dead](https://open.spotify.com/artist/5JV2PBzK9hKbN4fhUKJMUT) | [Drowning](https://open.spotify.com/album/2t8dfRsbX4msE4geqUqza2) | 2:57 |
+| 55 | [Gomorrah Nouveaux](https://open.spotify.com/track/2jV8ASwqzFdy1Xmdjmvt1R) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Goldstar](https://open.spotify.com/album/2jbYQIDVjx3cWz9yoDmkkU) | 4:34 |
+| 56 | [Prophetical Mercury Implement](https://open.spotify.com/track/5KDY1AovVtxn3mOjQ8Z4ZP) | [...And Oceans](https://open.spotify.com/artist/0rWmH68lIyVOGYhhvayFzu) | [Prophetical Mercury Implement](https://open.spotify.com/album/4pSt8ftfVB5b6dgLaGNkz7) | 6:56 |
+| 57 | [Rami](https://open.spotify.com/track/4Zdrv0DyXi8qi0qJZaaswG) | [Stormo](https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m) | [Tagli/Talee](https://open.spotify.com/album/2SAckXjXMAigSAf5GbpqJT) | 2:17 |
+| 58 | [Time for Freedom](https://open.spotify.com/track/7BEDqhB2vPjQUahnG1kKkQ) | [Defender](https://open.spotify.com/artist/0QxT3qKVFxIm78Q3o1PN3J) | [Dying to Live](https://open.spotify.com/album/3eLKqzmeKzXjj5C6gQWMvB) | 4:55 |
+| 59 | [Cryptic Psychosis](https://open.spotify.com/track/3K9f0k2mBTFd3wrxnJ0VVs) | [Ill Natured](https://open.spotify.com/artist/1MRRek8lSQRSpZ3a8j7EN9) | [Cryptic Psychosis](https://open.spotify.com/album/7eCfrXvVCMrvbEw4qOhbIA) | 2:27 |
+| 60 | [A Broken Symbol](https://open.spotify.com/track/3AyuwY4fY24Uf8hDP1DY5g) | [District105](https://open.spotify.com/artist/5ifAMBDQn2LbgddLbQWx9n) | [Chapter 1: The Lost Creator](https://open.spotify.com/album/6sq34BSCnM38g7ECHkTkU3) | 2:52 |
 
-Snapshot ID: `Z9zkdgAAAABJb2Noe0MWhgjFbGvyx3zA`
+Snapshot ID: `Z+QpQwAAAACpGdzhcwdXkdtbSPljr8cO`

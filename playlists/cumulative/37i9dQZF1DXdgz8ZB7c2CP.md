@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring DJ Carpenter & MASAKA
 
-977 songs - 2 day 5 hr 53 min
+978 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Brush Strokes \- Jacques Greene Remix](https://open.spotify.com/track/20CNnGsrRlFL4UdPh7jk5G) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Brush Strokes \(Jacques Greene Remix\)](https://open.spotify.com/album/0GZtBJKuA2aSZEykV0asVZ) | 4:21 | 2023-11-09 | 2023-12-14 |
 | [Brushcutter](https://open.spotify.com/track/35ddVA9CFv9ko3v2KZQfBp) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Marley Waters](https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0) | [Brushcutter](https://open.spotify.com/album/4OifWWoACaTzqafzSDBm5y) | 4:31 | 2025-02-06 |  |
 | [Burn](https://open.spotify.com/track/2ejYIN0aROGGouYo3SIxtt) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Under the Light of a Dying Moon](https://open.spotify.com/album/0nVBHam69xP8JKcnduelr4) | 4:04 | 2021-08-06 | 2022-04-20 |
-| [CA$HED UP](https://open.spotify.com/track/3GEFATx7q7vAlz9jzTGLda) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [CA$HED UP](https://open.spotify.com/album/3Y3omMSeHyie3YmHnqZOwl) | 2:54 | 2025-03-06 |  |
+| [CA$HED UP](https://open.spotify.com/track/3GEFATx7q7vAlz9jzTGLda) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [CA$HED UP](https://open.spotify.com/album/3Y3omMSeHyie3YmHnqZOwl) | 2:54 | 2025-03-06 | 2025-03-27 |
 | [Call It Love \- AMNES Remix](https://open.spotify.com/track/16RFGTM80uMYGelXW1VjB4) | [AMNES](https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ) | [Call It Love \(AMNES Remix\)](https://open.spotify.com/album/44DFfRcLhuIlySbmiGcWnq) | 3:18 | 2024-03-07 | 2024-06-01 |
 | [Call It Love \- Slackin Beats Remix](https://open.spotify.com/track/5o0NJO88HH4SVW5HBD1SXR) | [AMNES](https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Call It Love \(Slackin Beats Remix\)](https://open.spotify.com/album/3kijTQduW7TXRPTZmXZlr1) | 3:00 | 2024-03-21 | 2024-04-05 |
 | [call me up](https://open.spotify.com/track/4WzOPJJtDYjBpqLDvadaMx) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [call me up](https://open.spotify.com/album/1w14PvnHzO7YSAwvx1dzcJ) | 3:48 | 2023-02-24 | 2023-03-01 |
@@ -902,6 +902,7 @@
 | [Undo U](https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U](https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f) | 2:02 | 2023-10-05 | 2024-01-19 |
 | [Unknowable](https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Unknowable](https://open.spotify.com/album/02KxfrGk4P5AesEeEDm343) | 3:03 | 2024-11-07 | 2024-12-14 |
 | [Unspoken](https://open.spotify.com/track/6WcSm79HcRk5Twgv7G4wFM) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Unspoken](https://open.spotify.com/album/04ZCiHmzCYFDVKcTrguNDj) | 3:24 | 2021-08-06 | 2022-10-26 |
+| [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 | 2025-03-20 |  |
 | [Vendetta For Cupid](https://open.spotify.com/track/1ZYw2g4nkNIFsysyEZxLgP) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [TYGKO](https://open.spotify.com/artist/4ekCKsrLpp6xf8kJ2AUJVU) | [Vendetta For Cupid](https://open.spotify.com/album/57YPYp8qTeuQen2K4yinE4) | 3:52 | 2021-08-06 | 2022-07-29 |
 | [VIOLET](https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [VIOLET](https://open.spotify.com/album/1PXmYCuozfCvpV3ssSgsgA) | 2:26 | 2023-10-05 | 2023-11-11 |
 | [Violet](https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Violet](https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk) | 2:43 | 2023-01-20 | 2023-03-04 |

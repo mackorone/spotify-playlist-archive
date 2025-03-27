@@ -2,7 +2,7 @@
 
 ### [Instrumental Study](https://open.spotify.com/playlist/37i9dQZF1DX9sIqqvKsjG8)
 
-> Soft piano music to help you focus and chill.
+> Soft and contemplative piano music to help you focus and chill.
 
 935 songs - 1 day 15 hr 58 min
 

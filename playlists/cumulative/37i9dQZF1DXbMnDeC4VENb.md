@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-382 songs - 21 hr 36 min
+384 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 | 2022-05-25 |  |
 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 | 2023-02-24 |  |
 | [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 | 2023-08-04 |  |
+| [Me Mata Perderte](https://open.spotify.com/track/5W19b901CvJtOed0GL9JgP) | [Leyruk](https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg) | [Me Mata Perderte](https://open.spotify.com/album/0BWXMA7zLCkSWuopmtMiQZ) | 4:04 | 2025-03-26 |  |
 | [Me Perdí](https://open.spotify.com/track/0MviaUXHVTPtSBrdI4jdbV) | [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Me Perdí](https://open.spotify.com/album/3JztFYUCobcH797dwe4hL3) | 2:44 | 2024-12-13 |  |
 | [Me Tuve Que Ir](https://open.spotify.com/track/3jBKh1vTHOzusz86Rci2dB) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Tu Antihéroe Favorito](https://open.spotify.com/album/19ntSsV1bPOl8Twys0bZIr) | 2:28 | 2025-02-13 | 2025-03-08 |
 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 | 2024-06-07 | 2024-06-22 |
@@ -322,6 +323,7 @@
 | [Sé Que Esperabas la Lluvia](https://open.spotify.com/track/0Ghjx5UhZjI19MltKvBTQd) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Sé Que Esperabas la Lluvia](https://open.spotify.com/album/7JfJGr9bdHuQgZQqYoWCji) | 6:50 | 2025-02-13 | 2025-03-08 |
 | [Sólo Si Es Contigo](https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Si Es Contigo](https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon) | 3:59 | 2022-05-25 |  |
 | [Tal Vez](https://open.spotify.com/track/1NmsCqlUdt4urk9KstrvW8) | [W.Ayala](https://open.spotify.com/artist/42wAl3UsYPuoORs1HKwVH0), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [A la Vuelta de la Esquina](https://open.spotify.com/album/4iKIe4NFlimoBl1LdRm30E) | 3:33 | 2024-06-04 |  |
+| [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 | 2025-03-26 |  |
 | [Te Amodio](https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Te Amodio](https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA) | 4:27 | 2023-08-04 |  |
 | [Te Dejé Volar](https://open.spotify.com/track/5eiWiZtsTE7EZqSBkcxKkP) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Degeneración Nacional](https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi) | 3:41 | 2024-06-04 |  |
 | [Te Deseo Lo Mejor](https://open.spotify.com/track/4xC6hpXVqIfUkiHswrI8Vr) | [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01), [Alexander Vera](https://open.spotify.com/artist/4zQnlSlfg2Hy87ULJpjzkB) | [Te Deseo Lo Mejor](https://open.spotify.com/album/6pGKNM53b4PH1v015cjZfs) | 2:53 | 2024-06-04 |  |

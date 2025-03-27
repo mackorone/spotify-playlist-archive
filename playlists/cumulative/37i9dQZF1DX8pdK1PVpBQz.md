@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Chitra
 
-3,886 songs - 8 day 21 hr 41 min
+3,887 songs - 8 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2628,6 +2628,7 @@
 | [PITIFUL BITCH](https://open.spotify.com/track/2emUAjccTVPhA5PDrsrPwP) | [LAU](https://open.spotify.com/artist/1MSiHoB30UwWTlenagC5gy) | [PITIFUL BITCH](https://open.spotify.com/album/1ix1NZwWZyJ4tK64lcfFmI) | 2:11 | 2022-09-21 | 2022-10-27 |
 | [PJ Princess](https://open.spotify.com/track/57WXvDR29SEJls7IKMaWWr) | [Baby Zionov](https://open.spotify.com/artist/4RLTd4Vi9dfNeEKMnmylaO) | [PJ Princess](https://open.spotify.com/album/4o4QeGHMTx4SJcuCXEyzy2) | 4:00 | 2022-04-06 | 2022-04-21 |
 | [Place To Speak](https://open.spotify.com/track/1MOgTSslmMoqS6WxejCXcg) | [Hey! Astro](https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl) | [Place To Speak](https://open.spotify.com/album/7fHzXzG8xBcyISqEY2DpLP) | 2:21 | 2022-06-15 | 2022-07-07 |
+| [Place Where I Go](https://open.spotify.com/track/1ivMAc4gwF8d9mEXFHYcbz) | [Keanu Nelson](https://open.spotify.com/artist/0TUcASMdcppH9mH0PzCpKG) | [Place Where I Go](https://open.spotify.com/album/5AW3X0hzbgB10tZVgk6YMk) | 3:36 | 2025-03-26 |  |
 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 | 2023-01-12 | 2023-02-23 |
 | [Plan A](https://open.spotify.com/track/3PrlOMIm6Kg1YFnLmJJ2Ug) | [Steez Malase](https://open.spotify.com/artist/4TPrFPcmonEoLJse8dS8Eo) | [Plan A](https://open.spotify.com/album/31e1vLQnIOnLsb7LmhqZaE) | 2:37 | 2023-08-16 | 2023-08-31 |
 | [Planet](https://open.spotify.com/track/3n2gA5TniaGUbonCfnUpYf) | [Franko Gonzo](https://open.spotify.com/artist/07HyKUaifP40mpsVsLCacY) | [Planet](https://open.spotify.com/album/7xp7nyGsoccGncUZoITCZK) | 3:17 | 2022-03-16 | 2022-04-21 |
@@ -3037,7 +3038,7 @@
 | [Slide By Me](https://open.spotify.com/track/7mK7dCLNWlrtw3S9OleiBu) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Slide By Me](https://open.spotify.com/album/07UPdcuEp6f1qgYpmARU4u) | 1:48 | 2024-02-08 | 2024-04-09 |
 | [Slip](https://open.spotify.com/track/0E3sFTJ9GFhRbq3HKxV3f9) | [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Slip](https://open.spotify.com/album/53mf49ci0ROwgd9ZrPXfqL) | 2:59 | 2022-05-25 | 2022-06-23 |
 | [Slippery](https://open.spotify.com/track/3vRjjN0CkUdfREnSja3Q0i) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Slippery](https://open.spotify.com/album/420j8oB94KH2s8007O1NNU) | 3:24 | 2024-07-23 | 2024-09-18 |
-| [Slipstream](https://open.spotify.com/track/2SYlbxmIgCrSikbiwE9KUS) | [People Taking Pictures](https://open.spotify.com/artist/71i1Gejir1C7Xh3Bzu4qzA), [POW! Negro](https://open.spotify.com/artist/0BHOYHAdSQePher0Kf0djK) | [Slipstream](https://open.spotify.com/album/5wxEFIpZfrBjXnDd6Ocb2q) | 3:40 | 2025-02-18 |  |
+| [Slipstream](https://open.spotify.com/track/2SYlbxmIgCrSikbiwE9KUS) | [People Taking Pictures](https://open.spotify.com/artist/71i1Gejir1C7Xh3Bzu4qzA), [POW! Negro](https://open.spotify.com/artist/0BHOYHAdSQePher0Kf0djK) | [Slipstream](https://open.spotify.com/album/5wxEFIpZfrBjXnDd6Ocb2q) | 3:40 | 2025-02-18 | 2025-03-27 |
 | [Slow](https://open.spotify.com/track/0TcGDRh3AbdKBQXtAbtp3n) | [Sylvee](https://open.spotify.com/artist/1OmQ8TgrwtDSA6cPVWwUbR) | [Slow](https://open.spotify.com/album/4Vp8RMvNLZHccQxPZKqaj0) | 2:43 | 2022-08-16 | 2022-09-15 |
 | [Slow Burn](https://open.spotify.com/track/0EZisiQTRMClcV4CfoH1lv) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/26KqpBmvqP47bBK734RAsM) | 3:55 | 2022-05-25 | 2022-06-09 |
 | [Slow Down](https://open.spotify.com/track/6BvF4RzW9M4MfGutRzzNbQ) | [Carlito Hendrix](https://open.spotify.com/artist/6nhDW6n31y871SlcFTczQ3) | [Slow Down](https://open.spotify.com/album/0kn8MwDxV9a5SUA6FBagr1) | 2:25 | 2022-11-23 | 2022-12-01 |

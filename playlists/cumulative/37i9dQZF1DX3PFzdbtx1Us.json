@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/7eo39n32RoBLx2Z2yFfsnG"
+      },
+      "artists": [
+        {
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197575,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt"
+    },
+    {
+      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -3798,6 +3816,24 @@
       "duration_ms": 107585,
       "name": "Maybe One Day",
       "url": "https://open.spotify.com/track/07Er4NE1N681p2e6uHvEVI"
+    },
+    {
+      "album": {
+        "name": "Meet Me At Noon",
+        "url": "https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B"
+      },
+      "artists": [
+        {
+          "name": "Jack Ame",
+          "url": "https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Meet Me At Noon",
+      "url": "https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-645 songs - 1 day 20 hr 54 min
+646 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [My Quicksand](https://open.spotify.com/track/5vp8VizhP11k9iAnTdiBCH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:46 | 2022-09-08 |  |
 | [Never Gonna Fall In Love Again](https://open.spotify.com/track/2jTObRM0ckTs6naKA7r7P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:08 | 2022-09-08 |  |
 | [Never Too Late](https://open.spotify.com/track/2I0GqVo4ezonSOV8jSUURx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 4:09 | 2022-09-08 |  |
+| [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/0vRFhFk55MKScnU8pcfvWb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late”\)](https://open.spotify.com/album/4PJejf8nARnLaALawDuMAu) | 3:36 | 2025-03-26 |  |
 | [Never Too Old \(To Hold Somebody\)](https://open.spotify.com/track/14KH4059KdXdzTRVpjb5OU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:57 | 2022-09-08 |  |
 | [New World Order](https://open.spotify.com/track/3MIaMzfn268zyJxUboLAYc) | [Sam Sneed](https://open.spotify.com/artist/7fhSN2Pok7u6J2IER2MFeQ), [Ramaj](https://open.spotify.com/artist/3K2mfMVB6bAqyOzvljwUjz), [Shadow](https://open.spotify.com/artist/2lf0FYOB52skJWouVr7orA), [Atilio Jarquin](https://open.spotify.com/artist/5P0K08hWBiz3dkyditBr18), [Feab](https://open.spotify.com/artist/6JkkqbGQOIbpT4YN4ASBbJ) | [Street Scholars](https://open.spotify.com/album/0Dc2YMSF2zNj5ka8RQXKHg) | 4:05 | 2023-05-26 |  |
 | [Nice And Slow](https://open.spotify.com/track/0ThIeJpqmnxAb9XvWlSIjO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Complete Thom Bell Sessions](https://open.spotify.com/album/0EXubpxzIR0IoPJCCvJNDZ) | 4:40 | 2022-09-08 |  |

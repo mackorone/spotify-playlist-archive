@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,329 likes - 79 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,353 likes - 79 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 24 | [Sim City](https://open.spotify.com/track/3iOxad4IZHmHD2g8g1kcWN) | [Space Ghost](https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi) | [Aquarium Nightclub](https://open.spotify.com/album/2YYFK6AYBDK0d92CJ07Yf4) | 3:44 |
 | 25 | [Back To Life \(Full Mix\)](https://open.spotify.com/track/2Pjd6MtP3tSTvT7ZXWXA8q) | [Andreas Saag](https://open.spotify.com/artist/5fq236aSg3s8I4WsrV6nbP) | [Back To Life / Wilderness](https://open.spotify.com/album/2RGDWh0g3Y66Yk2wNfG3zF) | 8:42 |
 | 26 | [Nokturn \- Grand Finale](https://open.spotify.com/track/2q81sK0TSy9zO2j7tQ4jA4) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [1979](https://open.spotify.com/album/6cUtlYLQKwgJUFL9frOWTF) | 9:28 |
-| 27 | [Yo Yo Get Funky \- Andre Zimmer Remix](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky \(Andre Zimmer Remix\)](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 |
+| 27 | [Yo Yo Get Funky](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 |
 | 28 | [That Feeling \- Stereo Mix](https://open.spotify.com/track/4qcMzLuxX9kyj1afrCQthP) | [DJ Chus](https://open.spotify.com/artist/0nSidP3h4TQD0bX6YrXEdY), [Groove Foundation](https://open.spotify.com/artist/0EL6929k2tYlnZ20rrZcwB) | [That Feeling](https://open.spotify.com/album/2xmZmMadLbd8Qh3wsymcOe) | 8:09 |
 | 29 | [Heat](https://open.spotify.com/track/1Q09LzROZCdwuPtvtKGd0f) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Heat](https://open.spotify.com/album/2qW5OsFApVV4uFsXSHu1YF) | 3:52 |
 | 30 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 |

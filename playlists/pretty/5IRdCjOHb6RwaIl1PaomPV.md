@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent &amp; friends\. Featuring new music from Carré &amp; Addison Groove, Woesum, and evilgiane &amp; Rojuu.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,989 likes - 100 songs - 5 hr 15 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,991 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

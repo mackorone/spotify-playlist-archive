@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-332 songs - 13 hr 35 min
+333 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Watching Juliette](https://open.spotify.com/track/0dlXqlUzzQ3yVswQb6Lpf9) | [Søme](https://open.spotify.com/artist/78vnOAl0eEZQpMzdi3zCwZ) | [Watching Juliette](https://open.spotify.com/album/25NJ7MdnSdCXylOXC5aKyU) | 3:36 | 2022-10-26 |  |
 | [Water Lilies](https://open.spotify.com/track/3Eq0VAdDj1j9xyQ5EKU85N) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Water Lilies](https://open.spotify.com/album/5NebT6I9YPVwMy0aWfgtGm) | 2:00 | 2022-10-26 |  |
 | [When Twilight Ends](https://open.spotify.com/track/58p2epzTksRN9FMFjuPP41) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [When Twilight Ends](https://open.spotify.com/album/7F8Mwos3myjAgQnvieeSF8) | 1:34 | 2023-04-05 | 2023-09-19 |
+| [where we first met](https://open.spotify.com/track/7gkW9sRR75Ca9ZAwgJj0JH) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [where we first met](https://open.spotify.com/album/1dsRBQduYVoBbUhh3nIXm7) | 2:41 | 2025-03-26 |  |
 | [Whimsical](https://open.spotify.com/track/6BdXzXPrwNy1Gjr1F1JQX0) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Whimsical](https://open.spotify.com/album/3mtWkCVyqHW7FkeCO22zOq) | 2:12 | 2023-09-05 |  |
 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-01-09 |  |
 | [Wind In My Hair](https://open.spotify.com/track/4N82ErjM4xuWYsRfPBqACk) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Wind In My Hair](https://open.spotify.com/album/2voHslwBPDj7eM3WJmy9pJ) | 2:05 | 2024-05-01 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-604 songs - 1 day 5 hr 23 min
+605 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,8 @@
 | [Sol](https://open.spotify.com/track/5cOwGFDhhTVZuJzIVb4cr4) | [Tasadi](https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO) | [The System](https://open.spotify.com/album/14CHWOXmNoxDjxwLCh76mo) | 3:55 | 2023-12-30 |  |
 | [Solinho](https://open.spotify.com/track/6GsBSfGuS1wWIJNRflDUXW) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [O Melhor Lugar do Mundo](https://open.spotify.com/album/5QfrJJedOgE6lE3zTO9eW7) | 2:37 | 2023-12-30 |  |
 | [Solteiro por Opção \- Ao Vivo](https://open.spotify.com/track/45jtxyT9bHFgm5OF5m2ZPz) | [Bruno & Rafa](https://open.spotify.com/artist/4ZL1DrfqfKCFj6x7WCxaBo) | [Na Raça, Completo \(Ao Vivo\)](https://open.spotify.com/album/5cDZ988LffrKYTddxGtUUI) | 3:00 | 2023-12-30 |  |
-| [Sou Eu](https://open.spotify.com/track/7BLf2w4tV2dBlE8QQ5Zjut) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Amor + Boteco](https://open.spotify.com/album/3dtipPMN5XhtCo9rfRGlLJ) | 4:12 | 2023-12-30 |  |
+| [Sou Eu](https://open.spotify.com/track/7BLf2w4tV2dBlE8QQ5Zjut) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Amor + Boteco](https://open.spotify.com/album/3dtipPMN5XhtCo9rfRGlLJ) | 4:12 | 2023-12-30 | 2025-03-27 |
+| [Sou Eu \- Ao Vivo](https://open.spotify.com/track/1yK4xdss6MlPWuSOlCBiDp) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Amor Boteco \(Ao Vivo\)](https://open.spotify.com/album/5ivcPonYkcmb9RJhQBe0vb) | 4:12 | 2025-03-26 |  |
 | [Sou Fraco Demais](https://open.spotify.com/track/72PznJQ7E48iIL6g5tDqnR) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Naiara Sunrise, Ep3](https://open.spotify.com/album/473826n2BTdzaVKChaFvwM) | 2:57 | 2023-12-30 |  |
 | [Suor Da Sua Boca \- Ao Vivo](https://open.spotify.com/track/6sIEV0ZQF6XWIYlozmM5n4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 3:04 | 2023-12-30 |  |
 | [Surra de Cama](https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Surra de Cama](https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf) | 2:58 | 2023-12-30 |  |

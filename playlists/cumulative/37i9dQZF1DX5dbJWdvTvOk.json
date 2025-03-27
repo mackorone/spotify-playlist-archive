@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 189158,
       "name": "By the Hour",
       "url": "https://open.spotify.com/track/1feJUG6eBlaxsogKjFMKzv"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 149750,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP"
@@ -5785,6 +5785,24 @@
     },
     {
       "album": {
+        "name": "in the midst of it all",
+        "url": "https://open.spotify.com/album/7z8KoOPi1DbWuyXCzvCS8e"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160437,
+      "name": "in the midst of it all",
+      "url": "https://open.spotify.com/track/01TxcPPCKazazwFTOuN6pw"
+    },
+    {
+      "album": {
         "name": "Inamorata",
         "url": "https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa"
       },
@@ -6636,7 +6654,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 140608,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL"
@@ -9203,6 +9221,24 @@
     },
     {
       "album": {
+        "name": "Pavane",
+        "url": "https://open.spotify.com/album/4KLvqHlBudcOsFD6ReSG6v"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145596,
+      "name": "Pavane",
+      "url": "https://open.spotify.com/track/47utqXLQhk4iOfHq7QvIPj"
+    },
+    {
+      "album": {
         "name": "Peaberry",
         "url": "https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA"
       },
@@ -9650,6 +9686,24 @@
       "duration_ms": 138534,
       "name": "Remaining Link",
       "url": "https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG"
+    },
+    {
+      "album": {
+        "name": "Remember Yesterday",
+        "url": "https://open.spotify.com/album/2QwaFDwr9RmEiAeDKBEUP5"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Campagnoli",
+          "url": "https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136736,
+      "name": "Remember Yesterday",
+      "url": "https://open.spotify.com/track/7IMwaA8RH2Rkmz8B8DhIf3"
     },
     {
       "album": {

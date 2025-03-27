@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-20",
-  "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u30a4\u30b1\u30e1\u30f3\u5f79\u8005\u80b2\u6210\u30b2\u30fc\u30e0\u300eA3!\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9Liber Entertainment Inc. All Rights Reserved.",
+  "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
   "name": "A3!",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 207093,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/1LKSGe8I1w4Myv32mOP4wj"
+    },
+    {
+      "album": {
+        "name": "A3! INNOCENT WINTER EP",
+        "url": "https://open.spotify.com/album/37bgwauy7qgeDHkK4YaPE8"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u98a8\u7261\u4e39[\u5fa1\u5f71 \u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)]",
+          "url": "https://open.spotify.com/artist/14g1jNb4iNUNFVC9CWeaAh"
+        },
+        {
+          "name": "\u51ac\u91ce\u6c34\u4ed9[\u6708\u5ca1 \u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)]",
+          "url": "https://open.spotify.com/artist/7nvKZml6ZUbP1s2CflnBBB"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/0EnlY5t4ydwv2dcvks324J"
     },
     {
       "album": {
@@ -637,6 +659,28 @@
     },
     {
       "album": {
+        "name": "A3! INNOCENT WINTER EP",
+        "url": "https://open.spotify.com/album/37bgwauy7qgeDHkK4YaPE8"
+      },
+      "artists": [
+        {
+          "name": "\u30a6\u30a4\u30ba[\u30ac\u30a4(CV:\u65e5\u91ce \u8061)]",
+          "url": "https://open.spotify.com/artist/4WNyXE9zzgjppdI6rWPqYp"
+        },
+        {
+          "name": "\u30b8\u30f3[\u5fa1\u5f71 \u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)]",
+          "url": "https://open.spotify.com/artist/7csvqYPHbqPcfP3cQYplMS"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240786,
+      "name": "STRAIGHT, NO CHASER",
+      "url": "https://open.spotify.com/track/1w7XFauEgkTEjxc25kj7tm"
+    },
+    {
+      "album": {
         "name": "A3! SUNNY SUMMER EP",
         "url": "https://open.spotify.com/album/4zBbv6frA49tPQkuw7D2fV"
       },
@@ -922,7 +966,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 271813,
       "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30af\u3068\u767d\u6708",
       "url": "https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2"
@@ -1046,7 +1090,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 303880,
       "name": "\u50d5\u3089\u306e\u7d46",
       "url": "https://open.spotify.com/track/5u84IGengx68EHf5gYy9DU"

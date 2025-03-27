@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,717 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,718 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 20 | [Usura Oruthi](https://open.spotify.com/track/2bdNIZk1JHuTP1pabIc1WI) | [Sam Bilgates](https://open.spotify.com/artist/1xQqiVZvrsO0bFy6I2knjD), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Usura Oruthi](https://open.spotify.com/album/57MPriRJcFvK6vNBtS65sF) | 3:16 |
 | 21 | [Kadhal Oothikichu](https://open.spotify.com/track/5FgpKmsBqNgazTVFI3s38v) | [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Keerthan](https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1) | [Kadhal Oothikichu](https://open.spotify.com/album/01AxodsBUGvR5wruMx83oc) | 2:56 |
 | 22 | [Death Molam](https://open.spotify.com/track/1cWkNAI04ZAmHeSIGfXRsW) | [8c sam](https://open.spotify.com/artist/1VogXncDsNB2ufaktmigkx), [8c tony](https://open.spotify.com/artist/4dgvjJXnVc0LsMcPxJ1G2l), [Adipetti](https://open.spotify.com/artist/3xc0HXO4HGJI3KVD0bI8ZR) | [Death Molam](https://open.spotify.com/album/5D7M9zUsHOXjzQJflzaHlc) | 4:18 |
-| 23 | [My Love \- Tamil](https://open.spotify.com/track/7ulG4zYIzj9htjEPimS9mw) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s) | [My Love \(Tamil\)](https://open.spotify.com/album/30oPMp2YNNPoo67N3NBo8s) | 4:30 |
+| 23 | [My Love \- Tamil](https://open.spotify.com/track/7ulG4zYIzj9htjEPimS9mw) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s), [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [My Love \(Tamil\)](https://open.spotify.com/album/30oPMp2YNNPoo67N3NBo8s) | 4:30 |
 | 24 | [Neeyadi](https://open.spotify.com/track/18o2DHkLUJzYM3DcLuSwMR) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Neeyadi](https://open.spotify.com/album/7ADE78trYZlsfkz7ON5KRE) | 3:10 |
 | 25 | [Piraku](https://open.spotify.com/track/76PDganyLOm7ZIIY5jlY2P) | [Albrin](https://open.spotify.com/artist/64tJZ0YwRzpBCkFDYuonzp), [Latha Krishna](https://open.spotify.com/artist/60VMWWmZZKAVkA0ttoLxB1) | [Piraku](https://open.spotify.com/album/0yBesou5z7bH81lnqSEFrs) | 3:36 |
 | 26 | [Karakki \(Raw Version\) \- From "Think Specials"](https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Karunguyil Ganesh](https://open.spotify.com/artist/3itVmQfDbKUxkCKfOU1Pxq), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Karakki \(Raw Version\) \[From "Think Specials"\]](https://open.spotify.com/album/2aquYWJo5kwaum9LE63onr) | 3:13 |

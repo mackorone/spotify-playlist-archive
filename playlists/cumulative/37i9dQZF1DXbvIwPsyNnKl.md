@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Ryouji, CK YG
 
-240 songs - 13 hr 34 min
+241 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [CRASHING](https://open.spotify.com/track/6GLlKZzVmmLCRoqIqjZQa1) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [CRASHING](https://open.spotify.com/album/49KV2pJP1YaFs0ajEcoMIN) | 4:24 | 2023-09-20 | 2023-11-18 |
 | [CRASHING](https://open.spotify.com/track/52ctyXOm7J3niFI1T0Spul) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [CRASHING](https://open.spotify.com/album/6iRhMAlVxeM3QJfm8PK3lT) | 4:24 | 2023-11-15 | 2023-12-30 |
 | [DAB \- Leaked interlude](https://open.spotify.com/track/0XfEJcbDfXVpEkVc1kTXUZ) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [DAB \(Leaked interlude\)](https://open.spotify.com/album/4ihyVo02StqInn6ZAVn60T) | 2:45 | 2023-09-20 | 2024-01-10 |
-| [Dating Gawi](https://open.spotify.com/track/441AyLNG0X3E2uXGnkF690) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Dating Gawi](https://open.spotify.com/album/4wVz2cYJmwcOM3N99IsK7h) | 3:35 | 2025-01-15 |  |
+| [Dating Gawi](https://open.spotify.com/track/441AyLNG0X3E2uXGnkF690) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Dating Gawi](https://open.spotify.com/album/4wVz2cYJmwcOM3N99IsK7h) | 3:35 | 2025-01-15 | 2025-03-27 |
 | [Di kita trip](https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Di kita trip](https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa) | 2:54 | 2024-03-06 | 2024-05-09 |
 | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06) | 3:19 | 2024-05-08 | 2024-09-12 |
 | [Di man lagi](https://open.spotify.com/track/6GjNUBBNKxrgwVnRJCt4wa) | [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Di man lagi](https://open.spotify.com/album/2sOCSrAwqK7JnmxFp6MIkf) | 2:26 | 2024-09-11 | 2024-10-18 |
@@ -174,6 +174,7 @@
 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2023-11-01 | 2025-02-06 |
 | [Pass Sa Lowkey](https://open.spotify.com/track/78sUH2ilGjWxoFp3L5EptT) | [UNXPCTD](https://open.spotify.com/artist/1ruOLaqdQdMzwH5y8rfD0Y), [Ednil Beats](https://open.spotify.com/artist/0zKg1Ug5p1QrTllISIsfqD) | [Pass Sa Lowkey](https://open.spotify.com/album/6B6K84lxNWJivNC4L5nW7F) | 5:30 | 2024-06-05 | 2024-11-28 |
 | [Pikit](https://open.spotify.com/track/1O0xVXmC9JtMeHJFnsrEP6) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pikit](https://open.spotify.com/album/3HceIQ1nJ7DkSOBn0OQmrN) | 3:31 | 2023-12-06 | 2024-02-08 |
+| [Plain Tee](https://open.spotify.com/track/4F91qq5wxZCpFmUCASXOBm) | [THUGSTA](https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Plain Tee](https://open.spotify.com/album/6QHap9INFAJi0fcEf0etbm) | 2:15 | 2025-03-26 |  |
 | [Playaz in dis MF](https://open.spotify.com/track/0OFDQdCZNmSNLyS79IWQlw) | [Downtown Q'](https://open.spotify.com/artist/599vZ7NVJ66pga0D0oWDqx), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [LK](https://open.spotify.com/artist/1Kkt2yhO2bGxjfHNKirKrR) | [Breezemonths, Vol\. 1](https://open.spotify.com/album/3Ix9PgEPaEPsjTUNNbriXm) | 2:30 | 2024-01-10 | 2024-08-15 |
 | [Playsafe](https://open.spotify.com/track/1Ni0egtEbIUHSFrgJ1AGvq) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Playsafe](https://open.spotify.com/album/7ix2zcaZk5DNmIkX8p11CX) | 3:28 | 2024-01-24 | 2024-03-28 |
 | [PROBINSYANA](https://open.spotify.com/track/7d6XBbDzgYoMfwqlUv173t) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE), [Robledo Timido](https://open.spotify.com/artist/6zGHYZUATHdgsCDVw4HBXg), [Kiddotin](https://open.spotify.com/artist/7DwWCK71cxhiSxoUAy172N) | [PROBINSYANA](https://open.spotify.com/album/7Ch9NvbwkIBWs4WZU8R1iI) | 3:32 | 2024-10-09 | 2024-12-12 |

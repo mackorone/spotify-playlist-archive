@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover:  LBI利比
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,694 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,814 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 47 | [如果我消失在天際](https://open.spotify.com/track/1YGnMl9dnL4wIFRUSqjuzC) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [如果我消失在天際](https://open.spotify.com/album/1sBkgPHmWjlT7PPmMTemGL) | 3:10 |
 | 48 | [Silent Angel](https://open.spotify.com/track/149HyhgmTTcUbcLpZfouli) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [Silent Angel](https://open.spotify.com/album/3H9mX9AEeegmiKy97dwU2g) | 5:01 |
 | 49 | [平原上的火焰 \(電影《平原上的火焰》同名主題曲\)](https://open.spotify.com/track/0ri44o0cevfN00U1JA5TVY) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [平原上的火焰](https://open.spotify.com/album/6X1pxcmtzP3y3fSp7WrZdz) | 5:00 |
-| 50 | [Stupid Pop Song](https://open.spotify.com/track/6LkzEmwwQl88MnhA6XCObD) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [Stupid Pop Song](https://open.spotify.com/album/6IdZfsL8Ftqyn1p1JZx4Vq) | 5:15 |
+| 50 | [Stupid Pop Song](https://open.spotify.com/track/6LkzEmwwQl88MnhA6XCObD) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [Stupid Pop Song](https://open.spotify.com/album/6IdZfsL8Ftqyn1p1JZx4Vq) | 5:16 |
 
 Snapshot ID: `Z+GBlQAAAADvci9+hcT1C1acf0pwTfio`

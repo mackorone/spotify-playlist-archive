@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31686,
+  "num_followers": 31696,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,26 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
+        "name": "Down for a Moment",
+        "url": "https://open.spotify.com/album/5lTKPUUyncECFr1dQxK8D9"
+      },
+      "artists": [
+        {
+          "name": "Jimit",
+          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
+        },
+        {
+          "name": "Shelly Archer",
+          "url": "https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Down for a Moment",
+      "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
         "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
         "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
       },
@@ -791,22 +811,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
-        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
-      },
-      "artists": [
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        }
-      ],
-      "duration_ms": 196914,
-      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "Running Out of Time",
         "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
       },
@@ -827,22 +831,18 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
+        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
+        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
       },
       "artists": [
         {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
-        },
-        {
-          "name": "Zulat Choir",
-          "url": "https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7"
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
         }
       ],
-      "duration_ms": 326979,
-      "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
+      "duration_ms": 196914,
+      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -879,6 +879,26 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
+        "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
+      },
+      "artists": [
+        {
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+        },
+        {
+          "name": "Zulat Choir",
+          "url": "https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7"
+        }
+      ],
+      "duration_ms": 326979,
+      "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
         "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
         "url": "https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P"
       },
@@ -895,22 +915,18 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "Down for a Moment",
-        "url": "https://open.spotify.com/album/5lTKPUUyncECFr1dQxK8D9"
+        "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
       },
       "artists": [
         {
-          "name": "Jimit",
-          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
-        },
-        {
-          "name": "Shelly Archer",
-          "url": "https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM"
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
         }
       ],
-      "duration_ms": 199875,
-      "name": "Down for a Moment",
-      "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
+      "duration_ms": 188987,
+      "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -927,22 +943,6 @@
       "duration_ms": 153200,
       "name": "Big Wolf",
       "url": "https://open.spotify.com/track/5oyh5aHumv5soKCDA1f9B5"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
-        "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 188987,
-      "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
-        "url": "https://open.spotify.com/album/06NWZGpy4LHAAajTtMiTjU"
-      },
-      "artists": [
-        {
-          "name": "Orka",
-          "url": "https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
-      "url": "https://open.spotify.com/track/4i6v0i4BrvbMevPY2Qwh5n"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "Chasin' You",
         "url": "https://open.spotify.com/album/7xpEGPX6zHBckWJsRsyg05"
       },
@@ -1063,6 +1047,38 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
+        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea (\u05d1\u05d0\u05e8\u05d1\u05d9 Live)",
+        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
+      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
+        "url": "https://open.spotify.com/album/06NWZGpy4LHAAajTtMiTjU"
+      },
+      "artists": [
+        {
+          "name": "Orka",
+          "url": "https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
+      "url": "https://open.spotify.com/track/4i6v0i4BrvbMevPY2Qwh5n"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
         "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
         "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 183750,
       "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
       "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
-        "name": "160",
-        "url": "https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL"
-      },
-      "artists": [
-        {
-          "name": "Yael Selinger",
-          "url": "https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l"
-        }
-      ],
-      "duration_ms": 205535,
-      "name": "160",
-      "url": "https://open.spotify.com/track/1GKT0DSkBm7h6Q7sohvsKx"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

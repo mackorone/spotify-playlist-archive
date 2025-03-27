@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Alok &amp; Alan Fitzpatrick
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,751 likes - 81 songs - 3 hr 53 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,749 likes - 81 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 6 | [Kassira](https://open.spotify.com/track/1IwCCixN7uaezFCC1LxSzR) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Kassira](https://open.spotify.com/album/0wTj23sP3hmh79RaPFv87N) | 3:03 |
 | 7 | [TECHNO PIEPS](https://open.spotify.com/track/7MBgoczN6RoXUtpuGSKCA5) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb) | [TECHNO PIEPS](https://open.spotify.com/album/1P6nFrFtdvzyBQsOnrbrDP) | 2:10 |
 | 8 | [The Rhythm](https://open.spotify.com/track/617JXb8OeEFxtkIwpc79lm) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [The Rhythm](https://open.spotify.com/album/2ah4jT7B50wFbU42YjK0c7) | 3:25 |
-| 9 | [What's A Girl To Do \- Lee Ann Roberts Remix](https://open.spotify.com/track/2n4WGBY9hf6XDSR5kwPsKK) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [What's A Girl To Do \(Remix EP\)](https://open.spotify.com/album/6g4pi5R13bWwrlLM3aiSV1) | 2:36 |
+| 9 | [What's A Girl To Do \- Lee Ann Roberts Remix](https://open.spotify.com/track/2n4WGBY9hf6XDSR5kwPsKK) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [What's A Girl To Do \(Remix EP\)](https://open.spotify.com/album/6g4pi5R13bWwrlLM3aiSV1) | 2:37 |
 | 10 | [The Rhythm](https://open.spotify.com/track/2MYSnX6Nqld1zRjZNxYNmC) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [The Rhythm](https://open.spotify.com/album/49KprVMw2TsJ7mPOGak3s3) | 3:32 |
 | 11 | [Mind](https://open.spotify.com/track/0rDLnNA0WZQn8ZhOD0xf6u) | [Anton Khabbaz](https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu) | [Mind](https://open.spotify.com/album/0j7lShbaJqIorvZbjooex8) | 2:57 |
 | 12 | [Under Rain](https://open.spotify.com/track/4l3gvu1WyUfB8qTPZKdSPR) | [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [Lizik Kissik](https://open.spotify.com/artist/6rIplaabZwp0qSdwTiz1w2) | [Under Rain](https://open.spotify.com/album/5bd1emKw42JI2Gg0iRYWzq) | 2:43 |

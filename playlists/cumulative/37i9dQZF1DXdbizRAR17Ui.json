@@ -4245,6 +4245,24 @@
     },
     {
       "album": {
+        "name": "Music Taught Me Life",
+        "url": "https://open.spotify.com/album/2zU9Y18v6pTKuFUUBCCIQR"
+      },
+      "artists": [
+        {
+          "name": "Rosbeh",
+          "url": "https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320121,
+      "name": "Music Taught Me Life",
+      "url": "https://open.spotify.com/track/6y7oSnVN2PpNvd4CUrvZBp"
+    },
+    {
+      "album": {
         "name": "Harmonic Frequencies",
         "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
       },
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-27",
       "duration_ms": 172031,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq"

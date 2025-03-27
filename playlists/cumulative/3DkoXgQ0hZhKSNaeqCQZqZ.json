@@ -3137,6 +3137,28 @@
     },
     {
       "album": {
+        "name": "locked in",
+        "url": "https://open.spotify.com/album/1gAAa5uaTfGGyDcFwNVUgD"
+      },
+      "artists": [
+        {
+          "name": "phimtown",
+          "url": "https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X"
+        },
+        {
+          "name": "Meowmiggons",
+          "url": "https://open.spotify.com/artist/4NYfkUCuzkwDJk4PJl8Tub"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184218,
+      "name": "locked in",
+      "url": "https://open.spotify.com/track/00pg5cHgRt9nkst3hyLj6P"
+    },
+    {
+      "album": {
         "name": "Lone Skater",
         "url": "https://open.spotify.com/album/3sZBlDT9gNYi6YCDP5PvkN"
       },

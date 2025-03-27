@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-552 songs - 1 day 18 hr 40 min
+553 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 | 2023-03-10 | 2024-03-16 |
 | [Crowd Crazy](https://open.spotify.com/track/0y9cKTzZbp3qUswHKQsCI6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 4:39 | 2024-08-30 | 2024-11-05 |
 | [Cumana](https://open.spotify.com/track/79k8FGmVYfV5iXcs3mvqFc) | [Hank](https://open.spotify.com/artist/5ZJ9QoSO3GSF3IaMaA6xrs) | [Back In The Saddle EP](https://open.spotify.com/album/4O4xVPByJDEkvpClgzcr19) | 3:22 | 2025-02-28 |  |
+| [D.A.N \(Dance All Night\)](https://open.spotify.com/track/28vNgcNGHNKoqnfljWnN26) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [D.A.N \(Dance All Night\)](https://open.spotify.com/album/5Gq5tHER64jRmIS4iHPDcC) | 3:19 | 2025-03-26 |  |
 | [D.N.C.](https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo) | [Miguel Lobo](https://open.spotify.com/artist/6PWQ9tAq0UNhzf68T1zYUZ) | [Janette](https://open.spotify.com/album/4ax3ouk91c4VdY1WXxytoP) | 5:57 | 2022-06-03 | 2022-07-28 |
 | [D.O.P.E.](https://open.spotify.com/track/40IWLYJ6DvIIuR3yyCFAsW) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [D.O.P.E.](https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d) | 4:44 | 2025-02-28 |  |
 | [DA BEAT](https://open.spotify.com/track/0xSNKCxMBhDiGiAcDdjCOv) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [DA BEAT](https://open.spotify.com/album/7uBVx4rfStisvQfZ1LfgrA) | 5:41 | 2024-12-23 | 2025-01-08 |
@@ -299,7 +300,7 @@
 | [Memories \(feat\. Mr Hudson\) \- Boston Bun Remix](https://open.spotify.com/track/24waGaE8EKJy7Airu3CpyS) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN), [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Memories \(feat\. Mr Hudson\) \[Boston Bun Remix\]](https://open.spotify.com/album/3uVnzumhIlniLHtcUY9bAz) | 4:13 | 2023-08-18 | 2023-09-11 |
 | [Mezcal Bounce](https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kidoo](https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD) | [Mezcal Bounce](https://open.spotify.com/album/2aJEt3IXffsdzso2o80yQa) | 3:30 | 2024-11-15 |  |
 | [Miami Love](https://open.spotify.com/track/5DaeNPv19jcoOEeDAWKqCm) | [Kristy Harper](https://open.spotify.com/artist/3MJu3LHSUwhrc9oEvO2AIQ) | [Luna's View](https://open.spotify.com/album/0IFcG0DJs3QbOdCz6pyvmW) | 3:49 | 2025-02-21 | 2025-03-20 |
-| [Midnight Voices](https://open.spotify.com/track/3HZ0223CDfroDCFTshq1Zc) | [Rupert Ellis](https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T) | [Midnight Voices](https://open.spotify.com/album/1Q36yRBq0D2uegppsXoVua) | 6:40 | 2025-02-07 |  |
+| [Midnight Voices](https://open.spotify.com/track/3HZ0223CDfroDCFTshq1Zc) | [Rupert Ellis](https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T) | [Midnight Voices](https://open.spotify.com/album/1Q36yRBq0D2uegppsXoVua) | 6:40 | 2025-02-07 | 2025-03-27 |
 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 | 2023-09-15 | 2024-08-17 |
 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 | 2024-11-08 | 2025-03-01 |
 | [Miss B](https://open.spotify.com/track/25Gn1kR7JZRYYDY9VNFPxL) | [Lauren Lo Sung](https://open.spotify.com/artist/2skgOXx0JaoCoR7gqJYH05) | [Miss B](https://open.spotify.com/album/0v8hyn2w4hBJ3nAy7zDQ5w) | 6:44 | 2022-06-03 | 2022-07-19 |

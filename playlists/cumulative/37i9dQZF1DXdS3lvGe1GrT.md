@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Uwade
 
-1,598 songs - 3 day 23 hr 23 min
+1,605 songs - 3 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [Goodbye Darlin'](https://open.spotify.com/track/4wrrRxadSRExo1cjnMr7Km) | [Devin Hames](https://open.spotify.com/artist/0kzFXwGCoJMmMk3ZZsfKH5) | [Goodbye Darlin'](https://open.spotify.com/album/3xelRiAsgUyx4sRCIfSAjl) | 2:47 | 2023-02-15 | 2023-03-23 |
 | [Goodbye Garden](https://open.spotify.com/track/4vOHXnVyG76Oq1fCkkzY3W) | [Peter Groppe](https://open.spotify.com/artist/6acVRuS3iyAQH9LXDrsRL5) | [Goodbye Garden](https://open.spotify.com/album/6aCJ00VqlfW0O8pEP4sAHN) | 4:10 | 2023-08-02 | 2023-10-05 |
 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-10-12 | 2022-12-01 |
+| [Got A Heart Like Rainwater Blues](https://open.spotify.com/track/1SGViBicYWKFWnbChISUeq) | [Cactus Lee](https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4) | [Got A Heart Like Rainwater Blues](https://open.spotify.com/album/6KILLlsTpnonUHcEzptvOM) | 3:09 | 2025-03-26 |  |
 | [Grace](https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM) | [quiet thrill](https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl), [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11) | [Grace](https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp) | 2:53 | 2022-05-25 | 2022-06-16 |
 | [Grace Of Autumn Gold](https://open.spotify.com/track/03y5axaTYAP46n7oAvBJRP) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Dreamer Awake](https://open.spotify.com/album/12jj5kr4VuIImcN2lqXbah) | 3:18 | 2023-09-20 | 2023-12-11 |
 | [Graceland](https://open.spotify.com/track/1Ovg3xEE7gMlg1mP6rpC7I) | [Bailey Tomkinson](https://open.spotify.com/artist/3SIJnnckGx5KwXlmFGfKSI) | [Graceland](https://open.spotify.com/album/50B5Qp9incWgkaXO2PmNYf) | 3:48 | 2022-08-24 | 2022-10-21 |
@@ -748,6 +749,7 @@
 | [in the rain](https://open.spotify.com/track/1gicn1usnZflJaszZtfm2n) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [let them eat grass](https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca) | 3:25 | 2023-08-30 | 2024-01-11 |
 | [In The Thick Of It](https://open.spotify.com/track/3jKm53mOmCum509Z0eOKT3) | [Will Sheff](https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5) | [Nothing Special](https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM) | 6:06 | 2023-06-14 | 2023-08-17 |
 | [Incarnations](https://open.spotify.com/track/6tgZESj1bDC7wGHllB1MIF) | [Jacob Cummings](https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm) | [Incarnations](https://open.spotify.com/album/1CLQh78kqtlN4spyFg4wB0) | 3:49 | 2024-07-24 | 2024-11-21 |
+| [India](https://open.spotify.com/track/2VNbQQVz4qrM6HStZjPpAH) | [Summer Davis](https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb) | [India](https://open.spotify.com/album/3wsZmXhGwI6ZKqZKlV52NX) | 2:35 | 2025-03-26 |  |
 | [Indigo](https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Indigo](https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4) | 3:18 | 2024-05-29 | 2024-08-22 |
 | [Indigo](https://open.spotify.com/track/0du9zbRI7wC1qLjvYDMfIE) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [Indigo](https://open.spotify.com/album/370N5kvwlAJ00bFXROxi50) | 3:06 | 2023-03-22 | 2023-05-04 |
 | [Infinity Inside a Shopping Cart](https://open.spotify.com/track/4Hd3QNdIvSbXcw0GBsDdQK) | [Attention Bird Utopia](https://open.spotify.com/artist/6WQmjqmXZdwjIb1Tpctt4o), [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8), [Eli Hirsch](https://open.spotify.com/artist/3TnGwgpdm4ySLrbjzd38OW) | [Infinity Inside a Shopping Cart](https://open.spotify.com/album/4Ecc1jEyNT4W4BlPyXJ9Cu) | 2:59 | 2025-02-26 |  |
@@ -819,6 +821,7 @@
 | [Lady Moon](https://open.spotify.com/track/4B4u6cdQQcVFWhMUGGDnZk) | [Lady Moon](https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc) | [Lady Moon](https://open.spotify.com/album/02rBCSQBqZxwMLjJB6l1FG) | 2:33 | 2022-08-10 | 2022-10-27 |
 | [Last Night](https://open.spotify.com/track/54Ap1o5vIYg1fQc6QIorqF) | [The Lostines](https://open.spotify.com/artist/6CCO9MZMPsTgqJ3uYEqx9l) | [Heart of Night](https://open.spotify.com/album/6cPRdcDmVu9JRBkT5StLq6) | 5:24 | 2023-03-01 | 2023-04-13 |
 | [Last Night](https://open.spotify.com/track/1nSyikxkH3Y2SXnQ9Rww2C) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM) | [Last Night](https://open.spotify.com/album/33UZuGEVXga5dhuMZkP8bD) | 3:29 | 2025-02-19 |  |
+| [lavender](https://open.spotify.com/track/61I8HObPOfab8enVIvpa4Y) | [earth 2 tiffany](https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi) | [lavender](https://open.spotify.com/album/5175qmvzLuLisXxXBuW8dr) | 2:21 | 2025-03-26 |  |
 | [Lavender](https://open.spotify.com/track/4de2JSToOh98pnNxgDier8) | [Gemma Laurence](https://open.spotify.com/artist/2sNPTD3BelCCJaH18PmeKm) | [Lavender](https://open.spotify.com/album/7bhq8QWXhDkmRnP0WX5LK0) | 3:36 | 2022-08-10 | 2023-01-12 |
 | [lay down](https://open.spotify.com/track/6OzGSBq6nUNcYTou1zFx5w) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [on my own](https://open.spotify.com/album/6bbDZKI1r4XulgvdGNYhMz) | 3:10 | 2023-07-12 | 2024-01-11 |
 | [lay down](https://open.spotify.com/track/7Ky8TpcVYK449vGZJY3pao) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [lay down](https://open.spotify.com/album/11udH98Q0K8dN4Z1BT1tsK) | 3:10 | 2023-06-28 | 2023-07-13 |
@@ -879,6 +882,7 @@
 | [Lose a Friend](https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Lose a Friend](https://open.spotify.com/album/1J1bA0Cw8Bw9r1KyDukInD) | 3:15 | 2023-02-22 | 2023-04-06 |
 | [Lose The Gun](https://open.spotify.com/track/4h232GePNDICZKuIo9w27V) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Lose The Gun](https://open.spotify.com/album/4tIlywYMZGCZANo1fz9ugF) | 3:50 | 2024-05-22 | 2024-07-18 |
 | [Losing Limits](https://open.spotify.com/track/4xQBbsy5nIAliLQDfrhCtB) | [Kook Joey](https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8) | [Losing Limits](https://open.spotify.com/album/5CB3lfFp8vtLeExpsdhC0K) | 4:09 | 2024-09-18 | 2024-12-05 |
+| [Lost & Found](https://open.spotify.com/track/3YHpnbrUQM6OYJNDpUpoFU) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Lost & Found](https://open.spotify.com/album/6LW00McbfKeI5tcKxzBU5f) | 2:41 | 2025-03-26 |  |
 | [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 | 2024-03-27 | 2024-06-06 |
 | [Lost Without](https://open.spotify.com/track/6dk75ZAQqJaAl1H1hdk8uE) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Lost Without](https://open.spotify.com/album/2TSYZLjiPqhZwMxyPkh4Ii) | 2:38 | 2022-07-20 | 2022-10-20 |
 | [Lou](https://open.spotify.com/track/4f02joYEp59ag51L07R7Vk) | [Juno Lev](https://open.spotify.com/artist/6jQDETDXZtBIhuZdGhyPop) | [Lou](https://open.spotify.com/album/2t1IvOLI5e3F09nBpuijMX) | 4:10 | 2022-06-29 | 2022-10-13 |
@@ -1117,6 +1121,7 @@
 | [Pools](https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/1clKYzpwHKlkkq4pBu6IFK) | 3:49 | 2023-01-11 | 2023-02-23 |
 | [Poor Madeline](https://open.spotify.com/track/3JWneiKPrQOEJQ8eXJWDq9) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Poor Madeline](https://open.spotify.com/album/3fYAqgjv3QDYlgAYMY9jUg) | 3:31 | 2023-10-16 | 2023-12-11 |
 | [Pop Fly](https://open.spotify.com/track/17Dhcbtm8cE6LZvrP2n7Vy) | [Whitmer Thomas](https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1) | [The Older I Get The Funnier I Was](https://open.spotify.com/album/0Zo2bqwtYROgEczX4jG2W7) | 2:29 | 2022-10-26 | 2022-12-01 |
+| [Porchlight](https://open.spotify.com/track/03Qu8apIa8W3UetNYa4jX6) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [Porchlight](https://open.spotify.com/album/5C2VFwRoSShodzgaxZ8I9R) | 3:13 | 2025-03-26 |  |
 | [portland](https://open.spotify.com/track/4p8jOTg3b35ZV6bMO06f7K) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [portland](https://open.spotify.com/album/1asSQSU95xJMQ8HZmSIwF0) | 2:54 | 2023-05-10 | 2023-06-29 |
 | [Possibly Alaska](https://open.spotify.com/track/19bsT8H336P233OI5XF4Do) | [Maddison Krebs](https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF) | [Possibly Alaska](https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B) | 4:15 | 2024-01-31 | 2024-04-04 |
 | [Pouring Water](https://open.spotify.com/track/07WKka1zyk5B1ev0e9GYO9) | [Middle Sattre](https://open.spotify.com/artist/5mk8SD4z0nsmsVeXuRfeP1) | [Pouring Water](https://open.spotify.com/album/5D4lNurdkQWpb63JXsvLkN) | 3:58 | 2023-10-11 | 2023-12-11 |
@@ -1192,6 +1197,7 @@
 | [Runner](https://open.spotify.com/track/5tHyxPszyqjcXF8PRQnFkv) | [Sophie Jamieson](https://open.spotify.com/artist/61SAO7vBYIjApKdECAwhDo) | [Runner](https://open.spotify.com/album/4fqDg37gtFns6gW3KFwQ0i) | 3:19 | 2022-10-26 | 2022-12-01 |
 | [Running Out](https://open.spotify.com/track/79vfwvl6Ib6I59YATDXWgY) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Running Out](https://open.spotify.com/album/5ghX2yLwCp7X2PYlRtLqVE) | 3:08 | 2023-03-01 | 2023-04-13 |
 | [Runway](https://open.spotify.com/track/5kqMI0NlneZOjeN3RluxGK) | [The Artist Ren](https://open.spotify.com/artist/2hRgsNuAo7lhUqmrl25WD5) | [Runway](https://open.spotify.com/album/3VS81WgvgXM99ySFNtJgZY) | 3:25 | 2024-10-09 | 2024-12-05 |
+| [russian doll \- smaller](https://open.spotify.com/track/00iPwEqAow8PUdV73vvIsu) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [russian doll \(smaller\)](https://open.spotify.com/album/0YVvrkQ2UAKBI0svaDhXTe) | 1:01 | 2025-03-26 |  |
 | [Ryman](https://open.spotify.com/track/6h1vlJFFNJ6hodC5kWq3Ki) | [Jack Hartman](https://open.spotify.com/artist/1ExL1FiD1BQjtaMK0LFA1l) | [Ryman](https://open.spotify.com/album/0M7bi0aVRlpQN8BmhWbYSm) | 4:24 | 2024-02-14 | 2024-04-19 |
 | [Sad Eyes](https://open.spotify.com/track/2uvQiHBOvU0WW0eSEOakbl) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 3:35 | 2023-06-14 | 2023-08-17 |
 | [Sad Song](https://open.spotify.com/track/7jehpZchGhVt4u65HPSTdm) | [Benedict Benjamin](https://open.spotify.com/artist/1U1l0zn1Ks7bwNrYtx1DGI) | [Sad Song](https://open.spotify.com/album/2rmP3SiGPJb7yyZMKX5O5a) | 2:43 | 2023-05-24 | 2023-07-27 |
@@ -1315,6 +1321,7 @@
 | [Storms](https://open.spotify.com/track/5phkXSL0TLSqH3CI3Jii7X) | [The Patch](https://open.spotify.com/artist/5xVEUK25VQi7wj4RQyFgqQ) | [Storms](https://open.spotify.com/album/6LnnRXDs8YZQcLPPHUCezI) | 4:22 | 2023-09-13 | 2023-11-11 |
 | [Straight Driving](https://open.spotify.com/track/3v5TZOPO6er2CwiMgkwdvJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Straight Driving](https://open.spotify.com/album/0XYqlktCr6PNXXH2fFDZot) | 3:20 | 2023-06-07 | 2023-08-03 |
 | [Straight North](https://open.spotify.com/track/0jYAyzb9rMPUysb8lNHE21) | [The 4411](https://open.spotify.com/artist/7ihRkM2a3CvPVKDkE1ZRnx) | [Straight North](https://open.spotify.com/album/1aBAiavTkhDQmAb44Y1oSA) | 4:05 | 2024-02-21 | 2024-04-19 |
+| [Strange Behavior](https://open.spotify.com/track/4xPaHbPvlsoSMJ4Jkza4HI) | [Katy Pinke](https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ) | [Strange Behavior](https://open.spotify.com/album/6n3gz199sI0bhvGxENj5oN) | 3:31 | 2025-03-26 |  |
 | [Stranger](https://open.spotify.com/track/4kb2wmcvG010BPyWGsmENf) | [Dogwood Tales](https://open.spotify.com/artist/0DayBebjy093KRzvtkz9S5) | [Stranger](https://open.spotify.com/album/3iiBsXMvxhjrzqikPMUz6k) | 3:41 | 2023-05-10 | 2023-06-29 |
 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 | 2022-05-25 | 2023-01-12 |
 | [Stretch](https://open.spotify.com/track/290x0HFZibOGZ7jgMIlKgU) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Stretch](https://open.spotify.com/album/1Y00m2WKm4XYK30iKSe3NX) | 4:01 | 2024-04-17 | 2024-07-04 |
