@@ -1,4 +1,4 @@
-## Playlists \(8454\)
+## Playlists \(8455\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4595,6 +4595,7 @@
 - [Pure Pop Punk](/playlists/pretty/37i9dQZF1DXasneILDRM7B.md)
 - [Pure Rock & Roll](/playlists/pretty/37i9dQZF1DWWRktbhJiuqL.md)
 - [Pure Sunshine](/playlists/pretty/37i9dQZF1DXaSYtampkg5n.md)
+- [Purge](/playlists/pretty/2pigwk6fvmXnhvmljRO3nT.md)
 - [Puro Perreo](/playlists/pretty/37i9dQZF1DWX5ZOsG2Ogi1.md)
 - [Putte i Parken 2013](/playlists/pretty/3JqYduMX06DjhsJRBG4kN5.md)
 - [Putte i parken 2012](/playlists/pretty/5eRHTcvWyEU0MEzNOiR2j1.md)
