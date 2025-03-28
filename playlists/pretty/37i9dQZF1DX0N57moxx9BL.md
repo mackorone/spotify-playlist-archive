@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Peyton Parrish
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,799 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,853 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 5 | [My Favorite Part](https://open.spotify.com/track/4PVh2Kbi9yqybmbNIvUq9K) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK), [Daniel Spriggs](https://open.spotify.com/artist/2ZpvE20s1gTpxv4YiRsRto) | [My Favorite Part](https://open.spotify.com/album/6r4t2XkKlFetLXjUdeYmAY) | 3:30 |
 | 6 | [Voices](https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Death Stare](https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i) | 4:08 |
 | 7 | [The Memory](https://open.spotify.com/track/0wCbt2OooGJIWAccsP2MpL) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [The Darkness Before The Dawn](https://open.spotify.com/album/2HK9jU69MsXP78rfv4Sj4T) | 3:12 |
-| 8 | [Don't Let Go](https://open.spotify.com/track/184dbBB3Bg2ktEMFnO9knn) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [Don't Let Go](https://open.spotify.com/album/3JxAO6j6hu3DoCuyLLkpes) | 4:16 |
+| 8 | [Don't Let Go](https://open.spotify.com/track/184dbBB3Bg2ktEMFnO9knn) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [Don't Let Go](https://open.spotify.com/album/3JxAO6j6hu3DoCuyLLkpes) | 4:17 |
 | 9 | [NO BROKEN BONES](https://open.spotify.com/track/5AnRxL1OuPhApR177gvs6A) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [NO BROKEN BONES](https://open.spotify.com/album/1QWqhEkgQjiUHnYOuVOgZp) | 3:44 |
 | 10 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
 | 11 | [Metanoia](https://open.spotify.com/track/6gNTFlkp51sr8PD6xj1zP9) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God \(Deluxe Edition\)](https://open.spotify.com/album/4YQESxXL4uPV8OegZp3EFs) | 3:09 |

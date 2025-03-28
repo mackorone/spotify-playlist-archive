@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-169 songs - 7 hr 0 min
+171 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-26 |  |
 | [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 | 2023-05-09 |  |
 | [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 | 2024-12-11 |  |
+| [Private Collection](https://open.spotify.com/track/5v2f31RuioUvVquwup0sYd) | [Solyvia](https://open.spotify.com/artist/3T1LDkIId5F2wULXuIAthf) | [Private Collection](https://open.spotify.com/album/21x6KzqlXUNbra8qmGWAH3) | 2:54 | 2025-03-28 |  |
 | [Prélude](https://open.spotify.com/track/6HIRhDZd8E7MMkfZDLpV48) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:51 | 2023-05-09 | 2025-02-19 |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2023-09-11 |  |
 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 | 2024-08-19 |  |
@@ -133,6 +134,7 @@
 | [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 | 2024-09-02 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2023-05-09 |  |
 | [Solandis](https://open.spotify.com/track/3fxdFU7UuXbmos8FTVydU0) | [Maria Melua](https://open.spotify.com/artist/0ltDh2ebSVsK4Xd9wjM1L2) | [Solandis](https://open.spotify.com/album/7i2iTmTnMDyFBFBX8wEvrH) | 1:55 | 2023-05-09 | 2025-03-05 |
+| [Solenne Heartwake](https://open.spotify.com/track/0MOn8fbmJVOXn5GoAqRFEW) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Solenne Heartwake](https://open.spotify.com/album/6CqTNCHJ3TEpidPeFaqygp) | 2:28 | 2025-03-28 |  |
 | [Solumn](https://open.spotify.com/track/6NTynu96oI1nXRWHm10Agr) | [Franz Ville](https://open.spotify.com/artist/6hQXyaaHszf1oLCq4KYRhn) | [Solumn](https://open.spotify.com/album/208hv2rYgpKJjxh9wrMPXz) | 2:27 | 2024-09-24 |  |
 | [Somewhere](https://open.spotify.com/track/6jR3xidOqwlv86dmqTtvte) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Somewhere](https://open.spotify.com/album/2Hr2y7y5blJuP0afa4hBix) | 1:58 | 2025-02-28 |  |
 | [Sommeil du matin](https://open.spotify.com/track/48iJJJ9TGZQAbcdu5B05Xh) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sommeil du matin](https://open.spotify.com/album/4e3yaL5e7v46uCWo7SAqu5) | 2:29 | 2023-05-09 |  |

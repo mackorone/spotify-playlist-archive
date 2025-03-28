@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain]
 
 > Sanremo queens unite 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,229 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,249 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain]
 | 55 | [Adesso E Qui \(Nostalgico Presente\)](https://open.spotify.com/track/6uTChbdCumRwQDy760TFkG) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Naif](https://open.spotify.com/album/6gCjTE0z9FOhPLG2N5FlXK) | 3:51 |
 | 56 | [Gente come noi](https://open.spotify.com/track/0rPsMM9L2Rr6wCGPFHjWPZ) | [Ivana Spagna](https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno) | [Ivana Spagna](https://open.spotify.com/album/3ok6wgz1ucuA4BMciW8SVf) | 4:07 |
 | 57 | [Il Mio Amico](https://open.spotify.com/track/3at21457tnlcqHrnHUk0V0) | [Anna Tatangelo](https://open.spotify.com/artist/2TtebnfWKMq7LCi2A9BlU4) | [Mai dire mai](https://open.spotify.com/album/6XdVtYkcrl0XyScRqdeXjd) | 3:37 |
-| 58 | [Dimmi come...](https://open.spotify.com/track/6R9laSxEmyGpTl5dhucQCu) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB) | [Dimmi Come..\. Remix](https://open.spotify.com/album/4pCSypzGdNtdajsYgx1txT) | 3:30 |
+| 58 | [Dimmi come...](https://open.spotify.com/track/6R9laSxEmyGpTl5dhucQCu) | [Alexia](https://open.spotify.com/artist/77zhJaF2RIJ7MMLkAvoU0v) | [Dimmi Come..\. Remix](https://open.spotify.com/album/4pCSypzGdNtdajsYgx1txT) | 3:30 |
 | 59 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 |
 | 60 | [Vola colomba](https://open.spotify.com/track/2srhl7uP5M5uvtG9sQoLSe) | [Nilla Pizzi](https://open.spotify.com/artist/0Aa0gR6RQfMmo529QX1Gbh) | [Tutto Nilla Pizzi "La regina della canzone italiana"](https://open.spotify.com/album/4uZFPJ5DbADo6UJ2poWkek) | 3:26 |
 | 61 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |

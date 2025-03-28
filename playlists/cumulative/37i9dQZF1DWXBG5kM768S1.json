@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
+        "url": "https://open.spotify.com/album/5wa6SdMaTRGnI6qI7TDq37"
+      },
+      "artists": [
+        {
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        },
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
+      "url": "https://open.spotify.com/track/1l4A0NJPKZOaZ28BrwDVR5"
+    },
+    {
+      "album": {
         "name": "Alltid En Lengsel",
         "url": "https://open.spotify.com/album/4iLwTl4UIBnwU6bRkVtDd5"
       },
@@ -3660,7 +3682,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 181282,
       "name": "Savner deg",
       "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"

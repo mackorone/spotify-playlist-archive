@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Leonie Meijer
 
-200 songs - 12 hr 16 min
+201 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 | 2024-09-26 |  |
 | [Er Wordt Op Je Gewacht](https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Er Wordt Op Je Gewacht](https://open.spotify.com/album/4b9Jjg3fjdBiZ2EMQzJQWp) | 3:35 | 2023-02-10 |  |
 | [Even voorgoed](https://open.spotify.com/track/4C7Opc7GkOln45lwSUqsaT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Even voorgoed](https://open.spotify.com/album/0BbM1K1A00wIpkX4H9cq3q) | 3:18 | 2023-02-10 | 2024-07-06 |
+| [Gaast/Ferwoude](https://open.spotify.com/track/1M4bfMcZEKgAYOWjavoLwR) | [Esther de Jong](https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV) | [Voeten in de aarde](https://open.spotify.com/album/7HZ1SrzuGUUHomVNfKTCxO) | 3:33 | 2025-03-27 |  |
 | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-10 | 2024-07-06 |
 | [Geen Ander](https://open.spotify.com/track/0erh8RtDG4siDMHqdixBXf) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Geen Ander](https://open.spotify.com/album/4miPU2jUOXsoUDAtglywn9) | 3:31 | 2023-02-10 | 2023-03-09 |
 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 | 2023-02-10 |  |
@@ -154,7 +155,7 @@
 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 | 2023-02-10 |  |
 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 | 2023-02-10 | 2025-02-21 |
 | [Papa](https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:13 | 2023-02-10 |  |
-| [Pastorale](https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 4:16 | 2024-04-18 |  |
+| [Pastorale](https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 4:16 | 2024-04-18 | 2025-03-28 |
 | [Pastorale \- Remastered](https://open.spotify.com/track/2BUfuy4p88WKk3d49B1ayP) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Pastorale \(Remastered\)](https://open.spotify.com/album/4NgdGBam7i5ua7YzaJZ8Z8) | 4:15 | 2023-02-10 | 2024-04-19 |
 | [Plastic Rozen](https://open.spotify.com/track/2Tr9FOnn1mqqewSynDt2eV) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Plastic Rozen](https://open.spotify.com/album/0R82ZImoVaZMUQCahYFlVy) | 3:16 | 2024-03-21 |  |
 | [Samen Zijn](https://open.spotify.com/track/3ZMdjAHgHDihm21VZt5RxB) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Samen Zijn](https://open.spotify.com/album/3y7ncQnFAmLzxu4ukpPPSn) | 4:23 | 2023-02-10 | 2024-04-19 |

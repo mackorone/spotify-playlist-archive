@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 6 hr 9 min
+113 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Not\) The One](https://open.spotify.com/track/22BH6K8RlpwNzIINvWS4Jj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 3:01 | 2023-12-30 |  |
 | [2 Souls on Fire \(feat\. Quavo\)](https://open.spotify.com/track/2dMUJy0El3BcQUy9gP9gt0) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:50 | 2023-12-30 |  |
-| [All Hands On Deck REMIX \(feat\. Iggy Azalea\)](https://open.spotify.com/track/5rX9fqEGsHnQeEEsc1Cc3J) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [All Hands On Deck REMIX \(feat\. Iggy Azalea\)](https://open.spotify.com/album/4lP8vfD5YomYnhEvavof6R) | 3:40 | 2023-12-30 |  |
+| [All Hands on Deck](https://open.spotify.com/track/2s35Ae5mo3i5WwxYdZ6SSB) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/0GET5PKimoSUAHMeCebJx7) | 3:41 | 2025-03-27 |  |
+| [All Hands On Deck REMIX \(feat\. Iggy Azalea\)](https://open.spotify.com/track/5rX9fqEGsHnQeEEsc1Cc3J) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [All Hands On Deck REMIX \(feat\. Iggy Azalea\)](https://open.spotify.com/album/4lP8vfD5YomYnhEvavof6R) | 3:40 | 2023-12-30 | 2025-03-28 |
 | [Amore](https://open.spotify.com/track/17YeDKAwDBQLV3Er5CdgC1) | [Dukespan NYC](https://open.spotify.com/artist/5Oytd7WRdbgABzJGyrRlyW) | [Songs From Our Past Vol.1](https://open.spotify.com/album/0K6XNgMTAGQBNoNn2BJPnA) | 4:08 | 2023-12-30 | 2024-07-11 |
 | [Amore \(feat\. Rick Ross\)](https://open.spotify.com/track/77AyJAWtrpoyi9ZDW4dn46) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:54 | 2024-07-10 |  |
 | [Atmosphere](https://open.spotify.com/track/45OALDywAY1JVLqI8eKF9y) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 1](https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS) | 3:11 | 2023-12-30 |  |

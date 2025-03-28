@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 31342,
+  "num_followers": 31356,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Tik Tok Punta",
-        "url": "https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y"
-      },
-      "artists": [
-        {
-          "name": "El Profeta Hn",
-          "url": "https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU"
-        }
-      ],
-      "duration_ms": 243539,
-      "name": "Tik Tok Punta",
-      "url": "https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
         "name": "Bunabou Live",
         "url": "https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 449201,
       "name": "Bunabou Live - Live",
       "url": "https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Tik Tok Punta",
+        "url": "https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y"
+      },
+      "artists": [
+        {
+          "name": "El Profeta Hn",
+          "url": "https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU"
+        }
+      ],
+      "duration_ms": 243539,
+      "name": "Tik Tok Punta",
+      "url": "https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg"
     },
     {
       "added_at": "2024-07-12 22:32:28",

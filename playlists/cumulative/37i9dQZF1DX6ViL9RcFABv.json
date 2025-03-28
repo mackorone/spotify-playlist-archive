@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Fernando Daniel",
+  "description": "Uma playlist de pura alma pop! Foto: Carolina Deslandes, iolanda",
   "name": "Pop PT",
   "tracks": [
     {
@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 158733,
       "name": "Capicuas",
       "url": "https://open.spotify.com/track/5TsxV8O9Xgg8OFceg4aQqu"
@@ -2489,6 +2489,28 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/4M0fdN0DoPVOx6HxtPXQZ6"
+      },
+      "artists": [
+        {
+          "name": "Vanyfox",
+          "url": "https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe"
+        },
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193217,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0Jvj9JFRzwfxXOn1vcE0bd"
+    },
+    {
+      "album": {
         "name": "Longe",
         "url": "https://open.spotify.com/album/311Rot4LrQq2pyY5UnA5ew"
       },
@@ -3993,6 +4015,28 @@
     },
     {
       "album": {
+        "name": "Sonhar Contigo",
+        "url": "https://open.spotify.com/album/6YRsDuvW8wm7usNUWvHztv"
+      },
+      "artists": [
+        {
+          "name": "No Maka",
+          "url": "https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3"
+        },
+        {
+          "name": "Mara Cortez",
+          "url": "https://open.spotify.com/artist/4Sb1JyWr13fjmSxyooVBEo"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Sonhar Contigo",
+      "url": "https://open.spotify.com/track/1TuNUqS6yhjFT7wZ1V7Qml"
+    },
+    {
+      "album": {
         "name": "Sonhei Contigo",
         "url": "https://open.spotify.com/album/13G4MqjlJlRHVeZvsFQGxb"
       },
@@ -4302,7 +4346,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 173961,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74"

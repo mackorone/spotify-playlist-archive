@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: guncharlie",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LITTLE JOHN",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 210200,
       "name": "BOW WOW",
       "url": "https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "STUNNER - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/0Q0FQVj4Npz4MmQuNaHh8u"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "STUNNER",
+      "url": "https://open.spotify.com/track/63j1HWrXmSk1zK7IZYQepo"
+    },
+    {
+      "album": {
         "name": "Sup",
         "url": "https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex"
       },
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 217402,
       "name": "Thought of You (Thai Ver.)",
       "url": "https://open.spotify.com/track/2mdNAr1KtyGGX2fwLqpfLc"
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 204233,
       "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e04\u0e23\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/7xQr5fECdsuYIfaFfndk8o"
@@ -4017,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e02\u0e2d\u0e1a\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46",
+        "url": "https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg"
+      },
+      "artists": [
+        {
+          "name": "LITTLE JOHN",
+          "url": "https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338873,
+      "name": "\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e02\u0e2d\u0e1a\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46",
+      "url": "https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR"
+    },
+    {
+      "album": {
         "name": "URDAWG",
         "url": "https://open.spotify.com/album/1ZQJQ3EAzClG99jCmLefKh"
       },
@@ -4893,6 +4929,24 @@
     },
     {
       "album": {
+        "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
+        "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e1e\u0e1a (Knock Knock) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
+      "url": "https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Close Friend)",
         "url": "https://open.spotify.com/album/5QCYOx0c5M06VH2OtkCoYA"
       },
@@ -5684,6 +5738,24 @@
       "duration_ms": 266685,
       "name": "\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08\u0e27\u0e48\u0e32\u0e44\u0e21\u0e48\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08 (INVERTED)",
       "url": "https://open.spotify.com/track/2phhqdmCi0p8XFVFJZ4Tju"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2b\u0e21\u0e32\u0e22\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32 > (Me vs. Rain)",
+        "url": "https://open.spotify.com/album/6rJ98MJ2sukgj2vuJvxMKM"
+      },
+      "artists": [
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222929,
+      "name": "\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2b\u0e21\u0e32\u0e22\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32 > (Me vs. Rain)",
+      "url": "https://open.spotify.com/track/1mfXBnbN0en32qiygre3Ch"
     },
     {
       "album": {
@@ -6682,6 +6754,28 @@
       "duration_ms": 172500,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5avoDIqACMBIPebBXBQCFK"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e16\u0e39\u0e01\u0e23\u0e31\u0e01 (never been loved)",
+        "url": "https://open.spotify.com/album/1ZStqLVPVSosZeSQnt68RT"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177609,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e16\u0e39\u0e01\u0e23\u0e31\u0e01 (never been loved)",
+      "url": "https://open.spotify.com/track/6EHTNEbeyTwkOm4dMrLsdQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva",
-  "num_followers": 346613,
+  "num_followers": 346710,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-03-17 15:54:32",
       "album": {
+        "name": "O Primeiro a Ser Servido",
+        "url": "https://open.spotify.com/album/3FqK6o3eXMtKzKCRU0JGuP"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 267428,
+      "name": "O Primeiro a Ser Servido",
+      "url": "https://open.spotify.com/track/3lhGqMkF0kFccKtjFYKFJ7"
+    },
+    {
+      "added_at": "2025-03-17 15:54:32",
+      "album": {
         "name": "Gba Stage, Vol. 13",
         "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 294101,
       "name": "Deixa Deus Sonhar em Ti",
       "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
-    },
-    {
-      "added_at": "2025-03-17 15:54:32",
-      "album": {
-        "name": "O Primeiro a Ser Servido",
-        "url": "https://open.spotify.com/album/3FqK6o3eXMtKzKCRU0JGuP"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "O Primeiro a Ser Servido",
-      "url": "https://open.spotify.com/track/3lhGqMkF0kFccKtjFYKFJ7"
     },
     {
       "added_at": "2025-03-17 15:54:32",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-03-17 15:54:32",
       "album": {
-        "name": "Com Tua M\u00e3o",
-        "url": "https://open.spotify.com/album/5TSwbyM7ySxL5dw24cjwQm"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 255914,
-      "name": "Com Tua M\u00e3o",
-      "url": "https://open.spotify.com/track/2GTmkLdTSFj54cESYICauO"
-    },
-    {
-      "added_at": "2025-03-17 15:54:32",
-      "album": {
         "name": "Acima dos Telhados (Acoustic)",
         "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
       },
@@ -915,18 +895,22 @@
     {
       "added_at": "2025-03-17 15:54:32",
       "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+        "name": "Com Tua M\u00e3o",
+        "url": "https://open.spotify.com/album/5TSwbyM7ySxL5dw24cjwQm"
       },
       "artists": [
         {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
         }
       ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+      "duration_ms": 255914,
+      "name": "Com Tua M\u00e3o",
+      "url": "https://open.spotify.com/track/2GTmkLdTSFj54cESYICauO"
     },
     {
       "added_at": "2025-03-17 15:54:32",
@@ -947,6 +931,22 @@
       "duration_ms": 405974,
       "name": "Seremos o Amor",
       "url": "https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA"
+    },
+    {
+      "added_at": "2025-03-17 15:54:32",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2025-03-17 15:54:32",
@@ -1099,7 +1099,7 @@
     {
       "added_at": "2025-03-17 15:54:32",
       "album": {
-        "name": "Ac\u00fastico Cassiano Meirelles",
+        "name": "Studio Can\u00e7\u00e3o Nova (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5ewDVc6Q2lhai5L8c7Fnlv"
       },
       "artists": [
@@ -1211,7 +1211,7 @@
     {
       "added_at": "2025-03-17 15:54:32",
       "album": {
-        "name": "Ac\u00fastico Thiago Tom\u00e9",
+        "name": "Studio Can\u00e7\u00e3o Nova (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO"
       },
       "artists": [

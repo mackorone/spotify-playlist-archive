@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: m\-flo \*👉 <a href="https://spice.eplus.jp/articles/336373">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: m\-flo \*👉 <a href="https://spice.eplus.jp/articles/336590">SPICE連動記事</a>をSPICEでチェック!
 
 9,981 songs - 25 day 22 hr 22 min
 

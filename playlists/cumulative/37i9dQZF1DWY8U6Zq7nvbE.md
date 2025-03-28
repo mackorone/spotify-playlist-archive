@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-457 songs - 1 day 0 hr 44 min
+458 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [spark \- acoustic version](https://open.spotify.com/track/1Bf6t21wDuopvxEjEG0Axx) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/6i4Fr88uQpqbLsbhP0i2bo) | 3:35 | 2022-10-26 | 2022-11-14 |
 | [spark \- Acoustic Version](https://open.spotify.com/track/3t9VNPLPtOSHhdDdTx7VFM) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [the love that you want \(Acoustic\)](https://open.spotify.com/album/14hXoTfUY2iXfr65WvMWou) | 3:35 | 2022-08-31 | 2022-11-26 |
 | [spark \- acoustic version](https://open.spotify.com/track/5JEvRUqLBetsMC12nAKlen) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/2t9kgL9bskHkLAR3wESeeF) | 3:35 | 2021-03-11 | 2022-07-29 |
-| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 |  |
+| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 | 2025-03-28 |
 | [Stack It Up \- Acoustic](https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Stack It Up \(Acoustic\)](https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE) | 2:42 | 2021-03-11 | 2023-10-28 |
 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 | 2022-12-02 |  |
 | [STAY](https://open.spotify.com/track/47HAVYDQN5gH38pf9R8VpJ) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [STAY](https://open.spotify.com/album/1Vxqds6fwlew2NKKge1lgn) | 2:34 | 2022-08-31 | 2022-12-02 |
@@ -396,6 +396,7 @@
 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 | 2022-12-09 |  |
 | [Take It With Me](https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow \(Ten Year Anniversary Edition\)](https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ) | 4:59 | 2023-06-22 | 2023-10-28 |
 | [Take me to church \- Acoustic](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Take Me To Church \(Acoustic\)](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 3:51 | 2022-12-16 | 2023-09-01 |
+| [Taste](https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ) | [Robin T.](https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq) | [Taste](https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt) | 3:09 | 2025-03-17 |  |
 | [Tattoo \- Acoustic](https://open.spotify.com/track/35HBeoqP9gs2JPgeOrtM5e) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Tattoo](https://open.spotify.com/album/43JIZ6tIFBkfrgA0TgungY) | 2:51 | 2023-06-08 | 2023-09-01 |
 | [THATS WHAT I WANT \- Piano Acoustic](https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0) | [THATS WHAT I WANT \(Piano Acoustic\)](https://open.spotify.com/album/4uqUIxdqSwWRtnHGZBPcrj) | 2:56 | 2022-11-11 | 2023-10-28 |
 | [The Best](https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf) | [Von Allen](https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG) | [The Best](https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr) | 3:37 | 2024-02-02 |  |

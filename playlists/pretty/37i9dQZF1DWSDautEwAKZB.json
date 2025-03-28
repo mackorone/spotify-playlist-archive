@@ -988,22 +988,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Suburbia - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5Y34ia4fEDrQd1a3gczxX9"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA"
       },
       "artists": [
@@ -1015,6 +999,22 @@
       "duration_ms": 217715,
       "name": "Ni T\u00fa Ni Yo - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3SGYaD6fFdjAKdju5LM2p1"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "Suburbia - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5Y34ia4fEDrQd1a3gczxX9"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 155797,
-      "name": "Go Away - Spotify Singles",
-      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "La HP - Spotify Singles",
         "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 186780,
       "name": "La HP - Spotify Singles",
       "url": "https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 155797,
+      "name": "Go Away - Spotify Singles",
+      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
     },
     {
       "added_at": "2024-11-07 00:01:00",

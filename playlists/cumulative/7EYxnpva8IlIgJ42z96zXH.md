@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-974 songs - 2 day 3 hr 14 min
+975 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Damage \- Joel Corry Remix](https://open.spotify.com/track/0J9Z555r7aAx5wB8ysDjhp) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Damage \(Joel Corry Remix\)](https://open.spotify.com/album/7dJSY5Rx8OLMuCyI3h4K3J) | 3:06 | 2021-02-19 | 2021-03-19 |
 | [Damn Phones](https://open.spotify.com/track/6EbInBDc8gbqxkyIZVGjVt) | [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Damn Phones](https://open.spotify.com/album/3K9eM56WbUzJba3QvRjafp) | 2:55 | 2022-05-06 | 2022-05-12 |
 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 | 2020-11-03\* | 2021-02-19 |
+| [Dance In The Sunlight \(feat\. Bandit\)](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight \(feat\. Bandit\)](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 | 2025-03-27 |  |
 | [Dance So Wildly](https://open.spotify.com/track/52bVGmhP1AVyHtGdPH8pHC) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [The Boy Of Many Colors](https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx) | [Dance So Wildly](https://open.spotify.com/album/3pVd2Eoe5TlOp2F2koR1Vc) | 2:56 | 2021-11-26 | 2021-12-04 |
 | [Dance With Somebody \- Teddy Cream Remix](https://open.spotify.com/track/3NpXHV4C0HNHY64kAZffF7) | [Morado & Schwarz](https://open.spotify.com/artist/3chxqIai1UBdBrXxFoMu1n), [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [Dance With Somebody \(Teddy Cream Remix\)](https://open.spotify.com/album/7iSPAXwLOCHRDvRCyjgq6B) | 2:54 | 2022-05-13 | 2022-06-03 |
 | [Dancer](https://open.spotify.com/track/74RreraHJU2089tT7XZUqJ) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf), [Benji Reyes](https://open.spotify.com/artist/0vX0xXOZ9hKpXoN4dxkewV), [Truent](https://open.spotify.com/artist/7M2hEC2W99tY1JP5Sfwoyi) | [Dancer](https://open.spotify.com/album/702PBQrhtkg91SCA9gETp8) | 2:35 | 2021-11-02 | 2021-11-19 |
@@ -847,7 +848,7 @@
 | [The Preacher](https://open.spotify.com/track/4p712lWvVjVywKf5YjqZ9E) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [The Preacher](https://open.spotify.com/album/5SRB7lF2tf0gVaG8uYUYP3) | 2:40 | 2022-05-13 | 2022-06-10 |
 | [The Preacher \- Sammy Porter Remix](https://open.spotify.com/track/44S2otXl8vsclQk3CCQVPQ) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [The Preacher \(Sammy Porter Remix\)](https://open.spotify.com/album/63eNLxpgrHM0bxfAvHm08R) | 4:00 | 2022-07-29 | 2022-08-27 |
 | [The Rain 2021](https://open.spotify.com/track/1EZYIfQSW2cpYyIeZr9akj) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD), [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [Earthquake](https://open.spotify.com/album/3N7z1ezQEDSV94VAa6OcU4) | 3:17 | 2021-10-08 | 2021-10-29 |
-| [The Seed](https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C) | 3:28 | 2024-10-24 |  |
+| [The Seed](https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C) | 3:28 | 2024-10-24 | 2025-03-28 |
 | [The Spot](https://open.spotify.com/track/5Hay8vuY89IrPOFgz9rGrx) | [Alpha Rosa](https://open.spotify.com/artist/00NUdwW99bIh26anz76hcs) | [The Spot](https://open.spotify.com/album/5IsMZJfuVM307aHNWmFMqD) | 2:57 | 2023-02-03 | 2023-04-13 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-11 | 2023-02-04 |
 | [The Weekend](https://open.spotify.com/track/4fGIvz5Yc6Xp03JNCNiE09) | [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Black Diamond](https://open.spotify.com/album/5cM7qaXIxDHlVxZBROONEV) | 3:34 | 2022-11-18 | 2022-12-16 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: LBI利比
+> The best tracks from the world of music\. Cover: Silence Wang
 
 412 songs - 22 hr 12 min
 

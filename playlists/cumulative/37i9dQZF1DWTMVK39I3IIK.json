@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Soleima",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Guldlokk & kingtommi",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 162695,
       "name": "All I need",
       "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 196510,
       "name": "D\u00e5rligste Bedste Id\u00e9",
       "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 219783,
       "name": "gyldne l\u00f8fter",
       "url": "https://open.spotify.com/track/4v1vC9ENhra6G8Qj95TJ9L"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 246666,
       "name": "Helt",
       "url": "https://open.spotify.com/track/7vuUVW3lImv40lkgqJz4iQ"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 183626,
       "name": "Hva Nu Hvis",
       "url": "https://open.spotify.com/track/4taQDbXw2ioOHIy6uj6XOG"
@@ -1609,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "I nat er i nat",
+        "url": "https://open.spotify.com/album/4WEm63J6RFWKw5ax1X0lLd"
+      },
+      "artists": [
+        {
+          "name": "Guldlokk",
+          "url": "https://open.spotify.com/artist/3s1ycrMCGyVItSNujZS2cg"
+        },
+        {
+          "name": "kingtommi",
+          "url": "https://open.spotify.com/artist/5SzjbKkjV5vdxP4vZMp2w0"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190004,
+      "name": "I nat er i nat",
+      "url": "https://open.spotify.com/track/6hWPrZS18QcAsOQIHU18dD"
+    },
+    {
+      "album": {
         "name": "I Wanna Dive in the Seven Seas",
         "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
       },
@@ -1660,7 +1682,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 132663,
       "name": "I'm The Man",
       "url": "https://open.spotify.com/track/57aE7FawyhBY7FFHtddVv8"
@@ -1931,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Kom Jeg Lidt For T\u00e6t P\u00e5",
+        "url": "https://open.spotify.com/album/6DnlVV0aiAROgRYI3LZvfs"
+      },
+      "artists": [
+        {
+          "name": "Undertekst",
+          "url": "https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189069,
+      "name": "Kom Jeg Lidt For T\u00e6t P\u00e5",
+      "url": "https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55"
+    },
+    {
+      "album": {
         "name": "Uvejr - Del 1",
         "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
       },
@@ -2162,7 +2202,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 220384,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
@@ -2382,7 +2422,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 174017,
       "name": "oslo til k\u00f8benhavn",
       "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
@@ -2472,7 +2512,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 222537,
       "name": "Regn",
       "url": "https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90"
@@ -2544,7 +2584,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 236624,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
@@ -2710,7 +2750,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 216437,
       "name": "Solskam",
       "url": "https://open.spotify.com/track/22VyCWyIDIV7TCEpzX6qtx"
@@ -2844,7 +2884,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 262071,
       "name": "Sunshine In Atalaya",
       "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
@@ -2974,6 +3014,28 @@
       "duration_ms": 185729,
       "name": "The Game",
       "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
+    },
+    {
+      "album": {
+        "name": "Til Enden Og Tilbage (feat. Ungklang)",
+        "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
+      },
+      "artists": [
+        {
+          "name": "Cyd",
+          "url": "https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A"
+        },
+        {
+          "name": "Ungklang",
+          "url": "https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189831,
+      "name": "Til Enden Og Tilbage (feat. Ungklang)",
+      "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
     },
     {
       "album": {
@@ -3364,6 +3426,24 @@
       "duration_ms": 252220,
       "name": "Without You (feat. eee gee)",
       "url": "https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS"
+    },
+    {
+      "album": {
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK"

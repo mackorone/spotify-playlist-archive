@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125466,
+  "num_followers": 125467,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT2xq6QTJWniYlr09ZVeouOZMh1v2/",
+  "snapshot_id": "AAAT3Avqm+jlXgIqMydsoRUHLsTX6vsh",
   "tracks": [
+    {
+      "added_at": "2025-03-27 15:05:19",
+      "album": {
+        "name": "colors",
+        "url": "https://open.spotify.com/album/5k7pxpgyFHpi40XVymiWbV"
+      },
+      "artists": [
+        {
+          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
+          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
+        }
+      ],
+      "duration_ms": 265922,
+      "name": "colors",
+      "url": "https://open.spotify.com/track/70meb0y1oP8OJR0n8RhxZq"
+    },
     {
       "added_at": "2025-03-26 14:33:51",
       "album": {

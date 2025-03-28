@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Emanuele Aloia
+> ✨giovane✨pop✨z✨ Cover: soap
 
-654 songs - 1 day 6 hr 21 min
+660 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [amore analcolico](https://open.spotify.com/track/0kKNI31j7xj7em602bytCb) | [Anima](https://open.spotify.com/artist/78KLSh5jP52tMwFeDpR5Ml), [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [amore analcolico](https://open.spotify.com/album/1v0clnNzLMjfscCQKIYVs0) | 2:07 | 2023-06-22 | 2023-06-30 |
 | [Amore Bianco](https://open.spotify.com/track/7omuQEx0gZX4TjXKX58AGl) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [Amore Bianco](https://open.spotify.com/album/53ouXegw7U2gjuMsl0jnqg) | 2:21 | 2023-03-23 | 2023-03-31 |
 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 | 2024-07-04 |  |
+| [Amore viscerale \(charnel\)](https://open.spotify.com/track/34R0X1WwO2D3Sl3nJr8ayz) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Pas facile](https://open.spotify.com/album/1j3iGC3DHnfA9D2UsWNona) | 2:08 | 2025-03-27 |  |
 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 | 2025-01-30 |  |
 | [Anche se fa male](https://open.spotify.com/track/0cgSCy6U9CzwNjT81n5dyC) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [Anche se fa male](https://open.spotify.com/album/7ffTACBFs9ZZtAdi9e3umU) | 2:27 | 2023-11-30 | 2023-12-16 |
 | [Anche se forte, l'amore non basta](https://open.spotify.com/track/6hL8EUDbMIMxVMAuS6E3s4) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Anche se forte, l'amore non basta](https://open.spotify.com/album/2CeJaZSvISUSHXvFfIwsbc) | 2:18 | 2024-11-14 | 2025-01-17 |
@@ -118,6 +119,7 @@
 | [CHI L'AVREBBE MAI DETTO](https://open.spotify.com/track/3Uc05rNI4HSR8QAQo6cBdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [CHI L'AVREBBE MAI DETTO](https://open.spotify.com/album/2rwmpOwFQGucSfJi7KZLrp) | 2:57 | 2024-01-18 | 2024-02-07 |
 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 | 2023-03-23 | 2024-03-15 |
 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 | 2025-02-12 |  |
+| [Chiedere aiuto](https://open.spotify.com/track/4PK4SCFehrXbUuWghu2lFg) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Chiedere aiuto](https://open.spotify.com/album/0nRe4bSFsSEnFwJBbslGe8) | 2:33 | 2025-03-27 |  |
 | [chiudi quella porta](https://open.spotify.com/track/3n3aCp8myjjE0O205k4vLn) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [chiudi quella porta](https://open.spotify.com/album/1aSntg6DtE83Bwqg3Kb4KU) | 2:55 | 2025-02-27 |  |
 | [chiunque](https://open.spotify.com/track/6Z7OfetiuRQJm7bG9eqWMS) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [chiunque](https://open.spotify.com/album/77yOdgHvUDJ9egxixD4BUy) | 3:00 | 2024-12-19 | 2025-03-14 |
 | [Chiuso a chiave](https://open.spotify.com/track/6pb1BaU0sq7uNItXKLlDRH) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Chiuso a chiave](https://open.spotify.com/album/3mhEPFKqz11vRzge21yKEj) | 3:16 | 2024-12-12 | 2025-01-17 |
@@ -458,6 +460,7 @@
 | [piccola](https://open.spotify.com/track/23rvrgsyz8UfDcdJ0Q2n6W) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [piccola](https://open.spotify.com/album/2K5AyOdOngBYvDhG4pGMcL) | 2:15 | 2024-10-17 | 2024-11-29 |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 |  |
 | [Piccoli ricordi](https://open.spotify.com/track/1RVmeUoqYnxutbrNAGB4cB) | [Zaite](https://open.spotify.com/artist/6KLLVe6z95qVupJjRHmxMO) | [Piccoli ricordi](https://open.spotify.com/album/6EfIFS3aHzUkIgyLN8zmlg) | 2:07 | 2023-03-23 | 2023-04-14 |
+| [PICCOLO ME](https://open.spotify.com/track/0S564iZQcYuId4KIFVuZmo) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ) | [PICCOLO ME](https://open.spotify.com/album/5Snt4p5P4M773bDR2wUytj) | 2:26 | 2025-03-27 |  |
 | [PILLS](https://open.spotify.com/track/2L95Nk8SGXzP26qBqhVJ5F) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/1SdYzkHgjy3yFa8gGRU70G) | 2:37 | 2024-10-10 | 2024-10-25 |
 | [PIOVERE](https://open.spotify.com/track/0NNWsInZjG2j0NGLBK7048) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [PIOVERE](https://open.spotify.com/album/5aACZ8stKioaJl5aEGdMyv) | 2:32 | 2023-10-19 | 2023-11-10 |
 | [piumone](https://open.spotify.com/track/4NCZEtgd1WgLB5KsV6WMwK) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [piumone](https://open.spotify.com/album/3A46BaAEMjifTPqxKM3FRa) | 2:24 | 2023-05-25 | 2023-09-15 |
@@ -465,6 +468,7 @@
 | [Polmone](https://open.spotify.com/track/3B3e3hmedTQThdjlKEKybi) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Polmone](https://open.spotify.com/album/6hQkWLUkR2fWqWUmdAcjIz) | 2:38 | 2023-04-13 | 2023-04-28 |
 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 | 2023-03-23 | 2024-02-02 |
 | [polvere sui graffiti](https://open.spotify.com/track/1AMYGediPicuuTc5NLtaDZ) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [polvere sui graffiti](https://open.spotify.com/album/6TYQquh62MKw29DIa2FqVU) | 3:08 | 2025-03-06 | 2025-03-21 |
+| [Pompei](https://open.spotify.com/track/2P24Qi7gIrGsMSQ7pj0imK) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy) | [Pompei](https://open.spotify.com/album/527AHohLGjDBm9cwT6hQxx) | 3:03 | 2025-03-27 |  |
 | [Pop Corn e patatine RMX](https://open.spotify.com/track/1ovirVCRbRPiDttcIxqWus) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [Pop Corn e patatine RMX](https://open.spotify.com/album/2zFbkDYonDRzA6zf0M7zDx) | 2:55 | 2023-08-21 | 2024-04-19 |
 | [POSATENEBRE](https://open.spotify.com/track/2TgvnT8ugu5YMrQpXdspXM) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [POSATENEBRE](https://open.spotify.com/album/0HZ53MWDea1zIvVZ2DqQXg) | 3:02 | 2024-03-08 | 2024-07-05 |
 | [Poteva piovere](https://open.spotify.com/track/5V8uyik5T6uzBEuVfqsAPc) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Poteva piovere](https://open.spotify.com/album/1Yp5jcutprfBdOqqSoddV4) | 3:16 | 2024-10-10 | 2024-10-25 |
@@ -605,6 +609,7 @@
 | [TUTTA ROSA](https://open.spotify.com/track/1bcOhOnjx5qfQsT96wjDZt) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [TUTTA ROSA](https://open.spotify.com/album/62bhoMTFJHeHqUT0dlxahp) | 2:48 | 2024-06-06 | 2024-07-05 |
 | [Tutto con te](https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Tutto con te](https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ) | 2:38 | 2023-06-08 | 2024-07-05 |
 | [TUTTO L’ODIO](https://open.spotify.com/track/510kRcg1GpYJUYaHlDG8yi) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [TUTTO L’ODIO](https://open.spotify.com/album/0l885K2W8kJ1fDXIBpxE8I) | 2:32 | 2025-01-14 |  |
+| [Tutto Quello Che Ho](https://open.spotify.com/track/1N3VJ7jq2T1jO1bi6M2LFK) | [Emma Muscat](https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX) | [Tutto Quello Che Ho](https://open.spotify.com/album/6u4n84seNDQg3dmtLY0VB2) | 2:48 | 2025-03-27 |  |
 | [Ultimo addio](https://open.spotify.com/track/4E6p6inBpalGEPkxQAFBy2) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [Ultimo addio](https://open.spotify.com/album/7vs04FRFm1oifBdzXdGvgb) | 2:35 | 2024-07-11 | 2024-10-25 |
 | [ULTRAS](https://open.spotify.com/track/2yQ0sTyePbwZrMBCSNnIGN) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [ULTRAS](https://open.spotify.com/album/0hQNb6VoV23XmGVjLdogIJ) | 3:02 | 2023-11-30 | 2023-12-13 |
 | [un <3 in due](https://open.spotify.com/track/722fnHldLfC5ZI4QWdT3ak) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [un <3 in due](https://open.spotify.com/album/7IczajoDqLhhoQut0uFoR6) | 2:43 | 2023-05-25 | 2023-06-09 |
@@ -622,6 +627,7 @@
 | [Una stella in cielo](https://open.spotify.com/track/5HyTee9UYav7DYngohVycc) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [ORA D'ARIA](https://open.spotify.com/album/3e3QTPyeIRp0lkTdbAWgxC) | 2:49 | 2024-02-29 | 2024-03-15 |
 | [Unica](https://open.spotify.com/track/1dy9J9p6pWPmuxvi34A1As) | [Giovane Miska](https://open.spotify.com/artist/172d1Ks0mK3OBicOBdWlAR), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Unica](https://open.spotify.com/album/1IBi8TeetLlAXP8sFOmW7i) | 2:21 | 2023-04-13 | 2023-05-05 |
 | [Unica](https://open.spotify.com/track/5hVC2pqvboHxk1iTwnBwJY) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX), [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [Unica \(feat\. EDN\)](https://open.spotify.com/album/2pJRiDa1sWZedP2IEuxB17) | 2:57 | 2024-12-19 |  |
+| [Unica Scusa](https://open.spotify.com/track/4v1Y7ML9UQzGtTKI9fTeeh) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs), [Tanarouge](https://open.spotify.com/artist/565GKMj0rrNhGBPyNR4RUT) | [Unica Scusa](https://open.spotify.com/album/2PldQ0KcFP3EhzzUgYA5fj) | 1:50 | 2025-03-27 |  |
 | [Unica Stronza](https://open.spotify.com/track/3Ilv72auWQ1GKbxxfnxDop) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [Unica Stronza](https://open.spotify.com/album/0bfWCcxp6wgKCPdFQpox0O) | 2:22 | 2024-01-18 | 2024-03-08 |
 | [Un’altra Mania](https://open.spotify.com/track/1taGP4ykDbPVPqMt1wovJN) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Un’altra Mania](https://open.spotify.com/album/7yuIChBCoWVFzgM7ZbHPs1) | 2:36 | 2023-09-28 | 2023-10-13 |
 | [URLA \(feat\. Fasma\)](https://open.spotify.com/track/0ByflMiw9uDJleR9iEQxuK) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk) | [URLA \(feat\. Fasma\)](https://open.spotify.com/album/6J6yVPzd8nLTd0c9fTSOwQ) | 3:21 | 2023-06-15 | 2023-06-30 |

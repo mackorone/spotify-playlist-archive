@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 198314,
       "name": "A Glitch",
       "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 146049,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3ZUbGRsTPyvdlJt91T4akw"
@@ -711,6 +711,28 @@
     },
     {
       "album": {
+        "name": "22:22",
+        "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Bluetopia",
+      "url": "https://open.spotify.com/track/60wDCdcqaNTDUKQ1riMHUX"
+    },
+    {
+      "album": {
         "name": "Bolide allemand",
         "url": "https://open.spotify.com/album/2ggT3ZPX8xC4eUPPlpvAKH"
       },
@@ -721,7 +743,7 @@
         },
         {
           "name": "Jaykill",
-          "url": "https://open.spotify.com/artist/1xMu2snW3zuQ3Ut9qqXRn7"
+          "url": "https://open.spotify.com/artist/0dGPMxHTZHlIWhNqfrWs9e"
         },
         {
           "name": "SubLife",
@@ -752,6 +774,28 @@
       "duration_ms": 130789,
       "name": "Born To Make It",
       "url": "https://open.spotify.com/track/6kTN5hzVv7v7OBWkadx3IP"
+    },
+    {
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/7fcef1UGUdMQiPDSJHoP4k"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/1eeAMDgqCkFYDYr0RBFPgr"
     },
     {
       "album": {
@@ -1066,6 +1110,28 @@
       "duration_ms": 181000,
       "name": "Cube Seat",
       "url": "https://open.spotify.com/track/2imYOSrNnKm5e3dQXtv3TQ"
+    },
+    {
+      "album": {
+        "name": "Dance In The Sunlight (feat. Bandit)",
+        "url": "https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Dance In The Sunlight (feat. Bandit)",
+      "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
     },
     {
       "album": {
@@ -1866,7 +1932,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 161184,
       "name": "I NEED U",
       "url": "https://open.spotify.com/track/0KuEyc7OvadLoAjQ3VwjEU"
@@ -2876,6 +2942,32 @@
       "duration_ms": 169032,
       "name": "Now You Know",
       "url": "https://open.spotify.com/track/41iKApBwuxn4DlCulZGmYj"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/4jdElywFwzza2oid6HotlN"
+      },
+      "artists": [
+        {
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
+        },
+        {
+          "name": "Zwette",
+          "url": "https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0"
+        },
+        {
+          "name": "Vendredi",
+          "url": "https://open.spotify.com/artist/728y8xDi9WMeYqKeuYgDF0"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144590,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0Qv7jr5gtq5M6NAhg9JvYd"
     },
     {
       "album": {
@@ -4268,7 +4360,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 249479,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"

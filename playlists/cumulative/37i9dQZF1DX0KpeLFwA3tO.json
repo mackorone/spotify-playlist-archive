@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: YHWH Nailgun",
+  "description": "The best new music from the wide world of punk. Cover: PUP",
   "name": "All New Punk",
   "tracks": [
     {
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 191448,
       "name": "An Artist Is An Artist",
       "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
@@ -7073,6 +7073,36 @@
     },
     {
       "album": {
+        "name": "Cheap Shots & Setbacks X (feat. Mallory Knox and ROAM)",
+        "url": "https://open.spotify.com/album/3q6x4H2UbM9NiKMveSAo3u"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        },
+        {
+          "name": "Mallory Knox",
+          "url": "https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ"
+        },
+        {
+          "name": "ROAM",
+          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
+        },
+        {
+          "name": "Mikey Chapman",
+          "url": "https://open.spotify.com/artist/785WIfCKrAIVM2FxiRCr4L"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "Cheap Shots & Setbacks X (feat. Mallory Knox and ROAM)",
+      "url": "https://open.spotify.com/track/5NHaiowtCSpQbkIduUFAYI"
+    },
+    {
+      "album": {
         "name": "Checking In",
         "url": "https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ"
       },
@@ -10361,6 +10391,24 @@
     },
     {
       "album": {
+        "name": "Devotion And Desire (2025)",
+        "url": "https://open.spotify.com/album/4pxFN4ldUXg5p2yePkP7wE"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211621,
+      "name": "Devotion And Desire (2025)",
+      "url": "https://open.spotify.com/track/4zElg6SFYvAgIh13i2FinO"
+    },
+    {
+      "album": {
         "name": "diamonds on your dagger",
         "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
       },
@@ -10372,7 +10420,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
@@ -10592,7 +10640,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 171562,
       "name": "Disabuse",
       "url": "https://open.spotify.com/track/5d5Ur3zYKpjSmPWJs7bNco"
@@ -11307,6 +11355,24 @@
     },
     {
       "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251562,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh"
+    },
+    {
+      "album": {
         "name": "Misplaced",
         "url": "https://open.spotify.com/album/51SpKubhOlSWKslwx5GyUR"
       },
@@ -11708,7 +11774,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 151394,
       "name": "Drunk Talk",
       "url": "https://open.spotify.com/track/4tvtPbLFQLcK4QdMcDrvpV"
@@ -13958,7 +14024,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 180746,
       "name": "Four",
       "url": "https://open.spotify.com/track/4aXP57iyfp7ApVMc9pu3md"
@@ -14742,6 +14808,28 @@
       "duration_ms": 219720,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
+    },
+    {
+      "album": {
+        "name": "Get Dumber (feat. Jeff Rosenstock)",
+        "url": "https://open.spotify.com/album/6TV72STw4FAjY9cxpIWWmu"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        },
+        {
+          "name": "Jeff Rosenstock",
+          "url": "https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156917,
+      "name": "Get Dumber - feat. Jeff Rosenstock",
+      "url": "https://open.spotify.com/track/35zLu8pT2KSMN0O36JLhIL"
     },
     {
       "album": {
@@ -17252,7 +17340,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 171808,
       "name": "Hey Ken, Someone Methodically Mushed the Donuts (Re-recorded) ft. Tades Sanville",
       "url": "https://open.spotify.com/track/0IkUtoJWNj8bD53XoudPCN"
@@ -18114,6 +18202,32 @@
       "duration_ms": 216142,
       "name": "I Cheated at Chuck E. Cheese",
       "url": "https://open.spotify.com/track/5KadWdV8cCOQgJ3dok90JG"
+    },
+    {
+      "album": {
+        "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
+        "url": "https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        },
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        },
+        {
+          "name": "Little Kruta",
+          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233040,
+      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
+      "url": "https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv"
     },
     {
       "album": {
@@ -24539,6 +24653,24 @@
     },
     {
       "album": {
+        "name": "ETHEREAL",
+        "url": "https://open.spotify.com/album/4l7lktmtiK5FdcFI7IjhQJ"
+      },
+      "artists": [
+        {
+          "name": "JIVEBOMB",
+          "url": "https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99771,
+      "name": "MISTAKEN",
+      "url": "https://open.spotify.com/track/0tngw2xqqGIgz5w8bDLKhf"
+    },
+    {
+      "album": {
         "name": "mistakes that i have made",
         "url": "https://open.spotify.com/album/4W6O0zh23EyWLcuWqD9s5f"
       },
@@ -24688,6 +24820,24 @@
       "duration_ms": 228854,
       "name": "Modern Vanity",
       "url": "https://open.spotify.com/track/6DLYYSwlzBms2L4Dqc3gEV"
+    },
+    {
+      "album": {
+        "name": "Sigo necesitando un tiempo",
+        "url": "https://open.spotify.com/album/7om6gOQPuKND4choqLiVMX"
+      },
+      "artists": [
+        {
+          "name": "los reels",
+          "url": "https://open.spotify.com/artist/2bB4ObUYYsTRa0U2HKsE2T"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136312,
+      "name": "Modo telonio",
+      "url": "https://open.spotify.com/track/5tfte94JCoJBvlXRkCQtTL"
     },
     {
       "album": {
@@ -24880,6 +25030,24 @@
       "duration_ms": 152926,
       "name": "More Than Chemical",
       "url": "https://open.spotify.com/track/02ub7Ai9EK14F2nOr5kwRC"
+    },
+    {
+      "album": {
+        "name": "Mortal Coil",
+        "url": "https://open.spotify.com/album/0OJMPG9pQjYqE1YidS8JhW"
+      },
+      "artists": [
+        {
+          "name": "Age of Apocalypse",
+          "url": "https://open.spotify.com/artist/0vMfvtQ4YXnMFh1az1izft"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278141,
+      "name": "Mortal Coil",
+      "url": "https://open.spotify.com/track/0u4jf8O308yPA7jGiQQi1c"
     },
     {
       "album": {
@@ -25208,7 +25376,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 208624,
       "name": "MY GENERATION",
       "url": "https://open.spotify.com/track/01ZCAdAAC3Qob7Ik6yDTqT"
@@ -25854,7 +26022,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 179454,
       "name": "Nice to Know Ya",
       "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
@@ -26334,7 +26502,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
@@ -26540,7 +26708,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 181027,
       "name": "Not Hell, Not Heaven",
       "url": "https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2"
@@ -28132,7 +28300,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 205632,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
@@ -31353,6 +31521,24 @@
     },
     {
       "album": {
+        "name": "Ruining the Foundation",
+        "url": "https://open.spotify.com/album/7oQvIuQ0hdK9sMAN9ZlAWw"
+      },
+      "artists": [
+        {
+          "name": "St.Hood",
+          "url": "https://open.spotify.com/artist/6v7bUy8j5SvbZb1efbkQQd"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200886,
+      "name": "Ruining the Foundation",
+      "url": "https://open.spotify.com/track/2KqKmg9f6K3kpRxUwwbfOR"
+    },
+    {
+      "album": {
         "name": "EP iii",
         "url": "https://open.spotify.com/album/2PIWW0DFCG6MJl96s6gFYR"
       },
@@ -34118,7 +34304,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 206520,
       "name": "Some Girls",
       "url": "https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn"
@@ -35114,7 +35300,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 327136,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/3uoRMK4ZYJWXtY3d89jSsS"
@@ -37322,6 +37508,24 @@
       "duration_ms": 254988,
       "name": "The Black Mare",
       "url": "https://open.spotify.com/track/0o7JH4VFvSKu0YpG3QVHJN"
+    },
+    {
+      "album": {
+        "name": "The Bog Body",
+        "url": "https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173310,
+      "name": "The Bog Body",
+      "url": "https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI"
     },
     {
       "album": {
@@ -40820,7 +41024,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 82000,
       "name": "VYVANSE",
       "url": "https://open.spotify.com/track/1X8uBJoT7cNrbxE66CUMU8"
@@ -40968,7 +41172,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 178956,
       "name": "Walk The Walk",
       "url": "https://open.spotify.com/track/0Z25OFEgHytpJiRuPV3E9Z"

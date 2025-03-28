@@ -2629,6 +2629,24 @@
     },
     {
       "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/1yIk0wIpNgZUpsLYeVn4hD"
+      },
+      "artists": [
+        {
+          "name": "Zetbee",
+          "url": "https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345000,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/4KIthamSOlDTuArqZfiych"
+    },
+    {
+      "album": {
         "name": "Trembala",
         "url": "https://open.spotify.com/album/3ZqhaGJ43PmogKRdwOX3w2"
       },
@@ -4628,7 +4646,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 368780,
       "name": "Love Track 24 - B&S Concept Remix",
       "url": "https://open.spotify.com/track/0IuBxBQJMY1eSZAbKCTZpp"
@@ -4986,7 +5004,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 372245,
       "name": "Moments Of Sounds",
       "url": "https://open.spotify.com/track/6L5KflM0olnqaSbNSyJkE9"
@@ -5630,6 +5648,24 @@
       "duration_ms": 178000,
       "name": "Noemie",
       "url": "https://open.spotify.com/track/0WcwBpZZ0CLBz47Z1fEqfy"
+    },
+    {
+      "album": {
+        "name": "Northern Bop",
+        "url": "https://open.spotify.com/album/7062xZlVFWPsw3Pf9AbR53"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hall",
+          "url": "https://open.spotify.com/artist/41OIv2uCiP3bPfbFYbnWSy"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431320,
+      "name": "Northern Bop",
+      "url": "https://open.spotify.com/track/3cC5BniCgHsWG5AP1s7U6i"
     },
     {
       "album": {

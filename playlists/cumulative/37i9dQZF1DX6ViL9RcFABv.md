@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Fernando Daniel
+> Uma playlist de pura alma pop! Foto: Carolina Deslandes, iolanda
 
-219 songs - 11 hr 39 min
+221 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 | 2024-06-27 | 2025-02-07 |
 | [Bênção](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Bênção](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 | 2024-06-27 | 2024-12-20 |
 | [Calon](https://open.spotify.com/track/5mfl7jos9buH5dIJOu74KE) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Calon](https://open.spotify.com/album/6OJnSZuPrZvT4ntnbpFIbP) | 2:28 | 2024-06-27 | 2025-03-07 |
-| [Capicuas](https://open.spotify.com/track/5TsxV8O9Xgg8OFceg4aQqu) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Capicuas](https://open.spotify.com/album/61ilOfzmq0FfizugStjxDm) | 2:38 | 2024-10-10 |  |
+| [Capicuas](https://open.spotify.com/track/5TsxV8O9Xgg8OFceg4aQqu) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Capicuas](https://open.spotify.com/album/61ilOfzmq0FfizugStjxDm) | 2:38 | 2024-10-10 | 2025-03-28 |
 | [Cara a Cara](https://open.spotify.com/track/2Ik0mM3HtmmFJNBQU6iutp) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Cara a Cara](https://open.spotify.com/album/6S3P0rv3UuWsWwRLwHs0SM) | 2:59 | 2024-09-26 | 2024-10-11 |
 | [Cara Metade](https://open.spotify.com/track/1dKJdxD4RQKklbrx970AGI) | [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Cara Metade](https://open.spotify.com/album/2F0Evqu0vpNMIL6fhhMOam) | 3:33 | 2024-11-15 | 2025-01-10 |
 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 | 2024-06-27 | 2024-10-18 |
@@ -134,6 +134,7 @@
 | [Laurinda](https://open.spotify.com/track/3drskGBsZCSm5r2t16a29G) | [Karetus](https://open.spotify.com/artist/5SVGhU7cTodC79weaAmjYy), [Vitorino](https://open.spotify.com/artist/7flUOC9NURC3OzurTkTSeM), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Laurinda](https://open.spotify.com/album/3p1la8zojsWwFz4H4Ha2Q1) | 3:08 | 2024-09-26 | 2024-10-25 |
 | [Lembra Você](https://open.spotify.com/track/5nbttiVvzyybchDJXyNT71) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Sem Limites](https://open.spotify.com/album/1nHiVw1epVXXJZGjRSRUPf) | 2:50 | 2025-03-14 |  |
 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/0J7jhgo9b25MiltPJ4xdhy) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/album/2WZOiUyx2FeSnmzdXWFhPs) | 3:14 | 2024-06-27 | 2025-03-14 |
+| [Lento](https://open.spotify.com/track/0Jvj9JFRzwfxXOn1vcE0bd) | [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Lento](https://open.spotify.com/album/4M0fdN0DoPVOx6HxtPXQZ6) | 3:13 | 2025-03-28 |  |
 | [Longe](https://open.spotify.com/track/5O4zUhpJp6tN8XAZYCptUb) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Longe](https://open.spotify.com/album/311Rot4LrQq2pyY5UnA5ew) | 2:48 | 2025-03-21 |  |
 | [Longe](https://open.spotify.com/track/2giLgCjvTxqSFu44odxxKq) | [Van Sophie](https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG) | [Longe](https://open.spotify.com/album/41NMiLfcYDSiLo5VMZH1NU) | 2:49 | 2025-03-21 |  |
 | [Loucamente](https://open.spotify.com/track/7dmP18O7QHHwf2VXjBauJ3) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Loucamente](https://open.spotify.com/album/4uuGVn3VQKek2PYwMLfH33) | 3:42 | 2024-06-27 | 2025-02-21 |
@@ -208,6 +209,7 @@
 | [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 | 2024-07-11 | 2024-09-20 |
 | [Sincero](https://open.spotify.com/track/49oZxIeKVg4XMSXn3h2ICL) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Sincero](https://open.spotify.com/album/5d33B15WZGhVGZkMsK8q0i) | 2:04 | 2024-06-27 | 2024-09-20 |
 | [Slow Motion](https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:42 | 2024-06-27 | 2024-09-20 |
+| [Sonhar Contigo](https://open.spotify.com/track/1TuNUqS6yhjFT7wZ1V7Qml) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Mara Cortez](https://open.spotify.com/artist/4Sb1JyWr13fjmSxyooVBEo) | [Sonhar Contigo](https://open.spotify.com/album/6YRsDuvW8wm7usNUWvHztv) | 2:55 | 2025-03-28 |  |
 | [Sonhei Contigo](https://open.spotify.com/track/3mK8dCBQozqTunFC0SGmOJ) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Sonhei Contigo](https://open.spotify.com/album/13G4MqjlJlRHVeZvsFQGxb) | 3:38 | 2024-12-20 |  |
 | [Sorte A Nossa](https://open.spotify.com/track/5N25pJmDbR4TRX20PC8bIG) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [Sorte A Nossa](https://open.spotify.com/album/2J3ytCn71wcAZhHCiYtoAI) | 2:26 | 2024-09-12 | 2025-02-07 |
 | [Sozinho](https://open.spotify.com/track/6FRjQPBZ4pEdKWGSCSgeh8) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Sozinho](https://open.spotify.com/album/3RYhMw7mbqMFHEGyo3nkOf) | 2:28 | 2024-06-27 | 2024-07-05 |
@@ -223,7 +225,7 @@
 | [Tu És Capaz](https://open.spotify.com/track/7FWthtHNaVxbg5C1aQ68Fl) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Tu És Capaz](https://open.spotify.com/album/0ZDVybzvo8hbZ2IUWxK4Vz) | 2:53 | 2024-08-15 | 2025-02-07 |
 | [Tão Perto](https://open.spotify.com/track/2qrNqW7jSZn5cMW4oMTRKc) | [Valter Lobo](https://open.spotify.com/artist/69KGUs8AVPGEyE5ZR9PCc7) | [Tão Perto](https://open.spotify.com/album/5L3kdhj5CSe65wJUhX09Wu) | 3:11 | 2025-01-17 |  |
 | [Vai Vaguear](https://open.spotify.com/track/1G59cxn9MKkmt9Sy41rYmv) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Vai Vaguear](https://open.spotify.com/album/4pqOlvUgjCoCPVqzvPXfcB) | 3:30 | 2024-09-26 | 2024-10-11 |
-| [Vem Cá](https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Vem Cá](https://open.spotify.com/album/4adzp1LS9pbLRNMv3SUKxO) | 2:53 | 2025-01-10 |  |
+| [Vem Cá](https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Vem Cá](https://open.spotify.com/album/4adzp1LS9pbLRNMv3SUKxO) | 2:53 | 2025-01-10 | 2025-03-28 |
 | [À Espera Do Fim](https://open.spotify.com/track/3HKfGY4DN6qvjTWsrxINRL) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [À Espera Do Fim](https://open.spotify.com/album/2thqEo3jisGUBgPkyVOkwP) | 3:18 | 2025-01-03 |  |
 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 | 2024-07-18 | 2024-09-06 |
 | [Último Esforço](https://open.spotify.com/track/1WShOxlHNjiCvaAQAJ8Epp) | [Umbelino](https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW) | [Último Esforço](https://open.spotify.com/album/6MHGpH9jWamp1WKPsssgpZ) | 3:19 | 2024-10-24 | 2024-11-29 |

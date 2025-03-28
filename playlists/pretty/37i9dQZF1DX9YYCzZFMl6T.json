@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 4162,
+  "num_followers": 4169,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
+      },
+      "artists": [
+        {
+          "name": "The Wandering Hearts",
+          "url": "https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Lonely on Christmas",
         "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 189118,
       "name": "Lonely on Christmas",
       "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
-      },
-      "artists": [
-        {
-          "name": "The Wandering Hearts",
-          "url": "https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl"
-        }
-      ],
-      "duration_ms": 262941,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Hard Candy Christmas",
-        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        }
-      ],
-      "duration_ms": 207735,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "My Favorite Gifts - Christmas Album",
         "url": "https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 254866,
       "name": "The Brightest Star",
       "url": "https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Hard Candy Christmas",
+        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 207735,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas Alone (Live from the Blue Room)",
-        "url": "https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn"
+        "name": "Christmas is Right Here",
+        "url": "https://open.spotify.com/album/64nzajicSCtDOXYbedroJv"
       },
       "artists": [
         {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
         }
       ],
-      "duration_ms": 210508,
-      "name": "Christmas Alone - Live",
-      "url": "https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV"
+      "duration_ms": 183966,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"
     }
   ],
   "unique_name": "Americana Christmas",

@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Private Collection",
+        "url": "https://open.spotify.com/album/21x6KzqlXUNbra8qmGWAH3"
+      },
+      "artists": [
+        {
+          "name": "Solyvia",
+          "url": "https://open.spotify.com/artist/3T1LDkIId5F2wULXuIAthf"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174821,
+      "name": "Private Collection",
+      "url": "https://open.spotify.com/track/5v2f31RuioUvVquwup0sYd"
+    },
+    {
+      "album": {
         "name": "Somnio Novo",
         "url": "https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk"
       },
@@ -2268,6 +2286,24 @@
       "duration_ms": 115746,
       "name": "Solandis",
       "url": "https://open.spotify.com/track/3fxdFU7UuXbmos8FTVydU0"
+    },
+    {
+      "album": {
+        "name": "Solenne Heartwake",
+        "url": "https://open.spotify.com/album/6CqTNCHJ3TEpidPeFaqygp"
+      },
+      "artists": [
+        {
+          "name": "\u00d3skar \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148189,
+      "name": "Solenne Heartwake",
+      "url": "https://open.spotify.com/track/0MOn8fbmJVOXn5GoAqRFEW"
     },
     {
       "album": {

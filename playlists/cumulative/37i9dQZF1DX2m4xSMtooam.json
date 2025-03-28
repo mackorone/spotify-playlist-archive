@@ -605,6 +605,36 @@
     },
     {
       "album": {
+        "name": "Bossa for Miles",
+        "url": "https://open.spotify.com/album/6efthBuFIC8O5uasQQzgwk"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        },
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "Martin Hoper",
+          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
+        },
+        {
+          "name": "Ola Bothz\u00e9n",
+          "url": "https://open.spotify.com/artist/04RGyqM7mPycHtLq2QWPD6"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249729,
+      "name": "Bossa For Miles",
+      "url": "https://open.spotify.com/track/065vvnxY5JmXGfkMfXc2cD"
+    },
+    {
+      "album": {
         "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
@@ -3160,7 +3190,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 252228,
       "name": "Oliven\u00e7a",
       "url": "https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq"

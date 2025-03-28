@@ -1571,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/1iPohGaYhxREtzVgi9f4gN"
+      },
+      "artists": [
+        {
+          "name": "MEDITERANE",
+          "url": "https://open.spotify.com/artist/4vR71H3X6ElW2XnP6Ggwhq"
+        },
+        {
+          "name": "ABOUTME",
+          "url": "https://open.spotify.com/artist/7cXBldbNYipGrKZDr3hwVy"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139218,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/3d2hvqd1TVKSXKW1Z13j6n"
+    },
+    {
+      "album": {
         "name": "Cada Vez (Ultimate Mix Collection)",
         "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
       },
@@ -3610,7 +3632,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 161129,
       "name": "Freedom 2024",
       "url": "https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn"

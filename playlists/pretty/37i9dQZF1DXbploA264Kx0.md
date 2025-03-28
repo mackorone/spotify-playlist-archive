@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: TRASH
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,086 likes - 45 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,093 likes - 45 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 44 | [科幻小說](https://open.spotify.com/track/416Z4twQflY6NmXtxI013g) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:56 |
 | 45 | [Rollin' On](https://open.spotify.com/track/63oSPrP54in4X41vq6cNlL) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [LOVELY SUNDAY](https://open.spotify.com/album/2D4TWvXGzGmL1zbOdoDnWw) | 3:54 |
 
-Snapshot ID: `Z9w7nQAAAACnmaum2KDxtywy5jFJCqvk`
+Snapshot ID: `Z+WAZAAAAAAxdbpZzDgq+Vl63i/WIWiR`

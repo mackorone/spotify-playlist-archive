@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-384 songs - 21 hr 43 min
+385 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Sigo Zoñando](https://open.spotify.com/track/1FrLqoMJqg8PhpCZzgvv9K) | [Alak](https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1) | [Sigo Zoñando](https://open.spotify.com/album/5f8yNSQjmOMbR6WcbGqkoi) | 2:29 | 2024-03-01 |  |
 | [Sin Etiquetas](https://open.spotify.com/track/04K2EiRnHz4UtEHxvrx4k5) | [El Muisca](https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [Sin Etiquetas](https://open.spotify.com/album/4QPZsHxOOe4JkMrNU5l2Wg) | 2:28 | 2024-07-26 |  |
 | [Sin pistola](https://open.spotify.com/track/008gGt53LBG5eBo7rfganm) | [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Sin pistola](https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy) | 2:33 | 2023-09-22 |  |
+| [Sin Poder Olvidarte](https://open.spotify.com/track/6EBdAt4GvHKeRYYsxPn02G) | [Jon Jams](https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7), [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Sin Poder Olvidarte](https://open.spotify.com/album/4amL1nxZnYNW5hEgSUvnoa) | 3:48 | 2025-03-26 |  |
 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 | 2023-03-03 |  |
 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 | 2022-05-25 |  |
 | [Smartphone](https://open.spotify.com/track/7Dhvtb3KnYj2KaRKhdLhMS) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Coupé](https://open.spotify.com/album/4hLw3wYbQCHFO2KNVvo4Sz) | 2:59 | 2025-02-13 | 2025-03-08 |

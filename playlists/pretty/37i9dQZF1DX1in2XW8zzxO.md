@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,266 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,310 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 46 | [All Night](https://open.spotify.com/track/64uHIutDM1LeKX12mONusv) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [All Night](https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch) | 5:58 |
 | 47 | [Groove](https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh) | [Groove](https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU) | 5:51 |
 | 48 | [Bavelelwe \(feat\. De Soul, DJ 2K & Philharmonic\)](https://open.spotify.com/track/1uOiRbyrwib7lZaci5vhMp) | [B33Kay SA](https://open.spotify.com/artist/3JnGUDpLOhd0VXPUSv6j1R), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [De Soul](https://open.spotify.com/artist/7MC6QpkwcMnPCBfyaF1vBW), [Dj 2k](https://open.spotify.com/artist/282zxtwJOF2QDpQcLhiL9x), [Philharmonic](https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb) | [Bavelelwe \(feat\. De Soul, DJ 2K & Philharmonic\)](https://open.spotify.com/album/6HI5zhygnDNIUmwiPf2kBf) | 5:23 |
-| 49 | [Shuffle](https://open.spotify.com/track/0jLE159BmNIIwongqStIp1) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN), [Lynden X](https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a), [Thabsoul](https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT) | [Shuffle](https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i) | 6:15 |
-| 50 | [Johnny](https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf) | [Ney](https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Johnny](https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5) | 6:18 |
+| 49 | [Johnny](https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf) | [Ney](https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Johnny](https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5) | 6:18 |
+| 50 | [Mina Nawe \- Radio Edit](https://open.spotify.com/track/7nAXecq3zqlOb64OjYCFD5) | [Donel](https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT), [DANKIE SOUNDS](https://open.spotify.com/artist/0WeoUKDLUBglNBE8pYBDpS) | [Mina Nawe](https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq) | 3:44 |
 
 Snapshot ID: `Z5wLIAAAAAB1b6zco9MdTTyW/Yow7zCx`

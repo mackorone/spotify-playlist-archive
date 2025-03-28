@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 5115,
+  "num_followers": 5122,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+CggAAAAADZH2PTnQ4bDvTtYsoY6wFw",
+  "snapshot_id": "Z+HyAAAAAADwy4+3af3kIA81vrIWCG2P",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 463066,
-      "name": "D'You Know What I Mean? - Remastered",
-      "url": "https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV"
+      "duration_ms": 250013,
+      "name": "I'm Outta Time",
+      "url": "https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 250013,
-      "name": "I'm Outta Time",
-      "url": "https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ"
+      "duration_ms": 463066,
+      "name": "D'You Know What I Mean? - Remastered",
+      "url": "https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV"
     },
     {
       "added_at": null,

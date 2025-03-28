@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-780 songs - 1 day 9 hr 51 min
+781 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Down For You](https://open.spotify.com/track/5HAvxGYX1l1n5WHSiBWcnL) | [Chill Gull](https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw), [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1), [Cal.Cherry](https://open.spotify.com/artist/0KHlUOhZXCRwHD3KVyl4nq) | [Down For You](https://open.spotify.com/album/1Pe0eS9ISfMipmA1gA4SrQ) | 2:05 | 2024-12-15 | 2025-01-13 |
 | [Drag Me Down \- Masove Remix](https://open.spotify.com/track/5ziSP5i9oWEkvjPmJfmPB6) | [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8), [Kasper Juul](https://open.spotify.com/artist/09qLJAC6XDikDesDujWEQb), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR) | [Drag Me Down \(Masove Remix\)](https://open.spotify.com/album/3wyjhR9QR44DY3cO6JbvlN) | 2:54 | 2023-09-22 |  |
 | [Dreaming In The Sky](https://open.spotify.com/track/1qnnYYVn4zEJgfLvZvq1H6) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Dreaming In The Sky](https://open.spotify.com/album/7CyDIaeZ0ZwHA4vTgsBqH1) | 2:58 | 2025-02-09 | 2025-03-15 |
+| [Drift Away Into The Grey](https://open.spotify.com/track/0mYred93yYbM1bv4FzfT1W) | [ELERA](https://open.spotify.com/artist/4xo3EH1H4QcgoX3512eF4N), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Drift Away Into The Grey](https://open.spotify.com/album/5TxZEWllbJvZ6L1zQp1oAz) | 2:08 | 2025-03-27 |  |
 | [Drifting Away](https://open.spotify.com/track/3yeuG4c0lmwuHwFWD4W4dm) | [Aron Matthews](https://open.spotify.com/artist/7cmyUzMi6RNTKMiEpLUyxH), [Maxiz](https://open.spotify.com/artist/0tPvS7MPWR6z5WTN1dDqN3), [Saintro P Sax Up](https://open.spotify.com/artist/5d0miqmqbZ03OTRV3A2T7Y) | [Drifting Away](https://open.spotify.com/album/6dqO17ZAmTToFgzHt0jEtY) | 2:15 | 2024-06-21 | 2024-07-29 |
 | [Drifting Away](https://open.spotify.com/track/3lpajNpJVD1TUPelIqirdY) | [BLANCE](https://open.spotify.com/artist/6evlfkHSHNx1mUQwDuZFXW), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Drifting Away](https://open.spotify.com/album/2KiNhCFLP9Bso5iuTlkitj) | 2:18 | 2024-06-23 | 2024-09-09 |
 | [Driving Oceanside](https://open.spotify.com/track/0dIiKSBdeVRiTpj5Yog6ak) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [POLLY](https://open.spotify.com/artist/3Zc4MGz1t0uHYkoW2HIr7P) | [Driving Oceanside](https://open.spotify.com/album/7CSxBFWij7dNGWORtfraBB) | 2:12 | 2024-12-08 |  |

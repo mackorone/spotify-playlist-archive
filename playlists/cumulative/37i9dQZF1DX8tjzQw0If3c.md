@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: Regina Song
+> Listen to the future\. Cover: rhyu
 
-117 songs - 6 hr 23 min
+121 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [But does my love make you feel?](https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [But does my love make you feel?](https://open.spotify.com/album/4vyUUI6cAAkoYH1mmZh3lX) | 4:56 | 2024-08-22 | 2024-12-05 |
 | [BY YOUR SIDE](https://open.spotify.com/track/7gG4zvBiCXLSiTi5M6qqhv) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [BY YOUR SIDE](https://open.spotify.com/album/2uuBBXx7DYRQF7jAg06SsT) | 2:41 | 2024-06-27 |  |
 | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/track/6ntx8S1rMyvbydeSvNUtmJ) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/album/07CbkGl1YOymwyeWb4Nug9) | 2:48 | 2024-10-24 | 2024-12-05 |
+| [Can't tell](https://open.spotify.com/track/5KMrcmjD5t287xvHuDxzw4) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 3:00 | 2025-03-27 |  |
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2024-06-27 |  |
 | [Cemburu](https://open.spotify.com/track/3fbNkHTrMF0bAL9IV6z9dC) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Cemburu](https://open.spotify.com/album/1huyLizjNAl9LhQCgdGQgO) | 2:45 | 2024-06-27 |  |
 | [Cinematic](https://open.spotify.com/track/0NEAWc8Q9QUPleQdElSCXw) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:43 | 2024-08-08 | 2024-12-05 |
@@ -50,6 +51,7 @@
 | [Find My Way](https://open.spotify.com/track/5HXyUHV7K2OmRoYQ0sVFa7) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 2:44 | 2025-02-13 |  |
 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 | 2025-02-13 |  |
 | [FOR REAL](https://open.spotify.com/track/4kur5V464OTAgBXrGVsQNV) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [FOR REAL](https://open.spotify.com/album/2TzyBYYqPp3ZARHD5z0vKL) | 2:41 | 2024-06-27 | 2024-12-05 |
+| [Forever Person](https://open.spotify.com/track/5D3WS25ZPlgUVp3vDyPFH8) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 2:34 | 2025-03-27 |  |
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2024-06-27 | 2024-12-05 |
 | [Gerimis Mengundang \- Ska Reggae](https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Gerimis Mengundang \(Ska Reggae\)](https://open.spotify.com/album/761clLaYSuG9COhmMyOZag) | 5:17 | 2024-10-31 | 2024-12-05 |
 | [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 | 2024-10-24 | 2024-12-05 |
@@ -94,6 +96,7 @@
 | [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 | 2024-07-18 | 2024-12-05 |
 | [PHASES](https://open.spotify.com/track/79oTiBLxuzMqY4WVFxdFek) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [PHASES](https://open.spotify.com/album/6kj5QQJhYMvQZfdy9RJnS3) | 1:53 | 2024-09-19 | 2024-12-05 |
 | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/track/5EJEftAM7FGp3rqzqlGTAj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/album/3ObMniiI2YCYoaNXWhWBYW) | 2:52 | 2024-06-27 | 2024-12-05 |
+| [Precious](https://open.spotify.com/track/1tLWU4cpSMyLsJzG6BQDHT) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 3:01 | 2025-03-27 |  |
 | [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-06-27 |  |
 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-06-27 |  |
 | [RISE](https://open.spotify.com/track/35WeXPdntwzMh11x92LWYf) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [RISE](https://open.spotify.com/album/170PSJTTmPwKLWYkLeDMNP) | 3:04 | 2024-06-27 | 2024-12-05 |
@@ -105,6 +108,7 @@
 | [scared to lose me](https://open.spotify.com/track/2piEwJsSN0auCOQIPYhKKF) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [scared to lose me](https://open.spotify.com/album/4rThapZToG2EqGgyase84m) | 2:23 | 2024-08-29 | 2024-12-05 |
 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-27 |  |
 | [Shadow After Noon](https://open.spotify.com/track/6g7ElVPamAdH5XQpwxECQb) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Shadow After Noon](https://open.spotify.com/album/00NhjwtAj3rfc2E3uG1Wo0) | 3:42 | 2024-06-27 |  |
+| [Song No\. 2](https://open.spotify.com/track/4v34de6hult90cQjAGxugf) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 4:24 | 2025-03-27 |  |
 | [SUN MOON](https://open.spotify.com/track/5sOmxPPHICzHN9cd6CbuyV) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [SUN MOON](https://open.spotify.com/album/6P1F1i3kKY039lRdzQBPa4) | 2:27 | 2024-06-27 | 2024-12-05 |
 | [SWITCH](https://open.spotify.com/track/4ZlSLmFui5nI80OMvDOGxr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [SWITCH](https://open.spotify.com/album/3LpXennZJYBZlJiWJEhmoC) | 2:11 | 2024-06-27 |  |
 | [Takkan Mengalah \- From "Legenda Puteri Qaseh" Original Soundtrack](https://open.spotify.com/track/3tAYElgGNEf4LoxNdsW6G5) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Takkan Mengalah \(From "Legenda Puteri Qaseh" Original Soundtrack\)](https://open.spotify.com/album/1fNughGowl1BH0mOKrYfni) | 3:26 | 2024-06-27 | 2024-12-05 |

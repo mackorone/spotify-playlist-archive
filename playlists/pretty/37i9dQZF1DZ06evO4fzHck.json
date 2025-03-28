@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 567734,
+  "num_followers": 567792,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+CggAAAAACYfCjlkqQsbdSq8bY8DXsT",
+  "snapshot_id": "Z+HyAAAAAABLyDJ1Xj6z/xpsbPJ/DitF",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 315186,
-      "name": "Fascination Street - Remastered",
-      "url": "https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventeen Seconds",
         "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 218960,
       "name": "Play For Today",
       "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 315186,
+      "name": "Fascination Street - Remastered",
+      "url": "https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Mood Swings",
-        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Mint Car",
-      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Head On The Door",
         "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 271293,
       "name": "Push",
       "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Mood Swings",
+        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Mint Car",
+      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bestival Live 2011",
-        "url": "https://open.spotify.com/album/4BIu0GCMComOTwBzuS6PCI"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "Boys Don't Cry (Bestival Live 2011)",
-      "url": "https://open.spotify.com/track/1YrhoxYtegw7IDv7JHJTHl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 223760,
       "name": "The End Of The World",
       "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bestival Live 2011",
+        "url": "https://open.spotify.com/album/4BIu0GCMComOTwBzuS6PCI"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "Boys Don't Cry (Bestival Live 2011)",
+      "url": "https://open.spotify.com/track/1YrhoxYtegw7IDv7JHJTHl"
     },
     {
       "added_at": null,

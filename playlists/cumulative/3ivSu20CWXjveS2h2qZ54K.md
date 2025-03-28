@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,516 songs - 8 day 2 hr 36 min
+3,517 songs - 8 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1691,6 +1691,7 @@
 | [La Pena](https://open.spotify.com/track/1IlaEb7UM7UubcKl7sK8ux) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [La Pena](https://open.spotify.com/album/66snkTYbsBb5PvzMsQnXfj) | 3:00 | 2024-12-20 | 2025-01-11 |
 | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq) | 2:57 | 2025-02-14 | 2025-02-22 |
 | [La Playlist](https://open.spotify.com/track/0b4IE3re39rqOsgxIS2sAX) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [éXtasis](https://open.spotify.com/album/0jB5ywtZ4EaVPrCtVhncgm) | 2:50 | 2024-08-30 | 2024-09-07 |
+| [La Plaza](https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj) | [Rufus T\. Firefly](https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1) | [La Plaza](https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu) | 3:24 | 2025-03-27 |  |
 | [La Porta Del Cuore](https://open.spotify.com/track/2sUq3IgDGg1g7xYzqfSecp) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai) | [Amore e Salute](https://open.spotify.com/album/2KV3R2KUCQ1jM8fecnq9II) | 4:05 | 2024-11-08 | 2024-11-16 |
 | [La Presión](https://open.spotify.com/track/5ypuVIBvxyWja7Pz7bjAPc) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [QUEENS OF GROOVE](https://open.spotify.com/album/3Z9hzZwfZ0qy7S3Fxwlsrj) | 3:04 | 2025-02-27 | 2025-03-08 |
 | [La Quinqui](https://open.spotify.com/track/0MxML3YLaKjyVWHn4Zr3RO) | [Gipsy Power Band](https://open.spotify.com/artist/1sYUtL1oNH4fKc5M1ZZjxe) | [La Quinqui](https://open.spotify.com/album/4UJdIiZtUEochH0gYSUXuk) | 2:47 | 2025-01-24 | 2025-02-01 |

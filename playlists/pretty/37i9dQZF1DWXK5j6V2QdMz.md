@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXK5j6V2QdMz.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ronniefieg/">Ronnie Fieg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,850 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,870 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

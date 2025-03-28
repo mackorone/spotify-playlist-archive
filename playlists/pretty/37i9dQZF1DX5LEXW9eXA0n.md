@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: 조현아\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,628 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,623 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
-| 2 | [Softly](https://open.spotify.com/track/2ayyf1KZFHgbTORNZfBoYh) | [Jo Hyun Ah \(Urban Zakapa\)](https://open.spotify.com/artist/7H1xefw9cFxz9jsCDZDhCl) | [Softly](https://open.spotify.com/album/0xEJ8Vu9QlHyIzaLCRfu0d) | 3:23 |
+| 2 | [Softly](https://open.spotify.com/track/2ayyf1KZFHgbTORNZfBoYh) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Softly](https://open.spotify.com/album/0xEJ8Vu9QlHyIzaLCRfu0d) | 3:23 |
 | 3 | [I live in my heart](https://open.spotify.com/track/73Mwr1U5v0FofFkUsg3T8n) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [I live in my heart](https://open.spotify.com/album/1hq4LYXSVmsBHpREq1wJ3n) | 3:35 |
 | 4 | [Name](https://open.spotify.com/track/2m4xD0yi8tEFlBuVCBfmSw) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [When Life Gives you Tangerines OST from the Netflix Series \- Chapter 1](https://open.spotify.com/album/49bGEMM6PHLu00mAN2iIqP) | 4:10 |
 | 5 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 |

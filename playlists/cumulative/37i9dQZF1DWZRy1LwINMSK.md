@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Los Shishi.
 
-260 songs - 13 hr 27 min
+261 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [RACE](https://open.spotify.com/track/6flQYfHgCMham7OPXa7qUG) | [Lil Snow](https://open.spotify.com/artist/6yYRLzRO7whe1IjNtvEQOV), [Daimi](https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W) | [RACE](https://open.spotify.com/album/6blNttxC90OPCTV67BHcgn) | 2:11 | 2023-09-01 | 2024-07-13 |
 | [REELS](https://open.spotify.com/track/2mjomuPkuvJvmm4oxESQXn) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 2:15 | 2024-05-31 |  |
 | [RICO POBRE](https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [FINALMENTE RICO](https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk) | 3:06 | 2022-08-25 | 2024-06-08 |
+| [RICO POR SIEMPRE](https://open.spotify.com/track/6j1NlnwQzAaINyZADaiVGk) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [RICO POR SIEMPRE](https://open.spotify.com/album/4rc9TsY1K4bnzXIDyDb002) | 2:33 | 2025-03-21 |  |
 | [Ring](https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Ring](https://open.spotify.com/album/2S8NVIzCeTvVRcEPJyhSFk) | 2:29 | 2022-01-20 | 2023-12-09 |
 | [Sabio](https://open.spotify.com/track/0Rul56oJRTpYSUFodXo3Ge) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sabio](https://open.spotify.com/album/4U081d9PgMAMylCphc5v6p) | 4:00 | 2023-12-08 | 2024-06-01 |
 | [Seguimo Joseando](https://open.spotify.com/track/2O93dCBtMfEwSGcTUsE1FR) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Benjita Montana](https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 3:03 | 2023-06-02 | 2023-07-01 |

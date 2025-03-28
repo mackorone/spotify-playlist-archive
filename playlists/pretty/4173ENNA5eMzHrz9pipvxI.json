@@ -1,13 +1,69 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Alok &amp; Alan Fitzpatrick",
-  "num_followers": 120749,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KREAM &amp; Camden Cox",
+  "num_followers": 120747,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAe+YU1zbkQAHPfD2uHOMy0K3KUAqzQ",
+  "snapshot_id": "AAAfALKgCMBDoGffTr9gCeFt8bkE9k5U",
   "tracks": [
+    {
+      "added_at": "2025-03-27 11:25:21",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4PeopsVYBPuPyr83e3T0H0"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 225130,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk"
+    },
+    {
+      "added_at": "2025-03-27 11:25:21",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5vfu9E9F4kBCq0AlfdquSF"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 165238,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/7rONL3DsWAeW3RbNshISEc"
+    },
+    {
+      "added_at": "2025-03-27 11:25:21",
+      "album": {
+        "name": "Diamond In The Rough",
+        "url": "https://open.spotify.com/album/5OkTkv5HihCPXVTzPOGu1q"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 190790,
+      "name": "Diamond In The Rough",
+      "url": "https://open.spotify.com/track/7jGMJ4elJCN4Jqvep5d0Yi"
+    },
     {
       "added_at": "2025-03-20 13:02:19",
       "album": {
@@ -65,20 +121,44 @@
       "url": "https://open.spotify.com/track/5jakKyB7OiOSPyTrbypdpm"
     },
     {
-      "added_at": "2025-03-13 11:42:51",
+      "added_at": "2025-03-27 11:25:53",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/7qIQadnPABUBp9p0zwW4vX"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Komb",
+          "url": "https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah"
+      "duration_ms": 162025,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1Zcgrk1KIo3fcC1ceyOWfl"
+    },
+    {
+      "added_at": "2025-03-27 11:25:21",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/15VExKJxqoqCoCpFjldjiQ"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Undercatt",
+          "url": "https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r"
+        }
+      ],
+      "duration_ms": 255483,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3yx9FvpJyHrHd5CwONQUIM"
     },
     {
       "added_at": "2025-03-13 11:42:51",
@@ -99,6 +179,22 @@
       "duration_ms": 319180,
       "name": "All Right",
       "url": "https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY"
+    },
+    {
+      "added_at": "2025-03-20 13:07:17",
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/49KprVMw2TsJ7mPOGak3s3"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/2MYSnX6Nqld1zRjZNxYNmC"
     },
     {
       "added_at": "2025-03-20 13:02:05",
@@ -157,6 +253,22 @@
       "url": "https://open.spotify.com/track/617JXb8OeEFxtkIwpc79lm"
     },
     {
+      "added_at": "2025-03-13 11:42:51",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah"
+    },
+    {
       "added_at": "2025-03-20 13:04:30",
       "album": {
         "name": "What's A Girl To Do (Remix EP)",
@@ -175,22 +287,6 @@
       "duration_ms": 157500,
       "name": "What's A Girl To Do - Lee Ann Roberts Remix",
       "url": "https://open.spotify.com/track/2n4WGBY9hf6XDSR5kwPsKK"
-    },
-    {
-      "added_at": "2025-03-20 13:07:17",
-      "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/49KprVMw2TsJ7mPOGak3s3"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/2MYSnX6Nqld1zRjZNxYNmC"
     },
     {
       "added_at": "2025-03-13 11:42:51",

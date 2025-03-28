@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน:  Billkin, PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,959 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,017 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 9 | [BOW WOW](https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOW WOW](https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY) | 3:30 |
 | 10 | [BANG!](https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [BANG!](https://open.spotify.com/album/5mPMtvMVqTKpYVdfqJPmOp) | 3:34 |
 | 11 | [ONE SHOT \(feat\. PiXXiE\)](https://open.spotify.com/track/4qOHFJhvv7kwiMNentxoa6) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ONE SHOT \(feat\. PiXXiE\)](https://open.spotify.com/album/1ljDIpbsXhr3N8WZlsU9xN) | 2:52 |
-| 12 | [LOVEGELS \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/5jCQB8mYMiubVDEx3Lfo0b) | [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w), [NEW CHAYAPAK](https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW), [pide](https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP), [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [LEON BROCCO](https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW) | [LOVEGELS \(From GELBOYS สถานะกั๊กใจ\)](https://open.spotify.com/album/5FYwC7iJcRbdbmAIY7W3wi) | 2:46 |
+| 12 | [LOVEGELS \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/5jCQB8mYMiubVDEx3Lfo0b) | [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w), [NEW CHAYAPAK](https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW), [PIDE](https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP), [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [LEON BROCCO](https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW) | [LOVEGELS \(From GELBOYS สถานะกั๊กใจ\)](https://open.spotify.com/album/5FYwC7iJcRbdbmAIY7W3wi) | 2:46 |
 | 13 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
 | 14 | [ลอง \(Reputation\)](https://open.spotify.com/track/4Z19UYA5JKGLhdg7g7wMHu) | [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ลอง \(Reputation\)](https://open.spotify.com/album/3Sy8cFPzSYdgqr107PFUBQ) | 3:38 |
 | 15 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |

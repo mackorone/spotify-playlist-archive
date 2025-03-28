@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-247 songs - 14 hr 10 min
+248 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Commit](https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Commit](https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo) | 3:21 | 2024-08-15 | 2025-03-21 |
 | [Concubine](https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [The Great Escape](https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb) | 4:16 | 2024-05-20 |  |
 | [Cookie](https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Skeletons](https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV) | 3:57 | 2024-11-28 |  |
-| [Cotton Mouth](https://open.spotify.com/track/0bL1roUjcKiJH3ReN9s6e8) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Cotton Mouth](https://open.spotify.com/album/5QdUJQ0MYLiuIJDQnzJitj) | 4:08 | 2025-03-20 |  |
+| [Cotton Mouth](https://open.spotify.com/track/0bL1roUjcKiJH3ReN9s6e8) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Cotton Mouth](https://open.spotify.com/album/5QdUJQ0MYLiuIJDQnzJitj) | 4:08 | 2025-03-20 | 2025-03-28 |
 | [Country Plaines](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 | 2024-08-15 | 2025-01-24 |
 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 | 2024-12-12 |  |
 | [Crush](https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Kyla Imani](https://open.spotify.com/artist/6FKeUu8U16w2fzH1vLxPkg) | [Crush](https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok) | 2:52 | 2024-09-12 | 2024-12-12 |
@@ -143,7 +143,7 @@
 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Life Changes](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 | 2024-05-20 | 2024-11-08 |
 | [Love No Other](https://open.spotify.com/track/6YO8Co43WvQ3ziqqfvdBmc) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [The Message](https://open.spotify.com/album/06yILDavdcbbvqqELnMOYX) | 3:15 | 2024-09-26 | 2024-11-08 |
 | [Lucky Star](https://open.spotify.com/track/0dyKAdVxw1ZR4Dm7ubUJmF) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Lucky Star](https://open.spotify.com/album/1jBCW2wlEWOJ2UGFEqR8qS) | 4:44 | 2024-08-15 | 2024-11-08 |
-| [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2024-05-20 | 2025-03-27 |
+| [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2024-05-20 |  |
 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:34 | 2025-02-13 |  |
 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 | 2025-02-13 |  |
 | [Mazda Familia](https://open.spotify.com/track/2OCU63YuZVNuBZa8IDO99J) | [PNC](https://open.spotify.com/artist/1vxEjlZ4EHSA2lMheggLuS) | [Mazda Familia](https://open.spotify.com/album/6AE3UHZ98oYeENhRlZAtc7) | 3:08 | 2024-05-20 | 2024-11-08 |
@@ -181,7 +181,7 @@
 | [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 | 2024-10-03 |  |
 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 | 2025-03-20 |  |
 | [Porcelain](https://open.spotify.com/track/2b8HXdCOw96FHzRAIx8Kps) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Porcelain](https://open.spotify.com/album/2pEMwAZNzrG1LP66stCLQH) | 2:09 | 2024-05-20 | 2024-08-16 |
-| [Post High Slide](https://open.spotify.com/track/0Oy5bmDDnMpqCv8eYpPqTM) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Post High Slide](https://open.spotify.com/album/4yIdXuxYCX87HG4l2PnYCg) | 3:36 | 2025-03-20 |  |
+| [Post High Slide](https://open.spotify.com/track/0Oy5bmDDnMpqCv8eYpPqTM) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Post High Slide](https://open.spotify.com/album/4yIdXuxYCX87HG4l2PnYCg) | 3:36 | 2025-03-20 | 2025-03-28 |
 | [POSTAL](https://open.spotify.com/track/7aK38P1i3t9OuvQelbDffo) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [POSTAL](https://open.spotify.com/album/4vcokRs3TMvHwLUWo1OXsG) | 2:35 | 2024-05-20 | 2024-08-16 |
 | [Poster Child](https://open.spotify.com/track/4sDjLipNP96jVxQHUcHUdy) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Poster Child](https://open.spotify.com/album/5IFuUoLgYyVAWR9BJp7Ytn) | 3:22 | 2024-09-19 | 2024-11-08 |
 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 | 2024-08-15 |  |
@@ -222,6 +222,7 @@
 | [Sway \- Remix](https://open.spotify.com/track/3aQFm9JK5dTmaAzQPsn9cu) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Sway \(Remix\)](https://open.spotify.com/album/400V16T9CzboOMT4tTWDgt) | 3:43 | 2024-05-20 | 2024-11-08 |
 | [Take It Slow](https://open.spotify.com/track/3kG1mS66M8EluvWLdtFql1) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Take It Slow](https://open.spotify.com/album/5rQk53d98pNdgKy2QGbrsb) | 4:19 | 2024-08-15 | 2024-11-08 |
 | [Te Piringa](https://open.spotify.com/track/67CM4b7wCUnFU3NKW10jw7) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7), [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi) | [Te Piringa](https://open.spotify.com/album/44J3SmTmKwvAblYcWZdz5W) | 3:56 | 2024-05-20 | 2024-11-08 |
+| [Telling Lies](https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Dime](https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd) | 2:11 | 2025-03-27 |  |
 | [Thank You](https://open.spotify.com/track/2E9n355lbsJgJg6RuZXL3a) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Thank You](https://open.spotify.com/album/3ZRB4IHu9GAChXsVio9bDP) | 3:10 | 2024-05-20 | 2024-11-08 |
 | [That's Life, Baby!](https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [That's Life, Baby!](https://open.spotify.com/album/08Ideg6by3nkyndCpHeuhq) | 2:52 | 2025-02-27 |  |
 | [The Moment](https://open.spotify.com/track/2SoLQFVozStiRRyptGbkmW) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [The Moment](https://open.spotify.com/album/41FS6HFv3K8xX66nuv3269) | 4:03 | 2024-09-12 | 2024-11-08 |

@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-333 songs - 13 hr 38 min
+334 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 | 2023-04-18 |  |
 | [Coucher de Solei](https://open.spotify.com/track/2ZIgXnNMJLDrxHwHCsXdP1) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [Coucher de Solei](https://open.spotify.com/album/5PfLYMjSFodhRzqGFVzsOt) | 2:12 | 2023-09-18 |  |
 | [Could It Be?](https://open.spotify.com/track/1BVWa7Qf9nN9eakpg13aF1) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [Could It Be?](https://open.spotify.com/album/1FtVHVt45fGkU5cHeyLgkP) | 1:51 | 2022-07-20 | 2023-09-19 |
+| [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-03-28 |  |
 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 | 2024-10-22 |  |
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2022-01-05 |  |
 | [Dance Of Hope](https://open.spotify.com/track/2oQGqjrkIm4lcg8Jh3JZOh) | [Phoenix Myers](https://open.spotify.com/artist/0LFUcO8NvFmHjZkDvFhieq) | [Dance Of Hope](https://open.spotify.com/album/6Em5rHLNzl14Mn2nK4Y3Vc) | 2:36 | 2024-05-23 |  |

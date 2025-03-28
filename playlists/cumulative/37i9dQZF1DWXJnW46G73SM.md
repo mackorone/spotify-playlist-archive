@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-1,410 songs - 3 day 6 hr 42 min
+1,411 songs - 3 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 | 2025-03-04 |  |
 | [Al Helm El Wardi](https://open.spotify.com/track/7j2ShbKVryNgRM2NOkU7nT) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Al Helm El Wardi](https://open.spotify.com/album/2IOYiwPRdFvpDLOlvjl8Pa) | 3:07 | 2024-06-16 | 2024-07-27 |
 | [Al Hob Al](https://open.spotify.com/track/4jbeCurXQEsNQjEUSVFkO6) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Al Hob Al](https://open.spotify.com/album/1JG05LPwvaHRp58FI4JgVY) | 6:26 | 2023-08-07 | 2023-09-26 |
-| [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 | 2025-02-20 |  |
+| [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 | 2025-02-20 | 2025-03-28 |
 | [Ala Bali](https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Ala Bali](https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9) | 3:14 | 2024-02-14 | 2024-04-24 |
 | [Ala Baly](https://open.spotify.com/track/3dZoIx5gfUuK8r86uP5kCw) | [Mosad Mounir](https://open.spotify.com/artist/4P2rYHr8OxYw0Mm8wmQHRP) | [Ala Baly](https://open.spotify.com/album/73lELtf3uWGyUyY6fuckXB) | 2:53 | 2024-02-16 | 2024-05-03 |
 | [Ala Belady](https://open.spotify.com/track/5KVlvlcILWGYqVvhk0luot) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko), [SAFY](https://open.spotify.com/artist/34h1bM8C93gX0ROWMoellp) | [Ala Belady](https://open.spotify.com/album/6h09rNBEMVwW78WzZfxVk0) | 4:46 | 2023-08-03 | 2023-08-25 |
@@ -177,6 +177,7 @@
 | [BALALEEN](https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [shendy](https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx) | [Balaleen](https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi) | 2:48 | 2022-06-02 | 2022-08-24 |
 | [Balbata](https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Balbata](https://open.spotify.com/album/6peahsqt5fShCKRvSqm6U7) | 2:46 | 2023-06-29 | 2023-08-02 |
 | [Ballerina](https://open.spotify.com/track/78fs5ektDphjXmEjZy99Do) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [Ballerina](https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ) | 3:08 | 2025-01-02 | 2025-02-07 |
+| [Bamr Allah](https://open.spotify.com/track/2sG32OJg5zGk07UglLsUHO) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Bamr Allah](https://open.spotify.com/album/2An8NuZM1J1NDqCjADohNU) | 2:57 | 2025-03-27 |  |
 | [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 | 2022-06-29 |
 | [Barko](https://open.spotify.com/track/5QVzCdsWs7lRU6LtXCen0U) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Barko](https://open.spotify.com/album/4LKKSzbJSTAymsEHb6DPeq) | 3:24 | 2025-01-07 | 2025-02-07 |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 | 2022-08-24 |

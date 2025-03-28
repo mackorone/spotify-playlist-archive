@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8r/YAAAAAA5xJUrqFo1KiwJPA6Fy7/M",
+  "snapshot_id": "Z+WSGQAAAABdoZ9/DKVMmWdWZIQyAEGh",
   "tracks": [
     {
       "added_at": "2025-01-20 07:23:28",
@@ -63,6 +63,34 @@
       "duration_ms": 185538,
       "name": "Naa Kalale",
       "url": "https://open.spotify.com/track/1sxVTlj8Ln0uyvP6P3qGcu"
+    },
+    {
+      "added_at": "2025-03-27 17:59:53",
+      "album": {
+        "name": "Vasthaavaa",
+        "url": "https://open.spotify.com/album/0Z2keKDowMZ1dWluhulFTB"
+      },
+      "artists": [
+        {
+          "name": "Amargeeth",
+          "url": "https://open.spotify.com/artist/12fWWM8fYvtkySJ5SHo34V"
+        },
+        {
+          "name": "Bavathayini Nagarajan",
+          "url": "https://open.spotify.com/artist/2cxGdIddB5cifEAuu1u5J9"
+        },
+        {
+          "name": "Thomas Chitamel Alexander",
+          "url": "https://open.spotify.com/artist/2WAp8ekuCuSgyv8L1nKZyV"
+        },
+        {
+          "name": "Vidyuth Srinivas",
+          "url": "https://open.spotify.com/artist/5TbKgZkS33cpXsaN1Xk1KU"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Vasthaavaa",
+      "url": "https://open.spotify.com/track/1M67wuVGrL7BSDAIZrKNlJ"
     },
     {
       "added_at": "2025-03-05 13:22:01",

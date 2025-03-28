@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 293937,
+  "num_followers": 294029,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Castell\u00f3 Kaniche",
+          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "No Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16"
+    },
+    {
+      "added_at": "2025-03-14 20:59:39",
+      "album": {
         "name": "Y Hoy Volvimos A Vernos",
         "url": "https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 203812,
       "name": "Y Hoy Volvimos A Vernos",
       "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"
-    },
-    {
-      "added_at": "2025-03-14 20:59:39",
-      "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Castell\u00f3 Kaniche",
-          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "No Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16"
     },
     {
       "added_at": "2025-03-14 20:59:39",
@@ -1111,42 +1111,6 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
-        "name": "La Segunda del Hombre del Acorde\u00f3n",
-        "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
-      },
-      "artists": [
-        {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
-        },
-        {
-          "name": "Grupo Cali",
-          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
-        },
-        {
-          "name": "Gerardo Gross",
-          "url": "https://open.spotify.com/artist/0xpHGyu4fPxDalDVfjb1Ni"
-        },
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        },
-        {
-          "name": "Cuarteto Imperial",
-          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
-        },
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 260566,
-      "name": "La Segunda del Hombre del Acorde\u00f3n",
-      "url": "https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF"
-    },
-    {
-      "added_at": "2025-03-14 20:59:39",
-      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
@@ -1203,6 +1167,42 @@
       "duration_ms": 211865,
       "name": "Desn\u00fadame",
       "url": "https://open.spotify.com/track/2lijAMVz1pZxjcyqH14kCS"
+    },
+    {
+      "added_at": "2025-03-14 20:59:39",
+      "album": {
+        "name": "La Segunda del Hombre del Acorde\u00f3n",
+        "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Grupo Cali",
+          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
+        },
+        {
+          "name": "Gerardo Gross",
+          "url": "https://open.spotify.com/artist/0xpHGyu4fPxDalDVfjb1Ni"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Cuarteto Imperial",
+          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 260566,
+      "name": "La Segunda del Hombre del Acorde\u00f3n",
+      "url": "https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF"
     },
     {
       "added_at": "2025-03-14 20:59:39",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-03-14 20:59:39",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Mario Luis con los Angeles Colombianos",
-          "url": "https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Cosas del amor",
-      "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
-    },
-    {
-      "added_at": "2025-03-14 20:59:39",
-      "album": {
         "name": "Dile",
         "url": "https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 175545,
       "name": "Dile",
       "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
+    },
+    {
+      "added_at": "2025-03-14 20:59:39",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis con los Angeles Colombianos",
+          "url": "https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Cosas del amor",
+      "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
     },
     {
       "added_at": "2025-03-14 20:59:39",

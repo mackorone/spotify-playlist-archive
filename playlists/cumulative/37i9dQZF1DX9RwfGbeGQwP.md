@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,560 songs - 2 day 10 hr 39 min
+1,561 songs - 2 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [beija flor](https://open.spotify.com/track/40RvOH5G640YZe3ZtSUZyZ) | [mockfly](https://open.spotify.com/artist/0Ur2p5PWdMOHeidtUvsYb2) | [beija flor](https://open.spotify.com/album/4j5TEd9tIv4j5GoXt9tjof) | 1:54 | 2022-07-01 | 2022-12-10 |
 | [Believe](https://open.spotify.com/track/2IrEBO5jKGNRZJhn1Xqlab) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Believe](https://open.spotify.com/album/3ASNf3waj5UoMXtaI5acwF) | 2:24 | 2024-07-25 | 2024-08-10 |
 | [benice](https://open.spotify.com/track/0n5px9dEnPHgNMEJk8F2MH) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [benice](https://open.spotify.com/album/0orBbi62RzgLybgEdzxZm8) | 2:22 | 2024-07-05 |  |
-| [Best Friends](https://open.spotify.com/track/20tGiDOlsl5HDR7fFssN3w) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Best Friends](https://open.spotify.com/album/3rPFB3nWu1nD2yh8zWwLNG) | 2:20 | 2024-11-22 |  |
+| [Best Friends](https://open.spotify.com/track/20tGiDOlsl5HDR7fFssN3w) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Best Friends](https://open.spotify.com/album/3rPFB3nWu1nD2yh8zWwLNG) | 2:20 | 2024-11-22 | 2025-03-28 |
 | [Better Call Paul](https://open.spotify.com/track/4GarVhdXjwIRo2B4NXU8Oa) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Better Call Paul](https://open.spotify.com/album/2ys5fOozBFCfzh60seizGv) | 1:51 | 2023-05-19 | 2025-02-17 |
 | [better future](https://open.spotify.com/track/0YmXffBrd88akIrQXr9TaP) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Lo\-fi Riderz](https://open.spotify.com/artist/05ZPsprfra2K8JWW4E3ITc) | [better future](https://open.spotify.com/album/6yzDS7haJzzTE8B4rsnKL1) | 2:08 | 2022-09-16 | 2023-09-05 |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2022-01-27 | 2022-09-17 |
@@ -129,6 +129,7 @@
 | [Bloom](https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Bloom](https://open.spotify.com/album/1hGnTXCqPpHFhw80OVFmqd) | 2:09 | 2024-09-13 | 2024-12-14 |
 | [Blooming Magic](https://open.spotify.com/track/3uGGmGE2SGxmSHkRbF5EYb) | [Maria Flippo](https://open.spotify.com/artist/4xoGvyrl4NWTtyaSrWi0py) | [Blooming Magic](https://open.spotify.com/album/4bg9lNm1hXxFdTy8xxwtbJ) | 2:07 | 2022-09-16 | 2024-09-07 |
 | [blossom bliss](https://open.spotify.com/track/6rTcq4gZhytJ0IC1JJfCdE) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [blossom bliss](https://open.spotify.com/album/4pUT8Gv5FBOgN9IPSkF4RT) | 2:24 | 2022-08-19 | 2023-01-13 |
+| [blossom season.](https://open.spotify.com/track/7lEr5cZua063aYyvUX0zMy) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [blossom season.](https://open.spotify.com/album/7j3njjiTJJUqMrYbWhwrwr) | 1:50 | 2025-03-21 |  |
 | [Blue](https://open.spotify.com/track/498MKKUZWsgfqIB0u5rCTl) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Blue](https://open.spotify.com/album/7f9ozd5SzTQ5fQ25kAgNWJ) | 2:12 | 2022-07-22 | 2022-11-12 |
 | [Blue in Green](https://open.spotify.com/track/3HDdLewWvTPPxDerTZhp5L) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Theo Lee](https://open.spotify.com/artist/1Kvqxcq6yppm8gMhRDxgO5) | [Blue in Green](https://open.spotify.com/album/6VaW88iTBRgGdAKODokaC9) | 1:47 | 2022-11-11 | 2023-09-29 |
 | [Blue Monday](https://open.spotify.com/track/2QkzUcHZAO9G3NkbstNxx8) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [marbre](https://open.spotify.com/artist/2blo5YYX36yUbDlleqNSA7) | [Blue Monday](https://open.spotify.com/album/2IxFW7q5V3wdqlZWeWNKXU) | 2:23 | 2022-12-09 | 2023-10-06 |

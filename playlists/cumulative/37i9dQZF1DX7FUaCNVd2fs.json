@@ -3607,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "voler",
+        "url": "https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "voler",
+      "url": "https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU"
+    },
+    {
+      "album": {
         "name": "Wait For Me",
         "url": "https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8"
       },

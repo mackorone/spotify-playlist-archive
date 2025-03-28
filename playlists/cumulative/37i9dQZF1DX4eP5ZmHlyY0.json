@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 193345,
       "name": "100!",
       "url": "https://open.spotify.com/track/2Zd5mKEDcw4I5ykv5ZQGyZ"
@@ -2157,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "GBAD",
+        "url": "https://open.spotify.com/album/3zd28IonbElPm1abU4G6Ve"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "GBAD",
+      "url": "https://open.spotify.com/track/3OxVaGUYKdSAXqIp8x7VgC"
+    },
+    {
+      "album": {
         "name": "Generation_Cloud",
         "url": "https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 178400,
       "name": "Get Wild",
       "url": "https://open.spotify.com/track/4IDWkk8s12B50Ksb4aS87W"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 191706,
       "name": "Last Festival",
       "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
@@ -5210,6 +5228,24 @@
       "duration_ms": 198608,
       "name": "OVERDRIVE",
       "url": "https://open.spotify.com/track/1KxOqIOLvry0dc8BF8NSvC"
+    },
+    {
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
+      },
+      "artists": [
+        {
+          "name": "BEOMGYU",
+          "url": "https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Dan Dizzy",
-  "num_followers": 60602,
+  "num_followers": 60649,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-03-21 00:01:24",
       "album": {
+        "name": "I No Be God",
+        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "I No Be God",
+      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
+    },
+    {
+      "added_at": "2025-03-21 00:01:24",
+      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
       },
@@ -447,18 +463,22 @@
     {
       "added_at": "2025-03-21 00:01:24",
       "album": {
-        "name": "I No Be God",
-        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
+        "name": "Zaza (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "KOHDEE",
+          "url": "https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 138666,
-      "name": "I No Be God",
-      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
+      "duration_ms": 127058,
+      "name": "Zaza (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ"
     },
     {
       "added_at": "2025-03-21 00:01:24",
@@ -503,28 +523,8 @@
     {
       "added_at": "2025-03-21 00:01:24",
       "album": {
-        "name": "Zaza (feat. ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU"
-      },
-      "artists": [
-        {
-          "name": "KOHDEE",
-          "url": "https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Zaza (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ"
-    },
-    {
-      "added_at": "2025-03-21 00:01:24",
-      "album": {
-        "name": "Hello Habibi",
-        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
       "artists": [
         {
@@ -532,33 +532,21 @@
           "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 194661,
-      "name": "Hello Habibi",
-      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
-    },
-    {
-      "added_at": "2025-03-21 00:01:24",
-      "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         },
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         }
       ],
-      "duration_ms": 181764,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
+      "duration_ms": 163468,
+      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
+      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
     },
     {
       "added_at": "2025-03-21 00:01:24",
@@ -583,6 +571,26 @@
       "duration_ms": 177963,
       "name": "Bere Mi (Reimagined)",
       "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
+    },
+    {
+      "added_at": "2025-03-21 00:01:24",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
     },
     {
       "added_at": "2025-03-21 00:01:24",
@@ -695,8 +703,8 @@
     {
       "added_at": "2025-03-21 00:01:24",
       "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
+        "name": "Hello Habibi",
+        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
       "artists": [
         {
@@ -704,21 +712,13 @@
           "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 163468,
-      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
-      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
+      "duration_ms": 194661,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
     },
     {
       "added_at": "2025-03-21 00:01:24",
@@ -755,26 +755,6 @@
     {
       "added_at": "2025-03-21 00:01:24",
       "album": {
-        "name": "The Big 6",
-        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 208820,
-      "name": "Coi Leray (Feat. Jeriq)",
-      "url": "https://open.spotify.com/track/22NYziqwaRESvIdBnRHPZu"
-    },
-    {
-      "added_at": "2025-03-21 00:01:24",
-      "album": {
         "name": "Refund (Part 2)",
         "url": "https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN"
       },
@@ -795,6 +775,46 @@
       "duration_ms": 163034,
       "name": "Refund (Part 2)",
       "url": "https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB"
+    },
+    {
+      "added_at": "2025-03-21 00:01:24",
+      "album": {
+        "name": "The Big 6",
+        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 208820,
+      "name": "Coi Leray (Feat. Jeriq)",
+      "url": "https://open.spotify.com/track/22NYziqwaRESvIdBnRHPZu"
+    },
+    {
+      "added_at": "2025-03-21 00:01:24",
+      "album": {
+        "name": "20 Degrees",
+        "url": "https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        }
+      ],
+      "duration_ms": 153380,
+      "name": "20 Degrees",
+      "url": "https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx"
     },
     {
       "added_at": "2025-03-21 00:01:24",
@@ -851,26 +871,6 @@
     {
       "added_at": "2025-03-21 00:01:24",
       "album": {
-        "name": "20 Degrees",
-        "url": "https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x"
-      },
-      "artists": [
-        {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
-        },
-        {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
-        }
-      ],
-      "duration_ms": 153380,
-      "name": "20 Degrees",
-      "url": "https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx"
-    },
-    {
-      "added_at": "2025-03-21 00:01:24",
-      "album": {
         "name": "Idan Buruku (Freestyle)",
         "url": "https://open.spotify.com/album/2s6XjErO2LqXTXgvFUVfD8"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 91546,
       "name": "Idan Buruku (Freestyle)",
       "url": "https://open.spotify.com/track/5DfbRtg9E4jx7SuCTbUUq6"
-    },
-    {
-      "added_at": "2025-03-21 00:01:24",
-      "album": {
-        "name": "The Big 6",
-        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "NFA (Feat. Phyno)",
-      "url": "https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc"
     },
     {
       "added_at": "2025-03-21 00:01:24",
@@ -943,6 +923,26 @@
       "duration_ms": 151578,
       "name": "EKWE",
       "url": "https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF"
+    },
+    {
+      "added_at": "2025-03-21 00:01:24",
+      "album": {
+        "name": "The Big 6",
+        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "NFA (Feat. Phyno)",
+      "url": "https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc"
     },
     {
       "added_at": "2025-03-21 00:01:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-03-21 00:01:24",
       "album": {
-        "name": "Yo My Gee",
-        "url": "https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3"
-      },
-      "artists": [
-        {
-          "name": "Vusic",
-          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Yo My Gee",
-      "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"
-    },
-    {
-      "added_at": "2025-03-21 00:01:24",
-      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
+    },
+    {
+      "added_at": "2025-03-21 00:01:24",
+      "album": {
+        "name": "Yo My Gee",
+        "url": "https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3"
+      },
+      "artists": [
+        {
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Yo My Gee",
+      "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"
     },
     {
       "added_at": "2025-03-21 00:01:24",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2025-03-21 00:01:24",
       "album": {
-        "name": "LIKE",
-        "url": "https://open.spotify.com/album/11qoPfHNEcoTnyEUNBfvFr"
-      },
-      "artists": [
-        {
-          "name": "Mavins",
-          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
-        },
-        {
-          "name": "Andre Vibez",
-          "url": "https://open.spotify.com/artist/1MVv46raia2Yqm8yHoDeUp"
-        },
-        {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
-        }
-      ],
-      "duration_ms": 227256,
-      "name": "LIKE",
-      "url": "https://open.spotify.com/track/68te6KLnaeYkrAsAlzGGlD"
-    },
-    {
-      "added_at": "2025-03-21 00:01:24",
-      "album": {
         "name": "Confirm Parole",
         "url": "https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 209738,
       "name": "Gbege",
       "url": "https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG"
+    },
+    {
+      "added_at": "2025-03-21 00:01:24",
+      "album": {
+        "name": "LIKE",
+        "url": "https://open.spotify.com/album/11qoPfHNEcoTnyEUNBfvFr"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Andre Vibez",
+          "url": "https://open.spotify.com/artist/1MVv46raia2Yqm8yHoDeUp"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 227256,
+      "name": "LIKE",
+      "url": "https://open.spotify.com/track/68te6KLnaeYkrAsAlzGGlD"
     },
     {
       "added_at": "2025-03-21 00:01:24",

@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: MANJA
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  JVSAN
 
-312 songs - 18 hr 10 min
+316 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [CALL ME ON DRUGS](https://open.spotify.com/track/2yCOKtAURfxaL5WuKoEYO5) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [CALL ME ON DRUGS](https://open.spotify.com/album/2AWtAZMn18hA1XvzBxTfwZ) | 2:36 | 2025-01-30 |  |
 | [Campfire](https://open.spotify.com/track/6ESZivUp2Tp5uNyuffnMRk) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Campfire](https://open.spotify.com/album/3TRhJfsSgsvZseDYfrRfVD) | 3:17 | 2025-02-13 |  |
 | [can't seem to make a change.](https://open.spotify.com/track/4Zo6BiLQNZP5G5dqjG6QAY) | [VEEY](https://open.spotify.com/artist/6w1o0CIuCMBffOLcaY8Wtw) | [can't seem to make a change.](https://open.spotify.com/album/7l3f105ZEU3n5F7kpeuCNh) | 3:51 | 2024-07-11 | 2024-09-27 |
+| [Can't Sleep](https://open.spotify.com/track/5BqjUl9NCS2x1kGfHqdsJa) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Can't Sleep](https://open.spotify.com/album/4pZ0g8O278CeZeUOtCfp5r) | 2:50 | 2025-03-27 |  |
 | [CANDYRELLA \- sweeter](https://open.spotify.com/track/4qG74FcxHBeDcveHfOlqtQ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [CANDYRELLA](https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh) | 3:10 | 2024-06-27 | 2025-01-24 |
 | [Carry On](https://open.spotify.com/track/7CpdSHSNBo0KGzZOMxyj3n) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Carry On](https://open.spotify.com/album/20CsSjnAmH98Uiwrp00rnk) | 3:50 | 2024-06-27 | 2024-07-27 |
 | [Casper](https://open.spotify.com/track/0pYiZVUm2jZyTUz9zzKV8s) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [Casper](https://open.spotify.com/album/3Atgb7xr6Rs3akwH2v6bgV) | 2:44 | 2024-06-27 | 2024-09-27 |
@@ -271,6 +272,7 @@
 | [SUNNY](https://open.spotify.com/track/3eygOmxZWUfywDRaKCH7RJ) | [IN:A](https://open.spotify.com/artist/27u2IhosoH9I9NUiHPikjJ) | [SUNNY](https://open.spotify.com/album/2RY5jFCIvyrhBy8mhFS7jg) | 2:24 | 2024-06-27 | 2024-07-12 |
 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 | 2024-07-25 | 2025-01-18 |
 | [Sunset](https://open.spotify.com/track/640IYssUkByrQsSWfs0r12) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [Sunset](https://open.spotify.com/album/3mD4drDmgID4a37nidP0kF) | 3:46 | 2024-08-23 | 2024-10-11 |
+| [Sunset & Ice Cream](https://open.spotify.com/track/1MRkbKx1P8ZHLxPoCfbi1G) | [HEINS.](https://open.spotify.com/artist/24kOGQYUtvEBkIc4AJddTk) | [Sunset & Ice Cream](https://open.spotify.com/album/7FBAoE3tKoiozzGViqUMrR) | 3:09 | 2025-03-27 |  |
 | [Sunshine](https://open.spotify.com/track/5Iauz9LTjStMljbpX4Jn3k) | [Aul Persneling](https://open.spotify.com/artist/5xIs5rD7iC31J8ZcpCj0kb), [Arya Novanda](https://open.spotify.com/artist/7bQ37VC8fmdF36yIIOVIlc) | [Sunshine](https://open.spotify.com/album/6HgVE6ESie8XVo2IX8mQJD) | 3:48 | 2024-09-05 | 2024-11-29 |
 | [Sunshine Serenade](https://open.spotify.com/track/1H1rEPg7J0tqb1Pn5khhJH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Sunshine Serenade](https://open.spotify.com/album/1H8diDaDAfdtWdtcVIVcCk) | 5:42 | 2024-10-31 | 2025-01-24 |
 | [Sweet](https://open.spotify.com/track/7qiPEIyiABDUK2WAez5GC4) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Sweet](https://open.spotify.com/album/3pcG25f5YmhBzQRCi7EuSS) | 3:09 | 2024-08-23 | 2025-01-24 |
@@ -302,9 +304,11 @@
 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 | 2024-11-21 |  |
 | [Waking Up Together With You \- Live](https://open.spotify.com/track/6J6mlw6HcctswDHkz1hq6r) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip \(Live\)](https://open.spotify.com/album/1Z5jq2dspoyfjtzq1Dm5x0) | 3:36 | 2024-12-12 |  |
 | [Want Me Back](https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Want Me Back](https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx) | 2:55 | 2024-09-12 | 2024-11-29 |
+| [Waste](https://open.spotify.com/track/2HbR7OAomFZAlKGtJZCiX6) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [Waste](https://open.spotify.com/album/6swdCGmsrBr5jobm2vrlgR) | 3:26 | 2025-03-27 |  |
 | [Wasted Love](https://open.spotify.com/track/4jLR1GRsmUmvfAUO1wCGIr) | [Pathetic Son](https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm) | [Wasted Love](https://open.spotify.com/album/36vdskrDeCy3mUbPFzNVI6) | 4:28 | 2024-09-26 | 2025-01-18 |
 | [Wax & Feathers](https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Wax & Feathers](https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc) | 4:10 | 2024-09-12 | 2024-11-29 |
 | [what about we.](https://open.spotify.com/track/29500ynLp5KW47YhREJGF1) | [beenmind](https://open.spotify.com/artist/1XZvnhUO8BhpPo6P3q3zba) | [lovexickal](https://open.spotify.com/album/5l2ra1zglhLBDTxwvnTCoa) | 2:48 | 2024-06-27 | 2024-07-27 |
+| [What are We?](https://open.spotify.com/track/4huTFGlzP6EZIDgwxuGXT6) | [Stanley Hao](https://open.spotify.com/artist/2zyCIsZHG0cCF3ttinGHVz), [Pelin](https://open.spotify.com/artist/2K4c57tnoM6U3Oy7b5KFUB) | [What are We?](https://open.spotify.com/album/0TGO3NpFcVGaAjKSIN88EW) | 3:24 | 2025-03-27 |  |
 | [Where Are You Christmas?](https://open.spotify.com/track/2pCXRjuPLX8ZOtHqMzJY7X) | [Meda Kawu](https://open.spotify.com/artist/2Fn8lD5ZQhmXzQOAmTEppr) | [Christmas According To...](https://open.spotify.com/album/5yMeGEZolGBWuiPIDZIi6K) | 2:44 | 2024-12-05 | 2025-03-14 |
 | [Where Do We Go](https://open.spotify.com/track/5kiytJIDxoUhGHN3rUCJqE) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Where Do We Go](https://open.spotify.com/album/6RRlckOrJ2nXRWw2mFsP6j) | 3:23 | 2024-06-27 | 2024-10-11 |
 | [Where the Wind Takes Me](https://open.spotify.com/track/1p7SGM0ojsAVGuWtXkgeTa) | [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Where the Wind Takes Me](https://open.spotify.com/album/6tpOkpi2e1pYqXGkZa6neQ) | 3:50 | 2025-02-28 |  |

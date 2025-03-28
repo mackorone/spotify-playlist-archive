@@ -32407,6 +32407,24 @@
     },
     {
       "album": {
+        "name": "La Plaza",
+        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
+      },
+      "artists": [
+        {
+          "name": "Rufus T. Firefly",
+          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204559,
+      "name": "La Plaza",
+      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
+    },
+    {
+      "album": {
         "name": "Amore e Salute",
         "url": "https://open.spotify.com/album/2KV3R2KUCQ1jM8fecnq9II"
       },

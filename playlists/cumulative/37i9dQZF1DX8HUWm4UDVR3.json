@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : The Doug",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Helena",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/7IMrVhPTEe9ofqr5wtNdhS"
+      },
+      "artists": [
+        {
+          "name": "Madame Monsieur",
+          "url": "https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193013,
+      "name": "Cin\u00e9ma",
+      "url": "https://open.spotify.com/track/234Aa03X8WMrsy9t5F86aO"
+    },
+    {
+      "album": {
         "name": "CIN\u00c9MA",
         "url": "https://open.spotify.com/album/1haJVnTC4CrfC6WZMtpRjh"
       },
@@ -852,7 +870,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 196000,
       "name": "CIN\u00c9MA",
       "url": "https://open.spotify.com/track/4BFNzsg8KIL0quoCNU4kFE"
@@ -1008,10 +1026,28 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 170000,
       "name": "COMMENT JE FAIS ?",
       "url": "https://open.spotify.com/track/7wSrAgxxbbiXpPDAWYpj3o"
+    },
+    {
+      "album": {
+        "name": "SUMMER HATER CLUB",
+        "url": "https://open.spotify.com/album/2FN16YX3RoViq6I9ZsPYRr"
+      },
+      "artists": [
+        {
+          "name": "HINA",
+          "url": "https://open.spotify.com/artist/782ZBggStTrVHyBWkxInmy"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141999,
+      "name": "CONFIANCE FRAGILE",
+      "url": "https://open.spotify.com/track/0b1JUu0f2WpmQVhUW4bqZh"
     },
     {
       "album": {
@@ -2657,6 +2693,28 @@
     },
     {
       "album": {
+        "name": "Murmure",
+        "url": "https://open.spotify.com/album/5jKENL1OARcOuBb2cHs92j"
+      },
+      "artists": [
+        {
+          "name": "Kyana",
+          "url": "https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157282,
+      "name": "Le masque (feat. Ad\u00e8le Castillon)",
+      "url": "https://open.spotify.com/track/1luSPxob2uYwhKzLp528RH"
+    },
+    {
+      "album": {
         "name": "Le monde est \u00e0 nous",
         "url": "https://open.spotify.com/album/5hfubDUZd4eJmUpycUrU3V"
       },
@@ -3716,7 +3774,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 200000,
       "name": "Personne n'\u00e9coute ceux qui pleurent",
       "url": "https://open.spotify.com/track/68AR1kPPiSjBQgJ5zjc7lS"
@@ -4135,6 +4193,24 @@
     },
     {
       "album": {
+        "name": "RALENTIS",
+        "url": "https://open.spotify.com/album/1cTXecDjEauuYXXkX498uR"
+      },
+      "artists": [
+        {
+          "name": "Orlane",
+          "url": "https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129759,
+      "name": "RALENTIS",
+      "url": "https://open.spotify.com/track/12OtqAs2bH931uW93vLxrM"
+    },
+    {
+      "album": {
         "name": "Rater une rupture pour les nuls",
         "url": "https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg"
       },
@@ -4164,7 +4240,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 138208,
       "name": "Rattrape-moi",
       "url": "https://open.spotify.com/track/0cxJ91KVkxXChOlmy5l3Iy"

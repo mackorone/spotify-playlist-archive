@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=mnAM9ohtSzyTtCjrkrTwrw">Lwah Ndlunkulu</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=mnAM9ohtSzyTtCjrkrTwrw">Umafikizolo</a>
 
-227 songs - 18 hr 3 min
+229 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,11 +87,13 @@
 | [Imizi Yobaba](https://open.spotify.com/track/7AAZlyNmveOi5BRPbxFApQ) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Alingeni](https://open.spotify.com/album/2NCLT1NSdnD5BlKYZT0ije) | 4:28 | 2024-11-07 |  |
 | [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 | 2018-09-25 | 2023-05-12 |
 | [Ingezo Emahostela \(feat\. Sgwebo Sentambo\)](https://open.spotify.com/track/05kQlUT2mMwkvjRX8bkzba) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt), [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 4:55 | 2018-09-25 | 2023-02-01 |
+| [Ingoma Yami](https://open.spotify.com/track/7D4L8U9A7aXiveWURPTWRT) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK), [Proud](https://open.spotify.com/artist/4HqpRY96WEihkALTCJWf1B), [Dee R](https://open.spotify.com/artist/37SSMC2YqEFtW8o4yzkDLF), [Cwenga Bass](https://open.spotify.com/artist/69NnlRckDxjd87vXxuMr5S) | [Ingoma Yami](https://open.spotify.com/album/4muR1XrReEmHA8MmSPrf04) | 5:00 | 2025-03-27 |  |
 | [Inhlinini Yoxolo](https://open.spotify.com/track/3ZhOsB846LguxIkDASb6Rb) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo \(Pt\. 2\)](https://open.spotify.com/album/25HvxLDw1saTfEoFQ6Rfxj) | 9:00 | 2019-01-06 | 2023-03-25 |
 | [Inhliziyo Yami](https://open.spotify.com/track/3AMnrGFsUlrcY8ig6ASidM) | [Abafana Baka Mahawukela](https://open.spotify.com/artist/6WiOCqFw2OVO8d9SfMUeYp) | [Ungubani Wena](https://open.spotify.com/album/2srpkMeXj6atimRUTmMdv5) | 4:08 | 2019-05-02 | 2022-09-26 |
 | [Inhliziyo Yami](https://open.spotify.com/track/4KvEHj46FVO6DFBjPoCULj) | [Abafana Baka Mahawukela](https://open.spotify.com/artist/6WiOCqFw2OVO8d9SfMUeYp) | [Ungubani Wena](https://open.spotify.com/album/169DuGTXvmZm4D1Abiqvt1) | 4:08 | 2019-05-02 | 2023-02-01 |
 | [Inhlupheko](https://open.spotify.com/track/5IGgCvL8zrdsWaVWSlxSzW) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Ichwane Lenyoka](https://open.spotify.com/album/0HyidnQQAGW9Unm8Ejr21L) | 5:17 | 2023-01-30 | 2023-03-25 |
 | [Inhlupheko](https://open.spotify.com/track/56DdoyS1IY3ZYhRYa1ELQ8) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Inhlupheko](https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x) | 4:26 | 2023-01-30 | 2023-02-03 |
+| [Inja Kabi Lena](https://open.spotify.com/track/0UUJITwaCJnhBECKzJmNTW) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Inja Kabi Lena](https://open.spotify.com/album/4HhLwMC4pyd1GPF3wLb9Ce) | 5:45 | 2025-03-27 |  |
 | [Inja Nodogo](https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inja Nogodo](https://open.spotify.com/album/1i1JkpUl5vILSSLKwsVHAO) | 4:15 | 2023-01-30 |  |
 | [Inkomo Yomqoyiso](https://open.spotify.com/track/0duUpsKlfu6RNHWH5q0diF) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Amagupta](https://open.spotify.com/album/4faFI6JoeU4nCK89d8Ul0b) | 4:56 | 2020-08-28 | 2023-03-10 |
 | [Intencane](https://open.spotify.com/track/0BYurynEYtSmwyuAMX07KR) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 4:12 | 2022-09-01 | 2023-02-03 |

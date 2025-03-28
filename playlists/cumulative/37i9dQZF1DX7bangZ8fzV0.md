@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA?si=2RFIZKXWRUi26T4BR6TXOg">Ivan Roux</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C?si=EzjDN6nzQSuKRiGQLcXlOg">Wentzel</a>
 
 270 songs - 14 hr 58 min
 

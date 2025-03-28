@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Alex Favela en portada.",
-  "num_followers": 63596,
+  "num_followers": 63623,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "LABUBU",
-        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "LABUBU",
-      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Busc\u00e1ndome",
         "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 256086,
       "name": "Busc\u00e1ndome",
       "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "LABUBU",
+        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "LABUBU",
+      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "ZENDAYA",
-        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "ZENDAYA",
-      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 188706,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "LA MALA VIDA",
+        "url": "https://open.spotify.com/album/1sy88TQtIIpUGKiHgRFWbw"
+      },
+      "artists": [
+        {
+          "name": "Castro Angel",
+          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
+        },
+        {
+          "name": "Diego Lopez",
+          "url": "https://open.spotify.com/artist/2op9BfI5gKPUEutCwsij5D"
+        }
+      ],
+      "duration_ms": 186902,
+      "name": "LA MALA VIDA",
+      "url": "https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "Bora Nessa",
         "url": "https://open.spotify.com/album/1cNMT60ZuWPDNG998L0q3T"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 91428,
       "name": "GIRL AINT GOT NO GIRL",
       "url": "https://open.spotify.com/track/2e6oiikJChTNpGldvAG8cS"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "LA MALA VIDA",
-        "url": "https://open.spotify.com/album/1sy88TQtIIpUGKiHgRFWbw"
-      },
-      "artists": [
-        {
-          "name": "Castro Angel",
-          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
-        },
-        {
-          "name": "Diego Lopez",
-          "url": "https://open.spotify.com/artist/2op9BfI5gKPUEutCwsij5D"
-        }
-      ],
-      "duration_ms": 186902,
-      "name": "LA MALA VIDA",
-      "url": "https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "F1",
+        "url": "https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j"
+      },
+      "artists": [
+        {
+          "name": "VICKILICIOUS",
+          "url": "https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ"
+        }
+      ],
+      "duration_ms": 120816,
+      "name": "F1",
+      "url": "https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
         "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "F1",
-        "url": "https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j"
-      },
-      "artists": [
-        {
-          "name": "VICKILICIOUS",
-          "url": "https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ"
-        }
-      ],
-      "duration_ms": 120816,
-      "name": "F1",
-      "url": "https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5"
     },
     {
       "added_at": "2025-03-14 06:00:10",

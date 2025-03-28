@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,195 likes - 140 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,216 likes - 140 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 128 | [Dark Souls 3](https://open.spotify.com/track/2xIRBmAuVk6s7ZoukykRqS) | [Yuka Kitamura](https://open.spotify.com/artist/3nIELxtRA56U1AXqJFzyDw) | [Dark Souls 3](https://open.spotify.com/album/3zSvk9thQMwQDrKMD0kJJv) | 2:46 |
 | 129 | [Welcome Aboard The U.S.G\. Ishimura](https://open.spotify.com/track/7dLtnUKOtrZ3CvQ3SMkpg8) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ) | [Dead Space](https://open.spotify.com/album/0APOiX6fWqcHybQzssumck) | 5:21 |
 | 130 | [Adventure Found Me](https://open.spotify.com/track/4JFqLr1cF9jWwVOCdQ69wd) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ) | [Tomb Raider \(Original Soundtrack\)](https://open.spotify.com/album/4wySbyHsEqSWvkMQlmR7lr) | 1:02 |
-| 131 | [Knights Of Jerusalem](https://open.spotify.com/track/3AWSRZ967XzZAtGIQnqvrc) | [Andreas Waldetoft](https://open.spotify.com/artist/7eyudpSl4KF7iXun4H2PSh), [Paradox Interactive](https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc), [Nina Åkerblom Nielsen](https://open.spotify.com/artist/1QmMQFvCfie370LsTjkqEd) | [Crusader Kings 3 \(Official Game Soundtrack\)](https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr) | 5:21 |
+| 131 | [Knights Of Jerusalem](https://open.spotify.com/track/3AWSRZ967XzZAtGIQnqvrc) | [Andreas Waldetoft](https://open.spotify.com/artist/7eyudpSl4KF7iXun4H2PSh), [Nina Åkerblom Nielsen](https://open.spotify.com/artist/1QmMQFvCfie370LsTjkqEd) | [Crusader Kings III \(Official Game Soundtrack\)](https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr) | 5:21 |
 | 132 | [Finding the Pattern](https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 4:00 |
 | 133 | [Under Construction](https://open.spotify.com/track/5RwEwvUrQz1K4JqdIoZxWZ) | [Jerry Martin](https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ) | [The Sims \(Original Soundtrack\)](https://open.spotify.com/album/7ycdCSJkou3lE7MLECIgz5) | 4:48 |
 | 134 | [Sunny's Theme](https://open.spotify.com/track/32WK8dQzMwl0AjvNxhf7lz) | [Guy Jackson](https://open.spotify.com/artist/3HyEoZ7fYGMAJ2fAHIeD9K) | [Sea of Solitude \(Original Soundtrack\)](https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff) | 3:43 |

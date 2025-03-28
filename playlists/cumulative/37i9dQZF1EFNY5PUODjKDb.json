@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/7nQNkknvujpqOgJ0oYIeVf"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38906,
+      "name": "25 Variations and Fugue on a Theme by Handel, Op. 24: Variation 3",
+      "url": "https://open.spotify.com/track/2DzE1LHWdBpkVgd9LNqDF8"
+    },
+    {
+      "album": {
         "name": "Lloyd Webber: Requiem",
         "url": "https://open.spotify.com/album/1KpPnMbNhxW3AdaJ0JulYK"
       },

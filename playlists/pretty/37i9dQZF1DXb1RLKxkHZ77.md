@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadeera
+> Lagu\-lagu yang wajib ada dalam playlist\. Cover: Nadeera
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,046 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,080 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Denyut](https://open.spotify.com/track/1JfKPwPFswBi3kiOkDSkcj) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Denyut](https://open.spotify.com/album/4pdboVIJyZygcV6279tVPk) | 4:20 |
 | 50 | [Last Time](https://open.spotify.com/track/7aGBpOkzoIaeZy1P9RwMYO) | [Killa Driz](https://open.spotify.com/artist/37Kp0IeMMN23eOnJANil3a), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7) | [Last Time](https://open.spotify.com/album/6c54LeoItJkebN1piuTyWI) | 3:59 |
 
-Snapshot ID: `Z+PTRgAAAABSaOahF3pePTX4w3OJf/9p`
+Snapshot ID: `Z+V2HQAAAABP/f1rMcOcSPR14QsgnaBf`

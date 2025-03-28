@@ -3169,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "colors",
+        "url": "https://open.spotify.com/album/5k7pxpgyFHpi40XVymiWbV"
+      },
+      "artists": [
+        {
+          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
+          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265922,
+      "name": "colors",
+      "url": "https://open.spotify.com/track/70meb0y1oP8OJR0n8RhxZq"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
       },

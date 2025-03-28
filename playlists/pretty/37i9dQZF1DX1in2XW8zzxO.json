@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 83266,
+  "num_followers": 83310,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1255,34 +1255,6 @@
     {
       "added_at": "2025-01-30 23:28:32",
       "album": {
-        "name": "Shuffle",
-        "url": "https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i"
-      },
-      "artists": [
-        {
-          "name": "Shuffle Muzik",
-          "url": "https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x"
-        },
-        {
-          "name": "Fire",
-          "url": "https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN"
-        },
-        {
-          "name": "Lynden X",
-          "url": "https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a"
-        },
-        {
-          "name": "Thabsoul",
-          "url": "https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT"
-        }
-      ],
-      "duration_ms": 375530,
-      "name": "Shuffle",
-      "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
-    },
-    {
-      "added_at": "2025-01-30 23:28:32",
-      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5"
       },
@@ -1315,6 +1287,26 @@
       "duration_ms": 378214,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf"
+    },
+    {
+      "added_at": "2025-01-30 23:28:32",
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq"
+      },
+      "artists": [
+        {
+          "name": "Donel",
+          "url": "https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT"
+        },
+        {
+          "name": "DANKIE SOUNDS",
+          "url": "https://open.spotify.com/artist/0WeoUKDLUBglNBE8pYBDpS"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Mina Nawe - Radio Edit",
+      "url": "https://open.spotify.com/track/7nAXecq3zqlOb64OjYCFD5"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

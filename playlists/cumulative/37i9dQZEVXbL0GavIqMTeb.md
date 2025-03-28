@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,220 songs - 2 day 19 hr 36 min
+1,221 songs - 2 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Big Cut](https://open.spotify.com/track/3FKq3sNv8F7IGn77nqlEVq) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Big Cut](https://open.spotify.com/album/3hCLgL7OrV3APrUegkRYXu) | 3:14 | 2023-05-29 | 2023-06-01 |
 | [Bikini](https://open.spotify.com/track/491iU8VnDmhSX9aza8emOc) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Bikini](https://open.spotify.com/album/5aq1PCNPDOGwKZLFR1fX8x) | 3:06 | 2023-11-04 | 2023-11-11 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-11 | 2025-02-24 |
+| [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 | 2025-03-27 |  |
 | [Blanca Azucena](https://open.spotify.com/track/0evLi2mSL3Bs5GZV8Vh0hF) | [Maihuen de los Angeles](https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR) | [Las Mejores Cuecas Con Maihuen de los Angeles](https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP) | 2:17 | 2021-09-20 | 2023-09-21 |
 | [Blanca Navidad](https://open.spotify.com/track/460i7EzVcjlmNM7fy2N8gk) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Blanca Navidad](https://open.spotify.com/album/3vDRQj8aNwIj3Yjk4SgkhM) | 2:24 | 2023-12-26 | 2023-12-30 |
 | [Blanca Navidad](https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:32 | 2021-12-26 | 2024-12-28 |
@@ -1218,7 +1219,7 @@
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 | 2023-01-06 |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-12 | 2024-03-15 |
 | [YUMMY!](https://open.spotify.com/track/3ftB5T412JJ20IgpQgeCW8) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 2:29 | 2024-05-31 | 2024-07-03 |
-| [Zabuza](https://open.spotify.com/track/5GjPWGsEgk6MKOWCocVoiB) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Zabuza](https://open.spotify.com/album/3lsCDXKXGFgG54fKMQWF63) | 2:32 | 2025-03-22 |  |
+| [Zabuza](https://open.spotify.com/track/5GjPWGsEgk6MKOWCocVoiB) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Zabuza](https://open.spotify.com/album/3lsCDXKXGFgG54fKMQWF63) | 2:32 | 2025-03-22 | 2025-03-28 |
 | [ZONA DEL PERREO](https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:11 | 2022-03-26 | 2022-03-30 |
 | [Zoom Zoom](https://open.spotify.com/track/2Bf7izPNpcTVNL41bdyFic) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:26 | 2024-10-27 | 2025-02-06 |
 | [¿Cuál Es Su Nombre?](https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [El De La Nueva Baby](https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj) | 3:03 | 2023-09-16 | 2024-08-07 |

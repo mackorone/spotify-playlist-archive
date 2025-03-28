@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 199789,
+  "num_followers": 199829,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
+        "name": "FUR\u00c8STA",
+        "url": "https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37"
+      },
+      "artists": [
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "duration_ms": 198714,
+      "name": "CHIENA 'E SCIPPE",
+      "url": "https://open.spotify.com/track/29z4FTyuYn0Hflj9jwIl3c"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
         "name": "Last Bloom",
         "url": "https://open.spotify.com/album/02Ry9p7negWeW2eowLlnDA"
       },
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 479546,
-      "name": "Atomic Bomb",
-      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 479546,
+      "name": "Atomic Bomb",
+      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
         "name": "The Livelong Day",
         "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
       },
@@ -559,26 +575,6 @@
       "duration_ms": 331500,
       "name": "Bear Creek",
       "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
-        "name": "Amanheceu",
-        "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
-      },
-      "artists": [
-        {
-          "name": "The Kiffness",
-          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
-        },
-        {
-          "name": "Ruan Vitor Vaqueirinho",
-          "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -599,18 +595,22 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "FUR\u00c8STA",
-        "url": "https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37"
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
       },
       "artists": [
         {
-          "name": "LA NI\u00d1A",
-          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Ruan Vitor Vaqueirinho",
+          "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
         }
       ],
-      "duration_ms": 198714,
-      "name": "CHIENA 'E SCIPPE",
-      "url": "https://open.spotify.com/track/29z4FTyuYn0Hflj9jwIl3c"
+      "duration_ms": 184864,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 614363,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 209925,
       "name": "Sina Vaishu",
       "url": "https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 614363,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
-      },
-      "artists": [
-        {
-          "name": "Etran de L'A\u00cfr",
-          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-        }
-      ],
-      "duration_ms": 351374,
-      "name": "Agrim Agadez",
-      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
         "name": "Clandestino (feat. Calypso Rose)",
         "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 158714,
       "name": "Clandestino (feat. Calypso Rose)",
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
+      },
+      "artists": [
+        {
+          "name": "Etran de L'A\u00cfr",
+          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
+        }
+      ],
+      "duration_ms": 351374,
+      "name": "Agrim Agadez",
+      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Black To The Future",
-        "url": "https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -1039,6 +1019,22 @@
       "duration_ms": 445816,
       "name": "Afrique Victime",
       "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
+        "name": "Deixem O Morto Morrer",
+        "url": "https://open.spotify.com/album/5wKkGiZHktujl5sgIUStlK"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 169504,
+      "name": "Deixem O Morto Morrer",
+      "url": "https://open.spotify.com/track/2tZdXtAjgCIzgGwSFafmc6"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1063,50 +1059,22 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Deixem O Morto Morrer",
-        "url": "https://open.spotify.com/album/5wKkGiZHktujl5sgIUStlK"
+        "name": "Black To The Future",
+        "url": "https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B"
       },
       "artists": [
         {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 169504,
-      "name": "Deixem O Morto Morrer",
-      "url": "https://open.spotify.com/track/2tZdXtAjgCIzgGwSFafmc6"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        },
         {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
         }
       ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
-        "name": "Pesce Rosso / Stella Marina (Habibi Funk Limited 002)",
-        "url": "https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2"
-      },
-      "artists": [
-        {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Stella Marina",
-      "url": "https://open.spotify.com/track/3ooN2Dz3PvuVHuy1fURigy"
+      "duration_ms": 318226,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1123,6 +1091,22 @@
       "duration_ms": 357480,
       "name": "Yabaal",
       "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1147,30 +1131,18 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Cosas Del Universo",
-        "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
+        "name": "Pesce Rosso / Stella Marina (Habibi Funk Limited 002)",
+        "url": "https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2"
       },
       "artists": [
         {
-          "name": "Cumbiasound",
-          "url": "https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv"
-        },
-        {
-          "name": "Jos\u00e9 Pereelanga",
-          "url": "https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO"
-        },
-        {
-          "name": "Lis Flores Varela",
-          "url": "https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C"
-        },
-        {
-          "name": "Boogie Castillo",
-          "url": "https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj"
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Vaiv\u00e9n",
-      "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
+      "duration_ms": 169333,
+      "name": "Stella Marina",
+      "url": "https://open.spotify.com/track/3ooN2Dz3PvuVHuy1fURigy"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1207,6 +1179,34 @@
       "duration_ms": 353965,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
+        "name": "Cosas Del Universo",
+        "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
+      },
+      "artists": [
+        {
+          "name": "Cumbiasound",
+          "url": "https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv"
+        },
+        {
+          "name": "Jos\u00e9 Pereelanga",
+          "url": "https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO"
+        },
+        {
+          "name": "Lis Flores Varela",
+          "url": "https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C"
+        },
+        {
+          "name": "Boogie Castillo",
+          "url": "https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Letter to the Martyrs",
-        "url": "https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5"
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
       "artists": [
         {
-          "name": "cacique'97",
-          "url": "https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 254291,
-      "name": "Letter to the Martyrs",
-      "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+        "name": "Letter to the Martyrs",
+        "url": "https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5"
       },
       "artists": [
         {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+          "name": "cacique'97",
+          "url": "https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc"
         }
       ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+      "duration_ms": 254291,
+      "name": "Letter to the Martyrs",
+      "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
         "name": "Junchuch",
         "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
+        "name": "Remotely Close: Silkyway",
+        "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Elif \u00c7a\u011flar",
+          "url": "https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv"
+        }
+      ],
+      "duration_ms": 230998,
+      "name": "Remotely Close: Silkyway",
+      "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
         "name": "Dar Disku",
         "url": "https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY"
       },
@@ -1567,22 +1587,18 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Remotely Close: Silkyway",
-        "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
+        "name": "Turkish Coffee",
+        "url": "https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW"
       },
       "artists": [
         {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Elif \u00c7a\u011flar",
-          "url": "https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv"
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 230998,
-      "name": "Remotely Close: Silkyway",
-      "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
+      "duration_ms": 217500,
+      "name": "Turkish Coffee",
+      "url": "https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Turkish Coffee",
-        "url": "https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Turkish Coffee",
-      "url": "https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
         "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
         "url": "https://open.spotify.com/album/6a18zeuFmuY1PyHKSAfe9f"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 169944,
       "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
       "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
-        "name": "Binbo\u011fa",
-        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
-      },
-      "artists": [
-        {
-          "name": "Yalnayak",
-          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Binbo\u011fa",
-      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Racines",
-        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
       },
       "artists": [
         {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
         }
       ],
-      "duration_ms": 73880,
-      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
-      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
     },
     {
       "added_at": "2025-03-21 04:00:47",
@@ -1699,6 +1683,22 @@
       "duration_ms": 170500,
       "name": "Chez Mounir",
       "url": "https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod"
+    },
+    {
+      "added_at": "2025-03-21 04:00:47",
+      "album": {
+        "name": "Racines",
+        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 73880,
+      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
+      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
     },
     {
       "added_at": "2025-03-21 04:00:47",

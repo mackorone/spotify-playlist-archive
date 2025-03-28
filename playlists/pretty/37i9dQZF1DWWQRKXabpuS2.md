@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. غلاف: فهد العمري
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,277 likes - 48 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,283 likes - 48 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

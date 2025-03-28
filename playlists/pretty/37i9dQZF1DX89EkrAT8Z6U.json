@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1236001,
+  "num_followers": 1236102,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "NO HANDS",
+        "url": "https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 180580,
+      "name": "PACKAPUNCH (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "NO HANDS",
-        "url": "https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA"
-      },
-      "artists": [
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 180580,
-      "name": "PACKAPUNCH (feat. Danny Brown)",
-      "url": "https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/1ClLVL8w0vngTIq7Afrne6"
     },
     {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "dedd barchetta",
-        "url": "https://open.spotify.com/album/5oZ9FpKNr2D3HvZrWvBpDL"
-      },
-      "artists": [
-        {
-          "name": "Sugs",
-          "url": "https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb"
-        }
-      ],
-      "duration_ms": 80029,
-      "name": "dedd barchetta",
-      "url": "https://open.spotify.com/track/19PGCm7eOw4IGTXeAI5Ye9"
-    },
-    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "Where Are The Traitors?",
@@ -1203,6 +1187,22 @@
       "duration_ms": 129175,
       "name": "Castles & Moats",
       "url": "https://open.spotify.com/track/3zk0hk2rWjWMApIn83ZfPc"
+    },
+    {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "dedd barchetta",
+        "url": "https://open.spotify.com/album/5oZ9FpKNr2D3HvZrWvBpDL"
+      },
+      "artists": [
+        {
+          "name": "Sugs",
+          "url": "https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb"
+        }
+      ],
+      "duration_ms": 80029,
+      "name": "dedd barchetta",
+      "url": "https://open.spotify.com/track/19PGCm7eOw4IGTXeAI5Ye9"
     },
     {
       "added_at": "2024-09-18 21:12:46",

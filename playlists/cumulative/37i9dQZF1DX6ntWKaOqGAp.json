@@ -2439,7 +2439,7 @@
     },
     {
       "album": {
-        "name": "Border\uff1dBorder",
+        "name": "Border=Border",
         "url": "https://open.spotify.com/album/0ikUEF4eHuxcfkKEJWokRU"
       },
       "artists": [
@@ -2452,7 +2452,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169690,
-      "name": "Border\uff1dBorder",
+      "name": "Border=Border",
       "url": "https://open.spotify.com/track/6LZ71zIItQtb5e4LTKN8R8"
     },
     {
@@ -8794,6 +8794,28 @@
       "duration_ms": 225906,
       "name": "Knock Out(Album Mix)",
       "url": "https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh"
+    },
+    {
+      "album": {
+        "name": "KOE",
+        "url": "https://open.spotify.com/album/7IQmZvP8Jkeq2rCcNSKDMz"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        },
+        {
+          "name": "Kj",
+          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224552,
+      "name": "KOE",
+      "url": "https://open.spotify.com/track/6AoZJrUqfPDFViQMx5jKCT"
     },
     {
       "album": {
@@ -19702,7 +19724,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 204736,
       "name": "Your Nobel",
       "url": "https://open.spotify.com/track/19BdjRwbIdz28WmvlARkcD"
@@ -31018,7 +31040,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 263983,
       "name": "\u58f0",
       "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
@@ -33461,6 +33483,24 @@
     },
     {
       "album": {
+        "name": "\u660e\u65e5\u3082 (IKUSHAMO Ver.)",
+        "url": "https://open.spotify.com/album/7v022P29t0n503BJjtMMNc"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186758,
+      "name": "\u660e\u65e5\u3082 - IKUSHAMO Ver.",
+      "url": "https://open.spotify.com/track/6XuuJ0tzIpvUUyhbDV2RB3"
+    },
+    {
+      "album": {
         "name": "\u661f\u3068\u305d\u3070\u304b\u3059\u3068\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9",
         "url": "https://open.spotify.com/album/6MJ480ifwYsKORxlwEzyRJ"
       },
@@ -34154,6 +34194,24 @@
       "duration_ms": 226333,
       "name": "\u672a\u6765\u4e88\u60f3\u56f3",
       "url": "https://open.spotify.com/track/3NLaGMbVQImr30ucwCtvDi"
+    },
+    {
+      "album": {
+        "name": "\u672a\u6765\u5730\u56f32025",
+        "url": "https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360247,
+      "name": "\u672a\u6765\u5730\u56f32025",
+      "url": "https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8"
     },
     {
       "album": {
@@ -36388,7 +36446,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 226626,
       "name": "\u81ea\u5206\u9769\u547d",
       "url": "https://open.spotify.com/track/5GZNSDo1ga4SheMHAZh2fz"

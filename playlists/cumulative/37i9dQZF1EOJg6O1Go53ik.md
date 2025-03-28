@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-21 songs - 9 hr 23 min
+21 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [019  Ella Fitzgerald \- Sings the Gershwin Song Book](https://open.spotify.com/episode/3ne1wQAfU2YLTqgyaV3dm6) | [1001 Album Club](https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb) | [1001 Album Club](https://open.spotify.com/album/7f5Rdm6RukUPsWFtxlEfOb) | 16:00 | 2020-11-27 |  |
 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a thousand years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2020-11-27 |  |
 | [Be OK](https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 | 2020-11-27 |  |
-| [Christina Perri](https://open.spotify.com/episode/7iNTab0ZDTvDdarf7MCX93) | [LadyGang](https://open.spotify.com/show/00wEJsU0XM16HnVSu4c8hd) | [LadyGang](https://open.spotify.com/album/00wEJsU0XM16HnVSu4c8hd) | 52:55 | 2020-11-27 |  |
+| [Christina Perri](https://open.spotify.com/episode/7iNTab0ZDTvDdarf7MCX93) | [LadyGang](https://open.spotify.com/show/00wEJsU0XM16HnVSu4c8hd) | [LadyGang](https://open.spotify.com/album/00wEJsU0XM16HnVSu4c8hd) | 54:20 | 2020-11-27 |  |
 | [Come Away With Me](https://open.spotify.com/track/52FKX00U3PnzrBQmbMTB8b) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Deluxe Edition\)](https://open.spotify.com/album/6PguISnE2nz7CuhnIAWhQF) | 3:18 | 2020-11-27 |  |
 | [Happy 30th Birthday Avicii; 8th Sept\. 2019 \| Episode 123](https://open.spotify.com/episode/4xkB9jPWfWNuk1CfcTuH2x) | [FreaKBeatS EDM podcast](https://open.spotify.com/show/6nkFEdeDqxuXG1DPZqP7sf) | [FreaKBeatS EDM podcast](https://open.spotify.com/album/6nkFEdeDqxuXG1DPZqP7sf) | 17:27 | 2020-11-27 |  |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2020-11-27 |  |

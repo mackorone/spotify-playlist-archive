@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Ariane Moffatt
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,479 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,478 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 30 | [Quand même](https://open.spotify.com/track/1sC4zWgATUKk6hNnaWOeKa) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Quand même](https://open.spotify.com/album/5gUYflyaZi4JNtAkoJcRNJ) | 3:11 |
 | 31 | [Ses dents](https://open.spotify.com/track/0sevoRzwPVjToxUBWxDjgI) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Domino](https://open.spotify.com/album/2byAS1tMRGriUyCeXF8Y1D) | 2:47 |
 | 32 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 |
-| 33 | [Béatrice](https://open.spotify.com/track/5w4TBVGa5PM9dWV9Xm7l8W) | [Major\-Moran](https://open.spotify.com/artist/1G9UzmqlFkUfFF7Fa4rVPh), [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh), [Moran](https://open.spotify.com/artist/1tJxanDuDZ2DWpBYxDH8Qm) | [Béatrice](https://open.spotify.com/album/3idJJWSIWD8dLHD4JpoGPQ) | 2:59 |
+| 33 | [Béatrice \(feat\. Catherine Major & Moran\)](https://open.spotify.com/track/5w4TBVGa5PM9dWV9Xm7l8W) | [Major\-Moran](https://open.spotify.com/artist/1G9UzmqlFkUfFF7Fa4rVPh), [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh), [Moran](https://open.spotify.com/artist/1tJxanDuDZ2DWpBYxDH8Qm) | [Béatrice \(feat\. Catherine Major & Moran\)](https://open.spotify.com/album/3idJJWSIWD8dLHD4JpoGPQ) | 2:59 |
 | 34 | [Limousine](https://open.spotify.com/track/6yt3AzDztr6MDqIZSYsqlM) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Limousine](https://open.spotify.com/album/1LK10U5eEFMAaqbxX22ied) | 3:07 |
 | 35 | [C'est fou](https://open.spotify.com/track/3Bo4ypaffja0u05JaMnJRD) | [Ima](https://open.spotify.com/artist/1yTWSP7tR6gp2vkstO7VI7) | [C'est fou](https://open.spotify.com/album/4w2xWFs5uSvafEZlJbst3r) | 2:53 |
 | 36 | [Si tu demandais](https://open.spotify.com/track/5LFJRjiD32OZbLnaMSWWpj) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Tour de force](https://open.spotify.com/album/7FZTXjf8KGLUZTdHA5PE90) | 4:20 |

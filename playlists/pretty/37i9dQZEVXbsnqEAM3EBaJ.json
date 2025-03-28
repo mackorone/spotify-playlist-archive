@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACjs/Zok10GSMs+FVbDCAjy",
+  "snapshot_id": "AAAAAAAAAABWwqu2kGPaD8K18pHfT2Y7",
   "tracks": [
     {
       "added_at": "2025-03-21 03:00:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
+        "name": "Big Ole Album Vol. 1",
+        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
         "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
         "url": "https://open.spotify.com/album/3aHP1jOUBurnOCjdvWDZUl"
       },
@@ -87,24 +103,8 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "Big Ole Album Vol. 1",
-        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
-        "name": "Tchaikovsky: Children's Album - Morning Prayer (Excerpt)",
-        "url": "https://open.spotify.com/album/3rHeYh3wr7Y4jWQmZOwbld"
+        "name": "Tchaikovsky: The Seasons, August - The Harvest (Excerpt)",
+        "url": "https://open.spotify.com/album/21EaIR7Gk82iNQLgPixw1c"
       },
       "artists": [
         {
@@ -116,9 +116,33 @@
           "url": "https://open.spotify.com/artist/2aZbaV7eAZx44hm9zAf5hm"
         }
       ],
-      "duration_ms": 61941,
-      "name": "Tchaikovsky: Children's Album - Morning Prayer - Excerpt",
-      "url": "https://open.spotify.com/track/05lfqzayXHUVbvVQZYpfye"
+      "duration_ms": 66596,
+      "name": "Tchaikovsky: The Seasons, August - The Harvest - Excerpt",
+      "url": "https://open.spotify.com/track/4mAMDC8zR4BviOqzJHDg6R"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "Harmonies of Soul 2",
+        "url": "https://open.spotify.com/album/6L5vVDTlc8zxzsQaknsqrK"
+      },
+      "artists": [
+        {
+          "name": "Drumatic&Fa\u00e7ade",
+          "url": "https://open.spotify.com/artist/5ZAUB7yRQT6EaeRBGmNYIx"
+        },
+        {
+          "name": "Nelerh",
+          "url": "https://open.spotify.com/artist/75RCJSBtdVE4Gu5Qyjt7Mx"
+        },
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "duration_ms": 450304,
+      "name": "Nyathela (feat. Nelerh & Panda)",
+      "url": "https://open.spotify.com/track/5b7bKrKV1JKBGSED6omXwg"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -147,22 +171,6 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "The Shadow Elite",
-        "url": "https://open.spotify.com/album/368LvzVtG97TQPF42TAwch"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 279493,
-      "name": "The Shadow Elite",
-      "url": "https://open.spotify.com/track/1hjiZRmHByToO3dPjFSGUH"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14"
       },
@@ -175,6 +183,22 @@
       "duration_ms": 572600,
       "name": "Lament",
       "url": "https://open.spotify.com/track/4onSGbFyDBfo5vfodJghCz"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "The Shadow Elite",
+        "url": "https://open.spotify.com/album/368LvzVtG97TQPF42TAwch"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 279493,
+      "name": "The Shadow Elite",
+      "url": "https://open.spotify.com/track/1hjiZRmHByToO3dPjFSGUH"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -195,22 +219,6 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244915,
-      "name": "Vanish Into You",
-      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
         "name": "T.I.M.E.",
         "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
       },
@@ -227,18 +235,18 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 215566,
-      "name": "Elegy",
-      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -255,6 +263,22 @@
       "duration_ms": 262400,
       "name": "Awen",
       "url": "https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 215566,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -311,6 +335,26 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
+        "name": "Here Be Dragons",
+        "url": "https://open.spotify.com/album/5W3Uw0MWDnca1Ch87V52K7"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        {
+          "name": "Adrienne Cowan",
+          "url": "https://open.spotify.com/artist/2GAs9vOeYJWkniJPBZpd75"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/75IRjTso82AH1QPnpruZuG"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
         "name": "Himno De Yo Soy",
         "url": "https://open.spotify.com/album/2Wu9DsEkMIovr06z9ApwGP"
       },
@@ -336,29 +380,9 @@
           "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
         }
       ],
-      "duration_ms": 270943,
-      "name": "Fear the Serpent - Orchestral Version",
-      "url": "https://open.spotify.com/track/5FM0Dejn9IkBuLT9T2A69m"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
-        "name": "Here Be Dragons",
-        "url": "https://open.spotify.com/album/5W3Uw0MWDnca1Ch87V52K7"
-      },
-      "artists": [
-        {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        },
-        {
-          "name": "Adrienne Cowan",
-          "url": "https://open.spotify.com/artist/2GAs9vOeYJWkniJPBZpd75"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/75IRjTso82AH1QPnpruZuG"
+      "duration_ms": 260700,
+      "name": "Who Wants to Live Forever - Orchestral Version",
+      "url": "https://open.spotify.com/track/0l0xJMcOzmvuDyycSo6KPu"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -379,18 +403,22 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "Curious Ruminant",
-        "url": "https://open.spotify.com/album/1m5tTXkBOzJEiwDz1TyPIG"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5N0gG9CNu2kqa2rOuRNdn4"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "Robotic Dub",
+          "url": "https://open.spotify.com/artist/4c7NIZ1HBdXff8fUNqjHUJ"
+        },
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
         }
       ],
-      "duration_ms": 355680,
-      "name": "Over Jerusalem",
-      "url": "https://open.spotify.com/track/3PcSN0Crczqq6WHCGlUyiq"
+      "duration_ms": 706000,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/4bHRrKXHaDqHP5nIfRgtG9"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -415,22 +443,38 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5N0gG9CNu2kqa2rOuRNdn4"
+        "name": "Curious Ruminant",
+        "url": "https://open.spotify.com/album/1m5tTXkBOzJEiwDz1TyPIG"
       },
       "artists": [
         {
-          "name": "Robotic Dub",
-          "url": "https://open.spotify.com/artist/4c7NIZ1HBdXff8fUNqjHUJ"
-        },
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 706000,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/4bHRrKXHaDqHP5nIfRgtG9"
+      "duration_ms": 355680,
+      "name": "Over Jerusalem",
+      "url": "https://open.spotify.com/track/3PcSN0Crczqq6WHCGlUyiq"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 193490,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -471,6 +515,38 @@
     {
       "added_at": "2025-03-21 03:00:00",
       "album": {
+        "name": "Oceanside Countryside",
+        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "Dance Dance Dance",
+      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "Harvest of Sorrow (All Versions)",
+        "url": "https://open.spotify.com/album/3gnOkMUVQ9gX8Fh7YOLqqi"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Mies Del Dolor",
+      "url": "https://open.spotify.com/track/3hnoHYb1sBnQgTbQKSblj6"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
         "name": "Angels For Each Other",
         "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
       },
@@ -487,22 +563,6 @@
       "duration_ms": 215076,
       "name": "Angels For Each Other",
       "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
-    },
-    {
-      "added_at": "2025-03-21 03:00:00",
-      "album": {
-        "name": "Oceanside Countryside",
-        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Dance Dance Dance",
-      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
     },
     {
       "added_at": "2025-03-21 03:00:00",
@@ -527,6 +587,30 @@
       "duration_ms": 198035,
       "name": "T/R/A/P/P/E/D",
       "url": "https://open.spotify.com/track/27z4fMs35bbdH3xDf3G2BN"
+    },
+    {
+      "added_at": "2025-03-21 03:00:00",
+      "album": {
+        "name": "Private Dancer (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Greg Walsh",
+          "url": "https://open.spotify.com/artist/1oVGKaQu7WJwgR6668lrrI"
+        },
+        {
+          "name": "Martyn Ware",
+          "url": "https://open.spotify.com/artist/0g4bxJkNeoMi0rRJw5hGPV"
+        }
+      ],
+      "duration_ms": 230146,
+      "name": "Let's Stay Together - Alternative Radio Mix, 1983",
+      "url": "https://open.spotify.com/track/4uW9miGI2E7d1aAvcEyVp3"
     },
     {
       "added_at": "2025-03-21 03:00:00",

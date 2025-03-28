@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 37044,
+  "num_followers": 37043,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "closer somehow",
+        "url": "https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 166982,
+      "name": "closer somehow",
+      "url": "https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Love Me Better",
         "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 168610,
       "name": "Dein Herz",
       "url": "https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "closer somehow",
-        "url": "https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 166982,
-      "name": "closer somehow",
-      "url": "https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Tontauben",
+        "url": "https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z"
+      },
+      "artists": [
+        {
+          "name": "Hecht",
+          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Tontauben",
+      "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 135866,
       "name": "fire",
       "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Russian Blue",
-        "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
-      },
-      "artists": [
-        {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
-        }
-      ],
-      "duration_ms": 209070,
-      "name": "Russian Blue",
-      "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -403,34 +403,18 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Since We Met",
-        "url": "https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh"
+        "name": "Russian Blue",
+        "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
         }
       ],
-      "duration_ms": 144373,
-      "name": "Since We Met",
-      "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Tontauben",
-        "url": "https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z"
-      },
-      "artists": [
-        {
-          "name": "Hecht",
-          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Tontauben",
-      "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
+      "duration_ms": 209070,
+      "name": "Russian Blue",
+      "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -451,6 +435,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Since We Met",
+        "url": "https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Since We Met",
+      "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
@@ -463,54 +463,6 @@
       "duration_ms": 179617,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Leave The Light On",
-      "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "No Good For Me",
-        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
-      },
-      "artists": [
-        {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
-        }
-      ],
-      "duration_ms": 193271,
-      "name": "No Good For Me",
-      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -531,6 +483,38 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -543,6 +527,38 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 214404,
+      "name": "Fcuk!",
+      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
+      },
+      "artists": [
+        {
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -563,22 +579,6 @@
       "duration_ms": 151845,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "Fcuk!",
-      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -619,8 +619,8 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -683,6 +683,26 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Happy Here",
+        "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Happy Here",
+      "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Ready For It All",
-        "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
-      },
-      "artists": [
-        {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "Amanda Wilson",
-          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
-        }
-      ],
-      "duration_ms": 152816,
-      "name": "Ready For It All",
-      "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Ready For It All",
+        "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Ready For It All",
+      "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "cry no more",
         "url": "https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh"
       },
@@ -839,6 +859,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "ENEMY",
         "url": "https://open.spotify.com/album/4PhWAyBtcNjqKvuATjgYMc"
       },
@@ -859,22 +895,6 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
         "name": "Bite me",
         "url": "https://open.spotify.com/album/1t4dt2sernqUnKEJTb2I6K"
       },
@@ -887,42 +907,6 @@
       "duration_ms": 188298,
       "name": "Bite me",
       "url": "https://open.spotify.com/track/1ZJ4HJwoWvruY8QQDeWx6i"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "i always remember all of my dreams",
-        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "that life",
-      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Happy Here",
-        "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
-      },
-      "artists": [
-        {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Happy Here",
-      "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "i always remember all of my dreams",
+        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "that life",
+      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 190621,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
-        "name": "Coastline",
-        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
-      },
-      "artists": [
-        {
-          "name": "Shem Thomas",
-          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
-        }
-      ],
-      "duration_ms": 164089,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "Shem Thomas",
+          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+      "duration_ms": 164089,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
     },
     {
       "added_at": "2025-03-21 08:20:41",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
         "name": "Mathilda",
         "url": "https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-03-21 08:20:41",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG"
-      },
-      "artists": [
-        {
-          "name": "Jamila",
-          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR"
-    },
-    {
-      "added_at": "2025-03-21 08:20:41",
-      "album": {
         "name": "What if It All Works Out",
         "url": "https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 213494,
       "name": "Someone",
       "url": "https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0"
+    },
+    {
+      "added_at": "2025-03-21 08:20:41",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG"
+      },
+      "artists": [
+        {
+          "name": "Jamila",
+          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR"
     },
     {
       "added_at": "2025-03-21 08:20:41",

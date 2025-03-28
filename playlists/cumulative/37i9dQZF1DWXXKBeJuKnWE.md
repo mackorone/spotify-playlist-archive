@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: House of Protection
 
-503 songs - 1 day 6 hr 10 min
+504 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-11-10 | 2023-02-03 |
 | [UNLOVED](https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [UNLOVED](https://open.spotify.com/album/3A4btnbfBBlRzBUbpvbRyQ) | 3:16 | 2023-11-17 |  |
 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-11-10 | 2023-07-26 |
+| [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-26 |  |
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-26 |  |
 | [Vacant](https://open.spotify.com/track/1RSEUx1pkaiL7is1obW5v7) | [OVERSIZE](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Vacant](https://open.spotify.com/album/7oFQfr9wbYKjb96CY8V3Er) | 3:09 | 2025-02-07 |  |
 | [VICTIM](https://open.spotify.com/track/4o0xjeZ8K9OViCUbMirwcg) | [Desolated](https://open.spotify.com/artist/4aJzQA930qk1ZLTxZDllh6), [D Bloc](https://open.spotify.com/artist/2QVODoZQM3xHovmZHEYkPH) | [VICTIM](https://open.spotify.com/album/63gDwCdLUmEcZ1lKHWT0oG) | 3:19 | 2024-01-12 | 2024-05-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Tuerie",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Candice",
   "name": "le miel",
   "tracks": [
     {
@@ -1562,6 +1562,28 @@
       "duration_ms": 185783,
       "name": "Entre nous (ft. Cinco)",
       "url": "https://open.spotify.com/track/5VbARAAqegErQsxjwhzqrf"
+    },
+    {
+      "album": {
+        "name": "Tes Yeux Suffisent",
+        "url": "https://open.spotify.com/album/4AOG8LeUboNArK5BdLtixl"
+      },
+      "artists": [
+        {
+          "name": "Jeunesaint",
+          "url": "https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178165,
+      "name": "ERROR 404",
+      "url": "https://open.spotify.com/track/0q94cCOTrT8Wk9f9uEnPzS"
     },
     {
       "album": {
@@ -4434,7 +4456,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 153230,
       "name": "Rien pour toi (Prod. Lazur)",
       "url": "https://open.spotify.com/track/7B81kQAyJ40l2946uVGPS0"

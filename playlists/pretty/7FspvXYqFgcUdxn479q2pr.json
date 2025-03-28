@@ -1,13 +1,69 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover:  Carpetman",
-  "num_followers": 32492,
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover:  KSHMR &amp; Izzy Bu",
+  "num_followers": 32490,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAsIc69zsJPXfRoVDx0+o093zuSStbQ",
+  "snapshot_id": "AAAsJ2pjKG7THk2oVYtpKpUkv2ixgFFR",
   "tracks": [
+    {
+      "added_at": "2025-03-27 11:25:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4PeopsVYBPuPyr83e3T0H0"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 225130,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk"
+    },
+    {
+      "added_at": "2025-03-27 11:25:00",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5vfu9E9F4kBCq0AlfdquSF"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 165238,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/7rONL3DsWAeW3RbNshISEc"
+    },
+    {
+      "added_at": "2025-03-27 11:25:00",
+      "album": {
+        "name": "Diamond In The Rough",
+        "url": "https://open.spotify.com/album/5OkTkv5HihCPXVTzPOGu1q"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 190790,
+      "name": "Diamond In The Rough",
+      "url": "https://open.spotify.com/track/7jGMJ4elJCN4Jqvep5d0Yi"
+    },
     {
       "added_at": "2025-03-20 13:05:40",
       "album": {
@@ -63,6 +119,46 @@
       "duration_ms": 180156,
       "name": "Shades Of Gray",
       "url": "https://open.spotify.com/track/5jakKyB7OiOSPyTrbypdpm"
+    },
+    {
+      "added_at": "2025-03-27 11:25:59",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/7qIQadnPABUBp9p0zwW4vX"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Komb",
+          "url": "https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc"
+        }
+      ],
+      "duration_ms": 162025,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1Zcgrk1KIo3fcC1ceyOWfl"
+    },
+    {
+      "added_at": "2025-03-27 11:25:00",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/15VExKJxqoqCoCpFjldjiQ"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Undercatt",
+          "url": "https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r"
+        }
+      ],
+      "duration_ms": 255483,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3yx9FvpJyHrHd5CwONQUIM"
     },
     {
       "added_at": "2025-03-13 11:42:33",

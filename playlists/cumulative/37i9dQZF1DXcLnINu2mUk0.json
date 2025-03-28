@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Piruka",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: C\u00edntia",
   "name": "Seda",
   "tracks": [
     {
@@ -2547,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "A Casa Ganha Sempre",
+        "url": "https://open.spotify.com/album/4FwQ3tBzLbErdeNJZN40C6"
+      },
+      "artists": [
+        {
+          "name": "Lunn",
+          "url": "https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW"
+        },
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Cognac",
+      "url": "https://open.spotify.com/track/6Tp4BGc3sAQmyv07mw6GP5"
+    },
+    {
+      "album": {
         "name": "Colina",
         "url": "https://open.spotify.com/album/4ivAzZJlYOkXaARdzi3bdx"
       },
@@ -2998,7 +3020,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 178815,
       "name": "CorDaPele",
       "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
@@ -3642,7 +3664,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 209677,
       "name": "Dimas",
       "url": "https://open.spotify.com/track/7tn6d33IW4XtUNFyxOdGdk"
@@ -4694,7 +4716,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 177073,
       "name": "Falei",
       "url": "https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb"
@@ -10280,7 +10302,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 196693,
       "name": "PRIMAVERA",
       "url": "https://open.spotify.com/track/2gwjSaICLjXKNBodfe18ja"
@@ -11274,6 +11296,28 @@
       "duration_ms": 189578,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Morais",
+          "url": "https://open.spotify.com/artist/66o70AgcYnXxgDVp6UkHMY"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S"
     },
     {
       "album": {
@@ -13961,6 +14005,24 @@
     },
     {
       "album": {
+        "name": "Volta Pra Casa",
+        "url": "https://open.spotify.com/album/6i7e6R0Ew4ojVjHpU1q7AD"
+      },
+      "artists": [
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212689,
+      "name": "Volta Pra Casa",
+      "url": "https://open.spotify.com/track/4rEd3N3RGaxrGTGNy6HtuN"
+    },
+    {
+      "album": {
         "name": "walk out the bank!",
         "url": "https://open.spotify.com/album/1g528RYm2GDDec43yMNSHQ"
       },
@@ -13998,6 +14060,24 @@
       "duration_ms": 313021,
       "name": "Water (feat. Slow J) - Single Version",
       "url": "https://open.spotify.com/track/58dElABzeDBwfhttWGf6n1"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4"
+      },
+      "artists": [
+        {
+          "name": "C\u00edntia",
+          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168157,
+      "name": "Weed e Wine",
+      "url": "https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-562 songs - 1 day 4 hr 50 min
+563 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,11 +462,12 @@
 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 | 2022-04-15 | 2024-02-23 |
 | [Soon Not Later](https://open.spotify.com/track/1aUqnyTzGI4eXauiBxdpaJ) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Dame1](https://open.spotify.com/artist/6CKoF1L9fyzl1PsbnevRZh) | [Soon Not Later](https://open.spotify.com/album/3f4YNeAQaTx8FLgzsVQDqf) | 2:38 | 2022-08-22 | 2022-11-13 |
 | [Sorry](https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Sorry](https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N) | 3:08 | 2024-02-23 |  |
+| [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 | 2025-03-28 |  |
 | [Stay Together \(Baby Baby\) \[feat\. Vula\]](https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Stay Together \(Baby Baby\) \[feat\. Vula\]](https://open.spotify.com/album/3RqBN822NxPDfCa6D7j33i) | 2:36 | 2024-05-17 | 2024-11-17 |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2022-04-15 |  |
 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 | 2022-04-15 | 2023-11-10 |
 | [Straight From The Heart \(feat\. Nørskov\)](https://open.spotify.com/track/4AqyqhDduUCYzwXcFIrhWL) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Nørskov](https://open.spotify.com/artist/5iC6qaicSqv8Wd7Q6dW0BH) | [Straight From The Heart \(feat\. Nørskov\)](https://open.spotify.com/album/4O0gBwGRlHkhsgWNBvtCZX) | 3:28 | 2022-04-15 | 2022-07-29 |
-| [Straight Up](https://open.spotify.com/track/0JWDYfnOtq6ku2f1ZHPSCz) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Straight Up \(feat\. Shayan\)](https://open.spotify.com/album/5Q1GQ337FRQZRzul996nJy) | 2:28 | 2024-07-05 |  |
+| [Straight Up](https://open.spotify.com/track/0JWDYfnOtq6ku2f1ZHPSCz) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Straight Up \(feat\. Shayan\)](https://open.spotify.com/album/5Q1GQ337FRQZRzul996nJy) | 2:28 | 2024-07-05 | 2025-03-28 |
 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 | 2022-04-15 | 2022-06-04 |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-12-31 | 2023-09-22 |
 | [Summer In Love](https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Summer In Love](https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp) | 3:15 | 2022-04-15 | 2023-11-10 |

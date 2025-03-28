@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=mnAM9ohtSzyTtCjrkrTwrw\">Lwah Ndlunkulu</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=mnAM9ohtSzyTtCjrkrTwrw\">Umafikizolo</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -1563,6 +1563,36 @@
     },
     {
       "album": {
+        "name": "Ingoma Yami",
+        "url": "https://open.spotify.com/album/4muR1XrReEmHA8MmSPrf04"
+      },
+      "artists": [
+        {
+          "name": "Intabayasedubai",
+          "url": "https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK"
+        },
+        {
+          "name": "Proud",
+          "url": "https://open.spotify.com/artist/4HqpRY96WEihkALTCJWf1B"
+        },
+        {
+          "name": "Dee R",
+          "url": "https://open.spotify.com/artist/37SSMC2YqEFtW8o4yzkDLF"
+        },
+        {
+          "name": "Cwenga Bass",
+          "url": "https://open.spotify.com/artist/69NnlRckDxjd87vXxuMr5S"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Ingoma Yami",
+      "url": "https://open.spotify.com/track/7D4L8U9A7aXiveWURPTWRT"
+    },
+    {
+      "album": {
         "name": "Inhlinini Yoxolo (Pt. 2)",
         "url": "https://open.spotify.com/album/25HvxLDw1saTfEoFQ6Rfxj"
       },
@@ -1654,6 +1684,28 @@
       "duration_ms": 266971,
       "name": "Inhlupheko",
       "url": "https://open.spotify.com/track/56DdoyS1IY3ZYhRYa1ELQ8"
+    },
+    {
+      "album": {
+        "name": "Inja Kabi Lena",
+        "url": "https://open.spotify.com/album/4HhLwMC4pyd1GPF3wLb9Ce"
+      },
+      "artists": [
+        {
+          "name": "Umafikizolo",
+          "url": "https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345704,
+      "name": "Inja Kabi Lena",
+      "url": "https://open.spotify.com/track/0UUJITwaCJnhBECKzJmNTW"
     },
     {
       "album": {

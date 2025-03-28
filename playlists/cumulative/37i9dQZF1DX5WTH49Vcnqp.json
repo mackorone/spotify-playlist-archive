@@ -9271,6 +9271,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
+    },
+    {
+      "album": {
         "name": "Free Flow",
         "url": "https://open.spotify.com/album/4umufgoSeSwucHa2dhWeTr"
       },
@@ -10108,6 +10126,24 @@
       "duration_ms": 119862,
       "name": "Going On (feat. Bickleboy & Nana Lourdes)",
       "url": "https://open.spotify.com/track/6MPjem0pchL2al9Yapa4Zc"
+    },
+    {
+      "album": {
+        "name": "Goji",
+        "url": "https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215904,
+      "name": "Goji",
+      "url": "https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs"
     },
     {
       "album": {
@@ -13650,7 +13686,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 131134,
       "name": "infinyte",
       "url": "https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g"
@@ -15170,7 +15206,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 243760,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"

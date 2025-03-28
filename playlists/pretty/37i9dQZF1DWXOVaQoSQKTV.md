@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,485 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,493 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 24 | [Not Buying It](https://open.spotify.com/track/0v6XEuEjYKj6XTcZ2aMCEr) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Young Broke & Fabulous](https://open.spotify.com/album/1qPHRqIXl4ypXTc1IBwN4c) | 4:00 |
 | 25 | [Caramel Flake](https://open.spotify.com/track/5I9qsITI5cikRZKKRLNijp) | [Tracy De Sá](https://open.spotify.com/artist/5PPRykFD70uQSLdvukWxyV) | [Commotion](https://open.spotify.com/album/3hFcNYoQhwJq1ZfMqh86NJ) | 3:20 |
 | 26 | [Fruit Sandwich](https://open.spotify.com/track/3LniCDYIPXcWoG4YRDOXHk) | [Aaron Joseph Russo](https://open.spotify.com/artist/5TYkSC09ELxgz8OEgLRzOU) | [Lasagne](https://open.spotify.com/album/7rcd8t2dKyhQ7g7JFomrxy) | 4:27 |
-| 27 | [my rose \- Luca Edit](https://open.spotify.com/track/2ZO0TdXHD2zG0DXK7Oy4aG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [colormeblue.](https://open.spotify.com/artist/2pTVZkDfvfNKhwQP4mtFev), [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [my rose \(Luca Edit\)](https://open.spotify.com/album/4HOrv14KHvgOfoxqAhmdUo) | 3:26 |
+| 27 | [my rose \- heylucas Edit](https://open.spotify.com/track/2ZO0TdXHD2zG0DXK7Oy4aG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [colormeblue.](https://open.spotify.com/artist/2pTVZkDfvfNKhwQP4mtFev), [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [my rose \(Luca Edit\)](https://open.spotify.com/album/4HOrv14KHvgOfoxqAhmdUo) | 3:26 |
 | 28 | [Modern Animal](https://open.spotify.com/track/649HFmp5uijgRRbSVGRjE3) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Modern Animal](https://open.spotify.com/album/6y5roSQsSbhNcVfIkhF7wL) | 4:20 |
 | 29 | [What's Life](https://open.spotify.com/track/0YHfLP0QLo7Gl7eyyxiSyp) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn) | 3:31 |
 | 30 | [Chain Reaction](https://open.spotify.com/track/4guhAhIqU9xt3n0kUF8p3R) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Toxic Planet](https://open.spotify.com/album/13iR5TuTMOqu102O4zoQ5L) | 3:29 |

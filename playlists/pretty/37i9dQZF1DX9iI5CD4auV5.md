@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,504 likes - 80 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,523 likes - 80 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 50 | [Now Work](https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Now Work](https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA) | 3:15 |
 | 51 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 | 52 | [Bocat \- Michael Bibi Remix](https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Bocat \(Michael Bibi Remix\)](https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF) | 6:07 |
-| 53 | [Brighter Days \- Marco Lys Remix](https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Brighter Days \(30 Year Anniversary Remixes\)](https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB) | 6:22 |
+| 53 | [Brighter Days \- Marco Lys Remix](https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Brighter Days \(30 Year Anniversary Remixes\)](https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB) | 6:22 |
 | 54 | [Deceiver \- VIP](https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Deceiver \(VIP\)](https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq) | 2:35 |
 | 55 | [Memories](https://open.spotify.com/track/16W1pX4XrDrJzeyVYV8Qe8) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX) | [Memories](https://open.spotify.com/album/11jNkhpC7go26jsd1K9mZU) | 10:16 |
 | 56 | [They Will](https://open.spotify.com/track/4zA4JIlPXfmvDa7mOnvaxa) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [They Will EP](https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ) | 7:12 |

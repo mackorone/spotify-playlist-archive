@@ -4,7 +4,7 @@
 
 > 🍾
 
-212 songs - 12 hr 29 min
+214 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-01-27 | 2024-12-07 |
 | [Get Fly \(I Wanna\)](https://open.spotify.com/track/1VmbST2OSjglP9kbMk90dN) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Cristal Medium Blue](https://open.spotify.com/album/5wOsAojJKCvanW8gkgjVxC) | 4:46 | 2024-02-09 |  |
 | [Get It At Home](https://open.spotify.com/track/1PgQKktANGj96jDspXkZCq) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Saint Motel & the Symphony in the Sky](https://open.spotify.com/album/7gVcYqFmfM8s0zA8ND7JWa) | 3:30 | 2025-02-14 |  |
+| [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-27 |  |
 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 | 2022-12-08 | 2023-01-28 |
 | [Grim Generation](https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 3:20 | 2023-07-28 |  |
 | [Had Enough](https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Had Enough](https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2) | 3:31 | 2024-09-20 |  |
@@ -149,12 +150,13 @@
 | [Paradise](https://open.spotify.com/track/2Ga4V7h6PqKKbMBdiKZrek) | [Thymaz](https://open.spotify.com/artist/2K9tlBARPJt7YCIzjWqQXC) | [Paradise](https://open.spotify.com/album/1s4N3fEbZkGEuByf7Ji1VO) | 2:19 | 2023-04-28 | 2023-09-23 |
 | [Pay It No Mind](https://open.spotify.com/track/4sV3lFXdxg0xDtmt3IwRYr) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Pay It No Mind](https://open.spotify.com/album/6mFhdt0e4DjyQ9U7lLqvGV) | 3:47 | 2023-02-24 | 2023-04-29 |
 | [Payback](https://open.spotify.com/track/07q1dePaFwOwlx1QSqpWZu) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Payback b/w Into The Blue](https://open.spotify.com/album/64x5zlmwoaVBxV7hd5jPOA) | 3:03 | 2024-05-03 |  |
+| [Petite Etoile](https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 4:35 | 2025-03-27 |  |
 | [Peur des filles \- Montmartre Remix](https://open.spotify.com/track/6xRK103p6gJYRMf1knKanW) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Peur des filles \(Montmartre Remix\)](https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO) | 2:46 | 2022-12-08 | 2023-01-28 |
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-06-09 | 2025-03-14 |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2022-12-08 | 2024-03-23 |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 | 2022-12-08 | 2023-09-23 |
-| [R.I.P.](https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [R.I.P.](https://open.spotify.com/album/31GGW5v48kh1vAZ6FSyqZk) | 3:04 | 2025-03-20 |  |
-| [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-13 |  |
+| [R.I.P.](https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [R.I.P.](https://open.spotify.com/album/31GGW5v48kh1vAZ6FSyqZk) | 3:04 | 2025-03-20 | 2025-03-28 |
+| [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-13 | 2025-03-28 |
 | [Reverse](https://open.spotify.com/track/0gqM9aHHz4OzqrfmRxdonh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Gangbusters Melody Club](https://open.spotify.com/album/4li43Kruh0Mrh0SGsIipvU) | 4:02 | 2023-12-01 | 2024-04-19 |
 | [Reverse](https://open.spotify.com/track/2JPuVRjwOAyHziRt8GnI7z) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Reverse](https://open.spotify.com/album/4i9B4hKj3HS0xZZvd3KRhs) | 4:02 | 2023-12-01 | 2024-03-04 |
 | [Reverse](https://open.spotify.com/track/2yYegmCKFlh65V9nu4Qv9U) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Reverse](https://open.spotify.com/album/6b6MN7fR7zqegw6CFkvIB2) | 4:02 | 2024-03-22 |  |

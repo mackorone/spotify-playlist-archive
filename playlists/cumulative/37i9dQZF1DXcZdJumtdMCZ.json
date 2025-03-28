@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "FORREAL",
+        "url": "https://open.spotify.com/album/2P5TpRumi3AvoIAMten2NO"
+      },
+      "artists": [
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96774,
+      "name": "FORREAL",
+      "url": "https://open.spotify.com/track/3oPnaQtyGBUAXddbS3VB6u"
+    },
+    {
+      "album": {
         "name": "FOURDAWGS",
         "url": "https://open.spotify.com/album/3fFCyKIlJTnCStHgmx5cUU"
       },
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 131282,
       "name": "Thallu Thallu",
       "url": "https://open.spotify.com/track/2tkrOWRHjbBXCKmtD91NNr"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Morat en portada.",
-  "num_followers": 34391,
+  "num_followers": 34409,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Por no bailar contigo",
-        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 188515,
-      "name": "Por no bailar contigo",
-      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "Igual de gris",
         "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "Por no bailar contigo",
+        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 188515,
+      "name": "Por no bailar contigo",
+      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Cliente Frecuente",
-        "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 169556,
-      "name": "Cliente Frecuente",
-      "url": "https://open.spotify.com/track/21Rty7kWQngfzDLqRBDJzh"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "Secuaz (Noches de Sal\u00f3n)",
         "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 237324,
       "name": "Secuaz - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "Cliente Frecuente",
+        "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 169556,
+      "name": "Cliente Frecuente",
+      "url": "https://open.spotify.com/track/21Rty7kWQngfzDLqRBDJzh"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Que Noche la de Anoche",
-        "url": "https://open.spotify.com/album/3xA3hokEPtRNegsQJDpECZ"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 233128,
-      "name": "Que Noche la de Anoche",
-      "url": "https://open.spotify.com/track/5FfoldezP9X0pm6TdFPLxK"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "Biling\u00fces",
         "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 174360,
       "name": "Biling\u00fces",
       "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "Que Noche la de Anoche",
+        "url": "https://open.spotify.com/album/3xA3hokEPtRNegsQJDpECZ"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 233128,
+      "name": "Que Noche la de Anoche",
+      "url": "https://open.spotify.com/track/5FfoldezP9X0pm6TdFPLxK"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "Elemento Noches De Sal\u00f3n",
         "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 223990,
       "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
       "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 202913,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
     },
     {
       "added_at": "2025-03-07 06:00:22",

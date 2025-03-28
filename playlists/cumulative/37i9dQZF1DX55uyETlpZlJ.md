@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-482 songs - 1 day 2 hr 47 min
+483 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Sakkare Chakori \- Kannada](https://open.spotify.com/track/4IB9wfkGxPOLF4br2rPZvp) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Kiran Kaverappa](https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9) | [Sakkare Chakori \- Kannada](https://open.spotify.com/album/5e2iPdKcYMiG6dJxNr356c) | 4:55 | 2024-06-10 | 2025-01-31 |
 | [Sakkathagiddini](https://open.spotify.com/track/5iZhK1bnpCzb2gqEbl8u93) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Sakkathagiddini](https://open.spotify.com/album/6HbSyd9OQBydmp4mdhQ4kR) | 2:38 | 2025-01-30 |  |
 | [Samaya](https://open.spotify.com/track/20BJuCXShibTVncYK69A65) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Samaya](https://open.spotify.com/album/1rS1YaKDlPKGJhWZZK7kv1) | 3:43 | 2022-09-16 | 2023-07-04 |
-| [Sanchari](https://open.spotify.com/track/35Y4JnKCyaRFEvAjSJ8da9) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem) | [Sanchari](https://open.spotify.com/album/4GYgujBBza8uMCuPAxxiTi) | 5:02 | 2024-09-30 |  |
+| [Sanchari](https://open.spotify.com/track/35Y4JnKCyaRFEvAjSJ8da9) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem) | [Sanchari](https://open.spotify.com/album/4GYgujBBza8uMCuPAxxiTi) | 5:02 | 2024-09-30 | 2025-03-28 |
 | [Sanchike](https://open.spotify.com/track/5P0MbwYlfgK2PtQD8McpLm) | [Dheemusix](https://open.spotify.com/artist/66225bquT98Ra0HHEt0oTb), [Mitakshar Ainkai](https://open.spotify.com/artist/5cKikIFEFOxUe1bxukqC8b) | [Sanchike](https://open.spotify.com/album/33QrVswoypxLlJZPexFWw2) | 2:48 | 2024-01-17 | 2024-03-05 |
 | [Sangaathiyaagu Nee](https://open.spotify.com/track/4i0qEvTov7ckMYw8nKwVM7) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Pradhan Gowda](https://open.spotify.com/artist/2QrPaZugChqP0LGQgxePXD), [Jathin Dharshan](https://open.spotify.com/artist/2vmXEUhYfJm5bg5mCIInw7), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [Sangaathiyaagu Nee](https://open.spotify.com/album/1WoSrWr2y7xpXuT6L6fn3W) | 4:53 | 2025-03-17 |  |
 | [Sangaathiye](https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Sangaathiye](https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM) | 3:37 | 2023-07-17 | 2023-07-29 |
@@ -453,6 +453,7 @@
 | [Tayiye devaru](https://open.spotify.com/track/4TR4BjGKgRqyCMyVHdKd0H) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Tayiye devaru](https://open.spotify.com/album/5yi8aECBuvPDfeYJOLC626) | 1:53 | 2024-02-21 | 2024-03-18 |
 | [Teenage](https://open.spotify.com/track/2eYpZS1wc2bO4VGuoxE9P1) | [Kalmesh Ujjinakoppa](https://open.spotify.com/artist/52t9xfEBkcVGvth61NXR1N) | [Teenage](https://open.spotify.com/album/5PyPcBY1PzlJaF3s683n6P) | 3:22 | 2025-01-15 |  |
 | [Test drive \(featuring Swastik\)](https://open.spotify.com/track/2duEvDFatZxlBpSRBXIawO) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Swastik](https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ) | [Test drive \(featuring Swastik\)](https://open.spotify.com/album/0GSfdkGxOimIL0krZlateY) | 2:57 | 2023-01-17 | 2023-08-30 |
+| [THALME](https://open.spotify.com/track/4uxzKIzkC0kOlqBxbHs3xK) | [VishwxsMUZiK](https://open.spotify.com/artist/5klwYQTdqW2U8RTVvykN5Y), [Young shabdkaar](https://open.spotify.com/artist/2DatcyY5RlN0N7kaxEMrCa) | [THALME](https://open.spotify.com/album/67xBEBvKYH3JY9dBc74twn) | 3:43 | 2025-03-27 |  |
 | [Thamma Kel](https://open.spotify.com/track/5mgMrUnTtrs3RdHM5aV7EO) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Thamma Kel](https://open.spotify.com/album/0ZZ33eV5ntxd5aLYtWRyar) | 3:10 | 2025-01-27 |  |
 | [That's OK \- 1 Min Music](https://open.spotify.com/track/6YDRZIUqzVrbgziCHMe6Vx) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [That's OK \- 1 Min Music](https://open.spotify.com/album/4Ohu6HtBYUwWLjrer2Vj1A) | 1:00 | 2022-08-05 | 2023-07-04 |
 | [The Bengaluru Rap](https://open.spotify.com/track/531J3aPQNOF5MI0yq9ExwV) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [The Bengaluru Rap](https://open.spotify.com/album/6RMWhzbNAT2B1sQnwrBpGe) | 1:02 | 2023-08-31 | 2023-09-22 |

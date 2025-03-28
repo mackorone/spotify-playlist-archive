@@ -4,13 +4,14 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-456 songs - 1 day 4 hr 51 min
+457 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2 Step \- DJ HEARTSTRING Remix](https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [1, 2 Step \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5) | 3:05 | 2023-08-01 | 2024-09-16 |
 | [2 Many Lies](https://open.spotify.com/track/5MtkeJ3mnxiQnkQGrGuIpm) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Centre Court](https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh) | [2 Many Lies / Your Love](https://open.spotify.com/album/1ZdN5DsyEMxOmt7Vpy8IiL) | 3:40 | 2024-06-27 | 2024-07-05 |
 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2024-08-22 |  |
+| [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 | 2025-03-27 |  |
 | [4Ever](https://open.spotify.com/track/3CdW8qNnxEtnn3yy3SkHFb) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [4Ever](https://open.spotify.com/album/3fJ1EFpVELMmCNZ4QbKmo5) | 2:45 | 2024-02-02 | 2024-04-06 |
 | [5 Mins of Acid](https://open.spotify.com/track/02A5ut8OcBcuXKPmT9e2RN) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Slash 010 \- 5 Mins of Acid](https://open.spotify.com/album/26ayGAZ0l07lcNiVfabCpA) | 5:00 | 2024-12-28 | 2025-01-07 |
 | [6 Million Ways To Die](https://open.spotify.com/track/5VaJXLs5GTseSZPpVqmoZn) | [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [6 Million Ways To Die](https://open.spotify.com/album/2GqZMIgoYFKSPsZyrZWupV) | 6:27 | 2024-08-12 | 2024-08-23 |
@@ -119,7 +120,7 @@
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-16 | 2024-11-07 |
 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 | 2023-03-10 | 2023-06-29 |
 | [Edwin Rosen Vertigo \- Academic Remix](https://open.spotify.com/track/7960s9wdbpgSwGFg2SxHtj) | [Edwin Rosen](https://open.spotify.com/artist/5P7LNVuQRN9Ath8svUaUnV), [Academic](https://open.spotify.com/artist/2sUryncO3HHMUDslIciLZk) | [Edwin Rosen Vertigo \(Academic Remix\)](https://open.spotify.com/album/5G18wJMs69jln4Aw8ZpAFb) | 3:52 | 2023-03-22 | 2023-03-23 |
-| [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 |  |
+| [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 | 2025-03-28 |
 | [Elektra](https://open.spotify.com/track/01e8d1lr1fFyPuIGOCRnRG) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [White Keys Vol.2](https://open.spotify.com/album/73JNp7GCaS3sh9QBCY6uOY) | 7:05 | 2023-08-10 | 2023-08-19 |
 | [ELEMENTS 2](https://open.spotify.com/track/41ms08jzNzvkdFjWVyeiE7) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [ELEMENTS 2](https://open.spotify.com/album/5rYkb1JeOzm6I1QzDV5ozq) | 3:51 | 2024-12-28 | 2025-01-07 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2023-03-10 | 2023-06-06 |

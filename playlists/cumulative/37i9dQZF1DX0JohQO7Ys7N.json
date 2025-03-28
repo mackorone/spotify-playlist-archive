@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Xenia Manasseh",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Maya Amolo & Ywaya Tajiri",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 160610,
       "name": "Failing Together",
       "url": "https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 176659,
       "name": "Presha",
       "url": "https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct"
@@ -4089,6 +4089,28 @@
     },
     {
       "album": {
+        "name": "Side Chick",
+        "url": "https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3"
+      },
+      "artists": [
+        {
+          "name": "ItsYaba",
+          "url": "https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j"
+        },
+        {
+          "name": "Jefflawgan",
+          "url": "https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Side Chick",
+      "url": "https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ"
+    },
+    {
+      "album": {
         "name": "Sio Siri",
         "url": "https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54"
       },
@@ -4422,6 +4444,28 @@
       "duration_ms": 196798,
       "name": "Sunshine State of Mind",
       "url": "https://open.spotify.com/track/2er73rABGL9TYoAkhyupMk"
+    },
+    {
+      "album": {
+        "name": "Sweetest Time",
+        "url": "https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        },
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Sweetest Time",
+      "url": "https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW"
     },
     {
       "album": {

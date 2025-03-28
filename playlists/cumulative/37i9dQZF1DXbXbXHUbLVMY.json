@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 171757,
       "name": "+212 (feat. 23)",
       "url": "https://open.spotify.com/track/6x7TWKdBz1R7pl7ykrAUvc"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 160634,
       "name": "Aktiv",
       "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 164354,
       "name": "Bad B**** (feat. Arif Murakami)",
       "url": "https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 117216,
       "name": "Batmobile",
       "url": "https://open.spotify.com/track/5nE6wfrzpwXWf96YD7md2k"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 129882,
       "name": "BECHO",
       "url": "https://open.spotify.com/track/2NfxurrqwMoXW2bWYYWF63"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 188785,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 136082,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 161240,
       "name": "Blind",
       "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
@@ -1027,6 +1027,28 @@
     },
     {
       "album": {
+        "name": "Pennen & Sverdet",
+        "url": "https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        },
+        {
+          "name": "Tshawe",
+          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158006,
+      "name": "Byggeklosser",
+      "url": "https://open.spotify.com/track/4oTk9KPi04XhB0eFxLLDoo"
+    },
+    {
+      "album": {
         "name": "Cecilia Lind",
         "url": "https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD"
       },
@@ -1038,7 +1060,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 101631,
       "name": "Cecilia Lind",
       "url": "https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX"
@@ -1170,7 +1192,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Dag etter dag",
       "url": "https://open.spotify.com/track/0ICFzymmGVBrldD4odQgXf"
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 93830,
       "name": "Det Regner Penger (Allez Allez)",
       "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
@@ -1430,7 +1452,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 178736,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4e6yJydi3ONicrZ8gXsCCv"
@@ -1448,7 +1470,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 178293,
       "name": "Drikker & Drukner",
       "url": "https://open.spotify.com/track/4dVVvavEIdduXZLnvceKjN"
@@ -1466,7 +1488,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 132150,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 159771,
       "name": "Dumme boys",
       "url": "https://open.spotify.com/track/6YWKS26a3EjwrAWjTAwFkq"
@@ -1624,7 +1646,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 171948,
       "name": "E.T.A",
       "url": "https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq"
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 156117,
       "name": "EUROSTAR",
       "url": "https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi"
@@ -1802,7 +1824,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 124750,
       "name": "Fakk love",
       "url": "https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB"
@@ -1958,7 +1980,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 136178,
       "name": "Flad Af Grin (feat. Noah Carter & Benny Jamz)",
       "url": "https://open.spotify.com/track/6xm5NjUzitBPdgtUUXR6P6"
@@ -1980,14 +2002,14 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
     },
     {
       "album": {
-        "name": "Flus",
+        "name": "Flus (From \u201cFLUS\u201d)",
         "url": "https://open.spotify.com/album/74mamxp3cRi4UmDsiQdJTB"
       },
       "artists": [
@@ -2010,9 +2032,9 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 183666,
-      "name": "Flus",
+      "name": "Flus - From \u201cFLUS\u201d",
       "url": "https://open.spotify.com/track/6jwE8i4V00DL55SkUiiCM1"
     },
     {
@@ -2028,7 +2050,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 166611,
       "name": "Foden",
       "url": "https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv"
@@ -2094,7 +2116,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 154985,
       "name": "Frossa",
       "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
@@ -2116,7 +2138,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 131381,
       "name": "F\u00f8lg lyden",
       "url": "https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx"
@@ -2304,7 +2326,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 154043,
       "name": "Go",
       "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
@@ -2344,7 +2366,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 132609,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V"
@@ -2402,7 +2424,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 114098,
       "name": "Habibi You",
       "url": "https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb"
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 146750,
       "name": "HBB",
       "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
@@ -2514,7 +2536,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 111214,
       "name": "Hel/Halv",
       "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
@@ -2762,7 +2784,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 166315,
       "name": "H\u00f6r Dig",
       "url": "https://open.spotify.com/track/4tBwUEzSVknmjZ3XfC1VO4"
@@ -2780,10 +2802,32 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 139764,
       "name": "I Care",
       "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
+    },
+    {
+      "album": {
+        "name": "I DAG",
+        "url": "https://open.spotify.com/album/0mBgjpcbKw6iP6Ps1dl7br"
+      },
+      "artists": [
+        {
+          "name": "2J",
+          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
+        },
+        {
+          "name": "Dio Mudara",
+          "url": "https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167315,
+      "name": "I DAG",
+      "url": "https://open.spotify.com/track/28Dz9bnFa5iKkubc51TCml"
     },
     {
       "album": {
@@ -2798,7 +2842,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 162057,
       "name": "I Want You 2 Be Mine",
       "url": "https://open.spotify.com/track/11wfYbsYR8lVqLhCp3ChM3"
@@ -2838,7 +2882,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 149240,
       "name": "Igjen",
       "url": "https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW"
@@ -2986,7 +3030,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 201752,
       "name": "KAN JAG FR\u00c5GA DIG?",
       "url": "https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB"
@@ -3008,7 +3052,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 154320,
       "name": "King Of The Hill (feat. Roc Boyz)",
       "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
@@ -3066,7 +3110,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 136036,
       "name": "KOKAINA",
       "url": "https://open.spotify.com/track/5ySgnmvgg2Avt9DFWI46pA"
@@ -3172,7 +3216,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
@@ -3234,7 +3278,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 178802,
       "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
       "url": "https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh"
@@ -3252,7 +3296,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "LA LIGA",
       "url": "https://open.spotify.com/track/2qmqbVxH8QOhRDK6bnno6P"
@@ -3274,7 +3318,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 130709,
       "name": "Land Till Land",
       "url": "https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0"
@@ -3318,7 +3362,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 161258,
       "name": "Ledare",
       "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
@@ -3376,7 +3420,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 164812,
       "name": "Leve",
       "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
@@ -3452,7 +3496,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 135319,
       "name": "Lucky Luciano",
       "url": "https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1"
@@ -3550,7 +3594,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
@@ -3634,7 +3678,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 129756,
       "name": "MED MIG",
       "url": "https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70"
@@ -3659,6 +3703,28 @@
     },
     {
       "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/0feypZYACSl2PL5m164tU2"
+      },
+      "artists": [
+        {
+          "name": "Stian.",
+          "url": "https://open.spotify.com/artist/0me84MJMnB6el4dd4WBw4T"
+        },
+        {
+          "name": "Rohat",
+          "url": "https://open.spotify.com/artist/6DaZsLPQ6JeHURwrrSY0cB"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/5h4sKMUrBnPgBqgaO1J8kz"
+    },
+    {
+      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -3670,7 +3736,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 194526,
       "name": "Ment for hverandre",
       "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
@@ -3692,7 +3758,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 224516,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm"
@@ -3728,7 +3794,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 146053,
       "name": "MIDDELS DEPPA MILLION\u00c6R",
       "url": "https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5"
@@ -3750,7 +3816,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 158048,
       "name": "Midja",
       "url": "https://open.spotify.com/track/3ElxPNHikg80BAC3AX3y80"
@@ -3882,7 +3948,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 123870,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/6l5cINkWl0q2OeELlBkHGl"
@@ -4174,7 +4240,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 163702,
       "name": "Over mitt lik (feat. Molly Hammar)",
       "url": "https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa"
@@ -4366,7 +4432,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 142118,
       "name": "Plz",
       "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
@@ -4420,7 +4486,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 184583,
       "name": "Put 'Em Up",
       "url": "https://open.spotify.com/track/1djMI5OklSedgWOoazUNVH"
@@ -4468,7 +4534,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 151897,
       "name": "Real Life (feat. Arif Murakami)",
       "url": "https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi"
@@ -4574,7 +4640,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 143520,
       "name": "R\u00e4dda mig",
       "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
@@ -4658,7 +4724,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 154793,
       "name": "SAHBI",
       "url": "https://open.spotify.com/track/7daGugofgBVQN2TGIrlFjO"
@@ -4692,7 +4758,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 169021,
       "name": "SAHBI - Remix",
       "url": "https://open.spotify.com/track/5zUjQeVLRZqLyEGsc56VTG"
@@ -4804,7 +4870,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 182072,
       "name": "See Me Shine",
       "url": "https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr"
@@ -4848,7 +4914,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
@@ -4884,7 +4950,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 133375,
       "name": "Sjunka",
       "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
@@ -4960,7 +5026,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 231346,
       "name": "Skulle bare visst (feat. Isah)",
       "url": "https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG"
@@ -5048,7 +5114,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 139071,
       "name": "SOLDAT",
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
@@ -5168,7 +5234,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 127209,
       "name": "Standard",
       "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
@@ -5186,7 +5252,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 231666,
       "name": "Stikk i Brystet",
       "url": "https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1"
@@ -5230,7 +5296,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 194117,
       "name": "Storbyen sin lillebror",
       "url": "https://open.spotify.com/track/6ldkEtZoW3K1eV1pJsdJcf"
@@ -5278,7 +5344,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 140775,
       "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv"
@@ -5395,6 +5461,36 @@
     },
     {
       "album": {
+        "name": "Telepati (feat. Tyr)",
+        "url": "https://open.spotify.com/album/0sqAJ5XO13rhW0ygq8y7Nw"
+      },
+      "artists": [
+        {
+          "name": "Benocchio",
+          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
+        },
+        {
+          "name": "Ys1",
+          "url": "https://open.spotify.com/artist/5xd5dejPupUZBQxKNDfp5B"
+        },
+        {
+          "name": "Moe3",
+          "url": "https://open.spotify.com/artist/0ddC4lQFkfT0qwbq6FQcSq"
+        },
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174557,
+      "name": "Telepati (feat. Tyr)",
+      "url": "https://open.spotify.com/track/1jKPDNzscz5gkVlSGMkHxX"
+    },
+    {
+      "album": {
         "name": "Tenk Inte",
         "url": "https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB"
       },
@@ -5410,7 +5506,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 173000,
       "name": "Tenk Inte",
       "url": "https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ"
@@ -5468,7 +5564,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 157217,
       "name": "TIL DEG",
       "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
@@ -5590,7 +5686,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 221276,
       "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
@@ -5630,7 +5726,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 162857,
       "name": "Utested",
       "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
@@ -5670,7 +5766,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 151121,
       "name": "Varig m\u00e9n",
       "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
@@ -5688,7 +5784,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 187083,
       "name": "Veien",
       "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
@@ -5706,7 +5802,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 108196,
       "name": "Vi",
       "url": "https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK"
@@ -5724,7 +5820,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 187874,
       "name": "Vidunderbarn",
       "url": "https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN"
@@ -5804,7 +5900,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 149333,
       "name": "VINNARE",
       "url": "https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S"
@@ -5884,7 +5980,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 155160,
       "name": "Welou (Better Days)",
       "url": "https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B"
@@ -5902,7 +5998,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 156453,
       "name": "Whina",
       "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
@@ -5920,7 +6016,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 163589,
       "name": "Wine",
       "url": "https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI"
@@ -5964,7 +6060,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 145797,
       "name": "YOUNG THUG P\u00c5 1M",
       "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
@@ -6004,7 +6100,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 146400,
       "name": "\u00c4nnu en dag",
       "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"

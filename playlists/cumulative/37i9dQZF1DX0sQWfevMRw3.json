@@ -111,6 +111,32 @@
     },
     {
       "album": {
+        "name": "113",
+        "url": "https://open.spotify.com/album/4O6efjOGwx7nhYQ5KPJKfK"
+      },
+      "artists": [
+        {
+          "name": "Drittsekk",
+          "url": "https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM"
+        },
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        },
+        {
+          "name": "Richie Holm",
+          "url": "https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121962,
+      "name": "113",
+      "url": "https://open.spotify.com/track/0Vec54m9ABwhKGVHG5rkQF"
+    },
+    {
+      "album": {
         "name": "123",
         "url": "https://open.spotify.com/album/2JICdP9kaU2NgF4zyiScet"
       },
@@ -288,7 +314,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 168687,
       "name": "30 KM/H",
       "url": "https://open.spotify.com/track/5877bQq4QOaIYvwo9LtmVB"
@@ -540,6 +566,24 @@
       "duration_ms": 195241,
       "name": "Ack & Ve",
       "url": "https://open.spotify.com/track/2SuiLdrioZx12G7lwCLRbX"
+    },
+    {
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/4DpvSdggqlCEnkbHxjpqkd"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119254,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/4viogTuFzhkJYDlnVHrOS4"
     },
     {
       "album": {
@@ -1336,7 +1380,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 134187,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/50iEpixZ6Ca1kZBYC9Z2UA"
@@ -3686,7 +3730,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 146979,
       "name": "Da La Larna",
       "url": "https://open.spotify.com/track/2Xa33Z47iIVzWU9wqcGiQK"
@@ -3848,7 +3892,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 145352,
       "name": "DANSA",
       "url": "https://open.spotify.com/track/4CellqWafv897wak02iDB8"
@@ -4404,6 +4448,32 @@
       "duration_ms": 150348,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
+    },
+    {
+      "album": {
+        "name": "DIESELDYRKAN 2025",
+        "url": "https://open.spotify.com/album/7gXkUX9HDQoV3BGusguWmo"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        },
+        {
+          "name": "Greta Tuborg",
+          "url": "https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "DIESELDYRKAN 2025",
+      "url": "https://open.spotify.com/track/69a0QuwA9tsHR4J5Q97kBN"
     },
     {
       "album": {
@@ -6072,7 +6142,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 193846,
       "name": "ELOISE",
       "url": "https://open.spotify.com/track/1N90TLVkjG5s85lSYUg3DX"
@@ -7462,7 +7532,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 125624,
       "name": "FESTA I MIN VOLVO",
       "url": "https://open.spotify.com/track/6xsTRpTM0uvTACFVPgvLQv"
@@ -12134,6 +12204,24 @@
       "duration_ms": 146326,
       "name": "I MIN FANTASI",
       "url": "https://open.spotify.com/track/1mAnpnThzS2PSmifbrAxFF"
+    },
+    {
+      "album": {
+        "name": "I Min Hage",
+        "url": "https://open.spotify.com/album/636fUscot8h8lOjCf99fA8"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "I Min Hage",
+      "url": "https://open.spotify.com/track/5SdJaN4nkxDfmT38aUUMcJ"
     },
     {
       "album": {
@@ -17341,6 +17429,32 @@
     },
     {
       "album": {
+        "name": "Ny mark",
+        "url": "https://open.spotify.com/album/7xBEz2UxKI8BYAAqKGCKGs"
+      },
+      "artists": [
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        },
+        {
+          "name": "Aliammo",
+          "url": "https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA"
+        },
+        {
+          "name": "Kattastrof",
+          "url": "https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123103,
+      "name": "Ny mark",
+      "url": "https://open.spotify.com/track/722y4ce1sQhziubL83eqlZ"
+    },
+    {
+      "album": {
         "name": "Ny\u00e5r i min EPA",
         "url": "https://open.spotify.com/album/38AslBHhLZZtFzMJwQah1n"
       },
@@ -20661,6 +20775,28 @@
     },
     {
       "album": {
+        "name": "RUNK-I-SKUNK (Pornhub)",
+        "url": "https://open.spotify.com/album/7t8493sqyLQHL1B03mR5Ec"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "RUNK-I-SKUNK (Pornhub)",
+      "url": "https://open.spotify.com/track/55NGjlH67AsvEB6VHigViw"
+    },
+    {
+      "album": {
         "name": "RUNKA P\u00c5",
         "url": "https://open.spotify.com/album/7qkFu60K5I40CsRkJaXdRa"
       },
@@ -21254,7 +21390,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 141723,
       "name": "SEGERT\u00c5GET",
       "url": "https://open.spotify.com/track/23kMSMjpZelNQXrD3z9lZo"
@@ -23655,6 +23791,28 @@
     },
     {
       "album": {
+        "name": "St\u00e5r upp igen",
+        "url": "https://open.spotify.com/album/0c5YRjkhK17A9gELoDvpPQ"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "YWB",
+          "url": "https://open.spotify.com/artist/5lBsK5xIl9HCUgSYtgUuBi"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115077,
+      "name": "St\u00e5r upp igen",
+      "url": "https://open.spotify.com/track/4AqmMaj3uBbEjpcFJ51X96"
+    },
+    {
+      "album": {
         "name": "ST\u00d6RA HELA STADEN (Hela Flaskan)",
         "url": "https://open.spotify.com/album/1yaXcpZKZUIcjeJf0WJ92I"
       },
@@ -24194,7 +24352,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 133645,
       "name": "Sv\u00e4rt",
       "url": "https://open.spotify.com/track/1uIyaQYZMw8jxKpiEnwQSA"

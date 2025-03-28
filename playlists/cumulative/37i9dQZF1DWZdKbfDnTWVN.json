@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl?si=5xyCYQLiQri8MCuj7DF3NQ\"> Shekina Karen</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=x7pdm6GhRKCpmJ9JTf15uQ\"> Jovie Jovv</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/1gvYbujkrE7WlrtLMHETn2"
+      },
+      "artists": [
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143331,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/28uZA4SvGSxKt1kvmlAMjP"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5KEGFl48jAKTNT3AvFN4Y9"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 211564,
       "name": "Chinje",
       "url": "https://open.spotify.com/track/4KvRZwCt5UIm9hSfapI2E0"
@@ -1656,6 +1674,32 @@
       "duration_ms": 229067,
       "name": "FULLY AUTO",
       "url": "https://open.spotify.com/track/6Zph2tvaXvf1jyzzGFKCqf"
+    },
+    {
+      "album": {
+        "name": "G sign",
+        "url": "https://open.spotify.com/album/3pPfFQBcuBlQPSufRCMNkC"
+      },
+      "artists": [
+        {
+          "name": "NIGGA SHAWN",
+          "url": "https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9"
+        },
+        {
+          "name": "Mauru Gwash",
+          "url": "https://open.spotify.com/artist/7At4VH2SHRSwnKzxRtYlra"
+        },
+        {
+          "name": "Thirtyfourbrick",
+          "url": "https://open.spotify.com/artist/72gStMl93alASiWwpGUbAa"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134947,
+      "name": "G sign",
+      "url": "https://open.spotify.com/track/3YS92rJ94jZRtL5JYRcnXf"
     },
     {
       "album": {
@@ -5242,7 +5286,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 158772,
       "name": "Stima",
       "url": "https://open.spotify.com/track/0vcmgcZDVjYrLPqaLrsaVt"

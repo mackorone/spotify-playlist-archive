@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-946 songs - 2 day 5 hr 31 min
+947 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Collecting Thoughts](https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Collecting Thoughts](https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M) | 3:25 | 2022-11-17 | 2023-02-11 |
 | [Collide](https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Collide](https://open.spotify.com/album/0OsvXFnxq0BxmMYMonipLZ) | 3:43 | 2022-10-14 | 2022-11-20 |
 | [Collide](https://open.spotify.com/track/5DsHIpQYhemlXf5OZ1VYlw) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:43 | 2022-11-19 | 2022-11-22 |
+| [colors](https://open.spotify.com/track/70meb0y1oP8OJR0n8RhxZq) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [colors](https://open.spotify.com/album/5k7pxpgyFHpi40XVymiWbV) | 4:25 | 2025-03-27 |  |
 | [Come Clean \- Spotify Singles](https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 2:39 | 2022-11-09 | 2023-02-04 |
 | [Come Closer](https://open.spotify.com/track/3IpPQ5sXybfzGycTxDTe4d) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Come Closer](https://open.spotify.com/album/6lDUSSyVDMwhHGzDfyopfK) | 3:58 | 2023-01-27 | 2023-04-14 |
 | [Come Closer \- Josh Kramer Rework](https://open.spotify.com/track/6rEA8TOvDZUVm8WX5Hi5Xv) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Come Closer \(Josh Kramer Rework\)](https://open.spotify.com/album/55KnsOmfr0xDbXWqBtGiZV) | 2:49 | 2025-01-10 |  |

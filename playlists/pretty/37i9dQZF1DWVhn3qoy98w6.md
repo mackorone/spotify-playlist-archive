@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Cecilia Zango.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,572 likes - 72 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,570 likes - 72 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

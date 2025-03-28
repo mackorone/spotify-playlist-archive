@@ -4,7 +4,7 @@
 
 > White noise to help babies fall asleep.
 
-398 songs - 18 hr 33 min
+399 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Brown Noise Waterfall](https://open.spotify.com/track/4D8NrgPfpaVDgYL5RGIJ66) | [The Water Sleepers](https://open.spotify.com/artist/4bD8jRVnnQGuOMVyraMdh4) | [Calm Noise](https://open.spotify.com/album/6ZHA1t28vnQkY5Oj23WsVV) | 2:50 | 2022-03-21 | 2022-06-10 |
 | [Brown Sleep Noise](https://open.spotify.com/track/0TPUdioC1SBhbuDVUmcxz2) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Brown Meditative Noise](https://open.spotify.com/album/1u9d2rLpjKoXGOhz9wPukr) | 2:08 | 2022-03-21 | 2022-06-10 |
 | [brunt brus](https://open.spotify.com/track/26i9R2gGrDTONZvFzUtwmP) | [Noisy](https://open.spotify.com/artist/2f07KKTyM4TTrYGcleW8Et) | [vitt brus](https://open.spotify.com/album/3JbfUneNWYdZXn1DiDiztW) | 3:18 | 2022-03-21 | 2022-06-10 |
+| [Buzzing](https://open.spotify.com/track/1vQKwIcjUZPbpFu6nExDZT) | [Pentadecimal](https://open.spotify.com/artist/6N70t9WnJfxcRSzxMmFF1R) | [Buzzing](https://open.spotify.com/album/4fD8l4PgXb6xQ2dqZKskMR) | 2:51 | 2025-02-04 |  |
 | [Cabin Noise Melody](https://open.spotify.com/track/4TVbi0QfkzKCvLeIIPfKqb) | [Minorie HD](https://open.spotify.com/artist/4s3zLaJUhGoYhcFHwlnIgw) | [Cabin Noise Melody](https://open.spotify.com/album/11uCdzSWLtGVOjm0Vk4AZh) | 2:01 | 2022-03-21 |  |
 | [Cabin Relaxation](https://open.spotify.com/track/5P4wNyzMgGAgg51SiexQ7Q) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Relaxing Brown Noise](https://open.spotify.com/album/1ikuBfHFOVZWK1ac6q1kxJ) | 2:30 | 2022-03-21 | 2022-04-29 |
 | [Cabination Noise](https://open.spotify.com/track/0BHUIuLE8ZqojV6LqswBgS) | [Noise Project](https://open.spotify.com/artist/7K3z2X4heN5Ce5SGX71Tk0) | [Cabination Noise](https://open.spotify.com/album/2jc10ym0IheRE96y87ndm7) | 2:02 | 2022-04-28 |  |
@@ -202,7 +203,7 @@
 | [Relaxing Brown Noise](https://open.spotify.com/track/61eLujIwgBncxdEbguVeLw) | [Meteorologist](https://open.spotify.com/artist/7syFj0lLEE6rl1UI9IKK70) | [Focusing](https://open.spotify.com/album/0regAi4e9coDganmi0L1pP) | 1:40 | 2022-03-21 | 2022-06-10 |
 | [Relaxing In The Noise](https://open.spotify.com/track/0TtxJQ3O4Mz8rg5Eme4Tgt) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Noise Zone](https://open.spotify.com/album/2TGWB7qK1w8z8kCbCky0bj) | 2:31 | 2022-03-21 |  |
 | [Relaxing Noise Aid](https://open.spotify.com/track/6mI0WuRBmcH7ZgHpgxloMP) | [Kilo Herz](https://open.spotify.com/artist/1cDJHAhR1MlgitRpErRmzL) | [Ocean Of Noise](https://open.spotify.com/album/6o5AdyLgf4mnYnYAUp9H86) | 3:26 | 2022-03-21 | 2023-12-09 |
-| [Repeating White Noise](https://open.spotify.com/track/7lyB6ZqVXF6xaN1FAz3wjr) | [Clamor](https://open.spotify.com/artist/7BJClXHcudZwEpc4flJ0Rz) | [Pandemonium Noise](https://open.spotify.com/album/3A6qJW5XGMwwZd87kX4Hzy) | 2:40 | 2022-03-21 |  |
+| [Repeating White Noise](https://open.spotify.com/track/7lyB6ZqVXF6xaN1FAz3wjr) | [Clamor](https://open.spotify.com/artist/7BJClXHcudZwEpc4flJ0Rz) | [Pandemonium Noise](https://open.spotify.com/album/3A6qJW5XGMwwZd87kX4Hzy) | 2:40 | 2022-03-21 | 2025-03-28 |
 | [Resting with White Noise](https://open.spotify.com/track/146Y0ZLNuP29oSaR6wWeNd) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [Resting with White Noise](https://open.spotify.com/album/0tgBgtBWPbU2km6b9wdiyO) | 4:00 | 2022-10-27 |  |
 | [Reverie White Noise](https://open.spotify.com/track/2m3nqd70klWytX8tQmKTzR) | [Skyline FX](https://open.spotify.com/artist/0Bk22etDRvzrog9780hCXb) | [Beautiful White Noise](https://open.spotify.com/album/4DmO0KwXz2l4iAdUwUJZaM) | 2:28 | 2022-04-28 |  |
 | [Rich Orange & White Noise \- 364hz](https://open.spotify.com/track/4sFkIzdLAYsXpRAJUmXZpF) | [Astral Noise](https://open.spotify.com/artist/6ukbhEhFk72rEfygTKIdIE) | [Intergalactic Sleep Sounds](https://open.spotify.com/album/1dKAPcNK146NsW8Aqkqr4F) | 1:04 | 2022-03-21 | 2023-06-28 |

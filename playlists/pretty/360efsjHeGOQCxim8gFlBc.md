@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 487 likes - 300 songs - 12 hr 25 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 486 likes - 300 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 23 | [quiet nights](https://open.spotify.com/track/6oEvvtPZU0G2vrR0urefuj) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [quiet nights](https://open.spotify.com/album/29M0mIYmNZk1oKzlZp6WN1) | 2:18 |
 | 24 | [Yesterday](https://open.spotify.com/track/6hCSOQHRjKO1vOzoXMzJnl) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [Yesterday](https://open.spotify.com/album/1i6lVRouZbMtqXaAtsQKcg) | 1:57 |
 | 25 | [Ripple](https://open.spotify.com/track/3t0X9hBRuYir1nieiqmCWR) | [David Cosori](https://open.spotify.com/artist/52JZukFO6SW7FAGzYAPybg) | [Cove](https://open.spotify.com/album/3Nq2hBYtKMUioSqzeCuwbr) | 2:15 |
-| 26 | [rosegold](https://open.spotify.com/track/1sU3eRckcUcBNzUHFX34gK) | [Raynix](https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3), [Hua](https://open.spotify.com/artist/47ko7Yhae1Iq104SWZSoJp), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [rosegold](https://open.spotify.com/album/0YpamSibPR2iAcBtDn84Af) | 1:22 |
+| 26 | [rosegold](https://open.spotify.com/track/1sU3eRckcUcBNzUHFX34gK) | [Raynix](https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3), [Hua](https://open.spotify.com/artist/47ko7Yhae1Iq104SWZSoJp), [vibe](https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0) | [rosegold](https://open.spotify.com/album/0YpamSibPR2iAcBtDn84Af) | 1:22 |
 | 27 | [The Way Of Life](https://open.spotify.com/track/5Mmkqb8iGDy2sJu1KsaLhH) | [Pierre Lebold](https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM) | [The Way Of Life](https://open.spotify.com/album/4c6ICbg6atGgvmCi4SCyzo) | 2:37 |
 | 28 | [december](https://open.spotify.com/track/5s9pgenxjEkfXs54Xho39o) | [driving horses](https://open.spotify.com/artist/3PKU3gXPPRLmChkUpOO1SU) | [december](https://open.spotify.com/album/0tDb2tJtTPwqtq1hLWNfF1) | 2:17 |
 | 29 | [Desiderium](https://open.spotify.com/track/61scEeWt6Bm2EiDQNaQ2hA) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Serene](https://open.spotify.com/album/2J4dkNU7NKXYXf3vnhX89d) | 2:32 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 79 | [nostalgic moments](https://open.spotify.com/track/18n5j6pHMQ9XqykT2zDdBj) | [Dingus](https://open.spotify.com/artist/4SkQtp8HtospH6P4BqDSG3) | [nostalgic moments](https://open.spotify.com/album/5MV5gpnKxvZJH6fyUywrdF) | 2:35 |
 | 80 | [Still](https://open.spotify.com/track/0QpwOZMNf9YbJtZuve0tNA) | [Jackson Blais](https://open.spotify.com/artist/35LO1ZhXPK0W02dTqBh2WU) | [Still](https://open.spotify.com/album/5pxoxaMsN5ceSQvMpXDrVq) | 1:10 |
 | 81 | [Honestly](https://open.spotify.com/track/4iQim7G17BrVyjDI4ExRxX) | [Dermott Reilly](https://open.spotify.com/artist/4m2y4IV1lkTrGLztYQH452) | [Honestly](https://open.spotify.com/album/3vue9PxA7EkWLm1p2IbGdy) | 3:16 |
-| 82 | [Night Rain](https://open.spotify.com/track/29zkZTVADcpso77wVvV62v) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [Night Rain](https://open.spotify.com/album/1wTT3z4kv97S3au8iS4thQ) | 2:38 |
+| 82 | [Night Rain](https://open.spotify.com/track/29zkZTVADcpso77wVvV62v) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi), [vibe](https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0) | [Night Rain](https://open.spotify.com/album/1wTT3z4kv97S3au8iS4thQ) | 2:38 |
 | 83 | [World of Dreams](https://open.spotify.com/track/48kcI0fRkPtMkgFVMYc2jD) | [Jakub Szybiak](https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg) | [World of Dreams](https://open.spotify.com/album/0dWvAHZOMpmc00r286bJjL) | 2:36 |
 | 84 | [Azure](https://open.spotify.com/track/00eRxSb9toxi7yVxjjMWli) | [Esther Davis](https://open.spotify.com/artist/1lP16cNgiiAsxGGHO8iuLR) | [Solace](https://open.spotify.com/album/3n5BcNqsOG70myZXPTILcf) | 2:36 |
 | 85 | [Sweet World](https://open.spotify.com/track/1YEkexBavVDXrUVKfsP5PP) | [Hunter Rossi](https://open.spotify.com/artist/4tJfcsfXlyZ2L8nKF3BhJu) | [Sweet World](https://open.spotify.com/album/2HlpqMglGikBo744RL61h5) | 2:29 |
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 173 | [Pleasant Memories](https://open.spotify.com/track/54soqijUI0Z2mJKHJocEGr) | [Ana Rebekah](https://open.spotify.com/artist/3WvH1j2R3NIDv20J6iq4hP) | [Pleasant Memories](https://open.spotify.com/album/7r6InrPbE9meXW2wV3M09H) | 2:30 |
 | 174 | [goodbye](https://open.spotify.com/track/0USNWV9YJVTFviRNW74fbA) | [Archish Arun](https://open.spotify.com/artist/4f5hsDIno1YcAWvudVPyeu) | [goodbye](https://open.spotify.com/album/1ACNyGTgj7Fk8YoR9CR4mC) | 2:25 |
 | 175 | [Lostnd](https://open.spotify.com/track/1BmWYDuPj0DHvOUYuTPUCv) | [Thayer](https://open.spotify.com/artist/1GAHD2clwrr7wsSgUqHw5b) | [Lostnd](https://open.spotify.com/album/6IuOikqXsrRldxQfVnkbgy) | 3:50 |
-| 176 | [One, Two, Three](https://open.spotify.com/track/1Kt1oS7UkJ91baEHZoGNr1) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [One, Two, Three](https://open.spotify.com/album/35GOdsILYXM0aGK5yclc8R) | 1:39 |
+| 176 | [One, Two, Three](https://open.spotify.com/track/1Kt1oS7UkJ91baEHZoGNr1) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi), [vibe](https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0) | [One, Two, Three](https://open.spotify.com/album/35GOdsILYXM0aGK5yclc8R) | 1:39 |
 | 177 | [You are an ocean](https://open.spotify.com/track/1zG5qCslvLuDrp5m6Nr4dF) | [Esther Davis](https://open.spotify.com/artist/1lP16cNgiiAsxGGHO8iuLR) | [Solace](https://open.spotify.com/album/3n5BcNqsOG70myZXPTILcf) | 2:24 |
 | 178 | [Improv 1](https://open.spotify.com/track/33o64ETPXh0PM3y1CWOqmV) | [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Improv 1](https://open.spotify.com/album/2wJzodewcjz6WVkl7FagqE) | 2:25 |
 | 179 | [Tenderness](https://open.spotify.com/track/53BFiLHuxSjn6o9f1bh8M3) | [Alise Ashby](https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF) | [Tenderness](https://open.spotify.com/album/1M8Pjqe2u7XwLgPahzqZJA) | 5:03 |
@@ -288,7 +288,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 278 | [Driftwood](https://open.spotify.com/track/3ZLvf47bCxxfOzNy2RUMaF) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Lighthouse](https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e) | 2:46 |
 | 279 | [Uhre Kirke](https://open.spotify.com/track/0aAXobe9TRTIzy54tuuSth) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Uhre Kirke](https://open.spotify.com/album/677gcmWTyohc3Oe5gZQjNd) | 3:35 |
 | 280 | [What Comes Next](https://open.spotify.com/track/3pklbfnNNGUJcZRrUNPfgy) | [Michael Martinez](https://open.spotify.com/artist/5xU9fGVJjEudolpIPCqg4w), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [What Comes Next](https://open.spotify.com/album/12PFAMlnvZpHBMi7Tpp64S) | 3:30 |
-| 281 | [introspection](https://open.spotify.com/track/6KIXw25B3saNpjVrVbNnp5) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [introspection](https://open.spotify.com/album/3ooMRSRwCMeD9o60O9xW5A) | 1:49 |
+| 281 | [introspection](https://open.spotify.com/track/6KIXw25B3saNpjVrVbNnp5) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl), [vibe](https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0) | [introspection](https://open.spotify.com/album/3ooMRSRwCMeD9o60O9xW5A) | 1:49 |
 | 282 | [Hampen Sø \- Take 2](https://open.spotify.com/track/5jadWIA2bHDcVfHxpQvQYQ) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Where You Are](https://open.spotify.com/album/62KDZb7hiNJlqFslBODzTR) | 6:59 |
 | 283 | [Escape](https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS) | [Kilgore Doubtfire](https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr) | [Escape](https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ) | 4:40 |
 | 284 | [Uhre Kirke \- Take 5](https://open.spotify.com/track/5JTuOIoBRsTt2IsF0M7DCz) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Where You Are](https://open.spotify.com/album/62KDZb7hiNJlqFslBODzTR) | 6:15 |

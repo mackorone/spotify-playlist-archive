@@ -9761,6 +9761,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165961,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U"
+    },
+    {
+      "album": {
         "name": "Stay Together (Baby Baby) [feat. Vula]",
         "url": "https://open.spotify.com/album/3RqBN822NxPDfCa6D7j33i"
       },
@@ -9872,7 +9890,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 148799,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/0JWDYfnOtq6ku2f1ZHPSCz"

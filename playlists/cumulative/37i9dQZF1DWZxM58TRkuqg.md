@@ -2,7 +2,7 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Andi Rianto, Lyodra, Rony Parulian
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Noah, Ramengvrl
 
 340 songs - 22 hr 33 min
 

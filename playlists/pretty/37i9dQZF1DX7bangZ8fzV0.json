@@ -1,34 +1,34 @@
 {
-  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA?si=2RFIZKXWRUi26T4BR6TXOg\">Ivan Roux</a> ",
-  "num_followers": 123544,
+  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C?si=EzjDN6nzQSuKRiGQLcXlOg\">Wentzel</a> ",
+  "num_followers": 123581,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9yP6gAAAABBmegzrgL7pH9q3lOqJeDr",
+  "snapshot_id": "Z+XKggAAAAB+ZnqpJIutvo80MPUGxPCw",
   "tracks": [
     {
       "added_at": "2025-03-20 22:00:10",
       "album": {
-        "name": "Pitte",
-        "url": "https://open.spotify.com/album/6Rb1q0mdQ31thBPrlO7UQq"
+        "name": "Help 'n Bietjie",
+        "url": "https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ"
       },
       "artists": [
         {
-          "name": "Ivan Roux",
-          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Pitte",
-      "url": "https://open.spotify.com/track/6pAA17mpMNN7UfEzEDMTu5"
+      "duration_ms": 198000,
+      "name": "Help 'n Bietjie",
+      "url": "https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4"
     },
     {
       "added_at": "2025-03-20 22:00:10",
       "album": {
-        "name": "Hart Breek",
-        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
+        "name": "Die Mooi In Jou",
+        "url": "https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt"
       },
       "artists": [
         {
@@ -36,25 +36,9 @@
           "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
         }
       ],
-      "duration_ms": 200347,
-      "name": "Hart Breek",
-      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
-    },
-    {
-      "added_at": "2025-03-20 22:00:10",
-      "album": {
-        "name": "Heito Potato",
-        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 217342,
-      "name": "Heito Potato",
-      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+      "duration_ms": 199250,
+      "name": "Die Mooi In Jou",
+      "url": "https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK"
     },
     {
       "added_at": "2025-03-20 22:00:10",
@@ -71,6 +55,22 @@
       "duration_ms": 178669,
       "name": "Stoom",
       "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
+    },
+    {
+      "added_at": "2025-03-20 22:00:10",
+      "album": {
+        "name": "Heito Potato",
+        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 217342,
+      "name": "Heito Potato",
+      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
     },
     {
       "added_at": "2025-03-20 22:00:10",
@@ -123,8 +123,8 @@
     {
       "added_at": "2025-03-20 22:00:10",
       "album": {
-        "name": "Die Mooi In Jou",
-        "url": "https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt"
+        "name": "Hart Breek",
+        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
         }
       ],
-      "duration_ms": 199250,
-      "name": "Die Mooi In Jou",
-      "url": "https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK"
+      "duration_ms": 200347,
+      "name": "Hart Breek",
+      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
     },
     {
       "added_at": "2025-03-20 22:00:10",
@@ -219,6 +219,22 @@
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
+    },
+    {
+      "added_at": "2025-03-20 22:00:10",
+      "album": {
+        "name": "Pitte",
+        "url": "https://open.spotify.com/album/6Rb1q0mdQ31thBPrlO7UQq"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Pitte",
+      "url": "https://open.spotify.com/track/6pAA17mpMNN7UfEzEDMTu5"
     },
     {
       "added_at": "2025-03-20 22:00:10",
@@ -339,22 +355,6 @@
       "duration_ms": 213461,
       "name": "Sterre",
       "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
-    },
-    {
-      "added_at": "2025-03-20 22:00:10",
-      "album": {
-        "name": "Help 'n Bietjie",
-        "url": "https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Help 'n Bietjie",
-      "url": "https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4"
     },
     {
       "added_at": "2025-03-20 22:00:10",

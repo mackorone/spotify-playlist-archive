@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Lauryyn in cover della playlist dell'R&B italiano 🎧
+> Sissi in cover della playlist dell'R&B italiano 🎧
 
-740 songs - 1 day 12 hr 41 min
+743 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [ACAB \(Amami Come Ameresti Bambi\) \(feat\. Willie Peyote\)](https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/5tx0yaRmuyoBbWf4RnorOv) | 3:20 | 2024-04-12 | 2024-04-16 |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-05 | 2022-06-10 |
 | [Acqua Calma](https://open.spotify.com/track/6NccmfD7OI6arg2C6oZCwk) | [Ale](https://open.spotify.com/artist/4H65GddFK5t9XF60MtbVCX) | [Acqua Calma](https://open.spotify.com/album/71jeIpJNmUPD9K1eZ7b2hA) | 3:13 | 2024-05-09 | 2024-06-14 |
+| [Acqua Minerale](https://open.spotify.com/track/5GtPxUha4OOD8nJd5OivDC) | [Yna](https://open.spotify.com/artist/2c6DcIhUo15Ry8pZ7PPfau) | [Acqua Minerale](https://open.spotify.com/album/5mpTGhBlmd5swIoRlGL2cs) | 2:31 | 2025-03-27 |  |
 | [Acquario & Scorpione](https://open.spotify.com/track/6gafnI4O74FPg2l78XZEgl) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Acquario & Scorpione](https://open.spotify.com/album/4cDyy2xlGdSLJSevWQosQn) | 2:51 | 2023-04-13 | 2024-02-23 |
 | [Ad Occhi Aperti](https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj) | [Anita Cane Violins](https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP) | [Ad Occhi Aperti](https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47) | 4:03 | 2024-06-20 | 2024-07-19 |
 | [AKEREKORÈ](https://open.spotify.com/track/6iVfvR1NkJR4dWOABIwIAA) | [Big Dave](https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST), [Giordano Dan](https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk) | [AKEREKORÈ](https://open.spotify.com/album/4SzYPXiLmPTm9p2izNCzeV) | 3:55 | 2024-07-11 |  |
@@ -354,6 +355,7 @@
 | [Limbo](https://open.spotify.com/track/05kYCKcmfgsiEXAKR2ZwHW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Limbo](https://open.spotify.com/album/5q8Q4Ir8D1yVVqGaB4oCzQ) | 3:53 | 2022-10-06 | 2023-02-03 |
 | [Limite](https://open.spotify.com/track/1HYwX6zxcel9LD2ej5QEGR) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL) | [Limite](https://open.spotify.com/album/03InZ9HBmYZswI4ZAmaz4j) | 2:58 | 2023-06-08 | 2023-09-15 |
 | [Linea Di Confine](https://open.spotify.com/track/6GOevvSsRfxM2i8yF5m9nR) | [Corinna](https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6) | [Linea Di Confine](https://open.spotify.com/album/0qg4LEl3ZZ46kGNrw3eiQT) | 3:14 | 2024-06-06 | 2024-08-02 |
+| [LIVIDO](https://open.spotify.com/track/0nVPZY5rV3DjEAWlMRJsZg) | [LALA](https://open.spotify.com/artist/0GAwP5umLMloA0CjmqAXdt) | [LIVIDO](https://open.spotify.com/album/5YpTMbQOuVbNMas1vlb1Ky) | 3:22 | 2025-03-27 |  |
 | [Lo Sguardo Degli Angeli](https://open.spotify.com/track/1wql7SfwYxxTpjTIUtL63K) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Lo Sguardo Degli Angeli](https://open.spotify.com/album/2sPXbn73Q5fK4DN8sCqj5C) | 2:41 | 2022-06-16 | 2022-07-29 |
 | [Lo\-Fi Love](https://open.spotify.com/track/6CYmeURWTreGKriMFHcPiV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Lo\-Fi Love](https://open.spotify.com/album/7wABqEPQRQxxIpc5Ng3i4r) | 3:40 | 2022-05-19 | 2023-01-27 |
 | [Logico](https://open.spotify.com/track/3EVJI76wxQWE410QSDGtcH) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Logico](https://open.spotify.com/album/6IypNihBpby9NiEFHNVIfY) | 3:48 | 2023-12-14 | 2024-01-05 |
@@ -437,6 +439,7 @@
 | [No Love](https://open.spotify.com/track/6BsRHAOiyM0EULpcTjf91l) | [Wako](https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [No Love](https://open.spotify.com/album/3klV0mhxXPHdn2pq8gjNDo) | 2:56 | 2022-06-16 | 2023-01-13 |
 | [No Me Llames](https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [No Me Llames](https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06) | 2:24 | 2024-07-18 | 2024-11-15 |
 | [Noia](https://open.spotify.com/track/2IPh5TOBaceM7zN0tgyfIi) | [ODE](https://open.spotify.com/artist/2bCbnuMUNA0M1eqHg3olJI) | [Noia](https://open.spotify.com/album/559uzFoPZVrroVomDdRjUY) | 2:47 | 2022-12-15 | 2023-02-03 |
+| [Non avessi più](https://open.spotify.com/track/0K8apQLwCWuzLel5gIewHs) | [Le Nora](https://open.spotify.com/artist/0XhZn5naaUOBbwYMSczxXC) | [Non avessi più](https://open.spotify.com/album/0BpdAWAXwM7032jGtk0e5P) | 3:28 | 2025-03-27 |  |
 | [Non c'è mai un per sempre](https://open.spotify.com/track/1SVRjIVG0yb7AEBW7TV149) | [Kiko](https://open.spotify.com/artist/2eLx8jWFI7STB9AUrpQnpm) | [Non c'è mai un per sempre](https://open.spotify.com/album/4W9KCdnhl9CZiiWOjWm4QC) | 2:33 | 2024-09-26 | 2024-12-13 |
 | [Non c'è vino](https://open.spotify.com/track/6jppOX6H6bwKOKDwPhX3Lt) | [Asiabel](https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7) | [Non c'è vino](https://open.spotify.com/album/6jeY2nHztiXwdq1of0IyKa) | 4:00 | 2023-11-30 | 2024-04-16 |
 | [non ce la faccio più](https://open.spotify.com/track/156ef7hqu2bt0yxsIPZI6h) | [fil](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [non ce la faccio più](https://open.spotify.com/album/4lUKkHUG1gzBH2AMszrcnf) | 2:28 | 2024-05-16 | 2024-10-25 |

@@ -1009,6 +1009,32 @@
     },
     {
       "album": {
+        "name": "Get By (Zero T Remix)",
+        "url": "https://open.spotify.com/album/2L48qiM0kdeX0Z7uLtGifj"
+      },
+      "artists": [
+        {
+          "name": "DPR",
+          "url": "https://open.spotify.com/artist/5w4tsuCV9Pt2iFU1mhD4Nl"
+        },
+        {
+          "name": "Luke Truth",
+          "url": "https://open.spotify.com/artist/0WbTHyRYTNOgr1V7vjbaSq"
+        },
+        {
+          "name": "Zero T",
+          "url": "https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244378,
+      "name": "Get By - Zero T Remix",
+      "url": "https://open.spotify.com/track/5IIU0Fi67a8gwnXbZoXvtd"
+    },
+    {
+      "album": {
         "name": "Aperture EP",
         "url": "https://open.spotify.com/album/0XH4qOQY0OJ57DJWPEmGHo"
       },

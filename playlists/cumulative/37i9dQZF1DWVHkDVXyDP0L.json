@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "B-52's Tattoo",
+        "url": "https://open.spotify.com/album/6xKuPMBN4U5tRBJqgwLd0K"
+      },
+      "artists": [
+        {
+          "name": "Bachelor Pad",
+          "url": "https://open.spotify.com/artist/2wdejaTVDz83UtnQAedfTz"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224890,
+      "name": "B-52's Tattoo",
+      "url": "https://open.spotify.com/track/1G9StKCgczy7EiJNGk5bst"
+    },
+    {
+      "album": {
         "name": "BABYMAN",
         "url": "https://open.spotify.com/album/3LMtIYgD4rorW666pMFqbc"
       },
@@ -698,6 +716,24 @@
       "duration_ms": 164366,
       "name": "Big Think",
       "url": "https://open.spotify.com/track/6dHarIpfoSBGnP6I1jFHVU"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Nothing",
+        "url": "https://open.spotify.com/album/7niafffT91hPJXNg6TvS8W"
+      },
+      "artists": [
+        {
+          "name": "BIIG TIME",
+          "url": "https://open.spotify.com/artist/5HiF4BnJawxdP3cSHKWFu8"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200613,
+      "name": "Bigger Than Nothing",
+      "url": "https://open.spotify.com/track/6B0EJfiq9ayR8bOqNJ5pHA"
     },
     {
       "album": {
@@ -1324,10 +1360,28 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 217914,
       "name": "City Limits",
       "url": "https://open.spotify.com/track/7sEDFfSn2m88Clrjq8V8Sv"
+    },
+    {
+      "album": {
+        "name": "Close Proximity",
+        "url": "https://open.spotify.com/album/25Ka8Q4ZBwMLCBnRM4Enrp"
+      },
+      "artists": [
+        {
+          "name": "Chitra",
+          "url": "https://open.spotify.com/artist/1zjwHxjhMPXp4nrWwL9hwM"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206911,
+      "name": "Close Proximity",
+      "url": "https://open.spotify.com/track/34nCjUuPCn57m76m7QYVYe"
     },
     {
       "album": {
@@ -2240,7 +2294,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 333498,
       "name": "Everybody's Listening to the Radio Now",
       "url": "https://open.spotify.com/track/4xND9G228rS05OJ7XmQpPr"
@@ -3515,6 +3569,28 @@
     },
     {
       "album": {
+        "name": "Hurlstone Park",
+        "url": "https://open.spotify.com/album/6rde1mAD1xi1vfMlZhUYHd"
+      },
+      "artists": [
+        {
+          "name": "Cody Munro Moore",
+          "url": "https://open.spotify.com/artist/76LfvWJ9SYMkhovOhDzxyn"
+        },
+        {
+          "name": "Charles Rushforth",
+          "url": "https://open.spotify.com/artist/5IPg4E2yiwGYEMGcOfKKsj"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200991,
+      "name": "Hurlstone Park",
+      "url": "https://open.spotify.com/track/5chs2Pm4tOiye2143iWVFU"
+    },
+    {
+      "album": {
         "name": "Forgiving Spree",
         "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
       },
@@ -3800,7 +3876,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 252446,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/6yAzXAcR2tlrCH59qxkC0S"
@@ -5224,7 +5300,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 237405,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/6R7RYIpagtAYuv7SVkzn0B"
@@ -5332,7 +5408,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 199272,
       "name": "On Show",
       "url": "https://open.spotify.com/track/0agGCcwt41TA8i6quuwhe7"
@@ -6150,7 +6226,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 472503,
       "name": "Recall",
       "url": "https://open.spotify.com/track/09NfL64sOWQx7EM0HUe8Cj"
@@ -6312,7 +6388,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 210620,
       "name": "Road Rage",
       "url": "https://open.spotify.com/track/2oqS42cUvvGe6RyLcxPzOl"
@@ -7353,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172228,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
+    },
+    {
+      "album": {
         "name": "Sungazer",
         "url": "https://open.spotify.com/album/33m5p7mMPChIrI8GPwcpoA"
       },
@@ -8261,6 +8355,28 @@
     },
     {
       "album": {
+        "name": "Ill Times (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47mEyfKfIOcqiD5UfD42jS"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218204,
+      "name": "Uncharted Waters",
+      "url": "https://open.spotify.com/track/4twKmUEECPq706wh3UK0iy"
+    },
+    {
+      "album": {
         "name": "Vacant State",
         "url": "https://open.spotify.com/album/7rQ8aoU5W54WXVGyJjFVWl"
       },
@@ -8402,6 +8518,24 @@
       "duration_ms": 172991,
       "name": "Weather's Better",
       "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
+    },
+    {
+      "album": {
+        "name": "Weird World Awoke",
+        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200935,
+      "name": "Weird World Awoke",
+      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
     },
     {
       "album": {

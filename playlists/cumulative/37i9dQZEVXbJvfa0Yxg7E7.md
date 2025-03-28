@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,090 songs - 4 day 12 hr 34 min
+2,091 songs - 4 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1410,7 +1410,8 @@
 | [Operahuset](https://open.spotify.com/track/6A6RNVsEKQQJFaK4zKzevw) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Operahuset](https://open.spotify.com/album/3JSCwYW1X9hiowxDOIUa8V) | 3:15 | 2024-03-23 | 2024-03-29 |
 | [OPP I BAKKEN](https://open.spotify.com/track/0imwUR7oy4kgX2IjMoLPDy) | [Henrik von Grogg](https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx), [Henrik Viken](https://open.spotify.com/artist/1X6PpxnCUPaBW9dFnckNO3) | [OPP I BAKKEN](https://open.spotify.com/album/5TnjCPKIXVQ4HvC4rTmZd4) | 2:31 | 2023-01-28 | 2023-03-08 |
 | [Oppmerksomhet](https://open.spotify.com/track/6b02mOA9cRfwiX69pFuXUo) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Oppmerksomhet](https://open.spotify.com/album/5KsGoGVrh2iLnmKUTTl133) | 2:57 | 2022-11-12 | 2023-03-05 |
-| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 |  |
+| [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-03-27 |  |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 | 2025-03-28 |
 | [Oslo](https://open.spotify.com/track/4EOLup0n2Cr584xDwMzL6t) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oslo](https://open.spotify.com/album/2EzJfJUVlocpqvLo37MCy7) | 2:37 | 2023-09-02 | 2023-09-04 |
 | [oslo](https://open.spotify.com/track/5GEkZwMVEbHvoEZU9cZtWl) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [oslo](https://open.spotify.com/album/6qHiqR5IpTtRHkQl7Ulfum) | 2:15 | 2024-01-15 | 2024-01-28 |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-05-23 | 2021-05-24 |

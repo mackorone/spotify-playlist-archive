@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: KEO
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,894 likes - 83 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,900 likes - 83 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

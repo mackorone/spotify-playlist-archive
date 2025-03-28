@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Wika Salim, Danang
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-232 songs - 18 hr 14 min
+235 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bagaikan Pohon Tumbang](https://open.spotify.com/track/4tCohy6Vn1HjkETV2Ycis4) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Bagaikan Pohon Tumbang](https://open.spotify.com/album/2LEt2hpwsalwWYyKpnpsU8) | 4:03 | 2023-08-24 |  |
 | [Bahagia Pada Waktunya](https://open.spotify.com/track/4VdPv2wNafmltiIUQ2Ozju) | [Aldo Jm](https://open.spotify.com/artist/5xSJF52xAPQzfWiueorurd), [Rara Salsabila](https://open.spotify.com/artist/1GBLYFM6sriYtTwtd4s4Ls) | [Bahagia Pada Waktunya](https://open.spotify.com/album/5CAgKCqYH22qUh3q1G7ITV) | 5:49 | 2023-08-03 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-08-23 | 2022-10-14 |
+| [Bapakku Dokter Cinta \- Live Ska Reggae](https://open.spotify.com/track/2Xo7dpTyR0zPdghMFMxNtt) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bapakku Dokter Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/44I1Y0Tgg5CBY9RcX3RiLH) | 4:28 | 2025-03-27 |  |
 | [Benci Kusangka Sayang \- \(Live Ska Reggae\)](https://open.spotify.com/track/2VMIERDmzhzJzs85OzeE1H) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Benci Kusangka Sayang \(Live Ska Reggae\)](https://open.spotify.com/album/6ZLsFmsuXMaBeDp7PJXMHE) | 5:32 | 2024-04-18 | 2024-07-19 |
 | [Berkali Kali](https://open.spotify.com/track/7IdldNjrbzAkIqbNTxdIkG) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Berkali Kali](https://open.spotify.com/album/50SA5Tv7HcZFazNSX4EANu) | 6:27 | 2024-05-30 |  |
 | [Bersama Bukan Maumu \- Live At Ska Reggae](https://open.spotify.com/track/6hi2tlD0MUqJARWtlv2863) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bersama Bukan Maumu \(Live At Ska Reggae\)](https://open.spotify.com/album/1iWujizBKnwUWwSyojZIzJ) | 4:59 | 2023-12-14 | 2024-03-15 |
@@ -55,6 +56,7 @@
 | [Dalan Liyane](https://open.spotify.com/track/14DyVmkBiTzhcGQg1udF9o) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/25k6Y3OXSiOk4LBthG4Qjb) | 4:16 | 2021-08-23 | 2023-03-02 |
 | [Dalan Liyane](https://open.spotify.com/track/2PHWOjXO7lhh0Nlaa8jmoe) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/7KZw8TKU5XJyw2dLVUCSs8) | 4:16 | 2023-02-16 | 2023-07-14 |
 | [Dalan Liyane](https://open.spotify.com/track/3o9aRNDVtfpw4JtramprZx) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Dalan Liyane](https://open.spotify.com/album/7oNL1mQRBJyqK5U94WCNAg) | 4:32 | 2021-08-23 | 2024-02-16 |
+| [Dambaan Hati](https://open.spotify.com/track/0t283lsPXtiKa23G9sU20W) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz) | [Dambaan Hati](https://open.spotify.com/album/0JU5xV3Nv9uB0FUAmIblyi) | 5:56 | 2025-03-27 |  |
 | [Dawai](https://open.spotify.com/track/4lhPpYQw7bFdDtbIc1vAe7) | [Ficky Felari](https://open.spotify.com/artist/1D7Op74O2J91xxiPs90nsr) | [Dawai](https://open.spotify.com/album/3tic5vMOsBs33sStkVUvta) | 4:39 | 2024-03-22 |  |
 | [Demi Kowe](https://open.spotify.com/track/4g3vLzLkRxMEecxiIl12so) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Demi Kowe](https://open.spotify.com/album/2DF8m8378NlyK2vRmwpBfj) | 4:39 | 2021-08-23 | 2023-07-14 |
 | [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 | 2023-07-27 | 2023-12-15 |
@@ -208,6 +210,7 @@
 | [Singget](https://open.spotify.com/track/0I2YNuPlmHa6TRB2zMYEgk) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Mencla Mencle](https://open.spotify.com/album/6hWZu25i1sVgsbLxn0phE5) | 4:48 | 2021-08-23 | 2023-04-01 |
 | [Suci \- Live At Ska Reggae](https://open.spotify.com/track/6FDjmD8pvkNPy5YBAy3tl9) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Suci \(Live At Ska Reggae\)](https://open.spotify.com/album/6dZ9I20Muk6DnDfVWHwNlI) | 5:38 | 2024-09-26 | 2024-10-18 |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2021-08-23 | 2024-02-09 |
+| [Sumarak Hari Rayo](https://open.spotify.com/track/47bMTt9i80ItR2UDsfWNrU) | [Eja S.M](https://open.spotify.com/artist/35qFgLkoo69ZDtHOW6NmBZ), [Andri Dharma](https://open.spotify.com/artist/2x22lu9EfEDpUjwdh8dRfs) | [Sumarak Hari Rayo](https://open.spotify.com/album/2dfPLKieQj4NverYF57xBD) | 5:23 | 2025-03-27 |  |
 | [Suratan](https://open.spotify.com/track/7rEx000N7r1YF095T1195J) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA), [Risa Amel](https://open.spotify.com/artist/6pqO787uECZjC2ZfLOi9QU) | [Suratan](https://open.spotify.com/album/3MaaepFhcUUuHPmSAq3IUD) | 5:10 | 2024-10-04 |  |
 | [Surgaku](https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Surgaku](https://open.spotify.com/album/4ItlHPYdgaJuYN5MD1tlm0) | 5:33 | 2023-03-30 |  |
 | [Syair Bidadari](https://open.spotify.com/track/1HcovJlkDKYmC8XFS6yT2k) | [LitaLy](https://open.spotify.com/artist/0GaVYWWQgbhglhWmMphflr) | [Syair Bidadari](https://open.spotify.com/album/3St0I5wMX7cCcuz2tqgk1d) | 4:29 | 2024-03-22 | 2024-09-27 |

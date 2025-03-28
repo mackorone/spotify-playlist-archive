@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Bolivard",
+  "description": "The best French indie tracks right now. Cover : Peter Dallas",
   "name": "Made in France",
   "tracks": [
     {
@@ -7053,6 +7053,24 @@
     },
     {
       "album": {
+        "name": "Navy Blue",
+        "url": "https://open.spotify.com/album/6EPXWoxJqROrra0R8SUAoj"
+      },
+      "artists": [
+        {
+          "name": "Jade Lux",
+          "url": "https://open.spotify.com/artist/6b6SsFJXGT6KCDPcI1trW5"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235750,
+      "name": "Navy Blue",
+      "url": "https://open.spotify.com/track/1mlyu8XFuu1iHqMZ2IaZB7"
+    },
+    {
+      "album": {
         "name": "Ne t'en fais pas",
         "url": "https://open.spotify.com/album/0t4iqjZlEERcP27LBQpMvJ"
       },
@@ -11254,7 +11272,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 191992,
       "name": "Yeux Mouill\u00e9s",
       "url": "https://open.spotify.com/track/0YYwIhNaJbBwwvifbjZwck"

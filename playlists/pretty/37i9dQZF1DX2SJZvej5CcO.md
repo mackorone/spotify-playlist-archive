@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SJZvej5CcO.md) - [plain]
 
 > Apasiónate con sus éxitos en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,087 likes - 103 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,111 likes - 103 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

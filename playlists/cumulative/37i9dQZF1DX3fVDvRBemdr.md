@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten
 
-266 songs - 13 hr 4 min
+267 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Blauwe Plekken](https://open.spotify.com/track/38uMqZZ9ms5cVbrOwJyQBT) | [Raoel](https://open.spotify.com/artist/0BMgHUFkZZAdzv6VNXoIv4) | [Blauwe Plekken](https://open.spotify.com/album/72aNDQTfy9CMFbFFA0ZZRJ) | 2:51 | 2024-10-10 | 2024-11-08 |
 | [Blijf Bij Mij](https://open.spotify.com/track/4a3k5MpyuTYfAWiZknc0bj) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Blijf Bij Mij](https://open.spotify.com/album/3pipl4FxxkmuTJdZYYlwI8) | 2:21 | 2024-06-13 | 2024-09-06 |
 | [Blijf Nog Even Open](https://open.spotify.com/track/6SCRUa7JgPJsipP9HaWUKF) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Blijf Nog Even Open](https://open.spotify.com/album/1917AO9yTHNS06uTepMmVW) | 2:42 | 2024-06-13 | 2024-11-05 |
-| [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 | 2024-09-26 |  |
+| [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 | 2024-09-26 | 2025-03-28 |
 | [Breng Mij Haar Terug 2.0](https://open.spotify.com/track/5FTJMcXucbckFw56yFwcWA) | [Mannes](https://open.spotify.com/artist/19YKFbXG9Gj6RwcUyEyRI5) | [Breng Mij Haar Terug 2.0](https://open.spotify.com/album/3VlyoTh18zv550jRfFolNy) | 3:13 | 2024-10-03 | 2025-02-28 |
 | [Brussel](https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Brussel](https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z) | 2:50 | 2024-09-19 | 2024-12-13 |
 | [Buona Sera](https://open.spotify.com/track/2m5T7Fn0PyGZpxZYa0jEnC) | [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Wesley Broens](https://open.spotify.com/artist/7louP9Nui5MDT4y6Oy45IH) | [Buona Sera](https://open.spotify.com/album/0ERM7CbBalsGGF9fdAw0dy) | 3:23 | 2024-06-13 | 2024-09-13 |
@@ -100,7 +100,7 @@
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-08-01 | 2025-01-11 |
 | [Hoog in de hemel](https://open.spotify.com/track/5eMSAj27F2kmM5PzwJCmo0) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Hoog in de hemel](https://open.spotify.com/album/3f54yirH59AMEfLu5RjYMK) | 2:54 | 2025-02-27 |  |
 | [Hou me vast](https://open.spotify.com/track/1W6FvzWv11decQuYPkHPyB) | [Quincy](https://open.spotify.com/artist/4fRfbdOrNz7rMisq8Ff78c) | [Hou me vast](https://open.spotify.com/album/7jVSueTIpVROWGqkyAa0gU) | 3:36 | 2024-06-13 | 2024-07-19 |
-| [Ik Ben Een Dromer](https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Ik Ben Een Dromer](https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A) | 2:54 | 2024-11-28 |  |
+| [Ik Ben Een Dromer](https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Ik Ben Een Dromer](https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A) | 2:54 | 2024-11-28 | 2025-03-28 |
 | [Ik Heb Het Altijd Al Geweten](https://open.spotify.com/track/2njW15Fh9UeTzEFof6FTVY) | [Sani van Mullem](https://open.spotify.com/artist/37xCqbiUuhlWWEfPsjJe0O) | [Ik Heb Het Altijd Al Geweten](https://open.spotify.com/album/1eojJp3XzyKFnRuCRKeNYZ) | 3:04 | 2025-01-23 |  |
 | [Ik heb me eventjes flink laten gaan](https://open.spotify.com/track/7GVIsuE4FdvG1yF27LVko5) | [Jessy Arjaans](https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT) | [Ik heb me eventjes flink laten gaan](https://open.spotify.com/album/2BXjM0r6UJxtuy5fVtRYUn) | 3:02 | 2024-09-05 | 2025-01-11 |
 | [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 | 2024-11-04 | 2025-03-08 |
@@ -197,6 +197,7 @@
 | [Proosten](https://open.spotify.com/track/7h2Qe5LqSK0Eg055lWoF6w) | [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Proosten](https://open.spotify.com/album/4GYvBbBYibkCB4QDlKB23c) | 3:09 | 2025-01-10 |  |
 | [Que Sera Sera](https://open.spotify.com/track/40gYeIhatKeszARNvMAGvX) | [Dennis Jones](https://open.spotify.com/artist/1yX3XZMzhkLPR66FrbG5o2) | [Que Sera Sera](https://open.spotify.com/album/3s7qJcee0OnLeeZrKD3907) | 3:35 | 2024-06-20 | 2024-08-30 |
 | [Rad van Fortuin](https://open.spotify.com/track/2svKnbJyLGfyRtcwRDbIUB) | [Jessy Arjaans](https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT) | [Rad van Fortuin](https://open.spotify.com/album/4glskiU08ok4FTiyphg201) | 2:22 | 2025-03-07 |  |
+| [Ruud & Mieke](https://open.spotify.com/track/0oen0qWr9cBEbkytniF5gF) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Ruud & Mieke](https://open.spotify.com/album/5ACmcbFkvQUNmthG07qRBw) | 2:45 | 2025-03-27 |  |
 | [Samen Met Jou](https://open.spotify.com/track/6o2UAH25pOQPyqCrirQyMi) | [Ron Tas](https://open.spotify.com/artist/7yY8Me5jIOeTmOdswNeaDl) | [Samen Met Jou](https://open.spotify.com/album/2qUbHG3ZCZSJmVQPGpp7ob) | 3:18 | 2024-12-06 | 2025-01-07 |
 | [Samen Niet Alleen](https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Samen Niet Alleen](https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n) | 2:50 | 2024-11-19 | 2025-03-14 |
 | [Sangria](https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Sangria](https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H) | 2:36 | 2024-08-01 | 2025-02-08 |

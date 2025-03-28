@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,001 likes - 350 songs - 12 hr 13 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,994 likes - 350 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,7 +217,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 207 | [If You Were Here](https://open.spotify.com/track/3jFXQ83qHcUPpzJY0JlKCB) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [If You Were Here](https://open.spotify.com/album/3kntQKsqRLcHyW3Oj1LlCs) | 1:58 |
 | 208 | [Jazzed](https://open.spotify.com/track/55xSVfz2ELvkg9bVhbOUwk) | [!Noj](https://open.spotify.com/artist/4AC0ibnAApmxIw1MEFLKyW) | [Jazzed](https://open.spotify.com/album/34giE3qAJUAMakHrhSSOay) | 2:11 |
 | 209 | [Heavy Rain](https://open.spotify.com/track/3EtkVYrlvXFtZ1l0roJVrJ) | [Kisin Bayes](https://open.spotify.com/artist/2tY6lhdLXkApegY0Lqf4N9), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Oleh Baturinskyi](https://open.spotify.com/artist/4K7ZAgj8igq6J7PVcU04bp) | [Heavy Rain](https://open.spotify.com/album/31To5YZpxmKVPcsDbZRimw) | 2:00 |
-| 210 | [her](https://open.spotify.com/track/4BJVLRqGjQVcMTFPH3PTht) | [Psylone](https://open.spotify.com/artist/1VsZq5rWtH7U1E3M2lpud2), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [her](https://open.spotify.com/album/53AJhhEhEhnbtKQThi2dhO) | 2:09 |
+| 210 | [her](https://open.spotify.com/track/4BJVLRqGjQVcMTFPH3PTht) | [Psylone](https://open.spotify.com/artist/1VsZq5rWtH7U1E3M2lpud2), [vibe](https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0) | [her](https://open.spotify.com/album/53AJhhEhEhnbtKQThi2dhO) | 2:09 |
 | 211 | [Boat Trip](https://open.spotify.com/track/5aKZrTZgeWgRosYRuDqxUx) | [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Boat Trip](https://open.spotify.com/album/3XGcu7IOfIEbieLt0QBtaJ) | 2:25 |
 | 212 | [Lavender Steps](https://open.spotify.com/track/03j843zI3BsDvBvNYPq1wf) | [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ), [Camel Club](https://open.spotify.com/artist/0DnMTgzJhXU3qGNGFuYY3q) | [Lavender Steps](https://open.spotify.com/album/3i4XSbACe5XtZKEYpFrEff) | 1:46 |
 | 213 | [Good Times](https://open.spotify.com/track/1NQYM76J37RyD58mpmWeKg) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Good Times](https://open.spotify.com/album/4YGJCQMyjaXd2WxreV7qSi) | 2:24 |

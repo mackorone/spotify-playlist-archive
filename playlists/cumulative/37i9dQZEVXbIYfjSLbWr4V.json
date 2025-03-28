@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 191093,
       "name": "ESCAPE (Bang Chan & Hyunjin)",
       "url": "https://open.spotify.com/track/3azJdRk8qSuApz5irmde3R"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 191093,
       "name": "ESCAPE (Bang Chan & Hyunjin)",
       "url": "https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K"
@@ -4856,7 +4856,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 172952,
       "name": "Sweet Dreams (feat. Miguel)",
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
@@ -7706,7 +7706,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 182410,
       "name": "\u043c\u0430\u043b\u044c\u0447\u0438\u043a",
       "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"
@@ -8758,7 +8758,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 246743,
       "name": "\u041f\u041e\u0420\u041d\u0425\u0410\u0411 \u041a\u0420\u0418\u0421\u041c\u0410\u0421 \u041a\u041b\u0410\u0411",
       "url": "https://open.spotify.com/track/5jgFvROeP9DlLl9dMHQEtw"
@@ -8776,7 +8776,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -8924,7 +8924,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 176409,
       "name": "\u041f\u0440\u043e\u0442\u0438\u0432 \u0446\u0430\u0440\u044f",
       "url": "https://open.spotify.com/track/0DvM6OhAMflNe8RqtPpnie"
@@ -9814,6 +9814,24 @@
       "duration_ms": 149610,
       "name": "\u0422\u0430 \u0441\u0430\u043c\u0430\u044f..",
       "url": "https://open.spotify.com/track/18HwUgVarANeJL1rBczV9Z"
+    },
+    {
+      "album": {
+        "name": "sexyswag",
+        "url": "https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc"
+      },
+      "artists": [
+        {
+          "name": "madk1d",
+          "url": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "\u0442\u0430\u043a \u043f\u043e\u0445\u0443\u0439",
+      "url": "https://open.spotify.com/track/1dpHnn6eh4Pz55UproSdJv"
     },
     {
       "album": {

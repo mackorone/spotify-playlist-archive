@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 107484,
+  "num_followers": 107490,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "enero (versi\u00f3n ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        },
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 206143,
-      "name": "enero - versi\u00f3n ac\u00fastica",
-      "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -543,6 +523,42 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
+        "name": "enero (versi\u00f3n ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "enero - versi\u00f3n ac\u00fastica",
+      "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
         "name": "Coraz\u00f3n Extra\u00f1o",
         "url": "https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 176009,
       "name": "Coraz\u00f3n Extra\u00f1o",
       "url": "https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Que te hizo ir",
-        "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Que te hizo ir",
-      "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 152405,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Que te hizo ir",
+        "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Que te hizo ir",
+      "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "balada para el fin del mundo",
-        "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
+        "name": "T\u00fa me quieres m\u00e1s",
+        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
         }
       ],
-      "duration_ms": 161080,
-      "name": "balada para el fin del mundo",
-      "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
+      "duration_ms": 202903,
+      "name": "T\u00fa me quieres m\u00e1s",
+      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "T\u00fa me quieres m\u00e1s",
-        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
+        "name": "balada para el fin del mundo",
+        "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
       },
       "artists": [
         {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 202903,
-      "name": "T\u00fa me quieres m\u00e1s",
-      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
+      "duration_ms": 161080,
+      "name": "balada para el fin del mundo",
+      "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Domingo Escarlata",
-        "url": "https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        },
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Domingo Escarlata",
-      "url": "https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "NI\u00d1A",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -1299,34 +1279,22 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "X AMOR",
-        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+        "name": "Domingo Escarlata",
+        "url": "https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 242755,
-      "name": "X AMOR",
-      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        },
         {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
         }
       ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+      "duration_ms": 229253,
+      "name": "Domingo Escarlata",
+      "url": "https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1351,6 +1319,38 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "X AMOR",
+        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 242755,
+      "name": "X AMOR",
+      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
         "name": "Cu\u00e1ntas Veces M\u00e1s",
         "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Isita Querida",
-        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Isita Querida",
-      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "(re)definiciones",
         "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 166588,
       "name": "otr(a v)ez",
       "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Isita Querida",
+        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
+      },
+      "artists": [
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Isita Querida",
+      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/5U47V2N5iF2ata6zfvFZEN"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 187505,
-      "name": "Pienso en Ti",
-      "url": "https://open.spotify.com/track/6seoRwpChU9ZP3cA2GkjsM"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Escorpio",
         "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 172000,
       "name": "John & Yoko",
       "url": "https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/5U47V2N5iF2ata6zfvFZEN"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 187505,
+      "name": "Pienso en Ti",
+      "url": "https://open.spotify.com/track/6seoRwpChU9ZP3cA2GkjsM"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
+        "name": "Tu Costado M\u00e1s Feroz",
+        "url": "https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb"
+      },
+      "artists": [
+        {
+          "name": "Julieta Zylberberg",
+          "url": "https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5"
+        }
+      ],
+      "duration_ms": 136619,
+      "name": "Tu Costado M\u00e1s Feroz",
+      "url": "https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
         "name": "C\u00f3mo y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 204273,
       "name": "C\u00f3mo y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Tu Costado M\u00e1s Feroz",
-        "url": "https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb"
-      },
-      "artists": [
-        {
-          "name": "Julieta Zylberberg",
-          "url": "https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5"
-        }
-      ],
-      "duration_ms": 136619,
-      "name": "Tu Costado M\u00e1s Feroz",
-      "url": "https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX"
     },
     {
       "added_at": "2025-03-14 03:00:12",

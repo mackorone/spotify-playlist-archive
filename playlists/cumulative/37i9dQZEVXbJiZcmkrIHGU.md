@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-3,246 songs - 6 day 14 hr 22 min
+3,247 songs - 6 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1668,7 +1668,7 @@
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-04-22 | 2021-08-21 |
 | [LEYLA](https://open.spotify.com/track/4nqNgJp5TgbLsBffJj1IPX) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [LEYLA](https://open.spotify.com/album/6t0GhwmfvthBsJh8PFoNQP) | 2:56 | 2022-12-17 | 2022-12-24 |
 | [Licht brennt](https://open.spotify.com/track/4gmYeeV53RzyXDxtlVa4jW) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [Licht brennt](https://open.spotify.com/album/2LBzdqDsf6TfbLwIiy21hG) | 1:49 | 2022-11-26 | 2022-12-03 |
-| [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-02-01 |  |
+| [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-02-01 | 2025-03-28 |
 | [LID](https://open.spotify.com/track/4nV2TbyTbGljX58MKwPxvm) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [LID](https://open.spotify.com/album/7xu89Z7LP22AGNo50xbxbo) | 2:24 | 2024-12-28 | 2025-02-02 |
 | [LID](https://open.spotify.com/track/5U8jvRKKzcc3XjBB2CNZaZ) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [LID](https://open.spotify.com/album/7KAE2VKLE6BMQIvhri7Ylf) | 2:24 | 2024-09-28 | 2024-12-23 |
 | [Lieb mich](https://open.spotify.com/track/4C9bsG159VjOQe0g1RgMi9) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Lieb mich](https://open.spotify.com/album/4274V2AE7IA8tSkhpEGNip) | 3:05 | 2024-02-10 | 2024-03-17 |
@@ -2180,7 +2180,8 @@
 | [OPUS](https://open.spotify.com/track/3btquT03ILrWCKElu233EM) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [OPUS](https://open.spotify.com/album/6pYc76nLsHN88GAqb8dHf4) | 2:15 | 2024-07-06 | 2024-07-16 |
 | [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 | 2023-04-08 | 2023-04-30 |
 | [Ordentlich](https://open.spotify.com/track/4DnHEa1fuf3bn61AwT8Qiv) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Life Changed](https://open.spotify.com/album/5R71PtNXCUYLQoOD0myCCl) | 2:48 | 2021-03-27\* | 2021-04-26 |
-| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 |  |
+| [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-03-27 |  |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 | 2025-03-28 |
 | [Origin](https://open.spotify.com/track/33Aw2F8IUyJ8cWeOblUIvL) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Origin](https://open.spotify.com/album/1L02DPrBMeko72qdHt8Ipb) | 2:09 | 2024-11-02 | 2024-11-05 |
 | [Out Of The Dark](https://open.spotify.com/track/5tJVkABJRZkTq7Dqjv6xiz) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Out Of The Dark](https://open.spotify.com/album/15DqWPxOLxClMpeKXhDGSP) | 2:47 | 2024-08-10 | 2024-09-15 |
 | [Out Of The Woods \(Taylor's Version\)](https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:55 | 2023-10-28 | 2023-10-30 |
@@ -2855,7 +2856,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-03 | 2022-02-16 |
 | [TOXIC](https://open.spotify.com/track/5KQLrmlQBoFM6uFdqHHKZy) | [Musso](https://open.spotify.com/artist/2FyxcdLSH7XqsfJE6Iu0tJ) | [TOXIC](https://open.spotify.com/album/3qPwQg46VCmHthKxkx5vLD) | 2:22 | 2023-06-24 | 2023-06-26 |
 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 | 2025-03-15 | 2025-03-20 |
-| [Toyota \(2016\)](https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Toyota \(2016\)](https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ) | 2:39 | 2024-12-28 | 2025-01-19 |
+| [Toyota \(2016\)](https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Toyota \(2016\)](https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ) | 2:39 | 2024-12-28 |  |
 | [TP](https://open.spotify.com/track/1FjTtzSGSDCecvT8PQrbeo) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Tirana EP 1](https://open.spotify.com/album/7fLO5AdXvQcYeB6bQeAPv2) | 2:43 | 2023-03-11 | 2023-03-13 |
 | [TP](https://open.spotify.com/track/3rDYrvKA6bLhp6llXm9vOd) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [TP](https://open.spotify.com/album/32BZEkw7xTwB8zLnsm78ph) | 2:14 | 2025-01-25 | 2025-01-28 |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-26 | 2023-09-21 |

@@ -7001,6 +7001,36 @@
     },
     {
       "album": {
+        "name": "Vasthaavaa",
+        "url": "https://open.spotify.com/album/0Z2keKDowMZ1dWluhulFTB"
+      },
+      "artists": [
+        {
+          "name": "Amargeeth",
+          "url": "https://open.spotify.com/artist/12fWWM8fYvtkySJ5SHo34V"
+        },
+        {
+          "name": "Bavathayini Nagarajan",
+          "url": "https://open.spotify.com/artist/2cxGdIddB5cifEAuu1u5J9"
+        },
+        {
+          "name": "Thomas Chitamel Alexander",
+          "url": "https://open.spotify.com/artist/2WAp8ekuCuSgyv8L1nKZyV"
+        },
+        {
+          "name": "Vidyuth Srinivas",
+          "url": "https://open.spotify.com/artist/5TbKgZkS33cpXsaN1Xk1KU"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "Vasthaavaa",
+      "url": "https://open.spotify.com/track/1M67wuVGrL7BSDAIZrKNlJ"
+    },
+    {
+      "album": {
         "name": "Veduka Kanaro Maa Inta",
         "url": "https://open.spotify.com/album/23n6s3GksVZRUi1LQaejh5"
       },

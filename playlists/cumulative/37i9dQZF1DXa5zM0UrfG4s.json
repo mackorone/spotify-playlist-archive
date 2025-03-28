@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 206106,
       "name": "\"32\"",
       "url": "https://open.spotify.com/track/0mxqqL8RFNa2Od8y0AqHVi"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 153617,
       "name": "100 & H\u00e6lvette",
       "url": "https://open.spotify.com/track/7cE9NtgfMubgyMzOWdDhzL"
@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Aleine over fjell",
+        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
+      },
+      "artists": [
+        {
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173289,
+      "name": "Aleine over fjell",
+      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
+    },
+    {
+      "album": {
         "name": "All \u00f8llen eg drikke",
         "url": "https://open.spotify.com/album/1J1GkO6nEllNVn0Rc4YfCW"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177536,
       "name": "Alt det der",
       "url": "https://open.spotify.com/track/7qQmbSx16gAj5j8eR1Pn6d"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 149926,
       "name": "Baksetefylla",
       "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 160868,
       "name": "Best p\u00e5 fest",
       "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 163053,
       "name": "Bjudar p\u00e5",
       "url": "https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 221833,
       "name": "Bygdas Rebell",
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 111282,
       "name": "Dagsfylla",
       "url": "https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 140000,
       "name": "Den Samme J\u00e6vla Sangen",
       "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 153673,
       "name": "Dunka dalah\u00e4st",
       "url": "https://open.spotify.com/track/72MlR2rcBiDhyuUkXkTEBl"
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 163346,
       "name": "En g\u00e5ng till",
       "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 188483,
       "name": "En liten plass",
       "url": "https://open.spotify.com/track/4WPcCS7W5Fv4UzE3aDV5IU"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 170135,
       "name": "Evig vandring",
       "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 266293,
       "name": "Fjellrypa",
       "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 161793,
       "name": "F\u00f8r det e ferdigt",
       "url": "https://open.spotify.com/track/4zFTvRuJAymjvlNyCJkLQZ"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 137816,
       "name": "Gamleveien",
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 190466,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 201178,
       "name": "Hald deg fast",
       "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 236387,
       "name": "Hardanger",
       "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 197353,
       "name": "Hele hjertet",
       "url": "https://open.spotify.com/track/0ykoo0nO6HCM9cX1LIXBiV"
@@ -3549,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "Hva skjedde i g\u00e5r",
+        "url": "https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD"
+      },
+      "artists": [
+        {
+          "name": "Freddy Kalas",
+          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166340,
+      "name": "Hva skjedde i g\u00e5r",
+      "url": "https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f"
+    },
+    {
+      "album": {
         "name": "Hva skjedde n\u00e5?",
         "url": "https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv"
       },
@@ -3758,7 +3794,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 179760,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
@@ -4046,7 +4082,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
@@ -4082,7 +4118,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 136814,
       "name": "Jag \u00e4r taggad",
       "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
@@ -4122,7 +4158,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 152822,
       "name": "Jeg fortjener en \u00f8l",
       "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"
@@ -4788,7 +4824,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 153843,
       "name": "Livet p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
@@ -5048,7 +5084,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 148124,
       "name": "Mekke bil (feat. Tor-Anders Ringnes)",
       "url": "https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA"
@@ -5270,7 +5306,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 240422,
       "name": "Nattens heltar",
       "url": "https://open.spotify.com/track/6rLje26mUt2sQ5dgqsEy5M"
@@ -6504,7 +6540,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 199370,
       "name": "SK\u00c5L FOR OSS",
       "url": "https://open.spotify.com/track/46Z4qHlwxf1u7ReYjf7xHx"
@@ -6602,6 +6638,24 @@
       "duration_ms": 267773,
       "name": "Splitter Pine",
       "url": "https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c"
+    },
+    {
+      "album": {
+        "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
+        "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188788,
+      "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
+      "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
     },
     {
       "album": {
@@ -7420,7 +7474,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 226946,
       "name": "Vakker og vill",
       "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
@@ -7658,7 +7712,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 137774,
       "name": "V\u00e5rrull",
       "url": "https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv"
@@ -7752,7 +7806,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 167980,
       "name": "Zetor\u2019n",
       "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"

@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-139 songs - 6 hr 55 min
+140 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Eyes Down](https://open.spotify.com/track/0FtqurPJxBXugBGEPyHXtG) | [M Soni](https://open.spotify.com/artist/68BFsEEExE8N2YNjmYlP4X), [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [All Eyes Down](https://open.spotify.com/album/1dQn4cFiJRHy9cMLNlnhpx) | 3:01 | 2024-03-01 | 2024-05-01 |
 | [Asla](https://open.spotify.com/track/39dMWNYC5L8Vi4H7T7y2LZ) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Vikrant Mehla](https://open.spotify.com/artist/6oh6dByxCViHDAuvRBE50H), [Khushboo Manhas](https://open.spotify.com/artist/4AcqEg3wRMVuY32zjQnCVf) | [Asla](https://open.spotify.com/album/6yWbqtrvJssVPu5MKs9cVG) | 2:29 | 2023-07-24 | 2024-04-19 |
 | [Bad Boys](https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Bad Boys](https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw) | 2:22 | 2023-12-22 | 2024-03-27 |
+| [Badmasa Ka Garh](https://open.spotify.com/track/7HXSXBJJXfqFbywTBjdHNf) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj) | [Badmasa Ka Garh](https://open.spotify.com/album/0xNCSvRoSzulUTSZpFPOxM) | 2:15 | 2025-03-27 |  |
 | [Badmash](https://open.spotify.com/track/2LAeibIZBqlCD3HrlLSjjE) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Badmash](https://open.spotify.com/album/1UdeL0ma0I1LT1PAO4ut2B) | 2:33 | 2023-07-24 | 2023-08-01 |
 | [Badmash Bateu](https://open.spotify.com/track/2jnwvcGoSIxuY4xLAnJuzT) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [Kehar Kharkiya](https://open.spotify.com/artist/0BZEgC6IsnbuFOIOAu802I) | [Badmash Bateu](https://open.spotify.com/album/3vDXarnLcnZRmmahYwatq2) | 2:30 | 2023-07-24 | 2024-08-31 |
 | [Badmashan Ka Gaam](https://open.spotify.com/track/4iPqNt6wKhJUJXD5qm9bQu) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Badmashan Ka Gaam](https://open.spotify.com/album/6LND3ww5b7PjfvcOzXl7xv) | 2:24 | 2023-07-24 | 2024-02-23 |
@@ -121,7 +122,7 @@
 | [Sahar](https://open.spotify.com/track/4rsvmuIlLe5b2avBh2mELM) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [GR Music](https://open.spotify.com/artist/36tQNYslMTXF5VUVfjj4Hz), [Jeetu G](https://open.spotify.com/artist/3FcGLSGpPNrs5H2kuSBumm) | [Sahar](https://open.spotify.com/album/2V7V19UVGoBg3HmK60okzW) | 2:09 | 2023-07-24 | 2024-01-06 |
 | [Salute](https://open.spotify.com/track/6kk3T6M88cunWGspzNqlVr) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Salute](https://open.spotify.com/album/2jIIGk955mGc9fMIDuBa7I) | 3:07 | 2023-07-24 | 2023-11-10 |
 | [Samjhota \(feat\. Kay D\)](https://open.spotify.com/track/2oHMFQHewclqxeNP8zt7yZ) | [Monty Sehrawat](https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm) | [Samjhota \(feat\. Kay D\)](https://open.spotify.com/album/0WIaCSH8K0G9fFjqqoLthR) | 2:08 | 2024-07-31 |  |
-| [Street Fighter](https://open.spotify.com/track/6ezpV5Ed5K3pxbgSp0aNti) | [Parv Dahiya](https://open.spotify.com/artist/7kMapJs8YANqYWoc9VqZQ2), [Tarun Haritas](https://open.spotify.com/artist/2nYjdyBBeLWFuKaqfUWStD) | [Street Fighter](https://open.spotify.com/album/6w1kw9aXKpC3tJri75Nxyp) | 2:35 | 2024-08-30 |  |
+| [Street Fighter](https://open.spotify.com/track/6ezpV5Ed5K3pxbgSp0aNti) | [Parv Dahiya](https://open.spotify.com/artist/7kMapJs8YANqYWoc9VqZQ2), [Tarun Haritas](https://open.spotify.com/artist/2nYjdyBBeLWFuKaqfUWStD) | [Street Fighter](https://open.spotify.com/album/6w1kw9aXKpC3tJri75Nxyp) | 2:35 | 2024-08-30 | 2025-03-28 |
 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 | 2025-03-18 |  |
 | [System](https://open.spotify.com/track/2YubJQ3VbHtwSvSed7837i) | [Surender Romio](https://open.spotify.com/artist/2HvRwVX1VLbmdhXy55LDbO), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [System](https://open.spotify.com/album/4nMFvVARjlHbvnT3v4hxvG) | 2:31 | 2025-02-27 |  |
 | [Tair Paatge](https://open.spotify.com/track/49fe97w18d7UWkJ5Ig5l0H) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Tair Paatge](https://open.spotify.com/album/55Ac8oT3KR3RaE9tg9QTpG) | 4:05 | 2023-07-24 | 2023-08-01 |

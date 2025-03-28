@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: LUSILLON, Barry B, c\u00e9ro, Vera GRV y Julieta.",
+  "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: Julieta.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -3875,6 +3875,32 @@
     },
     {
       "album": {
+        "name": "PACMAN (Remix)",
+        "url": "https://open.spotify.com/album/2tvoulqzMBRQeuwiW8EjHF"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196369,
+      "name": "PACMAN (Remix)",
+      "url": "https://open.spotify.com/track/2CtTx2D1msEd7quDtRX4dk"
+    },
+    {
+      "album": {
         "name": "De Sobretaula",
         "url": "https://open.spotify.com/album/4hX4wB2e3r6xxlmA7Wjq5A"
       },
@@ -5024,6 +5050,24 @@
       "duration_ms": 158083,
       "name": "Tan vac\u00edo (feat. Hens)",
       "url": "https://open.spotify.com/track/7l61FJ2XoYVzJ7ybmwJ0fg"
+    },
+    {
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/2mtpU3ZYRWk6oBTsYj2DQx"
+      },
+      "artists": [
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh"
     },
     {
       "album": {

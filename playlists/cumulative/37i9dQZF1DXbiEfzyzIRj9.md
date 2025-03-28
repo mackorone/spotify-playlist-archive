@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: camoufly
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: X CLUB.
 
-1,236 songs - 3 day 18 hr 48 min
+1,237 songs - 3 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Deepest Downtown](https://open.spotify.com/track/5UVCyNbXWh9UL6rlVIQnrP) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Deepest Downtown](https://open.spotify.com/album/5D1xjskiXOvWgjIKQH3Y63) | 4:21 | 2024-05-31 | 2024-07-19 |
 | [Dehors\(Adjust\)](https://open.spotify.com/track/0Yy0VRavJRp5SyypxzPfqV) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [DEPOT \(vol.1\)](https://open.spotify.com/album/42tLTAB1hydObvvKaWuOBN) | 5:32 | 2023-03-16 | 2023-05-12 |
 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 | 2024-06-06 | 2024-08-24 |
+| [Desire To Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire To Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 | 2025-03-27 |  |
 | [Destiny](https://open.spotify.com/track/5veaMDlikr3sTucxDGOaD9) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [&lez](https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq) | [Destiny](https://open.spotify.com/album/3xO8uMMfQmrKDliqgcVwW6) | 7:22 | 2024-09-26 | 2024-10-19 |
 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-08-01 | 2024-09-27 |
 | [DEVOTION \- Mansionair Remix](https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [DEVOTION \(Mansionair Remix\)](https://open.spotify.com/album/6iccD3bKf7WzugmfcHtu3O) | 4:19 | 2023-09-21 | 2024-05-17 |
@@ -997,7 +998,7 @@
 | [Spirit](https://open.spotify.com/track/0AqXi9bRQnWclsJr0CEGHK) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb) | [Spirit](https://open.spotify.com/album/5nz3aQdOFKqmsi1ReBIx64) | 6:19 | 2024-10-18 | 2024-12-06 |
 | [Sport Cut](https://open.spotify.com/track/29vU5LPbgEvbyooRCog9LA) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 2:56 | 2023-05-19 | 2023-08-18 |
 | [Spring](https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Spring](https://open.spotify.com/album/0xHQKa8pDmELqR2fOd3y31) | 4:22 | 2023-03-16 | 2023-06-09 |
-| [Squire For Hire \- Fouk Remix Edit](https://open.spotify.com/track/1nYNEbLHR6odSN9hHBCtil) | [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy), [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Squire For Hire \(Fouk Remixes\)](https://open.spotify.com/album/1mpjavww04IMjI3i1cTBsu) | 3:52 | 2025-01-30 |  |
+| [Squire For Hire \- Fouk Remix Edit](https://open.spotify.com/track/1nYNEbLHR6odSN9hHBCtil) | [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy), [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Squire For Hire \(Fouk Remixes\)](https://open.spotify.com/album/1mpjavww04IMjI3i1cTBsu) | 3:52 | 2025-01-30 | 2025-03-28 |
 | [Stab](https://open.spotify.com/track/2mXYjBZq9xIPG8xcfYYPQR) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Stab](https://open.spotify.com/album/02Quv3lzWxWQWCK5spNJhg) | 3:12 | 2025-01-16 | 2025-03-07 |
 | [Star Cloud 777](https://open.spotify.com/track/6pmNaFfT8b669r4dqrDP87) | [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Dekmantel Ten: A Decade of Dekmantel Festival](https://open.spotify.com/album/48ezof9jggAnQLPnNbTnkZ) | 5:38 | 2024-10-24 | 2024-12-27 |
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-02-29 | 2024-06-07 |

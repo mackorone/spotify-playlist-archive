@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 25937,
+  "num_followers": 25940,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-03-18 15:00:41",
       "album": {
+        "name": "HEART (Special Edition)",
+        "url": "https://open.spotify.com/album/4jyUe6Y3P9HrzUq27jP83B"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 183612,
+      "name": "Usual Kiss",
+      "url": "https://open.spotify.com/track/0dazDTi5V3pplttPiEosT9"
+    },
+    {
+      "added_at": "2025-03-18 15:00:41",
+      "album": {
         "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
         "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 249477,
       "name": "\u7d19\u4e00\u91cd",
       "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
-    },
-    {
-      "added_at": "2025-03-18 15:00:41",
-      "album": {
-        "name": "HEART (Special Edition)",
-        "url": "https://open.spotify.com/album/4jyUe6Y3P9HrzUq27jP83B"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 183612,
-      "name": "Usual Kiss",
-      "url": "https://open.spotify.com/track/0dazDTi5V3pplttPiEosT9"
     },
     {
       "added_at": "2025-03-18 15:00:41",
@@ -771,6 +771,30 @@
     {
       "added_at": "2025-03-18 15:00:41",
       "album": {
+        "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
+        "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        },
+        {
+          "name": "\u5357\u96f2\u3086\u3046\u304d",
+          "url": "https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk"
+        }
+      ],
+      "duration_ms": 224633,
+      "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
+      "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
+    },
+    {
+      "added_at": "2025-03-18 15:00:41",
+      "album": {
         "name": "\u732b\u306b\u30b8\u30a7\u30e9\u30b7\u30fc",
         "url": "https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO"
       },
@@ -799,30 +823,6 @@
       "duration_ms": 175693,
       "name": "Have a nice day",
       "url": "https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW"
-    },
-    {
-      "added_at": "2025-03-18 15:00:41",
-      "album": {
-        "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
-        "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        },
-        {
-          "name": "\u5357\u96f2\u3086\u3046\u304d",
-          "url": "https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk"
-        }
-      ],
-      "duration_ms": 224633,
-      "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
-      "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
     },
     {
       "added_at": "2025-03-18 15:00:41",

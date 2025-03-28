@@ -2,9 +2,9 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Luidji
+> Photo : Disiz
 
-84 songs - 3 hr 58 min
+85 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Pansement](https://open.spotify.com/track/31MUDXdxaJ1S2KTg1LyEf3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Pansement](https://open.spotify.com/album/3m3BNRCXasXTyPf2qjsTkZ) | 2:06 | 2024-06-20 | 2024-09-13 |
 | [PAS CHEZ MOI](https://open.spotify.com/track/5IBwwAbYOhgXoOu8CgeQAV) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [PAS CHEZ MOI](https://open.spotify.com/album/0LwEw2LjM9mEVbENVdQ3eE) | 2:56 | 2024-10-17 |  |
 | [Perdu d'avance](https://open.spotify.com/track/2byn9WdHsCpMHisYCoKsxd) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [En légende](https://open.spotify.com/album/1Cq9kjGSamotK6rfiUikgc) | 1:09 | 2025-02-20 |  |
-| [Petite Geek](https://open.spotify.com/track/6AuSytl7mxC6qM9ObcxJHO) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Petite Geek](https://open.spotify.com/album/2ol7vjjSEBz5IUxMvyiySL) | 2:16 | 2024-06-20 |  |
+| [Petite Geek](https://open.spotify.com/track/6AuSytl7mxC6qM9ObcxJHO) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Petite Geek](https://open.spotify.com/album/2ol7vjjSEBz5IUxMvyiySL) | 2:16 | 2024-06-20 | 2025-03-28 |
 | [Photo mentale](https://open.spotify.com/track/1JRa6FOWqQ0pJbZbV50jdS) | [Ève](https://open.spotify.com/artist/09X1kbjR9O2Cb3gdPvpgKG), [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp) | [Photo mentale](https://open.spotify.com/album/29hYSRZGCXVB64FXX765uo) | 3:44 | 2025-03-20 |  |
 | [POLAIRE](https://open.spotify.com/track/0eVC2hbCYF2JMXumjz8kBY) | [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit) | [POLAIRE](https://open.spotify.com/album/7yni4xIng9iVcPYAuuggU8) | 3:33 | 2024-06-20 | 2025-01-24 |
 | [Prends le bien](https://open.spotify.com/track/74bLCiY77MDrikVkjQ9avj) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Prends le bien](https://open.spotify.com/album/3JlsN1Zhe5AakJW4WdUaBN) | 2:07 | 2024-06-20 | 2025-02-21 |
@@ -89,6 +89,7 @@
 | [Toupie](https://open.spotify.com/track/1VzqSvUk73RGYlrppGYAVD) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Toupie](https://open.spotify.com/album/4V0Xs2qQHKwNefb7MpuING) | 2:45 | 2024-06-20 | 2025-03-21 |
 | [TOUS CEUX](https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX) | [AMO](https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO) | [TOUS CEUX](https://open.spotify.com/album/2M3FSKhks3bHfgFOJq54T3) | 3:10 | 2024-06-20 | 2024-10-18 |
 | [Tout recommencer \(feat\. So La Lune\)](https://open.spotify.com/track/49zz3zQcytYAUHpIXq6VYU) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Tout recommencer \(feat\. So La Lune\)](https://open.spotify.com/album/2VtmpgM0LQIaert2GdwzwS) | 3:10 | 2024-12-05 |  |
+| [Try Try Try \- A COLORS SHOW](https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/album/5h0jmRk4qlXohRlFiFXjxO) | 2:58 | 2025-03-27 |  |
 | [Vampire](https://open.spotify.com/track/45bESNPtGOmWKI6Y5AziuI) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Vampire](https://open.spotify.com/album/3CdwmnTTqQqhbYjsR3S9UG) | 2:17 | 2024-11-07 |  |
 | [Very Bad Trip](https://open.spotify.com/track/7tXHLmzFH6rADej0aZRmPu) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Very Bad Trip](https://open.spotify.com/album/6pq9OhOvQuDwUzQva73v0t) | 2:11 | 2024-06-20 | 2024-07-19 |
 | [À mes démons Pt\. 2](https://open.spotify.com/track/1RkPNKaOA4NYTj1tkR5BEx) | [An'Om](https://open.spotify.com/artist/3rF2ZcZCcwYluO3h9wRP22), [Vayn](https://open.spotify.com/artist/41CySalxZ2GST1n69SqsZ1) | [À mes démons Pt\. 2](https://open.spotify.com/album/0OLOS5tA0Uhw24QKDM542Y) | 3:13 | 2024-07-18 |  |

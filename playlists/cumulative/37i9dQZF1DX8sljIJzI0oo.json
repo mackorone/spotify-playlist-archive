@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\ud83d\udd25 A new mixtape drop every Thursday \ud83d\udd25 JC Reyes is bringing the heat this week!",
+  "description": "\ud83d\udd25 A new mixtape drop every Thursday \ud83d\udd25 Kidd Voodoo is bringing the heat this week!",
   "name": "Fuego",
   "tracks": [
     {
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 169499,
       "name": "AIRBAG",
       "url": "https://open.spotify.com/track/0oZmG2Ix5kVEIt8GxHUYc1"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 255652,
       "name": "BALMAIN - Remix",
       "url": "https://open.spotify.com/track/5oTfYXL4C9fNS5gsejNVCb"
@@ -5148,7 +5148,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 187466,
       "name": "BANSHEE",
       "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
@@ -6646,7 +6646,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 177324,
       "name": "Bosebai",
       "url": "https://open.spotify.com/track/0dHTLBDgp91DWh5e3k4LGF"
@@ -8574,10 +8574,36 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 183829,
       "name": "Chulx",
       "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
+    },
+    {
+      "album": {
+        "name": "Kaelis",
+        "url": "https://open.spotify.com/album/4PYCdqfmfZBJVEfFvvdP2l"
+      },
+      "artists": [
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187421,
+      "name": "Chulx",
+      "url": "https://open.spotify.com/track/2j2l6IIivEaYDNnsVEpgsq"
     },
     {
       "album": {
@@ -9868,7 +9894,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 183970,
       "name": "CRUZ",
       "url": "https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI"
@@ -11397,6 +11423,28 @@
     },
     {
       "album": {
+        "name": "NACER DE NUEVO",
+        "url": "https://open.spotify.com/album/2Q3qBzFiex2SN5hWMEJj1H"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "DESEO",
+      "url": "https://open.spotify.com/track/0J2YHeebc3HvUDl2XDPu7d"
+    },
+    {
+      "album": {
         "name": "DESEO",
         "url": "https://open.spotify.com/album/2BgyYC7cq0bksO5SY7xETz"
       },
@@ -12124,6 +12172,32 @@
       "duration_ms": 187272,
       "name": "Dime Si Te Acuerdas",
       "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
+    },
+    {
+      "album": {
+        "name": "Dime Si Te Acuerdas",
+        "url": "https://open.spotify.com/album/2wfIWtC9MXcERYFoEDinAX"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "VAINY",
+          "url": "https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192996,
+      "name": "Dime Si Te Acuerdas",
+      "url": "https://open.spotify.com/track/6hL7YNvfPF3SgeTaa77Lh9"
     },
     {
       "album": {
@@ -19337,6 +19411,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217768,
+      "name": "HACIENDO QUE ME AMAS",
+      "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
+    },
+    {
+      "album": {
         "name": "Haci\u00e9ndolo Fino",
         "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
       },
@@ -25969,6 +26061,28 @@
     },
     {
       "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/1XnQZjoWFXqmaHVrGka34Z"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227383,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/6dOenYWgmDpinxmvqxECi1"
+    },
+    {
+      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -27146,7 +27260,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -28058,6 +28172,24 @@
       "duration_ms": 220533,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/6eDImMU0RbxxTWqlEzpcom"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Mi Vida Mi Muerte",
+      "url": "https://open.spotify.com/track/2Vw8vOliCmBOAys8Q2xzJZ"
     },
     {
       "album": {
@@ -29322,7 +29454,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 205465,
       "name": "M\u00d3NTATE BABY (feat. De La Rose)",
       "url": "https://open.spotify.com/track/2gbGzSyT6rbjILNwyA726A"
@@ -29680,7 +29812,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 146459,
       "name": "NENA",
       "url": "https://open.spotify.com/track/3ppWnyd25vR1pzzJCCqNOo"
@@ -29854,7 +29986,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 229787,
       "name": "Ni Me Conozco",
       "url": "https://open.spotify.com/track/0xyWkRMb09qdCDhloehCsi"
@@ -30040,7 +30172,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 184615,
       "name": "NINFO",
       "url": "https://open.spotify.com/track/1CTTIrl42flqn1WYUoxl0H"
@@ -31246,6 +31378,28 @@
     {
       "album": {
         "name": "Nota",
+        "url": "https://open.spotify.com/album/1rj85GCbNJ6rMtTqQoJRpe"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275121,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/7N1PnhsNLLIxCHrMF63kdT"
+    },
+    {
+      "album": {
+        "name": "Nota",
         "url": "https://open.spotify.com/album/69WYi6VDkwlyoHfv5SO5b7"
       },
       "artists": [
@@ -31282,7 +31436,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 188599,
       "name": "Notorio",
       "url": "https://open.spotify.com/track/56xvigEBuCJ2X5UJctt15K"
@@ -31330,7 +31484,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 178224,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
@@ -32182,7 +32336,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 159130,
       "name": "Osea",
       "url": "https://open.spotify.com/track/5linIf2EVMfHV0KDKFmORd"
@@ -32548,7 +32702,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 162500,
       "name": "oxy",
       "url": "https://open.spotify.com/track/3CVeFiaVT1J8aSzjpFoeIj"
@@ -34816,7 +34970,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 164285,
       "name": "Pinterest - Remix",
       "url": "https://open.spotify.com/track/6cwWqALdzzT3YN0M1kb4ua"
@@ -35600,7 +35754,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 240195,
       "name": "PPC",
       "url": "https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC"
@@ -36624,7 +36778,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 207937,
       "name": "QUE DIOS TE GUARDE+",
       "url": "https://open.spotify.com/track/5XWrZbRhsEmCC1TdtmSVA5"
@@ -38238,6 +38392,28 @@
       "duration_ms": 227368,
       "name": "Reversa",
       "url": "https://open.spotify.com/track/68MIjgtAsK2rnPqxt9p65V"
+    },
+    {
+      "album": {
+        "name": "RIAA",
+        "url": "https://open.spotify.com/album/4ROwrlsVcpWyK93V6QJUSl"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00ed",
+          "url": "https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ"
+        },
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205227,
+      "name": "RIAA",
+      "url": "https://open.spotify.com/track/2Hs9oFO1m6dfQbFfmT2lZV"
     },
     {
       "album": {
@@ -40550,7 +40726,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 153460,
       "name": "Siete",
       "url": "https://open.spotify.com/track/30uBwESUFs5bNxPf7YCOaV"
@@ -40908,7 +41084,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 165853,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/0EYoG9Z0q0C0K1MCs1hQQl"
@@ -45435,6 +45611,24 @@
     },
     {
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "T\u00fa Foto",
+      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
+    },
+    {
+      "album": {
         "name": "T\u00da ME CALIENTAS",
         "url": "https://open.spotify.com/album/4S5WEmQ0MBbyjH0waOrA4B"
       },
@@ -46606,7 +46800,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
@@ -46844,6 +47038,36 @@
       "duration_ms": 161086,
       "name": "VICE",
       "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
+    },
+    {
+      "album": {
+        "name": "VIDA C*BRONA (feat. Slayter, Sombra PR, and NLE Choppa)",
+        "url": "https://open.spotify.com/album/4bO98Ues406bOwPwJair85"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "SOMBRA PR",
+          "url": "https://open.spotify.com/artist/3Z4dagwEl134FhOVlYvjt5"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295384,
+      "name": "VIDA C*BRONA (feat. Slayter, Sombra PR, and NLE Choppa)",
+      "url": "https://open.spotify.com/track/06LICmOTJov7c3Cbey7L9Q"
     },
     {
       "album": {
@@ -47524,6 +47748,28 @@
       "duration_ms": 247026,
       "name": "Welcome To My Crib",
       "url": "https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB"
+    },
+    {
+      "album": {
+        "name": "Whatever For You",
+        "url": "https://open.spotify.com/album/2R7tIpYfhoQmaDInB2XfEW"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103529,
+      "name": "Whatever For You",
+      "url": "https://open.spotify.com/track/1M7oD1A2CyqYbUNCLqF2pl"
     },
     {
       "album": {

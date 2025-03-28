@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Arpaviejas.",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN y Envidia Kotxina.",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
     {
@@ -771,6 +771,28 @@
     },
     {
       "album": {
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/4ufgevJ8D4XLGuqrM20O6K"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        },
+        {
+          "name": "Envidia Kotxina",
+          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204802,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/1SjloiZrHG0c2GaK7vYZco"
+    },
+    {
+      "album": {
         "name": "Control de Masas",
         "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
       },
@@ -920,7 +942,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 168500,
       "name": "Cuan Lejos Voy",
       "url": "https://open.spotify.com/track/3jF7eLWH63tZVjUO5G4Tpk"
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 173226,
       "name": "El Camino De Los Cuervos",
       "url": "https://open.spotify.com/track/66tQre4k4gZMl6kGybzQ7d"
@@ -1654,7 +1676,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 226093,
       "name": "Enamorado de la Muerte",
       "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
@@ -2002,7 +2024,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 128187,
       "name": "Gente de Bien",
       "url": "https://open.spotify.com/track/10UptxiVMR6usebUtTsLbS"
@@ -2078,6 +2100,24 @@
       "duration_ms": 125769,
       "name": "Habitamos el vertedero",
       "url": "https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO"
+    },
+    {
+      "album": {
+        "name": "Hasta la Ra\u00edz M\u00e1s Profunda",
+        "url": "https://open.spotify.com/album/3aKn3QOD3YQapVnXlzM5ea"
+      },
+      "artists": [
+        {
+          "name": "Sartenazo Cerebral",
+          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "Hasta la Ra\u00edz M\u00e1s Profunda",
+      "url": "https://open.spotify.com/track/5hd5EoH9c0HCrKM1oFYmFg"
     },
     {
       "album": {
@@ -2315,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Buscando La Muerte",
+        "url": "https://open.spotify.com/album/2nRgLVBW6209OneFrpcAmp"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00f1al",
+          "url": "https://open.spotify.com/artist/15TLpBJ5LgywJJIRpBu0DC"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109597,
+      "name": "Jodido Personaje",
+      "url": "https://open.spotify.com/track/2iFc20fGuhs4U0AhHM6YQY"
+    },
+    {
+      "album": {
         "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
         "url": "https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx"
       },
@@ -2344,7 +2402,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 276058,
       "name": "Ka\u00f1a",
       "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
@@ -2456,7 +2514,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 89996,
       "name": "La de los Tr\u00edceps",
       "url": "https://open.spotify.com/track/4ngTK6kyG2tk2l6K8jDB8b"
@@ -2590,7 +2648,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 134465,
       "name": "La Regla - Remasterizado 2025",
       "url": "https://open.spotify.com/track/2jc6rLVLgdf6Bj2IsHs6UW"
@@ -2720,7 +2778,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 168124,
       "name": "Locura",
       "url": "https://open.spotify.com/track/31QSXCHPc433FmXJE7kgiv"
@@ -3258,7 +3316,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 223671,
       "name": "No la Vimos Venir",
       "url": "https://open.spotify.com/track/6uKYZiBDP4vCK64VywMeEp"
@@ -4447,6 +4505,24 @@
     },
     {
       "album": {
+        "name": "Todas las Cartas",
+        "url": "https://open.spotify.com/album/5GrXJt2LUqjSfYsqaWIqZm"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110066,
+      "name": "Todas las Cartas",
+      "url": "https://open.spotify.com/track/3wlyWadE04nw4Q0FURpaFW"
+    },
+    {
+      "album": {
         "name": "Todos Mis Enemigos Se Llaman Cayetano",
         "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
       },
@@ -4801,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "VUELVES A EMPEZAR",
+        "url": "https://open.spotify.com/album/5qHeKnStCN3EAHfziS9jrQ"
+      },
+      "artists": [
+        {
+          "name": "Memocracia",
+          "url": "https://open.spotify.com/artist/6YNaadc735iV6WCs2ey5qH"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192301,
+      "name": "VUELVES A EMPEZAR",
+      "url": "https://open.spotify.com/track/1PdBu7fvXTftvE4M25ncv8"
+    },
+    {
+      "album": {
         "name": "Y las que quedar\u00e1n",
         "url": "https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09"
       },
@@ -4856,7 +4950,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 242320,
       "name": "Y sigo en pie",
       "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
@@ -4954,7 +5048,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 180000,
       "name": "\u00a1Qu'Espa\u00f1e!",
       "url": "https://open.spotify.com/track/4jJxxJQMcKT5N63pxpkVDg"

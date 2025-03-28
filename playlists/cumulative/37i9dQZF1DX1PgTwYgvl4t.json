@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/4cL97GKu8RwETLtFQ1n4tk"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361994,
+      "name": "Adoration",
+      "url": "https://open.spotify.com/track/2r80jXetPGcYiO0hWjIwlb"
+    },
+    {
+      "album": {
         "name": "Adun (Acoustic)",
         "url": "https://open.spotify.com/album/61Sq2uHcC0aHls8ZwuR15u"
       },
@@ -628,7 +646,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 444430,
       "name": "Confessions - Live",
       "url": "https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q"
@@ -796,6 +814,24 @@
       "duration_ms": 773250,
       "name": "Ekwueme (In Your Class)",
       "url": "https://open.spotify.com/track/4VaTVRelsQw9HZDmg45GDs"
+    },
+    {
+      "album": {
+        "name": "El Roi",
+        "url": "https://open.spotify.com/album/2cn25qvHogjamZNBt9q5i2"
+      },
+      "artists": [
+        {
+          "name": "Eno Michael",
+          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474600,
+      "name": "El Roi",
+      "url": "https://open.spotify.com/track/73slZeHzp4jRUt3hwXoagJ"
     },
     {
       "album": {
@@ -1098,7 +1134,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 340062,
       "name": "Ga Ni Na Zo",
       "url": "https://open.spotify.com/track/1vrDrmqACxRts4ePlfrZqy"
@@ -1182,7 +1218,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 387791,
       "name": "God Has Done Me Well",
       "url": "https://open.spotify.com/track/7v3pqEg8SQr30Id4T7kRZn"
@@ -1870,10 +1906,28 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 384102,
       "name": "Kadosh II",
       "url": "https://open.spotify.com/track/6PtXqJhyGOTwlZJIUOPAR3"
+    },
+    {
+      "album": {
+        "name": "King Of Glory",
+        "url": "https://open.spotify.com/album/5OkzF7bi00Xfbg5OIfLpe8"
+      },
+      "artists": [
+        {
+          "name": "Ugee Royalty",
+          "url": "https://open.spotify.com/artist/1upKp4bI2MbgvvfVXTxakF"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277184,
+      "name": "King Of Glory",
+      "url": "https://open.spotify.com/track/2SMAD22BGOPGo2Ri6yPj81"
     },
     {
       "album": {
@@ -2122,7 +2176,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 214158,
       "name": "Mo Wa Dupe (Thank You)",
       "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
@@ -2523,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Oluwa Ese",
+        "url": "https://open.spotify.com/album/5KqIQ0KVDBHMgD1aeklfLc"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255206,
+      "name": "Oluwa Ese",
+      "url": "https://open.spotify.com/track/78FlbxvMy3Zq10j5Sy3cpb"
+    },
+    {
+      "album": {
         "name": "Only one thing is needed",
         "url": "https://open.spotify.com/album/6qH0qNNxBEFTlpCadAxial"
       },
@@ -2574,7 +2646,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
@@ -2830,7 +2902,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 369394,
       "name": "SYMBOLS OF YOUR SOVEREIGNTY",
       "url": "https://open.spotify.com/track/3DBUCX54BOflq7kqXln8Xg"
@@ -2852,6 +2924,24 @@
       "duration_ms": 328000,
       "name": "Take Me Deeper",
       "url": "https://open.spotify.com/track/4aZQnOFFqiXp3LRy8eYBxz"
+    },
+    {
+      "album": {
+        "name": "Tare (Live)",
+        "url": "https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477280,
+      "name": "Tare (Live)",
+      "url": "https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB"
     },
     {
       "album": {
@@ -2984,7 +3074,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 365688,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/5TJ1pjgljJR6urR6QtsMWC"
@@ -3278,7 +3368,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 567567,
       "name": "YESHUA",
       "url": "https://open.spotify.com/track/04Qt7m7pOUmOPFM3ivDtkR"
@@ -3490,7 +3580,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 205999,
       "name": "\u00c8 Hlu - Acoustic",
       "url": "https://open.spotify.com/track/1GbmALs4KkyLpTkz5WrTuS"

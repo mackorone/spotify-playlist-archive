@@ -3385,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "SAD GENERATION",
+        "url": "https://open.spotify.com/album/5f07M4M5Z5Byv6tUHxCNb8"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "F*CK WHAT U WANT",
+      "url": "https://open.spotify.com/track/7y43jmu06S2l1d6zdqJJp5"
+    },
+    {
+      "album": {
         "name": "Fade (feat. KIRBY)",
         "url": "https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL"
       },
@@ -7846,7 +7864,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 325812,
       "name": "Michelle - Studio Mix",
       "url": "https://open.spotify.com/track/0MjQ4Pt4wGbs2xXhkVhUTS"

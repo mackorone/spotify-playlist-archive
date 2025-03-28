@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-349 songs - 20 hr 55 min
+350 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Uppenalaa](https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/2jztukyvmWwLoIS6HTCm0m), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Uppenalaa](https://open.spotify.com/album/6bKqGiOW7CS6hwURDklOQD) | 1:32 | 2023-05-27 | 2023-07-04 |
 | [Varama](https://open.spotify.com/track/30IpmKZtv3k6hIwPjqVqy2) | [Tarun Donipati](https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI), [Agni](https://open.spotify.com/artist/5DlIzO1VXAbP1Ruzi8ui5F), [Sripragna Vellanki](https://open.spotify.com/artist/5m65xIlHvGuJJWa5iXYExp) | [Varama](https://open.spotify.com/album/2VcRqSdwkaFKNB1gCbQd3J) | 3:50 | 2025-01-20 |  |
 | [Varnana](https://open.spotify.com/track/6EEopdWEiFtrQhOW33bRva) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Sravani Charugundla](https://open.spotify.com/artist/3E2FmsMjf2E9T9Nbav7VN2) | [Varnana](https://open.spotify.com/album/3lmW5UAWiXw2gMe2dMXLm1) | 1:49 | 2023-12-27 | 2024-04-26 |
+| [Vasthaavaa](https://open.spotify.com/track/1M67wuVGrL7BSDAIZrKNlJ) | [Amargeeth](https://open.spotify.com/artist/12fWWM8fYvtkySJ5SHo34V), [Bavathayini Nagarajan](https://open.spotify.com/artist/2cxGdIddB5cifEAuu1u5J9), [Thomas Chitamel Alexander](https://open.spotify.com/artist/2WAp8ekuCuSgyv8L1nKZyV), [Vidyuth Srinivas](https://open.spotify.com/artist/5TbKgZkS33cpXsaN1Xk1KU) | [Vasthaavaa](https://open.spotify.com/album/0Z2keKDowMZ1dWluhulFTB) | 4:07 | 2025-03-27 |  |
 | [Veduka Kanaro Maa Inta](https://open.spotify.com/track/4O7rIqx6h3BixM4JmWY4jK) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa) | [Veduka Kanaro Maa Inta](https://open.spotify.com/album/23n6s3GksVZRUi1LQaejh5) | 4:15 | 2023-04-10 | 2024-07-17 |
 | [VEEKSHANA](https://open.spotify.com/track/3LHP3JSY2g3cKWQgCG8xYs) | [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn), [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [VEEKSHANA](https://open.spotify.com/album/1DNy15Deb7DXZipKDxoi7z) | 3:41 | 2025-01-06 |  |
 | [Vellakala Nannodilesi](https://open.spotify.com/track/0BJdy36Fup5Oo3Dol5MUBl) | [Kaushal Jha](https://open.spotify.com/artist/2V64YsR5g08RiV1A0QdhJZ) | [Vellakala Nannodilesi](https://open.spotify.com/album/5tGRfbxjBAFQMK6FNT0AC9) | 4:23 | 2023-08-02 | 2025-01-11 |

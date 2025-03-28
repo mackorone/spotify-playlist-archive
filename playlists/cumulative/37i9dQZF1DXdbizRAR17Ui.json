@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 320121,
       "name": "Music Taught Me Life",
       "url": "https://open.spotify.com/track/6y7oSnVN2PpNvd4CUrvZBp"
@@ -4895,6 +4895,28 @@
     },
     {
       "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3mpTEV9b2SI4ZJVCOgYgzn"
+      },
+      "artists": [
+        {
+          "name": "Youngr",
+          "url": "https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5"
+        },
+        {
+          "name": "Samuel Miller",
+          "url": "https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201772,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/6A03CSx08EOVrRjH86iKA4"
+    },
+    {
+      "album": {
         "name": "Paradis Blanc",
         "url": "https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N"
       },
@@ -5174,7 +5196,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 289193,
       "name": "Protector",
       "url": "https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U"
@@ -5214,7 +5236,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 239890,
       "name": "RB3",
       "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"

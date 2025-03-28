@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "album": {
         "name": "Doris",
         "url": "https://open.spotify.com/album/3Xc09hPzm3HsCtOakaOTOO"
       },
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 168437,
       "name": "Bij Deze",
       "url": "https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ"
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 58800,
       "name": "GRRRR\u2026 Ik Ben Een Boze Dino!",
       "url": "https://open.spotify.com/track/2VbOYU9Gz9i6eWeSVAxRm3"
@@ -5984,7 +6002,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 173203,
       "name": "Kantelen",
       "url": "https://open.spotify.com/track/2GqpwS04aT8rKKHhEIRjgj"
@@ -6740,6 +6758,36 @@
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "album": {
+        "name": "ANNO ONS",
+        "url": "https://open.spotify.com/album/4cywk6vLA4wVJSqKuwk64P"
+      },
+      "artists": [
+        {
+          "name": "Lustrum U.V.S.V./N.V.V.S.U.",
+          "url": "https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK"
+        },
+        {
+          "name": "ANNO ONS",
+          "url": "https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r"
+        },
+        {
+          "name": "Jopke van Dobbenburgh",
+          "url": "https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D"
+        },
+        {
+          "name": "Roeland Beelen",
+          "url": "https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "Lotje",
+      "url": "https://open.spotify.com/track/450bePQl5Ogl5oyFGzwIrV"
     },
     {
       "album": {
@@ -8484,7 +8532,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 243131,
       "name": "No. 1 Party Anthem",
       "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
@@ -11684,7 +11732,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
@@ -12310,7 +12358,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 170601,
       "name": "Toet Toet (TTBB)",
       "url": "https://open.spotify.com/track/2j3U2Gy6rwvA1EX0uhvd3Q"
@@ -12546,7 +12594,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 171955,
       "name": "TWENTIES",
       "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
@@ -13440,7 +13488,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 139582,
       "name": "Winterjas",
       "url": "https://open.spotify.com/track/0fp3KUWXNSFSwg37hahuit"

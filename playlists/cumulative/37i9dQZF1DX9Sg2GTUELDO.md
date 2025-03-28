@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Cath黃妍
+> 感受女聲力量。Cover: 麗英
 
-469 songs - 1 day 3 hr 59 min
+473 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [I tried…](https://open.spotify.com/track/2pzJnD7U4PsgoxekmC4FVG) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [I tried…](https://open.spotify.com/album/28r7fW3baua6CY9BCalrrB) | 2:58 | 2025-02-13 |  |
 | [I'm all in](https://open.spotify.com/track/6DOQ5xzq3ettktmBvuGKoN) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [I'm all in](https://open.spotify.com/album/1oG32Y9h5eGRJIUhYt8Q96) | 4:40 | 2024-06-27 |  |
 | [I'm Marf\-elous](https://open.spotify.com/track/4S8TjPWXhfFvofEcbHIOLO) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [I'm Marf\-elous](https://open.spotify.com/album/56vIFUndRkDyBnSwIZHQhV) | 2:47 | 2024-06-27 |  |
+| [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 | 2025-03-27 |  |
 | [I'm Sorry](https://open.spotify.com/track/0iWCmxtYEVCcJlvOPQbPj7) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [I'm Sorry](https://open.spotify.com/album/5ugZtluKVm4MzbUv0YSUFw) | 3:50 | 2024-06-27 |  |
 | [idc](https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [idc](https://open.spotify.com/album/7ArQiiYfgEeFr0QQJHRWQQ) | 3:23 | 2024-06-27 |  |
 | [IDK](https://open.spotify.com/track/4TlU4jNsch6P9hgbFxNK8L) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [IDK](https://open.spotify.com/album/6TA2BHMMBRmW2dGthzsQZV) | 3:22 | 2024-06-27 |  |
@@ -122,6 +123,7 @@
 | [nothing](https://open.spotify.com/track/5hXRD8nfoT25akHgDO5LUo) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [nothing](https://open.spotify.com/album/3FXaIHcRPFMBDdCV1gYPRT) | 4:49 | 2025-01-23 |  |
 | [nothing about you](https://open.spotify.com/track/0DhPLOi5pwaNzH74yI82wM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [nothing about you](https://open.spotify.com/album/5nWghT9U5ZdEiQOeB4rYPC) | 3:01 | 2025-01-02 |  |
 | [NOW](https://open.spotify.com/track/0KrR4Lk6WeGj3oZFq94JHt) | [UNI](https://open.spotify.com/artist/6RsSt1g3GiD3Svzf4DUPYR) | [NOW](https://open.spotify.com/album/7zWGB6nY6AnK8pKfSLuWFf) | 2:52 | 2024-10-03 |  |
+| [omw2u](https://open.spotify.com/track/5rckGAJIVOXMYwkjl0LREw) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree \(more! there's more!\)](https://open.spotify.com/album/5C6ZbCBOEK4iAotPDFAXct) | 3:28 | 2025-03-27 |  |
 | [On My Way](https://open.spotify.com/track/0h3SKxxvHNH3qtFUMtu1dk) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [On My Way](https://open.spotify.com/album/6HbD9kVjMDCqgsEVOxNJmX) | 3:05 | 2024-08-08 |  |
 | [One Last Time](https://open.spotify.com/track/5X84tcnongIeGjTk9T2F3z) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [One Last Time](https://open.spotify.com/album/7bfzD9Ict7jfAxVdg1dgrf) | 3:38 | 2024-07-18 |  |
 | [One More Round](https://open.spotify.com/track/35dJ3LvEcV52F5R17IOFRC) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [One More Round](https://open.spotify.com/album/78Zdxbk2r8xrTa4ivaB50Q) | 3:19 | 2024-06-27 |  |
@@ -317,6 +319,7 @@
 | [我不回去](https://open.spotify.com/track/42IahRHRZqyqSmwSpttIzU) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [我不回去](https://open.spotify.com/album/2TJYjfi8gAFrUpW42Iwe8k) | 4:07 | 2024-06-27 |  |
 | [我們只有一往直前](https://open.spotify.com/track/5QDclSp0IOj9YI4RBUxX2n) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [我們只有一往直前](https://open.spotify.com/album/2SHbIZWNt7hSzCal97SuXW) | 3:36 | 2024-10-17 |  |
 | [我們曾經白頭到老 \- 電影《飯戲攻心2》歌曲](https://open.spotify.com/track/4cUHdZlYdd8HdNnn3r5qIi) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [我們曾經白頭到老 \(電影《飯戲攻心2》歌曲\)](https://open.spotify.com/album/13T8bMVqtADhdPLOeVSptM) | 3:58 | 2024-06-27 |  |
+| [我們沒有在一起](https://open.spotify.com/track/2rUyO4jirsMSeZwvjZvbJr) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [我們沒有在一起](https://open.spotify.com/album/2Ee2fEZE7bkQGAwX3FAIpU) | 3:43 | 2025-03-27 |  |
 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 | 2024-06-27 |  |
 | [我唔理啦](https://open.spotify.com/track/12k0pvhhmaDOGSZWLfZVFN) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [我唔理啦](https://open.spotify.com/album/7MuoZDHIAtiCsLzu3A0AQf) | 2:44 | 2024-07-25 |  |
 | [我喜歡的你](https://open.spotify.com/track/4SZkrXq0buX9AXcU8JubkU) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [我喜歡的你](https://open.spotify.com/album/2YYqwb3x01qjd6rjKpCOcc) | 3:44 | 2024-06-27 |  |
@@ -444,6 +447,7 @@
 | [講呀講呀 \- lofi remix](https://open.spotify.com/track/5vvmYOtUQx3R5vnS1EvbST) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [講呀講呀 \(lofi remix\)](https://open.spotify.com/album/5vcVmxsXA24qEA9bApPaeJ) | 3:32 | 2024-07-04 |  |
 | [謝謝你陪我那麼久](https://open.spotify.com/track/2fmSgHQ7bmeczwdGYmrLnJ) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [謝謝你陪我那麼久](https://open.spotify.com/album/5EFhYXBvXzTBLZ2aoH4t0q) | 3:25 | 2024-06-27 |  |
 | [謝謝對不起](https://open.spotify.com/track/1szYB5fwpt5ZtbCDNcLHId) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [謝謝對不起](https://open.spotify.com/album/4VNLoUSPEpgiSoBmz52BuP) | 3:45 | 2024-06-27 |  |
+| [讓我與你在這星球](https://open.spotify.com/track/1AfVedxF1z44kXyPQhAJUA) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [讓我與你在這星球](https://open.spotify.com/album/45tYom4dDMh50uhlZlI4QU) | 3:17 | 2025-03-27 |  |
 | [貓之報恩](https://open.spotify.com/track/2lpWeRLGEIX0wpuNoByT0F) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [貓之報恩](https://open.spotify.com/album/5hLfEWdwVpcnDCD1D8JBQq) | 3:46 | 2024-06-27 |  |
 | [趁你旅行時搬走](https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [趁你旅行時搬走](https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH) | 3:55 | 2024-06-27 |  |
 | [跟我做自己](https://open.spotify.com/track/4qhZorxaU0fslsP6Yv72R3) | [劉雅瑟](https://open.spotify.com/artist/08F26JOMt9xbYJQscx0c5G), [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [跟我做自己](https://open.spotify.com/album/7nlHO611yqxbeqvDSpBufG) | 3:05 | 2024-06-27 |  |

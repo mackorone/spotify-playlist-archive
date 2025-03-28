@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Ubur\-ubur ikan lele, nek sedih ya dijogeti wae! 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,964 likes - 87 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,019 likes - 87 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

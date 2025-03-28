@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Odeal, DJ Maphorisa, Xduppy",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Jaydon Lewis, SPINALL, Julia Church",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -222,6 +222,32 @@
       "duration_ms": 381586,
       "name": "Akulaleki",
       "url": "https://open.spotify.com/track/6IVjF6tfGdFBZr4wXhMRtC"
+    },
+    {
+      "album": {
+        "name": "all for you (with SPINALL & Julia Church) [Extended Mix]",
+        "url": "https://open.spotify.com/album/4Bxts2K3zmqD228tbSYByN"
+      },
+      "artists": [
+        {
+          "name": "Jaydon Lewis",
+          "url": "https://open.spotify.com/artist/6n6eA9x4MjOENHu6NgumKu"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232828,
+      "name": "all for you (with SPINALL & Julia Church) - Extended Mix",
+      "url": "https://open.spotify.com/track/2W79QOWZil5FxFMziZHGpm"
     },
     {
       "album": {
@@ -880,7 +906,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 163836,
       "name": "Be",
       "url": "https://open.spotify.com/track/6JzDmKsKyPmkKixEnk1Iwg"

@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1239883,
+  "num_followers": 1239905,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+CggAAAAAAWSJbE2fqBHAnK2hCM0lo+",
+  "snapshot_id": "Z+HyAAAAAADx6m8mxmfDG+ANb0LFsSnS",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How To Re-Assemble An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 103160,
+      "name": "Theme From 'The Batman'",
+      "url": "https://open.spotify.com/track/54nPhznuQ4wFu5HDHoVvHY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 264333,
       "name": "Kite",
       "url": "https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 416533,
-      "name": "Lemon",
-      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 416533,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 225400,
       "name": "You\u2019re The Best Thing About Me",
       "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How To Re-Assemble An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 103160,
-      "name": "Theme From 'The Batman'",
-      "url": "https://open.spotify.com/track/54nPhznuQ4wFu5HDHoVvHY"
     },
     {
       "added_at": null,

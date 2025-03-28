@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-201 songs - 21 hr 3 min
+202 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Hajikwai](https://open.spotify.com/track/15YgWqEEqXBafFdKHPIcDo) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Hajikwai](https://open.spotify.com/album/1KjMMPgog7xd7c3VQBu2GD) | 6:03 | 2024-07-18 | 2025-01-24 |
 | [HAYII](https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII](https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za) | 7:39 | 2022-08-11 | 2023-03-18 |
 | [Heal Africa](https://open.spotify.com/track/2elLI0XImQvNjxEOHXP2Lb) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Heal Africa](https://open.spotify.com/album/0ALpHTXkMLJ6TDHEUJ34WD) | 13:31 | 2024-03-15 | 2024-06-01 |
+| [Heaven Choir](https://open.spotify.com/track/5W1hKVJm3UsUF79FnNiWWI) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Heaven Choir](https://open.spotify.com/album/59LMrryq80XBbv3DpiwXOM) | 3:40 | 2025-03-27 |  |
 | [Hold On](https://open.spotify.com/track/1o0nfthgnLpDkpChnvta9s) | [Leo Guardo](https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD), [Sobantwana](https://open.spotify.com/artist/0DoNVl96ZWKJ1hbnKGaj93) | [Hold On](https://open.spotify.com/album/4x1aCpqT679anIgHX9n9hW) | 5:48 | 2022-11-10 | 2022-12-03 |
 | [I Want You](https://open.spotify.com/track/7c3oDw6MPSTP6qhZU0ufcL) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Szon](https://open.spotify.com/artist/7gDtr9MZnzuXBzzbeO5Of1) | [I Want You](https://open.spotify.com/album/684csa2gkBzmwUT0tMYKr3) | 5:12 | 2024-03-15 | 2025-01-24 |
 | [iFu](https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [iFu](https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f) | 5:59 | 2022-09-09 | 2024-06-14 |

@@ -1,35 +1,31 @@
 {
-  "description": "Guy2Bezbar au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
-  "num_followers": 1558535,
+  "description": "La Mano 1.9 au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "num_followers": 1558650,
   "original_name": "PVNCHLNRS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9yd/AAAAADUOejEfvZNzuZzUPZBy0dw",
+  "snapshot_id": "Z+XYcgAAAAD07uzBBfgUec41JfuboqTo",
   "tracks": [
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "Black House",
-        "url": "https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb"
+        "name": "Sexy Woman",
+        "url": "https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ"
       },
       "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
         {
           "name": "La Mano 1.9",
           "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
         }
       ],
-      "duration_ms": 172600,
-      "name": "Jerrican (feat. La Mano 1.9)",
-      "url": "https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB"
+      "duration_ms": 151168,
+      "name": "Sexy Woman",
+      "url": "https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
@@ -49,7 +45,7 @@
       "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "P\u00e9tunias",
         "url": "https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv"
@@ -65,7 +61,7 @@
       "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "No stress",
         "url": "https://open.spotify.com/album/0NR9FSagCbEPnkwIBVTnNd"
@@ -89,7 +85,75 @@
       "url": "https://open.spotify.com/track/7jPBHQ9vRgMxjRcREZKKGI"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Depuis le temps (Pour la miff)",
+        "url": "https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 176248,
+      "name": "Ca parle mal",
+      "url": "https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 155448,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Black House",
+        "url": "https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "Jerrican (feat. La Mano 1.9)",
+      "url": "https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
@@ -109,55 +173,7 @@
       "url": "https://open.spotify.com/track/5SLs7GOdSvWhbxxJkTqf2u"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "Depuis le temps (Pour la miff)",
-        "url": "https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 176248,
-      "name": "Ca parle mal",
-      "url": "https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "CARTIER SANTOS",
-      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "Sexy Woman",
-        "url": "https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "Sexy Woman",
-      "url": "https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -181,7 +197,99 @@
       "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Menace fant\u00f4me",
+        "url": "https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 179352,
+      "name": "Menace fant\u00f4me",
+      "url": "https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "APOCALYPSE",
+        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "NANANI NANANA",
+      "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "N\u00e9s Pour Briller : Book I",
+        "url": "https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "KLN",
+          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Tendance",
+      "url": "https://open.spotify.com/track/48Lf3BlGjy9I6505nEwWNl"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "C'EST RELOU",
+        "url": "https://open.spotify.com/album/2s4PgkJiWCVMkEpDQ5ASHq"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "duration_ms": 120894,
+      "name": "C'EST RELOU",
+      "url": "https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "PERFORMANTE",
+        "url": "https://open.spotify.com/album/3ChDknRV7QXyj9hG8HWGAR"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 206194,
+      "name": "PERFORMANTE",
+      "url": "https://open.spotify.com/track/2SVjgOVxvQPzdOcATrtMOt"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "FREE CONGO",
         "url": "https://open.spotify.com/album/1hLPzmMntzpYy2Ajp9Ba5s"
@@ -217,67 +325,7 @@
       "url": "https://open.spotify.com/track/6RAYjbw8M4gZ5lkZKipWFC"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "PERFORMANTE",
-        "url": "https://open.spotify.com/album/3ChDknRV7QXyj9hG8HWGAR"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 206194,
-      "name": "PERFORMANTE",
-      "url": "https://open.spotify.com/track/2SVjgOVxvQPzdOcATrtMOt"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "Hakayet",
-        "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        }
-      ],
-      "duration_ms": 155448,
-      "name": "Hakayet",
-      "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "N\u00e9s Pour Briller : Book I",
-        "url": "https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "KLN",
-          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Tendance",
-      "url": "https://open.spotify.com/track/48Lf3BlGjy9I6505nEwWNl"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "LA MELO EST DANS LA BOUNCE",
         "url": "https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi"
@@ -297,27 +345,23 @@
       "url": "https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "JVLIVS III : Ad Finem",
-        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
         }
       ],
-      "duration_ms": 197200,
-      "name": "02:00",
-      "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
+      "duration_ms": 150328,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "La Pluie",
         "url": "https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ"
@@ -337,95 +381,63 @@
       "url": "https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "Menace fant\u00f4me",
-        "url": "https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0"
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/5liQLBq8NJehtloLa2jxv5"
       },
       "artists": [
         {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
         }
       ],
-      "duration_ms": 179352,
-      "name": "Menace fant\u00f4me",
-      "url": "https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL"
+      "duration_ms": 200548,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "APOCALYPSE",
-        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "NANANI NANANA",
-      "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "Bolide Noir",
-        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Bolide Noir",
-      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "TOKA",
-        "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "TOKA",
-      "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "La pluie",
-        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
+        "name": "JVLIVS III : Ad Finem",
+        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
       },
       "artists": [
         {
           "name": "SCH",
           "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 182200,
-      "name": "La pluie",
-      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
+      "duration_ms": 197200,
+      "name": "02:00",
+      "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "FRANC\u00c8 ZITO",
+          "url": "https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "Capata",
+      "url": "https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "Vanilla",
         "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
@@ -445,27 +457,27 @@
       "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "50G",
-        "url": "https://open.spotify.com/album/03t4GcRusmQrdC0D1Pj5gP"
+        "name": "TOKA",
+        "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
       },
       "artists": [
         {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         },
         {
-          "name": "JKSN",
-          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 238957,
-      "name": "50G",
-      "url": "https://open.spotify.com/track/2LU5GGxQEiNhv8QxQpBBlw"
+      "duration_ms": 175906,
+      "name": "TOKA",
+      "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "EL GEMANO",
         "url": "https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4"
@@ -485,43 +497,7 @@
       "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 179034,
-      "name": "POUR ELLE",
-      "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "RODEO DRIVE (feat. Hamza)",
-        "url": "https://open.spotify.com/album/7KJcR218DxsTSr2RpVgYTK"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 145785,
-      "name": "RODEO DRIVE (feat. Hamza)",
-      "url": "https://open.spotify.com/track/2IiCeifwD1U5cvb5rgUh6g"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/4HAWT9gg8vtNDnbi9kzb02"
@@ -537,63 +513,43 @@
       "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         },
         {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
         }
       ],
-      "duration_ms": 261021,
-      "name": "911",
-      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
+      "duration_ms": 170800,
+      "name": "Bolide Noir",
+      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "PROBATION",
-        "url": "https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ"
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 219584,
-      "name": "PROBATION",
-      "url": "https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F"
+      "duration_ms": 179034,
+      "name": "POUR ELLE",
+      "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "I'M SORRY",
-        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "I'M SORRY",
-      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "MANON B",
         "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
@@ -617,7 +573,23 @@
       "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "I'M SORRY",
+        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "I'M SORRY",
+      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "SENTIMENTS BILLETS DE 100",
         "url": "https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW"
@@ -633,63 +605,23 @@
       "url": "https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "GAUCHE DROITE",
-        "url": "https://open.spotify.com/album/41IZhPYwPPIhejAcFiaIOW"
+        "name": "La pluie",
+        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
       },
       "artists": [
         {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 205080,
-      "name": "GAUCHE DROITE",
-      "url": "https://open.spotify.com/track/3g1CbQIhd6HeCg6bzy3jDB"
+      "duration_ms": 182200,
+      "name": "La pluie",
+      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "La famine",
-        "url": "https://open.spotify.com/album/3fa90kfI5lBTVqqc26i91e"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189569,
-      "name": "La famine",
-      "url": "https://open.spotify.com/track/5l6wXzGQXn8TemEVlCraLR"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
-      "album": {
-        "name": "Inarr\u00eatable",
-        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "FRANC\u00c8 ZITO",
-          "url": "https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "Capata",
-      "url": "https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE"
-    },
-    {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "Hockey",
         "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
@@ -709,7 +641,7 @@
       "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "NONCHALANT 3",
         "url": "https://open.spotify.com/album/2iSw6vsvRZB0bmNOz232zv"
@@ -725,23 +657,47 @@
       "url": "https://open.spotify.com/track/2XzF8Lst0VqUdHHB67lWde"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "Capitaine fait de l'art",
-        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
+        "name": "RODEO DRIVE (feat. Hamza)",
+        "url": "https://open.spotify.com/album/7KJcR218DxsTSr2RpVgYTK"
       },
       "artists": [
         {
           "name": "Leto",
           "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 130000,
-      "name": "J\u2019crois qu\u2019ils ont pas compris",
-      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
+      "duration_ms": 145785,
+      "name": "RODEO DRIVE (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2IiCeifwD1U5cvb5rgUh6g"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "La famine",
+        "url": "https://open.spotify.com/album/3fa90kfI5lBTVqqc26i91e"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189569,
+      "name": "La famine",
+      "url": "https://open.spotify.com/track/5l6wXzGQXn8TemEVlCraLR"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "ORIGINAL GANGSTA",
         "url": "https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR"
@@ -761,7 +717,23 @@
       "url": "https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm"
     },
     {
-      "added_at": "2025-03-20 23:00:12",
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Capitaine fait de l'art",
+        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "J\u2019crois qu\u2019ils ont pas compris",
+      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
       "album": {
         "name": "LE PLAN",
         "url": "https://open.spotify.com/album/6y8p3yTNrEfThZXb4KaRLB"
@@ -779,6 +751,22 @@
       "duration_ms": 168000,
       "name": "LE PLAN",
       "url": "https://open.spotify.com/track/0U7UH2iu2X4pWdlmyY3kSm"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "GAUCHE DROITE",
+        "url": "https://open.spotify.com/album/41IZhPYwPPIhejAcFiaIOW"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "GAUCHE DROITE",
+      "url": "https://open.spotify.com/track/3g1CbQIhd6HeCg6bzy3jDB"
     }
   ],
   "unique_name": "PVNCHLNRS",

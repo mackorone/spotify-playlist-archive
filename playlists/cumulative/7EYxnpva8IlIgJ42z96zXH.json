@@ -3719,6 +3719,28 @@
     },
     {
       "album": {
+        "name": "Dance In The Sunlight (feat. Bandit)",
+        "url": "https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Dance In The Sunlight (feat. Bandit)",
+      "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
+    },
+    {
+      "album": {
         "name": "Dance So Wildly",
         "url": "https://open.spotify.com/album/3pVd2Eoe5TlOp2F2koR1Vc"
       },
@@ -18158,7 +18180,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 208934,
       "name": "The Seed",
       "url": "https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE"

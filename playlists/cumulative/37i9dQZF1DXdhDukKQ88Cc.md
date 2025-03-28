@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Benny Jamz</a> 🔥
+> 🔥 <a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> 🔥
 
-298 songs - 12 hr 53 min
+303 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aldrig Alene](https://open.spotify.com/track/4TcrnNLEiMfSrg1uXOzk1E) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [Aldrig Alene](https://open.spotify.com/album/0ycAu4h4VWO0wo0PuBvn8X) | 2:36 | 2024-05-30 | 2024-11-01 |
 | [Alt Jeg Ved](https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Alt Jeg Ved](https://open.spotify.com/album/1J3B8CTSjWSEYMUGFAKtrR) | 3:00 | 2024-08-08 |  |
 | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/track/13ORFYlIGeLnai3mhgKFxZ) | [TV 2 Play](https://open.spotify.com/artist/0R3vuLe6DSrs1gpqOI27uO) | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ) | 2:42 | 2023-11-10 | 2024-04-26 |
+| [ALTERDETSAMME](https://open.spotify.com/track/27VeZeRcdqQRu6LqMAZz8u) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw) | [ALTERDETSAMME](https://open.spotify.com/album/2MnLoYFWPddbSN9GU1Q83m) | 2:17 | 2025-03-27 |  |
 | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/track/5od1j7k88aLQoLJdj4xdoq) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa), [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/album/5D5P9ieuXW4WEtprfjCj4M) | 3:11 | 2024-02-22 | 2024-05-14 |
 | [AMAL PT\. 2](https://open.spotify.com/track/7zH44zeRQPJdkNmKJyNvrL) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [AMAL PT\. 2](https://open.spotify.com/album/1fxN0kfZA3pus0HH1LfCJi) | 3:14 | 2024-01-11 | 2024-09-13 |
 | [ANDERLEDES](https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw) | [MEMZ](https://open.spotify.com/artist/6XvIKkATarRkAZppLCdLVY) | [ANDERLEDES](https://open.spotify.com/album/7azznQEPvB5GM2olU0M8X2) | 1:55 | 2023-11-10 | 2023-12-14 |
@@ -152,6 +153,7 @@
 | [HVA KA DE](https://open.spotify.com/track/0MAfswMT0Ait4OlVNAuF9e) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS) | [HVA KA DE](https://open.spotify.com/album/0BlXLPofQ4KfoL8DeN6X06) | 2:24 | 2024-10-31 | 2024-11-08 |
 | [hva status](https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 2:57 | 2023-09-21 | 2024-02-23 |
 | [Hvad Vi Vil](https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hvad Vi Vil](https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk) | 3:31 | 2024-02-29 | 2024-05-14 |
+| [Hvem Har Stedet](https://open.spotify.com/track/7gA1XMv2BnRU6h1hjj5iUA) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hvem Har Stedet](https://open.spotify.com/album/6QxcuBWX5mHp4OiKp5g4xU) | 2:01 | 2025-03-27 |  |
 | [Hverdagsting](https://open.spotify.com/track/1jfNg2O6NG0kqzKoVM6ZOi) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Hverdagsting](https://open.spotify.com/album/63Ry8S7K5yhxzBPHW3kgp4) | 3:10 | 2023-11-16 | 2024-04-05 |
 | [Hygger Mig](https://open.spotify.com/track/1N4BSn8IL42uQqSi6M6Ojk) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Hygger Mig](https://open.spotify.com/album/42zloc0SgxSR9HSQa2EMyw) | 2:25 | 2024-02-15 | 2024-04-05 |
 | [Højere](https://open.spotify.com/track/309pcsTV8a5NApBwPppZtx) | [Babyface Mo](https://open.spotify.com/artist/4HLdhkirMBFxuir7hgDtmf) | [Højere](https://open.spotify.com/album/7xtqMHOracguY7dbcQynRL) | 2:14 | 2023-12-08 | 2024-01-19 |
@@ -187,7 +189,9 @@
 | [Litty](https://open.spotify.com/track/1k29wQgAkP5c27GAJLqLkk) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Litty](https://open.spotify.com/album/6mSi7RytoP8vC4AFgSCI25) | 2:28 | 2025-01-23 |  |
 | [Livet Er Kort](https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:20 | 2024-02-22 | 2024-05-14 |
 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 | 2025-01-09 |  |
+| [LYS \(ILLUMINERET\)](https://open.spotify.com/track/74ev7qWjlvtyq1ymgECaZK) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [LYS \(ILLUMINERET\)](https://open.spotify.com/album/23DujRMUDtm5Q1DLrEA7X1) | 2:50 | 2025-03-27 |  |
 | [Lønningsdag](https://open.spotify.com/track/04oUfyBc6pT1svmfkYnsZU) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Lønningsdag](https://open.spotify.com/album/6lKquTEVqANfNikVyLGSsu) | 2:39 | 2025-01-09 |  |
+| [M.I.A](https://open.spotify.com/track/3OE1bHktXi3IYPCe45DE7c) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [M.I.A](https://open.spotify.com/album/05GqTpifJBrd0569culZSL) | 2:18 | 2025-03-27 |  |
 | [M.I.A.](https://open.spotify.com/track/2DuNtzbWVQW07iQB4SM5G4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [M.I.A.](https://open.spotify.com/album/7x7gT4ktG3CfZelluqSQSx) | 2:36 | 2024-06-27 | 2024-09-13 |
 | [MADNESS \(feat\. Artigeardit\)](https://open.spotify.com/track/2WuXxMvcuRqrfXAMXtXM9s) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [BABA BUSINESS 3 \(DELUXE\)](https://open.spotify.com/album/4JITSDwkgMxh2VK5ScfMEl) | 2:18 | 2024-12-26 |  |
 | [MAGIC AIRLINES \(feat\. Blæst\)](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 | 2024-05-23 | 2024-09-13 |
@@ -301,6 +305,7 @@
 | [Wimbledon](https://open.spotify.com/track/4mWZ0AJ8gdPixvdE06tgpz) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Wimbledon](https://open.spotify.com/album/7rhxRAp0OfX87dBLKkG5VN) | 2:20 | 2024-01-19 | 2024-09-13 |
 | [winwin](https://open.spotify.com/track/2MhRuxH6pJKQ0E3xcsLEaZ) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:41 | 2024-03-21 | 2024-04-19 |
 | [winwin](https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [winwin](https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU) | 2:43 | 2024-01-25 | 2024-10-04 |
+| [X](https://open.spotify.com/track/7j5VquF3X1W8Z9eAj4vRtX) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [X](https://open.spotify.com/album/2VnRS1preGdKgWCqZYQ7lP) | 2:03 | 2025-03-27 |  |
 | [xoxo \(feat\. ICEKIID\)](https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:01 | 2023-09-21 | 2024-01-19 |
 | [Young Habibi \(feat\. Lamin\)](https://open.spotify.com/track/1LzZuD8TsgFC8kG5DoocWb) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:22 | 2023-09-21 | 2023-12-14 |
 | [Zoo \(feat\. Branco\)](https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Zoo \(feat\. Branco\)](https://open.spotify.com/album/5Fev5JoZyULNiMeVArH7RA) | 2:30 | 2023-09-21 | 2024-02-23 |

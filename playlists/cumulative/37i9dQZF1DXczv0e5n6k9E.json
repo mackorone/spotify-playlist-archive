@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  Hawk",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  RICTA",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -64,6 +64,32 @@
       "duration_ms": 179478,
       "name": "100%",
       "url": "https://open.spotify.com/track/4o8k3VS5jngWCqBoht7AxV"
+    },
+    {
+      "album": {
+        "name": "10K",
+        "url": "https://open.spotify.com/album/2qXHB2PX2uC6VJifPfuknZ"
+      },
+      "artists": [
+        {
+          "name": "KOS",
+          "url": "https://open.spotify.com/artist/7tWuvdCCO8fLNq9O1fcV3P"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "10K",
+      "url": "https://open.spotify.com/track/38IWjq1yrt51VTg1X6aY2T"
     },
     {
       "album": {
@@ -1359,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "CO",
+        "url": "https://open.spotify.com/album/2J59CEpFhUzRwHHyiVO3hd"
+      },
+      "artists": [
+        {
+          "name": "Big Skendo",
+          "url": "https://open.spotify.com/artist/5wOvUrTEKrUjEDLBHIWxvp"
+        },
+        {
+          "name": "BAKV",
+          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "CO",
+      "url": "https://open.spotify.com/track/0P3nfnwHUofpMBUJSH6HMK"
+    },
+    {
+      "album": {
         "name": "COLOMBIA",
         "url": "https://open.spotify.com/album/3hrbYM55QkhBCIRLYR66Nl"
       },
@@ -1746,7 +1794,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 130243,
       "name": "DISCO",
       "url": "https://open.spotify.com/track/2UB8Gy1S5s9OEnKRwBj3VC"
@@ -2002,7 +2050,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 144947,
       "name": "Egwistis",
       "url": "https://open.spotify.com/track/5arOIjVi2wt1r8K2iVvEuA"
@@ -2277,6 +2325,28 @@
     },
     {
       "album": {
+        "name": "CITY CENTER II",
+        "url": "https://open.spotify.com/album/4Ro2IFgtV6FdHzC8bwmydk"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Savv",
+          "url": "https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175774,
+      "name": "FAST LIFE",
+      "url": "https://open.spotify.com/track/05wzSenrDxynjOvBRsTFJF"
+    },
+    {
+      "album": {
         "name": "Fernw Trap",
         "url": "https://open.spotify.com/album/1QOASIAga97R98RB7aHM6r"
       },
@@ -2332,7 +2402,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 146400,
       "name": "Firma",
       "url": "https://open.spotify.com/track/2sX4XZW1jS2IqeQUKZXkM6"
@@ -3488,7 +3558,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 140947,
       "name": "Jelly",
       "url": "https://open.spotify.com/track/2bcgX04GvadeZcjljz71U6"
@@ -3608,7 +3678,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 207058,
       "name": "Kataramenos",
       "url": "https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg"
@@ -4013,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "LITEPO",
+        "url": "https://open.spotify.com/album/4KevUSkzu4IMdVCw7rr3gQ"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "LITEPO",
+      "url": "https://open.spotify.com/track/1PEQCrOaOynttrUecgIADe"
+    },
+    {
+      "album": {
         "name": "LOGIA",
         "url": "https://open.spotify.com/album/64XLG1PntIfSNtfQr37wvq"
       },
@@ -4238,7 +4326,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 166766,
       "name": "Mana",
       "url": "https://open.spotify.com/track/2y1FrnKPQ5DkEGau6vEeky"
@@ -4404,6 +4492,28 @@
       "duration_ms": 157227,
       "name": "MBAPPE",
       "url": "https://open.spotify.com/track/0MNvjSqNtUCZ4ikxrRe8kz"
+    },
+    {
+      "album": {
+        "name": "MCMG",
+        "url": "https://open.spotify.com/album/6qmiCrOXBSVeP6ZTg4UF9K"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "MCMG",
+      "url": "https://open.spotify.com/track/77Wm22dAxuoUaanH6Rx7aT"
     },
     {
       "album": {
@@ -4775,6 +4885,32 @@
     },
     {
       "album": {
+        "name": "Persona Non Grata",
+        "url": "https://open.spotify.com/album/2qyHoRdss8wai65gs9F0oc"
+      },
+      "artists": [
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        },
+        {
+          "name": "Sp93",
+          "url": "https://open.spotify.com/artist/70BVuSoIusPEV52Fyi3RlK"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Ninety Three (93)",
+      "url": "https://open.spotify.com/track/2XqPYDCvzSx7fFHXZAxTIR"
+    },
+    {
+      "album": {
         "name": "NO COMPETITION",
         "url": "https://open.spotify.com/album/1TKNjxFfKZ1oKFuiJ82CKy"
       },
@@ -5100,6 +5236,28 @@
       "duration_ms": 206400,
       "name": "Opa Opa",
       "url": "https://open.spotify.com/track/3BLnkCKKESJlfJlW3bX8wd"
+    },
+    {
+      "album": {
+        "name": "Oreksi",
+        "url": "https://open.spotify.com/album/7IjjQpnhGhaiABfNGw5AjL"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "Gojix",
+          "url": "https://open.spotify.com/artist/7FCGLRP4m1BIMGGn4ej0Qi"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97111,
+      "name": "Oreksi",
+      "url": "https://open.spotify.com/track/1N6OaD49SBm410ruP87lhV"
     },
     {
       "album": {
@@ -6008,7 +6166,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 100614,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/03jjQSiLyFz7YKJekNvI7s"
@@ -6607,6 +6765,28 @@
     },
     {
       "album": {
+        "name": "VITTORIO",
+        "url": "https://open.spotify.com/album/5eO1el00cLdi0oDe9r5GIV"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/6MifNe0ruxhUoIom139UZU"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "Strofes",
+      "url": "https://open.spotify.com/track/0odGgIH0PF2HVa0uT40iAP"
+    },
+    {
+      "album": {
         "name": "Sukarie",
         "url": "https://open.spotify.com/album/4aykjh6AjljvE3AGMGnULZ"
       },
@@ -6710,7 +6890,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 150612,
       "name": "TAMAM",
       "url": "https://open.spotify.com/track/5sevJDfYQG35a414MpthiM"
@@ -6946,10 +7126,28 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 199545,
       "name": "TOKAREV",
       "url": "https://open.spotify.com/track/103UeBr3kdzZcyUhcb72BU"
+    },
+    {
+      "album": {
+        "name": "MIA KOLASH ANTHIZEI STIN KARDIA SOY",
+        "url": "https://open.spotify.com/album/68VJNEJxAamjOVoDs22mrR"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/4Dsd6cAcZNwLHc3Gjg59vO"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195255,
+      "name": "Toriko",
+      "url": "https://open.spotify.com/track/0NQCWuZvutMqgjHocOTAUR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-462 songs - 1 day 3 hr 2 min
+463 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 | 2021-01-23 | 2022-03-18 |
 | [Unknown Male 01](https://open.spotify.com/track/768wF93WAaExWS57CzNg45) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Unknown Male 01](https://open.spotify.com/album/3lV4G0BqDur5G7vZwlimpQ) | 6:08 | 2021-09-04 |  |
 | [Unsainted](https://open.spotify.com/track/2093eVNfimjmNjU1gk1ES7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Unsainted](https://open.spotify.com/album/6OmUwiZBss5csDAD3IAhdD) | 4:20 | 2020-10-10\* | 2021-02-25 |
+| [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-28 |  |
 | [Vacancy](https://open.spotify.com/track/6egjaVpqU7b8Fad7lbbUC1) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Vacancy](https://open.spotify.com/album/6VKXnbuUonlvaJQ44xUEyP) | 3:58 | 2020-10-10\* | 2021-05-13 |
 | [Vapes](https://open.spotify.com/track/4U3APnURFGyG3Z3kM3EaJB) | [Brashs](https://open.spotify.com/artist/1GBjCQqhEPn3vWsQYDi90Z) | [Vapes](https://open.spotify.com/album/0qy4lAf7UWei3c40jfLWBN) | 1:53 | 2024-11-28 |  |
 | [Venus Fly Trap](https://open.spotify.com/track/6h7AmUi3ghBeEfsZygAxOd) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd) | 2:38 | 2021-06-12 |  |

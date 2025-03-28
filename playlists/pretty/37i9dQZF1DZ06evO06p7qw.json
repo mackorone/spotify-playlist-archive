@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 173144,
+  "num_followers": 173190,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+CggAAAAADwYlIOlo+xDAOk1WZsPLJg",
+  "snapshot_id": "Z+HyAAAAAABJD+mkECTC1xsjPT+7H05H",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Que Te Vi",
-        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
+        "name": "Cielo (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Desde Que Te Vi",
-      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
+      "duration_ms": 183422,
+      "name": "Cielo (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
     },
     {
       "added_at": null,
@@ -411,22 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
+        "name": "Desde Que Te Vi",
+        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 183422,
-      "name": "Cielo (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
+      "duration_ms": 171789,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
     },
     {
       "added_at": null,

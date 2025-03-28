@@ -4,7 +4,7 @@
 
 > Where your new favourite bands are discovered\. Cover: florence road
 
-168 songs - 9 hr 59 min
+171 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 | 2024-06-14 | 2024-12-13 |
 | [Beautiful Hands](https://open.spotify.com/track/7uOgRXGJD7kHoZGjkjgkYA) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Beautiful Hands](https://open.spotify.com/album/1k2nj68i8nUY0iT3pA1Pj6) | 3:43 | 2025-03-07 |  |
 | [Bedwetter](https://open.spotify.com/track/0Pkkje3ykyNs1reEKq2Xih) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Bedwetter](https://open.spotify.com/album/3boYoDjJRkzVCRtruIGDXX) | 5:26 | 2025-01-22 |  |
+| [Better Days](https://open.spotify.com/track/0dPVVnSzDSngf9i2umcLDb) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Better Days](https://open.spotify.com/album/1hlEQk2DaeeAdceEkJ6rgH) | 3:38 | 2025-03-28 |  |
 | [Bittersweet](https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Bittersweet](https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp) | 3:57 | 2025-03-17 |  |
 | [Bleeding](https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Bleeding](https://open.spotify.com/album/1haIHMphCyAK4P3YWOvNQF) | 4:49 | 2024-08-16 | 2025-01-23 |
 | [Borderline](https://open.spotify.com/track/5ZeId40tYso3dnPaH0Irnl) | [Adult Leisure](https://open.spotify.com/artist/1x8fyCiAVXjUlU0yfRSIP7) | [Borderline](https://open.spotify.com/album/5sFHFJWNEZ1aBBG8z57CcK) | 3:41 | 2024-08-16 | 2025-01-23 |
@@ -68,6 +69,7 @@
 | [Getting Good](https://open.spotify.com/track/4y3KiwLcKLaKPHf6tH4s7F) | [Lazy Day](https://open.spotify.com/artist/0F9wD0Nf2Hm0iiFJUqsHLy) | [Getting Good](https://open.spotify.com/album/6vdXlGyH1FuAbrkIeQ75iH) | 2:38 | 2024-11-08 | 2025-03-18 |
 | [Ghost](https://open.spotify.com/track/6rPmWz9aoFcSqYMoxeMwuD) | [Delivery Service](https://open.spotify.com/artist/2ldcalEDsVntItKFwQgy4W) | [Ghost](https://open.spotify.com/album/7ncGRefKCkvmqtxPKuw1EM) | 3:46 | 2025-03-07 |  |
 | [Glue](https://open.spotify.com/track/64ogJV998yBGKEnu5VrUeB) | [Florentenes](https://open.spotify.com/artist/3ARtFR3uitcSLCVxhnYln0) | [Glue](https://open.spotify.com/album/756HTjlhhotoXjG0egC407) | 4:21 | 2024-10-06 | 2025-03-18 |
+| [God Isn't Real](https://open.spotify.com/track/41VkkMHjk3hTHEemUhwePp) | [YES AND MAYBE](https://open.spotify.com/artist/3eeGgUP0pVi7bxVdNUbzc7) | [God Isn't Real](https://open.spotify.com/album/2aebxXPrkZTqvW6ssEijwT) | 3:56 | 2025-03-28 |  |
 | [Golden](https://open.spotify.com/track/2vnGiiOUKM8dUU7RmRs2Bs) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Golden](https://open.spotify.com/album/0FgWiapCduK5CnjIw2hUmo) | 3:42 | 2025-02-14 | 2025-03-18 |
 | [Gone Girl](https://open.spotify.com/track/5bajgZvZb1x9OScsPAC1gB) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Gone Girl](https://open.spotify.com/album/3Fgk1n5Tdm7FcE7SpAlW39) | 2:58 | 2024-06-14 | 2024-07-27 |
 | [Green Shirt](https://open.spotify.com/track/1Lgx5ZUYGcJiDQMqQ6jAGo) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Green Shirt](https://open.spotify.com/album/0ac6cMBpx1ICVqKFSnztEt) | 2:08 | 2024-06-14 | 2024-10-07 |
@@ -120,6 +122,7 @@
 | [One More Day](https://open.spotify.com/track/544xcMdny7JqmMbkVxHoiX) | [Umarells](https://open.spotify.com/artist/3xrZ3BiHelQXsoQJoP90Yh) | [One More Day](https://open.spotify.com/album/1MKpe4kToXSOWcgdCnnDCE) | 5:40 | 2024-09-13 | 2025-02-14 |
 | [Paith Own](https://open.spotify.com/track/59BSXqdDDiNnt79NuG5mIM) | [a Lesser Version](https://open.spotify.com/artist/7gJ9ES0nqI44kB8b0S8mQC) | [Paith Own](https://open.spotify.com/album/3yOyHF7k7gt1n6vMs77Swu) | 3:44 | 2024-10-06 | 2025-02-14 |
 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 | 2024-06-14 | 2024-09-14 |
+| [Pirouette](https://open.spotify.com/track/7uj5bFfCFpP3bXNcHPtcJQ) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Pirouette](https://open.spotify.com/album/0ZSz3vLHAgBenyEI3SZEdD) | 4:06 | 2025-03-28 |  |
 | [pitpony](https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [pitpony](https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c) | 2:36 | 2025-02-07 |  |
 | [Polaroid](https://open.spotify.com/track/2mawheCRpyRa0fSg5EgFde) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Polaroid](https://open.spotify.com/album/0TZ0Ly4YFePYFwso7dhmID) | 3:47 | 2024-11-29 | 2025-02-14 |
 | [Pop Star](https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Pop Star](https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84) | 2:54 | 2024-06-14 | 2024-07-27 |

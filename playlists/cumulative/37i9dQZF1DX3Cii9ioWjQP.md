@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: SM Jazz Trio\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Danny Koo\(대니 구\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-244 songs - 17 hr 24 min
+245 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [The photo album](https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO) | [Modal](https://open.spotify.com/artist/7kao384lpsOV5S3UKdu403) | [Modalism](https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF) | 5:29 | 2024-09-13 |  |
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 | 2023-02-08 |
 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 | 2022-05-03 | 2023-02-08 |
+| [Think About The Jazz](https://open.spotify.com/track/7dLZSRwgD7eY31RDeDmlxO) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Danny Sings](https://open.spotify.com/album/0gXvaL4A4zK6XnkbdqAAbm) | 2:35 | 2025-03-28 |  |
 | [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 | 2023-01-13 | 2024-11-07 |
 | [Tic Toc](https://open.spotify.com/track/3v8tZDqJGf67V31paDAbd8) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/1pPdybb7qeAsSFyxV2YerW) | 3:29 | 2023-07-24 | 2024-04-19 |
 | [Time \(for Annie\)](https://open.spotify.com/track/4yWXTxic6c42tqgPpnZgOL) | [Sun\-Ho Frank Kim](https://open.spotify.com/artist/0DhWxMIv10oVw73Rkd3Ql7) | [Time](https://open.spotify.com/album/1Nr5iVRskqbUFA846VjmqI) | 3:07 | 2022-05-03 | 2023-02-08 |

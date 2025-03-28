@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Dam Swindle
 
-290 songs - 18 hr 17 min
+291 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 | 2025-03-21 |  |
 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 | 2025-03-14 |  |
 | [Feeling Alive](https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt) | 3:49 | 2024-08-15 | 2025-02-14 |
+| [Finding Money](https://open.spotify.com/track/0bpA5JIBVexaQFIVPq0kgm) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu), [Jessica Barden](https://open.spotify.com/artist/6iJSrJ7PuMv7aOuHX1eP7j) | [Finding Money](https://open.spotify.com/album/4j0ANvwaysKFyohHAoJw17) | 5:40 | 2025-03-28 |  |
 | [Fire Of Mercy \- yunè pinku remix](https://open.spotify.com/track/6ITWROA9slWos6GjdlryE5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy \(yunè pinku remix\)](https://open.spotify.com/album/5ZmBR9NMbuBycE92C5b0Wy) | 4:14 | 2024-02-23 | 2024-09-20 |
 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 | 2025-02-21 |  |
 | [Galbi](https://open.spotify.com/track/2Kwl0LDsG7m8Z8r9Q03Mdy) | [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR), [Aymen Attia](https://open.spotify.com/artist/0JGgJH2rCNNIjvM2aCtyR4) | [Galbi](https://open.spotify.com/album/2tq3bgdtFrfrUJRiHumSd6) | 4:15 | 2024-08-15 | 2025-02-14 |
@@ -247,7 +248,7 @@
 | [Stranger's Town](https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [ZOE ASKA](https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE) | [Stranger's Town](https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t) | 3:24 | 2024-08-15 | 2025-03-21 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-31 |  |
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 | 2024-06-21 | 2025-02-14 |
-| [Take Me There](https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Service Station At The End Of The Universe](https://open.spotify.com/album/1Lf53XbMfvkF7oDKlZkahO) | 3:32 | 2025-02-28 |  |
+| [Take Me There](https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Service Station At The End Of The Universe](https://open.spotify.com/album/1Lf53XbMfvkF7oDKlZkahO) | 3:32 | 2025-02-28 | 2025-03-28 |
 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 | 2024-03-22 | 2025-01-17 |
 | [Talks](https://open.spotify.com/track/1AmZK3O0XYSfY636qTahcW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Talks](https://open.spotify.com/album/74CRCBMGYhrTI6ZzX2ARxr) | 4:17 | 2021-10-28 | 2024-03-22 |
 | [TEARS4ALOVER](https://open.spotify.com/track/0pg8bRhiPSK1Dd8zrUdm8y) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [TEARS4ALOVER](https://open.spotify.com/album/0gP6xTqemZ7rnjnsICldU0) | 3:14 | 2025-02-14 | 2025-02-28 |

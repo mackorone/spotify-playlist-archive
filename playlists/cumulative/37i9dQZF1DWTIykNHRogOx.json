@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Keren Ann",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Ours",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 161458,
       "name": "Aigu",
       "url": "https://open.spotify.com/track/5u1VPJQClnBXgoGuNsCSjP"
@@ -1426,6 +1426,24 @@
       "duration_ms": 185066,
       "name": "Le secret",
       "url": "https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE"
+    },
+    {
+      "album": {
+        "name": "Le spleen d'une vie sublime",
+        "url": "https://open.spotify.com/album/5ElJYM0FACdaEq4r2cxm6I"
+      },
+      "artists": [
+        {
+          "name": "Ours",
+          "url": "https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "Le spleen d\u2019une vie sublime",
+      "url": "https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE"
     },
     {
       "album": {

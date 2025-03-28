@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Jonas Sanche, Soulnastyy & Movimiento Original
 
-232 songs - 13 hr 12 min
+233 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [NO PUEDO PARAR](https://open.spotify.com/track/1lwAeivIL5LsMKhsO4ps5H) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0) | [NO PUEDO PARAR](https://open.spotify.com/album/7xFI2Kh3YGe4S7I9HjbZK1) | 4:19 | 2024-03-22 |  |
 | [No Te Miento](https://open.spotify.com/track/3jNIFdbUeIxo1JKb1VjUHg) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Al2 El Aldeano](https://open.spotify.com/artist/6t0fpse1AWd2J0BfBYR2B1) | [Origen](https://open.spotify.com/album/0KvclUCGaR9NVzW80700mt) | 4:43 | 2022-01-06 |  |
 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 | 2022-03-04 | 2023-03-11 |
+| [No voy a olvidarte](https://open.spotify.com/track/2xn7uTGqQyqYKAfPg2Ib9D) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [No voy a olvidarte](https://open.spotify.com/album/0vzcMOxIPmXwekQsC2W649) | 3:52 | 2025-03-28 |  |
 | [Nuevo Comienzo](https://open.spotify.com/track/2wDbuMncsJJm6LbExT4HEC) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Pasado, Presente & Libertad](https://open.spotify.com/album/1OFFDDBuRek7hFHF95KAbq) | 3:15 | 2022-07-15 | 2024-04-19 |
 | [Nuevo Comienzo \(feat\. Portavoz\)](https://open.spotify.com/track/6drA4it4HPdsCBY0zYQDkz) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Pasado, Presente & Libertad](https://open.spotify.com/album/5x6g1bPnTmQyHdCTczPfjA) | 3:15 | 2022-01-06 |  |
 | [Ofrenda](https://open.spotify.com/track/0OgxjdHjIUcMxOkhNz44HB) | [Hijos de las Hojas](https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM), [Nicolas Libertad](https://open.spotify.com/artist/4Zohwfh3tPyL3X3baHjKDc) | [Ofrenda](https://open.spotify.com/album/0u7Ce6HijZZtWbiPYzD1qa) | 3:04 | 2022-01-06 | 2023-04-09 |

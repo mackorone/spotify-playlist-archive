@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 133863,
       "name": "CALI",
       "url": "https://open.spotify.com/track/1fdIcQ6v37OPB0WdjyZUwC"
@@ -1272,6 +1272,24 @@
       "duration_ms": 156850,
       "name": "Cecchino",
       "url": "https://open.spotify.com/track/3P8ZLsAr6ipegENB65REsp"
+    },
+    {
+      "album": {
+        "name": "CH CAGN?",
+        "url": "https://open.spotify.com/album/4PksCZU5Up3Cihdhjr8Kgg"
+      },
+      "artists": [
+        {
+          "name": "ALTACARATURA",
+          "url": "https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214201,
+      "name": "CH CAGN?",
+      "url": "https://open.spotify.com/track/4a7pPpkUpdM9HkGw72qWnH"
     },
     {
       "album": {
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 136727,
       "name": "Int'o Club",
       "url": "https://open.spotify.com/track/1kOqmTF9SMabDjJoUQziXQ"
@@ -5486,6 +5504,36 @@
       "duration_ms": 155782,
       "name": "Nun M Piac",
       "url": "https://open.spotify.com/track/3sjBNn9CaNoYsgUjNsDhGR"
+    },
+    {
+      "album": {
+        "name": "PRIMOGENITO",
+        "url": "https://open.spotify.com/album/3GoF5AMSzUXTnOGyIpI1dH"
+      },
+      "artists": [
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179796,
+      "name": "NUN O SAJE (feat. Random, Peppe Soks, O'Tsunami)",
+      "url": "https://open.spotify.com/track/4rnfktdAzVrpQc7bwhHeF9"
     },
     {
       "album": {

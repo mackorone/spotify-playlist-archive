@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,950 songs - 1 day 15 hr 37 min
+1,951 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1325,6 +1325,7 @@
 | [Quiet Plains](https://open.spotify.com/track/6lDPsGIVPEAnqYMU3Tbt6f) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Hope Returns](https://open.spotify.com/album/2C0XsBRLNZ8vFdiy6XmqdC) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Quiet Stars](https://open.spotify.com/track/2eAx1LQnOVdCwflCqDCzyz) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:01 | 2022-03-11 |  |
 | [Quiet Times](https://open.spotify.com/track/2UUR7Ph3WpDLB4CYoxinew) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Cello Stories](https://open.spotify.com/album/7oVEf4VjkG8dnuj9GL6vKf) | 1:17 | 2024-01-29 |  |
+| [Quiet Trust](https://open.spotify.com/track/5T6ueVDrjdlccyZF0TZ2tN) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Quiet Trust](https://open.spotify.com/album/5XEDLr7TtNJs7mFdAlveAH) | 1:00 | 2025-03-27 |  |
 | [Quiet Voices](https://open.spotify.com/track/2fyUV39bwcVSnJMU4A9Wpn) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Signs](https://open.spotify.com/album/1stlrxe6zVBG0sAmhQKUUx) | 1:53 | 2022-01-12 | 2024-01-30 |
 | [Quiet Voices in the Night](https://open.spotify.com/track/5owBcG16ykESfSpLRnJzu7) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Signs Revisited](https://open.spotify.com/album/6LXHz3fjr8QSqODA7xBmxG) | 1:40 | 2022-01-12 | 2024-01-30 |
 | [Quietly Everywhere](https://open.spotify.com/track/4ErlHYqkENef2p72H9T18Q) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |

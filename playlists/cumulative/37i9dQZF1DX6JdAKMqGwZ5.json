@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: LUSILLON.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Vera Fauna.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 173075,
       "name": "contigo aqu\u00ed",
       "url": "https://open.spotify.com/track/7gExhLJOIdDcxdyZdnCFjI"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 187128,
       "name": "Coraz\u00f3n vaquero",
       "url": "https://open.spotify.com/track/7eU3gSFZRfaX48jQ8tT1sd"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 192516,
       "name": "Cre\u00ed que era eterno",
       "url": "https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 237395,
       "name": "danito",
       "url": "https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh"
@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Dime d\u00f3nde estamos",
+        "url": "https://open.spotify.com/album/2LJSChsl9XhbkeiLuqmINv"
+      },
+      "artists": [
+        {
+          "name": "Vera Fauna",
+          "url": "https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168729,
+      "name": "Dime d\u00f3nde estamos",
+      "url": "https://open.spotify.com/track/4FdphHAwD8v8BmeV4jGwmk"
+    },
+    {
+      "album": {
         "name": "dos sombras",
         "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
       },
@@ -1801,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "El amor que solo a ti te pertenece",
+        "url": "https://open.spotify.com/album/7B7eYLcLAaB8i3YjkTNmgT"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "El amor que solo a ti te pertenece",
+      "url": "https://open.spotify.com/track/2TxZvBYHnpZsjxgEbxh4HN"
+    },
+    {
+      "album": {
         "name": "El BB de la luz",
         "url": "https://open.spotify.com/album/5EdZBsNCtfcBu8kCZV2ZWB"
       },
@@ -1812,7 +1848,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 148828,
       "name": "El BB de la luz",
       "url": "https://open.spotify.com/track/6WmiYbVoUU9oqKDPQ1AAFi"
@@ -2812,7 +2848,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 203432,
       "name": "Hacerlo mal",
       "url": "https://open.spotify.com/track/2jrxJXDhBzUlurt9BautGb"
@@ -3449,6 +3485,24 @@
     },
     {
       "album": {
+        "name": "La Plaza",
+        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
+      },
+      "artists": [
+        {
+          "name": "Rufus T. Firefly",
+          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204559,
+      "name": "La Plaza",
+      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
+    },
+    {
+      "album": {
         "name": "La Plaza del Carmen",
         "url": "https://open.spotify.com/album/37TtAqZC3UPRSH0hDxxsaw"
       },
@@ -4050,7 +4104,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 193829,
       "name": "Mar Menor",
       "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
@@ -4188,6 +4242,24 @@
       "duration_ms": 169312,
       "name": "Me Cago En Tus Muertos",
       "url": "https://open.spotify.com/track/7FNZ22EPTcr0wySdMiHAUX"
+    },
+    {
+      "album": {
+        "name": "Me gusta, me encanta",
+        "url": "https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4"
+      },
+      "artists": [
+        {
+          "name": "Amatria",
+          "url": "https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161015,
+      "name": "Me gusta, me encanta",
+      "url": "https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3"
     },
     {
       "album": {
@@ -4592,7 +4664,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 162250,
       "name": "M\u00daSICA PARA TERMINAR",
       "url": "https://open.spotify.com/track/1crNNzBR6UlPsOogylRITQ"
@@ -5624,7 +5696,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 176176,
       "name": "Pura geografia",
       "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
@@ -5856,6 +5928,24 @@
       "duration_ms": 186382,
       "name": "Reventarme",
       "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
+    },
+    {
+      "album": {
+        "name": "Robot",
+        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165742,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
     },
     {
       "album": {
@@ -6285,6 +6375,28 @@
     },
     {
       "album": {
+        "name": "Tal vez",
+        "url": "https://open.spotify.com/album/0eEf6BblPnfbpTZslxzvCq"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228074,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/4BdBaKVptpdEPT4yhmCyGZ"
+    },
+    {
+      "album": {
         "name": "TALANQUERA",
         "url": "https://open.spotify.com/album/5mzLcIz6cx19gS1C0HtgGB"
       },
@@ -6582,7 +6694,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 256423,
       "name": "tormenta",
       "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
@@ -6604,7 +6716,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
@@ -6720,6 +6832,24 @@
       "duration_ms": 186976,
       "name": "un beso y una flor",
       "url": "https://open.spotify.com/track/2ZjanRmhMk2cBK6Hl4nAYL"
+    },
+    {
+      "album": {
+        "name": "Un beso y una flor",
+        "url": "https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Bravos",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170862,
+      "name": "Un beso y una flor",
+      "url": "https://open.spotify.com/track/5W31WXmdZiFUzKcBmspJdG"
     },
     {
       "album": {

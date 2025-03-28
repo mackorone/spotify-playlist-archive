@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Jea Mira",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: IKARVS",
   "name": "up next",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 183050,
       "name": "8 am",
       "url": "https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B"
+    },
+    {
+      "album": {
+        "name": "a little bit",
+        "url": "https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165408,
+      "name": "a little bit",
+      "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
     },
     {
       "album": {
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 168133,
       "name": "chc\u0119 z Tob\u0105 i\u015b\u0107 do \u0142\u00f3\u017cka",
       "url": "https://open.spotify.com/track/36opgeBulRtAvvEx2YwDJI"
@@ -1797,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "EDEN",
+        "url": "https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202240,
+      "name": "EDEN",
+      "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
+    },
+    {
+      "album": {
         "name": "epicentrum",
         "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
       },
@@ -1862,7 +1898,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 160213,
       "name": "falochron",
       "url": "https://open.spotify.com/track/5o0OlsASevD0ArIop32BSf"
@@ -1942,6 +1978,24 @@
       "duration_ms": 172000,
       "name": "fotki",
       "url": "https://open.spotify.com/track/6TA7gJh2nvKnCgIHaxTH2H"
+    },
+    {
+      "album": {
+        "name": "Casting / Fuckboy",
+        "url": "https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173032,
+      "name": "Fuckboy",
+      "url": "https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK"
     },
     {
       "album": {
@@ -2080,7 +2134,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 208546,
       "name": "Gorset",
       "url": "https://open.spotify.com/track/5KkcaqjflHxH2MenhXxhXQ"
@@ -2188,7 +2242,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 206846,
       "name": "Hej, nie m\u00f3wi\u0142am ci",
       "url": "https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj"
@@ -2246,7 +2300,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 192818,
       "name": "How I Love You",
       "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
@@ -3125,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/1ayJQYYEf8irFc5UVR82f8"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161470,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/2djMadJLhufUl397ravYvO"
+    },
+    {
+      "album": {
         "name": "#INDAWOODS",
         "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
       },
@@ -3340,6 +3412,24 @@
       "duration_ms": 154666,
       "name": "MAZZY STAR",
       "url": "https://open.spotify.com/track/6X3KI73fpy5JXkfzElB89D"
+    },
+    {
+      "album": {
+        "name": "MAZZY STAR",
+        "url": "https://open.spotify.com/album/0alyr4UdNAcPFa0IPHfQ0k"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "MAZZY STAR",
+      "url": "https://open.spotify.com/track/6opbogQthtVP3KyPlMJXJK"
     },
     {
       "album": {
@@ -3576,10 +3666,28 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 202069,
       "name": "mleko i mood",
       "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
+    },
+    {
+      "album": {
+        "name": "MODA NA MI\u0141O\u015a\u0106",
+        "url": "https://open.spotify.com/album/6qtnfOs6Psuq9cmifWH9WL"
+      },
+      "artists": [
+        {
+          "name": "Natalia Miko\u0142ajska",
+          "url": "https://open.spotify.com/artist/0H96zZshfKV7mq25xuyAWD"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140988,
+      "name": "MODA NA MI\u0141O\u015a\u0106",
+      "url": "https://open.spotify.com/track/3bGTZApl2IOyFdKBX1UzKc"
     },
     {
       "album": {
@@ -3678,7 +3786,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 175423,
       "name": "MONEY ON MY MIND <3",
       "url": "https://open.spotify.com/track/5G39gR0KzWOe5eqlDGMte9"
@@ -4962,7 +5070,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
@@ -5136,6 +5244,24 @@
       "duration_ms": 165517,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt"
+    },
+    {
+      "album": {
+        "name": "Press Pause",
+        "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199380,
+      "name": "Press Pause",
+      "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
     },
     {
       "album": {
@@ -5346,7 +5472,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 156233,
       "name": "P\u00f3jd\u0119 tam, gdzie zechc\u0119",
       "url": "https://open.spotify.com/track/4zqVbsH9xeFi67g4upj3fb"
@@ -5864,7 +5990,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 115326,
       "name": "Stokrotka",
       "url": "https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax"
@@ -6507,6 +6633,24 @@
     },
     {
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/4Nwbv0UxHNuSeK4pKAoJjs"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/75KRhZ6OWTAF6alZRfM90S"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169485,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/1PEY0rrb2d8Ic5f4hCPCkX"
+    },
+    {
+      "album": {
         "name": "Ty to Ja",
         "url": "https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K"
       },
@@ -6598,7 +6742,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 166148,
       "name": "Usypiasz Mnie Jak Lek",
       "url": "https://open.spotify.com/track/0m7mpiEImNabbFyxGsfACh"
@@ -6750,7 +6894,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 196814,
       "name": "We're Not The Same",
       "url": "https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw"
@@ -6884,6 +7028,24 @@
       "duration_ms": 153024,
       "name": "Wi\u0119cej",
       "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
+    },
+    {
+      "album": {
+        "name": "Wody odesz\u0142y",
+        "url": "https://open.spotify.com/album/1MfHtnGP5xjQ6GemJLvKIK"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268637,
+      "name": "Wody odesz\u0142y",
+      "url": "https://open.spotify.com/track/6vRtXj4gYSY96X5MPUES4J"
     },
     {
       "album": {
@@ -7238,6 +7400,24 @@
       "duration_ms": 173726,
       "name": "zapomnia\u0142em wyda\u0107 w lipcu",
       "url": "https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0"
+    },
+    {
+      "album": {
+        "name": "Zapomnij Mnie",
+        "url": "https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi"
+      },
+      "artists": [
+        {
+          "name": "Joulie Fox",
+          "url": "https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178514,
+      "name": "Zapomnij Mnie",
+      "url": "https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF"
     },
     {
       "album": {

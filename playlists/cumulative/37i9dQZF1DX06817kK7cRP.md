@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-217 songs - 9 hr 27 min
+218 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Fever, Fever](https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Fever, Fever](https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz) | 2:44 | 2023-01-12 |  |
 | [Flat Out](https://open.spotify.com/track/055fovAr3EQTHeSIgre4ZE) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Flat Out](https://open.spotify.com/album/1obXVW12h6lb33uWGKUksN) | 2:19 | 2024-03-25 |  |
 | [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 | 2023-01-12 |  |
+| [For Your Love](https://open.spotify.com/track/53I80XJhp46fOGkk6E6iIp) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [For Your Love](https://open.spotify.com/album/2VSNJKmtPXZmKJsmqQDJ1r) | 2:00 | 2025-02-21 |  |
 | [Form Style](https://open.spotify.com/track/56tkSdGCIk4V99j5juZaRj) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Form Style](https://open.spotify.com/album/6TB09Usz0qwlaVmuqp7Bvc) | 2:15 | 2024-06-14 | 2024-08-24 |
 | [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 |  |
 | [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 | 2023-01-12 |  |
@@ -115,7 +116,7 @@
 | [Legacy](https://open.spotify.com/track/3vjocFB78Hp6WttnDBLwNw) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Legacy](https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p) | 1:56 | 2024-07-12 |  |
 | [little lies](https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:16 | 2023-09-22 |  |
 | [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2023-01-12 | 2023-03-15 |
-| [Lost Planet](https://open.spotify.com/track/4N6qX4nCHm7CdUaM6ujJNM) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Lost Planet](https://open.spotify.com/album/1ACEbv9PGIudBH35GanjNn) | 2:30 | 2023-03-23 |  |
+| [Lost Planet](https://open.spotify.com/track/4N6qX4nCHm7CdUaM6ujJNM) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Lost Planet](https://open.spotify.com/album/1ACEbv9PGIudBH35GanjNn) | 2:30 | 2023-03-23 | 2025-03-28 |
 | [Luminism](https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk) | [Blossum](https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Luminism](https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy) | 2:20 | 2023-01-12 |  |
 | [Mad Summer](https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Mad Summer](https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9) | 2:47 | 2023-01-12 |  |
 | [Madrugada](https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB) | [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Madrugada](https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2) | 2:24 | 2024-09-13 |  |

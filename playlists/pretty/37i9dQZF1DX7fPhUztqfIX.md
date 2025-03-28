@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,196 likes - 79 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,232 likes - 79 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,6 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 76 | [For The Lord \(Live\)](https://open.spotify.com/track/4rgKvZXHn2SC6P1gpR3GNY) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [For The Lord \(Live\)](https://open.spotify.com/album/6MOKsTjVj7D17QHgC26hHb) | 6:01 |
 | 77 | [Not To Us \(The Throne is Yours\) \- Live](https://open.spotify.com/track/0A6sl9r6Z0CePyei5f4drG) | [North Palm Worship](https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF), [Deborah Hong](https://open.spotify.com/artist/5m2lVUGIlAlnt0HgxH66UW) | [Not To Us \(The Throne is Yours\) \[Live\]](https://open.spotify.com/album/1EqXOZg6Mpp6iVfA9gliZF) | 4:33 |
 | 78 | [Left The 99 \- Live](https://open.spotify.com/track/2oCPPRKYpfJ5OIQfaRqB1c) | [Youth Alive](https://open.spotify.com/artist/657V2VJiShpC8NQYWvzcbV), [Ethan Beer](https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM) | [Left The 99](https://open.spotify.com/album/6rKDEHitz7eDdN9FnNAlL5) | 3:42 |
-| 79 | [We Won’t Stop](https://open.spotify.com/track/0AcJXqpqmLxCu48GZ74Lzw) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [We Won’t Stop / Healing Rain](https://open.spotify.com/album/4oQe1UyLrbIv6UDCd0o3q7) | 4:45 |
+| 79 | [We Won’t Stop \- Live](https://open.spotify.com/track/0AcJXqpqmLxCu48GZ74Lzw) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [We Won’t Stop / Healing Rain \(Live\)](https://open.spotify.com/album/4oQe1UyLrbIv6UDCd0o3q7) | 4:45 |
 
 Snapshot ID: `Z909JwAAAACAfixHfnm2eDgnC77SzmLC`

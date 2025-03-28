@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain]
 
 > Se você cheirou a suco em 2023, essa playlist é pros seus treinos, não é mesmo?
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,489 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,486 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

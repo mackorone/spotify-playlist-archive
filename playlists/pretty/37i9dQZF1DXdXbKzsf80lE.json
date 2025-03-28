@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 262036,
+  "num_followers": 262061,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
+        "name": "Bar Das Coleguinhas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 276386,
+      "name": "Volta Vai - Ao Vivo",
+      "url": "https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
         "name": "Nem V\u00e1",
         "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 159639,
       "name": "Nem V\u00e1",
       "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
-        "name": "Bar Das Coleguinhas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "Volta Vai - Ao Vivo",
-      "url": "https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Status",
-        "url": "https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 151817,
-      "name": "Status",
-      "url": "https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "A Um Beijo (Ao Vivo)",
         "url": "https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 156164,
       "name": "A Um Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/4PbwSgOB9azMBS0eGO2tX7"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Status",
+        "url": "https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 151817,
+      "name": "Status",
+      "url": "https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ"
     },
     {
       "added_at": "2025-01-17 10:46:45",

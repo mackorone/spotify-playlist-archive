@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Jon B
 
-709 songs - 1 day 18 hr 33 min
+710 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Every Word \(feat\. Krysten Simone\)](https://open.spotify.com/track/5NyONMWLkVKu8Mcgjn20aq) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Krysten Simone](https://open.spotify.com/artist/0hn6MIbOu7wcJcTpLD5KfQ) | [Every Word \(feat\. Krysten Simone\)](https://open.spotify.com/album/7yk8zzo9gYc0GvfAENJsOc) | 2:47 | 2021-12-03 | 2022-07-29 |
 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 | 2021-12-03 | 2023-04-01 |
 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 | 2024-01-19 | 2024-09-28 |
+| [F\*CK WHAT U WANT](https://open.spotify.com/track/7y43jmu06S2l1d6zdqJJp5) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [SAD GENERATION](https://open.spotify.com/album/5f07M4M5Z5Byv6tUHxCNb8) | 2:48 | 2025-03-21 |  |
 | [Fade \(feat\. KIRBY\)](https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Fade \(feat\. KIRBY\)](https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL) | 3:28 | 2024-05-31 | 2024-08-11 |
 | [Fall into place](https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Fall into place](https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo) | 2:48 | 2023-05-05 | 2023-10-07 |
 | [Fallin Up](https://open.spotify.com/track/5zzKQkne8IZnwYSn64f58h) | [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC) | [Fallin Up](https://open.spotify.com/album/0BDU605hqCrMZLfLQJpziG) | 4:24 | 2024-12-06 | 2024-12-26 |
@@ -405,7 +406,7 @@
 | [Means The World](https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Gareth Lockrane](https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv) | [Means The World](https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5) | 3:01 | 2023-04-07 | 2024-05-27 |
 | [Message](https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 3:26 | 2022-10-07 | 2023-02-04 |
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-06-30 |  |
-| [Michelle \- Studio Mix](https://open.spotify.com/track/0MjQ4Pt4wGbs2xXhkVhUTS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much: Greatest Hits](https://open.spotify.com/album/0xzFxd6HmtKMneQGOhQTqT) | 5:25 | 2025-01-31 |  |
+| [Michelle \- Studio Mix](https://open.spotify.com/track/0MjQ4Pt4wGbs2xXhkVhUTS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much: Greatest Hits](https://open.spotify.com/album/0xzFxd6HmtKMneQGOhQTqT) | 5:25 | 2025-01-31 | 2025-03-28 |
 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 | 2022-01-28 | 2022-09-10 |
 | [Might Be Ready \(feat\. JAWAN.mp3\)](https://open.spotify.com/track/2JVTlALDKUr6HR1A75cRco) | [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk), [JAWAN.mp3](https://open.spotify.com/artist/090FQ8mQozGCRCttDhgEw7) | [Pretty Little Love](https://open.spotify.com/album/5LHyCqOa5zWapeGRZ3etda) | 3:36 | 2024-11-01 | 2024-12-13 |
 | [Mile Away](https://open.spotify.com/track/49LmPgSvjaDAASm0XzBPKG) | [SHERIE](https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu) | [Mile Away](https://open.spotify.com/album/7iYyDb4LbfjvUTYQH8IXJT) | 2:47 | 2023-05-26 | 2023-06-10 |

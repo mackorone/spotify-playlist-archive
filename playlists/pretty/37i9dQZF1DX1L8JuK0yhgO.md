@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,540 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,537 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 51 | [チェーンが歌う](https://open.spotify.com/track/4BEhFnBkQqEPtk96lXEOgr) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [チェーンが歌う](https://open.spotify.com/album/0QemDOdiQYr6HpvSSRJUH4) | 2:35 |
 | 52 | [楽笑](https://open.spotify.com/track/1x8rEMmMWZi7oBSXu9Hu4v) | [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [楽笑](https://open.spotify.com/album/7yEWbkp8cZvyvsXfontgx0) | 2:20 |
 | 53 | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4) | 2:42 |
-| 54 | [REAL ME \(with Metro Boomin\)](https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [REAL ME](https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX) | 3:07 |
+| 54 | [REAL ME \(WITH METRO BOOMIN\)](https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [REAL ME](https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX) | 3:07 |
 | 55 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/5mrXsL7BvYIFCkNAlDcsDc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/7AmLEoR3dMkJayyL7ktxgE) | 2:52 |
 | 56 | [Impact \(with xaviersobased\)](https://open.spotify.com/track/2xTk9wtJ6mWf7YV6ppmdCK) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Impact \(with xaviersobased\)](https://open.spotify.com/album/6arkOvLfIMLsXr5dEE1Idr) | 1:55 |
 | 57 | [why are you talking to me](https://open.spotify.com/track/4rVKg3xrj2fLPRjWjfNlVs) | [DAFTY RORN](https://open.spotify.com/artist/0sBSaMn1gyO5qGBx2auD9o), [ATMOS 98](https://open.spotify.com/artist/534ciTVjrN709O6l0cHNU8) | [why are you talking to me](https://open.spotify.com/album/4GFsrCq8OIULBAe0bD2MzW) | 2:42 |

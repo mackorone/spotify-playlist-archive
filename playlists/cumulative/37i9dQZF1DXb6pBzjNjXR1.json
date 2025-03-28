@@ -1231,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "Heaven Choir",
+        "url": "https://open.spotify.com/album/59LMrryq80XBbv3DpiwXOM"
+      },
+      "artists": [
+        {
+          "name": "DJ Kabila",
+          "url": "https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220142,
+      "name": "Heaven Choir",
+      "url": "https://open.spotify.com/track/5W1hKVJm3UsUF79FnNiWWI"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4x1aCpqT679anIgHX9n9hW"
       },

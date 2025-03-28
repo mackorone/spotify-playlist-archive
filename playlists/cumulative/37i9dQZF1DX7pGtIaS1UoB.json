@@ -3687,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "\u5c11\u4e00\u4e2a\u4eba",
+        "url": "https://open.spotify.com/album/1WzUnYlmVhnp4b1UmL1Qoi"
+      },
+      "artists": [
+        {
+          "name": "Jade Kwan",
+          "url": "https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200021,
+      "name": "\u5c11\u4e00\u4e2a\u4eba",
+      "url": "https://open.spotify.com/track/7o8B9n3gm0hMCQu1kqzWu1"
+    },
+    {
+      "album": {
         "name": "\u6211\u53ef\u5426\u5c06\u4eba\u751f\u6bd4\u4f5c\u4e00\u573a\u7ade\u6280",
         "url": "https://open.spotify.com/album/4fNoLqoUAfMmo8CBfbUxzN"
       },
@@ -4202,7 +4220,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 223000,
       "name": "\u60f3\u548c\u4f60",
       "url": "https://open.spotify.com/track/056gvfjlsKIz2LXdJu7huz"
@@ -4922,6 +4940,24 @@
       "duration_ms": 225126,
       "name": "\u6211\u7684",
       "url": "https://open.spotify.com/track/685v4MbZJ111mcZWIoCH0s"
+    },
+    {
+      "album": {
+        "name": "\u6211\u7684\u5e78\u798f",
+        "url": "https://open.spotify.com/album/1ZhmLZ7OIZKuYGUObrWGsk"
+      },
+      "artists": [
+        {
+          "name": "Jinbo",
+          "url": "https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197777,
+      "name": "\u6211\u7684\u5e78\u798f",
+      "url": "https://open.spotify.com/track/12a25Yf6Lh9Ahd8WyzDJEy"
     },
     {
       "album": {
@@ -6826,7 +6862,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 183478,
       "name": "\u898b\u5230\u59b3\u5f8c",
       "url": "https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK"

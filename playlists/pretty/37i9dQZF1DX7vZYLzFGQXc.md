@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: can't be blue\(캔트비블루\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,168 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,187 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 |
 | 2 | [Plain](https://open.spotify.com/track/6qbOM4pmAkhH6CtzKErZZI) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Plain](https://open.spotify.com/album/5rLjepB7ooj5Uq1YC7zL4f) | 2:39 |
-| 3 | [Toy](https://open.spotify.com/track/68igdaLUHiu7Ma96plkRSQ) | [Option](https://open.spotify.com/artist/0vRLS4Q68chVJeEGar8342), [Leon](https://open.spotify.com/artist/5nyA2Ij1xMTgMDMZml0LhS) | [1st EP 'Option'](https://open.spotify.com/album/2obt5puKnVPmLEHL3CttWl) | 2:51 |
+| 3 | [Toy](https://open.spotify.com/track/68igdaLUHiu7Ma96plkRSQ) | [Option](https://open.spotify.com/artist/0vRLS4Q68chVJeEGar8342), [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [1st EP 'Option'](https://open.spotify.com/album/2obt5puKnVPmLEHL3CttWl) | 2:51 |
 | 4 | [earlymorningtrap](https://open.spotify.com/track/2uN8k3k5p9CdXODwXpzfbE) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [earlymorningtrap](https://open.spotify.com/album/7ih0wLgT3oDgJ91GetD2c8) | 3:34 |
 | 5 | [Trauma](https://open.spotify.com/track/7KE80Djfl8WR02D89E1hXS) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.07](https://open.spotify.com/album/0X7Z8bDpZkDzIoIv3JXf4n) | 4:04 |
 | 6 | [Chantepleure](https://open.spotify.com/track/3uFqbKQm8939lVJf14iOtl) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Chantepleure](https://open.spotify.com/album/6Fx1xlTCQNFEoNfRExjrXt) | 3:42 |

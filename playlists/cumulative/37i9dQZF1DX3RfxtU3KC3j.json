@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Can Baydar x Teoman",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Onur \u00d6zdemir ",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 142628,
       "name": "A\u015fka \u00c7arem Yok",
       "url": "https://open.spotify.com/track/5GWSVnhx6N0JhmCwpy7Psl"
@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Bozuk Aralar",
+        "url": "https://open.spotify.com/album/6q7RxDth2rfYYBREFlhryv"
+      },
+      "artists": [
+        {
+          "name": "\u015eekersiz",
+          "url": "https://open.spotify.com/artist/1vMWLVjfrmItWSB4hP1eYf"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184296,
+      "name": "Bozuk Aralar",
+      "url": "https://open.spotify.com/track/0cxvo11BTjyxK85KGzLdxU"
+    },
+    {
+      "album": {
         "name": "Bu Son",
         "url": "https://open.spotify.com/album/62l21Tz6BW9wolZ2ehy8kD"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -1308,6 +1326,24 @@
       "duration_ms": 202409,
       "name": "Eda",
       "url": "https://open.spotify.com/track/7jAycfFn2EDt9JtytuAT6U"
+    },
+    {
+      "album": {
+        "name": "raksedip yar\u0131n yokmu\u015f\u00e7as\u0131na",
+        "url": "https://open.spotify.com/album/4hYMzGFWZabwKj33dqAv7O"
+      },
+      "artists": [
+        {
+          "name": "Onur \u00d6zdemir",
+          "url": "https://open.spotify.com/artist/60uO9kaHKuwJKg5X8JBkrC"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296277,
+      "name": "Eksik \u015eark\u0131",
+      "url": "https://open.spotify.com/track/1E5KXDfuXYW20edl2BonD7"
     },
     {
       "album": {
@@ -1538,7 +1574,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 219989,
       "name": "Gelmiyor \u0130\u00e7imden \u015eark\u0131lar Yazmak - Feridun H\u00fcrel Alb\u00fcm",
       "url": "https://open.spotify.com/track/6fsqaxwYeCV9bYscv1PMVp"
@@ -2595,6 +2631,50 @@
     },
     {
       "album": {
+        "name": "Korkma Remastered",
+        "url": "https://open.spotify.com/album/2xhpNPI3xBUiYtX7mdNUYb"
+      },
+      "artists": [
+        {
+          "name": "Og\u00fcn Sanl\u0131soy",
+          "url": "https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq"
+        },
+        {
+          "name": "Hayko Cepkin",
+          "url": "https://open.spotify.com/artist/3hzijSzD6IwOV4SY2SiWQp"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312133,
+      "name": "Korkma 07 (D\u00fcet Hayko Cepkin) (feat. Hayko Cepkin)",
+      "url": "https://open.spotify.com/track/7jZtpQTaO6YwwEAMwMR8ti"
+    },
+    {
+      "album": {
+        "name": "Korkmam Art\u0131k Ben Karanl\u0131ktan",
+        "url": "https://open.spotify.com/album/49HOvxMCCSl4EBF1j8Y7zz"
+      },
+      "artists": [
+        {
+          "name": "Kana Kana",
+          "url": "https://open.spotify.com/artist/79m8TbKxx4eO0G80RgmZox"
+        },
+        {
+          "name": "\u00d6zge F\u0131\u015fk\u0131n",
+          "url": "https://open.spotify.com/artist/0acW6PhzqNwRvVcnRozzfB"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246800,
+      "name": "Korkmam Art\u0131k Ben Karanl\u0131ktan",
+      "url": "https://open.spotify.com/track/4rpHFSL0CR8YXCX0j4ziSM"
+    },
+    {
+      "album": {
         "name": "Kozmos",
         "url": "https://open.spotify.com/album/7v6NYYYKRt2zYEUBTTq8MF"
       },
@@ -2804,7 +2884,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 177500,
       "name": "Madalyonun Ters Y\u00fcz\u00fc - Feridun H\u00fcrel Alb\u00fcm",
       "url": "https://open.spotify.com/track/4ZTdlR9t5Esz2NsGaU0IgM"
@@ -3032,6 +3112,24 @@
       "duration_ms": 171441,
       "name": "O Yollar Seni \u00dczer",
       "url": "https://open.spotify.com/track/1qxa9RoGmYUcmjA3ueUbDq"
+    },
+    {
+      "album": {
+        "name": "O2",
+        "url": "https://open.spotify.com/album/2KugkF6RObh3UOfGOWWboO"
+      },
+      "artists": [
+        {
+          "name": "\u0130kiye On Kala",
+          "url": "https://open.spotify.com/artist/1HsQw7SuwmxSH4r2aqF9DB"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170675,
+      "name": "O2",
+      "url": "https://open.spotify.com/track/0gcYuLWxERGKDEKE6XJI84"
     },
     {
       "album": {
@@ -3386,6 +3484,24 @@
       "duration_ms": 186946,
       "name": "Senin Y\u00fcz\u00fcnden",
       "url": "https://open.spotify.com/track/6uR2FFnUKpfx7VHwhdlLKS"
+    },
+    {
+      "album": {
+        "name": "raksedip yar\u0131n yokmu\u015f\u00e7as\u0131na",
+        "url": "https://open.spotify.com/album/4hYMzGFWZabwKj33dqAv7O"
+      },
+      "artists": [
+        {
+          "name": "Onur \u00d6zdemir",
+          "url": "https://open.spotify.com/artist/60uO9kaHKuwJKg5X8JBkrC"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282553,
+      "name": "Seninle",
+      "url": "https://open.spotify.com/track/3s6zK8WEwsOUUH7ZO3rJT4"
     },
     {
       "album": {
@@ -3828,7 +3944,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 213629,
       "name": "Uyanmayal\u0131m",
       "url": "https://open.spotify.com/track/67W5jKPsAK9OBL9tl69S7J"
@@ -3976,7 +4092,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 208175,
       "name": "Yakar\u0131m Geceleri",
       "url": "https://open.spotify.com/track/07hIlXtXDZHYeyVpTQ6hfd"
@@ -4392,6 +4508,28 @@
       "duration_ms": 174000,
       "name": "Yol",
       "url": "https://open.spotify.com/track/3bbpdRTMYXQK4MHlBrCqXC"
+    },
+    {
+      "album": {
+        "name": "Yol Var",
+        "url": "https://open.spotify.com/album/6kGuDW4UkgnSM7XLRiAFOw"
+      },
+      "artists": [
+        {
+          "name": "Konuya Frans\u0131z",
+          "url": "https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx"
+        },
+        {
+          "name": "\u00d6ge471",
+          "url": "https://open.spotify.com/artist/0aS9UPqODEOPZaUT0cWYMw"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149618,
+      "name": "Yol Var",
+      "url": "https://open.spotify.com/track/4AX0DHzKP0BTkt0Ia4iCN5"
     },
     {
       "album": {

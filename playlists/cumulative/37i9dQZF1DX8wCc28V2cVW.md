@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-274 songs - 16 hr 0 min
+275 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [The Lion and the Hare \- The Nysa Defile](https://open.spotify.com/track/5eaZc7Q8u8RaP9G1IyFTcC) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY XVI Original Soundtrack \(Prelude\)](https://open.spotify.com/album/4SKgLEaL1Zpj6gDrtJ0OHu) | 3:07 | 2023-07-06 | 2024-03-20 |
 | [The Man with the Machine Gun](https://open.spotify.com/track/4dDWXG1U5MA0DEvrcnNirN) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/6hbfyUrnBUh55XnOX8hrQh) | 2:49 | 2021-05-21 | 2022-07-29 |
 | [The Man with the Machine Gun](https://open.spotify.com/track/7uCHzRE4pUtRQMCxHXNGm5) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 2:49 | 2021-05-21 | 2023-06-09 |
-| [The Prelude](https://open.spotify.com/track/7liYE66PkFySrdDPTMVoCi) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII Original Soundtrack](https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK) | 2:52 | 2024-09-18 |  |
+| [The Prelude](https://open.spotify.com/track/7liYE66PkFySrdDPTMVoCi) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII Original Soundtrack](https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK) | 2:52 | 2024-09-18 | 2025-03-28 |
 | [The Price of Freedom](https://open.spotify.com/track/38is5TN1XgYdgymUG3hynP) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 3:41 | 2021-05-21 |  |
 | [The Red Wings](https://open.spotify.com/track/1fe3v2CswZySz7fGC9FBfk) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IV Original Soundtrack](https://open.spotify.com/album/55779J248b7xDIJd3iExEn) | 2:06 | 2021-05-21 | 2023-06-09 |
 | [The Summoning](https://open.spotify.com/track/2P1d8opZQrSYlX13DwjC95) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 0:38 | 2023-06-09 | 2023-09-02 |
@@ -214,6 +214,7 @@
 | [Veiled in Black](https://open.spotify.com/track/0m04YC2z66cggr4VvZBUMS) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 3:21 | 2021-05-21 | 2023-06-09 |
 | [Veiled in Black](https://open.spotify.com/track/4v36QfJL1z5QmdiVBo4sP0) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/28udaDlNCgDXcMcSBQhgTv) | 3:21 | 2021-05-21 | 2022-07-29 |
 | [Village and Void](https://open.spotify.com/track/1qjq4SjCZPQLFCbpGGUCEO) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:32 | 2024-09-18 | 2025-03-20 |
+| [Village of Dali](https://open.spotify.com/track/4Ii2ufZI90waSw0oJYiNHh) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 2:28 | 2024-09-18 |  |
 | [Wandering](https://open.spotify.com/track/4UkgouHQ4ctD2l2nFZuH1N) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:41 | 2023-06-08 |  |
 | [Wayward Daughter](https://open.spotify.com/track/6XFeoBnO3gz1QHV9yUQdR0) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 5:51 | 2023-06-08 | 2024-11-21 |
 | [Welcome Home \- Journey's End](https://open.spotify.com/track/3ZVxYtrVRxQ4Om1BTprcAV) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/5QbqDDyMFltIvMZaMnUyH9) | 3:19 | 2021-05-21 | 2022-07-29 |

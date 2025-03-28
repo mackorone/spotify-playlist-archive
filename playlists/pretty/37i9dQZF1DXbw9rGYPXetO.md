@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > Hottest tracks from Coke Studio Bharat\. Cover: 'Holo Lolo' by Shankuraj Konwar, Shalmali Kholgade
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,836 likes - 16 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,839 likes - 16 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

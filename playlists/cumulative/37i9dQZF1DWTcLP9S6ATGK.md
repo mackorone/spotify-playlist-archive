@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Chintya Gabriella
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Abdul & The Coffee Theory
 
-412 songs - 1 day 3 hr 2 min
+415 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Baik Adanya](https://open.spotify.com/track/4VByqnUukW7PbNcsNt9R9A) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Baik Adanya](https://open.spotify.com/album/4Io9u4BIIsnDofyihVIZnF) | 3:20 | 2024-08-01 | 2024-10-18 |
 | [Balik Arah](https://open.spotify.com/track/2BbUfHUTIZsokhzrApZzSy) | [SAIVA](https://open.spotify.com/artist/21aguPG8NYw56jG3qwIQZG) | [Balik Arah](https://open.spotify.com/album/7ERDG4GgqVkNL016GHBDmt) | 3:45 | 2024-06-27 | 2024-07-05 |
 | [Banyak Bicara](https://open.spotify.com/track/4qpKzFnuj7uxHpHGRN5TOs) | [Jian Shuja](https://open.spotify.com/artist/4pp5EgCFrtFP10UE15k6wD) | [Banyak Bicara](https://open.spotify.com/album/528dv44BNqod7pShz6yLZm) | 3:14 | 2024-07-25 | 2024-09-27 |
+| [BAPAK](https://open.spotify.com/track/4egkSlCKoapEw6H9vFIHnN) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [BAPAK](https://open.spotify.com/album/430DIwr1nkXiIhJnvH5ASZ) | 4:53 | 2025-03-27 |  |
 | [Batu Karang](https://open.spotify.com/track/5NDVIrA39U3JY0uB1pIDQm) | [Pongki Barata](https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack), [Pay](https://open.spotify.com/artist/0lrV8N2EK53DjfuDtp5QVh), [Tomo Widayat](https://open.spotify.com/artist/3ZCCt9k6vWEDbdR0XKjHXY) | [Batu Karang](https://open.spotify.com/album/7fNX9uHAlldKmT1wlXn9mw) | 4:16 | 2024-06-27 | 2024-11-29 |
 | [Begini Begitu](https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:08 | 2024-06-27 | 2024-10-11 |
 | [Belum Beruntung](https://open.spotify.com/track/1zTRRWl7y8C80WNr4ysljk) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Belum Beruntung](https://open.spotify.com/album/6rgtBSOGEORZH2obJTqOFm) | 3:39 | 2025-01-09 |  |
@@ -401,9 +402,11 @@
 | [terjebak imajinasi \- acoustic version](https://open.spotify.com/track/2mKCo6yFO77yt0XN5G7vIy) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [terjebak imajinasi \(acoustic version\)](https://open.spotify.com/album/3UuteNNDPaFk8E5rp9qdlN) | 3:42 | 2025-02-06 | 2025-03-07 |
 | [Terlalu Diam](https://open.spotify.com/track/4iFLoWcNLQJgxRkx2ka6nf) | [Kris Tomahu](https://open.spotify.com/artist/0tsyEljhXykxOCSFO1T56v) | [Terlalu Diam](https://open.spotify.com/album/0HbCoJs5AM88f362i285KT) | 4:03 | 2024-06-27 | 2024-07-27 |
 | [Terluka Hati](https://open.spotify.com/track/7fIg9hw5tSGt1t0hCVR8gk) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Terluka Hati](https://open.spotify.com/album/3DnRpIm7octk5zGgGdoCJO) | 3:30 | 2024-06-27 | 2024-07-05 |
+| [Ternyata](https://open.spotify.com/track/0GgQhDpIRoxTjsPe82QPSW) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk), [Famizah Razali](https://open.spotify.com/artist/4eLDk9Q7OAaheufCbYVc0H) | [Ternyata](https://open.spotify.com/album/7uowtRAY7PLgtEQVHubnwD) | 3:33 | 2025-03-27 |  |
 | [Teroesir \(Menunggu Karma\)](https://open.spotify.com/track/4GQy9VyjJCbV3IAM2wOrUM) | [Atiek CB](https://open.spotify.com/artist/70aLfobQfRHIKpTDimluea) | [Teroesir \(Menunggu Karma\)](https://open.spotify.com/album/7yb2QANZR7ifu4wjKld7lm) | 4:44 | 2024-10-24 | 2025-01-10 |
 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:07 | 2025-02-13 | 2025-03-21 |
 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 | 2024-07-04 | 2025-01-10 |
+| [Tilik Jogja](https://open.spotify.com/track/7iH9VvIoUIq0wnqv3cQG4B) | [Citra Scholastika](https://open.spotify.com/artist/1jWIP5sLhDZttQeR0mPffn) | [Tilik Jogja](https://open.spotify.com/album/2VafG6qN9zh4oDF02q9Egy) | 4:40 | 2025-03-27 |  |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |

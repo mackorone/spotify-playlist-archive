@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-792 songs - 1 day 11 hr 46 min
+793 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Jet Stream](https://open.spotify.com/track/2sIVqfcDOisETTaV6Bbrs2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Jet Stream](https://open.spotify.com/album/0k2iMwFXahyiZMSwmdjmRj) | 2:46 | 2023-05-18 | 2023-05-20 |
 | [JUNK STORY](https://open.spotify.com/track/3EioC8UfNqsaHgVKTktNUE) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [JUNK STORY](https://open.spotify.com/album/0MtEmJKf6IBPaCjafWEeDr) | 2:07 | 2021-12-23 | 2022-07-27 |
 | [just forget](https://open.spotify.com/track/2ff0Hy1uymLoiiHD1nmeOB) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/42blSc4ZKA1Ber7ZbYDYuB) | 3:55 | 2024-01-09 | 2024-04-19 |
-| [just forget](https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS) | 3:55 | 2024-12-14 |  |
+| [just forget](https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS) | 3:55 | 2024-12-14 | 2025-03-28 |
 | [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 | 2022-10-29 |
 | [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 | 2022-10-29 | 2024-04-19 |
 | [K Bye](https://open.spotify.com/track/7K6TygqDoUz9TqhVzZWxVj) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [K Bye](https://open.spotify.com/album/5BevqJGwWGDUtatocaA6Ef) | 3:18 | 2021-12-23 | 2022-02-10 |
@@ -529,6 +529,7 @@
 | [Otsuka](https://open.spotify.com/track/2VCPGV7w4t08wYl0Kx749p) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Throwaway Beats for a Throwaway Year, Vol\. 1](https://open.spotify.com/album/4dTRzSSVoNLRHcmyDfZ1TD) | 1:43 | 2021-12-23 | 2022-01-07 |
 | [Our Planet \(Instrumental\)](https://open.spotify.com/track/1fHW5nqWYdTvuru0xIC1ef) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Horizon \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/40pdD0kcTqLeLgjYXVXTgv) | 3:48 | 2021-12-23 | 2022-07-29 |
 | [Outlandish](https://open.spotify.com/track/1oBNPxvJjyAy4fP1aoX5At) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Outlandish](https://open.spotify.com/album/3ykO1Jzoj26buzv4qSEQrP) | 2:24 | 2021-12-23 | 2022-01-26 |
+| [Overtake](https://open.spotify.com/track/50DqQyinGobLxQLnVrcKU7) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Be Honest](https://open.spotify.com/album/3aZdgsVcuDIFhbWtP5lRk1) | 3:02 | 2025-03-21 |  |
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2021-12-23 | 2022-07-28 |
 | [Panorama](https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Panorama](https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx) | 2:26 | 2024-02-13 | 2025-03-07 |
 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 | 2023-05-25 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-108 songs - 4 hr 24 min
+111 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [IN2U! / USOFINE!](https://open.spotify.com/track/5Z2F0WoRHRPWbvug6N2mCz) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 4:42 | 2025-03-24 |  |
 | [into place](https://open.spotify.com/track/2wOkgGpv4R7HlCPqeKnrgS) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [into place](https://open.spotify.com/album/3nWcZyZcel3zovmivDM9Tj) | 2:42 | 2025-03-11 |  |
 | [ISSBEENAMINUTE!](https://open.spotify.com/track/58BtmAspg5FXJNcoxVcbSN) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BAE AREA!](https://open.spotify.com/album/4RDrhTsFrwyyUfqqXTLmMM) | 2:14 | 2024-12-19 |  |
+| [JAMS!](https://open.spotify.com/track/3k7D5oH5H3W6he2Eah9Xc5) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [JAMS!](https://open.spotify.com/album/0LP2fZJno04gAR9bhraoZ6) | 1:44 | 2025-03-27 |  |
 | [KATAMARI](https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [KATAMARI](https://open.spotify.com/album/4qfXJdKTc2dvIfdlqytd2E) | 2:38 | 2025-03-05 |  |
 | [king](https://open.spotify.com/track/6lQJQI7UN4743fPR9vQjOI) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9), [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN), [sin](https://open.spotify.com/artist/4QxfUP9WMDIvnZ4UK2Osiu) | [November](https://open.spotify.com/album/7z65e4o5xTjfq1SUFQxAf6) | 2:22 | 2025-02-15 |  |
 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 | 2024-12-31 |  |
@@ -71,6 +72,7 @@
 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 | 2025-03-11 |  |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2025-03-25 |  |
 | [LOVESICK, CANNIBAL!](https://open.spotify.com/track/5uMqAjMDuOvz49JYNG8m8a) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [LOVESICK, CANNIBAL!](https://open.spotify.com/album/5S3m1mjGMYFFQrOvFl7Fng) | 1:56 | 2025-03-06 |  |
+| [MICROWAVE TEA!](https://open.spotify.com/track/2yVf0mR0duiGRNjRsxFMcR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Xo Dru](https://open.spotify.com/artist/3jh91hTsuN0i1Hx7sxeDNv) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:07 | 2025-03-28 |  |
 | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/track/17iGTeBSC6VtWESUk1YqYh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [takihasdied](https://open.spotify.com/artist/78f6bSDCZQUs8wvPREBGLE) | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/album/53J2OTEVQhPTRaA8qyNaLt) | 2:05 | 2025-03-06 |  |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2024-12-31 |  |
 | [NASTYWERKKKK!](https://open.spotify.com/track/7kvQptbfqq5b4MWRQOMrZC) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [NASTYWERKKKK!](https://open.spotify.com/album/0eFoFhftAdNeb0vtTJ0iSB) | 2:19 | 2025-03-09 |  |
@@ -107,6 +109,7 @@
 | [THIS AIN’T EVEN ABOUT ANYONE LOL!](https://open.spotify.com/track/2OFmvK2LnlWoWvxATonQqh) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:51 | 2025-03-24 |  |
 | [Thot K](https://open.spotify.com/track/5VPbUZPVASN9scsXak9kDB) | [iluvern!](https://open.spotify.com/artist/5B1esX3IbuEZQqcx95bMzS) | [Thot K](https://open.spotify.com/album/1uXiSa6UrQXZdbxMVnrYm5) | 3:05 | 2024-12-31 |  |
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2025-01-23 |  |
+| [TSUNDERE!](https://open.spotify.com/track/6xA79k0WDTtz1f2KvfkGot) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [TSUNDERE!](https://open.spotify.com/album/3NF21IyrfoNsN3dmCNqE3p) | 2:06 | 2025-03-27 |  |
 | [u ma type.](https://open.spotify.com/track/0fzMv0ui4hnVIVeeES6XhW) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [u ma type.](https://open.spotify.com/album/1lNXC5JsYet2b0Z7WHZLDp) | 1:47 | 2024-11-23 |  |
 | [U THOT U ATE?!](https://open.spotify.com/track/3EauqD9JtdI8inVBnIFUmv) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [U THOT U ATE?!](https://open.spotify.com/album/2frmSAOgvMAyEeRtKlWn8V) | 1:32 | 2024-12-06 |  |
 | [Warm Stay](https://open.spotify.com/track/0gKYihhcPJtiLoJnZFe3wk) | [Blossom](https://open.spotify.com/artist/3tLgC2hURdDjOQ5zheUW0R) | [Warm Stay](https://open.spotify.com/album/2wZYj9n81S3M2YwzbbzbQw) | 2:49 | 2025-03-11 |  |

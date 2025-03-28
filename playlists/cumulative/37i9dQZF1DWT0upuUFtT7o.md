@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: After
 
-3,111 songs - 7 day 3 hr 53 min
+3,112 songs - 7 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1592,6 +1592,7 @@
 | [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 | 2024-01-10 | 2025-01-16 |
 | [Living It Up](https://open.spotify.com/track/3ldtQyG7wj8jBrjbJSndUA) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Living It Up](https://open.spotify.com/album/1h2LuhHkxelSmyz2L7iWRw) | 3:45 | 2022-01-19 | 2022-02-10 |
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-01-10 | 2024-01-18 |
+| [locket](https://open.spotify.com/track/63Vluh3ARlXoockzOekLqm) | [Father Koi](https://open.spotify.com/artist/3TiCUxDWDi4qSDLITpkziT) | [talk sweet, strike gold](https://open.spotify.com/album/3OUKcviejn8rHjLTm0FeWE) | 3:03 | 2025-03-27 |  |
 | [Lonely After Curfew](https://open.spotify.com/track/4ErvUEwmVOhidQ8wKgvHtt) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Lonely After Curfew](https://open.spotify.com/album/5dqirXlH3pXhHFTQyenzEm) | 4:16 | 2022-02-02 | 2022-04-07 |
 | [Lonely Night](https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A) | [Dirty Backseat](https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf) | [Lonely Night](https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF) | 4:10 | 2022-10-25 | 2022-12-01 |
 | [Lonesome Ride](https://open.spotify.com/track/73GaefcujOOFrbjjzrT5mN) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI), [Precious Human](https://open.spotify.com/artist/5xQEsuwRvaKtAWpRe4K8si) | [Lonesome Ride](https://open.spotify.com/album/2z3vwt3PKgFf1aPRW2AMIS) | 3:38 | 2025-01-29 | 2025-03-13 |

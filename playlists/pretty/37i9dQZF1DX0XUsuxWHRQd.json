@@ -1,12 +1,12 @@
 {
   "description": "New music from Lil Tecca,  Playboi Carti and Jack Harlow.",
-  "num_followers": 16147286,
+  "num_followers": 16147377,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+SYcgAAAAB92qSH6XW5d43+w0Gi5uur",
+  "snapshot_id": "Z+TNXQAAAACdrjR6fCwktrpSodkZ4OZd",
   "tracks": [
     {
       "added_at": "2025-03-27 00:14:42",
@@ -171,6 +171,26 @@
       "duration_ms": 193054,
       "name": "GIMME A HUG",
       "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
+    },
+    {
+      "added_at": "2025-03-27 04:00:29",
+      "album": {
+        "name": "The B.Coming",
+        "url": "https://open.spotify.com/album/6XjOkMukhyyEORUU0ucQ7m"
+      },
+      "artists": [
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        },
+        {
+          "name": "Melissa Jay",
+          "url": "https://open.spotify.com/artist/6jb1dhrzMSNG2WvN010zT5"
+        }
+      ],
+      "duration_ms": 246160,
+      "name": "Feel It In The Air",
+      "url": "https://open.spotify.com/track/4rICUbwZZuqUOcgQgtux2k"
     },
     {
       "added_at": "2025-03-27 00:14:42",
@@ -403,6 +423,26 @@
     {
       "added_at": "2025-03-27 00:14:42",
       "album": {
+        "name": "REAL ME",
+        "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "REAL ME (WITH METRO BOOMIN)",
+      "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
+    },
+    {
+      "added_at": "2025-03-27 00:14:42",
+      "album": {
         "name": "HIM ALL ALONG",
         "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
       },
@@ -435,6 +475,26 @@
       "duration_ms": 192000,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": "2025-03-27 00:14:42",
+      "album": {
+        "name": "Just Us (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172877,
+      "name": "Just Us (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
       "added_at": "2025-03-27 00:14:42",
@@ -539,6 +599,26 @@
     {
       "added_at": "2025-03-27 00:14:42",
       "album": {
+        "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx"
+    },
+    {
+      "added_at": "2025-03-27 00:14:42",
+      "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
       },
@@ -635,46 +715,6 @@
     {
       "added_at": "2025-03-27 00:14:42",
       "album": {
-        "name": "REAL ME",
-        "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "REAL ME (with Metro Boomin)",
-      "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
-    },
-    {
-      "added_at": "2025-03-27 00:14:42",
-      "album": {
-        "name": "Just Us (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172877,
-      "name": "Just Us (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
-    },
-    {
-      "added_at": "2025-03-27 00:14:42",
-      "album": {
         "name": "Classy Girl",
         "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
       },
@@ -735,26 +775,6 @@
       "duration_ms": 155200,
       "name": "LET HER COOK",
       "url": "https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU"
-    },
-    {
-      "added_at": "2025-03-27 00:14:42",
-      "album": {
-        "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx"
     },
     {
       "added_at": "2025-03-27 00:14:42",

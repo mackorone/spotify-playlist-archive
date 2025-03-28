@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [ALASKA PUFFER](https://open.spotify.com/track/32lug6ypOsehYy8pdAmlpu) | [паранойя](https://open.spotify.com/artist/6xcOPl8sgatUgeDsUE9QQb) | [ALASKA PUFFER](https://open.spotify.com/album/3aQx4lqWQK91Bgerx8qYN0) | 2:01 |
 | 50 | [Нервы](https://open.spotify.com/track/5HhxdmRCXAJqT8WYwMCyBQ) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Всё Что Вокруг](https://open.spotify.com/album/28pieKTvyLISIQ4IZBuFXH) | 2:38 |
 
-Snapshot ID: `L3dtoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L3i/IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

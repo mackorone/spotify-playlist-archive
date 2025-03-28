@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Masdddho",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Gildcoustic",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -635,6 +635,28 @@
     },
     {
       "album": {
+        "name": "Ayang-Ayang",
+        "url": "https://open.spotify.com/album/2rlMRT348VvboFHosOk1Wf"
+      },
+      "artists": [
+        {
+          "name": "Damara De",
+          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
+        },
+        {
+          "name": "Tadeus Lavora",
+          "url": "https://open.spotify.com/artist/4fpDardVw4cIf577YhcYMm"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283047,
+      "name": "Ayang-Ayang",
+      "url": "https://open.spotify.com/track/3kcLbSUHdmlcCElLXOZYl4"
+    },
+    {
+      "album": {
         "name": "Babar Pisan",
         "url": "https://open.spotify.com/album/7xdp0sRO1CuJbmeb4C9STI"
       },
@@ -762,6 +784,24 @@
       "duration_ms": 249000,
       "name": "Banyu Moto",
       "url": "https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB"
+    },
+    {
+      "album": {
+        "name": "BAPAK",
+        "url": "https://open.spotify.com/album/430DIwr1nkXiIhJnvH5ASZ"
+      },
+      "artists": [
+        {
+          "name": "Gildcoustic",
+          "url": "https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293572,
+      "name": "BAPAK",
+      "url": "https://open.spotify.com/track/4egkSlCKoapEw6H9vFIHnN"
     },
     {
       "album": {
@@ -1658,7 +1698,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 213230,
       "name": "Eling Elingo",
       "url": "https://open.spotify.com/track/1CreCAX2ZY1pA1TN4KDvVC"
@@ -5876,7 +5916,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 291839,
       "name": "PENGAREPAN - Acoustic",
       "url": "https://open.spotify.com/track/7gkTAMKGIMKWNE8y1He7jU"
@@ -8194,7 +8234,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 252923,
       "name": "Titenono",
       "url": "https://open.spotify.com/track/2NKsXTHW8jo1uhKk39jA9Z"

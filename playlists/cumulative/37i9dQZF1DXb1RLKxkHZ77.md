@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadeera
+> Lagu\-lagu yang wajib ada dalam playlist\. Cover: Nadeera
 
 657 songs - 1 day 17 hr 5 min
 

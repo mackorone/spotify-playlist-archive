@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Ezra Collective at The Brits 2025",
+  "description": "The best from Britain's vibrant scene. Cover: Joe Armon-Jones",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -3919,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Fickle",
+        "url": "https://open.spotify.com/album/5w1QpsbDyKy7HQvEh8TOYT"
+      },
+      "artists": [
+        {
+          "name": "Mulvey's Medicine",
+          "url": "https://open.spotify.com/artist/2QV1dWwfQMQXiZZMFFWnqC"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368872,
+      "name": "Fickle",
+      "url": "https://open.spotify.com/track/5AhPkv3zSizBpobL7rrUoS"
+    },
+    {
+      "album": {
         "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
         "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
       },
@@ -5874,7 +5892,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 279749,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
@@ -6818,7 +6836,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 253313,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN"
@@ -6936,6 +6954,24 @@
       "duration_ms": 203560,
       "name": "Life Goes On (feat. Sampa the Great)",
       "url": "https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX"
+    },
+    {
+      "album": {
+        "name": "All The Quiet (Part I)",
+        "url": "https://open.spotify.com/album/0efFrXZr98tY3O5qkAGQB7"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487586,
+      "name": "Lifetones",
+      "url": "https://open.spotify.com/track/0gouDswj0R5jne7YUUrlIO"
     },
     {
       "album": {
@@ -9524,6 +9560,24 @@
       "duration_ms": 229333,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/46KtAhtCoDViV6YoA4vsFh"
+    },
+    {
+      "album": {
+        "name": "Prophet",
+        "url": "https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296186,
+      "name": "Prophet",
+      "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
     },
     {
       "album": {
@@ -13196,7 +13250,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 272810,
       "name": "Uno Punto Uno",
       "url": "https://open.spotify.com/track/4kqAWPVIDUzKvP4594U3hE"

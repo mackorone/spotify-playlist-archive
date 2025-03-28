@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161805,
+  "num_followers": 161807,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+CggAAAAAC4edwEdKd8H+jQKmjyvuop",
+  "snapshot_id": "Z+HyAAAAAAD7JgTKjgbZsyMtYtQt67hn",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 209666,
-      "name": "Deus do Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/7MVRoaHJX8xOo8Rt4vwcRB"
+      "duration_ms": 286373,
+      "name": "Bem Mais Que Tudo",
+      "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
       "duration_ms": 303173,
       "name": "Digno \u00e9 o Senhor (Worthy Is The Lamb) - Ao Vivo",
       "url": "https://open.spotify.com/track/66WaKTCLP5nUwOrwn7Oet0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Bem Mais Que Tudo",
-      "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 394924,
       "name": "Te Adorar \u00e9 o Meu Prazer",
       "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250662,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivo Est\u00e1s",
         "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 392026,
       "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
       "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250662,
-      "name": "Lugar Seguro",
-      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som de Adoradores",
-        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 340172,
-      "name": "Casa de Deus",
-      "url": "https://open.spotify.com/track/4PWM6JVp0UMaZnHMOzH7q4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 272721,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 340172,
+      "name": "Casa de Deus",
+      "url": "https://open.spotify.com/track/4PWM6JVp0UMaZnHMOzH7q4"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+        "name": "Bom \u00e9 ser crian\u00e7a Vol.II",
+        "url": "https://open.spotify.com/album/3KdCN8uROd6EyUNf0rWqMK"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 201038,
-      "name": "Arca de No\u00e9",
-      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
+      "duration_ms": 128853,
+      "name": "Dom-dim-dom-dom",
+      "url": "https://open.spotify.com/track/1mWgyvjnrn1c7u4YYQr0mm"
     }
   ],
   "unique_name": "This Is Aline Barros",

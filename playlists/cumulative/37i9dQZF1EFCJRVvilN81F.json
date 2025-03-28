@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Endless Night",
+        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197668,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/1vKmMfZszrCAqSAJgLfm04"
+    },
+    {
+      "album": {
         "name": "Cadence Weapon",
         "url": "https://open.spotify.com/album/09mEEnenyhutFTC8ivx1s7"
       },
@@ -3280,6 +3298,24 @@
       "duration_ms": 270917,
       "name": "Traveling Light",
       "url": "https://open.spotify.com/track/4iacGlbvEi6JsH3EmMQVwf"
+    },
+    {
+      "album": {
+        "name": "Endless Night",
+        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195556,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0XPg6Wdh4eIMeibWCwo0Uv"
     },
     {
       "album": {

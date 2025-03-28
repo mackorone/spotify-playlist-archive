@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > 【セットリスト公開】3月19日\(水\)にSpotify O\-EASTにて開催された<a href="https://spotify\-earlynoise.jp/">Spotify Early Noise Night \#17</a>のセットリストをプレイリストで再現！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,119 likes - 29 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,116 likes - 29 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

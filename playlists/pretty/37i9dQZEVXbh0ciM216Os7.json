@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAA+kM/q3FSauTLyKhiJgbU/",
+  "snapshot_id": "AAAAAAAAAABkJIPZ0C3+mqwGtwDkmAPy",
   "tracks": [
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "Babygirl",
-        "url": "https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 174059,
-      "name": "Babygirl",
-      "url": "https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ"
-    },
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
@@ -51,6 +35,38 @@
       "duration_ms": 208197,
       "name": "Crash (feat. Raphael Saadiq and Kelly Rowland)",
       "url": "https://open.spotify.com/track/4BWd7seTOURluar6C8RqYG"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Babygirl",
+        "url": "https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 174059,
+      "name": "Babygirl",
+      "url": "https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "CUPID'S GIRL",
+        "url": "https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 208114,
+      "name": "CUPID'S GIRL",
+      "url": "https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -147,6 +163,26 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
+        "name": "Just Go",
+        "url": "https://open.spotify.com/album/3sIldPKhUAQYdy5AOrgEvV"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 217684,
+      "name": "Just Go",
+      "url": "https://open.spotify.com/track/1RZLqmoCuVeKWXWyp9cLtU"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
         "name": "2 SCOOPS OF POETRY",
         "url": "https://open.spotify.com/album/62mA6SvD4Neasq7C9xet4V"
       },
@@ -167,26 +203,18 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
-        "name": "Sulfur pt. 2",
-        "url": "https://open.spotify.com/album/3FkMJHcAiNRcsU9Ee3UGkk"
+        "name": "Scared To Die",
+        "url": "https://open.spotify.com/album/3Of47Uj6tC0wTyr59p77MD"
       },
       "artists": [
         {
-          "name": "Ray Lansing",
-          "url": "https://open.spotify.com/artist/3hvBuWUNaLcigSYPDMti2y"
-        },
-        {
-          "name": "Rayne",
-          "url": "https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 193165,
-      "name": "Sulfur pt. 2",
-      "url": "https://open.spotify.com/track/41LvAMncIHn5YDvvAptOYq"
+      "duration_ms": 177941,
+      "name": "Scared To Die",
+      "url": "https://open.spotify.com/track/1wfsTfjTlIkkZJm1J1Wxei"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -227,106 +255,22 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
-        "name": "Nashville Canyon, Pt. 1",
-        "url": "https://open.spotify.com/album/3h5UmQ5RlYFSX4xQTaAZAl"
+        "name": "LOBBY",
+        "url": "https://open.spotify.com/album/78fUKHidecZPV1xvxKpobm"
       },
       "artists": [
         {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
-        }
-      ],
-      "duration_ms": 214437,
-      "name": "Blame Me",
-      "url": "https://open.spotify.com/track/0ySTntZi8hCtA17tBELCG7"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "cLOUDs",
-        "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 242086,
-      "name": "cLOUDs",
-      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "The Giver",
-        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "The Giver",
-      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
         },
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
         }
       ],
-      "duration_ms": 209680,
-      "name": "RATHER LIE (with The Weeknd)",
-      "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "Get Jiggy",
-        "url": "https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu"
-      },
-      "artists": [
-        {
-          "name": "B Jack$",
-          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
-        },
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Get Jiggy",
-      "url": "https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY"
+      "duration_ms": 181117,
+      "name": "KME (Solaar Outro)",
+      "url": "https://open.spotify.com/track/33Qk0mh8daf29cKE1Cqw9k"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -371,42 +315,6 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
-        "name": "Mandingo",
-        "url": "https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19"
-      },
-      "artists": [
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        },
-        {
-          "name": "Mathematics",
-          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Cappadonna",
-          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
-        }
-      ],
-      "duration_ms": 268630,
-      "name": "Mandingo",
-      "url": "https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
       },
@@ -443,6 +351,42 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
+        "name": "Mandingo",
+        "url": "https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        }
+      ],
+      "duration_ms": 268630,
+      "name": "Mandingo",
+      "url": "https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -463,6 +407,22 @@
       "duration_ms": 230895,
       "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
       "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 107563,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -499,6 +459,22 @@
       "duration_ms": 177586,
       "name": "The Big One",
       "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Worm in the Sun",
+        "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "Worm in the Sun",
+      "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -571,6 +547,30 @@
       "duration_ms": 361013,
       "name": "Szechuan Capital - Dusted",
       "url": "https://open.spotify.com/track/3d1de8PnOJYTwMOWanQKoY"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
+      },
+      "artists": [
+        {
+          "name": "44th Move",
+          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        }
+      ],
+      "duration_ms": 363619,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
     },
     {
       "added_at": "2025-03-21 04:00:00",

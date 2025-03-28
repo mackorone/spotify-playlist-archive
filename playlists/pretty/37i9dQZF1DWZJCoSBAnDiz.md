@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 
 > Love & longing from Broadway's best & brightest\. Cover: Joy Woods in The Notebook on Broadway
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,324 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,325 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

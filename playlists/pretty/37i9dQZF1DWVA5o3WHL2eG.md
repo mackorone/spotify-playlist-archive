@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Anja Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,023 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,026 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [Free Fall](https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Twisty](https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX) | 6:56 |
 | 30 | [Lonely Hearts Club](https://open.spotify.com/track/19Nd0ZhCMME4yjUSBotwSF) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Lonely Hearts Club](https://open.spotify.com/album/2Or01DIhawCcutDc5Roy2n) | 2:29 |
 | 31 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 |
-| 32 | [Alles Illusion](https://open.spotify.com/track/5yJdjgXIZUEBP1O6Yas46F) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Alles Illusion](https://open.spotify.com/album/2jtbYTFLK9oOKCdHHRQ2Wl) | 1:44 |
-| 33 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
+| 32 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
+| 33 | [Alles Illusion](https://open.spotify.com/track/5yJdjgXIZUEBP1O6Yas46F) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Alles Illusion](https://open.spotify.com/album/2jtbYTFLK9oOKCdHHRQ2Wl) | 1:44 |
 | 34 | [TEIL DER MASCHINE](https://open.spotify.com/track/0O8gcEGFzNB6Wrr0AuvtbG) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [TEIL DER MASCHINE](https://open.spotify.com/album/1bRuU4yGdkbO0yG7MZI65j) | 2:38 |
 | 35 | [Crazy MF](https://open.spotify.com/track/4JKMz6lPaAXEHsZy9B32aM) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Crazy MF](https://open.spotify.com/album/5Ub9a9N7YIw8Cis5R046r1) | 5:40 |
 | 36 | [Just as a Friend](https://open.spotify.com/track/7AN6MpkQlKXXeLUtNqgkhN) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Just as a Friend](https://open.spotify.com/album/1jvxJENtqhsCIdzok6Uce2) | 3:28 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 41 | [Ramon](https://open.spotify.com/track/7sbDADbvy8JXNuDPBRmRTm) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Ramon](https://open.spotify.com/album/2ieYMF9khpPaJE8e3MzzYP) | 2:52 |
 | 42 | [Poison Ivy](https://open.spotify.com/track/5Lszb7JMTvtMUbt1r2WVXs) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Poison Ivy](https://open.spotify.com/album/711LcdU6ioGH4tAefhJtEm) | 2:26 |
 | 43 | [Im kalten Februar Regen](https://open.spotify.com/track/2rwypDgPsBO2CVahZNvcNN) | [Die Heiterkeit](https://open.spotify.com/artist/3GB8VNVCarLSDdFbbDsQnF) | [Im kalten Februar Regen](https://open.spotify.com/album/4epO6hoeTDc2RwSlInuZ8g) | 3:32 |
-| 44 | [So Real](https://open.spotify.com/track/73AcyPvvEb5J2R1MO3uqDs) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [So Real](https://open.spotify.com/album/13YMUL8PBnOEk5UMEnw0jQ) | 3:04 |
-| 45 | [Forbidden Fruit](https://open.spotify.com/track/4sJJ2TY4qqZn5jF6pYHm7w) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Forbidden Fruit](https://open.spotify.com/album/1JPFS0mNgfIYaSJpk8SOV2) | 3:01 |
+| 44 | [Forbidden Fruit](https://open.spotify.com/track/4sJJ2TY4qqZn5jF6pYHm7w) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Forbidden Fruit](https://open.spotify.com/album/1JPFS0mNgfIYaSJpk8SOV2) | 3:01 |
+| 45 | [So Real](https://open.spotify.com/track/73AcyPvvEb5J2R1MO3uqDs) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [So Real](https://open.spotify.com/album/13YMUL8PBnOEk5UMEnw0jQ) | 3:04 |
 | 46 | [Rust Never Sleeps](https://open.spotify.com/track/5ISEfRrhTRoY5k9UtGgKOD) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Rust Never Sleeps](https://open.spotify.com/album/44e6bs9W5gVbYbXG7De6HG) | 3:06 |
 | 47 | [Bullet Dodged](https://open.spotify.com/track/7kUgMLxUN8hvGQcjCVVhHD) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Bullet Dodged](https://open.spotify.com/album/2n9GbZMhhXexirbX8OrGhm) | 2:40 |
-| 48 | [Jealousy](https://open.spotify.com/track/1sAmU9Iz3rlkiz74qz18HM) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Jealousy](https://open.spotify.com/album/66j7fRH4x9RmyEFNX44gcb) | 3:28 |
-| 49 | [Thunder](https://open.spotify.com/track/2cSxVJ7FMP2T0pLQmjCaoA) | [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Thunder](https://open.spotify.com/album/1VDeDyUnBkTdwrJJEgypaa) | 3:14 |
+| 48 | [Thunder](https://open.spotify.com/track/2cSxVJ7FMP2T0pLQmjCaoA) | [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Thunder](https://open.spotify.com/album/1VDeDyUnBkTdwrJJEgypaa) | 3:14 |
+| 49 | [Jealousy](https://open.spotify.com/track/1sAmU9Iz3rlkiz74qz18HM) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Jealousy](https://open.spotify.com/album/66j7fRH4x9RmyEFNX44gcb) | 3:28 |
 | 50 | [Contrast](https://open.spotify.com/track/5GBeZl8ijz0Ya8kmVUGxIb) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Heartbreak Duett](https://open.spotify.com/album/6RC7ruyedKe0j7RCqph9Zb) | 3:28 |
 
 Snapshot ID: `Z8eF/wAAAACtbIyhSTgyPriSvADW8PCn`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u8607\u6253\u7da0 (sodagreen)",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Tizzy Bac",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 208003,
       "name": "ABC",
       "url": "https://open.spotify.com/track/5OthRKUDvYrAr6LFYnkqWO"
+    },
+    {
+      "album": {
+        "name": "Across the River",
+        "url": "https://open.spotify.com/album/79E1mJ4t8JXKDLriU6fIVy"
+      },
+      "artists": [
+        {
+          "name": "\u5fc3\u982d\u8089",
+          "url": "https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Across the River",
+      "url": "https://open.spotify.com/track/13jvrpQwaWrKcUdpDrfYpw"
     },
     {
       "album": {
@@ -324,6 +342,28 @@
       "duration_ms": 220507,
       "name": "BSB FreeStyle",
       "url": "https://open.spotify.com/track/06llBMVdYU2DCRZDDqijKZ"
+    },
+    {
+      "album": {
+        "name": "CakeCake (feat.Plini)",
+        "url": "https://open.spotify.com/album/23J6dKiPcOqZqyHRXJTtRL"
+      },
+      "artists": [
+        {
+          "name": "\u9ea5\u742a\u9ea5\u742a MakeMake",
+          "url": "https://open.spotify.com/artist/5DlnA3fCaF6p4KZuhBHgLN"
+        },
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236799,
+      "name": "CakeCake (feat.Plini)",
+      "url": "https://open.spotify.com/track/6IHnshJXIOwUofPhKr7Icl"
     },
     {
       "album": {
@@ -767,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Goal For One",
+        "url": "https://open.spotify.com/album/5nWFc7aWKXXZlG9sCtPkoV"
+      },
+      "artists": [
+        {
+          "name": "PA PUN BAND",
+          "url": "https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Goal For One",
+      "url": "https://open.spotify.com/track/0g0EOd882UKfOVBNO9pYod"
+    },
+    {
+      "album": {
         "name": "GODDESS",
         "url": "https://open.spotify.com/album/5y7aTOTiDXKRfrEuSbLopy"
       },
@@ -778,7 +836,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 207653,
       "name": "GODDESS",
       "url": "https://open.spotify.com/track/0mCoKv50QznRebpmdV5tOs"
@@ -2418,7 +2476,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 146500,
       "name": "\u4e0d\u6015\u661f\u671f\u4e00 - \u5287\u96c6\u300a\uff38\uff01\u53c8\u662f\u661f\u671f\u4e00\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/7CofNNrb1x3tqzHYqG160F"
@@ -2880,7 +2938,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 241000,
       "name": "\u5076\u50cf (feat.\u4e94\u6708\u5929 \u963f\u4fe1)",
       "url": "https://open.spotify.com/track/1ensBF2RM6BCYOqliw68Va"
@@ -3563,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "\u55e8\u5230\u81c9\u7d05\u7d05",
+        "url": "https://open.spotify.com/album/6YDx94y8QD7xBH5mZdAlw1"
+      },
+      "artists": [
+        {
+          "name": "U:NUS",
+          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "\u55e8\u5230\u81c9\u7d05\u7d05",
+      "url": "https://open.spotify.com/track/3XwKj7eE5agrv0S83tuhPj"
+    },
+    {
+      "album": {
         "name": "\u5706\u5148\u751f",
         "url": "https://open.spotify.com/album/7aPzWympkuTD6aeWGzkVTs"
       },
@@ -3766,7 +3842,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 313971,
       "name": "\u5929\u554f",
       "url": "https://open.spotify.com/track/2bj33kQHDICutlN9brpRod"
@@ -3940,7 +4016,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 243708,
       "name": "\u5bc2\u5bde\u71b1\u7092",
       "url": "https://open.spotify.com/track/25zwEppQXKoGJ3Mo1R7sYv"
@@ -4712,6 +4788,32 @@
       "duration_ms": 207875,
       "name": "\u6211\u559c\u6b61\u4f60",
       "url": "https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5929\u751f - \u6709\u75c5\u7248",
+        "url": "https://open.spotify.com/album/35mtqL9m3dw0A6ZBytN22q"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        },
+        {
+          "name": "\u8a79\u61f7\u96f2",
+          "url": "https://open.spotify.com/artist/7yixHfr6sPhfhTqZspU2UZ"
+        },
+        {
+          "name": "\u6c5f\u9f4a",
+          "url": "https://open.spotify.com/artist/2Ge99rYjgszVNVfvC3dPv0"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280488,
+      "name": "\u6211\u5929\u751f - \u6709\u75c5\u7248 (\u96fb\u5f71\u300a\u6709\u75c5\u624d\u6703\u559c\u6b61\u4f60\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/7f1kAQ7fdKhUiziMDj24Um"
     },
     {
       "album": {
@@ -5584,7 +5686,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 196800,
       "name": "\u6b61\u8fce\u4f86\u6211\u5011\u9019\u4e00\u6524",
       "url": "https://open.spotify.com/track/6s6hC4Y247rf9eeGRE7BSV"
@@ -6864,7 +6966,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 184261,
       "name": "\u865a\u62df\u7231\u60c5",
       "url": "https://open.spotify.com/track/1XOfcG3d75NUAWQ3cuHi0f"
@@ -6979,6 +7081,24 @@
     },
     {
       "album": {
+        "name": "\u8a18\u61b6\u7d0a\u4e82",
+        "url": "https://open.spotify.com/album/6KyydttJ4xFSMM5B9ShXmj"
+      },
+      "artists": [
+        {
+          "name": "\u8001\u738b\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217851,
+      "name": "\u8a18\u61b6\u7d0a\u4e82",
+      "url": "https://open.spotify.com/track/6f64tTDrlwo1E7S0GedKkd"
+    },
+    {
+      "album": {
         "name": "\u8a31\u4e0b\u661f\u9858",
         "url": "https://open.spotify.com/album/0rlbdLRFuzzzlytkCVMHr4"
       },
@@ -7012,6 +7132,24 @@
       "duration_ms": 244500,
       "name": "\u8a69\u5c71\u90ed\u5fe0\u798f",
       "url": "https://open.spotify.com/track/1pbwMfakKk4RkU5Om2NeuQ"
+    },
+    {
+      "album": {
+        "name": "\u8aaa\u51fa\u6211\u7684\u540d\u5b57",
+        "url": "https://open.spotify.com/album/0AFvYBhgqq8Ai4xGAhHRvN"
+      },
+      "artists": [
+        {
+          "name": "Tizzy Bac",
+          "url": "https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355436,
+      "name": "\u8aaa\u51fa\u6211\u7684\u540d\u5b57",
+      "url": "https://open.spotify.com/track/1JQw48L55xvdeS9WenilnB"
     },
     {
       "album": {

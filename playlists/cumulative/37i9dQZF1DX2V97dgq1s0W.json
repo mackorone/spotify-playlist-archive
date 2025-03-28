@@ -3817,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "Lay With Me",
+        "url": "https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "Lay With Me",
+      "url": "https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD"
+    },
+    {
+      "album": {
         "name": "Sadboy, Vol. 1",
         "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 213517,
       "name": "Moment",
       "url": "https://open.spotify.com/track/45Ru8quD9KG9i158sedPQ5"
@@ -5698,7 +5716,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 143448,
       "name": "Pride",
       "url": "https://open.spotify.com/track/3HiVqLksar2QNbgXOjDRYm"
@@ -6324,6 +6342,28 @@
       "duration_ms": 159618,
       "name": "Scandalous",
       "url": "https://open.spotify.com/track/0nW3LFiSZEcu6tCOi7SKRm"
+    },
+    {
+      "album": {
+        "name": "SEARCHING",
+        "url": "https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150038,
+      "name": "SEARCHING",
+      "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6288,
+  "num_followers": 6290,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+CggAAAAADSZdOq2hDUcKAmd0Ua6TWL",
+  "snapshot_id": "Z+HyAAAAAAA3vuR/7Y8UabvmqsBEVJ+U",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 234266,
-      "name": "Lollipop Porn",
-      "url": "https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz"
+      "duration_ms": 302226,
+      "name": "Black Cloud",
+      "url": "https://open.spotify.com/track/0SIa8GRLXT0vKov2O45O5V"
     },
     {
       "added_at": null,
@@ -416,9 +416,25 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 302226,
-      "name": "Black Cloud",
-      "url": "https://open.spotify.com/track/0SIa8GRLXT0vKov2O45O5V"
+      "duration_ms": 234266,
+      "name": "Lollipop Porn",
+      "url": "https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 213346,
+      "name": "Boom Box Gang War - Unreleased",
+      "url": "https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
       "duration_ms": 227794,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 213346,
-      "name": "Boom Box Gang War - Unreleased",
-      "url": "https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurt You So Bad",
         "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 228493,
       "name": "Skulls and Stars - Original Demo",
       "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flirting With Disaster",
         "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 234022,
       "name": "99 Bottles",
       "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Decorated",
-      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Decorated",
+      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hellscape",
         "url": "https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 219428,
       "name": "Hellscape",
       "url": "https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,

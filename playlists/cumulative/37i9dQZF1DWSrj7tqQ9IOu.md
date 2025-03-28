@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Bolivard
+> The best French indie tracks right now\. Cover : Peter Dallas
 
-605 songs - 1 day 8 hr 57 min
+606 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Mélodie](https://open.spotify.com/track/5esdfdUwMWquRFyw8TVTfu) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Mélodie](https://open.spotify.com/album/03ljfzL4wjXWqXYPZ3eQc8) | 3:29 | 2024-11-07 | 2025-01-31 |
 | [Mélodie \(with DORA\)](https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Mélodie \(with DORA\)](https://open.spotify.com/album/2scI9aMrYO9fkaIba8tUhn) | 3:36 | 2023-03-02 | 2023-03-18 |
 | [Métaphores](https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Métaphores](https://open.spotify.com/album/12awGrBjFIJcRWGGrTqGAJ) | 3:21 | 2024-01-11 | 2024-02-02 |
+| [Navy Blue](https://open.spotify.com/track/1mlyu8XFuu1iHqMZ2IaZB7) | [Jade Lux](https://open.spotify.com/artist/6b6SsFJXGT6KCDPcI1trW5) | [Navy Blue](https://open.spotify.com/album/6EPXWoxJqROrra0R8SUAoj) | 3:55 | 2025-03-27 |  |
 | [Ne t'en fais pas](https://open.spotify.com/track/3WOrCrgJX1Wz09tBRODBP4) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Ne t'en fais pas](https://open.spotify.com/album/0t4iqjZlEERcP27LBQpMvJ) | 3:13 | 2024-02-01 | 2024-07-05 |
 | [Never Be The Same Again](https://open.spotify.com/track/0KEM91LS41CerPQRop8FaP) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Never Be The Same Again](https://open.spotify.com/album/3laWOTgQfRtBB0cCTIxigl) | 2:11 | 2024-08-01 | 2024-11-22 |
 | [Never Get Old](https://open.spotify.com/track/2JMSqKjWQYBhmWG8yWj7DE) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/4hhy0wVU3ktRB7Siiikk29) | 2:44 | 2023-06-01 | 2023-07-31 |
@@ -599,7 +600,7 @@
 | [Xany](https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Xany](https://open.spotify.com/album/76YpBmmt5imdfMH7d6ITCn) | 2:08 | 2024-02-08 | 2024-09-20 |
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-09-29 | 2023-08-25 |
 | [Yellow Car](https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU) | [Toro](https://open.spotify.com/artist/3Ikp2uBBjxkYHJpblUDDRN), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [Yellow](https://open.spotify.com/album/3aXfZfgLhJ7joTa7nJwY4q) | 3:15 | 2022-06-09 | 2022-07-01 |
-| [Yeux Mouillés](https://open.spotify.com/track/0YYwIhNaJbBwwvifbjZwck) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Yeux Mouillés](https://open.spotify.com/album/7r2nGFND4HHvz0a9Ku2ayi) | 3:11 | 2024-10-10 |  |
+| [Yeux Mouillés](https://open.spotify.com/track/0YYwIhNaJbBwwvifbjZwck) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Yeux Mouillés](https://open.spotify.com/album/7r2nGFND4HHvz0a9Ku2ayi) | 3:11 | 2024-10-10 | 2025-03-28 |
 | [You Make Me Feel So Good](https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [You Make Me Feel So Good](https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq) | 3:37 | 2023-03-23 | 2023-06-02 |
 | [Your Type](https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Your Type](https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3) | 4:01 | 2022-07-07 | 2023-01-13 |
 | [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 | 2022-06-09 | 2023-03-31 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 216124,
+  "num_followers": 216180,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Jala Jala Y Boogaloo",
+        "url": "https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+        }
+      ],
+      "duration_ms": 307146,
+      "name": "Richie's Jala Jala",
+      "url": "https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "A life time of Hits.. (Live At Centro De Bellas Artes, San Juan, Puerto Rico.)",
         "url": "https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Fuego En El 23",
-        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Fuego En El 23",
-      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Aqui Esta el Reencuentro",
         "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
       },
@@ -319,22 +319,18 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Oportunidad",
-        "url": "https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK"
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
       },
       "artists": [
         {
-          "name": "Larry Harlow",
-          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
-        },
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
         }
       ],
-      "duration_ms": 331817,
-      "name": "Senor Sereno",
-      "url": "https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA"
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -371,18 +367,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Jala Jala Y Boogaloo",
-        "url": "https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH"
+        "name": "Oportunidad",
+        "url": "https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK"
       },
       "artists": [
         {
-          "name": "Ricardo Ray",
-          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 307146,
-      "name": "Richie's Jala Jala",
-      "url": "https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK"
+      "duration_ms": 331817,
+      "name": "Senor Sereno",
+      "url": "https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA"
     },
     {
       "added_at": "2024-09-24 20:30:16",

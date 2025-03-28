@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,139 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,168 likes - 50 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 36 | [On & On \- Original Mega](https://open.spotify.com/track/7jGhlI2LQVDSmgMpOxFfAH) | [Jesse Saunders](https://open.spotify.com/artist/6ZYa9hYoOGVzvQa2vmiVhi) | [20th Anniversary Of House Music Vol\. 1: On And On](https://open.spotify.com/album/71L0fEgCxlCw33XaWvpjYV) | 6:22 |
 | 37 | [I've Lost Control](https://open.spotify.com/track/208Q2Xt456uJDLRwlZPCe5) | [Sleezy D](https://open.spotify.com/artist/3wD0bhAy5hb5nqcTReldti) | [I've Lost Control](https://open.spotify.com/album/6yh9HirYN8GQqcqEvCyWcC) | 9:45 |
 | 38 | [It's My Life](https://open.spotify.com/track/7pfhvQZld6TbfbST95KzCH) | [Da Posse](https://open.spotify.com/artist/6oHc1xzJP7C3YdsFvKZL4P) | [Strings](https://open.spotify.com/album/7CDOl2IKWOqNMwn4rp8Nmi) | 5:22 |
-| 39 | [Percolator \- Original Mix](https://open.spotify.com/track/5JYbPUFjUn0i8BQy1C5JTs) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT) | [Percolator \(Original Mix\)](https://open.spotify.com/album/7E5OUkUh3NKIo9rlVGcb81) | 4:13 |
+| 39 | [Percolator \- Original Mix](https://open.spotify.com/track/5JYbPUFjUn0i8BQy1C5JTs) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Percolator \(Original Mix\)](https://open.spotify.com/album/7E5OUkUh3NKIo9rlVGcb81) | 4:13 |
 | 40 | [Acid Tracks](https://open.spotify.com/track/05kXJj11PCg7aIWvQxp683) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/2ytfCSG1WHfz2LP2rGjQ1x) | 12:17 |
 | 41 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 |
 | 42 | [Children of the Night \(Frankie Knuckles 12" Production\)](https://open.spotify.com/track/67PNk6Vzi0k5PTHJl5ogf4) | [Kevin Irving](https://open.spotify.com/artist/0YHkLrAH0UrZ3H7WMFdDgh) | [Frankie Knuckles: Greatest 12 X 12"](https://open.spotify.com/album/1VZdgxXhQyFw8O8lLZgqUI) | 3:53 |

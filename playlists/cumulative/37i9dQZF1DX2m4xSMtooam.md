@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-275 songs - 17 hr 25 min
+276 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 | 2022-06-28 | 2024-04-19 |
 | [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2022-05-13 |  |
 | [Bossa Carioca](https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc) | [Central Park Quartet](https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4) | [Bossa Carioca](https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig) | 3:38 | 2024-07-08 |  |
+| [Bossa For Miles](https://open.spotify.com/track/065vvnxY5JmXGfkMfXc2cD) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc), [Ola Bothzén](https://open.spotify.com/artist/04RGyqM7mPycHtLq2QWPD6) | [Bossa for Miles](https://open.spotify.com/album/6efthBuFIC8O5uasQQzgwk) | 4:09 | 2024-12-13 |  |
 | [Bossa Nova Cha Cha](https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9) | [Luiz Bonfá Plays And Sings Bossa Nova](https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb) | 3:20 | 2022-05-13 |  |
 | [Bossa Nova Cha Cha](https://open.spotify.com/track/2yWmBpgvwr8G5W71mTVwDt) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Composer Of Black Orpheus Plays And Sings Bossa Nova](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ) | 3:20 | 2022-06-28 | 2024-04-19 |
 | [Bossa Nova U.S.A.](https://open.spotify.com/track/4uDOJaEKr2MoeuIjgXM5kf) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Time Signatures: A Career Retrospective](https://open.spotify.com/album/2B0aj8t5forzWzPqt0EzQs) | 2:24 | 2022-09-01 | 2023-01-14 |
@@ -172,7 +173,7 @@
 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 | 2022-06-28 | 2022-10-26 |
 | [O Que Sera?](https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Rio](https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI) | 5:24 | 2022-05-13 |  |
 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 | 2023-02-23 |  |
-| [Olivença](https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Olivença](https://open.spotify.com/album/5J1IgxrFq7MOoEYA03bQxy) | 4:12 | 2024-08-07 |  |
+| [Olivença](https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Olivença](https://open.spotify.com/album/5J1IgxrFq7MOoEYA03bQxy) | 4:12 | 2024-08-07 | 2025-03-28 |
 | [On My Mind](https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Letters in the Sand](https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv) | 4:19 | 2023-08-24 |  |
 | [Once Again \(feat\. Laurindo Almeida\)](https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk) | [Stan Getz With Guest Artist Laurindo Almeida](https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9) | 6:42 | 2022-05-13 | 2022-11-13 |
 | [Once Forgotten](https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Once Forgotten](https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v) | 4:07 | 2022-11-11 |  |

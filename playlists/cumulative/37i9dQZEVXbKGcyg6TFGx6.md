@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Luxembourg.
 
-2,638 songs - 5 day 18 hr 31 min
+2,640 songs - 5 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [2 Germans \(feat\. Gzuz\)](https://open.spotify.com/track/4rSmXn2TIKt6iBeBDM4uOs) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [2 Germans \(feat\. Gzuz\)](https://open.spotify.com/album/6WcK9CnFaQb1C2q46yrt8p) | 2:29 | 2023-10-28 | 2023-11-13 |
 | [200K](https://open.spotify.com/track/4IbdvCq0V3qL67y5Fsrujr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 2:28 | 2023-12-02 | 2023-12-04 |
 | [2019 \(justbars rmx\)](https://open.spotify.com/track/1IhwTymQA1QFgQJu4ZjYtW) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Himmel über Berlin](https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK) | 1:43 | 2022-09-30 | 2022-10-03 |
+| [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 | 2025-03-27 |  |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-09-19 | 2021-11-21 |
 | [22 Carats](https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [22 Carats](https://open.spotify.com/album/5Zk8JVmGOQCIfyulE39JCd) | 3:26 | 2022-05-21 | 2022-05-23 |
 | [24/34](https://open.spotify.com/track/6UWT2WWl2vU9SWkvkXk9Ax) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:47 | 2023-12-02 | 2023-12-07 |
@@ -161,7 +162,7 @@
 | [Another Love](https://open.spotify.com/track/4dskGPAW5tyuWhWWfmmCh7) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [LAZAR](https://open.spotify.com/artist/5mvFgmAe5Sb5FqqvN5RoQC), [Jovani](https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U) | [Another Love](https://open.spotify.com/album/2CnJbF9ectih8HuajAenST) | 2:30 | 2023-12-08 | 2023-12-10 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-06-06 | 2025-03-16 |
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2024-11-12 | 2024-11-17 |
-| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-03-02 |  |
+| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-03-02 | 2025-03-28 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 | 2024-03-01 | 2024-03-23 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-10 | 2024-02-16 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-15 | 2024-02-27 |
@@ -1720,7 +1721,8 @@
 | [Opening Night](https://open.spotify.com/track/4oahRRZECfGud6eL7Lj7CO) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 1:36 | 2025-02-01 | 2025-02-03 |
 | [OPTIMALE \(feat\. Orelsan\)](https://open.spotify.com/track/0viCD9yO5ETu0klfOXRLKD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:04 | 2024-11-30 | 2024-12-02 |
 | [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 | 2023-04-08 | 2023-04-23 |
-| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 |  |
+| [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-03-27 |  |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 | 2025-03-28 |
 | [Osawese \(Thank God\)](https://open.spotify.com/track/19D8fTyA4a7HYqkXJGC9mG) | [WashingtonFx](https://open.spotify.com/artist/0DxsQ3ONaqRXqNOfHpYQw1) | [Osawese \(Thank God\)](https://open.spotify.com/album/3JWLHBj6Si76UmazS80udU) | 2:58 | 2023-09-26 | 2023-09-28 |
 | [Otra Dimension](https://open.spotify.com/track/37t3EbQrZ4W7SQfeBk2mDq) | [DIMA & LALO](https://open.spotify.com/artist/4I3K5jXaeMhm3n5x8hsPWH), [Raw Fellahx](https://open.spotify.com/artist/0FbUAkmWWT7Xcce9YgBxVg) | [Otra Dimension](https://open.spotify.com/album/0IINDJrYUDxEPYBEp0Ldsl) | 2:56 | 2024-12-10 | 2024-12-23 |
 | [Out Of Space](https://open.spotify.com/track/372uT5UzHtylg0haxKxCaF) | [Fakin Bůh](https://open.spotify.com/artist/1GsB3GfxMb3SakVVaUSPYO) | [Out Of Space](https://open.spotify.com/album/3CxI36IUyv7a83eRLv8g7E) | 2:54 | 2024-07-31 | 2024-08-10 |

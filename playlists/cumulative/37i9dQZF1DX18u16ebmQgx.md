@@ -4,7 +4,7 @@
 
 > ¡Brillando baldosa! Foto: Mike Bahía
 
-137 songs - 10 hr 15 min
+138 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Caramelo](https://open.spotify.com/track/3XChc2lJ2X4mlo5lX726Yw) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Fiesta Latina Sigilosa Vol\. 4](https://open.spotify.com/album/2q87HYnblQriFvSllw2uhu) | 3:35 | 2022-06-24 | 2022-11-14 |
 | [Caramelo](https://open.spotify.com/track/7FzYZso8aRnoE9gKDbauJA) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Bailando Salsa](https://open.spotify.com/album/7A9rMQU9AmTm9zST0SzHED) | 3:35 | 2022-06-24 | 2024-04-19 |
 | [Castigala](https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:36 | 2022-06-24 |  |
+| [Clásicos 1.0: Robando Sueños](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 | 2025-03-28 |  |
 | [Conmoción](https://open.spotify.com/track/0uub4RZQaDYpziNCEIKgKM) | [Conmoción Orquesta](https://open.spotify.com/artist/2IStcUgrPfLfTXDjrhdjnd) | [La Cara del Gato](https://open.spotify.com/album/4YaY94wkPsU8nm10dMuGdq) | 5:00 | 2022-06-24 |  |
 | [Curao en Salsa](https://open.spotify.com/track/1I70lW77TO4TbXAyAofPYy) | [Curao En Salsa](https://open.spotify.com/artist/6olL7cjgBRwpBZIphKCV5b) | [Salsa para el Bailador, Vol\. 1](https://open.spotify.com/album/7vqBHVKimf5ggc7PghVgMv) | 4:50 | 2022-06-24 |  |
 | [Dale al Bombo](https://open.spotify.com/track/43zdSGprJL0dg6cBQbwftd) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Historia de la Salsa en el Siglo XX \(Vol\. 3\)](https://open.spotify.com/album/5cteav4JbTG3fF1nSVkZVs) | 3:43 | 2023-08-04 |  |
@@ -81,7 +82,7 @@
 | [La Salsa la Traigo Yo](https://open.spotify.com/track/6qCdQyVXZidUe9KSbX45dg) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [La Salsa la Traigo Yo](https://open.spotify.com/album/4H4MztF4b8eTNgKOuEVI1r) | 4:20 | 2023-08-04 |  |
 | [La Salsa la Traigo Yo](https://open.spotify.com/track/5ljVAksVW3T7BUN3VvAxzB) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold Pelaez](https://open.spotify.com/artist/7dSzgAh9oy23FLoZQtjaH7) | [Al Son de los Cueros](https://open.spotify.com/album/54c38xGI5RK6XolTmY2RFD) | 4:19 | 2022-06-24 | 2024-04-19 |
 | [La Salsa la Traigo Yo](https://open.spotify.com/track/6UEKsdkhIyL5jjzFgdq7Ig) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold Pelaez](https://open.spotify.com/artist/7dSzgAh9oy23FLoZQtjaH7) | [Greatest Hits](https://open.spotify.com/album/1qKM5Xj81D0e8HRrIiMc5o) | 4:19 | 2022-06-24 | 2022-11-14 |
-| [La Semilla](https://open.spotify.com/track/2AiboEBJGdThK0EiQwmvT7) | [Manteca Blue & the Latin Corner](https://open.spotify.com/artist/1lMoNvClPMQzDJ0vZK8Fys), [Marcial Istúriz](https://open.spotify.com/artist/3g4HfF9u5onPeMymTTPUNx) | [La Semilla](https://open.spotify.com/album/1nUMlgzPbxhdjGXOnm4r7K) | 4:53 | 2022-06-24 |  |
+| [La Semilla](https://open.spotify.com/track/2AiboEBJGdThK0EiQwmvT7) | [Manteca Blue & the Latin Corner](https://open.spotify.com/artist/1lMoNvClPMQzDJ0vZK8Fys), [Marcial Istúriz](https://open.spotify.com/artist/3g4HfF9u5onPeMymTTPUNx) | [La Semilla](https://open.spotify.com/album/1nUMlgzPbxhdjGXOnm4r7K) | 4:53 | 2022-06-24 | 2025-03-28 |
 | [La Única](https://open.spotify.com/track/4ecq0bpcAfBzdAwA20Sy5M) | [Juan Carlos Ensamble](https://open.spotify.com/artist/2D6mQmDTdaLcA9BZytb4yk) | [La Única](https://open.spotify.com/album/1SCjBabL3glZMAXCwqC5W7) | 2:57 | 2022-12-02 | 2023-09-16 |
 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/5Ru99vS2BaLyBCH1PXFiJo) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Grandes Hits \- Latin Brothers](https://open.spotify.com/album/16Crjgmzz0nueE1mu3TXUq) | 3:52 | 2023-08-04 |  |
 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 | 2022-06-24 | 2024-04-19 |

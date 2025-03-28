@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure.  cover: Cover: f5ve",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure.  cover: Cover: ATARASHII GAKKO!",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -4393,6 +4393,24 @@
     },
     {
       "album": {
+        "name": "Mob Narino Kung Fu",
+        "url": "https://open.spotify.com/album/3pxk9Ay70I4M3e1RLVYpeD"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30af\u30e9\u30a4\u30c8\u30fc\u30ad\u30fc",
+          "url": "https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198146,
+      "name": "Mob Narino Kung Fu",
+      "url": "https://open.spotify.com/track/5a3YY2oVa9l0w630TkmM0F"
+    },
+    {
+      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/3y3enebOp9Bej82K3mDorK"
       },
@@ -4822,7 +4840,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 206129,
       "name": "New me",
       "url": "https://open.spotify.com/track/43DrDpSiIZWEiEfsQQHoQi"
@@ -5972,7 +5990,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 101037,
       "name": "Saint-Seiya",
       "url": "https://open.spotify.com/track/62i7iuG7akqkLJGLAyRxlx"
@@ -6423,6 +6441,24 @@
     },
     {
       "album": {
+        "name": "Soyokaze",
+        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216417,
+      "name": "Soyokaze",
+      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
+    },
+    {
+      "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
@@ -6622,6 +6658,24 @@
       "duration_ms": 214080,
       "name": "Sugarless Kiss",
       "url": "https://open.spotify.com/track/2pEeXbiebbKqIklSL0gLO0"
+    },
+    {
+      "album": {
+        "name": "Suki",
+        "url": "https://open.spotify.com/album/5rGpvEGjzSMG82wvv3DS0R"
+      },
+      "artists": [
+        {
+          "name": "yuri",
+          "url": "https://open.spotify.com/artist/5wPk5S4evPJCbmEQdkVCBJ"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122999,
+      "name": "Suki",
+      "url": "https://open.spotify.com/track/6XixU9usPJY7p0Jg9m9FEP"
     },
     {
       "album": {
@@ -7966,7 +8020,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 204729,
       "name": "\u304b\u3082\u306d",
       "url": "https://open.spotify.com/track/01JVCnpS3bguXW4avkRTG1"
@@ -11751,6 +11805,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
+        "url": "https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ"
+      },
+      "artists": [
+        {
+          "name": "AiScReam",
+          "url": "https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262105,
+      "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
+      "url": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
+    },
+    {
+      "album": {
         "name": "\u304d\u304f\u304a\u30df\u30af3",
         "url": "https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0"
       },
@@ -13260,7 +13332,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 182114,
       "name": "\u8fce",
       "url": "https://open.spotify.com/track/40B8VGHyDQEa4JlrI6LatP"

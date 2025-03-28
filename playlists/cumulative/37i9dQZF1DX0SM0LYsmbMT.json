@@ -3809,6 +3809,28 @@
     },
     {
       "album": {
+        "name": "Aphantasia",
+        "url": "https://open.spotify.com/album/0axfdB30DW7gMPtpNEf3wq"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "WOOLFSON",
+          "url": "https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "Aphantasia",
+      "url": "https://open.spotify.com/track/0PO1WL7FNtoAa28OPKwZDu"
+    },
+    {
+      "album": {
         "name": "Aphrodite",
         "url": "https://open.spotify.com/album/1GFiOiHJV616jT17dtfdhH"
       },
@@ -25338,7 +25360,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 137437,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3iU03u35p553a6UHOkn6JG"
@@ -41418,7 +41440,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 128780,
       "name": "lemon maffin",
       "url": "https://open.spotify.com/track/2tch1kGFkwkWwaPfFo3MoU"
@@ -53370,6 +53392,24 @@
       "duration_ms": 115764,
       "name": "No Train",
       "url": "https://open.spotify.com/track/6Dbkx0yRv8X6BRutRy40Zx"
+    },
+    {
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/6mjouGeKc1ccrL7KrBDsmn"
+      },
+      "artists": [
+        {
+          "name": "Jules Hiero",
+          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149189,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/7nIkZLDERK6FYvnFqDlOrU"
     },
     {
       "album": {

@@ -411,6 +411,28 @@
     },
     {
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Boston Richey",
+          "url": "https://open.spotify.com/artist/6N6dtckgIXwmGROqfhwkFz"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Bad Bih 4 Ya (feat. Boston Richey)",
+      "url": "https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V"
+    },
+    {
+      "album": {
         "name": "Bad Bitch Bigaku Remix",
         "url": "https://open.spotify.com/album/10nJGwqQ2oNN165RORg4j1"
       },
@@ -1688,7 +1710,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 225473,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0WzICKUgMJxdQbrTupsVTK"
@@ -1742,7 +1764,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 210389,
       "name": "F\u30fbL\u30fbY",
       "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
@@ -3980,6 +4002,24 @@
       "duration_ms": 184914,
       "name": "OMG",
       "url": "https://open.spotify.com/track/4mEA1iLTA7zEo5Uvv3UeS7"
+    },
+    {
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/18MwbH9QVqszhUvrwLQ4s5"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116567,
+      "name": "Omote",
+      "url": "https://open.spotify.com/track/32yzfN13URHhpeq5tYbBNX"
     },
     {
       "album": {

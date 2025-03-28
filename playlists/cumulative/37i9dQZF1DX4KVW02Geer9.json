@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u9ed2\u7530\u5353\u4e5f",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Joe Armon-Jones",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 286457,
       "name": "Bagatelle #57",
       "url": "https://open.spotify.com/track/7Me3uOpXhpVVCuvnzHabJ5"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 202162,
       "name": "Birds",
       "url": "https://open.spotify.com/track/4NKCtKcL7oGSwJ2EfOBU8N"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 277459,
       "name": "Dinorah Dinorah",
       "url": "https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 142570,
       "name": "Frica",
       "url": "https://open.spotify.com/track/3mLKKFQbo5HYW2DIRo63f3"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 432080,
       "name": "Hurry Up & Wait",
       "url": "https://open.spotify.com/track/2b7kkmTOmUTtuAUD9YUB4K"
@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "All The Quiet (Part I)",
+        "url": "https://open.spotify.com/album/0efFrXZr98tY3O5qkAGQB7"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487586,
+      "name": "Lifetones",
+      "url": "https://open.spotify.com/track/0gouDswj0R5jne7YUUrlIO"
+    },
+    {
+      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p"
       },
@@ -3530,7 +3548,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 262306,
       "name": "No One's Watching Me - feat. Olivia Dean",
       "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
@@ -3764,7 +3782,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 280626,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx"
@@ -4274,7 +4292,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 231862,
       "name": "Sometimes I Miss",
       "url": "https://open.spotify.com/track/2RvckqFywUf9qkt68AoY00"
@@ -4596,7 +4614,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 223521,
       "name": "Tall Man",
       "url": "https://open.spotify.com/track/4XrCnlytKeHaoB3umqy4dQ"
@@ -4756,6 +4774,24 @@
       "duration_ms": 283386,
       "name": "Thoth",
       "url": "https://open.spotify.com/track/7yDAKkaZFBjl4jdvXMPivN"
+    },
+    {
+      "album": {
+        "name": "Thousand Knives / Laila",
+        "url": "https://open.spotify.com/album/70wflYUE9Dn5L4cDqrsgZx"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337578,
+      "name": "Thousand Knives - ver.Rawment",
+      "url": "https://open.spotify.com/track/2eDazC1X5NUITWXcV3jWqN"
     },
     {
       "album": {
@@ -4959,6 +4995,28 @@
     },
     {
       "album": {
+        "name": "Unwind [Feat. Melanie Charles]",
+        "url": "https://open.spotify.com/album/2jWjJILBlCqfA2PCPgZNPQ"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Melanie Charles",
+          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Unwind [Feat. Melanie Charles]",
+      "url": "https://open.spotify.com/track/0nK4auk3sF7wrRWNMEaw2b"
+    },
+    {
+      "album": {
         "name": "URAH",
         "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
       },
@@ -5018,6 +5076,24 @@
       "duration_ms": 287045,
       "name": "Virtual Insanity",
       "url": "https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX"
+    },
+    {
+      "album": {
+        "name": "Vortex (from \"LAZARUS\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383631,
+      "name": "Vortex (from \"LAZARUS\" Soundtrack)",
+      "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"
     },
     {
       "album": {

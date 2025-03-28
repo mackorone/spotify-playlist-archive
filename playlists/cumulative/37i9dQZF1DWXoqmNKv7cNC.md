@@ -4,7 +4,7 @@
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-1,355 songs - 3 day 2 hr 0 min
+1,359 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Destroy Everything You Touch](https://open.spotify.com/track/5YzckYO7G171MHg1UqkxJY) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Witching Hour](https://open.spotify.com/album/1j2rtIlRBcUHmxtn4Z4vGc) | 4:36 | 2024-08-07 | 2024-09-05 |
 | [Detrás de una Flor](https://open.spotify.com/track/4vCAKAGKOyIuoEHN5nV0Jx) | [Mueran Humanos](https://open.spotify.com/artist/6QFejLfdSjnBOVvH6kqCEq) | [Hospital Lullabies](https://open.spotify.com/album/5yxXBLlielDVFw2cKITSzG) | 6:18 | 2022-03-03 | 2022-04-07 |
 | [Diablo](https://open.spotify.com/track/3yaHyiY0G7gk56c0ovNHvC) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Skinny Man](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [Diablo](https://open.spotify.com/album/2UGjSQMPVeJwTMdBTTZUs7) | 2:40 | 2022-01-05 | 2022-02-03 |
+| [Diablísima](https://open.spotify.com/track/1g1vls6rprXbOa9ih6KVwB) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [C'est Moi](https://open.spotify.com/album/3K2eG2XOyqW6FWiRL6X2ME) | 2:48 | 2025-03-27 |  |
 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 | 2022-05-04 | 2023-02-02 |
 | [Diana](https://open.spotify.com/track/1IkujUQO8JXrUm75W222tC) | [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Blanquinegro](https://open.spotify.com/album/0gDQEiJSvgXaRWAPxLcyZa) | 3:47 | 2023-03-01 | 2023-04-06 |
 | [Dicen Que Eres Arte](https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dicen Que Eres Arte](https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg) | 2:44 | 2024-09-04 | 2024-10-03 |
@@ -907,6 +908,7 @@
 | [OTM](https://open.spotify.com/track/7wnSvBYZF4YZbM92M6tyBy) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [OTM](https://open.spotify.com/album/5bgM2zZ6BIezZgLGJP1s50) | 2:07 | 2024-03-22 | 2024-04-04 |
 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-08-03 | 2022-09-09 |
 | [Otro año +](https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Otro año +](https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob) | 1:40 | 2023-02-01 | 2023-03-02 |
+| [Otro Tinte](https://open.spotify.com/track/6qhWJ9zauJ6X67v3CVXxWm) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Otro Tinte](https://open.spotify.com/album/5eIzOsCi13ku8Vi5uYk5BA) | 3:15 | 2025-03-27 |  |
 | [pa](https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [pa](https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op) | 3:10 | 2024-04-03 | 2024-05-02 |
 | [Pa' Seguir La Fiesta](https://open.spotify.com/track/6MESjlyKX7e2tMNcwlVD8u) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 2:20 | 2024-06-05 | 2024-07-04 |
 | [Pajarillo Jilguero \(Tradicional de Guerrero\) \[En Vivo\]](https://open.spotify.com/track/5SwQYWjCDMBkw1d6QECmVX) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [10 Años](https://open.spotify.com/album/7gS4Uv3KJJ4FxM5v78sFeN) | 4:33 | 2022-10-05 | 2022-11-03 |
@@ -1010,6 +1012,7 @@
 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 | 2022-08-03 | 2022-09-09 |
 | [Quiero Ser Tu Perra](https://open.spotify.com/track/52W55tB14qQd3Qat1kpqVs) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Yo Fuí una Adolescente Terrosatánica \(Versión 2021\)](https://open.spotify.com/album/5x91hn6IJqylQAGQsfO48k) | 3:32 | 2024-07-03 | 2024-08-08 |
 | [Quimeras](https://open.spotify.com/track/3AFlYYQygk9aDXJ7nc9W2C) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Quimeras](https://open.spotify.com/album/0Y5OXSFgLenoKqZjkDfKBs) | 2:54 | 2022-07-06 | 2024-08-08 |
+| [Quisiera](https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Quisiera](https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv) | 2:15 | 2025-03-27 |  |
 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 | 2023-08-02 | 2023-09-07 |
 | [Quién de los 2](https://open.spotify.com/track/7gVLQ1vuYUsxGnYiaBAJnO) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Quién de los 2](https://open.spotify.com/album/1t5zcQgjN7W7RUuaHqAfS9) | 3:09 | 2023-07-05 | 2023-08-03 |
 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 | 2023-09-06 | 2023-10-05 |
@@ -1358,6 +1361,7 @@
 | [Ámbar](https://open.spotify.com/track/4jRRtDfOARsellhYzIw534) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Ámbar](https://open.spotify.com/album/31ckJdxv9vVBPfv2I5FDFj) | 2:44 | 2024-12-04 | 2025-03-04 |
 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 | 2022-05-04 | 2022-11-03 |
 | [Échame A Mi La Culpa](https://open.spotify.com/track/1gDw2rQ82Y7z10FRN34mxj) | [Natalia Aguilar](https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV) | [Memorias](https://open.spotify.com/album/5ynqKIqeym2DcFxHpZX325) | 3:35 | 2023-08-02 | 2023-09-07 |
+| [Él No Es Tuyo](https://open.spotify.com/track/1Ob7BoZlmwL5itaJAScc1I) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Él No Es Tuyo](https://open.spotify.com/album/0baLGh3enDgF1Ley0q8NtG) | 3:36 | 2025-03-27 |  |
 | [éxtasis](https://open.spotify.com/track/1WwJRrJAkU4sKBDNmsvik1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 3:05 | 2023-09-06 | 2023-10-05 |
 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 | 2022-10-05 | 2022-11-03 |
 | [Órdenes para Mí](https://open.spotify.com/track/2GQNyYAorrIaaicOkzhZ2D) | [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Manuel Coe](https://open.spotify.com/artist/40pq51Z6FH37qgondDHDy2) | [Pequeñas Profecías](https://open.spotify.com/album/6TvZMi5VZl449aqj0xF6Tb) | 3:57 | 2022-07-06 | 2022-08-04 |

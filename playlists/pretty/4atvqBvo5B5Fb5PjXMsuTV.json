@@ -1,13 +1,97 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Mar 23:04 UTC.",
-  "num_followers": 89,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Mar 23:04 UTC.",
+  "num_followers": 90,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAQlDiA2DRtOKC/K4HhyovcsQpvYpwQ",
+  "snapshot_id": "AAAQnbq0IAiYp3DQX3hbr2IOzY2VyaMz",
   "tracks": [
+    {
+      "added_at": "2025-03-27 23:04:24",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+    },
+    {
+      "added_at": "2025-03-27 14:04:59",
+      "album": {
+        "name": "YIPPEE-KI-YAY.",
+        "url": "https://open.spotify.com/album/5yCGtpqoFL9NqmcLq7y6iw"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "YIPPEE-KI-YAY. (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/3YmHHuxf2jfGEllrfs1KV7"
+    },
+    {
+      "added_at": "2025-03-27 23:04:24",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
+    },
+    {
+      "added_at": "2025-03-27 23:04:24",
+      "album": {
+        "name": "Weird World Awoke",
+        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 200935,
+      "name": "Weird World Awoke",
+      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
+    },
+    {
+      "added_at": "2025-03-27 23:04:24",
+      "album": {
+        "name": "ON THE LOW",
+        "url": "https://open.spotify.com/album/3Zu1sBpLxNrYzEDAk6mEjN"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/7JJsA3K4QxzK6SU3BRnvMd"
+    },
     {
       "added_at": "2025-03-26 19:04:55",
       "album": {
@@ -89,6 +173,22 @@
       "url": "https://open.spotify.com/track/2IbtNIdNlVelpPNaRYEZdJ"
     },
     {
+      "added_at": "2025-03-27 19:05:10",
+      "album": {
+        "name": "Hole In A Frame / Pants",
+        "url": "https://open.spotify.com/album/2UlP6ggb5jkWOOQROaPRaX"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 183392,
+      "name": "Hole In A Frame",
+      "url": "https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs"
+    },
+    {
       "added_at": "2025-03-25 09:04:25",
       "album": {
         "name": "Doves",
@@ -103,6 +203,26 @@
       "duration_ms": 251562,
       "name": "Doves",
       "url": "https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh"
+    },
+    {
+      "added_at": "2025-03-27 04:04:23",
+      "album": {
+        "name": "Dancing in the Club (MJ Lenderman Version)",
+        "url": "https://open.spotify.com/album/7LdDaBVtgvjsbIajBwmAL5"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 298080,
+      "name": "Dancing in the Club - MJ Lenderman Version",
+      "url": "https://open.spotify.com/track/3yxJaRI0o8rZTA8qtKHhKi"
     },
     {
       "added_at": "2025-03-24 14:04:16",
@@ -381,22 +501,6 @@
       "url": "https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8"
     },
     {
-      "added_at": "2025-03-21 19:03:36",
-      "album": {
-        "name": "Ran Out",
-        "url": "https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 142768,
-      "name": "Ran Out",
-      "url": "https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk"
-    },
-    {
       "added_at": "2025-03-26 23:04:29",
       "album": {
         "name": "undressed",
@@ -411,6 +515,22 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "added_at": "2025-03-21 19:03:36",
+      "album": {
+        "name": "Ran Out",
+        "url": "https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 142768,
+      "name": "Ran Out",
+      "url": "https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk"
     },
     {
       "added_at": "2025-03-22 19:04:08",
@@ -715,118 +835,6 @@
       "duration_ms": 270205,
       "name": "Total euphoria",
       "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"
-    },
-    {
-      "added_at": "2025-03-21 23:03:51",
-      "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/7JoCjEqK2Lc9OJiqNNv6q9"
-      },
-      "artists": [
-        {
-          "name": "Tropical Fuck Storm",
-          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Bloodsport",
-      "url": "https://open.spotify.com/track/7f5CKG6ztLKCZ6k7GTTl2k"
-    },
-    {
-      "added_at": "2025-03-21 09:03:27",
-      "album": {
-        "name": "A Flowing Field Of Green",
-        "url": "https://open.spotify.com/album/6zDaTiUg8TmwGHDQRD04hW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 326394,
-      "name": "A Flowing Field of Green",
-      "url": "https://open.spotify.com/track/0HDpNIuWkLGRr7TZaq4ZnY"
-    },
-    {
-      "added_at": "2025-03-21 19:03:36",
-      "album": {
-        "name": "DRESScode",
-        "url": "https://open.spotify.com/album/5UMBQyB5LKje7cKOFma8vP"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 148576,
-      "name": "DRESScode",
-      "url": "https://open.spotify.com/track/1wOtaODw1gIZve9aQ0Nv1t"
-    },
-    {
-      "added_at": "2025-03-17 04:02:42",
-      "album": {
-        "name": "Love (MKB)",
-        "url": "https://open.spotify.com/album/3bXf5d2HIuCMzurxLHdvm9"
-      },
-      "artists": [
-        {
-          "name": "Che",
-          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
-        }
-      ],
-      "duration_ms": 192406,
-      "name": "Love (MKB)",
-      "url": "https://open.spotify.com/track/55sHeRRTqwdtO4xRtFet0S"
-    },
-    {
-      "added_at": "2025-03-16 14:02:26",
-      "album": {
-        "name": "maman",
-        "url": "https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 180195,
-      "name": "maman",
-      "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
-    },
-    {
-      "added_at": "2025-03-15 09:03:27",
-      "album": {
-        "name": "SMOKE THE PAIN AWAY",
-        "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 162772,
-      "name": "SMOKE THE PAIN AWAY",
-      "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
-    },
-    {
-      "added_at": "2025-03-15 09:03:27",
-      "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/4tkWFrpfiEqRC4LpVHeY4j"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/4z0QjhdKJ9RB8BPFux1Bci"
     }
   ],
   "unique_name": "New Singles Now",

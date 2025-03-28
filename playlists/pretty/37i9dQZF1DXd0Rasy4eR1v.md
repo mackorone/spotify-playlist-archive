@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: HAVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,110 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,112 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 7 | [Awara Sa](https://open.spotify.com/track/3wNz7gnVOJmUOFmd56WNiV) | [Nasir Hameed](https://open.spotify.com/artist/2eyF3W3ivD7vpcOlZea9OW), [Zaain](https://open.spotify.com/artist/7rNw0ou0vrSbdvRVOOaGGQ), [Anilka Gill](https://open.spotify.com/artist/58kbcbaAy7sBQlPtaIm3R7) | [Awara Sa](https://open.spotify.com/album/1BPQWMnB1de2Fy3rNYDlC9) | 2:51 |
 | 8 | [Jugnu](https://open.spotify.com/track/5jnPxIi087qVS6odU9i9rW) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS) | [Jugnu](https://open.spotify.com/album/4ReslHskpdGXZxhzQc60JE) | 2:22 |
 | 9 | [Loco](https://open.spotify.com/track/1oXlByGEQzUnXeTONSRHko) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9), [Laiba Khurram](https://open.spotify.com/artist/6kZAZpYJwnwpVF5R9nDTyz) | [Loco](https://open.spotify.com/album/6FHlVxKmN3GdhH5uPFgZ2e) | 2:46 |
-| 10 | [No One Like Us](https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 3:22 |
+| 10 | [No One Like Us](https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I) | [JANI](https://open.spotify.com/artist/56yb8nBi3oWN7U5BMtYjwN), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 3:22 |
 | 11 | [Kadi Kadi](https://open.spotify.com/track/5HFi6CMs1EcT0dQjblaSWl) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Indiedanish](https://open.spotify.com/artist/5lUo8Dl9AEOYsPfvHhSCnI), [Joshua Savio](https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9) | [Kadi Kadi](https://open.spotify.com/album/6GUKecLQQ6bflSmP7nKNsS) | 3:39 |
 | 12 | [Raatain](https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x) | [Raatain](https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc) | 2:06 |
 | 13 | [Zaroori Hai](https://open.spotify.com/track/5jFwxhVtOnEU4U6aUM1JnR) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Ashal Haider Khan](https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR), [Mohsin Raza Shah](https://open.spotify.com/artist/21iESpk5OYSSJiuH3e7Z2Z) | [Zaroori Hai](https://open.spotify.com/album/4QaDYp8zCslfKI0ljs3oND) | 4:18 |

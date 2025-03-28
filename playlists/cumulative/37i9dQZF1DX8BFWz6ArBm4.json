@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ria Ellinidou ",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ioulia Kalimani ",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 171704,
       "name": "7/7",
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 227542,
       "name": "Ferte Tin Piso",
       "url": "https://open.spotify.com/track/2OexVDpovkx2sW5nKIDfg9"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 180326,
       "name": "Floga",
       "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
@@ -1164,6 +1164,28 @@
       "duration_ms": 164181,
       "name": "Kati Xereis",
       "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
+    },
+    {
+      "album": {
+        "name": "Kontra Paidi",
+        "url": "https://open.spotify.com/album/1nE79NwK4nbiv93YuEYtrK"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164912,
+      "name": "Kontra Paidi",
+      "url": "https://open.spotify.com/track/25Y7pAip2rT44HKg37z7or"
     },
     {
       "album": {
@@ -1732,7 +1754,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 242500,
       "name": "Parallili Agapi",
       "url": "https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej"
@@ -1970,7 +1992,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 188067,
       "name": "Savvato Vrady",
       "url": "https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7"
@@ -2158,7 +2180,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 252415,
       "name": "Sta Logia Meiname",
       "url": "https://open.spotify.com/track/2hXyNWr0wVh7qoraVXOrB1"
@@ -2234,6 +2256,24 @@
       "duration_ms": 199833,
       "name": "Ta Shinia Sou - Live",
       "url": "https://open.spotify.com/track/13pjBCi6hv1BpjdiF23ngD"
+    },
+    {
+      "album": {
+        "name": "Terma Laika",
+        "url": "https://open.spotify.com/album/6gsa6An5xsJ9FEJHMEUhkM"
+      },
+      "artists": [
+        {
+          "name": "Christos Cholidis",
+          "url": "https://open.spotify.com/artist/5FkkhJ6aAg3uG4n68Nvia2"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179178,
+      "name": "Terma Laika",
+      "url": "https://open.spotify.com/track/3MW1NoOzjIzpi0VfbkzRzk"
     },
     {
       "album": {

@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 150800,
       "name": "Black Noise (LP 83hz)",
       "url": "https://open.spotify.com/track/3U4nVSlAR6yNlAF0UwZcYd"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 173871,
       "name": "Inhale Exhale To Black Noise",
       "url": "https://open.spotify.com/track/6YjL19fXSIVmLsWBhYYxtr"
@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Midnight Zzz's",
+        "url": "https://open.spotify.com/album/5NXEF9Qu8f7b9e8lyXyn1X"
+      },
+      "artists": [
+        {
+          "name": "Likko Sol",
+          "url": "https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267479,
+      "name": "Midnight Zzz's",
+      "url": "https://open.spotify.com/track/1KiNy0FQoX4BMdHHvIVXIR"
+    },
+    {
+      "album": {
         "name": "Black Noise For Focus",
         "url": "https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg"
       },
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 142172,
       "name": "Peaceful Black Noise",
       "url": "https://open.spotify.com/track/3rrxVDfT84TPPRmqHvtUs1"

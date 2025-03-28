@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-376 songs - 19 hr 43 min
+377 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Curse](https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll) | [Strybo](https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg) | [Curse](https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx) | 1:30 | 2022-11-22 |  |
 | [DANGEROUS](https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DANGEROUS](https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs) | 2:45 | 2023-08-10 |  |
 | [Dangerous](https://open.spotify.com/track/2ek0oPdjselpQnDaEOje10) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [Beneath My Shade](https://open.spotify.com/artist/7aADBYuRxT4V57iwqzUiPP) | [Dangerous](https://open.spotify.com/album/66DVpNiLrwNe5nLHGlHan0) | 2:01 | 2023-08-10 |  |
+| [DANÇA DO VERÃO](https://open.spotify.com/track/0AnK3aYDf1XOC48Pgzdc9G) | [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [SH3RWIN](https://open.spotify.com/artist/1XagsDM1XXaJuWCvikh4JY), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [DANÇA DO VERÃO](https://open.spotify.com/album/2BhXlEQosOGwfyRVVWVYpD) | 1:13 | 2025-03-27 |  |
 | [Darkness](https://open.spotify.com/track/2yT6EsKV5GBdd9AO8gd4JJ) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Darkness](https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS) | 3:41 | 2022-08-11 | 2022-08-19 |
 | [Daydream](https://open.spotify.com/track/1hUp6I7PRARMZ0pCrXhE7s) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [blankfaces](https://open.spotify.com/artist/6E416eeGBMwMlH3FmlxOMS) | [Daydream](https://open.spotify.com/album/00VnMTJa80xTQFonoCksxo) | 2:49 | 2022-04-12 | 2023-08-11 |
 | [Daydream](https://open.spotify.com/track/3o9NWxu4L3u22WBJTfq1Nj) | [Cream Blade](https://open.spotify.com/artist/5Px3CFPaLOQwOILnyQ5HwS), [romi](https://open.spotify.com/artist/03fWMFv4epXaib7b7PDP78) | [Daydream](https://open.spotify.com/album/7L0JggFuhaLrd4Qa9iJv6r) | 3:54 | 2022-02-03 | 2022-09-15 |

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-585 songs - 1 day 14 hr 59 min
+586 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Burnin' Up](https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Burnin' Up](https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM) | 2:38 | 2023-07-14 | 2024-09-13 |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2022-04-14 | 2024-03-01 |
 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 | 2025-03-20 |  |
+| [Cada Vez](https://open.spotify.com/track/3d2hvqd1TVKSXKW1Z13j6n) | [MEDITERANE](https://open.spotify.com/artist/4vR71H3X6ElW2XnP6Ggwhq), [ABOUTME](https://open.spotify.com/artist/7cXBldbNYipGrKZDr3hwVy) | [Cada Vez](https://open.spotify.com/album/1iPohGaYhxREtzVgi9f4gN) | 2:19 | 2025-03-27 |  |
 | [Cada Vez \- Grant Nelson Radio Edit](https://open.spotify.com/track/6NYctBsuODhva162XjwYq5) | [Negrocan](https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS) | [Cada Vez \(Ultimate Mix Collection\)](https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD) | 3:52 | 2022-07-28 | 2024-03-01 |
 | [Calculated \- FAM Disco Remix](https://open.spotify.com/track/52CrRbIz3DlB9PqTtJhCRo) | [Gianni Bini](https://open.spotify.com/artist/1KBsm76gkXpFlbF5WZSh5C), [Niki Muxx](https://open.spotify.com/artist/0SRWpqo0QD2sQfUEe1g9yH), [Kimera Morrell](https://open.spotify.com/artist/4seg7Aqpge6kDLRZtakUIC), [FAM Disco](https://open.spotify.com/artist/6Nv25UuRE0IatzIIPdG7gc) | [Calculated \(FAM Disco Remix\)](https://open.spotify.com/album/5j3b3NVzBFzpyrkU0epxXE) | 6:37 | 2025-03-20 |  |
 | [Call Me \- You Man Remix](https://open.spotify.com/track/632hTioEegQLCR2uOfVHlN) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [HËXĖ](https://open.spotify.com/artist/4UkyoxX4SQP7eLvxNiYlqv), [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Call Me \(You Man Remix\)](https://open.spotify.com/album/0TpFIuX7ks5TMZzCw6ZCLM) | 3:13 | 2022-04-14 | 2022-07-23 |
@@ -181,7 +182,7 @@
 | [Free At Last \- Martin Ikin Remix](https://open.spotify.com/track/29OpAJWfsnqXQY5VAEToTI) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Anna Leyne](https://open.spotify.com/artist/7GCoz67CzP8geNIXE7lQrb), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Free At Last](https://open.spotify.com/album/3OrkPlLYfJK0Po2Z5fLjnO) | 3:21 | 2022-04-14 | 2024-03-01 |
 | [Free Jam \(feat\. Kathy Brown\)](https://open.spotify.com/track/03BBAdsDn4j5ZjmlKyol3q) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq) | [Free Jam EP](https://open.spotify.com/album/0Co0cFsKWJfnCvzaK7hXBd) | 3:11 | 2024-05-23 | 2025-03-08 |
 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 | 2022-04-14 | 2024-03-21 |
-| [Freedom 2024](https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Freedom 2024](https://open.spotify.com/album/2xCpkjYMEJQ2dFHxl3zOsI) | 2:41 | 2024-07-18 |  |
+| [Freedom 2024](https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Freedom 2024](https://open.spotify.com/album/2xCpkjYMEJQ2dFHxl3zOsI) | 2:41 | 2024-07-18 | 2025-03-28 |
 | [Freeze \- John Summit Remix](https://open.spotify.com/track/6N1UWEnnka2kl5g39UnoqI) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Freeze \(John Summit Remix\)](https://open.spotify.com/album/1y9vtFEaefqwQUioWsaOsw) | 3:12 | 2022-07-14 | 2024-02-08 |
 | [French 75](https://open.spotify.com/track/4kMa10rUvrtekpPGrNROWC) | [Shaggii](https://open.spotify.com/artist/1YnFKDmp7kh1JzXekxnMez), [Arra](https://open.spotify.com/artist/4sTQKgtCClcWghDtIMcVuw) | [Roadhouse](https://open.spotify.com/album/3KMFzZTiKXtzeK6uW7KIbh) | 3:30 | 2024-06-27 |  |
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-07-20 | 2024-03-01 |

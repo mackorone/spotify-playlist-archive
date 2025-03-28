@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHFhWHPpRPHpJtESEIz0vi/Xjo4Sp+",
+  "snapshot_id": "AAAHF8lILwKNbMhjk/7Vo4sKuaADyVNh",
   "tracks": [
+    {
+      "added_at": "2025-03-28 02:59:22",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+    },
     {
       "added_at": "2025-03-14 02:07:37",
       "album": {

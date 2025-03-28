@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Killen.
+> The home for alternative electronic music\. Cover: DJ Seinfeld
 
-1,162 songs - 3 day 7 hr 47 min
+1,164 songs - 3 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 | 2024-10-24 |  |
 | [Arc](https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Arc](https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm) | 4:34 | 2021-11-24\* | 2022-02-19 |
 | [Are We Here? \(30 Something\) \- Dusky Remix](https://open.spotify.com/track/4Jt4zH1bLXLeRFsdE859jb) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Are We Here? \(30 Something\) \[Remixes\]](https://open.spotify.com/album/1BaqR0H9llOKtOGNUIN4Wc) | 5:48 | 2022-01-07 | 2022-05-13 |
+| [Are You In?](https://open.spotify.com/track/75RWvdK6iawjliJUpXdzxw) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Are You In?](https://open.spotify.com/album/4mFpFXxYbJ2V0pZROtWUwq) | 2:37 | 2025-03-28 |  |
 | [Area](https://open.spotify.com/track/75Urs6b0XTdL0v28Rkuw34) | [⌭ IceMorph ⌬](https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z) | [Area](https://open.spotify.com/album/1CtupKroTEzQNRuuSSEYLj) | 3:07 | 2024-11-15 |  |
 | [Arena!](https://open.spotify.com/track/14opyoO8p7wD8zM2wSxF3c) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF) | [Arena!](https://open.spotify.com/album/3bPS0fEOge52BYWNyu76PK) | 2:31 | 2023-09-15 | 2024-01-19 |
 | [Arrow](https://open.spotify.com/track/7k0KWTgeElluItD61B9aYc) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Arrow](https://open.spotify.com/album/6ZZQHyJpjPW9jFhHXgXR1I) | 3:07 | 2022-09-15 | 2022-10-07 |
@@ -249,6 +250,7 @@
 | [Desire](https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Desire](https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY) | 2:51 | 2024-02-16 | 2024-07-27 |
 | [Desire](https://open.spotify.com/track/3DVXjW5D4mPCS7lcUdkuq4) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl) | 1:48 | 2022-09-08 | 2023-02-02 |
 | [Desire](https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN) | 1:48 | 2023-01-27 | 2023-02-11 |
+| [Desire To Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire To Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 | 2025-03-28 |  |
 | [Diamond Cut](https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 6:10 | 2021-11-24\* | 2022-04-02 |
 | [Different](https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Different](https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY) | 3:26 | 2025-03-14 |  |
 | [Disco Tetris \- Edit](https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2) | 3:18 | 2025-01-31 |  |
@@ -295,7 +297,7 @@
 | [Elder Garden](https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV) | 5:29 | 2022-08-19 | 2022-11-09 |
 | [Elder Garden](https://open.spotify.com/track/3TWcBUoQnSXKw1e4cbws5H) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/3PbfDF0bANDL73NuQL7Wkf) | 5:29 | 2022-11-04 | 2023-01-27 |
 | [Elder Garden](https://open.spotify.com/track/6UJBTAGVxGhqg2053gzyvI) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/7fQYIJUcAWOZ8MA6LfTHXU) | 5:29 | 2022-11-11 | 2022-11-13 |
-| [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Elixir](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 | 2024-10-11 |  |
+| [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Elixir](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 | 2024-10-11 | 2025-03-28 |
 | [EMBER](https://open.spotify.com/track/3TEvSR6IiKJOnZyDY7Zfs7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [EMBER](https://open.spotify.com/album/1XQazD0TE1GaJvHhq0R3ky) | 3:46 | 2022-03-08 | 2022-03-10 |
 | [EMOTIONAL INTELLIGENCE](https://open.spotify.com/track/2VGzWYCwuJrUXSb3sKAhWc) | [808Charmer](https://open.spotify.com/artist/6UVkc7bPScP0qTQE5dDaEX), [808INK](https://open.spotify.com/artist/1eSFjbv86usit5ZF5ywtLf) | [NOTHING MADE SENSE](https://open.spotify.com/album/4Ptah9ieLZ5DVEtgrRHFDQ) | 2:33 | 2023-11-17 | 2024-04-12 |
 | [End Credits](https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [End Credits](https://open.spotify.com/album/74DMWfGIXby2BD5fmVhOJ0) | 3:33 | 2023-09-22 | 2023-10-06 |
@@ -622,7 +624,7 @@
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-05-19 | 2022-09-02 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-26 | 2022-09-02 |
 | [LOUI3](https://open.spotify.com/track/4YQbiWpVvSESKhzYhr24in) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [LOUI3](https://open.spotify.com/album/4HYjJOasl2gNC0Dwyah4o8) | 2:47 | 2023-02-17 | 2023-04-21 |
-| [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 | 2024-09-26 |  |
+| [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 | 2024-09-26 | 2025-03-28 |
 | [Love Divide](https://open.spotify.com/track/5N6x5VY1I0ER9JRtD9PEcy) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Love Divide](https://open.spotify.com/album/16dR19lw7xsjTvpkga7Sg0) | 4:29 | 2021-11-24\* | 2022-01-21 |
 | [love him](https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:13 | 2023-02-10 | 2023-09-15 |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 | 2022-05-26 | 2022-07-29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: m\-flo \*👉 <a href="https://spice.eplus.jp/articles/336373">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: m\-flo \*👉 <a href="https://spice.eplus.jp/articles/336590">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,741 likes - 87 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,750 likes - 87 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 86 | [Chocolate](https://open.spotify.com/track/7cPtC9VIWYizhGrZNybLTv) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Alongside](https://open.spotify.com/album/0pOQ4LOfEVHCMNSbJUxDNs) | 3:24 |
 | 87 | [Wave](https://open.spotify.com/track/1pXIk9DQmaCFRzFREdq2P9) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Wave](https://open.spotify.com/album/4O0vNDX1DS8fk2XqQjuOwf) | 3:28 |
 
-Snapshot ID: `Z+NRgAAAAAAXuGqgbEly/GQd1H7hKmjm`
+Snapshot ID: `Z+XKfgAAAAAsqikum4NBu4sMXAEfkSr5`

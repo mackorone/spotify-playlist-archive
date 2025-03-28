@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,556 likes - 106 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,649 likes - 106 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 10 | [floating time](https://open.spotify.com/track/63EQWvrjKwjZvlvz6eWANk) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [suffershade](https://open.spotify.com/artist/09erAii23JiJfYwr8MhDLB) | [Healing](https://open.spotify.com/album/6lBHEqeOJiUWaI1b86m20h) | 2:21 |
 | 11 | [long, long ago](https://open.spotify.com/track/4SjJhVMgxVLqZ0uL6JNhUN) | [Hinoku](https://open.spotify.com/artist/4VL8BfRXdbEuK5UoqQWezr), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [long, long ago](https://open.spotify.com/album/24zVvxOBXzNkrbKeygGw8d) | 1:46 |
 | 12 | [heartbroken](https://open.spotify.com/track/55RWURYiFBoicLJPZiBZon) | [Mylesxiety](https://open.spotify.com/artist/4yJrGafkJqgcNXUr8aJ9Da) | [heartbroken](https://open.spotify.com/album/6VJ2Q2lRo4ctJQuBePHLEg) | 1:43 |
-| 13 | [i'm looking for you](https://open.spotify.com/track/2PHO6Qex8wtsReyujqu87v) | [Asteriøn](https://open.spotify.com/artist/1MVcHYWfBQ8nEEAYWeYZEr), [exhibit](https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [i'm looking for you](https://open.spotify.com/album/15mnCMuK85VkW4oe64XsgJ) | 1:56 |
+| 13 | [i'm looking for you](https://open.spotify.com/track/2PHO6Qex8wtsReyujqu87v) | [Asteriøn](https://open.spotify.com/artist/1MVcHYWfBQ8nEEAYWeYZEr), [exhibit](https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q), [vibe](https://open.spotify.com/artist/4O95jvSQRjADXrbWDGorO0) | [i'm looking for you](https://open.spotify.com/album/15mnCMuK85VkW4oe64XsgJ) | 1:56 |
 | 14 | [timestop](https://open.spotify.com/track/5xIhRObBoDKKeUHwEL6pbi) | [suffershade](https://open.spotify.com/artist/09erAii23JiJfYwr8MhDLB) | [timestop](https://open.spotify.com/album/0h2lSY0AAGr5lWZpD98I67) | 2:00 |
 | 15 | [Karakara](https://open.spotify.com/track/04zteh0RRRlTsTp54sId8I) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Karakara](https://open.spotify.com/album/0z6RxvvDXIz33aQhLtyFcH) | 2:17 |
 | 16 | [ether](https://open.spotify.com/track/1d4LZ91EF8Ul0GgXI0Kopj) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [ether](https://open.spotify.com/album/4AtZRcO0hACLxU9ABaxtm1) | 2:13 |

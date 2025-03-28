@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: CROOKS INC.",
+  "description": "Discover your new favourite artists from UK&IE. Cover: YT",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1664,6 +1664,24 @@
       "duration_ms": 169230,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/5deRvXDZlILXkHZG1DA4sJ"
+    },
+    {
+      "album": {
+        "name": "OI!",
+        "url": "https://open.spotify.com/album/5STEWFVqkwcmBw6R1g38SN"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136159,
+      "name": "Girls Trip",
+      "url": "https://open.spotify.com/track/3qDTmWFWbiI9X62owRPrnM"
     },
     {
       "album": {

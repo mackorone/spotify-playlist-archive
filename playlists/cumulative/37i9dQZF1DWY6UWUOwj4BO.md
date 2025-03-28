@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-135 songs - 7 hr 13 min
+136 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Trying \- Live Version](https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Trying \(Live Version\)](https://open.spotify.com/album/2okKFrbb0aI61Id07GRVdZ) | 2:06 | 2023-12-22 | 2024-04-13 |
 | [Unwritten \(Acoustic\)](https://open.spotify.com/track/1asIbRzmsjHJtGxGm0Euxm) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten \(Acoustic\)](https://open.spotify.com/album/5IgXJH8tVqL41YPoAKQnNN) | 3:58 | 2024-04-12 | 2024-08-23 |
 | [Wasted Love \(feat\. Lagique\) \- Acoustic](https://open.spotify.com/track/5Zn1K7j3DkB1akPiBLwKR9) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\) \[Acoustic\]](https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js) | 2:07 | 2022-12-21 | 2023-12-23 |
+| [We Can’t Be Friends](https://open.spotify.com/track/057OYWy4YPKYh5xp9sA81I) | [Travis Atreo](https://open.spotify.com/artist/58xmt13Xf7RsThzGOM1aKh) | [We Can’t Be Friends](https://open.spotify.com/album/59hpa02KHG4VPZB7VrVFVl) | 3:10 | 2025-03-27 |  |
 | [Whatever \(with Ava Max\) \- Acoustic](https://open.spotify.com/track/2ItCGswdKXWP6fF5FZFFKe) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 3:45 | 2024-03-28 |  |
 | [Where Are You Now \- Acoustic](https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now \(Acoustic\)](https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH) | 2:42 | 2022-12-21 | 2024-11-22 |
 | [Wish You The Best \- Guitar Version](https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best EP](https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE) | 3:29 | 2023-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  KHAID
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,606 likes - 85 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,659 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Matt Redman",
-  "num_followers": 346532,
+  "num_followers": 346687,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -1903,42 +1903,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 266620,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Canvas And Clay (Live)",
         "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
       },
@@ -1959,26 +1923,38 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 537866,
-      "name": "Your Glory / Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2011,6 +1987,30 @@
       "duration_ms": 402052,
       "name": "Lord Send Revival - Live",
       "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 537866,
+      "name": "Your Glory / Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2175,22 +2175,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 265133,
-      "name": "King Of Kings",
-      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2231,22 +2227,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "God Be Praised (Live)",
         "url": "https://open.spotify.com/album/5S5AotIasDu09ITZuQxYRd"
       },
@@ -2263,6 +2243,26 @@
       "duration_ms": 328466,
       "name": "O The Blood - Live",
       "url": "https://open.spotify.com/track/4ZdwEOmARJc9dMfCc861ka"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2311,26 +2311,6 @@
       "duration_ms": 247933,
       "name": "The Warrior Is A Child - A Heart That Knows You Album Version",
       "url": "https://open.spotify.com/track/7j6Wf54qdc0yOk2sE40WRB"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 568786,
-      "name": "Broken Vessels (Amazing Grace) - Live",
-      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2399,18 +2379,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Today Is the Day",
-        "url": "https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc"
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
       "artists": [
         {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 276746,
-      "name": "Today Is the Day",
-      "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
+      "duration_ms": 568786,
+      "name": "Broken Vessels (Amazing Grace) - Live",
+      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2427,6 +2411,42 @@
       "duration_ms": 360906,
       "name": "Come Thou Fount, Come Thou King - Live",
       "url": "https://open.spotify.com/track/7mhe4Oqmo7wbHvTdJhIMNS"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Today Is the Day",
+        "url": "https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 276746,
+      "name": "Today Is the Day",
+      "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "The Same Jesus",
+        "url": "https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Integrity's Hosanna! Music",
+          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        }
+      ],
+      "duration_ms": 225996,
+      "name": "The Same Jesus - Single Version",
+      "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2455,22 +2475,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "The Same Jesus",
-        "url": "https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c"
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "Integrity's Hosanna! Music",
-          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+          "name": "Keith Green",
+          "url": "https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay"
         }
       ],
-      "duration_ms": 225996,
-      "name": "The Same Jesus - Single Version",
-      "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
+      "duration_ms": 261853,
+      "name": "Create In Me A Clean Heart",
+      "url": "https://open.spotify.com/track/1uKtThpnfQy834PBzqTuD5"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2491,22 +2507,6 @@
       "duration_ms": 401760,
       "name": "This I Believe (The Creed) - Live",
       "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm"
-      },
-      "artists": [
-        {
-          "name": "Keith Green",
-          "url": "https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay"
-        }
-      ],
-      "duration_ms": 261853,
-      "name": "Create In Me A Clean Heart",
-      "url": "https://open.spotify.com/track/1uKtThpnfQy834PBzqTuD5"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2867,6 +2867,26 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Good & Loved",
+        "url": "https://open.spotify.com/album/62326fuqZsx1T92OpKnGqg"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 571345,
+      "name": "Good & Loved (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/1uYMBmK0Z9nPUNsoOax3yV"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/4z2Reu5ayiiP2izF4w3znO"
       },
@@ -2895,26 +2915,6 @@
       "duration_ms": 324280,
       "name": "Already Done",
       "url": "https://open.spotify.com/track/2bcjiEmggC5r06kuLuwGIm"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Good & Loved",
-        "url": "https://open.spotify.com/album/62326fuqZsx1T92OpKnGqg"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 571345,
-      "name": "Good & Loved (feat. Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/1uYMBmK0Z9nPUNsoOax3yV"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -3255,22 +3255,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "United We Stand (Live)",
-        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        }
-      ],
-      "duration_ms": 411039,
-      "name": "The Stand - Live",
-      "url": "https://open.spotify.com/track/7HdvPclBiBpuUzpERTYfxK"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -3283,6 +3267,22 @@
       "duration_ms": 288720,
       "name": "Jesus Messiah",
       "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "United We Stand (Live)",
+        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "duration_ms": 411039,
+      "name": "The Stand - Live",
+      "url": "https://open.spotify.com/track/7HdvPclBiBpuUzpERTYfxK"
     },
     {
       "added_at": "2024-12-11 10:16:32",

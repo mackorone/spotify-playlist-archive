@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯\. Photo : Tuerie
+> 🍯🍯🍯\. Photo : Candice
 
-314 songs - 15 hr 25 min
+315 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [encore](https://open.spotify.com/track/4BoXY1PkUhvMeXQ862Qtdu) | [Nyhasina](https://open.spotify.com/artist/73TIPlk476kpOXwbNL08Cr) | [encore](https://open.spotify.com/album/0gK76tECE7tF6sXNddkP0o) | 4:27 | 2024-06-27 | 2024-08-09 |
 | [Encore une fois](https://open.spotify.com/track/3jsWcQxYV4xKnCKmiF6dJE) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM) | [Encore une fois](https://open.spotify.com/album/2K671EFv7RZq7yGgefMPvO) | 2:50 | 2024-08-08 | 2024-11-08 |
 | [Entre nous \(ft\. Cinco\)](https://open.spotify.com/track/5VbARAAqegErQsxjwhzqrf) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y), [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1) | [Star Magazine](https://open.spotify.com/album/4WR46VLHEnxNCVdUKyEKQe) | 3:05 | 2024-03-07 | 2024-05-17 |
+| [ERROR 404](https://open.spotify.com/track/0q94cCOTrT8Wk9f9uEnPzS) | [Jeunesaint](https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Tes Yeux Suffisent](https://open.spotify.com/album/4AOG8LeUboNArK5BdLtixl) | 2:58 | 2025-03-27 |  |
 | [Est\-ce que c'est par là qu'on pleure?](https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [3x5](https://open.spotify.com/album/2DlmOBqh9CEFA1dfAh9I2U) | 2:22 | 2023-11-23 | 2024-05-17 |
 | [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 | 2023-12-08 |
 | [FEU](https://open.spotify.com/track/4QgD0HU3APilEvKMGtKWWi) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [FEU](https://open.spotify.com/album/5lxVTi7KP1uChiFZbDZF0B) | 2:34 | 2024-08-08 | 2024-08-30 |
@@ -241,7 +242,7 @@
 | [Reste en Vie](https://open.spotify.com/track/1qkwBaQUYh3HeUlUlGu8YM) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:18 | 2023-09-28 | 2024-04-26 |
 | [Restons tranquilles](https://open.spotify.com/track/6LW8XqunD8dtcCT1UpBmRG) | [Yakuzian](https://open.spotify.com/artist/5lpfeX5C3gGvxa5dja8JhM) | [Restons tranquilles](https://open.spotify.com/album/0Q3snq5JRm4KHx7uXrO2n4) | 2:55 | 2023-09-28 | 2023-10-20 |
 | [Ride](https://open.spotify.com/track/10H2reZGuAG8YBly3kN447) | [Douda](https://open.spotify.com/artist/6y1aLMxP9vgLQzPuNwiSam) | [Ride](https://open.spotify.com/album/2NcASf3B3ItrZReSbIz74N) | 3:06 | 2024-05-16 | 2024-07-05 |
-| [Rien pour toi \(Prod\. Lazur\)](https://open.spotify.com/track/7B81kQAyJ40l2946uVGPS0) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Rien pour toi \(Prod\. Lazur\)](https://open.spotify.com/album/4gHFHMAHMW2LdcS5tcGzfb) | 2:33 | 2024-11-07 |  |
+| [Rien pour toi \(Prod\. Lazur\)](https://open.spotify.com/track/7B81kQAyJ40l2946uVGPS0) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Rien pour toi \(Prod\. Lazur\)](https://open.spotify.com/album/4gHFHMAHMW2LdcS5tcGzfb) | 2:33 | 2024-11-07 | 2025-03-28 |
 | [RODEO](https://open.spotify.com/track/3IplKsz78v707jqbJazysa) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [HARMONY](https://open.spotify.com/album/2oxIJUR9VSkJd4P8zg6uRf) | 3:26 | 2025-03-06 |  |
 | [rodéo](https://open.spotify.com/track/3ZE1WaCYBOwjz5qoqPbLDH) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OURAGAN](https://open.spotify.com/album/2yWWuQPMw2qCa5qsRCA0ry) | 2:25 | 2024-11-28 | 2025-03-14 |
 | [Room 69 \- Acoustic version](https://open.spotify.com/track/7pU322ixXzZ1Lostt5Rz1n) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Room 69 \(Acoustic version\)](https://open.spotify.com/album/1TXY709t3Wr10BWHiu9Yem) | 2:50 | 2023-09-28 | 2024-05-10 |

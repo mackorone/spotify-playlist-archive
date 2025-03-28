@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover : Thirumali
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,698 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,724 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 8 | [NERA](https://open.spotify.com/track/2xQTNL2WMBDZdeWup9EZjs) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [NERA](https://open.spotify.com/album/1WEsz10T3XhBmloE9Mmj5u) | 3:33 |
 | 9 | [Kuthanthram \- Extended](https://open.spotify.com/track/4bWdEggTeY1184KQOYUeFS) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Manjummel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML) | 5:01 |
 | 10 | [Ee Rathri](https://open.spotify.com/track/0Ack4DRfTfeoMF4fZNmzHO) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Dominic And The Ladies Purse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08giPcbJLAvv3cmIpKLjXm) | 4:22 |
-| 11 | [Khibir](https://open.spotify.com/track/5SakZ21qJWrQ6QVJzcwgOk) | [X\_SAAMBRO](https://open.spotify.com/artist/2G7khiorjSizxWGd4zorgr) | [Khibir](https://open.spotify.com/album/4XeEf6WlJwEHVzVgXd8F91) | 2:42 |
+| 11 | [Kibr](https://open.spotify.com/track/5SakZ21qJWrQ6QVJzcwgOk) | [X\_SAAMBRO](https://open.spotify.com/artist/2G7khiorjSizxWGd4zorgr) | [Kibr](https://open.spotify.com/album/4XeEf6WlJwEHVzVgXd8F91) | 2:42 |
 | 12 | [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 |
 | 13 | [Madi Raja](https://open.spotify.com/track/6C8G3T7fyTSITJwxFeCwET) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Suhail Koya](https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv) | [Daveed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Cq8XJEi95MexdshZUmKx0) | 4:21 |
 | 14 | [AAVARTHANAM](https://open.spotify.com/track/7HAyv8PALKTmJvLujWeeCj) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT) | [AAVARTHANAM](https://open.spotify.com/album/1iC5zgfqKvrdACeWdQoAr6) | 3:14 |

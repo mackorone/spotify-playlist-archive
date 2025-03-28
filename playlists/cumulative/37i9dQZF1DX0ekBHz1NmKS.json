@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 227106,
       "name": "All Over Town",
       "url": "https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne"
@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 156600,
       "name": "Desperate Guy",
       "url": "https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk"
@@ -7495,6 +7495,24 @@
     },
     {
       "album": {
+        "name": "EDEN",
+        "url": "https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202240,
+      "name": "EDEN",
+      "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
+    },
+    {
+      "album": {
         "name": "Effort",
         "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
       },
@@ -8172,6 +8190,24 @@
       "duration_ms": 204145,
       "name": "Eremiten",
       "url": "https://open.spotify.com/track/3nfXGdx2HfhypGySvmpQyI"
+    },
+    {
+      "album": {
+        "name": "ett minne i taget",
+        "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "ett minne i taget",
+      "url": "https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj"
     },
     {
       "album": {
@@ -13024,7 +13060,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 161434,
       "name": "Hur ska jag sova inatt",
       "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
@@ -13238,6 +13274,42 @@
       "duration_ms": 204485,
       "name": "H\u00e4r tog det vackra slut",
       "url": "https://open.spotify.com/track/3T6OQHYXf8a0ExKgdF581H"
+    },
+    {
+      "album": {
+        "name": "H\u00e5ll ihop",
+        "url": "https://open.spotify.com/album/4us1p9C9X5cldRFgwiU5Y7"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166229,
+      "name": "H\u00e5ll ihop",
+      "url": "https://open.spotify.com/track/5a0VLC6tX0g45CZXU74dNK"
+    },
+    {
+      "album": {
+        "name": "H\u00e5ll k\u00e4ften",
+        "url": "https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "H\u00e5ll k\u00e4ften",
+      "url": "https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv"
     },
     {
       "album": {
@@ -14440,7 +14512,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 174054,
       "name": "Ingen annan",
       "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
@@ -16006,7 +16078,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 189295,
       "name": "kort & kall",
       "url": "https://open.spotify.com/track/2I0UzNqQKk6EBg7oLhgcGC"
@@ -16686,7 +16758,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 153500,
       "name": "Leva mitt liv",
       "url": "https://open.spotify.com/track/7C4PvS9o9UrdnmwwZvEgFs"
@@ -18094,6 +18166,28 @@
       "duration_ms": 240296,
       "name": "Magik",
       "url": "https://open.spotify.com/track/6MjSZDtkKMNaFY9CV4oArA"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175020,
+      "name": "Make Me Whole",
+      "url": "https://open.spotify.com/track/2hjkKFr4umuhj1Ru3tmcsO"
     },
     {
       "album": {
@@ -23340,7 +23434,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 190933,
       "name": "Rock and Roll, Summer",
       "url": "https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt"
@@ -25564,7 +25658,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 176060,
       "name": "Sm\u00e5stadsdr\u00f6mmar",
       "url": "https://open.spotify.com/track/4sK5CMrCaN3BpAq1cojtA0"
@@ -26320,6 +26414,24 @@
       "duration_ms": 200360,
       "name": "Sommart\u00e5rar",
       "url": "https://open.spotify.com/track/4Akl0wddDthblkIkdaLI1N"
+    },
+    {
+      "album": {
+        "name": "Somna om",
+        "url": "https://open.spotify.com/album/2rOd0yYNFEh06vjjMFmBd6"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206048,
+      "name": "Somna om",
+      "url": "https://open.spotify.com/track/67XxelwVe4EiPPbmRhf5u3"
     },
     {
       "album": {
@@ -27932,7 +28044,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 203195,
       "name": "S\u00e4kra kort",
       "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
@@ -28596,6 +28708,24 @@
       "duration_ms": 164986,
       "name": "Thanks a lot now I can\u2019t smile",
       "url": "https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz"
+    },
+    {
+      "album": {
+        "name": "The Bog Body",
+        "url": "https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173310,
+      "name": "The Bog Body",
+      "url": "https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI"
     },
     {
       "album": {

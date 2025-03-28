@@ -4,7 +4,7 @@
 
 > edgy en met karakter\. cover: Winne
 
-190 songs - 10 hr 6 min
+192 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fijn](https://open.spotify.com/track/1mLQsmHuMO2VMSTWfek8br) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Fijn](https://open.spotify.com/album/37Pd4LM2hK8qXkRyEod4ue) | 3:40 | 2023-11-09 | 2024-06-01 |
 | [For Good](https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [With You In The Room](https://open.spotify.com/album/2aN4RGXYEXSAtC92ePD7JD) | 3:04 | 2023-02-23 | 2023-04-01 |
 | [Forever](https://open.spotify.com/track/6mWi1D3usqO9JSFTqZWUuZ) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [GODSPEED](https://open.spotify.com/album/5PznlTVFdnmXyp34K4iJjI) | 3:06 | 2023-02-23 | 2024-05-10 |
+| [Franse 8](https://open.spotify.com/track/2cGsoyEsbt5H00cxYDBxBa) | [P.A.V.](https://open.spotify.com/artist/7n3P3G2oAd64LrIFnRBaqU), [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW) | [Franse 8](https://open.spotify.com/album/3Y7nXpSxGSWu00oxgL2qnv) | 1:12 | 2025-03-27 |  |
 | [Glas](https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glas](https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM) | 4:41 | 2024-04-25 | 2024-10-18 |
 | [Glas In Lood](https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 3:36 | 2023-02-23 | 2024-05-18 |
 | [Glimlach](https://open.spotify.com/track/1afTlfRCu5cMYOJWoFoXe1) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glimlach](https://open.spotify.com/album/0sp4L9XfnB46QDVXSK4e0w) | 2:27 | 2024-06-21 | 2025-03-01 |
@@ -165,6 +166,7 @@
 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 | 2023-12-21 | 2024-10-04 |
 | [Twee Voetstappen](https://open.spotify.com/track/6LOriTYEbIXZEzQ78nhIH8) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Mssyeh](https://open.spotify.com/album/5lvqyQEyiR3F8JRQ6qSJcJ) | 3:13 | 2025-03-21 |  |
 | [Uit Het Oog](https://open.spotify.com/track/05ZXKrj4flHFpkXRhCNJQq) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Uit Het Oog](https://open.spotify.com/album/6F4IYp6Q8NJI89W2wBoCtW) | 4:18 | 2024-05-17 | 2024-06-22 |
+| [uncle fester](https://open.spotify.com/track/3KwHheKkdiXeCWFFal27WV) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [uncle fester](https://open.spotify.com/album/7xzQuza2ZNqzB4hAtgVyfw) | 1:32 | 2025-03-27 |  |
 | [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 | 2023-02-23 | 2023-08-22 |
 | [UPROOT](https://open.spotify.com/track/757h2XNOmakab55xqMFDRc) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [UPROOT](https://open.spotify.com/album/3PFdGibdmouG6DD5BiYn7l) | 3:13 | 2023-11-23 | 2024-06-26 |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 | 2023-06-09 |

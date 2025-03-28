@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Counting the Days",
+        "url": "https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43"
+      },
+      "artists": [
+        {
+          "name": "Erjos",
+          "url": "https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168089,
+      "name": "Counting the Days",
+      "url": "https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d"
+    },
+    {
+      "album": {
         "name": "cradled with warmth",
         "url": "https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A"
       },

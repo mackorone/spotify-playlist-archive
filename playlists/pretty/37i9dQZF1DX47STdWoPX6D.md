@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,435 likes - 138 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,467 likes - 138 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

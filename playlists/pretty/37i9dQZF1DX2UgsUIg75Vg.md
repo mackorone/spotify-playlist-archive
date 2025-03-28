@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Chase Shakur
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,384,265 likes - 169 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,384,379 likes - 169 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

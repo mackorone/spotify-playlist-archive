@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 447491,
+  "num_followers": 447723,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -526,6 +526,10 @@
         {
           "name": "Cajmere",
           "url": "https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
         }
       ],
       "duration_ms": 253718,
@@ -995,6 +999,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/44YQzFb9cQMoMtCHboYObz"
+      },
+      "artists": [
+        {
+          "name": "Shades of Rhythm",
+          "url": "https://open.spotify.com/artist/1BRpMOjIH52Y93hbROTMXc"
+        }
+      ],
+      "duration_ms": 302333,
+      "name": "Sound Of Eden",
+      "url": "https://open.spotify.com/track/06OpZKNfGIC0hHFIz03SCA"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "The World is Full of Trouble",
         "url": "https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn"
       },
@@ -1023,22 +1043,6 @@
       "duration_ms": 188305,
       "name": "Bar A Thym",
       "url": "https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/44YQzFb9cQMoMtCHboYObz"
-      },
-      "artists": [
-        {
-          "name": "Shades of Rhythm",
-          "url": "https://open.spotify.com/artist/1BRpMOjIH52Y93hbROTMXc"
-        }
-      ],
-      "duration_ms": 302333,
-      "name": "Sound Of Eden",
-      "url": "https://open.spotify.com/track/06OpZKNfGIC0hHFIz03SCA"
     }
   ],
   "unique_name": "90s House Classics",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
+  "description": "La nueva ola de trovadores del siglo XXI. En portada: GUADA.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Codas",
+        "url": "https://open.spotify.com/album/2RMgN4x9NkhYXgkQBDdclR"
+      },
+      "artists": [
+        {
+          "name": "Marina Paredes",
+          "url": "https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280257,
+      "name": "Codas",
+      "url": "https://open.spotify.com/track/4rQfgxG9sKSJzvsHibwBrl"
+    },
+    {
+      "album": {
         "name": "Codo Con Codo",
         "url": "https://open.spotify.com/album/0FmPdyJmPThdz0NBUnZalj"
       },
@@ -4422,7 +4440,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
@@ -4672,7 +4690,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 183945,
       "name": "El Rat\u00f3n (Live)",
       "url": "https://open.spotify.com/track/015OKJ6Vokg2Caflo5jxoQ"
@@ -5378,6 +5396,24 @@
       "duration_ms": 162373,
       "name": "Febril Pantalla",
       "url": "https://open.spotify.com/track/2CV0p6hJkxfTtYt94ukPBk"
+    },
+    {
+      "album": {
+        "name": "Fenomenal",
+        "url": "https://open.spotify.com/album/4n8MA85wRz2yUWCxgKbO4O"
+      },
+      "artists": [
+        {
+          "name": "Begut",
+          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240823,
+      "name": "Fenomenal",
+      "url": "https://open.spotify.com/track/5uqMpWn78c3SElpz7rbfe0"
     },
     {
       "album": {
@@ -7664,7 +7700,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 180121,
       "name": "Lo que siento \u263c",
       "url": "https://open.spotify.com/track/19kEKunwApFk7zvuIqlYOs"
@@ -7736,7 +7772,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
@@ -8845,6 +8881,24 @@
     },
     {
       "album": {
+        "name": "Algo familiar",
+        "url": "https://open.spotify.com/album/0LSUDQC96WRRg2nATcTQ3k"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332816,
+      "name": "Miguitas de pan",
+      "url": "https://open.spotify.com/track/0uqnA4Vaca06nMfSmieeJd"
+    },
+    {
+      "album": {
         "name": "Mil dias",
         "url": "https://open.spotify.com/album/0lSbhpuj8k9bY0E3IdH9J5"
       },
@@ -9024,7 +9078,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 116095,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/08y5JyrixoNYXnZcWcLyaV"
@@ -10042,7 +10096,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 208916,
       "name": "O Noso Canto",
       "url": "https://open.spotify.com/track/1X6EK4YCNElhWUj6jruTcb"
@@ -10172,7 +10226,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 240771,
       "name": "Pajarillo Negro",
       "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
@@ -14188,7 +14242,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 180316,
       "name": "Tu bebotear",
       "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
@@ -15384,6 +15438,24 @@
       "duration_ms": 234144,
       "name": "Y YA NADA",
       "url": "https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr"
+    },
+    {
+      "album": {
+        "name": "Ya No He Visto las Flores",
+        "url": "https://open.spotify.com/album/6vxHBTDraUOT5MR5mjANwF"
+      },
+      "artists": [
+        {
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191187,
+      "name": "Ya No He Visto las Flores",
+      "url": "https://open.spotify.com/track/6BtXfqedN5ki0t6U0UZPKX"
     },
     {
       "album": {

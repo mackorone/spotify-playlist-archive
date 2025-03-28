@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Uwade
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,034 likes - 117 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,074 likes - 117 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

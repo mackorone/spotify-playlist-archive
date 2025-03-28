@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Caballero x Jungle Jack x JeanJass",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Jazzy Bazz",
   "name": "Lyricistes",
   "tracks": [
+    {
+      "album": {
+        "name": "10 jours, 10 nuits",
+        "url": "https://open.spotify.com/album/7CsBIG369hdLQBUeDaFHNu"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "10 jours, 10 nuits",
+      "url": "https://open.spotify.com/track/0Swisqu1xdKUrjDIz2tS33"
+    },
     {
       "album": {
         "name": "10h du mat'",
@@ -312,7 +334,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 174200,
       "name": "Anesth\u00e9sie",
       "url": "https://open.spotify.com/track/5jfMspyQC74ofGRoJbWidw"
@@ -396,7 +418,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 134624,
       "name": "BARZ'INI",
       "url": "https://open.spotify.com/track/7wNVz9l9uhr6Q1padvZyTW"
@@ -502,6 +524,24 @@
       "duration_ms": 193944,
       "name": "B\u00c2TEAU DANS LE CIEL",
       "url": "https://open.spotify.com/track/6H0QahVmwkQVJXFMxbikNV"
+    },
+    {
+      "album": {
+        "name": "Du caviar pour mon chien",
+        "url": "https://open.spotify.com/album/2vXODbd7kEGfzphKIVJXQ4"
+      },
+      "artists": [
+        {
+          "name": "GAL",
+          "url": "https://open.spotify.com/artist/1X37AWx6kKH1rHNfXNyfAv"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148624,
+      "name": "C pas Bambi c le cerf",
+      "url": "https://open.spotify.com/track/7CZtQMipOFZYCMpUCT0Php"
     },
     {
       "album": {
@@ -643,6 +683,28 @@
     },
     {
       "album": {
+        "name": "HIVER AUTOMNE",
+        "url": "https://open.spotify.com/album/2h9FjQnnf9LAVYfE1wrr9K"
+      },
+      "artists": [
+        {
+          "name": "Souffrance",
+          "url": "https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236925,
+      "name": "COMPTE DOUBLE",
+      "url": "https://open.spotify.com/track/4CaTP8Wgz9vZFQW6HMbEZO"
+    },
+    {
+      "album": {
         "name": "Consentement",
         "url": "https://open.spotify.com/album/6Z6bULyI0FCt6hxeFhrv25"
       },
@@ -654,7 +716,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 189962,
       "name": "Consentement",
       "url": "https://open.spotify.com/track/63r7eD51PP5TVJtmlaf5XG"
@@ -760,7 +822,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 209893,
       "name": "Dans la t\u00eate",
       "url": "https://open.spotify.com/track/5OIxIJ1zXhylgKLJRKczgW"
@@ -1055,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "NIRVANA",
+        "url": "https://open.spotify.com/album/5p583Gi2HJlcjJDQ7R2Tox"
+      },
+      "artists": [
+        {
+          "name": "Jazzy Bazz",
+          "url": "https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147960,
+      "name": "Gizeh",
+      "url": "https://open.spotify.com/track/47Hac81oOEivgApSukjj7W"
+    },
+    {
+      "album": {
         "name": "Glasgow",
         "url": "https://open.spotify.com/album/2oqfYKbbl63vzEYUVggmvI"
       },
@@ -1066,7 +1146,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 143986,
       "name": "Glasgow",
       "url": "https://open.spotify.com/track/0mvFy9eGZSVy4TJZ4Zq8N7"
@@ -1262,7 +1342,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 182384,
       "name": "HIVER AUTOMNE",
       "url": "https://open.spotify.com/track/77tMzKJzSlUnRuxuLw9gPm"
@@ -1796,7 +1876,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 147853,
       "name": "Le riz et la sauce",
       "url": "https://open.spotify.com/track/2bxOp6KU3GdIlWAZNgA8D7"
@@ -1854,7 +1934,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 264295,
       "name": "LES ENFANTS MENTENT",
       "url": "https://open.spotify.com/track/0floJuqvuAa8mj6yT9TYXg"
@@ -1930,6 +2010,28 @@
       "duration_ms": 147692,
       "name": "Madame",
       "url": "https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9"
+    },
+    {
+      "album": {
+        "name": "TISMADELAFONSDAL (EP)",
+        "url": "https://open.spotify.com/album/0RLOMiAp1pSufEew2vDdYu"
+      },
+      "artists": [
+        {
+          "name": "Tisma",
+          "url": "https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu"
+        },
+        {
+          "name": "Guydelafonsdal",
+          "url": "https://open.spotify.com/artist/7iYcFblFcWGHJ3WRZppuLD"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "MARIA",
+      "url": "https://open.spotify.com/track/7IjrUpqsBHUq3nKlZAefGo"
     },
     {
       "album": {
@@ -2456,7 +2558,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 311070,
       "name": "Quatri\u00e8me mur",
       "url": "https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph"
@@ -2562,6 +2664,24 @@
       "duration_ms": 145568,
       "name": "ROSE (MILKTAPE)",
       "url": "https://open.spotify.com/track/4bCqWgUfw5muaci4ZN4HZc"
+    },
+    {
+      "album": {
+        "name": "RUBIS",
+        "url": "https://open.spotify.com/album/3jB0uq2CizhJ4iGhOLPUPU"
+      },
+      "artists": [
+        {
+          "name": "OCHO DEVILS",
+          "url": "https://open.spotify.com/artist/0uxNJJOuuzhuk6qjvCX86u"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "RUBIS",
+      "url": "https://open.spotify.com/track/0VA5yP6vM863LUYxtp5JcG"
     },
     {
       "album": {
@@ -2761,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "UFOV",
+      "url": "https://open.spotify.com/track/6ZhIsycBDgeFpWxUzkLBoj"
+    },
+    {
+      "album": {
         "name": "Unique & ordinaire, Vol. 2",
         "url": "https://open.spotify.com/album/5r5IoJl8UNIiUxbrGL7Zw1"
       },
@@ -2910,6 +3048,24 @@
       "duration_ms": 168510,
       "name": "Vatos #4",
       "url": "https://open.spotify.com/track/69SruWGqKCEBDoopXYcYIL"
+    },
+    {
+      "album": {
+        "name": "Veille de rentr\u00e9e",
+        "url": "https://open.spotify.com/album/5D7GWSEYB09Eve10swCHUE"
+      },
+      "artists": [
+        {
+          "name": "Kemmler",
+          "url": "https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192569,
+      "name": "Veille de rentr\u00e9e",
+      "url": "https://open.spotify.com/track/1rWdxTy0RRkU1ivGBYZQqQ"
     },
     {
       "album": {

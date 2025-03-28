@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-228 songs - 1 day 2 hr 9 min
+229 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [gr4](https://open.spotify.com/track/54PLdU0fHeun9jAeen3110) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK) | 3:21 | 2023-02-14 | 2024-06-30 |
 | [Hub](https://open.spotify.com/track/2PgcwVLosHGs59REqd6VTu) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 7:35 | 2022-06-16 | 2022-08-03 |
 | [Iera](https://open.spotify.com/track/5CZek3MWcO0BzfHJa7V6hy) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/7bcwwfwkWvYbDW72ooywDQ) | 4:54 | 2022-09-02 | 2022-10-08 |
-| [ilanders](https://open.spotify.com/track/5VdNacx3OG9fhO8mxd7YKq) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 5:32 | 2025-03-26 |  |
+| [ilanders](https://open.spotify.com/track/5VdNacx3OG9fhO8mxd7YKq) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 5:32 | 2025-03-26 | 2025-03-28 |
 | [IO](https://open.spotify.com/track/4IszMyXH7RFkR12pumBuQF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 3:08 | 2024-06-06 | 2024-12-19 |
 | [Ipacial Section](https://open.spotify.com/track/6CWoiavul0eaq8zxxM5yx5) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/7bcwwfwkWvYbDW72ooywDQ) | 9:57 | 2022-05-29 | 2022-10-12 |
 | [irlite \(get 0\)](https://open.spotify.com/track/2WvxMVdPnhdyXVUDSDlXYK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 10:01 | 2023-12-29 | 2024-01-11 |
@@ -220,6 +220,7 @@
 | [The Plc](https://open.spotify.com/track/4EkGZJTIMvvQC85nyhHnDw) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 4:16 | 2024-06-24 |  |
 | [Theswere](https://open.spotify.com/track/1sTMKidgYUy2PjXv5JUQ3K) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 2:12 | 2022-10-12 | 2023-02-15 |
 | [Theswere](https://open.spotify.com/track/2UUjSHNVyFt1BuxTac646P) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 2:12 | 2023-02-14 | 2024-01-11 |
+| [Treale](https://open.spotify.com/track/3ADLXWiiujHQgvKX3FbiCT) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 6:05 | 2025-03-28 |  |
 | [tuinorizn](https://open.spotify.com/track/5rgwplckTzpnObI7JuVjcb) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 3:40 | 2024-03-22 | 2024-09-02 |
 | [Under BOAC](https://open.spotify.com/track/6ltZ0PKndphDBosI1ug2Vk) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 6:17 | 2022-06-01 | 2023-02-15 |
 | [Uviol](https://open.spotify.com/track/6mHyJgsF4kRUqr9f4Kuab2) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 8:35 | 2022-06-02 | 2022-10-11 |

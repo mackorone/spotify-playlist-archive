@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-394 songs - 23 hr 13 min
+396 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [小美滿 \(電影《熱辣滾燙》熱辣陪伴曲\)](https://open.spotify.com/track/2SBFE0qlDBhzus5b3qqxBM) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [小美滿 \(電影《熱辣滾燙》熱辣陪伴曲\)](https://open.spotify.com/album/5WL0s3YJehp8GqmJRZu0Sq) | 3:34 | 2024-03-04 |  |
 | [小酒窩](https://open.spotify.com/track/2cQWS025v0hpWsR8lcaACt) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [鄭容和 首張華語EP "和.唱"](https://open.spotify.com/album/7LYSbkkGXM783wqn60YDqi) | 3:34 | 2022-06-06 | 2022-07-28 |
 | [小鹿亂跑中 \(feat\. 詹量淵\)](https://open.spotify.com/track/0tWzpcQaxrH7U9KAM9q6lS) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a), [詹量淵](https://open.spotify.com/artist/02ur8u5FBITdCunLs7J0lO) | [小鹿亂跑中 \(feat\. 詹量淵\)](https://open.spotify.com/album/6q0FtIpzWtP4MozETMIive) | 3:06 | 2022-10-18 | 2022-10-25 |
+| [少一个人](https://open.spotify.com/track/7o8B9n3gm0hMCQu1kqzWu1) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [少一个人](https://open.spotify.com/album/1WzUnYlmVhnp4b1UmL1Qoi) | 3:20 | 2025-03-27 |  |
 | [就想和你在一起](https://open.spotify.com/track/2MOb7OFN5oT15Fq7gvA2Rw) | [Bo Wen](https://open.spotify.com/artist/3VrQh6QZDpQxT4FjeSC6pK), [蔡卓宜](https://open.spotify.com/artist/7BIwfYlgEqQDGaFufasqwi) | [我可否将人生比作一场竞技](https://open.spotify.com/album/4fNoLqoUAfMmo8CBfbUxzN) | 3:35 | 2022-06-20 | 2022-06-22 |
 | [就是愛妳](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:21 | 2022-06-06 |  |
 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 | 2022-06-27 |  |
@@ -223,7 +224,7 @@
 | [情非得已](https://open.spotify.com/track/3HSUm30W0GQ49I2YmS2rxH) | [林茉曦](https://open.spotify.com/artist/1OSIaRRBGsNFVVqc38YSH7) | [情非得已](https://open.spotify.com/album/5OUsCB2yJFyzFfAdGDN8OK) | 4:25 | 2023-09-25 | 2023-10-03 |
 | [惡作劇](https://open.spotify.com/track/1I0wNk30nKoyFgs1hVIi3C) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [惡作劇](https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:46 | 2022-07-25 | 2024-04-19 |
-| [想和你](https://open.spotify.com/track/056gvfjlsKIz2LXdJu7huz) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [想和你](https://open.spotify.com/album/0A0FCkldQC3lautaFYKz6Z) | 3:43 | 2025-02-13 |  |
+| [想和你](https://open.spotify.com/track/056gvfjlsKIz2LXdJu7huz) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [想和你](https://open.spotify.com/album/0A0FCkldQC3lautaFYKz6Z) | 3:43 | 2025-02-13 | 2025-03-28 |
 | [想和你](https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [想和你](https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry) | 3:03 | 2024-09-19 |  |
 | [想和你在一起 \(TVBS 『機智校園生活』插曲 \)](https://open.spotify.com/track/4sr4x6zcAUiSfUP2CV0ioa) | [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf), [Soya 許素瑄](https://open.spotify.com/artist/5cp42YkACm1QIsk8F5hEnr) | [想和你在一起 \(TVBS 『機智校園生活』插曲 \)](https://open.spotify.com/album/5X37eBmzqql57QagxpGkYp) | 3:07 | 2022-06-13 | 2022-07-21 |
 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 | 2022-09-19 |  |
@@ -262,6 +263,7 @@
 | [我有你 \(I Have You\)](https://open.spotify.com/track/6uZDicq06NzupDreN3HIbc) | [Caryson 黃譽韶](https://open.spotify.com/artist/2wUxL6WmZ6wcbL2BcZtcyB) | [我有你 \(I Have You\)](https://open.spotify.com/album/7uCntuvSaifoUIb5yA51Aq) | 3:33 | 2024-05-16 | 2024-06-18 |
 | [我歡喜喜歡你](https://open.spotify.com/track/54pRAfOy0DqZh6fYmmtK6L) | [焦邁奇](https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH) | [我的名字](https://open.spotify.com/album/0Y8Iy4Wrw4Ke6DLbbPCfpL) | 4:34 | 2022-06-06 | 2022-07-27 |
 | [我的](https://open.spotify.com/track/685v4MbZJ111mcZWIoCH0s) | [王俊凱](https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5) | [我的](https://open.spotify.com/album/5x4p9XuKJTxUS6xgserPDl) | 3:45 | 2022-07-18 | 2022-07-24 |
+| [我的幸福](https://open.spotify.com/track/12a25Yf6Lh9Ahd8WyzDJEy) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [我的幸福](https://open.spotify.com/album/1ZhmLZ7OIZKuYGUObrWGsk) | 3:17 | 2025-03-27 |  |
 | [我的心裡呀](https://open.spotify.com/track/3vjdrhCbZ6KAL7F6sBaUni) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [我的心裡呀](https://open.spotify.com/album/3ztddA2NGEIt70TPEMJ6Qf) | 4:32 | 2022-06-13 | 2022-07-08 |
 | [我要抱着你](https://open.spotify.com/track/6dgSlOAIjBmXyDjNBlNFLk) | [贺子玲](https://open.spotify.com/artist/6zX8snAvqQTiIVrbh946vt) | [我要抱着你](https://open.spotify.com/album/6osbNpRabdMYaHr9Vux8aR) | 3:19 | 2023-01-23 | 2023-03-21 |
 | [我說你](https://open.spotify.com/track/5bNY6OK7snKRtep8BBzw3l) | [J.En Cheo](https://open.spotify.com/artist/6a4zj3BAL2o9RWOlyKpKhr) | [我說你](https://open.spotify.com/album/1o6tIfFnNQ5Tp4FnI2SLe9) | 3:42 | 2022-06-06 | 2022-07-29 |
@@ -361,7 +363,7 @@
 | [行星戀](https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [行星戀](https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf) | 5:06 | 2022-06-06 | 2023-04-16 |
 | [要怎麼告訴你我多喜歡](https://open.spotify.com/track/5KNSwtUycRBr3R1ghys4FK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [你好嗎?](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [要怎麼告訴你我多喜歡 \(feat.理想混蛋 雞丁\)](https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [你好嗎？](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 | 2025-02-14 |
-| [見到妳後](https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [見到妳後](https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA) | 3:03 | 2022-08-08 |  |
+| [見到妳後](https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [見到妳後](https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA) | 3:03 | 2022-08-08 | 2025-03-28 |
 | [親愛的你](https://open.spotify.com/track/0HA98hhDGR89kcdw9yVGEL) | [Gracie Grace](https://open.spotify.com/artist/0iHZYWswGYdIjSbfAreJIc) | [親愛的你](https://open.spotify.com/album/6eIjXEiW59q9GoIYFhEhDv) | 4:03 | 2023-01-30 | 2023-02-07 |
 | [計算浪漫](https://open.spotify.com/track/5o8bQhu2JHJcZJHZU29h1K) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [計算浪漫](https://open.spotify.com/album/22C5yglNIQFNxy9qpWoKEw) | 3:27 | 2025-02-13 | 2025-02-21 |
 | [話中有話](https://open.spotify.com/track/01Px3hieGERjCmNCxKo6q6) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [話中有話](https://open.spotify.com/album/0GiKD59QnLjkfyzAx32Cfn) | 3:11 | 2022-06-06 | 2022-07-29 |

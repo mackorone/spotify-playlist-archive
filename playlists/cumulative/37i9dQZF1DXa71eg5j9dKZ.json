@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Killen.",
+  "description": "The home for alternative electronic music. Cover: DJ Seinfeld",
   "name": "Altar",
   "tracks": [
     {
@@ -1174,6 +1174,28 @@
       "duration_ms": 348653,
       "name": "Are We Here? (30 Something) - Dusky Remix",
       "url": "https://open.spotify.com/track/4Jt4zH1bLXLeRFsdE859jb"
+    },
+    {
+      "album": {
+        "name": "Are You In?",
+        "url": "https://open.spotify.com/album/4mFpFXxYbJ2V0pZROtWUwq"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Are You In?",
+      "url": "https://open.spotify.com/track/75RWvdK6iawjliJUpXdzxw"
     },
     {
       "album": {
@@ -4827,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Desire To Stay",
+        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Desire To Stay",
+      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
+    },
+    {
+      "album": {
         "name": "Diamond Cut / Bby",
         "url": "https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k"
       },
@@ -5738,7 +5778,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 214285,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg"
@@ -12148,7 +12188,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 199458,
       "name": "Love Come Through",
       "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"

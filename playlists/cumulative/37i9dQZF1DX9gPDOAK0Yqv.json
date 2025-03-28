@@ -257,6 +257,40 @@
     },
     {
       "album": {
+        "name": "Addicted (Argy & Omnya Remix)",
+        "url": "https://open.spotify.com/album/4ybzfLamUp8HWp3F8YYnoJ"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Addicted - Argy & Omnya Remix",
+      "url": "https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD"
+    },
+    {
+      "album": {
         "name": "ADDICTED: REFRESHED",
         "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
       },
@@ -2310,6 +2344,24 @@
       "duration_ms": 407513,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/1Bpy7cuahSRV7I7UkUneEt"
+    },
+    {
+      "album": {
+        "name": "Cymatics EP",
+        "url": "https://open.spotify.com/album/1EiVkLg4HxudGfQllQYF6e"
+      },
+      "artists": [
+        {
+          "name": "Fehrplay",
+          "url": "https://open.spotify.com/artist/6HcVFayEV6B5xgp59WXKbF"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305806,
+      "name": "Cymatics",
+      "url": "https://open.spotify.com/track/0rV1f31U0L4BJpQzCfweBF"
     },
     {
       "album": {
@@ -7424,7 +7476,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 272180,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi"
@@ -8150,7 +8202,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 147844,
       "name": "Morenita - Marco Generani Remix",
       "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
@@ -8517,6 +8569,28 @@
     },
     {
       "album": {
+        "name": "Neverland (From Japan)",
+        "url": "https://open.spotify.com/album/4zPZDCB6p9Jv2YyqdCuhSH"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190371,
+      "name": "Neverland (From Japan)",
+      "url": "https://open.spotify.com/track/4GkGjg7uYvqcZvkTV4rrnu"
+    },
+    {
+      "album": {
         "name": "Symbiosis One",
         "url": "https://open.spotify.com/album/64bLKFRFtgwGKWHs8qZe68"
       },
@@ -8624,6 +8698,24 @@
       "duration_ms": 260321,
       "name": "No Place To Go",
       "url": "https://open.spotify.com/track/7gHzjDJZKID5EuWK0K7JEp"
+    },
+    {
+      "album": {
+        "name": "No Salio (Radio Edit)",
+        "url": "https://open.spotify.com/album/26piq2j8kWp0ajKq3Nn3XF"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "No Salio - Radio Edit",
+      "url": "https://open.spotify.com/track/0Mbeyl4xsXLh4UGTs2jgVm"
     },
     {
       "album": {
@@ -8822,7 +8914,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 166153,
       "name": "Often",
       "url": "https://open.spotify.com/track/6PM3F8LZFqlyncdYxfQJXC"
@@ -10598,7 +10690,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 245760,
       "name": "Run",
       "url": "https://open.spotify.com/track/4bZh8RQpNQCJs5A7WvVC69"
@@ -10700,7 +10792,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 206498,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/6GILOzBgkTHtyinx0SvI4r"
@@ -11713,6 +11805,24 @@
     },
     {
       "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/5mAHnG3rpP9QywIex52LyW"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238415,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv"
+    },
+    {
+      "album": {
         "name": "Around Us",
         "url": "https://open.spotify.com/album/5zq6PCzWY8vv0E8vkLfiIU"
       },
@@ -12289,6 +12399,28 @@
     },
     {
       "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/2Xy2W6IDyQUrPQmJ470i9A"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Karin Park",
+          "url": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204336,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/1ooF1GtoHziUctFM94iRVW"
+    },
+    {
+      "album": {
         "name": "Telepathic",
         "url": "https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O"
       },
@@ -12780,7 +12912,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 232380,
       "name": "The Point Of Living (Omnya Remix)",
       "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
@@ -14190,7 +14322,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 204965,
       "name": "We Watch",
       "url": "https://open.spotify.com/track/7L5bon0C6MMs8q6O2aFn06"
@@ -14230,6 +14362,28 @@
       "duration_ms": 414564,
       "name": "We've Lost Our Light",
       "url": "https://open.spotify.com/track/1CCGkitAlETDZ1hJMFDAZL"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4PeopsVYBPuPyr83e3T0H0"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225130,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk"
     },
     {
       "album": {

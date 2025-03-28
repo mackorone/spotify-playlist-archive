@@ -2,15 +2,15 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo : Keren Ann
+> Les  meilleures nouveautés de la chanson française\. Photo : Ours
 
-151 songs - 8 hr 16 min
+152 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abracadabra](https://open.spotify.com/track/0ft0eRy0NXU4CI5vJIbpyD) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Abracadabra](https://open.spotify.com/album/5aREOKUXQYYfrZmVYxdHvr) | 2:35 | 2024-11-07 | 2025-03-14 |
 | [Adorer](https://open.spotify.com/track/2A0fiFC0aaMzUGgudG3w8x) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe) | [Adorer](https://open.spotify.com/album/7uCxw62zvzZ2BBo2yEHuCh) | 3:36 | 2024-10-17 | 2025-01-31 |
-| [Aigu](https://open.spotify.com/track/5u1VPJQClnBXgoGuNsCSjP) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Aigu](https://open.spotify.com/album/3e2165XtfQwJtKcU444LDj) | 2:41 | 2024-11-28 |  |
+| [Aigu](https://open.spotify.com/track/5u1VPJQClnBXgoGuNsCSjP) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Aigu](https://open.spotify.com/album/3e2165XtfQwJtKcU444LDj) | 2:41 | 2024-11-28 | 2025-03-28 |
 | [alma](https://open.spotify.com/track/1s6kke7dkGw3VfU4Zq9Mg8) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [protégé.e](https://open.spotify.com/album/2Ln0FleqHp6UcFW0o2EY0q) | 4:07 | 2025-01-23 |  |
 | [AMOURFOU](https://open.spotify.com/track/6nNGuufca7lNkotjvIIkev) | [Martin Luminet](https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y) | [APRÈS DEUIL\(S\)](https://open.spotify.com/album/0ZpYSAaOfQvIo55zbEx4ly) | 3:36 | 2024-06-27 | 2024-09-20 |
 | [Après l'amour \- Session Théâtre de l'Atelier](https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Après l'amour \(Session Théâtre de l'Atelier\)](https://open.spotify.com/album/27uBY4WErYJ0GZ8YPhPMXJ) | 4:09 | 2024-06-27 | 2024-11-29 |
@@ -82,6 +82,7 @@
 | [Le rivage](https://open.spotify.com/track/0NAAqdRd9ZJhFCk6fm4IXF) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Le rivage](https://open.spotify.com/album/1edaYiBOVXqs0WFwTNGLO9) | 2:35 | 2025-03-13 |  |
 | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/album/0dRTUlOrE2Ak042ebFuowC) | 4:00 | 2024-06-27 | 2024-11-08 |
 | [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 | 2024-11-14 | 2025-01-11 |
+| [Le spleen d’une vie sublime](https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Le spleen d'une vie sublime](https://open.spotify.com/album/5ElJYM0FACdaEq4r2cxm6I) | 2:29 | 2025-03-27 |  |
 | [Le sud](https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Le sud](https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW) | 3:45 | 2024-06-27 | 2024-08-30 |
 | [Le temps passe](https://open.spotify.com/track/7lKqPgebPZrZSDM3vGu92k) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Le temps passe](https://open.spotify.com/album/1jMasSdtdHzgmhGTjEL9Nw) | 2:09 | 2025-02-20 |  |
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |

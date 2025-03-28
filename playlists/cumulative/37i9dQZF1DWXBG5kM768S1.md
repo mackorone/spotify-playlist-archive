@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-255 songs - 16 hr 16 min
+256 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alle de tinga \(allting blei stilt\)](https://open.spotify.com/track/0iuowI2TuzdWdsoJgHJle0) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Like små](https://open.spotify.com/album/0mc6rENGnb9PREGbN4IUao) | 4:23 | 2021-12-16 | 2022-06-28 |
 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 | 2024-04-19 |
 | [Alle snakker sant](https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle snakker sant](https://open.spotify.com/album/22vJhT8LsQgC27izuQ7Pd3) | 2:48 | 2022-03-23 | 2022-05-12 |
+| [Alltid Aldri \(feat\. Ingebjørg Bratland\)](https://open.spotify.com/track/1l4A0NJPKZOaZ28BrwDVR5) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Alltid Aldri \(feat\. Ingebjørg Bratland\)](https://open.spotify.com/album/5wa6SdMaTRGnI6qI7TDq37) | 3:40 | 2025-03-27 |  |
 | [Alltid En Lengsel](https://open.spotify.com/track/722vfzS4cD4mWPJfxgMg5L) | [Thomas Brøndbo](https://open.spotify.com/artist/1Oe2cHHegzll2In52CHVux) | [Alltid En Lengsel](https://open.spotify.com/album/4iLwTl4UIBnwU6bRkVtDd5) | 3:55 | 2022-02-17 | 2022-05-10 |
 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 | 2021-12-16 | 2025-02-23 |
 | [Alt hu treng](https://open.spotify.com/track/2XGCTjbIcQpNizbHANBfeM) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Alt hu treng](https://open.spotify.com/album/3aqmeN6RVHZteNNfIgABEK) | 5:17 | 2023-09-21 | 2024-06-14 |
@@ -200,7 +201,7 @@
 | [Ryktet Forteller](https://open.spotify.com/track/4axzeEnJdc01LFopSSa686) | [Gitarkameratene](https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9) | [Typisk Norsk](https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb) | 3:42 | 2022-01-20 | 2022-07-28 |
 | [Sangen om de glemte](https://open.spotify.com/track/4UfaAnu4XTEA0ZOqtJD5is) | [Vegar Dahl](https://open.spotify.com/artist/1gFiOO92niZKa5qjuLEDBr), [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Sangen om de glemte](https://open.spotify.com/album/3akUg2kUHMihEIYsxS3tsG) | 3:38 | 2021-12-16 | 2022-07-28 |
 | [Sangen om Gleden](https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Sangen om Gleden](https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C) | 5:23 | 2023-08-31 | 2023-10-18 |
-| [Savner deg](https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Savner deg](https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7) | 3:01 | 2024-01-18 |  |
+| [Savner deg](https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Savner deg](https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7) | 3:01 | 2024-01-18 | 2025-03-28 |
 | [ser igjennom meg](https://open.spotify.com/track/5X2OYhTRceUGFfJAlNtFK1) | [Humle](https://open.spotify.com/artist/4Z8YvGSKlWwcKLm1Pem5X2) | [ser igjennom meg](https://open.spotify.com/album/5OpU2OlAlt5IIx2iGMZ9el) | 4:22 | 2022-03-23 | 2022-04-18 |
 | [Siste reis](https://open.spotify.com/track/3zEYZy5WKMCAiQ1A19KAm0) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Stemmer i gresset](https://open.spotify.com/album/4pShZqbj6GLGA1WOJN1z8p) | 5:00 | 2022-03-03 | 2022-11-01 |
 | [Siste sang](https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 3:30 | 2023-02-09 | 2024-01-19 |

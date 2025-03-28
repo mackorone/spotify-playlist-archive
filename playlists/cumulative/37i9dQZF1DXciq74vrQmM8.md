@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. alissic
+> welcome to our universe ft\. amira elfeky
 
-1,079 songs - 2 day 4 hr 30 min
+1,083 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [for the rest of my life](https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [for the rest of my life](https://open.spotify.com/album/5we2bXIhFBbDo6RIp6dgCZ) | 3:29 | 2022-05-26 | 2022-09-30 |
 | [For The Virgin \(O Frondens Virga\)](https://open.spotify.com/track/6JM741AhTWxOOm5DbEmEI5) | [Hildegard von Bingen](https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d), [Richard Souther](https://open.spotify.com/artist/1zbjLh1Lr5kd967Dhf7gzq), [Emily Van Evera](https://open.spotify.com/artist/5I9z6LxaZKoHkyYDP9SGMo), [Sister Germaine Fritz](https://open.spotify.com/artist/00LPm8qIKIkQ8wsCPsOxJX) | [Vision / The Music Of Hildegard Von Bingen](https://open.spotify.com/album/6E5bJgcbFNZDqTnYAOxDFw) | 1:55 | 2024-10-29 | 2024-11-05 |
 | [Force Fedd \- Kontravoid Remix](https://open.spotify.com/track/2wrKwZVyll1vhzBuVDAhQy) | [SISSY MISFIT](https://open.spotify.com/artist/7gBvxpydeJTqbjrWWkT0iB), [Kontravoid](https://open.spotify.com/artist/1cZNxWhPe9pKXdVZZdA9Bz) | [Force Fedd \(Kontravoid Remix\)](https://open.spotify.com/album/0npSUbG01KAyVpVTI2i3oP) | 3:40 | 2022-05-12 | 2022-07-22 |
+| [Forever Overdose](https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Surrender](https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2) | 3:13 | 2025-03-28 |  |
 | [Forever Soldiers Of Esther](https://open.spotify.com/track/6SYCJfd95tiL1xiCz3IFYf) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Forever Soldiers Of Esther](https://open.spotify.com/album/4BpIWBiCHnbDi8R9E11J84) | 2:31 | 2023-06-29 | 2023-08-11 |
 | [Freak Baby](https://open.spotify.com/track/4Nf3j6BzVhqf0AFTQPgaTC) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Freak Baby](https://open.spotify.com/album/5RgwApkmHiwOfEjwcoz3f6) | 2:12 | 2023-03-24 | 2023-05-05 |
 | [Freak Mode \(SEBii & Slush Puppy Remix\)](https://open.spotify.com/track/5bUNlgPdu5rbuCxe3momIc) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Freak Mode \(SEBii & Slush Puppy Remix\)](https://open.spotify.com/album/7E9e1XnEaJYBXyYnnp8OHG) | 2:34 | 2023-05-12 | 2023-07-21 |
@@ -731,6 +732,7 @@
 | [OHHH OFFICER!](https://open.spotify.com/track/6BUPc5GhDUG2hA6wlipUY7) | [paris yves](https://open.spotify.com/artist/2DHFs7Hi872pGrCVCZF4x4) | [OHHH OFFICER!](https://open.spotify.com/album/1vhpYkPDLMPom1NvN4nGdE) | 1:57 | 2024-06-06 | 2024-06-28 |
 | [omfg](https://open.spotify.com/track/08c7VSQICT3aO5jYhI2KVI) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S), [stardante](https://open.spotify.com/artist/5D73Rmcxz9HEaAD3vlimsf) | [omfg](https://open.spotify.com/album/3UKgCHzl8H0VYcC1dsAzp6) | 2:34 | 2022-08-04 | 2022-11-04 |
 | [On My Body](https://open.spotify.com/track/5aEswz3UYGouiW2o1xYEPQ) | [Crae Wolf](https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9) | [On My Body](https://open.spotify.com/album/2RHVk97p6ybscKCBcwUH1z) | 2:26 | 2024-07-04 | 2024-10-04 |
+| [ON THE LOW](https://open.spotify.com/track/7JJsA3K4QxzK6SU3BRnvMd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ON THE LOW](https://open.spotify.com/album/3Zu1sBpLxNrYzEDAk6mEjN) | 2:16 | 2025-03-28 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2021-12-27 | 2022-02-04 |
 | [Outcast Radio](https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Outcast Radio](https://open.spotify.com/album/3RDcuLho8axFjv64qo9iFg) | 2:49 | 2021-12-27 | 2022-01-06 |
 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 | 2024-05-09 | 2024-08-23 |
@@ -854,6 +856,7 @@
 | [SHALL WE?](https://open.spotify.com/track/15JD2p4h5sk0jXGMuSLVBP) | [LINA MAXINE](https://open.spotify.com/artist/5kFin5jNp7ZLxpJngi0AbC) | [SHALL WE?](https://open.spotify.com/album/6PxilKjQiTVpWSOlR8smRV) | 3:27 | 2022-02-25 | 2022-03-19 |
 | [SHAME ON ME](https://open.spotify.com/track/79KWjMj9Q3qDylVbCXmSzk) | [Happyalone.](https://open.spotify.com/artist/07cGsRL23DtuPJnawMKACY) | [SHAME ON ME](https://open.spotify.com/album/3GCv5tv7c8ZF23SO8l4ZE5) | 1:44 | 2022-10-20 | 2023-01-22 |
 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-05 | 2022-05-20 |
+| [Shark Brain \(feat\. Shygirl\)](https://open.spotify.com/track/4cP4OcoWnDO3AXYCeO83jP) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shark Brain / Dolphin](https://open.spotify.com/album/3xRHlsN1ny2OS4XFXdCrer) | 4:01 | 2025-03-28 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 | 2023-03-09 |
 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 | 2023-08-17 | 2023-11-18 |
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-05-24 |
@@ -879,6 +882,7 @@
 | [SLOW DEATH](https://open.spotify.com/track/6891otyD7U6uyi2oaOmq7o) | [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49), [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [SLOW DEATH](https://open.spotify.com/album/60undiWwpuG3wqBmp0uhTV) | 2:15 | 2023-05-25 | 2023-08-25 |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-12-28 | 2022-01-06 |
 | [smile](https://open.spotify.com/track/7tu9g2cQxMFD6F9fBDvjga) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [smile](https://open.spotify.com/album/0vBpPNstLWsQCeAbAPuHHY) | 3:08 | 2024-05-16 | 2024-07-12 |
+| [Smothering](https://open.spotify.com/track/28NemsDIgRYIyVovK6hQ59) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Smothering](https://open.spotify.com/album/7bNplBoRxfnAtNhWz7iNLj) | 3:32 | 2025-03-28 |  |
 | [snakelike \(the stars collide\)](https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [snakelike \(the stars collide\)](https://open.spotify.com/album/3pDUMX2cDvZOSDRvNgnjBx) | 2:43 | 2024-04-18 | 2024-09-27 |
 | [snow queen](https://open.spotify.com/track/46zPKknII8irWI3RFs2dJz) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [snow queen](https://open.spotify.com/album/0hrWSRs4Qyf313T5sMc8SL) | 2:30 | 2024-11-22 |  |
 | [SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG) | [Sleepisformortals](https://open.spotify.com/artist/4T73KMy57G1jagLwARAjdt) | [SO DUMB](https://open.spotify.com/album/30nPofVWEWQwFeqJNzHJvP) | 3:57 | 2023-01-27 | 2023-09-01 |

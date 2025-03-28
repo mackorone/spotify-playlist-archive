@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: G.A, MC LUUCKY, Menor MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,687 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,684 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 40 | [Santo de Casa](https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:22 |
 | 41 | [Zero Mancada](https://open.spotify.com/track/4oJnL1gc2gAcLTLp6MNiDd) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8) | [Zero Mancada](https://open.spotify.com/album/5q5lSMq4iWIPJVIazT0IZK) | 3:29 |
 | 42 | [Remessa Estrangeira \- Remix](https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN) | [2HEAVY BEATS](https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1) | [Remessa Estrangeira \(Remix\)](https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr) | 1:57 |
-| 43 | [Pool Party \- REMIX](https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Pool Party \(REMIX\)](https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX) | 1:53 |
-| 44 | [Nós Só Porta Oakley](https://open.spotify.com/track/0jUsCmDG995TQLkSHlWsJ0) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [VENERÁ](https://open.spotify.com/artist/6XBVnm9XV4snmI8dPIRqAd) | [Nós Só Porta Oakley](https://open.spotify.com/album/4EvFmKpsBtTBwNjsoAyqcl) | 2:14 |
+| 43 | [Nós Só Porta Oakley](https://open.spotify.com/track/0jUsCmDG995TQLkSHlWsJ0) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [VENERÁ](https://open.spotify.com/artist/6XBVnm9XV4snmI8dPIRqAd) | [Nós Só Porta Oakley](https://open.spotify.com/album/4EvFmKpsBtTBwNjsoAyqcl) | 2:14 |
+| 44 | [Pool Party \- REMIX](https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Pool Party \(REMIX\)](https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX) | 1:53 |
 | 45 | [Viajando no Drink](https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Real Wise](https://open.spotify.com/artist/5TMDIE7J0fAia565qmD5x2) | [Viajando no Drink](https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq) | 3:36 |
 | 46 | [Hennessy](https://open.spotify.com/track/13plPuxQXo1trpgcoYoYIB) | [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [YNC Younco](https://open.spotify.com/artist/69MHK2hU8EbU2EXsdwxLrf) | [Hennessy](https://open.spotify.com/album/5ahBvjhShtljjmTzo6DvfB) | 2:07 |
 | 47 | [Thanos](https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Thanos](https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9) | 2:15 |

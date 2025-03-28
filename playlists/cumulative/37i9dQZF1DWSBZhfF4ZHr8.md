@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo : Louane
+> Les meilleures nouveautés de la variété française\. Photo : Linh
 
-215 songs - 10 hr 39 min
+219 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [C'est ça la vie](https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 2:29 | 2024-06-27 | 2024-10-18 |
 | [C'est ça la vie](https://open.spotify.com/track/4uw9QI12tDmEvlgiH4tFm9) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [C'est ça la vie](https://open.spotify.com/album/27X4Zkeh2eVXl30FzetqeB) | 3:00 | 2024-11-07 | 2025-01-31 |
 | [CARDIO](https://open.spotify.com/track/5ByXGWhn9JHkbh3Wpb2xWz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO](https://open.spotify.com/album/3a0OpRuHTLpD0zYnR6tSaM) | 2:58 | 2024-12-05 | 2025-01-10 |
+| [Ce qui me va](https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 2:35 | 2025-03-27 |  |
 | [Ces filles](https://open.spotify.com/track/7sxkjio9AdWpCQb5MmCGiD) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Ces filles](https://open.spotify.com/album/5NOBiapUgGKZvFOqNEoj6M) | 3:03 | 2024-09-05 | 2024-11-29 |
 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2024-11-21 | 2025-01-31 |
 | [Changer](https://open.spotify.com/track/0wiXd1EP1zSxI2mSycHz4S) | [Cenzo](https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL) | [Changer](https://open.spotify.com/album/639mA0Xlv5ZcovO0ir5Rj8) | 2:46 | 2024-11-28 | 2025-02-21 |
@@ -84,6 +85,7 @@
 | [Immortel](https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Moi c'est Jeck](https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj) | 2:56 | 2024-08-01 | 2024-11-15 |
 | [J'ai Grandi](https://open.spotify.com/track/5ETuaFo3eJjaGBSSHRXOCK) | [NTH](https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s), [Gloria](https://open.spotify.com/artist/2yWU3Z3NKkz1g49LzGFRU4) | [J'ai Grandi](https://open.spotify.com/album/53q4GoasgXwqzg4X36ckYU) | 2:51 | 2024-08-22 | 2024-11-08 |
 | [J'ai plus peur](https://open.spotify.com/track/1WuZtweA9VoqhFW42vMO9i) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [J'ai plus peur](https://open.spotify.com/album/3RxSWOD6Xf5BSCc7wz2o96) | 2:57 | 2024-09-12 | 2024-12-06 |
+| [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 | 2025-03-27 |  |
 | [J'espère que c'est vrai](https://open.spotify.com/track/2EuuOBDrIfrdKYUKvXW2iK) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [J'espère que c'est vrai](https://open.spotify.com/album/1TtiBpOuEDjDo44m20sqkp) | 3:20 | 2025-02-20 |  |
 | [Je ne pense qu'à ça](https://open.spotify.com/track/37KH4r4Qj9PETxawXeyqit) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Je ne pense qu'à ça](https://open.spotify.com/album/2ZfeZxtZoDt1R6MY1LPD4Z) | 2:35 | 2024-11-21 | 2025-01-10 |
 | [Je ne pense qu'à ça](https://open.spotify.com/track/3C24V2ZTjHQNo7frG1hRiM) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Je ne pense qu'à ça](https://open.spotify.com/album/0V3ilf6unZikfsPUILrsrh) | 2:35 | 2025-02-28 |  |
@@ -131,8 +133,10 @@
 | [MARIA](https://open.spotify.com/track/5z6CNZkRIy44n7FrYNs23q) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [MARIA](https://open.spotify.com/album/3JIicLsd5uAnePIbUatgvN) | 2:41 | 2024-10-10 | 2024-11-15 |
 | [Mauvais rêve \- 28 ans](https://open.spotify.com/track/5yKtALi0PDiaPCQsng8CN5) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur papillon](https://open.spotify.com/album/0EJqRM0ONZPOlTaPquF9J1) | 4:19 | 2024-10-24 | 2025-01-10 |
 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 | 2025-02-06 |  |
+| [Meilleur](https://open.spotify.com/track/3nfrlD1WL02p0ggrcNmmEp) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/4zyNrGyLYL8Fh4xaDg5w3N) | 3:00 | 2025-03-27 |  |
 | [Meilleurs qu'hier](https://open.spotify.com/track/0g4ObIiyj6t33K6WFDt1sr) | [Malo'](https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR) | [Meilleurs qu'hier](https://open.spotify.com/album/444hHvkA6169r1nSTg7vf5) | 3:19 | 2025-01-23 |  |
 | [Mieux que moi](https://open.spotify.com/track/3D4Tq1Brx820RJoCvX4LRl) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Mieux que moi](https://open.spotify.com/album/0wmbdzWNDa5OCDoZySEhO8) | 2:53 | 2024-11-21 | 2025-01-10 |
+| [Mima](https://open.spotify.com/track/65s4YN5BiSzaNkVNJ17yYd) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Mima](https://open.spotify.com/album/2G4HwnISlVWk72pyC8fnk9) | 2:45 | 2025-03-27 |  |
 | [Mon coeur s'emballe](https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM) | [SARA'H](https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9) | [Mon coeur s'emballe](https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd) | 3:06 | 2024-07-18 | 2024-10-25 |
 | [Mon regard](https://open.spotify.com/track/3dzEMHiCDe3bPFW7yEbU7d) | [Margot Abate](https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ) | [Mon regard](https://open.spotify.com/album/23WVBS3u2p0IjFK1apyDtL) | 2:19 | 2024-09-26 | 2024-11-29 |
 | [monde](https://open.spotify.com/track/1Rw4uvIWhfTwtXxzVBFyFt) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo \(édition blizzard\)](https://open.spotify.com/album/0QgoX9WIbp5xTwe9Up5v79) | 3:52 | 2024-11-14 | 2025-02-14 |
@@ -140,10 +144,10 @@
 | [Mute](https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [La prison des amoureuses malheureuses](https://open.spotify.com/album/3dKaOKSDCF3C9XSpa7AQbn) | 2:53 | 2024-10-03 | 2024-11-15 |
 | [Ne me dis plus jamais](https://open.spotify.com/track/6GPZUss1JVFJPOnfzJLDc8) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Signé, Linh](https://open.spotify.com/album/3OXwUO2YTrDnmAyVmP22eo) | 3:56 | 2024-10-17 | 2025-01-10 |
 | [Normal \- Version Lino](https://open.spotify.com/track/7yfiUVhb4ULrdspsNdVKh0) | [Laurent Lamarca](https://open.spotify.com/artist/1oxqdAQ96XPo1bAS8S9xDX) | [Normal \(Version Lino\)](https://open.spotify.com/album/23h206XG2Hm9E24wOdNOn5) | 3:43 | 2024-06-27 | 2024-07-27 |
-| [Nous](https://open.spotify.com/track/2D3CdwBVjoqbisAd0zIyji) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Nous](https://open.spotify.com/album/1gR8XeSRNR9PI7hzuclqss) | 2:56 | 2025-02-13 |  |
+| [Nous](https://open.spotify.com/track/2D3CdwBVjoqbisAd0zIyji) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Nous](https://open.spotify.com/album/1gR8XeSRNR9PI7hzuclqss) | 2:56 | 2025-02-13 | 2025-03-28 |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-06-27 | 2024-09-20 |
 | [Nouveau départ](https://open.spotify.com/track/4Ty8Q0KsyuNHmBLlPK13fi) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Nouveau départ](https://open.spotify.com/album/2mpuYLosZM3qj8iBnCH7i4) | 2:38 | 2024-09-05 | 2024-11-22 |
-| [On dort](https://open.spotify.com/track/3kooOutN1DnjDmDoVBos2Y) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [On dort](https://open.spotify.com/album/0OUEWqcp3XPSf3IFxpzwPi) | 2:38 | 2025-02-28 |  |
+| [On dort](https://open.spotify.com/track/3kooOutN1DnjDmDoVBos2Y) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [On dort](https://open.spotify.com/album/0OUEWqcp3XPSf3IFxpzwPi) | 2:38 | 2025-02-28 | 2025-03-28 |
 | [On est plein](https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [On est plein](https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l) | 2:26 | 2024-06-27 | 2024-10-18 |
 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-19 | 2024-11-29 |
 | [Oser](https://open.spotify.com/track/2OwSd94EtSFh5dzrp4SFWY) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Oser](https://open.spotify.com/album/2fl3JX1Iq19Ar3ByUKlZoQ) | 2:34 | 2025-01-09 | 2025-02-21 |
@@ -203,7 +207,7 @@
 | [Tout ira mieux](https://open.spotify.com/track/7Iv8bX5ooI4vQAvw6JWd17) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Tout ira mieux](https://open.spotify.com/album/62P34yhvZUL6tUufhJW2cy) | 2:50 | 2025-01-30 | 2025-03-21 |
 | [Tout Petit](https://open.spotify.com/track/0uJdIiu2BEyI6ZZN8wijhL) | [Eko Eko](https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY) | [Tout Petit](https://open.spotify.com/album/3b8PMF3afnavT72CLkvcaf) | 2:42 | 2024-11-07 | 2025-01-31 |
 | [Toute seule \- 2024](https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM), [RORI](https://open.spotify.com/artist/3P3yXPp61UWZk8MqFpneQ8) | [Hyper Lorie \(Vol\. 2\)](https://open.spotify.com/album/3DekfUe0VqOZvdjinQLPLL) | 2:20 | 2024-06-27 | 2024-07-05 |
-| [Triste](https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Triste](https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be) | 3:09 | 2025-02-13 |  |
+| [Triste](https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Triste](https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be) | 3:09 | 2025-02-13 | 2025-03-28 |
 | [Trop tôt](https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Trop tôt](https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z) | 2:51 | 2024-06-27 | 2024-08-23 |
 | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 | 2024-10-17 | 2025-01-10 |
 | [Tu vis \(feat\. Mentissa\)](https://open.spotify.com/track/4cSC9LFdVKFqD6x7dfxXDG) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Miroirs \(Edition deluxe\)](https://open.spotify.com/album/7mLcWzWLGy4XcTHB4jImB2) | 2:45 | 2024-10-17 | 2025-01-24 |
@@ -220,7 +224,7 @@
 | [Vos voix](https://open.spotify.com/track/45cYeCK8CFZW0nXKDcRcBQ) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2024](https://open.spotify.com/album/1AxvcnFWz0ErVEtTvv3Mk3) | 3:01 | 2025-01-30 | 2025-03-21 |
 | [Vérité](https://open.spotify.com/track/6n0A1PveCnOugPtdWRkbeC) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Vérité](https://open.spotify.com/album/3hebYaRK5QJJx7qEsRZayP) | 2:45 | 2025-02-20 |  |
 | [We Are](https://open.spotify.com/track/3ZdyDjxhkbolIPKLkmuJjI) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 3:15 | 2024-11-14 | 2025-02-07 |
-| [Win Rak](https://open.spotify.com/track/4dMmznl2mN0O2dfDOQr6Wd) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Win Rak](https://open.spotify.com/album/5h5QmOm4Nucc5676vncete) | 2:39 | 2025-01-09 |  |
+| [Win Rak](https://open.spotify.com/track/4dMmznl2mN0O2dfDOQr6Wd) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Win Rak](https://open.spotify.com/album/5h5QmOm4Nucc5676vncete) | 2:39 | 2025-01-09 | 2025-03-28 |
 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ZÉRO PAR MOIS](https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z) | 2:21 | 2024-07-25 | 2024-10-18 |
 | [Éclipse](https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Éclipse](https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW) | 2:29 | 2025-01-16 | 2025-02-21 |
 

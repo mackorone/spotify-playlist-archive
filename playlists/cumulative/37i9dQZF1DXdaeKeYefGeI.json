@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Voeten in de aarde",
+        "url": "https://open.spotify.com/album/7HZ1SrzuGUUHomVNfKTCxO"
+      },
+      "artists": [
+        {
+          "name": "Esther de Jong",
+          "url": "https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213857,
+      "name": "Gaast/Ferwoude",
+      "url": "https://open.spotify.com/track/1M4bfMcZEKgAYOWjavoLwR"
+    },
+    {
+      "album": {
         "name": "Geef Je Hart Niet Zomaar Weg",
         "url": "https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq"
       },
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-28",
       "duration_ms": 256186,
       "name": "Pastorale",
       "url": "https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg"

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 512779,
+  "num_followers": 512884,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+CggAAAAACjcfQT1RDHgZGffgMSboFA",
+  "snapshot_id": "Z+HyAAAAAABEVTdXs/zT/4xPsMtV7RVw",
   "tracks": [
     {
       "added_at": null,
@@ -827,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+        "name": "Be Nice",
+        "url": "https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX"
       },
       "artists": [
         {
           "name": "Black Eyed Peas",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 283586,
-      "name": "Party All The Time",
-      "url": "https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC"
+      "duration_ms": 228714,
+      "name": "Be Nice",
+      "url": "https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD"
     },
     {
       "added_at": null,
@@ -859,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Nice",
-        "url": "https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX"
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
       "artists": [
         {
           "name": "Black Eyed Peas",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 228714,
-      "name": "Be Nice",
-      "url": "https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD"
+      "duration_ms": 283586,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC"
     },
     {
       "added_at": null,

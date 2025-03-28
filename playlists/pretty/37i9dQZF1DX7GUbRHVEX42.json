@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Lila Ik\u00e9",
-  "num_followers": 1131241,
+  "num_followers": 1131269,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-03-04 09:11:56",
       "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Good Over Evil",
+      "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
+    },
+    {
+      "added_at": "2025-03-04 09:11:56",
+      "album": {
         "name": "This World (with Kabaka Pyramid)",
         "url": "https://open.spotify.com/album/4w2URLpOZQovFHM9SBWtzo"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 207106,
       "name": "This World (with Kabaka Pyramid)",
       "url": "https://open.spotify.com/track/5RPFPpOJP3OlTQk2mUPYxA"
-    },
-    {
-      "added_at": "2025-03-04 09:11:56",
-      "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Good Over Evil",
-      "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
     },
     {
       "added_at": "2025-03-04 09:11:56",
