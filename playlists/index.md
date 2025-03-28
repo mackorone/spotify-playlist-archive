@@ -1,4 +1,4 @@
-## Playlists \(8453\)
+## Playlists \(8454\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8037,6 +8037,7 @@
 - [mosaic](/playlists/pretty/37i9dQZF1DXd9vfK9DV3I6.md)
 - [movements.](/playlists/pretty/37i9dQZF1DX0KSY3FHBnf5.md)
 - [murga](/playlists/pretty/5htE97xLVu4akvNcmhLien.md)
+- [music \*\*I\*\* like not YOU I dont care about YOUR opinion](/playlists/pretty/22hcpbnp4ftoj5Igb2nfGK.md)
 - [my life is a movie](/playlists/pretty/37i9dQZF1DX4OzrY981I1W.md)
 - [my life is an A24 horror movie](/playlists/pretty/37i9dQZF1DWZGHXujRpFTl.md)
 - [my love is mine all mine](/playlists/pretty/2umhFr6VmhHDDT1Tdlc8s4.md)
