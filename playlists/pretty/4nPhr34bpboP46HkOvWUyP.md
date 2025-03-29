@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nPhr34bpboP46HkOvWUyP.md) - [plain]
 
 > ⭐ALL OF MY MUSIC: SOLO &amp; FEATURE WORK⭐
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 23 likes - 65 songs - 3 hr 25 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 23 likes - 66 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/4nPhr34bpboP46HkOvWUyP.md) - [plain]
 | 63 | [BANG BANG \(MY BABY SHOT ME DOWN\)](https://open.spotify.com/track/0uz0qDHL80vqkEAOCs4Wum) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:28 |
 | 64 | [DAMSEL IN DISTRESS](https://open.spotify.com/track/6aypVvoftS3gKkBE5WJE3Y) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [NotSoFinest](https://open.spotify.com/artist/2Uk2YETdcoV8fXzX2DUnwQ) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:01 |
 | 65 | [LAMENT](https://open.spotify.com/track/3Cv0icGRvbEqGW2rjNvx0C) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:52 |
+| 66 | [Intro](https://open.spotify.com/track/0HLSdM3Cs5MEwymHVGxi6j) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Hypnagogic Baden](https://open.spotify.com/album/22087DsDihceHpt53rZ0H2) | 1:38 |
 
-Snapshot ID: `AAABNd5kRtbmsQ0xTKuPLaUw1rA2nI5H`
+Snapshot ID: `AAABNu95tO+hZyYjKnhfAY6WrYXd07hj`

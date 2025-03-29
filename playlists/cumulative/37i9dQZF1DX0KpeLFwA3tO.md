@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: PUP
 
-2,360 songs - 4 day 21 hr 45 min
+2,361 songs - 4 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,7 +758,7 @@
 | [For The Plot](https://open.spotify.com/track/5cTsAVfMDQxjL6qt7k9ijR) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [For The Plot](https://open.spotify.com/album/438uLf4EXbMY4obUmurvQK) | 3:17 | 2025-02-21 |  |
 | [Force 10 From Navarone](https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Florence Shaw](https://open.spotify.com/artist/5PGw6aGfWBvSRnOZif7K84) | [Force 10 From Navarone](https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM) | 3:24 | 2023-02-10 | 2023-04-09 |
 | [Forget](https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Forget](https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o) | 2:33 | 2025-03-21 |  |
-| [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/6CkD3DpO2MXNoTciSNL5Cj) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 | 2025-02-07 |  |
+| [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 | 2025-02-07 |  |
 | [Forgiveness](https://open.spotify.com/track/43wNqEJvEkdWVgNQmOnLiB) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Violet](https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz) | 4:20 | 2025-01-31 |  |
 | [Forgot To Grow](https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Forgot To Grow](https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX) | 3:12 | 2023-10-26 | 2024-01-19 |
 | [Foul](https://open.spotify.com/track/0jLiGDl2JzE6AphvAJ4HEl) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Foul](https://open.spotify.com/album/5Rd8jZQIzuHX6EuV1ZA6CE) | 2:47 | 2022-10-06 | 2022-11-18 |
@@ -1067,6 +1067,7 @@
 | [In The Trenches](https://open.spotify.com/track/7kH93r1j8UqHkBq8HOGFQY) | [Free the Witness](https://open.spotify.com/artist/320FBN60rLKRag50ziiZUw) | [In The Trenches](https://open.spotify.com/album/4dDinQXjH1alRh8G7w2HQe) | 2:48 | 2024-07-11 | 2024-08-24 |
 | [in this world of mona lisa's, you’re my jackson pollock](https://open.spotify.com/track/33K0eJS7ZdLAZFtxv2UaU8) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [in this world of mona lisa's, you’re my jackson pollock](https://open.spotify.com/album/7kRSzOYu9ec2E4w40wTEPy) | 2:37 | 2022-02-25 | 2022-04-22 |
 | [Inaction](https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Inaction](https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9) | 3:06 | 2024-10-10 | 2025-01-17 |
+| [incel](https://open.spotify.com/track/3J3XomVikrROzahOpPrBzZ) | [the oidz](https://open.spotify.com/artist/4UWW5daOBicqVNUhmOZJJe) | [the oidz](https://open.spotify.com/album/3LI22WFyAmwTYo3hKYxXPc) | 1:56 | 2025-03-28 |  |
 | [Influencer](https://open.spotify.com/track/0ufWx6XR85gHtyRd5cIQzm) | [Thee Deception](https://open.spotify.com/artist/0ww6JXAWlcznHy3T0g4b7l) | [Influencer](https://open.spotify.com/album/423SI7941tIVewQWcgVbZ3) | 1:21 | 2024-11-08 | 2025-02-01 |
 | [Innocent](https://open.spotify.com/track/38jMT9WHGFsWOtkZ5KNHLi) | [Errorr](https://open.spotify.com/artist/1wVtzjX6YlqkRrdTEDyaRr) | [Innocent](https://open.spotify.com/album/3boQizm1XreDnUeOPFhNXT) | 4:02 | 2023-01-20 | 2023-03-25 |
 | [Inside My Head](https://open.spotify.com/track/5ZjtReVAQ6KGix7VkaE7h1) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Inside My Head](https://open.spotify.com/album/5xONWWaqM4zUrHp7cKeixJ) | 3:11 | 2023-09-01 | 2023-10-20 |

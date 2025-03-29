@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 
 > ¡Tus canciones favoritas del momento, todas en un solo lugar! Cover: Alfredo Olivas
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,269 likes - 200 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,419 likes - 200 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "All the South African and global Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR?si=80w1ZhZASaynZaLiPU0RKQ\"> Ariana Grande</a>",
-  "num_followers": 2919,
+  "num_followers": 2934,
   "original_name": "i <3 pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XKgAAAAAArIQ6paE8FRHW0DfDVB6Cm",
+  "snapshot_id": "Z+ZROwAAAADOPMzSg+T6ueqwEVgQZuax",
   "tracks": [
+    {
+      "added_at": "2025-03-28 07:35:23",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
+    },
     {
       "added_at": "2025-03-27 22:00:32",
       "album": {

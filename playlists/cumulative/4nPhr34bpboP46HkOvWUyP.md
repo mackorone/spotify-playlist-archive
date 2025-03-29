@@ -4,7 +4,7 @@
 
 > ⭐ALL OF MY MUSIC: SOLO &amp; FEATURE WORK⭐
 
-65 songs - 3 hr 25 min
+66 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [in my heart](https://open.spotify.com/track/3NcoGRtPhlpTdKkwM86KAt) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J) | [in my heart](https://open.spotify.com/album/1095NsbNrW0zNpuIu4QTZb) | 2:14 | 2023-12-17 |  |
 | [in my heart \- nightcore](https://open.spotify.com/track/7zKgrINLHn1oroS5JyeBNr) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J) | [in my heart](https://open.spotify.com/album/1095NsbNrW0zNpuIu4QTZb) | 1:56 | 2023-12-17 |  |
 | [internet chores](https://open.spotify.com/track/4MzRkQWrboOGTbDzUG5xvR) | [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J), [Wolficide](https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk) | [Z](https://open.spotify.com/album/3NQ69qZPAUJn7qFw1nkMv9) | 2:47 | 2020-09-16 |  |
+| [Intro](https://open.spotify.com/track/0HLSdM3Cs5MEwymHVGxi6j) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Hypnagogic Baden](https://open.spotify.com/album/22087DsDihceHpt53rZ0H2) | 1:38 | 2025-03-28 |  |
 | [it never stays the same](https://open.spotify.com/track/5ojBfEEMlFlDM1RCpirQaS) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk) | [remembering the past](https://open.spotify.com/album/3lz26LRFslWk7QU1vrFoLr) | 2:19 | 2020-07-18 |  |
 | [KEEP THE LIGHTS ON](https://open.spotify.com/track/4HyXBIiESmnMZhztOmW7IK) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:34 | 2024-12-27 |  |
 | [LAMENT](https://open.spotify.com/track/3Cv0icGRvbEqGW2rjNvx0C) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:52 | 2024-12-27 |  |

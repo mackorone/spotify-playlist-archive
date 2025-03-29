@@ -2,7 +2,7 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop!<br/>Cover: AP Dhillon & Steel Banglez
+> Best of Punjabi Hip\-Hop!<br/>Cover: Baggh\-E SMG , Big Kay SMG, Farmaan SMG
 
 260 songs - 12 hr 54 min
 

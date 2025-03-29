@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,064 likes - 125 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,113 likes - 125 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 114 | [Honeysuckle Rose](https://open.spotify.com/track/6UvGBRRCCP7Ro3gbLIuDU6) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Saga Jazz: European Delights 1933\-1939](https://open.spotify.com/album/1o7xxxWQil1BBZu3yYykrE) | 2:47 |
 | 115 | [The Nearness Of You](https://open.spotify.com/track/2mXOCV01q4axg8TpU2zA0j) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Very Cool + Tranquillity](https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ) | 6:09 |
 | 116 | [You Are Too Beautiful](https://open.spotify.com/track/1hqE4EEytGPhHsNKDVngTZ) | [Bill Evans & Lee Konitz](https://open.spotify.com/artist/3xGMU83BGYk6opfPcIK4GG) | [Play The Arrangements Of Jimmy Giuffre](https://open.spotify.com/album/0Rn37SXYjCna8E1PRUFCtD) | 4:12 |
-| 117 | [In A Sentimental Mood](https://open.spotify.com/track/0PrGgNDwfJPNXADJYROvBw) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1EY9DXkRZg8ChCYhpVi6Yg) | 4:15 |
-| 118 | [Georgia On My Mind](https://open.spotify.com/track/5v5h0IdOAo0pK8a7i2esZG) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7) | 3:43 |
+| 117 | [Georgia On My Mind](https://open.spotify.com/track/5v5h0IdOAo0pK8a7i2esZG) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7) | 3:43 |
+| 118 | [In A Sentimental Mood](https://open.spotify.com/track/0PrGgNDwfJPNXADJYROvBw) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1EY9DXkRZg8ChCYhpVi6Yg) | 4:15 |
 | 119 | [Old Devil Moon \- Live At The Village Vanguard/1957 / Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK) | 8:21 |
 | 120 | [I Didn't Know What Time It Was](https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 10:06 |
 | 121 | [You're A Weaver Of Dreams](https://open.spotify.com/track/1dWxZBpyJ0ZkmgEqSFTiYQ) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/1ywi5zQMqngyRWrmPUB0um) | 5:34 |

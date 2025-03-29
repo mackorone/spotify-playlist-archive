@@ -7411,6 +7411,28 @@
     },
     {
       "album": {
+        "name": "\u77db\u76fe\u7cfb\u5973\u751f",
+        "url": "https://open.spotify.com/album/345GxC2ByylsIMfDyTx4aL"
+      },
+      "artists": [
+        {
+          "name": "\u65bd\u5321\u7ff9",
+          "url": "https://open.spotify.com/artist/7mvlTsqZNPZNN7i25IlgKF"
+        },
+        {
+          "name": "JC \u9673\u8a60\u6850",
+          "url": "https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174865,
+      "name": "\u77db\u76fe\u7cfb\u5973\u751f",
+      "url": "https://open.spotify.com/track/5nUsg9uZCm6CxYyYCa3K2v"
+    },
+    {
+      "album": {
         "name": "\u793e\u755c\u5b8c\u5168\u9ad4",
         "url": "https://open.spotify.com/album/3cmzJdniYEVObAZAHS3dqd"
       },

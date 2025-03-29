@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-1,335 songs - 2 day 23 hr 15 min
+1,336 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Freedom](https://open.spotify.com/track/5VoByKp0qo2OVO1ehyPtSa) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Freedom](https://open.spotify.com/album/0jUgrbJG2BgcBfCB5fwr8w) | 2:21 | 2024-10-24 | 2024-12-21 |
 | [Freefall](https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Freefall](https://open.spotify.com/album/4kGEeZJodQnNKyIpbDdpTR) | 2:49 | 2024-10-10 |  |
 | [Freefall](https://open.spotify.com/track/0tIrNpRWm8oQfOLeYiTocg) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Freefall](https://open.spotify.com/album/76cNsTOkP1lpgXFAxXb9hQ) | 2:59 | 2024-08-01 | 2025-01-17 |
+| [Friends](https://open.spotify.com/track/1An0asHGVKFTtGyTxYd1zo) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Aura Dione](https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj) | [Friends](https://open.spotify.com/album/7eTq5zM6NDNsHTlsAhbjVS) | 2:54 | 2025-03-28 |  |
 | [From This Day On](https://open.spotify.com/track/6de1FzMedpGJRkdH9IIeUX) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 3:38 | 2023-02-16 | 2023-06-23 |
 | [Fulfillment](https://open.spotify.com/track/0TXsD8pXzfE11soERSXQ1f) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Fulfillment](https://open.spotify.com/album/3efNW239KQaVkZCGkVSsoX) | 3:29 | 2024-02-01 | 2024-08-31 |
 | [Fun Fun](https://open.spotify.com/track/1oN2ufd3KdxqhyPoqERHu2) | [Phil Fuldner](https://open.spotify.com/artist/1DKPQBaKEzmQzWG1GwJoXT) | [Fun Fun](https://open.spotify.com/album/0wLBRNh3x7roao6Wf6q755) | 2:49 | 2023-09-21 | 2024-02-09 |

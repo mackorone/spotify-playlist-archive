@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-97 songs - 7 hr 8 min
+98 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Así Peleo Mis Batallas](https://open.spotify.com/track/4oOPe4cjevog1yEGOq9a7y) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Que La Música No Pare](https://open.spotify.com/album/0ygjAyH0Rxrco1LTCjJyzY) | 3:24 | 2024-07-29 |  |
 | [Cansado \- En Vivo](https://open.spotify.com/track/4PfdJ9cvHMUwGJnjiDyx30) | [Vox Dei](https://open.spotify.com/artist/3qJHHkBTYuEBHmLZ7cEei6) | [30 Años \(En Vivo\)](https://open.spotify.com/album/4ZTqyGp6fYYgrY61GKiWZD) | 5:08 | 2022-07-22 | 2022-10-26 |
 | [Casita en el Cielo](https://open.spotify.com/track/67nH4fENqR57oYGpE6BNgy) | [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Casita en el Cielo](https://open.spotify.com/album/2Xdlf33WLjUgb9Pgxb1uHM) | 3:03 | 2024-07-29 |  |
+| [Cicatriz](https://open.spotify.com/track/0TpWtQlUdr9biLLEZjdIxQ) | [Año Cero](https://open.spotify.com/artist/5Gkiy2b9FCiZbLdJvsC1dS), [Skapaltata](https://open.spotify.com/artist/2TamkT4q1zJ6TAXMwZUvcs) | [Cicatriz](https://open.spotify.com/album/3OjM2PwrylF0BdAGLouWPR) | 2:13 | 2025-03-28 |  |
 | [Contra Tu Sistema](https://open.spotify.com/track/52eb1ee2bhsQxnDaMprAys) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Contra Tu Sistema](https://open.spotify.com/album/1ClppXjQsdAEJ7kzJuJ1ur) | 3:56 | 2024-12-11 |  |
 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 | 2022-07-22 |  |
 | [Demasiado Para Describir](https://open.spotify.com/track/4ISbYfyeqpYlDc1U6DudR3) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Demasiado Para Describir](https://open.spotify.com/album/2Tcq4iOPrTVblClZTdjj3K) | 4:03 | 2024-12-11 |  |
@@ -36,7 +37,7 @@
 | [Escribías en la Arena](https://open.spotify.com/track/4zgErO5aCYFHzn7Mts00uH) | [La Barca Rocka](https://open.spotify.com/artist/4YrhOxjKI05biW8yjMDmMW) | [Escribías en la Arena](https://open.spotify.com/album/4HAUR4pVrfsXQqIKuA2mSf) | 5:38 | 2024-07-29 |  |
 | [Fe](https://open.spotify.com/track/2HlSpAMXFABYqYTOdT7C8m) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Santo Remedio](https://open.spotify.com/album/1gtCpknow1BRL3VG4bVaIB) | 3:10 | 2022-07-22 | 2024-04-19 |
 | [Fe](https://open.spotify.com/track/6WVrVeVXeREZp8aXRnh30E) | [Santo Remedio](https://open.spotify.com/artist/6103ay1cM9Vux1EceF8CCZ) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 3:11 | 2022-10-25 |  |
-| [Hagamos Fiesta](https://open.spotify.com/track/6Gik4A7UhOtr5KWgD5OCO4) | [Eliud Emmanuel Díaz](https://open.spotify.com/artist/1oJjdaBvEVBGCMzkkE2JPc) | [Hagamos Fiesta](https://open.spotify.com/album/1ipZ8fcwGnHRrNw8HnySTU) | 4:00 | 2024-12-11 |  |
+| [Hagamos Fiesta](https://open.spotify.com/track/6Gik4A7UhOtr5KWgD5OCO4) | [Eliud Emmanuel Díaz](https://open.spotify.com/artist/1oJjdaBvEVBGCMzkkE2JPc) | [Hagamos Fiesta](https://open.spotify.com/album/1ipZ8fcwGnHRrNw8HnySTU) | 4:00 | 2024-12-11 | 2025-03-29 |
 | [Harto](https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [¿Como Me Ves?](https://open.spotify.com/album/6P0VO2HC3OV54KfupPb2Vk) | 4:07 | 2022-07-22 | 2024-04-19 |
 | [Harto](https://open.spotify.com/track/67SmmMagUwguyRfTMbbWzj) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [Como Me Ves?](https://open.spotify.com/album/4nfoGNTVDZ9WXgvmL9H65k) | 4:07 | 2022-10-25 |  |
 | [La Bendición](https://open.spotify.com/track/2I7bBpIx0X6yJcWY3AGNi1) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1b53jIDNaeJhlerPMnCY9e) | 3:49 | 2022-10-25 |  |

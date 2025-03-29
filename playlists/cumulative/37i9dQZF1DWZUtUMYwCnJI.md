@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZUtUMYwCnJI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUtUMYwCnJI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUtUMYwCnJI)
 
-### [Fire Force \-炎炎ノ消防隊\-](https://open.spotify.com/playlist/37i9dQZF1DWZUtUMYwCnJI)
+### [Fire Force](https://open.spotify.com/playlist/37i9dQZF1DWZUtUMYwCnJI)
 
-> Enjoy the world of “Fire Force”!  歴代OP/ED、サントラ曲で辿るアニメ「炎炎ノ消防隊」の世界！©大久保篤・講談社／特殊消防隊動画広報課
+> Enjoy the world of “Fire Force”! ©大久保篤・講談社／特殊消防隊動画広報課
 
 114 songs - 5 hr 35 min
 

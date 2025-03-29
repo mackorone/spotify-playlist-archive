@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/2TgW5hBwWMUdyc9K1Cuwqt"
+      },
+      "artists": [
+        {
+          "name": "secs on the beach",
+          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114655,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/4g7t4gur0b65QHYjNmq4J5"
+    },
+    {
+      "album": {
         "name": "London's Calling",
         "url": "https://open.spotify.com/album/3PeetJ2MUzFszFdrAI8Bda"
       },

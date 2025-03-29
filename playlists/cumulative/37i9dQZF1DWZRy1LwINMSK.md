@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Los Shishi.
 
-261 songs - 13 hr 30 min
+262 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [SOLO DIME](https://open.spotify.com/track/76NtZCaYVQHxEkB6mrm1DQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Dj Osar](https://open.spotify.com/artist/1QfMokd89daz2p3JvQFrSB), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 3:19 | 2024-06-07 |  |
 | [South Beach](https://open.spotify.com/track/72APDBxXJYdznq3YL9iGqZ) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Déjà Vu](https://open.spotify.com/album/3uvDfKZqZaIbnFYR4qGAJa) | 3:49 | 2022-01-20 | 2022-05-28 |
 | [SPLASH](https://open.spotify.com/track/27syJ4nzaZtklP6IBSw70W) | [Sinco12](https://open.spotify.com/artist/5O5Pz7R7eLIplDnQk0xhkL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [SPLASH](https://open.spotify.com/album/3CLBJ7yjtRCU1ULij23iL7) | 3:30 | 2022-05-27 | 2022-06-18 |
+| [STAR \- Sped Up](https://open.spotify.com/track/2jD8gOxYvMJGApLH5fkajb) | [GALEX](https://open.spotify.com/artist/3DMeQguczm3Pog9KAkN0It), [adamxyz](https://open.spotify.com/artist/78C1RV6GfB4uRWgRsnSgD4), [Mr Demon](https://open.spotify.com/artist/4KxFQKuMJRcrnz0UpiGgw4) | [STAR](https://open.spotify.com/album/7do9slyIepj6pvhwRMBiXC) | 2:24 | 2025-03-28 |  |
 | [Suerte de Bandida](https://open.spotify.com/track/1nXhYAAj2VoM5YSRgR9kXz) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Dbs](https://open.spotify.com/artist/3UdSOsxvtbqXW2CdUmGFGI) | [Suerte de Bandida](https://open.spotify.com/album/2b1UGxQk0AFsfFV9pSSvPw) | 3:11 | 2024-11-15 |  |
 | [Surprise \(feat\. Polimá Westcoast\)](https://open.spotify.com/track/4CFCEImu0SbRkH4WaFFK6H) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Surprise \(feat\. Polimá Westcoast\)](https://open.spotify.com/album/5IliKcYtvrJx1tuVN7b8KP) | 3:34 | 2022-01-20 | 2024-10-19 |
 | [Tate Pendiente](https://open.spotify.com/track/4205hBquJ1hJUjwHXxgyrW) | [Papi Trujillo](https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pochi](https://open.spotify.com/artist/7wbgA4GKIqnYmnUUJbRdrb), [GoldChains](https://open.spotify.com/artist/2kLiB5H38ap10iGLQRV8SG) | [Tate Pendiente](https://open.spotify.com/album/7BOd9ehLDu0EeAOudjwlKO) | 3:34 | 2022-07-22 | 2023-09-02 |

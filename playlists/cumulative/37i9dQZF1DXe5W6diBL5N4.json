@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover:  j-hope) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: LUCY) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "New Music K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -2214,6 +2214,28 @@
       "duration_ms": 372146,
       "name": "2025 Monthly Yoon January - Down Hill",
       "url": "https://open.spotify.com/track/5lmqBahX9EuY15qchu4LkR"
+    },
+    {
+      "album": {
+        "name": "2025 Monthly Yoon March - Audition (with KIM TAEHYEON)",
+        "url": "https://open.spotify.com/album/7IKrEEd5Rdm0wpRSpHAdqP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        },
+        {
+          "name": "Kim Taehyun",
+          "url": "https://open.spotify.com/artist/4nBKxo2W2JqDXFlfeVSXBh"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259079,
+      "name": "2025 Monthly Yoon March - Audition (with KIM TAEHYEON)",
+      "url": "https://open.spotify.com/track/5VI6Sdk6C4uNrjcGATofq5"
     },
     {
       "album": {
@@ -4926,7 +4948,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 700779,
       "name": "A Love Supreme",
       "url": "https://open.spotify.com/track/13wudIIl7RjbOfWxvXKdz6"
@@ -11457,6 +11479,24 @@
     },
     {
       "album": {
+        "name": "Newtopia OST",
+        "url": "https://open.spotify.com/album/6pO87ZO3aKjZkxI9zZwTEJ"
+      },
+      "artists": [
+        {
+          "name": "JOONIL JUNG",
+          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298306,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/41c9hnyA1XfVF8Ap4o2Kol"
+    },
+    {
+      "album": {
         "name": "play with earth! 0.03 (extended)",
         "url": "https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ"
       },
@@ -11922,6 +11962,24 @@
       "duration_ms": 212026,
       "name": "Anti-Romance (feat. ALEPH)",
       "url": "https://open.spotify.com/track/6T80dBPbvYdYU3iun5oekb"
+    },
+    {
+      "album": {
+        "name": "Anti-Spring",
+        "url": "https://open.spotify.com/album/4Htd5v4gEmzrxLAl4uI8wf"
+      },
+      "artists": [
+        {
+          "name": "EJel",
+          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Anti-Spring",
+      "url": "https://open.spotify.com/track/3kK3DOw7zKceuVuFmzuG50"
     },
     {
       "album": {
@@ -29513,6 +29571,24 @@
     },
     {
       "album": {
+        "name": "Calling You",
+        "url": "https://open.spotify.com/album/7qo64skK7IHyXpgYTdQRPW"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363873,
+      "name": "Calling You",
+      "url": "https://open.spotify.com/track/43HFmGfFKx9hCXBEighJXG"
+    },
+    {
+      "album": {
         "name": "Calling Your Name",
         "url": "https://open.spotify.com/album/4HcnHcyHWCqbdXlSuKHDfm"
       },
@@ -32374,6 +32450,24 @@
       "duration_ms": 182453,
       "name": "Cheshire",
       "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
+    },
+    {
+      "album": {
+        "name": "JUST ODD",
+        "url": "https://open.spotify.com/album/0H0xAsrym8C5AxDrJZsJGw"
+      },
+      "artists": [
+        {
+          "name": "JUST B",
+          "url": "https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165306,
+      "name": "CHEST",
+      "url": "https://open.spotify.com/track/34JfurqqlbU63mh90fSGsp"
     },
     {
       "album": {
@@ -46683,6 +46777,24 @@
     },
     {
       "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5YF2TZOyU46ioTxsr3PmCv"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165053,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/1lMTjhv9a9XOfKLsRXOInQ"
+    },
+    {
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/58QeunpWrLnYEqCJcPqxcm"
       },
@@ -46914,7 +47026,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 239613,
       "name": "DON`T SAY GOODBYE",
       "url": "https://open.spotify.com/track/27Ivi0DvWepsLvKa0mPVrw"
@@ -54227,6 +54339,24 @@
     },
     {
       "album": {
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/6Hd2ZOJ8Lt8ePovI7ZFpTw"
+      },
+      "artists": [
+        {
+          "name": "Hebi",
+          "url": "https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7kZDgpf6ebA3dlgt0vdRv2"
+    },
+    {
+      "album": {
         "name": "ever",
         "url": "https://open.spotify.com/album/4G2EvEKyIDxXJyWVAWcGbV"
       },
@@ -55498,7 +55628,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 176601,
       "name": "Existence",
       "url": "https://open.spotify.com/track/7ApLCvjdvEzOr5O0yoic98"
@@ -58198,7 +58328,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 216824,
       "name": "Fate",
       "url": "https://open.spotify.com/track/4cK90VBvk8IPENfRF9biP6"
@@ -63318,6 +63448,28 @@
       "duration_ms": 177049,
       "name": "FOREVER (feat. Band Westwood)",
       "url": "https://open.spotify.com/track/1BmQmvlW3coN9kxzdWLhWz"
+    },
+    {
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "forever (feat. Manaka)",
+      "url": "https://open.spotify.com/track/5HbF4jFAK9YPMlqNjyoWym"
     },
     {
       "album": {
@@ -77763,7 +77915,7 @@
         },
         {
           "name": "weswes",
-          "url": "https://open.spotify.com/artist/0UrtYquIWcpcJGd0FBGAzw"
+          "url": "https://open.spotify.com/artist/7I4bBzx1loY8T6Oh8CNaxs"
         }
       ],
       "date_added": "2025-03-19",
@@ -91150,7 +91302,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 200160,
       "name": "If you're gonna hurt me like this",
       "url": "https://open.spotify.com/track/6UgImGl9nMY9Wo5ikFgDxH"
@@ -105580,7 +105732,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 168176,
       "name": "Like a dream",
       "url": "https://open.spotify.com/track/11B5zbjkAYFY5PSfNUXT4m"
@@ -110296,7 +110448,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 186352,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4U2skUMy8XYVPVgskKNeej"
@@ -116662,6 +116814,24 @@
       "duration_ms": 199021,
       "name": "Make You Shine",
       "url": "https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7"
+    },
+    {
+      "album": {
+        "name": "Make You Shine (English Version)",
+        "url": "https://open.spotify.com/album/2g3UC5FQKRrkNYaQw2zYm8"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199488,
+      "name": "Make You Shine - English Version",
+      "url": "https://open.spotify.com/track/3fJ5fp0kHq2FU4LX1cm9xT"
     },
     {
       "album": {
@@ -125730,7 +125900,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 228615,
       "name": "My Dream is Monochrome",
       "url": "https://open.spotify.com/track/6QIf5p89yzY6m6MIndOU8I"
@@ -136060,7 +136230,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 222444,
       "name": "On The Way To Meet You (feat. Able)",
       "url": "https://open.spotify.com/track/33vYsdGHSnz7wor690HGgn"
@@ -182671,6 +182841,24 @@
     },
     {
       "album": {
+        "name": "Villains Everywhere (Original Soundtrack) Part.2",
+        "url": "https://open.spotify.com/album/4rmJfZ8D2I26Md2TZN4hSy"
+      },
+      "artists": [
+        {
+          "name": "An Seonghun",
+          "url": "https://open.spotify.com/artist/509LWms7Nsj9TXZWpguCXC"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "That's Who You Are",
+      "url": "https://open.spotify.com/track/3RcwirFaBnl8i9NMphWwjv"
+    },
+    {
+      "album": {
         "name": "That's Why I Can't Talk About Love",
         "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
@@ -184084,7 +184272,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 210537,
       "name": "The Girl I Loved Back Then",
       "url": "https://open.spotify.com/track/0BLE1CP2olmOnaNb04LGIt"
@@ -187489,6 +187677,24 @@
     },
     {
       "album": {
+        "name": "There's no such thing as good love",
+        "url": "https://open.spotify.com/album/4qHpdWAZnc4iasjrsNneVm"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "There's no such thing as good love",
+      "url": "https://open.spotify.com/track/5U6oVGi4qQnektuU8xLv1i"
+    },
+    {
+      "album": {
         "name": "Eternal Memories",
         "url": "https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt"
       },
@@ -190102,7 +190308,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 199320,
       "name": "TIP TOE",
       "url": "https://open.spotify.com/track/65QEXobLqddjn9u2BHAv0c"
@@ -190846,7 +191052,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 203677,
       "name": "To the season we loved (feat. hwang beoyng hee)",
       "url": "https://open.spotify.com/track/3MPYSFhTSt4HC2jmEhiZ1B"
@@ -203348,7 +203554,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 198852,
       "name": "We\u2032ll be fine (Band Version)",
       "url": "https://open.spotify.com/track/5zEouLtErapLWkZjomopQX"
@@ -211854,6 +212060,24 @@
       "duration_ms": 166063,
       "name": "would u",
       "url": "https://open.spotify.com/track/2sl8bjoiWu7Wl3RKnhdPxL"
+    },
+    {
+      "album": {
+        "name": "Would You Hold My Hand?",
+        "url": "https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd"
+      },
+      "artists": [
+        {
+          "name": "E.ul",
+          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166994,
+      "name": "Would You Hold My Hand?",
+      "url": "https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV"
     },
     {
       "album": {
@@ -221394,6 +221618,24 @@
       "duration_ms": 213272,
       "name": "\ub9c8\uc220\ucc98\ub7fc",
       "url": "https://open.spotify.com/track/5C7aYvjiNxZu3xlIsYbGGI"
+    },
+    {
+      "album": {
+        "name": "\uc2e0\ub370\ub810\ub77c \uac8c\uc784 (Original Soundtrack) Pt.5 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0tilUhlI6rZ07d1D1EVtPi"
+      },
+      "artists": [
+        {
+          "name": "Lee Dong-Hoon",
+          "url": "https://open.spotify.com/artist/2CZxZ5k6bNDEb1BiKVz1tK"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "\ub9c8\uc74c\uc774 \ub9c8\uc74c\uc5d0 \ub2ff\uc544",
+      "url": "https://open.spotify.com/track/7vVAEyp2HiGMfu6Vzp4TCe"
     },
     {
       "album": {

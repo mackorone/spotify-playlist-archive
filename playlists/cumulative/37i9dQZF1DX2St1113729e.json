@@ -7781,6 +7781,24 @@
     },
     {
       "album": {
+        "name": "Pinterest",
+        "url": "https://open.spotify.com/album/1o7ePORsRA5hIAmWtByTsi"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101184,
+      "name": "Pinterest",
+      "url": "https://open.spotify.com/track/05eDpT4y4Esf3MoPDnulCc"
+    },
+    {
+      "album": {
         "name": "PINTEREST CRUSH",
         "url": "https://open.spotify.com/album/2Jap1w2j0RoVoEsPiB3bDb"
       },

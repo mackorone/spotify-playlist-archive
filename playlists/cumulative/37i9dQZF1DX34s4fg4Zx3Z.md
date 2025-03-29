@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Hanzi
 
-2,013 songs - 4 day 22 hr 1 min
+2,014 songs - 4 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1749,6 +1749,7 @@
 | [Vì em là duy nhất](https://open.spotify.com/track/2V370jFnynChJBwaDk6d2k) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o), [Gold K](https://open.spotify.com/artist/7KyS368MxKIYPEx1YBkOsX), [VM Style](https://open.spotify.com/artist/7aPgLsWH1IxOWRRPub9X9y) | [Vì em là duy nhất](https://open.spotify.com/album/39Me1OG6wk50sBhcdodYFY) | 2:14 | 2023-01-06 | 2023-02-23 |
 | [Vì em mà…?](https://open.spotify.com/track/136b5YGXODlCzIhX0Dgn5F) | [Khang Trường](https://open.spotify.com/artist/6F1ke9aZ782shXLjuGldaO), [thainguyen](https://open.spotify.com/artist/66xsY6CmYYV2zHkZSNrPQd), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Vì em mà…?](https://open.spotify.com/album/5TJ7st3wcimXtwlZlo988d) | 4:27 | 2024-04-04 | 2024-09-06 |
 | [Vì Nếu Yêu Em Anh Sẽ](https://open.spotify.com/track/1yK2weemdIMdHqrhW1fIXq) | [YLing](https://open.spotify.com/artist/5uFx186LoZqUu2oo7OakjJ), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Vì Nếu Yêu Em Anh Sẽ](https://open.spotify.com/album/6MMrCcPaMOik4lS6wC8pat) | 4:10 | 2022-04-07 | 2022-04-13 |
+| [Vì Sao](https://open.spotify.com/track/6JdCp20KzJecepAgZqCIGQ) | [Nguyễn Lagi](https://open.spotify.com/artist/5kVIkOXlTuqNdw5cDubv44) | [Vì Sao](https://open.spotify.com/album/5ZCN9fNeAkQLsVgHKwKX85) | 2:44 | 2025-03-27 |  |
 | [Vì Sao Em Lại Thức Đêm](https://open.spotify.com/track/0333AP2YyQ9x3IDp809S5O) | [FreshlyRC](https://open.spotify.com/artist/6WMNTpBmbvK4a7yikMwZDn) | [Vì Sao Em Lại Thức Đêm](https://open.spotify.com/album/4OkeDpULcrXzjTi20uPoW1) | 2:31 | 2023-03-17 | 2023-04-01 |
 | [Vì Sao Em Đi](https://open.spotify.com/track/1F8J0ccYNaDPznNjLKZ4Yz) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Vì Sao Em Đi](https://open.spotify.com/album/6hctpY6wF9PB6VUhPcyiTx) | 3:26 | 2023-02-15 | 2023-03-16 |
 | [Vì Ta Giống Nhau](https://open.spotify.com/track/0U5bXDm522NFxgbalL1qXn) | [DATB](https://open.spotify.com/artist/20awixItwowpS8dY2wBGRN), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [Vì Ta Giống Nhau](https://open.spotify.com/album/1DCEycd7x9YwMpVUN5wEbp) | 3:07 | 2022-06-22 | 2022-08-01 |

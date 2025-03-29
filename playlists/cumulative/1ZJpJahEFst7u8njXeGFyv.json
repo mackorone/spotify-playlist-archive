@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 205337,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/6jJzqzB4IYzlm04dlqnc0l"
@@ -6702,7 +6702,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 162217,
       "name": "Le tr\u00e9sor (Piano Version) - Radio Edit",
       "url": "https://open.spotify.com/track/3qgQbFCtyYwJuXLKm85WSD"
@@ -8136,7 +8136,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 126250,
       "name": "Mozart Zauberfl\u00f6te Lullaby (From Die Zauberfl\u00f6te, K. 620: Der Vogelf\u00e4nger bin ich ja, Arr. for Piano by Jan-Peter Kl\u00f6pfel)",
       "url": "https://open.spotify.com/track/2zZnappB3Lg4edXzKI72Qi"
@@ -8700,6 +8700,32 @@
       "duration_ms": 497640,
       "name": "Nocturne in E-Flat Major, Op. 33 No. 1",
       "url": "https://open.spotify.com/track/3m2hA33bbCJMO3lFQx7KsX"
+    },
+    {
+      "album": {
+        "name": "Nocturne in E-Flat Major, Op. 9, No. 2",
+        "url": "https://open.spotify.com/album/03BGb4cBD5kWEg8Dng7pFs"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247453,
+      "name": "Nocturne in E-Flat Major, Op. 9, No. 2",
+      "url": "https://open.spotify.com/track/5vHdzeEjuK5ZQnOyFqUTDH"
     },
     {
       "album": {
@@ -9680,7 +9706,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 216853,
       "name": "Passacaglia",
       "url": "https://open.spotify.com/track/0RAKUbl5xv1S9hNKjZEEGM"
@@ -10110,6 +10136,24 @@
       "duration_ms": 403573,
       "name": "Piano Quartet in G Minor, K.478: II. Andante",
       "url": "https://open.spotify.com/track/3kAH4jSnl5IQDyRPusqDry"
+    },
+    {
+      "album": {
+        "name": "Piano Sonata in A major",
+        "url": "https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu"
+      },
+      "artists": [
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Piano Sonata in A major",
+      "url": "https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF"
     },
     {
       "album": {
@@ -12006,7 +12050,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 61293,
       "name": "SnowFlakes",
       "url": "https://open.spotify.com/track/2NkwxrhxaiSxDTCsU40aWU"
@@ -12046,6 +12090,32 @@
       "duration_ms": 171349,
       "name": "Solace Waltz",
       "url": "https://open.spotify.com/track/6ROdmcUcemAkfrf5gQIFe9"
+    },
+    {
+      "album": {
+        "name": "Solitude (Arr. for Violin and Piano by Esther Abrami)",
+        "url": "https://open.spotify.com/album/1eTpuw9e8URQNh4hFGWyFU"
+      },
+      "artists": [
+        {
+          "name": "Rita Strohl",
+          "url": "https://open.spotify.com/artist/6jfL9QnoNFBdO1Dr0QPlWY"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Kim Barbier",
+          "url": "https://open.spotify.com/artist/4rBenz5sFjZJ0IBVELwTNw"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229971,
+      "name": "Solitude (Arr. for Violin and Piano by Esther Abrami)",
+      "url": "https://open.spotify.com/track/5EwjZdBsOEhMY0VHZOjPda"
     },
     {
       "album": {
@@ -12980,7 +13050,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 247813,
       "name": "Suite in B-Flat Major, HWV 434: IV. Menuet (Arr. for Guitar by Michael Lewin)",
       "url": "https://open.spotify.com/track/6rfl68dXH977FtbsNft3sm"
@@ -13002,7 +13072,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 110666,
       "name": "Suite in D Minor: I. Arpeggiata (Arr. for Guitar by Michael Lewin)",
       "url": "https://open.spotify.com/track/4iKDC45B59uK5wnbhT89xS"
@@ -14520,7 +14590,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 131695,
       "name": "Time",
       "url": "https://open.spotify.com/track/7rrz6YoiyKmWJtxLxLtBUb"
@@ -14742,6 +14812,24 @@
       "duration_ms": 186693,
       "name": "Tristesse",
       "url": "https://open.spotify.com/track/5LZBJNHFun1mKDsDUZSA8b"
+    },
+    {
+      "album": {
+        "name": "Triune",
+        "url": "https://open.spotify.com/album/3LaLRNRmGPt921fnnjT2pY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141856,
+      "name": "Triune",
+      "url": "https://open.spotify.com/track/4smC2A5nwdViwEDDz7s5BK"
     },
     {
       "album": {

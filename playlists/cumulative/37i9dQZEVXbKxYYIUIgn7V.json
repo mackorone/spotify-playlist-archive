@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 103817,
       "name": "36 Grad - Hoodtrap",
       "url": "https://open.spotify.com/track/6RCKTCkQ9aCeRQVrzN4ba1"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 201231,
       "name": "Aldan\u0131r\u0131m",
       "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
@@ -3706,6 +3706,28 @@
       "duration_ms": 173226,
       "name": "Birknbam",
       "url": "https://open.spotify.com/track/0GPU2Ho9l6yt9A0iFdW8lQ"
+    },
+    {
+      "album": {
+        "name": "Birthday Sex (feat. Jeremih) [Levi Mix]",
+        "url": "https://open.spotify.com/album/48WrgU50NKEsOB9TFIlbiw"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146973,
+      "name": "Birthday Sex (feat. Jeremih) - Levi Mix",
+      "url": "https://open.spotify.com/track/334RaRoiRG89vt0LCEZ6L0"
     },
     {
       "album": {
@@ -6450,7 +6472,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 141573,
       "name": "DARK ARIA <LV2>",
       "url": "https://open.spotify.com/track/0qgqxwyJGlmojr9R2QjaPv"
@@ -12764,7 +12786,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 127031,
       "name": "HUQQA",
       "url": "https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl"
@@ -13434,7 +13456,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 219466,
       "name": "Ich bin ich (Wir sind wir)",
       "url": "https://open.spotify.com/track/0b0yqfrtoZCaO6X9uYOUTh"
@@ -19720,7 +19742,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 183005,
       "name": "M\u00e4rchenwald",
       "url": "https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK"
@@ -25957,6 +25979,24 @@
     },
     {
       "album": {
+        "name": "Sternhagelvoll",
+        "url": "https://open.spotify.com/album/7rULjownqUhEsMcMjdUDYm"
+      },
+      "artists": [
+        {
+          "name": "Micha Schue",
+          "url": "https://open.spotify.com/artist/3nw5ahAbDHYnlqBQUF3Sn4"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170497,
+      "name": "Sternhagelvoll",
+      "url": "https://open.spotify.com/track/2HTnwbE46KHPC1GHvX60NK"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -26550,7 +26590,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 172952,
       "name": "Sweet Dreams (feat. Miguel)",
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
@@ -30558,7 +30598,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 290560,
       "name": "Wir sind am Leben",
       "url": "https://open.spotify.com/track/4BUyrU4rOlZeUfexP1COs2"

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: After
 
-3,112 songs - 7 day 3 hr 56 min
+3,113 songs - 7 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1832,6 +1832,7 @@
 | [N o o N](https://open.spotify.com/track/7nokQP7wb4hNR0OCkgafyl) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:19 | 2022-11-30 | 2023-01-12 |
 | [NA NA](https://open.spotify.com/track/0VWBwmS1FZ5TssMF74Fzj6) | [Ethansroom](https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne) | [NA NA](https://open.spotify.com/album/0bduvVJB9XAfnvha6V6YV5) | 2:46 | 2024-01-10 | 2024-01-25 |
 | [Nail Art](https://open.spotify.com/track/2UyR8bqestm4JvcOp4OtPT) | [Aria Wood](https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK) | [Nail Art](https://open.spotify.com/album/6sEEf3MmIftWCbTAep3uai) | 2:46 | 2023-03-22 | 2023-05-11 |
+| [Naive](https://open.spotify.com/track/6U5MOnKglGPSwGaJocFn67) | [LUELLA](https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9) | [Naive](https://open.spotify.com/album/7pSMjtGrXhS5URH9TxYFSO) | 3:07 | 2025-03-28 |  |
 | [Name Something Better](https://open.spotify.com/track/68z2QuqZEbWWgx6SSlAKc0) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Name Something Better](https://open.spotify.com/album/6ob6oSOrj0lFNcktWFkETV) | 4:01 | 2022-03-16 | 2023-05-11 |
 | [nancy drew](https://open.spotify.com/track/6ISDmzhKgOVVYrBhnudqyX) | [splendi](https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3) | [nancy drew](https://open.spotify.com/album/484SgfzCso9zmbfUAaPCcx) | 2:16 | 2022-09-06 | 2022-10-20 |
 | [Nashville, Again](https://open.spotify.com/track/2LnVG6B1AgZnddQOEafG5I) | [Razor Braids](https://open.spotify.com/artist/0MjyFpYWU1nBFKYoZ4UpvT) | [Nashville, Again + Buddy Holly](https://open.spotify.com/album/0OILrvVk9EEoiID3HDUhE0) | 3:53 | 2023-01-11 | 2023-02-16 |

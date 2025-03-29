@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,269,823 likes - 200 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,269,991 likes - 200 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Distance](https://open.spotify.com/track/2kI2g20VpLziryb7552XS7) | [NRMNT](https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA) | [Distance](https://open.spotify.com/album/1oxXB0erXtlTfmJ9YwIndH) | 3:08 |
 | 200 | [Chabo roof party](https://open.spotify.com/track/5VYpujj2K9CVKEq1Ct8vFe) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Chabo roof party](https://open.spotify.com/album/1Lr7OWBRmtc1sqETKJD57K) | 2:46 |
 
-Snapshot ID: `Z9172AAAAAALcDwRXCA6FvfXbcdZZVqq`
+Snapshot ID: `Z+Ye2wAAAAARA9mBUdodCk7+9mVL8o3q`

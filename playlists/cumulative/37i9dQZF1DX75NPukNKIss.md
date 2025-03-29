@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Cash Cobain
 
-107 songs - 5 hr 0 min
+110 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dirty Diana](https://open.spotify.com/track/5okSTJQJ6qWVG0WsvNGwZZ) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:36 | 2025-01-24 | 2025-02-22 |
 | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/track/26oKe28Gqyp9uhRhWNAvqm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:22 | 2024-12-26 | 2025-01-11 |
 | [Dunk Contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 | 2025-02-28 |  |
+| [EGO](https://open.spotify.com/track/1JTikyvsDYKvUFndgJASFW) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 1:55 | 2025-03-28 |  |
 | [EST or PST](https://open.spotify.com/track/3KqQMOSEFNfPZ3FAYLld3I) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [EST or PST](https://open.spotify.com/album/7faGHQHOhuK5nhJVR6CavI) | 3:05 | 2024-10-25 |  |
 | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 | 2024-10-25 |  |
 | [Fight For Love \(with STAR BANDZ\)](https://open.spotify.com/track/6HQznanOMMtCmRMK0YjNz5) | [Lil king](https://open.spotify.com/artist/0CzagEF5LurOMRf4aUqBBe), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Fight For Love \(with STAR BANDZ\)](https://open.spotify.com/album/05783EQnZMI0cEmRdJLUEa) | 2:09 | 2025-03-19 |  |
@@ -95,6 +96,8 @@
 | [slizzyhunchodon](https://open.spotify.com/track/4P3s7E8Qq0D6sjfqiy7TxJ) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 3:24 | 2024-10-25 |  |
 | [SUMN PRETTY](https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SUMN PRETTY](https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn) | 2:38 | 2024-10-25 |  |
 | [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 | 2024-11-29 |  |
+| [Sundress \(with Bay Swag\)](https://open.spotify.com/track/1qMNISVgQ05XfjFLj7wRCb) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Sundress](https://open.spotify.com/album/1AyhqvL8aCOP8sTpwfk4jC) | 2:04 | 2025-03-28 |  |
+| [Superstar Status](https://open.spotify.com/track/3ZhzMJnMGNkUT6qc9XpvkN) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Superstar Status](https://open.spotify.com/album/3KNL12GpIKkM0Jt3zM6DDZ) | 2:56 | 2025-03-28 |  |
 | [swag it!](https://open.spotify.com/track/09Hd4FJEuSAWVvv4W152Wg) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [swag it!](https://open.spotify.com/album/2LBEpxENc2U91CV2bHA8bP) | 3:17 | 2025-02-28 |  |
 | [swag it! \- Remix](https://open.spotify.com/track/7u8eXlHIWOLGqOjp6XnM3x) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 3:11 | 2024-10-25 |  |
 | [Tat My Name](https://open.spotify.com/track/5ctdeiIEDzeYxeKAPmTU9y) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Read This When You Wake Up](https://open.spotify.com/album/12jOMUVgZAPZefVHeivVrL) | 3:04 | 2024-12-13 |  |

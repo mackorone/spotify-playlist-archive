@@ -1515,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "DAPA",
+        "url": "https://open.spotify.com/album/7F8J06qBqaRKR2s4X3Eibo"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "DAPA",
+      "url": "https://open.spotify.com/track/76tTE0enlalydXfEBeeQpX"
+    },
+    {
+      "album": {
         "name": "Dime (Toy Selectah Cumbia Remix)",
         "url": "https://open.spotify.com/album/69ZTclRzkCfvGrSsSohSEA"
       },
@@ -5146,6 +5164,32 @@
       "duration_ms": 121880,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+    },
+    {
+      "album": {
+        "name": "SONIDERO",
+        "url": "https://open.spotify.com/album/7esSMUEhSbr30LElTZY63Z"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Sonido La Changa",
+          "url": "https://open.spotify.com/artist/6tJNsGnrDvwoMmwv18wmUK"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206605,
+      "name": "SONIDERO",
+      "url": "https://open.spotify.com/track/4yiSoPgXRTtMeGaoN7QTMP"
     },
     {
       "album": {

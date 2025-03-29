@@ -4300,12 +4300,12 @@
           "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
         },
         {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
-        },
-        {
           "name": "Organize",
           "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
         }
       ],
       "date_added": "2025-01-25",
@@ -12689,6 +12689,28 @@
     },
     {
       "album": {
+        "name": "Ke\u015fke",
+        "url": "https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        },
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "Ke\u015fke",
+      "url": "https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n"
+    },
+    {
+      "album": {
         "name": "KHRBR",
         "url": "https://open.spotify.com/album/4NxhH37smnjnfEs0Cesdk5"
       },
@@ -13014,7 +13036,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 210840,
       "name": "Kumral\u0131m",
       "url": "https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx"
@@ -17036,7 +17058,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 153999,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
@@ -21146,7 +21168,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 126000,
       "name": "Yanl\u0131\u015flarla Kar\u015f\u0131la\u015ft\u0131m",
       "url": "https://open.spotify.com/track/1AL39PMHvgw979PFKiEOhb"
@@ -21294,7 +21316,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 263183,
       "name": "Yar\u0131 \u00c7\u0131plak",
       "url": "https://open.spotify.com/track/5D6KCRhCyBuzO4EMO0B0Yf"
@@ -22466,7 +22488,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 277166,
       "name": "\u00c7\u00f6zemezsin",
       "url": "https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P"

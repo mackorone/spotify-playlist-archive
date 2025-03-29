@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "EDEN",
+        "url": "https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202240,
+      "name": "EDEN",
+      "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
+    },
+    {
+      "album": {
         "name": "Symphony Sessions",
         "url": "https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6"
       },
@@ -4853,6 +4871,24 @@
     },
     {
       "album": {
+        "name": "MDE",
+        "url": "https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm"
+      },
+      "artists": [
+        {
+          "name": "Grace Davies",
+          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287837,
+      "name": "MDE",
+      "url": "https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI"
+    },
+    {
+      "album": {
         "name": "Heathers: The Musical (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
       },
@@ -5821,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212411,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt"
+    },
+    {
+      "album": {
         "name": "putting a spin on somebody that i used to know",
         "url": "https://open.spotify.com/album/0CCl0omkYtDTAYZ5dhy4W0"
       },
@@ -6656,7 +6710,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 169423,
       "name": "Star Shaped Baby",
       "url": "https://open.spotify.com/track/7ybbe0cqxwhz0jhycOVOnJ"
@@ -6692,7 +6746,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 245504,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
@@ -7994,7 +8048,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 143267,
       "name": "We Say Goodbye",
       "url": "https://open.spotify.com/track/5YhYzgnAgRj1sKXLqcaM6N"

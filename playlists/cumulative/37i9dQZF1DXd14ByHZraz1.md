@@ -2,7 +2,7 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
+> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Juicce
 
 230 songs - 12 hr 0 min
 

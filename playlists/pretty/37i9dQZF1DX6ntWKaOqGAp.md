@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Survive Said The Prophet
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,796 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,821 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 54 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 |
 | 55 | [残像の愛し方](https://open.spotify.com/track/6QbOl4gx6PZyOZWW9A5bDt) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [残像の愛し方](https://open.spotify.com/album/579rttj1Eu1EtPbLZBbgpO) | 4:37 |
 | 56 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 57 | [Yume no Uchuryoko](https://open.spotify.com/track/42cypOSRjFBSi2Gw891mgt) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [THANK YOU SO MUCH](https://open.spotify.com/album/2hQZSQeznQwQaAUFBRyLj6) | 4:43 |
+| 57 | [Yume no Uchuryoko](https://open.spotify.com/track/42cypOSRjFBSi2Gw891mgt) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/2hQZSQeznQwQaAUFBRyLj6) | 4:43 |
 | 58 | [Kirifuda \(feat\. TAKUMA from 10\-FEET\)](https://open.spotify.com/track/5vL44zUh8BW1BNJsE5TV45) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [Wabi Sabi \-Sabi\-](https://open.spotify.com/album/4rXzqtHbEYt1UyMQjFLRCR) | 2:29 |
 | 59 | [YAOYOROZ](https://open.spotify.com/track/0bCVwbIEjcPuCKX8J9a0if) | [88kasyo junrei](https://open.spotify.com/artist/58oeXVLS6nnwZNXeBVCBF2) | [YAOYOROZ](https://open.spotify.com/album/4vuWytMuqJS3goCd8SnMn4) | 4:03 |
 | 60 | [Sayonara City of lights](https://open.spotify.com/track/5S0ZMsPbCi9FxVuvSvcOOE) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Sayonara City of lights](https://open.spotify.com/album/7gOiMPMEhfM1IAQ7Pk3t2f) | 5:08 |

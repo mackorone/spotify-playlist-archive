@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Lagum
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Bruna Magalhães
 
-797 songs - 1 day 15 hr 47 min
+799 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Gente Se Acostuma](https://open.spotify.com/track/15Kx5YfYgqEY85d2IQwsxJ) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Gente Se Acostuma](https://open.spotify.com/album/2XN3XQ0iGeurRIJBdDG6rM) | 2:50 | 2024-10-11 | 2024-12-24 |
 | [A Gente Se Dá Bem](https://open.spotify.com/track/7dLpa10WnGum4uJHF3aP6e) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Gonti](https://open.spotify.com/album/3C7oQQcsRM47RyaSfUGkb6) | 2:46 | 2024-11-08 | 2025-01-18 |
 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 | 2024-02-02 | 2025-01-25 |
-| [A LUZ NO FIM DO TÚNEL](https://open.spotify.com/track/6AuAeeY9NgQKp9Mo1BKgcA) | [Bárbara Grando](https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F) | [VASO ALQUÍMICO](https://open.spotify.com/album/5fW6zQaWR2a7BKspDKcJuC) | 3:05 | 2025-01-31 |  |
+| [A LUZ NO FIM DO TÚNEL](https://open.spotify.com/track/6AuAeeY9NgQKp9Mo1BKgcA) | [Bárbara Grando](https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F) | [VASO ALQUÍMICO](https://open.spotify.com/album/5fW6zQaWR2a7BKspDKcJuC) | 3:05 | 2025-01-31 | 2025-03-29 |
 | [A Melhor Coisa do Mundo](https://open.spotify.com/track/7dg73Cj0F0MAioMwmoOmCN) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [A Melhor Coisa do Mundo](https://open.spotify.com/album/0yHKDBkFM4Er1dQ0yoGKUv) | 2:31 | 2023-01-20 | 2023-05-27 |
 | [A Tal Canção Pra Lua \- Microfonado](https://open.spotify.com/track/3wBAFUmySuNroiqji8Zdbx) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Microfonado](https://open.spotify.com/album/7x6b3yxltKswwR4CykJA6C) | 3:28 | 2024-11-08 | 2025-02-01 |
 | [A Vida Não Erra](https://open.spotify.com/track/1vT7MW3pMQfYC8ZsVbLIGD) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [A Vida Não Erra](https://open.spotify.com/album/71rL4hsd3a7mI0qQVNcfVM) | 3:05 | 2022-05-13 | 2022-07-29 |
@@ -603,6 +603,7 @@
 | [Romance](https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X) | [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4) | [PROIBIDO NÃO GOSTAR](https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu) | 3:04 | 2024-07-05 | 2024-08-10 |
 | [Romântica Demais](https://open.spotify.com/track/1Rvzb9oE2B2gjdPs0P6npZ) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Romântica Demais](https://open.spotify.com/album/7JZHxFyLvQZe5dlGuXp7cE) | 3:00 | 2023-05-05 | 2023-06-10 |
 | [Romã](https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Romã](https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR) | 3:14 | 2023-12-08 | 2024-07-02 |
+| [ROSA](https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl) | [Marina Gold](https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI) | [ANEMOIA](https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE) | 3:32 | 2025-03-28 |  |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-09-22 | 2023-11-18 |
 | [Sacada](https://open.spotify.com/track/4e64LuNXrIJ4M788FG79kK) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sacada](https://open.spotify.com/album/5E6CAgzHkHTejiQSaQhLe7) | 2:41 | 2023-11-10 | 2023-12-16 |
 | [Samba Azul](https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Samba Azul](https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo) | 3:02 | 2023-10-13 | 2024-07-27 |
@@ -670,6 +671,7 @@
 | [Só Respira](https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [LIVRE](https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr) | 3:15 | 2023-12-22 | 2024-03-23 |
 | [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 | 2024-07-26 |  |
 | [Só Sinto](https://open.spotify.com/track/7pRLX3MpPGEGBqjsKGZjsK) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 3:25 | 2024-09-17 | 2024-11-16 |
+| [Tanto](https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Tanto](https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1) | 3:06 | 2025-03-28 |  |
 | [Tanto Tanto](https://open.spotify.com/track/5ACvqBkha9bdpX7A5z1OS4) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [Tanto Tanto](https://open.spotify.com/album/42XMiMTFgFRQTo5Mf2oiE2) | 2:46 | 2024-10-04 | 2025-01-18 |
 | [Tarde da Noite](https://open.spotify.com/track/70mYwaFqWLYywSVPcCVynb) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [Tarde da Noite](https://open.spotify.com/album/3rBB9Rfs8jqN9YPOmisGWG) | 3:18 | 2023-08-18 | 2023-09-02 |
 | [Taça De Vidro \- Acústico](https://open.spotify.com/track/2Z8UD0wNevn16bEClkD6ae) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Acústico Ana Gabriela](https://open.spotify.com/album/2iDfAGGJidhV0bKMpFpLzn) | 2:55 | 2023-11-17 | 2023-12-09 |
@@ -740,7 +742,7 @@
 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 | 2023-11-24 | 2024-04-10 |
 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 | 2022-05-13 | 2022-10-11 |
 | [Um pouco mais](https://open.spotify.com/track/61kXefXv98st5IDfzKWDQx) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [Um pouco mais](https://open.spotify.com/album/4agM9MbPpssU0zcJCf5jXs) | 2:07 | 2024-08-16 | 2024-11-16 |
-| [UM VULCÃO EM MARTE](https://open.spotify.com/track/4GnC8aSeNxG56C3RAuXyTy) | [Felipe Costta](https://open.spotify.com/artist/3xIsNVW6knJBYpfYpz1gOX) | [UM VULCÃO EM MARTE](https://open.spotify.com/album/7h8eWRchtpQwJxGabmiGTi) | 4:03 | 2025-02-07 |  |
+| [UM VULCÃO EM MARTE](https://open.spotify.com/track/4GnC8aSeNxG56C3RAuXyTy) | [Felipe Costta](https://open.spotify.com/artist/3xIsNVW6knJBYpfYpz1gOX) | [UM VULCÃO EM MARTE](https://open.spotify.com/album/7h8eWRchtpQwJxGabmiGTi) | 4:03 | 2025-02-07 | 2025-03-29 |
 | [Um Xodó](https://open.spotify.com/track/504bzRVfTMTpCb3SL80M9E) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Um Xodó](https://open.spotify.com/album/3tp02Jsj0BjX0E7x3yztCj) | 3:23 | 2023-04-07 | 2023-05-27 |
 | [Um, Dois, Três](https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Se O Meu Peito Fosse O Mundo \(Lado A\)](https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4) | 2:57 | 2023-10-27 | 2023-11-25 |
 | [universo de coisas que eu desconheço](https://open.spotify.com/track/4f7phfIoOpIhSI8tIK11f6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [universo de coisas que eu desconheço](https://open.spotify.com/album/4mFGakNOCGgZxiXbfauonk) | 3:18 | 2022-11-11 | 2023-08-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,077,746 likes - 300 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077,889 likes - 300 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,8 +267,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 257 | [Still Falling For You \- Live](https://open.spotify.com/track/148ogHFRdVmKcYJV04pdIK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Acoustic Hits](https://open.spotify.com/album/1LWrSkK04xdY2L4sVuJZZx) | 4:03 |
 | 258 | [Take On Me \- 2017 Acoustic](https://open.spotify.com/track/74vMY1UdmXNtHcTMaVUoQl) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(2017 Acoustic\)](https://open.spotify.com/album/6g26qg7JoIOsXZzU8yVyI9) | 3:04 |
 | 259 | [I Wanna Dance with Somebody \- Acoustic](https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [I Wanna Dance with Somebody \(Acoustic\)](https://open.spotify.com/album/6uD5hZuQwWjcWmmGSuEUH3) | 3:31 |
-| 260 | [Strip That Down \- Acoustic](https://open.spotify.com/track/6N8bOypJtAzJp8w2LF8cWG) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Strip That Down \(Acoustic\)](https://open.spotify.com/album/7JaiPBAmh7YLDDte33Gvcc) | 3:04 |
-| 261 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
+| 260 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
+| 261 | [Strip That Down \- Acoustic](https://open.spotify.com/track/6N8bOypJtAzJp8w2LF8cWG) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Strip That Down \(Acoustic\)](https://open.spotify.com/album/7JaiPBAmh7YLDDte33Gvcc) | 3:04 |
 | 262 | [Let Me Love You](https://open.spotify.com/track/6R968luce1GlHOJC4OWtlG) | [Drew Sycamore](https://open.spotify.com/artist/7I21SZUgGVWkisvbwqoEnG) | [Let Me Love You](https://open.spotify.com/album/0X9rBMMnumL0xy7YyRKHw2) | 3:32 |
 | 263 | [If You're Not the One](https://open.spotify.com/track/1GR048FTHqQeSuiP1qszT3) | [Kyle Juliano](https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5) | [If You're Not the One](https://open.spotify.com/album/7sYhnPHNLTUaZ77lhXnbGd) | 3:55 |
 | 264 | [Mr\. Jones \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/0pjOjoHMJrerHhiXNRs3GK) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \- Live From New York](https://open.spotify.com/album/1M1UcMfqgBkjy9FmWe4u5S) | 5:17 |

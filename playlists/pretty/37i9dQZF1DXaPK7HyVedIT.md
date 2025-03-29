@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Zerb, Ape Drums, Jeremih
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,904 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,007 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 14 | [Momentum](https://open.spotify.com/track/6m4HjNrsMa2q0dmL0hQ3Yu) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [Momentum](https://open.spotify.com/album/6UAmDew1Ak8S1hD1cCReQY) | 2:46 |
 | 15 | [Bacilando](https://open.spotify.com/track/4n09v7GgxwrddyFYpT3xJ8) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Bacilando](https://open.spotify.com/album/4NAKAQ39iDgxXEF2lDKmzF) | 2:50 |
 | 16 | [Show Me Love](https://open.spotify.com/track/5jjNxpM5g6uxPddY9EslF2) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Show Me Love](https://open.spotify.com/album/5SEg9M3duP0tCbrxnzWugH) | 3:35 |
-| 17 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
+| 17 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 18 | [Good 2 Me](https://open.spotify.com/track/5usAGjPHCAYJplKub41jnr) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Good 2 Me](https://open.spotify.com/album/0TMJfUjQ01xlLNJOHm323M) | 2:58 |
 | 19 | [Connected](https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x) | [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Connected](https://open.spotify.com/album/27uRexjrQMOashAfxZuCM0) | 2:25 |
 | 20 | [All Right](https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [All Right](https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi) | 5:19 |

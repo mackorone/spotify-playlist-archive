@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Tonton GIMS
+> Du Congo, au monde\. 🌍 Photo: Tantine Gaëlle et Tonton Naza
 
-557 songs - 1 day 8 hr 1 min
+559 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ba Koti](https://open.spotify.com/track/6CbDfWbO76SoXmiGj2V01w) | [DYNAMICTHECOOLKID](https://open.spotify.com/artist/7sLYoyyIgfb4wxx76SalS2), [Shotea](https://open.spotify.com/artist/5f5MAEFbc1NIKsPA4XePXS) | [Ba Koti](https://open.spotify.com/album/2X9h36btJkpeFwlcYVgoQz) | 3:39 | 2022-06-30 | 2022-09-03 |
 | [Ba zoba](https://open.spotify.com/track/6Gu4tDlGVj9FSWCbPcwLo3) | [Les 7 Commandos](https://open.spotify.com/artist/5Uf1Vrge0stZdu6X08zxqJ), [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Ba zoba](https://open.spotify.com/album/48irBPBUAgsGiWByUeQ504) | 5:29 | 2023-08-18 | 2023-11-18 |
 | [Bababa](https://open.spotify.com/track/1wE89iLKbmFgFDg2eXHjbB) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Bababa](https://open.spotify.com/album/21IiEYSwxh1wAMM11zplOS) | 2:29 | 2024-09-27 | 2024-11-23 |
-| [Baby Boo](https://open.spotify.com/track/5qoIidnWnD9y8kvBSu15Rb) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED), [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Baby Boo](https://open.spotify.com/album/1iRNt5807C5qnxCFTo4JIg) | 3:20 | 2024-11-29 |  |
+| [Baby Boo](https://open.spotify.com/track/5qoIidnWnD9y8kvBSu15Rb) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED), [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Baby Boo](https://open.spotify.com/album/1iRNt5807C5qnxCFTo4JIg) | 3:20 | 2024-11-29 | 2025-03-29 |
 | [Baby mama](https://open.spotify.com/track/1UcmxzS6KR1L1RE3AZAjJP) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Baby mama](https://open.spotify.com/album/5X4KsFChVF9Xwn7URUP5iQ) | 2:56 | 2024-10-25 | 2025-02-15 |
 | [Baby Wine](https://open.spotify.com/track/0Dqj6jP9aqvSYqK3zj4kWR) | [Meydo](https://open.spotify.com/artist/0uc8QPX8AsA5EklYdQIB1u) | [Baby Wine](https://open.spotify.com/album/4DN0TGscxdGGbU6wQlYxKX) | 3:16 | 2022-09-02 | 2023-03-18 |
 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 | 2023-06-30 | 2024-08-24 |
@@ -116,7 +116,7 @@
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 | 2023-06-29 |
 | [Coeur moderne](https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Gomme, Vol\. 1](https://open.spotify.com/album/1f3mA2NLEXe6asrUMQbWRL) | 4:37 | 2023-02-17 | 2023-03-11 |
 | [Comme je suis \- Bonus](https://open.spotify.com/track/6AkRqxKsks8tf0fylxPV61) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/6HKAdvdWNEkOFpdGF1fd4G) | 2:46 | 2024-03-01 | 2024-05-18 |
-| [Comme moi](https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Comme moi](https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT) | 2:28 | 2025-02-07 |  |
+| [Comme moi](https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Comme moi](https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT) | 2:28 | 2025-02-07 | 2025-03-29 |
 | [Congo Blinders](https://open.spotify.com/track/69SH3kgTG4ocWctPouAWSP) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Ekoya](https://open.spotify.com/album/5rCvajgZQMkTJoHhiGZxgb) | 2:39 | 2025-01-31 | 2025-02-22 |
 | [CORTÈGE \(feat\. Fally Ipupa\)](https://open.spotify.com/track/0VXc8XprBLioRER7VAKo0f) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:54 | 2024-04-12 | 2024-04-19 |
 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 | 2025-02-12 |
@@ -166,6 +166,7 @@
 | [Elengi](https://open.spotify.com/track/0jEuWbCyqhuWqPRUbQR4AD) | [Ocean kalume](https://open.spotify.com/artist/3FnNBWD11gDMSJyNrmKXOZ) | [Elengi](https://open.spotify.com/album/6ZCXzjrFhU3imb09CzIe46) | 6:55 | 2025-02-21 | 2025-03-01 |
 | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf) | 4:05 | 2022-06-30 | 2022-09-17 |
 | [Elle est belle](https://open.spotify.com/track/74f8jlTIEnXQIAb65eFfKI) | [DJ Oxii Supreme](https://open.spotify.com/artist/4JDi4kQ0P3pyEd5NZYPZSd), [Papa Kéké](https://open.spotify.com/artist/17rUGpzVOCSRXVNh7z1Y2u) | [Elle est belle](https://open.spotify.com/album/1RVZOtCdH7Is7IcDQqy003) | 1:39 | 2024-12-13 | 2025-02-15 |
+| [Elle Kiff](https://open.spotify.com/track/6dDZzcTOiKQyFugebf8rYD) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Elle Kiff](https://open.spotify.com/album/6nFqQc54SZbB9AA3Y5ey4m) | 2:15 | 2025-03-28 |  |
 | [Elle veut](https://open.spotify.com/track/5BBb70qCE08OkPvRlhz89a) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Hybride](https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK) | 2:20 | 2024-12-06 |  |
 | [Eloko](https://open.spotify.com/track/0bnOKQk43FZdLaCku0zSiR) | [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Eloko](https://open.spotify.com/album/5BclOVLIHYhchoiRfRzA9A) | 4:03 | 2023-04-28 | 2023-10-21 |
 | [Eloko](https://open.spotify.com/track/4OXLcfffBxIt4uqwjFVI9N) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Eloko](https://open.spotify.com/album/21U2ZROxX0JQiR91RQjt67) | 3:24 | 2023-05-05 | 2024-03-16 |
@@ -210,6 +211,7 @@
 | [Good](https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox of Love \(Deluxe\)](https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD) | 3:15 | 2023-06-30 | 2023-09-30 |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |
 | [Good Vibe](https://open.spotify.com/track/1qbnqWCKJFo7MYKB013OSo) | [Samy palila](https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL) | [5Melodies Du Lac](https://open.spotify.com/album/2xb2jfEBXpzvbNLmVtSsVu) | 2:33 | 2023-04-21 | 2023-09-09 |
+| [Guantanamo](https://open.spotify.com/track/6V9sJD14uM8fuH7Oj4URA7) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Guantanamo](https://open.spotify.com/album/6zfhIu11roei5i5Zkd0EUe) | 2:29 | 2025-03-28 |  |
 | [Hakuna Matata](https://open.spotify.com/track/39g6ShcBq4MUe2pwtXDlIo) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [Malewa EP](https://open.spotify.com/album/39cO3QGPQ3kk3Z183iQDyB) | 3:44 | 2025-02-21 |  |
 | [Half 5](https://open.spotify.com/track/7dw9D4o2oRFrTBQI4NiXEA) | [RSG](https://open.spotify.com/artist/0CkpQO9oREMoxNzioUIKj8) | [Half 5](https://open.spotify.com/album/1cpB7QtgfL5NSTQZppLuYG) | 3:18 | 2023-09-01 | 2023-10-21 |
 | [Histoire d'amour](https://open.spotify.com/track/1xivAPzBdY8AdOph4sFU2Y) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Gomme, Vol\. 2](https://open.spotify.com/album/2GKYeOvdjYn1iD0fFRf4JT) | 5:02 | 2023-04-28 | 2023-09-02 |

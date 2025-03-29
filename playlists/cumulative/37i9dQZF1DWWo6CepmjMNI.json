@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Seal Pillow",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LEMONY",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 244000,
       "name": "To You",
       "url": "https://open.spotify.com/track/651NyhGG8kKZ44qfBpgN1s"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 381176,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19",
       "url": "https://open.spotify.com/track/3IvGwrtavJiomOpWGTqQEA"
@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e1b\u0e23\u0e30\u0e2b\u0e25\u0e32\u0e14 (Toxic)",
+        "url": "https://open.spotify.com/album/4nYnIC7WN7d8rqD8gT9aJc"
+      },
+      "artists": [
+        {
+          "name": "MAMIO",
+          "url": "https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u0e04\u0e19\u0e1b\u0e23\u0e30\u0e2b\u0e25\u0e32\u0e14 (Toxic)",
+      "url": "https://open.spotify.com/track/4WgNv15TPKSvSOXZUOhw1V"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e01\u0e36\u0e48\u0e07\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e23\u0e39\u0e1b",
         "url": "https://open.spotify.com/album/72NS811z9Jrp9PI1sfyqV7"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 348000,
       "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a\u0e02\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (fleck.)",
       "url": "https://open.spotify.com/track/5GU6wJbKgBOLJRrcK8DhJO"
@@ -930,6 +948,24 @@
       "duration_ms": 212400,
       "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e44\u0e27\u0e49",
       "url": "https://open.spotify.com/track/68zDVn6aPQRLIhpd1by36V"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e23\u0e32\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (Lesson)",
+        "url": "https://open.spotify.com/album/1GtWKHsPq3bzSaW5FOwUbK"
+      },
+      "artists": [
+        {
+          "name": "Plantpot",
+          "url": "https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174230,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e23\u0e32\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (Lesson)",
+      "url": "https://open.spotify.com/track/3ZlNahS3geFOK4eW3D66eg"
     },
     {
       "album": {
@@ -1128,6 +1164,42 @@
       "duration_ms": 269000,
       "name": "\u0e15\u0e2d\u0e19\u0e08\u0e1a (The End)",
       "url": "https://open.spotify.com/track/6lryBvGRXzKnBnAqFo5TBh"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e34\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21 (Dwell)",
+        "url": "https://open.spotify.com/album/4rYYFlKnSuUSzL5ikdIsoH"
+      },
+      "artists": [
+        {
+          "name": "Apollo Thirteen",
+          "url": "https://open.spotify.com/artist/0B6mKOEMvQU8Kfyg03ZQSF"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242680,
+      "name": "\u0e15\u0e34\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21 - Dwell",
+      "url": "https://open.spotify.com/track/1JDufTkfSWvLNNN1gqG4h9"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e1d\u0e37\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/3rc2O4iD98qieCxdxFVtKm"
+      },
+      "artists": [
+        {
+          "name": "ROUSE",
+          "url": "https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247988,
+      "name": "\u0e16\u0e49\u0e32\u0e1d\u0e37\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/7DCkQV8yTFU2GXRPE5Esee"
     },
     {
       "album": {
@@ -1344,6 +1416,24 @@
       "duration_ms": 271445,
       "name": "\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
       "url": "https://open.spotify.com/track/7nfMUT7vKPE6DeQZAU91Pk"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP"
+      },
+      "artists": [
+        {
+          "name": "Dumb.Rong",
+          "url": "https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq"
     },
     {
       "album": {
@@ -2141,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e0b\u0e30",
+        "url": "https://open.spotify.com/album/4qj3DDVn9DYgNODjKllvx3"
+      },
+      "artists": [
+        {
+          "name": "LEMONY",
+          "url": "https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301894,
+      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e0b\u0e30",
+      "url": "https://open.spotify.com/track/60syKDKB6TWWn91ntc2JZx"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e22\u0e38\u0e14\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e04\u0e23 (Toxic)",
         "url": "https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7"
       },
@@ -2206,7 +2314,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 304390,
       "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e22\u0e31\u0e07\u0e2d\u0e48\u0e2d\u0e19\u0e25\u0e49\u0e32",
       "url": "https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s"
@@ -2260,7 +2368,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 308077,
       "name": "\u0e2b\u0e49\u0e27\u0e07 (Depart)",
       "url": "https://open.spotify.com/track/0uCuCHHmgj5nuD1nib1ziy"
@@ -2606,7 +2714,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 218000,
       "name": "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e08\u0e33\u0e25\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/7o7rEL7DbXYcYNOqn28agS"

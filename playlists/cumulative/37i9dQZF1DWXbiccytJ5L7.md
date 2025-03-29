@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-152 songs - 8 hr 10 min
+154 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Backyard Lullaby](https://open.spotify.com/track/2p8mjCnBQfoecW5rQxj8lr) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Noah Gordon](https://open.spotify.com/artist/3SgE8veHiqVK2xezARDQPH) | [\#Beast](https://open.spotify.com/album/5FXEyIqi2llnS1CPvpz14X) | 3:27 | 2023-04-21 | 2024-04-19 |
 | [Backyard Lullaby](https://open.spotify.com/track/3A1DKJEl8D6tRmr4Fnssz0) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Noah Gordon](https://open.spotify.com/artist/3SgE8veHiqVK2xezARDQPH) | [\#Beast](https://open.spotify.com/album/4BvrkvRdx6JjDpTFDqDSi6) | 3:27 | 2023-03-17 |  |
 | [Banking on That](https://open.spotify.com/track/1fk9a6JOSswCq5CXTg0lFT) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Banking on That](https://open.spotify.com/album/0wS7Un1jd5MtDJbmUMToFS) | 2:56 | 2024-09-06 |  |
+| [Beer and Baddies \(feat\. Sexyy Red\)](https://open.spotify.com/track/79GgbTGMt93nzsPGigiScv) | [Caldwell](https://open.spotify.com/artist/0udGGBxyI3pQtXhEjp17in), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Beer and Baddies \(feat\. Sexyy Red\)](https://open.spotify.com/album/1tFZLxR6jY1meWaRuN0llR) | 2:22 | 2025-03-28 |  |
 | [Big Trucks](https://open.spotify.com/track/5ooRDQU9vc9x0c7mO1Exw1) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Adam Calhoun](https://open.spotify.com/artist/4fZ8AuVP6Y8mLmCoybfKpC), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Savages](https://open.spotify.com/album/6C2HnjRUd6azJaiawibKUP) | 4:16 | 2023-03-17 |  |
 | [Big Yeah](https://open.spotify.com/track/4oI6htwIqt3S7RgzGluAhk) | [HoodBillies](https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Big Yeah](https://open.spotify.com/album/23sXgNRgVIst2eBQbrbFre) | 2:13 | 2023-09-01 |  |
 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 | 2023-03-17 |  |
@@ -26,6 +27,7 @@
 | [Bored In The USA](https://open.spotify.com/track/7BRtyna9liXwcmTIAmeeX0) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/1zFmSMDc0RqGhY8jbKlUOO) | 2:22 | 2023-10-06 |  |
 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 | 2023-03-17 |  |
 | [Broken Man](https://open.spotify.com/track/2jUDn3jZB1WVY2NlM6Ei6W) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Broken Man](https://open.spotify.com/album/4ak7jsBetqx6PmFdC7pvzU) | 2:45 | 2023-12-08 |  |
+| [Brunette](https://open.spotify.com/track/4bAF0unJk6N9oeBhhRinJX) | [cieratherapper](https://open.spotify.com/artist/7kFzZsHkdwMd3lUUy5K9RD) | [Brunette](https://open.spotify.com/album/4j0cfz5h3Duqjumo0DJj6I) | 2:48 | 2025-03-28 |  |
 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2023-07-21 |  |
 | [Bury Me With Bourbon](https://open.spotify.com/track/0wBLVgwVRCRUr4YKf126Ou) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Bury Me With Bourbon](https://open.spotify.com/album/0C3r7rvvipfjt7wS29BTvk) | 2:48 | 2023-08-18 |  |
 | [Campfire Cologne](https://open.spotify.com/track/1fslCOmxtyPvE55p3KVTWY) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Jones In Ya Speaker](https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk) | 3:16 | 2023-03-17 |  |

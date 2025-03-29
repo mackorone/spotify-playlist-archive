@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125467,
+  "num_followers": 125462,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT3Avqm+jlXgIqMydsoRUHLsTX6vsh",
+  "snapshot_id": "AAAT3n65y1HkPv6osrWYJ3h/WY1S0Gzy",
   "tracks": [
+    {
+      "added_at": "2025-03-28 14:12:00",
+      "album": {
+        "name": "Pay Respect",
+        "url": "https://open.spotify.com/album/5iJL1Tp5fdHj1uo1Atjb8G"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        {
+          "name": "FRAXURE",
+          "url": "https://open.spotify.com/artist/1dGn5V241a03xUPyhKgVjL"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Pay Respect",
+      "url": "https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy"
+    },
     {
       "added_at": "2025-03-27 15:05:19",
       "album": {
@@ -1179,54 +1203,6 @@
       "duration_ms": 160000,
       "name": "Rubix Cube",
       "url": "https://open.spotify.com/track/6o12D6Pk42lsb6m2aYtqJr"
-    },
-    {
-      "added_at": "2025-01-07 13:44:51",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/1W6wGDkV53mnhRSTQrH8gx"
-      },
-      "artists": [
-        {
-          "name": "Finding Mero",
-          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
-        }
-      ],
-      "duration_ms": 180495,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/67DhcoHxHggjsp2nHaGHVk"
-    },
-    {
-      "added_at": "2025-01-06 17:15:02",
-      "album": {
-        "name": "love & hardcore",
-        "url": "https://open.spotify.com/album/2bHtt9XVu8blZVdY34acmI"
-      },
-      "artists": [
-        {
-          "name": "gladde paling",
-          "url": "https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS"
-        }
-      ],
-      "duration_ms": 96004,
-      "name": "love & hardcore",
-      "url": "https://open.spotify.com/track/1vLnkEgggQsD5sv5UFTedf"
-    },
-    {
-      "added_at": "2024-12-19 14:35:22",
-      "album": {
-        "name": "microcelebrity (Remixes)",
-        "url": "https://open.spotify.com/album/0CbP5M5WzdEP5RB82uf6YO"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 148422,
-      "name": "SO ABSURD - VIP",
-      "url": "https://open.spotify.com/track/7jzH4NsGtOq2mVAQRC5BD2"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

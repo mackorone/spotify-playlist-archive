@@ -2,7 +2,7 @@
 
 ### [RAP 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
 
-> Best of Tamil Hip\-Hop!<br/>Cover : Yogi B
+> Best of Tamil Hip\-Hop!<br/>Cover : Paal Dabba
 
 174 songs - 10 hr 10 min
 

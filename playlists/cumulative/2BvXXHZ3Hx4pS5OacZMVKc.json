@@ -6053,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj"
+      },
+      "artists": [
+        {
+          "name": "NAYM",
+          "url": "https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189322,
+      "name": "Signs - Sped Up",
+      "url": "https://open.spotify.com/track/01GqGjLGRvDjbclq4bgHiv"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ"
       },

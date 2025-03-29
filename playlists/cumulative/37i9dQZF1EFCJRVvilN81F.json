@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Endless Night",
+        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113958,
+      "name": "New Lover",
+      "url": "https://open.spotify.com/track/3A75RXF6osQ8vLMSMbNJ9r"
+    },
+    {
+      "album": {
         "name": "EXTRA EXTRA!",
         "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
       },

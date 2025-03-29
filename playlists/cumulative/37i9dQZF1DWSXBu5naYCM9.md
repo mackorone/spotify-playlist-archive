@@ -2,7 +2,7 @@
 
 ### [A Perfect Day](https://open.spotify.com/playlist/37i9dQZF1DWSXBu5naYCM9)
 
-> Timeless melodies from your favourite artists, both old and new.
+> Soothe your soul
 
 299 songs - 17 hr 13 min
 

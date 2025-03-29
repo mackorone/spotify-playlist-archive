@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Hearts2Heart
+> Kumpulan lagu yang sedang menyebar luas\. Cover: MikkyZia, F4dli
 
-1,049 songs - 2 day 15 hr 0 min
+1,051 songs - 2 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [Kalibata, 2012](https://open.spotify.com/track/0EQBfsLlv47ie3p0fE1QEs) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 5:01 | 2025-03-21 | 2025-03-27 |
 | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/track/5HjUxcQKhTYpR44Lhv68Gw) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/album/0ckVPtsAvHRAEe03eZU4Ih) | 2:17 | 2024-04-02 | 2024-04-19 |
 | [Kami Belum Tentu](https://open.spotify.com/track/38yM3PwNtTSsb8UqEgqaUl) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Kami Belum Tentu](https://open.spotify.com/album/6SkKvMB1eykgdm8sXzddTc) | 3:53 | 2024-08-28 | 2024-10-03 |
-| [Kamu Cantik Kamu Baik](https://open.spotify.com/track/4lK7zM6W6QHu9GNdR2BX8i) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Dunia Sempurna](https://open.spotify.com/album/2lMFq1ZxiB2JjwUxdNBrRW) | 4:06 | 2023-03-23 |  |
+| [Kamu Cantik Kamu Baik](https://open.spotify.com/track/4lK7zM6W6QHu9GNdR2BX8i) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Dunia Sempurna](https://open.spotify.com/album/2lMFq1ZxiB2JjwUxdNBrRW) | 4:06 | 2023-03-23 | 2025-03-29 |
 | [Kamu Tak Sendiri](https://open.spotify.com/track/0SQnaRBCYYnGOCFu8zulgM) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Kamu Tak Sendiri](https://open.spotify.com/album/191UHeJM1r2tNbi7N7rs99) | 3:35 | 2024-12-11 | 2025-02-01 |
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2023-11-09 | 2024-04-19 |
 | [Kasar](https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kasar](https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9) | 3:49 | 2023-12-28 | 2024-02-08 |
@@ -700,6 +700,7 @@
 | [Promise](https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/7zugzVgHDiDlcwvsLxz43A) | 2:31 | 2023-03-23 | 2023-05-12 |
 | [Pujaningsih](https://open.spotify.com/track/7pwegdmSzRXVq1AoYbJ1T2) | [Wisnu Jaya](https://open.spotify.com/artist/50qtaomN978xTjFPvXSqjV) | [Pujaningsih](https://open.spotify.com/album/6daoZDgnyGLcTi4iweeKzt) | 6:08 | 2024-08-01 | 2024-08-29 |
 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 | 2023-12-28 | 2024-02-02 |
+| [Putri Iklan](https://open.spotify.com/track/122WSTVFVsX8VI1bTSZNWT) | [Azhardi](https://open.spotify.com/artist/6cqjL721SqJJmL3V7EeJUy), [Devin Adamn](https://open.spotify.com/artist/6kwOdX0GkoTAGArEzSD9fd), [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Putri Iklan](https://open.spotify.com/album/3exvJVJlI4umZsytNTNM1K) | 3:57 | 2025-03-28 |  |
 | [Putri Iklan](https://open.spotify.com/track/0wlZGWWK9M6KRHky1IfBYZ) | [ST12](https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf) | [P.U.S.P.A.](https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE) | 4:00 | 2025-03-26 |  |
 | [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-23 | 2024-11-06 |
 | [Rachel](https://open.spotify.com/track/29Im7mQl4SCyikXLRXJno1) | [Enjoy Drink](https://open.spotify.com/artist/72yq9MsalBeEYQGLELvlhE), [Yansoy](https://open.spotify.com/artist/18xe002Kooqu9T3GeY9lhP) | [Rachel](https://open.spotify.com/album/4alr19hLt5JlyFMNF6pfV3) | 4:26 | 2024-10-16 | 2024-12-12 |
@@ -867,6 +868,7 @@
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2023-12-21 | 2024-01-18 |
 | [Suwung O Aja Yakan](https://open.spotify.com/track/6MlbkudRO0V7bc52U19O3l) | [YHA GENK](https://open.spotify.com/artist/49IBFLSZ5QECrYOVVQ8SQP) | [Suwung O Aja Yakan](https://open.spotify.com/album/56LPMFvx0SAZ1Lo6OkURwp) | 3:06 | 2024-07-26 | 2024-08-29 |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2023-03-23 | 2023-04-21 |
+| [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-28 |  |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2025-01-08 | 2025-02-20 |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-19 | 2024-05-17 |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2024-03-21 | 2024-06-01 |

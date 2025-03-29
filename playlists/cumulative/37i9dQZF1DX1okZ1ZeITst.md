@@ -2,7 +2,7 @@
 
 ### [Disney Sing\-Alongs](https://open.spotify.com/playlist/37i9dQZF1DX1okZ1ZeITst)
 
-> From the shower to the car, Disney songs that make you want to sing along, including songs from Mufasa: The Lion King.
+> From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Snow White.
 
 162 songs - 8 hr 17 min
 

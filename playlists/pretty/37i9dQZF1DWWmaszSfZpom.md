@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,545 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,500 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 86 | [Baile de Favela](https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B) | [GR6](https://open.spotify.com/artist/3d7FBhUWvESoiRg2J4gXUx) | [Baile de Favela](https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS) | 3:00 |
 | 87 | [BALANÇA A GLOCK](https://open.spotify.com/track/3NaZrn3dMTU2uzjvVwC41z) | [DJ LG](https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ), [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm) | [BALANÇA A GLOCK](https://open.spotify.com/album/10XgqbTG82Ks7cK6i5m601) | 2:36 |
 | 88 | [Me Desculpa Pai, Me Desculpa Mãe \(feat\. Dj Digo Beat\) \- Remix Digo Beat](https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF) | [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg), [Dj Digo Beat](https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo) | [Me Desculpa Pai, Me Desculpa Mãe \(feat\. Dj Digo Beat\) \[Remix Digo Beat\]](https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL) | 4:00 |
-| 89 | [Cheia de Marra](https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP) | 4:27 |
+| 89 | [Azul Piscina](https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Azul Piscina](https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84) | 3:34 |
 | 90 | [Espirra o Lança](https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN) | 3:10 |
-| 91 | [Azul Piscina](https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Azul Piscina](https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84) | 3:34 |
+| 91 | [Cheia de Marra](https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP) | 4:27 |
 | 92 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 | 93 | [Devagarinho \- Remix](https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 2:15 |
 

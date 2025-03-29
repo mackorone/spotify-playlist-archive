@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-120 songs - 7 hr 13 min
+122 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,13 @@
 | [Me Presento](https://open.spotify.com/track/5whdmVRrXZ1dU2DWkNc5vn) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Me Presento](https://open.spotify.com/album/3c9LupnZmRqoAHdzdSFMzC) | 3:24 | 2024-06-27 |  |
 | [Me Van A Matar](https://open.spotify.com/track/5DaOTjY1vz38V0RGrrRFGq) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:02 | 2021-05-13 |  |
 | [Me Voy](https://open.spotify.com/track/7EEbMTkfPqFVD5ZoLZLYiD) | [Helfy](https://open.spotify.com/artist/66d5Z5OpnmGw4yWdJbmXWm) | [Me Voy](https://open.spotify.com/album/2157W6oC9ZfjzJxRPO4vwO) | 2:10 | 2021-05-13 |  |
+| [Mentira](https://open.spotify.com/track/0IopeK5zdadP5J25ohsvkY) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Mentira](https://open.spotify.com/album/4Xe8ji6so3Fgxx57BO6Kw0) | 4:43 | 2025-03-28 |  |
 | [Mi Playa](https://open.spotify.com/track/34HGQ7X0wMKEnRnGcEdeps) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:42 | 2021-05-13 |  |
 | [Mi Viejo \(Soundtrack de la Película "EL HALCÓN"\)](https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Mi Viejo \(Soundtrack de la Película "EL HALCÓN"\)](https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR) | 5:03 | 2024-03-04 |  |
 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 | 2023-07-07 |  |
 | [Monitor \- Acoustic](https://open.spotify.com/track/6FmiOrorVIYLMOur2j1KeZ) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 4:18 | 2021-05-13 |  |
 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 | 2024-02-26 |  |
+| [Mujeres como tú](https://open.spotify.com/track/6DEGLm6KfC8t4Nv2baxLGj) | [Yayo Gonzalez](https://open.spotify.com/artist/5ONtikOy0vTUl7ykmV7GfO) | [Mujeres como tú](https://open.spotify.com/album/0TkEmdSelGaYQbHz2oyfuS) | 3:40 | 2025-03-28 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 | 2021-05-13 |  |
 | [Nada Para Ti \(Acústico\)](https://open.spotify.com/track/1ExJH7GeqarJmpAZk1IyAF) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Nada Para Ti \(Acústico\)](https://open.spotify.com/album/43HzRMB4IFFxw6PZgy1Y6d) | 3:56 | 2025-02-21 |  |
 | [No Dudaría](https://open.spotify.com/track/7m9zoqomVDsBMQdhKTHr8g) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Dudaría](https://open.spotify.com/album/0QS4V8TKpiBtI8hJyEOkAj) | 4:08 | 2024-09-20 |  |

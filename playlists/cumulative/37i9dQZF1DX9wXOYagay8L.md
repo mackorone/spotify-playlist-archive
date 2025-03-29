@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Remembering the life and captivating voice of  <a href="https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=X2TnQdrMRTOFMIRAzdU3fQ"> Yallunder</a>.
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5?si=LLqNNiLkQXavq8J\_74G7WQ"> Sbahle</a>
 
-631 songs - 1 day 21 hr 10 min
+632 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Indaba Yethu](https://open.spotify.com/track/4mjVBfGuXmeUUvMwT694eD) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Indaba Yethu](https://open.spotify.com/album/6kcNH5xzup2qMkWwpL8mZp) | 4:12 | 2024-11-15 |  |
 | [Indlela](https://open.spotify.com/track/3b2bR7OppNNce0fzorLLvv) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Qwabe Twins](https://open.spotify.com/artist/5T7K4Gz5qHVB5Vtb9mkoJx), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Mk Productions](https://open.spotify.com/artist/67hRZRbHByMJCRqSdkyZhi) | [Indlela](https://open.spotify.com/album/5BCLoOkSDgxLnSb7WnfAV0) | 4:28 | 2022-04-08 | 2022-07-29 |
 | [Induk'enhle](https://open.spotify.com/track/1XT5TH5qFcu5neQuqfmNFE) | [Blue Nyambose](https://open.spotify.com/artist/46CMDNpGNp6VVQ2VzDTVqT) | [Induk'enhle](https://open.spotify.com/album/7euTkoPENLaBhp4FQoSNpb) | 4:05 | 2022-03-24 | 2022-07-29 |
+| [Ingoma Yami](https://open.spotify.com/track/7D4L8U9A7aXiveWURPTWRT) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK), [Proud](https://open.spotify.com/artist/4HqpRY96WEihkALTCJWf1B), [Dee R](https://open.spotify.com/artist/37SSMC2YqEFtW8o4yzkDLF), [Cwenga Bass](https://open.spotify.com/artist/69NnlRckDxjd87vXxuMr5S) | [Ingoma Yami](https://open.spotify.com/album/4muR1XrReEmHA8MmSPrf04) | 5:00 | 2025-03-28 |  |
 | [Ingunaphakade](https://open.spotify.com/track/6nkevgvV6dWJQ5GUGnJzFA) | [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ingunaphakade](https://open.spotify.com/album/4Lp6BLJxkFi1PaELz9tFEo) | 4:07 | 2023-08-24 | 2023-10-13 |
 | [Inhliziyo](https://open.spotify.com/track/2UlNIsf529daCqr3RI8xfe) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW) | [Finally Found Her](https://open.spotify.com/album/4plY4J9jXwF5AwDbZwtsYF) | 2:16 | 2024-09-05 |  |
 | [Inhliziyo](https://open.spotify.com/track/4MU9Zpx9xu9D8zJBCYUqPF) | [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [DJ Ngwazi](https://open.spotify.com/artist/1G8HHPk0dZaahLJQPySFCi) | [Inhliziyo](https://open.spotify.com/album/58xsmB1jhpDXOHwdE4wzja) | 5:07 | 2022-05-12 | 2022-06-03 |
@@ -359,7 +360,7 @@
 | [Ndibiziwe](https://open.spotify.com/track/5EbxfvjMjPUqZWVe8LXHFs) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Sasitshotsha](https://open.spotify.com/album/0Ickd5nGFCazQRbHs0uX0v) | 5:54 | 2022-10-13 | 2022-11-18 |
 | [Ndibuze Bani](https://open.spotify.com/track/14kJZzn6aoCZ15zaW2elWu) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Jaziel Brothers](https://open.spotify.com/album/3wx6vWPX5g4CICfRzYTcET) | 4:33 | 2022-07-28 | 2022-09-10 |
 | [ndikhale](https://open.spotify.com/track/2VbUQfp97RJfmPRMPvYsNt) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [ndikhale](https://open.spotify.com/album/6e0Xeg8LHiHlZxeB1JfSUO) | 3:20 | 2023-04-06 | 2023-04-18 |
-| [Ndinovalo](https://open.spotify.com/track/727e1kV21SQxzGqPW7z3rR) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [iSambulo](https://open.spotify.com/album/4Gb0nw8bMWKO8QKVNYF2r8) | 3:30 | 2025-03-14 |  |
+| [Ndinovalo](https://open.spotify.com/track/727e1kV21SQxzGqPW7z3rR) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [iSambulo](https://open.spotify.com/album/4Gb0nw8bMWKO8QKVNYF2r8) | 3:30 | 2025-03-14 | 2025-03-29 |
 | [Ndiphelelwe](https://open.spotify.com/track/0jClI0jwVKDrHXLYIwivOz) | [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB) | [Ukukhanya](https://open.spotify.com/album/0jhH3kwEzUIQyNV1PjmmFI) | 4:46 | 2022-02-17 | 2022-02-25 |
 | [Ndixolele](https://open.spotify.com/track/0kxp0TQBA7geTT0CYJik4X) | [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Ndixolele](https://open.spotify.com/album/1Xu7No9RW8RON7jwelBez5) | 4:26 | 2024-05-02 | 2024-07-19 |
 | [Ndixolele](https://open.spotify.com/track/6HieqEZWOW31zn1AOvpZIc) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Cwaka](https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV) | 6:00 | 2021-12-02 | 2022-03-04 |

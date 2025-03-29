@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Bye Dummy",
+        "url": "https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10"
+      },
+      "artists": [
+        {
+          "name": "Hector Gachan",
+          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169879,
+      "name": "Bye Dummy",
+      "url": "https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz"
+    },
+    {
+      "album": {
         "name": "Grand Eug\u00e8ne",
         "url": "https://open.spotify.com/album/60doKMH86BYnApXvT5jeic"
       },

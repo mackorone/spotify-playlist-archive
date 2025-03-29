@@ -2,9 +2,9 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: iiso\(이소\)\)
+> New & best K\-Electronic music is here\. \(Cover: KIRARA \(키라라\)\)
 
-221 songs - 12 hr 34 min
+222 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Between](https://open.spotify.com/track/1pNxr8E0bfkzBPcefgeXXI) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [OHNY](https://open.spotify.com/artist/7bwKtxquAuPod4egd1acwB), [Hoonie](https://open.spotify.com/artist/0CPEc9L3MkZdwT5KdXmQ6t) | [Between](https://open.spotify.com/album/0edYbq4vhwXXIYGu5dW8U9) | 2:42 | 2024-04-05 | 2024-05-27 |
 | [Bi\-elijah](https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C) | [Y2K92](https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9) | [The Songs for the NOT\-YETs](https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX) | 4:47 | 2024-04-05 | 2024-06-29 |
 | [BOOM \- Minit Remix, Bonus Track](https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:17 | 2024-04-05 |  |
-| [BOP BOP! \(Yves V Remix\)](https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bop Bop! \(Yves V Remix\)](https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX) | 3:12 | 2024-06-28 |  |
+| [BOP BOP! \(Yves V Remix\)](https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bop Bop! \(Yves V Remix\)](https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX) | 3:12 | 2024-06-28 | 2025-03-29 |
 | [Breakthrough \- taalthechoi Remix](https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [taalthechoi](https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C) | [Breakthrough](https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W) | 3:22 | 2024-06-28 |  |
 | [Bring Me On](https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc) | [LMNTRX](https://open.spotify.com/artist/3EQhBwReP6TxlTT9z8yIjD), [CIRE](https://open.spotify.com/artist/4cqhNd5e30i06T1YWl2uiJ), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Bring Me On](https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf) | 2:38 | 2024-04-05 | 2024-06-29 |
 | [BT14U](https://open.spotify.com/track/7I9ZGWFLz1AqaLEZqdeqHf) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [BT14U](https://open.spotify.com/album/6gdt5PwXLMsneqABEgilwQ) | 4:56 | 2024-06-28 | 2024-10-08 |
@@ -139,6 +139,7 @@
 | [Monster \- LDN Noise Creeper Bass Remix](https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOTTO \- The 3rd Album Repackage](https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki) | 4:05 | 2024-06-28 |  |
 | [MOONLIGHT \- MOTi Remix](https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [MOONLIGHT \(MOTi Remix\)](https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2) | 2:43 | 2024-06-28 |  |
 | [Motion](https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb) | [Take Note](https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0), [GUILTY PLEASURE](https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP) | [Motion](https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM) | 4:16 | 2024-06-28 | 2024-11-11 |
+| [Music \(with\. sunwoojunga\)](https://open.spotify.com/track/7qgUPFjr05oDLtNT2l73Dm) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Music](https://open.spotify.com/album/6tZsLeta17ydKrxuWix40e) | 5:13 | 2025-03-28 |  |
 | [My Universe \- David Guetta Remix](https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [My Universe \(David Guetta Remix\)](https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI) | 3:19 | 2024-06-28 |  |
 | [Naro](https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Naro](https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU) | 2:43 | 2024-06-28 |  |
 | [Naughty \- Demicat Remix](https://open.spotify.com/track/45g8e6lIciCHoaEDNbY7nA) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.3 : Naughty Remix](https://open.spotify.com/album/5LU3bwPyZz69FfMR7e71SU) | 3:53 | 2024-04-05 | 2024-06-29 |

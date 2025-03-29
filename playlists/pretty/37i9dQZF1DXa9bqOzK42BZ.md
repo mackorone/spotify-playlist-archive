@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,531 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,564 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 2 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 |
 | 3 | [Kaa nami \- Live](https://open.spotify.com/track/1HvTdfzq7dLfaNcnyI59Wu) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Kaa nami \(Live\)](https://open.spotify.com/album/1MKs6gINHwZoh3mRAGxF4d) | 13:39 |
 | 4 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 |
-| 5 | [Kaniona](https://open.spotify.com/track/4tozSiv1PmsJQxIauen2dL) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Akida](https://open.spotify.com/album/2T9r4gMpKXsGpfwHN2u3k2) | 5:32 |
+| 5 | [Kaniona](https://open.spotify.com/track/4tozSiv1PmsJQxIauen2dL) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Akida](https://open.spotify.com/album/2T9r4gMpKXsGpfwHN2u3k2) | 5:26 |
 | 6 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 |
 | 7 | [Mungu Mmoja \- Live](https://open.spotify.com/track/71FXICK2kMMLCCW7JQTGiy) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk), [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK), [Neema Gospel Choir](https://open.spotify.com/artist/0Rj46magWSjvL3hnxTaNGy) | [Mungu Mmoja \(Live\)](https://open.spotify.com/album/0dc3Brta6vhGPl09I6RT4I) | 9:09 |
 | 8 | [Bila Bila](https://open.spotify.com/track/3o4FJuqGNemcj2tGuwcQR9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Bila Bila](https://open.spotify.com/album/6TsBYWL3dnC8rRQxw63OoS) | 2:55 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-207 songs - 15 hr 47 min
+208 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Things Are Looking Up \(11\-01\-37\)](https://open.spotify.com/track/1H8FWalaTquiuh0U4cXitu) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Complete Jazz Series 1937 \- 1938](https://open.spotify.com/album/52I99rdurbDQg5MRBbx2em) | 3:21 | 2024-07-24 |  |
 | [Three Quarter Blues \(Andante con moto\) \(Arr\. for Saxophone Quartet by James Boatman\)](https://open.spotify.com/track/7kR47c6sTuhBSuVVkLIRFw) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [New Century Saxophone Quartet](https://open.spotify.com/artist/0ZWswriMRVVkiBi1oZDXfS) | [Main Street USA](https://open.spotify.com/album/6DNGUDBIeE5IPQc6hmb8cH) | 0:59 | 2024-07-24 |  |
 | [Two Waltzes in C](https://open.spotify.com/track/2dGlBRZK9mmMCQYxcQp8UM) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 4:13 | 2024-07-24 |  |
+| [Under the Cinnamon Tree \- From "East is West"](https://open.spotify.com/track/3GTU7NfZ7mQt00vJfyhsKv) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Gershwin Rhapsody](https://open.spotify.com/album/4H3sICPKEhVcepYaIdb4LD) | 1:13 | 2025-03-28 |  |
 | [Unidentified Piece for Banjo](https://open.spotify.com/track/7qwg41kYUkFQXhyl0jQ4b9) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Rhapsody in Blue \(grass\)](https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB) | 3:19 | 2024-07-24 |  |
 | [Violin Concerto in D Major, Op\. 61: III\. Rondo \- Allegro](https://open.spotify.com/track/6KnRJ01itdWnLAwjZRUi8T) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Jascha Heifetz](https://open.spotify.com/artist/7yaBUcdjmqPP2vIv6F5bFD), [Charles Münch](https://open.spotify.com/artist/2RKnompMfdeZsyis6Gs4ce), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Jascha Heifetz plays Beethoven \(Sonatas & Concerto\)](https://open.spotify.com/album/5hcWk7u2BK4cgbHgcCeKc6) | 8:21 | 2024-07-24 |  |
 | [Walking the Dog](https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Iain Sutherland Concert Orchestra](https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a), [Iain Sutherland](https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss) | [Manhattan Playboys \- American Light Classics](https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m) | 3:06 | 2025-01-18 |  |

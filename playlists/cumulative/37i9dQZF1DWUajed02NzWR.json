@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Midsummer",
+        "url": "https://open.spotify.com/album/0y5eFKRKERwyqIwm4u0UMn"
+      },
+      "artists": [
+        {
+          "name": "Tim Thorpe",
+          "url": "https://open.spotify.com/artist/5jalqI4moemzPYFKEhZrph"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409000,
+      "name": "Pavane",
+      "url": "https://open.spotify.com/track/3n4O3ZRZuPfUbfdmF6RUYZ"
+    },
+    {
+      "album": {
         "name": "Pavane in F-Sharp Minor, Op. 50",
         "url": "https://open.spotify.com/album/3KiYZaBQgOgxVMbref9tHM"
       },

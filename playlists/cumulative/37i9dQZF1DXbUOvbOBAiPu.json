@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New music from: Lost Frequencies and MAKSIM",
+  "description": "New music from: Ariana Grande, Lost Frequencies & MAKSIM",
   "name": "New Music Friday BE",
   "tracks": [
     {
@@ -65119,6 +65119,24 @@
     },
     {
       "album": {
+        "name": "I Said I Love You First...",
+        "url": "https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209838,
+      "name": "Stained",
+      "url": "https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2"
+    },
+    {
+      "album": {
         "name": "STANK ROSE",
         "url": "https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE"
       },
@@ -73396,6 +73414,24 @@
       "duration_ms": 197280,
       "name": "Twijfel",
       "url": "https://open.spotify.com/track/33HwdCuJmxIQHgiAxsXjKW"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
     },
     {
       "album": {

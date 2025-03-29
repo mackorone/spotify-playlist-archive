@@ -4,7 +4,7 @@
 
 > Nilüfer ve haftanın en iyi çıkışları!
 
-572 songs - 1 day 4 hr 52 min
+575 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Acı Bana](https://open.spotify.com/track/4ZU7dCtT8yk0WPjfHmBscT) | [Milat](https://open.spotify.com/artist/5BJ04QfXObFjFkvZCn6T9v) | [Acı Bana](https://open.spotify.com/album/3yYuj58EJLD4jaXnjQNXwl) | 3:21 | 2025-02-20 | 2025-02-28 |
 | [Affet](https://open.spotify.com/track/3sgs3a8E5NCpvhiWnFkbEn) | [Gökçe Yeşilbaş](https://open.spotify.com/artist/4vEHJ2k0qrokabt96heePy) | [Affet](https://open.spotify.com/album/0Q5bdLHgbbiXJKIP7uLrIa) | 2:21 | 2025-03-13 | 2025-03-21 |
 | [Ahtapot](https://open.spotify.com/track/5BH35TZl3Mz7gNjPJAMUFS) | [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [Ahtapot](https://open.spotify.com/album/1f42FoPFv2J01c2fOP6Ifl) | 2:13 | 2025-02-27 | 2025-03-07 |
+| [Al Beni](https://open.spotify.com/track/1uZgoRlHgEkhI7COnUdm5m) | [Naz Ölçal](https://open.spotify.com/artist/23tgygGHvkVtYum3uqbEZ3) | [Al Beni](https://open.spotify.com/album/6ykMRf2pP2Mo66EMbCBvhc) | 3:09 | 2025-03-27 |  |
 | [ALACAKARANLIK](https://open.spotify.com/track/1XF5HCYxMgAhpV2g0s7Rih) | [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS), [Moniac](https://open.spotify.com/artist/1deAFcJ6aPrC8Cmdi8U3Pw) | [ALACAKARANLIK](https://open.spotify.com/album/6lrFGSYZhcQngosKccoon1) | 2:31 | 2025-02-27 | 2025-03-07 |
 | [Allah'la Aramızda](https://open.spotify.com/track/6cn6hsxgIOeSvIDSNapqK4) | [Tuna Kiremitçi](https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv) | [Allah'la Aramızda](https://open.spotify.com/album/5L7xPdvYwcWCmqswOFkUCY) | 3:22 | 2025-03-06 | 2025-03-14 |
 | [Allah'ım Derim](https://open.spotify.com/track/0Sdfnwsl3YYW0LjMImSreu) | [Savaş Talha](https://open.spotify.com/artist/7GlGKLQWQkybqFmqfYurtq) | [Allah'ım Derim](https://open.spotify.com/album/4cRrsGQqrOcfMHH1BMz3KP) | 3:48 | 2025-02-27 | 2025-03-07 |
@@ -209,6 +210,7 @@
 | [gün pazartesi olur](https://open.spotify.com/track/77aYuBAMXXLLrlEHADgkVJ) | [yunusemre](https://open.spotify.com/artist/0dfex4kZyUbI489BMy0fqK) | [gün pazartesi olur](https://open.spotify.com/album/41idolmso6j5E8ZRgKDXVP) | 2:27 | 2025-03-06 | 2025-03-14 |
 | [Günyüzü](https://open.spotify.com/track/5V1ffoxPVEaHsfjnoy8zG3) | [Emre Akbay](https://open.spotify.com/artist/2uRkUVohqQRUDARipt4mE0), [Seray Bilen](https://open.spotify.com/artist/6DdKQ9QaOo3jIj3AF1FTvi) | [Günyüzü](https://open.spotify.com/album/2efJYvMd9PUobyBKKcIpM8) | 4:18 | 2025-03-27 |  |
 | [Güvenilmez Anlatıcı](https://open.spotify.com/track/4NeO1qwgOnMugSuy8Xt8P7) | [berkcavdar](https://open.spotify.com/artist/1M5YnAuFsXEu654X69d9YK) | [Güvenilmez Anlatıcı](https://open.spotify.com/album/4pXIKx1bcdWOLURtHF8yrA) | 3:23 | 2025-03-13 | 2025-03-21 |
+| [H.S.P.](https://open.spotify.com/track/3HU84eFgOESfry2Ylgzelw) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t) | [H.S.P.](https://open.spotify.com/album/2ldde5WzqzDKov3liEvle2) | 2:15 | 2025-03-27 |  |
 | [Haberin Yok](https://open.spotify.com/track/7cQYFmtMGt3k2mv5YFL2RN) | [RASH](https://open.spotify.com/artist/7HePKGjMU8Eofq2Bp65pLX), [Taladro](https://open.spotify.com/artist/2ShoGcsu8kekluGvbggGKQ) | [Haberin Yok](https://open.spotify.com/album/73I8Q2wW6yWDIsC3Aau380) | 2:59 | 2025-03-13 | 2025-03-21 |
 | [Halumi](https://open.spotify.com/track/3OfJNXHFurLv6ooTfNV34E) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD), [Özgür](https://open.spotify.com/artist/0Jcj2hmaTp6HPLgybYHeAA) | [Halumi](https://open.spotify.com/album/1CrcVdpR9pEkq1kCgf0wGm) | 4:12 | 2025-02-27 | 2025-03-07 |
 | [Hammâmiye](https://open.spotify.com/track/4YpgDypwej4aXtbcQ3LX3c) | [Başak Günak](https://open.spotify.com/artist/13NtiBSQa2IRMON1b7IO0u), [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Steve Katona](https://open.spotify.com/artist/43YAfwBe22PFawO7LIgPW0) | [Hammâmiye](https://open.spotify.com/album/6rAjhGwED9sUVGl2Vz4Kq7) | 4:18 | 2025-03-06 | 2025-03-14 |
@@ -294,7 +296,7 @@
 | [Kendim İçin](https://open.spotify.com/track/2y8lSc9tca9wYsUPGA52Mn) | [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [Kendim İçin](https://open.spotify.com/album/2eKdquaglVFf8Y5tb8XeUm) | 3:03 | 2025-03-06 | 2025-03-14 |
 | [Kendime Sarıldım](https://open.spotify.com/track/3ht8maZeaVKiqtaysYWx2J) | [Sheva](https://open.spotify.com/artist/0cAi4TxIbzxPMDwadm16II) | [Kendime Sarıldım](https://open.spotify.com/album/3j6imn1VVvET2jhjjaQDCt) | 2:15 | 2025-02-20 | 2025-02-28 |
 | [Kendimi Bulamam](https://open.spotify.com/track/5TPjS5BliGCAEvu0VEYpbl) | [MERMI](https://open.spotify.com/artist/5l4WodS45CeKjb6ciK0X86) | [Kendimi Bulamam](https://open.spotify.com/album/2OHgHbyGOho6CSwBciFoCv) | 2:25 | 2025-02-27 | 2025-03-07 |
-| [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 | 2025-03-27 |  |
+| [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 | 2025-03-27 |  |
 | [Kibrit](https://open.spotify.com/track/7hfGhYjqq1d1GEZT85KakM) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Kibrit](https://open.spotify.com/album/144x7oYPcjHMFpXpjxdUkD) | 3:39 | 2025-03-20 | 2025-03-28 |
 | [Kim Bilir](https://open.spotify.com/track/6iFv856xtztYwiXOMVJuuy) | [Saudade](https://open.spotify.com/artist/177vaEMrfDJnDOsHBD63eH) | [Kim Bilir](https://open.spotify.com/album/2tVADORfiicF5BEeWv4fOW) | 2:19 | 2025-03-06 | 2025-03-14 |
 | [Kim Tutar Beni](https://open.spotify.com/track/4yYyGVZP3iAwkEQpT1prgW) | [Gripin](https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O) | [Kim Tutar Beni](https://open.spotify.com/album/4aN63qzjaH3PBsWnVBguYK) | 3:37 | 2025-03-06 | 2025-03-14 |
@@ -480,6 +482,7 @@
 | [Tutam Yar Elinden](https://open.spotify.com/track/5xDefse9XJ93fDMR02RgzT) | [Gündoğarken](https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei) | [Tutam Yar Elinden](https://open.spotify.com/album/0FaFgNQNjWddQP6r6qWX7V) | 3:08 | 2025-03-27 |  |
 | [Tutsak](https://open.spotify.com/track/2m2fK6LCFF3tMmBV34284j) | [Mâi](https://open.spotify.com/artist/3d4FAb7KcuSi6WrVYuIDbk) | [Tutsak](https://open.spotify.com/album/3RpKU3Rcge3XqAQNsoiJNZ) | 2:12 | 2025-03-13 | 2025-03-21 |
 | [Tuzak](https://open.spotify.com/track/4xcVpRjyq8awiIR3Zc7c00) | [Tutku](https://open.spotify.com/artist/5hgO3u5FjBwpPJZFP8W7DX) | [Tuzak](https://open.spotify.com/album/6Aw0ZEOpaXoAQ4xjCQkgPt) | 2:53 | 2025-03-20 | 2025-03-28 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-27 |  |
 | [Tüm Bildiklerim](https://open.spotify.com/track/3f48TrNZYUJ9uWaN2ce1nx) | [Kristal Kit](https://open.spotify.com/artist/4wvDdtaKCBY7g9hF8aZo7N) | [Tüm Bildiklerim](https://open.spotify.com/album/6eoucYI3SvWGsO3kO0imf6) | 3:13 | 2025-03-13 | 2025-03-21 |
 | [Türkan & Kadir](https://open.spotify.com/track/1Exfjn1XdaXzb0W1pqyhJV) | [Erden Erdoğan](https://open.spotify.com/artist/71Qmm2rF0wjEedvk4pgI5L) | [Türkan & Kadir](https://open.spotify.com/album/0f3NhO48IpsSpQN7SYb4Qq) | 2:36 | 2025-03-13 | 2025-03-21 |
 | [Tılsım](https://open.spotify.com/track/1duEQCyKjdKKNaCupzs6Bx) | [Gülnur Gökçe](https://open.spotify.com/artist/0TTRJ2J8EClXv4nZ3JenE0) | [Tılsım](https://open.spotify.com/album/0LHwWJJl2iifVXkDfUO5pw) | 2:36 | 2025-03-20 | 2025-03-28 |

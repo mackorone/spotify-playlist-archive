@@ -4253,6 +4253,28 @@
     },
     {
       "album": {
+        "name": "Gershwin Rhapsody",
+        "url": "https://open.spotify.com/album/4H3sICPKEhVcepYaIdb4LD"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73453,
+      "name": "Under the Cinnamon Tree - From \"East is West\"",
+      "url": "https://open.spotify.com/track/3GTU7NfZ7mQt00vJfyhsKv"
+    },
+    {
+      "album": {
         "name": "Rhapsody in Blue (grass)",
         "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },

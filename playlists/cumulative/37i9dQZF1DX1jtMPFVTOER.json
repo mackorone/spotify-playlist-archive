@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5fyam1G71Apomiu8QZlINd"
+      },
+      "artists": [
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227446,
+      "name": "Alma - Edit",
+      "url": "https://open.spotify.com/track/7m5jAmQD37ef2fTzBSnfug"
+    },
+    {
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/1Sy2tvTIGo07HzZkicU7hR"
       },
@@ -9039,6 +9057,24 @@
     },
     {
       "album": {
+        "name": "Prophet",
+        "url": "https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296186,
+      "name": "Prophet",
+      "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
+    },
+    {
+      "album": {
         "name": "Pt. 1: What Once We Couldn't See",
         "url": "https://open.spotify.com/album/2MGHCGld8Qu0PADa03YVF0"
       },
@@ -9334,6 +9370,28 @@
       "duration_ms": 265612,
       "name": "reprise",
       "url": "https://open.spotify.com/track/1gQrLTJ3i09hLEIuK0zeuZ"
+    },
+    {
+      "album": {
+        "name": "Research & Brighter The Days",
+        "url": "https://open.spotify.com/album/4j2SWxLIolvdpLNsmm3hME"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        },
+        {
+          "name": "Honey Larochelle",
+          "url": "https://open.spotify.com/artist/5MximdP80OJjCsC3bfCkZc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231627,
+      "name": "Research",
+      "url": "https://open.spotify.com/track/3pnHGxWmDc4aSWurggmKm6"
     },
     {
       "album": {
@@ -11678,7 +11736,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 259012,
       "name": "THEO SAYS (feat. Ego Ella May & D'LEAU)",
       "url": "https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK"
@@ -12954,7 +13012,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 213673,
       "name": "Who Is She",
       "url": "https://open.spotify.com/track/6uQ5qjJGwjdi8E5RceB4gQ"
@@ -13182,7 +13240,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"

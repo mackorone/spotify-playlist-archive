@@ -1,32 +1,44 @@
 {
-  "description": "The soulful tunes to ease you into your day. Cover: Jon B",
-  "num_followers": 778878,
+  "description": "The soulful tunes to ease you into your day. Cover: Amerie",
+  "num_followers": 778897,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z92N1AAAAADN4Pd+jKNGdD4jt+NoaKlr",
+  "snapshot_id": "Z+Ye9AAAAAABQKPMACYYOpP+n9tc92gv",
   "tracks": [
     {
-      "added_at": "2025-03-21 05:07:45",
+      "added_at": "2025-03-28 04:00:52",
       "album": {
-        "name": "WAITING on YOU",
-        "url": "https://open.spotify.com/album/0OtjbHExx0ZAYi6TptDujz"
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/7EFyTSLVeJJxf765Z2fkfX"
       },
       "artists": [
         {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        },
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 171068,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1vZjhrIgcBUD0HlSxaUbRb"
+    },
+    {
+      "added_at": "2025-02-28 06:27:22",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R"
+      },
+      "artists": [
         {
           "name": "Alex Isley",
           "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 272653,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/0mR4HVXgk7Zku2WRX2Ndp5"
+      "duration_ms": 172444,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
     },
     {
       "added_at": "2025-03-21 05:07:45",
@@ -61,22 +73,6 @@
       "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
-      "added_at": "2024-01-19 06:57:11",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
       "added_at": "2025-03-07 05:51:28",
       "album": {
         "name": "Best For Us",
@@ -93,6 +89,26 @@
       "url": "https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ"
     },
     {
+      "added_at": "2025-03-21 05:07:45",
+      "album": {
+        "name": "WAITING on YOU",
+        "url": "https://open.spotify.com/album/0OtjbHExx0ZAYi6TptDujz"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 272653,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/0mR4HVXgk7Zku2WRX2Ndp5"
+    },
+    {
       "added_at": "2025-03-07 05:51:28",
       "album": {
         "name": "The Light (I Need You)",
@@ -107,22 +123,6 @@
       "duration_ms": 217626,
       "name": "The Light (I Need You)",
       "url": "https://open.spotify.com/track/02ONt6TdguBGgJzJTzwXCN"
-    },
-    {
-      "added_at": "2023-04-08 21:25:54",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5"
     },
     {
       "added_at": "2025-02-28 06:27:22",
@@ -145,36 +145,36 @@
       "url": "https://open.spotify.com/track/7IVJ5XhKVsLK9h9K0tQ6WX"
     },
     {
-      "added_at": "2025-02-28 06:27:22",
+      "added_at": "2024-01-19 06:57:11",
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 172444,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2022-10-03 05:27:10",
+      "added_at": "2023-04-08 21:25:54",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5"
     },
     {
       "added_at": "2025-02-28 06:27:22",
@@ -191,6 +191,22 @@
       "duration_ms": 154940,
       "name": "Cruel, Cruel World",
       "url": "https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD"
+    },
+    {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2025-03-21 05:07:45",
@@ -213,22 +229,6 @@
       "url": "https://open.spotify.com/track/2VNxBDZwqkEjUhik7ADY1g"
     },
     {
-      "added_at": "2024-03-29 05:32:09",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 274766,
-      "name": "YA YA",
-      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
-    },
-    {
       "added_at": "2025-03-14 06:23:41",
       "album": {
         "name": "Back 4 More",
@@ -243,6 +243,22 @@
       "duration_ms": 148316,
       "name": "Back 4 More",
       "url": "https://open.spotify.com/track/3ezFucDKLfqD79F4swxzfB"
+    },
+    {
+      "added_at": "2024-03-29 05:32:09",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 274766,
+      "name": "YA YA",
+      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
     },
     {
       "added_at": "2025-03-21 05:07:45",
@@ -265,22 +281,6 @@
       "url": "https://open.spotify.com/track/1lsX78ds0jYRhrDZeqRLvp"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 189462,
-      "name": "DO 4 LOVE",
-      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
-    },
-    {
       "added_at": "2025-01-31 08:39:29",
       "album": {
         "name": "Love You Too",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/6EjPDxrSXu2RcNctj6n0r1"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
       "added_at": "2025-02-07 07:58:43",
       "album": {
         "name": "Preach",
@@ -311,22 +327,6 @@
       "duration_ms": 199669,
       "name": "Preach",
       "url": "https://open.spotify.com/track/6IbR4u6OnMPIf3hkCAMXOh"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2025-02-14 09:04:21",
@@ -385,20 +385,20 @@
       "url": "https://open.spotify.com/track/7mWvEVLWW3VbEZHr9DOanz"
     },
     {
-      "added_at": "2024-03-29 05:32:09",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 72448,
-      "name": "DESERT EAGLE",
-      "url": "https://open.spotify.com/track/2dklP2sRuvcJROlrM8F7Dp"
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2025-02-21 07:53:52",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
+      "added_at": "2024-03-29 05:32:09",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 72448,
+      "name": "DESERT EAGLE",
+      "url": "https://open.spotify.com/track/2dklP2sRuvcJROlrM8F7Dp"
+    },
+    {
       "added_at": "2025-02-28 17:58:06",
       "album": {
         "name": "So Beautiful",
@@ -453,22 +469,6 @@
       "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
     },
     {
-      "added_at": "2023-09-16 14:17:34",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 236236,
-      "name": "Go Baby",
-      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
-    },
-    {
       "added_at": "2025-02-14 09:04:21",
       "album": {
         "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
@@ -483,6 +483,22 @@
       "duration_ms": 196439,
       "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
+    },
+    {
+      "added_at": "2023-06-30 04:28:27",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
     },
     {
       "added_at": "2025-03-21 16:03:31",
@@ -501,36 +517,20 @@
       "url": "https://open.spotify.com/track/6mK6k4NlOD6res9zS4u0cp"
     },
     {
-      "added_at": "2025-02-14 09:04:21",
+      "added_at": "2023-09-16 14:17:34",
       "album": {
-        "name": "If I Were an R&B Singer",
-        "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 259910,
-      "name": "Listen",
-      "url": "https://open.spotify.com/track/3nxxSDfCa3IGrjSZnVK9QJ"
-    },
-    {
-      "added_at": "2023-06-30 04:28:27",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 223231,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
       "added_at": "2025-02-21 07:53:52",
@@ -2337,6 +2337,22 @@
       "url": "https://open.spotify.com/track/1HpOY4aHE6ELbGN5dVYwS6"
     },
     {
+      "added_at": "2025-02-14 09:04:21",
+      "album": {
+        "name": "If I Were an R&B Singer",
+        "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 259910,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/3nxxSDfCa3IGrjSZnVK9QJ"
+    },
+    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "HIATUS",
@@ -2599,26 +2615,6 @@
       "duration_ms": 147375,
       "name": "Anniversary - A Cappella",
       "url": "https://open.spotify.com/track/4x2V5wl5swFlqyxOWDLIWv"
-    },
-    {
-      "added_at": "2025-02-14 09:04:21",
-      "album": {
-        "name": "IM G\u00d8\u00d8D",
-        "url": "https://open.spotify.com/album/6yphHYFgz76xbiqM5IJboW"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "IM G\u00d8\u00d8D",
-      "url": "https://open.spotify.com/track/6epfoLMB9gD8YP0Exav3gd"
     },
     {
       "added_at": "2024-05-10 05:54:01",

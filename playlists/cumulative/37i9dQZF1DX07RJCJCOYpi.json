@@ -107,6 +107,32 @@
     },
     {
       "album": {
+        "name": "Actitud",
+        "url": "https://open.spotify.com/album/3FpqCMWBNOKB3JUcDzPpsa"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        },
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        },
+        {
+          "name": "Gabriela Bandy",
+          "url": "https://open.spotify.com/artist/0COrCaAvBa2JlNk9mrs52a"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Actitud",
+      "url": "https://open.spotify.com/track/1Z8Nxa2iAw7nxNYKXMPCQQ"
+    },
+    {
+      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },

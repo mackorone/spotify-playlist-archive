@@ -2,7 +2,7 @@
 
 ### [Happy Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWVlYsZJXqdym)
 
-> All your favourite mood boosting bangers.
+> A big grin for your ears
 
 202 songs - 10 hr 11 min
 

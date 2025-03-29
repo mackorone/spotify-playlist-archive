@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Sarsa
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,585 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,592 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 23 | [Chcę Ciebie częściej](https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Chcę Ciebie częściej](https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7) | 3:01 |
 | 24 | [Dom Nad Wodą](https://open.spotify.com/track/4yYEMvHEvmT2V7BQNReuIv) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Dom Nad Wodą](https://open.spotify.com/album/7vq9UO4zeOLafqzhwdOx5h) | 3:14 |
 | 25 | [Dziewczyny Nie Płaczą](https://open.spotify.com/track/3HVcdH7cIOBYGsh274XadC) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Dziewczyny Nie Płaczą](https://open.spotify.com/album/3Ci1G2TzjXgOrIPIJMtCMW) | 3:16 |
-| 26 | [lwia część](https://open.spotify.com/track/5vNpRRljnYTxFnd0Qnhlmi) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [Ewelina Lisowska](https://open.spotify.com/artist/30HgsjsOObH4cjFMuQgqkw), [Questy](https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [nareszcie w domu](https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb) | 2:54 |
+| 26 | [lwia część](https://open.spotify.com/track/5vNpRRljnYTxFnd0Qnhlmi) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [Ewelina Lisowska](https://open.spotify.com/artist/30HgsjsOObH4cjFMuQgqkw), [Questy](https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ), [PMBTZ](https://open.spotify.com/artist/4fcXi70KndQt7IIKn9327O) | [nareszcie w domu](https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb) | 2:54 |
 | 27 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 |
 | 28 | [Zapomnij Mnie](https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zapomnij Mnie](https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi) | 2:58 |
 | 29 | [Burza](https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Burza](https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj) | 3:03 |

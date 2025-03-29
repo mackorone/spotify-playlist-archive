@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Velvet Trip
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,225 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,229 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 27 | [Cotton Mouth](https://open.spotify.com/track/0bL1roUjcKiJH3ReN9s6e8) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Cotton Mouth](https://open.spotify.com/album/5QdUJQ0MYLiuIJDQnzJitj) | 4:08 |
 | 28 | [Don't Go](https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Old Mervs](https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g) | 2:41 |
 | 29 | [Heat](https://open.spotify.com/track/6XeWf1EcepFru1mMnbRqd2) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Heat](https://open.spotify.com/album/3NqpTyGCfXBtX5Jxbzg0vC) | 4:08 |
-| 30 | [PSILOCYBIN & DAISIES](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 |
+| 30 | [\*\*PSILOCYBIN & DAISIES\*\*](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 |
 | 31 | [BLACK RUST](https://open.spotify.com/track/6z1lidUiwK0BM6Epnc1RzE) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [BLACK RUST](https://open.spotify.com/album/6jcv85R5cdebiSqqfADUcw) | 2:47 |
 | 32 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
 | 33 | [Hurricane J.I.M.](https://open.spotify.com/track/7hEo0jt8nRcwKBmiwsrIPT) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Hurricane J.I.M.](https://open.spotify.com/album/2t6cig6EWKyxwvs6b1ahUm) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,062 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,064 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 60 | [Amor Express](https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Amor Express](https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT) | 3:34 |
 | 61 | [GLEEMONEX](https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [GLEEMONEX](https://open.spotify.com/album/43YE48NLIeNmltm3ok8oPv) | 3:46 |
 | 62 | [malas decisiones](https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [malas decisiones](https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5) | 3:00 |
-| 63 | [Somos Diferentes](https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [El Discreto Encanto de la Melodía](https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH) | 3:45 |
+| 63 | [Donde nací](https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Donde nací](https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA) | 3:51 |
 | 64 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 |
-| 65 | [Aniversario Luctuoso](https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Comportamiento Errático](https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc) | 3:38 |
+| 65 | [Somos Diferentes](https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [El Discreto Encanto de la Melodía](https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH) | 3:45 |
 | 66 | [Entre Líneas](https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Entre Líneas](https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe) | 3:16 |
-| 67 | [Donde nací](https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Donde nací](https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA) | 3:51 |
-| 68 | [Las Cosas que Fueron Antes](https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cinta Testigo, Vol\. 1](https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW) | 3:02 |
-| 69 | [Estoy Bien](https://open.spotify.com/track/3lzASIb59OFvxqNTw6B5FK) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Estoy Bien](https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8) | 2:51 |
-| 70 | [Otra Vez De Nuevo](https://open.spotify.com/track/16GZsyUlkEHMdXjc9JucoL) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [El Misterio de Paul Higgs](https://open.spotify.com/album/7yv62EzM7FgvQnCWPZKnBa) | 4:26 |
+| 67 | [Aniversario Luctuoso](https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Comportamiento Errático](https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc) | 3:38 |
+| 68 | [Otra Vez De Nuevo](https://open.spotify.com/track/16GZsyUlkEHMdXjc9JucoL) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [El Misterio de Paul Higgs](https://open.spotify.com/album/7yv62EzM7FgvQnCWPZKnBa) | 4:26 |
+| 69 | [Las Cosas que Fueron Antes](https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cinta Testigo, Vol\. 1](https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW) | 3:02 |
+| 70 | [Estoy Bien](https://open.spotify.com/track/3lzASIb59OFvxqNTw6B5FK) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Estoy Bien](https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8) | 2:51 |
 | 71 | [El Invierno](https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp) | [Bifes con ensalada](https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y) | [El Invierno](https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO) | 3:20 |
 | 72 | [Oh my goth](https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Creo que necesito ir a dar una vuelta](https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee) | 3:12 |
 | 73 | [Puedo ver el mar en tus ojos](https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Puedo ver el mar en tus ojos](https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF) | 3:01 |

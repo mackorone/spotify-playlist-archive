@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,296 likes - 107 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,298 likes - 107 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 7 | [Overflow](https://open.spotify.com/track/0T6SxDe19DBdjVcdQtKJal) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Nmesoh Oma](https://open.spotify.com/artist/0Kr4XhL9iwbKeaooIGLJJo), [Dehvvd](https://open.spotify.com/artist/3MoXiLbVX1VS4PW29lJEbF) | [Love N\` Good Vibe](https://open.spotify.com/album/48gMLonb4XuvSlDJitpcef) | 2:17 |
 | 8 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 |
 | 9 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |
-| 10 | [Kaniona](https://open.spotify.com/track/4tozSiv1PmsJQxIauen2dL) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Akida](https://open.spotify.com/album/2T9r4gMpKXsGpfwHN2u3k2) | 5:32 |
+| 10 | [Kaniona](https://open.spotify.com/track/4tozSiv1PmsJQxIauen2dL) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Akida](https://open.spotify.com/album/2T9r4gMpKXsGpfwHN2u3k2) | 5:26 |
 | 11 | [Yayi](https://open.spotify.com/track/2h98pWC49nSgpp5oZXiby8) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Yayi](https://open.spotify.com/album/0RjeRFVyPekuguGovJboWF) | 2:42 |
 | 12 | [Calling \(Bless Me\)](https://open.spotify.com/track/70phX1Md7Hertk651Q06Z2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Calling \(Bless Me\)](https://open.spotify.com/album/6tgGEm8JciW3omq5q6kJKB) | 3:00 |
 | 13 | [Doing Of The Lord](https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Doing Of The Lord](https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD) | 4:19 |

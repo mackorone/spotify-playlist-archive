@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 956 likes - 298 songs - 15 hr 11 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 958 likes - 312 songs - 15 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -306,5 +306,19 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 296 | [Rawr :3](https://open.spotify.com/track/4l2N91QX3yW3jc94RQ9378) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi) | [Rawr :3](https://open.spotify.com/album/1Pz50tlzfchpsbVr6SaCf8) | 2:00 |
 | 297 | [Neverland](https://open.spotify.com/track/3xzsr8XPt2grKWJeNZzFqv) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Neverland](https://open.spotify.com/album/3EDAJhK1lYeXEzoHnf56he) | 4:04 |
 | 298 | [Neverland \- Instrumental](https://open.spotify.com/track/2sNYBbgOatXNrh0V7TlBF3) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Neverland](https://open.spotify.com/album/3EDAJhK1lYeXEzoHnf56he) | 4:04 |
+| 299 | [Urgently Jammin' \- Sir Meow Remix](https://open.spotify.com/track/6Jg34U868zijXDUyXATmiN) | [Domalomn](https://open.spotify.com/artist/0Kn6fWFACbBThLc8BIqe2S), [Sir Meow](https://open.spotify.com/artist/1CF0urFqWmcD4469a0xjvT) | [Urgently Jammin' \(Sir Meow Remix\)](https://open.spotify.com/album/6jwQWDPEOzsNd5f60FUfLP) | 2:30 |
+| 300 | [Reach For The Stars](https://open.spotify.com/track/0Cw2Zt0R16TtMz64rewS1G) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Reach For The Stars](https://open.spotify.com/album/1kd8yT5qBKTOFz0e0aYMBv) | 3:31 |
+| 301 | [turn tail](https://open.spotify.com/track/0ZF8y0kcVWFts8QqL4cZDA) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 3:58 |
+| 302 | [Reunite Our Life](https://open.spotify.com/track/6o1TDHXPiwFgimYvmadUrI) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Reunite Our Life](https://open.spotify.com/album/6s3McdmA8s09KEA70Y2Y4K) | 3:10 |
+| 303 | [Under The Moonlight \- Verplex Remix](https://open.spotify.com/track/2wIcIFx6AVzVnW6bt7pZZr) | [Fortenox](https://open.spotify.com/artist/3sPDVJHknQPF7NdJE1gtLe), [Sara Sherman](https://open.spotify.com/artist/5KCkWdz5nQgrEOJeZryUt4), [Q\-Mike](https://open.spotify.com/artist/2N1AVOmITCKYPtQ6bqCdW5), [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Under The Moonlight \(Verplex Remix\)](https://open.spotify.com/album/4D2sVuTgranz3LNdo3SsUM) | 4:20 |
+| 304 | [not askin 4 much](https://open.spotify.com/track/4O6qnVx4R1LJSPsXKYFrAG) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [not askin 4 much](https://open.spotify.com/album/7uTSVs0t0qhynCUG36MjvM) | 2:13 |
+| 305 | [Fusion Core](https://open.spotify.com/track/3xBwzNRocE0ISbdh8wTpyx) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:33 |
+| 306 | [Flashback](https://open.spotify.com/track/2aRjMPLp2gl580ySSKPTmE) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 1:42 |
+| 307 | [Real Fellas](https://open.spotify.com/track/4MIKCCuHz1nDUeYkYWiTSX) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 1:09 |
+| 308 | [Leave u GONE](https://open.spotify.com/track/6nNw8rUbBk94o0CpUGye0F) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 1:42 |
+| 309 | [I Feel Alright](https://open.spotify.com/track/6xPP2LJT84uHYRKoWIf1e9) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:09 |
+| 310 | [Oh Yeah?](https://open.spotify.com/track/3qjZvwNwyveoy6OPAk3kyd) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Oh Yeah?](https://open.spotify.com/album/4Zkl6RwdxqrcGoEsxzV9Gi) | 2:01 |
+| 311 | [DANCE!](https://open.spotify.com/track/5Yw9HZhnnOG2tkmSaRTfBE) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Knives](https://open.spotify.com/album/3YhBp1Hp4TNNnVlFYtXFr8) | 2:58 |
+| 312 | [Waggin' Like Us](https://open.spotify.com/track/0K04IaMVTW2dJhTEWg3bTo) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM), [DanyG](https://open.spotify.com/artist/7fMvm2Ryxh3HRuL0XQqzsr) | [Waggin' Like Us](https://open.spotify.com/album/6Vk2P5O78L7i8O79m8rDFG) | 3:34 |
 
-Snapshot ID: `AAABXDB5LZcWvoVaMzwVJjmqEk8qpNtT`
+Snapshot ID: `AAABaoPS0tc1SluSHhfVGmTFgR/WjPxr`

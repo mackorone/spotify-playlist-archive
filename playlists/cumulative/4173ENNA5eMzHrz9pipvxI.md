@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM &amp; Camden Cox
 
-1,685 songs - 3 day 8 hr 36 min
+1,686 songs - 3 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,6 +1019,7 @@
 | [Move Your Feet](https://open.spotify.com/track/4zOeuvMhFMFNOxOSp82jNe) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [Move Your Feet](https://open.spotify.com/album/1h3Yj4y5ImmCOpDagP7JYe) | 2:59 | 2024-10-03 | 2024-10-18 |
 | [Moves](https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL) | [Taurus](https://open.spotify.com/artist/0CuFrDO1gvky7Ozc0pL78K) | [Moves](https://open.spotify.com/album/4CTORO90BbUDClLgqR91tG) | 3:01 | 2024-08-29 | 2024-09-28 |
 | [Moving To The Beat](https://open.spotify.com/track/5fuMwp29NvRokSFVn7HatV) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG) | [Moving To The Beat](https://open.spotify.com/album/5NAhai4rAUQiO669naTtbS) | 2:41 | 2023-06-08 | 2023-06-23 |
+| [Mr\. Lie To Me](https://open.spotify.com/track/0dzXmgGeT8SvjTNYZLzU9A) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Mr\. Lie To Me](https://open.spotify.com/album/5IgB9qnMCiMiCNq1I9bPBA) | 2:49 | 2025-03-28 |  |
 | [Mr\. Vain \(with DJ Terry\)](https://open.spotify.com/track/1t7Wpml2HHWE5M1k7JPpYj) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Terri B!](https://open.spotify.com/artist/6eke2ECTHhJgqVsArc8t5z), [DJ Terry](https://open.spotify.com/artist/49vRRr0jNCPO794NATNr3j) | [Mr\. Vain \(with DJ Terry\)](https://open.spotify.com/album/5E9uuqtbdmgcAHtXlHXvCz) | 2:38 | 2024-01-26 | 2024-02-10 |
 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 | 2025-01-16 |  |
 | [Mumba](https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:48 | 2023-04-21 | 2023-05-06 |

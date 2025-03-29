@@ -1,13 +1,45 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 73409,
+  "num_followers": 73440,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkZQAAAAAZpR3MNV1Z+J94HIlHZaE0",
+  "snapshot_id": "Z+Ye3QAAAAAoJfRWhFBI/NvrLTJpU4HR",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:00:29",
+      "album": {
+        "name": "Cry for You",
+        "url": "https://open.spotify.com/album/2k9VFPaiIesICkr7ejKZmj"
+      },
+      "artists": [
+        {
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/37Ay1HBNwBpUs1tTFR3ffJ"
+    },
+    {
+      "added_at": "2025-03-28 04:00:29",
+      "album": {
+        "name": "Mister Smooth",
+        "url": "https://open.spotify.com/album/2zvfduh8zB8N3YRyoaHxqI"
+      },
+      "artists": [
+        {
+          "name": "Dee Brown",
+          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Mister Smooth",
+      "url": "https://open.spotify.com/track/0ME3Tfi0cHGEGavp52dZ8i"
+    },
     {
       "added_at": "2025-03-21 04:00:37",
       "album": {
@@ -131,22 +163,6 @@
       "duration_ms": 238595,
       "name": "New Hope",
       "url": "https://open.spotify.com/track/39VzYc43kGePZ9yXZOMuMR"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Let's Fly Away",
-        "url": "https://open.spotify.com/album/0szjKEYXMf68uAFslAcdqh"
-      },
-      "artists": [
-        {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
-        }
-      ],
-      "duration_ms": 226624,
-      "name": "Let's Fly Away",
-      "url": "https://open.spotify.com/track/5uw1xYhVYVAp8BapqMgmD9"
     },
     {
       "added_at": "2025-03-07 05:00:20",
@@ -1335,22 +1351,6 @@
       "duration_ms": 229136,
       "name": "Love Crash",
       "url": "https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O"
-    },
-    {
-      "added_at": "2024-07-12 04:01:00",
-      "album": {
-        "name": "The Thing Is...",
-        "url": "https://open.spotify.com/album/7sQfXibE5MKsDrEgZLMC9K"
-      },
-      "artists": [
-        {
-          "name": "Dee Brown",
-          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "The Thing Is...",
-      "url": "https://open.spotify.com/track/74TMwWbbqCMNtie5jGo7rL"
     },
     {
       "added_at": "2023-07-28 04:01:00",

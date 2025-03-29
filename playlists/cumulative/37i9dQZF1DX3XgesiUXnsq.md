@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-771 songs - 1 day 18 hr 55 min
+772 songs - 1 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,7 @@
 | [SSII.](https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SSII.](https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1) | 4:36 | 2022-09-23 | 2023-06-03 |
 | [Stand Tall](https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Stand Tall](https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8) | 2:09 | 2024-03-15 | 2024-05-03 |
 | [Stand Up](https://open.spotify.com/track/3wOQQaIfJtmWZHDyS6qTRz) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [777](https://open.spotify.com/album/2O7VQiUdIl95INCJ4yJfdl) | 2:28 | 2023-09-01 | 2023-11-11 |
-| [STANK ROSE](https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STANK ROSE](https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE) | 3:06 | 2024-06-28 |  |
+| [STANK ROSE](https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STANK ROSE](https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE) | 3:06 | 2024-06-28 | 2025-03-29 |
 | [Starlets \(feat\. Dave East\)](https://open.spotify.com/track/73cLVjDX9ikHXdnQKhL9RW) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 3:30 | 2023-08-18 | 2023-09-30 |
 | [Stereo](https://open.spotify.com/track/5iBHDlBnHNXVZU7NPKnyIi) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Stereo](https://open.spotify.com/album/0VXiRXHcZVNbC6iQqN3z3B) | 1:53 | 2023-07-21 | 2023-08-05 |
 | [Sticks & Stones](https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Sticks & Stones](https://open.spotify.com/album/7mT3zLzfLOF6iIibM3a0xF) | 3:44 | 2024-03-01 |  |
@@ -678,6 +678,7 @@
 | [The Light](https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 4:03 | 2023-02-17 | 2023-06-10 |
 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 | 2023-01-14 | 2023-02-25 |
 | [The Right To Love Us](https://open.spotify.com/track/41sYW1EhLzlMWlaefZGWvq) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:51 | 2024-04-12 |  |
+| [The Rose Bowl](https://open.spotify.com/track/4R3V2vn98DbTGi9s0xnNjq) | [The High & Mighty](https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [The Rose Bowl](https://open.spotify.com/album/738mu27ZSAb4E6HuSO9tzt) | 4:15 | 2025-03-28 |  |
 | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/track/2T3eL2nVjkbdVOVbVi84Fj) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/album/4HAGH15IhcCaqgHotxfoKk) | 2:10 | 2024-05-10 | 2024-09-07 |
 | [The Scoop On Heaven](https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:43 | 2022-07-22 | 2023-04-23 |
 | [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 | 2023-04-21 | 2023-08-26 |

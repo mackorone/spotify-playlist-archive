@@ -642,7 +642,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 281214,
       "name": "Better The Devil You Know",
       "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 172920,
       "name": "Hittin' On Nothin'",
       "url": "https://open.spotify.com/track/2DrvIeRI23eYzj8CswsTE7"
@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 234293,
       "name": "Holes",
       "url": "https://open.spotify.com/track/5bocGWPWTmgtGmRyaO6Mf5"
@@ -4521,6 +4521,28 @@
     },
     {
       "album": {
+        "name": "I Love Freddie King",
+        "url": "https://open.spotify.com/album/7tDSE4yiORN85TrcOMJcPC"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327209,
+      "name": "Love Her with a Feeling",
+      "url": "https://open.spotify.com/track/30Gu5mcMflfTdIa0OG8XkS"
+    },
+    {
+      "album": {
         "name": "Love Is All",
         "url": "https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj"
       },
@@ -4706,6 +4728,28 @@
       "duration_ms": 197468,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
+    },
+    {
+      "album": {
+        "name": "Back For Me",
+        "url": "https://open.spotify.com/album/41bSZmBET2F5LT8Powqgur"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216186,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/3tZZqzhYNqBl39I5owZsKU"
     },
     {
       "album": {
@@ -6046,7 +6090,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 162691,
       "name": "She's a Burglar",
       "url": "https://open.spotify.com/track/1HrmuN1wQqriGqfh3DLJDH"
@@ -6552,6 +6596,24 @@
       "duration_ms": 241480,
       "name": "Still The World Goes Round",
       "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
+    },
+    {
+      "album": {
+        "name": "Still Walking With Me",
+        "url": "https://open.spotify.com/album/2ws6PyyFhmVuk6eEqxVadk"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Still Walking With Me",
+      "url": "https://open.spotify.com/track/37jT0oB7NHLP76GGryKFFF"
     },
     {
       "album": {

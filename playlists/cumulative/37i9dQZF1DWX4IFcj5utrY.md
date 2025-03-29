@@ -2,9 +2,9 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI?si=94Q5YrYJRUSzowE7Hwzc\-w">!Sooks</a>
+> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp?si=mgEuGcu\_RBCLL6wEkKRbKw">MÖRDA</a>
 
-1,172 songs - 4 day 9 hr 2 min
+1,173 songs - 4 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Gino Brown Dance Ritual Radio Edit \- Radio](https://open.spotify.com/track/6O8Wjd9P6GBJzgqxjerwkS) | [Gino Brown](https://open.spotify.com/artist/7hAFqypJQMJwOYdidATue1), [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB), [Zandii J](https://open.spotify.com/artist/2zTLn9lWKoh8Mu0L2ezrkp) | [Dance Ritual](https://open.spotify.com/album/2dAD48CxR68kurQZztIQ46) | 4:14 | 2022-10-31 | 2022-11-18 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-13 | 2024-08-30 |
 | [Give It To You \- Ralf GUM Main Mix](https://open.spotify.com/track/20B6gicCuDMLpwDJ6TAdfE) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Paula](https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK) | [Give It To You](https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP) | 8:46 | 2022-03-03 | 2022-06-24 |
+| [Glory](https://open.spotify.com/track/2BwVqnuWjXwZkRmmGJDmk1) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Asante III](https://open.spotify.com/album/5zi9wqbDdf4iBDSDWbzu6D) | 5:01 | 2025-03-28 |  |
 | [Go Deeper](https://open.spotify.com/track/5DuYUQO1VPDM5vfcb6esuP) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Go Deeper](https://open.spotify.com/album/5srysQygAgaCcq4rHZcXDi) | 3:09 | 2024-07-11 | 2024-10-25 |
 | [GOAT](https://open.spotify.com/track/0Fv98w83b3DRRdcDXbxHFt) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf) | [Ghetto King](https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r) | 8:15 | 2021-12-02 | 2022-02-26 |
 | [God's Calling](https://open.spotify.com/track/2YKWrbHso3MViCrzcY8Qsk) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Nomtha Welanga](https://open.spotify.com/artist/2gQO2FY0yGBiFZUhXuAGJ0), [Cuebur](https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7) | [God's Calling](https://open.spotify.com/album/66bCCLeNNd58izphT50VwP) | 6:00 | 2024-09-20 |  |
@@ -687,7 +688,7 @@
 | [Msiba \- Original Mix](https://open.spotify.com/track/0tZaZ6JG14H2sHE2xRsA0w) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Msiba](https://open.spotify.com/album/65c8ruzo77X0t6bPNKWO0q) | 6:26 | 2022-04-28 | 2022-05-06 |
 | [Munghana](https://open.spotify.com/track/4geNXVubg5QYEDx8zDuw0Z) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Fatso AMG](https://open.spotify.com/artist/1DkPgvRMOTHVi0mGoSor7V) | [Asante](https://open.spotify.com/album/6JDD5mOfpytom3PFSySw8J) | 5:43 | 2022-11-07 | 2023-01-01 |
 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 | 2024-04-12 | 2024-07-19 |
-| [Murder On The Dancefloor \- THEMBA Remix](https://open.spotify.com/track/4A7G8HAFuGDsKa3jpBhGYf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Murder On The Dancefloor \(THEMBA Remix\)](https://open.spotify.com/album/77hmYc53Wa20s62MN2xUI9) | 3:45 | 2024-11-07 |  |
+| [Murder On The Dancefloor \- THEMBA Remix](https://open.spotify.com/track/4A7G8HAFuGDsKa3jpBhGYf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Murder On The Dancefloor \(THEMBA Remix\)](https://open.spotify.com/album/77hmYc53Wa20s62MN2xUI9) | 3:45 | 2024-11-07 | 2025-03-29 |
 | [Muziki Tamu](https://open.spotify.com/track/2yejkesACbQlEGlzZQgpOy) | [Valexx](https://open.spotify.com/artist/4wA2CLt9Kxkh5440U9ol2K), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Muziki Tamu](https://open.spotify.com/album/7doi8dQOas55rWGRctflKy) | 5:43 | 2021-11-25 | 2022-01-07 |
 | [Muziq Unboxed](https://open.spotify.com/track/79cCWXqthsH0KDSeY6Aldj) | [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio) | [Muziq Unboxed](https://open.spotify.com/album/2UfnKtExvC2owCH1nNegSb) | 6:18 | 2024-04-12 | 2024-06-14 |
 | [Mvemvane](https://open.spotify.com/track/2bWiI4pTlIsn4pamtZKxoC) | [Gil Bokobza](https://open.spotify.com/artist/61hqfFpaTu0oQO8lHYRBoW), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY) | [Mvemvane](https://open.spotify.com/album/457xvC7V7CIZ6cqAJgXVW2) | 7:30 | 2022-07-14 | 2022-07-29 |

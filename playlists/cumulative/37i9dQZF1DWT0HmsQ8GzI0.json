@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Aron Andras",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Mindig k\u00e9sek, de hozz\u00e1d j\u00f3kor indultam",
+        "url": "https://open.spotify.com/album/4XJfMiki4pUhzMAMsG9yDn"
+      },
+      "artists": [
+        {
+          "name": "Bark\u00f3czi No\u00e9mi",
+          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231669,
+      "name": "23:59",
+      "url": "https://open.spotify.com/track/3dvJKnKErvpMNFwh15jHCB"
+    },
+    {
+      "album": {
         "name": "6:00PM",
         "url": "https://open.spotify.com/album/1fTIcQsiqb7wJQaZM5iuSt"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 194716,
       "name": "6:00PM",
       "url": "https://open.spotify.com/track/75qUrUiaHPXMrYHWjGZPVN"
@@ -278,6 +296,24 @@
       "duration_ms": 170000,
       "name": "Back",
       "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
+    },
+    {
+      "album": {
+        "name": "Bad News",
+        "url": "https://open.spotify.com/album/6uanB5p65YWX9FXnFfvkzg"
+      },
+      "artists": [
+        {
+          "name": "Aron Andras",
+          "url": "https://open.spotify.com/artist/7JNJRhoNangEwIlZQYHIT0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167604,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/43gfQiSeh7nWhM7rN6azfn"
     },
     {
       "album": {
@@ -532,7 +568,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 183000,
       "name": "cry it all out",
       "url": "https://open.spotify.com/track/7CtBglVym4oKK7idIf2IkT"
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 262956,
       "name": "evil under the sun",
       "url": "https://open.spotify.com/track/4XHRRRIGi3zi3Ee4Hr84a1"
@@ -1026,6 +1062,24 @@
       "duration_ms": 97263,
       "name": "Ez vagyok \u00e9n",
       "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
+    },
+    {
+      "album": {
+        "name": "Ezen a hegyen",
+        "url": "https://open.spotify.com/album/5S4OtjWJng2qoheMCwepX6"
+      },
+      "artists": [
+        {
+          "name": "Platon Karataev",
+          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336800,
+      "name": "Ezen a hegyen",
+      "url": "https://open.spotify.com/track/1mfHxJ6OHEbtLgJrFSODp3"
     },
     {
       "album": {
@@ -1174,6 +1228,24 @@
       "duration_ms": 147200,
       "name": "F\u00c9NY",
       "url": "https://open.spotify.com/track/1khOPJl7h5jFsAiifMOK6p"
+    },
+    {
+      "album": {
+        "name": "F\u00e9ny \u00e9s \u00e1rny\u00e9k",
+        "url": "https://open.spotify.com/album/3yfocIrkBwSB1ZL6wEG8H0"
+      },
+      "artists": [
+        {
+          "name": "Magashegyi Underground",
+          "url": "https://open.spotify.com/artist/7hyP2xUpgaCaMi4rrm4Fzi"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "F\u00e9ny \u00e9s \u00e1rny\u00e9k",
+      "url": "https://open.spotify.com/track/4ZTQnfY8QIZnHMkMAGLMlx"
     },
     {
       "album": {
@@ -2092,7 +2164,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 172000,
       "name": "Magadat nem csapod be",
       "url": "https://open.spotify.com/track/3QbThy6woKU4hO0eqsVNfx"
@@ -2114,6 +2186,24 @@
       "duration_ms": 190335,
       "name": "Magam sem tudom",
       "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
+    },
+    {
+      "album": {
+        "name": "Magam ut\u00e1n",
+        "url": "https://open.spotify.com/album/1U4gP2lWnkQfqzfC3ytqCf"
+      },
+      "artists": [
+        {
+          "name": "Anna and The Barbies",
+          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Magam ut\u00e1n",
+      "url": "https://open.spotify.com/track/0onKegvsFbagpjwduUVB6k"
     },
     {
       "album": {
@@ -2240,6 +2330,24 @@
       "duration_ms": 227391,
       "name": "Menj",
       "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
+    },
+    {
+      "album": {
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/4YFsQkOnHzqpkcRnwWvPMR"
+      },
+      "artists": [
+        {
+          "name": "R\u00fat",
+          "url": "https://open.spotify.com/artist/0PkKB9yQ77XjcRzgeY6Hd9"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126947,
+      "name": "MESS",
+      "url": "https://open.spotify.com/track/2Ksy0mAH7hM5hh2TQSOyAx"
     },
     {
       "album": {
@@ -2530,7 +2638,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 206250,
       "name": "nem lehet",
       "url": "https://open.spotify.com/track/0ceLlvlmbnIjzgp5QLmGHI"
@@ -2994,7 +3102,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 186976,
       "name": "R\u00e1d gondolok",
       "url": "https://open.spotify.com/track/7N0FCcE48O2rduEJUUEYHq"
@@ -3038,6 +3146,24 @@
       "duration_ms": 154329,
       "name": "SAME OLD LIES",
       "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
+    },
+    {
+      "album": {
+        "name": "Seasonal Depression",
+        "url": "https://open.spotify.com/album/5Ytwisk3UG3v4gwOJ1Hj4m"
+      },
+      "artists": [
+        {
+          "name": "som som",
+          "url": "https://open.spotify.com/artist/5QsyNOmpemZtsGIjTcufjN"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Seasonal Depression",
+      "url": "https://open.spotify.com/track/1iyRkjyCbqNtYOhfIF2zw7"
     },
     {
       "album": {
@@ -3092,7 +3218,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 357794,
       "name": "Side Of You",
       "url": "https://open.spotify.com/track/0jPfxSl1KsNnTFACeRGj4Y"
@@ -3444,7 +3570,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 160573,
       "name": "S\u00e9t\u00e1l\u00f3",
       "url": "https://open.spotify.com/track/5FKecXHiTbEjulc09VAMCc"
@@ -3488,6 +3614,24 @@
       "duration_ms": 283631,
       "name": "Tal\u00e1n",
       "url": "https://open.spotify.com/track/0wjC043aJvsNJ4irylqZht"
+    },
+    {
+      "album": {
+        "name": "The Last Thing On My Mind",
+        "url": "https://open.spotify.com/album/2Vz3JBbfvUwPNUYuujEpsg"
+      },
+      "artists": [
+        {
+          "name": "Aron Andras",
+          "url": "https://open.spotify.com/artist/7JNJRhoNangEwIlZQYHIT0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190839,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/5oPK2g4KYkMgQwIoTKPfGA"
     },
     {
       "album": {

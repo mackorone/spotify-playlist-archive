@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Shoreline Mafia",
+  "description": "Holdin' it down for the westside. Cover: YG",
   "name": "Westside",
   "tracks": [
     {
@@ -256,6 +256,32 @@
       "duration_ms": 205190,
       "name": "2+2",
       "url": "https://open.spotify.com/track/3JB3u2A7BrgIn0y3WvNm64"
+    },
+    {
+      "album": {
+        "name": "2004 (feat. buddy & the gang)",
+        "url": "https://open.spotify.com/album/0FKxD8lXXxJI0DDMMm8whM"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "The Gang",
+          "url": "https://open.spotify.com/artist/0FgJeqcioFnFh5jYUNZXMI"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "2004 - feat. buddy & the gang",
+      "url": "https://open.spotify.com/track/53TwJxoz2dCjrfRYZJAIaQ"
     },
     {
       "album": {
@@ -1028,6 +1054,32 @@
       "duration_ms": 247741,
       "name": "Ain't Like That",
       "url": "https://open.spotify.com/track/5sm3g5UwuDnzKN91T5elip"
+    },
+    {
+      "album": {
+        "name": "Ain't My Fault",
+        "url": "https://open.spotify.com/album/1mD0rR1VKGaJHd0cpfPZBG"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Mike G Beatz",
+          "url": "https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "Ain't My Fault",
+      "url": "https://open.spotify.com/track/453O275lHzJI4y321q2dk7"
     },
     {
       "album": {
@@ -4436,7 +4488,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 159675,
       "name": "Commas",
       "url": "https://open.spotify.com/track/0I8ddt9kCiPAbWAykyEIiI"
@@ -5178,7 +5230,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 133390,
       "name": "Diamond In The Rough",
       "url": "https://open.spotify.com/track/2ZW59aZDbsL3dxejR5zZ1r"
@@ -6800,7 +6852,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 206430,
       "name": "F*ck Everybody (Free Maxx)",
       "url": "https://open.spotify.com/track/7hz5v6w6qEqO6GOeBn9Foc"
@@ -9019,6 +9071,24 @@
     },
     {
       "album": {
+        "name": "50 Percent / God's Design",
+        "url": "https://open.spotify.com/album/4syRUjVtr4fz9XKKSWPIL3"
+      },
+      "artists": [
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168152,
+      "name": "God's Design",
+      "url": "https://open.spotify.com/track/7Mvvl3AyzaxyizY3Bveo86"
+    },
+    {
+      "album": {
         "name": "God, i needa know",
         "url": "https://open.spotify.com/album/2vDv4kTMuBiZ8xZftHGKY4"
       },
@@ -10402,7 +10472,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 147281,
       "name": "Hopped Out",
       "url": "https://open.spotify.com/track/3mPZLprpiATrEsnLuPIGkc"
@@ -12162,6 +12232,28 @@
       "duration_ms": 142336,
       "name": "LA",
       "url": "https://open.spotify.com/track/6JZu4re1SmhRxi4heaK0TH"
+    },
+    {
+      "album": {
+        "name": "LA Takeover",
+        "url": "https://open.spotify.com/album/0xLXXEp3MNVElpzOU8SbDp"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136247,
+      "name": "LA Takeover",
+      "url": "https://open.spotify.com/track/3wMSKHBO2KC1MlQK5FbLLK"
     },
     {
       "album": {
@@ -14628,7 +14720,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 220408,
       "name": "My Baby (feat. Shordie Shordie)",
       "url": "https://open.spotify.com/track/6R9Gqy0QyiMpJR6ddlStKF"
@@ -15274,6 +15366,28 @@
       "duration_ms": 190752,
       "name": "Nice Guy",
       "url": "https://open.spotify.com/track/63q1d3JbflRFoXUL5rakS4"
+    },
+    {
+      "album": {
+        "name": "NIGHTMARES (feat. Lil Poppa)",
+        "url": "https://open.spotify.com/album/1CAkUf2GVdMiIzm3dABpss"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "NIGHTMARES (feat. Lil Poppa)",
+      "url": "https://open.spotify.com/track/1EQE7ZGC1n1AM49KHa0PcB"
     },
     {
       "album": {
@@ -16900,7 +17014,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 209361,
       "name": "Party On The Westside",
       "url": "https://open.spotify.com/track/0tjTV9oGVm0umoeWRINcVF"
@@ -17058,7 +17172,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 137142,
       "name": "Pawn to a King",
       "url": "https://open.spotify.com/track/4QBlP6IKmTPWSL8OH3b5jq"
@@ -18328,7 +18442,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 160310,
       "name": "RESCUE ME - WITH TY DOLLA $IGN",
       "url": "https://open.spotify.com/track/3s0zPWfdRaa1unEtdWktRT"
@@ -22392,6 +22506,32 @@
       "duration_ms": 170363,
       "name": "Thru the Week",
       "url": "https://open.spotify.com/track/2sgoxBPUrgJHG7A31z9ZKn"
+    },
+    {
+      "album": {
+        "name": "HEART OF A LION",
+        "url": "https://open.spotify.com/album/0qdCOGj1gLQJIeMxHpTCiO"
+      },
+      "artists": [
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238508,
+      "name": "Thuggin (feat. Larry June)",
+      "url": "https://open.spotify.com/track/6Ne7OCro5xi3QW7sQkXsNJ"
     },
     {
       "album": {

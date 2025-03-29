@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Durk\)
 
-2,705 songs - 5 day 16 hr 48 min
+2,707 songs - 5 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [FROZEN](https://open.spotify.com/track/7fDkibl3HW9HbqcR2SxCQy) | [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [FROZEN](https://open.spotify.com/album/34swGg6I2ouASM3bx5lTU1) | 2:53 | 2023-11-16 | 2024-02-02 |
 | [FRUNTMAN](https://open.spotify.com/track/1SvOybZTHl5FjhgKSAENxR) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL) | [FRUNTMAN](https://open.spotify.com/album/2Tp3dfz6lRQDTb9ms2rcTs) | 1:25 | 2024-06-20 | 2024-07-27 |
 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 | 2022-12-01 | 2023-01-28 |
+| [FTW](https://open.spotify.com/track/3FtdFxk3mXsBtmCICjIYOZ) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [FTW](https://open.spotify.com/album/3QopZMe12YsPHvz3LXJAx4) | 2:28 | 2025-03-27 |  |
 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 | 2022-07-28 | 2022-09-09 |
 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 | 2024-02-08 | 2024-04-05 |
 | [Fuel](https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:33 | 2024-07-17 | 2024-12-28 |
@@ -968,6 +969,7 @@
 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 | 2024-12-13 | 2025-02-07 |
 | [HANDSOME](https://open.spotify.com/track/79deaUtPDHb03XPGbw9vkn) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [HANDSOME](https://open.spotify.com/album/4cFVHMqi4KvkOrb6zlhdvT) | 2:06 | 2022-06-23 | 2022-07-29 |
 | [Happy Birthday](https://open.spotify.com/track/4SdsAqf5pPAG2y4bVyQpXV) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Bokleen World](https://open.spotify.com/album/2NMBP88dc00HG0xHl748ah) | 1:53 | 2022-12-01 | 2023-01-20 |
+| [HARD LIFE \(feat\. Carey Washington\)](https://open.spotify.com/track/7yYYyYKELkxv4aLTTLWwSZ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [HARD LIFE \(feat\. Carey Washington\)](https://open.spotify.com/album/31EbjNtO1KwwMnhqLt3NFB) | 3:42 | 2025-03-27 |  |
 | [Hard To Handle](https://open.spotify.com/track/5Wv4g4QWO3ArPnbyP5Z6Mx) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1tJcinzpjwIOAwfO1hmFe0) | 3:35 | 2023-08-17 | 2023-09-29 |
 | [Hard To Sleep](https://open.spotify.com/track/2We63UGhJEyD2x4n74jwpa) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Khaza](https://open.spotify.com/album/5ob4kF4KkXFDqC5ysCdCV8) | 2:24 | 2022-06-17 | 2022-07-15 |
 | [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 | 2024-03-08 | 2024-05-10 |

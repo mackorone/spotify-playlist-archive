@@ -4,7 +4,7 @@
 
 > All the South African and global Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR?si=80w1ZhZASaynZaLiPU0RKQ"> Ariana Grande</a>
 
-341 songs - 18 hr 12 min
+342 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 | 2024-11-28 | 2025-01-31 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2024-07-12 |
 | [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 | 2025-03-20 |  |
+| [twilight zone](https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:18 | 2025-03-28 |  |
 | [TYSM](https://open.spotify.com/track/5P7gnRCCpKU64vfv27HaMj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [TYSM](https://open.spotify.com/album/22WuTYFcw6HfArfwt4woMm) | 2:49 | 2024-11-21 | 2025-01-24 |
 | [U & Me](https://open.spotify.com/track/0KwD3YFqizHG8uhCKOVXXM) | [Tom Mitchell](https://open.spotify.com/artist/0QZSfJjzE6XM7qdpOuz6kM) | [U & Me](https://open.spotify.com/album/32HOMsl6VaLSehGmHNlJMr) | 3:15 | 2024-11-21 | 2025-03-21 |
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-11-28 | 2025-01-24 |

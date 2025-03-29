@@ -1,13 +1,49 @@
 {
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Southern Avenue",
-  "num_followers": 456218,
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: KebMo & Taj Mahal",
+  "num_followers": 456308,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkaAAAAACPehvQfdjoapHU/qArveHU",
+  "snapshot_id": "Z+Ye3wAAAABWSJFAsvc56c6fYVKIqY8E",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:00:31",
+      "album": {
+        "name": "Junkyard Dog",
+        "url": "https://open.spotify.com/album/0WVkUtWaysC9eKuRWGZ8pM"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 260653,
+      "name": "Junkyard Dog",
+      "url": "https://open.spotify.com/track/27nSMmahGMLWDt9JMFVc5r"
+    },
+    {
+      "added_at": "2025-03-28 04:00:31",
+      "album": {
+        "name": "Wayaheadaya",
+        "url": "https://open.spotify.com/album/6Z7ZviIGTekhAxxfGsETYw"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Wayaheadaya",
+      "url": "https://open.spotify.com/track/1jhhFfb1VpwP9WatcxLNTL"
+    },
     {
       "added_at": "2025-03-21 04:00:40",
       "album": {
@@ -87,30 +123,6 @@
       "duration_ms": 191220,
       "name": "You Deserve More - Magic Bus Sessions",
       "url": "https://open.spotify.com/track/0S8Rr1eEh348hp2CYLuTV9"
-    },
-    {
-      "added_at": "2025-02-21 05:00:17",
-      "album": {
-        "name": "Room On The Porch [Feat. Ruby Amanfu]",
-        "url": "https://open.spotify.com/album/0JfWoPk879EM5WZDjlbpCH"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        },
-        {
-          "name": "Ruby Amanfu",
-          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
-        }
-      ],
-      "duration_ms": 245482,
-      "name": "Room On The Porch [Feat. Ruby Amanfu]",
-      "url": "https://open.spotify.com/track/7pP1IYTzfviqtXtXEjy4ae"
     },
     {
       "added_at": "2025-02-21 05:00:17",
@@ -1427,22 +1439,6 @@
       "duration_ms": 272153,
       "name": "Change",
       "url": "https://open.spotify.com/track/24GLkBy7X3QTDov2IwdL70"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Get Real High",
-        "url": "https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 247380,
-      "name": "Get Real High",
-      "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Abdul & The Coffee Theory
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,868 likes - 99 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,900 likes - 99 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

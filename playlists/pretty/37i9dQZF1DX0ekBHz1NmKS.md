@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,854 likes - 109 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,883 likes - 109 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 108 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 |
 | 109 | [Leva mitt liv](https://open.spotify.com/track/7C4PvS9o9UrdnmwwZvEgFs) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Leva mitt liv](https://open.spotify.com/album/6rOmVnmWwg8LxuqA9NHJVn) | 2:33 |
 
-Snapshot ID: `Z+XYegAAAACx7xUSh2dCrUez85nScTkG`
+Snapshot ID: `Z+aqBQAAAACkXM/MHWZ/jTmzJqXKmYUf`

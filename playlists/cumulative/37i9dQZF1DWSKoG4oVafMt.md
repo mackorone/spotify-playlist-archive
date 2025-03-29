@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,048 songs - 2 day 8 hr 34 min
+1,049 songs - 2 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [Oda Vyah](https://open.spotify.com/track/3HNS3MnORTpGwF2AzyAZ8G) | [Jashan Singh](https://open.spotify.com/artist/76Ae8xQK47gr8nrKDRW9Mj), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Oda Vyah](https://open.spotify.com/album/430x6Mrp0yrtzhEc46Ob6g) | 3:42 | 2022-10-25 | 2022-12-16 |
 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2025-02-13 | 2025-02-16 |
 | [Online](https://open.spotify.com/track/7fGrbGJKlgW8Kr2IB4aENm) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Online](https://open.spotify.com/album/7ljwwgTixfY9XDUs8J5kS7) | 3:22 | 2022-09-21 | 2023-02-04 |
+| [ONLY YOU](https://open.spotify.com/track/4HZhULqSOxJX70vpZD4Iz5) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [ONLY YOU](https://open.spotify.com/album/0e78qBqXaRP3fKiu1gCBbG) | 2:42 | 2025-03-28 |  |
 | [Oye Hoye Hoye](https://open.spotify.com/track/7wNKW6AIOMNxmvRnQf2VzC) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Dhanashree](https://open.spotify.com/artist/5DxxK2XiSaYG6cfI8bzmm5) | [Oye Hoye Hoye](https://open.spotify.com/album/2e3nyvQs2wwXQ7EGJHnxCv) | 2:52 | 2021-12-02 | 2022-04-06 |
 | [Paagla](https://open.spotify.com/track/7mW3mM1aovDaOnSyK5e9W8) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Paagla](https://open.spotify.com/album/7ucqStPOMhaUWxrOfJKke9) | 3:43 | 2021-12-02 | 2022-02-01 |
 | [Pagal](https://open.spotify.com/track/7n85x6EpfleVtbIjQGe0TD) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Pagal](https://open.spotify.com/album/1t6klKMatDBtqcKC9de7eG) | 3:09 | 2024-05-27 | 2025-02-25 |
@@ -982,7 +983,7 @@
 | [Tu Tan Main](https://open.spotify.com/track/4QooqUadhw5LMMhkik7zJ8) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs) | [Tu Tan Main \- Single](https://open.spotify.com/album/267NrowQgB4r2cNpLB3IWL) | 3:08 | 2022-12-16 | 2023-01-20 |
 | [Tu Te Main](https://open.spotify.com/track/7KxdPXIVFd3duEorQHYLHi) | [Gursanj](https://open.spotify.com/artist/6BJ2cExwgsqjBf6QfJvg6H) | [Tu Te Main](https://open.spotify.com/album/4jJmqUDEfmn6EiuyNWOg1B) | 2:58 | 2024-04-05 | 2024-05-24 |
 | [Tu Te Main](https://open.spotify.com/track/6Pyf5cGrN16BkOPyIdEhEd) | [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN) | [Tu Te Main](https://open.spotify.com/album/0VB9eBkk1qqChet8XkimVs) | 3:30 | 2022-07-29 | 2022-08-18 |
-| [U & I](https://open.spotify.com/track/4csJV7NY0u7FoBjDwBv96I) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [U & I](https://open.spotify.com/album/1TG6eUZ3IiI173LUoe0oRI) | 3:24 | 2025-03-03 |  |
+| [U & I](https://open.spotify.com/track/4csJV7NY0u7FoBjDwBv96I) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [U & I](https://open.spotify.com/album/1TG6eUZ3IiI173LUoe0oRI) | 3:24 | 2025-03-03 | 2025-03-29 |
 | [Uche Uche Paunche](https://open.spotify.com/track/2GRerbOFlewgeat5rubxWk) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Uche Uche Paunche](https://open.spotify.com/album/4ZRHTGDeYYTgdVc2lAIN1d) | 3:22 | 2022-01-13 | 2022-02-01 |
 | [Uchiyaan Dewaraan](https://open.spotify.com/track/1CYn0jiSz0gubTpYJbuTMS) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Uchiyaan Dewaraan](https://open.spotify.com/album/6MyTdWlbXDZcpGDXDBGW0G) | 3:47 | 2021-12-02 | 2022-04-06 |
 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 | 2022-03-15 | 2023-12-16 |

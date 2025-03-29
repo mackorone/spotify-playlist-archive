@@ -13829,6 +13829,28 @@
     },
     {
       "album": {
+        "name": "ONLY YOU",
+        "url": "https://open.spotify.com/album/0e78qBqXaRP3fKiu1gCBbG"
+      },
+      "artists": [
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        },
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162644,
+      "name": "ONLY YOU",
+      "url": "https://open.spotify.com/track/4HZhULqSOxJX70vpZD4Iz5"
+    },
+    {
+      "album": {
         "name": "Oye Hoye Hoye",
         "url": "https://open.spotify.com/album/2e3nyvQs2wwXQ7EGJHnxCv"
       },
@@ -20480,7 +20502,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 204145,
       "name": "U & I",
       "url": "https://open.spotify.com/track/4csJV7NY0u7FoBjDwBv96I"

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 340904,
+  "num_followers": 340929,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkawAAAABrpnpg4MklAxdfcT6a84xP",
+  "snapshot_id": "Z+Ye2wAAAABmeLrAyA3hr/r/Bw0dYUO2",
   "tracks": [
     {
       "added_at": "2025-03-21 04:00:43",
@@ -25,6 +25,30 @@
       "url": "https://open.spotify.com/track/3S0IxmFhdvQ8th5Tg6Wgsq"
     },
     {
+      "added_at": "2025-03-28 04:00:27",
+      "album": {
+        "name": "New Direction",
+        "url": "https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 257435,
+      "name": "New Direction",
+      "url": "https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd"
+    },
+    {
       "added_at": "2025-01-31 05:00:48",
       "album": {
         "name": "Squeeze",
@@ -39,6 +63,34 @@
       "duration_ms": 234600,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "added_at": "2025-03-28 04:00:27",
+      "album": {
+        "name": "Turn To Stone",
+        "url": "https://open.spotify.com/album/4tSQltH5H5nBY5il36r0lJ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "SuperBlue",
+          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
+        },
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "duration_ms": 298237,
+      "name": "Turn To Stone",
+      "url": "https://open.spotify.com/track/4mqvIDMj3A8OkafiBwDh9d"
     },
     {
       "added_at": "2025-03-21 04:00:43",
@@ -1357,22 +1409,6 @@
       "url": "https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI"
     },
     {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Medal",
-        "url": "https://open.spotify.com/album/55FViyWmX5GZuJL8HmrIDE"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 196664,
-      "name": "Medal",
-      "url": "https://open.spotify.com/track/32aHFEYSwrNaAjqrKNhHm9"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Get Together",
@@ -1591,26 +1627,6 @@
       "duration_ms": 145800,
       "name": "Come and Get It - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Rollin' (Love Will Be Here)",
-        "url": "https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Alison Limerick",
-          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
-        }
-      ],
-      "duration_ms": 290637,
-      "name": "Rollin' (Love Will Be Here)",
-      "url": "https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg"
     },
     {
       "added_at": "2023-08-25 04:01:00",

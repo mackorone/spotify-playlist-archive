@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre\. Foto: El Zar & No Te Va Gustar.
+> Más vivo que nunca, más nuestro que siempre\. Foto: Airbag.
 
-364 songs - 22 hr 39 min
+368 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [200 Monos](https://open.spotify.com/track/5tC4Y8NJGK3quJEdVVP6a9) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [200 Monos](https://open.spotify.com/album/7JV9A7P1hZrWrrMtFx7RPI) | 4:10 | 2023-11-10 | 2024-09-07 |
 | [33](https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Facu Soto](https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB) | [33](https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T) | 3:27 | 2023-04-14 | 2024-03-08 |
 | [680/680](https://open.spotify.com/track/7x1v9v0mVzNJ4f2q0tXcN6) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [No Hagas Que Me Arrepienta](https://open.spotify.com/album/6TxHROskkdXNhc8EK82j8d) | 4:15 | 2024-11-15 |  |
+| [A lo mejor](https://open.spotify.com/track/3Rjh1clMf74BWbokBwnmkh) | [El Purre](https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel) | [A lo mejor](https://open.spotify.com/album/5kJzK7kJ0AWRgJGELwuS4G) | 4:10 | 2025-03-28 |  |
 | [A Medias](https://open.spotify.com/track/5z1VEnPsozGXwQ5cWRimol) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [A Medias](https://open.spotify.com/album/2n5bjUV8VCJXxEnuanZUpB) | 3:18 | 2022-06-24 | 2023-09-27 |
 | [A Rodar Mi Vida \- EADDA9223](https://open.spotify.com/track/4RpN9YUbJTdkG6dcNwHI71) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:36 | 2023-05-31 | 2023-09-23 |
 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-04-21 | 2024-03-23 |
@@ -34,6 +35,7 @@
 | [Bailando](https://open.spotify.com/track/5Ma7gdR26nKGwGPOVobufm) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [ADN \(Capítulo D\)](https://open.spotify.com/album/2AFeBZRa2auMfG0RDrbBu1) | 3:49 | 2022-06-24 | 2023-03-18 |
 | [Bigote](https://open.spotify.com/track/1UH9NTgFF6woodUUm8uqPF) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Bigote](https://open.spotify.com/album/45lR1Wb5koRQjb0P0WoRkL) | 3:31 | 2024-09-12 | 2024-10-19 |
 | [Botella](https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6) | [Botella](https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi) | 2:12 | 2024-08-23 |  |
+| [Buen dia otra vez](https://open.spotify.com/track/0ltdWScdZexaPqkpmYlzp9) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Ladrones del Silencio](https://open.spotify.com/album/28ziAOccefr5GomoW4YoVV) | 3:20 | 2025-03-28 |  |
 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 | 2023-08-25 | 2024-08-17 |
 | [Buena Pipa](https://open.spotify.com/track/1fohzzs0G5mDdAmNoVHq4d) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 4:05 | 2023-09-08 | 2023-09-27 |
 | [Buena Pipa](https://open.spotify.com/track/2ZZA0roqjGg2TcZ4R1BNnA) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Pipa](https://open.spotify.com/album/6nmVCBzNjpor2ssPYl9C6P) | 4:08 | 2022-06-24 | 2023-09-21 |
@@ -86,6 +88,7 @@
 | [Decime](https://open.spotify.com/track/4GrktFU9YJBgZwDbtp45dO) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Cocoliche Life](https://open.spotify.com/album/4gv3OhieyZEVI0bjW7tIJc) | 3:39 | 2024-01-12 | 2024-09-13 |
 | [Demolición](https://open.spotify.com/track/0v1kN4ZUADCs0ZnQyBA9Pf) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Effatá](https://open.spotify.com/album/3uROJaWfcDjawQ2Bo5DoCj) | 2:45 | 2022-11-11 | 2023-06-01 |
 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-05-05 | 2024-11-23 |
+| [DESCONOCIDO](https://open.spotify.com/track/1aMikxjRvuM1ZBnmexkz53) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DESCONOCIDO](https://open.spotify.com/album/4C0kjpYntG1ZCWOInzDCRr) | 3:05 | 2025-03-28 |  |
 | [Desorden](https://open.spotify.com/track/4OUKqP6yONMhzts8jFt123) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Desorden](https://open.spotify.com/album/1cpKAyFyf5miX89Zw2Qa01) | 3:11 | 2024-10-10 | 2025-02-08 |
 | [Despiértate Nena \(Herencia Lebón\)](https://open.spotify.com/track/0sVPghWdY3HdWDZnPobjni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Herencia Lebón 1](https://open.spotify.com/album/4Tl5twEpmrOihG7K566fQn) | 4:56 | 2023-08-25 | 2024-03-23 |
 | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/track/6Yp5cOsowqswSVrXxG3rCc) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/album/1tJKMu9iIZaQy9G3NjRu2C) | 3:14 | 2022-06-24 | 2023-01-21 |
@@ -138,6 +141,7 @@
 | [Estrellas al Caer](https://open.spotify.com/track/7Je1Wx6gRPt4dhnbgaEAOu) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 1:55 | 2024-09-12 |  |
 | [Está todo mal](https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Está todo mal](https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc) | 2:44 | 2023-11-10 | 2024-01-20 |
 | [Ex](https://open.spotify.com/track/6gsUGjcizYAKy2LBflu1Pw) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Ex](https://open.spotify.com/album/2qM8b51qb8jpolJ4AVRCGt) | 3:59 | 2022-06-24 | 2023-09-27 |
+| [Extrañas Intenciones](https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8) | 2:48 | 2025-03-28 |  |
 | [Fango](https://open.spotify.com/track/1GFQig8E1kpHcJVAVg5IOH) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Fango](https://open.spotify.com/album/3Y5uIFvMnozIUvF0soxaM5) | 4:22 | 2022-06-24 | 2023-04-15 |
 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 | 2023-04-14 | 2023-12-16 |
 | [Frecuencia Modulada \(Herencia Lebón\)](https://open.spotify.com/track/5rKgO7RYwJdOdTyLD5vXaf) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Frecuencia Modulada \(Herencia Lebón\)](https://open.spotify.com/album/5Lt97bQEPiRIrjy0mKF4Ow) | 3:58 | 2024-05-16 | 2024-07-27 |

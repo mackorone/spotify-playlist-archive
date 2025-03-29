@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-385 songs - 21 hr 47 min
+386 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Una Carta para Ti](https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Una Carta para Ti](https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb) | 3:28 | 2023-07-28 |  |
 | [Una Noche Mas](https://open.spotify.com/track/7vUHtx8d00gvxgv5QCsoAs) | [Kosmer Azufre Squad](https://open.spotify.com/artist/2Ey4tRJ1hbrsMUn8GjhRn2), [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Mula del Seis](https://open.spotify.com/album/675eyytozgnUk3qjfc1QoZ) | 3:43 | 2024-06-04 |  |
 | [Una Ocasión](https://open.spotify.com/track/5paIi1dlG2pQphFFn7e84B) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [El Juego Sucio](https://open.spotify.com/album/174487jmA12nzD0P6vtR7e) | 2:29 | 2024-06-07 | 2024-06-22 |
+| [Una Segunda Vez](https://open.spotify.com/track/6jwRR76yTsh74FEF8JLGuJ) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Una Segunda Vez](https://open.spotify.com/album/1buBoaI9L86vgJ0GQHmOHP) | 4:24 | 2025-03-28 |  |
 | [Uvas](https://open.spotify.com/track/0CjZUZgxWBiWFE3SfWYTA2) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Diamante Negro](https://open.spotify.com/album/5d0pjSgDLSLWKqoj8jYUfC) | 2:47 | 2024-06-07 | 2024-06-22 |
 | [Vaiven](https://open.spotify.com/track/5Uv5f0XbHpLqS4ViP031nX) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Vaiven](https://open.spotify.com/album/3ix1anexjFXJUFOWbQzDoF) | 3:07 | 2025-02-13 | 2025-03-08 |
 | [Vaivén](https://open.spotify.com/track/68RnQABNIGlpZOnWCHTXlP) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Vaivén](https://open.spotify.com/album/4AxOgNmDycOaIv95OiJHMt) | 3:00 | 2023-11-24 |  |

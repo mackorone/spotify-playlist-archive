@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Chappell Roan
+> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kalsey Kulyk
 
-315 songs - 17 hr 14 min
+316 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [My Last Rodeo](https://open.spotify.com/track/6HumsLwKYoW6taXk0q2fy8) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:42 | 2023-11-03 | 2024-04-27 |
 | [my place](https://open.spotify.com/track/4QHuywfD1V1eBMRY8Hbqnl) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [my place](https://open.spotify.com/album/0LYfCVKOshd8xC4VTVtbol) | 3:38 | 2024-04-05 | 2024-05-11 |
 | [My Shadow](https://open.spotify.com/track/7M2fkGO31n1sIcgsyZvVyx) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [My Shadow](https://open.spotify.com/album/1UYesAlvVGlSxNPIIS6gp3) | 3:14 | 2024-03-08 | 2024-04-06 |
+| [Neon Cowgirl](https://open.spotify.com/track/6EViVjzk04NKzhVMtMxvbk) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Neon Cowgirl](https://open.spotify.com/album/090hcRCJQ70C3TnLuSn6FG) | 3:39 | 2025-03-28 |  |
 | [Neon Needs The Night](https://open.spotify.com/track/3ymcorUKwzHUPBAtoEoKBP) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Neon Needs The Night](https://open.spotify.com/album/4ye5fM0KnsXT8rnLIAEIBE) | 3:06 | 2024-01-12 | 2024-03-23 |
 | [Never Been Over](https://open.spotify.com/track/5Izy5w7WRKyOTH7CtWgyPG) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:25 | 2023-11-03 | 2024-04-27 |
 | [Never Been Over](https://open.spotify.com/track/5CfsbLLaJ6GGzEuRjYFRhT) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Never Been Over](https://open.spotify.com/album/3pkeTpcbaAmzbgWDch7BYU) | 3:25 | 2024-04-26 | 2024-07-20 |

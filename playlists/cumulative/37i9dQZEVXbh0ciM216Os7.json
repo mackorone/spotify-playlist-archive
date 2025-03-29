@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0nQuEvHnzWiFghawXVYjws"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1ZtaHVUr3LYmtP5v5HrbTy"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/25E7mK5NcKtLTWj8Qs5q1N"
       },
@@ -156,6 +174,28 @@
       "duration_ms": 208000,
       "name": "1,2,3",
       "url": "https://open.spotify.com/track/1K9TC3YyS2sT5gzn6h9Xja"
+    },
+    {
+      "album": {
+        "name": "10 jours, 10 nuits",
+        "url": "https://open.spotify.com/album/7CsBIG369hdLQBUeDaFHNu"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "10 jours, 10 nuits",
+      "url": "https://open.spotify.com/track/0Swisqu1xdKUrjDIz2tS33"
     },
     {
       "album": {
@@ -372,7 +412,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 188764,
       "name": "2 SCOOPS OF POETRY",
       "url": "https://open.spotify.com/track/5zqGWzxvSx1Jp540cjp928"
@@ -3304,7 +3344,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 174059,
       "name": "Babygirl",
       "url": "https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ"
@@ -6365,6 +6405,28 @@
     },
     {
       "album": {
+        "name": "Of Corners & Bridges",
+        "url": "https://open.spotify.com/album/3pqLCXccTTE1Gal4vrrdPP"
+      },
+      "artists": [
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310314,
+      "name": "Bridges (Sunrise)",
+      "url": "https://open.spotify.com/track/1X3gv0XyFqhuCUUa3USPcE"
+    },
+    {
+      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
       },
@@ -9032,7 +9094,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 187660,
       "name": "Crashing (with Kali Uchis)",
       "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
@@ -9306,7 +9368,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 208114,
       "name": "CUPID'S GIRL",
       "url": "https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE"
@@ -10484,6 +10546,24 @@
       "duration_ms": 165759,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
+    },
+    {
+      "album": {
+        "name": "Dexion (from \"LAZARUS\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3o0JLon9nA1g2CidIZdojj"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548480,
+      "name": "Dexion (from \"LAZARUS\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1S4VJpB3i8k2Y5m1fmgELM"
     },
     {
       "album": {
@@ -14653,6 +14733,24 @@
     },
     {
       "album": {
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/2GC8O1eqMUZYY9SG0Z6mka"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/2m3DrOH7x3EUkzav5Mj9mZ"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -17399,6 +17497,28 @@
     },
     {
       "album": {
+        "name": "Little Death Wishes",
+        "url": "https://open.spotify.com/album/6kpOIKEFaI7CNXV0QQUlKZ"
+      },
+      "artists": [
+        {
+          "name": "CocoRosie",
+          "url": "https://open.spotify.com/artist/05fo024EFotg9songSENOZ"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215871,
+      "name": "Girl In Town",
+      "url": "https://open.spotify.com/track/0kVJgm9Mqin3WDUTixdDX7"
+    },
+    {
+      "album": {
         "name": "Girl Power",
         "url": "https://open.spotify.com/album/5zpUJDz942deIpKHdKg0vj"
       },
@@ -18324,6 +18444,36 @@
       "duration_ms": 213739,
       "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
       "url": "https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT"
+    },
+    {
+      "album": {
+        "name": "H to the Wu",
+        "url": "https://open.spotify.com/album/7fXrzspJ8XcnVABEZS5nsM"
+      },
+      "artists": [
+        {
+          "name": "Alex Quazr",
+          "url": "https://open.spotify.com/artist/3iuHcp95JkLTnOidieJz7z"
+        },
+        {
+          "name": "Lil\u2019 Flip",
+          "url": "https://open.spotify.com/artist/46RzxI0fB1oNb4k0dItWN9"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156861,
+      "name": "H to the Wu",
+      "url": "https://open.spotify.com/track/2HX8oEPPmLYezVrGE7KhO2"
     },
     {
       "album": {
@@ -23039,6 +23189,28 @@
     },
     {
       "album": {
+        "name": "The Long Way Round",
+        "url": "https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296454,
+      "name": "Jeffrey",
+      "url": "https://open.spotify.com/track/2DLxjFJOqqzMJlijtDsjMv"
+    },
+    {
+      "album": {
         "name": "American Idiot (20th Anniversary - Jesus of Suburbia)",
         "url": "https://open.spotify.com/album/7tn2RYarT4oElkFeKH8WW6"
       },
@@ -23436,7 +23608,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 217684,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/1RZLqmoCuVeKWXWyp9cLtU"
@@ -24760,6 +24932,32 @@
       "duration_ms": 190899,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/5yPkN7zDHG6n2njMWGimiB"
+    },
+    {
+      "album": {
+        "name": "Lalala (DJ Premier Remix)",
+        "url": "https://open.spotify.com/album/3NjM6SR1pFljxauIy1dnQt"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161856,
+      "name": "Lalala - DJ Premier Remix",
+      "url": "https://open.spotify.com/track/61IQ6K43WxTnWfOXmffrGw"
     },
     {
       "album": {
@@ -32471,6 +32669,24 @@
     },
     {
       "album": {
+        "name": "Doppler Affection",
+        "url": "https://open.spotify.com/album/3c5rCd8nQe3WkDTm869aUM"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229125,
+      "name": "One of a Kind",
+      "url": "https://open.spotify.com/track/3rjP5E00ajzEQoZVTxLOQS"
+    },
+    {
+      "album": {
         "name": "one of one (feat. PawPaw Rod)",
         "url": "https://open.spotify.com/album/0JEX5oLdEBXZEEszBXmXdF"
       },
@@ -33550,6 +33766,32 @@
       "duration_ms": 208996,
       "name": "Patio de la C\u00e1rcel - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1tixedhMrD7dPd92UMAbVV"
+    },
+    {
+      "album": {
+        "name": "Patriots",
+        "url": "https://open.spotify.com/album/2KXWRbSi5Ukb2styawncPi"
+      },
+      "artists": [
+        {
+          "name": "James J Siburt",
+          "url": "https://open.spotify.com/artist/0QYktf9jEBxqA2xysjlr9I"
+        },
+        {
+          "name": "8bfr",
+          "url": "https://open.spotify.com/artist/127tw52iDXr7BvgB0IGG2x"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128511,
+      "name": "Patriots",
+      "url": "https://open.spotify.com/track/0Lxh4vtrzKzivbkgYzgqBa"
     },
     {
       "album": {
@@ -37416,7 +37658,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 236800,
       "name": "Satanized",
       "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
@@ -37594,7 +37836,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 177941,
       "name": "Scared To Die",
       "url": "https://open.spotify.com/track/1wfsTfjTlIkkZJm1J1Wxei"
@@ -39192,6 +39434,24 @@
       "duration_ms": 281539,
       "name": "Soft Footsteps",
       "url": "https://open.spotify.com/track/4pLQQTQJy76L6IbHi88RhA"
+    },
+    {
+      "album": {
+        "name": "Soft Girl Era",
+        "url": "https://open.spotify.com/album/5jBlZoU6wTgDDsNyr8PZwO"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186482,
+      "name": "Soft Girl Era",
+      "url": "https://open.spotify.com/track/1Jk072eWqMwDQwvI7R8fff"
     },
     {
       "album": {
@@ -41180,6 +41440,24 @@
       "duration_ms": 223827,
       "name": "Sunday Bloody Sunday (Metal Version)",
       "url": "https://open.spotify.com/track/63VxeCExz07CEXG95igB5k"
+    },
+    {
+      "album": {
+        "name": "Sunshine & Rain...",
+        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197796,
+      "name": "Sunshine & Rain...",
+      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
     },
     {
       "album": {
@@ -43972,7 +44250,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 289630,
       "name": "The Meadows",
       "url": "https://open.spotify.com/track/6Xn78aRtXmwi1kdZPK0UES"
@@ -46140,7 +46418,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 164002,
       "name": "Trivial Pursuit",
       "url": "https://open.spotify.com/track/6Mgf30oUyj01Cx3WOKzXm6"
@@ -46508,6 +46786,24 @@
       "duration_ms": 218457,
       "name": "Tweaker (feat. Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/16m5nuykE5WbvIjSAFvK6E"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
     },
     {
       "album": {
@@ -47578,6 +47874,24 @@
       "duration_ms": 206618,
       "name": "VOID - Sped Up Version",
       "url": "https://open.spotify.com/track/0KpU1OoP5ddAJago8RDU7k"
+    },
+    {
+      "album": {
+        "name": "Vortex (from \"LAZARUS\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383631,
+      "name": "Vortex (from \"LAZARUS\" Soundtrack)",
+      "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"
     },
     {
       "album": {
@@ -50038,7 +50352,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 167843,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/4fOtG33vnrAX7k1KnzyfeN"
@@ -50264,7 +50578,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 161240,
       "name": "Worm in the Sun",
       "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"

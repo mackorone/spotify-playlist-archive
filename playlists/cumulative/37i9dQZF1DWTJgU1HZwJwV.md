@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-552 songs - 23 hr 21 min
+553 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-06-17 | 2023-04-29 |
 | [Cliffs](https://open.spotify.com/track/4M4YcXxUpkk8mjJK2dd0DK) | [Stella Weber](https://open.spotify.com/artist/6eslaIujKjRMowrL76Q4Nu) | [Cliffs](https://open.spotify.com/album/1SQYj9x68uGtLrJbTCp99Q) | 1:57 | 2022-06-17 | 2023-09-14 |
 | [Close To Home](https://open.spotify.com/track/1yKZOimGS312NRcpwjhsXd) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Close To Home](https://open.spotify.com/album/5dhdPcBxiWEroTeOjsdgQ4) | 2:33 | 2024-06-14 |  |
+| [Cloud Drift](https://open.spotify.com/track/09knApoYuzaX1vrxTYeo0A) | [John News](https://open.spotify.com/artist/5onXwaj8jL1rWwbHXakBqF) | [Cloud Drift](https://open.spotify.com/album/7qA6OBevrtlpWXFOXqkMwl) | 2:20 | 2025-03-28 |  |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-24 | 2023-06-23 |
 | [Combo Cadre](https://open.spotify.com/track/2iuH3nCY89Ljb1tjmvcKwV) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Combo Cadre](https://open.spotify.com/album/44IxR6mPGmK1O24wBI3nwx) | 2:59 | 2022-06-17 | 2023-09-08 |
 | [Come to Me in the Silence of the Night](https://open.spotify.com/track/1V7vKOUi1FNJ2Ytl2ERakv) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Come to Me in the Silence of the Night](https://open.spotify.com/album/0yOTmHU1sMWDhOoHi7TCdE) | 3:08 | 2024-05-24 | 2024-09-11 |

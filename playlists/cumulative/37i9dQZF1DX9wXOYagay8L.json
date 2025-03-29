@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Remembering the life and captivating voice of  <a href=\"https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=X2TnQdrMRTOFMIRAzdU3fQ\"> Yallunder</a>. ",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5?si=LLqNNiLkQXavq8J_74G7WQ\"> Sbahle</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -4221,6 +4221,36 @@
     },
     {
       "album": {
+        "name": "Ingoma Yami",
+        "url": "https://open.spotify.com/album/4muR1XrReEmHA8MmSPrf04"
+      },
+      "artists": [
+        {
+          "name": "Intabayasedubai",
+          "url": "https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK"
+        },
+        {
+          "name": "Proud",
+          "url": "https://open.spotify.com/artist/4HqpRY96WEihkALTCJWf1B"
+        },
+        {
+          "name": "Dee R",
+          "url": "https://open.spotify.com/artist/37SSMC2YqEFtW8o4yzkDLF"
+        },
+        {
+          "name": "Cwenga Bass",
+          "url": "https://open.spotify.com/artist/69NnlRckDxjd87vXxuMr5S"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Ingoma Yami",
+      "url": "https://open.spotify.com/track/7D4L8U9A7aXiveWURPTWRT"
+    },
+    {
+      "album": {
         "name": "Ingunaphakade",
         "url": "https://open.spotify.com/album/4Lp6BLJxkFi1PaELz9tFEo"
       },
@@ -7702,7 +7732,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 210232,
       "name": "Ndinovalo",
       "url": "https://open.spotify.com/track/727e1kV21SQxzGqPW7z3rR"

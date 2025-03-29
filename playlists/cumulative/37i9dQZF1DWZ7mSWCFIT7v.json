@@ -3629,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "Mermaid Dust",
+        "url": "https://open.spotify.com/album/2X1Zcet8uHbUyVHrbnDuh3"
+      },
+      "artists": [
+        {
+          "name": "Aux Mirari",
+          "url": "https://open.spotify.com/artist/56DOlJ7BgDjliureDLKn7i"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269543,
+      "name": "Mermaid Dust",
+      "url": "https://open.spotify.com/track/3uqqRRbVy9CFyZuh4F3xK7"
+    },
+    {
+      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -4784,7 +4802,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 439786,
       "name": "Riding Metal Mosquitos",
       "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-687 songs - 1 day 10 hr 50 min
+690 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Drowning](https://open.spotify.com/track/1a7FNZoBkQIFYWFWCocB7w) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Drowning](https://open.spotify.com/album/1wEBa3YidIypzvGDLJ9Vvo) | 3:06 | 2023-05-11 | 2023-08-10 |
 | [Duckstep](https://open.spotify.com/track/0ZR8mLmdbqHZQrilm5lpBZ) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Duckstep](https://open.spotify.com/album/5RgFdWIcMQkhs0cstj0iQr) | 3:28 | 2025-01-13 |  |
 | [Dum Dum](https://open.spotify.com/track/42UU54WpkAm5aLfGucwY6F) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Dum Dum](https://open.spotify.com/album/5QjP2SGYlzyRuM32Wtx8ck) | 2:47 | 2023-02-03 | 2023-08-10 |
+| [Dunes](https://open.spotify.com/track/1bYyvvwz0yqOfStZ1qW5L1) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Dunes](https://open.spotify.com/album/6dwm79iBiK3lvhlhrvYiUQ) | 3:22 | 2025-03-28 |  |
 | [Dust](https://open.spotify.com/track/30cXoicUeZ5X4Q815gurvY) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Dust](https://open.spotify.com/album/6x7Rprgje00vQm6MfFhp6a) | 3:52 | 2023-06-13 | 2023-08-10 |
 | [Dynamiser](https://open.spotify.com/track/0OCkTNAy4sPrfvszddvt1k) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Dynamiser](https://open.spotify.com/album/1aiS0GZCYo6b5JwnQQP1fD) | 4:10 | 2023-02-15 | 2023-12-14 |
 | [Dynamiser](https://open.spotify.com/track/1nruXXU3erq3cQvs8v2FCv) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:10 | 2023-06-21 | 2023-08-10 |
@@ -520,6 +521,7 @@
 | [Ride or Die \(ft\. Indy Skies\)](https://open.spotify.com/track/0xXaabBmxaTsxxNcf1a0Yn) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [Ride or Die](https://open.spotify.com/album/0AGE7tbV3lT8eWdSggbHkE) | 2:59 | 2023-04-22 | 2024-01-04 |
 | [RIDE WITH ME](https://open.spotify.com/track/6j1KmYWWWT36MFX84sPldQ) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [RIDE WITH ME](https://open.spotify.com/album/0W7rAsLhun6Ozbbi9WL0AO) | 2:41 | 2024-09-10 | 2024-11-20 |
 | [Rift](https://open.spotify.com/track/2GjmMAFA3EFMThAfDmtB7u) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Rift](https://open.spotify.com/album/6TkCdwfbCgi9m4YRbcvzbt) | 3:26 | 2022-12-28 | 2023-04-28 |
+| [River](https://open.spotify.com/track/0fTzH8uabtFLBIx3eGxrKf) | [NAYM](https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc) | [Signs](https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj) | 2:35 | 2025-03-28 |  |
 | [Romeo and Juliet](https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Romeo and Juliet](https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW) | 3:12 | 2024-02-22 | 2024-09-29 |
 | [Round n' Round](https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Round n' Round](https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab) | 2:58 | 2024-03-22 | 2024-09-29 |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-03-03 | 2024-04-17 |
@@ -552,6 +554,7 @@
 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 | 2022-12-15 | 2023-04-28 |
 | [Shoulders of Giants](https://open.spotify.com/track/5X9Sq58J7nOn5HWSD1cPuz) | [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Shoulders of Giants](https://open.spotify.com/album/1xFA74jZYSwkUdiyornwOh) | 2:18 | 2024-10-23 |  |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 | 2023-04-28 |
+| [Signs \- Sped Up](https://open.spotify.com/track/01GqGjLGRvDjbclq4bgHiv) | [NAYM](https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc) | [Signs](https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj) | 3:09 | 2025-03-28 |  |
 | [Silence](https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw) | [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU), [N3b](https://open.spotify.com/artist/3txu4jfa4aSLBjikFcTcWm) | [Silence](https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ) | 3:26 | 2024-09-23 |  |
 | [Sinister](https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [SVRT](https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z), [Chilly](https://open.spotify.com/artist/68XjmGeWauzvqJuWYMuxtA) | [Sinister](https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e) | 2:55 | 2023-07-05 | 2023-08-28 |
 | [Sinking Ship](https://open.spotify.com/track/6Bq31os4YCoQXzbb8t4w9M) | [Uplink](https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq) | [Sinking Ship](https://open.spotify.com/album/6vmb4goIicK9vXUEvO6oQs) | 2:44 | 2022-11-01 | 2023-08-10 |

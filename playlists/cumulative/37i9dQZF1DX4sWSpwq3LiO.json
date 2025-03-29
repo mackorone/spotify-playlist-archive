@@ -9135,6 +9135,24 @@
     },
     {
       "album": {
+        "name": "For love",
+        "url": "https://open.spotify.com/album/6mLw8MErNI9cmkpjnAQ3bw"
+      },
+      "artists": [
+        {
+          "name": "Anton Lindholm",
+          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146106,
+      "name": "For love",
+      "url": "https://open.spotify.com/track/4kDRLAbvEWLXFRG3zPcU0p"
+    },
+    {
+      "album": {
         "name": "For Mark",
         "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
       },

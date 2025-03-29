@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-605 songs - 1 day 5 hr 27 min
+606 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,8 @@
 | [Não Me Deixa Saber](https://open.spotify.com/track/2T6yRQfTfRiDZ4mPrAwsJV) | [Ju Moura](https://open.spotify.com/artist/6HxszI1TQMri6bUo9qFDgy) | [Ju Moura](https://open.spotify.com/album/5W4hfz9foScicQu4RScbY2) | 3:04 | 2023-12-30 | 2024-07-20 |
 | [Não Me Deixa Saber](https://open.spotify.com/track/3GdlxUxXjr0QE83NbPCruy) | [Ju Moura](https://open.spotify.com/artist/6HxszI1TQMri6bUo9qFDgy) | [Ju Moura](https://open.spotify.com/album/3ANgOVJoEq5gF81WH9hDTS) | 3:04 | 2024-07-19 |  |
 | [Não Me Deixa, Mor \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/4aWIU2hbf9IEOHphp6Oxc4) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [No Morro \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/5mgO08IoSpp5C1BrqdDVyr) | 3:07 | 2023-12-30 |  |
-| [Não Me Negue](https://open.spotify.com/track/67I9GYwgsDUPiyzlgd6XSz) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Não Me Negue](https://open.spotify.com/album/6L8Ssnqmum6EDmEYjhVMTD) | 2:46 | 2023-12-30 |  |
+| [Não Me Negue](https://open.spotify.com/track/67I9GYwgsDUPiyzlgd6XSz) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Não Me Negue](https://open.spotify.com/album/6L8Ssnqmum6EDmEYjhVMTD) | 2:46 | 2023-12-30 | 2025-03-29 |
+| [Não Me Negue \(feat\. Humberto & Ronaldo\) \- Ao Vivo](https://open.spotify.com/track/0W8DX6yRa6QvmIkWUcX8wM) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Não Me Negue \(feat\. Humberto & Ronaldo\) \[Ao Vivo\]](https://open.spotify.com/album/0v27CCHweMQ5RfItwEJ3Bl) | 2:47 | 2025-03-28 |  |
 | [Não Para de Postar \- Ao Vivo](https://open.spotify.com/track/6IDzxHn7ILvrdknlqpexEQ) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Junto e Misturado \(Ao Vivo\)](https://open.spotify.com/album/6w5n80QFECw1l9r6pz8YRh) | 2:39 | 2024-03-26 |  |
 | [Não Sei o Que Dói Mais](https://open.spotify.com/track/2JpaElsvLQd0JifnLppNMu) | [Marcelo Rocha Oficial](https://open.spotify.com/artist/5DGnbFAMJgTdJHkDUt7Mp2) | [Não Sei o Que Dói Mais](https://open.spotify.com/album/3FoGnlTfGxkNvQ3vnI9uBc) | 3:15 | 2023-12-30 |  |
 | [Não Sente Mas Senta](https://open.spotify.com/track/4Z0q89cZoerR2JHOfoA7gS) | [Henrique E Daniel](https://open.spotify.com/artist/5NH65OLVSzShNFq95ti2cQ) | [Não Sente Mas Senta](https://open.spotify.com/album/1QOviZQrkd28SUNs3qcUph) | 2:24 | 2023-12-30 |  |

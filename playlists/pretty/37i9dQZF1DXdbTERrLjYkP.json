@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Lily Meola",
-  "num_followers": 217760,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Ali Wolv",
+  "num_followers": 217773,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zxwgAAAABJN/gt1X5AE/5xzclyFaDx",
+  "snapshot_id": "Z+YfqwAAAACghMQAK+jeYrFoGb8S9SrS",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:00:47",
+      "album": {
+        "name": "going under",
+        "url": "https://open.spotify.com/album/3rdeYQMlp9NM9VrGc46aHa"
+      },
+      "artists": [
+        {
+          "name": "Ali Wolv",
+          "url": "https://open.spotify.com/artist/74XB8aP3f2Ze0JgzVmrjWx"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "going under",
+      "url": "https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn"
+    },
     {
       "added_at": "2025-03-21 04:57:38",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 161931,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
+    },
+    {
+      "added_at": "2025-03-28 04:00:47",
+      "album": {
+        "name": "neophyte",
+        "url": "https://open.spotify.com/album/2QTz9vN3LF7H4PX4XkmVJh"
+      },
+      "artists": [
+        {
+          "name": "tan sholto",
+          "url": "https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "father",
+      "url": "https://open.spotify.com/track/0S9u6EZQ1EAHz7IkQbxm9z"
+    },
+    {
+      "added_at": "2025-03-28 04:00:47",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/0h93qeQJf2QetGz8sGxwAs"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa"
+        }
+      ],
+      "duration_ms": 168384,
+      "name": "More",
+      "url": "https://open.spotify.com/track/3x7OABCz50xOJGGdmv40CA"
     },
     {
       "added_at": "2025-03-07 05:00:33",

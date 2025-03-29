@@ -1,13 +1,117 @@
 {
   "description": "New releases for the kids. Cover: The Wiggles",
-  "num_followers": 50898,
+  "num_followers": 50946,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+RDIQAAAADsJveHa4ZyqyPJpnjmF1jH",
+  "snapshot_id": "Z+Ye5AAAAAAKCS1H37HXF3gQ0i9hcdm+",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:00:36",
+      "album": {
+        "name": "Learn A Little Spanish",
+        "url": "https://open.spotify.com/album/18mR4AI15OoCufcmDCHEEU"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Learn A Little Spanish",
+      "url": "https://open.spotify.com/track/3YuGts5VTWqopbIyOwNCvR"
+    },
+    {
+      "added_at": "2025-03-28 04:00:36",
+      "album": {
+        "name": "Classic Songs and Rhymes for Kids",
+        "url": "https://open.spotify.com/album/6DeW2OaIG0POb5ZaPlNr4U"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 175588,
+      "name": "There's a Little Wheel a-Turning in My Heart",
+      "url": "https://open.spotify.com/track/5LxiImAnb0VfGJFxXrU2BJ"
+    },
+    {
+      "added_at": "2025-03-28 04:00:36",
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/1DjV8qs8OTFztjGa8fWGFi"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/66fNlMGZDiMzCYZZKv6i4o"
+    },
+    {
+      "added_at": "2025-03-28 04:00:36",
+      "album": {
+        "name": "Are You Hungry? #2",
+        "url": "https://open.spotify.com/album/4c1bjMWddrLWmANAz7b4yo"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 113107,
+      "name": "Are You Hungry? #2",
+      "url": "https://open.spotify.com/track/1hdS7WQBouehFQj9u2pvQ1"
+    },
+    {
+      "added_at": "2025-03-28 04:00:36",
+      "album": {
+        "name": "Fisher-Price DJ Table Music",
+        "url": "https://open.spotify.com/album/0l5iN24B0jm5Ot6DpEBtMx"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 69523,
+      "name": "Follow the DJ",
+      "url": "https://open.spotify.com/track/1l6cWJcD82RBd8yOnQQFab"
+    },
+    {
+      "added_at": "2025-03-28 04:00:36",
+      "album": {
+        "name": "The Maple Syrup Song",
+        "url": "https://open.spotify.com/album/5lh1VZctbpyDC7Pdea2sgE"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        }
+      ],
+      "duration_ms": 158690,
+      "name": "The Maple Syrup Song",
+      "url": "https://open.spotify.com/track/6BT9pc6KJwDjmDWQMGs5Yl"
+    },
     {
       "added_at": "2025-03-21 04:00:48",
       "album": {

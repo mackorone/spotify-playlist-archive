@@ -2,9 +2,9 @@
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Neue Musik von Jazeek und SAMIRA \(Cover\), Linkin Park und mehr.
+> Neue Musik von Jazeek und SAMIRA \(Cover\), Ariana Grande, Linkin Park und mehr.
 
-4,183 songs - 8 day 12 hr 55 min
+4,186 songs - 8 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,6 +900,7 @@
 | [Der, der dich liebt](https://open.spotify.com/track/3F8vtandirkggs3aOXOGgX) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Der, der dich liebt](https://open.spotify.com/album/0x0NEolhTT3xmyyGi4hwbg) | 3:22 | 2024-09-26 | 2024-10-04 |
 | [derderder](https://open.spotify.com/track/4itAb6W36jcD6EG1tzCsiD) | [BRUNKE](https://open.spotify.com/artist/5wkIrkK9SrKKa1Ki64wIXy) | [derderder](https://open.spotify.com/album/1buKD4JOfIKknwRlTcfP2i) | 2:16 | 2024-09-26 | 2024-10-04 |
 | [Desire](https://open.spotify.com/track/2guutJwUpKFFdpmzoRlc3q) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Desire](https://open.spotify.com/album/0FJWAXTA8b0DPpBBOSrj9c) | 2:41 | 2024-09-12 | 2024-09-20 |
+| [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 | 2025-03-28 |  |
 | [Detonator \[Feat\. Rock D The Legend\] \- Call of Duty: Black Ops 6](https://open.spotify.com/track/5LqgsjpIR3uLj06hjlG3Wz) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Rock D The Legend](https://open.spotify.com/artist/027fMMtTo4XJ0GEdBcNLCT) | [Detonator \[Feat\. Rock D The Legend\] \- Call of Duty: Black Ops 6](https://open.spotify.com/album/2piAGlf00AZ1wCItv2KOaQ) | 2:56 | 2024-08-29 | 2024-09-06 |
 | [Deutscher Akzent](https://open.spotify.com/track/6nkNPjUzODaKNQHrl7O3w3) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Deutscher Akzent](https://open.spotify.com/album/3bNZx6pPTfqKiC2F0yV53S) | 2:32 | 2025-02-13 | 2025-02-21 |
 | [DEUTSCHLAND 🇩🇪](https://open.spotify.com/track/1No9gdv9NdknsaVA4Zdbku) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [DEUTSCHLAND 🇩🇪](https://open.spotify.com/album/59VPwabm2CmMFNZg4MBqcl) | 2:38 | 2024-06-27 | 2024-07-05 |
@@ -1571,6 +1572,7 @@
 | [Happy Without Me](https://open.spotify.com/track/2YYT4KZw6s0GFJKIKRagAo) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Happy Without Me](https://open.spotify.com/album/4HAkUkv09uExyPOE0efqMm) | 2:09 | 2025-01-30 | 2025-02-07 |
 | [Harascho](https://open.spotify.com/track/69iBZUSh7Lo4g0qxYoXGov) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1), [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Harascho](https://open.spotify.com/album/5NypcMUQwE0w87pO87JdYt) | 2:25 | 2024-06-27 | 2024-07-05 |
 | [Hard Feelings](https://open.spotify.com/track/5lZab7SvOn16cokErMXRsK) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Hard Feelings](https://open.spotify.com/album/7vHn7YAj9bxKbmGem28uqW) | 3:20 | 2025-02-07 | 2025-02-14 |
+| [HARD LIFE \(feat\. Carey Washington\)](https://open.spotify.com/track/7yYYyYKELkxv4aLTTLWwSZ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [HARD LIFE \(feat\. Carey Washington\)](https://open.spotify.com/album/31EbjNtO1KwwMnhqLt3NFB) | 3:42 | 2025-03-28 |  |
 | [Hardcore Romance](https://open.spotify.com/track/2DXmrFjBKWY11AiIlZanYD) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hardcore Romance](https://open.spotify.com/album/6WAU1dlxzNP5jksM5qr3I3) | 3:19 | 2024-08-22 | 2024-08-30 |
 | [Hardcore Workout Queen](https://open.spotify.com/track/7K01ebFNRoaVAogSU8gPiM) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/68pRFIG5YFIYuMkDmApgg1) | 4:54 | 2024-09-12 | 2024-09-20 |
 | [HAS\-BEEN](https://open.spotify.com/track/1fdktgXda1uqidEzc8a3Lc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [has\-been](https://open.spotify.com/album/4QJbGfgtFoIyu63G4Wqw7w) | 4:02 | 2025-02-20 | 2025-02-28 |
@@ -3738,6 +3740,7 @@
 | [Turn Up A Notch](https://open.spotify.com/track/72Eo19DM3Vkb7gskEe88gM) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Turn Up A Notch](https://open.spotify.com/album/6r3b30eA6lUEDTkE6nPqNj) | 2:15 | 2024-09-19 | 2024-09-21 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-06 | 2025-02-14 |
 | [Twenty\-Five](https://open.spotify.com/track/3yvr5tQ6r8fbweZ62lH3EN) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [Twenty\-Five](https://open.spotify.com/album/7E8zMIXfXz0zkaeH6FbJP2) | 2:17 | 2024-10-10 | 2024-10-18 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 |  |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-11-22 |
 | [Two Seater](https://open.spotify.com/track/0G7MkqyzH0A0NHYGJyuBL0) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Two Seater](https://open.spotify.com/album/3znoYQquyFiBN3Cp4nmyL0) | 2:10 | 2024-10-24 | 2024-11-01 |
 | [Two Things](https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Two Things](https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA) | 3:35 | 2024-09-19 | 2024-09-27 |

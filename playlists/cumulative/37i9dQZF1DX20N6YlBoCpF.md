@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Tuimeltrein, Dodo Nyoka, JAN JAN JAN, Renier West, Ray Dylan en meer!
 
-1,609 songs - 3 day 17 hr 36 min
+1,610 songs - 3 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [Lewe](https://open.spotify.com/track/3BnNCBNoVz8TkD2sucPE01) | [Hugh Lynn](https://open.spotify.com/artist/7kdzDaVmfQRoFVTi7nb09w) | [Lewe](https://open.spotify.com/album/1lHOW1qrGfh88DG7O5Zz8V) | 3:44 | 2024-05-09 | 2024-06-01 |
 | [Lewe Vir Jou](https://open.spotify.com/track/78UxAJ8OQffgdK3Td9VbEo) | [Shakira Peach](https://open.spotify.com/artist/3FYg4uUY2Mtunx0NldiDWG) | [Lewe Vir Jou](https://open.spotify.com/album/1t83lNbYO7TRzESK941avs) | 2:36 | 2025-02-27 |  |
 | [Lewensredder](https://open.spotify.com/track/6lM32PSAeTVzCsNDSy9i4W) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Lewensredder](https://open.spotify.com/album/7gLT2fHswLxOzmvUylzIxS) | 3:56 | 2024-10-17 | 2024-11-08 |
+| [Leë Bioskoop](https://open.spotify.com/track/2nmtHeJ4gxEB0NiFAQZh71) | [Touch by Mirror](https://open.spotify.com/artist/0wyKENJo86SfbhWYUiFOc8) | [Leë Bioskoop](https://open.spotify.com/album/7BE0pUeug33FD02bTQXNhT) | 4:08 | 2025-03-27 |  |
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-08-11 | 2022-10-07 |
 | [Lief Hê](https://open.spotify.com/track/0fKQ7jvxmWpkHgsK2IxPuI) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Lief Hê](https://open.spotify.com/album/6yBbkQ2CnAlUMd6ImXYQxM) | 3:08 | 2023-06-22 | 2023-07-28 |
 | [Lief My Weer Lewendig](https://open.spotify.com/track/1pJZDlclnW7syVnIr7lakh) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Lief My Weer Lewendig](https://open.spotify.com/album/68FupBpJTkZH6XvAvUyyzz) | 3:22 | 2024-08-01 | 2024-09-27 |

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Horse Vision
 
-954 songs - 2 day 2 hr 15 min
+955 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Medicine](https://open.spotify.com/track/6eHh1bzjr3d1ehQbdscPta) | [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Medicine](https://open.spotify.com/album/4twXTIntJbADqWYqNDi6QW) | 3:07 | 2024-02-08 | 2024-03-15 |
 | [Mega Drive](https://open.spotify.com/track/1ED3VzuGpuch83efnmQytv) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Mega Drive](https://open.spotify.com/album/1FbqOdPsjrpayMjEjlA3wL) | 3:54 | 2024-10-17 | 2024-12-05 |
 | [Melt](https://open.spotify.com/track/1diAoCB2sXmLmnPISTDi9b) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Melt](https://open.spotify.com/album/1pbL9FxmoojxtBHaFronQn) | 4:16 | 2024-11-11 | 2024-11-18 |
+| [Memoria](https://open.spotify.com/track/6pQB4WLYNsGTihGIYogeBP) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Memoria](https://open.spotify.com/album/4hnT8Iwo4oeEQA6RzGfEPC) | 4:22 | 2025-03-28 |  |
 | [Memory](https://open.spotify.com/track/4XFcSXp7zSppR9VXmjlwhO) | [Innocent](https://open.spotify.com/artist/597DNXGUXfrxjYbCzYkndW) | [Memory](https://open.spotify.com/album/3Vdt2qXTXG8S66bRe7oSx8) | 3:02 | 2025-02-20 | 2025-03-14 |
 | [MESSY](https://open.spotify.com/track/6WauGH6oUHdcuqVegbEXqx) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [MESSY](https://open.spotify.com/album/2GMCZXwj6YEwl605OPEfge) | 2:57 | 2024-06-06 | 2024-08-30 |
 | [Middle Man](https://open.spotify.com/track/650Gl0mOtKdKFeA84LnapZ) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Middle Man](https://open.spotify.com/album/5hPhlLsFJFtyG5Ylr3YLsP) | 6:00 | 2024-10-10 | 2024-11-22 |

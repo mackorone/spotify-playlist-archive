@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "an endless spring",
+        "url": "https://open.spotify.com/album/0EYe6j5EaDj1E4pi2XkYLa"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112491,
+      "name": "an endless spring",
+      "url": "https://open.spotify.com/track/0XIFV4GDAm0eGSpzDQgU5o"
+    },
+    {
+      "album": {
         "name": "Baker's Dozen",
         "url": "https://open.spotify.com/album/5oKbjKVE9c4SRo9Ny0lKf6"
       },
@@ -1790,6 +1808,24 @@
       "duration_ms": 140597,
       "name": "April Snow",
       "url": "https://open.spotify.com/track/7aAeKms8QSD0VwsHJbhyOX"
+    },
+    {
+      "album": {
+        "name": "Aqua",
+        "url": "https://open.spotify.com/album/5prd1riQ0u3Cv0qjBLpbuu"
+      },
+      "artists": [
+        {
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101818,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/7ArMWsBYI59MmStLmWAYHj"
     },
     {
       "album": {
@@ -6533,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "constellations",
+        "url": "https://open.spotify.com/album/2atTpuP3z27zonfsOSU52f"
+      },
+      "artists": [
+        {
+          "name": "butterfli",
+          "url": "https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "constellations",
+      "url": "https://open.spotify.com/track/6Tmhesk2tLiJtJ52Al3nQ1"
+    },
+    {
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/0JTdFdHC1KFPGOURH21F6p"
       },
@@ -7868,7 +7922,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 181874,
       "name": "Deep Blue Dream",
       "url": "https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW"
@@ -9602,7 +9656,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 144230,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ"
@@ -10098,7 +10152,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 140800,
       "name": "Engines",
       "url": "https://open.spotify.com/track/4zj7KEYf0YhhTFbrzK7TkI"
@@ -11488,7 +11542,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 151848,
       "name": "first 6 hours",
       "url": "https://open.spotify.com/track/7Kws9dCwpYnypN3Uv2Vq19"
@@ -18276,7 +18330,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 148732,
       "name": "Let\u00b4s Play",
       "url": "https://open.spotify.com/track/0L8fCyz1smqzs4yYdJTVOZ"
@@ -19550,7 +19604,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 110000,
       "name": "Lottalofi",
       "url": "https://open.spotify.com/track/3EdIb3dhDV0i7pKnflosVK"
@@ -19808,6 +19862,24 @@
       "duration_ms": 98805,
       "name": "low rider",
       "url": "https://open.spotify.com/track/3NTnZMWhpxCzeflfcKw0bu"
+    },
+    {
+      "album": {
+        "name": "Low Tone",
+        "url": "https://open.spotify.com/album/00VdSSkzttBydmBcpT2N2q"
+      },
+      "artists": [
+        {
+          "name": "Spitzgef\u00fchl",
+          "url": "https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137471,
+      "name": "Low Tone",
+      "url": "https://open.spotify.com/track/3UQ0SX3wO9sXDs27ZgHhqm"
     },
     {
       "album": {
@@ -23948,7 +24020,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 120070,
       "name": "oasis",
       "url": "https://open.spotify.com/track/00Y6a7M4Tn3buOHX3ImfH4"
@@ -31211,6 +31283,24 @@
     },
     {
       "album": {
+        "name": "sunday",
+        "url": "https://open.spotify.com/album/2HMUvhOR7xl0wMfuw3B0Hn"
+      },
+      "artists": [
+        {
+          "name": "nearly monday",
+          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125281,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5RZT7iLq4E9hSr6ljE7TXu"
+    },
+    {
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/4i0XCIdyLEGCdEtbXzFa5i"
       },
@@ -33239,6 +33329,28 @@
     },
     {
       "album": {
+        "name": "The Shore",
+        "url": "https://open.spotify.com/album/1flHqSiDEz0tnQxONWwzRa"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "The Shore",
+      "url": "https://open.spotify.com/track/6J0AggmWHenT6C8ORVzoPE"
+    },
+    {
+      "album": {
         "name": "Life Finds A Way",
         "url": "https://open.spotify.com/album/2c6XwUzMBg6jbkxrLl9cQi"
       },
@@ -33948,6 +34060,24 @@
       "duration_ms": 161311,
       "name": "trail running",
       "url": "https://open.spotify.com/track/3596EdDGZEzM9UPr9w2I0w"
+    },
+    {
+      "album": {
+        "name": "Train Delays",
+        "url": "https://open.spotify.com/album/4bWbawDFa9DwvPjS8tdNr6"
+      },
+      "artists": [
+        {
+          "name": "BeatsDotCom",
+          "url": "https://open.spotify.com/artist/5Qly1NvJNo9y2GcL2AmRwc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120010,
+      "name": "Train Delays",
+      "url": "https://open.spotify.com/track/27fserVzR1RsJ0FBkQIzSu"
     },
     {
       "album": {
@@ -35378,6 +35508,28 @@
       "duration_ms": 114285,
       "name": "Visions",
       "url": "https://open.spotify.com/track/7nq7xsWZMgF6LicP1I7JaA"
+    },
+    {
+      "album": {
+        "name": "Visit",
+        "url": "https://open.spotify.com/album/43m5ti0n2GsUKuy9W7Ceps"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118192,
+      "name": "Visit",
+      "url": "https://open.spotify.com/track/3WyADPGAnvUkAt6dR9pL0B"
     },
     {
       "album": {

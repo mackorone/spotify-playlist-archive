@@ -4,7 +4,7 @@
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-260 songs - 13 hr 0 min
+261 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Lancha Con Fondo De Cristal](https://open.spotify.com/track/3y0nZ0vHHBhmqRdYuz0DNV) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 2:12 | 2023-07-28 | 2024-04-19 |
 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 | 2021-09-03 |  |
 | [Logan's Run](https://open.spotify.com/track/1eBUpSGH2gLrrB2Wy2lwCZ) | [The Nebulas](https://open.spotify.com/artist/1AT04gH0CP5RTSTFkJQCi1) | [The Nebulas](https://open.spotify.com/album/0sQaPVhkMbLaVtQuQu2eCk) | 2:57 | 2021-09-03 | 2022-07-15 |
-| [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 | 2021-09-03 |  |
+| [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 | 2021-09-03 | 2025-03-29 |
 | [Love Special Delivery](https://open.spotify.com/track/1FAM8gwc0xTtsgIza7JlFs) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Love Special Delivery / Sail On, Sailor](https://open.spotify.com/album/3fljjkZOzsIjG6FF7PaQE7) | 2:22 | 2021-09-03 | 2022-07-19 |
 | [Mad Waves](https://open.spotify.com/track/5TKLfhIuRiwFs65utNQ651) | [Los Pegajosos](https://open.spotify.com/artist/4ipiEnWeX9r4MinEb9hco6) | [Profecía Celeste](https://open.spotify.com/album/1OUbvQlEfRsVTvIgFJuk2X) | 3:23 | 2021-09-03 | 2022-07-28 |
 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 | 2021-09-03 |  |
@@ -148,6 +148,7 @@
 | [Mar de Caca](https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes o No Puedes!](https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL) | 3:34 | 2021-09-03 | 2023-01-14 |
 | [Mar De Caca](https://open.spotify.com/track/6EF3LO2JAec99G5OFvrdJK) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes O No Puedes!](https://open.spotify.com/album/3nKCnrYo0hNwudR9vTFRl8) | 3:34 | 2021-09-03 | 2024-04-19 |
 | [Maremoto Shake](https://open.spotify.com/track/0mcyq6bCHGF08smeC1B72k) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Maremoto Shake](https://open.spotify.com/album/0bPZLplqluqn69ynqcyye9) | 3:03 | 2022-08-19 | 2025-03-17 |
+| [Mavericks](https://open.spotify.com/track/3OanBTh2aNBgbRdJylV9Bg) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Mavericks](https://open.spotify.com/album/0iY39xepUV8KH4aJya4PRG) | 3:20 | 2025-03-28 |  |
 | [Mavericks](https://open.spotify.com/track/0d2nwq8bTVzvHzx60A0IP7) | [Los Kahunas](https://open.spotify.com/artist/7BaYvs3P41031o3edkXrce) | [El Fantastico Sonido Surf & Hot Rod de los Kahunas](https://open.spotify.com/album/4AR2Ig1ZjyMxfyske9Ohak) | 2:22 | 2021-09-03 | 2022-07-22 |
 | [Metralleta](https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Metralleta](https://open.spotify.com/album/5nY5psozTUXskeoczm947N) | 2:35 | 2021-09-03 | 2022-07-06 |
 | [Mil Navajas](https://open.spotify.com/track/3AmJoBwYvzfIGRD708ayaa) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Mil Navajas](https://open.spotify.com/album/5Ul9BEPWYLF6K27B1pMnfI) | 5:00 | 2023-03-24 | 2024-07-30 |

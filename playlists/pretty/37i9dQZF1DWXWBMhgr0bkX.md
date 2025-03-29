@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Brand new music from homegrown talent ft\. Grace Davies; stick around for THAT outro!
+> Brand new music from homegrown talent ft\. Grace Davies; stick around for THAT bridge!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,614 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,631 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 69 | [sticky](https://open.spotify.com/track/0k8CJ2q7P9uNT1vh23bJVf) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:26 |
 | 70 | [charm bracelet](https://open.spotify.com/track/1VnJctj1fsfZFXeFkk4dVz) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [charm bracelet](https://open.spotify.com/album/7hIWydGtQ3uPp1Olv0m0yc) | 2:12 |
 
-Snapshot ID: `Z+XmogAAAAADz13xfG6HcXr/1wGB/UTE`
+Snapshot ID: `Z+ZwgQAAAADcwMTrdWgKJvqapIdBnN0K`

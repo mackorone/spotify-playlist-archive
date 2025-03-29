@@ -2,9 +2,9 @@
 
 ### [New Music Friday Iceland](https://open.spotify.com/playlist/37i9dQZF1DXdvNG1v6uWvH)
 
-> Loksins New Music Friday! Ný tónlist frá Birnir, Mumford & Sons og mörgum fleiri!
+> Loksins New Music Friday! Ný tónlist frá Ariana Grande, Birnir og mörgum fleiri!
 
-5,120 songs - 11 day 10 hr 38 min
+5,123 songs - 11 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1867,6 +1867,7 @@
 | [Happy Thoughts](https://open.spotify.com/track/2ctOd1W1tBab17SypUqb2G) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Happy Thoughts](https://open.spotify.com/album/6MTIPGn9mEBikfRbF2yzlK) | 2:32 | 2024-09-13 | 2024-09-20 |
 | [Happy Without You](https://open.spotify.com/track/6yjMuPHEh9DDy2mg8nxFaq) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Okay With Every Part](https://open.spotify.com/album/468ks5NISmCyiJALHCsjpV) | 2:42 | 2024-07-19 | 2024-07-27 |
 | [Hard Breaks](https://open.spotify.com/track/2qpCG7AW8yivcU4SO9nn4P) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Joseph Arthur](https://open.spotify.com/artist/5aD0uh1BpYTN7AzhiSDgaO), [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Hard Breaks](https://open.spotify.com/album/4cbu2uporkfIn48imnQKiH) | 3:07 | 2024-09-13 | 2024-09-20 |
+| [HARD LIFE \(feat\. Carey Washington\)](https://open.spotify.com/track/7yYYyYKELkxv4aLTTLWwSZ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [HARD LIFE \(feat\. Carey Washington\)](https://open.spotify.com/album/31EbjNtO1KwwMnhqLt3NFB) | 3:42 | 2025-03-28 |  |
 | [Hard To Break](https://open.spotify.com/track/3rs66f9y930hOvNfKH6p3T) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Clara Sofie](https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4) | [Hard To Break](https://open.spotify.com/album/69xSsPZGTf26uCAd8qCdlU) | 2:41 | 2024-09-06 | 2024-09-13 |
 | [HARD TO BREATHE](https://open.spotify.com/track/2kUQdM2E5My2uE5lMEdOaV) | [SAUDA](https://open.spotify.com/artist/39dIL6jVJO0gdoAOQL0Tt1), [Tia Jade](https://open.spotify.com/artist/0jBuGWhjpnWSjFjkonrvx7) | [HARD TO BREATHE](https://open.spotify.com/album/3UuSTJvTjd1EuZNf530OOI) | 4:19 | 2025-03-28 |  |
 | [Hardcore Romance](https://open.spotify.com/track/2DXmrFjBKWY11AiIlZanYD) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hardcore Romance](https://open.spotify.com/album/6WAU1dlxzNP5jksM5qr3I3) | 3:19 | 2024-08-23 | 2024-08-30 |
@@ -2669,6 +2670,7 @@
 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 | 2024-11-08 | 2024-11-15 |
 | [Live Once](https://open.spotify.com/track/0pq16z3LHaEN95gpDYjlar) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [Live Once](https://open.spotify.com/album/6lLYty7XXkyl744PhBxnwd) | 2:24 | 2024-12-13 | 2024-12-20 |
 | [Livin' It Up \(Rainy Day\)](https://open.spotify.com/track/5m6pmawyb2H5tzutv4FINK) | [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA), [Rachel Gonzalez](https://open.spotify.com/artist/63VWVmNJRT50AnblZm24U7), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG) | [Livin' It Up \(Rainy Day\)](https://open.spotify.com/album/5S0gvFPxxE2xW2oskL1FOA) | 3:07 | 2024-10-04 | 2024-10-06 |
+| [Living ain't easy](https://open.spotify.com/track/3I8FoPeJKBR0OaQG3ZmhrF) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Living ain't easy](https://open.spotify.com/album/7lejTD1D0WvgkIJS9Q2US0) | 3:04 | 2025-03-28 |  |
 | [Living Comes With Dying](https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Living Comes With Dying](https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb) | 3:06 | 2024-06-14 | 2024-06-21 |
 | [Living In A Dream](https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Living In A Dream](https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A) | 3:16 | 2024-06-07 | 2024-06-09 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-17 | 2024-05-24 |
@@ -4656,6 +4658,7 @@
 | [Tveir tveir fjórir](https://open.spotify.com/track/6Iy06S6BpEpCl7W8YzbmpK) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Tveir tveir fjórir](https://open.spotify.com/album/0mT8Y3uz2Ptqs1tb4wGs5I) | 3:00 | 2024-07-12 | 2024-07-19 |
 | [twenty](https://open.spotify.com/track/521H4i1z61NsAwL84bMlAr) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y), [LISP](https://open.spotify.com/artist/6xA7T8KlOWbWzuOfsZZDYN) | [twenty](https://open.spotify.com/album/4DY7LOiAuTzqelpxBkP77Z) | 4:19 | 2024-04-26 | 2024-05-03 |
 | [Twenty\-Five](https://open.spotify.com/track/3yvr5tQ6r8fbweZ62lH3EN) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [Twenty\-Five](https://open.spotify.com/album/7E8zMIXfXz0zkaeH6FbJP2) | 2:17 | 2024-10-11 | 2024-10-18 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 |  |
 | [Twinners](https://open.spotify.com/track/7jiUFqfyku8svYVnsxjA1c) | [Holy Hrafn](https://open.spotify.com/artist/4gTgF0htbvM8auxIGvylcB), [Dr\. Vigdís Vala](https://open.spotify.com/artist/5EdX1VDe5M8BF8P92pjk5z) | [Dr\. Vigdís Vala Eða : Hvernig ég hætt að hafa áhyggjur af Holy Hrafni & lærði að elska bítin hans](https://open.spotify.com/album/6m0NUhYbqSNDVbTvlKg72Q) | 2:58 | 2025-03-07 | 2025-03-08 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 | 2024-11-22 |
 | [Two Makes Everything](https://open.spotify.com/track/0LouQgkKaJIE5vmwaXXy9F) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee), [Lilli Ellen](https://open.spotify.com/artist/2kWP5nduv0bmZ07LVX9OWI) | [Two Makes Everything](https://open.spotify.com/album/1OTeZ40OnpocIm9Ws5IvAG) | 5:21 | 2024-06-21 | 2024-06-28 |

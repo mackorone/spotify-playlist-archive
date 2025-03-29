@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-125 songs - 8 hr 11 min
+126 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [La passante du Sans\-Souci](https://open.spotify.com/track/0VgsJeslY176suMw8tZgou) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [Duncan Ward](https://open.spotify.com/artist/39WxITwf1epxevcYQ4DbF1) | [La passante du Sans\-Souci](https://open.spotify.com/album/5U3Q1jD2WhzAqOjEbK0yog) | 4:20 | 2024-02-08 |  |
 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541 / 3](https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:53 | 2021-11-09 |  |
 | [Lunar](https://open.spotify.com/track/0v1YUX6yWvRJCoWIYuU1vB) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Lunar](https://open.spotify.com/album/5aBpRb8Su6q0aWJiCModUr) | 3:09 | 2024-09-13 |  |
+| [Lyric Pieces, Book VII, Op\. 62: No\. 5, Phantom](https://open.spotify.com/track/0pwRRTZU30Nm4FjhfzKlL7) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Andrey Gugnin](https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe) | [Grieg: Holberg Suite, Ballade & Lyric Pieces](https://open.spotify.com/album/4Ely2D4OUscL3dBLHG8OIZ) | 4:12 | 2025-03-28 |  |
 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 | 2021-11-09 | 2024-04-06 |
 | [Melodie from "Orfeo ed Euridice", Wq\. 30 \(Arr\. Sgambati for Piano\)](https://open.spotify.com/track/71S0ksOIsXEqvUNNTb1RJd) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Resonances](https://open.spotify.com/album/15aPCHxkWKvv13S8KCGGeQ) | 3:52 | 2024-08-02 |  |
 | [Mercure \- Poses plastiques en trois tableaux: La Nuit](https://open.spotify.com/track/4uPoKGJ1QRJF8QmsHztfYI) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Chill With Satie](https://open.spotify.com/album/5alBq6M27UNiLQICjblXsJ) | 1:20 | 2022-11-10 | 2022-11-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Anetha.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring Jackie Hollander.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 225071,
       "name": "Holding Back",
       "url": "https://open.spotify.com/track/3PY4LMTRDGzg9wXq4tB9cE"
@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 386865,
       "name": "Hypnopompia",
       "url": "https://open.spotify.com/track/16DdO8ytErI66liwXTh9D3"
@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 225362,
       "name": "Intention",
       "url": "https://open.spotify.com/track/3XUeay5T8hizznK7TilThF"
@@ -5809,6 +5809,28 @@
     },
     {
       "album": {
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/6HdKlMf1ruC1csb7dwS70o"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        },
+        {
+          "name": "Kamino",
+          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/3SAhh2tNNY30Pooge2BHNT"
+    },
+    {
+      "album": {
         "name": "Luna EP",
         "url": "https://open.spotify.com/album/0DET8MfvJCKUs6l1ICACFG"
       },
@@ -5990,6 +6012,24 @@
       "duration_ms": 200597,
       "name": "Maybe in the Summer",
       "url": "https://open.spotify.com/track/3xj837YDEJHCrFis2IK9U9"
+    },
+    {
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/4hnT8Iwo4oeEQA6RzGfEPC"
+      },
+      "artists": [
+        {
+          "name": "Anna-My",
+          "url": "https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262002,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/6pQB4WLYNsGTihGIYogeBP"
     },
     {
       "album": {
@@ -7489,6 +7529,28 @@
     },
     {
       "album": {
+        "name": "Rise (Or:la remix)",
+        "url": "https://open.spotify.com/album/4FVyMmhPwLLCHhHXsdHQsk"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "Or:la",
+          "url": "https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296810,
+      "name": "Rise (Or:la remix)",
+      "url": "https://open.spotify.com/track/1OVHo3HiEfPBkDoJ5dBpba"
+    },
+    {
+      "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
       },
@@ -7817,6 +7879,28 @@
     },
     {
       "album": {
+        "name": "Shark Brain / Dolphin",
+        "url": "https://open.spotify.com/album/3xRHlsN1ny2OS4XFXdCrer"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241397,
+      "name": "Shark Brain (feat. Shygirl)",
+      "url": "https://open.spotify.com/track/4cP4OcoWnDO3AXYCeO83jP"
+    },
+    {
+      "album": {
         "name": "What We Live For",
         "url": "https://open.spotify.com/album/3NAuFVoDYWtDklzfrxsd0I"
       },
@@ -7980,6 +8064,24 @@
       "duration_ms": 232000,
       "name": "Single Kiss",
       "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
+    },
+    {
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/6cNPWbCd1pyK7jAgZYa3VF"
+      },
+      "artists": [
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280162,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/2fU6FZYhp33uEIc8HLYUdv"
     },
     {
       "album": {
@@ -8942,7 +9044,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 205282,
       "name": "The Only One (feat. SA\u00cdGO)",
       "url": "https://open.spotify.com/track/4mCr3lxi33KfNkGsdcX8lM"
@@ -10082,7 +10184,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 288700,
       "name": "Woman in Chains",
       "url": "https://open.spotify.com/track/5Koh9fVshaR6qB2LtPQA40"

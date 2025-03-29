@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-152 songs - 7 hr 52 min
+153 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,15 +56,15 @@
 | [Feel the Music](https://open.spotify.com/track/0OzHgnO748U2mdmgV57cgy) | [T\-Shirts & Sweats](https://open.spotify.com/artist/0FcaySiOfyoo0GzdrWsiVD) | [Feel the Music](https://open.spotify.com/album/1JU3vcpO1AHV04dtw1Fh1t) | 3:26 | 2024-07-16 | 2025-02-08 |
 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 | 2024-06-06 |  |
 | [Forgotten Summer](https://open.spotify.com/track/223hBrvnfpTCqk2IJya5aN) | [FNL BO$$](https://open.spotify.com/artist/6ZLon0iHgFixJOzwdwPTUX) | [Forgotten Summer](https://open.spotify.com/album/10yDRYLxtUGzx3mbAoLvwo) | 2:38 | 2024-06-06 | 2024-06-21 |
-| [Fork!](https://open.spotify.com/track/4sJinP3uGtTJTbL7UyA4Wk) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Fork!](https://open.spotify.com/album/2SbQuH99se8HcOYNMOwyE7) | 2:53 | 2024-06-06 |  |
-| [Futura](https://open.spotify.com/track/0EloAHBAFuWZQgLgiOeqse) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Futura](https://open.spotify.com/album/5uBzDNHgBHYTkpSldTMfql) | 3:12 | 2024-06-06 |  |
+| [Fork!](https://open.spotify.com/track/4sJinP3uGtTJTbL7UyA4Wk) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Fork!](https://open.spotify.com/album/2SbQuH99se8HcOYNMOwyE7) | 2:53 | 2024-06-06 | 2025-03-29 |
+| [Futura](https://open.spotify.com/track/0EloAHBAFuWZQgLgiOeqse) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Futura](https://open.spotify.com/album/5uBzDNHgBHYTkpSldTMfql) | 3:12 | 2024-06-06 | 2025-03-29 |
 | [Galactic Odyssey](https://open.spotify.com/track/6FLYswnxa41JAlvVO0z8jM) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Galactic Odyssey](https://open.spotify.com/album/6Tg8rLt0JwF3U9f71ytaH2) | 2:39 | 2024-06-06 |  |
 | [Game Changer](https://open.spotify.com/track/6A32QbIZSDMf2XjWXZzuxg) | [The Big Let Down](https://open.spotify.com/artist/6xyuBVDedXYKfog6HWaJCR) | [Game Changer](https://open.spotify.com/album/5TDq44iN68JvxiA47gbNkH) | 3:32 | 2024-07-16 | 2025-02-08 |
 | [Genesis](https://open.spotify.com/track/6oXGhkID0h3hAB7Q8bJbm2) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Genesis](https://open.spotify.com/album/7qRTzJRQaIrcOlbTjN2faN) | 2:36 | 2024-06-06 | 2024-12-23 |
 | [ghost](https://open.spotify.com/track/4aq30tjWBZBsfzWlog31R6) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [ghost](https://open.spotify.com/album/1vsOZvcy71weRgIc4tzsGH) | 2:46 | 2024-09-27 |  |
 | [Glide](https://open.spotify.com/track/1IJkYdWKbtkkyhEdXjqeLX) | [Whilefalse](https://open.spotify.com/artist/1ixu62yr2QwyZ1EFALxgCF) | [Glide](https://open.spotify.com/album/4euepUf6is3WgmqOPpvisj) | 3:20 | 2024-09-05 |  |
 | [Glint](https://open.spotify.com/track/3wq9bm0WA6PjX1thMwojWI) | [Moiré Lights](https://open.spotify.com/artist/0hvQek6XUHfM89K9bBFiqe) | [Harsh Light](https://open.spotify.com/album/14m691uqlsr4P4nWPOJsil) | 3:01 | 2024-08-10 |  |
-| [Gravity](https://open.spotify.com/track/5M1EU0YFwT9acnKjtvWILk) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Gravity](https://open.spotify.com/album/0aThIpvWv1FNuMzyPp1Fqo) | 4:01 | 2025-01-31 |  |
+| [Gravity](https://open.spotify.com/track/5M1EU0YFwT9acnKjtvWILk) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Gravity](https://open.spotify.com/album/0aThIpvWv1FNuMzyPp1Fqo) | 4:01 | 2025-01-31 | 2025-03-29 |
 | [Great Ones](https://open.spotify.com/track/2tM0gJa9jRSxT06SD24irK) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Great Ones](https://open.spotify.com/album/5WFzdrj46i4uC5jXL3LIN9) | 2:46 | 2024-06-06 |  |
 | [H204](https://open.spotify.com/track/6BgRhSUOCm5cJdCG0tEkmG) | [Long Tapes](https://open.spotify.com/artist/5eB6joIKmG260vSyI72D4V) | [H204](https://open.spotify.com/album/7xy8hj9nSikTkADPm2lCS3) | 2:35 | 2024-06-06 |  |
 | [Happy Days](https://open.spotify.com/track/2XIzBn6pv20rFPkEjboc1x) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Happy Days](https://open.spotify.com/album/16uHtWmXhndf4gMHAJQjtH) | 2:46 | 2024-06-06 |  |
@@ -133,6 +133,7 @@
 | [Shimmering Expanse](https://open.spotify.com/track/1Zq4bvnfO1umN1u9id5qT3) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Shimmering Expanse](https://open.spotify.com/album/3NGLi8A1FenoabAq99jF8S) | 2:30 | 2024-11-22 |  |
 | [Skybeam](https://open.spotify.com/track/0dSRcN8hFArUbg2Y6TzQrK) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Skybeam](https://open.spotify.com/album/1HGxvnkNnhyWHWMsrDsQNY) | 4:08 | 2024-09-05 |  |
 | [Songs for Tiny](https://open.spotify.com/track/4K9gkXgnVBQNyK86gR8BbR) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Songs for Tiny](https://open.spotify.com/album/5UwQpgOFMGyVHAF1inprQH) | 2:41 | 2024-12-13 |  |
+| [Space Things](https://open.spotify.com/track/1us1HStVhoyj9XWSJkyayB) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Space Things](https://open.spotify.com/album/3m2eI236x8uclClzy5zGWz) | 2:08 | 2025-03-28 |  |
 | [Sphere](https://open.spotify.com/track/7p3KGBMxdmIttLZWGQQcQ9) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Sphere](https://open.spotify.com/album/2nTJIiVfO9DIZZTRbKrBxV) | 2:40 | 2024-06-06 |  |
 | [Spoon Too!](https://open.spotify.com/track/6SAXZKjLKBARiy4hn765ku) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Fork!](https://open.spotify.com/album/2SbQuH99se8HcOYNMOwyE7) | 2:28 | 2024-06-06 |  |
 | [Stardancer](https://open.spotify.com/track/6KlbIwVaanhHP5yOU9mhDy) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k) | [The Last Descent](https://open.spotify.com/album/6HvsBZM0eo7dLeUyRg6EpR) | 3:04 | 2024-06-06 | 2024-06-21 |
@@ -144,7 +145,7 @@
 | [Teal Dream](https://open.spotify.com/track/5OMyeEC3s9mJt2cnJIpKaN) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [Teal Dream](https://open.spotify.com/album/4CGCLBgGLmKQS0ur1L5V3w) | 3:41 | 2024-06-06 | 2025-02-21 |
 | [Tellurate](https://open.spotify.com/track/1eFyUqcfmxwdQlo74qu9KO) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Tellurate](https://open.spotify.com/album/3Jjh9s8zoUgUOLFrg2sles) | 3:01 | 2024-10-07 |  |
 | [Textures](https://open.spotify.com/track/1seTo1rP8Y5A9pn9ap92nS) | [DeSantiis](https://open.spotify.com/artist/3nxb4AVWKD3ccJcW858gZt) | [Textures](https://open.spotify.com/album/4d0id8b3ltwYcT4vTtM0gv) | 2:51 | 2024-06-06 |  |
-| [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 |  |
+| [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 | 2025-03-29 |
 | [The Mirage Syndicate](https://open.spotify.com/track/3Fl3Twi9Anar9g7faE9bgo) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [Battle for Black Hole Base Pt\. 2](https://open.spotify.com/album/3WZ134pjBqabVf6QduWxvi) | 2:40 | 2024-12-03 |  |
 | [The Unknown](https://open.spotify.com/track/5BilQDvjG6wn2emz32svm5) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [The Unknown](https://open.spotify.com/album/69I7fYgok4SWKr0d55Sy7b) | 3:02 | 2024-06-06 | 2025-01-21 |
 | [Time](https://open.spotify.com/track/7kx7vTZFMcR822J0EdreNP) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Time](https://open.spotify.com/album/0eNfe89MtLWRndxk0nW0o8) | 3:24 | 2024-12-13 |  |
@@ -154,7 +155,7 @@
 | [Valentina](https://open.spotify.com/track/23CMTsEHgMsug4DyafCpqH) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Valentina](https://open.spotify.com/album/4spKQQXCmCyHKTgObWWfGE) | 2:54 | 2025-01-20 |  |
 | [VHS](https://open.spotify.com/track/6iQkPTQy6bcW2J5A8JNxt1) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [VHS](https://open.spotify.com/album/5aLcJnQhU7KzSlbJIrEX4v) | 3:16 | 2024-09-13 |  |
 | [Video Knights](https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Video Knights](https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb) | 4:12 | 2024-06-06 |  |
-| [Virtual Realm](https://open.spotify.com/track/02g6jSLXQTRxzObVfJCD5R) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Virtual Realm](https://open.spotify.com/album/7iD7qgWarP2cE6milUdLxk) | 3:39 | 2024-08-23 |  |
+| [Virtual Realm](https://open.spotify.com/track/02g6jSLXQTRxzObVfJCD5R) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Virtual Realm](https://open.spotify.com/album/7iD7qgWarP2cE6milUdLxk) | 3:39 | 2024-08-23 | 2025-03-29 |
 | [Vision](https://open.spotify.com/track/6KNaqKR7BcwXCluU3RXfZr) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Foudroie](https://open.spotify.com/artist/1P689RfBCQpBQoZhCCgFma) | [Vision](https://open.spotify.com/album/68V0lav8D7wxmj0dSermlU) | 3:21 | 2024-06-06 | 2024-08-11 |
 | [We Began as Wanderers](https://open.spotify.com/track/2rL1cFztdWVUja88kIpumO) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [We Began as Wanderers](https://open.spotify.com/album/0K1zzGjDbsZbiirUV4sQCx) | 3:33 | 2024-06-06 |  |
 | [Wings](https://open.spotify.com/track/1yKXzKrj216vYqdhKxc9uc) | [MEGAS](https://open.spotify.com/artist/1e9L6JvckFG915fCtQoif6) | [Wings](https://open.spotify.com/album/4QbZ4si0RjsNKA81ytPpgR) | 3:51 | 2024-09-05 |  |

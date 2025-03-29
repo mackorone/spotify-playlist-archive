@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 43966,
+  "num_followers": 43984,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkfgAAAAAN74PkxCkuV46Z823v7Zhn",
+  "snapshot_id": "Z+Ye5QAAAAAiPkoMZ+CbQzNWCYiZm4wb",
   "tracks": [
     {
       "added_at": "2024-10-11 13:41:50",
@@ -155,6 +155,22 @@
       "duration_ms": 221314,
       "name": "Time To Make A Change (feat. MonoNeon)",
       "url": "https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn"
+    },
+    {
+      "added_at": "2025-03-28 04:00:37",
+      "album": {
+        "name": "Hear My Voice",
+        "url": "https://open.spotify.com/album/5delMUtBzP4fopPU2iwu49"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Hear My Voice",
+      "url": "https://open.spotify.com/track/7MLfFJqkurN7OCdzvrDg8o"
     },
     {
       "added_at": "2025-02-21 05:00:16",
@@ -1099,22 +1115,6 @@
       "duration_ms": 147390,
       "name": "My Light",
       "url": "https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2024-10-11 13:41:50",

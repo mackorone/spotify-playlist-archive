@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: Joey B",
+  "description": "The big Hip-Life hits rn. Cover: AratheJay and Bella Shmurda",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -170,7 +170,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 156499,
       "name": "Abasakoom",
       "url": "https://open.spotify.com/track/1nwny3zV6GwX1qIESCROJI"
@@ -1626,6 +1626,28 @@
       "duration_ms": 205090,
       "name": "FINGERS",
       "url": "https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238555,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn"
     },
     {
       "album": {

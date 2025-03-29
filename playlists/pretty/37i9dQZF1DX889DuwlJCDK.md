@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Chevon
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,442 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,490 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 18 | [ルーツ](https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [ルーツ](https://open.spotify.com/album/2oHZkXP1kzX5USWN7rT6dc) | 3:15 |
 | 19 | [モルト](https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [モルト](https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy) | 2:29 |
 | 20 | [reunion](https://open.spotify.com/track/390xMVQm5vd0GmSv6uaSb3) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [reunion](https://open.spotify.com/album/7AtkFDr4GN95deyKuZmSk7) | 4:56 |
-| 21 | [天泣](https://open.spotify.com/track/74oNRt29tO9K9D05F8LI5n) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [天泣](https://open.spotify.com/album/2AopA91xOSaudKYE11M1at) | 3:38 |
+| 21 | [天泣](https://open.spotify.com/track/74oNRt29tO9K9D05F8LI5n) | [YOURNESS](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [天泣](https://open.spotify.com/album/2AopA91xOSaudKYE11M1at) | 3:38 |
 | 22 | [私だって、](https://open.spotify.com/track/7hCkAoD0OWoytiPMs0l550) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [私だって、](https://open.spotify.com/album/3jNKtpbMK2vQgyLInlEI7B) | 3:44 |
 | 23 | [Ultramen](https://open.spotify.com/track/50q4PXTkVIEjyXvpVmRrCA) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Ultramen](https://open.spotify.com/album/5tsX9bR6DrODS5T6wRSExH) | 1:00 |
 | 24 | [Orange Crush](https://open.spotify.com/track/5BZs1EdhaRbwuTeLuHUYwZ) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [100%](https://open.spotify.com/album/2ZSoVLNwqPeVwnpL7QI7tN) | 3:17 |

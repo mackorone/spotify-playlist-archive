@@ -3437,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2HdWMcTl16okf4GA4QQf3K"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198371,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA"
+    },
+    {
+      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a"
       },
@@ -3780,6 +3798,28 @@
       "duration_ms": 179420,
       "name": "Zapateo",
       "url": "https://open.spotify.com/track/7DRlzBCGO83lfVHV4Z4YjS"
+    },
+    {
+      "album": {
+        "name": "\u00c1RBOL (En Vivo Estadio Delmi)",
+        "url": "https://open.spotify.com/album/7nEXOZiWZ4I1fokc7vTywb"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230528,
+      "name": "\u00c1RBOL - En Vivo Estadio Delmi",
+      "url": "https://open.spotify.com/track/3KuC6QXvGGToJKMECUU04M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds"

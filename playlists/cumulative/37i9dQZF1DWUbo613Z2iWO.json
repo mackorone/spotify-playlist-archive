@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover:  Larissa Lambert",
+  "description": "R&B of the moment by the artists of the future. Cover:  Dende",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Art of War",
+        "url": "https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126973,
+      "name": "Art of War",
+      "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
+    },
+    {
+      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
       },
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 147955,
       "name": "BACK IN OFFICE",
       "url": "https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ"
@@ -1930,6 +1948,24 @@
       "duration_ms": 175346,
       "name": "Bby Boi",
       "url": "https://open.spotify.com/track/4r4u3CdAC7o6CRUMatZTMs"
+    },
+    {
+      "album": {
+        "name": "10 Songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178902,
+      "name": "be with ya",
+      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
     },
     {
       "album": {
@@ -3110,6 +3146,24 @@
       "duration_ms": 170762,
       "name": "can u?",
       "url": "https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs"
+    },
+    {
+      "album": {
+        "name": "Can We Do This Over",
+        "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Can We Do This Over",
+      "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
     },
     {
       "album": {
@@ -6200,7 +6254,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 180000,
       "name": "FADE",
       "url": "https://open.spotify.com/track/0r0MdpaQW7iLmD0OojRK8p"
@@ -6516,7 +6570,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 156000,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
@@ -7148,7 +7202,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 183488,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy"
@@ -10510,7 +10564,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 200920,
       "name": "It's All There (Secrets)",
       "url": "https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco"
@@ -11116,6 +11170,24 @@
       "duration_ms": 231867,
       "name": "Lately (with 6LACK)",
       "url": "https://open.spotify.com/track/6QyNMgB28X9oCdz2rAEnp7"
+    },
+    {
+      "album": {
+        "name": "Lay With Me",
+        "url": "https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "Lay With Me",
+      "url": "https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD"
     },
     {
       "album": {
@@ -12460,7 +12532,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 259466,
       "name": "LYIN",
       "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
@@ -12788,6 +12860,24 @@
       "duration_ms": 242183,
       "name": "Matter To You",
       "url": "https://open.spotify.com/track/2EqbyvCXCrpYLGbjXjuC2x"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1PMUQC0cN01wWBOa7JX1Tz"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/4Q5i4B6XiPWhGOFMxYvMfO"
     },
     {
       "album": {
@@ -13610,7 +13700,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 208249,
       "name": "Need U Like",
       "url": "https://open.spotify.com/track/6kpOKxfq6OS16y54LIEqcE"
@@ -13701,6 +13791,24 @@
     },
     {
       "album": {
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/7cOfe7aXFYyZ6rrhrlcp2i"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128233,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/5Ha86zPip9CSUj8hB61yUi"
+    },
+    {
+      "album": {
         "name": "New Moves",
         "url": "https://open.spotify.com/album/2VXaTb8Dz9ecOXXMp6ehtv"
       },
@@ -13778,7 +13886,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 173445,
       "name": "NIGHT OFF",
       "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
@@ -16624,7 +16732,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 214962,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/6Ylr3goHPDWv6me0PmA0tl"
@@ -17244,7 +17352,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 117094,
       "name": "RUDUMB?",
       "url": "https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN"
@@ -17512,6 +17620,28 @@
       "duration_ms": 205500,
       "name": "Screamin'",
       "url": "https://open.spotify.com/track/3xhN99234Mw8VmDLbgefpK"
+    },
+    {
+      "album": {
+        "name": "SEARCHING",
+        "url": "https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150038,
+      "name": "SEARCHING",
+      "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
     },
     {
       "album": {
@@ -18322,7 +18452,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 220884,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/7uOLj1Vo41c6NTYGeaCFlY"
@@ -18726,6 +18856,28 @@
       "duration_ms": 183260,
       "name": "Starsigns",
       "url": "https://open.spotify.com/track/5XpihZZP0WbwGMCoN4CePo"
+    },
+    {
+      "album": {
+        "name": "I am, because you are...",
+        "url": "https://open.spotify.com/album/1iCa2uKzbjFT2csPFD6VAm"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175314,
+      "name": "Stay (feat. Roy Woods)",
+      "url": "https://open.spotify.com/track/2SkYAIrEkCn09z0IwtK37w"
     },
     {
       "album": {
@@ -19212,6 +19364,24 @@
       "duration_ms": 159131,
       "name": "SUNSET BLVD",
       "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
+    },
+    {
+      "album": {
+        "name": "Falling Into Place",
+        "url": "https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144513,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L"
     },
     {
       "album": {
@@ -20194,7 +20364,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 171063,
       "name": "The One",
       "url": "https://open.spotify.com/track/5gLOR2GxtsOszaWpkfTfhR"
@@ -20988,7 +21158,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 133440,
       "name": "Two Truths And A Lie",
       "url": "https://open.spotify.com/track/1eB0OW7eTtcLt3uqYiSc3C"
@@ -21166,7 +21336,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 177901,
       "name": "Unruly",
       "url": "https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8"

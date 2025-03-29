@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Breakup in Bloom",
+        "url": "https://open.spotify.com/album/1WEoEbXN4f0WXN5BtgOUfD"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159854,
+      "name": "Breakup in Bloom (in E)",
+      "url": "https://open.spotify.com/track/6q4BUfCcG3EE6Bz4UOpT2K"
+    },
+    {
+      "album": {
         "name": "Breathable",
         "url": "https://open.spotify.com/album/6BifaJB9JEsELsZch0YEDk"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > È tornato Franchino ed è su Indie Italia 🥹 \(che ha una nuova grafica 👀\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,899 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,113 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Sad Songs](https://open.spotify.com/playlist/37i9dQZF1DX7qK8ma5wgG1)
 
-> Songs for a broken heart
+> It's okay to cry
 
 265 songs - 15 hr 7 min
 

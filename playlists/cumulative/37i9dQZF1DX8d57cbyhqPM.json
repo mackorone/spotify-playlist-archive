@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton GIMS",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tantine Ga\u00eblle et Tonton Naza",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 200000,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/5qoIidnWnD9y8kvBSu15Rb"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 148495,
       "name": "Comme moi",
       "url": "https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB"
@@ -3213,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Elle Kiff",
+        "url": "https://open.spotify.com/album/6nFqQc54SZbB9AA3Y5ey4m"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135070,
+      "name": "Elle Kiff",
+      "url": "https://open.spotify.com/track/6dDZzcTOiKQyFugebf8rYD"
+    },
+    {
+      "album": {
         "name": "Hybride",
         "url": "https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK"
       },
@@ -4110,6 +4128,28 @@
       "duration_ms": 153600,
       "name": "Good Vibe",
       "url": "https://open.spotify.com/track/1qbnqWCKJFo7MYKB013OSo"
+    },
+    {
+      "album": {
+        "name": "Guantanamo",
+        "url": "https://open.spotify.com/album/6zfhIu11roei5i5Zkd0EUe"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149291,
+      "name": "Guantanamo",
+      "url": "https://open.spotify.com/track/6V9sJD14uM8fuH7Oj4URA7"
     },
     {
       "album": {

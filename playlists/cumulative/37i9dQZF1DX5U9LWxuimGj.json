@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Julio Caesar ",
+  "description": "Country music with a Latin flair. Cover: Cody Johnson and Carin Leon",
   "name": "Country Latino",
   "tracks": [
     {
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 162546,
       "name": "Hola",
       "url": "https://open.spotify.com/track/0huIntjZ6mdOjk6Dts3j5P"
@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/3TJFoKzARj4Zoz8BaTDqR8"
+      },
+      "artists": [
+        {
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139674,
+      "name": "La Que Bateaste",
+      "url": "https://open.spotify.com/track/0K0bKMqTpHioTYqGm3xrCN"
+    },
+    {
+      "album": {
         "name": "Laredo",
         "url": "https://open.spotify.com/album/6UvkjIXN6hwu8xsfeFmtNV"
       },
@@ -1976,6 +1994,24 @@
       "duration_ms": 178943,
       "name": "Leaving With My Heart",
       "url": "https://open.spotify.com/track/6UG5p0ZG93YqHAKS4NBmnl"
+    },
+    {
+      "album": {
+        "name": "Left My Heart In Texas",
+        "url": "https://open.spotify.com/album/1XtCcz4zdpQQdMN2OyCCUl"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186464,
+      "name": "Left My Heart In Texas",
+      "url": "https://open.spotify.com/track/6v8cRGwMABd9EXkti1TLhU"
     },
     {
       "album": {
@@ -2232,6 +2268,24 @@
       "duration_ms": 184882,
       "name": "Mi Casa - We Bought a House - Spanish Version",
       "url": "https://open.spotify.com/track/1v61YJhvATuIWMRARRhKbh"
+    },
+    {
+      "album": {
+        "name": "Left My Heart In Texas",
+        "url": "https://open.spotify.com/album/1XtCcz4zdpQQdMN2OyCCUl"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186464,
+      "name": "Mi Coraz\u00f2n Est\u00e1 En Tejas",
+      "url": "https://open.spotify.com/track/01hkApnacJH1MwdyPGnrs1"
     },
     {
       "album": {
@@ -2777,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "She Hurts Like Tequila",
+        "url": "https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "She Hurts Like Tequila",
+      "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
+    },
+    {
+      "album": {
         "name": "solo un nombre",
         "url": "https://open.spotify.com/album/4G9SYkkeCeO0jXTQxDOxFz"
       },
@@ -3228,7 +3304,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 170152,
       "name": "That Kinda Night",
       "url": "https://open.spotify.com/track/3uAS0qo2n4AoVpTqVTj6Qn"

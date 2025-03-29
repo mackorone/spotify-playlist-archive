@@ -4,7 +4,7 @@
 
 > depressing piano covers of hit songs 🥺💔 music can fix us
 
-51 songs - 2 hr 42 min
+53 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,13 +38,15 @@
 | [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2025-02-20 |  |
 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 | 2025-02-20 |  |
 | [Lover \- Piano](https://open.spotify.com/track/6SLbPpHePkvoQvgrvazQuD) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/3tuqnyoZ4SCBa5q2KwjVJH) | 3:14 | 2025-02-20 |  |
+| [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 | 2025-03-28 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 | 2025-02-20 |  |
 | [My Universe](https://open.spotify.com/track/0gUFsysQrkPRZPLnL7NiV4) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [BTS Piano Covers, Vol\. 2](https://open.spotify.com/album/0xFZWU9ElqmrExGQ9zcDLg) | 2:14 | 2025-02-20 |  |
 | [Ocean Eyes](https://open.spotify.com/track/0uVBjMQGASq2vMiCuWPtCH) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 3:13 | 2025-02-20 |  |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2025-02-20 |  |
 | [Peaches \- Piano](https://open.spotify.com/track/3ZnxEuvghnpte4SGlRbIXF) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 3:05 | 2025-02-20 |  |
 | [Please Please Please \- Piano Version](https://open.spotify.com/track/5Jp6P4rplwaHIB6XQ7o74W) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Piano Cover Collection \(Vol.3\)](https://open.spotify.com/album/4UjatSTl3ifWztP8eJzdDm) | 3:32 | 2025-02-20 |  |
-| [Running Up That Hill \(A Deal With God\) \- Piano Version](https://open.spotify.com/track/3k7XdOax96YAFfQ9Io5s9M) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [Running Up That Hill \(A Deal With God\) \[Piano Version\]](https://open.spotify.com/album/0DorLK7XCFmEX2VykO2Ch2) | 4:45 | 2025-02-20 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/7dUKp6hhkJrKhcLTqrJ3Gj) | [Caio Ghisi](https://open.spotify.com/artist/2nPDE1Hn3O6VYxJAjHLcsp) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/7FrsF0YugEWz3Y6NKNCJm6) | 3:03 | 2025-03-28 |  |
+| [Running Up That Hill \(A Deal With God\) \- Piano Version](https://open.spotify.com/track/3k7XdOax96YAFfQ9Io5s9M) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [Running Up That Hill \(A Deal With God\) \[Piano Version\]](https://open.spotify.com/album/0DorLK7XCFmEX2VykO2Ch2) | 4:45 | 2025-02-20 | 2025-03-29 |
 | [See You Again \(Piano Arrangement\)](https://open.spotify.com/track/4zfWNeNDXaJjOLebhbQ7dI) | [Alexandre Pachabezian](https://open.spotify.com/artist/1IT9QRtjGpp7XoEGX4UcmH) | [See You Again \(Piano Arrangement\)](https://open.spotify.com/album/2gXobLmeqO74oQKGC6Levy) | 3:54 | 2025-02-20 | 2025-03-15 |
 | [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 | 2025-02-20 |  |
 | [Someone You Loved](https://open.spotify.com/track/00utEhrTFR6V4HEuLh2ncI) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Someone You Loved](https://open.spotify.com/album/0Tj7uPAbloKC8eyIaaOycN) | 3:05 | 2025-02-20 |  |

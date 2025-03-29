@@ -823,6 +823,28 @@
     },
     {
       "album": {
+        "name": "COMO YO",
+        "url": "https://open.spotify.com/album/2ClVBOtCglZe92r1lHJfzj"
+      },
+      "artists": [
+        {
+          "name": "Motta WS",
+          "url": "https://open.spotify.com/artist/03x1CdLth8gMPrk97uQ3i3"
+        },
+        {
+          "name": "Ivan Armesto",
+          "url": "https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133408,
+      "name": "COMO YO",
+      "url": "https://open.spotify.com/track/0Og7eYHkLv6k3bRu2LH80I"
+    },
+    {
+      "album": {
         "name": "CONEXXXI\u00d3N",
         "url": "https://open.spotify.com/album/3zqBhwyCJ7a0JBw6R1Sr7q"
       },
@@ -1478,7 +1500,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 143548,
       "name": "EN BUSCA DE LA GLORIA",
       "url": "https://open.spotify.com/track/610sC4En9n1hbAQBsjrjYo"
@@ -2024,7 +2046,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 144516,
       "name": "GUAPA",
       "url": "https://open.spotify.com/track/0zEiaWjsQKWUCZ6QuG4yh8"
@@ -2190,7 +2212,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 159600,
       "name": "HOLA",
       "url": "https://open.spotify.com/track/6KL4xXon9FzxM3cCm9GyK3"
@@ -3195,6 +3217,32 @@
     },
     {
       "album": {
+        "name": "Me Tienta",
+        "url": "https://open.spotify.com/album/6FQDyfJSIZKgOYwiLTYMKP"
+      },
+      "artists": [
+        {
+          "name": "Beltran3k",
+          "url": "https://open.spotify.com/artist/0ygzXUlnept7S2C6MR8fT6"
+        },
+        {
+          "name": "Kennel",
+          "url": "https://open.spotify.com/artist/2uIpj8CUtY8Pt4S5LeJLKe"
+        },
+        {
+          "name": "FUTURE BEATS",
+          "url": "https://open.spotify.com/artist/6Y6LEiyvXx2tTKggz1jF5q"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Me Tienta",
+      "url": "https://open.spotify.com/track/1KD5aeaFOow68mfzB3wadQ"
+    },
+    {
+      "album": {
         "name": "MENTIAS",
         "url": "https://open.spotify.com/album/6uRGjkizGubLymcHsU0dcD"
       },
@@ -3452,6 +3500,24 @@
       "duration_ms": 159190,
       "name": "NAMORE",
       "url": "https://open.spotify.com/track/64SYEHUUlSpAxQtRuMlmDy"
+    },
+    {
+      "album": {
+        "name": "No Digas Nada",
+        "url": "https://open.spotify.com/album/66BmWa6eWgWDNLCJ1bmnEJ"
+      },
+      "artists": [
+        {
+          "name": "Lucas Zambrano",
+          "url": "https://open.spotify.com/artist/7qEQDruOpCI3XJfZCBYtxi"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "No Digas Nada",
+      "url": "https://open.spotify.com/track/1u7RQ0tlhqWwesiwHu2DUY"
     },
     {
       "album": {
@@ -3874,6 +3940,28 @@
       "duration_ms": 220253,
       "name": "Pa Co",
       "url": "https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L"
+    },
+    {
+      "album": {
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/3EibP03c4ajIgGg3U6fNbX"
+      },
+      "artists": [
+        {
+          "name": "Eliz",
+          "url": "https://open.spotify.com/artist/1jagX6wMpCUYSNQGvF0D11"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/61cNy9tps8CjQGy3qsAycB"
     },
     {
       "album": {
@@ -4606,7 +4694,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 121218,
       "name": "Se Suelta",
       "url": "https://open.spotify.com/track/6clG3NrPUktrjDLAJ4bS2p"
@@ -4936,7 +5024,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 138007,
       "name": "Takita",
       "url": "https://open.spotify.com/track/2QoahPnZ6WWTmku8MmabU8"
@@ -5246,7 +5334,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 204045,
       "name": "Traidora",
       "url": "https://open.spotify.com/track/1tpg9Wm99OHeK0ohJXrUX1"

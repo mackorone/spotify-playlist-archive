@@ -4,7 +4,7 @@
 
 > 📸 La Joaqui.
 
-259 songs - 11 hr 56 min
+260 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [30 GRADOS](https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [30 Grados](https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg) | 2:31 | 2024-02-16 |  |
 | [420 Rkt](https://open.spotify.com/track/4OayatXGjk7Uwg1PgCQMY9) | [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [420 Rkt](https://open.spotify.com/album/0AQTlC9z2JpUAIU1agPKw9) | 3:17 | 2024-03-15 | 2024-04-13 |
 | [A esa turra](https://open.spotify.com/track/2T26x8XinniFb6v6Zvr695) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [A esa turra](https://open.spotify.com/album/7hkbGUk3ej0i0UvCpBrQlB) | 2:52 | 2024-02-23 | 2024-04-13 |
+| [Abanico y Antifaz](https://open.spotify.com/track/2U4Qy5EMzFAw0OjC9Ksnnv) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Abanico y Antifaz](https://open.spotify.com/album/7BxyhUuhoiox6Mj6JA4ADf) | 3:15 | 2025-03-28 |  |
 | [Activo 24.7](https://open.spotify.com/track/1QssxmDDpYXYBnK4R4hmNk) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Activo 24.7](https://open.spotify.com/album/6SzlxpNxq63mXdSWtLLk1T) | 2:36 | 2024-12-20 |  |
 | [After Si, Casa No](https://open.spotify.com/track/55n89v9hFGtkr4MxbE9PUM) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [After Si, Casa No](https://open.spotify.com/album/1CTBCwVeHXEbQR0jHEKOtG) | 2:53 | 2023-12-15 | 2024-05-11 |
 | [Al Sopi](https://open.spotify.com/track/6QGNvPtmNoPDpnzdw45FTS) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Al Sopi](https://open.spotify.com/album/2iuDEoXeGAPviZH8Ef7EnU) | 2:49 | 2024-05-10 | 2025-01-11 |

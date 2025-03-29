@@ -3495,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/75joTFFYIbkf9BxF9RfowR"
+      },
+      "artists": [
+        {
+          "name": "Ash Forrest",
+          "url": "https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134963,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/2junWtiVGC2yG0lbpybRP2"
+    },
+    {
+      "album": {
         "name": "Ti Vedo",
         "url": "https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS"
       },

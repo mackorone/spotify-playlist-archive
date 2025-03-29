@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Dan Dizzy",
+  "description": "Hip hop and rap music from Nigeria. Cover: Erigga",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -740,7 +740,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 158928,
       "name": "Aye",
       "url": "https://open.spotify.com/track/4SllNixOIyCp7FSqaB1CvJ"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 177963,
       "name": "Bere Mi (Reimagined)",
       "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Bless Me",
       "url": "https://open.spotify.com/track/2c7UxjUAIzP7xs3Pa6vv8K"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 129990,
       "name": "BOMB O - Remix",
       "url": "https://open.spotify.com/track/3DHs9UPrIWgAuA1mljQmcm"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 222671,
       "name": "Chariots of Fire",
       "url": "https://open.spotify.com/track/1buwbAgQwuMW6Sdm3NUyDX"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Defender",
       "url": "https://open.spotify.com/track/6qP0ZLEdVLpmbDlHS0nDue"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 170892,
       "name": "disembark",
       "url": "https://open.spotify.com/track/4KeTS2OQLoL7qt0kMB31Jb"
@@ -3498,7 +3498,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ"
@@ -3766,6 +3766,28 @@
       "duration_ms": 173164,
       "name": "EXTRACURRICULAR ACTIVITIES",
       "url": "https://open.spotify.com/track/0fbRxfy1QPpAMz8DLDgiLV"
+    },
+    {
+      "album": {
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/01KJ2GfbTmEQlZtbv8a7y2"
+      },
+      "artists": [
+        {
+          "name": "JoulesDaKid",
+          "url": "https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV"
+        },
+        {
+          "name": "Major AJ",
+          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220680,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/4B0tAnf7rBUdb2lvCKJpoU"
     },
     {
       "album": {
@@ -4422,6 +4444,28 @@
       "duration_ms": 230666,
       "name": "Ghost Mode",
       "url": "https://open.spotify.com/track/1NP9rjEfsd9h6f8sVGCwRi"
+    },
+    {
+      "album": {
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "album": {
@@ -6170,7 +6214,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 175689,
       "name": "Lifestyle (feat. Pheelz)",
       "url": "https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt"
@@ -7952,7 +7996,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 162711,
       "name": "OneEighteen",
       "url": "https://open.spotify.com/track/6pu3HJGsDUJCwQxPNPSFNu"
@@ -9550,7 +9594,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 204216,
       "name": "SHOW WORKINGS (feat. Magnito, DanDizzy, Oladips & Kabex)",
       "url": "https://open.spotify.com/track/6nPT4WMAquPU1SSCIeAhqq"
@@ -9746,7 +9790,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 149136,
       "name": "Ski Ski",
       "url": "https://open.spotify.com/track/4z7yA5ZHPBb99qvjcyeuGk"
@@ -10599,6 +10643,28 @@
     },
     {
       "album": {
+        "name": "G.O.A.T",
+        "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163444,
+      "name": "THERAPY SESSION",
+      "url": "https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx"
+    },
+    {
+      "album": {
         "name": "This Is Nigeria",
         "url": "https://open.spotify.com/album/6ewbR4ceFzG5PFAK1ckPSu"
       },
@@ -10738,7 +10804,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 155611,
       "name": "TOSPI",
       "url": "https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f"
@@ -11704,7 +11770,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 211485,
       "name": "Woman of Virtue (feat. Ajebo Hustlers)",
       "url": "https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH"
@@ -11974,7 +12040,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 154455,
       "name": "Yo My Gee",
       "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"

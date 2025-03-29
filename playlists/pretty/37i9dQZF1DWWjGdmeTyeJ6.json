@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover artist: tan sholto, Artwork: Isu Kim",
-  "num_followers": 1219570,
+  "num_followers": 1219655,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+QnMAAAAACrpZaltpITd0xPjEijHLps",
+  "snapshot_id": "Z+bukAAAAACaKAJcjjjcakxle8eeXIFT",
   "tracks": [
     {
       "added_at": "2025-03-26 16:09:50",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/6NBbY5HUuowO9cS4lcFHNn"
     },
     {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "Best Be Leaving",
+        "url": "https://open.spotify.com/album/30coJQv7G8UD5Lx76VQZE1"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 222042,
+      "name": "Best Be Leaving",
+      "url": "https://open.spotify.com/track/2pEQBzoeccf6TIbJU8O26c"
+    },
+    {
       "added_at": "2025-03-12 17:06:18",
       "album": {
         "name": "Don't Wanna Leave You",
@@ -185,52 +201,100 @@
       "url": "https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm"
     },
     {
-      "added_at": "2025-03-26 16:09:50",
+      "added_at": "2025-03-20 16:55:49",
       "album": {
-        "name": "PS",
-        "url": "https://open.spotify.com/album/6S06Bqr1AlxVxiBOBtYgMa"
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/2zYm7ggrjv0Xkj13BNuyHH"
       },
       "artists": [
         {
-          "name": "Fib",
-          "url": "https://open.spotify.com/artist/3LHTXIlBaP5EBhqKMpcr7L"
+          "name": "Raissa",
+          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
         }
       ],
-      "duration_ms": 133880,
-      "name": "PS",
-      "url": "https://open.spotify.com/track/0NzGtxHKcnMIdtxyq2LrE4"
+      "duration_ms": 172200,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5c7hCvAfvS1c9X27L8hFZF"
     },
     {
-      "added_at": "2025-03-26 16:09:50",
+      "added_at": "2025-03-12 17:06:18",
       "album": {
-        "name": "India",
-        "url": "https://open.spotify.com/album/3wsZmXhGwI6ZKqZKlV52NX"
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/3EXybDmiJnagefAZL2MAvV"
       },
       "artists": [
         {
-          "name": "Summer Davis",
-          "url": "https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb"
+          "name": "Chris Vincent",
+          "url": "https://open.spotify.com/artist/3SVv3VRoV59ltl9xjsgLtz"
         }
       ],
-      "duration_ms": 155097,
-      "name": "India",
-      "url": "https://open.spotify.com/track/2VNbQQVz4qrM6HStZjPpAH"
+      "duration_ms": 255714,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/6ApMZORgwsSnmqdrJeye41"
     },
     {
-      "added_at": "2025-03-26 16:09:50",
+      "added_at": "2025-03-28 18:46:40",
       "album": {
-        "name": "Ruin Our Friendship",
-        "url": "https://open.spotify.com/album/7ATPQKngebqBATkZ6rDPxy"
+        "name": "Strange Behavior",
+        "url": "https://open.spotify.com/album/6n3gz199sI0bhvGxENj5oN"
       },
       "artists": [
         {
-          "name": "Matilda Pratt",
-          "url": "https://open.spotify.com/artist/6RbfcqvDLvBo2UBSSfGfwc"
+          "name": "Katy Pinke",
+          "url": "https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ"
         }
       ],
-      "duration_ms": 174722,
-      "name": "Ruin Our Friendship",
-      "url": "https://open.spotify.com/track/1FCl8MKnvKaBEdhKqTL7HU"
+      "duration_ms": 211341,
+      "name": "Strange Behavior",
+      "url": "https://open.spotify.com/track/4xPaHbPvlsoSMJ4Jkza4HI"
+    },
+    {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "Delicious Delusional",
+        "url": "https://open.spotify.com/album/2qjNiLhOarJTEWpPvXCJiC"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "duration_ms": 234875,
+      "name": "You're Gonna Worry About Me One Day",
+      "url": "https://open.spotify.com/track/1vBfEbQ0DXkwUEPhYtLnb5"
+    },
+    {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "when you leave / when you were around",
+        "url": "https://open.spotify.com/album/78993tLrhaUBssEaScVp0k"
+      },
+      "artists": [
+        {
+          "name": "woody",
+          "url": "https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4"
+        }
+      ],
+      "duration_ms": 192264,
+      "name": "when you leave",
+      "url": "https://open.spotify.com/track/4dF54aAxNcXkoyDzzuGEJz"
+    },
+    {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "Dance Therapy",
+        "url": "https://open.spotify.com/album/73mZESqGK6y4c7e2IfShqr"
+      },
+      "artists": [
+        {
+          "name": "Ora the Molecule",
+          "url": "https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m"
+        }
+      ],
+      "duration_ms": 171887,
+      "name": "Evig Ung",
+      "url": "https://open.spotify.com/track/4MG1gebVqdDAegt57ceLX5"
     },
     {
       "added_at": "2025-03-26 16:09:50",
@@ -251,6 +315,86 @@
     {
       "added_at": "2025-03-26 16:09:50",
       "album": {
+        "name": "India",
+        "url": "https://open.spotify.com/album/3wsZmXhGwI6ZKqZKlV52NX"
+      },
+      "artists": [
+        {
+          "name": "Summer Davis",
+          "url": "https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb"
+        }
+      ],
+      "duration_ms": 155097,
+      "name": "India",
+      "url": "https://open.spotify.com/track/2VNbQQVz4qrM6HStZjPpAH"
+    },
+    {
+      "added_at": "2025-03-26 16:09:50",
+      "album": {
+        "name": "PS",
+        "url": "https://open.spotify.com/album/6S06Bqr1AlxVxiBOBtYgMa"
+      },
+      "artists": [
+        {
+          "name": "Fib",
+          "url": "https://open.spotify.com/artist/3LHTXIlBaP5EBhqKMpcr7L"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "PS",
+      "url": "https://open.spotify.com/track/0NzGtxHKcnMIdtxyq2LrE4"
+    },
+    {
+      "added_at": "2025-03-26 16:09:50",
+      "album": {
+        "name": "If I ever lose my way",
+        "url": "https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y"
+      },
+      "artists": [
+        {
+          "name": "Haynza",
+          "url": "https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "If I ever lose my way",
+      "url": "https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36"
+    },
+    {
+      "added_at": "2025-03-26 16:09:50",
+      "album": {
+        "name": "Ruin Our Friendship",
+        "url": "https://open.spotify.com/album/7ATPQKngebqBATkZ6rDPxy"
+      },
+      "artists": [
+        {
+          "name": "Matilda Pratt",
+          "url": "https://open.spotify.com/artist/6RbfcqvDLvBo2UBSSfGfwc"
+        }
+      ],
+      "duration_ms": 174722,
+      "name": "Ruin Our Friendship",
+      "url": "https://open.spotify.com/track/1FCl8MKnvKaBEdhKqTL7HU"
+    },
+    {
+      "added_at": "2025-03-26 16:09:50",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8"
+    },
+    {
+      "added_at": "2025-03-26 16:09:50",
+      "album": {
         "name": "Chrome Dipped",
         "url": "https://open.spotify.com/album/3SA4VOWZ6Kwk3YvBcwep20"
       },
@@ -265,20 +409,20 @@
       "url": "https://open.spotify.com/track/36LEkXspcKiMxUhiK1GL4g"
     },
     {
-      "added_at": "2025-03-20 16:55:49",
+      "added_at": "2025-03-28 18:46:40",
       "album": {
-        "name": "GUAPA",
-        "url": "https://open.spotify.com/album/2zYm7ggrjv0Xkj13BNuyHH"
+        "name": "into a pretty room",
+        "url": "https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC"
       },
       "artists": [
         {
-          "name": "Raissa",
-          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
+          "name": "lots of hands",
+          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
         }
       ],
-      "duration_ms": 172200,
-      "name": "GUAPA",
-      "url": "https://open.spotify.com/track/5c7hCvAfvS1c9X27L8hFZF"
+      "duration_ms": 244653,
+      "name": "barnyard",
+      "url": "https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi"
     },
     {
       "added_at": "2025-03-26 16:09:50",
@@ -295,6 +439,22 @@
       "duration_ms": 123036,
       "name": "Aloha Goodbye",
       "url": "https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z"
+    },
+    {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/6LW00McbfKeI5tcKxzBU5f"
+      },
+      "artists": [
+        {
+          "name": "Free Range",
+          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/3YHpnbrUQM6OYJNDpUpoFU"
     },
     {
       "added_at": "2025-03-26 16:09:50",
@@ -329,52 +489,100 @@
       "url": "https://open.spotify.com/track/0y1t1c4k0juvbhftlSUa3W"
     },
     {
-      "added_at": "2025-03-26 16:09:50",
+      "added_at": "2025-03-28 18:46:40",
       "album": {
-        "name": "narcotics",
-        "url": "https://open.spotify.com/album/3FongtrpLJbiolXIiHX8Wu"
+        "name": "Suck",
+        "url": "https://open.spotify.com/album/1wWGLspOkdCq2uCpKLycIj"
       },
       "artists": [
         {
-          "name": "sosocamo",
-          "url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
+          "name": "Georgie & Joe",
+          "url": "https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH"
         }
       ],
-      "duration_ms": 143471,
-      "name": "narcotics",
-      "url": "https://open.spotify.com/track/4N8q7thPUK2Yd5r4XERc43"
-    },
-    {
-      "added_at": "2025-03-12 17:06:18",
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/3EXybDmiJnagefAZL2MAvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Vincent",
-          "url": "https://open.spotify.com/artist/3SVv3VRoV59ltl9xjsgLtz"
-        }
-      ],
-      "duration_ms": 255714,
-      "name": "Limerence",
-      "url": "https://open.spotify.com/track/6ApMZORgwsSnmqdrJeye41"
+      "duration_ms": 209230,
+      "name": "Suck",
+      "url": "https://open.spotify.com/track/5z9srbJLj1siFgYOQuTiXR"
     },
     {
       "added_at": "2025-03-26 16:09:50",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q"
+        "name": "Contigo Quiero Todo",
+        "url": "https://open.spotify.com/album/0gJHqutb1f4mXEfoc7m92R"
       },
       "artists": [
         {
-          "name": "Van Buren",
-          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+          "name": "Edgar Alejandro",
+          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
         }
       ],
-      "duration_ms": 198706,
-      "name": "Hindsight",
-      "url": "https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8"
+      "duration_ms": 246465,
+      "name": "Contigo Quiero Todo",
+      "url": "https://open.spotify.com/track/3RDs5lVKTVFyZdx2xhoLC9"
+    },
+    {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "this house isnt a home (deluxe)",
+        "url": "https://open.spotify.com/album/2uesdpyqldCq4SqO393NC5"
+      },
+      "artists": [
+        {
+          "name": "William Mcgee",
+          "url": "https://open.spotify.com/artist/1cJ33JB6MnN7qEv6AC4DOq"
+        }
+      ],
+      "duration_ms": 163818,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/6XzskqXNBVkpA4Jvn6JSrm"
+    },
+    {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
+      },
+      "artists": [
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "duration_ms": 182372,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
+    },
+    {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "Silent Corners",
+        "url": "https://open.spotify.com/album/4gkrYRPbNGuu0BzWyquUXH"
+      },
+      "artists": [
+        {
+          "name": "pencil",
+          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
+        }
+      ],
+      "duration_ms": 246196,
+      "name": "Silent Corners",
+      "url": "https://open.spotify.com/track/18jdrAHnog2uG5fxVhhvD0"
+    },
+    {
+      "added_at": "2025-03-26 16:09:50",
+      "album": {
+        "name": "Yeshua Freestyle 2",
+        "url": "https://open.spotify.com/album/4dumf4vok78qM5iq7r0jws"
+      },
+      "artists": [
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 137948,
+      "name": "Yeshua Freestyle 2",
+      "url": "https://open.spotify.com/track/4IhaG4eL2Jt29gBUZaspkA"
     },
     {
       "added_at": "2025-03-26 16:09:50",
@@ -391,6 +599,54 @@
       "duration_ms": 142285,
       "name": "stainless",
       "url": "https://open.spotify.com/track/7BNctLbeIaF7fmMNbDfprc"
+    },
+    {
+      "added_at": "2025-03-26 16:09:50",
+      "album": {
+        "name": "narcotics",
+        "url": "https://open.spotify.com/album/3FongtrpLJbiolXIiHX8Wu"
+      },
+      "artists": [
+        {
+          "name": "sosocamo",
+          "url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
+        }
+      ],
+      "duration_ms": 143471,
+      "name": "narcotics",
+      "url": "https://open.spotify.com/track/4N8q7thPUK2Yd5r4XERc43"
+    },
+    {
+      "added_at": "2025-03-26 16:09:50",
+      "album": {
+        "name": "COMPLEJO",
+        "url": "https://open.spotify.com/album/20hKwkGp6S5T1gW9mQrj8b"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "COMPLEJO",
+      "url": "https://open.spotify.com/track/5a9Ptai9hH3MQtZXdynPrs"
+    },
+    {
+      "added_at": "2025-03-28 18:46:40",
+      "album": {
+        "name": "What Are You Fighting For?",
+        "url": "https://open.spotify.com/album/26611Va1iKRiIW7vjmC7wq"
+      },
+      "artists": [
+        {
+          "name": "MP3",
+          "url": "https://open.spotify.com/artist/3mGlF6auEAbK1Z9q0VtsjB"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "What Are You Fighting For?",
+      "url": "https://open.spotify.com/track/3X9gX44aXXBrcYRsntDjYP"
     },
     {
       "added_at": "2025-03-26 16:09:50",
@@ -419,70 +675,6 @@
       "duration_ms": 172871,
       "name": "FAJITAS",
       "url": "https://open.spotify.com/track/0ZQN1KuT5rPC0U4RqN7Tmd"
-    },
-    {
-      "added_at": "2025-03-26 16:09:50",
-      "album": {
-        "name": "Yeshua Freestyle 2",
-        "url": "https://open.spotify.com/album/4dumf4vok78qM5iq7r0jws"
-      },
-      "artists": [
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 137948,
-      "name": "Yeshua Freestyle 2",
-      "url": "https://open.spotify.com/track/4IhaG4eL2Jt29gBUZaspkA"
-    },
-    {
-      "added_at": "2025-03-26 16:09:50",
-      "album": {
-        "name": "Contigo Quiero Todo",
-        "url": "https://open.spotify.com/album/0gJHqutb1f4mXEfoc7m92R"
-      },
-      "artists": [
-        {
-          "name": "Edgar Alejandro",
-          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
-        }
-      ],
-      "duration_ms": 246465,
-      "name": "Contigo Quiero Todo",
-      "url": "https://open.spotify.com/track/3RDs5lVKTVFyZdx2xhoLC9"
-    },
-    {
-      "added_at": "2025-03-26 16:09:50",
-      "album": {
-        "name": "COMPLEJO",
-        "url": "https://open.spotify.com/album/20hKwkGp6S5T1gW9mQrj8b"
-      },
-      "artists": [
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "COMPLEJO",
-      "url": "https://open.spotify.com/track/5a9Ptai9hH3MQtZXdynPrs"
-    },
-    {
-      "added_at": "2025-03-26 16:09:50",
-      "album": {
-        "name": "If I ever lose my way",
-        "url": "https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y"
-      },
-      "artists": [
-        {
-          "name": "Haynza",
-          "url": "https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "If I ever lose my way",
-      "url": "https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36"
     },
     {
       "added_at": "2025-03-13 04:11:30",

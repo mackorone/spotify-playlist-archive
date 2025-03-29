@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Calva Louise.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Amira Elfeky.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,886 likes - 365 songs - 22 hr 0 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,889 likes - 371 songs - 22 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -373,5 +373,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 363 | [Dhadak](https://open.spotify.com/track/4txQTQcqKncwT6FaDs8Pw3) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/4ZNvlZ4wynMad7cTp8hr2C) | 3:09 |
 | 364 | [No Consequence](https://open.spotify.com/track/6fMyxWuKyKE43zDMAmFnSl) | [Youth Code](https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0) | [No Consequence](https://open.spotify.com/album/6sAo6b1udi0VKcxUmnHpC9) | 3:31 |
 | 365 | [Aimless](https://open.spotify.com/track/6V6r27N6KvM5VMyHfcwvvN) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Aimless](https://open.spotify.com/album/2nZTSSGr5nd7wAdkdL76mt) | 3:37 |
+| 366 | [Armageddon Eyes](https://open.spotify.com/track/7uzHcVdVNeUpNDdo56yMN2) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Bloom In Heaven](https://open.spotify.com/album/3f895XnoWWhMeM31qE3qS0) | 4:03 |
+| 367 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 |
+| 368 | [Sidewinder](https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Sidewinder](https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o) | 3:59 |
+| 369 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
+| 370 | [Rabbit Hole \- Cowards, Pt\. 1](https://open.spotify.com/track/4Zy7UaHmzAxD3V1qNkTaIq) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Rabbit Hole \(Cowards, Pt\. 1\)](https://open.spotify.com/album/40yjj7ZS1HT3jXrhACMmur) | 4:09 |
+| 371 | [Forever Overdose](https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Surrender](https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2) | 3:13 |
 
-Snapshot ID: `AAANxPV/qWFhX5/tvjCPkOU+ZvhBqzfS`
+Snapshot ID: `AAANy3TXzb5tOLYabEdtA2Llxn4W8pIy`

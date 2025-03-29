@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! \(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,619 likes - 97 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,627 likes - 105 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 95 | [ヒカリ](https://open.spotify.com/track/1Zjr1hkgFB8tuCZI3EfQqj) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 3:46 |
 | 96 | [Disorder](https://open.spotify.com/track/1wlo67jw5f53oT6DMR25t8) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 4:04 |
 | 97 | [レプリカ](https://open.spotify.com/track/3UriDyfO1fiP0DJjJjLzXc) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 3:29 |
+| 98 | [SAOIF main theme](https://open.spotify.com/track/3fperDf63bhUtYnz7sgbwa) | [SAOIFサウンドチーム](https://open.spotify.com/artist/2hzLMSqjlgDaIasip9MmvX) | [ソードアート・オンライン インテグラル・ファクター Original Soundtrack](https://open.spotify.com/album/54Liw9dNgCPZxaPWBkYw4N) | 3:02 |
+| 99 | [Never End IF](https://open.spotify.com/track/5o6wa4lnE6r1SiSiFzEtTI) | [SAOIFサウンドチーム](https://open.spotify.com/artist/2hzLMSqjlgDaIasip9MmvX) | [ソードアート・オンライン インテグラル・ファクター Original Soundtrack](https://open.spotify.com/album/54Liw9dNgCPZxaPWBkYw4N) | 0:46 |
+| 100 | [ヴァリアント・ショウダウン](https://open.spotify.com/track/3nR71yMOZ718ZsUwxuIZ1i) | [SAOVSサウンドチーム](https://open.spotify.com/artist/6p6P9aDDZ45KRgxOWSbXwm) | [ソードアート・オンライン ヴァリアント・ショウダウン Original Soundtrack](https://open.spotify.com/album/3ZBdkNzEkqLLNJ8RQT5JH6) | 3:39 |
+| 101 | [バトルロイヤル](https://open.spotify.com/track/7q21UOaZpi9MEBT0snm7nO) | [SAOVSサウンドチーム](https://open.spotify.com/artist/6p6P9aDDZ45KRgxOWSbXwm) | [ソードアート・オンライン ヴァリアント・ショウダウン Original Soundtrack](https://open.spotify.com/album/3ZBdkNzEkqLLNJ8RQT5JH6) | 4:18 |
+| 102 | [Sword](https://open.spotify.com/track/2E9lh4VzoUiUozcmlKbXxW) | [Kengo Tokusashi](https://open.spotify.com/artist/7eskXqJU5pjwVuOTClDji9) | [ソードアート・オンライン コード・レジスタ Original Soundtrack](https://open.spotify.com/album/1EdSdgkbmTwOspQbV8kVFx) | 1:19 |
+| 103 | [マイページ](https://open.spotify.com/track/7hKBV7sN7irN7CaY4kev8i) | [Kengo Tokusashi](https://open.spotify.com/artist/7eskXqJU5pjwVuOTClDji9) | [ソードアート・オンライン コード・レジスタ Original Soundtrack](https://open.spotify.com/album/1EdSdgkbmTwOspQbV8kVFx) | 2:41 |
+| 104 | [メインテーマ](https://open.spotify.com/track/3YL0SByw0ggpAGqjgn3cYj) | [Kengo Tokusashi](https://open.spotify.com/artist/7eskXqJU5pjwVuOTClDji9) | [ソードアート・オンライン メモリー・デフラグ Original Soundtrack](https://open.spotify.com/album/70LQx51mkFlRG2i2qKQw9B) | 4:02 |
+| 105 | [アンリーシュ・ブレイディング \-opening\-](https://open.spotify.com/track/2el2zS9Ko36LgZzEkvDH5e) | [Kengo Tokusashi](https://open.spotify.com/artist/7eskXqJU5pjwVuOTClDji9) | [ソードアート・オンライン アンリーシュ・ブレイディング Original Soundtrack](https://open.spotify.com/album/3WyUGoyvq9Q4AO2F7tjD2p) | 4:46 |
 
-Snapshot ID: `Z5PRjQAAAAArWa/95ryGvU2lBLyStpB4`
+Snapshot ID: `Z+YnvAAAAABztO+7Bv+rKmBq//TUyI+P`

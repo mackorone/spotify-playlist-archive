@@ -2,7 +2,7 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Brand new music from homegrown talent ft\. Grace Davies; stick around for THAT outro!
+> Brand new music from homegrown talent ft\. Grace Davies; stick around for THAT bridge!
 
 318 songs - 16 hr 10 min
 

@@ -5037,6 +5037,32 @@
     },
     {
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/7do9slyIepj6pvhwRMBiXC"
+      },
+      "artists": [
+        {
+          "name": "GALEX",
+          "url": "https://open.spotify.com/artist/3DMeQguczm3Pog9KAkN0It"
+        },
+        {
+          "name": "adamxyz",
+          "url": "https://open.spotify.com/artist/78C1RV6GfB4uRWgRsnSgD4"
+        },
+        {
+          "name": "Mr Demon",
+          "url": "https://open.spotify.com/artist/4KxFQKuMJRcrnz0UpiGgw4"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144328,
+      "name": "STAR - Sped Up",
+      "url": "https://open.spotify.com/track/2jD8gOxYvMJGApLH5fkajb"
+    },
+    {
+      "album": {
         "name": "Suerte de Bandida",
         "url": "https://open.spotify.com/album/2b1UGxQk0AFsfFV9pSSvPw"
       },

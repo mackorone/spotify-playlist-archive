@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,474 likes - 590 songs - 1 day 11 hr 2 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,473 likes - 591 songs - 1 day 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -598,5 +598,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 588 | [Cool Down](https://open.spotify.com/track/57azADqjTPXHWXb3PDv7pF) | [Nick Bampton](https://open.spotify.com/artist/4r0wiWD8C32bkfoHPO4kri) | [Cool Down](https://open.spotify.com/album/1vHxfidoyqGtg9CU4u0y85) | 3:40 |
 | 589 | [Nothing Changes](https://open.spotify.com/track/3pGyNffUcxpFwq86xtMAZ8) | [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Nothing Changes](https://open.spotify.com/album/6YyWlLJ00dUv5q79v5S1wJ) | 3:02 |
 | 590 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
+| 591 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 
-Snapshot ID: `AAALzgzJbkPCmERmT3lZH2flRrH7GFhI`
+Snapshot ID: `AAALz6J66hg0cLa+0q7STsiFN5wiAyCT`

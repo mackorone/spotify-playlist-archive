@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-1,221 songs - 2 day 23 hr 24 min
+1,222 songs - 2 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [Lạc Vào Trong Mơ](https://open.spotify.com/track/7baBkATX7B3MCUYDyjlXPs) | [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ), [WUY](https://open.spotify.com/artist/3IGxoxQrju6h4nvh9ZHz4T) | [Lạc Vào Trong Mơ](https://open.spotify.com/album/0hmMXG6kAHqOJBuYD5indJ) | 2:52 | 2023-01-13 | 2023-01-17 |
 | [LẦN CUỐI \(đi bên em xót xa người ơi\)](https://open.spotify.com/track/0AJi38NumMDXqo8pRw6zdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [3 \(tuyển tập nhạc Ngọt mới trẻ sôi động 2019\)](https://open.spotify.com/album/2dZsaSnVn5i5uBg6FnhUVV) | 3:42 | 2024-03-24 | 2024-03-26 |
 | [Lặng](https://open.spotify.com/track/6f7M5UzYYeLFCMIBQhxk2J) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Anh Trai Vượt Ngàn Chông Gai 2024 \- Vòng Concert](https://open.spotify.com/album/7tjxEVSNLJpBEHzauIN2NR) | 2:19 | 2024-07-15 | 2024-09-28 |
+| [Lễ Đường](https://open.spotify.com/track/3y66li7DIrH7HLKIZzxR5H) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr) | [Lễ Đường](https://open.spotify.com/album/1gwCAkyTcK2peQrNRLc1G4) | 4:09 | 2025-03-28 |  |
 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 | 2023-09-22 | 2024-06-13 |
 | [Lối Chơi \(Interlude\)](https://open.spotify.com/track/7FX4Ae2nf5U6Y42AEMR9lc) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [LOI CHOI: The Neo Pop Punk](https://open.spotify.com/album/1c4nTHI2hreFeF5P37wf4f) | 2:22 | 2023-12-19 | 2024-01-05 |
 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 | 2021-03-27\* | 2023-01-03 |
@@ -745,7 +746,7 @@
 | [not the same](https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:04 | 2024-12-07 | 2024-12-12 |
 | [Not Today](https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:51 | 2022-02-12 | 2022-02-20 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-23 | 2024-12-08 |
-| [number one girl](https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:36 | 2024-12-07 |  |
+| [number one girl](https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:36 | 2024-12-07 | 2025-03-29 |
 | [Nuts](https://open.spotify.com/track/2sR1e5YFAvXVN6EiIwR2is) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:14 | 2024-05-25 | 2024-05-27 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-19 | 2022-10-23 |
 | [Nàng Thơ](https://open.spotify.com/track/6rVaOdWvFaNyVVXda0NPJy) | [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [25](https://open.spotify.com/album/0hKtQOcoXFHvsvRLLnmRVX) | 4:14 | 2021-03-27\* | 2021-09-20 |

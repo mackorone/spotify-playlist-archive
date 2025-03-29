@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,805 likes - 378 songs - 1 day 0 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,522 likes - 378 songs - 1 day 0 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 25 | [set me free \- Maxi Meraki Remix](https://open.spotify.com/track/4Q8Gycs0QvvGmI9OnQuzzu) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [set me free \(Maxi Meraki Remix\)](https://open.spotify.com/album/4TXcf9Pq5uVaesFeW3kTXm) | 6:00 |
 | 26 | [Vampira](https://open.spotify.com/track/3FJsHNe7DQxDv4Pa5pkwsN) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Vampira](https://open.spotify.com/album/0sj2iAHicKAQCG6VlGjSYi) | 3:58 |
 | 27 | [Cowboy Angel \(feat\. Biishop\)](https://open.spotify.com/track/4emIuIKOjlFSXLCgTiSALC) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Nothing That I Need](https://open.spotify.com/album/2DtGqJkrdRktK3f8DqfxCF) | 5:52 |
-| 28 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 |
+| 28 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 |
 | 29 | [Kimbe \(feat\. Tay Iwar\)](https://open.spotify.com/track/1Dvr0gNVK3Z1D0eOZ8OvFV) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:42 |
 | 30 | [Hold Me \- HUGEL Remix](https://open.spotify.com/track/0seRK4ZwnDsM2mNhbjmA3e) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Hold Me \(HUGEL Remix\)](https://open.spotify.com/album/4urqiH5imumvebwWjvkbGD) | 3:49 |
 | 31 | [Spill My Liquor \- Samm Remix](https://open.spotify.com/track/1x4xR3EZObHLBvBs9B4oS0) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Spill My Liquor \(Samm Remix\)](https://open.spotify.com/album/29h6SkbBIUNEFY8X8bx9uQ) | 3:50 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: THE BOYZ(\ub354 \ubcf4\uc774\uc988)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover:Stray Kids(\uc2a4\ud2b8\ub808\uc774 \ud0a4\uc988)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "tracks": [
     {
@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173413,
+      "name": "Burnin\u2019 Tires (Changbin & I.N)",
+      "url": "https://open.spotify.com/track/4Sz5KwMxHQnJPf64wJW5aq"
+    },
+    {
+      "album": {
         "name": "Street Woman Fighter2 (SWF2) (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana"
       },
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 191964,
       "name": "CASE 143",
       "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
@@ -2082,7 +2100,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -2176,6 +2194,24 @@
       "duration_ms": 192133,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1"
+    },
+    {
+      "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221346,
+      "name": "CINEMA (Lee Know & Seungmin)",
+      "url": "https://open.spotify.com/track/2StQuhn6KdemQlwsvLgwBy"
     },
     {
       "album": {
@@ -2314,7 +2350,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 161666,
       "name": "Come Play (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
@@ -3211,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191093,
+      "name": "ESCAPE (Bang Chan & Hyunjin)",
+      "url": "https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K"
+    },
+    {
+      "album": {
         "name": "History Of Kingdom : Part\u2160. Arthur",
         "url": "https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7"
       },
@@ -3733,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "For Real?",
+        "url": "https://open.spotify.com/album/2ZlTmzWp67lhdApzMdmwWV"
+      },
+      "artists": [
+        {
+          "name": "TNX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "For Real?",
+      "url": "https://open.spotify.com/track/11yJ2iAqlWsk9CngMujJou"
+    },
+    {
+      "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
       },
@@ -4018,6 +4090,24 @@
       "duration_ms": 189746,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/11zk9584jNu1WoxWEeMWWj"
+    },
+    {
+      "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "GIANT (Korean Ver.)",
+      "url": "https://open.spotify.com/track/7EnXcPK6xBxQr7hOFRLQIi"
     },
     {
       "album": {
@@ -6582,7 +6672,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 187040,
       "name": "LOVE TODAY",
       "url": "https://open.spotify.com/track/1oyuzoohgPr3SXcVa3gS4g"
@@ -10779,6 +10869,24 @@
     },
     {
       "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Truman (HAN & Felix)",
+      "url": "https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO"
+    },
+    {
+      "album": {
         "name": "BLOSSOM",
         "url": "https://open.spotify.com/album/7beQFEkNFuQ8q39fp2psKX"
       },
@@ -11144,7 +11252,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 235493,
       "name": "VVV",
       "url": "https://open.spotify.com/track/1W6L8HNg31ufhNVuTmTsH3"
@@ -11198,7 +11306,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 148810,
       "name": "Walkin On Water",
       "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"

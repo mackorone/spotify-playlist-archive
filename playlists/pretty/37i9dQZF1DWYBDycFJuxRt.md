@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: m\-flo \*👉 <a href="https://spice.eplus.jp/articles/336590">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,750 likes - 87 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,761 likes - 87 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 62 | [ラブ・ミー・モア](https://open.spotify.com/track/6xiP9Mgz8RQZW0U7Jjzi2l) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [ラブ・ミー・モア](https://open.spotify.com/album/4OaFKc0z7zKY6hX6LfXSrG) | 4:35 |
 | 63 | [私だって、](https://open.spotify.com/track/7hCkAoD0OWoytiPMs0l550) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [私だって、](https://open.spotify.com/album/3jNKtpbMK2vQgyLInlEI7B) | 3:44 |
 | 64 | [reunion](https://open.spotify.com/track/390xMVQm5vd0GmSv6uaSb3) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [reunion](https://open.spotify.com/album/7AtkFDr4GN95deyKuZmSk7) | 4:56 |
-| 65 | [天泣](https://open.spotify.com/track/74oNRt29tO9K9D05F8LI5n) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [天泣](https://open.spotify.com/album/2AopA91xOSaudKYE11M1at) | 3:38 |
+| 65 | [天泣](https://open.spotify.com/track/74oNRt29tO9K9D05F8LI5n) | [YOURNESS](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [天泣](https://open.spotify.com/album/2AopA91xOSaudKYE11M1at) | 3:38 |
 | 66 | [白息](https://open.spotify.com/track/3mnROofaf42IpsopobW9D0) | [イクラノドン](https://open.spotify.com/artist/6fdS0QyBhjx6DNtx9CxmUI) | [白息](https://open.spotify.com/album/3cIL1ok3Pk5GFvGMzq19N9) | 3:39 |
 | 67 | [未来明るい？](https://open.spotify.com/track/0CHQZELqRqoprY300Tj1tZ) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [未来明るい？](https://open.spotify.com/album/1N3On03ld5zhYj9VvMM4W7) | 3:24 |
 | 68 | [素顔のままでShy Girl](https://open.spotify.com/track/0VlU8TJXx5kYzgBzmz2IM8) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [長瀬有花](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [素顔のままでShy Girl](https://open.spotify.com/album/1W1J8pH98vko58U42o4SXt) | 3:20 |

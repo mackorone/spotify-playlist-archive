@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 167419,
       "name": "Crimson",
       "url": "https://open.spotify.com/track/15wcW2UsA4LLXF9xsB3gZQ"
@@ -876,6 +876,28 @@
       "duration_ms": 159299,
       "name": "La fille aux cheveux de lin",
       "url": "https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD"
+    },
+    {
+      "album": {
+        "name": "Debussy: \u00c9tudes & Pour le piano",
+        "url": "https://open.spotify.com/album/6ZhWicZfgKyZAEuJy75jAi"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "La plus que lente, CD 128",
+      "url": "https://open.spotify.com/track/14n81e3CGLbHfoHQ5QBo04"
     },
     {
       "album": {

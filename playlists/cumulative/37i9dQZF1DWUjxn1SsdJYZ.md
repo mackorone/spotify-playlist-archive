@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: KAHUKX, BackRoad Gee
 
-1,127 songs - 2 day 4 hr 20 min
+1,128 songs - 2 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,6 +695,7 @@
 | [NOKIA 6OY](https://open.spotify.com/track/3x4GBlCBALBmOU3oOdejFR) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [NOKIA 6OY](https://open.spotify.com/album/79SUwO4Kw6JCXMItpqxI27) | 3:30 | 2022-12-04 | 2022-12-22 |
 | [Northside](https://open.spotify.com/track/69ajBgmgWTlbKmVqJD4TzL) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [KVNLOVERBOY](https://open.spotify.com/artist/2rlYr1sTRq3Ey2ktT2XPIG) | [Northside](https://open.spotify.com/album/7H0V17nIruoQ8As5A4sxCH) | 3:42 | 2023-03-16 | 2023-05-12 |
 | [Northside Stepper](https://open.spotify.com/track/2ONo43uD9sG5Bhth17nTA7) | [Yaz](https://open.spotify.com/artist/7zcoCcZ5ofhGbbdbl5jULg) | [Northside Stepper](https://open.spotify.com/album/6gPlt7EUFhnEQ16DRn4AUU) | 2:23 | 2022-06-23 | 2022-12-09 |
+| [Not DnD](https://open.spotify.com/track/3nYxjneoVeJSeibS7QILSu) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Not DnD](https://open.spotify.com/album/5nXALqgifsW7RIwETUl9Ns) | 1:42 | 2025-03-28 |  |
 | [Nothing To Something](https://open.spotify.com/track/3TMnFIjrBUMDcclBmG8gIt) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Nothing To Something](https://open.spotify.com/album/3dqBhhf7Gj8fjLdtGrOJi2) | 3:15 | 2023-05-25 | 2023-09-15 |
 | [NUMB](https://open.spotify.com/track/3hCr2zWQWAt3tv6xIGyepr) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [NUMB](https://open.spotify.com/album/1APmwMIfD7BxwXRxffPYw0) | 3:23 | 2025-02-06 | 2025-02-28 |
 | [NYASH](https://open.spotify.com/track/0vf5Fs3wArIdzWCZ4RlLIw) | [KILY SAFARI](https://open.spotify.com/artist/67iwxQsW9XSe5FPSq5VJra), [MEZMURE](https://open.spotify.com/artist/661IDpZbes60JtwHMGOOju) | [NYASH](https://open.spotify.com/album/4GQqQ1ERrCZrH2SgpwIobc) | 2:22 | 2023-11-23 | 2024-04-26 |

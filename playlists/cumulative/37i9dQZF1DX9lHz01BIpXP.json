@@ -661,6 +661,32 @@
     },
     {
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/5vSMopYnMShx8OpvvnRMeS"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/4Ptt2TzwqG6SKOqyeHR90e"
+        },
+        {
+          "name": "ceiling on tha deck",
+          "url": "https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157779,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/21Q01w8YpIuxXIGZl1DLPY"
+    },
+    {
+      "album": {
         "name": "Consistent",
         "url": "https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy"
       },
@@ -3484,7 +3510,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 192296,
       "name": "Sundphazamisa",
       "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"

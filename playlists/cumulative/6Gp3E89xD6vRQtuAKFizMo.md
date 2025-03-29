@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-420 songs - 20 hr 13 min
+422 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Power \(feat\. Bipolar Sunshine\) \- SPORTMODE Remix](https://open.spotify.com/track/01sciopbVzKNFUQ8cCiKHJ) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [Power \(feat\. Bipolar Sunshine\) \[Remixes\]](https://open.spotify.com/album/4Z1Uc35AUT6obJsquZnI7Q) | 2:48 | 2025-03-14 |  |
 | [Praise To The Bass](https://open.spotify.com/track/79dJRAdykQcSXlGTKdMThu) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Praise To The Bass](https://open.spotify.com/album/01WXivam8OeD3OrHuYyHFX) | 3:07 | 2024-11-08 |  |
 | [Pulsar](https://open.spotify.com/track/4IeJ9s4ePWA7dZIKfRBdOe) | [NIO](https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI) | [Pulsar](https://open.spotify.com/album/5AtZcD5sFFXL0tyCLNaBEb) | 3:02 | 2024-06-04 |  |
+| [Pump It](https://open.spotify.com/track/0cvh5BDi1aLFNPj2LV0TNN) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Pump It](https://open.spotify.com/album/5Spbk5Zg10W6T52xDJOHas) | 2:19 | 2025-03-28 |  |
 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 | 2022-11-04 | 2023-12-14 |
 | [Pump It Up](https://open.spotify.com/track/3LBjEgzayDLlB72ItAfFMP) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Pump It Up](https://open.spotify.com/album/4JG7RhBm4wxPCPG3ZUBl3T) | 2:24 | 2023-07-14 |  |
 | [Push It](https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO) | 2:50 | 2022-07-29 | 2023-12-14 |
@@ -370,6 +371,7 @@
 | [Take Me Somewhere](https://open.spotify.com/track/4865lnqZ8s6xtNdCntE7X6) | [Baclash](https://open.spotify.com/artist/7xx3oCh7EkiUdZsF2drXpp) | [Take Me Somewhere](https://open.spotify.com/album/2HfVs7vcAfGapGM62Z2KCu) | 3:43 | 2025-01-17 |  |
 | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe) | 4:00 | 2022-08-26 | 2023-12-14 |
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 | 2022-05-06 | 2022-09-07 |
+| [Techno Bell \(Final Chapter\)](https://open.spotify.com/track/0cN73DaKpawup5xbjnpzaL) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [GESES](https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR) | [Techno Bell \(Final Chapter\)](https://open.spotify.com/album/2ClrxvQ2fFx7YCGbLQrh5I) | 2:07 | 2025-03-28 |  |
 | [Tempest](https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:15 | 2022-08-12 | 2023-04-09 |
 | [The Afters](https://open.spotify.com/track/34ssUS2jFkRR25Eg01CmP3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Dani Thorne](https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku) | [The Afters](https://open.spotify.com/album/52YddbCu6iVIQJNbFsmiMq) | 2:09 | 2024-10-25 |  |
 | [The Whistle](https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [The Whistle](https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR) | 2:11 | 2022-08-05 | 2023-04-09 |

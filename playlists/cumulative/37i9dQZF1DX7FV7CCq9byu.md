@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-686 songs - 1 day 10 hr 56 min
+690 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Dumpa mig – Spotify Singles](https://open.spotify.com/track/5NXY5gO8PvcZ2LhcwpOiyx) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [Dumpa mig – Spotify Singles](https://open.spotify.com/album/5cIAHsMpm8JzC080sZtdKc) | 3:23 | 2024-07-25 | 2024-09-13 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-06-27 | 2024-07-05 |
 | [DÖ](https://open.spotify.com/track/6xQhvjACkxeuaRIH25UizF) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DÖ](https://open.spotify.com/album/2nkEqixxTmd9E7umk0OUwG) | 2:35 | 2024-11-07 | 2025-01-17 |
+| [Eazy Breezy](https://open.spotify.com/track/4Tv4dzoB1LKDxdfPzZ5pp2) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Eazy Breezy](https://open.spotify.com/album/2aN6U5tgjZNUIGCpUbIG5N) | 3:18 | 2025-03-28 |  |
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-27 |  |
 | [Efter efterfesten](https://open.spotify.com/track/4vpHmKY5BDiS5U7GDUGwEE) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Efter efterfesten](https://open.spotify.com/album/0qb9fiPyMUDdTB5UmRhUpd) | 3:23 | 2024-10-24 | 2024-12-20 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2024-10-04 |
@@ -427,6 +428,7 @@
 | [Nothing 4\-ever](https://open.spotify.com/track/5wqq5bmr41MsWnoCx2FX4i) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/6xeArYtgNeWryc5C0xOME3) | 2:51 | 2025-01-30 | 2025-03-21 |
 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 | 2025-01-30 | 2025-03-21 |
 | [Now And Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now And Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 | 2025-01-02 | 2025-02-07 |
+| [Numb](https://open.spotify.com/track/0EYP8Vv0wk3O5oNViDNzws) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ) | [Numb](https://open.spotify.com/album/54G8e5jc0Wzkb7YaI679NO) | 2:47 | 2025-03-28 |  |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 | 2025-01-24 |
 | [nylon](https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Yue](https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w) | 2:34 | 2025-01-30 | 2025-02-28 |
 | [Nära](https://open.spotify.com/track/4Q2lddfv71gkbmg2qtge3C) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Nära](https://open.spotify.com/album/0rINoXrCdcapbCDEbMEuGC) | 2:29 | 2024-07-25 | 2024-10-04 |
@@ -552,6 +554,7 @@
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 | 2024-11-23 |
 | [Spring Birds](https://open.spotify.com/track/1ZQRHaAm7uI9bBeeC511vb) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Spring Birds](https://open.spotify.com/album/7beMzELcRovTx38VtUtCEy) | 3:09 | 2025-03-27 |  |
 | [Springer Du?](https://open.spotify.com/track/0Kc8EFN47pJOgahvg0JHDa) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Springer Du?](https://open.spotify.com/album/5aSMYmmP5bKfefigsbDlXO) | 2:52 | 2025-02-13 | 2025-03-14 |
+| [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 | 2025-03-28 |  |
 | [Stanna här](https://open.spotify.com/track/6H3xcu0AR7GylVYADcJM2g) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Stanna här](https://open.spotify.com/album/22PPhrBYY8dwPzPSzvVZ3P) | 3:39 | 2024-11-14 | 2025-01-17 |
 | [Stannar vi kvar här så dör vi](https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Stannar vi kvar här så dör vi](https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT) | 3:00 | 2024-10-04 | 2025-01-10 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-06-27 | 2024-07-05 |
@@ -627,6 +630,7 @@
 | [Troubled Waters](https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Troubled Waters](https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp) | 3:17 | 2024-09-05 | 2024-12-20 |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-03-25 |
 | [Turn Back Time](https://open.spotify.com/track/7obICqf7aulekVSLLxSub5) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Turn Back Time](https://open.spotify.com/album/0xT0uCQ4nxKrUZv5RRZkfo) | 3:01 | 2025-02-13 | 2025-03-14 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 |  |
 | [Tysta Leken](https://open.spotify.com/track/6RdS1iX4Hcw5YAjjeCfeB9) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Tysta Leken](https://open.spotify.com/album/1bRVrtj926Vp6Zdysyif1p) | 3:08 | 2024-06-27 | 2024-08-09 |
 | [UFO](https://open.spotify.com/track/3QVmgJonGszpY29p1naRBo) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [UFO](https://open.spotify.com/album/22r0F3aQcdjGQyepYwmHgJ) | 3:11 | 2025-02-07 | 2025-03-14 |
 | [under isen](https://open.spotify.com/track/6XmOCjeIjYijSeSEGJLCy5) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [under isen](https://open.spotify.com/album/0bkkEmllmDysuUwtdPfxiF) | 2:26 | 2024-10-31 | 2025-01-10 |

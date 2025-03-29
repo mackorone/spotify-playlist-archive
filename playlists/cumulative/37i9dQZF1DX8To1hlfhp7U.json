@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/164EYHu8ot4gol1jgCovSC"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/0TjvVjDesZyTCmI7qR1sbn"
+        },
+        {
+          "name": "Dippa Dosanjh",
+          "url": "https://open.spotify.com/artist/5TeJYUhoB43aWSlR4PvHUm"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164478,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/7aHK3g7UZfK1t1C6AMKEFF"
+    },
+    {
+      "album": {
         "name": "Arjan Vailly (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
       },
@@ -1110,7 +1132,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 204068,
       "name": "Jee Karda",
       "url": "https://open.spotify.com/track/316FmbbWpvia0G28dG5sBa"

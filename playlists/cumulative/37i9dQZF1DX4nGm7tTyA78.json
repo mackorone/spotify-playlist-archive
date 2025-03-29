@@ -561,6 +561,28 @@
     },
     {
       "album": {
+        "name": "BYE AY",
+        "url": "https://open.spotify.com/album/1vgj5j3sA0Q9X0NV2URynU"
+      },
+      "artists": [
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Eliezer Daniels",
+          "url": "https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202750,
+      "name": "BYE AY",
+      "url": "https://open.spotify.com/track/1WHZXc1ukiBPB5cq1wWErd"
+    },
+    {
+      "album": {
         "name": "UNO",
         "url": "https://open.spotify.com/album/3nwrvEMHouNpXPiuzNMSXa"
       },
@@ -884,7 +906,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 169032,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/2QhK7TSJ5hwqH16G573g08"
@@ -1314,7 +1336,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 187833,
       "name": "En la lluvia",
       "url": "https://open.spotify.com/track/6zFwciPVvNuQxYL2SygZ4S"
@@ -2027,6 +2049,28 @@
     },
     {
       "album": {
+        "name": "DUNAMIS",
+        "url": "https://open.spotify.com/album/1UPW814Ee7sst5A5VBO30M"
+      },
+      "artists": [
+        {
+          "name": "Liaz",
+          "url": "https://open.spotify.com/artist/0gT1I8icNvTAd7KBPmSWXJ"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176011,
+      "name": "Lo Contrario",
+      "url": "https://open.spotify.com/track/0Lu7hyAp3TJsvdd6Ws700A"
+    },
+    {
+      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0YwyzylHIlcBAbyv6k2RJG"
       },
@@ -2708,7 +2752,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 156500,
       "name": "Nueva Vida",
       "url": "https://open.spotify.com/track/4iLRA8wBqYkzcQwqE4HdtV"
@@ -3830,6 +3874,24 @@
       "duration_ms": 183653,
       "name": "Who Who",
       "url": "https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU"
+    },
+    {
+      "album": {
+        "name": "Ya La Solte",
+        "url": "https://open.spotify.com/album/04maTzd5Si5EqhegCqGHHF"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130200,
+      "name": "Ya La Solte",
+      "url": "https://open.spotify.com/track/5GxsN5WHwc3mBfqfdAVe8t"
     },
     {
       "album": {

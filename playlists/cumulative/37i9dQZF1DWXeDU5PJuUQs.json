@@ -2384,6 +2384,10 @@
         {
           "name": "Grupo Karicia",
           "url": "https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og"
+        },
+        {
+          "name": "Karicia",
+          "url": "https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd"
         }
       ],
       "date_added": "2025-02-28",
@@ -2570,7 +2574,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 226562,
       "name": "No Voy a Llorar",
       "url": "https://open.spotify.com/track/3OLRoqUQItumGBBbtKgHvP"
@@ -3038,6 +3042,24 @@
       "duration_ms": 71981,
       "name": "Pupilas Lejanas - En Vivo",
       "url": "https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaro y Demonio (En Vivo en Estadio Ferro)",
+        "url": "https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251223,
+      "name": "P\u00e1jaro y Demonio - En Vivo en Estadio Ferro",
+      "url": "https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB"
     },
     {
       "album": {

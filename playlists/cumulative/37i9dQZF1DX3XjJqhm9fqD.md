@@ -2,9 +2,9 @@
 
 ### [Haitian Heat](https://open.spotify.com/playlist/37i9dQZF1DX3XjJqhm9fqD)
 
-> Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
+> Celebrating Haitian music\. Cover: Joé Dwèt Filé and Burna Boy
 
-263 songs - 15 hr 44 min
+264 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/0PdYzuJ6ChKe4z1Vi1dyBV) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/album/1mhyuVWhJwBuI2d8658S2j) | 3:20 | 2021-12-06 | 2022-07-29 |
 | [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Law of Automata: Valid](https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN) | 3:20 | 2022-07-14 |  |
 | [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2024-11-22 |  |
+| [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 | 2025-03-28 |  |
 | [40 %](https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6) | [Dro X Yani](https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK) | [40 %](https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS) | 4:38 | 2023-02-17 |  |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-05-08 |  |
 | [6:45](https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [6:45](https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR) | 3:22 | 2024-04-12 |  |
@@ -72,7 +73,7 @@
 | [Djambo \- Gardy Girault Remix](https://open.spotify.com/track/2xDLz3zfFNUg2r7b0cCXzr) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Gardy Girault](https://open.spotify.com/artist/0t3dfH6tVRLJFu1fz6z0Gb) | [Djambo Remixes](https://open.spotify.com/album/3semgKizfNk6uINata3Ugu) | 6:34 | 2021-12-06 | 2022-05-13 |
 | [Dlo Dous](https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/72xQw0tZDwDDl1uQ6ixpo7) | 5:13 | 2023-05-08 | 2023-07-14 |
 | [Dlo Dous](https://open.spotify.com/track/0JnnQ2ONBFYcPl451tyIHM) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/15L1z6E5DX2PIX62oy36k9) | 5:13 | 2023-06-09 | 2023-07-21 |
-| [Dlo Dous](https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB) | 5:13 | 2023-07-21 |  |
+| [Dlo Dous](https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB) | 5:13 | 2023-07-21 | 2025-03-29 |
 | [Done For Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/3zvdunLVg4aZN1xo9PqOxF) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:55 | 2024-04-16 |  |
 | [Dous Pou Dous](https://open.spotify.com/track/7yoyJGMS6afTrVL28gj1XS) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Tou 9](https://open.spotify.com/album/3AqNXhnQnzWUG9K6jTie65) | 4:30 | 2023-08-18 | 2024-04-19 |
 | [Dous pou Dous](https://open.spotify.com/track/3u3WacUgCuvmtqovOUbOij) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Dous pou Dous](https://open.spotify.com/album/3S31k8NVb2UzlOXldL876a) | 4:32 | 2023-05-08 | 2024-11-23 |

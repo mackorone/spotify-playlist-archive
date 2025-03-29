@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-112 songs - 5 hr 49 min
+113 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3 Fire](https://open.spotify.com/track/28qsIUPPL4UBmdAjQRuSbQ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [3 Fire](https://open.spotify.com/album/2x1gPa6wBmi7lisi6f0GDE) | 3:48 | 2023-06-22 | 2025-01-09 |
 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2025-01-08 |  |
 | [Aitvaar](https://open.spotify.com/track/1oTyX0QcxOmnJlilzhfak1) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr) | [Pieces of Me](https://open.spotify.com/album/0raSkW1e3ld2c63hzvpchY) | 2:52 | 2023-06-22 | 2025-01-09 |
+| [All Night](https://open.spotify.com/track/7aHK3g7UZfK1t1C6AMKEFF) | [AK](https://open.spotify.com/artist/0TjvVjDesZyTCmI7qR1sbn), [Dippa Dosanjh](https://open.spotify.com/artist/5TeJYUhoB43aWSlR4PvHUm) | [All Night](https://open.spotify.com/album/164EYHu8ot4gol1jgCovSC) | 2:44 | 2025-03-28 |  |
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 |  |
 | [Athri Jawani](https://open.spotify.com/track/7j5hm8XrUcivvclVApLv13) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Guddiyan Patole](https://open.spotify.com/album/4mIGiAFULtqiznAA48NOfQ) | 3:12 | 2024-04-05 | 2025-01-09 |
 | [Athri Jawani \(From "Guddiyan Patole"\)](https://open.spotify.com/track/6FdabJ3GIPvyR7vmeEH2Wo) | [Ikwinder Singh](https://open.spotify.com/artist/0gv7hUkKAlpoDixKDJA2vs), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Athri Jawani \(From "Guddiyan Patole"\) \- Single](https://open.spotify.com/album/3OhzhLUHR9q0AOGwrm6bXK) | 3:12 | 2023-06-22 | 2024-04-19 |
@@ -57,7 +58,7 @@
 | [Jatt Khulgey](https://open.spotify.com/track/4imfyd9dOBWKJ4Wrek0t8x) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Jatt Khulgey](https://open.spotify.com/album/5rGHWutfVM3vM6UMIdVMg8) | 3:05 | 2023-06-22 | 2025-01-09 |
 | [Jatti Speaker](https://open.spotify.com/track/53aMDm9jq4Iw7Ejx4YSFOi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 3:18 | 2023-06-22 | 2025-01-09 |
 | [Jattiye Ni](https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jattiye Ni](https://open.spotify.com/album/4sISXOYpISfwZI6RmGWfJA) | 3:01 | 2023-06-22 |  |
-| [Jee Karda](https://open.spotify.com/track/316FmbbWpvia0G28dG5sBa) | [Jellio DBI](https://open.spotify.com/artist/3Ue5OGf3ztxcHf1ZVsENzJ) | [Jee Karda](https://open.spotify.com/album/33iJ3qcns14MKnWK3NxHiU) | 3:24 | 2025-03-17 |  |
+| [Jee Karda](https://open.spotify.com/track/316FmbbWpvia0G28dG5sBa) | [Jellio DBI](https://open.spotify.com/artist/3Ue5OGf3ztxcHf1ZVsENzJ) | [Jee Karda](https://open.spotify.com/album/33iJ3qcns14MKnWK3NxHiU) | 3:24 | 2025-03-17 | 2025-03-29 |
 | [Kadar](https://open.spotify.com/track/6dJ3qICD3mFsPpaGAXVme9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 3:09 | 2023-06-22 | 2025-01-09 |
 | [Kala Chashma](https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Amar Arshi](https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Amrik Singh](https://open.spotify.com/artist/1Sqacm1VMROsVrDOUwxS5G) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:07 | 2025-01-08 | 2025-02-08 |
 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 | 2023-06-22 |  |

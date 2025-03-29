@@ -4,7 +4,7 @@
 
 > Para bailar hasta el amanecer\. Foto: Los Nocheros
 
-191 songs - 10 hr 41 min
+193 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Uno a la Vez](https://open.spotify.com/track/7deoF9pTQ8H8pOt2KzYf6u) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Uno a la Vez](https://open.spotify.com/album/4GJ4McfXOysNotzUqo0the) | 3:14 | 2021-12-31 |  |
 | [Vale La Pena Vivir La Vida](https://open.spotify.com/track/5srtp4tKDoae5pL9vwDu29) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 3:04 | 2021-12-31 | 2023-11-11 |
 | [Ven](https://open.spotify.com/track/5yE5IV949jrNBOGPg4saN3) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Es con mi voz](https://open.spotify.com/album/0rHKr5S8LVHeSkO531KDeS) | 3:44 | 2021-12-31 |  |
+| [Vete](https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Vete](https://open.spotify.com/album/2HdWMcTl16okf4GA4QQf3K) | 3:18 | 2025-03-28 |  |
 | [Viaje](https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Viaje](https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a) | 2:54 | 2022-07-01 | 2024-04-19 |
 | [Viaje](https://open.spotify.com/track/4UjDVvkhkQ8QtC5BtfWQvr) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Viaje](https://open.spotify.com/album/2sfFfPFl3UsWwThTi3fcnu) | 2:54 | 2021-12-31 |  |
 | [Viejo Amor de Carnaval](https://open.spotify.com/track/64TDfRjJi79XsYjr0Jqtig) | [Bruno Arias](https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Viejo Amor de Carnaval](https://open.spotify.com/album/2a66MEbmhooXRUF4Pi2ReT) | 3:57 | 2024-02-09 |  |
@@ -199,5 +200,6 @@
 | [Zamba de los yuyos](https://open.spotify.com/track/7ipuwOjqoLy5hyAEGSMZj5) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Zamba de los yuyos](https://open.spotify.com/album/6s7uk19jxa0drzsviWj3ih) | 4:16 | 2022-11-11 |  |
 | [Zamba del Amanecido](https://open.spotify.com/track/0kc4mJhfEK1D8WyxI1ff50) | [Dalmiro Cuellar](https://open.spotify.com/artist/5fx2gAF0dCFWULwx4TwQS0), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Zamba del Amanecido](https://open.spotify.com/album/4PoJfnL3jFgQjFyNbPvvm4) | 2:53 | 2023-05-05 |  |
 | [Zapateo](https://open.spotify.com/track/7DRlzBCGO83lfVHV4Z4YjS) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Zapateo](https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60) | 2:59 | 2021-12-31 | 2022-03-12 |
+| [ÁRBOL \- En Vivo Estadio Delmi](https://open.spotify.com/track/3KuC6QXvGGToJKMECUU04M) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [ÁRBOL \(En Vivo Estadio Delmi\)](https://open.spotify.com/album/7nEXOZiWZ4I1fokc7vTywb) | 3:50 | 2025-03-28 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Timothée Chalamet in A Complete Unknown
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,000 likes - 115 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,003 likes - 115 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [true love will find you in the end \- Adam's Version](https://open.spotify.com/track/1iBKUbUAvPQavSlNrGaXg5) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [true love will find you in the end \(Adam's Version\)](https://open.spotify.com/album/75NVfTQZUCSxN5388wvYK6) | 2:01 |
 | 115 | [Driver 8](https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Driver 8](https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu) | 3:35 |
 
-Snapshot ID: `Z4pz2AAAAABJ4nEoFaUohRwEU/M/Wf2E`
+Snapshot ID: `Z+Ye7AAAAAC9wkeg9dIzP1vqZuI05fvl`

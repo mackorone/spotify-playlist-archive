@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Authority",
+        "url": "https://open.spotify.com/album/2hzRsiYMsW9FWkdtTXnnwH"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233336,
+      "name": "Authority",
+      "url": "https://open.spotify.com/track/2RXMW4OrcyrEG48hQ0aqxk"
+    },
+    {
+      "album": {
         "name": "Grace In The Wilderness",
         "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 179061,
       "name": "Better Than I Ever Thought",
       "url": "https://open.spotify.com/track/3uDO1vVp0fHweMgX7fwmmx"
@@ -1033,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "FOLK! (Pt. 2)",
+        "url": "https://open.spotify.com/album/2OrjNqYxi3gSY22YMkE081"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7CnDX6GF94ZkZ9Yr6VMWDF"
+    },
+    {
+      "album": {
         "name": "Burn Still",
         "url": "https://open.spotify.com/album/3mVv4nZWrHFE4cRFmcRicN"
       },
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 279847,
       "name": "Burn Still",
       "url": "https://open.spotify.com/track/66rOZxW7kt5AnOMrsdaN0r"
@@ -2074,7 +2110,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 203824,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/2EuFVrYeCxPIC5xy2bHc47"
@@ -3374,10 +3410,28 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 218578,
       "name": "Heartbreak Feels Like Home",
       "url": "https://open.spotify.com/track/3YjAnfmtN1B6yAJDc107wj"
+    },
+    {
+      "album": {
+        "name": "Church People",
+        "url": "https://open.spotify.com/album/0tSFRtAEKnjtbngIR1XdDY"
+      },
+      "artists": [
+        {
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220328,
+      "name": "Hearts Only Open From The Inside",
+      "url": "https://open.spotify.com/track/0BoqS9BYLg3paEZpvzLQb7"
     },
     {
       "album": {
@@ -4330,7 +4384,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 232047,
       "name": "I'm Always Talking To Jesus",
       "url": "https://open.spotify.com/track/1Ihs17HHHVxuzraBMEEJrM"
@@ -4374,6 +4428,24 @@
       "duration_ms": 218400,
       "name": "I've Got Joy",
       "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
+    },
+    {
+      "album": {
+        "name": "I've Just Seen Too Much",
+        "url": "https://open.spotify.com/album/3prY1U770zxu2B8vCJ6iBe"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257027,
+      "name": "I've Just Seen Too Much",
+      "url": "https://open.spotify.com/track/1FEe1h5HsZ7Zemy9C8fw5k"
     },
     {
       "album": {
@@ -5036,7 +5108,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 252047,
       "name": "Let It Begin",
       "url": "https://open.spotify.com/track/3dpXt0Dy7g1Aaewb7LG0YE"
@@ -5148,6 +5220,24 @@
       "duration_ms": 230965,
       "name": "Light of Heaven",
       "url": "https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF"
+    },
+    {
+      "album": {
+        "name": "Live Like That (from \"The King of Kings\" Soundtrack)",
+        "url": "https://open.spotify.com/album/5D2ZaDebPPjA7LJkMehk1C"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256058,
+      "name": "Live Like That (from \"The King of Kings\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6BPvhntQLwxuxJxmbdSKKB"
     },
     {
       "album": {
@@ -6354,7 +6444,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 210384,
       "name": "On The Mend",
       "url": "https://open.spotify.com/track/4wghIQPQ2IrnzIbHjEPpxy"
@@ -6434,6 +6524,24 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "album": {
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/6KuSfPfkOBU3w2ec4pZrx4"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201906,
+      "name": "Only For A Moment - Radio Version",
+      "url": "https://open.spotify.com/track/6DKcuCEUZ4hfJ38tgHnR0Z"
     },
     {
       "album": {
@@ -7010,6 +7118,24 @@
       "duration_ms": 272391,
       "name": "Reason I Sing - Acoustic",
       "url": "https://open.spotify.com/track/7BAPIZgldsXfRcQs0bybAC"
+    },
+    {
+      "album": {
+        "name": "Reckoner (An Axe Laid at the Root)",
+        "url": "https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237123,
+      "name": "Reckoner (An Axe Laid at the Root)",
+      "url": "https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8"
     },
     {
       "album": {
@@ -7694,7 +7820,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 200986,
       "name": "Sound Of Heaven",
       "url": "https://open.spotify.com/track/6drDEHrFUutQCSXpW6ApcF"
@@ -7922,6 +8048,24 @@
       "duration_ms": 200440,
       "name": "Sunday Sermons",
       "url": "https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1"
+    },
+    {
+      "album": {
+        "name": "Superpowers",
+        "url": "https://open.spotify.com/album/1WeWNF52veaOmfcAagyUr7"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217216,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn"
     },
     {
       "album": {
@@ -8380,6 +8524,24 @@
       "duration_ms": 222942,
       "name": "The Cross - Live",
       "url": "https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S"
+    },
+    {
+      "album": {
+        "name": "The Difference",
+        "url": "https://open.spotify.com/album/2GPFH6RSZnub9dE7siCsh5"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219216,
+      "name": "The Difference",
+      "url": "https://open.spotify.com/track/1N0IgXz9ataDdUVgqxXAQo"
     },
     {
       "album": {
@@ -8958,7 +9120,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 225350,
       "name": "To Move Your Heart",
       "url": "https://open.spotify.com/track/3KIUSkO74EUMhkysOw7qiV"
@@ -9012,10 +9174,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 200596,
       "name": "To Save My Life",
       "url": "https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P"
+    },
+    {
+      "album": {
+        "name": "To Save My Life (Acoustic)",
+        "url": "https://open.spotify.com/album/2yjZS9kAJ5QSem8Mr2QeUP"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200901,
+      "name": "To Save My Life - Acoustic",
+      "url": "https://open.spotify.com/track/3pJug2MQyFivr5GAC91VTl"
     },
     {
       "album": {

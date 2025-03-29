@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P?si=j\_qQwtB3S866\-TOLshqc\_g">Rowlene</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4?si=YB4nAtxyQWWBQE3FQuHX1Q">Aqyila</a>
 
-469 songs - 1 day 1 hr 12 min
+471 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-08 | 2024-08-31 |
 | [Blue Skies](https://open.spotify.com/track/2N764q9ENCgLLV1FBvIy00) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk) | [Blue Skies](https://open.spotify.com/album/56RwXwctDE9KLYEJcO6EHV) | 3:25 | 2023-11-09 | 2024-03-22 |
 | [Body Party](https://open.spotify.com/track/2tkPJsgycUtCTpK6rob0CA) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [hold me when it's cold: the cuddle pack](https://open.spotify.com/album/6Qgr0c19to4RJXIbwfxKST) | 4:22 | 2023-11-16 | 2024-02-09 |
+| [Boogie \(Get Down\)](https://open.spotify.com/track/54C0UuEWVNnHvfcXhTVmAw) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:12 | 2025-03-28 |  |
 | [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 | 2023-11-16 | 2024-11-15 |
 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-10-12 | 2023-11-10 |
 | [Brand New Me](https://open.spotify.com/track/3e1WiZKZSPqjejsE95MaLJ) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Brand New Me](https://open.spotify.com/album/2tUgcQUy5QVJEAgjr4XdNa) | 2:51 | 2024-08-30 | 2024-09-03 |
@@ -393,6 +394,7 @@
 | [Sukuma Mkami](https://open.spotify.com/track/5INjAInDS0ofvbAuCwmuNf) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [Sundile](https://open.spotify.com/artist/738pL13N1YPrMRB9hGPKo3), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Dj Radix](https://open.spotify.com/artist/1e1wEtfkiETX9bghMZnU4x) | [Silhouette Dreams](https://open.spotify.com/album/7bS3ffbYah2XF7ViNbqpFW) | 4:40 | 2024-09-02 | 2024-09-12 |
 | [Sunday Morning](https://open.spotify.com/track/4J82fy5b9EdYwVSogEh8Xw) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [In the beginning was the end](https://open.spotify.com/album/2BGE8IaqHURKrGb14FHygQ) | 2:28 | 2024-09-02 | 2024-09-12 |
 | [sunsets](https://open.spotify.com/track/7Cqjt0ObvdBrzHMs08Tdyz) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [sunsets](https://open.spotify.com/album/1cYkWCj8fKozpflR6TSypg) | 1:44 | 2024-09-02 | 2024-09-12 |
+| [Sunshine](https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 2:24 | 2025-03-28 |  |
 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2024-02-08 | 2024-06-14 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2024-09-11 | 2024-11-15 |
 | [Sure thing \- Remix](https://open.spotify.com/track/4xGIKc8ga6tINIswutI5OP) | [Dominiique](https://open.spotify.com/artist/3RNtAKOtBRnrMYOwtSpoaa) | [Sure thing \(Remix\)](https://open.spotify.com/album/4aYzjNMXVLmeJJgNshYs4j) | 3:16 | 2024-09-02 | 2024-09-12 |

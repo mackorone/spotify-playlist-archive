@@ -4,7 +4,7 @@
 
 > Artie 5ive in cover + le migliori uscite della settimana! Con brani di Franco126, Ariana Grande, Linkin Park e tanti altri.
 
-4,178 songs - 8 day 19 hr 4 min
+4,181 songs - 8 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1320,6 +1320,7 @@
 | [foglieverdi](https://open.spotify.com/track/32xxdDRNQQr2TwcCNstjrF) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [blurosso](https://open.spotify.com/album/3CUYNGAWeapMGi5KmG8bAa) | 2:40 | 2024-06-27 | 2024-07-05 |
 | [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/track/4RV9fq4QKnW346GRdZRIje) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/album/4f2kBU9QkpvEh5RpRwkCg2) | 3:20 | 2025-02-20 | 2025-02-28 |
 | [Follia](https://open.spotify.com/track/26zx0Jw1N3CdspZRhGwW8z) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [Follia](https://open.spotify.com/album/4lphwhXU0ZxnpAarXx4TBc) | 2:56 | 2024-06-13 | 2024-06-21 |
+| [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-28 |  |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 | 2024-08-16 |
 | [For You](https://open.spotify.com/track/5UWdiipBqz8PwtdDj3MtZF) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [Soy Milk](https://open.spotify.com/album/6YBuPpOn0jKR0R6BMvL79Y) | 1:32 | 2024-09-12 | 2024-09-20 |
 | [Forbidden Road \- From Better Man: Original Motion Picture Soundtrack](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 | 2024-11-21 | 2024-11-29 |
@@ -2286,7 +2287,7 @@
 | [Memories](https://open.spotify.com/track/36dqoz8IL8BeXYgdfQQKgG) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [Hazy Days](https://open.spotify.com/album/3gkWjLe7SSF4DYvz1Wcdfy) | 2:11 | 2025-01-16 | 2025-01-24 |
 | [Memories \(feat\. Annalisa\)](https://open.spotify.com/track/5dx4QY85j4zjMNHreobVsS) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:36 | 2024-05-02 | 2024-05-10 |
 | [memory lane](https://open.spotify.com/track/2UxWHnZs6wfpp5MyfGGENz) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [everywhere i go, there i am](https://open.spotify.com/album/3xikGrDzQkZScmbkLHoc2Z) | 2:51 | 2024-11-15 | 2024-11-22 |
-| [Meno di zero](https://open.spotify.com/track/3NtMsKqfTlXPVcNd6Rg2su) | [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt) | [Meno di zero](https://open.spotify.com/album/4IlUx9FcebzkgQFnUqU06s) | 2:29 | 2025-03-28 |  |
+| [Meno di Zero](https://open.spotify.com/track/3NtMsKqfTlXPVcNd6Rg2su) | [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt) | [Meno di Zero](https://open.spotify.com/album/4IlUx9FcebzkgQFnUqU06s) | 2:29 | 2025-03-28 |  |
 | [menTAL BReAKdOWn](https://open.spotify.com/track/4hYnMkDnCVvoXVatr7KY2j) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [menTAL BReAKdOWn](https://open.spotify.com/album/4cPg53Qarq5ihZDMO6fXi3) | 2:29 | 2024-10-10 | 2024-10-18 |
 | [Mentale](https://open.spotify.com/track/6FzhWQuJWyWvbdUad1xEPb) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Mentale](https://open.spotify.com/album/1ijWVZdDagxdMarep595Uc) | 2:00 | 2024-09-05 | 2024-09-13 |
 | [Mercante](https://open.spotify.com/track/5kNzj2wKiSlUdLwodYZ4lf) | [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH) | [Mercante](https://open.spotify.com/album/4SUj7lMAZ8PAl6udfpN6gO) | 3:08 | 2024-07-25 | 2024-08-02 |
@@ -3496,6 +3497,7 @@
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-10-31 | 2024-11-08 |
 | [Sta Piovendo](https://open.spotify.com/track/2KwpMzhi4rAhusIbrj5OLU) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Alawais](https://open.spotify.com/artist/5Sh9ne0WUEOvdvTbSHyDJt) | [Sta Piovendo](https://open.spotify.com/album/1guRvnS6o8DFHm8Q9rZ1np) | 2:37 | 2024-08-08 | 2024-08-16 |
 | [Stai Attento](https://open.spotify.com/track/5C2qGz4RhIKcnbV9ahBLRy) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Stai Attento](https://open.spotify.com/album/505ORIeHL6yY1j2pGtk41Z) | 3:13 | 2024-09-12 | 2024-09-20 |
+| [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 | 2025-03-28 |  |
 | [Standard](https://open.spotify.com/track/5N45inUi06mPD9Hzu0GKqN) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Standard](https://open.spotify.com/album/3H3hwyYfYE25GGeFj31pbd) | 3:05 | 2024-11-15 | 2024-11-22 |
 | [STANDING OVATION](https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [STANDING OVATION](https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq) | 2:41 | 2024-11-07 | 2024-11-15 |
 | [Stanza 107](https://open.spotify.com/track/3p3y4h9Sth0Bh27u9g97lm) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Stanza 107](https://open.spotify.com/album/22kyL2qwMpmzhFeg7TPChd) | 2:17 | 2024-07-11 | 2024-07-19 |
@@ -3875,6 +3877,7 @@
 | [tuxtu](https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2) | [Parrelle](https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx) | [tuxtu](https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu) | 2:44 | 2024-11-15 | 2024-11-22 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-06 | 2025-02-14 |
 | [TWERKARE](https://open.spotify.com/track/5OC4SXVL3Zip0JSu5iHhPF) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [PACCO](https://open.spotify.com/album/7DwO5CsYyQp7vXtpS1TxfB) | 2:53 | 2024-12-12 | 2024-12-20 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 |  |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 | 2024-11-22 |
 | [Two Times](https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Two Times](https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm) | 3:46 | 2025-02-20 | 2025-02-28 |
 | [Tè al limone](https://open.spotify.com/track/01MUVpv95WyB9h4eP5kY78) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Tè al limone](https://open.spotify.com/album/2JxjXBj48mmkjhoRibh0VR) | 2:51 | 2024-05-31 | 2024-06-07 |

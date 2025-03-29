@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: BabyChiefDoit",
+  "description": "The Midwest is always on time. Cover: Lil Durk",
   "name": "CST",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 186534,
       "name": "100 Yrs",
       "url": "https://open.spotify.com/track/4KCIIUBjU0mfYQmZGnGg5o"
+    },
+    {
+      "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203588,
+      "name": "1000 Times (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/17Pa3c4hQLPHPrxCs4BwZj"
     },
     {
       "album": {
@@ -363,6 +385,32 @@
     },
     {
       "album": {
+        "name": "3 Headed Savage (feat. VonOff1700 & Big Opp)",
+        "url": "https://open.spotify.com/album/5suK79R7YxtF8dI666PKin"
+      },
+      "artists": [
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Big Opp",
+          "url": "https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142824,
+      "name": "3 Headed Savage (feat. VonOff1700 & Big Opp)",
+      "url": "https://open.spotify.com/track/0EGCr8h0SOs3cIPF3JebDE"
+    },
+    {
+      "album": {
         "name": "GEMINI!",
         "url": "https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi"
       },
@@ -480,7 +528,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 153648,
       "name": "3333",
       "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
@@ -964,7 +1012,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 118720,
       "name": "Acts 1.5",
       "url": "https://open.spotify.com/track/1eX082TmxuRRtteicQDtgv"
@@ -1394,7 +1442,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 124689,
       "name": "All whites",
       "url": "https://open.spotify.com/track/484Hn8oMnQlSJVtjcdVczO"
@@ -1416,6 +1464,24 @@
       "duration_ms": 231010,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ"
+    },
+    {
+      "album": {
+        "name": "Am I Wrong?",
+        "url": "https://open.spotify.com/album/3uAQYZlvTqD0NdJKjc3gdU"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159990,
+      "name": "Am I Wrong?",
+      "url": "https://open.spotify.com/track/6XLW8iiuaGeSwHXoox3h2s"
     },
     {
       "album": {
@@ -2132,7 +2198,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 149676,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/7hgjckW54rF0cMtzHBoXpv"
@@ -2954,7 +3020,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 94435,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/0db4egBurOXPCBi9X8dKNB"
@@ -2994,7 +3060,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 143647,
       "name": "Blow Yo Gun",
       "url": "https://open.spotify.com/track/3fwTyCzc5OGodnTnHEJof4"
@@ -4739,6 +4805,24 @@
     },
     {
       "album": {
+        "name": "M Block",
+        "url": "https://open.spotify.com/album/2cPyrX2N8exJoP01uRR6Sz"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97802,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/4mZKtgXYT2syZjtgTxeIY3"
+    },
+    {
+      "album": {
         "name": "ERROR 404",
         "url": "https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG"
       },
@@ -6204,7 +6288,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 121747,
       "name": "First Day Out The Hospital",
       "url": "https://open.spotify.com/track/4wKIwqK3LWxYyskPgzMNnQ"
@@ -6330,6 +6414,28 @@
       "duration_ms": 182196,
       "name": "FMB Dz 2k22",
       "url": "https://open.spotify.com/track/1oKlNtMpHNHOv5zgdIw5MP"
+    },
+    {
+      "album": {
+        "name": "Bridge Kard Blessings",
+        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175568,
+      "name": "Food Stamp Felons - feat. Skilla Baby",
+      "url": "https://open.spotify.com/track/7sy8y0x38eWH7xd9UX5kMJ"
     },
     {
       "album": {
@@ -6792,6 +6898,28 @@
       "duration_ms": 92212,
       "name": "FTO",
       "url": "https://open.spotify.com/track/1yOtYpY4gvkAs91aAvGdyZ"
+    },
+    {
+      "album": {
+        "name": "FTW",
+        "url": "https://open.spotify.com/album/3QopZMe12YsPHvz3LXJAx4"
+      },
+      "artists": [
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148182,
+      "name": "FTW",
+      "url": "https://open.spotify.com/track/3FtdFxk3mXsBtmCICjIYOZ"
     },
     {
       "album": {
@@ -7442,7 +7570,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 163218,
       "name": "Go Yeezy",
       "url": "https://open.spotify.com/track/0o49qkTGIJlePImFnyJqXX"
@@ -9412,7 +9540,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 117221,
       "name": "i told u",
       "url": "https://open.spotify.com/track/0ZA4EJkLvRG3uGj37FIGyN"
@@ -12081,6 +12209,24 @@
     },
     {
       "album": {
+        "name": "Mary K",
+        "url": "https://open.spotify.com/album/1LAhblhfNHwVSC7Y1nvDaQ"
+      },
+      "artists": [
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102620,
+      "name": "Mary K",
+      "url": "https://open.spotify.com/track/3CkOs1JEjcnxqqzoGlLX5I"
+    },
+    {
+      "album": {
         "name": "MOB",
         "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
       },
@@ -13809,6 +13955,32 @@
     },
     {
       "album": {
+        "name": "Hommage",
+        "url": "https://open.spotify.com/album/7FZ0RhsWlfhd7cnqdzJ8pi"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Antt Beatz",
+          "url": "https://open.spotify.com/artist/3HySPBanVbKZsn6bOZSZl8"
+        },
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134918,
+      "name": "Off The Richter (feat. Baby Money)",
+      "url": "https://open.spotify.com/track/5LetlRoihfzX5hwPiAcEP4"
+    },
+    {
+      "album": {
         "name": "RIO FREE",
         "url": "https://open.spotify.com/album/6tXw2H5kdm0H681vd8M2uV"
       },
@@ -14228,7 +14400,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 156223,
       "name": "Opportunist",
       "url": "https://open.spotify.com/track/7ESmcSz98ZGni2Wm8Zucog"
@@ -14392,7 +14564,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 95147,
       "name": "OverTh!nking",
       "url": "https://open.spotify.com/track/0HhzQxtC4tF558LQINYrsK"
@@ -18265,6 +18437,32 @@
     },
     {
       "album": {
+        "name": "Estrella (Deluxe)",
+        "url": "https://open.spotify.com/album/3mq6ykBgiVWq0C9vm5Frs0"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122502,
+      "name": "Speaking French (feat. Babyfxce E & 1up Tee)",
+      "url": "https://open.spotify.com/track/1jRpdTKZHbT2DGRf1fuXTB"
+    },
+    {
+      "album": {
         "name": "Special (feat. OhGeesy)",
         "url": "https://open.spotify.com/album/3DW538fBEe0ld2Oj4SIgK1"
       },
@@ -19967,6 +20165,24 @@
     },
     {
       "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175489,
+      "name": "Think You Glowed",
+      "url": "https://open.spotify.com/track/4BiPiRcHvzF8Vk3FQRxIPj"
+    },
+    {
+      "album": {
         "name": "Thinking Of You",
         "url": "https://open.spotify.com/album/2oHvIk5IL9sgqaZkuzfo9W"
       },
@@ -20618,7 +20834,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 140160,
       "name": "Toxic Love Story",
       "url": "https://open.spotify.com/track/1tz002DvmXTUhJfdPBWNsE"
@@ -20909,6 +21125,28 @@
     },
     {
       "album": {
+        "name": "Tweakers (feat. Mello Buckzz)",
+        "url": "https://open.spotify.com/album/6a3NUgVlhTVl3pLQnLWT7g"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132853,
+      "name": "Tweakers (feat. Mello Buckzz)",
+      "url": "https://open.spotify.com/track/6PFr6vS2y2Bivd9KH6QIAl"
+    },
+    {
+      "album": {
         "name": "TWEAKERS (feat. Rob49 & Skilla Baby)",
         "url": "https://open.spotify.com/album/3qhSnRyepf8dr7KGpAmHpg"
       },
@@ -20932,6 +21170,24 @@
       "duration_ms": 138472,
       "name": "TWEAKERS (feat. Rob49 & Skilla Baby)",
       "url": "https://open.spotify.com/track/296Xh4TLu5TKtTZH5kw3c3"
+    },
+    {
+      "album": {
+        "name": "Bridge Kard Blessings",
+        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149303,
+      "name": "Tyler Durden",
+      "url": "https://open.spotify.com/track/1qDSWh7gjcCl7YGGczvVcT"
     },
     {
       "album": {
@@ -21114,7 +21370,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 189384,
       "name": "Unapologetic",
       "url": "https://open.spotify.com/track/4AUJexwwUwEf6Wi1kHV5iC"
@@ -21256,6 +21512,24 @@
       "duration_ms": 151141,
       "name": "Van Cleef Island",
       "url": "https://open.spotify.com/track/6XpOsw4d970xooR27nqHiJ"
+    },
+    {
+      "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123154,
+      "name": "Vanish Mode",
+      "url": "https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y"
     },
     {
       "album": {
@@ -22315,6 +22589,32 @@
     },
     {
       "album": {
+        "name": "WORTH SOMETHING",
+        "url": "https://open.spotify.com/album/7wuX9vUDXBCS3MzUVp7Drw"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245990,
+      "name": "WORTH SOMETHING",
+      "url": "https://open.spotify.com/track/4kUi3uKKit4XcmDs0V63h2"
+    },
+    {
+      "album": {
         "name": "UNDEFEATED - EP",
         "url": "https://open.spotify.com/album/0CLVJq9JGSbGABvSbWR09Z"
       },
@@ -22334,7 +22634,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 227995,
       "name": "WORTH SOMETHING (feat. Big Sean & Skilla Baby)",
       "url": "https://open.spotify.com/track/4h5lvpabFcgDiBwKSqQ0x8"
@@ -22568,6 +22868,40 @@
       "duration_ms": 143408,
       "name": "yeyeezytunechiweezy",
       "url": "https://open.spotify.com/track/59Dgs4grihK8w4XmltxxXI"
+    },
+    {
+      "album": {
+        "name": "YN",
+        "url": "https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        },
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231075,
+      "name": "YN",
+      "url": "https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp"
     },
     {
       "album": {

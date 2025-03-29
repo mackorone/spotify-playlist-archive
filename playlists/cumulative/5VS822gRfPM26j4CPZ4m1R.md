@@ -4,7 +4,7 @@
 
 > Playlist
 
-589 songs - 1 day 10 hr 54 min
+590 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bring Me to Tears](https://open.spotify.com/track/1DVQVW99aNA5Xvzp5W9pqF) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [Something to Lose](https://open.spotify.com/album/6tJnsbq2C5zamibnV59MMe) | 3:45 | 2023-10-25 |  |
 | [Bubble Tea](https://open.spotify.com/track/1NTaCXaywmjieNY0FpP2gp) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Peer 2 Peer](https://open.spotify.com/album/0yj7MLtNm1dfYoiqU0hONP) | 3:35 | 2023-10-25 |  |
 | [Bumpy's Weekend](https://open.spotify.com/track/3GHVZtUIcYXkwLFMwyP6qe) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bumpy's Weekend](https://open.spotify.com/album/05Ir7UhaHYEoVQGrnocVIh) | 2:41 | 2025-01-31 |  |
+| [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 | 2025-03-28 |  |
 | [Bye\-Bye](https://open.spotify.com/track/14ABObPXsjT5ENNUtCNy3a) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Grand Eugène](https://open.spotify.com/album/60doKMH86BYnApXvT5jeic) | 3:29 | 2023-10-25 |  |
 | [Call My Parents](https://open.spotify.com/track/1BPfuDHIxnB8ndQBiXpm4F) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Call My Parents](https://open.spotify.com/album/329qyXniWjTtkVMlGnXFFp) | 2:22 | 2023-10-25 |  |
 | [Can’t Get It Right](https://open.spotify.com/track/26QGFCsc5WAtCK3QvDEKVL) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Can’t Get It Right](https://open.spotify.com/album/4UtPqZ4qru9gWpmTdtUGWh) | 3:57 | 2024-06-11 |  |

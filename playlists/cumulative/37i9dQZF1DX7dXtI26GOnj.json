@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "At\u00e9 Gosto Assim",
+        "url": "https://open.spotify.com/album/5I3PfqC41vRu4Nl590HBf3"
+      },
+      "artists": [
+        {
+          "name": "GOMES",
+          "url": "https://open.spotify.com/artist/45Ui6eUZZRtSrFUC37GEHo"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137684,
+      "name": "At\u00e9 Gosto Assim",
+      "url": "https://open.spotify.com/track/0bmrSC17awDgsduJxE9GYk"
+    },
+    {
+      "album": {
         "name": "Punto y Aparte / Serendipia",
         "url": "https://open.spotify.com/album/3gNO25xNR1IR0cauqtnDbd"
       },
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 231450,
       "name": "Cuerpo",
       "url": "https://open.spotify.com/track/634NaSGxwoORD9q99SrQph"
@@ -4778,7 +4796,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 164745,
       "name": "La Pelirroja",
       "url": "https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9"
@@ -5894,7 +5912,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 192001,
       "name": "Miau (feat. Uzielito Mix)",
       "url": "https://open.spotify.com/track/0spIfr7PKo381CocT4XnYN"
@@ -7366,7 +7384,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 206627,
       "name": "PIToRRO DE COCO",
       "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
@@ -7642,7 +7660,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"

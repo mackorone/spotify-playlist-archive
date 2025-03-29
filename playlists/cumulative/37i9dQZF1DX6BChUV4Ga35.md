@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-136 songs - 4 hr 42 min
+137 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Guess the Animal](https://open.spotify.com/track/2vSKZlWmALPTOAzz1wBX2X) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs \(Pt\. 3\)](https://open.spotify.com/album/1nP8xd8r7KNnap8htiPBeF) | 1:20 | 2022-02-01 |  |
 | [Happy Hippopotamus \(Call and Response Song\)](https://open.spotify.com/track/3beHoEaoGFqqwWvEurmcqJ) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Happy Hippopotamus \(Call and Response Song\)](https://open.spotify.com/album/0Cyty72ybODI6A7d8E2Vwd) | 2:24 | 2022-02-01 |  |
 | [Hedgehog Riddle](https://open.spotify.com/track/0gI1NjqaKSwizuoUb3CAx3) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:46 | 2022-02-01 |  |
+| [Hop Little Bunnies](https://open.spotify.com/track/2zdlzvGs6BPXn79wKwnEuV) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Hop Little Bunnies](https://open.spotify.com/album/5joRzqGqlMhMJHpHRHODS7) | 2:09 | 2025-03-28 |  |
 | [Horses](https://open.spotify.com/track/4gRZnsj0jNmToYbAYNccM2) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/6TkfhNkfCi1WKoXIhcJOII) | 3:16 | 2022-02-01 |  |
 | [Horses](https://open.spotify.com/track/1Mnl0LoGhHREW3GqaR88DN) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 3:16 | 2022-07-25 | 2022-11-13 |
 | [Horses](https://open.spotify.com/track/34Bu6OvstZDD2jUJ7M4N9C) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN) | 3:16 | 2022-07-25 | 2024-04-19 |

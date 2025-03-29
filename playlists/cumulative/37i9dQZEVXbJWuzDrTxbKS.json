@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 160306,
       "name": "BACKR00MS",
       "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn"
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -8388,7 +8388,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 173320,
       "name": "CRUSH (with Travis Scott)",
       "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
@@ -9686,7 +9686,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 166680,
       "name": "DIFFERENT DAY",
       "url": "https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp"
@@ -12226,7 +12226,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -14220,6 +14220,28 @@
       "duration_ms": 192000,
       "name": "Gatavojos \u012bpa\u0161i",
       "url": "https://open.spotify.com/track/2Dm9VDxqs32ms6ySaml7JA"
+    },
+    {
+      "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "go\u010da",
+          "url": "https://open.spotify.com/artist/58Lv2hHl4JlN4wkwGmrceH"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173810,
+      "name": "Gavil\u0113ju",
+      "url": "https://open.spotify.com/track/6EU9b8FB7uHFxzig8xjDjZ"
     },
     {
       "album": {
@@ -24195,6 +24217,32 @@
     },
     {
       "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        },
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/3ZgKjRocEczVCcOiWKDkOZ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Man Viss ir Labi",
+      "url": "https://open.spotify.com/track/6CT8beagQyKgak2c1auquX"
+    },
+    {
+      "album": {
         "name": "Labu Vakar - Klus\u0101 Daba Ar Perspekt\u012bvu",
         "url": "https://open.spotify.com/album/4ynyqPXGKQEgUhYKTeYgNu"
       },
@@ -27281,6 +27329,28 @@
     },
     {
       "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "Tipa",
+          "url": "https://open.spotify.com/artist/132bZd6nJErQMioqDtPxvl"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Nekurienes Vid\u016b",
+      "url": "https://open.spotify.com/track/3cKMJfJnuwH8ZazWUKYJJs"
+    },
+    {
+      "album": {
         "name": "Neva Play (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
       },
@@ -27300,6 +27370,28 @@
       "duration_ms": 157173,
       "name": "Neva Play (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
+    },
+    {
+      "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "Pre'set",
+          "url": "https://open.spotify.com/artist/5V9IaBqlde2Bdl90Pe54Lc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Nevajag Pal\u012bdz\u012bbu",
+      "url": "https://open.spotify.com/track/2QEmVrxnlXI1PzIFSaaQUk"
     },
     {
       "album": {
@@ -27764,7 +27856,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -33846,7 +33938,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -34173,6 +34265,32 @@
     },
     {
       "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "Pre'set",
+          "url": "https://open.spotify.com/artist/5V9IaBqlde2Bdl90Pe54Lc"
+        },
+        {
+          "name": "Tipa",
+          "url": "https://open.spotify.com/artist/132bZd6nJErQMioqDtPxvl"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Samainam Vainas",
+      "url": "https://open.spotify.com/track/14CU2oTDi4MYteQFNnEZ6K"
+    },
+    {
+      "album": {
         "name": "LIVE.LOVE.A$AP",
         "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
       },
@@ -34380,6 +34498,32 @@
       "duration_ms": 214526,
       "name": "Sarad\u012bts",
       "url": "https://open.spotify.com/track/457TzXzHoUXf13aLAS4W67"
+    },
+    {
+      "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "Pre'set",
+          "url": "https://open.spotify.com/artist/5V9IaBqlde2Bdl90Pe54Lc"
+        },
+        {
+          "name": "sangvn",
+          "url": "https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Sasistas Miesas",
+      "url": "https://open.spotify.com/track/5uE9tyCJBwel0jjhnqHIto"
     },
     {
       "album": {
@@ -36207,6 +36351,28 @@
     },
     {
       "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "Ozols",
+          "url": "https://open.spotify.com/artist/6DfYhvIhiblKFpqjBcgKis"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133068,
+      "name": "Sl\u012bdu Vakar\u0101",
+      "url": "https://open.spotify.com/track/506MxWY3fPepAHz7ke0yld"
+    },
+    {
+      "album": {
         "name": "Gads Bez Kalend\u0101ra",
         "url": "https://open.spotify.com/album/11ENs0gcerHrD5Yp9Pi6qy"
       },
@@ -37692,7 +37858,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 313626,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S"
@@ -38482,7 +38648,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -38500,7 +38666,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -41604,7 +41770,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 222093,
       "name": "Trap Queen",
       "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
@@ -42160,7 +42326,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -42346,6 +42512,50 @@
       "duration_ms": 320400,
       "name": "T\u0101 Es Tevi M\u012bl\u0113\u0161u",
       "url": "https://open.spotify.com/track/51fOTPYA2u9EhEATY2uLH3"
+    },
+    {
+      "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "Oriole",
+          "url": "https://open.spotify.com/artist/2QqZXA3oSzXkDDUyRAtATs"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149689,
+      "name": "T\u0101 ir!",
+      "url": "https://open.spotify.com/track/5OPhXBmBkkenhcDx7ZvjT8"
+    },
+    {
+      "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "sangvn",
+          "url": "https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158931,
+      "name": "T\u012bras Rokas",
+      "url": "https://open.spotify.com/track/5tqqcRjRpGAYhCrhEuFfKH"
     },
     {
       "album": {
@@ -42944,6 +43154,24 @@
       "duration_ms": 186825,
       "name": "Vasara bez internetiem",
       "url": "https://open.spotify.com/track/3maYYnfz7XjjUvI9uwWLVv"
+    },
+    {
+      "album": {
+        "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
+        "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
+      },
+      "artists": [
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Vaz\u0101ju K\u0101jas",
+      "url": "https://open.spotify.com/track/63LOvWkGBTVjzoHzkwFfBZ"
     },
     {
       "album": {
@@ -43928,7 +44156,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 267354,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/0rhoLQVFCojDGFyl0nsdVZ"
@@ -43946,7 +44174,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"

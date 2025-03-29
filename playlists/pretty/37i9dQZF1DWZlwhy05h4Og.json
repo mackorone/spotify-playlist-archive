@@ -1,13 +1,45 @@
 {
-  "description": "The sweetest bops. Cover: LE SSERAFIM",
-  "num_followers": 59798,
+  "description": "The sweetest bops. Cover: NMIXX",
+  "num_followers": 59803,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkagAAAACBPCHwNYSmkZ9yrsOAuDsw",
+  "snapshot_id": "Z+Ym8QAAAAAmoPrZajHFmhEd2yse3mAy",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:34:57",
+      "album": {
+        "name": "Fe3O4: FORWARD",
+        "url": "https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "KNOW ABOUT ME",
+      "url": "https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj"
+    },
+    {
+      "added_at": "2025-03-28 04:34:57",
+      "album": {
+        "name": "UNCUT GEM",
+        "url": "https://open.spotify.com/album/08goLajOh9geJzsBalNa2n"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 190304,
+      "name": "BTG",
+      "url": "https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE"
+    },
     {
       "added_at": "2025-03-14 04:00:04",
       "album": {

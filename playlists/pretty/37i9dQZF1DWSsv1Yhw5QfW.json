@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 139819,
+  "num_followers": 139863,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "All The Best (UK Version)",
+        "url": "https://open.spotify.com/album/5KmV008tb0n0xusPf75Kd7"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5QN44mkwFWRhJ0H1VuGoho"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "Ultimate",
         "url": "https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV"
       },
@@ -875,22 +895,6 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/5DAeqwfoRbp5u6oUBtNYec"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "Nothing But The Best (Remastered)",
-        "url": "https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276253,
-      "name": "My Way - Remastered 2008",
-      "url": "https://open.spotify.com/track/5XAGevtAmPWTN9kyaJwFbx"
     }
   ],
   "unique_name": "Lentos",

@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 老王樂隊 \(Your Woman Sleep with Others\)
 
-1,883 songs - 4 day 13 hr 32 min
+1,885 songs - 4 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Goal For One](https://open.spotify.com/track/0g0EOd882UKfOVBNO9pYod) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [Goal For One](https://open.spotify.com/album/5nWFc7aWKXXZlG9sCtPkoV) | 2:48 | 2025-03-27 |  |
 | [GODDESS](https://open.spotify.com/track/0mCoKv50QznRebpmdV5tOs) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [GODDESS](https://open.spotify.com/album/5y7aTOTiDXKRfrEuSbLopy) | 3:27 | 2025-02-06 | 2025-02-28 |
 | [Gon Fly \(feat\. 貝汯璘\)](https://open.spotify.com/track/05i0iaRYF0fFltjU7VaSFq) | [FRΔNKIΞ](https://open.spotify.com/artist/1FOLZ9XbMSOUW5J8iZMNKv), [贝汯璘](https://open.spotify.com/artist/1fp5PMQwBVUH16EJeH37jC) | [Gon Fly \(feat\. 貝汯璘\)](https://open.spotify.com/album/5N2J565X1XbqvSRrhHDpLM) | 3:19 | 2025-02-13 | 2025-03-07 |
+| [Gonna go](https://open.spotify.com/track/1NYBdhhbzHk7dtmtijselE) | [徐庭安 ATIN](https://open.spotify.com/artist/1xXEXp1dOQIesWcEmdFEfm), [TAIYI](https://open.spotify.com/artist/7AHo6m2CiV62AbaUyRU21R) | [Gonna go](https://open.spotify.com/album/3gAwZ3wIuMa7MMI5lVM6VL) | 2:44 | 2025-03-27 |  |
 | [Good Time](https://open.spotify.com/track/64ENqFGrKC4k1d6CTeX0G4) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Good Time](https://open.spotify.com/album/6KZHWUwwE3B8pJM1x893Od) | 2:53 | 2024-07-25 | 2024-08-16 |
 | [Goodbye](https://open.spotify.com/track/0v28VNzha19ITL8uHiE6zD) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [Goodbye](https://open.spotify.com/album/2VqTSgYOH7QovF3cOllYk6) | 4:44 | 2024-08-15 | 2024-09-06 |
 | [Gotta Runaway](https://open.spotify.com/track/1i6ZGleA1A1ykb1YGBHMvy) | [田亞霍](https://open.spotify.com/artist/2gWiiqMQFlfLjYp43IiQit), [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [Gotta Runaway](https://open.spotify.com/album/1ci0fqGfq21VghqvsXhJUy) | 3:07 | 2024-12-05 | 2024-12-13 |
@@ -392,6 +393,7 @@
 | [On the Road](https://open.spotify.com/track/0TqSGXCYd5DlKHmwzxhEti) | [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [On the Road](https://open.spotify.com/album/0MUGuF7mRCXP7QnsJbT3Yb) | 1:31 | 2024-10-31 | 2024-12-13 |
 | [One](https://open.spotify.com/track/1YhNadabhSa2TIaM5uEPN9) | [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma) | [One](https://open.spotify.com/album/7ngmIpheGs1hseClL797Ta) | 3:15 | 2024-11-21 | 2024-12-20 |
 | [One in The Million \(feat\. Jimmy Brown & DWAYNE\)](https://open.spotify.com/track/6QA6PZDxedi5GYC4ZPLQJe) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [DWAYNE](https://open.spotify.com/artist/7GzejxDLth2upJf30ZipRp) | [WHAT'S UP WHAT'S GOOD Vol.1](https://open.spotify.com/album/4ZFZpN3WSf2ai8gpmgDl6F) | 2:32 | 2025-01-02 | 2025-01-24 |
+| [One More Step \(feat\. J.Sheon\)](https://open.spotify.com/track/6m65VeYLzU8HcVQs7cXHvj) | [SHUZO](https://open.spotify.com/artist/00t3lDEtjDmqtSqQiJArqO), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [One More Step \(feat\. J.Sheon\)](https://open.spotify.com/album/1OpxQUaLfthdSiSpZqAjZM) | 3:32 | 2025-03-27 |  |
 | [one thing i like about you](https://open.spotify.com/track/20AAR4eCHKqJNh8mARQg2w) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [one thing i like about you](https://open.spotify.com/album/0LqEip5Cs6s7yBptmmewC0) | 3:04 | 2024-09-26 | 2024-11-01 |
 | [ONLY WITH YOU](https://open.spotify.com/track/2Eq5uUnAM2yAjzaejhNUBs) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [ONLY WITH YOU](https://open.spotify.com/album/1m5ICOkTtQhnDw2fbeYlbb) | 4:00 | 2025-01-23 | 2025-02-14 |
 | [out of sight out of mind](https://open.spotify.com/track/1OKWPUyUmRYeKv0uUhMcAD) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [out of sight out of mind](https://open.spotify.com/album/11DROtu8TL8qmYMNTlG5nQ) | 3:10 | 2025-03-13 |  |
@@ -1889,7 +1891,7 @@
 | [黑色遊戲](https://open.spotify.com/track/6Crp2zPOZAd18ltIEloQft) | [Avewo](https://open.spotify.com/artist/5qmo6jvzK3u5rSiJGwSOuc) | [黑色遊戲](https://open.spotify.com/album/3Phtu4rnDjzZPhDiKdToAn) | 2:33 | 2025-03-13 |  |
 | [黑體](https://open.spotify.com/track/5wMQx96UbX0tj8Utii4ma0) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq), [hue](https://open.spotify.com/artist/6Ahi2PpG3gEX5M1HuQiQGL) | [黑體](https://open.spotify.com/album/0N3zvesLfu0o7lFK8AJa3H) | 3:10 | 2024-10-31 | 2024-11-22 |
 | [龍鳴](https://open.spotify.com/track/2MWKC5HFNdjrcitnXKOz8O) | [王晨宇IceCraz](https://open.spotify.com/artist/2Hn1JOz00GeUV7iEfdYfYM) | [龍鳴](https://open.spotify.com/album/5N7mbahzhR82Legypi8Vd6) | 2:20 | 2024-10-03 | 2024-10-18 |
-| [龙胆](https://open.spotify.com/track/6OqzZqNPepAtjCkkXpRslr) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [龙胆](https://open.spotify.com/album/7hWMSX3Tta4IaVI7JPt9aa) | 3:27 | 2025-03-27 |  |
+| [龙胆](https://open.spotify.com/track/6OqzZqNPepAtjCkkXpRslr) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m) | [龙胆](https://open.spotify.com/album/7hWMSX3Tta4IaVI7JPt9aa) | 3:27 | 2025-03-27 |  |
 | [Ｇ開頭](https://open.spotify.com/track/2IAk3vI96F0jTpRpRAgmdT) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [G開頭](https://open.spotify.com/album/7GzXDyBSsYU4H05d8kGwaK) | 3:25 | 2024-06-27 | 2024-07-12 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

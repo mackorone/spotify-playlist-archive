@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-160 songs - 9 hr 32 min
+161 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 | 2021-11-26 |  |
 | [Outra Vez](https://open.spotify.com/track/3q4tsm6ZXkgaAPuzUfDTwi) | [João Donato](https://open.spotify.com/artist/4gxHzk7mtYkqEjPw29htfy) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/128J2SUrxLhIKkRnz1R0GV) | 3:18 | 2023-03-17 | 2023-07-07 |
 | [Outra Vez](https://open.spotify.com/track/555nuYZPtb7Gvs05LoqSL1) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [A Bossa Muito Moderna](https://open.spotify.com/album/3bMhQFrrDwcoNb1SS0rEUk) | 3:19 | 2021-11-26 | 2024-04-19 |
-| [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 | 2021-11-26 |  |
+| [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 | 2021-11-26 | 2025-03-29 |
 | [Para Machuchar Meu Coracao](https://open.spotify.com/track/37fHxKAICYRDmYaTujdiBl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Jazz 'Round Midnight: Bossa Nova](https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY) | 5:06 | 2021-11-26 | 2024-05-11 |
 | [Parti Capuri](https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Parti Capuri](https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW) | 4:00 | 2021-11-26 |  |
 | [Passo Pra Cá, Passo Pra Lá](https://open.spotify.com/track/39KEdiy2de9r2jYLd445zO) | [Arthur Diniz](https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7), [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Passo Pra Cá, Passo Pra Lá](https://open.spotify.com/album/0iXmxGT4NeYiThombsRqPy) | 2:19 | 2024-07-26 | 2024-10-12 |
@@ -114,6 +114,7 @@
 | [Queixa \(feat\. Maurício Tizumba, Josi Lopes & Play\)](https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ) | [Rodrigo Borges](https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU), [Mauricio Tizumba](https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX), [Josi Lopes](https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q), [Play](https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP) | [Queixa \(feat\. Maurício Tizumba, Josi Lopes & Play\)](https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW) | 5:32 | 2021-11-26 | 2024-03-09 |
 | [Quinze Pras Sete na Vila](https://open.spotify.com/track/2RZqc1v4vrpDG3dUSJKhHL) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Quinze Pras Sete na Vila](https://open.spotify.com/album/0AFxvpFwxZQUEzZnHl5OJx) | 3:44 | 2021-11-26 |  |
 | [Quinze Pras Sete na Vila](https://open.spotify.com/track/5Da8D5lZy27M8BCPyZsaJj) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Balanço na Quebrada](https://open.spotify.com/album/3aE7O0WQoaLqzranUowU3r) | 3:44 | 2022-10-14 | 2024-04-19 |
+| [Rabiscos](https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Rabiscos](https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC) | 3:16 | 2025-03-28 |  |
 | [Rapaz de Bem](https://open.spotify.com/track/5MujnOhaPIXY5Z2aOi4tUt) | [Vanessa Jackson](https://open.spotify.com/artist/4grPACpyU8gbASMAm3HZLP) | [Rapaz de Bem](https://open.spotify.com/album/5bri4JyZoYnZg7jjhdctGi) | 3:29 | 2025-01-10 |  |
 | [Rio](https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Rio](https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta) | 4:07 | 2021-11-26 |  |
 | [Rosa Morena](https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 4:06 | 2021-11-26 |  |

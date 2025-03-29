@@ -1,13 +1,33 @@
 {
-  "description": "New jazz for open minds. Cover: Gerald Clayton",
-  "num_followers": 949724,
+  "description": "New jazz for open minds. Cover: Butcher Brown",
+  "num_followers": 949774,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z92BlAAAAADNz77ceR0h1mUJf48u8Zxw",
+  "snapshot_id": "Z+ayrwAAAAAPnUHe5tLYxCan8lTIKaFG",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:00:37",
+      "album": {
+        "name": "Unwind [Feat. Melanie Charles]",
+        "url": "https://open.spotify.com/album/2jWjJILBlCqfA2PCPgZNPQ"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Melanie Charles",
+          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "Unwind [Feat. Melanie Charles]",
+      "url": "https://open.spotify.com/track/0nK4auk3sF7wrRWNMEaw2b"
+    },
     {
       "added_at": "2025-03-21 04:00:40",
       "album": {
@@ -25,6 +45,38 @@
       "url": "https://open.spotify.com/track/0Ygo8zBNVoi6KQm6ZjvAmZ"
     },
     {
+      "added_at": "2025-03-28 04:00:37",
+      "album": {
+        "name": "Prophet",
+        "url": "https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 296186,
+      "name": "Prophet",
+      "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
+    },
+    {
+      "added_at": "2025-03-28 14:31:11",
+      "album": {
+        "name": "Belonging",
+        "url": "https://open.spotify.com/album/2n3zYjQ5meK3Ah1lSndWcI"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        }
+      ],
+      "duration_ms": 535733,
+      "name": "\u2018Long As You Know You\u2019re Living Yours",
+      "url": "https://open.spotify.com/track/53BIMABrBFMit1BUprSHnB"
+    },
+    {
       "added_at": "2025-03-21 04:00:40",
       "album": {
         "name": "Top Hat",
@@ -39,6 +91,22 @@
       "duration_ms": 310280,
       "name": "Top Hat",
       "url": "https://open.spotify.com/track/0M2L9I6Twe9CzjzHMafMBN"
+    },
+    {
+      "added_at": "2025-03-28 04:00:37",
+      "album": {
+        "name": "Rammana",
+        "url": "https://open.spotify.com/album/2zpOQ2JWW96jrS0JTNRqUO"
+      },
+      "artists": [
+        {
+          "name": "Salin",
+          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
+        }
+      ],
+      "duration_ms": 221025,
+      "name": "Rammana",
+      "url": "https://open.spotify.com/track/4qyZAtyjXhpfqceJLijrPG"
     },
     {
       "added_at": "2025-03-14 04:00:22",
@@ -73,6 +141,34 @@
       "url": "https://open.spotify.com/track/2GtwQLDcWJPJKLEAMLhFPY"
     },
     {
+      "added_at": "2025-03-28 04:00:37",
+      "album": {
+        "name": "Intermezzo, Op. 118, No. 2",
+        "url": "https://open.spotify.com/album/5ewHfpzyifXJPKdEXPsCVM"
+      },
+      "artists": [
+        {
+          "name": "Jean-Paul Brodbeck",
+          "url": "https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02"
+        },
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Lukas Traxel",
+          "url": "https://open.spotify.com/artist/0FOqf6DjkWNBn62GJDd3So"
+        },
+        {
+          "name": "Jorge Rossy",
+          "url": "https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE"
+        }
+      ],
+      "duration_ms": 490250,
+      "name": "Intermezzo, Op. 118, No. 2",
+      "url": "https://open.spotify.com/track/3oYWtEsmjK237sf7pjpkfj"
+    },
+    {
       "added_at": "2025-03-14 04:00:22",
       "album": {
         "name": "Anthem",
@@ -95,6 +191,98 @@
       "duration_ms": 363619,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
+    },
+    {
+      "added_at": "2025-03-14 04:00:22",
+      "album": {
+        "name": "bamboo",
+        "url": "https://open.spotify.com/album/6re6esdR18VkESmd46n7yr"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        }
+      ],
+      "duration_ms": 297759,
+      "name": "bamboo - Radio Edit",
+      "url": "https://open.spotify.com/track/4nRRgkj2Mz06rKszlAKVwc"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "Albion Files",
+        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 253231,
+      "name": "Not Sharing",
+      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "ARBORESQUE",
+        "url": "https://open.spotify.com/album/00LZu5if6qbDOrC1SBKx1s"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 331047,
+      "name": "Olive Branch",
+      "url": "https://open.spotify.com/track/0Tu3PCVFQ2xl0ojwPoGUEQ"
+    },
+    {
+      "added_at": "2025-03-28 04:00:37",
+      "album": {
+        "name": "SPEED MUSIC \u30bd\u30af\u30c9\u30ce\u30aa\u30f3\u30ac\u30af vol. 10",
+        "url": "https://open.spotify.com/album/5Rnxdyla9PEBUyRuFxGnnw"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "M",
+      "url": "https://open.spotify.com/track/07ipCIHYWRstNrgksV7RIX"
+    },
+    {
+      "added_at": "2025-03-28 04:00:37",
+      "album": {
+        "name": "Be Brave",
+        "url": "https://open.spotify.com/album/5utV3tb2HnYDZzH38y1dLs"
+      },
+      "artists": [
+        {
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+        },
+        {
+          "name": "Larry Grenadier",
+          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "duration_ms": 354466,
+      "name": "Be Brave",
+      "url": "https://open.spotify.com/track/3ugn84J9wMAFPq3TY9Xg7u"
     },
     {
       "added_at": "2025-03-14 04:00:22",
@@ -143,22 +331,6 @@
       "duration_ms": 268972,
       "name": "Blues Symphony: V. Big City Breaks",
       "url": "https://open.spotify.com/track/0jLXzDk25xRg9EGe2ATfG1"
-    },
-    {
-      "added_at": "2025-03-14 04:00:22",
-      "album": {
-        "name": "bamboo",
-        "url": "https://open.spotify.com/album/6re6esdR18VkESmd46n7yr"
-      },
-      "artists": [
-        {
-          "name": "Ebi Soda",
-          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
-        }
-      ],
-      "duration_ms": 297759,
-      "name": "bamboo - Radio Edit",
-      "url": "https://open.spotify.com/track/4nRRgkj2Mz06rKszlAKVwc"
     },
     {
       "added_at": "2025-03-14 04:00:22",
@@ -223,42 +395,6 @@
       "duration_ms": 198028,
       "name": "Ghostly Shade Of Pale",
       "url": "https://open.spotify.com/track/6X9KZ50P2TpqY19z0OIpax"
-    },
-    {
-      "added_at": "2025-02-28 05:00:40",
-      "album": {
-        "name": "ARBORESQUE",
-        "url": "https://open.spotify.com/album/00LZu5if6qbDOrC1SBKx1s"
-      },
-      "artists": [
-        {
-          "name": "ARTEMIS",
-          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
-        }
-      ],
-      "duration_ms": 331047,
-      "name": "Olive Branch",
-      "url": "https://open.spotify.com/track/0Tu3PCVFQ2xl0ojwPoGUEQ"
-    },
-    {
-      "added_at": "2025-02-28 05:00:40",
-      "album": {
-        "name": "Albion Files",
-        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 253231,
-      "name": "Not Sharing",
-      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -641,22 +777,6 @@
       "url": "https://open.spotify.com/track/7lNuHvEdAyQshC0BEhJURB"
     },
     {
-      "added_at": "2025-01-17 05:00:30",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/2S8dRCPQLDWoRyfslTLivw"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 256911,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t"
-    },
-    {
       "added_at": "2025-01-31 05:00:25",
       "album": {
         "name": "Ebo Taylor JID022",
@@ -679,22 +799,6 @@
       "duration_ms": 212402,
       "name": "Kusi Na Sibo",
       "url": "https://open.spotify.com/track/6KsK0EjzwjtMtW1lNfMiF9"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Spiral Dance",
-        "url": "https://open.spotify.com/album/0yFosFUkxYS2vcrBCiUqfY"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        }
-      ],
-      "duration_ms": 501000,
-      "name": "Spiral Dance",
-      "url": "https://open.spotify.com/track/01AeqMsiIYee4QOm4Nzdyz"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -763,22 +867,6 @@
       "duration_ms": 77205,
       "name": "Echo Sax End",
       "url": "https://open.spotify.com/track/0wd3OKU2d2KW7QxAjCpkye"
-    },
-    {
-      "added_at": "2025-02-07 05:00:30",
-      "album": {
-        "name": "Buono Time",
-        "url": "https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Buono Time",
-      "url": "https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1049,30 +1137,6 @@
       "url": "https://open.spotify.com/track/6yhMYNsINMwSTTlAluAcyu"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Night Reign",
-        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 374783,
-      "name": "Bolo Na (feat. Moor Mother, Joel Ross)",
-      "url": "https://open.spotify.com/track/4FQAxshBZidR2if07k021H"
-    },
-    {
       "added_at": "2024-09-06 15:22:42",
       "album": {
         "name": "Endlessness",
@@ -1171,22 +1235,6 @@
       "duration_ms": 159200,
       "name": "wanted",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Motionation",
-        "url": "https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Wonder Boy",
-      "url": "https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -1459,26 +1507,6 @@
       "duration_ms": 369253,
       "name": "Misanthrope's Hymn",
       "url": "https://open.spotify.com/track/53CgYJu6NYV0lBP9AbezO4"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/36cT6S2JKQLQWYRMXAe0SS"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        }
-      ],
-      "duration_ms": 388160,
-      "name": "The Otter Creek Incident",
-      "url": "https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1803,22 +1831,6 @@
       "duration_ms": 266500,
       "name": "5th Symphony In Congo Square",
       "url": "https://open.spotify.com/track/77SYnhEsNZuWMZgt07Tarn"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "uNomkhubulwane",
-        "url": "https://open.spotify.com/album/282PG9yezvXZUVMimjWkXw"
-      },
-      "artists": [
-        {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
-        }
-      ],
-      "duration_ms": 387077,
-      "name": "Libations: KwaKhangelamankengana",
-      "url": "https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1"
     },
     {
       "added_at": "2024-07-19 04:00:00",

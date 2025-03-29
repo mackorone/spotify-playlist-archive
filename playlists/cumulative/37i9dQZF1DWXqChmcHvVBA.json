@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "Abanico y Antifaz",
+        "url": "https://open.spotify.com/album/7BxyhUuhoiox6Mj6JA4ADf"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Remix",
+          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Abanico y Antifaz",
+      "url": "https://open.spotify.com/track/2U4Qy5EMzFAw0OjC9Ksnnv"
+    },
+    {
+      "album": {
         "name": "Activo 24.7",
         "url": "https://open.spotify.com/album/6SzlxpNxq63mXdSWtLLk1T"
       },

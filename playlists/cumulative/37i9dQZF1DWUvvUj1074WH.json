@@ -3953,6 +3953,28 @@
     },
     {
       "album": {
+        "name": "Leyenda Viva",
+        "url": "https://open.spotify.com/album/6nAiD0UFkHJr2wWCm1k7bL"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137026,
+      "name": "Leyenda Viva",
+      "url": "https://open.spotify.com/track/17IdNMZFAY4pAW0zRNgdIQ"
+    },
+    {
+      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },

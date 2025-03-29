@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Vertile
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,371 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,696 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 4 | [Remedy](https://open.spotify.com/track/2Y3ZCiAj9Td3H8dYvycaVk) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [Remedy](https://open.spotify.com/album/21S7K51Dn769uIaDyKEB1y) | 3:06 |
 | 5 | [FEEL THAT SOUND](https://open.spotify.com/track/73Yqlqt6cSLsDdzOr47Ext) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [FEEL THAT SOUND](https://open.spotify.com/album/6D9fZrKd5lExclQIVEzPvX) | 2:17 |
 | 6 | [Like A Bitch](https://open.spotify.com/track/38g2OfneomEog25tsXHDHX) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Like A Bitch](https://open.spotify.com/album/4GTbz3WgJvTzry8k4RvIlu) | 2:41 |
-| 7 | [Top Of The World](https://open.spotify.com/track/1Bqj5mEyA7Cse0eoku4LQt) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Top Of The World](https://open.spotify.com/album/1Y4S6AOBZG2jEE2u09cnTa) | 2:50 |
+| 7 | [Top Of The World](https://open.spotify.com/track/1Bqj5mEyA7Cse0eoku4LQt) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Kye Sones](https://open.spotify.com/artist/5nF0tVCTlrhdEqM09GyOZn) | [Top Of The World \(feat\. Kye Sones\)](https://open.spotify.com/album/1Y4S6AOBZG2jEE2u09cnTa) | 2:50 |
 | 8 | [The Best Thing](https://open.spotify.com/track/20dPME3PHCqWne5q4NK49b) | [VENNIC](https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS) | [The Best Thing](https://open.spotify.com/album/1oMoLNTFKsSYLkP9q4x5fl) | 2:46 |
 | 9 | [Cannonball](https://open.spotify.com/track/2IkP4TEDlJ3hGdT2vutCMl) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Cannonball](https://open.spotify.com/album/7gKSJPfiLYhWfXJ4bwccR6) | 2:15 |
 | 10 | [Reach For The Skies](https://open.spotify.com/track/2z0elDbkUu66qVhHjoinIf) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Reach For The Skies](https://open.spotify.com/album/5w5leGYR0mUkjYye0yh1FQ) | 2:35 |

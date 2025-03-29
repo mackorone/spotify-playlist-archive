@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,267 likes - 180 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,355 likes - 180 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 179 | [Chaconne in sol maggiore : Variazione 9](https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL) | [Lazar Berman](https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ) | [Inedito \(Unpublished\)](https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582) | 1:03 |
 | 180 | [Noel Symphony No\. 4 in D Minor: I\. Une jeune pucelle: Moderato](https://open.spotify.com/track/6JkDThoofgbKj59ykGwRph) | [Michel Corrette](https://open.spotify.com/artist/6YqejfdahJrTfoRRKLsX4F), [Arion Trio](https://open.spotify.com/artist/5efT7ju4pfxstXoocgEwuv) | [Corrette, M.: Symphonies des noels / Concertos comiques](https://open.spotify.com/album/4WUbpK20883ttlEJDW1C3f) | 1:42 |
 
-Snapshot ID: `Z45cdAAAAABnl6eK0nGplj7CtHWcmXrx`
+Snapshot ID: `Z+bSFwAAAABchCU31SJ4XhuWKdqv/FqI`

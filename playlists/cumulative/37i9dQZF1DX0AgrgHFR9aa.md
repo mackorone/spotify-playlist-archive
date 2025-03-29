@@ -4,7 +4,7 @@
 
 > Les plus belles plumes rap français du moment\. Photo : Jazzy Bazz
 
-163 songs - 8 hr 57 min
+164 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Les anges pleurent plus qu'avant](https://open.spotify.com/track/3K9SP7aqNAI6yRR7vk26Ty) | [Bonobo](https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH) | [Les anges pleurent plus qu'avant](https://open.spotify.com/album/5eppPHGfeUsdDrjgiPqu79) | 2:56 | 2024-10-24 | 2024-12-13 |
 | [LES ENFANTS MENTENT](https://open.spotify.com/track/0floJuqvuAa8mj6yT9TYXg) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [LES ENFANTS MENTENT](https://open.spotify.com/album/4Umt5vCol8K3X2WbMnv1QQ) | 4:24 | 2024-10-24 | 2025-03-28 |
 | [Les vivants qui s'enterrent](https://open.spotify.com/track/2v7ObR4MZtMiWjvGtFt8R8) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [PS: J'écris l'album](https://open.spotify.com/album/0obgTAkC3EABdA9KoJnZD1) | 4:19 | 2024-06-27 | 2024-09-27 |
+| [Lever de lune \- Remix](https://open.spotify.com/track/1s0ts7qM8nvW0eaVYsvRYv) | [Chomyx](https://open.spotify.com/artist/4hsgAUFnbgAW1DJXn1Jfoj), [Melan](https://open.spotify.com/artist/5TwGksCe3pSfpBcV96k6sS), [Timuxx](https://open.spotify.com/artist/6jCGYeZ2JjcAqdl06vYtuA), [Nobyblaz](https://open.spotify.com/artist/2EsK4uSMCiJ4gF57JYufmf), [Itam](https://open.spotify.com/artist/31x7VBQrYhkCYlIrnz8AoE) | [Lever de lune \(Remix\)](https://open.spotify.com/album/5ViLwmyRJ6Cz1AKX1RjG0m) | 3:49 | 2025-03-27 |  |
 | [Libre\-penseur](https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Libre\-penseur](https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ) | 2:32 | 2025-01-16 |  |
 | [LOYAL](https://open.spotify.com/track/5l9LW7OIwaNsptOOc1KbeR) | [Pit Baccardi](https://open.spotify.com/artist/5Gf71JW8QjF77ELQ94JX38) | [LOYAL](https://open.spotify.com/album/7ljqJZLeyUk15vdzkIK8Bh) | 2:50 | 2024-12-19 | 2025-01-10 |
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 | 2024-12-20 |

@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-272 songs - 17 hr 6 min
+276 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [I Am Awake](https://open.spotify.com/track/7ayNEj5TaxOSkdZUV2Nj7W) | [The Invisible People](https://open.spotify.com/artist/6nJrWpWiBalba5QgdG1aFr), [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Am Awake](https://open.spotify.com/album/1stXco6VZ0Qv4oE8STSD7y) | 2:20 | 2025-03-13 |  |
 | [I Am the Universe Exploding](https://open.spotify.com/track/0yvXhTAvRjijsphTcbQaS8) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Shadow Society](https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY) | [I Am The Universe Exploding](https://open.spotify.com/album/6uIcJaRQGTxGLUWWAyy4dJ) | 3:58 | 2024-10-11 | 2025-02-15 |
 | [I Am Tiger](https://open.spotify.com/track/5BBbXALudSXzfwRy4aEChM) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Am Tiger](https://open.spotify.com/album/0Wlb29T2xQGR0pgFVrQHKd) | 3:15 | 2023-02-23 | 2024-10-12 |
+| [I Can See In The Dark \- original](https://open.spotify.com/track/52Tc5Pe7lnAXpBQKcyxIMV) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Can See In The Dark](https://open.spotify.com/album/0NtCHnCpFcae3ufJCnTkfe) | 2:34 | 2025-03-28 |  |
 | [I'm A Warrior](https://open.spotify.com/track/7hxQid9ZYmkZbqmyJtTtJ0) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I'm A Warrior](https://open.spotify.com/album/1MJUwXbIMpEsxVVLNlaaqC) | 2:53 | 2023-01-17 | 2023-05-28 |
 | [ICED UP](https://open.spotify.com/track/61Fuznt6XlY2OVkLyrKifc) | [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk) | [ICED UP](https://open.spotify.com/album/0KGih79K9zoRsjIGbDhHAK) | 4:48 | 2022-01-22 | 2022-02-28 |
 | [ILL](https://open.spotify.com/track/1K3u242m5zHFNLRp7Th6hd) | [Bemah](https://open.spotify.com/artist/5wYDagjHjJRgNlu5W6D4hK), [AfterShock Fam](https://open.spotify.com/artist/73knz0sBKwC2qCk5pEpe2g) | [The Family Reunion](https://open.spotify.com/album/1vf2u5g26jNlCt1krJgbM1) | 2:37 | 2022-01-07 | 2022-02-08 |
@@ -142,6 +143,7 @@
 | [Jupiter](https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD), [JLEON](https://open.spotify.com/artist/2p2IYURbU7AcYh4R0l44E6) | [Jupiter](https://open.spotify.com/album/0NAa97MkEXhRuHBaZQO6AN) | 4:41 | 2023-05-31 | 2024-01-14 |
 | [Karthaus](https://open.spotify.com/track/4ULsnDkqQlVugbOLHUYy0O) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Karthaus](https://open.spotify.com/album/53dUyF69IMlnx2Vhrgl9PZ) | 6:05 | 2022-01-22 | 2022-04-16 |
 | [Keep It Low \(INZO Remix\)](https://open.spotify.com/track/5q0qSXk9GZHsyrovYMogO8) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Leisure Season Vol\. 1 Remixed](https://open.spotify.com/album/6O0GS8bjHDCx7ZavQ2fqrH) | 2:37 | 2022-02-25 | 2022-08-23 |
+| [Keep Shining Bright](https://open.spotify.com/track/3vkwbJxqs97lImEFcm7g69) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Can See In The Dark](https://open.spotify.com/album/0NtCHnCpFcae3ufJCnTkfe) | 3:42 | 2025-03-28 |  |
 | [Kindness Mistaken For Weakness](https://open.spotify.com/track/5de6yMWZWQo6jk3G1ZvsYv) | [Ape Suit](https://open.spotify.com/artist/6kiXpyEqFD9Ozhq0zRihH9) | [Maybe This is It](https://open.spotify.com/album/6pWW9h61nbbreHBnKv5aWs) | 3:48 | 2021-09-17 | 2022-02-28 |
 | [Kindred Spirits](https://open.spotify.com/track/4eZhS8oWElqOcF9acq3iJG) | [LitaLotus](https://open.spotify.com/artist/096jdva2vCbGgulvRdQrA8), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Essence](https://open.spotify.com/album/6uyvvUKCvBz2KFaKPGaebK) | 4:06 | 2022-10-14 | 2023-05-27 |
 | [Labyrinth](https://open.spotify.com/track/7ekiqZJtrPeBxDUhiGxZSg) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Labyrinth](https://open.spotify.com/album/7uCUp9VLCSvqa9gWf07nLa) | 3:18 | 2023-02-15 | 2023-05-27 |
@@ -244,6 +246,7 @@
 | [The Covenant](https://open.spotify.com/track/25kdk6NgrmOPuPJsnqpiKh) | [Among The Mist](https://open.spotify.com/artist/2FBfN2vzv6bXlLSP5UTJBq) | [The Covenant](https://open.spotify.com/album/4s1dulywBvqEnxwZhVvMun) | 2:51 | 2022-01-22 | 2022-04-16 |
 | [The Eightfold Path](https://open.spotify.com/track/44RsnczsfE0fMty7UATC3z) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3), [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [IKIGAI](https://open.spotify.com/album/0X6ob5EVI8yI9tBMKE5byR) | 5:07 | 2023-02-20 | 2023-05-27 |
 | [The Jungle](https://open.spotify.com/track/5MxkPvXIWfywZZ5USYa9js) | [Josh Teed](https://open.spotify.com/artist/0m5NlhNMYQc0gUmvmRmVUS) | [The Jungle](https://open.spotify.com/album/2pur66tVtmzJrXIrTkhSn0) | 3:35 | 2022-04-15 | 2022-09-17 |
+| [The Key](https://open.spotify.com/track/2mK6rlpVKSkecJZW8ovbKV) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Can See In The Dark](https://open.spotify.com/album/0NtCHnCpFcae3ufJCnTkfe) | 3:42 | 2025-03-28 |  |
 | [The Last Judgement](https://open.spotify.com/track/0fs2L8OS0Jgc2Qy7aZsbIK) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [MC GQ](https://open.spotify.com/artist/28aPVWC88rDADOQBZNEgIs) | [The Dance Of Death](https://open.spotify.com/album/1w7u33Vp72rY6hnOspQ5cs) | 2:51 | 2021-10-23 | 2022-02-28 |
 | [The Last Lotus](https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [The Last Lotus EP](https://open.spotify.com/album/01LyeW8mTLceCdqcQTeBRx) | 4:39 | 2023-06-03 | 2024-04-13 |
 | [The Owl Song](https://open.spotify.com/track/7CdcnX9m1wI8sIlQGLd0Un) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [The Owl Song](https://open.spotify.com/album/38EVhFxJ7NEkFHFzUxXQNo) | 3:12 | 2022-04-25 | 2022-08-23 |
@@ -273,6 +276,7 @@
 | [What You Do](https://open.spotify.com/track/1OXC2vUcGb0BzbypNnTKNJ) | [tsou](https://open.spotify.com/artist/5JsuFqXsiaCaU3csaUjd3i) | [What You Do](https://open.spotify.com/album/26sdHImt8DmDMrpiLWZzC4) | 3:27 | 2023-06-19 | 2023-08-06 |
 | [Where I'm Going](https://open.spotify.com/track/1Xj0wD1Qhcsycc1W4Y5ifL) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3) | [Where I'm Going](https://open.spotify.com/album/15sAmxLmFlIHCYl50sPQ6W) | 3:53 | 2023-07-07 | 2023-12-14 |
 | [Whiplash](https://open.spotify.com/track/15iMqjEdEXXZkQP67eDaG9) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc) | [Whiplash](https://open.spotify.com/album/0b784gQ8Ytq8zAX1MLwG22) | 2:51 | 2022-10-14 | 2022-10-17 |
+| [Whole Place Shake](https://open.spotify.com/track/544wVdfU9ChNZnnoDX53Lj) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Can See In The Dark](https://open.spotify.com/album/0NtCHnCpFcae3ufJCnTkfe) | 2:46 | 2025-03-28 |  |
 | [Windhorse](https://open.spotify.com/track/60ERpJRWMWexY91Jw67wqP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [The Tale of Elegos](https://open.spotify.com/album/6KAma26Kpo2Ro79hLzGIuU) | 3:54 | 2021-10-28 | 2022-02-28 |
 | [Windhorse](https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [Windhorse](https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu) | 3:54 | 2021-10-07 | 2022-02-28 |
 | [Withered](https://open.spotify.com/track/7867Kggy532B4wD6OQAoMu) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Withered](https://open.spotify.com/album/0lIYFvhXYNhg66VNd23BDi) | 3:25 | 2022-04-15 | 2022-08-23 |

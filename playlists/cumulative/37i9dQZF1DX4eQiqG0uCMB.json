@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "Afro G Western",
+        "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Afro G Western",
+      "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
+    },
+    {
+      "album": {
         "name": "Afro High Riddim",
         "url": "https://open.spotify.com/album/5B28lH0mxsys7RXNbemPJq"
       },
@@ -2430,7 +2456,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 137480,
       "name": "Home",
       "url": "https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0"
@@ -2482,6 +2508,24 @@
       "duration_ms": 182352,
       "name": "Hopeless Romantic",
       "url": "https://open.spotify.com/track/3Sr9lSJjCqBvxdYO40iSp6"
+    },
+    {
+      "album": {
+        "name": "i get it now (freestyle)",
+        "url": "https://open.spotify.com/album/5Y42gnsG8R13NuxWi3FcRL"
+      },
+      "artists": [
+        {
+          "name": "Kenduu",
+          "url": "https://open.spotify.com/artist/0Qp5PO8qwfBiMBOVnPVRtO"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "i get it now (freestyle)",
+      "url": "https://open.spotify.com/track/7CaTLkvYnOVQ2pTEogCAIn"
     },
     {
       "album": {
@@ -4330,7 +4374,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"

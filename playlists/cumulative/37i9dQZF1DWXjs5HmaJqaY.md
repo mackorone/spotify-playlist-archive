@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-296 songs - 1 day 4 hr 34 min
+298 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Fragments of the Past](https://open.spotify.com/track/74l897fi7PkxVGzuaQCrud) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [Drea Perlon](https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 5:25 | 2023-03-03 | 2023-05-20 |
 | [Freedom \- Breitenstein Remix](https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Freedom Remixes](https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv) | 7:02 | 2022-09-16 | 2024-05-25 |
 | [Freestyle](https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Freestyle](https://open.spotify.com/album/1iNcmx49l7GEhzXcjOvlJN) | 4:00 | 2023-01-27 | 2023-05-06 |
+| [Frogger](https://open.spotify.com/track/1frUlyRkWB0is4gzaTwSNy) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [Frogger](https://open.spotify.com/album/1d9vf5tGhRiCmyWy26NFsc) | 6:31 | 2025-03-28 |  |
 | [Fuego](https://open.spotify.com/track/2YZlnBODxHo8uiPH42uE7e) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Fuego](https://open.spotify.com/album/7tTfDbRwD1srHKtPWgjjwR) | 7:54 | 2023-05-26 | 2023-09-02 |
 | [Full Down](https://open.spotify.com/track/0bveAKf49WsDplk7iIjNnJ) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8) | [Bruno](https://open.spotify.com/album/49qEVjH4D06eOqvQkGLdez) | 6:20 | 2023-05-05 | 2023-12-09 |
 | [Für die Seele feat\. Haexxa](https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC) | [IAM ALFRED HEINRICHS feat\. Haexxa](https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N) | 5:59 | 2022-11-11 | 2024-06-29 |
@@ -130,6 +131,7 @@
 | [In The Shadows](https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 03](https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE) | 8:07 | 2022-10-27 | 2022-12-03 |
 | [Inescapable \- Moritz Sachse Remix](https://open.spotify.com/track/2wb3Sf2Py8y4Ak05f8b7ka) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [Moonslip](https://open.spotify.com/artist/12z16EX06TdZpzkwOte7eg), [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [Telluric](https://open.spotify.com/album/76Nl2NpAkxHJrKUH2Jb7DJ) | 6:23 | 2022-09-16 | 2023-02-11 |
 | [Infinity \- Edit](https://open.spotify.com/track/1dJHTsfW70khXX06idBw8Q) | [Plasmatique](https://open.spotify.com/artist/0Y53znZSnUq6ytRtwWoTej) | [Infinity](https://open.spotify.com/album/242RRzCcPqBTRe7R34Xl6c) | 3:05 | 2024-06-28 |  |
+| [Is this real \- Edit](https://open.spotify.com/track/643RNPbhkeLS3likd8CxEF) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Is this real](https://open.spotify.com/album/2iBb9jH1DoWqiPqSaImHty) | 3:36 | 2025-03-28 |  |
 | [iStart](https://open.spotify.com/track/61x77gza6h1eDDCBCPe6W9) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Co\-Fu3.0](https://open.spotify.com/album/5c1OFamBd5J7yJol5eiJje) | 5:57 | 2022-09-16 | 2022-11-08 |
 | [It's Our Future \- Rico Puestel Re\-WeX Mix](https://open.spotify.com/track/7mYCPswhMcmhsEzQ7L4pii) | [AWeX](https://open.spotify.com/artist/4ER5Hmm4cR41UYuyJuPwDP), [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [It's Our Future \- The Rico Puestel Remixes](https://open.spotify.com/album/7MIZ7x31D9tsW8foA4dBlJ) | 6:39 | 2022-09-16 |  |
 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 | 2023-05-05 | 2024-01-27 |

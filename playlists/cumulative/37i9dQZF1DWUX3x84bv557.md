@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Danique & Ruben Annink
 
-898 songs - 1 day 19 hr 10 min
+899 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Ik Voel Me Goed](https://open.spotify.com/track/5XqMs1M9TPOxeQV4kl1kEF) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Ik Voel Me Goed](https://open.spotify.com/album/7rAcfvWvZUEPezw9b08nzh) | 3:03 | 2023-03-09 | 2023-07-01 |
 | [Ik Wacht Op Jou \(Je T'attends\)](https://open.spotify.com/track/6UoS8duz559g2V25wHv9VO) | [Suzet Lichel](https://open.spotify.com/artist/5RFg8in8qWOJ0MpTxeG1hW), [Langesjaak](https://open.spotify.com/artist/16GFcI0Sl34ETwdcVuM0Mj) | [Ik Wacht Op Jou \(Je T'attends\)](https://open.spotify.com/album/7zgdKK2FHqwiq1HmAT0KMb) | 3:18 | 2023-06-08 | 2023-09-15 |
 | [Ik Was Je Bijna Gaan Geloven](https://open.spotify.com/track/5Loh94Ra2Unv4p4BAGs2Jd) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Ik Was Je Bijna Gaan Geloven](https://open.spotify.com/album/6QbHqYpvirgx1Mrp6Iyu53) | 3:18 | 2024-07-11 | 2024-09-27 |
-| [Ik Weet Dat Je Het Kan](https://open.spotify.com/track/4taZd9Aws3hYKSwPXGhLMk) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Ik Weet Dat Je Het Kan](https://open.spotify.com/album/74fiqRSSjFBJDBAojdNArU) | 3:57 | 2025-01-10 |  |
+| [Ik Weet Dat Je Het Kan](https://open.spotify.com/track/4taZd9Aws3hYKSwPXGhLMk) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Ik Weet Dat Je Het Kan](https://open.spotify.com/album/74fiqRSSjFBJDBAojdNArU) | 3:57 | 2025-01-10 | 2025-03-29 |
 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 | 2024-05-23 | 2024-09-13 |
 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 | 2024-08-29 | 2024-11-08 |
 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 | 2025-03-20 |  |
@@ -471,6 +471,7 @@
 | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5) | 2:26 | 2023-06-08 | 2023-09-08 |
 | [Laat Het Effe](https://open.spotify.com/track/2TpYFSFsDLK0Sd0QwoV7zV) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Laat Het Effe](https://open.spotify.com/album/6YW7e4vC5ytXUDG2IDoWUt) | 3:23 | 2023-02-23 | 2023-04-28 |
 | [Laat los](https://open.spotify.com/track/6VHD653hMV6l5so33kX5fK) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Laat los](https://open.spotify.com/album/2DjNQN2Ayif4KV68JkMl7D) | 3:16 | 2024-11-28 | 2025-03-14 |
+| [Laat Me \- Live](https://open.spotify.com/track/0Li2DcD86qAHxpY4BLQzLV) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Laat Me \(Live\)](https://open.spotify.com/album/4pzEUoFwxJz9PLxdJOE1Tu) | 2:36 | 2025-03-28 |  |
 | [Laat Me Dansen](https://open.spotify.com/track/5hhsnHxxfhYLh21gOm8bDc) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Laat Me Dansen](https://open.spotify.com/album/5Psg8RGP7f8EsKBdTd9N4S) | 2:40 | 2023-06-08 | 2023-07-08 |
 | [Laat Me Er Langs](https://open.spotify.com/track/7D1GOvf7k8CjMf2wmv4Vj1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Laat Me Er Langs](https://open.spotify.com/album/1TJzuh1z9bnUhlhshQFR8H) | 2:31 | 2025-02-20 |  |
 | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 | 2024-03-07 | 2024-06-07 |

@@ -4,7 +4,7 @@
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-169 songs - 10 hr 46 min
+170 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Volver](https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 3:28 | 2023-09-08 | 2024-04-19 |
 | [Volver A Empezar](https://open.spotify.com/track/2x4iEvdZuTYNbIVGXeOrlY) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bellas Artes Malas Vidas](https://open.spotify.com/album/6nQnNie5sdURxPiMW9cp0Y) | 3:56 | 2023-10-26 | 2024-10-19 |
 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 | 2023-09-08 | 2024-10-19 |
+| [Ya Fue](https://open.spotify.com/track/3Qi6fDgv7F6guLxvbsYqJe) | [Rayder](https://open.spotify.com/artist/33PpkcHB2eCvphzqqqDAmC) | [New Jeans Type Shi](https://open.spotify.com/album/1rjJLdm40ENfPEIbTVGTda) | 2:14 | 2025-03-28 |  |
 | [Ya fue](https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Ya fue](https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf) | 3:06 | 2023-09-08 | 2024-10-19 |
 | [Yegua](https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:43 | 2023-09-08 |  |
 | [Zentaura](https://open.spotify.com/track/5n8wmlh90HNlV0VnAhxw0Z) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Zentaura](https://open.spotify.com/album/5QkPxWYBgDfEnkNzL9zy1m) | 3:06 | 2023-09-08 |  |

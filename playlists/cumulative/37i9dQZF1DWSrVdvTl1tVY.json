@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 203636,
       "name": "Bump Artist",
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
@@ -9080,6 +9080,28 @@
       "duration_ms": 186562,
       "name": "Incanto",
       "url": "https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp"
+    },
+    {
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0gmT93vqCCwuy52LFegtuv"
+      },
+      "artists": [
+        {
+          "name": "Infinity Ink",
+          "url": "https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210628,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/5o78my9FVboiJZ6shgQN8h"
     },
     {
       "album": {

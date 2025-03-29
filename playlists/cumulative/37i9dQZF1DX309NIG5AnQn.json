@@ -2581,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Los Capitanes",
+        "url": "https://open.spotify.com/album/2W73rRbpaz3T5Nddun5MVr"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Los Capitanes",
+      "url": "https://open.spotify.com/track/1f0tv1b07Kq83uC3u4RdP5"
+    },
+    {
+      "album": {
         "name": "Ahora / Despu\u00e9s",
         "url": "https://open.spotify.com/album/611UzKp2VkiUPFK5xbobyT"
       },

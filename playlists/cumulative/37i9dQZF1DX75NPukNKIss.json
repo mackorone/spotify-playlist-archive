@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "RENT'S DUE",
+        "url": "https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/1JTikyvsDYKvUFndgJASFW"
+    },
+    {
+      "album": {
         "name": "EST or PST",
         "url": "https://open.spotify.com/album/7faGHQHOhuK5nhJVR6CavI"
       },
@@ -1784,6 +1802,58 @@
       "duration_ms": 113736,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B"
+    },
+    {
+      "album": {
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/1AyhqvL8aCOP8sTpwfk4jC"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124022,
+      "name": "Sundress (with Bay Swag)",
+      "url": "https://open.spotify.com/track/1qMNISVgQ05XfjFLj7wRCb"
+    },
+    {
+      "album": {
+        "name": "Superstar Status",
+        "url": "https://open.spotify.com/album/3KNL12GpIKkM0Jt3zM6DDZ"
+      },
+      "artists": [
+        {
+          "name": "LouGotCash",
+          "url": "https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176777,
+      "name": "Superstar Status",
+      "url": "https://open.spotify.com/track/3ZhzMJnMGNkUT6qc9XpvkN"
     },
     {
       "album": {

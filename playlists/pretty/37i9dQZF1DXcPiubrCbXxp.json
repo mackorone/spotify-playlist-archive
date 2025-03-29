@@ -1,13 +1,29 @@
 {
-  "description": "that 50s kinda feeling, cover: Laufey",
-  "num_followers": 69919,
+  "description": "that 50s kinda feeling, cover: Elliot James Reay",
+  "num_followers": 69917,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkaQAAAACjMEjDnkp1cgF48LWX06EW",
+  "snapshot_id": "Z+Ye4AAAAAAxlJi+oMLAPhZEB39+6y3g",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
+    },
     {
       "added_at": "2025-03-21 04:00:41",
       "album": {
@@ -27,22 +43,66 @@
     {
       "added_at": "2025-03-03 16:46:59",
       "album": {
-        "name": "Live Lonely",
-        "url": "https://open.spotify.com/album/7mjgqdVdEguWegW0t0w1Jm"
+        "name": "LASSO THE MOON",
+        "url": "https://open.spotify.com/album/2cNpkhvN6jixc7uEGj6kmp"
       },
       "artists": [
         {
-          "name": "Mason Ramsey",
-          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
-        },
-        {
-          "name": "Harper Grace",
-          "url": "https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5"
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
         }
       ],
-      "duration_ms": 199800,
-      "name": "Live Lonely",
-      "url": "https://open.spotify.com/track/0OvlFKZZo2kwGXm8p6CKu4"
+      "duration_ms": 173416,
+      "name": "LASSO THE MOON",
+      "url": "https://open.spotify.com/track/4KZPQEj1xCByZoDD6ulCmO"
+    },
+    {
+      "added_at": "2025-03-03 16:46:59",
+      "album": {
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
+        "name": "Dinner For One",
+        "url": "https://open.spotify.com/album/5tqVQa9C5q5cLWK1FEAfDe"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 195119,
+      "name": "Dinner For One",
+      "url": "https://open.spotify.com/track/0gQs0l9EESFn2Y3lj7gFer"
+    },
+    {
+      "added_at": "2025-03-03 16:46:59",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 187130,
+      "name": "Picture You",
+      "url": "https://open.spotify.com/track/2Pspo5BWPcTnMHMstLFRHV"
     },
     {
       "added_at": "2025-03-03 16:46:59",
@@ -63,34 +123,22 @@
     {
       "added_at": "2025-03-03 16:46:59",
       "album": {
-        "name": "Bewitched: The Goddess Edition",
-        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+        "name": "Live Lonely",
+        "url": "https://open.spotify.com/album/7mjgqdVdEguWegW0t0w1Jm"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "LASSO THE MOON",
-        "url": "https://open.spotify.com/album/2cNpkhvN6jixc7uEGj6kmp"
-      },
-      "artists": [
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        },
         {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+          "name": "Harper Grace",
+          "url": "https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5"
         }
       ],
-      "duration_ms": 173416,
-      "name": "LASSO THE MOON",
-      "url": "https://open.spotify.com/track/4KZPQEj1xCByZoDD6ulCmO"
+      "duration_ms": 199800,
+      "name": "Live Lonely",
+      "url": "https://open.spotify.com/track/0OvlFKZZo2kwGXm8p6CKu4"
     },
     {
       "added_at": "2025-03-03 16:46:59",
@@ -139,22 +187,6 @@
       "duration_ms": 176363,
       "name": "Hollywood Fame",
       "url": "https://open.spotify.com/track/2ABFFPMxvXgFdVty8ubLup"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 187130,
-      "name": "Picture You",
-      "url": "https://open.spotify.com/track/2Pspo5BWPcTnMHMstLFRHV"
     },
     {
       "added_at": "2025-03-03 16:46:59",
@@ -455,22 +487,6 @@
     {
       "added_at": "2025-03-03 16:46:59",
       "album": {
-        "name": "Lost in a Dream",
-        "url": "https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Lewis",
-          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
-        }
-      ],
-      "duration_ms": 217805,
-      "name": "Lost in a Dream",
-      "url": "https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
         "name": "60\u2019s Baby.",
         "url": "https://open.spotify.com/album/513yH6wNINqUE0fZ3UY0DM"
       },
@@ -567,26 +583,6 @@
     {
       "added_at": "2025-03-03 16:46:59",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 239308,
-      "name": "No One Knows (with Laufey)",
-      "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
       },
@@ -631,22 +627,6 @@
       "duration_ms": 187709,
       "name": "When She Loved Me",
       "url": "https://open.spotify.com/track/3198LMj0bpnXj8Mb1GLo3u"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 149485,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
     },
     {
       "added_at": "2025-03-03 16:46:59",

@@ -2,7 +2,7 @@
 
 ### [Chilled Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DX1IeqVkK7Ebc)
 
-> Taking it down a notch and keeping the vibes on ice...
+> Vibes on ice
 
 183 songs - 9 hr 51 min
 

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Melly",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Bruno Gadiol",
   "name": "Palco POP",
   "tracks": [
+    {
+      "album": {
+        "name": "\"bb, que tal?\"",
+        "url": "https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "\"bb, que tal?\"",
+      "url": "https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj"
+    },
     {
       "album": {
         "name": "$UGAR DADDY",
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 223855,
       "name": "bunda \ud83c\udf51",
       "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
@@ -5932,7 +5950,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 244827,
       "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
       "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
@@ -9858,7 +9876,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
@@ -10470,7 +10488,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 156090,
       "name": "Me Pede",
       "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
@@ -10816,7 +10834,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 130321,
       "name": "MEU CORA\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z"
@@ -10838,6 +10856,28 @@
       "duration_ms": 175449,
       "name": "Meu endere\u00e7o",
       "url": "https://open.spotify.com/track/57EKqPldxlr1H7DGw7xdAy"
+    },
+    {
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "album": {
@@ -11020,6 +11060,32 @@
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
     },
     {
       "album": {
@@ -13455,6 +13521,24 @@
     },
     {
       "album": {
+        "name": "Perfume da B\u00f4ta",
+        "url": "https://open.spotify.com/album/6l4Gq07lqv4lKeNJWdutb0"
+      },
+      "artists": [
+        {
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158842,
+      "name": "Perfume da B\u00f4ta",
+      "url": "https://open.spotify.com/track/6tmrvVNxAL01q00cOVERPI"
+    },
+    {
+      "album": {
         "name": "facetime",
         "url": "https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN"
       },
@@ -14638,6 +14722,24 @@
       "duration_ms": 145333,
       "name": "Procurando Amor",
       "url": "https://open.spotify.com/track/3pjy8hxCpTOIzJYU0CgNHm"
+    },
+    {
+      "album": {
+        "name": "PROFANO",
+        "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Nandes",
+          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171581,
+      "name": "PROFANO",
+      "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
     },
     {
       "album": {
@@ -16443,6 +16545,24 @@
     },
     {
       "album": {
+        "name": "Segredo Clich\u00ea",
+        "url": "https://open.spotify.com/album/5dXJJ5ifdCB4mm0csO3qE5"
+      },
+      "artists": [
+        {
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202841,
+      "name": "Segredo Clich\u00ea",
+      "url": "https://open.spotify.com/track/6AR3sVRA9MNO07vZoNJur4"
+    },
+    {
+      "album": {
         "name": "Segredos da Vida",
         "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
       },
@@ -17070,7 +17190,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 162393,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/4pXEUOMdsICjRobdpXsZgV"
@@ -17674,7 +17794,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 137738,
       "name": "S\u00f3zin",
       "url": "https://open.spotify.com/track/0QRnYbGiAwdpe9jfA6YF6o"
@@ -17696,6 +17816,24 @@
       "duration_ms": 169687,
       "name": "s\u00faplica",
       "url": "https://open.spotify.com/track/4omVsjOJY7aCHcBV9l6UkC"
+    },
+    {
+      "album": {
+        "name": "T \u00d3 X I C O",
+        "url": "https://open.spotify.com/album/5ZDRU1H00G4Qjqzl05p1cg"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132351,
+      "name": "T \u00d3 X I C O",
+      "url": "https://open.spotify.com/track/7a0ik6D4mG9zqQqOGunsPA"
     },
     {
       "album": {

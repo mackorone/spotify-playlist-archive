@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! HILLS
 
-1,001 songs - 2 day 9 hr 18 min
+1,002 songs - 2 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Buccho Ni Ba Bhai \(Grindin'\)](https://open.spotify.com/track/6l4YeeXa8ptLDG1pFTialk) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Buccho Ni Ba Bhai \(Grindin’\)](https://open.spotify.com/album/1pymXwecUkhfq2alX9bCmS) | 2:36 | 2022-04-15 | 2022-05-06 |
 | [Bugging](https://open.spotify.com/track/0kg06i2G3b4NQIiXi8GEIA) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [FABER](https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0) | [Bugging](https://open.spotify.com/album/4EQ3ZgKNrfaJVq2D3uOM98) | 3:09 | 2022-03-25 | 2022-06-10 |
 | [Bullerengue](https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Bullerengue](https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3) | 3:15 | 2024-03-15 | 2024-09-06 |
-| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-12 |  |
+| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-12 | 2025-03-29 |
 | [Bumpin'](https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Bumpin'](https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo) | 2:50 | 2022-06-02 | 2022-09-02 |
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2022-03-08 | 2022-03-10 |
 | [Burning Fire](https://open.spotify.com/track/4tJ4UrKsJ48wTpprhf5VKj) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Sasha GiGi](https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5) | [Burning Fire](https://open.spotify.com/album/5o7LIDisE17C1sKYNl8I6k) | 2:51 | 2025-03-07 |  |
@@ -453,6 +453,7 @@
 | [In Your Eyes](https://open.spotify.com/track/1JRt6tEhC4NXJ3DRHaMDR7) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [In Your Eyes](https://open.spotify.com/album/2SsQLccOslkR5aw3XqtKDy) | 3:29 | 2023-03-17 | 2023-04-07 |
 | [In Your Soul](https://open.spotify.com/track/1PLK0a89BzJ4KA0TyOlz9D) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil), [Divine](https://open.spotify.com/artist/11ycSvFZCC0BFloxOAaray) | [In Your Soul EP](https://open.spotify.com/album/5tiwOewaBF656PHfiFWiZB) | 2:47 | 2024-03-22 | 2024-10-19 |
 | [Incanto](https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Incanto](https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp) | 3:06 | 2024-05-31 | 2025-01-24 |
+| [Infinity](https://open.spotify.com/track/5o78my9FVboiJZ6shgQN8h) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Infinity](https://open.spotify.com/album/0gmT93vqCCwuy52LFegtuv) | 3:30 | 2025-03-28 |  |
 | [Inside The Rhythm \(feat\. Mizbee\)](https://open.spotify.com/track/0yZnMCqDkrPVry2nuan3Iz) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Mizbee](https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh) | [Inside The Rhythm \(feat\. Mizbee\)](https://open.spotify.com/album/6mwA5K6zhb8Zo9O4eFHfpm) | 3:22 | 2023-02-24 | 2023-05-19 |
 | [Insomniac](https://open.spotify.com/track/5Cu4Qj7SQq7Kid9YhWdpHH) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Insomniac](https://open.spotify.com/album/5mqceu3UcobNLY0nJVcMTC) | 3:09 | 2021-12-17 | 2022-01-21 |
 | [Into The Groove](https://open.spotify.com/track/2DGZwPbTxiiWB8gESqpdpi) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Into The Groove](https://open.spotify.com/album/17xCmo0ONouJXPuRzZBVFi) | 3:11 | 2021-12-17 | 2022-01-07 |

@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 349454,
       "name": "Blue in Green (Sky and Sea)",
       "url": "https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 280801,
       "name": "Infinite Universe",
       "url": "https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 396160,
       "name": "Nueva Luna, Mundo Arjo (feat. Pedro Aznar)",
       "url": "https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P"
@@ -1648,6 +1648,32 @@
       "duration_ms": 286798,
       "name": "Parque Chas",
       "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
+    },
+    {
+      "album": {
+        "name": "Pianistico (Junto a Lito Vitale)",
+        "url": "https://open.spotify.com/album/4RirLmsbvetn3o23WRSUE4"
+      },
+      "artists": [
+        {
+          "name": "Alejo Leon",
+          "url": "https://open.spotify.com/artist/3GUkiSQ2yK6hHubgoLQVmm"
+        },
+        {
+          "name": "Joana Gieco",
+          "url": "https://open.spotify.com/artist/5yFDRiZNBV7oHf4es80nfG"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344624,
+      "name": "Pianistico (Junto a Lito Vitale)",
+      "url": "https://open.spotify.com/track/1ABl9JwT8wDDu0VkVuQu6v"
     },
     {
       "album": {

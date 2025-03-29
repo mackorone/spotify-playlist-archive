@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: 麗英
 
-473 songs - 1 day 4 hr 12 min
+474 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [百妖夜行的修行](https://open.spotify.com/track/7nhmSdSknuP2OB1fnGdREj) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [百妖夜行的修行](https://open.spotify.com/album/0UjpB9oCfLW0UArVf2h3Jv) | 2:59 | 2024-06-27 |  |
 | [盲盒](https://open.spotify.com/track/7yl5iw9PR3sX4cR3m85Q5h) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [盲盒](https://open.spotify.com/album/6hhy6e1lq8gtgAGCVTogU0) | 4:44 | 2024-07-04 |  |
 | [真話的清高](https://open.spotify.com/track/0wW3KdmRH7K4ruByXTi4Xv) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [真話的清高](https://open.spotify.com/album/54R99UaKuQwZCB4T0yV7FK) | 3:41 | 2024-06-27 |  |
+| [矛盾系女生](https://open.spotify.com/track/5nUsg9uZCm6CxYyYCa3K2v) | [施匡翹](https://open.spotify.com/artist/7mvlTsqZNPZNN7i25IlgKF), [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [矛盾系女生](https://open.spotify.com/album/345GxC2ByylsIMfDyTx4aL) | 2:54 | 2025-03-27 |  |
 | [社畜完全體](https://open.spotify.com/track/5zc0B9YxMhanwdDp5D3B9S) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [社畜完全體](https://open.spotify.com/album/3cmzJdniYEVObAZAHS3dqd) | 4:23 | 2024-06-27 |  |
 | [神愛世人](https://open.spotify.com/track/69mgDd4R5jAsa8b8oxZqzF) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [神愛世人](https://open.spotify.com/album/21vSGEeZ3YYGavCLhK2fEA) | 3:43 | 2024-08-08 |  |
 | [神的不在場證明](https://open.spotify.com/track/5LxfxzmlGFCQm8HT93gksZ) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [神的不在場證明](https://open.spotify.com/album/03E9y0MvddabFJZ4QSq3iD) | 4:32 | 2024-06-27 |  |

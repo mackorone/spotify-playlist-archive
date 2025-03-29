@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Al Beni",
+        "url": "https://open.spotify.com/album/6ykMRf2pP2Mo66EMbCBvhc"
+      },
+      "artists": [
+        {
+          "name": "Naz \u00d6l\u00e7al",
+          "url": "https://open.spotify.com/artist/23tgygGHvkVtYum3uqbEZ3"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Al Beni",
+      "url": "https://open.spotify.com/track/1uZgoRlHgEkhI7COnUdm5m"
+    },
+    {
+      "album": {
         "name": "ALACAKARANLIK",
         "url": "https://open.spotify.com/album/6lrFGSYZhcQngosKccoon1"
       },
@@ -3839,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "H.S.P.",
+        "url": "https://open.spotify.com/album/2ldde5WzqzDKov3liEvle2"
+      },
+      "artists": [
+        {
+          "name": "Kamufle",
+          "url": "https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135315,
+      "name": "H.S.P.",
+      "url": "https://open.spotify.com/track/3HU84eFgOESfry2Ylgzelw"
+    },
+    {
+      "album": {
         "name": "Haberin Yok",
         "url": "https://open.spotify.com/album/73I8Q2wW6yWDIsC3Aau380"
       },
@@ -5498,12 +5534,12 @@
       },
       "artists": [
         {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        },
-        {
           "name": "BLOK3",
           "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        },
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
       "date_added": "2025-03-27",
@@ -9154,6 +9190,24 @@
       "duration_ms": 173478,
       "name": "Tuzak",
       "url": "https://open.spotify.com/track/4xcVpRjyq8awiIR3Zc7c00"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
     },
     {
       "album": {

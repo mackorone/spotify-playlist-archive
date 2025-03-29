@@ -1,12 +1,12 @@
 {
   "description": "Latest music from ShNik, Nakash Aziz, Anubha Bajaj and more. ",
-  "num_followers": 70614,
+  "num_followers": 70741,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XYTwAAAADFOqrGRuvxGUWdRB3OBBAt",
+  "snapshot_id": "Z+ZzKQAAAAAEyzoPUReUpzmGy7QHIxhI",
   "tracks": [
     {
       "added_at": "2025-03-27 22:59:27",
@@ -71,6 +71,30 @@
       "duration_ms": 181826,
       "name": "Jiya",
       "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
+    },
+    {
+      "added_at": "2025-03-28 10:00:09",
+      "album": {
+        "name": "WITHOUT PREJUDICE",
+        "url": "https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Gill Machhrai",
+          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Qatal",
+      "url": "https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9"
     },
     {
       "added_at": "2025-03-27 22:59:27",
@@ -915,26 +939,6 @@
       "duration_ms": 208587,
       "name": "Apna Naam Du",
       "url": "https://open.spotify.com/track/5evaNvSAGQujTel7ErnLzO"
-    },
-    {
-      "added_at": "2025-03-21 05:49:22",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/2ymymrHipb8QfhV7nyn3zk"
-      },
-      "artists": [
-        {
-          "name": "Arjun Kanungo",
-          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
-        },
-        {
-          "name": "NEXA Music",
-          "url": "https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/6aJLPRRyxJjWXc91jtLO56"
     },
     {
       "added_at": "2025-03-21 05:49:22",

@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Play It Safe",
+        "url": "https://open.spotify.com/album/3ZJwQi9No5chnjVnux0bvc"
+      },
+      "artists": [
+        {
+          "name": "T-FINNY",
+          "url": "https://open.spotify.com/artist/6tzLOXZOOoABldNEgrrZg9"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Play It Safe",
+      "url": "https://open.spotify.com/track/2JnV3vx2tg5W2NOhHy5f4S"
+    },
+    {
+      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },

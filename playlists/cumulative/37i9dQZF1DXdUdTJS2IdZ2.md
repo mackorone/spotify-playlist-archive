@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Vivien Yap
 
-597 songs - 1 day 8 hr 29 min
+598 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [brozone](https://open.spotify.com/track/4ZE2OPr5oeQbzeGZkQNAQU) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 3:42 | 2024-06-27 | 2024-08-23 |
 | [Burn](https://open.spotify.com/track/3Rht33HE6Sl61uyJlhcrnR) | [Caracal](https://open.spotify.com/artist/2npZarnv5jmzF1JRLWlZbK) | [Burn](https://open.spotify.com/album/1OJipoEuo4yGcvkxa1kD0m) | 5:04 | 2024-06-27 | 2024-08-16 |
 | [Burn It Down](https://open.spotify.com/track/3M6yGXJs2leGaVKTW4DMBf) | [戴毅聖](https://open.spotify.com/artist/513nQTjNL0CaGDv5Xr63Bv) | [Burn It Down](https://open.spotify.com/album/0kravwjsPpfrxylBixPLGs) | 2:56 | 2025-02-06 |  |
+| [Burnout Dynasty](https://open.spotify.com/track/3gNfmNjwJFCB0axHBgyznQ) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [BURNOUT DYNASTY](https://open.spotify.com/album/2iFp6vG4eVGM4KfBcowEsy) | 2:57 | 2025-03-28 |  |
 | [Bury It All](https://open.spotify.com/track/3JxZ7JbUuNteJ5EuWdc59A) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Bury It All](https://open.spotify.com/album/2Ev3Nt12wZzAzwDpReQQOH) | 3:17 | 2024-10-03 | 2024-11-09 |
 | [But does my love make you feel?](https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [But does my love make you feel?](https://open.spotify.com/album/4vyUUI6cAAkoYH1mmZh3lX) | 4:56 | 2024-08-22 | 2024-11-15 |
 | [By My Side](https://open.spotify.com/track/4AmoMRrcDyu4NbDLmHwyAs) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [By My Side](https://open.spotify.com/album/1oBFj4yyV0em7AxcB0uRfg) | 3:01 | 2025-02-06 |  |
@@ -134,7 +135,7 @@
 | [EGO](https://open.spotify.com/track/7bJkwDaA1mgNSw5c9M8OBA) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [EGO](https://open.spotify.com/album/704VFBPBP16GRYR0hUo7QQ) | 2:56 | 2025-02-20 | 2025-03-14 |
 | [eko \- Edit](https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [eko](https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB) | 2:01 | 2024-10-24 | 2024-11-22 |
 | [endless shine](https://open.spotify.com/track/1OUoxV1qoUGAxFngy2zcxB) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [endless shine](https://open.spotify.com/album/03cEdnJdRIxQ0n1FwXtK2D) | 3:01 | 2024-07-04 | 2024-12-13 |
-| [Everyone Is A Star](https://open.spotify.com/track/2Y4NPJsVqio0RbwrTgP8M1) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Everyone Is A Star](https://open.spotify.com/album/2gzTl3JjZFItiDev6waV9i) | 3:06 | 2025-03-20 |  |
+| [Everyone Is A Star](https://open.spotify.com/track/2Y4NPJsVqio0RbwrTgP8M1) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd), [Aynsley Green](https://open.spotify.com/artist/2teRNHFxjo16CxTFumSLUJ) | [Everyone Is A Star](https://open.spotify.com/album/2gzTl3JjZFItiDev6waV9i) | 3:06 | 2025-03-20 |  |
 | [Everything](https://open.spotify.com/track/5JaRIhe4uX4xkrQxnyKsFe) | [Joel Quintis](https://open.spotify.com/artist/3q11dOe2pSvKVQlr4XTMmH) | [Everything](https://open.spotify.com/album/3ruMz2WMxiwhHT1iPw7yIl) | 3:28 | 2025-01-16 | 2025-03-07 |
 | [Everything You Wanted](https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Everything You Wanted](https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91) | 2:37 | 2024-09-19 | 2025-01-10 |
 | [Everytime It Hurts](https://open.spotify.com/track/3loXenm717oIgc87n9Do9K) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Everytime It Hurts](https://open.spotify.com/album/5EB7tsLcGuhfNO0xtRJOE1) | 3:19 | 2024-10-17 | 2024-12-20 |
@@ -519,7 +520,7 @@
 | [YOU DO YOU](https://open.spotify.com/track/0GZpnLnXIytDsMHCwleJe2) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [YOU DO YOU](https://open.spotify.com/album/4FEiUf5kjPxVRNnEB601GR) | 2:50 | 2025-03-27 |  |
 | [一瘋信](https://open.spotify.com/track/0wi9EuFndXS9D242DfyvIo) | [MICappella](https://open.spotify.com/artist/7pOhEqKcqQyyKSxj8mmRKI) | [一瘋信](https://open.spotify.com/album/6Ko57p5p7CpW51yQCWIjzj) | 2:56 | 2024-11-14 | 2025-01-24 |
 | [不值得](https://open.spotify.com/track/4Lb8HOI2614TcSbc0Le6hv) | [鍾汶芳](https://open.spotify.com/artist/2QSh7SsfVcNJKI2d614Uim) | [不值得](https://open.spotify.com/album/0KSdNt8lKGukcl8XV96vnw) | 3:31 | 2024-10-17 | 2024-12-20 |
-| [不能不是你](https://open.spotify.com/track/5ROXIBNxM2zyAX9FszP4zx) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [不能不是你](https://open.spotify.com/album/3N6xPgDHdaxlc1kOU3zJJ6) | 4:22 | 2024-12-06 |  |
+| [不能不是你](https://open.spotify.com/track/5ROXIBNxM2zyAX9FszP4zx) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m) | [不能不是你](https://open.spotify.com/album/3N6xPgDHdaxlc1kOU3zJJ6) | 4:22 | 2024-12-06 |  |
 | [两个人间](https://open.spotify.com/track/4pzwG3f02ev0Xa0JaH5vNR) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg), [林倛玉](https://open.spotify.com/artist/6cPF6mU1FzLcLeWG7XlxbN) | [两个人间](https://open.spotify.com/album/2DEBsE9EeyggSCzxqhgrGO) | 5:00 | 2025-03-20 |  |
 | [今天的樣子](https://open.spotify.com/track/5T5uegUfdaLf6JbNItlW3n) | [J.En Cheo](https://open.spotify.com/artist/6a4zj3BAL2o9RWOlyKpKhr) | [今天的樣子](https://open.spotify.com/album/2Y3ctAKv0NfZeE6Lysn8xW) | 4:08 | 2024-10-10 | 2024-11-09 |
 | [他從我的指尖溜走](https://open.spotify.com/track/5rv5nPjS0gywkwMFzgEaLp) | [Lauren Woo](https://open.spotify.com/artist/25ef1wPlMzJDegKdmkFzRa), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [他從我的指尖溜走](https://open.spotify.com/album/3xnNes9ZUq3RHc8WBYSzU9) | 4:20 | 2024-12-19 |  |
@@ -604,6 +605,6 @@
 | [锣鼓喧天庆团圆](https://open.spotify.com/track/2i9vVlL2rF0IhBZXlpwQXs) | [合悦唱团](https://open.spotify.com/artist/07YYeBvKW2efzuJhJjHNvq) | [锣鼓喧天庆团圆](https://open.spotify.com/album/59UTVvhlxw9iAnGw0Oipyv) | 3:21 | 2024-12-26 | 2025-01-03 |
 | [难道](https://open.spotify.com/track/7i5AvBRpqVYoIlhh8Z5gJE) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [难道](https://open.spotify.com/album/7816IMimLBMi8wg3iSnPx0) | 2:37 | 2024-08-15 | 2024-10-04 |
 | [需要你陪](https://open.spotify.com/track/5AJZjLcTPz6aogfKK8H5nh) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [需要你陪](https://open.spotify.com/album/4vysaDNfsKNqfQPd9P5J5g) | 3:56 | 2025-02-13 |  |
-| [龙胆](https://open.spotify.com/track/6OqzZqNPepAtjCkkXpRslr) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [龙胆](https://open.spotify.com/album/7hWMSX3Tta4IaVI7JPt9aa) | 3:27 | 2025-03-27 |  |
+| [龙胆](https://open.spotify.com/track/6OqzZqNPepAtjCkkXpRslr) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m) | [龙胆](https://open.spotify.com/album/7hWMSX3Tta4IaVI7JPt9aa) | 3:27 | 2025-03-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

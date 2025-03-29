@@ -143,6 +143,32 @@
     },
     {
       "album": {
+        "name": "Afro G Western",
+        "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Afro G Western",
+      "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/0s3VJbBkjlZZaKAjh6cdXe"
       },
@@ -358,7 +384,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 171700,
       "name": "Black Car",
       "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
@@ -764,6 +790,24 @@
       "duration_ms": 202758,
       "name": "Don't Care",
       "url": "https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb"
+    },
+    {
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/4XChhddkwMUOluOfB74Z4J"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158035,
+      "name": "DON'T LET THE SUN GO DOWN (Joshua 10)",
+      "url": "https://open.spotify.com/track/6hR9aFbhdmVKYB8tYqdsCF"
     },
     {
       "album": {
@@ -1782,7 +1826,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 240000,
       "name": "Late Night On Lokko Street",
       "url": "https://open.spotify.com/track/4kHSBFk0AuUCVCYnyiYYOO"

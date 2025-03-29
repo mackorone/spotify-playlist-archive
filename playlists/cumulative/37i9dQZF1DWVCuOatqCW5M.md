@@ -4,7 +4,7 @@
 
 > Latest music from ShNik, Nakash Aziz, Anubha Bajaj and more.
 
-1,426 songs - 3 day 9 hr 1 min
+1,427 songs - 3 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,6 +1028,7 @@
 | [Pyaari Teri Yaari](https://open.spotify.com/track/5dXzhnjyJFoKpEXZc4wtlp) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Pyaari Teri Yaari](https://open.spotify.com/album/3Rpr1feuFLsyAoewL69MJq) | 3:49 | 2022-09-01 | 2022-10-01 |
 | [Pyar Dobara](https://open.spotify.com/track/2oBl3gEVJJl813uzIL2EmE) | [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Pyar Dobara](https://open.spotify.com/album/7bwD1wD3nDfCOJoZVRtx1Y) | 2:49 | 2023-09-08 | 2023-09-30 |
 | [Qaafile](https://open.spotify.com/track/72QVX9FUBCnN19vVsTlSlF) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax) | [Reversion](https://open.spotify.com/album/3gGY0PPYagKguj9JCv3kBL) | 2:54 | 2024-10-18 | 2024-11-23 |
+| [Qatal](https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:51 | 2025-03-28 |  |
 | [Qissa](https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Qissa](https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6) | 2:05 | 2023-08-11 | 2023-09-02 |
 | [Raabta](https://open.spotify.com/track/2h4VzcX14yfQBfbP9UmeF4) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Chirantan Bhatt](https://open.spotify.com/artist/1Fp2NbOlCFFrrkc29QbhBC), [Junaid Wasi](https://open.spotify.com/artist/2PUX1ZS7k03vO91E5VGvG0) | [Raabta](https://open.spotify.com/album/5tSaKNhRxuWwREzyvJ3zds) | 3:35 | 2023-09-08 | 2023-10-14 |
 | [Raagini](https://open.spotify.com/track/66qCTcUNbVYndhnwscZu38) | [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Raagini](https://open.spotify.com/album/6GgbhtT6Rg5uZ5wy7MEJCi) | 2:37 | 2024-02-23 | 2024-03-02 |
@@ -1374,7 +1375,7 @@
 | [Ultay Hor Zamane](https://open.spotify.com/track/0veyQHMx6swK9tlZhdo0vz) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Surmayi](https://open.spotify.com/album/5zbS0SLUgFB161wNJQO05B) | 3:36 | 2022-05-27 | 2022-06-11 |
 | [Umeed](https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa) | [Chapati](https://open.spotify.com/artist/1RaIosj4dit2OLWs19hTVW), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Umeed](https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ) | 3:54 | 2023-03-17 | 2023-04-22 |
 | [Un Aankhon](https://open.spotify.com/track/0Gsc7rxXfSmyOKuSln1tPt) | [Sachin Warrier](https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK), [Megha Rao](https://open.spotify.com/artist/4klv2mw7sOj98pBI6TM0tz) | [Word.](https://open.spotify.com/album/5W8gl5QggdTn2jgiFghZTI) | 3:34 | 2024-11-29 | 2024-12-14 |
-| [Unspoken](https://open.spotify.com/track/6aJLPRRyxJjWXc91jtLO56) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Unspoken](https://open.spotify.com/album/2ymymrHipb8QfhV7nyn3zk) | 2:45 | 2025-01-31 |  |
+| [Unspoken](https://open.spotify.com/track/6aJLPRRyxJjWXc91jtLO56) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Unspoken](https://open.spotify.com/album/2ymymrHipb8QfhV7nyn3zk) | 2:45 | 2025-01-31 | 2025-03-29 |
 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 | 2023-11-18 | 2023-12-16 |
 | [usko sab pata hai](https://open.spotify.com/track/2e02cHciVAiubNVpNYiLCO) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [usko sab pata hai](https://open.spotify.com/album/3IQPy3WlyofK9LjmvUEigT) | 2:37 | 2022-12-23 | 2023-02-11 |
 | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ) | 2:08 | 2023-11-10 | 2023-12-16 |

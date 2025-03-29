@@ -33289,6 +33289,24 @@
     },
     {
       "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/7pSMjtGrXhS5URH9TxYFSO"
+      },
+      "artists": [
+        {
+          "name": "LUELLA",
+          "url": "https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187962,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/6U5MOnKglGPSwGaJocFn67"
+    },
+    {
+      "album": {
         "name": "Name Something Better",
         "url": "https://open.spotify.com/album/6ob6oSOrj0lFNcktWFkETV"
       },

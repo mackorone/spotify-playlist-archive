@@ -4,7 +4,7 @@
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-129 songs - 12 hr 20 min
+130 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Breakthrough \- Live](https://open.spotify.com/track/03XqXqedPViuV0tLLndrjT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ublsL5mDVfHGEsjbB1jpl) | 5:03 | 2019-11-27 | 2024-06-23 |
 | [Breakthrough \- Live](https://open.spotify.com/track/11XxomhGUvpC6AjzTz7Bws) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [spark\. \(No Other Love\) \- EP \[Live\]](https://open.spotify.com/album/67w7YgMOnpLloLR9ZBejer) | 9:27 | 2019-11-27 |  |
 | [Breakthrough \- Live](https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [spark\. \(Live\)](https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy) | 9:27 | 2019-11-27 | 2024-04-19 |
-| [Build My Life](https://open.spotify.com/track/5ypZJOJbxjaPdZXB8W7Txe) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:18 | 2024-06-23 |  |
+| [Build My Life](https://open.spotify.com/track/5ypZJOJbxjaPdZXB8W7Txe) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:18 | 2024-06-23 | 2025-03-29 |
 | [Call on Your Name](https://open.spotify.com/track/7HLEkspmztqBqEfqJtchei) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Elle Limebear \- EP](https://open.spotify.com/album/2L12bLEqvFpB4inbYHTUBH) | 5:09 | 2019-11-27 |  |
 | [Calm the Storm \(Live\)](https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Calm the Storm \(Live\)](https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p) | 5:11 | 2019-11-27 |  |
 | [Canvas And Clay \- Live](https://open.spotify.com/track/6StDOwqq1OmVlSKptJ6Fn0) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV) | 6:40 | 2019-11-27 |  |
@@ -111,6 +111,7 @@
 | [Surrounded \(Fight My Battles\) \- Live](https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [To The One \(Live\)](https://open.spotify.com/album/2VzCv3uGlbmxPj3WYvXYHX) | 5:59 | 2019-11-27 | 2024-04-19 |
 | [Surrounded \(Fight My Battles\) \- Live](https://open.spotify.com/track/5jIsFNAxfeShjBEJ6vXwj7) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Easter Essentials](https://open.spotify.com/album/7xcx6rsxIfVBk1QsMdkkFe) | 5:59 | 2019-11-27 | 2022-11-13 |
 | [Surrounded \(Fight My Battles\) \[Live\]](https://open.spotify.com/track/14afN25jVBf6gWuhmrpsej) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [To the One](https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt) | 5:59 | 2019-11-27 |  |
+| [Tend \- Live](https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge) | [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Tend \(Live\)](https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX) | 6:49 | 2025-03-28 |  |
 | [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 | 2025-02-28 |  |
 | [The Blessing \- Live](https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [The Blessing \(Live\)](https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE) | 8:34 | 2024-06-23 |  |
 | [The Dove \- Live](https://open.spotify.com/track/0kY1gXASKakozyS63qLgIr) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Dove \(Live\)](https://open.spotify.com/album/5zaE1TfsrPEiIy7ymSznyV) | 9:55 | 2024-06-23 |  |

@@ -2,7 +2,7 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Senté
+> Get your spirits up and manage your mood any time of the day\. Cover: Kenneth Mugabi
 
 143 songs - 7 hr 58 min
 

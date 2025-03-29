@@ -2,9 +2,9 @@
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> New music from: Lost Frequencies and MAKSIM
+> New music from: Ariana Grande, Lost Frequencies & MAKSIM
 
-4,107 songs - 9 day 1 hr 45 min
+4,109 songs - 9 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3301,6 +3301,7 @@
 | [Square Pegs In Round Holes](https://open.spotify.com/track/3tzygT3WbDZGvYKGl2lKvd) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Square Pegs In Round Holes](https://open.spotify.com/album/0gDVGal8E3cw0g5TwAijJS) | 3:33 | 2025-03-06 | 2025-03-14 |
 | [STABILITÉ](https://open.spotify.com/track/321YtCadsehglzAunLYiXD) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Chaque Jour](https://open.spotify.com/album/0CeyLRFqUGCnk37rUv7WXd) | 2:19 | 2025-01-30 | 2025-02-07 |
 | [Stain](https://open.spotify.com/track/6iaO8JRf5gH2KwEVX8zXne) | [Arend Delabie](https://open.spotify.com/artist/26TO7XHp9aJeHjhlj0j804) | [Stain](https://open.spotify.com/album/4W9nPDHPuCRaBKDR01DRHK) | 3:14 | 2024-11-15 | 2024-11-22 |
+| [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 | 2025-03-28 |  |
 | [STANK ROSE](https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STANK ROSE](https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE) | 3:06 | 2024-06-27 | 2024-07-05 |
 | [Stapelgek Op Jou](https://open.spotify.com/track/0u1U3KrPXbJxd2Qm5A8gt4) | [David Vandyck](https://open.spotify.com/artist/52OZ481qchFO5O93MbsLsJ) | [Stapelgek Op Jou](https://open.spotify.com/album/1FZ5NlE8rzJBmT46O7oHZF) | 2:53 | 2025-03-27 |  |
 | [Starchase](https://open.spotify.com/track/7jTeHlGEAcus32LczjPqqK) | [Tuys](https://open.spotify.com/artist/31t8VOhM577SsozJ7QHRZR) | [Starchase](https://open.spotify.com/album/04YpH1vk1r9GgZypeGlCUo) | 3:43 | 2024-10-10 | 2024-10-18 |
@@ -3725,6 +3726,7 @@
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-06 | 2025-02-14 |
 | [Twenty Something](https://open.spotify.com/track/671XScn2TgQaMUbrwlSN4a) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd) | [Twenty Something](https://open.spotify.com/album/3NUowF1FQtlrAYFmXJicfH) | 2:42 | 2024-07-04 | 2024-07-12 |
 | [Twijfel](https://open.spotify.com/track/33HwdCuJmxIQHgiAxsXjKW) | [Aafke Romeijn](https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE) | [Ultraviolet](https://open.spotify.com/album/5saTi3WHodpzrEKtAfo2rq) | 3:17 | 2025-03-13 | 2025-03-21 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 |  |
 | [Two Blue Chairs & You](https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Two Blue Chairs & You](https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j) | 2:48 | 2024-08-22 | 2024-08-30 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 | 2024-11-22 |
 | [Two Times](https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Two Times](https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm) | 3:46 | 2025-02-21 | 2025-02-28 |

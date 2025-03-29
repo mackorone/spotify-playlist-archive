@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lagum",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Bruna Magalh\u00e3es",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 185648,
       "name": "A LUZ NO FIM DO T\u00daNEL",
       "url": "https://open.spotify.com/track/6AuAeeY9NgQKp9Mo1BKgcA"
@@ -11835,6 +11835,24 @@
     },
     {
       "album": {
+        "name": "ANEMOIA",
+        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212234,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
+    },
+    {
+      "album": {
         "name": "Roupa Branca",
         "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
       },
@@ -13130,6 +13148,24 @@
       "duration_ms": 205961,
       "name": "S\u00f3 Sinto",
       "url": "https://open.spotify.com/track/7pRLX3MpPGEGBqjsKGZjsK"
+    },
+    {
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186465,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
     },
     {
       "album": {
@@ -14544,7 +14580,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 243530,
       "name": "UM VULC\u00c3O EM MARTE",
       "url": "https://open.spotify.com/track/4GnC8aSeNxG56C3RAuXyTy"

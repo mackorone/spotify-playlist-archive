@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: LoSin
 
-1,133 songs - 2 day 5 hr 43 min
+1,134 songs - 2 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Endlich wieder da wo es beginnt](https://open.spotify.com/track/7BGNum6Rn6W1e3sJgHXWPE) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Endlich wieder da wo es beginnt](https://open.spotify.com/album/4u9B1Yvly0s1OeTG6N9oG2) | 3:01 | 2023-10-05 | 2023-11-24 |
 | [Endlos\_demo](https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Endlos\_demo](https://open.spotify.com/album/1kMIcfGn8lMbLwrNAmpnEj) | 2:17 | 2023-02-02 | 2023-02-17 |
 | [Energie](https://open.spotify.com/track/5JCINGbIQ097r6OnrzrgyW) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Energie](https://open.spotify.com/album/0FkM5177ByNLldITOwcY1y) | 2:11 | 2025-03-13 |  |
-| [Enge Freunde](https://open.spotify.com/track/25wkEq7vZBVeLc5iVOZnLL) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Enge Freunde](https://open.spotify.com/album/0OL2zon0mjpQ1F7A6qnrWd) | 2:59 | 2025-03-13 |  |
+| [Enge Freunde](https://open.spotify.com/track/25wkEq7vZBVeLc5iVOZnLL) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Enge Freunde](https://open.spotify.com/album/0OL2zon0mjpQ1F7A6qnrWd) | 2:59 | 2025-03-13 | 2025-03-29 |
 | [Enten & Schweine](https://open.spotify.com/track/6BuJNZ1yxmHUSuQKiSp8RG) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m) | [Enten & Schweine](https://open.spotify.com/album/6dywNStumsvdVM5WnNMWMQ) | 3:04 | 2024-11-29 | 2024-12-13 |
 | [Enttäuscht](https://open.spotify.com/track/0yDzE2lP8xFMpu7Pqp5196) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Enttäuscht](https://open.spotify.com/album/3RMAGCdlzl1zEnnSpJYLmQ) | 3:13 | 2024-03-21 | 2024-05-17 |
 | [Er oder Sie oder Du](https://open.spotify.com/track/1ojpWs42lG7y9FlB0xQXPk) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Er oder Sie oder Du](https://open.spotify.com/album/2VG9BbluDZvvYZ3rtfeWqe) | 2:14 | 2023-04-13 | 2023-10-13 |
@@ -586,7 +586,7 @@
 | [Lange Nächte](https://open.spotify.com/track/4Xp4dVh3hgRjJmW8Ovn3tX) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Lange Nächte](https://open.spotify.com/album/6E6KewThtKLR9PbY4X26xL) | 3:26 | 2023-04-06 | 2023-05-19 |
 | [Langeweile](https://open.spotify.com/track/0DCHensg4uLBFwuIOdulOh) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Langeweile](https://open.spotify.com/album/5NdsPi8JHfKId2UY5dySo4) | 3:06 | 2023-11-16 | 2024-02-02 |
 | [lass dich los](https://open.spotify.com/track/1BVqOjjfoLqRXS5n8gA8A5) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [lass dich los](https://open.spotify.com/album/723T7wmPOm3KkUC1AunOg5) | 2:25 | 2024-11-21 | 2025-03-07 |
-| [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 | 2025-02-20 |  |
+| [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:16 | 2025-02-20 |  |
 | [Lass es kreisen](https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:19 | 2023-03-02 | 2023-09-08 |
 | [Lass los](https://open.spotify.com/track/1LmajgDzDCYYuQr0cvS58W) | [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [100Angst](https://open.spotify.com/album/1mzl3m2lukHd4BnDBK3b6b) | 2:23 | 2025-02-13 | 2025-02-15 |
 | [lass los](https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26), [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw) | [lass los](https://open.spotify.com/album/6TmA0wjEnOhoWgUtOxIuuv) | 2:11 | 2024-01-25 | 2024-02-09 |
@@ -667,6 +667,7 @@
 | [Mein Sohn](https://open.spotify.com/track/0Oe3epFkZF8KPHJa6DD52c) | [Jugo Ürdens](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2) | [Mein Sohn](https://open.spotify.com/album/02l0zeoR8JjQwm9JAbHoMe) | 2:15 | 2024-10-24 | 2024-11-08 |
 | [Meine Arme werden taub](https://open.spotify.com/track/0u1SpyMryvxdtYwyfskWJF) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Meine Arme werden taub](https://open.spotify.com/album/3m4YlYCvVY8AMpR1Gxjtx6) | 2:43 | 2024-05-02 | 2024-07-05 |
 | [meinen die uns](https://open.spotify.com/track/3AB4Fi1stxmdaO3XWlMLbp) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [meinen die uns](https://open.spotify.com/album/0tJ2DBgAhFaeE3AgTLYNaU) | 2:48 | 2024-04-25 | 2024-10-18 |
+| [Melodie](https://open.spotify.com/track/6Z5Kq7xT88uqXdMbAnjRkU) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Melodie](https://open.spotify.com/album/5cdyJ1tVGqxoig3I1uTrAd) | 3:10 | 2025-03-28 |  |
 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 | 2023-10-05 | 2024-02-09 |
 | [merlin](https://open.spotify.com/track/6TcQYJZ8mK6hxtEoNlSUdn) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [merlin](https://open.spotify.com/album/59QwZKgRyCtQEM0O5vnrhj) | 3:29 | 2024-02-08 | 2024-03-08 |
 | [Messe/Deutz](https://open.spotify.com/track/23MqkXvC9FQTDfMM8cjcoW) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [Messe/Deutz](https://open.spotify.com/album/5sw2A8pbeB3dY5ZJJ6Iq33) | 3:47 | 2024-05-09 | 2024-05-24 |

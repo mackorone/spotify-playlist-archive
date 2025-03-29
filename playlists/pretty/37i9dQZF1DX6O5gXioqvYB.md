@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Giulia Mei
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,307 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,320 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 9 | [Anna](https://open.spotify.com/track/1pHInFyZQ2Egyt8iGX0ytX) | [Roberto Colzani](https://open.spotify.com/artist/4QPAJue0W03UYJsUD4RyGI) | [Anna](https://open.spotify.com/album/3IT5RR5i24BtLTCV5yTSms) | 2:50 |
 | 10 | [Fa come vuoi](https://open.spotify.com/track/1FEzje8f7DlPxLGgOiqOMz) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Fa come vuoi](https://open.spotify.com/album/790aNXBIN213BzTODfr1dp) | 3:01 |
 | 11 | [Sento niente](https://open.spotify.com/track/1mamLPeRoMJzgDaQKfHHGM) | [GIMA](https://open.spotify.com/artist/2mWd2GZ0OtmKom3LSqvjcH) | [JOMO](https://open.spotify.com/album/4StXGTMTLbL26w9qTdiiQi) | 3:13 |
-| 12 | [Meno di zero](https://open.spotify.com/track/3NtMsKqfTlXPVcNd6Rg2su) | [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt) | [Meno di zero](https://open.spotify.com/album/4IlUx9FcebzkgQFnUqU06s) | 2:29 |
+| 12 | [Meno di Zero](https://open.spotify.com/track/3NtMsKqfTlXPVcNd6Rg2su) | [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt) | [Meno di Zero](https://open.spotify.com/album/4IlUx9FcebzkgQFnUqU06s) | 2:29 |
 | 13 | [Anti Anti \(feat\. Le Endrigo\)](https://open.spotify.com/track/1itnrmydJ2ja33zNiuOEzA) | [GattoToro](https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg), [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [Anti Anti \(feat\. Le Endrigo\)](https://open.spotify.com/album/3bd4iqm4vMxXALucQZEAkZ) | 3:01 |
 | 14 | [Motel](https://open.spotify.com/track/0Zm9yT9mef6xloozdo3LzU) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [La Crisi dell'Uomo](https://open.spotify.com/album/7mMRK6msWIcXA2EYAlJjeO) | 3:40 |
 | 15 | [Riunione di condominio \(feat\. Assurditè\)](https://open.spotify.com/track/5EnzQ4P5HeIyJDG0p9SHEV) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Un Posto Migliore](https://open.spotify.com/album/1KWEfb86yZsI282JE3C4Wy) | 2:49 |

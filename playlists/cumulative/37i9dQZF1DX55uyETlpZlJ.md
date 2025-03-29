@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-483 songs - 1 day 2 hr 51 min
+484 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Ondu Sundara Sanje](https://open.spotify.com/track/41Ibz02C8EK5qodYWFY74u) | [Imtiyaz Sultan](https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi), [Roopa Kotwal](https://open.spotify.com/artist/0zxUB0UxO3fGuXxsDyx3Il) | [Ondu Sundara Sanje](https://open.spotify.com/album/1xhYJaU6t8ke6MkVENpyT6) | 4:14 | 2024-02-21 | 2024-07-19 |
 | [ONTI NANU](https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN) | [ONTI NANU](https://open.spotify.com/album/2iHf6Om8Dd3tBr0u9McvYf) | 4:30 | 2024-02-08 | 2024-02-20 |
 | [Oo Jeevave](https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q) | [Girish Prabhu](https://open.spotify.com/artist/3gwJq0GldUL2tNtdeaG7gN) | [Oo Jeevave](https://open.spotify.com/album/5qfB377p8oXyR0yDG9RRwA) | 3:06 | 2024-05-21 | 2024-11-09 |
+| [OPPS ELLA KATTAPA](https://open.spotify.com/track/5S9hxGtu2czG6OhXBQZXJs) | [VishwxsMUZiK](https://open.spotify.com/artist/5klwYQTdqW2U8RTVvykN5Y), [RANCH IN VEGAM](https://open.spotify.com/artist/5HkFSk43UzSWA8I3o6BEn2) | [OPPS ELLA KATTAPA](https://open.spotify.com/album/2NVUvw3aNBL2CXtniORMYi) | 3:28 | 2025-03-28 |  |
 | [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Adarsh Iyengar](https://open.spotify.com/artist/0ZB0jEtwxWDtdPUH5c2U88), [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN), [Rakshith Thirthahalli](https://open.spotify.com/artist/7M7PqSzAHEMpIwHnB43kTS) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 | 2024-10-14 | 2025-03-18 |
 | [Pade Pade](https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr) | [Akshay Pattanshetti](https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Pade Pade](https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf) | 3:04 | 2024-04-01 | 2024-09-18 |
 | [Paisa](https://open.spotify.com/track/6GnCmGYCBKPe5PZSe2TnP4) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Paisa](https://open.spotify.com/album/2PZsne4TWitMBuKSpW11pX) | 2:09 | 2025-03-03 |  |
@@ -489,7 +490,7 @@
 | [Yenaagide](https://open.spotify.com/track/2iO7QR9TKXGECiozwKR9yP) | [Swaroop](https://open.spotify.com/artist/0KnRzWyUIlpEw1yYrVWZum), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Yenaagide](https://open.spotify.com/album/18gnmJSKZfTc8Pdkk1OrsE) | 3:36 | 2023-07-10 | 2023-07-25 |
 | [YENO AGIDHE\-2](https://open.spotify.com/track/4hnEJMQNmphymiCNEtmx7N) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [YENO AGIDHE\-2](https://open.spotify.com/album/4qrvxKZpcx8gEcCTJTteAi) | 2:48 | 2024-03-01 | 2024-07-13 |
 | [YETHAKE](https://open.spotify.com/track/3WLAXeHYLcmsIQrS9EUOXR) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [YETHAKE](https://open.spotify.com/album/1osvJxXuOInCyOKbBJuH2C) | 3:07 | 2025-02-06 |  |
-| [Yochane](https://open.spotify.com/track/2brkkHIqBkOyFbBhliF4VI) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Yochane](https://open.spotify.com/album/4vq6pnKd7sBJZXuXzLkthV) | 3:15 | 2024-12-09 |  |
+| [Yochane](https://open.spotify.com/track/2brkkHIqBkOyFbBhliF4VI) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Yochane](https://open.spotify.com/album/4vq6pnKd7sBJZXuXzLkthV) | 3:15 | 2024-12-09 | 2025-03-29 |
 | [Zari Zari Panche Uttu DJ \- DJ Version](https://open.spotify.com/track/6ijmugaN1k88ZQNxCQsCtf) | [Madeen SK](https://open.spotify.com/artist/5Fus9DmicWjQslWMQlVNgB), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad), [Lasya](https://open.spotify.com/artist/3nFDEpKawzTa38sZ6XXuFx), [Tony Kick](https://open.spotify.com/artist/5dmuoctzzOKykZWLw1n5Wu), [Dj Srinu](https://open.spotify.com/artist/0kHjYVT8TNPF5PFf6rJrNz) | [Zari Zari Panche Uttu DJ \(DJ Version\)](https://open.spotify.com/album/3OP4xJCLZPC3uiqjGFVzP0) | 3:52 | 2023-06-21 | 2024-01-23 |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

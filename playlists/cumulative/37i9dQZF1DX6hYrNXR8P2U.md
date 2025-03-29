@@ -2,9 +2,9 @@
 
 ### [piola](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> Acá no importan el género.<br/>📷 CA7RIEL  & Paco Amoroso.
+> Música sin etiquetas.<br/>📷 Dillom  & BLAIR.
 
-435 songs - 22 hr 59 min
+439 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,10 @@
 | [Calles Rotas](https://open.spotify.com/track/5ONux1xDZJeTMJjwtx0VLy) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Calles Rotas](https://open.spotify.com/album/5e402GW4kh1SSSxevNF6hF) | 5:16 | 2023-10-13 | 2023-11-25 |
 | [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-10-13 | 2024-06-09 |
 | [CANCIÓN AL DOLOR](https://open.spotify.com/track/79mqphOzYvHLcvIcBZeVb8) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [CANCIÓN AL DOLOR](https://open.spotify.com/album/7ifpnlIV75MM1UmKSR5Nx7) | 2:21 | 2024-06-08 | 2024-09-07 |
+| [Candela](https://open.spotify.com/track/684u0hZtsMmdz4cxJ3MU0S) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Candela](https://open.spotify.com/album/0fxMGmOLhlDwP8Dxk3ehRy) | 2:53 | 2025-03-28 |  |
 | [Canela](https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Que Bien Te Queda El Caribe](https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN) | 2:56 | 2024-08-16 | 2024-09-14 |
 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 | 2023-12-08 | 2023-12-22 |
+| [CARNE VIVA \(feat\. Dillom\)](https://open.spotify.com/track/27RpM9XsnJw9lFrURwRLly) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [CARNE VIVA \(feat\. Dillom\)](https://open.spotify.com/album/0xRgeiCNsf09WjJ7H5rT95) | 2:49 | 2025-03-28 |  |
 | [carta a mi papá](https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:27 | 2024-08-23 | 2024-10-05 |
 | [Carta para no llorar](https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Carta para no llorar](https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw) | 2:58 | 2023-11-10 |  |
 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 | 2023-10-13 | 2024-01-20 |
@@ -118,6 +120,7 @@
 | [Desesperada](https://open.spotify.com/track/6T4R0YI4KNnZiIRKexvAdD) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Desesperada](https://open.spotify.com/album/1g6DyyHl9LsMBv6VT7gFQM) | 4:34 | 2024-03-22 | 2024-05-25 |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-10-13 | 2023-11-11 |
 | [DESQUITE](https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:22 | 2024-05-10 | 2024-07-27 |
+| [DEUDA ESPIRITUAL](https://open.spotify.com/track/3BMT0MXj0QbnUsbV7MErGX) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [DEUDA ESPIRITUAL](https://open.spotify.com/album/3RuRCKTY4qVn3Ssit25mDW) | 3:45 | 2025-03-28 |  |
 | [DIAVLO](https://open.spotify.com/track/7Lqg10QrEZnW9b8bq0u34j) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [DIAVLO](https://open.spotify.com/album/6Fysv8Y6bcXtHK8tK9drMB) | 3:37 | 2025-02-28 |  |
 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 | 2025-01-10 |  |
 | [Divergente](https://open.spotify.com/track/1J4VgmR03U8qRRFAsysuCv) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Divergente](https://open.spotify.com/album/78jabEVUG9vo1dfsmhrPq8) | 2:35 | 2025-01-10 | 2025-02-08 |
@@ -392,6 +395,7 @@
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-10-13 | 2024-03-23 |
 | [trance ZZZ](https://open.spotify.com/track/5rBfUmYhDghCAOlsd8YXl8) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [ZZZ](https://open.spotify.com/album/2eDzshsdAj7l1P77vYq2Ia) | 2:12 | 2024-05-10 | 2024-06-09 |
 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 | 2023-10-13 | 2024-05-25 |
+| [triste y vacía \- bolero](https://open.spotify.com/track/2IO9hcLXWGHdqp3oneG86Z) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [triste y vacía \(bolero\)](https://open.spotify.com/album/2mCQz8Z3Sh8ShBoiT8rvQl) | 2:35 | 2025-03-28 |  |
 | [Tristeza de la Ciudad](https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Tristeza de la Ciudad](https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ) | 2:44 | 2024-11-29 |  |
 | [Tu Calor](https://open.spotify.com/track/4qqnfffDtMMt58Zw2NIffu) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Tu Calor](https://open.spotify.com/album/0rnWUuYhemV5cbU69dMi7C) | 3:16 | 2024-02-16 | 2024-03-09 |
 | [tu droga](https://open.spotify.com/track/3X942CRKTugvuz4MMWPtWj) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Heráldica](https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr) | 3:10 | 2024-03-29 | 2024-08-03 |

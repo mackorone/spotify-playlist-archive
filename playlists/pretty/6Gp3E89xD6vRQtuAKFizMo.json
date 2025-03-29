@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44179,
+  "num_followers": 44183,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ79raSuBnWcLSE6Psmv0LSFO5KO+C",
+  "snapshot_id": "AAAZ8SlQSBQB0oCVZp5nYXhfy1k1M6Af",
   "tracks": [
+    {
+      "added_at": "2025-03-28 09:36:26",
+      "album": {
+        "name": "Pump It",
+        "url": "https://open.spotify.com/album/5Spbk5Zg10W6T52xDJOHas"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        },
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "duration_ms": 139111,
+      "name": "Pump It",
+      "url": "https://open.spotify.com/track/0cvh5BDi1aLFNPj2LV0TNN"
+    },
+    {
+      "added_at": "2025-03-28 09:36:47",
+      "album": {
+        "name": "Techno Bell (Final Chapter)",
+        "url": "https://open.spotify.com/album/2ClrxvQ2fFx7YCGbLQrh5I"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "GESES",
+          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Techno Bell (Final Chapter)",
+      "url": "https://open.spotify.com/track/0cN73DaKpawup5xbjnpzaL"
+    },
     {
       "added_at": "2025-03-21 16:16:12",
       "album": {

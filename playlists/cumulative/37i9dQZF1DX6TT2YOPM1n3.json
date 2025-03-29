@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to Pakistani Hits. Cover: Maanu, Annural Khalid",
+  "description": "Home to Pakistani Hits. Cover: Maanu. Annural Khalid",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 198857,
       "name": "Aisay Kaisay",
       "url": "https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 177567,
       "name": "Over You",
       "url": "https://open.spotify.com/track/4owVDjd6lmgM1cV1E4Ic9v"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 254250,
       "name": "Peeran",
       "url": "https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi"
@@ -3668,6 +3668,28 @@
       "duration_ms": 196932,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/6FqF5CMHIMreHf11oZJSZo"
+    },
+    {
+      "album": {
+        "name": "Subho Shaam",
+        "url": "https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176642,
+      "name": "Subho Shaam",
+      "url": "https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk"
     },
     {
       "album": {

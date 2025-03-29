@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-737 songs - 1 day 17 hr 21 min
+742 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [All the Time](https://open.spotify.com/track/0iAx9AhspWsqsNIbQcIL4J) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [All the Time](https://open.spotify.com/album/0QpKHJqdDv706hFeFDwBBA) | 2:33 | 2022-08-08 | 2022-08-16 |
 | [Alone in Oslo](https://open.spotify.com/track/7pIccU6AUr1HSjDuMBJVu5) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Alone in Oslo](https://open.spotify.com/album/32pnHqUZJxI1bLeOioEnEA) | 2:28 | 2023-09-04 | 2023-09-26 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-20 | 2023-02-28 |
+| [American Love Song](https://open.spotify.com/track/6WsRA3jPlF1d5TKqzNWp0P) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [American Love Song](https://open.spotify.com/album/40Ei1ez25PaNJRGFBoXSXu) | 3:21 | 2025-03-28 |  |
 | [amnesia](https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [amnesia](https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH) | 2:52 | 2022-10-31 | 2023-03-15 |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2022-06-06 | 2022-11-11 |
 | [Amore](https://open.spotify.com/track/04NO5JILiZ79m8QdhqKvvq) | [CHIAMRO](https://open.spotify.com/artist/77sBjqP1vgO5lpmKUC5576) | [Amore](https://open.spotify.com/album/6wTgR9AzUZKPhZrQTdciMW) | 2:05 | 2025-02-28 |  |
@@ -112,6 +113,7 @@
 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 | 2023-03-27 | 2023-05-23 |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-11-08 |  |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-26 | 2022-11-01 |
+| [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-28 |  |
 | [Carousel](https://open.spotify.com/track/3R6kP6r7uB8wk9iLY3cILM) | [Tobias Arbo](https://open.spotify.com/artist/11BozuxBoGgG4NtpvwJP15) | [Powerlines](https://open.spotify.com/album/7fSOXnep0AOmVj8XdTxFJt) | 3:26 | 2023-04-02 | 2023-04-11 |
 | [Casual Kisser](https://open.spotify.com/track/6vS9XivvbeoxUMUywhHSuc) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Casual Kisser](https://open.spotify.com/album/2gzL4mfz5BiHfsUvZdyI79) | 2:44 | 2023-08-07 | 2023-08-14 |
 | [Catch Me](https://open.spotify.com/track/74y856olp2UIUAs3E1EgVX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Autumn Leaves](https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR) | 3:33 | 2023-10-17 | 2023-11-09 |
@@ -203,6 +205,7 @@
 | [favorite crime](https://open.spotify.com/track/61W7tEpxEfmizp6V5ZRN10) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:32 | 2023-11-08 |  |
 | [Fearless](https://open.spotify.com/track/5mNhrWH68FG0ni1etCujHX) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 4:44 | 2023-03-14 | 2023-03-28 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-11-20 |  |
+| [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-03-28 |  |
 | [Fever](https://open.spotify.com/track/0SKUpG1nVemQF8M9SqlFvb) | [Matthias Nebel](https://open.spotify.com/artist/2D24jOmU0AiPYctJuloI7a) | [Fever](https://open.spotify.com/album/63uFRNIUTdLT7cIrWMjjie) | 2:40 | 2022-08-19 | 2023-02-23 |
 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj) | 2:54 | 2022-06-26 | 2022-07-11 |
 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 | 2025-02-07 |  |
@@ -535,6 +538,7 @@
 | [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 | 2023-03-14 | 2023-04-02 |
 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 | 2022-12-05 | 2023-04-25 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2025-02-04 |  |
+| [Save A Spot In The Back For Me \- Stripped](https://open.spotify.com/track/0cI9Gv61edklENLiLVm49s) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Save A Spot In The Back For Me \(Stripped\)](https://open.spotify.com/album/2jhCmSbgCRE7UMV2S1Rr0V) | 4:26 | 2025-03-28 |  |
 | [Save Me \(From Myself\) \- Acoustic](https://open.spotify.com/track/6kQPKx4DAlDKfPFdGjXY3d) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Save Me \(From Myself\) \- Acoustic](https://open.spotify.com/album/5SPC9NUYbqxxvxqGbBfoUC) | 2:50 | 2023-06-25 | 2023-07-25 |
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2022-07-10 | 2023-02-21 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2023-11-08 |  |
@@ -669,6 +673,7 @@
 | [Turn Me On](https://open.spotify.com/track/5YpVkRlJKvqb6cFgML4tF2) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Turn Me On](https://open.spotify.com/album/5TDOOKTEomL8yMepC5o9Ic) | 3:21 | 2023-07-03 | 2023-07-10 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-25 | 2024-04-13 |
 | [TV Static](https://open.spotify.com/track/5phVRBD7tgg1Wmo07EK6yP) | [Jiubel](https://open.spotify.com/artist/1pmY5q8eybXnnrwOEFqQ1M) | [ren](https://open.spotify.com/album/00bQKbykih8rErea4zixGD) | 2:41 | 2022-11-14 | 2022-11-22 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 |  |
 | [Two Friends](https://open.spotify.com/track/5Ae8AXUFPHOEAFbtdvxLKZ) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [Two Friends](https://open.spotify.com/album/52ha9IABAVg05XKylAC0K4) | 3:12 | 2022-09-01 | 2022-09-13 |
 | [u and i will always be okay](https://open.spotify.com/track/2R2tBo200QmOUSW4tt23tb) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 3:01 | 2023-02-27 | 2023-03-28 |
 | [Ultimate Self](https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Ultimate Self](https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd) | 3:45 | 2022-12-21 | 2023-01-10 |

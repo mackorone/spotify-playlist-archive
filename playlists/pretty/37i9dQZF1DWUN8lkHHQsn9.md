@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5jPmnL6vRtGz8pNWsv7ujq">Norbert Wronka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,657 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,652 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 75 | [IKONA](https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [IKONA](https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg) | 3:00 |
 | 76 | [Tańczę](https://open.spotify.com/track/24ETPb54sx8KtyFV7mMRUI) | [Alan Cyprysiak](https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig) | [Tańczę](https://open.spotify.com/album/54lzrUtzRhLlfsWzzVLqtA) | 3:30 |
 | 77 | [Palo Santo](https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu) | [Lesbijski Groove](https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC) | [Palo Santo](https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP) | 2:59 |
-| 78 | [Deadfall](https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Deadfall](https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn) | 4:23 |
-| 79 | [Go Ahead](https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Go Ahead](https://open.spotify.com/album/2UwcLxssNdV9cSHh5fY1cT) | 4:20 |
+| 78 | [Go Ahead](https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Go Ahead](https://open.spotify.com/album/2UwcLxssNdV9cSHh5fY1cT) | 4:20 |
+| 79 | [Deadfall](https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Deadfall](https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn) | 4:23 |
 | 80 | [rozbijam się](https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [rozbijam się](https://open.spotify.com/album/49GOF2w8VI9BD7BsRtAAM6) | 3:32 |
 | 81 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 82 | [Kot Schrödingera](https://open.spotify.com/track/5YdQeXesb70ZOr6OrHB82S) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Kot Schrödingera](https://open.spotify.com/album/6UXHdo1mibLUki7oB0CtHx) | 3:41 |
@@ -97,12 +97,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 87 | [Rozkosz](https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Rozkosz](https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX) | 3:04 |
 | 88 | [Bluebird \- WATCH OUT REMIX](https://open.spotify.com/track/4L6YgdS5IkVSZC54DHz8Ry) | [Kuba Kluza](https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa) | [Bluebird \(WATCH OUT REMIX\)](https://open.spotify.com/album/4RNi6EMPaYoDOFRNWs15RM) | 2:46 |
 | 89 | [Do odważnych](https://open.spotify.com/track/4XBhyY0vwANhJKvmHQ8ous) | [DIMoN](https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM) | [Doskonale](https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7) | 3:05 |
-| 90 | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Lolita Leopard](https://open.spotify.com/artist/0iTYdScrEVihgUKCOYatkS) | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG) | 2:57 |
+| 90 | [SLAY](https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [SLAY](https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m) | 2:59 |
 | 91 | [Spina](https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spina](https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd) | 3:33 |
-| 92 | [SLAY](https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [SLAY](https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m) | 2:59 |
-| 93 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
-| 94 | [HOTEL](https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [HOTEL](https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1) | 3:10 |
-| 95 | [Słodka Woń](https://open.spotify.com/track/213dpKUmTMXJYrYYjecaXG) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [ABOUT US.](https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8) | 3:38 |
+| 92 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
+| 93 | [HOTEL](https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [HOTEL](https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1) | 3:10 |
+| 94 | [Słodka Woń](https://open.spotify.com/track/213dpKUmTMXJYrYYjecaXG) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [ABOUT US.](https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8) | 3:38 |
+| 95 | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Lolita Leopard](https://open.spotify.com/artist/0iTYdScrEVihgUKCOYatkS) | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG) | 2:57 |
 | 96 | [Więcej empatii \(Muzyka z filmu „Nie jesteś sama”\)](https://open.spotify.com/track/35lGRGuvZ4tSZNreJO6s75) | [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [Więcej empatii \(Muzyka z filmu „Nie jesteś sama”\)](https://open.spotify.com/album/3bF6Pc10GocYSCiEMlOg3O) | 3:12 |
 | 97 | [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 |
 | 98 | [Dziewczyna z NASA](https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai), [Panilas](https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa) | [Dziewczyna z NASA](https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX) | 3:40 |

@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 163977,
       "name": "A Poca Luz",
       "url": "https://open.spotify.com/track/5jUaeHUwBeqWc2GiKBscnk"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 158117,
       "name": "Adicci\u00f3n (feat. BB ASUL)",
       "url": "https://open.spotify.com/track/5O9zZeztcHDekC19IUCqO8"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 229252,
       "name": "Cabr\u00f3n",
       "url": "https://open.spotify.com/track/78Sic9yPWUuX89sDiPTZjH"
@@ -7667,6 +7667,28 @@
     },
     {
       "album": {
+        "name": "QUEMANDO UN BLUNT",
+        "url": "https://open.spotify.com/album/5xrU89K36mKLEwc0wFh9OO"
+      },
+      "artists": [
+        {
+          "name": "DJ Kendo",
+          "url": "https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ"
+        },
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 20400,
+      "name": "QUEMANDO UN BLUNT",
+      "url": "https://open.spotify.com/track/3UKgjE44wAmOxpq2Mn2te9"
+    },
+    {
+      "album": {
         "name": "Quieren Tirarme",
         "url": "https://open.spotify.com/album/356cZ7VJL1E25nx3VQt4Rd"
       },
@@ -9231,6 +9253,36 @@
     },
     {
       "album": {
+        "name": "Traficando",
+        "url": "https://open.spotify.com/album/6aSXWtNL8r52DHlo9BoIk8"
+      },
+      "artists": [
+        {
+          "name": "Elty",
+          "url": "https://open.spotify.com/artist/4dlXeMiq59ilk4DUppR5rf"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Nizze",
+          "url": "https://open.spotify.com/artist/3q4w3kkD8mgKo6a6vl7oZp"
+        },
+        {
+          "name": "Junior On The Track",
+          "url": "https://open.spotify.com/artist/7JUAOIb51tNXDRSNFHAGzz"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185232,
+      "name": "Traficando",
+      "url": "https://open.spotify.com/track/60PHtScUyjHOouisjKz7GO"
+    },
+    {
+      "album": {
         "name": "Tu Aroma",
         "url": "https://open.spotify.com/album/1jp0g5lnkp5rHmSWitsXao"
       },
@@ -9436,6 +9488,24 @@
       "duration_ms": 225319,
       "name": "TU NO TA LINDO RMX",
       "url": "https://open.spotify.com/track/2XV6pyJyineBFSxR73BWAQ"
+    },
+    {
+      "album": {
+        "name": "Tu Sonrisa",
+        "url": "https://open.spotify.com/album/0SjmxEg7ZuZ8fbwmDezs3S"
+      },
+      "artists": [
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/6RpmLklN5ppRPDmgspqG5d"
     },
     {
       "album": {

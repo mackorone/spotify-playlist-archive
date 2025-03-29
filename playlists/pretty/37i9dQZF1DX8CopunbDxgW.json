@@ -1,28 +1,32 @@
 {
-  "description": "the best indie dance tracks of the moment \ud83c\udf34 with camoufly",
-  "num_followers": 889996,
+  "description": "the best indie dance tracks of the moment \ud83d\udd7a\ud83d\udd7a with Polo & Pan",
+  "num_followers": 890001,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z91z4gAAAAAiY0w/R76y+7jN4eG1SJqG",
+  "snapshot_id": "Z+Ye7gAAAAAe0cZ7BLoHV/K1ag5TygD9",
   "tracks": [
     {
-      "added_at": "2025-03-21 04:01:00",
+      "added_at": "2025-03-28 04:00:46",
       "album": {
-        "name": "formula",
-        "url": "https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW"
+        "name": "22:22",
+        "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
       },
       "artists": [
         {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Beth Ditto",
+          "url": "https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4"
         }
       ],
-      "duration_ms": 169972,
-      "name": "formula",
-      "url": "https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR"
+      "duration_ms": 275493,
+      "name": "Petite Etoile",
+      "url": "https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP"
     },
     {
       "added_at": "2025-03-14 04:05:31",
@@ -41,20 +45,24 @@
       "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
     },
     {
-      "added_at": "2025-02-21 05:00:44",
+      "added_at": "2025-03-28 04:00:46",
       "album": {
-        "name": "The Mirror",
-        "url": "https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO"
+        "name": "Pull Together",
+        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 173120,
-      "name": "The Mirror",
-      "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
+      "duration_ms": 253466,
+      "name": "Pull Together",
+      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -71,6 +79,22 @@
       "duration_ms": 195937,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/0nKXBTOEQKcruuAky2rWDu"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 198455,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1jd6IJod2fzfi5aR2A5cEk"
     },
     {
       "added_at": "2025-02-14 05:00:42",
@@ -109,6 +133,38 @@
       "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
     },
     {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "PUT IT DOWN",
+        "url": "https://open.spotify.com/album/3JRrnfWD4LmLXUDbeNLsyu"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "PUT IT DOWN",
+      "url": "https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN"
+    },
+    {
+      "added_at": "2025-02-21 05:00:44",
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 173120,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
+    },
+    {
       "added_at": "2025-03-07 05:00:41",
       "album": {
         "name": "Eternal Reverie",
@@ -127,6 +183,22 @@
       "duration_ms": 214921,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Can't Be Me",
+        "url": "https://open.spotify.com/album/6V5v8EKX35dEiJ3pVijqUu"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        }
+      ],
+      "duration_ms": 157543,
+      "name": "Can't Be Me",
+      "url": "https://open.spotify.com/track/3UfUbzWm9wFWEoxpF4fMTN"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -149,6 +221,22 @@
       "url": "https://open.spotify.com/track/3djxXHSYegfcifFHNhGoP9"
     },
     {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 198003,
+      "name": "Mojo",
+      "url": "https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b"
+    },
+    {
       "added_at": "2025-03-07 05:00:41",
       "album": {
         "name": "Do You Wrong",
@@ -163,6 +251,22 @@
       "duration_ms": 226086,
       "name": "Do You Wrong",
       "url": "https://open.spotify.com/track/1fVMPkM0jXEZQj9s9GXWzw"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Mr Rain",
+        "url": "https://open.spotify.com/album/5yqR98yFe70XgYfBOe4iAg"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 121020,
+      "name": "Mr Rain - Edit",
+      "url": "https://open.spotify.com/track/6Y9PrIDynlhWv7a2wIcsY6"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -197,6 +301,22 @@
       "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
     },
     {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "HIGHERTHANUUU",
+        "url": "https://open.spotify.com/album/2GuToJrRpgRKgzGnKcCtVw"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 166718,
+      "name": "HIGHERTHANUUU",
+      "url": "https://open.spotify.com/track/3vF53yUs2rYnTcXf6jNtD1"
+    },
+    {
       "added_at": "2025-02-21 05:00:44",
       "album": {
         "name": "Know You Love Me",
@@ -215,6 +335,22 @@
       "duration_ms": 179161,
       "name": "Know You Love Me",
       "url": "https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh"
+    },
+    {
+      "added_at": "2025-03-21 04:01:00",
+      "album": {
+        "name": "formula",
+        "url": "https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 169972,
+      "name": "formula",
+      "url": "https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -239,6 +375,22 @@
       "duration_ms": 274920,
       "name": "Smalltown Boy (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/4hnT8Iwo4oeEQA6RzGfEPC"
+      },
+      "artists": [
+        {
+          "name": "Anna-My",
+          "url": "https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9"
+        }
+      ],
+      "duration_ms": 262002,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/6pQB4WLYNsGTihGIYogeBP"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -271,6 +423,34 @@
       "duration_ms": 171428,
       "name": "Pura",
       "url": "https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "ease",
+        "url": "https://open.spotify.com/album/3Y1pVW73K0Yy8SEdoXGLwI"
+      },
+      "artists": [
+        {
+          "name": "MXGPU",
+          "url": "https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "GPU Panic",
+          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
+        }
+      ],
+      "duration_ms": 212825,
+      "name": "ease",
+      "url": "https://open.spotify.com/track/16vZpSijlvxZlbbRlCkEv1"
     },
     {
       "added_at": "2025-03-14 04:05:31",
@@ -331,6 +511,22 @@
       "duration_ms": 197799,
       "name": "Currency (Count On Me) (ft Cimafunk and PAM\u00c9)",
       "url": "https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Show the Way",
+        "url": "https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Show the Way",
+      "url": "https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy"
     },
     {
       "added_at": "2025-03-21 14:12:50",
@@ -873,22 +1069,6 @@
       "url": "https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq"
     },
     {
-      "added_at": "2025-02-14 05:00:42",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/5n4XgI1I1bclmEDBFafsi4"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        }
-      ],
-      "duration_ms": 142812,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Dancing On My Own",
@@ -1015,22 +1195,6 @@
       "duration_ms": 180250,
       "name": "SURF",
       "url": "https://open.spotify.com/track/3Dsyx9AGZIjwvEucp1HHYm"
-    },
-    {
-      "added_at": "2025-02-14 05:00:42",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/1BjW2rlb6Qj4yFxD6P3Gtg"
-      },
-      "artists": [
-        {
-          "name": "Sumner",
-          "url": "https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY"
-        }
-      ],
-      "duration_ms": 222711,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/54MEGyUvnMwDiMXA1hC9gA"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -1247,54 +1411,6 @@
     {
       "added_at": "2025-02-07 05:00:44",
       "album": {
-        "name": "DNA \u221e",
-        "url": "https://open.spotify.com/album/4LqWy1CjGmMs83GLG6qfMW"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 203134,
-      "name": "DNA \u221e",
-      "url": "https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH"
-    },
-    {
-      "added_at": "2025-01-24 05:00:49",
-      "album": {
-        "name": "The Driving Towards The Sunset Tapes",
-        "url": "https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 239859,
-      "name": "volar",
-      "url": "https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b"
-    },
-    {
-      "added_at": "2025-01-17 05:00:46",
-      "album": {
-        "name": "Keep Me Satisfied",
-        "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 145663,
-      "name": "Keep Me Satisfied",
-      "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:44",
-      "album": {
         "name": "partyboi (glitch gum Remix)",
         "url": "https://open.spotify.com/album/3MPvxabUHGAIqbQt9uENAr"
       },
@@ -1329,42 +1445,6 @@
       "url": "https://open.spotify.com/track/5t0uCMCzg4rXR5n0xiaHBR"
     },
     {
-      "added_at": "2025-01-31 05:00:38",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/3VSG0SB1fHnLOMt4zjbA6d"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 187839,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/1yC1hDCkGjI17vwrkb7No8"
-    },
-    {
-      "added_at": "2025-01-24 05:00:49",
-      "album": {
-        "name": "Open Ocean",
-        "url": "https://open.spotify.com/album/5M0Lu7TJsarPyCaxAlZKW3"
-      },
-      "artists": [
-        {
-          "name": "The South Hill Experiment",
-          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
-        }
-      ],
-      "duration_ms": 238355,
-      "name": "Open Ocean",
-      "url": "https://open.spotify.com/track/4HtaVhJfwIiTbMq7TikODH"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "its all good",
@@ -1379,26 +1459,6 @@
       "duration_ms": 140536,
       "name": "thebaddest",
       "url": "https://open.spotify.com/track/4CvN2WpixbxFHenJYFIRPo"
-    },
-    {
-      "added_at": "2025-01-17 05:00:46",
-      "album": {
-        "name": "FREEDOM WE'RE NEEDING",
-        "url": "https://open.spotify.com/album/620btm2TdkMTxU6O4ZW6qp"
-      },
-      "artists": [
-        {
-          "name": "Close Counters",
-          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
-        },
-        {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
-        }
-      ],
-      "duration_ms": 229622,
-      "name": "FREEDOM WE'RE NEEDING",
-      "url": "https://open.spotify.com/track/0njYthzChwavvcyKyD0CD4"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -1439,22 +1499,6 @@
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
-    },
-    {
-      "added_at": "2025-01-24 05:00:49",
-      "album": {
-        "name": "Human Drift",
-        "url": "https://open.spotify.com/album/6swuTQHBIKdwJwJbHYgKiP"
-      },
-      "artists": [
-        {
-          "name": "TUKAN",
-          "url": "https://open.spotify.com/artist/3Sb4jk6AELF08kyBaLrRii"
-        }
-      ],
-      "duration_ms": 242918,
-      "name": "Dani\u00e8le",
-      "url": "https://open.spotify.com/track/5zzexOvuV0w3AYCPQKOTn7"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1523,22 +1567,6 @@
       "duration_ms": 333977,
       "name": "Everything's Going to be OK",
       "url": "https://open.spotify.com/track/34eWjp2K5hJ7SxuVIvRHzK"
-    },
-    {
-      "added_at": "2025-01-10 05:00:33",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/5tSovhsliXyWRyX20GWJgx"
-      },
-      "artists": [
-        {
-          "name": "Charlie Shell",
-          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
-        }
-      ],
-      "duration_ms": 199797,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/39RoLSWrXpOraQp0tvaXWl"
     },
     {
       "added_at": "2025-01-10 05:00:33",
@@ -1651,22 +1679,6 @@
       "duration_ms": 199173,
       "name": "HOME",
       "url": "https://open.spotify.com/track/1fONtMDgrejXVDC7im22Sw"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "No Ice",
-        "url": "https://open.spotify.com/album/15qRqrh7YYtKfkqx6VDvDr"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 242941,
-      "name": "No Ice",
-      "url": "https://open.spotify.com/track/4v9fdnM2Pez9whcdAn0n7s"
     },
     {
       "added_at": "2024-10-25 04:00:00",

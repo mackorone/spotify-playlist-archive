@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,310 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,420 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 90 | [Anywhere](https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Anywhere](https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD) | 4:57 |
 | 91 | [This Wine Is Alive](https://open.spotify.com/track/3mnTUaCnwreaKe2rbeJitq) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [This Wine Is Alive](https://open.spotify.com/album/011OH2t332Xb11kdc7TGMH) | 2:47 |
 | 92 | [More Than Anything](https://open.spotify.com/track/6EDa0a42UOJHgcy4WIqwMY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [More Than Anything](https://open.spotify.com/album/0XZ65qQkiiz1TMDkZAsm92) | 7:17 |
-| 93 | [Footprints \- Acoustic](https://open.spotify.com/track/6HoK4mYxRsiNKf8eO1bMWd) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Footprints \(Acoustic\)](https://open.spotify.com/album/5z8CdQ3QbVZo9xqlZ3Dcd1) | 4:07 |
-| 94 | [Goodness](https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [Goodness](https://open.spotify.com/album/16a0mCgRA5HPmk86U4UJ3I) | 5:34 |
+| 93 | [Goodness](https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [Goodness](https://open.spotify.com/album/16a0mCgRA5HPmk86U4UJ3I) | 5:34 |
+| 94 | [Footprints \- Acoustic](https://open.spotify.com/track/6HoK4mYxRsiNKf8eO1bMWd) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Footprints \(Acoustic\)](https://open.spotify.com/album/5z8CdQ3QbVZo9xqlZ3Dcd1) | 4:07 |
 | 95 | [Get Your Hopes Up](https://open.spotify.com/track/1axUIOWOLCGMJkGwTKgzda) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw) | 4:37 |
 | 96 | [King](https://open.spotify.com/track/6vBLdyTincxHDJLWBtfj38) | [HERITVGE](https://open.spotify.com/artist/1Fh4jmCnu7PXa5rqmmasGX) | [Heritvge](https://open.spotify.com/album/05alkvDjrhOKRhnUXf3mND) | 4:05 |
 | 97 | [God Evermore](https://open.spotify.com/track/2SBAqasLdtBchU4wMB61pE) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj) | 5:06 |

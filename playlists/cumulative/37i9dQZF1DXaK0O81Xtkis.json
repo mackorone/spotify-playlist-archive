@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop.  Cover: Thomas Day",
+  "description": "a little indie, a little pop.  Cover: d4vd",
   "name": "soda",
   "tracks": [
     {
@@ -7032,7 +7032,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 209062,
       "name": "Figure It Out (feat. Jeremy Neale)",
       "url": "https://open.spotify.com/track/5qgSnCA518JYgvIcA6ix9h"
@@ -9557,6 +9557,24 @@
     },
     {
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/01tWq0p3C8mTKpNleojMK3"
+      },
+      "artists": [
+        {
+          "name": "Michael Sanzone",
+          "url": "https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144445,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/1PUfHBF7ggLkIqKl3aSvqR"
+    },
+    {
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
       },
@@ -10632,6 +10650,32 @@
       "duration_ms": 134060,
       "name": "I WRITE SONGS ABOUT YOU",
       "url": "https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc"
+    },
+    {
+      "album": {
+        "name": "I'd Rather Die",
+        "url": "https://open.spotify.com/album/4VM5woMk58UJ0UXjBm2DkK"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139667,
+      "name": "I'd Rather Die",
+      "url": "https://open.spotify.com/track/2zrkzByBpURasLLPrSwXH2"
     },
     {
       "album": {
@@ -12264,6 +12308,24 @@
       "duration_ms": 191080,
       "name": "Leap of Faith",
       "url": "https://open.spotify.com/track/4qgEdEx2VbNCXQOsV9Qem7"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/1h6FJ7fi2IBcYhmeno64Zl"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216516,
+      "name": "Learn to Love Again",
+      "url": "https://open.spotify.com/track/2ea8OKuKhHJp9Em1zbMfcb"
     },
     {
       "album": {
@@ -16657,6 +16719,24 @@
     },
     {
       "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212411,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt"
+    },
+    {
+      "album": {
         "name": "Psycho (When I Wake Up)",
         "url": "https://open.spotify.com/album/0Dy3T55bzxYvsND1rpYuLa"
       },
@@ -18028,6 +18108,24 @@
       "duration_ms": 168676,
       "name": "Sick of U (with Oliver Tree)",
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+    },
+    {
+      "album": {
+        "name": "SideQuest",
+        "url": "https://open.spotify.com/album/2uThaGnqEU2HLuMK6QbUzl"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160713,
+      "name": "SideQuest",
+      "url": "https://open.spotify.com/track/0eP2iFZYAFzq69RiIxFRF8"
     },
     {
       "album": {
@@ -22566,6 +22664,24 @@
       "duration_ms": 172714,
       "name": "What Am I Missing?",
       "url": "https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE"
+    },
+    {
+      "album": {
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144424,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ"
     },
     {
       "album": {

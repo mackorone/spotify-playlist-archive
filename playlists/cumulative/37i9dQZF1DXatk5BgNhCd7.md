@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\.  Natalie Perez & Banda XXI.
 
-3,676 songs - 8 day 20 hr 48 min
+3,677 songs - 8 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -933,7 +933,7 @@
 | [Déjame Ir](https://open.spotify.com/track/0uTFNRgAAP5Y9SAZ1wEscG) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Más Gigantes Que Nunca](https://open.spotify.com/album/3CJwJFB2FjTQfcfuzpa498) | 3:31 | 2023-04-14 | 2023-04-22 |
 | [Déjame Tu Adios](https://open.spotify.com/track/60xBgiCpONaIMWV2jvZjFi) | [Guaco](https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot) | [Déjame Tu Adios](https://open.spotify.com/album/5j3C7xESsvlbLPr2GEs6Ln) | 4:48 | 2022-07-22 | 2022-08-06 |
 | [Dígame usted señorita](https://open.spotify.com/track/73uNKhA2TUC93J9mIk7hrZ) | [Mauricio Mesones](https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Dígame usted señorita](https://open.spotify.com/album/0AVgpKaGnG95xnZ1MBozW7) | 3:43 | 2022-12-16 | 2022-12-24 |
-| [DÍMELO](https://open.spotify.com/track/74FIdCJ0gLSt9k2WGEOGNV) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [DÍMELO](https://open.spotify.com/album/1GBJQnxxCwzEZyrQzh77Xz) | 2:52 | 2025-02-21 |  |
+| [DÍMELO](https://open.spotify.com/track/74FIdCJ0gLSt9k2WGEOGNV) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [DÍMELO](https://open.spotify.com/album/1GBJQnxxCwzEZyrQzh77Xz) | 2:52 | 2025-02-21 | 2025-03-29 |
 | [Díselo Tú](https://open.spotify.com/track/4aRb00AWgUwUVLsgI2EvXa) | [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc) | [Díselo Tú](https://open.spotify.com/album/3RQ0EzGYHTXMEQY4wh0YaG) | 3:36 | 2024-08-02 | 2024-08-10 |
 | [Dónde están corazón](https://open.spotify.com/track/2JjqPX32iUOPJToL0CEBPm) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Dónde están corazón](https://open.spotify.com/album/2DNcmMI6kTJaIqINql5Ndr) | 3:07 | 2024-12-06 | 2024-12-21 |
 | [Dónde Están Tus Promesas](https://open.spotify.com/track/4DmHyMwMcY8zTpjaPYUww7) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Dónde Están Tus Promesas](https://open.spotify.com/album/6WB90h49FN3lxERKThcrft) | 4:09 | 2022-08-05 | 2022-08-13 |
@@ -3273,6 +3273,7 @@
 | [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 | 2023-10-13 | 2023-10-30 |
 | [Tu Chacal de Confianza](https://open.spotify.com/track/7jN4klkH0r4QOnJzqxprnv) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Tu Chacal de Confianza](https://open.spotify.com/album/2fv89uhtzVKWvkL14Z791p) | 2:35 | 2025-02-07 | 2025-03-07 |
 | [Tu Condena](https://open.spotify.com/track/2pI144hqxaMfrBMKgcC3Ra) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Maria De Los Angeles](https://open.spotify.com/artist/3dyX5s2iqVthZmbzEZsg18) | [Tu Condena](https://open.spotify.com/album/41o2qPYZRXun2Eg1b7IZws) | 3:46 | 2022-06-17 | 2022-06-25 |
+| [Tu Crees Yo Creo](https://open.spotify.com/track/1QvocE0oQlyPEpmrRew5pr) | [Guaco](https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot), [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Julio Rivera: Guaco 50](https://open.spotify.com/album/75eLu5WoudCoqswnuhY8aQ) | 3:17 | 2025-03-28 |  |
 | [Tu Cárcel](https://open.spotify.com/track/0CJBpoz2Jno5oQA4MYnE3G) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Bilogía](https://open.spotify.com/artist/6VMXxazhDy4HylQOgZbFqZ) | [Tu Cárcel](https://open.spotify.com/album/6GtW9B15gqXainTxPoNfLX) | 3:00 | 2022-11-04 | 2022-11-12 |
 | [Tu Cárcel \- Como La Flor \- Amor Prohibido \- Paisaje \- En Vivo](https://open.spotify.com/track/2TrAiWskCPWP7T6Yt3cyg7) | [La Mary](https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn) | [La Mary En Concierto: Concepción \(Parte 2\) \[En Vivo\]](https://open.spotify.com/album/1W5nzvmRmNn9U7PrmFvSJq) | 9:40 | 2025-01-17 | 2025-02-15 |
 | [Tu Cárcel \- En Vivo](https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 4:43 | 2022-07-01 | 2022-08-13 |

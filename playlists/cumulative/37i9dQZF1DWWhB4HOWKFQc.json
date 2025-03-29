@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Hearts2Heart",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: MikkyZia, F4dli",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -8154,7 +8154,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 246674,
       "name": "Kamu Cantik Kamu Baik",
       "url": "https://open.spotify.com/track/4lK7zM6W6QHu9GNdR2BX8i"
@@ -13141,6 +13141,32 @@
     },
     {
       "album": {
+        "name": "Putri Iklan",
+        "url": "https://open.spotify.com/album/3exvJVJlI4umZsytNTNM1K"
+      },
+      "artists": [
+        {
+          "name": "Azhardi",
+          "url": "https://open.spotify.com/artist/6cqjL721SqJJmL3V7EeJUy"
+        },
+        {
+          "name": "Devin Adamn",
+          "url": "https://open.spotify.com/artist/6kwOdX0GkoTAGArEzSD9fd"
+        },
+        {
+          "name": "KELJO",
+          "url": "https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237580,
+      "name": "Putri Iklan",
+      "url": "https://open.spotify.com/track/122WSTVFVsX8VI1bTSZNWT"
+    },
+    {
+      "album": {
         "name": "P.U.S.P.A.",
         "url": "https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE"
       },
@@ -16304,6 +16330,28 @@
       "duration_ms": 236390,
       "name": "Suzume",
       "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
       "album": {

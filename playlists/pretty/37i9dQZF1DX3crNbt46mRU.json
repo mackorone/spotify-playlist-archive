@@ -1,13 +1,29 @@
 {
-  "description": "This week's top new releases.",
-  "num_followers": 43157,
+  "description": "This week's top new releases, including Ariana Grande (pictured), Linkin Park, EAZ and more.",
+  "num_followers": 43332,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XYiwAAAAA1pcjIjotshMOk+rF7EPCU",
+  "snapshot_id": "Z+Ye6gAAAABwcsVEBTHgWfxrHfOcpimi",
   "tracks": [
+    {
+      "added_at": "2025-03-27 23:00:27",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
     {
       "added_at": "2025-03-27 23:00:27",
       "album": {
@@ -1375,6 +1391,26 @@
       "duration_ms": 197796,
       "name": "Sunshine & Rain...",
       "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
+    },
+    {
+      "added_at": "2025-03-27 23:00:27",
+      "album": {
+        "name": "HARD LIFE (feat. Carey Washington)",
+        "url": "https://open.spotify.com/album/31EbjNtO1KwwMnhqLt3NFB"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Carey Washington",
+          "url": "https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH"
+        }
+      ],
+      "duration_ms": 222101,
+      "name": "HARD LIFE (feat. Carey Washington)",
+      "url": "https://open.spotify.com/track/7yYYyYKELkxv4aLTTLWwSZ"
     },
     {
       "added_at": "2025-03-27 23:00:27",

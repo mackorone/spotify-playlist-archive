@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4Ghyz32wen4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4Ghyz32wen4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Ghyz32wen4)
 
-### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
+### [sentimiento r&b.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Big Soto en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Lola Indigo en portada.
 
-225 songs - 11 hr 55 min
+227 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,8 +169,8 @@
 | [NSQMQ](https://open.spotify.com/track/6VKD9CaG2mCqbFhwkYHGyZ) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NSQMQ](https://open.spotify.com/album/5ju1Ks1bFGHxuBphsgY0fX) | 3:07 | 2025-03-07 |  |
 | [Nuestra Canción](https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL) | [Nuestra Canción](https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2) | 4:36 | 2023-06-23 | 2023-12-16 |
 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 | 2023-06-16 |  |
-| [Obra de Dios](https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Obra de Dios](https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a) | 3:37 | 2024-02-21 |  |
-| [Odio Perder](https://open.spotify.com/track/4Pj2PU2O4txl0MOx7CNB0z) | [Aitor Martin](https://open.spotify.com/artist/3jQtTrXWRRSWHlDsUvWGNE), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Odio Perder](https://open.spotify.com/album/2JEz7KNgPVvnIWtOp1Ed69) | 2:35 | 2024-05-31 |  |
+| [Obra de Dios](https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Obra de Dios](https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a) | 3:37 | 2024-02-21 | 2025-03-29 |
+| [Odio Perder](https://open.spotify.com/track/4Pj2PU2O4txl0MOx7CNB0z) | [Aitor Martin](https://open.spotify.com/artist/3jQtTrXWRRSWHlDsUvWGNE), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Odio Perder](https://open.spotify.com/album/2JEz7KNgPVvnIWtOp1Ed69) | 2:35 | 2024-05-31 | 2025-03-29 |
 | [OMG](https://open.spotify.com/track/5gjRYrS0Vp6xO7wwSU9fQv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [OMG](https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk) | 3:07 | 2025-03-07 |  |
 | [Opciones](https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Opciones](https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB) | 3:33 | 2024-05-31 |  |
 | [Otra Cosa](https://open.spotify.com/track/1eAvBO32sVLGY6VRXm9iLV) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Otra Cosa](https://open.spotify.com/album/45JW9rCOagIUUebFOW12rL) | 3:12 | 2023-09-08 | 2024-04-19 |
@@ -186,6 +186,7 @@
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2022-04-25 | 2023-09-09 |
 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 | 2022-04-25 | 2024-06-22 |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-04-25 |  |
+| [Q SOMOS?](https://open.spotify.com/track/1I1vYVy6wQvL3PHtVgv4gv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:29 | 2025-03-28 |  |
 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 | 2023-05-05 | 2023-07-22 |
 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 | 2022-04-25 | 2023-05-20 |
 | [quiereme](https://open.spotify.com/track/5JYivrlqjNUoIwDYD38HPN) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [quiereme](https://open.spotify.com/album/5B30x1syAK2wipCalWWN6D) | 3:06 | 2024-03-01 | 2024-04-06 |
@@ -224,6 +225,7 @@
 | [Túnel](https://open.spotify.com/track/3zPyX7VeRX2t7K9oTPlS4K) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Túnel](https://open.spotify.com/album/1F1agzWdqeKxLwEuqyvki7) | 3:44 | 2022-04-25 | 2024-06-01 |
 | [túnosabes](https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [túnosabes](https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq) | 3:02 | 2024-08-30 | 2025-01-18 |
 | [Un Beso Más](https://open.spotify.com/track/2jZYhg9J0Oaupnqv9BcBlZ) | [Laranda](https://open.spotify.com/artist/7bE5OUC0Qr3LgqXBjvZPLO) | [Un Beso Más](https://open.spotify.com/album/79aNv7GinziKqhd89hgsQz) | 2:52 | 2022-04-25 | 2024-04-13 |
+| [Una Segunda Vez](https://open.spotify.com/track/6jwRR76yTsh74FEF8JLGuJ) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Una Segunda Vez](https://open.spotify.com/album/1buBoaI9L86vgJ0GQHmOHP) | 4:24 | 2025-03-28 |  |
 | [UNDOSTRES](https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [UNDOSTRES](https://open.spotify.com/album/0uinxnauQiaTu8QySpjkrC) | 3:28 | 2022-04-25 | 2024-06-01 |
 | [Verte](https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Verte](https://open.spotify.com/album/0lR6GCdnyfY3kela8SCWdS) | 3:35 | 2022-04-25 | 2024-09-14 |
 | [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 | 2022-04-25 | 2024-02-03 |

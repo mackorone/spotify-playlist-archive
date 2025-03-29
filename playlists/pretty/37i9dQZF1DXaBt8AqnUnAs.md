@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,484 likes - 76 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,491 likes - 76 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 15 | [Quarta de cinzas](https://open.spotify.com/track/4tJklWo2MaSlxSQQlwX1Ec) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Dos Mlk](https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH) | [Até o Próximo Carnaval Vol.2](https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X) | 2:43 |
 | 16 | [Anjo](https://open.spotify.com/track/1UQhXpOKXJeNu1HNolwbZy) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 2:50 |
 | 17 | [Sensação](https://open.spotify.com/track/6B8iAagpKOqBVRVsEnnsEQ) | [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [Sensação](https://open.spotify.com/album/0oBSmxGrENIOjQe7BM8D0t) | 2:31 |
-| 18 | [A Melhor de Todas](https://open.spotify.com/track/28c4tGdhmgw8DblgQsPo9i) | [f.b.o](https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [A Melhor de Todas](https://open.spotify.com/album/7pMk5rX3ylCTFBmiTknVA0) | 2:27 |
+| 18 | [A Melhor de Todas](https://open.spotify.com/track/28c4tGdhmgw8DblgQsPo9i) | [f.b.o](https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pep Starling](https://open.spotify.com/artist/2OKT3UlyCvDefb14iq4E71) | [A Melhor de Todas](https://open.spotify.com/album/7pMk5rX3ylCTFBmiTknVA0) | 2:27 |
 | 19 | [SELFIE](https://open.spotify.com/track/52hUiB9nj6N24VyCUIwzms) | [Vulto](https://open.spotify.com/artist/0F70fLZ3B78qjKQg3PguLX), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [SELFIE](https://open.spotify.com/album/4EysWNBsSDRVh1avLNBklQ) | 2:16 |
 | 20 | [157 DA PAIXÃO](https://open.spotify.com/track/5fbtLqaCTdccLCXfapABgm) | [GVBE](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [157 da Paixão](https://open.spotify.com/album/4xUlSyopGmnUp7BojEjreQ) | 2:49 |
 | 21 | [Lares](https://open.spotify.com/track/1iIg8oHDiAdZ3bCRfAba9h) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pastor](https://open.spotify.com/artist/4o1yYKtnF4zkHTrHvb1wUs) | [Lares](https://open.spotify.com/album/3btWcR2QL8AReqKp8TL7Gw) | 2:19 |

@@ -4,7 +4,7 @@
 
 > Lola Indigo, Emilia x TINI x Nicki Nicole, Feid, Dei V y más novedades de la semana.
 
-1,567 songs - 3 day 7 hr 38 min
+1,569 songs - 3 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1362,6 +1362,7 @@
 | [TE HACES](https://open.spotify.com/track/2LDulJfnFPQizHzlDHAmfo) | [JC el Diamante](https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J), [Dímelo Sane](https://open.spotify.com/artist/2mb6aMs7b54RoOXMs9UTZQ) | [TE HACES](https://open.spotify.com/album/5vJGRos4EgBiGbh1jZ8K0r) | 2:20 | 2025-03-06 | 2025-03-14 |
 | [Te Hago Un Resumen](https://open.spotify.com/track/1HWiSHw1YygXh964oAXuJh) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Te Hago Un Resumen](https://open.spotify.com/album/12S2DCVQl0EVinWFv4Px3f) | 3:06 | 2025-02-13 | 2025-02-21 |
 | [Te Juro Que No Hay Un Segundo Que No Piense En Ti](https://open.spotify.com/track/2tXudUoYOqfgG171iDJDEr) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Te Juro Que No Hay Un Segundo Que No Piense En Ti](https://open.spotify.com/album/2US86eCMdM8ZCn2cjDxmfm) | 4:05 | 2024-11-28 | 2024-12-06 |
+| [Te Juro Que No Hay Un Segundo Que No Piense En Ti](https://open.spotify.com/track/3QKDPeX2M0Vaa1VRbYp9Zp) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Te Juro Que No Hay Un Segundo Que No Piense En Ti](https://open.spotify.com/album/4ZdaXEJ7kdzKZjvpwj1RhA) | 4:05 | 2025-03-28 |  |
 | [Te mataré](https://open.spotify.com/track/2cZmRibufSnJylo0g29vXg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [No lo volveré a hacer](https://open.spotify.com/album/3oHXlxp5C7e59cu7OdmhPI) | 2:35 | 2025-03-14 | 2025-03-21 |
 | [Te prometí olvidarte](https://open.spotify.com/track/3febkEizzvhjv8b3x6ViiB) | [Laura Durand](https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j) | [Te prometí olvidarte](https://open.spotify.com/album/0wBVcvFHNiPF8MZL7BWluv) | 3:32 | 2024-11-01 | 2024-11-08 |
 | [Te Quiero a Morir](https://open.spotify.com/track/6OfITPTRdtC1kwUmNwlEHG) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Te Quiero a Morir](https://open.spotify.com/album/5aKoBNsquXiYcKqRKkWKHo) | 3:04 | 2025-03-06 | 2025-03-14 |
@@ -1447,6 +1448,7 @@
 | [Tu soledad y la mía](https://open.spotify.com/track/5VhJQupZlIHHpHpySvDeKq) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Tu soledad y la mía](https://open.spotify.com/album/1If9UxsI36DvbPTQBFD3rU) | 3:32 | 2024-12-06 | 2024-12-13 |
 | [Tu Voz](https://open.spotify.com/track/7awuOF75a20k80EK8PUVSK) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Tu Voz](https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII) | 4:23 | 2024-10-24 | 2024-11-01 |
 | [Tus michis](https://open.spotify.com/track/5iJamZubWUx3T9HD85vc1w) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Tus michis](https://open.spotify.com/album/6NRVlA7Sd7r1wRjYG3vWwV) | 3:06 | 2024-11-28 | 2024-12-06 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-27 |  |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-11-22 |
 | [Tóxico](https://open.spotify.com/track/0rxTVsME1TVgbc0OsXdgIk) | [Sigmund Wilder](https://open.spotify.com/artist/4LYcnfcpahv3PG6fQSJyAS), [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Tóxico](https://open.spotify.com/album/1jz6jvWaxVh3sCvWdgCUyV) | 4:56 | 2025-03-06 | 2025-03-14 |
 | [TÚ CONFÍA](https://open.spotify.com/track/4ggIHM8Vxnxu4abzzJupfI) | [Polo Nandez](https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM) | [TÚ CONFÍA](https://open.spotify.com/album/35daAzoUCna14pcaGC3W2E) | 3:15 | 2025-03-13 | 2025-03-21 |

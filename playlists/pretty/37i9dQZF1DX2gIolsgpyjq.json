@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: Horse Vision",
-  "num_followers": 24985,
+  "num_followers": 25003,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XYTwAAAADVLU6d5f6NpNy6Ll7dOM6H",
+  "snapshot_id": "Z+apMQAAAAC5NuN/aYh/V1E79wuy/WUn",
   "tracks": [
     {
       "added_at": "2025-03-27 22:59:27",
@@ -139,6 +139,22 @@
       "duration_ms": 177232,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/31vyKR506tN2qCQSXyRWIR"
+    },
+    {
+      "added_at": "2025-03-28 13:50:41",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/4hnT8Iwo4oeEQA6RzGfEPC"
+      },
+      "artists": [
+        {
+          "name": "Anna-My",
+          "url": "https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9"
+        }
+      ],
+      "duration_ms": 262002,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/6pQB4WLYNsGTihGIYogeBP"
     },
     {
       "added_at": "2025-03-27 22:59:27",

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 232344,
+  "num_followers": 232413,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9OpxgAAAAAGCEopl2as27jdly6qPB7x",
+  "snapshot_id": "Z+Ye3wAAAADfwgcLaiBldGtRq/SMg2Qe",
   "tracks": [
     {
       "added_at": "2025-03-14 04:00:06",
@@ -23,6 +23,42 @@
       "duration_ms": 262040,
       "name": "Snake In The Tall Grass",
       "url": "https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj"
+    },
+    {
+      "added_at": "2025-03-28 04:00:31",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/1fbjn34QJvS7Mkss057bmi"
+      },
+      "artists": [
+        {
+          "name": "Hollow Souls",
+          "url": "https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4"
+        },
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "duration_ms": 200631,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5BdalGXcHyZj0dB7VYesFh"
+    },
+    {
+      "added_at": "2025-03-28 04:00:31",
+      "album": {
+        "name": "Break Free",
+        "url": "https://open.spotify.com/album/4nEu0JLNGGAq3Sf0Bwo0hg"
+      },
+      "artists": [
+        {
+          "name": "When Rivers Meet",
+          "url": "https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi"
+        }
+      ],
+      "duration_ms": 212375,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/1VfXJzDrhqwHrORhdSRBOx"
     },
     {
       "added_at": "2025-03-14 04:00:06",
@@ -1657,22 +1693,6 @@
       "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/14KKcXPokDi6qo43F5ttV3"
-      },
-      "artists": [
-        {
-          "name": "True Strays",
-          "url": "https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq"
-        }
-      ],
-      "duration_ms": 220363,
-      "name": "Homesick Blues",
-      "url": "https://open.spotify.com/track/0sL71NFPGTCMCylI0owpZN"
-    },
-    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "I Need To Be",
@@ -2219,22 +2239,6 @@
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/539FA4h32bDJBDO88ruwXV"
-      },
-      "artists": [
-        {
-          "name": "Hamish Anderson",
-          "url": "https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P"
-        }
-      ],
-      "duration_ms": 232103,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx"
     },
     {
       "added_at": "2021-11-12 04:00:00",

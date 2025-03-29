@@ -979,6 +979,28 @@
     },
     {
       "album": {
+        "name": "Barmer To Hongkong",
+        "url": "https://open.spotify.com/album/1a76HZ1gdIgyCKAFEkrVfF"
+      },
+      "artists": [
+        {
+          "name": "Dishank Sharma",
+          "url": "https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85"
+        },
+        {
+          "name": "Smokey",
+          "url": "https://open.spotify.com/artist/0pjOlblZPSB8G5SC0kduPW"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159150,
+      "name": "Barmer To Hongkong",
+      "url": "https://open.spotify.com/track/4e7OUJxaMFpN2mb5msncZY"
+    },
+    {
+      "album": {
         "name": "Bawli",
         "url": "https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ"
       },
@@ -1338,7 +1360,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 187298,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/3iEFn2t4LQtZx52VO0FHJg"
@@ -2074,6 +2096,24 @@
       "duration_ms": 221590,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/4hPYkpuhzgPA233YwHDCYz"
+    },
+    {
+      "album": {
+        "name": "Dehshat",
+        "url": "https://open.spotify.com/album/7t1v1cwBY1mpHV95PzF5RC"
+      },
+      "artists": [
+        {
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209189,
+      "name": "Dehshat",
+      "url": "https://open.spotify.com/track/5AzK9Eo8DYwAumfqXeZZvT"
     },
     {
       "album": {
@@ -6332,7 +6372,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 140454,
       "name": "Pistol",
       "url": "https://open.spotify.com/track/1gnSWq0TDPN3DHkXDekuPp"

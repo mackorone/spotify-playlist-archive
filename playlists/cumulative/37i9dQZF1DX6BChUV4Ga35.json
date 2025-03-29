@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Hop Little Bunnies",
+        "url": "https://open.spotify.com/album/5joRzqGqlMhMJHpHRHODS7"
+      },
+      "artists": [
+        {
+          "name": "Lah-Lah",
+          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129440,
+      "name": "Hop Little Bunnies",
+      "url": "https://open.spotify.com/track/2zdlzvGs6BPXn79wKwnEuV"
+    },
+    {
+      "album": {
         "name": "Blippi Tunes, Vol. 3",
         "url": "https://open.spotify.com/album/6TkfhNkfCi1WKoXIhcJOII"
       },

@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: motty & S3BZS
 
-233 songs - 22 hr 58 min
+234 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Lost Cosmonaut](https://open.spotify.com/track/6GXwg3PikKgwpeXo3LVolR) | [Artfaq](https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ) | [The Soundgarden Winter Collection](https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ) | 8:11 | 2020-09-04 | 2022-07-29 |
 | [Love \- Mixed](https://open.spotify.com/track/0WmOlBPDRr8gROqyRr3065) | [Hernan Martinez \(AR\)](https://open.spotify.com/artist/5YYQbfMoQLnDWwc9977eNU) | [MetroDance Fractals Diciembre 14/12/2023 MDF008 \(DJ Mix\)](https://open.spotify.com/album/7saroFReXC5yLRYatL4A9D) | 6:08 | 2024-01-05 |  |
 | [Love Is Coming Back](https://open.spotify.com/track/65AafJRMh7LGHKTjoINJ0L) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Love Is Coming Back](https://open.spotify.com/album/2A2s937laepTt5CYvrZQ1d) | 4:27 | 2023-11-17 | 2024-03-02 |
+| [Luhi](https://open.spotify.com/track/50GkG5QNOhLHI9JWgJ7T8x) | [Agustina Antonini](https://open.spotify.com/artist/5B1u6sQPjittSiQlTpggVx), [CamelVIP](https://open.spotify.com/artist/7eoCdH9Q2zwsyZrggvXNWE) | [Luhi](https://open.spotify.com/album/5YfythCvFWal3AqRlDzn2B) | 7:54 | 2025-03-28 |  |
 | [Lullaby of the Seraphim](https://open.spotify.com/track/6wOP3IG5mrLCh4DH0K3VjF) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Lullaby of the Seraphim EP](https://open.spotify.com/album/5V8Z4wZ8RdRL5Omdr1xFBE) | 3:56 | 2023-11-17 |  |
 | [Mandancer](https://open.spotify.com/track/0AzeXSI6Cuiq4V7V69EdMJ) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF) | [Mandancer](https://open.spotify.com/album/4DllgSp2sT0SU7Emoib2TW) | 7:45 | 2020-09-04 | 2023-11-11 |
 | [Mandancer](https://open.spotify.com/track/5GFmwxo70HpNJDyYP0wXkf) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF) | [Mandancer](https://open.spotify.com/album/5Xf6MpKtq02hzItboXcvQv) | 7:45 | 2020-09-04 | 2023-11-18 |

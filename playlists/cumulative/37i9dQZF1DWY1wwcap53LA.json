@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music making waves. Cover: Scoot Teasley",
+  "description": "Country music making waves. Cover: Sacha",
   "name": "Country Frequency",
   "tracks": [
     {
@@ -1358,6 +1358,24 @@
       "duration_ms": 201932,
       "name": "Heart You Can't Break",
       "url": "https://open.spotify.com/track/1ixFVX3Pz4N8CbpvQqcK44"
+    },
+    {
+      "album": {
+        "name": "Hey Mom I Made It",
+        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169448,
+      "name": "Hey Mom I Made It",
+      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
     },
     {
       "album": {

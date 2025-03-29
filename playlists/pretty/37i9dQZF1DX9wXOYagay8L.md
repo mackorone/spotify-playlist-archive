@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Remembering the life and captivating voice of  <a href="https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=X2TnQdrMRTOFMIRAzdU3fQ"> Yallunder</a>.
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5?si=LLqNNiLkQXavq8J\_74G7WQ"> Sbahle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,138 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,238 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ndinovalo](https://open.spotify.com/track/727e1kV21SQxzGqPW7z3rR) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [iSambulo](https://open.spotify.com/album/4Gb0nw8bMWKO8QKVNYF2r8) | 3:30 |
-| 2 | [Amacala Othando](https://open.spotify.com/track/0BPSspDAsemhtQpcw1Xhpm) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Amacala Othando](https://open.spotify.com/album/0t7rjdzxqkVl0XLv8jky2B) | 4:47 |
+| 1 | [Amacala Othando](https://open.spotify.com/track/0BPSspDAsemhtQpcw1Xhpm) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Amacala Othando](https://open.spotify.com/album/0t7rjdzxqkVl0XLv8jky2B) | 4:47 |
+| 2 | [Uthe Uyangithanda \(feat\. Mjolisi & Pretty Masompisi\)](https://open.spotify.com/track/2d1akyadOHjOCHS6GopvyE) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Pretty Masompisi](https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts) | [Uthe Uyangithanda \(feat\. Mjolisi & Pretty Masompisi\)](https://open.spotify.com/album/23FDAiS5OfPy9kUugXgRlg) | 3:42 |
 | 3 | [Dear Ex Yami](https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Fanatic SA](https://open.spotify.com/artist/5g2oHSGu7YX4EHoSCKIUqo), [Stallin Matsitsa](https://open.spotify.com/artist/4L0dgq6erLpWok6Snhp1bI), [Caeser](https://open.spotify.com/artist/756OYK25pOSHYUiTr5RWEw), [Ayanda Art](https://open.spotify.com/artist/6vl2O57bwb1wowTzUZIDTv) | [Dear Ex Yami](https://open.spotify.com/album/609M6ab6B7QlgEQnvayL56) | 4:38 |
-| 4 | [Uthe Uyangithanda \(feat\. Mjolisi & Pretty Masompisi\)](https://open.spotify.com/track/2d1akyadOHjOCHS6GopvyE) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Pretty Masompisi](https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts) | [Uthe Uyangithanda \(feat\. Mjolisi & Pretty Masompisi\)](https://open.spotify.com/album/23FDAiS5OfPy9kUugXgRlg) | 3:42 |
-| 5 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
-| 6 | [Romeo & Juliet](https://open.spotify.com/track/021iZJ1jjc6cZZ4sMXvcW9) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Romeo & Juliet](https://open.spotify.com/album/7pZKygr8wq4PJKODB0ILfL) | 5:07 |
+| 4 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
+| 5 | [Romeo & Juliet](https://open.spotify.com/track/021iZJ1jjc6cZZ4sMXvcW9) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Romeo & Juliet](https://open.spotify.com/album/7pZKygr8wq4PJKODB0ILfL) | 5:07 |
+| 6 | [Ingoma Yami](https://open.spotify.com/track/7D4L8U9A7aXiveWURPTWRT) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK), [Proud](https://open.spotify.com/artist/4HqpRY96WEihkALTCJWf1B), [Dee R](https://open.spotify.com/artist/37SSMC2YqEFtW8o4yzkDLF), [Cwenga Bass](https://open.spotify.com/artist/69NnlRckDxjd87vXxuMr5S) | [Ingoma Yami](https://open.spotify.com/album/4muR1XrReEmHA8MmSPrf04) | 5:00 |
 | 7 | [Angisafuni Ngami](https://open.spotify.com/track/4mP0H0hKkZa7Y2sgVGfyq7) | [NOMAKHOSINI](https://open.spotify.com/artist/7oYZ1zuBWwCW6d6BDnGr1k), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Angisafuni Ngami](https://open.spotify.com/album/6DllhUIwmtQzNLuf7sZeJ8) | 3:42 |
 | 8 | [Ithuba \(feat\. Zuko SA\)](https://open.spotify.com/track/2Yhth6rSLmO0VBzgGniUmw) | [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8), [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [Ithuba \(feat\. Zuko SA\)](https://open.spotify.com/album/7z7JqFnokSK3Ho47uNP18G) | 4:48 |
 | 9 | [NOMSA](https://open.spotify.com/track/00M97ICmXgguOVlRJcs1YP) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [NOMSA](https://open.spotify.com/album/4PzLiqkrMCSaNwHmE3clTK) | 6:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 79 | [Notification](https://open.spotify.com/track/4lV0XRU1Y4kfgFOjqOdmUq) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:51 |
 | 80 | [Impi Yothando](https://open.spotify.com/track/4K5GlpP2WdwYgZAjDiTbZ5) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Impi Yothando](https://open.spotify.com/album/2qkOyi4KcUglFyXnlYGZPD) | 4:58 |
 
-Snapshot ID: `Z9RPAgAAAAD01m+gZhXJb78EBCF+EbSO`
+Snapshot ID: `Z+ZgJAAAAADJwcaMtuFtkRoKRe4WV4KR`

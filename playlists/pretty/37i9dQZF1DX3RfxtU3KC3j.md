@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Onur Özdemir
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,576 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,566 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 4 | [Senin Yüzünden](https://open.spotify.com/track/6uR2FFnUKpfx7VHwhdlLKS) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Senin Yüzünden](https://open.spotify.com/album/5y375cJQNBVkAbrSigW9Sg) | 3:06 |
 | 5 | [Seninle](https://open.spotify.com/track/3s6zK8WEwsOUUH7ZO3rJT4) | [Onur Özdemir](https://open.spotify.com/artist/60uO9kaHKuwJKg5X8JBkrC) | [raksedip yarın yokmuşçasına](https://open.spotify.com/album/4hYMzGFWZabwKj33dqAv7O) | 4:42 |
 | 6 | [Tek Son Bu Mu?](https://open.spotify.com/track/6sylA3i5kJJLUtmRIylSIr) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO), [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Tek Son Bu Mu?](https://open.spotify.com/album/6SY7Z6y4VcJwzkvVUhPHD9) | 4:00 |
-| 7 | [Korkma 07 \(Düet Hayko Cepkin\) \(feat\. Hayko Cepkin\)](https://open.spotify.com/track/7jZtpQTaO6YwwEAMwMR8ti) | [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq), [Hayko Cepkin](https://open.spotify.com/artist/3hzijSzD6IwOV4SY2SiWQp) | [Korkma Remastered](https://open.spotify.com/album/2xhpNPI3xBUiYtX7mdNUYb) | 5:12 |
+| 7 | [Korkma 07 \(Düet Hayko Cepkin\)](https://open.spotify.com/track/7jZtpQTaO6YwwEAMwMR8ti) | [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq), [Hayko Cepkin](https://open.spotify.com/artist/3hzijSzD6IwOV4SY2SiWQp) | [Korkma Remastered](https://open.spotify.com/album/2xhpNPI3xBUiYtX7mdNUYb) | 5:12 |
 | 8 | [Bozuk Aralar](https://open.spotify.com/track/0cxvo11BTjyxK85KGzLdxU) | [Şekersiz](https://open.spotify.com/artist/1vMWLVjfrmItWSB4hP1eYf) | [Bozuk Aralar](https://open.spotify.com/album/6q7RxDth2rfYYBREFlhryv) | 3:04 |
 | 9 | [Eyvallah](https://open.spotify.com/track/5kerT482x2Om29dA7s0RYO) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Darmaduman](https://open.spotify.com/album/6MrE8aTkCV6xuSnVCRJ1Wz) | 4:49 |
 | 10 | [Modern İnsanlarız](https://open.spotify.com/track/6kEMFpocQgnUC8MXd6rc35) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Modern İnsanlarız](https://open.spotify.com/album/558LMka02jpf9BWupdd0aU) | 3:28 |

@@ -2,41 +2,41 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ashnikko
+> Dark, hard hitting pop\. Cover: Ellise
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,162 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,167 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Itty Bitty](https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c) | 2:42 |
-| 2 | [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 |
-| 3 | [hahaha](https://open.spotify.com/track/510v9v67yjxZVO9hMHmk29) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [hahaha](https://open.spotify.com/album/7rCtOsWYbpoYsZm3fzp1KQ) | 2:24 |
-| 4 | [Tough Luck](https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Tough Luck](https://open.spotify.com/album/2sLG38zmVGBx38pYtYTtbD) | 2:43 |
-| 5 | [a little bit](https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [a little bit](https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n) | 2:45 |
-| 6 | [HELL ON ME](https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [HELL ON ME](https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg) | 2:58 |
-| 7 | [Mortal Kombat](https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Mortal Kombat](https://open.spotify.com/album/7tYTD9ApMBnfvxcL8kMVdC) | 1:59 |
-| 8 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 |
-| 9 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 |
-| 10 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 |
-| 11 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 |
-| 12 | [You're a Liar \(You Love Me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [You're a Liar \(You Love Me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
-| 13 | [Bite Marks](https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Bite Marks](https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid) | 3:10 |
-| 14 | [furr](https://open.spotify.com/track/6uolpfkjKzZsqtbNrwprTY) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [furr](https://open.spotify.com/album/0dSp75sPALNDn3NnWIixvY) | 3:06 |
-| 15 | [Goals](https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Goals](https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S) | 2:13 |
-| 16 | [Oh!](https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Oh!](https://open.spotify.com/album/2SbvBAbGW8FR7w1XS6mXtt) | 3:00 |
-| 17 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
-| 18 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |
-| 19 | [FUN!](https://open.spotify.com/track/1DVLGLhhXSm1MPZiigTNiG) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [FUN!](https://open.spotify.com/album/2ImyXJhAD3HhSa94s4j9bA) | 3:22 |
-| 20 | [Back To Hell](https://open.spotify.com/track/0argBvpz23uO6hbnS0Z3Rc) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 4:07 |
-| 21 | [Nerve](https://open.spotify.com/track/31Q5vXemKsdpSBGEyNTNCx) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Nerve](https://open.spotify.com/album/6217G8cp3DohoFXef2elzd) | 2:32 |
-| 22 | [Worst Day](https://open.spotify.com/track/34WEgaMkqYHT9316Pf9gxT) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Worst Day](https://open.spotify.com/album/6M6IYyNGPujN908evSqmLm) | 2:17 |
-| 23 | [Jared](https://open.spotify.com/track/6SmRJgpCbxzSfM58D401MT) | [LEW](https://open.spotify.com/artist/74wwB8fuPfI5zliwuEy3IS) | [Dead Inside](https://open.spotify.com/album/4jvfJfRKOzPTYdGehufwMJ) | 2:26 |
-| 24 | [Brainstorm](https://open.spotify.com/track/4e7WbwDCNmk06f8fB4IxiA) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Brainstorm](https://open.spotify.com/album/2QadK4dlAtpqIIIYQyp475) | 2:59 |
-| 25 | [Hide 'N Seek](https://open.spotify.com/track/4JL9hpeiDgGgFjJilloQ97) | [Tokyo Project](https://open.spotify.com/artist/6b6w8DXrLFEPxnG4kTqUnT), [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Hide 'N Seek](https://open.spotify.com/album/2wsalZdJzD7YK8FIJIgqNN) | 2:16 |
-| 26 | [BIBI Vengeance](https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \[Remix\]](https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r) | 2:45 |
-| 27 | [What Do Girls Do?](https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [What Do Girls Do?](https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7) | 2:46 |
-| 28 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 |
-| 29 | [dead2me](https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [dead2me](https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3) | 2:44 |
+| 1 | [leech](https://open.spotify.com/track/0qQmftapZMHDS8blo8Cl4y) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PRETTY EVIL](https://open.spotify.com/album/45zhcfn0rwpbktWfWaKgUT) | 2:33 |
+| 2 | [Itty Bitty](https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c) | 2:42 |
+| 3 | [a little bit](https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [a little bit](https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n) | 2:45 |
+| 4 | [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 |
+| 5 | [hahaha](https://open.spotify.com/track/510v9v67yjxZVO9hMHmk29) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [hahaha](https://open.spotify.com/album/7rCtOsWYbpoYsZm3fzp1KQ) | 2:24 |
+| 6 | [Tough Luck](https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Tough Luck](https://open.spotify.com/album/2sLG38zmVGBx38pYtYTtbD) | 2:43 |
+| 7 | [HELL ON ME](https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [HELL ON ME](https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg) | 2:58 |
+| 8 | [Mortal Kombat](https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Mortal Kombat](https://open.spotify.com/album/7tYTD9ApMBnfvxcL8kMVdC) | 1:59 |
+| 9 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 |
+| 10 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 |
+| 11 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 |
+| 12 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 |
+| 13 | [You're a Liar \(You Love Me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [You're a Liar \(You Love Me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
+| 14 | [Bite Marks](https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Bite Marks](https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid) | 3:10 |
+| 15 | [furr](https://open.spotify.com/track/6uolpfkjKzZsqtbNrwprTY) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [furr](https://open.spotify.com/album/0dSp75sPALNDn3NnWIixvY) | 3:06 |
+| 16 | [Goals](https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Goals](https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S) | 2:13 |
+| 17 | [Oh!](https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Oh!](https://open.spotify.com/album/2SbvBAbGW8FR7w1XS6mXtt) | 3:00 |
+| 18 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
+| 19 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |
+| 20 | [FUN!](https://open.spotify.com/track/1DVLGLhhXSm1MPZiigTNiG) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [FUN!](https://open.spotify.com/album/2ImyXJhAD3HhSa94s4j9bA) | 3:22 |
+| 21 | [Back To Hell](https://open.spotify.com/track/0argBvpz23uO6hbnS0Z3Rc) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 4:07 |
+| 22 | [Nerve](https://open.spotify.com/track/31Q5vXemKsdpSBGEyNTNCx) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Nerve](https://open.spotify.com/album/6217G8cp3DohoFXef2elzd) | 2:32 |
+| 23 | [Worst Day](https://open.spotify.com/track/34WEgaMkqYHT9316Pf9gxT) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Worst Day](https://open.spotify.com/album/6M6IYyNGPujN908evSqmLm) | 2:17 |
+| 24 | [Jared](https://open.spotify.com/track/6SmRJgpCbxzSfM58D401MT) | [LEW](https://open.spotify.com/artist/74wwB8fuPfI5zliwuEy3IS) | [Dead Inside](https://open.spotify.com/album/4jvfJfRKOzPTYdGehufwMJ) | 2:26 |
+| 25 | [Brainstorm](https://open.spotify.com/track/4e7WbwDCNmk06f8fB4IxiA) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Brainstorm](https://open.spotify.com/album/2QadK4dlAtpqIIIYQyp475) | 2:59 |
+| 26 | [Hide 'N Seek](https://open.spotify.com/track/4JL9hpeiDgGgFjJilloQ97) | [Tokyo Project](https://open.spotify.com/artist/6b6w8DXrLFEPxnG4kTqUnT), [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Hide 'N Seek](https://open.spotify.com/album/2wsalZdJzD7YK8FIJIgqNN) | 2:16 |
+| 27 | [BIBI Vengeance](https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \[Remix\]](https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r) | 2:45 |
+| 28 | [What Do Girls Do?](https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [What Do Girls Do?](https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7) | 2:46 |
+| 29 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 |
 | 30 | [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 |
 | 31 | [Dunes](https://open.spotify.com/track/4meDLFTdNbHqNuZ62xiKZz) | [Nomé Naku](https://open.spotify.com/artist/2Wssey2jP3QMFRsAFnCgXI) | [Naku](https://open.spotify.com/album/3w0DDYBr93G8h98dD4oJJS) | 3:56 |
 | 32 | [ROCKSTAR](https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [ROCKSTAR](https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 |
 | 50 | [Catatonic](https://open.spotify.com/track/496EwIE0cD8Wp6ylc6D9bH) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [The Death Of Daisies](https://open.spotify.com/album/4E6DCiAAURzas9udSwr5NG) | 2:42 |
 
-Snapshot ID: `Z9zkcAAAAAA4n1Gd741Np2K6fryJhx9+`
+Snapshot ID: `Z+YhzwAAAAC4RwSXogDYFPrW5Eq8ZLNA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,800 likes - 197 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,801 likes - 197 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 184 | [Austerity](https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY) | [Lex French Quartet with James Muller](https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI) | [Prevent the Future](https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU) | 4:26 |
 | 185 | [P+R](https://open.spotify.com/track/5fAcEJGYIPLFK6X5hOshXQ) | [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Confusions](https://open.spotify.com/album/1mvFlZEaRXJog90dn0gUpS) | 4:32 |
 | 186 | [Terminal 9](https://open.spotify.com/track/2RJByShgnBWfOVARqnyE35) | [The Fleeting Light of Love and Grief](https://open.spotify.com/artist/79LTfQQ6Xu3hGya3PQltze) | [Terminal 9](https://open.spotify.com/album/3bh4xSMdaaTKUL5Fcg9Bil) | 3:29 |
-| 187 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 |
-| 188 | [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 |
+| 187 | [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 |
+| 188 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 |
 | 189 | [Anyway](https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 3:45 |
 | 190 | [Higher Self](https://open.spotify.com/track/7IMH2ITlILmprZFaHrUbVt) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES PT III](https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q) | 4:01 |
 | 191 | [No Reason](https://open.spotify.com/track/1P1nt3zpz3ryHC7Uafckdg) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 2:39 |

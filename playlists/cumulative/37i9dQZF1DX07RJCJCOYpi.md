@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Deorro, Jasiel Nuñez
 
-383 songs - 19 hr 53 min
+384 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mí Me Encanta \(Tequila\)](https://open.spotify.com/track/7hOypPNirw4UFkCtCHAOou) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [A Mí Me Encanta \(Tequila\)](https://open.spotify.com/album/3v2S4J6gKUF5oG8cQFXiNi) | 2:36 | 2022-03-22 | 2023-01-28 |
 | [A Solas \(House\)](https://open.spotify.com/track/5QhLerJoRUjlmi35DzQDd7) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Romances de una Nota 2021, Vol.2](https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T) | 3:21 | 2022-03-22 | 2023-05-27 |
 | [AACHO](https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [AACHO](https://open.spotify.com/album/2f0IZIIkAsAzpgKuSWfcRX) | 3:13 | 2024-01-21 | 2024-07-06 |
+| [Actitud](https://open.spotify.com/track/1Z8Nxa2iAw7nxNYKXMPCQQ) | [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Gabriela Bandy](https://open.spotify.com/artist/0COrCaAvBa2JlNk9mrs52a) | [Actitud](https://open.spotify.com/album/3FpqCMWBNOKB3JUcDzPpsa) | 2:35 | 2025-03-28 |  |
 | [Adicto \(feat\. Gigolo y La Exce\)](https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:20 | 2022-07-01 | 2023-05-27 |
 | [Adios](https://open.spotify.com/track/0oWyR0YlcPGZ9zuEHc6EaI) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Adios](https://open.spotify.com/album/2Y5HkAKcA98j4dugmg2yms) | 3:20 | 2023-09-15 | 2024-04-19 |
 | [Adios \(with Andrez Babii\)](https://open.spotify.com/track/01te0VWuPo9HvyA6A4Rizp) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Adios \(with Andrez Babii\)](https://open.spotify.com/album/6fyxiLqGh9Llo4cjORrBdS) | 3:04 | 2022-03-22 | 2023-01-28 |

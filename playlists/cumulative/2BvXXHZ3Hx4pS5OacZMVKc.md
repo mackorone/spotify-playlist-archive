@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-377 songs - 19 hr 44 min
+378 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 | 2022-12-20 | 2023-08-11 |
 | [Shivers](https://open.spotify.com/track/07EhpBhnDfZ6Vm7EwjSHIY) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Shivers](https://open.spotify.com/album/41VSk82y1Frwvc1OiiFq94) | 3:18 | 2022-02-03 | 2022-09-15 |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 | 2023-08-11 |
+| [Signs \- Sped Up](https://open.spotify.com/track/01GqGjLGRvDjbclq4bgHiv) | [NAYM](https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc) | [Signs](https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj) | 3:09 | 2025-03-28 |  |
 | [Silence](https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw) | [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU), [N3b](https://open.spotify.com/artist/3txu4jfa4aSLBjikFcTcWm) | [Silence](https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ) | 3:26 | 2024-09-23 |  |
 | [Sinister](https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [SVRT](https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z), [Chilly](https://open.spotify.com/artist/68XjmGeWauzvqJuWYMuxtA) | [Sinister](https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e) | 2:55 | 2023-08-10 |  |
 | [SKY BRI](https://open.spotify.com/track/1coVU0d7tAtEfvfT6Oatwy) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/4NtUUouJ4lRqrju5xQXShZ) | 1:47 | 2023-08-10 | 2023-12-09 |

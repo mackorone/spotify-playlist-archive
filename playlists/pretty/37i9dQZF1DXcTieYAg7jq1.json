@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: Josh Groban",
-  "num_followers": 419330,
+  "num_followers": 419343,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkaAAAAADml0/arHIzWSDE7SCOxllj",
+  "snapshot_id": "Z+Ye4wAAAAAyt0zNgMqHTgYcmpWw4rIK",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:00:35",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
+    },
     {
       "added_at": "2025-03-21 04:00:40",
       "album": {
@@ -1299,22 +1315,6 @@
       "duration_ms": 191012,
       "name": "When You Lose Someone (Acoustic)",
       "url": "https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ"
-    },
-    {
-      "added_at": "2022-05-17 14:55:58",
-      "album": {
-        "name": "In Real Life",
-        "url": "https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK"
-      },
-      "artists": [
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Brand New Nowhere",
-      "url": "https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP"
     },
     {
       "added_at": "2022-05-17 14:55:58",

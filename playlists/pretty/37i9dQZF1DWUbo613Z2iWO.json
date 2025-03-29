@@ -1,28 +1,184 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover:  Larissa Lambert",
-  "num_followers": 54507,
+  "description": "R&B of the moment by the artists of the future. Cover:  Dende",
+  "num_followers": 54522,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9z3MAAAAAB1H/ArVrHAjBeBWhjVVw6Y",
+  "snapshot_id": "Z+cJCQAAAABe9XY8S+xkyIwIGBVv4spA",
   "tracks": [
     {
-      "added_at": "2025-02-14 08:04:25",
+      "added_at": "2025-03-28 04:00:51",
       "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT"
+        "name": "I am, because you are...",
+        "url": "https://open.spotify.com/album/1iCa2uKzbjFT2csPFD6VAm"
       },
       "artists": [
         {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         }
       ],
-      "duration_ms": 157414,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
+      "duration_ms": 175314,
+      "name": "Stay (feat. Roy Woods)",
+      "url": "https://open.spotify.com/track/2SkYAIrEkCn09z0IwtK37w"
+    },
+    {
+      "added_at": "2025-03-28 04:00:51",
+      "album": {
+        "name": "Falling Into Place",
+        "url": "https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 144513,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L"
+    },
+    {
+      "added_at": "2025-03-28 04:00:51",
+      "album": {
+        "name": "10 Songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 178902,
+      "name": "be with ya",
+      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
+    },
+    {
+      "added_at": "2025-03-28 19:22:50",
+      "album": {
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/7cOfe7aXFYyZ6rrhrlcp2i"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 128233,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/5Ha86zPip9CSUj8hB61yUi"
+    },
+    {
+      "added_at": "2025-03-14 06:39:18",
+      "album": {
+        "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
+        "url": "https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 97371,
+      "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
+      "url": "https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9"
+    },
+    {
+      "added_at": "2025-03-28 04:00:51",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1PMUQC0cN01wWBOa7JX1Tz"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/4Q5i4B6XiPWhGOFMxYvMfO"
+    },
+    {
+      "added_at": "2025-03-28 04:00:51",
+      "album": {
+        "name": "SEARCHING",
+        "url": "https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 150038,
+      "name": "SEARCHING",
+      "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
+    },
+    {
+      "added_at": "2025-03-28 19:26:34",
+      "album": {
+        "name": "Lay With Me",
+        "url": "https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Lay With Me",
+      "url": "https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD"
+    },
+    {
+      "added_at": "2025-02-14 08:04:25",
+      "album": {
+        "name": "LOVE.JONES",
+        "url": "https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 215320,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
+    },
+    {
+      "added_at": "2024-07-26 09:41:16",
+      "album": {
+        "name": "Ain't Sad About It",
+        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Ain't Sad About It",
+      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
     },
     {
       "added_at": "2025-03-21 05:20:48",
@@ -45,24 +201,20 @@
       "url": "https://open.spotify.com/track/4jqQxnUg9MEqjgNeAw61BA"
     },
     {
-      "added_at": "2025-03-14 06:39:18",
+      "added_at": "2025-02-14 08:04:25",
       "album": {
-        "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
-        "url": "https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX"
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
         }
       ],
-      "duration_ms": 97371,
-      "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
-      "url": "https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9"
+      "duration_ms": 157414,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
     },
     {
       "added_at": "2025-02-21 05:16:16",
@@ -101,22 +253,6 @@
       "url": "https://open.spotify.com/track/2ku1pUgAH5iy6e3ZtBcesF"
     },
     {
-      "added_at": "2025-02-14 08:04:25",
-      "album": {
-        "name": "LOVE.JONES",
-        "url": "https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
-    },
-    {
       "added_at": "2025-03-21 05:20:48",
       "album": {
         "name": "Obsessive",
@@ -133,36 +269,36 @@
       "url": "https://open.spotify.com/track/7A6l0IcN6DZMkyUJ42AV2W"
     },
     {
-      "added_at": "2025-03-21 05:20:48",
+      "added_at": "2025-03-28 04:00:51",
       "album": {
-        "name": "32nd Floor",
-        "url": "https://open.spotify.com/album/3xLBUAMjb7qcbu1nW5EPep"
+        "name": "Can We Do This Over",
+        "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
       },
       "artists": [
         {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 171380,
-      "name": "32nd Floor",
-      "url": "https://open.spotify.com/track/2mqx3ugsy7KCmGlV1tDP7K"
+      "duration_ms": 208000,
+      "name": "Can We Do This Over",
+      "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
     },
     {
-      "added_at": "2025-03-07 06:20:43",
+      "added_at": "2025-03-28 04:00:51",
       "album": {
-        "name": "Need U Like",
-        "url": "https://open.spotify.com/album/4rSJXZieqQpt16ly5KwaIE"
+        "name": "Art of War",
+        "url": "https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm"
       },
       "artists": [
         {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 208249,
-      "name": "Need U Like",
-      "url": "https://open.spotify.com/track/6kpOKxfq6OS16y54LIEqcE"
+      "duration_ms": 126973,
+      "name": "Art of War",
+      "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
     },
     {
       "added_at": "2025-03-14 06:39:18",
@@ -183,6 +319,22 @@
       "duration_ms": 180000,
       "name": "Afraid, Pt. 2",
       "url": "https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV"
+    },
+    {
+      "added_at": "2025-03-21 05:20:48",
+      "album": {
+        "name": "32nd Floor",
+        "url": "https://open.spotify.com/album/3xLBUAMjb7qcbu1nW5EPep"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 171380,
+      "name": "32nd Floor",
+      "url": "https://open.spotify.com/track/2mqx3ugsy7KCmGlV1tDP7K"
     },
     {
       "added_at": "2025-02-21 05:16:16",
@@ -445,22 +597,6 @@
       "url": "https://open.spotify.com/track/3hb7X2wYx06jhuPnDP4bV7"
     },
     {
-      "added_at": "2025-02-28 06:56:32",
-      "album": {
-        "name": "RUDUMB?",
-        "url": "https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4"
-      },
-      "artists": [
-        {
-          "name": "Amanda Reifer",
-          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
-        }
-      ],
-      "duration_ms": 117094,
-      "name": "RUDUMB?",
-      "url": "https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN"
-    },
-    {
       "added_at": "2025-02-21 05:16:16",
       "album": {
         "name": "BLOOM",
@@ -591,22 +727,6 @@
       "duration_ms": 168663,
       "name": "ONE MORE TIME (TRY)",
       "url": "https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw"
-    },
-    {
-      "added_at": "2025-03-21 05:20:48",
-      "album": {
-        "name": "A Night About You (Deluxe)",
-        "url": "https://open.spotify.com/album/5cfKNUnGdzjyYVxi1eOQwV"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        }
-      ],
-      "duration_ms": 214962,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/6Ylr3goHPDWv6me0PmA0tl"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -897,26 +1017,6 @@
       "url": "https://open.spotify.com/track/2OQmAU1rXizFeY3ageqplE"
     },
     {
-      "added_at": "2024-12-13 05:00:38",
-      "album": {
-        "name": "NIGHT OFF",
-        "url": "https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 173445,
-      "name": "NIGHT OFF",
-      "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
-    },
-    {
       "added_at": "2025-01-17 05:00:55",
       "album": {
         "name": "Crisis Evasion",
@@ -1013,22 +1113,6 @@
       "url": "https://open.spotify.com/track/3HDlldO6FuTyXUNIU9fk40"
     },
     {
-      "added_at": "2025-01-24 10:36:45",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 183488,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy"
-    },
-    {
       "added_at": "2024-12-20 17:40:20",
       "album": {
         "name": "see through (remix)",
@@ -1071,22 +1155,6 @@
       "duration_ms": 139399,
       "name": "W1LL U L13?",
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
-    },
-    {
-      "added_at": "2024-07-26 09:41:16",
-      "album": {
-        "name": "Ain't Sad About It",
-        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Ain't Sad About It",
-      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
     },
     {
       "added_at": "2025-01-31 10:15:38",
@@ -1717,22 +1785,6 @@
       "url": "https://open.spotify.com/track/7yUnhwAewhRV8PcEbh4u8O"
     },
     {
-      "added_at": "2024-11-15 07:31:41",
-      "album": {
-        "name": "xotic",
-        "url": "https://open.spotify.com/album/2Qt7L9YosoZEQjgmb1Mmrv"
-      },
-      "artists": [
-        {
-          "name": "VITA",
-          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "FADE",
-      "url": "https://open.spotify.com/track/0r0MdpaQW7iLmD0OojRK8p"
-    },
-    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Love So Good",
@@ -1795,22 +1847,6 @@
       "duration_ms": 196680,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1"
-    },
-    {
-      "added_at": "2024-10-18 19:42:43",
-      "album": {
-        "name": "LYIN",
-        "url": "https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok"
-      },
-      "artists": [
-        {
-          "name": "Zyah Belle",
-          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "LYIN",
-      "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
     },
     {
       "added_at": "2024-10-18 19:42:43",
@@ -1999,22 +2035,6 @@
       "duration_ms": 167756,
       "name": "Too Often",
       "url": "https://open.spotify.com/track/03GAUqifa6bI0mFcYyz1DS"
-    },
-    {
-      "added_at": "2024-10-18 19:42:43",
-      "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        }
-      ],
-      "duration_ms": 177901,
-      "name": "Unruly",
-      "url": "https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8"
     },
     {
       "added_at": "2024-10-25 07:34:30",
@@ -2313,26 +2333,6 @@
       "url": "https://open.spotify.com/track/1gON0XMBtaNn7H3Wwyc9jC"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/4rBhE1XPAXHNhbVZ3492gW"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        },
-        {
-          "name": "Vontee the Singer",
-          "url": "https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a"
-        }
-      ],
-      "duration_ms": 220884,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/7uOLj1Vo41c6NTYGeaCFlY"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "don't text me back",
@@ -2493,26 +2493,6 @@
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "WHAT A NIGHT TO BE IN LOVE",
-        "url": "https://open.spotify.com/album/00kgUArBYwVlcbE8HP5aO0"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Two Truths And A Lie",
-      "url": "https://open.spotify.com/track/1eB0OW7eTtcLt3uqYiSc3C"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Jupiter & Stone Between",
@@ -2545,38 +2525,6 @@
       "url": "https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Nigerian Boyfriend",
-        "url": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 147955,
-      "name": "BACK IN OFFICE",
-      "url": "https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
-    },
-    {
       "added_at": "2024-08-30 05:01:34",
       "album": {
         "name": "The Ranch",
@@ -2607,26 +2555,6 @@
       "duration_ms": 136971,
       "name": "Give",
       "url": "https://open.spotify.com/track/2a0rr6LVmgGk6oY1sYQFau"
-    },
-    {
-      "added_at": "2024-08-23 05:24:21",
-      "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "It's All There (Secrets)",
-      "url": "https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco"
     },
     {
       "added_at": "2024-08-23 05:24:21",
@@ -2755,22 +2683,6 @@
       "duration_ms": 245757,
       "name": "I'd Love To See You Again",
       "url": "https://open.spotify.com/track/30yHq5FDnjU9n3VJSEWbQZ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/68XoaEZT5650PV6tSrw1ad"
-      },
-      "artists": [
-        {
-          "name": "WanMor",
-          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/5gLOR2GxtsOszaWpkfTfhR"
     },
     {
       "added_at": "2024-08-16 04:00:00",

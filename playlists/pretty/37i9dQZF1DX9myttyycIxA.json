@@ -1,13 +1,61 @@
 {
-  "description": "Underground indie rock gems. Cover: caroline",
-  "num_followers": 299923,
+  "description": "Underground indie rock gems. Cover: Great Grandpa",
+  "num_followers": 299944,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkdAAAAAA51Rx1/HGWgb8m31peXTmd",
+  "snapshot_id": "Z+Ye7gAAAADgyxW/nroVxZvwvMdOXD4E",
   "tracks": [
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3FqkUuSJxnCRJ7UWUUsKwM"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6NgAi4wEHs7XzJA5wIUBw1"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Never Rest",
+        "url": "https://open.spotify.com/album/1eoqXp1vx3j64v3SRxlOrx"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Never Rest",
+      "url": "https://open.spotify.com/track/2355mlkKrUl6pcuGBqCf3s"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "The Idiot / The Car Knows the Way",
+        "url": "https://open.spotify.com/album/5AzJqaHvFTri1i439I5k2t"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "The Idiot",
+      "url": "https://open.spotify.com/track/529MfUPtJQHCSCvjD0IOKY"
+    },
     {
       "added_at": "2025-03-21 04:00:52",
       "album": {
@@ -25,6 +73,22 @@
       "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"
     },
     {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Sweetness",
+        "url": "https://open.spotify.com/album/00CNmHlBN88lF6nc7NYPaF"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "For You Two",
+      "url": "https://open.spotify.com/track/5meQQf5A0yqFix76MjLPvJ"
+    },
+    {
       "added_at": "2025-03-14 15:04:28",
       "album": {
         "name": "300 dreams",
@@ -39,6 +103,54 @@
       "duration_ms": 188575,
       "name": "300 dreams",
       "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/0btvxqyVwXuJdryIiy4LLO"
+      },
+      "artists": [
+        {
+          "name": "Theo Moss",
+          "url": "https://open.spotify.com/artist/0ETuekbiB4yJVpe2fAMiNP"
+        }
+      ],
+      "duration_ms": 172535,
+      "name": "Intermission",
+      "url": "https://open.spotify.com/track/2kDZlHdW4bpfwDl3dGfVhE"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 251562,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/3cpbY6YDGJsTPnWTqSG2It"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "duration_ms": 172084,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/2lnHmGz1KkSSw4aizcpHeo"
     },
     {
       "added_at": "2025-03-21 04:00:52",

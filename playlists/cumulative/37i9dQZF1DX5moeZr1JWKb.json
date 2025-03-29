@@ -75,6 +75,24 @@
     },
     {
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/4pvFRpzPSBouPH6Se6etmh"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/6A69ir2y3C3mGaTKcSSgaN"
+    },
+    {
+      "album": {
         "name": "Agradezco",
         "url": "https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp"
       },
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 224521,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
@@ -1313,6 +1331,32 @@
     },
     {
       "album": {
+        "name": "Hijas de Barrio 2",
+        "url": "https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Hanna Hasen",
+          "url": "https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT"
+        },
+        {
+          "name": "Zaru",
+          "url": "https://open.spotify.com/artist/5yUUXervRBpp0aXXFZyQvy"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192232,
+      "name": "Hijas de Barrio 2",
+      "url": "https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co"
+    },
+    {
+      "album": {
         "name": "Home Run",
         "url": "https://open.spotify.com/album/4gn05yaiJbKqPVtkInIDqi"
       },
@@ -1350,7 +1394,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 180402,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3ZKTQjeqb1uo3BrnxpfD97"
@@ -1580,7 +1624,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 147319,
       "name": "La Verdad del Pobre",
       "url": "https://open.spotify.com/track/5A6krTKbn9GJJLZ21keUh4"
@@ -2010,7 +2054,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 233357,
       "name": "Morricone",
       "url": "https://open.spotify.com/track/71aX3sroqIFBPq0I3nayj3"
@@ -2094,6 +2138,28 @@
       "duration_ms": 204146,
       "name": "M\u00e1s que reales",
       "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
+    },
+    {
+      "album": {
+        "name": "M\u00c9TELE BELLAKO",
+        "url": "https://open.spotify.com/album/04gmESHw9KbgeW6PGZMwJd"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151317,
+      "name": "M\u00c9TELE BELLAKO",
+      "url": "https://open.spotify.com/track/6wOcPy7ziMiX0nwqVun8Kb"
     },
     {
       "album": {
@@ -3658,6 +3724,28 @@
       "duration_ms": 148167,
       "name": "Vuelve Y Juega",
       "url": "https://open.spotify.com/track/169Stxh6ZnHavcCrwFcE1S"
+    },
+    {
+      "album": {
+        "name": "Ya fue",
+        "url": "https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185685,
+      "name": "Ya fue",
+      "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"
     },
     {
       "album": {

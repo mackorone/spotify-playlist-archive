@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-94 songs - 5 hr 34 min
+95 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 | 2022-02-14 |  |
 | [Colin Opens His Eyes \- From "The Secret Garden"](https://open.spotify.com/track/2r9bHz0Tk6AswHr3oUsDkx) | [Zbigniew Preisner](https://open.spotify.com/artist/3gGbSXSwHWmrUBIG9IUAau) | [The Secret Garden \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2axiSa5DMXwN5woIV4YKNn) | 2:00 | 2022-02-14 | 2022-04-07 |
 | [Cornfield Chase \- Piano\-Cello Version](https://open.spotify.com/track/0dn7lN2ky5BnUJNoELXh3i) | [Michael Forster](https://open.spotify.com/artist/0TORlmlTHaneG9k4nWPn0V), [Anna Stevens](https://open.spotify.com/artist/1vIQpbquJceZ12FiKFnnzv) | [Piano Chill](https://open.spotify.com/album/01O3K6QN4xR3YR2j00ONtr) | 2:04 | 2022-09-13 |  |
-| [Crimson](https://open.spotify.com/track/15wcW2UsA4LLXF9xsB3gZQ) | [Luna](https://open.spotify.com/artist/5Lq80tyGV6FmKgN34FKN30) | [Crimson](https://open.spotify.com/album/5U79Q8A1GDHehzlYjOM07j) | 2:47 | 2025-03-10 |  |
+| [Crimson](https://open.spotify.com/track/15wcW2UsA4LLXF9xsB3gZQ) | [Luna](https://open.spotify.com/artist/5Lq80tyGV6FmKgN34FKN30) | [Crimson](https://open.spotify.com/album/5U79Q8A1GDHehzlYjOM07j) | 2:47 | 2025-03-10 | 2025-03-29 |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-03-29 | 2022-06-30 |
 | [David's Writings](https://open.spotify.com/track/4Q0VPrw0jgRB7onKAtRnFG) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 2:57 | 2022-02-14 |  |
 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 | 2022-02-14 |  |
@@ -49,6 +49,7 @@
 | [Keskiyön valssi](https://open.spotify.com/track/3UioF9dmfda0JSkjgdIh3v) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Keskiyön valssi](https://open.spotify.com/album/4kXNxXOCAghpYjEzeLF5zh) | 4:32 | 2024-11-29 |  |
 | [Kiss the Rain](https://open.spotify.com/track/0fwAkzz0qALiz4QnQKC7pN) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Kiss the Rain](https://open.spotify.com/album/4BjtKMRsRy69raeSHuhb8X) | 4:24 | 2024-02-09 |  |
 | [La fille aux cheveux de lin](https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [La fille aux cheveux de lin](https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy) | 2:39 | 2024-11-08 |  |
+| [La plus que lente, CD 128](https://open.spotify.com/track/14n81e3CGLbHfoHQ5QBo04) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Steven Osborne](https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK) | [Debussy: Études & Pour le piano](https://open.spotify.com/album/6ZhWicZfgKyZAEuJy75jAi) | 3:45 | 2025-03-28 |  |
 | [leaves and trees](https://open.spotify.com/track/17Cv0iBOjWabaeLqAMAxQf) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 5:57 | 2022-02-14 |  |
 | [leaves and trees](https://open.spotify.com/track/4fm8QxhBYRmmxU3Kp1pi3p) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 5:57 | 2022-07-04 | 2024-04-19 |
 | [leaves and trees](https://open.spotify.com/track/7zFGjpozrCWREmakIErLxx) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [leaves and trees](https://open.spotify.com/album/7F3CyaNx0b18PxiajqfyjS) | 5:58 | 2022-10-07 | 2022-11-13 |

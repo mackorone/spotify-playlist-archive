@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,748 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,856 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 14 | [Demand](https://open.spotify.com/track/6hgEgdYq9g9TN9ZN46hFor) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9), [FXRZII](https://open.spotify.com/artist/6kZ4nGuE2fWal8c08vL5Wm), [Moon Light](https://open.spotify.com/artist/5B3Z1P57sSFCo4EJvpMuCv) | [Demand](https://open.spotify.com/album/4viVwvTguVORx3uX0cWvUC) | 2:35 |
 | 15 | [Both Of Us](https://open.spotify.com/track/3LQ1rNWmganDdqVwQYCsIM) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Both Of Us](https://open.spotify.com/album/53NDdNRBDf89VjmmTRq5I8) | 2:38 |
 | 16 | [Humble](https://open.spotify.com/track/3IJj5vXTXvXoGECDjoN0yL) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Humble](https://open.spotify.com/album/7G1XiSRwcQEaucF4EESV03) | 2:33 |
-| 17 | [Flexin](https://open.spotify.com/track/0KYQW5t4OQtGm9w76fxZsN) | [Vi Brown](https://open.spotify.com/artist/4lZN7w6aksASmenxJP5FaC), [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv) | [Flexin](https://open.spotify.com/album/5XTBYcoHkyzS4ygbcbEMoG) | 2:38 |
+| 17 | [Flexin](https://open.spotify.com/track/0KYQW5t4OQtGm9w76fxZsN) | [Vi Brown](https://open.spotify.com/artist/4lZN7w6aksASmenxJP5FaC), [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Dhruv G](https://open.spotify.com/artist/0ZsEm750sSwnqKe7LDE67k) | [Flexin](https://open.spotify.com/album/5XTBYcoHkyzS4ygbcbEMoG) | 2:38 |
 | 18 | [Khabi Khan](https://open.spotify.com/track/3ISqXwplm7BOlaOgoAEqGK) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 2:49 |
 | 19 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 |
 | 20 | [Double Dose](https://open.spotify.com/track/5SEtz18nGFtT8IiyaAJC2z) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n), [Saheb](https://open.spotify.com/artist/3ukEIJ46BpHQxnrWSbqaIq), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt) | [Double Dose](https://open.spotify.com/album/6Y755xcBdMoWO4jAxHuJqr) | 2:50 |

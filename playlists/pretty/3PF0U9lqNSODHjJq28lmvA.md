@@ -4,24 +4,28 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,483 likes - 15 songs - 56 min 19 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,484 likes - 19 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Från HB & skogar](https://open.spotify.com/track/4ekpXxLCUsMIEZH7c85TuK) | [Steget](https://open.spotify.com/artist/7lZhmQZeLcqHj7ZP4eB80t) | [Från HB & skogar](https://open.spotify.com/album/7MCx7aPBK7eN2Izv6c1bI6) | 3:45 |
-| 2 | [Ikke nøye me imorra](https://open.spotify.com/track/0flDwZa54rohmRhXtaZM7S) | [Moillrock](https://open.spotify.com/artist/444fH5AiqWJ5fCEec28VkD) | [Ikke nøye me imorra](https://open.spotify.com/album/0A1kIqqX3Gdk96uBzJjggR) | 2:50 |
-| 3 | [FIND IT THERE](https://open.spotify.com/track/1tzmWPuw1R7X2EYzxk7Bed) | [happytree](https://open.spotify.com/artist/5UBfVxzuki4jF6yfZ8Omo2) | [FIND IT THERE](https://open.spotify.com/album/3RIfBPMxTHGcj9hYMaFLMg) | 3:00 |
-| 4 | [Nothing Embarrassing](https://open.spotify.com/track/1kCvGQe0jYlIdFlEILJvnl) | [Tugboat Captain](https://open.spotify.com/artist/3gBLnOLSOAV0tXQa6ZGGKb) | [Nothing Embarrassing](https://open.spotify.com/album/1QLoBtIAThdCl8VG9BTViw) | 2:28 |
-| 5 | [11:11](https://open.spotify.com/track/49l7f9aTEzDIx7tfsh9VIu) | [JD Casper](https://open.spotify.com/artist/5Q0G3Qz3SZiB9OvGwaPMRL) | [11:11](https://open.spotify.com/album/6dcjFODGFokqCyoSfhhwKF) | 4:08 |
-| 6 | [NÄR VÅGORNA SLÅR](https://open.spotify.com/track/4PIN4Qy324ygxCob23Y4fF) | [Grizzly](https://open.spotify.com/artist/17BNApAqvSVoXhWG79LgNy), [Seron](https://open.spotify.com/artist/0tqLRcV4eZFr5NZ6M4PBMH), [Öris](https://open.spotify.com/artist/7b7xipkWg0LJ3ywsMblMsy) | [NÄR VÅGORNA SLÅR](https://open.spotify.com/album/3u2IaP9zM2wzyu51iY5cDU) | 3:00 |
-| 7 | [ILLUSIONS](https://open.spotify.com/track/3WdlhW2OBWnao5dsm8uvKX) | [TyG](https://open.spotify.com/artist/1Hosc2Fk3nsMfwDjQNl0ko), [Lehday](https://open.spotify.com/artist/1M3NKwrsBF1FSRdNow8hVd), [Ar!s](https://open.spotify.com/artist/5IzwYgJ4wIjRRrLBfwWNZQ) | [ILLUSIONS](https://open.spotify.com/album/6fkufANUTDD5OPsPCSWqWX) | 2:22 |
-| 8 | [Feel the Same](https://open.spotify.com/track/2l5MqrcNgmD4JEiQXITkY7) | [CASA](https://open.spotify.com/artist/5kHrnCkGPBQHgEhexrFQTQ) | [Feel the Same](https://open.spotify.com/album/0MyLFMWsQGxDVcywtJ4Ni9) | 3:46 |
-| 9 | [Breaking me down](https://open.spotify.com/track/6Xh4ld74KvxngOclJZKdvl) | [ZKIN](https://open.spotify.com/artist/76YGfcyEictdHOnltALjKs) | [Breaking me down](https://open.spotify.com/album/6YY89O7AAWcrxBXKJ9AVJ2) | 4:53 |
-| 10 | [Cleansed By Napalm](https://open.spotify.com/track/3e7e5CSDRDSAHJpVAaUubi) | [Antibiotica](https://open.spotify.com/artist/6ksX1IAYIR8P5uKy9F1MRP) | [The Punishment Of War](https://open.spotify.com/album/7EklXweAydiEdqsp2lrnaT) | 5:18 |
-| 11 | [The Race With No End](https://open.spotify.com/track/37ZUc8lE4MVehcetXRsSN2) | [Jonny Aspen](https://open.spotify.com/artist/1Nrlm1o65plt5YjcWJwk1b) | [The Race With No End](https://open.spotify.com/album/5yhbNrCqiNSWX9LU1z3iKC) | 3:48 |
-| 12 | [Long Lonely Winter](https://open.spotify.com/track/1CoulGV4mlLEdLFRfmrEqF) | [Shelby Marshall](https://open.spotify.com/artist/0tWd296SQGSw8jIwG6jnwV), [Grant Marshall](https://open.spotify.com/artist/5HZta0sPCfWlA5Y2qUALUV) | [Long Lonely Winter](https://open.spotify.com/album/4enzAlZhXln4Jk359bAckV) | 3:54 |
-| 13 | [Slightly In Denial](https://open.spotify.com/track/7JZdo3ta5ZdpFWddpbPf2B) | [Lazy Ambition](https://open.spotify.com/artist/2BUR6vYwAqRncQHyrVkcF1) | [Accommodation](https://open.spotify.com/album/7j0hpH5x45jdNTxotcoBST) | 4:37 |
-| 14 | [Pleasures](https://open.spotify.com/track/6B8PlvTGZSfDglYMbIOLPz) | [Sofia Elisabeth](https://open.spotify.com/artist/65fPeWuIlmpjV8wu6EwwMc) | [Pleasures](https://open.spotify.com/album/2W5Zvyo9OsZonq58Ik4g6T) | 3:29 |
-| 15 | [Texto](https://open.spotify.com/track/5JtTGGzzlYsC38IW4TVIsr) | [Ivan C\. Thorpe](https://open.spotify.com/artist/4m7sz5C1J1O9hmMilY9PtF) | [Texto](https://open.spotify.com/album/6zdOdurZiKvlnkkpNfUeFi) | 4:57 |
+| 1 | [Saviour](https://open.spotify.com/track/4enIU7yWcMUUo3CfeOjLJV) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Saviour](https://open.spotify.com/album/2ViBjqL6AcE7XgiB0auOYF) | 3:42 |
+| 2 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
+| 3 | [pattern](https://open.spotify.com/track/1EfAc9VLnvS5XNSAXNyIi0) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf) | [pattern](https://open.spotify.com/album/6u1ksUDptX0IgRqvF7ZbnR) | 1:54 |
+| 4 | [Hardpoint](https://open.spotify.com/track/2hB1EdgPgrQgjMsdECYCZC) | [Megahit](https://open.spotify.com/artist/31r426ivwXMoZRDpTOTLLA) | [Hardpoint](https://open.spotify.com/album/4tzb9fwkM7gcvQAf3glpcg) | 3:16 |
+| 5 | [Cloud Walker](https://open.spotify.com/track/71jpjfAsE9FZZKska8On7Z) | [Kal\-El](https://open.spotify.com/artist/0p0bJVJ56ozF6Ejhkdymcf) | [Cloud Walker](https://open.spotify.com/album/1yMtIyL16wjXwQEjt2rQgM) | 6:55 |
+| 6 | [MADAME](https://open.spotify.com/track/0T4ksupUdttEYLrHmMLlSZ) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [MADAME](https://open.spotify.com/album/6BIUob3S9CcUFxBzSJyCyG) | 1:47 |
+| 7 | [Like a Snake](https://open.spotify.com/track/3SQetH0KU7tQR7jEYQxBEw) | [GINAxC](https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ) | [Like a Snake](https://open.spotify.com/album/2mVLglgdw7ql6oyEcnBEeG) | 2:45 |
+| 8 | [Lama Bada Yatathanna](https://open.spotify.com/track/7zz802BIqMnXEB9OPA98Ba) | [Filip Holm](https://open.spotify.com/artist/2O7FLjTvLWdWHDBgog9MPG), [Mårten Hillbom](https://open.spotify.com/artist/7hHoxsJGkv8HorH0MTjoxH) | [Lama Bada Yatathanna](https://open.spotify.com/album/5EgRfWjieuHWZnqA8zMeQk) | 2:38 |
+| 9 | [Bittersweet](https://open.spotify.com/track/6AEz4X3pW6WhPg5C3bqXE8) | [Yanal](https://open.spotify.com/artist/4AjBeML2yAoOkv0xZMzt7o) | [Bittersweet](https://open.spotify.com/album/23aU0dwD0YDQvSacQI4B2t) | 3:31 |
+| 10 | [Gold](https://open.spotify.com/track/1SMfewoBhRI1uDzWxby4pl) | [NEXXTRIC](https://open.spotify.com/artist/2KHcEYcAGiTLNBV3mbrAgM) | [Gold](https://open.spotify.com/album/5EnzBGGboRlvZLmCXs0R25) | 3:28 |
+| 11 | [Strawman](https://open.spotify.com/track/0QrbAl7vmsqaQEzHYDHqsj) | [Elli & The Black Shades](https://open.spotify.com/artist/38mFbkjQGPj8ujlqnHBfEY) | [Strawman](https://open.spotify.com/album/5P4csOXWBRPUE53glVq77I) | 3:56 |
+| 12 | [Hiekka](https://open.spotify.com/track/7KFqWzPbTnthJhj97lEcCF) | [Ateena](https://open.spotify.com/artist/0rQdp2MXtXryW7XNQ1p2Sq) | [Hiekka](https://open.spotify.com/album/1aGv4tO4iIqBn7Ipj0AeEc) | 3:39 |
+| 13 | [Hen Af Vejen](https://open.spotify.com/track/0wEVXb4jB21yZFz6YaRH6R) | [nymu](https://open.spotify.com/artist/2UqeKoJY1afiXV9EOc1gKB) | [Hen Af Vejen](https://open.spotify.com/album/4A8K8IJJGHVHaoQVnCHppo) | 2:04 |
+| 14 | [Stuck](https://open.spotify.com/track/0C4GTn4tr0oPs5xLqDVtnV) | [T\-Bag](https://open.spotify.com/artist/5W656c2IrJiTMGNWTLbiVe) | [Stuck](https://open.spotify.com/album/52oim75lnVBUJ6g5FLqyov) | 3:59 |
+| 15 | [Found Home](https://open.spotify.com/track/7Bx0KfLZt4w60nLl6geytJ) | [Kevin Larsson](https://open.spotify.com/artist/5aun2Q0UTj9a9TrlyiX8jq) | [Found Home](https://open.spotify.com/album/5PShJiURsQWNHCjXQR8gmB) | 3:00 |
+| 16 | [The Rain](https://open.spotify.com/track/0Pl8O6iN8EwSubhScMKu2Z) | [Moon Party](https://open.spotify.com/artist/57zXL6XB3ife1uDlqXocOQ) | [The Rain](https://open.spotify.com/album/16ssQoqBncMj3jIWOa5ikS) | 4:47 |
+| 17 | [Royal](https://open.spotify.com/track/5usj7ugCVBXu0g7P0ob7Zk) | [Jay](https://open.spotify.com/artist/1ZzeZvJiLd9RCQrw4fCfQS) | [Royal](https://open.spotify.com/album/3ySXnoJ4hajNn34lKFB2Do) | 2:32 |
+| 18 | [Caminata Extrema](https://open.spotify.com/track/6fEsfwdZq0if7WMXm78Ck7) | [Azalea Go](https://open.spotify.com/artist/3vs7wP32dXwH960QorhVRa) | [Caminata Extrema](https://open.spotify.com/album/7aKU7i0eRKC7ZiAPz5j4FO) | 3:00 |
+| 19 | [My Fall](https://open.spotify.com/track/1KdggWHBkGfCX8PJX4kgRJ) | [Not Safe For Work](https://open.spotify.com/artist/0cWtZqKnH0hnGdgdjWMviP) | [My Fall](https://open.spotify.com/album/5WfsAUmmDtDwS5obfjvKDp) | 4:01 |
 
-Snapshot ID: `AAAEFtas86tXZx5Oh3pqlQopYr0xzHo2`
+Snapshot ID: `AAAEGMSCQnyJtiq6Dx+F1IoQtmVbO1JH`

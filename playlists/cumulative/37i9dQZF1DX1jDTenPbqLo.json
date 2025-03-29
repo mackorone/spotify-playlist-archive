@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Midsummer",
+        "url": "https://open.spotify.com/album/0y5eFKRKERwyqIwm4u0UMn"
+      },
+      "artists": [
+        {
+          "name": "Tim Thorpe",
+          "url": "https://open.spotify.com/artist/5jalqI4moemzPYFKEhZrph"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343280,
+      "name": "A Midsummer Night's Dream: Nocturne, Op. 61 No. 7",
+      "url": "https://open.spotify.com/track/50BudDA5jAJAULFU4tqHQ9"
+    },
+    {
+      "album": {
         "name": "MOZART: Piano Works 3",
         "url": "https://open.spotify.com/album/3kHdBZKRhA6ZSDIi3iM5DS"
       },
@@ -652,6 +670,28 @@
       "duration_ms": 327573,
       "name": "My Father's Favourite",
       "url": "https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW"
+    },
+    {
+      "album": {
+        "name": "Field: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/0EOZVLK59a6f8FOKX1yiOl"
+      },
+      "artists": [
+        {
+          "name": "John Field",
+          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271066,
+      "name": "Nocturne No. 11 in E-Flat Major, H. 56",
+      "url": "https://open.spotify.com/track/0JGcqT4azJQdmkaEWyDD7c"
     },
     {
       "album": {

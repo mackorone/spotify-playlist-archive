@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "album": {
         "name": "ANITA",
         "url": "https://open.spotify.com/album/1Ih0ZdvWVSmNmVt14zLCbT"
       },
@@ -3634,7 +3656,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 195000,
       "name": "CASH",
       "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
@@ -4594,7 +4616,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 200077,
       "name": "Danny Phantom",
       "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
@@ -6333,6 +6355,28 @@
     },
     {
       "album": {
+        "name": "Feel the Bassline",
+        "url": "https://open.spotify.com/album/5ZIsHaXkXxrURV8lW4dIRK"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200848,
+      "name": "Feel the Bassline",
+      "url": "https://open.spotify.com/track/3wv4n8Kz5xFfCcHxs1toDl"
+    },
+    {
+      "album": {
         "name": "Feeling Naughty",
         "url": "https://open.spotify.com/album/1Eozvs60IkKnm4cRIHHtsw"
       },
@@ -6998,6 +7042,24 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "album": {
+        "name": "From Within (part 1)",
+        "url": "https://open.spotify.com/album/3OGQOeNbg5RwkeMftYy5s9"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "From Within",
+      "url": "https://open.spotify.com/track/1fZm9MY1NrkzAbzrkxUtfZ"
     },
     {
       "album": {
@@ -10874,7 +10936,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 147692,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN"
@@ -11552,7 +11614,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 211200,
       "name": "Mobbing",
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
@@ -13144,6 +13206,32 @@
       "duration_ms": 125585,
       "name": "NYC BABY",
       "url": "https://open.spotify.com/track/1d8K4YrRelAi7AuZfxP4Uy"
+    },
+    {
+      "album": {
+        "name": "ODB",
+        "url": "https://open.spotify.com/album/2HimJyamgfaF8hw3anO6Zg"
+      },
+      "artists": [
+        {
+          "name": "Omicasa",
+          "url": "https://open.spotify.com/artist/5qAOSNmLnyp7kjuMooZyRb"
+        },
+        {
+          "name": "Matsu",
+          "url": "https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U"
+        },
+        {
+          "name": "Craze",
+          "url": "https://open.spotify.com/artist/1CxiYuhxzUwYDPQSZw076D"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "ODB",
+      "url": "https://open.spotify.com/track/7lHynUn1w2C6Bv3hgYajK7"
     },
     {
       "album": {
@@ -17388,7 +17476,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 169783,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/0zaa2DnLFJHgP6YmtKAh0K"
@@ -18584,6 +18672,28 @@
       "duration_ms": 210820,
       "name": "Time For That",
       "url": "https://open.spotify.com/track/7rq8W4rsVd5JroaR7pBdLw"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6oUebbsW22LXqQ06NVSmrX"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "Grimix",
+          "url": "https://open.spotify.com/artist/29NIvby6mXbv2rirvtYr6a"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135230,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6qxWNOGxX8VdQUHRsf4YUY"
     },
     {
       "album": {

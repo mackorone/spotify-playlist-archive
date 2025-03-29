@@ -2,7 +2,7 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Dragon
+> Check out the Latest Romance Tracks.<br/>Cover : Veera Dheera Sooran
 
 279 songs - 18 hr 17 min
 

@@ -2613,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Going to Raleigh",
+        "url": "https://open.spotify.com/album/7MhoGejeCjrPmXi1WyTVRy"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Justin Robinson",
+          "url": "https://open.spotify.com/artist/2mOT5MxVjb9Jhc2CEqyVvw"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148187,
+      "name": "Going to Raleigh",
+      "url": "https://open.spotify.com/track/2qhBJ0NVcaEyv3BjROtUdp"
+    },
+    {
+      "album": {
         "name": "DAGGOMIT!",
         "url": "https://open.spotify.com/album/1NAdCKsjSyePIUcs8FjqNm"
       },
@@ -3158,7 +3180,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 150781,
       "name": "Hook and Line",
       "url": "https://open.spotify.com/track/5d3AerGUgExCxJOSze68ME"
@@ -5832,6 +5854,28 @@
       "duration_ms": 185932,
       "name": "Richest Man Alive - Live AF Version",
       "url": "https://open.spotify.com/track/62ZjiB03JIgFizq44VF5j6"
+    },
+    {
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207002,
+      "name": "Richmond On The James",
+      "url": "https://open.spotify.com/track/0xSyT5drjetDctC8DZuW89"
     },
     {
       "album": {

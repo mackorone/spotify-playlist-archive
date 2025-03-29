@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:1w2fVGZN37TieWhlqS8UwB">Tobias Rahim</a>, Lamin, Gobs og mange flere 👀
 
-4,770 songs - 10 day 7 hr 1 min
+4,772 songs - 10 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-09-13 |
 | [Bogeyman](https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Bogeyman](https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm) | 4:45 | 2024-09-05 | 2024-09-13 |
 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 | 2024-08-22 | 2024-08-30 |
-| [Boller Mig Med Øjnene \(feat\. Hedegaard\)](https://open.spotify.com/track/2YVejuaec3MUZKSNA7mA1b) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev) | [Boller Mig Med Øjnene \(feat\. Hedegaard\)](https://open.spotify.com/album/0OvnNU9zqmG2xGYoO07ZFS) | 2:29 | 2025-03-27 |  |
+| [Boller Mig Med Øjnene \(feat\. HEDEGAARD\)](https://open.spotify.com/track/2YVejuaec3MUZKSNA7mA1b) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Boller Mig Med Øjnene \(feat\. HEDEGAARD\)](https://open.spotify.com/album/0OvnNU9zqmG2xGYoO07ZFS) | 2:29 | 2025-03-27 |  |
 | [Bollet En Nordmand \(feat\. Mario Riera\)](https://open.spotify.com/track/4ie8pperNOMrPHDi3Jko7p) | [Tes Boys](https://open.spotify.com/artist/0h0hqxByAxH4bi45rjwHj9), [Mario Riera](https://open.spotify.com/artist/2zLFjmNLNfgabGLbJsGxgk) | [Bollet En Nordmand \(feat\. Mario Riera\)](https://open.spotify.com/album/3z3FwHjuEhTzLF79r6pQok) | 3:03 | 2024-04-26 | 2024-05-03 |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 | 2024-07-19 |
 | [Bon Voyage](https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Bon Voyage](https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ) | 3:43 | 2024-08-09 | 2024-08-16 |
@@ -1655,6 +1655,7 @@
 | [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-20 | 2024-06-28 |
 | [Girls just wanna have fun](https://open.spotify.com/track/2BbY1U7zipIeqwd9m2WyC0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Girls just wanna have fun](https://open.spotify.com/album/0Q1LTnqlF8Dfx4B3VPd2q5) | 3:14 | 2024-10-24 | 2024-11-01 |
 | [Girls Like You](https://open.spotify.com/track/6RO6Qx1tiKfz7DM64r0e80) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy) | 2:45 | 2024-10-31 | 2024-11-08 |
+| [girls on dope](https://open.spotify.com/track/0wPiUqhU13TEVDdSITecCZ) | [Elliot](https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd) | [girls on dope](https://open.spotify.com/album/4TkgOLgkTxutrQwrAjtvwO) | 2:57 | 2025-03-28 |  |
 | [Girls On The Internet](https://open.spotify.com/track/2p646IXQ5NldzSmZmpHqC1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Girls On The Internet](https://open.spotify.com/album/2ZKruwObcyv0WoHPRN1dvM) | 3:18 | 2024-08-01 | 2024-08-09 |
 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 | 2025-01-30 | 2025-02-07 |
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-16 | 2024-08-23 |
@@ -4360,6 +4361,7 @@
 | [Turn Me On](https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Turn Me On](https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7) | 2:40 | 2024-10-17 | 2024-10-25 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-06 | 2025-02-14 |
 | [Twenty\-Five](https://open.spotify.com/track/3yvr5tQ6r8fbweZ62lH3EN) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [Twenty\-Five](https://open.spotify.com/album/7E8zMIXfXz0zkaeH6FbJP2) | 2:17 | 2024-10-10 | 2024-10-18 |
+| [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 |  |
 | [Two Face](https://open.spotify.com/track/1jWuA72IHfxakObgf4nXF5) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [Two Face](https://open.spotify.com/album/6vP8KWsykjI1VNqd3f3Lj7) | 2:56 | 2024-09-26 | 2024-10-04 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-11-22 |
 | [Two step](https://open.spotify.com/track/6MbnWEl9w9O2pGUpBOMWMe) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:48 | 2025-02-20 | 2025-02-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,745 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,781 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 10 | [Dios Fuerte](https://open.spotify.com/track/4SnT5pKPCu4pHOHt7vP5QB) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Dios Fuerte](https://open.spotify.com/album/7ksMtOqkJt5urr5XejIDOH) | 7:40 |
 | 11 | [Que Se Llene Tu Casa](https://open.spotify.com/track/5SJsGkMXZCN9mzxoM8JjNj) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/6uviGvDbNIhxoOMqTP3HKl) | 4:08 |
 | 12 | [El Héroe De La Humanidad](https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:03 |
-| 13 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 |
-| 14 | [Contra Tu Sistema](https://open.spotify.com/track/52eb1ee2bhsQxnDaMprAys) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Contra Tu Sistema](https://open.spotify.com/album/1ClppXjQsdAEJ7kzJuJ1ur) | 3:56 |
-| 15 | [Somos Libres](https://open.spotify.com/track/5K8h4xOwZVRQa4VGriAQKv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D) | 3:55 |
-| 16 | [Casita en el Cielo](https://open.spotify.com/track/67nH4fENqR57oYGpE6BNgy) | [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Casita en el Cielo](https://open.spotify.com/album/2Xdlf33WLjUgb9Pgxb1uHM) | 3:03 |
-| 17 | [Levanta tu oración](https://open.spotify.com/track/2iCszwZqi0lXZrKPeslnxi) | [Jeimy Roxana](https://open.spotify.com/artist/5f66KWcE2hUOSUEP89H56V) | [Levanta tu oración](https://open.spotify.com/album/3MSjDtIxDhZMyjL73peCD8) | 4:40 |
-| 18 | [Aire \(feat\. Miguel Balboa\)](https://open.spotify.com/track/14P5c7BfBNCmQvvK2bVwVq) | [Heler](https://open.spotify.com/artist/35NxdBqTf7OqYjSIYDwI8c), [Miguel Balboa](https://open.spotify.com/artist/0T6gtHK8LMFs4BjsmHGLzX) | [Tan Real](https://open.spotify.com/album/6mQeUGxs4D5Of6Z0BPnV3R) | 3:25 |
-| 19 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 |
-| 20 | [Por Ti Vivo](https://open.spotify.com/track/6PyNHGK10QnXSeW7zFFbAD) | [Fory The King](https://open.spotify.com/artist/4VPOAYBMbzhN6qIQzIGGPH), [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Por Ti Vivo](https://open.spotify.com/album/1i149SOzOao1m4qZauUrtv) | 3:08 |
-| 21 | [Dias Mejores](https://open.spotify.com/track/3sYJReZT3FdfszMVHlbRBU) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1faelqcXJKpp2O8K4FkkH2) | 4:27 |
-| 22 | [Nunca para de Llover](https://open.spotify.com/track/5ZMX8xKjQJ9R3yimWg6tk5) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/5VEJIRuyWuBK1jLFaZKf91) | 2:58 |
-| 23 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 |
-| 24 | [Hagamos Fiesta](https://open.spotify.com/track/6Gik4A7UhOtr5KWgD5OCO4) | [Eliud Emmanuel Díaz](https://open.spotify.com/artist/1oJjdaBvEVBGCMzkkE2JPc) | [Hagamos Fiesta](https://open.spotify.com/album/1ipZ8fcwGnHRrNw8HnySTU) | 4:00 |
+| 13 | [Cicatriz](https://open.spotify.com/track/0TpWtQlUdr9biLLEZjdIxQ) | [Año Cero](https://open.spotify.com/artist/5Gkiy2b9FCiZbLdJvsC1dS), [Skapaltata](https://open.spotify.com/artist/2TamkT4q1zJ6TAXMwZUvcs) | [Cicatriz](https://open.spotify.com/album/3OjM2PwrylF0BdAGLouWPR) | 2:13 |
+| 14 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 |
+| 15 | [Contra Tu Sistema](https://open.spotify.com/track/52eb1ee2bhsQxnDaMprAys) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Contra Tu Sistema](https://open.spotify.com/album/1ClppXjQsdAEJ7kzJuJ1ur) | 3:56 |
+| 16 | [Somos Libres](https://open.spotify.com/track/5K8h4xOwZVRQa4VGriAQKv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D) | 3:55 |
+| 17 | [Casita en el Cielo](https://open.spotify.com/track/67nH4fENqR57oYGpE6BNgy) | [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Casita en el Cielo](https://open.spotify.com/album/2Xdlf33WLjUgb9Pgxb1uHM) | 3:03 |
+| 18 | [Levanta tu oración](https://open.spotify.com/track/2iCszwZqi0lXZrKPeslnxi) | [Jeimy Roxana](https://open.spotify.com/artist/5f66KWcE2hUOSUEP89H56V) | [Levanta tu oración](https://open.spotify.com/album/3MSjDtIxDhZMyjL73peCD8) | 4:40 |
+| 19 | [Aire \(feat\. Miguel Balboa\)](https://open.spotify.com/track/14P5c7BfBNCmQvvK2bVwVq) | [Heler](https://open.spotify.com/artist/35NxdBqTf7OqYjSIYDwI8c), [Miguel Balboa](https://open.spotify.com/artist/0T6gtHK8LMFs4BjsmHGLzX) | [Tan Real](https://open.spotify.com/album/6mQeUGxs4D5Of6Z0BPnV3R) | 3:25 |
+| 20 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 |
+| 21 | [Por Ti Vivo](https://open.spotify.com/track/6PyNHGK10QnXSeW7zFFbAD) | [Fory The King](https://open.spotify.com/artist/4VPOAYBMbzhN6qIQzIGGPH), [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Por Ti Vivo](https://open.spotify.com/album/1i149SOzOao1m4qZauUrtv) | 3:08 |
+| 22 | [Dias Mejores](https://open.spotify.com/track/3sYJReZT3FdfszMVHlbRBU) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1faelqcXJKpp2O8K4FkkH2) | 4:27 |
+| 23 | [Nunca para de Llover](https://open.spotify.com/track/5ZMX8xKjQJ9R3yimWg6tk5) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/5VEJIRuyWuBK1jLFaZKf91) | 2:58 |
+| 24 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 |
 | 25 | [Así Peleo Mis Batallas](https://open.spotify.com/track/4oOPe4cjevog1yEGOq9a7y) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Que La Música No Pare](https://open.spotify.com/album/0ygjAyH0Rxrco1LTCjJyzY) | 3:24 |
 | 26 | [Mamá](https://open.spotify.com/track/2OUxFYzVubPW1uzBqcAQ4j) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Si Te Conocieran](https://open.spotify.com/album/01kLlPHwbwCJb6zW3jq5jv) | 4:35 |
 | 27 | [Enamorado De Ti](https://open.spotify.com/track/5Iy1ewyP16XUKYLSlPBtgi) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Memories \(Edición Especial\)](https://open.spotify.com/album/0tiXUxBtGraV3sMjDQJuzY) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 | 50 | [Fe](https://open.spotify.com/track/6WVrVeVXeREZp8aXRnh30E) | [Santo Remedio](https://open.spotify.com/artist/6103ay1cM9Vux1EceF8CCZ) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 3:11 |
 
-Snapshot ID: `Z8Fo/QAAAADHPjnkU+4DSjrMvXyYHJaU`
+Snapshot ID: `Z+Z3agAAAACZnUxd+o5fGBp3/ZBuyQid`

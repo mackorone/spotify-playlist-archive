@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,294 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,309 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 81 | [Movimento Astratto](https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Cosmica Italiana](https://open.spotify.com/album/6vpTptHhCC583XUoazczZt) | 3:42 |
 | 82 | [hajar](https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [IRA](https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL) | 11:02 |
 | 83 | [Your Song](https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3) | [Doctor 3](https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y) | [The Tales Of Doctor 3](https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI) | 7:02 |
-| 84 | [Ma Gnossienne](https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV) | [Kety Fusco](https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR) | [Ma Gnossienne](https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc) | 4:30 |
-| 85 | [You Can't Always Get What You Want](https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX) | [Danilo Rea](https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst) | [Something In Our Way](https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x) | 5:36 |
+| 84 | [You Can't Always Get What You Want](https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX) | [Danilo Rea](https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst) | [Something In Our Way](https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x) | 5:36 |
+| 85 | [Ma Gnossienne](https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV) | [Kety Fusco](https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR) | [Ma Gnossienne](https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc) | 4:30 |
 | 86 | [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 |
 | 87 | [Bugiardo, incosciente](https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V) | [Jula De Palma](https://open.spotify.com/artist/5lW8wX7Dvny7gTTfql8755) | [Julia de Palma In Concert](https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL) | 4:43 |
 | 88 | [Canzone di Nausicaa](https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE) | [Racconti mediterranei](https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2) | 7:34 |

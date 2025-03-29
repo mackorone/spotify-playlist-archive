@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Live Session Vol 1",
+        "url": "https://open.spotify.com/album/1fbQrdbmFVRDMD6JTyTabO"
+      },
+      "artists": [
+        {
+          "name": "DANDARA",
+          "url": "https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255797,
+      "name": "CICATRICES",
+      "url": "https://open.spotify.com/track/0T9dqvswDkVqD5CeCUvJcT"
+    },
+    {
+      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx"
       },
@@ -1540,6 +1558,28 @@
       "duration_ms": 166625,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/0fMcU9JmcBeWVMzqbE7PU8"
+    },
+    {
+      "album": {
+        "name": "TR3S",
+        "url": "https://open.spotify.com/album/3AiilnB66vqE98WBFReKeT"
+      },
+      "artists": [
+        {
+          "name": "Brapis",
+          "url": "https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L"
+        },
+        {
+          "name": "Faus.",
+          "url": "https://open.spotify.com/artist/3523bfC8fO4mikSjfpLccw"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179796,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/39G6VuL4uMc4RkTmTWmGvr"
     },
     {
       "album": {

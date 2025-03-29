@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,436 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,472 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 3 | [Dalle Bande](https://open.spotify.com/track/43fT0fcn0OQigmlcj1IlQ9) | [Nav Dolorain](https://open.spotify.com/artist/6hOa4wyENmUQBjd1q9F42w), [Mani Sheron](https://open.spotify.com/artist/4cuUcVGazv96ev19Z4E0Kp), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV) | [Dalle Bande](https://open.spotify.com/album/75WwbXFDZn5isCXJrKyX7z) | 2:26 |
 | 4 | [Darzi](https://open.spotify.com/track/7MnlRFYpqpqR2J7NZbr2E7) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Darzi](https://open.spotify.com/album/5oBfpFYGqqFkUh3uv9kFuk) | 1:49 |
 | 5 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 |
-| 6 | [3 Peg](https://open.spotify.com/track/3G8o2zm7LaF6eeVuvLlrkJ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Raviraj](https://open.spotify.com/artist/6PukbgXGSVUSDyBz2Hn2n7) | [3 Peg](https://open.spotify.com/album/2onCNtkuhjk538U3dPusIy) | 3:24 |
+| 6 | [Punjaban](https://open.spotify.com/track/1IP2G9KlWwT9xw1OlGf6Pd) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:57 |
 | 7 | [Taseer](https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [Taseer](https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu) | 2:42 |
-| 8 | [It Ain't Easy](https://open.spotify.com/track/2ZZbkTY3HQXPHlOn7cnz7h) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [It Ain't Easy](https://open.spotify.com/album/4p9FfegCzQ0i1kIHKpZ85a) | 3:17 |
-| 9 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 |
+| 8 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 |
+| 9 | [3 Peg](https://open.spotify.com/track/3G8o2zm7LaF6eeVuvLlrkJ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Raviraj](https://open.spotify.com/artist/6PukbgXGSVUSDyBz2Hn2n7) | [3 Peg](https://open.spotify.com/album/2onCNtkuhjk538U3dPusIy) | 3:24 |
 | 10 | [Miss Kaur](https://open.spotify.com/track/32FS8jYFQ9JWOVjnXYUBW3) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Miss Kaur](https://open.spotify.com/album/2Cs3UBpzzDfXVisd0Mblfn) | 4:12 |
 | 11 | [Halla Gulla](https://open.spotify.com/track/6VDZQV2ZhRSwtapy6860Rv) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Halla Gulla](https://open.spotify.com/album/4kN2YAdAUuDcPHxmNOd3oQ) | 2:47 |
 | 12 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 99 | [Time Chakkna \(feat\. Jas Grewal\)](https://open.spotify.com/track/4GCkVArcjqqgg5agaWn4xQ) | [Balkar Ankhila](https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be), [Manjinder Gulshan](https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw), [Jas Grewal](https://open.spotify.com/artist/41hJ0cxO37yAxrvBM3bSCP) | [Time Chakkna \(feat\. Jas Grewal\)](https://open.spotify.com/album/3sTy5xdFZFQk61K1ZZtUBP) | 4:27 |
 | 100 | [NO MORE SHADA](https://open.spotify.com/track/42JDl7zaIHMWqiyXvQqHDQ) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [NO MORE SHADA](https://open.spotify.com/album/0Fnoxv0wKGgAIt9x5MuOjU) | 3:36 |
 
-Snapshot ID: `Z+VAKwAAAABE0zNOIW7YunyIhWRq362J`
+Snapshot ID: `Z+awAQAAAACNdUaWGzQdTTYRmf2mhA7l`

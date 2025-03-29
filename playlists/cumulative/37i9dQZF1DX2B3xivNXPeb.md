@@ -2,7 +2,7 @@
 
 ### [Your Kitchen Stereo](https://open.spotify.com/playlist/37i9dQZF1DX2B3xivNXPeb)
 
-> Whether you're meal prepping or just pottering around, here's a soundtrack to enjoy when you're cosy at home.
+> Music for enjoying your space
 
 533 songs - 1 day 7 hr 6 min
 

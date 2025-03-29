@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Maisak
 
-170 songs - 8 hr 39 min
+171 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [La Ruta](https://open.spotify.com/track/1rLEJvxnJyI8uqaQKxnbN8) | [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [La Ruta](https://open.spotify.com/album/7lFoAsoidKTQw5W56SozzI) | 2:40 | 2023-12-15 | 2024-01-20 |
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 | 2023-11-24 | 2024-02-10 |
 | [Le hacés falta vos](https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [Le hacés falta vos](https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp) | 2:47 | 2024-09-06 | 2024-10-18 |
+| [Lección](https://open.spotify.com/track/2HJMe6Yt9hZQzrwIQsYxIY) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Lección](https://open.spotify.com/album/4aLW2npcKqUkeOCGNZckQv) | 2:47 | 2025-03-28 |  |
 | [Lobo](https://open.spotify.com/track/3Y3aU99NXGwT9oLkwAXJGG) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 2:36 | 2024-08-09 | 2024-11-22 |
 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 | 2023-09-30 |  |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-08 |  |
@@ -175,7 +176,7 @@
 | [Verano 23](https://open.spotify.com/track/33D8RI7wFKjzh8zvbSE1mN) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Mis Traumas, Mis Chistes](https://open.spotify.com/album/25Gsw8B8ZpFFhOlx9fF1LR) | 3:14 | 2024-11-29 |  |
 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 | 2023-09-30 |  |
 | [X 1 BESO](https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [X 1 BESO](https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W) | 3:08 | 2023-09-30 | 2023-12-16 |
-| [X1 BESITO](https://open.spotify.com/track/0gcdTUq3Al8gDBRkISUI9o) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [X1 BESITO](https://open.spotify.com/album/0W46icC4MFMbpQnp42lHxD) | 2:50 | 2024-08-09 |  |
+| [X1 BESITO](https://open.spotify.com/track/0gcdTUq3Al8gDBRkISUI9o) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [X1 BESITO](https://open.spotify.com/album/0W46icC4MFMbpQnp42lHxD) | 2:50 | 2024-08-09 | 2025-03-29 |
 | [XQ Te Pones Así](https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:38 | 2023-09-30 | 2023-10-21 |
 | [YA NO VOLVERÁS](https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz) | [Cris Valencia](https://open.spotify.com/artist/7xP0fQcNHEMD9yL5j4ERz1), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [YA NO VOLVERÁS](https://open.spotify.com/album/0zDyw2Xv0AH3lx47RwjvdP) | 2:40 | 2024-07-26 |  |
 

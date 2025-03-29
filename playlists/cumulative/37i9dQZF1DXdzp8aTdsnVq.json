@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Elder Day\u00e1n D\u00edaz",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Peter Manjarr\u00e9s",
   "name": "Lo + del Vallenato",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 214000,
       "name": "2025",
       "url": "https://open.spotify.com/track/2ozIUT44pxAwAlDR6zlMUJ"
@@ -104,6 +104,28 @@
       "duration_ms": 280133,
       "name": "A Blanco y Negro",
       "url": "https://open.spotify.com/track/1CrKa4fjUJCjpcXXPeLuYu"
+    },
+    {
+      "album": {
+        "name": "Acabaste Conmigo",
+        "url": "https://open.spotify.com/album/2ZtG6NWNqfrPEX4GbHzSl4"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Acabaste Conmigo",
+      "url": "https://open.spotify.com/track/58hsUyQmJEsymvIbaRUYOK"
     },
     {
       "album": {
@@ -302,7 +324,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 247000,
       "name": "Amor Incomparable",
       "url": "https://open.spotify.com/track/3UTUu8Y3bx7wYygEw29MTn"
@@ -328,6 +350,28 @@
       "duration_ms": 317893,
       "name": "Ay Hombe",
       "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
+    },
+    {
+      "album": {
+        "name": "La Jerarqu\u00eda",
+        "url": "https://open.spotify.com/album/0rbgeaPpbLvETwqErcbvIU"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Luis Jose Villa",
+          "url": "https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255120,
+      "name": "Ay Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/7DRlRTXgYF8lhyASJEXkIA"
     },
     {
       "album": {
@@ -895,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Dos Horas",
+        "url": "https://open.spotify.com/album/7GoM4womlWrvCIgiRVdTAq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218479,
+      "name": "Dos Horas",
+      "url": "https://open.spotify.com/track/4lx3Sz9AXMNGfRTwMt6CbE"
+    },
+    {
+      "album": {
         "name": "V\u00eda Libre",
         "url": "https://open.spotify.com/album/26hzx6GzNQQWqM4NbERu86"
       },
@@ -1074,7 +1140,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 248480,
       "name": "El Que No Bebe Se Muere",
       "url": "https://open.spotify.com/track/7ws2k8irXAxlItFvTj9ZCg"
@@ -1170,6 +1236,24 @@
       "duration_ms": 280946,
       "name": "El Terremoto",
       "url": "https://open.spotify.com/track/2Rq6afZSpqismRLHVqEj2I"
+    },
+    {
+      "album": {
+        "name": "El Yoy\u00f3",
+        "url": "https://open.spotify.com/album/1BzebJAXtiPURHb0BvdFHN"
+      },
+      "artists": [
+        {
+          "name": "Ana del Castillo",
+          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212743,
+      "name": "El Yoy\u00f3",
+      "url": "https://open.spotify.com/track/1KmwTmGNFNhW4PF4KQCawj"
     },
     {
       "album": {
@@ -2084,7 +2168,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 245364,
       "name": "Mosaico Dieguista: La M\u00eda Eres T\u00fa / La Alfombra Roja",
       "url": "https://open.spotify.com/track/6mYb3rUcISHPyxbMJ2vXIg"
@@ -2664,7 +2748,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 244478,
       "name": "Reina Hermosa",
       "url": "https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M"
@@ -3206,7 +3290,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-29",
       "duration_ms": 223687,
       "name": "T\u00fa Me Gustas, Mujer!!!",
       "url": "https://open.spotify.com/track/1zfs7wu5eDin6jDpIC662H"

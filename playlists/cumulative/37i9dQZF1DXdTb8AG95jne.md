@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 유라 \(youra\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 우효\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-913 songs - 2 day 7 hr 43 min
+916 songs - 2 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [c a c t u s s m u g g l e r](https://open.spotify.com/track/0kAVuSxArLGBy450zdfYPv) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-OXYGEN](https://open.spotify.com/album/5lehCVJHqa65UdRdXrmu3h) | 5:25 | 2024-04-30 | 2024-05-10 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2024-05-01 |
 | [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-04 | 2023-04-19 |
+| [Calling You](https://open.spotify.com/track/43HFmGfFKx9hCXBEighJXG) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Calling You](https://open.spotify.com/album/7qo64skK7IHyXpgYTdQRPW) | 6:03 | 2025-03-28 |  |
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-24 | 2023-06-02 |
 | [Casa Rosa](https://open.spotify.com/track/76oUoDKvvleVKKF2vlyNfH) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Casa Rosa](https://open.spotify.com/album/0kBeimZ6up4vSX9G6U1i4S) | 2:38 | 2024-04-30 | 2024-05-10 |
 | [Certain mind](https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Certain mind](https://open.spotify.com/album/1JB4MND4WBlaE9lUW1Yy73) | 5:14 | 2021-12-21 | 2022-07-02 |
@@ -289,7 +290,7 @@
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-10 | 2025-01-23 |
 | [Go Back](https://open.spotify.com/track/4GhDaROSZ1HHh6qGHxBR0O) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Go Back](https://open.spotify.com/album/5nrTyyRN42maHoTsNt5veZ) | 4:13 | 2024-07-22 | 2024-08-29 |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2022-03-09 | 2022-07-19 |
-| [God of Mud](https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [God of Mud](https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7) | 4:03 | 2025-02-06 |  |
+| [God of Mud](https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [God of Mud](https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7) | 4:03 | 2025-02-06 | 2025-03-29 |
 | [Golden Time !](https://open.spotify.com/track/68cZDWKZ2tShwZDcZxE6sF) | [ahreum](https://open.spotify.com/artist/59ARBW6DM7f37HN93uOjQy) | [Golden Time !](https://open.spotify.com/album/6k102m55xMi1OheH96tfRY) | 2:53 | 2024-04-30 | 2024-05-10 |
 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 | 2025-03-04 |  |
 | [Good bye blue days](https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Good bye blue days](https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe) | 4:11 | 2021-12-12 | 2022-07-28 |
@@ -325,9 +326,9 @@
 | [Hollywood](https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0) | 5:31 | 2023-05-04 | 2024-04-19 |
 | [Hollywood](https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/2Mw3tpyBFi65jX9hgBXP17) | 5:31 | 2021-12-12 | 2022-07-24 |
 | [Home](https://open.spotify.com/track/6y7oBWsXHt4ClQuUqqdFsj) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Home](https://open.spotify.com/album/6fO5C0CRfbjwL027kmCJG2) | 4:07 | 2022-04-12 | 2022-04-21 |
-| [Home Sweet Home](https://open.spotify.com/track/4SX5SmW6mflphAMaXSoWlO) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Jebidabang Compilation 2024/2025](https://open.spotify.com/album/0KTa4dYpjWANhs6gj6kBYP) | 4:02 | 2025-02-20 |  |
+| [Home Sweet Home](https://open.spotify.com/track/4SX5SmW6mflphAMaXSoWlO) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Jebidabang Compilation 2024/2025](https://open.spotify.com/album/0KTa4dYpjWANhs6gj6kBYP) | 4:02 | 2025-02-20 | 2025-03-29 |
 | [Honesty](https://open.spotify.com/track/63AyrRTi5G6HBOic0TaENv) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [Honesty](https://open.spotify.com/album/5jVTyv5ByyJbR12tELjMug) | 3:26 | 2022-03-31 | 2022-04-07 |
-| [Hoo! ha..](https://open.spotify.com/track/2g6xX5juQc08YW8UxI8yH7) | [SIMILE LAND](https://open.spotify.com/artist/1PVjeeja3aKjY1vI6C8W82) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 4:33 | 2025-01-30 |  |
+| [Hoo! ha..](https://open.spotify.com/track/2g6xX5juQc08YW8UxI8yH7) | [SIMILE LAND](https://open.spotify.com/artist/1PVjeeja3aKjY1vI6C8W82) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 4:33 | 2025-01-30 | 2025-03-29 |
 | [Hool Hool](https://open.spotify.com/track/2sXnBoZGYGnwLWC3ukomGm) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [HOOL HOOL](https://open.spotify.com/album/6X2HcQCUuqRbibsIbNIdR4) | 3:30 | 2025-01-22 |  |
 | [HOPE](https://open.spotify.com/track/05DA32NYsDutwuvthUOUSA) | [Andnew](https://open.spotify.com/artist/292GXpdx9IglUfxrfvh2l9), [Raphan](https://open.spotify.com/artist/18nrDjJPMoJHC137nkvGVs) | [HOPE](https://open.spotify.com/album/40rKwgG1RLq6FiECMPuMdw) | 2:26 | 2022-01-27 | 2022-02-17 |
 | [Horses](https://open.spotify.com/track/22dNi7hvJmfo4oJfZXjOuE) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Climbers](https://open.spotify.com/album/4h07d6P5OuqOpAZnplCuxJ) | 3:18 | 2025-02-17 |  |
@@ -657,9 +658,11 @@
 | [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-10 | 2025-02-21 |
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-01 | 2023-03-28 |
 | [Seoul Cyborg](https://open.spotify.com/track/4rrMmUmhSdFlulRRxek9xw) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:22 | 2021-12-21 | 2022-07-22 |
+| [Seventeen](https://open.spotify.com/track/2epRLhB38MGHYSe9lsJWEY) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz) | [creespy](https://open.spotify.com/album/255GaorCuhv1qLxqBXNbCf) | 3:12 | 2025-03-28 |  |
 | [Shall We Step Outside?](https://open.spotify.com/track/29p8aNQVxEh0E4cZ91zvck) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Shall We Step Outside?](https://open.spotify.com/album/6U1J18m9z1BmStOfpKpI5u) | 3:39 | 2025-03-21 |  |
 | [She's like a Pretty Witch \(Feat\. Kvsh\)](https://open.spotify.com/track/1xZc4SJuQI9e9pES2h2imf) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [c\-a\-r\-e\-l\-e\-s\-s](https://open.spotify.com/album/6zi6edZVRlp5Efy15XAqLB) | 2:53 | 2024-04-30 | 2024-05-28 |
 | [She's not straight](https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [She's not straight](https://open.spotify.com/album/4HjbWvsjIgiSQ9yxFRUql0) | 3:50 | 2024-09-10 | 2024-09-20 |
+| [Shelter](https://open.spotify.com/track/4g2SWe81I7Ak91LUJsvGaT) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [SAD : Sometimes Always Depressed](https://open.spotify.com/album/4mddnWQ8a21XDznwGnXdeM) | 2:33 | 2025-03-28 |  |
 | [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 | 2024-07-01 | 2024-07-04 |
 | [Shimmer](https://open.spotify.com/track/7uoMYFa07mkc8fDPxKQ7jO) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Shimmer](https://open.spotify.com/album/3mA6BYaLOeIJlYUCGfSiFq) | 4:11 | 2024-04-30 | 2024-05-10 |
 | [Shining](https://open.spotify.com/track/2V9WSMXEQsndclO6euxhus) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Shining](https://open.spotify.com/album/7DLTL4SBnacezYhSPmV5qW) | 4:13 | 2022-03-31 | 2022-04-17 |
