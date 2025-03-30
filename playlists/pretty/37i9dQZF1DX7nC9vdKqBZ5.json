@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1515775,
+  "num_followers": 1515817,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Zeeba - Reset",
+        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 214741,
+      "name": "Tudo Que Importa (Acoustic)",
+      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 193116,
       "name": "Sem Jeito Ao Vivo - Ac\u00fastico / Ao Vivo",
       "url": "https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Zeeba - Reset",
-        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 214741,
-      "name": "Tudo Que Importa (Acoustic)",
-      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Quem Sabe",
-        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
-      },
-      "artists": [
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        },
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "Quem Sabe",
-      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Onde A Gente Chegou",
         "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
       },
@@ -663,18 +643,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+        "name": "Quem Sabe",
+        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        },
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Boca Com Boca",
-      "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
+      "duration_ms": 173858,
+      "name": "Quem Sabe",
+      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -691,6 +675,22 @@
       "duration_ms": 205408,
       "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Boca Com Boca",
+      "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Casa de Praia 2 (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Pijama - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Aluga-se",
         "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Energia Surreal (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
+        "name": "Casa de Praia 2 (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 177481,
-      "name": "Energia Surreal - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
+      "duration_ms": 175086,
+      "name": "Pijama - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -919,22 +903,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Milk Box",
-        "url": "https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z"
+        "name": "Energia Surreal (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
       },
       "artists": [
         {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 261256,
-      "name": "Verdadeiro Amor - Studio Sessions",
-      "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
+      "duration_ms": 177481,
+      "name": "Energia Surreal - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -951,6 +931,26 @@
       "duration_ms": 151458,
       "name": "ciumeira",
       "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Milk Box",
+        "url": "https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z"
+      },
+      "artists": [
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        }
+      ],
+      "duration_ms": 261256,
+      "name": "Verdadeiro Amor - Studio Sessions",
+      "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Alto Mar (Sessions)",
-        "url": "https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 200658,
-      "name": "Alto Mar - Sessions",
-      "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Maia Sessions",
         "url": "https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 180333,
       "name": "Gostosin (Acoustic)",
       "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Alto Mar (Sessions)",
+        "url": "https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 200658,
+      "name": "Alto Mar - Sessions",
+      "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
-        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "Certeza - Ao Vivo",
-      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Outra Vez (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 226714,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
+        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "Certeza - Ao Vivo",
+      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
       "artists": [
         {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
         }
       ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Novo Ciclo",
         "url": "https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2"
       },
@@ -1535,88 +1535,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
-      },
-      "artists": [
-        {
-          "name": "Eu, Trovador",
-          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
+        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
       },
       "artists": [
         {
@@ -1624,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 221106,
-      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
+      "duration_ms": 142857,
+      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1647,6 +1567,86 @@
       "duration_ms": 245195,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
+      },
+      "artists": [
+        {
+          "name": "Eu, Trovador",
+          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Ainda Bem Que Chegou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Ainda Bem Que Chegou - Acoustic Version",
+      "url": "https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1683,6 +1683,22 @@
       "duration_ms": 219544,
       "name": "Volta",
       "url": "https://open.spotify.com/track/6K6WJdyILe1BlbwGmKuJj7"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 148669,
       "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Nobre Vagabundo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0QXco6eRK3Dy6SezkfCHVj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 181327,
-      "name": "Nobre Vagabundo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4a7Xb1MKZe72htweVyJozF"
     }
   ],
   "unique_name": "Desplugado",

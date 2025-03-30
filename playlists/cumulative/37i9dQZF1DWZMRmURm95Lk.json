@@ -4530,7 +4530,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 167625,
       "name": "il profumo delle rose (feat. Danno, Dj Craim)",
       "url": "https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j"
@@ -4686,7 +4686,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 266933,
       "name": "Int 'o rione",
       "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
@@ -7205,6 +7205,28 @@
     },
     {
       "album": {
+        "name": "Due lettere dopo",
+        "url": "https://open.spotify.com/album/1bMmwDbX9CLTBBQMz1Fp1S"
+      },
+      "artists": [
+        {
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+        },
+        {
+          "name": "Speranza",
+          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157362,
+      "name": "No escort",
+      "url": "https://open.spotify.com/track/39HtNhC2ug7fAdTZbDMFaD"
+    },
+    {
+      "album": {
         "name": "Musica Per Vincenti",
         "url": "https://open.spotify.com/album/5om6L1wmdA5iKeMcvJABUe"
       },
@@ -9606,6 +9628,36 @@
       "duration_ms": 225000,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/5yoe7x40eGMqxxpTlhKbdw"
+    },
+    {
+      "album": {
+        "name": "SANT'ERASMO SANTA MONICA (feat. Mick Jenkins & Louis Dee)",
+        "url": "https://open.spotify.com/album/4fUC36ufwnNPcqUMZbYhB0"
+      },
+      "artists": [
+        {
+          "name": "Frank D'amato",
+          "url": "https://open.spotify.com/artist/3dYMwL2jxsudgJnWRZigyi"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        },
+        {
+          "name": "Louis Dee",
+          "url": "https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "SANT'ERASMO SANTA MONICA (feat. Mick Jenkins & Louis Dee)",
+      "url": "https://open.spotify.com/track/5ixvbCxdjERngKocffDrVi"
     },
     {
       "album": {

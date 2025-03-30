@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239986,
+      "name": "Ikhaya Lamaqhawe",
+      "url": "https://open.spotify.com/track/5nvUIRQQy6o2fCA4aVIDdq"
+    },
+    {
+      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU"
       },
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 212950,
       "name": "Nomathemba",
       "url": "https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv"

@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Veera Dheera Sooran
 
-279 songs - 18 hr 17 min
+280 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dheema \(From "Love Insurance Kompany"\)](https://open.spotify.com/track/6CvW7N8JjBHmwEfGz2Yxhk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dheema \(From "Love Insurance Kompany"\)](https://open.spotify.com/album/5eqQtQhwXiBhZEzrbdDOXQ) | 3:55 | 2024-10-16 |  |
 | [Dhinam Dhinamum \(From "Viduthalai 2"\)](https://open.spotify.com/track/5ny5kJpw1FLIDGMkUVuD5P) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Dhinam Dhinamum \(From "Viduthalai 2"\)](https://open.spotify.com/album/25j5od5BYR4tEuRlaWw8r8) | 5:44 | 2024-11-17 |  |
 | [Dhop \(From "Game Changer"\) \(Tamil\)](https://open.spotify.com/track/0d8qcb1FslP7TFgUifInjl) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Dhop \(From "Game Changer"\) \(Tamil\)](https://open.spotify.com/album/3Q4buHByrXMybfhycOIg1J) | 4:51 | 2024-12-29 |  |
+| [Edhira? Pudhira? \- From "Once More"](https://open.spotify.com/track/4lvt4I1V50TY0S6ws9UbVU) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Vignesh Srikanth](https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1) | [Edhira? Pudhira? \(From "Once More"\)](https://open.spotify.com/album/51g7Unhkd5mpp0pTWMjduq) | 2:20 | 2025-03-30 |  |
 | [Edho Pesathaane \(From "Bun Butter Jam"\)](https://open.spotify.com/track/32SaT2wjoj4RolPQVYHbZc) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Vijay Sethupathi](https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU) | [Edho Pesathaane \(From "Bun Butter Jam"\)](https://open.spotify.com/album/0KLF3QPbZJowPQTI80SItm) | 3:11 | 2025-01-20 |  |
 | [Edho Solla \(From "Murungakkai Chips"\)](https://open.spotify.com/track/61cO5mTOB2RQ5Kp03sNm3E) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Edho Solla \(From "Murungakkai Chips"\)](https://open.spotify.com/album/6IY7I0TUaDMbrGxlm55Vpf) | 5:02 | 2021-11-29 | 2022-06-21 |
 | [En Rojaa Neeye](https://open.spotify.com/track/7hb1WHRDjOORxIoB4XwD0I) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kushi \(Tamil\)](https://open.spotify.com/album/6SvZcM22xYa6X2bDhPG8NU) | 4:03 | 2023-10-19 | 2024-10-24 |

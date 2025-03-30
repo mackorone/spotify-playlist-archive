@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Jordan Davis,  Cody Johnson with Carin Leon, Tucker Wetmore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,219 likes - 83 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,516 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 45 | [Do What We Do](https://open.spotify.com/track/3rkowPlVIpmoVzlL8Qf0Tk) | [Drew Taylor](https://open.spotify.com/artist/1GKwNMj52B71ScmvryXrRH) | [Do What We Do](https://open.spotify.com/album/74wboqPxpRuW6Lcwp5xwwW) | 3:23 |
 | 46 | [Confident Soul](https://open.spotify.com/track/0VOuoqK22y7LvSVdcD4Ois) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Confident Soul](https://open.spotify.com/album/0PZpqVnnAXcMkp93zIt7MK) | 2:35 |
 | 47 | [Wine Tonight](https://open.spotify.com/track/3bfjAF9PTz1GRpmsPTd2iA) | [Ryan Montgomery](https://open.spotify.com/artist/4VtjOoMa6AYeLoA5SrynF1) | [Wine Tonight](https://open.spotify.com/album/4NaCytCydMZa4y7IxNnZVs) | 3:34 |
-| 48 | [Get This Girl A Drink](https://open.spotify.com/track/4ax4lJalcnJA6hEOVjz4H5) | [Rachel Lee Roberts](https://open.spotify.com/artist/4IkIQH1H6uomyGgjpABSaz) | [Get This Girl A Drink](https://open.spotify.com/album/2xRXrvbMlYQOgyZM2gEvlM) | 2:25 |
+| 48 | [Get This Girl A Drink](https://open.spotify.com/track/4ax4lJalcnJA6hEOVjz4H5) | [Rachel Lee Roberts](https://open.spotify.com/artist/4IkIQH1H6uomyGgjpABSaz), [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [Get This Girl A Drink](https://open.spotify.com/album/2xRXrvbMlYQOgyZM2gEvlM) | 2:25 |
 | 49 | [Driving Myself Insane](https://open.spotify.com/track/0fnmcldeCuJMidizzUCylW) | [HAYS](https://open.spotify.com/artist/5X3htdReMDESZ48LXgy33t) | [Driving Myself Insane](https://open.spotify.com/album/5yuFTiowmQ2fyywXX894wP) | 2:41 |
 | 50 | [Washed](https://open.spotify.com/track/0bgijbvBSiTi4slIRi1OwC) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [Washed](https://open.spotify.com/album/1TukpTVBvtfpuGn59YEDGa) | 3:27 |
 | 51 | [Most Wanted](https://open.spotify.com/track/4laS1SLMvZbTzVXkke58lo) | [Blake Wood](https://open.spotify.com/artist/5gTcKzwENiELKcVV9cFNox) | [Most Wanted](https://open.spotify.com/album/6ayyScDU8yQkDA4bU0gdp5) | 2:19 |

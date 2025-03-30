@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,870 songs - 6 day 10 hr 6 min
+2,871 songs - 6 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1896,6 +1896,7 @@
 | [Pa La Europa](https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn) | 3:39 | 2023-03-28 | 2023-05-11 |
 | [pa la europa](https://open.spotify.com/track/7f6PquSCnTPMb1AbBu92oI) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [pa la europa](https://open.spotify.com/album/3bUDTQ89TXoOcP4JTCBpeo) | 3:39 | 2023-06-19 | 2023-06-25 |
 | [Pa las girlas](https://open.spotify.com/track/4ezjHDUjl9GyIs6BcezDDV) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw) | [Pa las girlas](https://open.spotify.com/album/5BegWK4vnqGEb3XbLVXri9) | 2:30 | 2025-03-25 | 2025-03-29 |
+| [Pa las girlas](https://open.spotify.com/track/7dCGkDZgWIDSZyxInMkdIv) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw) | [Pa las girlas](https://open.spotify.com/album/5yGeyYQfUhdQUvk0yVTVkY) | 2:30 | 2025-03-28 |  |
 | [Pa Que Pichea](https://open.spotify.com/track/258yajpaDSDzVV1ZQg93kD) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [Pa Que Pichea](https://open.spotify.com/album/5TGlCVwJcbUQOyizUMXAUa) | 2:42 | 2023-01-03 | 2023-02-10 |
 | [Pa Romper La Discoteca \- Chile](https://open.spotify.com/track/50Ex7Qk2MTfw8GulTAhpJt) | [Andres707](https://open.spotify.com/artist/5zpyjbDTL3iDpczn5en5CB) | [Pa Romper La Discoteca \- Chile](https://open.spotify.com/album/24ut4myEtj1Q4TQJ4SI04g) | 3:48 | 2023-09-06 | 2023-09-07 |
 | [Pacto \(feat\. Bryant Myers & Dei V\) \- Remix](https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Pacto \(Remix\) \[feat\. Bryant Myers & Dei V\]](https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6) | 5:46 | 2023-08-22 | 2023-08-24 |

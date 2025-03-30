@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: пропаща сила
 
-301 songs - 15 hr 51 min
+302 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 | 2024-06-27 | 2025-03-18 |
 | [Слоу моушн](https://open.spotify.com/track/7jo2Jo9WX20nkMmtMoMWCP) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Дощ іде, але сонце світить](https://open.spotify.com/album/0BpYqhHGVLZvXmgj8uw9dB) | 5:11 | 2024-06-27 | 2024-07-06 |
 | [Служба](https://open.spotify.com/track/1YKSevMN18J0Yre69qIvvX) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Служба](https://open.spotify.com/album/1CbzoyNG3160A1uuBt4J9n) | 2:28 | 2025-03-03 |  |
+| [Слухай](https://open.spotify.com/track/58RJ13mV0cPAfYHjz9EwHP) | [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [По колу](https://open.spotify.com/album/5ffwbd5kYjhrhVALrS4Kgh) | 2:51 | 2025-03-17 |  |
 | [Сльози](https://open.spotify.com/track/5hctfulHiPJxVCVJipKgoT) | [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9) | [Сльози](https://open.spotify.com/album/5WwXxzhkEatEDwAAJoG6GW) | 3:39 | 2024-06-27 | 2025-03-18 |
 | [сліди](https://open.spotify.com/track/5agHTSdfKI9jXYcyw0E7X7) | [хейтспіч](https://open.spotify.com/artist/2sdWfIbu9rLQ0p7MULuhxC), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [сліди](https://open.spotify.com/album/5hvjdpKtcPSg7Gbo2tEy7k) | 3:33 | 2024-06-27 | 2024-10-19 |
 | [СМУГИ](https://open.spotify.com/track/61QVw84uXhjAsbM7GKyvP0) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV), [SAGE](https://open.spotify.com/artist/2ItrYNZZmNn7hQaWlfReC4) | [СМУГИ](https://open.spotify.com/album/5oePjlSoDXJgfHXgsjPu8C) | 3:37 | 2025-03-03 |  |
@@ -255,7 +256,7 @@
 | [ТАК НАБАГАТО КРАЩЕ](https://open.spotify.com/track/6ouCHu3DOH1QeAAX398xu7) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [ЕЛЛІ](https://open.spotify.com/album/4oaR18MBeoYxrLPtlWIofo) | 2:21 | 2025-01-02 | 2025-01-25 |
 | [Така як ти](https://open.spotify.com/track/3Z52mfneFJdUjq5xJV29qY) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Така як ти](https://open.spotify.com/album/2j2oH0jQfdIyfXZ4ZnvDYp) | 3:51 | 2024-06-27 | 2024-07-16 |
 | [Там, де зникають сліди](https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn) | [туди\-сюди і смерть](https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK) | [Там, де зникають сліди](https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5) | 2:54 | 2025-01-02 | 2025-01-25 |
-| [татова донька](https://open.spotify.com/track/0uZNk1rsL37CzG4ZXbeZqV) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [татова донька](https://open.spotify.com/album/2UxIwhZltN9mxuJIKEvQR5) | 2:27 | 2024-11-07 |  |
+| [татова донька](https://open.spotify.com/track/0uZNk1rsL37CzG4ZXbeZqV) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [татова донька](https://open.spotify.com/album/2UxIwhZltN9mxuJIKEvQR5) | 2:27 | 2024-11-07 | 2025-03-30 |
 | [Твій](https://open.spotify.com/track/1mi9mNkMsFPsxr2tj19mdP) | [Tery](https://open.spotify.com/artist/7N01QxNI9inYVGY6kTVUwt), [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Як тебе знайти?](https://open.spotify.com/album/3N4b7sSLtNHU80Zpc0RB9Z) | 2:21 | 2024-12-06 | 2025-01-03 |
 | [Твій голос заводив](https://open.spotify.com/track/6UjXKzu2QsnE4XhABPAtVG) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Твій голос заводив](https://open.spotify.com/album/0k0Dubuk2p2sClv5DVyOGj) | 1:43 | 2024-09-13 | 2024-10-05 |
 | [Телепат](https://open.spotify.com/track/2JeWzY0BdQkx6nW7yHT0fS) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [Телепат](https://open.spotify.com/album/5fGd9tZ9k0oajFEoWDSjrJ) | 2:52 | 2024-06-27 | 2024-09-28 |

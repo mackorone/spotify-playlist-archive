@@ -11279,6 +11279,28 @@
     },
     {
       "album": {
+        "name": "Sakura Snow",
+        "url": "https://open.spotify.com/album/2ge66asTGSrySXY0vG0G60"
+      },
+      "artists": [
+        {
+          "name": "Lofi Milk",
+          "url": "https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT"
+        },
+        {
+          "name": "Maho Fukami",
+          "url": "https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "Sakura Snow",
+      "url": "https://open.spotify.com/track/0iMxk8UK4SfteXkNgoMDAe"
+    },
+    {
+      "album": {
         "name": "Samui",
         "url": "https://open.spotify.com/album/6elgJt4O7fsS80BDj992CN"
       },
@@ -12477,6 +12499,24 @@
     },
     {
       "album": {
+        "name": "Sublimation",
+        "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
+      },
+      "artists": [
+        {
+          "name": "TSUTCHIE",
+          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235216,
+      "name": "Sublimation",
+      "url": "https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ"
+    },
+    {
+      "album": {
         "name": "Sudachi",
         "url": "https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn"
       },
@@ -13290,7 +13330,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 190285,
       "name": "The Way of the Rain",
       "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
@@ -15058,7 +15098,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 118356,
       "name": "\u5915\u6620 03",
       "url": "https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD"

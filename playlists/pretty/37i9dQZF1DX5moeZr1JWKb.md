@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Crudo Means Raw
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,037 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,045 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 3 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 |
 | 4 | [Ya fue](https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Ya fue](https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g) | 3:05 |
 | 5 | [Oro Por Ti](https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:36 |
-| 6 | [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/5yUUXervRBpp0aXXFZyQvy) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 |
+| 6 | [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/4yz602qHvJ4eoC06wCM5rG) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 |
 | 7 | [Dios y Madre](https://open.spotify.com/track/34fiXTDrqSTOYdTfN937yt) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Dios y Madre](https://open.spotify.com/album/1dMfJIlVKopZkPqn2UmTQH) | 3:21 |
 | 8 | [Viento en Popa](https://open.spotify.com/track/6dXCENI9cZZjB2adfQAeor) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Miedo](https://open.spotify.com/album/1hoK3q8ot47VN4o2sAYvgU) | 2:32 |
 | 9 | [MÉTELE BELLAKO](https://open.spotify.com/track/6wOcPy7ziMiX0nwqVun8Kb) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [MÉTELE BELLAKO](https://open.spotify.com/album/04gmESHw9KbgeW6PGZMwJd) | 2:31 |

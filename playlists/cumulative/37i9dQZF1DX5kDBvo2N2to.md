@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-257 songs - 14 hr 25 min
+259 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-28 | 2024-09-22 |
 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-10-24 | 2025-03-21 |
 | [In My Feelings](https://open.spotify.com/track/2w7RjSRuxxMH0MyMhEqX7N) | [Shenie Fogo](https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy) | [In My Feelings](https://open.spotify.com/album/0PPvSeJIcxxg3x5K4CmsF5) | 3:04 | 2024-08-15 | 2024-09-22 |
+| [INATT IGEN](https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [INATT IGEN](https://open.spotify.com/album/4w83t50g9487UwORpDiCOh) | 2:19 | 2025-03-27 |  |
 | [Inge mer fun](https://open.spotify.com/track/5CRJ1cVXCnByoFW8bQ1j5j) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Inge mer fun](https://open.spotify.com/album/75J4SpsZaxeNt8xMCUoB4m) | 4:01 | 2024-06-28 | 2024-08-23 |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-28 | 2024-08-30 |
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-07-29 | 2025-01-19 |
@@ -151,7 +152,7 @@
 | [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 | 2024-11-09 |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-28 | 2024-08-16 |
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 |  |
-| [Kära Idioter](https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Kära Idioter](https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U) | 2:50 | 2025-03-07 |  |
+| [Kära Idioter](https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Kära Idioter](https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U) | 2:50 | 2025-03-07 | 2025-03-30 |
 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 | 2025-03-20 |  |
 | [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 | 2025-03-24 |  |
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 | 2024-08-30 |
@@ -200,7 +201,7 @@
 | [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-13 | 2025-03-28 |
 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 | 2024-08-08 | 2025-03-08 |
 | [Red Light](https://open.spotify.com/track/0OSrRgvrRmmWyCQPeJa6XI) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Red Light](https://open.spotify.com/album/70rzzUTCO7zObGgNl4tkvA) | 2:41 | 2024-06-28 | 2024-08-16 |
-| [Ride](https://open.spotify.com/track/0bcNxMaqVrQQoTnwh35uqD) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Ride](https://open.spotify.com/album/0upNGBrIv5iJsOW0N114aN) | 2:53 | 2025-02-27 |  |
+| [Ride](https://open.spotify.com/track/0bcNxMaqVrQQoTnwh35uqD) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Ride](https://open.spotify.com/album/0upNGBrIv5iJsOW0N114aN) | 2:53 | 2025-02-27 | 2025-03-30 |
 | [Right Here](https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6) | [Fee van Deelen](https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B) | [Right Here](https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV) | 3:43 | 2024-06-28 | 2024-08-23 |
 | [Right?](https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Right?](https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw) | 2:56 | 2024-06-28 | 2024-11-22 |
 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 | 2025-03-13 |
@@ -253,6 +254,7 @@
 | [Utan Dig \(oh nej\)](https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Utan Dig \(oh nej\)](https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv) | 2:37 | 2024-06-28 | 2024-09-20 |
 | [Vad har du gjort med mig](https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Vad har du gjort med mig](https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB) | 3:01 | 2024-09-26 |  |
 | [Varför slutar allt i tårar](https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Varför slutar allt i tårar](https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv) | 4:04 | 2024-06-28 | 2024-08-30 |
+| [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-27 |  |
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-28 | 2024-08-16 |
 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 | 2025-02-27 |  |
 | [violet](https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [i guess this is me now?](https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc) | 2:28 | 2025-02-24 |  |

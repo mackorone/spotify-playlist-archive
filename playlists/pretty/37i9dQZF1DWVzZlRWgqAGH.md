@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,755 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,869 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 52 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 53 | [Say My Name](https://open.spotify.com/track/5r92CCNN1VZp9fDlTWdDS6) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Say My Name](https://open.spotify.com/album/1Dvj1PeulldxrKfaET94Tg) | 4:00 |
 | 54 | [Bigger \- feat\. Choklate](https://open.spotify.com/track/1wBEGfsrI9V50EmfUvoxu2) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Choklate](https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3) | [Bigger \(feat\. Choklate\)](https://open.spotify.com/album/0BloqjQ5VC2gNODlsgKuqq) | 4:49 |
-| 55 | [Love You Too](https://open.spotify.com/track/6EjPDxrSXu2RcNctj6n0r1) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Love You Too](https://open.spotify.com/album/7xyoMrhpNYrXnxc1YaTn8g) | 3:01 |
+| 55 | [LOVE YOU TOO](https://open.spotify.com/track/6EjPDxrSXu2RcNctj6n0r1) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [LOVE YOU TOO](https://open.spotify.com/album/7xyoMrhpNYrXnxc1YaTn8g) | 3:01 |
 | 56 | [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 |
 | 57 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 |
 | 58 | [Saturday Sinner](https://open.spotify.com/track/1tevwX5chuGg3QL2UPSEG7) | [Naughty Professor](https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Jelly Joseph](https://open.spotify.com/artist/5LZl4VR0S5S5LQMesiaJpb) | [Saturday Sinner](https://open.spotify.com/album/0bGPRxx5hzLzZeN8S4QHBu) | 7:03 |

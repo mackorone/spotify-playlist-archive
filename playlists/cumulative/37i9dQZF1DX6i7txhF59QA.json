@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 152386,
       "name": "An Oldious Man",
       "url": "https://open.spotify.com/track/7wwuHFuZEDg9iPX3uyWaCZ"
@@ -3741,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "Music Source of Mr. Trot3 final Best",
+        "url": "https://open.spotify.com/album/5xyACB0eKVNpErYIooVf2H"
+      },
+      "artists": [
+        {
+          "name": "Cheon Lok Dam",
+          "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288786,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/1l4RDlwyGBmbH8j9eS9InI"
+    },
+    {
+      "album": {
         "name": "Best of Mr. Trot Preliminary",
         "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
       },
@@ -3792,6 +3810,24 @@
       "duration_ms": 181106,
       "name": "Encounter by chance",
       "url": "https://open.spotify.com/track/6QtuQBXvjou5NYbNWOpLdS"
+    },
+    {
+      "album": {
+        "name": "Music Source of Mr. Trot3 final Best",
+        "url": "https://open.spotify.com/album/5xyACB0eKVNpErYIooVf2H"
+      },
+      "artists": [
+        {
+          "name": "Choi Jae Myeong",
+          "url": "https://open.spotify.com/artist/6hWO9LmVdqUc6tc4NdR8VE"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252600,
+      "name": "Entwined trees, symbolizing eternal love",
+      "url": "https://open.spotify.com/track/10LcpRDTau3PSNdwVhzmBJ"
     },
     {
       "album": {
@@ -7806,7 +7842,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 144093,
       "name": "Let's Be Filial",
       "url": "https://open.spotify.com/track/2OnnDYOxsd9Ov85xuKPShW"
@@ -15144,7 +15180,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 197426,
       "name": "Very good tip",
       "url": "https://open.spotify.com/track/3wwLnXLyFH7x8KAoHCRNyz"
@@ -15444,7 +15480,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 186400,
       "name": "Weed",
       "url": "https://open.spotify.com/track/0KtsjIWIOtvdgMdCIkXjWX"

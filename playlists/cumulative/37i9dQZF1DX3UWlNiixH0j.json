@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 225853,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn"
@@ -26396,6 +26396,24 @@
       "duration_ms": 88733,
       "name": "watermelon (demo)",
       "url": "https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3"
+    },
+    {
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4O0vNDX1DS8fk2XqQjuOwf"
+      },
+      "artists": [
+        {
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208627,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1pXIk9DQmaCFRzFREdq2P9"
     },
     {
       "album": {

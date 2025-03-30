@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 128774,
+  "num_followers": 128795,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-03-27 16:00:24",
       "album": {
+        "name": "\u7e3d\u6709\u4e00\u9996\u6b4c\u6703\u63d0\u9192\u6211\u611b\u4f60",
+        "url": "https://open.spotify.com/album/2aybRnFUMoMyYfvCXmrBIH"
+      },
+      "artists": [
+        {
+          "name": "Julia Peng",
+          "url": "https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77"
+        }
+      ],
+      "duration_ms": 216790,
+      "name": "\u7e3d\u6709\u4e00\u9996\u6b4c\u6703\u63d0\u9192\u6211\u611b\u4f60",
+      "url": "https://open.spotify.com/track/1RiTbY9QRn1ffkh6lgMKw4"
+    },
+    {
+      "added_at": "2025-03-27 16:00:24",
+      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
-    },
-    {
-      "added_at": "2025-03-27 16:00:24",
-      "album": {
-        "name": "\u8f38\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
-      },
-      "artists": [
-        {
-          "name": "J.Sheon",
-          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "\u8f38\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
     },
     {
       "added_at": "2025-03-27 16:00:24",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-03-27 16:00:24",
       "album": {
-        "name": "\u7e3d\u6709\u4e00\u9996\u6b4c\u6703\u63d0\u9192\u6211\u611b\u4f60",
-        "url": "https://open.spotify.com/album/2aybRnFUMoMyYfvCXmrBIH"
+        "name": "\u8f38\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
       "artists": [
         {
-          "name": "Julia Peng",
-          "url": "https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77"
+          "name": "J.Sheon",
+          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
         }
       ],
-      "duration_ms": 216790,
-      "name": "\u7e3d\u6709\u4e00\u9996\u6b4c\u6703\u63d0\u9192\u6211\u611b\u4f60",
-      "url": "https://open.spotify.com/track/1RiTbY9QRn1ffkh6lgMKw4"
+      "duration_ms": 224653,
+      "name": "\u8f38\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
     },
     {
       "added_at": "2025-03-27 16:00:24",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-03-27 16:00:24",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "\u966a\u8457\u4f60",
-      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
-    },
-    {
-      "added_at": "2025-03-27 16:00:24",
-      "album": {
         "name": "\u9752\u7a7a\u672a\u4f86",
         "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2025-03-27 16:00:24",
       "album": {
-        "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
-        "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
       "artists": [
         {
-          "name": "Isaac Yong",
-          "url": "https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 270227,
-      "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
-      "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2025-03-27 16:00:24",
@@ -683,6 +667,22 @@
     {
       "added_at": "2025-03-27 16:00:24",
       "album": {
+        "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
+        "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
+      },
+      "artists": [
+        {
+          "name": "Isaac Yong",
+          "url": "https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk"
+        }
+      ],
+      "duration_ms": 270227,
+      "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
+      "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
+    },
+    {
+      "added_at": "2025-03-27 16:00:24",
+      "album": {
         "name": "\u59b3\u600e\u9ebc\u60f3",
         "url": "https://open.spotify.com/album/5U8w9QWK8oGA224uNcSCWz"
       },
@@ -699,8 +699,8 @@
     {
       "added_at": "2025-03-27 16:00:24",
       "album": {
-        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
-        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
+        "name": "\u96d9\u751f\u706b\u7130",
+        "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
         }
       ],
-      "duration_ms": 235743,
-      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
-      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
+      "duration_ms": 305013,
+      "name": "\u6c89\u9ed8",
+      "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
     },
     {
       "added_at": "2025-03-27 16:00:24",

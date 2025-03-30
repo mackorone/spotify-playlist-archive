@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-479 songs - 1 day 5 hr 22 min
+481 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Aurora](https://open.spotify.com/track/7yiVDUV6O8w6wUWPnBPeYf) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Aurora](https://open.spotify.com/album/40xslrjU01d6La7TUc8Trn) | 2:11 | 2022-12-01 | 2022-12-08 |
 | [Autumn In New York](https://open.spotify.com/track/6nQocCdBEDoy6aGxk1vGwt) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Autumn In New York](https://open.spotify.com/album/3zz4UhdfebKaIeXKdIKKk0) | 5:55 | 2022-02-17 | 2022-06-23 |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2023-03-20 |  |
-| [Autumn serenade](https://open.spotify.com/track/4mNyif0WHZ8jBn9BdwX212) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Autumn serenade](https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2) | 3:15 | 2024-11-18 |  |
+| [Autumn serenade](https://open.spotify.com/track/4mNyif0WHZ8jBn9BdwX212) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Autumn serenade](https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2) | 3:15 | 2024-11-18 | 2025-03-30 |
 | [Balm](https://open.spotify.com/track/22h4bg05XHk550N5HIEs35) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal EP](https://open.spotify.com/album/1r2Yh46iOWNS6fnoc1qPhW) | 4:21 | 2022-02-17 | 2023-03-21 |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2023-03-20 | 2023-04-14 |
 | [Barnwohl's Voyage](https://open.spotify.com/track/36g3YNQmFyZd73VZQr00hF) | [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu) | [Barnwohl's Voyage](https://open.spotify.com/album/3EoNdWxcIKcmmikjrBw0Hq) | 2:06 | 2022-06-22 | 2022-08-12 |
@@ -141,6 +141,7 @@
 | [Fool For Your Love](https://open.spotify.com/track/0TZvBsGCrJFg27QAKkScIg) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Fool For Your Love](https://open.spotify.com/album/5CJpGX6qbkzTpZ6PQxfbdj) | 3:50 | 2024-02-02 |  |
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2023-03-20 |  |
 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2023-03-20 |  |
+| [For Heaven's Sake](https://open.spotify.com/track/6zy0wH34bdXKZmkODKVEii) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [For Heaven's Sake](https://open.spotify.com/album/3hwhf5CODjmUIlS1IOvfYN) | 4:30 | 2025-03-18 |  |
 | [For My Love](https://open.spotify.com/track/0tcjIkVN1nrs0uDluhygi0) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 4:45 | 2022-04-22 | 2022-06-03 |
 | [For Sentimental Reasons](https://open.spotify.com/track/16XLUnjRsRJ2ZAUTsxCH1D) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [For Sentimental Reasons](https://open.spotify.com/album/7p5N5Up8eojd9eqh0mkgbO) | 3:40 | 2025-03-18 |  |
 | [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2023-05-05 |  |
@@ -168,6 +169,7 @@
 | [Good Wishes and Everything](https://open.spotify.com/track/0rhSC2LL96MnhUaBZoqGCJ) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Good Wishes and Everything](https://open.spotify.com/album/3BWKPVXgj5sicro4DNLwZi) | 3:30 | 2025-02-04 | 2025-02-25 |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Grandparent's Melody](https://open.spotify.com/track/2IRlssoEcf0YbgkXGXSWha) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Grandparent's Melody](https://open.spotify.com/album/67o4PhMUEyCnpSIf6uwvTj) | 4:00 | 2024-10-15 | 2024-11-19 |
+| [Green Flash](https://open.spotify.com/track/5xvWyNc96sna64z86Fkv9d) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Green Flash](https://open.spotify.com/album/5ZdBepf6y7xyAORA8DQw4F) | 3:44 | 2025-03-18 |  |
 | [Grey Life](https://open.spotify.com/track/7mboIxKtkeuIOHwNEAVSZR) | [Braccus Beats](https://open.spotify.com/artist/04xlOQaGOCK5eYoinzCPqm), [TTechmak](https://open.spotify.com/artist/7BpxyVfC8cscZ1JKB48tP2) | [Grey Life](https://open.spotify.com/album/4VtzLzkxLPZGwrCpbs6jug) | 1:57 | 2022-06-02 | 2022-10-07 |
 | [Happiness](https://open.spotify.com/track/3dyNc3TbcaGcmLrQuk4Hls) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Happiness](https://open.spotify.com/album/4QmRHhICo301Jue6KX2IVU) | 1:40 | 2022-06-02 | 2022-08-12 |
 | [Have no control](https://open.spotify.com/track/0pS8dgfvPuJJL1JSd73Epw) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Have no control](https://open.spotify.com/album/6JPWlvZmndErRZxkwnb6Gj) | 3:39 | 2023-10-27 | 2023-12-24 |
@@ -266,7 +268,7 @@
 | [Moonlite](https://open.spotify.com/track/6exsN25IteWAKEIJPVvoZ8) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:53 | 2022-02-17 | 2022-11-20 |
 | [Moved by Performance](https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Moved by Performance](https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn) | 2:38 | 2023-09-08 |  |
 | [Moving On](https://open.spotify.com/track/2wExC8c09iNVaoVPuu99Ah) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Moving on](https://open.spotify.com/album/6jUvo7NlpBWMVUyCPmBqto) | 2:34 | 2024-06-17 | 2024-07-23 |
-| [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-03-20 |  |
+| [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-03-20 | 2025-03-30 |
 | [My Favorite Things](https://open.spotify.com/track/7BhHAftdMM9EtmxkOQflHO) | [Onyx Collective](https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf) | [Manhattan Special](https://open.spotify.com/album/5WAIQrdBswl6U8nFlAw6US) | 5:01 | 2022-02-17 | 2022-04-22 |
 | [My Ideal](https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [My Ideal](https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg) | 3:12 | 2025-01-15 | 2025-02-05 |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-03-20 |  |

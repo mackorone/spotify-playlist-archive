@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,121 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,244 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 23 | [oh blue](https://open.spotify.com/track/38aKE9ZK6VyYnshtAnJyaz) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [oh blue](https://open.spotify.com/album/4uIkrccwq12Tef8aPhvDyT) | 2:57 |
 | 24 | [Silencio](https://open.spotify.com/track/3rXv53WhlO06eYoe0rND4r) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W), [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis), [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Silencio](https://open.spotify.com/album/2AXA6mUulMOGHjS6AQUkYC) | 3:38 |
 | 25 | [Honeycomb](https://open.spotify.com/track/6RdqJ7B2aotXQCQelehr9Z) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Honeycomb](https://open.spotify.com/album/73aUfrY0V17UXnJjKCz4dD) | 2:50 |
-| 26 | [Piece Of Me](https://open.spotify.com/track/4tqHf5fTWCKXTOTP427cac) | [Somewhere Sun](https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg), [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU), [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [Piece Of Me](https://open.spotify.com/album/3ZljxSb9FYk4xeszx0F4OD) | 2:57 |
+| 26 | [Piece Of Me](https://open.spotify.com/track/4tqHf5fTWCKXTOTP427cac) | [East Of Indigo](https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg), [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU), [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [Piece Of Me](https://open.spotify.com/album/3ZljxSb9FYk4xeszx0F4OD) | 2:57 |
 | 27 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
 | 28 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 |
 | 29 | [I'm With You](https://open.spotify.com/track/4whHz5ampVITJWkZPnH3ox) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I'm With You](https://open.spotify.com/album/1oDoEUwFlsYWiUu4avCwTS) | 2:33 |

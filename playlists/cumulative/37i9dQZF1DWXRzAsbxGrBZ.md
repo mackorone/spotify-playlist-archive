@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-252 songs - 1 day 5 hr 5 min
+253 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Forever \- TekniQ Soulful Mix](https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Forever \(TekniQ Remixes\)](https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3) | 5:55 | 2022-09-14 | 2023-03-18 |
 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 | 2022-09-14 | 2024-04-26 |
 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 | 2022-09-14 | 2024-01-10 |
-| [Giving Up](https://open.spotify.com/track/08nzJU2dcyHIYT5N02FYvr) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Then And Now](https://open.spotify.com/album/5EPlNSDJy5nFT4e8P9Iqt8) | 6:19 | 2025-01-30 |  |
+| [Giving Up](https://open.spotify.com/track/08nzJU2dcyHIYT5N02FYvr) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Then And Now](https://open.spotify.com/album/5EPlNSDJy5nFT4e8P9Iqt8) | 6:19 | 2025-01-30 | 2025-03-30 |
 | [God Is Alive](https://open.spotify.com/track/0TMS5AIRAQ8XHw84ywT20K) | [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Judy Jay](https://open.spotify.com/artist/14MGB5FSUuXuhADso5533o) | [Low Key](https://open.spotify.com/album/32za1N5HYFFjIGiwJDW9rU) | 7:58 | 2025-01-30 |  |
 | [Goodness Of God](https://open.spotify.com/track/02zekH3bvOcaGVAx77IzLL) | [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Spin\-Worx](https://open.spotify.com/artist/1DmSaIz6Qtpb1RHU5r17BK) | [SHANNY](https://open.spotify.com/album/6nhYIZtTGI1FYSM4AwWRPH) | 6:52 | 2025-02-21 |  |
 | [Goosebumps](https://open.spotify.com/track/20yA5a74kMdmJ6pChOzQN8) | [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Against All Odds](https://open.spotify.com/album/5nUlwT3wtONm8n3j5YQfJh) | 7:34 | 2025-02-21 | 2025-02-28 |
@@ -238,6 +238,7 @@
 | [Traveling To Pluto](https://open.spotify.com/track/66u3aazALT5fmstO4btvlz) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Wish You Were Mine](https://open.spotify.com/album/00PJd2ro1zXNoYuMhlPxls) | 6:30 | 2025-02-27 | 2025-03-08 |
 | [Trill is Gone \- Original Mix](https://open.spotify.com/track/6eHT2RqorlHgS68W6U62X2) | [Deep Xcape](https://open.spotify.com/artist/1PZwBIf3nPI7r8jvS0Oh9Z), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Sin City \[Italian Mafia \(God Father Edition\)\]](https://open.spotify.com/album/5qK2NsJpHTj6mcZ37BvozA) | 6:30 | 2022-09-14 | 2022-11-18 |
 | [Truth \- Nostalgic Mix](https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Trace EP](https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3) | 7:08 | 2024-06-06 |  |
+| [Try To Remember \(Original Mix\)](https://open.spotify.com/track/6KerR6DY3JYn27TE7De4vG) | [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC) | [MEMORIES](https://open.spotify.com/album/33hQ1jsLvMsr4M2onJr6eI) | 7:39 | 2025-03-20 |  |
 | [Ukukhanya](https://open.spotify.com/track/5HdY3OmDbwD8lw2f93mhOv) | [Roctonic SA](https://open.spotify.com/artist/0fhA0dwXcLSdKD4zcdh8qk), [Bongani Mehlomakhulu](https://open.spotify.com/artist/4JIN8w64k8PlsABOq6JKbL) | [Squares and Sines](https://open.spotify.com/album/4HjkildvJUXhFN9UdwrU7E) | 7:47 | 2025-02-21 | 2025-02-28 |
 | [Umshopi \- Spenk Remix](https://open.spotify.com/track/16XaSh7eNMmTQA4Iwnt0TQ) | [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Spenk](https://open.spotify.com/artist/1kDVGSVzODwdDNcfwt9yzl) | [Umshopi \(Spenk Remix\)](https://open.spotify.com/album/6RoURGQR6qnfCau7QgMz0x) | 6:49 | 2025-03-07 |  |
 | [Unity](https://open.spotify.com/track/420jof4z72NlObyrANPnjx) | [RamsTeque](https://open.spotify.com/artist/4cMqUzaxGaCeXVhw8008WB), [Mega BT](https://open.spotify.com/artist/3MfzVTk6dH9KKe459heRZo), [Citizen Sthee](https://open.spotify.com/artist/6YZptCuMUkBBUvj2sXdd8p) | [Unity](https://open.spotify.com/album/2oLa1ncgPpOsMsmXj5Sa4p) | 7:19 | 2024-08-02 | 2024-10-23 |

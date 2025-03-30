@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,538 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,541 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Na Driver Ni Nanna Lover](https://open.spotify.com/track/339rqV63PbBNxynrAzKQGc) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Malappa Halabar](https://open.spotify.com/artist/7rnqc49Vemgd04MOvFt2bu) | [Na Driver Ni Nanna Lover](https://open.spotify.com/album/1EzCYR82ygQft5ixRTBtk5) | 9:39 |
 | 75 | [Nee Siguva Thanaka](https://open.spotify.com/track/36ya1X6uML6IGmzBpTFbFY) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [Nee Siguva Thanaka](https://open.spotify.com/album/0oG2g4b7uYekHZiMLKclDA) | 4:28 |
 
-Snapshot ID: `Z+ZvEgAAAABn0zbQVSD8eVmpXUsuv99r`
+Snapshot ID: `Z+eVMAAAAADcdgWsl3ypsp2mTvmbecLl`

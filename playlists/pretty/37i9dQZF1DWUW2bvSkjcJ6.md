@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Jazeek und SAMIRA \(Cover\), Ariana Grande, Linkin Park und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,493 likes - 88 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,588 likes - 88 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 7 | [cm2](https://open.spotify.com/track/5AqngRFnPVogBXBPf3TF6X) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [cm2](https://open.spotify.com/album/1b7zO0tGRsuNqrDumyNOTS) | 3:44 |
 | 8 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 |
 | 9 | [Noch nie gesehen](https://open.spotify.com/track/1renqfSmJh6cSs8h38t7I4) | [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Noch nie gesehen](https://open.spotify.com/album/3SW0Ntl2567gAgSsGgiuNW) | 2:21 |
-| 10 | [beifahrersitz](https://open.spotify.com/track/5kbShNqgrOyePahnsNxDZg) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [beifahrersitz](https://open.spotify.com/album/79UKPAlyeK6XTWp5gSRdWh) | 2:27 |
+| 10 | [beifahrersitz](https://open.spotify.com/track/5kbShNqgrOyePahnsNxDZg) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [beifahrersitz](https://open.spotify.com/album/79UKPAlyeK6XTWp5gSRdWh) | 2:27 |
 | 11 | [Margiela](https://open.spotify.com/track/13jYvsJ3S3fcPHHFVFzLBl) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Margiela](https://open.spotify.com/album/0cBdCJo89y3qd28hscmmz9) | 2:35 |
 | 12 | [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 |
 | 13 | [Herz Auseinander](https://open.spotify.com/track/6dsWs9J6OQ5wWI7c5ASUkP) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Herz Auseinander](https://open.spotify.com/album/4gYnoL4M3flNOdZGxzgU6o) | 2:11 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 38 | [LECHE](https://open.spotify.com/track/6FpL2T5NYFrLRy4FIUT2GJ) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [LECHE](https://open.spotify.com/album/6VeiFPAPEIho1qq5yfgFcl) | 1:25 |
 | 39 | [i hate this city](https://open.spotify.com/track/3h97FYLyVr4WSRwWrnG9Ob) | [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [i hate this city](https://open.spotify.com/album/6YyAvRZJ3qpenUXwGQvD6J) | 2:57 |
 | 40 | [Was machst du so?](https://open.spotify.com/track/2qO2X6mHMnCnvUGdArZa7O) | [Basti Stein](https://open.spotify.com/artist/5srjoLQYI0dv9Fyf0JkXRG) | [Was machst du so?](https://open.spotify.com/album/4LM6KlfukC8UUbWGcFEJb1) | 2:15 |
-| 41 | [Halb eins](https://open.spotify.com/track/2I0CTVScZ0tXbQQBv6SuTZ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc), [Cato](https://open.spotify.com/artist/646XZelFQcftmSOtKXJECJ) | [Halb eins](https://open.spotify.com/album/4DC05r4yCpsreHq5IpoPyC) | 2:06 |
+| 41 | [Halb eins](https://open.spotify.com/track/2I0CTVScZ0tXbQQBv6SuTZ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc), [Cato](https://open.spotify.com/artist/1yxVBnVWDIMtmOgg5mHK9J) | [Halb eins](https://open.spotify.com/album/4DC05r4yCpsreHq5IpoPyC) | 2:06 |
 | 42 | [BETTER DAYS](https://open.spotify.com/track/4FVGYHCWOoZ43Vtqb1IzsZ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [SILK&SORROW](https://open.spotify.com/album/3uH0EPbMgnsqP220zcELbV) | 2:10 |
 | 43 | [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 |
 | 44 | [Doppel Ass](https://open.spotify.com/track/2gz0YGXO9o4Vb8L6MP1Jz2) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Doppel Ass](https://open.spotify.com/album/7LOKxfmHlMPknM4Nsz4V4v) | 2:40 |

@@ -373,6 +373,28 @@
     },
     {
       "album": {
+        "name": "Songs of Joy & Peace",
+        "url": "https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285626,
+      "name": "Happy Xmas (War is Over)",
+      "url": "https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE"
+    },
+    {
+      "album": {
         "name": "Have You Ever Seen The Rain?",
         "url": "https://open.spotify.com/album/0XFemF1cFczOzimPAjPksh"
       },
@@ -1518,7 +1540,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 116426,
       "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"

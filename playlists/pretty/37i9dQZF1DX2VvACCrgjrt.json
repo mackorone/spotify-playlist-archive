@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Matroda",
-  "num_followers": 456452,
+  "num_followers": 456511,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -697,28 +697,24 @@
       "url": "https://open.spotify.com/track/1Z9DFlgXEDX4XDnaBrKPLt"
     },
     {
-      "added_at": "2025-02-21 22:36:55",
+      "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "gImmE gImmE",
-        "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         },
         {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
         }
       ],
-      "duration_ms": 197842,
-      "name": "gImmE gImmE",
-      "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
+      "duration_ms": 195114,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
     },
     {
       "added_at": "2025-02-28 05:01:00",
@@ -809,24 +805,28 @@
       "url": "https://open.spotify.com/track/5BcXmWBoTuFhlZ3HVEOiSx"
     },
     {
-      "added_at": "2025-03-14 04:00:25",
+      "added_at": "2025-02-21 22:36:55",
       "album": {
-        "name": "Whiplash",
-        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+        "name": "gImmE gImmE",
+        "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         },
         {
-          "name": "SOFI",
-          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
         }
       ],
-      "duration_ms": 195114,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
+      "duration_ms": 197842,
+      "name": "gImmE gImmE",
+      "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1465,6 +1465,22 @@
       "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "TECHNO N' BASS",
+        "url": "https://open.spotify.com/album/7yiVNFSI7HBuHpgt6FUUqk"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "TECHNO N' BASS",
+      "url": "https://open.spotify.com/track/3eC5zOfHgLYK2FYv8ObvMC"
+    },
+    {
       "added_at": "2025-01-10 05:00:37",
       "album": {
         "name": "Power (feat. Bipolar Sunshine)",
@@ -1483,22 +1499,6 @@
       "duration_ms": 178409,
       "name": "Power (feat. Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/23Yme7RmpgqUxpllJUkHkl"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "TECHNO N' BASS",
-        "url": "https://open.spotify.com/album/7yiVNFSI7HBuHpgt6FUUqk"
-      },
-      "artists": [
-        {
-          "name": "Mattilo",
-          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "TECHNO N' BASS",
-      "url": "https://open.spotify.com/track/3eC5zOfHgLYK2FYv8ObvMC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1617,6 +1617,26 @@
       "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Backstage Baddies",
+        "url": "https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Backstage Baddies",
+      "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
+    },
+    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Fire",
@@ -1657,26 +1677,6 @@
       "url": "https://open.spotify.com/track/0qZg3QCosvFW93KqKVDtDt"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Backstage Baddies",
-        "url": "https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Backstage Baddies",
-      "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
-    },
-    {
       "added_at": "2024-09-30 15:01:28",
       "album": {
         "name": "Baggy Black Jeans",
@@ -1691,22 +1691,6 @@
       "duration_ms": 192692,
       "name": "Baggy Black Jeans",
       "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
-    },
-    {
-      "added_at": "2025-01-31 05:00:38",
-      "album": {
-        "name": "Careline",
-        "url": "https://open.spotify.com/album/69IBVapOvHJr977mY9gpDN"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Techno Is My Only Love",
-      "url": "https://open.spotify.com/track/1REJlR8ulnslkfATIzOLgd"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1765,20 +1749,20 @@
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
     },
     {
-      "added_at": "2025-02-28 05:01:00",
+      "added_at": "2025-01-31 05:00:38",
       "album": {
-        "name": "GHOST",
-        "url": "https://open.spotify.com/album/5yJiV2EyTu45VcJbXwTDI5"
+        "name": "Careline",
+        "url": "https://open.spotify.com/album/69IBVapOvHJr977mY9gpDN"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
         }
       ],
-      "duration_ms": 216000,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/1Z80aMp7Zxk4jqHoy4m9OI"
+      "duration_ms": 141428,
+      "name": "Techno Is My Only Love",
+      "url": "https://open.spotify.com/track/1REJlR8ulnslkfATIzOLgd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1821,20 +1805,20 @@
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2025-02-28 05:01:00",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/5yJiV2EyTu45VcJbXwTDI5"
       },
       "artists": [
         {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+      "duration_ms": 216000,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/1Z80aMp7Zxk4jqHoy4m9OI"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -1855,6 +1839,22 @@
       "duration_ms": 110769,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1881,6 +1881,22 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
+      "added_at": "2025-03-14 04:00:25",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/7wUAQybe1RDRO7zZbCEyE4"
+      },
+      "artists": [
+        {
+          "name": "Matteo Cole",
+          "url": "https://open.spotify.com/artist/5cocK3MThgfCVs0tOogF1I"
+        }
+      ],
+      "duration_ms": 150437,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/00yyg9O0uiWTAcxp5N7ppH"
+    },
+    {
       "added_at": "2024-08-16 14:10:04",
       "album": {
         "name": "Deeper Underground",
@@ -1899,22 +1915,6 @@
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
-      "added_at": "2025-03-14 04:00:25",
-      "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/7wUAQybe1RDRO7zZbCEyE4"
-      },
-      "artists": [
-        {
-          "name": "Matteo Cole",
-          "url": "https://open.spotify.com/artist/5cocK3MThgfCVs0tOogF1I"
-        }
-      ],
-      "duration_ms": 150437,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/00yyg9O0uiWTAcxp5N7ppH"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1969,22 +1969,6 @@
       "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
     },
     {
-      "added_at": "2025-01-24 05:00:54",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 231044,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Enemy",
@@ -2003,6 +1987,22 @@
       "duration_ms": 211428,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
+    },
+    {
+      "added_at": "2025-01-24 05:00:54",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 231044,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2101,26 +2101,6 @@
       "url": "https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF"
     },
     {
-      "added_at": "2025-02-14 05:00:46",
-      "album": {
-        "name": "Stir It Up",
-        "url": "https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Lucy Lucy",
-          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Stir It Up",
-      "url": "https://open.spotify.com/track/3pE7t5Ot2WtPgcNQKoZUHQ"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Blacked Out",
@@ -2155,6 +2135,26 @@
       "duration_ms": 189214,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
+    },
+    {
+      "added_at": "2025-02-14 05:00:46",
+      "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Lucy Lucy",
+          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/3pE7t5Ot2WtPgcNQKoZUHQ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2273,6 +2273,22 @@
       "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
     },
     {
+      "added_at": "2025-03-07 05:47:46",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/2u64xM5mYc5qBvOQfkGPm5"
+      },
+      "artists": [
+        {
+          "name": "Helang",
+          "url": "https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/622eAV8J0zkZyrCH5pZqF4"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Want My Love",
@@ -2291,6 +2307,22 @@
       "duration_ms": 157404,
       "name": "Want My Love",
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Feel (Real Love)",
+        "url": "https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 161503,
+      "name": "Feel (Real Love)",
+      "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
     },
     {
       "added_at": "2025-02-14 05:00:46",
@@ -2313,6 +2345,22 @@
       "url": "https://open.spotify.com/track/4xoyzrSXUMtUL8EvBAdVp6"
     },
     {
+      "added_at": "2025-01-17 05:56:39",
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3JLr4kDFIYrVOwZDxHZEoy"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2Yeg5H1I7pG9KQSN4wLw5I"
+    },
+    {
       "added_at": "2025-02-14 05:00:46",
       "album": {
         "name": "Don't",
@@ -2329,20 +2377,24 @@
       "url": "https://open.spotify.com/track/0fWRHwEPTXWVsc4JDdrgTl"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-10-02 17:18:50",
       "album": {
-        "name": "Feel (Real Love)",
-        "url": "https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt"
+        "name": "Danny Phantom",
+        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
       },
       "artists": [
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
         }
       ],
-      "duration_ms": 161503,
-      "name": "Feel (Real Love)",
-      "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
+      "duration_ms": 200077,
+      "name": "Danny Phantom",
+      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
     },
     {
       "added_at": "2024-09-30 15:01:28",
@@ -2367,58 +2419,6 @@
       "duration_ms": 164500,
       "name": "Addicted (feat. Haley Maze)",
       "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
-    },
-    {
-      "added_at": "2025-01-17 05:56:39",
-      "album": {
-        "name": "Bass",
-        "url": "https://open.spotify.com/album/3JLr4kDFIYrVOwZDxHZEoy"
-      },
-      "artists": [
-        {
-          "name": "OKAYVAL",
-          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bass",
-      "url": "https://open.spotify.com/track/2Yeg5H1I7pG9KQSN4wLw5I"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Get Hype",
-        "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
-      },
-      "artists": [
-        {
-          "name": "Rob Vice",
-          "url": "https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv"
-        },
-        {
-          "name": "MNRVA",
-          "url": "https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1"
-        }
-      ],
-      "duration_ms": 155437,
-      "name": "Get Hype",
-      "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
-    },
-    {
-      "added_at": "2025-03-07 05:47:46",
-      "album": {
-        "name": "Feel So Right",
-        "url": "https://open.spotify.com/album/1HK3AXlfMIYy9m7TLnxQRs"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 161777,
-      "name": "Feel So Right",
-      "url": "https://open.spotify.com/track/0fpDD4JKDf35bUyU8gPOnl"
     }
   ],
   "unique_name": "Nasty Bits",

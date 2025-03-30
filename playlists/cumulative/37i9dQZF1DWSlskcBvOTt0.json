@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 161622,
       "name": "Back 2 Me",
       "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 207141,
       "name": "Boy You Got Me",
       "url": "https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG"
@@ -3938,6 +3938,24 @@
       "duration_ms": 430250,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe"
+    },
+    {
+      "album": {
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl"
+      },
+      "artists": [
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213569,
+      "name": "Dark Waters",
+      "url": "https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT"
     },
     {
       "album": {
@@ -5370,6 +5388,36 @@
       "duration_ms": 583278,
       "name": "Extassy",
       "url": "https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw"
+    },
+    {
+      "album": {
+        "name": "EYES WIDE OPEN",
+        "url": "https://open.spotify.com/album/35ayAeNZsTUyUcpsbsFp9E"
+      },
+      "artists": [
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
+        },
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "JEWELS",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "YUMA",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360270,
+      "name": "EYES WIDE OPEN",
+      "url": "https://open.spotify.com/track/1k0uIwMxTiL0ZZ0XPZq44b"
     },
     {
       "album": {

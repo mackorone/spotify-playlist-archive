@@ -1,12 +1,12 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 42364,
+  "num_followers": 42442,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+HyAAAAAAAL65LTCIYot6pLMKd+y8s4",
+  "snapshot_id": "Z+XmgAAAAADifPa9c/XD2nlh1NoV0/t7",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 150000,
       "name": "DEFIENDO EL TERRE",
       "url": "https://open.spotify.com/track/150x3uhN0IOSohoxaj3auy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chato",
+        "url": "https://open.spotify.com/album/1pcmtSkSvsZX2anSkn5zsI"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 213125,
+      "name": "El Chato",
+      "url": "https://open.spotify.com/track/0uNazwI0XPyMqVw4LOsOUt"
     },
     {
       "added_at": null,
@@ -399,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Mayo",
-        "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 191202,
-      "name": "Don Mayo",
-      "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mando",
         "url": "https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ"
       },
@@ -435,6 +435,26 @@
       "duration_ms": 217000,
       "name": "El Mando",
       "url": "https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don Mayo",
+        "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 191202,
+      "name": "Don Mayo",
+      "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
     },
     {
       "added_at": null,
@@ -491,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Torre De Oro",
-        "url": "https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y"
+        "name": "Andares",
+        "url": "https://open.spotify.com/album/3VZIepgxFPJVhurSNpy80p"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "El Filly Y Sus Aliados",
+          "url": "https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt"
         }
       ],
-      "duration_ms": 178374,
-      "name": "La Torre De Oro",
-      "url": "https://open.spotify.com/track/0UuHledJeNZ99QsL1C3VWo"
+      "duration_ms": 151374,
+      "name": "Andares",
+      "url": "https://open.spotify.com/track/1HteRXTExneqPT4b62Vkmf"
     },
     {
       "added_at": null,
@@ -523,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andares",
-        "url": "https://open.spotify.com/album/3VZIepgxFPJVhurSNpy80p"
+        "name": "La Torre De Oro",
+        "url": "https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "El Filly Y Sus Aliados",
-          "url": "https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt"
         }
       ],
-      "duration_ms": 151374,
-      "name": "Andares",
-      "url": "https://open.spotify.com/track/1HteRXTExneqPT4b62Vkmf"
+      "duration_ms": 178374,
+      "name": "La Torre De Oro",
+      "url": "https://open.spotify.com/track/0UuHledJeNZ99QsL1C3VWo"
     },
     {
       "added_at": null,
@@ -595,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pluma De Wax",
-        "url": "https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g"
+        "name": "Dos Guaches Cal\u00e9ntanos",
+        "url": "https://open.spotify.com/album/5VY7WMoTXkIWgvb9Uja3xV"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Tite Chavez",
-          "url": "https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q"
         }
       ],
-      "duration_ms": 159061,
-      "name": "La Pluma De Wax",
-      "url": "https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU"
+      "duration_ms": 197492,
+      "name": "Dos Guaches Cal\u00e9ntanos",
+      "url": "https://open.spotify.com/track/7qfTIjeLLW20IfKNygZ4Ev"
     },
     {
       "added_at": null,
@@ -631,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Guaches Cal\u00e9ntanos",
-        "url": "https://open.spotify.com/album/5VY7WMoTXkIWgvb9Uja3xV"
+        "name": "La Pluma De Wax",
+        "url": "https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Tite Chavez",
+          "url": "https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q"
         }
       ],
-      "duration_ms": 197492,
-      "name": "Dos Guaches Cal\u00e9ntanos",
-      "url": "https://open.spotify.com/track/7qfTIjeLLW20IfKNygZ4Ev"
+      "duration_ms": 159061,
+      "name": "La Pluma De Wax",
+      "url": "https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU"
     },
     {
       "added_at": null,
@@ -659,22 +679,6 @@
       "duration_ms": 185000,
       "name": "El Mas Buscado",
       "url": "https://open.spotify.com/track/0vtteN4GAHvd6XUQIpwzYI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 247875,
-      "name": "Estratega de Guerra",
-      "url": "https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm"
     },
     {
       "added_at": null,
@@ -699,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 247875,
+      "name": "Estratega de Guerra",
+      "url": "https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nos Cayeron los Guachitos",
         "url": "https://open.spotify.com/album/4BvfkPKhO3tBrV6pPxlSqy"
       },
@@ -715,6 +735,22 @@
       "duration_ms": 208373,
       "name": "Nos Cayeron los Guachitos",
       "url": "https://open.spotify.com/track/2OcwUZJSDpmqDTdHoGI1PH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slapperz",
+        "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 149125,
+      "name": "Si No Es Contigo",
+      "url": "https://open.spotify.com/track/2ZCxbNFArcJbqeH3QqMisn"
     },
     {
       "added_at": null,
@@ -739,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Los Espino",
+      "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchas Gracias Chavalones (En Vivo)",
         "url": "https://open.spotify.com/album/7nTD2z80D62N6JoyPtVjZA"
       },
@@ -755,22 +807,6 @@
       "duration_ms": 228875,
       "name": "Muchas Gracias Chavalones (En Vivo)",
       "url": "https://open.spotify.com/track/1BlDvvKfBQZZn2wnJdUshp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Los Espino",
-      "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
     },
     {
       "added_at": null,
@@ -811,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacandole Cuentas",
-        "url": "https://open.spotify.com/album/0vlcVWWLFeHE40u4oDKHdt"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 253603,
-      "name": "Sacandole Cuentas",
-      "url": "https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Modo Que Sea Mentira",
         "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
       },
@@ -847,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slapperz",
-        "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
+        "name": "Sacandole Cuentas",
+        "url": "https://open.spotify.com/album/0vlcVWWLFeHE40u4oDKHdt"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 149125,
-      "name": "Si No Es Contigo",
-      "url": "https://open.spotify.com/track/2ZCxbNFArcJbqeH3QqMisn"
+      "duration_ms": 253603,
+      "name": "Sacandole Cuentas",
+      "url": "https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw"
     },
     {
       "added_at": null,
@@ -891,22 +911,6 @@
       "duration_ms": 208995,
       "name": "Desde Ma\u00f1ana",
       "url": "https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El De Las Plumas (En Vivo)",
-        "url": "https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "El De Las Plumas - En Vivo",
-      "url": "https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM"
     }
   ],
   "unique_name": "This Is Los Farmerz",

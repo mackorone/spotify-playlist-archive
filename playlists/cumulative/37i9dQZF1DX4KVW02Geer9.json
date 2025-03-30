@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 244029,
       "name": "All in your palms",
       "url": "https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8"
@@ -991,6 +991,32 @@
     },
     {
       "album": {
+        "name": "Chords and Discords",
+        "url": "https://open.spotify.com/album/53oIemmnUL8UQZYxKFCdNl"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "date_added": "2025-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156424,
+      "name": "Chords and Discords",
+      "url": "https://open.spotify.com/track/3NfCWoeG0MnrAEcsjAwY5A"
+    },
+    {
+      "album": {
         "name": "Midnight Crisp Remixed",
         "url": "https://open.spotify.com/album/5bZJeCMpwyemFZU4FalXVe"
       },
@@ -1609,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "felicity",
+        "url": "https://open.spotify.com/album/1Ht0TIbOGPASkzwXGrDH0M"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "date_added": "2025-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156232,
+      "name": "felicity",
+      "url": "https://open.spotify.com/track/3tES0yEyOhPrL5DVcRvAGN"
+    },
+    {
+      "album": {
         "name": "FIGO",
         "url": "https://open.spotify.com/album/5i5twc3cP95rZqYDDc21yO"
       },
@@ -1664,7 +1708,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 236866,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
@@ -5228,7 +5272,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 183920,
       "name": "WHAT IS ??",
       "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Vald, Ariana Grande et Linh au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,697 likes - 83 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,723 likes - 83 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 64 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 |
 | 65 | [Veille de rentrée](https://open.spotify.com/track/1rWdxTy0RRkU1ivGBYZQqQ) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Veille de rentrée](https://open.spotify.com/album/5D7GWSEYB09Eve10swCHUE) | 3:12 |
 | 66 | [indigo](https://open.spotify.com/track/34r4lkt0hO0sbLI17vb0Os) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [indigo](https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD) | 3:33 |
-| 67 | [SIMPLEMENT](https://open.spotify.com/track/3xF1htRcy0iYQeRdFohHo9) | [Gloria](https://open.spotify.com/artist/2yWU3Z3NKkz1g49LzGFRU4) | [SIMPLEMENT](https://open.spotify.com/album/0QjuLxZOrNT8Ay41p2ZHqg) | 2:26 |
+| 67 | [Simplement](https://open.spotify.com/track/3xF1htRcy0iYQeRdFohHo9) | [Gloria](https://open.spotify.com/artist/2yWU3Z3NKkz1g49LzGFRU4) | [Simplement](https://open.spotify.com/album/0QjuLxZOrNT8Ay41p2ZHqg) | 2:26 |
 | 68 | [RALENTIS](https://open.spotify.com/track/12OtqAs2bH931uW93vLxrM) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [RALENTIS](https://open.spotify.com/album/1cTXecDjEauuYXXkX498uR) | 2:09 |
 | 69 | [Get Down](https://open.spotify.com/track/2dFaDJzmyKzFXeKfN7cTpC) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd), [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide) | [Get Down](https://open.spotify.com/album/3kIxliOlUMRweu9NBNV7tz) | 2:44 |
 | 70 | [All My Love](https://open.spotify.com/track/4lgq1xbQyT2vsMQNOreCij) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All My Love](https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt) | 4:13 |

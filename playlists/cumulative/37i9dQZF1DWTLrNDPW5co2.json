@@ -4517,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "hexed!",
+        "url": "https://open.spotify.com/album/1hNGdfhOWtdbUoFOZ1Sc6J"
+      },
+      "artists": [
+        {
+          "name": "aya",
+          "url": "https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH"
+        }
+      ],
+      "date_added": "2025-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209984,
+      "name": "off to the ESSO",
+      "url": "https://open.spotify.com/track/1R78da7R1cUTG5tLq7hU7c"
+    },
+    {
+      "album": {
         "name": "off to the ESSO",
         "url": "https://open.spotify.com/album/5FRLG42HT660dswh54SSrA"
       },
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 168705,
       "name": "PONY (RIDE ME)",
       "url": "https://open.spotify.com/track/20lRk7PefckQyVINUfhRuH"
@@ -6240,7 +6258,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 146610,
       "name": "THE PENTHOUSE",
       "url": "https://open.spotify.com/track/1uwdi6M8rXKo50VsIiDDA8"

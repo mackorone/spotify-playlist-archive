@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,166 songs - 2 day 10 hr 42 min
+1,167 songs - 2 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Bence de Zor](https://open.spotify.com/track/4h4700vf4w6WDo1Bh9OBAg) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bence de Zor](https://open.spotify.com/album/3C9rw1MMew1lL55I9eJYrB) | 2:36 | 2021-04-11 | 2021-05-23 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/5vbUKpzqUdNHi68OmxdmBC) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Afrodizyak](https://open.spotify.com/album/4TMsAIQX08fIY9pfSE2y7G) | 2:19 | 2023-06-24 | 2023-09-08 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/38t5dhK8APbBXzqGpPgTJP) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Benden Bir Tane Daha Yok](https://open.spotify.com/album/1hFtzZ9LgsPTjKdiTAAil0) | 2:19 | 2023-05-03 | 2023-06-25 |
+| [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 | 2025-03-29 |  |
 | [Beng ü Bade](https://open.spotify.com/track/4YLW7VIXfaMlgzeyLTiMuB) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/28WWrNIUffrjPkNzARekmg) | 2:58 | 2024-11-23 | 2024-11-25 |
 | [beni beni](https://open.spotify.com/track/1cMwYWgiyCDOS1nN8jZHIu) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [beni beni](https://open.spotify.com/album/7MxTviVQPnWa4GLQNjJ1fH) | 3:38 | 2022-11-26 | 2022-11-29 |
 | [Beni Hatırla](https://open.spotify.com/track/3pBWA9H0QsXnpkep5vmwoM) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A) | 5:12 | 2024-07-30 | 2024-08-04 |
@@ -624,7 +625,7 @@
 | [Kahrettim](https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kahrettim](https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b) | 3:06 | 2021-03-27\* | 2021-04-01 |
 | [KALA KAL](https://open.spotify.com/track/3NFMLi0FhAkxZNPs1UhYtB) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:39 | 2022-01-22 | 2022-02-25 |
 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 | 2022-11-12 | 2022-12-09 |
-| [Kalbim Yanımda](https://open.spotify.com/track/3Lpeu0zbUXY1WfoGy1vEuh) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:46 | 2024-10-12 | 2025-02-03 |
+| [Kalbim Yanımda](https://open.spotify.com/track/3Lpeu0zbUXY1WfoGy1vEuh) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:46 | 2024-10-12 |  |
 | [Kalbim Yanımda](https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kalbim Yanımda](https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o) | 2:46 | 2023-09-30 | 2024-10-13 |
 | [Kalbimi Kırdın](https://open.spotify.com/track/2jLVyqrpgUZEkGnto3tDgC) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD) | 3:32 | 2021-05-23 | 2021-05-30 |
 | [Kalbin bana kaldı](https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kalbin bana kaldı](https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW) | 2:24 | 2022-07-30 | 2022-12-21 |
@@ -1120,7 +1121,7 @@
 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 | 2024-02-06 | 2024-06-22 |
 | [Yolum Açık](https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Yolum Açık](https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu) | 2:41 | 2023-04-29 | 2023-05-01 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-16 |
-| [Yürek](https://open.spotify.com/track/1KS8f2xRqTC3zflbPpFrcM) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Darmaduman](https://open.spotify.com/album/6MrE8aTkCV6xuSnVCRJ1Wz) | 4:11 | 2025-03-26 |  |
+| [Yürek](https://open.spotify.com/track/1KS8f2xRqTC3zflbPpFrcM) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Darmaduman](https://open.spotify.com/album/6MrE8aTkCV6xuSnVCRJ1Wz) | 4:11 | 2025-03-26 | 2025-03-30 |
 | [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 | 2023-11-07 | 2024-08-13 |
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-07 | 2023-01-22 |
 | [Yıldızlar Parlar](https://open.spotify.com/track/6b0uusCo20LOsfG1OTyu1V) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:43 | 2024-10-12 | 2024-10-18 |
@@ -1154,7 +1155,7 @@
 | [Çok Kolay](https://open.spotify.com/track/4BBee59kamxuAF3J0pS6GT) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [Çok Kolay](https://open.spotify.com/album/7hz72trerdO3cg4JP9TGx1) | 3:30 | 2022-08-13 | 2022-08-15 |
 | [Çok Yazık](https://open.spotify.com/track/6NbXYfMZULpf1sGxp8Qx0P) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [YANGIN](https://open.spotify.com/album/6El74tmpitoS7Z7NoO6xaO) | 3:38 | 2023-06-15 | 2023-12-24 |
 | [ÇÖZEMEZLER](https://open.spotify.com/track/300xFtOH49F80uB7BSAsEf) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TEMPO](https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f) | 2:10 | 2024-09-10 | 2025-02-05 |
-| [Çözemezsin](https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Çözemezsin](https://open.spotify.com/album/3hKqpJizdFWWLQKwDKpz8a) | 4:37 | 2025-02-27 |  |
+| [Çözemezsin](https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Çözemezsin](https://open.spotify.com/album/3hKqpJizdFWWLQKwDKpz8a) | 4:37 | 2025-02-27 | 2025-03-30 |
 | [Ölebilirim](https://open.spotify.com/track/5jtqm1ZWbtyaUfhX9zc0ls) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Ölebilirim](https://open.spotify.com/album/0P3wjoDhm36wToI7e2riWK) | 3:49 | 2021-05-17 | 2021-12-12 |
 | [Ölümle Yaşam Arasında](https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Ölümle Yaşam Arasında](https://open.spotify.com/album/61FFY1aI5DXTbAV5SJn95C) | 2:56 | 2022-10-06 | 2023-07-15 |
 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-06-29 | 2024-10-31 |

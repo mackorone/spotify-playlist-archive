@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-3,194 songs - 7 day 1 hr 31 min
+3,196 songs - 7 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [Devenir vieux](https://open.spotify.com/track/3rYr3j4Wjhvg9W8gK7ek63) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les nuages](https://open.spotify.com/album/1FXl06tgFw0C1t8bZOJrKF) | 2:58 | 2024-01-26 | 2024-02-03 |
 | [Diamant](https://open.spotify.com/track/3b4wIxzd5f8C9k8azA9hPx) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Diamant](https://open.spotify.com/album/72SQDw88bPAybqZ1wICJ9e) | 3:31 | 2022-05-27 | 2022-06-11 |
 | [Diamantele \(feat\. Luis Gabriel\)](https://open.spotify.com/track/1Sulmml2xx1JZNhvlmiDpu) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd), [Luis Gabriel](https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82) | [Diamant](https://open.spotify.com/album/3Bed6tESm55ctwZVLAQMNX) | 3:04 | 2022-07-08 | 2022-07-30 |
+| [DIEU MERCI](https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 4:20 | 2025-03-28 |  |
 | [Différent](https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Différent](https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y) | 2:39 | 2023-09-15 | 2023-11-18 |
 | [DIFFÉRENT](https://open.spotify.com/track/5jM8TSQUnipH28RRU8IOi3) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Riches & Dangereux](https://open.spotify.com/album/608HpoIiy6Er4TSHf56XPT) | 2:50 | 2023-05-26 | 2023-06-03 |
 | [Différent de toi](https://open.spotify.com/track/6QqapEQ1RsiEJnlWQKtqzf) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Différent de toi](https://open.spotify.com/album/1ir16RkFLAXmhqHvWNhDCV) | 2:45 | 2023-01-13 | 2023-01-28 |
@@ -1773,7 +1774,7 @@
 | [Lundi normal](https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lundi normal](https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx) | 3:03 | 2023-02-03 | 2023-02-18 |
 | [Lune de miel](https://open.spotify.com/track/0aQxLupYZxIKNdNHRyaGSQ) | [Syelle](https://open.spotify.com/artist/6IE5G4Wc3ckOHrzlauoZWe) | [Lune de miel](https://open.spotify.com/album/22X4u3YaI1vC9BY1F0iY6X) | 3:15 | 2022-03-11 | 2022-03-18 |
 | [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:17 | 2024-05-24 | 2024-07-13 |
-| [Lâche\-moi la main](https://open.spotify.com/track/6ozjFPw3Qt2LNON2tMXiY9) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Lâche\-moi la main](https://open.spotify.com/album/0zua6XNuLGr7photwSTSQR) | 4:07 | 2025-03-14 |  |
+| [Lâche\-moi la main](https://open.spotify.com/track/6ozjFPw3Qt2LNON2tMXiY9) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Lâche\-moi la main](https://open.spotify.com/album/0zua6XNuLGr7photwSTSQR) | 4:07 | 2025-03-14 | 2025-03-30 |
 | [Lève\-toi](https://open.spotify.com/track/5YgSiBZIZIpARpzzISiWsb) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8), [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Lève\-toi](https://open.spotify.com/album/0e9MeZE0DvKs2FYHJsWGAL) | 3:34 | 2023-03-10 | 2023-03-25 |
 | [Léa](https://open.spotify.com/track/3fCaC9bSUH4dG24RhDYcba) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Léa](https://open.spotify.com/album/67woYgYe60Ig41gtjvPhfL) | 2:55 | 2025-02-28 | 2025-03-15 |
 | [Léa](https://open.spotify.com/track/2fRdNqwdUAhriA3sNhr2YV) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [Léa // Tableaux de craie](https://open.spotify.com/album/7BAUGw2yyZmSMAXgq7Fuyb) | 3:18 | 2025-02-07 | 2025-03-01 |
@@ -1909,7 +1910,7 @@
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-05-20 |
 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 | 2022-09-30 | 2022-10-15 |
 | [Mignon tout plein](https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:24 | 2024-01-26 | 2024-04-06 |
-| [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 | 2025-03-07 |  |
+| [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 | 2025-03-07 | 2025-03-30 |
 | [Million](https://open.spotify.com/track/4p6alDHcmLYFP9F2fym7o3) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Million](https://open.spotify.com/album/2JoVMQkDFadGmn29eIpOFR) | 2:22 | 2022-04-08 | 2022-04-23 |
 | [Millionnaire](https://open.spotify.com/track/2wzdnS3Iwjh0ltmZWNEZqD) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [Millionnaire](https://open.spotify.com/album/5uE3d5oUX3vlC8n875vRNw) | 2:34 | 2023-03-24 | 2023-04-09 |
 | [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 | 2025-01-31 | 2025-02-08 |
@@ -2932,6 +2933,7 @@
 | [Trop Vite](https://open.spotify.com/track/2ogaCerQs0CkXAm9mOFc4O) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Trop Vite](https://open.spotify.com/album/1GMrFwJWVhMqR9E45xFWPC) | 3:05 | 2022-03-11 | 2022-03-18 |
 | [Trophée](https://open.spotify.com/track/1n1ufFsnSU3mDuDSHroza8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Trophée](https://open.spotify.com/album/4THFrVEcgnvqFf24q1noUQ) | 3:19 | 2022-06-24 | 2022-07-09 |
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2022-08-26 | 2022-09-10 |
+| [Try Try Try \- A COLORS SHOW](https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/album/5h0jmRk4qlXohRlFiFXjxO) | 2:58 | 2025-03-28 |  |
 | [très tard le soir \(feat\. Josman\)](https://open.spotify.com/track/6eS9MESvWbhLv2zvv4Zc7T) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [La grande désillusion](https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS) | 4:42 | 2023-04-07 | 2023-05-13 |
 | [Tshe minupunanu](https://open.spotify.com/track/1SPoPSwGya3pycdKaIchnC) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu), [Scott\-Pien Picard](https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E), [Maten](https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9) | [Tshe minupunanu](https://open.spotify.com/album/2uceOZsLGJTEm7NQjgPGfE) | 3:50 | 2022-06-10 | 2022-06-25 |
 | [Tsunami](https://open.spotify.com/track/0zfyYYW4pNMYRF6DM925j1) | [Playboiii](https://open.spotify.com/artist/5gQmOOylHWhWXgEi7aKVem), [Astroblo](https://open.spotify.com/artist/768CCyGYQRSYX5RV70yQcO) | [Tsunami](https://open.spotify.com/album/3RyFFWSZufPTlLZU9HHu9d) | 2:06 | 2021-12-31 | 2022-01-22 |

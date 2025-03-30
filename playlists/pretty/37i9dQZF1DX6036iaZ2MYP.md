@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Joeboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,130 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,234 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Libérer](https://open.spotify.com/track/1DZpgpWAzUZ9BuL0si2qSb) | [Kurtys](https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU) | [Libérer](https://open.spotify.com/album/2MvX5t6t9uKOVf9uZ03iUY) | 2:25 |
 | 49 | [Taste of Ya](https://open.spotify.com/track/0FlsFg9HH5zI2NKyS7gXcC) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [It'll All Make Sense Later \(Deluxe\)](https://open.spotify.com/album/0p3gMzAZcxlKnjxyH8MgFw) | 2:30 |
 
-Snapshot ID: `Z+XYeAAAAADmmVs6meZVkzNXt5SVeTIR`
+Snapshot ID: `Z+g8NAAAAADBG7ptrs6rjeOvZjz0vnQz`

@@ -14381,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260252,
+      "name": "DIEU MERCI",
+      "url": "https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp"
+    },
+    {
+      "album": {
         "name": "Diff\u00e9rent",
         "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
       },
@@ -34390,7 +34408,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 247880,
       "name": "L\u00e2che-moi la main",
       "url": "https://open.spotify.com/track/6ozjFPw3Qt2LNON2tMXiY9"
@@ -37082,7 +37100,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 138306,
       "name": "miki cowboy",
       "url": "https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU"
@@ -57030,6 +57048,28 @@
       "duration_ms": 197666,
       "name": "Trou d'eau",
       "url": "https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5"
+    },
+    {
+      "album": {
+        "name": "Try Try Try - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5h0jmRk4qlXohRlFiFXjxO"
+      },
+      "artists": [
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178632,
+      "name": "Try Try Try - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC"
     },
     {
       "album": {

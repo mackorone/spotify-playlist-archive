@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/5lMVd72TszpNSh7tjeeDm0"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215423,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2tRhRg1VpTSZnB5AVVPy0i"
+    },
+    {
+      "album": {
         "name": "Hear Me Roar",
         "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
       },
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 250733,
       "name": "Pina Colada",
       "url": "https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD"
@@ -1281,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
+    },
+    {
+      "album": {
         "name": "J Boog - EP",
         "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
       },
@@ -1292,7 +1328,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 205013,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"

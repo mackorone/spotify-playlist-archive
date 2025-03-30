@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=x7pdm6GhRKCpmJ9JTf15uQ"> Jovie Jovv</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,665 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,675 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 6 | [Kill Me With The Vibe](https://open.spotify.com/track/0dgr9Kbr0ARyz3hv9tKf3G) | [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [Kill Me With The Vibe](https://open.spotify.com/album/61G67U8GxGzTtX9SpcIcDT) | 3:11 |
 | 7 | [Chinje](https://open.spotify.com/track/5JO1evNqPbkzI4WfUb3VYL) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Chinje](https://open.spotify.com/album/10bofBAyhS6uXTHM1SyYzj) | 3:31 |
 | 8 | [1 of 1](https://open.spotify.com/track/6hDTK2zfY3dL6K1GFRBR22) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:30 |
-| 9 | [G sign](https://open.spotify.com/track/3YS92rJ94jZRtL5JYRcnXf) | [NIGGA SHAWN](https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9), [Mauru Gwash](https://open.spotify.com/artist/7At4VH2SHRSwnKzxRtYlra), [Thirtyfourbrick](https://open.spotify.com/artist/72gStMl93alASiWwpGUbAa) | [G sign](https://open.spotify.com/album/3pPfFQBcuBlQPSufRCMNkC) | 2:14 |
+| 9 | [G sign](https://open.spotify.com/track/3YS92rJ94jZRtL5JYRcnXf) | [NIGGA SHAWN](https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9), [Mauru Gwash](https://open.spotify.com/artist/7At4VH2SHRSwnKzxRtYlra), [Thirtyfourbrick](https://open.spotify.com/artist/48XeNpn6zhdPuA1f1Ag0Rt) | [G sign](https://open.spotify.com/album/3pPfFQBcuBlQPSufRCMNkC) | 2:14 |
 | 10 | [Kama Hauna](https://open.spotify.com/track/5FAUAybpi9AwTREnSlPVwq) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Kama Hauna](https://open.spotify.com/album/5Z0AVgJASlT7QPAdEzfkCy) | 3:00 |
 | 11 | [SSF](https://open.spotify.com/track/4IoBPRuIs7xjSz8yO7xZNe) | [DTX](https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [SSF](https://open.spotify.com/album/1BkIc1BQnqF1ztqYGxR7Wq) | 2:58 |
 | 12 | [Hustle Figure](https://open.spotify.com/track/04jbJq2AuE35VuAe55gVuI) | [Double Trouble](https://open.spotify.com/artist/16bv2xG6TA7IgSjLJFPRCa), [AshRough](https://open.spotify.com/artist/3S5G8Jm88WUAdwgvZCtuvV), [Stunna TNG](https://open.spotify.com/artist/3YI0gln186OWxuOAzkScJq) | [Hustle Figure](https://open.spotify.com/album/6alcBRUSvyt5ozw98gD5is) | 2:41 |

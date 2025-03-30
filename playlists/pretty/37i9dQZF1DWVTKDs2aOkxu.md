@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Lucy Dacus
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,363 likes - 86 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,339 likes - 86 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 224013,
       "name": "Blue Train",
       "url": "https://open.spotify.com/track/4MxUWX3CnhSh1OMpe8Vr1E"
@@ -8352,7 +8352,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 203480,
       "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
       "url": "https://open.spotify.com/track/6KvgHYLTnrIo5LW503B3HC"
@@ -17121,6 +17121,24 @@
     },
     {
       "album": {
+        "name": "\u6e2f\u3078",
+        "url": "https://open.spotify.com/album/4NovGmGh8ZdcaEDg7FyekO"
+      },
+      "artists": [
+        {
+          "name": "Veg",
+          "url": "https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191637,
+      "name": "\u6e2f\u3078",
+      "url": "https://open.spotify.com/track/22Cpussw46M6H1LPAVJ2xC"
+    },
+    {
+      "album": {
         "name": "\u6eba\u611b",
         "url": "https://open.spotify.com/album/5E8bkbhKnoN4qqIJi9YzZq"
       },
@@ -18968,7 +18986,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 307012,
       "name": "\u9858\u3044",
       "url": "https://open.spotify.com/track/2r8AjHmz9Hym1HgTpq8caK"

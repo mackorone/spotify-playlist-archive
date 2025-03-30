@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5?si=LLqNNiLkQXavq8J\_74G7WQ"> Sbahle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,238 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,345 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

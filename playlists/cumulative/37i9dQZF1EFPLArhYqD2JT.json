@@ -6672,6 +6672,24 @@
     {
       "album": {
         "name": "Classic Ragtime",
+        "url": "https://open.spotify.com/album/6WWz6bgQv2NBdvjEsmlrnV"
+      },
+      "artists": [
+        {
+          "name": "Ophelia Ragtime Orchestra",
+          "url": "https://open.spotify.com/artist/0KAJsy9J4yDPcaqdhRTkjH"
+        }
+      ],
+      "date_added": "2025-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177554,
+      "name": "The International Rag",
+      "url": "https://open.spotify.com/track/1R4QeoEt8fWnXeDTRqNw6B"
+    },
+    {
+      "album": {
+        "name": "Classic Ragtime",
         "url": "https://open.spotify.com/album/1QnkLC1LBnr38kXKLshUiW"
       },
       "artists": [
@@ -6682,7 +6700,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 177554,
       "name": "The International Rag",
       "url": "https://open.spotify.com/track/5ocRE2g3IVWdHhbU7NXRrS"
@@ -7934,7 +7952,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 229760,
       "name": "Whisper It",
       "url": "https://open.spotify.com/track/0LTQ7Ck8YvmTWnzeankYSZ"

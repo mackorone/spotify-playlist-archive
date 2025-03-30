@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-161 songs - 10 hr 51 min
+162 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Homeless \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4YDjXXVSAKYEICaQPKKL5G) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 4:15 | 2022-10-12 | 2023-12-14 |
 | [I Know What I Know \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4hc0ZwfqdkHP7hkGhC8U2o) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 4:32 | 2022-10-12 | 2024-05-15 |
 | [I'll Take You There](https://open.spotify.com/track/4YDCuoXyvcT4IMRiBpbz4S) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 6:37 | 2021-12-28 | 2022-10-16 |
+| [Ikhaya Lamaqhawe](https://open.spotify.com/track/5nvUIRQQy6o2fCA4aVIDdq) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu Revisited: 30th Anniversary Celebration](https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X) | 3:59 | 2025-03-30 |  |
 | [Inkanyezi Nezazi \(The Star And The Wiseman\)](https://open.spotify.com/track/1EYDFzpXnupeapHRA6vX3c) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 4:48 | 2021-12-28 | 2025-02-13 |
 | [Inkanyezi Nezazi \(The Star and the Wiseman\)](https://open.spotify.com/track/60WKvKyKO0hZ73nq7lUJNX) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Long Walk to Freedom](https://open.spotify.com/album/6T9zNBJ4r77u399FSCJ35L) | 4:49 | 2022-10-24 | 2023-11-11 |
 | [Inkanyezi Nezazi \(The Star and the Wiseman\)](https://open.spotify.com/track/5xVAfZwlAySWhjxRXYrA0q) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Inkanyezi Nezazi](https://open.spotify.com/album/4P7GY4C1i5T2yCHAZh6xPJ) | 4:51 | 2023-11-10 | 2024-01-02 |
@@ -108,7 +109,7 @@
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 | 2022-10-24 |  |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 | 2021-12-28 | 2022-10-06 |
 | [Nkosi Yami Ngabusiswa](https://open.spotify.com/track/4yomu9eL2rK8s9QBcjr6kd) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 4:16 | 2024-11-04 |  |
-| [Nomathemba](https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Spirit Of South Africa](https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy) | 3:32 | 2021-12-28 |  |
+| [Nomathemba](https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Spirit Of South Africa](https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy) | 3:32 | 2021-12-28 | 2025-03-30 |
 | [Nonqonqo](https://open.spotify.com/track/3Wm6LF8NrVDdh2xiAGqCj4) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 2:20 | 2023-01-14 | 2024-03-06 |
 | [Oh Happy Day](https://open.spotify.com/track/0lLA7dsfDEuokYI0N6J4lw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:42 | 2022-10-24 | 2023-05-19 |
 | [Oh Happy Day](https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5VuH0pVmWz1UHUNooKFuND) | 5:42 | 2021-12-28 | 2022-10-14 |

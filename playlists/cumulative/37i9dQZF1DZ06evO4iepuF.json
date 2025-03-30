@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 108387,
       "name": "allowed to LOVE",
       "url": "https://open.spotify.com/track/6cqnApdgR7NjOk0V0Ixoou"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 104423,
       "name": "break stuff",
       "url": "https://open.spotify.com/track/0ll2Wkt2es0W8KCRkCa6Th"
@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "wish",
+        "url": "https://open.spotify.com/album/1S9ik9FsIIsR0Ayt8lSAWg"
+      },
+      "artists": [
+        {
+          "name": "Draffish",
+          "url": "https://open.spotify.com/artist/0q2jrVdnsi8XIYgr532dSP"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87719,
+      "name": "mango girl",
+      "url": "https://open.spotify.com/track/5ep9A7M2LHIQxMCngAO83H"
+    },
+    {
+      "album": {
         "name": "MAX LVL FIXATED!!",
         "url": "https://open.spotify.com/album/2TjEZDDEujxCQ5w8Mr88h6"
       },
@@ -1246,6 +1268,28 @@
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5M2IRxCeYPGdqHzfjQyH1x"
+    },
+    {
+      "album": {
+        "name": "AWAY FROM WHAT MATTERS",
+        "url": "https://open.spotify.com/album/4BFOVKidGy8yuH8JbM6iI2"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "rose tints",
+      "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
     },
     {
       "album": {

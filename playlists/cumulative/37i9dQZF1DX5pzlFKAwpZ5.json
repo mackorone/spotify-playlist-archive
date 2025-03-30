@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "ch\u00e2teau",
+        "url": "https://open.spotify.com/album/3DLJo4t8P1Hcs0verzEuNf"
+      },
+      "artists": [
+        {
+          "name": "attic",
+          "url": "https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "ch\u00e2teau",
+      "url": "https://open.spotify.com/track/7GGF2U7bZP3LhM2IojZYoE"
+    },
+    {
+      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 159984,
       "name": "Liberty",
       "url": "https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z"
@@ -3805,6 +3823,28 @@
     },
     {
       "album": {
+        "name": "shibuya",
+        "url": "https://open.spotify.com/album/5r8pTArU0UdC1K5PSPqX2x"
+      },
+      "artists": [
+        {
+          "name": "Masayuki Ishii",
+          "url": "https://open.spotify.com/artist/4GxXuTsoHfRRqhpYzxJ7zN"
+        },
+        {
+          "name": "Naohisa Taniguchi",
+          "url": "https://open.spotify.com/artist/6J1WlaCpbUL1sak8JPlIVL"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264034,
+      "name": "shibuya",
+      "url": "https://open.spotify.com/track/2cKWlY2DGnPMT5ZOWPpm1T"
+    },
+    {
+      "album": {
         "name": "More Than Just A Dream",
         "url": "https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ"
       },
@@ -5078,7 +5118,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 371866,
       "name": "Water Copy",
       "url": "https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48"

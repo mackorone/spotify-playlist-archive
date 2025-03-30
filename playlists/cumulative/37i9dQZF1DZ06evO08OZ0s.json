@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 162646,
       "name": "Do You Wanna Be Loved Like This?",
       "url": "https://open.spotify.com/track/4KZl63jx8jkPNqfKcqkk5L"
@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/5KFgcfGE71ch85B5EZn94K"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/6SWySDYfFk2EffrhyQQpok"
+    },
+    {
+      "album": {
         "name": "Just to Be with You",
         "url": "https://open.spotify.com/album/5QBaffo1Nvstta0AxgFVWz"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 250409,
       "name": "Love & Devotion",
       "url": "https://open.spotify.com/track/3R60MeWYg7kRr5hNA8mlu9"
@@ -1438,7 +1460,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 183702,
       "name": "Unwrap My Heart (Tom Brownlow Remix)",
       "url": "https://open.spotify.com/track/0xpcbVpeeqt5JCkTmj57Ya"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Kean Cipriano, Ice Seguerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,207 likes - 101 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,239 likes - 101 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 61 | [Tanging Ikaw](https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Tanging Ikaw](https://open.spotify.com/album/5Vo9ijLxjWDZfl11vJhc4a) | 2:56 |
 | 62 | [Hiraya \(Haharanahin Kita\)](https://open.spotify.com/track/0Ef1eeZkMKKqcEvUrUrriq) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Paham](https://open.spotify.com/album/6ks3nxwwuSeJduxDSeZk3l) | 3:54 |
 | 63 | [Padama](https://open.spotify.com/track/3i7LbFROM0kQLM48OuoXev) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Padama](https://open.spotify.com/album/0hfGtoRMfbtf40Y2pBnw51) | 4:29 |
-| 64 | [Magkasama](https://open.spotify.com/track/6BYfQMc0AOzjdJl3RjJ6v9) | [Johnoy Danao](https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd), [Project Yazz](https://open.spotify.com/artist/0X79091i0pt4JbrIM1YK3L) | [Magkasama](https://open.spotify.com/album/2vux7phieF991LAvZfMBcR) | 6:15 |
+| 64 | [Magkasama](https://open.spotify.com/track/6BYfQMc0AOzjdJl3RjJ6v9) | [Johnoy Danao](https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd), [Project Yazz](https://open.spotify.com/artist/4MGFaVo6cVR9thQU1RQH96) | [Magkasama](https://open.spotify.com/album/2vux7phieF991LAvZfMBcR) | 6:15 |
 | 65 | [Sampung Mga Daliri](https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [Sampung Mga Daliri](https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv) | 3:39 |
 | 66 | [Suya\-suyo](https://open.spotify.com/track/7fa1TUj6YM3qLrEIQAVONY) | [Frisbee](https://open.spotify.com/artist/1VBkwOEyc2ccSel29Pcimq) | [Suya\-suyo](https://open.spotify.com/album/7zr5HjJ3uH9Gkx5qiKzaSC) | 3:06 |
 | 67 | [Delusyonal](https://open.spotify.com/track/09CvWD60BVdN1IcXhAV1X2) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [Delusyonal](https://open.spotify.com/album/7iRBfupC3gJnKbmZL5xXgM) | 3:05 |

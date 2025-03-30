@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Eli",
+        "url": "https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Eli",
+      "url": "https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8"
+    },
+    {
+      "album": {
         "name": "Silver Bead Eyes",
         "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
       },
@@ -628,7 +646,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 207186,
       "name": "Faster",
       "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
@@ -1642,6 +1660,24 @@
       "duration_ms": 194974,
       "name": "Love That Hurts",
       "url": "https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX"
+    },
+    {
+      "album": {
+        "name": "LOVELIFE",
+        "url": "https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "LOVELIFE",
+      "url": "https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl"
     },
     {
       "album": {
@@ -3106,7 +3142,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 166474,
       "name": "Trenger deg n\u00e5",
       "url": "https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx"

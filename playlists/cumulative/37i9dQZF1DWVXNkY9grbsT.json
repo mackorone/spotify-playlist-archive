@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
@@ -7256,6 +7256,24 @@
       "duration_ms": 480000,
       "name": "Solstice",
       "url": "https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9"
+    },
+    {
+      "album": {
+        "name": "Somebody (Mixed)",
+        "url": "https://open.spotify.com/album/4kY0vJC1JGRDIwSsIjZey9"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "date_added": "2025-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202994,
+      "name": "Somebody - Mixed",
+      "url": "https://open.spotify.com/track/1sW1re8MIUHwxtYAiDICaK"
     },
     {
       "album": {

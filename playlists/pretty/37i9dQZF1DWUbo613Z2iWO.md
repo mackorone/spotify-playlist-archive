@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Dende
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,522 likes - 170 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,533 likes - 170 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stay \(feat\. Roy Woods\)](https://open.spotify.com/track/2SkYAIrEkCn09z0IwtK37w) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [I am, because you are...](https://open.spotify.com/album/1iCa2uKzbjFT2csPFD6VAm) | 2:55 |
 | 2 | [Sunshine](https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 2:24 |
-| 3 | [be with ya](https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [10 Songs](https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8) | 2:58 |
+| 3 | [be with ya](https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [10 songs](https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8) | 2:58 |
 | 4 | [New Girl](https://open.spotify.com/track/5Ha86zPip9CSUj8hB61yUi) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [New Girl](https://open.spotify.com/album/7cOfe7aXFYyZ6rrhrlcp2i) | 2:08 |
 | 5 | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX) | 1:37 |
 | 6 | [Maybe](https://open.spotify.com/track/4Q5i4B6XiPWhGOFMxYvMfO) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Maybe](https://open.spotify.com/album/1PMUQC0cN01wWBOa7JX1Tz) | 3:00 |

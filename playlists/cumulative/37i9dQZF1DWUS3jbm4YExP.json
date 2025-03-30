@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 201626,
       "name": "Dantokpa",
       "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 215389,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/5XIkneJJj2TLF81oPVbwWe"
@@ -7761,6 +7761,24 @@
     },
     {
       "album": {
+        "name": "TIMBO PROGRESSION",
+        "url": "https://open.spotify.com/album/70u6cm5Wp983688TTctIGW"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166370,
+      "name": "Lion's Roar",
+      "url": "https://open.spotify.com/track/2ivzpUIo5dl90YTmxOryOq"
+    },
+    {
+      "album": {
         "name": "Liquid Love",
         "url": "https://open.spotify.com/album/3eCRbDscbTBwDRc70kPbtW"
       },
@@ -8769,6 +8787,28 @@
     },
     {
       "album": {
+        "name": "merlot and grigio",
+        "url": "https://open.spotify.com/album/6RVaGktr5I9iuvJVF5ft1B"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        },
+        {
+          "name": "Father Philis",
+          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206265,
+      "name": "merlot and grigio",
+      "url": "https://open.spotify.com/track/0Jc9dn7LaihjTPFoq4Eynp"
+    },
+    {
+      "album": {
         "name": "Metaphors",
         "url": "https://open.spotify.com/album/2SK7bkRYmMLyI5qHQ3DvME"
       },
@@ -9048,6 +9088,32 @@
       "duration_ms": 169319,
       "name": "Money Music",
       "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
+    },
+    {
+      "album": {
+        "name": "Monte Carlo",
+        "url": "https://open.spotify.com/album/0gWgIzow11rFcxJ4rnjxNE"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195571,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/2mWAdppQ2dTarvqwiV8xca"
     },
     {
       "album": {
@@ -10170,7 +10236,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"

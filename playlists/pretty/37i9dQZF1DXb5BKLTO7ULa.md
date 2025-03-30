@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van: néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\), MEAU & Naomi Sharon
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,857 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,874 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 29 | [SNOWBUNNIES](https://open.spotify.com/track/7m37JzYbCU2bk55njnBTtX) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI) | [SNOWBUNNIES](https://open.spotify.com/album/6XutMyxh9N32ZF4D0iV85U) | 2:49 |
 | 30 | [Heavy Steady](https://open.spotify.com/track/1EdKAlrC5taPJcHkHF2yDv) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Heavy Steady](https://open.spotify.com/album/5QcJ5jvAO1DV1sAOyugAz4) | 2:36 |
 | 31 | [Where Legends Rise \(Defqon.1 2025 Anthem\)](https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Where Legends Rise \(Defqon.1 2025 Anthem\)](https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999) | 4:55 |
-| 32 | [Andere Dimensie](https://open.spotify.com/track/3Lcntfx6gU73fwMMpHbeEi) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Godmode](https://open.spotify.com/album/0Vk0mj00Z5ByWu6R2SIEMT) | 2:00 |
+| 32 | [Andere Dimensie](https://open.spotify.com/track/3Lcntfx6gU73fwMMpHbeEi) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [GODMODE](https://open.spotify.com/album/0Vk0mj00Z5ByWu6R2SIEMT) | 2:00 |
 | 33 | [Niemand](https://open.spotify.com/track/6LhKjSNQLuIZ56XaelC5ne) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Niemand](https://open.spotify.com/album/3w2mRKSyIu3KzI8jVS8ajD) | 2:22 |
 | 34 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 |
 | 35 | [She Makes Me](https://open.spotify.com/track/4UPPsbC81yQ1oxj80lfKWg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [She Makes Me](https://open.spotify.com/album/0ts5DfHtMBh47p5OBEKvuh) | 3:06 |

@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 243200,
       "name": "Asteroid",
       "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
@@ -1528,6 +1528,28 @@
       "duration_ms": 177600,
       "name": "Control",
       "url": "https://open.spotify.com/track/1YVPBX1nfpWOlp6rSrg0C4"
+    },
+    {
+      "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/6owfK8zHCY2EzDO8OvQ1eD"
+      },
+      "artists": [
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226758,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/5uWbuRqGSBmFtzC7hIyfVr"
     },
     {
       "album": {

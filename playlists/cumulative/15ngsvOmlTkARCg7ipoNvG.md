@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,951 songs - 1 day 15 hr 38 min
+1,953 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1144,6 +1144,7 @@
 | [New](https://open.spotify.com/track/7FfQZ6ncTKePiQF1ZGRCcS) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [New](https://open.spotify.com/album/2tFojMm25W1Z8KWAOgqzAe) | 1:00 | 2024-03-08 |  |
 | [New Again](https://open.spotify.com/track/62mkqiz3ECsZDvjaHHNHih) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:32 | 2022-01-12 |  |
 | [New Again \- Strings Version](https://open.spotify.com/track/40VW8cKaj9rOyNzESdBAmW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [New Again](https://open.spotify.com/album/1SntDBEMCCmITgSzub9DCJ) | 1:29 | 2022-01-12 | 2024-01-30 |
+| [New Chapter Arr\. For Felt Piano](https://open.spotify.com/track/19D3SCnhpkfrqUudIhaafv) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [New Chapter Arr\. For Felt Piano](https://open.spotify.com/album/3ytWf7V4HTg2gMXpkzIzvY) | 1:00 | 2025-03-29 |  |
 | [New Chapters](https://open.spotify.com/track/6kQAlFwqfEb670VpTrwDcB) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [New Chapters](https://open.spotify.com/album/0WOIfYxibvXWeJja7sQVVk) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [New Days](https://open.spotify.com/track/6svVNxgB5E7SNJkZWPxWZd) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Seaside Reflections](https://open.spotify.com/album/7I6S9pNbPW8BJcHC4JbID0) | 1:11 | 2024-01-29 |  |
 | [New Home Arr\. For Cello](https://open.spotify.com/track/7iGNftKeiJgo0cKyyIIcZ0) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [New Home](https://open.spotify.com/album/7szInb0sN0sOwtdik393un) | 1:00 | 2024-02-09 | 2024-02-13 |
@@ -1915,6 +1916,7 @@
 | [Winter Stars](https://open.spotify.com/track/3ooGiXWggJaFgHqMTsYb1V) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rising Light](https://open.spotify.com/album/0htQDvvGMdICGa3gM2Z8be) | 1:01 | 2022-04-30 |  |
 | [Winter Stars](https://open.spotify.com/track/0SgPOgibVOPbcrFkasDL66) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Winter Stars](https://open.spotify.com/album/0SU7Uqp1A1KQuY4TsiePiQ) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Winter Stars \- Strings Version](https://open.spotify.com/track/58rrzaQs9mOoG3xYUKMhwa) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Winter Stars \(Strings Version\)](https://open.spotify.com/album/6TPtn58wMmZoSunwRPVu86) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Winter Sun](https://open.spotify.com/track/5RZc2LB3nyimerbX9bQvLY) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Winter Sun](https://open.spotify.com/album/2n9RpTfMkWYvisAe7XuI8U) | 1:00 | 2025-03-29 |  |
 | [Winter Sunset](https://open.spotify.com/track/1gLACMq0c8sFTiL3vSMdQi) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Sunset](https://open.spotify.com/album/0V7BW2DXxMROofON52Ifuf) | 1:00 | 2025-02-03 |  |
 | [Winter Sunshine](https://open.spotify.com/track/3jK42lBL023nhRIzsFqIX2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:43 | 2022-01-20 |  |
 | [Wisdom Arr\. For Grand Piano](https://open.spotify.com/track/0lamxqF2xWLI4zsdGcfNPI) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Late Winter Melodies](https://open.spotify.com/album/589gcmITUvBR6kvMXWqqVM) | 1:00 | 2025-03-21 |  |

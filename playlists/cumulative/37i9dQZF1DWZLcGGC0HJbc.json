@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Cowboys of Los",
+        "url": "https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243403,
+      "name": "Cowboys of Los",
+      "url": "https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc"
+    },
+    {
+      "album": {
         "name": "crooked the road.",
         "url": "https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL"
       },
@@ -2342,7 +2360,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 159200,
       "name": "This House",
       "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"

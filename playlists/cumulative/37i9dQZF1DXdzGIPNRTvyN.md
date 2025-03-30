@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-297 songs - 14 hr 1 min
+299 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Flowing Stream](https://open.spotify.com/track/6qHrWqMeZEMl7SOIHF0qmO) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [A Flowing Stream](https://open.spotify.com/album/78VKBRnDa8TVkZGgaQYriO) | 3:33 | 2024-12-04 | 2025-03-26 |
 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 | 2023-09-12 |  |
 | [A Grand Arrival](https://open.spotify.com/track/0Nj4m8NYfLPhViRvsX6x7d) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [A Grand Arrival](https://open.spotify.com/album/3Vq8HUnRwN9YNVNDuIxVk4) | 2:32 | 2024-10-03 |  |
-| [A Growing Feeling](https://open.spotify.com/track/1peg4JKeWIybo6q2pdbwh7) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [A Growing Feeling](https://open.spotify.com/album/3M47OSMcsv1Lzcbm787mmo) | 3:17 | 2024-11-11 |  |
+| [A Growing Feeling](https://open.spotify.com/track/1peg4JKeWIybo6q2pdbwh7) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [A Growing Feeling](https://open.spotify.com/album/3M47OSMcsv1Lzcbm787mmo) | 3:17 | 2024-11-11 | 2025-03-30 |
 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 | 2023-03-13 |  |
 | [A New Day \(by a Forest Stream\)](https://open.spotify.com/track/5Gx8X9lJUJy8QfFzo61DMM) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Forest Sunrise](https://open.spotify.com/album/4iIlz2x6TrEeGimx3idJy5) | 3:44 | 2024-03-01 |  |
 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 | 2023-10-26 |  |
@@ -82,6 +82,7 @@
 | [Ekatā / Unity](https://open.spotify.com/track/15VLZBdYtCBfzUStJDVAzm) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Unity](https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2) | 2:57 | 2023-10-26 |  |
 | [Endless Horizon](https://open.spotify.com/track/6zVDXYs5Jp1SI9Aro3A5cf) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Endless Horizon](https://open.spotify.com/album/6cOF3lmkr9yfcMZWdENcEt) | 2:59 | 2023-10-26 |  |
 | [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 | 2024-08-22 |  |
+| [Essence of Nature](https://open.spotify.com/track/00DOpzqbE0PBgVnxFIlvVB) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Essence of Nature](https://open.spotify.com/album/5sPBaR7sHLYfp53tlhizVk) | 2:00 | 2025-03-14 |  |
 | [Everyday Wonders & Sunday Mornings](https://open.spotify.com/track/1TBF5kZA7FR0e70lEuyr43) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXI](https://open.spotify.com/album/3UzefjAhmOfaPoySM0gHR4) | 2:18 | 2023-01-24 | 2024-11-29 |
 | [Everything's okay](https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Everything's okay](https://open.spotify.com/album/0eXgqijm4ijx968hQbO3uG) | 3:07 | 2023-01-24 | 2023-05-20 |
 | [Far Away](https://open.spotify.com/track/7l1XV19coB7tAqnpuU3oHf) | [Divine Moments](https://open.spotify.com/artist/4rK7cbO86S7SvbdVdSNhKf) | [Far Away](https://open.spotify.com/album/1loIi1focCClaqBK1gScgK) | 2:17 | 2023-05-19 |  |
@@ -89,6 +90,7 @@
 | [Finally Home](https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Gentle Evening Rain](https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ) | 2:24 | 2023-01-24 | 2024-07-17 |
 | [Flod](https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Flod](https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5) | 2:42 | 2025-02-10 |  |
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-09-01 |  |
+| [Forest Breath](https://open.spotify.com/track/4JHSk6ehy7ztovsUjZAxV9) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [Forest Breath](https://open.spotify.com/album/4SCtfrNF8SSagNIYk3b5B7) | 2:41 | 2025-03-14 |  |
 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-07-28 |  |
 | [Forest Harp Dreams 528 Hz](https://open.spotify.com/track/7bRCmNh2cPzxhPskiniGSA) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Forest Harp Dreams 528 Hz](https://open.spotify.com/album/0QTRE8RUaMUKnKDL9v3d79) | 2:40 | 2023-12-18 | 2024-12-05 |
 | [Forest of Calm](https://open.spotify.com/track/2YydBkXJxHR9M7H66VaIcX) | [Elvin Malm](https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1) | [Forest of Calm](https://open.spotify.com/album/5zDnbDbgHwirFy6Ax5Cw3h) | 3:45 | 2025-02-10 |  |
@@ -224,7 +226,7 @@
 | [Quiet Stars](https://open.spotify.com/track/7h3QYG1cPw7onxrDxnaYEI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Quiet Stars](https://open.spotify.com/album/6kheDSIxcjPBu2No01PQmH) | 2:02 | 2023-04-24 |  |
 | [Quiet Water](https://open.spotify.com/track/6Sed7lQ9q1Iu87ew0WQlLl) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Quiet Water](https://open.spotify.com/album/1mqXXd4yMsXMPvHnbhkkzx) | 3:23 | 2023-12-18 |  |
 | [Rain Dew](https://open.spotify.com/track/2muRqaytFxVDmrdAPsHNmi) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Rain Dew](https://open.spotify.com/album/0eN4xGek46r1K2sv123tvP) | 2:48 | 2024-07-16 |  |
-| [Rain Journey](https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Rain Journey](https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf) | 3:12 | 2024-04-01 |  |
+| [Rain Journey](https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Rain Journey](https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf) | 3:12 | 2024-04-01 | 2025-03-30 |
 | [Rain Therapy](https://open.spotify.com/track/05i3bG4mz8nD21c2roVStX) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Rain Therapy](https://open.spotify.com/album/6Q2V4aSZrco28N0df5OMe7) | 2:23 | 2025-03-14 |  |
 | [Recovery](https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Recovery](https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F) | 3:12 | 2023-10-26 | 2024-07-17 |
 | [Remedies](https://open.spotify.com/track/3l33BD42cOR4aOFI9PTPQs) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Remedies](https://open.spotify.com/album/0RUb59n7DB8CbRluAPtbUo) | 2:40 | 2023-08-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,403 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,681 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 4 | [Barbas Y Botas](https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Barbas Y Botas](https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F) | 3:29 |
 | 5 | [Hay de Dos](https://open.spotify.com/track/1YZhKkEd9rpMdkgF9uGUoz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Hay de Dos](https://open.spotify.com/album/2FrO1LxSHglrW7opD6c1ZX) | 2:11 |
 | 6 | [El Chato](https://open.spotify.com/track/0uNazwI0XPyMqVw4LOsOUt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [El Chato](https://open.spotify.com/album/1pcmtSkSvsZX2anSkn5zsI) | 3:33 |
-| 7 | [BadBoyzz](https://open.spotify.com/track/0yPedQtuHH9R7DsduRRmv9) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Victor Rivera](https://open.spotify.com/artist/2QmZsoPMAvXLEw6UWpJVso) | [Lado B](https://open.spotify.com/album/3vo0B5gx3yJYcfJ7Os4EGy) | 2:30 |
+| 7 | [BadBoyzz](https://open.spotify.com/track/0yPedQtuHH9R7DsduRRmv9) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Lado B](https://open.spotify.com/album/3vo0B5gx3yJYcfJ7Os4EGy) | 2:30 |
 | 8 | [El 08](https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:10 |
 | 9 | [La Adivinanza](https://open.spotify.com/track/1axEEMfj4YHbMlmQ4VETn2) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [La Adivinanza](https://open.spotify.com/album/6Ny9n9TGek0CGYopLd3whj) | 2:59 |
 | 10 | [NIMODO QUE NO](https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:11 |

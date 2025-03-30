@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,188 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,314 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 16 | [Mami Tú \(Remix\)](https://open.spotify.com/track/3DtlIQT5OBoGa0D1xYT0Yx) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Mami Tú \(Remix\)](https://open.spotify.com/album/189TkvvDE5eIIqUnjDrIcH) | 4:17 |
 | 17 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
 | 18 | [Por Vos](https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Por Vos](https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n) | 3:05 |
-| 19 | [SIEMPRE LO SUPE](https://open.spotify.com/track/4y6DRCEMux8v6CvSgzPZZj) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [TOBi](https://open.spotify.com/artist/5bxXkOBiQYSLYix6e3Szky), [Elixir](https://open.spotify.com/artist/2V9jKYeRc72nApTYRJKjJ3), [Dazen](https://open.spotify.com/artist/12q9iUttjSIlUBHqR8RxMG), [Tiano](https://open.spotify.com/artist/0O7dw6pRmwp2r0TjHrZxmf) | [SIEMPRE LO SUPE](https://open.spotify.com/album/55cE07l2O4nRRLYNV1T3Ko) | 2:38 |
+| 19 | [SIEMPRE LO SUPE](https://open.spotify.com/track/4y6DRCEMux8v6CvSgzPZZj) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Elixir](https://open.spotify.com/artist/2V9jKYeRc72nApTYRJKjJ3) | [SIEMPRE LO SUPE](https://open.spotify.com/album/55cE07l2O4nRRLYNV1T3Ko) | 2:38 |
 | 20 | [Me hacía falta un tú](https://open.spotify.com/track/0qMZfIHooo1U3E3yT5HRAJ) | [Enzo](https://open.spotify.com/artist/4VMnjerpap9qiBhkTXDdtC) | [Me hacía falta un tú](https://open.spotify.com/album/0icFV5sYZHrwST4kQSGn1Y) | 3:11 |
 | 21 | [Otra Vida](https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Otra Vida](https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1) | 2:33 |
 | 22 | [Pa Japon](https://open.spotify.com/track/2jQO5LouN3gBeB9iHxy9sI) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pa Japon](https://open.spotify.com/album/5ckhpwGgky943PHw30k8ak) | 2:20 |

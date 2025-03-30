@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABv+q9kj9OHvvoiVHyrB2pQ",
+  "snapshot_id": "AAAAAAAAAAAX37wFXnKWjbHr1VlXMZ/V",
   "tracks": [
     {
       "added_at": "2025-03-28 03:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 238333,
       "name": "Revenge - Squirrely Version",
       "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "Otra Noche de Llorar",
+        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -59,50 +91,18 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+        "name": "Ya Llegaron Las Pipsas",
+        "url": "https://open.spotify.com/album/14uQXvB5NN41y8zdOGIXrf"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
         }
       ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Creatures of Chaos",
-        "url": "https://open.spotify.com/album/417069DxvdXoov1vxICCNs"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 200483,
-      "name": "Creatures of Chaos",
-      "url": "https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Otra Noche de Llorar",
-        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
+      "duration_ms": 120131,
+      "name": "Ya Llegaron Las Pipsas",
+      "url": "https://open.spotify.com/track/2XnfSSbKyrXUBjcN73BKed"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -116,25 +116,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 175961,
-      "name": "Landmines - Spotify Singles",
-      "url": "https://open.spotify.com/track/4RMPZ1dyIw3852YiaE57ag"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Ya Llegaron Las Pipsas",
-        "url": "https://open.spotify.com/album/14uQXvB5NN41y8zdOGIXrf"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 120131,
-      "name": "Ya Llegaron Las Pipsas",
-      "url": "https://open.spotify.com/track/2XnfSSbKyrXUBjcN73BKed"
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -171,6 +155,22 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
+        "name": "Even If It Kills Me (Reimagined)",
+        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 174755,
+      "name": "Even If It Kills Me (Reimagined)",
+      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
         "name": "Mendelssohn & Tchaikovsky: Violin Concertos",
         "url": "https://open.spotify.com/album/3xezaPr6IEAaXhoa12PVAj"
       },
@@ -199,26 +199,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Uncontrollable (from \"Xenoblade Chronicles X\")",
-        "url": "https://open.spotify.com/album/2P62sMYa4wwVL2nzrGRWlw"
-      },
-      "artists": [
-        {
-          "name": "Iris ~Pamela Calvo~",
-          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
-        },
-        {
-          "name": "ChemyNoSurfea",
-          "url": "https://open.spotify.com/artist/4TDi1l3plDjy9HZXn7OmIo"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Uncontrollable (Spanish Cover from \"Xenoblade Chronicles X\")",
-      "url": "https://open.spotify.com/track/3H217Lb0gcYR26Rx2DkkNN"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Superlover (Feat. Annie Lennox)",
         "url": "https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA"
       },
@@ -239,22 +219,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Even If It Kills Me (Reimagined)",
-        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 174755,
-      "name": "Even If It Kills Me (Reimagined)",
-      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Pink + White",
         "url": "https://open.spotify.com/album/3FumX8Rc1bIO57p41mmf0i"
       },
@@ -267,66 +231,6 @@
       "duration_ms": 176333,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/6QkbqPBoXQCEkXdeAqYa7Y"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "With A Little Help From My Friends (Live At The Ryman)",
-        "url": "https://open.spotify.com/album/36KnAqfnX3MbfH8TeKDtu6"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        },
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 232232,
-      "name": "With A Little Help From My Friends - Live At The Ryman",
-      "url": "https://open.spotify.com/track/3GLTVdKxnBHsTneZnx9166"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -347,70 +251,6 @@
       "duration_ms": 78080,
       "name": "Pulis",
       "url": "https://open.spotify.com/track/1eeEfLUzZ6EKE9IE12Mtx4"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/0nQuEvHnzWiFghawXVYjws"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1ZtaHVUr3LYmtP5v5HrbTy"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "The Shadow Elite",
-        "url": "https://open.spotify.com/album/368LvzVtG97TQPF42TAwch"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 279493,
-      "name": "The Shadow Elite",
-      "url": "https://open.spotify.com/track/1hjiZRmHByToO3dPjFSGUH"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14"
-      },
-      "artists": [
-        {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
-        }
-      ],
-      "duration_ms": 572600,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/4onSGbFyDBfo5vfodJghCz"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/08miYSY2Iw8dWN6zX7KnBH"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Dime Qui\u00e9n",
-      "url": "https://open.spotify.com/track/7CRodV5Cwy7IyKbP9rYTOx"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -463,90 +303,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "T.I.M.E.",
-        "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 238407,
-      "name": "T.I.M.E.",
-      "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 215566,
-      "name": "Elegy",
-      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
-        "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
-      },
-      "artists": [
-        {
-          "name": "The Funeral Portrait",
-          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
-        },
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
-      "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Monsters 2025 (Radio Edit)",
-        "url": "https://open.spotify.com/album/01NpRqRMdocL1rf4eAJpmB"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 167068,
-      "name": "MONSTERS 2025",
-      "url": "https://open.spotify.com/track/5JKJ4XLRZLG5b9BcaQJyW7"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "D\u00e4monen : Sturm",
-        "url": "https://open.spotify.com/album/0EDdJ19fpXgvzjnGspHYHB"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        }
-      ],
-      "duration_ms": 277111,
-      "name": "The right path",
-      "url": "https://open.spotify.com/track/2zF4ysfKulsSOFkhstsYlS"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "El mundo ya estaba as\u00ed antes",
         "url": "https://open.spotify.com/album/3raEHCMrq99083RfbRYNkp"
       },
@@ -567,6 +323,22 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
+        "name": "The Sickness (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CDtzSrJDuQe0rPQGPpxx5"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 315225,
+      "name": "Stupify - Live at the London Astoria, London, UK, 2/25/01",
+      "url": "https://open.spotify.com/track/4sfdQ1Fa4U5TdoYlmkKc7k"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
         "name": "Un Caf\u00e9 para Plat\u00f3n",
         "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
       },
@@ -583,22 +355,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Himno De Yo Soy",
-        "url": "https://open.spotify.com/album/2Wu9DsEkMIovr06z9ApwGP"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 553491,
-      "name": "Himno De Yo Soy",
-      "url": "https://open.spotify.com/track/4w5TuwjaXNl94uczkqh6ts"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Myths of Fate (Orchestral Version)",
         "url": "https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt"
       },
@@ -611,26 +367,6 @@
       "duration_ms": 312590,
       "name": "Einherjar - Orchestral Version",
       "url": "https://open.spotify.com/track/2JJ0Blx2BvU1Z42TWzSrGY"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Here Be Dragons",
-        "url": "https://open.spotify.com/album/5W3Uw0MWDnca1Ch87V52K7"
-      },
-      "artists": [
-        {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        },
-        {
-          "name": "Adrienne Cowan",
-          "url": "https://open.spotify.com/artist/2GAs9vOeYJWkniJPBZpd75"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/75IRjTso82AH1QPnpruZuG"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -659,98 +395,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5N0gG9CNu2kqa2rOuRNdn4"
-      },
-      "artists": [
-        {
-          "name": "Robotic Dub",
-          "url": "https://open.spotify.com/artist/4c7NIZ1HBdXff8fUNqjHUJ"
-        },
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        }
-      ],
-      "duration_ms": 706000,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/4bHRrKXHaDqHP5nIfRgtG9"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "I Believe (Alternate Edit)",
-        "url": "https://open.spotify.com/album/1KNS3sHZ6es6nrpA6nF4dv"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 205393,
-      "name": "I Believe (Alternate Edit)",
-      "url": "https://open.spotify.com/track/3lLXCf8wmwk3qIHGLEzUDI"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Big Ole Album Vol. 1",
-        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "P\u00e1nico (VMG)",
-        "url": "https://open.spotify.com/album/6LTWQ01avRapIfYca9gWal"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 292634,
-      "name": "El Viejo Comunista (VMG)",
-      "url": "https://open.spotify.com/track/5KoBBIXjlNhYeBLisjmu0r"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 193490,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Curious Ruminant",
         "url": "https://open.spotify.com/album/1m5tTXkBOzJEiwDz1TyPIG"
       },
@@ -767,38 +411,18 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Swing For The Fences",
-        "url": "https://open.spotify.com/album/23XzumjSgqCkYn4D477vxI"
+        "name": "Oceanside Countryside",
+        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
         }
       ],
-      "duration_ms": 202695,
-      "name": "Swing For The Fences",
-      "url": "https://open.spotify.com/track/7jY74tsryP8XgJOxDaBAgs"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+      "duration_ms": 152998,
+      "name": "Dance Dance Dance",
+      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -819,18 +443,22 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Oceanside Countryside",
-        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
+        "name": "Angels For Each Other",
+        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
       },
       "artists": [
         {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         }
       ],
-      "duration_ms": 152998,
-      "name": "Dance Dance Dance",
-      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
+      "duration_ms": 215076,
+      "name": "Angels For Each Other",
+      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -859,26 +487,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Angels For Each Other",
-        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "Angels For Each Other",
-      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Private Dancer (40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
       },
@@ -903,34 +511,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/3LXFindeU2Y5Qv7F5vLXlK"
-      },
-      "artists": [
-        {
-          "name": "A-Clark",
-          "url": "https://open.spotify.com/artist/5zwkmbdSZp79iOJBwTwgYI"
-        },
-        {
-          "name": "VINNY",
-          "url": "https://open.spotify.com/artist/0r5M9jCT1IXSYq9LJjrnyZ"
-        },
-        {
-          "name": "Kickbait",
-          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
-        },
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 165990,
-      "name": "Kaya",
-      "url": "https://open.spotify.com/track/52s5B7Vx7541AcKDVILtkV"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "My Way (The Best Of Frank Sinatra)",
         "url": "https://open.spotify.com/album/3xpGJeKAVe79XWMwf1x6TV"
       },
@@ -947,50 +527,22 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Harmonies of Soul 2",
-        "url": "https://open.spotify.com/album/6L5vVDTlc8zxzsQaknsqrK"
+        "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") [En Espa\u00f1ol]",
+        "url": "https://open.spotify.com/album/4kq35NPgiGYz44sySBThgk"
       },
       "artists": [
         {
-          "name": "Drumatic&Fa\u00e7ade",
-          "url": "https://open.spotify.com/artist/5ZAUB7yRQT6EaeRBGmNYIx"
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
         },
         {
-          "name": "Nelerh",
-          "url": "https://open.spotify.com/artist/75RCJSBtdVE4Gu5Qyjt7Mx"
-        },
-        {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+          "name": "Lufca",
+          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
         }
       ],
-      "duration_ms": 450304,
-      "name": "Nyathela (feat. Nelerh & Panda)",
-      "url": "https://open.spotify.com/track/5b7bKrKV1JKBGSED6omXwg"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Let's Go Dumb Crasy",
-        "url": "https://open.spotify.com/album/68A6ehq49gNiFI6hrOwW60"
-      },
-      "artists": [
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        },
-        {
-          "name": "Big Money Blitz",
-          "url": "https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 133743,
-      "name": "Let's Go Dumb Crasy",
-      "url": "https://open.spotify.com/track/4DGeIple5lSb0pEVOEEvpY"
+      "duration_ms": 179500,
+      "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/63fHP1xHozbuZNcdEKSj8x"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

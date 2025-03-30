@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Lacey Sturm
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,826 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,850 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 7 | [The Memory](https://open.spotify.com/track/0wCbt2OooGJIWAccsP2MpL) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [The Darkness Before The Dawn](https://open.spotify.com/album/2HK9jU69MsXP78rfv4Sj4T) | 3:12 |
 | 8 | [It Is Finished](https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [It Is Finished](https://open.spotify.com/album/1yI817nUEoU91SOVMv8p9W) | 4:10 |
 | 9 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
-| 10 | [Words of Fire](https://open.spotify.com/track/6m6ADfHbf2EgRDHd6omxwA) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [End of the World \(feat\. Disciple\)](https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY) | 4:11 |
+| 10 | [Words of Fire](https://open.spotify.com/track/6m6ADfHbf2EgRDHd6omxwA) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [End of the World \(feat\. Disciple\)](https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY) | 4:11 |
 | 11 | [Black Roses White Doves](https://open.spotify.com/track/29QhQbPMhgjPrqDznx1pP1) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Black Roses White Doves](https://open.spotify.com/album/6ZbtYlMOYqRGkwxVar9f8V) | 3:29 |
 | 12 | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H) | 3:11 |
 | 13 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 |

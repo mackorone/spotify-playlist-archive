@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-3,506 songs - 5 day 4 hr 35 min
+3,507 songs - 5 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2523,6 +2523,7 @@
 | [Rum In Manilla](https://open.spotify.com/track/0zvapQRcwyP3TuE3uTHaPy) | [Mindless Meditation](https://open.spotify.com/artist/1jWBDHh1PMVKYnT44tnxpS), [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm) | [Rum In Manilla](https://open.spotify.com/album/6nPbBdqYhrj6S43uNWIU3W) | 2:45 | 2024-03-11 | 2024-03-29 |
 | [Run The City](https://open.spotify.com/track/6kPzT1c46ZoB6UvpEGwdPK) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Run The City](https://open.spotify.com/album/6LIKVfZVUG8iyxQg4mwIpH) | 1:33 | 2024-09-08 | 2024-11-14 |
 | [run this city.](https://open.spotify.com/track/23u47BV7nx7F4iSDTxgluK) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [white night.](https://open.spotify.com/album/3aaNpWGGAwZUE0Y1lzqbV1) | 2:02 | 2024-08-11 | 2024-09-22 |
+| [RUNNING](https://open.spotify.com/track/1l0wPhFZP1kWkZNQrrYrGy) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:13 | 2025-03-29 |  |
 | [Running Down The Clock](https://open.spotify.com/track/4Ddnrk61poZM6ZxVXUzleb) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd) | [Running Down The Clock](https://open.spotify.com/album/2tRySwbwGZ4UAsydO4LKgI) | 2:08 | 2024-07-20 | 2024-08-28 |
 | [rusty](https://open.spotify.com/track/2a2WJznrAseC8Rk2wfOFbC) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [sensi beats](https://open.spotify.com/album/2EOwaAV4gvf4S7DamqR5iW) | 1:28 | 2024-03-28 | 2024-04-19 |
 | [rusty](https://open.spotify.com/track/7CuE4iYhqMyQjZIZpMmtH1) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [sensi beats](https://open.spotify.com/album/5viVKurMuy1Pa0O1FGlGBy) | 1:28 | 2024-03-22 | 2024-03-29 |

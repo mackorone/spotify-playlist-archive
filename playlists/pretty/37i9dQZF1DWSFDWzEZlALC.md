@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: LoSin
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,055 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,118 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 3 | [Vertrautomobil](https://open.spotify.com/track/5k5L3GrA22b6WE7VKNzeC7) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [Vertrautomobil](https://open.spotify.com/album/4knDswnDUb0PB5D0wQQBSE) | 3:28 |
 | 4 | [Zwischenphase](https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zwischenphase](https://open.spotify.com/album/191TZlivZyXydwrNA3vl04) | 2:30 |
 | 5 | [so hot](https://open.spotify.com/track/3q0HaK23sp49dUr3eXEl4y) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [so hot](https://open.spotify.com/album/37cwIJOwGH8fukQQzq3ME6) | 3:01 |
-| 6 | [beifahrersitz](https://open.spotify.com/track/5kbShNqgrOyePahnsNxDZg) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [beifahrersitz](https://open.spotify.com/album/79UKPAlyeK6XTWp5gSRdWh) | 2:27 |
+| 6 | [beifahrersitz](https://open.spotify.com/track/5kbShNqgrOyePahnsNxDZg) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [beifahrersitz](https://open.spotify.com/album/79UKPAlyeK6XTWp5gSRdWh) | 2:27 |
 | 7 | [wacklige beine](https://open.spotify.com/track/54Vx6hhdNEGoLwmMBRthfa) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [wacklige beine](https://open.spotify.com/album/2183vqbph6y6fKMYFmNQ9j) | 2:41 |
 | 8 | [Kleiner Junge viel Herz](https://open.spotify.com/track/6eD8lAbNHFfhuuNapSWagn) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Kleiner Junge viel Herz](https://open.spotify.com/album/7dO4VK73a5DInUPgpJ8dpU) | 2:02 |
 | 9 | [Tanzen](https://open.spotify.com/track/6JhenmFRd68hlqpIkRVA1d) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Tanzen](https://open.spotify.com/album/6IhtSWi03PYwy6TAQrBSxt) | 2:38 |

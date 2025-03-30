@@ -4,12 +4,13 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-56 songs - 4 hr 13 min
+57 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Till the Morning Comes](https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:44 | 2025-02-25 | 2025-02-26 |
 | ['Till the Morning Comes](https://open.spotify.com/track/2X3UiNArfXY8ggFS0vDHpM) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 3:44 | 2025-02-26 |  |
+| [25th of Last December](https://open.spotify.com/track/1RjYDpM9xgBu78817nruxS) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 4:33 | 2025-03-30 |  |
 | [After You](https://open.spotify.com/track/4h6zTXHpPwq11aqE6IpyRw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 3:53 | 2025-02-25 | 2025-02-28 |
 | [And so It Goes](https://open.spotify.com/track/6Rxq0mpz3LpjSrxniarD9c) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 3:36 | 2025-02-25 |  |
 | [Angelitos Negros](https://open.spotify.com/track/3LZyurIWMyzsZgsaM8kuco) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 6:56 | 2025-02-26 |  |
@@ -31,7 +32,7 @@
 | [I Wanted It Too](https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:49 | 2025-02-25 |  |
 | [I'm the One](https://open.spotify.com/track/7pYNO8ICFBgPwqRQ7hSo2Q) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 4:05 | 2025-03-13 | 2025-03-18 |
 | [If Ever I See You Again](https://open.spotify.com/track/39bhKSzFTN3eo7eRDDZgKC) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Roberta Flack](https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY) | 3:40 | 2025-02-25 |  |
-| [In the Name of Love](https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:58 | 2025-02-25 |  |
+| [In the Name of Love](https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:58 | 2025-02-25 | 2025-03-30 |
 | [It Might Be You](https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Roberta](https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1) | 10:02 | 2025-02-25 |  |
 | [Jesse](https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:03 | 2025-02-25 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 | 2025-02-25 |  |

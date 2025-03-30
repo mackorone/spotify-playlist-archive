@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=yy1tJkUVR4qMJMuJydS1Mw>Festizie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,049 likes - 97 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,068 likes - 97 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

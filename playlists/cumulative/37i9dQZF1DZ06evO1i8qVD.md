@@ -4,7 +4,7 @@
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-117 songs - 8 hr 38 min
+118 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Born To Play Guitar](https://open.spotify.com/track/7yXuquZiCxTyLXzPnwlqJv) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 4:56 | 2022-08-05 |  |
 | [Change In The Weather \(feat\. Travis Tritt\)](https://open.spotify.com/track/2lQnJaQmFT39fYt8KLxG6a) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 | 2022-08-05 | 2023-06-25 |
 | [Cheaper To Keep Her / Blues In The Night](https://open.spotify.com/track/58EgXnxSQ96uarbDXqVz4b) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 6:17 | 2022-09-20 | 2022-09-22 |
-| [Chitlin Con Carne](https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:14 | 2022-10-12 |  |
+| [Chitlin Con Carne](https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:14 | 2022-10-12 | 2025-03-30 |
 | [Cognac \(feat\. Jeff Beck & Keith Richards\)](https://open.spotify.com/track/3BkMv30DKcUEOsRbDSAyIq) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 5:22 | 2022-08-05 |  |
 | [Cryin' Shame](https://open.spotify.com/track/4jixfTM7qNYMOxIadRQ5F5) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Cryin' Shame](https://open.spotify.com/album/5OTPEwAi7Jb7Db44pU5OSx) | 4:00 | 2023-04-23 | 2023-07-07 |
 | [Damn Right, I've Got the Blues](https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:31 | 2022-08-05 |  |
@@ -125,5 +125,6 @@
 | [Whiskey For Sale](https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:02 | 2022-08-05 |  |
 | [Whiskey, Beer & Wine](https://open.spotify.com/track/3Ug51eYATZ487NwOaTbpAJ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 4:30 | 2022-08-05 |  |
 | [You Did The Crime \(feat\. Mick Jagger\)](https://open.spotify.com/track/1EaXxcHdwynYneRHptZ0Qh) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 6:53 | 2022-08-05 | 2022-10-13 |
+| [You Were Wrong \- Remastered 2025 / Live At New Orleans House / 1968](https://open.spotify.com/track/7wKwIR86ur3E6phh4vAm7g) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [This Is Buddy Guy! \(Remastered 2025 / Live At New Orleans House / 1968\)](https://open.spotify.com/album/6c4LirL4TwAuAm2ABA2Nlr) | 4:46 | 2025-03-30 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

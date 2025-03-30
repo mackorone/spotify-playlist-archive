@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "El Mismo",
+        "url": "https://open.spotify.com/album/6TJjoEzQLS79vZv1s5kQxg"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133196,
+      "name": "El Mismo",
+      "url": "https://open.spotify.com/track/6HJa0HS0f5bkTmbOyqhD1q"
+    },
+    {
+      "album": {
         "name": "Vivir La Vida",
         "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
       },
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 178133,
       "name": "Olv\u00eddalo Conmigo",
       "url": "https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Survive Said The Prophet
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,821 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,852 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 30 | [金字塔](https://open.spotify.com/track/0oISCNk98GfEGyN5GbnUgk) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 3](https://open.spotify.com/album/1zvnIMPR8MCGqmWcmCwISe) | 4:22 |
 | 31 | [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 |
 | 32 | [リビドー](https://open.spotify.com/track/7BNNsZtDJyEytxyvhdjvJ6) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Vermillion's](https://open.spotify.com/album/35yt6HiWcvTO2xV1EHLYak) | 4:00 |
-| 33 | [KOE](https://open.spotify.com/track/6AoZJrUqfPDFViQMx5jKCT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [KOE](https://open.spotify.com/album/7IQmZvP8Jkeq2rCcNSKDMz) | 3:44 |
+| 33 | [KOE feat\. Kj](https://open.spotify.com/track/6AoZJrUqfPDFViQMx5jKCT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [KOE feat\. Kj](https://open.spotify.com/album/7IQmZvP8Jkeq2rCcNSKDMz) | 3:44 |
 | 34 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 |
 | 35 | [Arashi No Yoruni](https://open.spotify.com/track/3uBbdClP2IeaIN3Z2IthDb) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Shape the water](https://open.spotify.com/album/4QaZqoS88RyznzKJQjDP3Q) | 4:35 |
 | 36 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |

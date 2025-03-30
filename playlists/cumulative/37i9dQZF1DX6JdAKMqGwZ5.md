@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Vera Fauna.
 
-386 songs - 20 hr 8 min
+387 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Lo Que Me Pasa](https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Lo Que Me Pasa](https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm) | 2:52 | 2025-03-21 |  |
 | [Lo que Queda Tras el Apagón](https://open.spotify.com/track/2Xfu3HBvqt29dTjuVQmDDs) | [mafalda](https://open.spotify.com/artist/7zyZ33s4LRFS3S0r7eKBZs) | [Lo que Queda Tras el Apagón](https://open.spotify.com/album/1xqtJXfhS8gMSnNkDqi7HO) | 4:08 | 2024-06-27 | 2024-07-05 |
 | [Lo que yo te he querido](https://open.spotify.com/track/6uVKzyquFqdEOcwDKVpeSF) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW), [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Lo que yo te he querido](https://open.spotify.com/album/6qC0JcKUO8kNEftI6iXxlF) | 3:23 | 2025-03-20 |  |
-| [Loba](https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Loba](https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H) | 3:13 | 2024-10-17 |  |
+| [Loba](https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Loba](https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H) | 3:13 | 2024-10-17 | 2025-03-30 |
 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 | 2024-06-27 |  |
 | [los cables de una máquina infalible son la imitación perfecta de las plumas de un ángel incorruptible.](https://open.spotify.com/track/71puBzNXW6UP0IhiH42xYT) | [9ckles](https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR) | [La Bestia que Gritaba Amor en el Corazón del Universo](https://open.spotify.com/album/3wVilni5q5zqQwccJwXVUJ) | 1:44 | 2025-01-02 | 2025-02-14 |
 | [Los Dineros](https://open.spotify.com/track/6Y3v0gyfW22hFmXlqukDZJ) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Los Dineros](https://open.spotify.com/album/0aHNuveyorCK55c6lCwFSn) | 3:12 | 2024-06-27 | 2024-07-05 |
@@ -301,6 +301,7 @@
 | [PROFECÍA](https://open.spotify.com/track/3UrgV10Vn0AfjhR6zL4Wby) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [CIELO1](https://open.spotify.com/album/7MGC4d8d7aBnYudQNq6KQB) | 2:30 | 2025-03-20 |  |
 | [PRÍNCIPE](https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [PRÍNCIPE](https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW) | 2:51 | 2024-07-18 | 2024-08-16 |
 | [Pura geografia](https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Nostàlgia Airlines](https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV) | 2:56 | 2024-06-27 | 2025-03-28 |
+| [quebrantarse](https://open.spotify.com/track/1wFHLkUscbfPoliv0FLCJu) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [quebrantarse](https://open.spotify.com/album/3L27wAdMFX7RXyX7AnIwfG) | 2:40 | 2025-03-27 |  |
 | [QUEMARLO TODO](https://open.spotify.com/track/4BR7wVkXymTFKcDkYkSTtC) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [QUEMARLO TODO](https://open.spotify.com/album/2n0iynESypPLAPOVu4GVj9) | 2:30 | 2024-10-10 | 2025-03-07 |
 | [Quiero Hacer Música](https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc) | 3:20 | 2024-06-27 | 2024-10-16 |
 | [Quiero Que Perdamos La Cabeza \(Otra Vez\)](https://open.spotify.com/track/3DpbwEMDa3P5rzWJZOzWfj) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Quiero Que Perdamos La Cabeza \(Otra Vez\)](https://open.spotify.com/album/4SQ0OKByzERxsWIkv9oAv5) | 2:14 | 2024-10-31 | 2024-11-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Sad songs 4 sad days.",
-  "num_followers": 1758145,
+  "num_followers": 1758122,
   "original_name": "sad latino",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-03-28 04:00:43",
       "album": {
+        "name": "Otra Noche de Llorar",
+        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
+    },
+    {
+      "added_at": "2025-03-28 04:00:43",
+      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2025-03-28 04:00:43",
       "album": {
-        "name": "Intercambio Injusto",
-        "url": "https://open.spotify.com/album/6GFqNV8XbAMPkXZeW81z2Y"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 205283,
-      "name": "Intercambio Injusto",
-      "url": "https://open.spotify.com/track/0Jv1VuDC57QUvMEd1CpkNW"
-    },
-    {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
         "name": "GIRASOLES",
         "url": "https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 175775,
       "name": "Aveces Siempre",
       "url": "https://open.spotify.com/track/6sjJcNGklrIHox82sRxRpp"
+    },
+    {
+      "added_at": "2025-03-28 04:00:43",
+      "album": {
+        "name": "Intercambio Injusto",
+        "url": "https://open.spotify.com/album/6GFqNV8XbAMPkXZeW81z2Y"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 205283,
+      "name": "Intercambio Injusto",
+      "url": "https://open.spotify.com/track/0Jv1VuDC57QUvMEd1CpkNW"
     },
     {
       "added_at": "2025-03-28 04:00:43",
@@ -415,6 +431,22 @@
     {
       "added_at": "2025-03-28 04:00:43",
       "album": {
+        "name": "El Triste",
+        "url": "https://open.spotify.com/album/6ZvocIvlt006fUlDF1d7Nq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 285226,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL"
+    },
+    {
+      "added_at": "2025-03-28 04:00:43",
+      "album": {
         "name": "los mejores a\u00f1os (notas de diario)",
         "url": "https://open.spotify.com/album/3Wh0rvyFOKNY3WXeXgVYUp"
       },
@@ -447,22 +479,6 @@
     {
       "added_at": "2025-03-28 04:00:43",
       "album": {
-        "name": "Conversaci\u00f3n con mi ex",
-        "url": "https://open.spotify.com/album/29gAeBgjScLcbj805uuTsL"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Rubio",
-          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Conversacion con mi ex",
-      "url": "https://open.spotify.com/track/78vPSJOTl86KUM3cAVjty3"
-    },
-    {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -475,6 +491,22 @@
       "duration_ms": 135897,
       "name": "OCEAN PIANO )))))",
       "url": "https://open.spotify.com/track/7xKoXCGoIhL4TuSfLQCUuG"
+    },
+    {
+      "added_at": "2025-03-28 04:00:43",
+      "album": {
+        "name": "Conversaci\u00f3n con mi ex",
+        "url": "https://open.spotify.com/album/29gAeBgjScLcbj805uuTsL"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Conversacion con mi ex",
+      "url": "https://open.spotify.com/track/78vPSJOTl86KUM3cAVjty3"
     },
     {
       "added_at": "2025-03-28 04:00:43",
@@ -595,22 +627,6 @@
     {
       "added_at": "2025-03-28 04:00:43",
       "album": {
-        "name": "Viernes 13 V",
-        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Viernes 13 V",
-      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
-    },
-    {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
         "name": "M\u00fasica Buena Para D\u00edas Malos",
         "url": "https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG"
       },
@@ -623,6 +639,22 @@
       "duration_ms": 229090,
       "name": "Turbulencia",
       "url": "https://open.spotify.com/track/4t2Pqr2C1yRuvZ2YCLTVcx"
+    },
+    {
+      "added_at": "2025-03-28 04:00:43",
+      "album": {
+        "name": "Viernes 13 V",
+        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Viernes 13 V",
+      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
     },
     {
       "added_at": "2025-03-28 04:00:43",
@@ -659,18 +691,18 @@
     {
       "added_at": "2025-03-28 04:00:43",
       "album": {
-        "name": "danito",
-        "url": "https://open.spotify.com/album/2KKTCJwzwEeuEO8fOW8JeA"
+        "name": "C\u00d3MO EST\u00c1S?",
+        "url": "https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I"
       },
       "artists": [
         {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 237395,
-      "name": "danito",
-      "url": "https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh"
+      "duration_ms": 147559,
+      "name": "C\u00d3MO EST\u00c1S?",
+      "url": "https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr"
     },
     {
       "added_at": "2025-03-28 04:00:43",
@@ -691,18 +723,18 @@
     {
       "added_at": "2025-03-28 04:00:43",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn"
+        "name": "danito",
+        "url": "https://open.spotify.com/album/2KKTCJwzwEeuEO8fOW8JeA"
       },
       "artists": [
         {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
         }
       ],
-      "duration_ms": 201043,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
+      "duration_ms": 237395,
+      "name": "danito",
+      "url": "https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh"
     },
     {
       "added_at": "2025-03-28 04:00:43",
@@ -719,6 +751,22 @@
       "duration_ms": 211030,
       "name": "Tuvimos Futuro",
       "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
+    },
+    {
+      "added_at": "2025-03-28 04:00:43",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 201043,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
     },
     {
       "added_at": "2025-03-28 04:00:43",
@@ -787,54 +835,6 @@
       "duration_ms": 173252,
       "name": "Todo de m\u00ed",
       "url": "https://open.spotify.com/track/2b7VXGHbb1jOHD5GmnxTGf"
-    },
-    {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
-    },
-    {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
-        "name": "escrita",
-        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 202282,
-      "name": "m\u00e1s y menos",
-      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
-    },
-    {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
-        "name": "l\u00e1grimas de un gangster",
-        "url": "https://open.spotify.com/album/0W1YP07FiQg36pSo407XV2"
-      },
-      "artists": [
-        {
-          "name": "Guzmen",
-          "url": "https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd"
-        }
-      ],
-      "duration_ms": 166159,
-      "name": "l\u00e1grimas de un gangster",
-      "url": "https://open.spotify.com/track/0PHcfYoUnQZIeSuppfeBmI"
     }
   ],
   "unique_name": "sad latino",

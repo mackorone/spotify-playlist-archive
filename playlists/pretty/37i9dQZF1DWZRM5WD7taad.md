@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Hispana en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,026 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,046 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No es por Bonita](https://open.spotify.com/track/5tUEzlpNkwF8vUMLL62HBY) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Santa Griega](https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu) | [No es por Bonita](https://open.spotify.com/album/6u4pLumBq9JvTaZ4fsBv40) | 3:22 |
-| 2 | [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/5yUUXervRBpp0aXXFZyQvy) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 |
+| 2 | [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/4yz602qHvJ4eoC06wCM5rG) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 |
 | 3 | [Alma Rota](https://open.spotify.com/track/7zZLnnX8xbH4urqaar5tkM) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Alma Rota](https://open.spotify.com/album/3KnuWbSj3x6j2p98TuD8RB) | 3:04 |
 | 4 | [DIAVLO](https://open.spotify.com/track/7Lqg10QrEZnW9b8bq0u34j) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [DIAVLO](https://open.spotify.com/album/6Fysv8Y6bcXtHK8tK9drMB) | 3:37 |
 | 5 | [Muévelo](https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [Muévelo](https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP) | 3:09 |

@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Erigga
 
-564 songs - 1 day 2 hr 38 min
+565 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Big Deel](https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:11 | 2024-11-08 | 2024-11-16 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2023-06-17 |
 | [Biko](https://open.spotify.com/track/2EU8sMA1cxTIWIbUGd8pRA) | [Bawa ALA](https://open.spotify.com/artist/1Q98mSTvrmCOEzRZhlMUz1) | [Biko / Iwai](https://open.spotify.com/album/5loaagDKYuReBMUeeLq35C) | 2:14 | 2025-02-14 | 2025-03-07 |
-| [Bless Me](https://open.spotify.com/track/2c7UxjUAIzP7xs3Pa6vv8K) | [Pharaoh 47](https://open.spotify.com/artist/17WFKkKaDAqVitYHNRHr67), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Bless Me](https://open.spotify.com/album/2qrGRjYZOcWurwyi5dsZ91) | 3:31 | 2024-11-22 |  |
+| [Bless Me](https://open.spotify.com/track/2c7UxjUAIzP7xs3Pa6vv8K) | [Pharaoh 47](https://open.spotify.com/artist/17WFKkKaDAqVitYHNRHr67), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Bless Me](https://open.spotify.com/album/2qrGRjYZOcWurwyi5dsZ91) | 3:31 | 2024-11-22 | 2025-03-30 |
 | [Blessed Sinner](https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Blessed Sinner](https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8) | 2:58 | 2023-03-17 | 2023-05-05 |
 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2023-05-12 | 2023-12-04 |
 | [Blood Hot](https://open.spotify.com/track/3ocQ7frjALF31yCx5eMhTz) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [Blood Hot](https://open.spotify.com/album/3hEla1QCivyzb2KEXXDgGy) | 2:25 | 2022-06-30 | 2022-10-14 |
@@ -216,6 +216,7 @@
 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 | 2025-03-28 |  |
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2022-06-09 | 2024-01-12 |
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2022-06-09 | 2023-07-01 |
+| [God of wealth](https://open.spotify.com/track/1tzKotrBl3FA31svknNjvU) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V), [Wizard Chan](https://open.spotify.com/artist/1xbVKgc0CRUS7jJZO7JuYt) | [The Fellowship Vol 3](https://open.spotify.com/album/3jiQTUdHcNWBTKyZh4foeH) | 2:59 | 2025-03-28 |  |
 | [Gold.](https://open.spotify.com/track/7yz59RbKk5saaTU57do462) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [Gold.](https://open.spotify.com/album/7kAQ6F2mGxn8w5QIMb4cOH) | 3:08 | 2022-11-15 | 2022-11-30 |
 | [Grateful](https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 2:49 | 2024-10-07 |  |
 | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/album/1Peac33r475KxGeggGxKvP) | 2:30 | 2022-08-25 | 2022-10-14 |

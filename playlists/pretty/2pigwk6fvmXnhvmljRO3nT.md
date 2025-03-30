@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,539 songs - 17 day 2 hr 35 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,543 songs - 17 day 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6547,5 +6547,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6537 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
 | 6538 | [Love should not be harsh on you](https://open.spotify.com/track/03TdLY0nav9sQ3kyjbyJ9t) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love should not be harsh on you](https://open.spotify.com/album/6jHa0QNqdyT3w2jGIpR2z5) | 4:28 |
 | 6539 | [Me and Your Mama](https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni) | 6:19 |
+| 6540 | [the cat from ipanema](https://open.spotify.com/track/1MGkSx3lPP5wSBC6CLFit0) | [j1gggs](https://open.spotify.com/artist/6y9nVKeE4wRW8bDxoxDqL9) | [the cat from ipanema](https://open.spotify.com/album/1Pc1sMe5MghBJwqoKs7WbR) | 1:38 |
+| 6541 | [Chilling at the Cafe](https://open.spotify.com/track/0bAnMjBZEqlj39SpHB1omj) | [毎日甘いもの食べたい](https://open.spotify.com/artist/1GctxKMcdLc0FwcbpYJqrL) | [Chilling at the Cafe](https://open.spotify.com/album/74ad0BSaRnowjUARYYoxkr) | 1:24 |
+| 6542 | [Cotton Candy](https://open.spotify.com/track/4ZTvsIe2r6wyE3WBIB3IGv) | [Kim Mun Seong](https://open.spotify.com/artist/0y3CVo9fXDYScgj7XIANJA) | [Watercolor Painting](https://open.spotify.com/album/2DXEvD3JELAyRqeYK4dFrS) | 1:55 |
+| 6543 | [Parade](https://open.spotify.com/track/7bZB7muJ2bTZjgVdDr44PW) | [しゃろう](https://open.spotify.com/artist/78Oq5iXIM9HCAe0zYg8E7o) | [Parade](https://open.spotify.com/album/4zX9eyLOygb9YrmVAg1ijf) | 2:54 |
 
-Snapshot ID: `AAAD6N2rgeV/+P8FkJa014rM8qeUIhSl`
+Snapshot ID: `AAAD7OAK83+++xhhQZQB5CbhEzSZsdUq`

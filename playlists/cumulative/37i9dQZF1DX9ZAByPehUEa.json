@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Can't Break Free",
+        "url": "https://open.spotify.com/album/6rvAPUSlf34tA7GgVpJJr8"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Can't Break Free - Edit",
+      "url": "https://open.spotify.com/track/3VtCXwElp4xqxjDhGAcQHE"
+    },
+    {
+      "album": {
         "name": "Can't Stop",
         "url": "https://open.spotify.com/album/5r11OiEuYQuWXeem5H3Pa6"
       },
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 170357,
       "name": "CHIKI",
       "url": "https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG"
@@ -7866,7 +7884,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 139872,
       "name": "Outta My Mind",
       "url": "https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf"
@@ -8354,6 +8372,24 @@
       "duration_ms": 177971,
       "name": "Reason",
       "url": "https://open.spotify.com/track/37EKnLlRqJcb8XMgYaAbCL"
+    },
+    {
+      "album": {
+        "name": "Relentless Love",
+        "url": "https://open.spotify.com/album/3c8dzx8Vhy0w4eLH8ns5Zj"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "Relentless Love",
+      "url": "https://open.spotify.com/track/0hzt5MB7hjMWDPkM5BLDLt"
     },
     {
       "album": {

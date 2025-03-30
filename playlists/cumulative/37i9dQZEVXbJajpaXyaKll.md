@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,235 songs - 2 day 17 hr 29 min
+1,236 songs - 2 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,6 +820,7 @@
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-11 | 2025-02-05 |
 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 | 2024-04-23 | 2024-05-08 |
 | [Pa las girlas](https://open.spotify.com/track/4ezjHDUjl9GyIs6BcezDDV) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw) | [Pa las girlas](https://open.spotify.com/album/5BegWK4vnqGEb3XbLVXri9) | 2:30 | 2025-03-26 | 2025-03-29 |
+| [Pa las girlas](https://open.spotify.com/track/7dCGkDZgWIDSZyxInMkdIv) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw) | [Pa las girlas](https://open.spotify.com/album/5yGeyYQfUhdQUvk0yVTVkY) | 2:30 | 2025-03-28 |  |
 | [Pa Panamericano X Boppa Private \(Tik Tok Viral\) \(Afro House\)](https://open.spotify.com/track/3kkIERNkul0TS6TAOmfLgi) | [Juanchirmx](https://open.spotify.com/artist/3wUXULHYiiqd7cTdGjZgCX) | [Pa Panamericano X Boppa Private \(Tik Tok Viral\) \(Afro House\)](https://open.spotify.com/album/6ZMVfWipFkuhl2Q3rAnJpV) | 3:09 | 2024-12-10 | 2025-02-10 |
 | [Pa Panamericano X Boppe \(Viral Tik Tok\) \- Remix](https://open.spotify.com/track/6hci44Dz65LweTyPsh6ar2) | [Dj alan rojas](https://open.spotify.com/artist/1BSs6bx6xcdHspENpKx25o) | [Pa Panamericano X Boppe \(Viral Tik Tok\) \[Remix\]](https://open.spotify.com/album/0V6dZ1VfqQH4MZ6RqPEzRj) | 2:13 | 2025-01-02 | 2025-01-10 |
 | [PA TI ESTOY](https://open.spotify.com/track/0nOWvZDmm7iAGxIP5BQYWi) | [FACUU DJ](https://open.spotify.com/artist/6IvYk2Vx3G6VY6AXBqDudt), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt), [DJ Adri Fuentes](https://open.spotify.com/artist/05me8eoZwY5DPqX8MjszcR) | [LOS DUEÑOS DEL NUEVO PERREO](https://open.spotify.com/album/2uqEgdNAnhgXmLdxsQ7aR2) | 2:28 | 2024-10-29 | 2024-11-13 |

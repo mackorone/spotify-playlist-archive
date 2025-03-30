@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: sombr
 
-2,075 songs - 4 day 13 hr 52 min
+2,076 songs - 4 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Colour Me Blue](https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Colour Me Blue](https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA) | 3:16 | 2022-04-15 | 2022-08-06 |
 | [Colour Me Blue](https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:16 | 2022-12-09 | 2023-03-25 |
 | [Come Around](https://open.spotify.com/track/3TpkcCHblOWMzalss4ug24) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Come Around](https://open.spotify.com/album/4uHx96O6wgOe0RN01ApoKT) | 2:53 | 2022-02-25 | 2022-07-02 |
+| [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 | 2025-03-28 |  |
 | [Come Home](https://open.spotify.com/track/6NpkEt1C0m5AnK13Y76qR5) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Come Home](https://open.spotify.com/album/3sSmnR952IGjKyhsNZlcxJ) | 3:43 | 2023-02-04 | 2023-02-11 |
 | [come on come on](https://open.spotify.com/track/0DtBLzMEDG3xWgr516VOM3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [come on come on](https://open.spotify.com/album/56zGeV8gCqo1RXNiOx6JJo) | 2:47 | 2021-01-17 | 2021-06-03 |
 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 | 2021-06-03 | 2021-10-05 |
@@ -1251,7 +1252,7 @@
 | [Muddy Evil Pain](https://open.spotify.com/track/2CgGtt3dP4JsE2nEvSe4xF) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Muddy Evil Pain](https://open.spotify.com/album/6ofvhxicFBq8VE6IQHApJw) | 3:41 | 2021-02-25 | 2021-03-16 |
 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/1LKSGgWMCZBWm4Sd1Foixw) | 3:21 | 2024-02-09 | 2024-03-16 |
 | [Museum](https://open.spotify.com/track/6liB5ag2B1cL6KYkWte2cU) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Museum](https://open.spotify.com/album/5IIzBn2NyWLRxDrVQy6L0g) | 3:35 | 2023-03-03 | 2023-04-15 |
-| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 |  |
+| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 | 2025-03-30 |
 | [Must Be Nice!](https://open.spotify.com/track/3RsD9RTDXfrbBxPQm5tc3s) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Must Be Nice!](https://open.spotify.com/album/6rlUudzkXWR2O5u3BCQFE1) | 3:11 | 2022-07-01 | 2022-07-19 |
 | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\]](https://open.spotify.com/track/6qomQtETB8ovqxCJzwJS74) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Sarah Barthel](https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\]](https://open.spotify.com/album/1CsySBcBQluO4aoT5uuTx5) | 3:34 | 2020-10-13\* | 2021-03-30 |
 | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\] \- Icarus Better Daze Mix](https://open.spotify.com/track/6cb6DR6i07ZA0I0B1qnpQi) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram \[Icarus Better Daze Mix\]](https://open.spotify.com/album/5KGWv4VGrZkJYDYkEHhllt) | 4:26 | 2020-11-20 | 2021-01-15 |

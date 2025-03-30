@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Bhavi en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,625 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,605 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AGRIDULCE](https://open.spotify.com/track/6oD4SAERighrgpWf6NJibb) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [BHAVILONIA](https://open.spotify.com/album/0eEO57wwLtByL2ubWCSshn) | 2:42 |
 | 2 | [Starboy Remix](https://open.spotify.com/track/0D9Fzc8Lea0JZTAvnZcnyZ) | [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Starboy Remix](https://open.spotify.com/album/7FH7cLQJnNiiDyJ5ojGEES) | 3:40 |
-| 3 | [SIEMPRE LO SUPE](https://open.spotify.com/track/4y6DRCEMux8v6CvSgzPZZj) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [TOBi](https://open.spotify.com/artist/5bxXkOBiQYSLYix6e3Szky), [Elixir](https://open.spotify.com/artist/2V9jKYeRc72nApTYRJKjJ3), [Dazen](https://open.spotify.com/artist/12q9iUttjSIlUBHqR8RxMG), [Tiano](https://open.spotify.com/artist/0O7dw6pRmwp2r0TjHrZxmf) | [SIEMPRE LO SUPE](https://open.spotify.com/album/55cE07l2O4nRRLYNV1T3Ko) | 2:38 |
+| 3 | [SIEMPRE LO SUPE](https://open.spotify.com/track/4y6DRCEMux8v6CvSgzPZZj) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Elixir](https://open.spotify.com/artist/2V9jKYeRc72nApTYRJKjJ3) | [SIEMPRE LO SUPE](https://open.spotify.com/album/55cE07l2O4nRRLYNV1T3Ko) | 2:38 |
 | 4 | [WYGD](https://open.spotify.com/track/5fK0NUJsMnF60bs6T5GKtS) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [7KIEF](https://open.spotify.com/artist/68hjSVPymcSM3H6VIbawaU), [kerse](https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx), [SANCHO](https://open.spotify.com/artist/5uqh1Uqiz8OGPO18RU2YVu) | [WYGD](https://open.spotify.com/album/2KmAF99EWzeg7bdMHtHVbP) | 2:48 |
 | 5 | [RETIRADA](https://open.spotify.com/track/2m7Ev5rPlckRrn6HT2coGI) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:51 |
 | 6 | [No Me Llores](https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52) | 3:11 |

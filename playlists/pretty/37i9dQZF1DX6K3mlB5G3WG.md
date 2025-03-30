@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,958 likes - 140 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,957 likes - 140 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 68 | [Grazie a dio](https://open.spotify.com/track/5wyKOp1wdTt3uuTK6CKtLq) | [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH) | [Grazie a dio](https://open.spotify.com/album/0GcXUtXXB4PLl7QuU5OPrN) | 1:42 |
 | 69 | [niente](https://open.spotify.com/track/4jsFobVLotgBfwt668zjw1) | [nora lang](https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh) | [quel che resta](https://open.spotify.com/album/1nJLGimuFDWndkY2IfscSj) | 2:18 |
 | 70 | [sogni lucidi](https://open.spotify.com/track/3NIaRK9kjRsBbxwvCQ1N98) | [Joy Bloo](https://open.spotify.com/artist/4FT5nGhINGFOibKEQVsseP), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [sogni lucidi](https://open.spotify.com/album/2aubl56WmhFvUappYsBdAR) | 2:57 |
-| 71 | [Sogni](https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic), [Taketo Gohara](https://open.spotify.com/artist/3iSwb8X89F9HMuvO2mKbfV) | [Sogni](https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4) | 2:34 |
+| 71 | [Sogni](https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Sogni](https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4) | 2:34 |
 | 72 | [Nel Blu \(Lettera Ai Padroni Della Terra\)](https://open.spotify.com/track/2KOKJF6NWyGnvJGvZoDWfU) | [Negrita](https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2) | [Nel Blu \(Lettera Ai Padroni Della Terra\)](https://open.spotify.com/album/1RDXt11OpB6vd1hB4nXuVO) | 5:08 |
 | 73 | [L'arte di lasciar andare](https://open.spotify.com/track/0TJs01NwMWXasp1DXVTdX9) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [L'arte di lasciar andare](https://open.spotify.com/album/5sgNyYP8tGgxj9fGxu2Ltz) | 2:51 |
 | 74 | [Language Of Love](https://open.spotify.com/track/5DXEoQhgxXds4gwNgTQfHP) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Language Of Love](https://open.spotify.com/album/6UWP1g39NtTOVHmv7c0gTP) | 2:40 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 98 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 |
 | 99 | [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/track/7GGNubArnL3x9nCxUKdgIq) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/album/4yVlbRV12SRiBbpsCZSyhe) | 2:25 |
 | 100 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
-| 101 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
+| 101 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 102 | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/album/6Jyt0QXVx5m2UgdNmYqLVA) | 2:45 |
 | 103 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 104 | [Vagabondo](https://open.spotify.com/track/5YKVEa3Wd7LmJXeFJnvzuv) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg) | [Vagabondo](https://open.spotify.com/album/15GFUcIG2b6wpWuaEs8nmp) | 3:15 |

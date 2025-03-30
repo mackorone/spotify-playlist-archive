@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,231 likes - 86 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,255 likes - 86 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spirit Rich](https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Spirit Rich](https://open.spotify.com/album/4jDaCHNKQHoHUO905d9Wvl) | 2:40 |
+| 1 | [Spirit Rich](https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Spirit Rich](https://open.spotify.com/album/4jDaCHNKQHoHUO905d9Wvl) | 2:39 |
 | 2 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
 | 3 | [Heaven Sent](https://open.spotify.com/track/3oRjAEpFOlbXltuQklNVhE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Heaven Sent](https://open.spotify.com/album/58Nvt6xXv8XCuIqRWNTumw) | 2:05 |
 | 4 | [Right Where I'm Supposed to Be](https://open.spotify.com/track/0EJgN1QHZ7aIWT2ggqZL5C) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm Him 2](https://open.spotify.com/album/4qcdBStuMPfHMYOUzqBjbp) | 2:12 |

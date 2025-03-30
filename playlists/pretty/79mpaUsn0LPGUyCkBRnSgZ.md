@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 541 songs - 1 day 11 hr 52 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 546 songs - 1 day 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -547,7 +547,12 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 537 | [Grog](https://open.spotify.com/track/2MgrfiUgqkS4s6l5Cem0SY) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [GROG](https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE) | 0:21 |
 | 538 | [Hunchback](https://open.spotify.com/track/0VHwZQkuVS8JFKMGL3HURj) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 4:49 |
 | 539 | [Drover](https://open.spotify.com/track/0FprsPFNEr74lZRbH49MMK) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 5:24 |
-| 540 | [First Bird](https://open.spotify.com/track/0rrvQksEI37Bz52heCXx7J) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [YTI⅃AƎЯ](https://open.spotify.com/album/3bclTvGr69frcDsVw2VJVO) | 5:01 |
-| 541 | [Poor You](https://open.spotify.com/track/0622aJvNezLY5HG5MEnXoF) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [Hi How Are You](https://open.spotify.com/album/2wZcpjsg8eNUVqY324mFu5) | 2:03 |
+| 540 | [The Homeless and the Jet Boots Boy](https://open.spotify.com/track/7zpucEpqQ4uqUR2L3lPu9m) | [Jupiter Apple](https://open.spotify.com/artist/305wP8s5kY4kW1HqkFSjDi) | [Hisscivilization](https://open.spotify.com/album/33qTAyCo4Xdjdbft2MFv9T) | 11:34 |
+| 541 | [Marching Bands of Manhattan](https://open.spotify.com/track/7xBWYN1Dzciatr34K6sfDh) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 4:12 |
+| 542 | [Say It](https://open.spotify.com/track/3J6SHj9R5awrwgLzEdk9Ck) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Bicker](https://open.spotify.com/album/6DU0UVl1TV4VOfbpf0BZ2R) | 2:53 |
+| 543 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
+| 544 | [You Moved In](https://open.spotify.com/track/4YrxrrMT6534Ba8wrnnvZz) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [The Doctor Came At Dawn](https://open.spotify.com/album/5UEChIc8yAxAvJY9cz7q5y) | 4:34 |
+| 545 | [Light Bath](https://open.spotify.com/track/720pdWg4AIjiYSpY7kT8YY) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [The Complete Score from "The Catherine Wheel"](https://open.spotify.com/album/5DyoXk3EjmrhbqUv0FiFA6) | 1:11 |
+| 546 | [Now I'm Your Mom](https://open.spotify.com/track/63PFGLwfK3AMCiqp7H0SV1) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Uh\-Oh](https://open.spotify.com/album/6haW3z5RoXNQCRqHuIhu6C) | 4:43 |
 
-Snapshot ID: `AAAHAd0YIYPWd7pbojBYJdVFePNJnbKx`
+Snapshot ID: `AAAHDsw/uAAlpNCmSz9rBpyHMU++oGsw`

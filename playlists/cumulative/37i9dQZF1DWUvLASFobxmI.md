@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, Adrian L Santos en portada.
 
-659 songs - 1 day 10 hr 47 min
+660 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2022-03-11 | 2023-04-15 |
 | [CHALINOFEST](https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:29 | 2025-02-28 |  |
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-07-01 | 2023-07-15 |
+| [CHE CHE](https://open.spotify.com/track/2GUApVyQ3yGKW5W2NH2DjA) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [CHE CHE](https://open.spotify.com/album/3i1uH1OCtUBdgX05Y637Ad) | 3:00 | 2025-03-14 |  |
 | [Chelas y Besos](https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN) | 3:01 | 2024-08-16 |  |
 | [Chingo de Amor](https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chingo de Amor](https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU) | 2:54 | 2024-10-18 | 2024-12-21 |
 | [Chiquilla cariñosa \- En Vivo](https://open.spotify.com/track/3uRbbVtxvzPbDUtYtSPRBM) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Poquito De Todo Con Sax Vol.1 \(En Vivo\)](https://open.spotify.com/album/1BegSqTbOarMuulAgGf8PV) | 2:56 | 2024-07-12 | 2024-08-17 |
@@ -146,7 +147,7 @@
 | [DIOS POR DELANTE](https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu) | 3:34 | 2024-01-15 |  |
 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 | 2023-01-20 | 2025-03-15 |
 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 | 2022-08-29 | 2022-10-01 |
-| [Dos Dias](https://open.spotify.com/track/0LHL11oU3BlAU1sdcJIkW2) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Dos Dias](https://open.spotify.com/album/11TB8ovbQTHJkt3olcscBa) | 2:53 | 2025-02-28 |  |
+| [Dos Dias](https://open.spotify.com/track/0LHL11oU3BlAU1sdcJIkW2) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Dos Dias](https://open.spotify.com/album/11TB8ovbQTHJkt3olcscBa) | 2:53 | 2025-02-28 | 2025-03-30 |
 | [Dos Gotas De Agua](https://open.spotify.com/track/1pe7wAnofprofQKmeJsWDJ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:24 | 2024-12-20 | 2025-02-01 |
 | [Déjenme Llorar](https://open.spotify.com/track/6GNWTIGfKITLl53XVAla4T) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Hay Niveles](https://open.spotify.com/album/3SOo2bCUBOjlMiSFK94iAn) | 3:14 | 2022-12-02 | 2022-12-10 |
 | [El 10 de Mayo \(En Vivo\)](https://open.spotify.com/track/3WEHES0IGtpjcVnC60V24X) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm) | [El Mes de Mayo \(En Vivo\)](https://open.spotify.com/album/2ljSb2GM16NRwiUGc2MKFj) | 2:33 | 2024-05-24 | 2024-06-29 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-606 songs - 1 day 5 hr 30 min
+607 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Fruto da Imaginação \- Ao Vivo em Uberlândia](https://open.spotify.com/track/1WKj6md5tB9xO1nr1MkSLq) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Bruno](https://open.spotify.com/artist/6xTE2Q6MPdXyS5FJ6JGURo) | [Fruto da Imaginação \(Ao Vivo em Uberlândia\)](https://open.spotify.com/album/785AUi11Fcd7V1arP7mzBt) | 3:30 | 2023-12-30 |  |
 | [Golpe Baixo \(feat\. Gusttavo Lima\) \- Ao Vivo](https://open.spotify.com/track/5Ya626jMP5K1S1wmsVQjv8) | [Rob Nunes](https://open.spotify.com/artist/3WhKStgXqBomTpLZr6Q07a), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Rob Nunes Ao Vivo em Goiânia](https://open.spotify.com/album/1xCVGPEow1bOVKADYkN7D2) | 2:56 | 2023-12-30 |  |
 | [Gosta de Mim Só Hoje \- Ao Vivo](https://open.spotify.com/track/4ql4wtxFdv92HFWz336Ju5) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Sétimo Sol: Ao Vivo Na House](https://open.spotify.com/album/6XOw1WAe1XFpam8dPJAOgc) | 2:29 | 2023-12-30 |  |
-| [Gostou do Mel \- Ao Vivo](https://open.spotify.com/track/2Ouxqg14wwtuSDFrVYuxGB) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm) | [Thales Lessa in Casa \(Ao Vivo\)](https://open.spotify.com/album/6Irzo6lzVe5BTE02qzLdiy) | 2:29 | 2023-12-30 |  |
+| [Gostou do Mel \- Ao Vivo](https://open.spotify.com/track/1mlMUQ5zxqDAuwxC2PSIYw) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm) | [Thales Lessa in casa \(Ao Vivo\)](https://open.spotify.com/album/2ZgMygpxpBIcZ6aqfaZQcq) | 2:29 | 2025-03-29 |  |
+| [Gostou do Mel \- Ao Vivo](https://open.spotify.com/track/2Ouxqg14wwtuSDFrVYuxGB) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm) | [Thales Lessa in Casa \(Ao Vivo\)](https://open.spotify.com/album/6Irzo6lzVe5BTE02qzLdiy) | 2:29 | 2023-12-30 | 2025-03-30 |
 | [Graças a Ela \- Ao Vivo](https://open.spotify.com/track/1HR5cAtRvqJCYM4fzhBW07) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Graças a Ela \(Ao Vivo\)](https://open.spotify.com/album/4ovqwzEIgITEFoBVgV77Do) | 2:36 | 2023-12-30 |  |
 | [Haja Catuaba](https://open.spotify.com/track/01S6aRH8eGrIXc8BSvuubW) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Sobe o Som](https://open.spotify.com/album/0DVUNIC37rxzcK193fnH7T) | 2:59 | 2025-03-19 |  |
 | [Haja Catuaba \- Ao Vivo](https://open.spotify.com/track/7gupfe4m8A2WieTG25o0JW) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Os Mineiros Tão Chegando \(Ao Vivo\)](https://open.spotify.com/album/0lqfQYbROoPPdSVHhIrqqr) | 2:59 | 2025-01-09 | 2025-03-20 |

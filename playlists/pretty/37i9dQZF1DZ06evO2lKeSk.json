@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 350390,
+  "num_followers": 350458,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+HyAAAAAACC5GdxWwHcPLfGe151bHfP",
+  "snapshot_id": "Z+XmgAAAAAA+HYnrnb0od6MDo8h6zRmk",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Y Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0"
       },
@@ -107,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
       },
       "artists": [
         {
@@ -116,9 +100,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 239773,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
+      "duration_ms": 224906,
+      "name": "Y Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
     },
     {
       "added_at": null,
@@ -135,6 +119,22 @@
       "duration_ms": 288160,
       "name": "Mi Talism\u00e1n",
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 239773,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "No Te Hago Falta",
-      "url": "https://open.spotify.com/track/6wwlTwsmum6s8nHDR2q7QQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Mexico",
         "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 223826,
       "name": "No Entiendo",
       "url": "https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "No Te Hago Falta",
+      "url": "https://open.spotify.com/track/6wwlTwsmum6s8nHDR2q7QQ"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Soy",
-        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Soy Como Quise Ser",
-      "url": "https://open.spotify.com/track/4fbkYivlblH2hmA4ezlscp"
+      "duration_ms": 201506,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+        "name": "Soy Como Soy",
+        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 201506,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz"
+      "duration_ms": 205933,
+      "name": "Soy Como Quise Ser",
+      "url": "https://open.spotify.com/track/4fbkYivlblH2hmA4ezlscp"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "C\u00f3mo Olvidar",
+      "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 208946,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "C\u00f3mo Olvidar",
-      "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/4mwUQaf9Q8TX3KMvN1VJRF"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qui\u00e9n Como t\u00fa",
         "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Soy",
-        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "No a Pedir Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Reina Canta A Mexico",
         "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 245266,
       "name": "Voy a Ser",
       "url": "https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Como Soy",
+        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "No a Pedir Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
-        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "M\u00e9xico Lindo y Querido / Cielito Lindo - En Vivo",
-      "url": "https://open.spotify.com/track/1CqfnWRVcguK6k8qOORJpu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 193733,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
+        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "M\u00e9xico Lindo y Querido / Cielito Lindo - En Vivo",
+      "url": "https://open.spotify.com/track/1CqfnWRVcguK6k8qOORJpu"
     },
     {
       "added_at": null,

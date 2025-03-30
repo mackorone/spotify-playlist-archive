@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-270 songs - 13 hr 54 min
+271 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 | 2023-02-17 |  |
 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 | 2023-09-25 |  |
 | [Chakra Alignment](https://open.spotify.com/track/40yA8h4VVoYfwOt2rrCtdC) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Chakra Alignment](https://open.spotify.com/album/6tlDQX3PkLxqIjnEAkCSHu) | 3:11 | 2025-03-19 |  |
-| [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 | 2023-02-17 |  |
+| [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 | 2023-02-17 | 2025-03-30 |
 | [Clear Mind \- 432 Hz](https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA) | [Liilia Janes](https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j) | [Clear Mind \- 432 Hz](https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM) | 2:51 | 2023-09-25 |  |
 | [Clear Skies Ahead](https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Clear Skies Ahead](https://open.spotify.com/album/5rKVWByShf5lLqfFwDBsrg) | 2:36 | 2024-07-18 |  |
 | [Clear Thoughts](https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Clear Thoughts](https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn) | 3:00 | 2023-02-17 |  |
@@ -211,6 +211,7 @@
 | [Shadow Behind the Hill](https://open.spotify.com/track/066ZcXmTUcgiQOWKL9RVdf) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Shadow Behind the Hill](https://open.spotify.com/album/4C8nFHQAZimibmids5LwTW) | 2:40 | 2025-01-17 |  |
 | [Shakuhachi Meditation](https://open.spotify.com/track/1lTvSoBVaKyprdr0Xqxb2P) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Shakuhachi Meditation](https://open.spotify.com/album/4R25uBWUivSRLcn7lRn14a) | 2:56 | 2025-03-19 |  |
 | [Shalika](https://open.spotify.com/track/7ldw6LqeAFqr8NdQyvoKWk) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 3:10 | 2023-03-20 |  |
+| [Shanta](https://open.spotify.com/track/0RRwO4GLGkTCzQQgZdkQhJ) | [Calm Sūtra](https://open.spotify.com/artist/17iuV6cWs8vvEHlD41aFu6) | [Shanta](https://open.spotify.com/album/6Ab9os86re9pUJD0F02gpV) | 2:56 | 2025-03-19 |  |
 | [Shimmering](https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs) | [Abril Vann](https://open.spotify.com/artist/0WKB9DQYiXnaZrBL50nWkR) | [Shimmering](https://open.spotify.com/album/6K7IZkZH0CnnEE7WLMlj5d) | 2:26 | 2023-02-17 |  |
 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 | 2023-02-17 |  |
 | [Silent Atmosphere](https://open.spotify.com/track/4pcXPFNzLDYGU5HbwRT55z) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Silent Atmosphere](https://open.spotify.com/album/4xB9B8n35NH1kWGiL2pNvp) | 2:52 | 2024-11-14 | 2025-02-17 |

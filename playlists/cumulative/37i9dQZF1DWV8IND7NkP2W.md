@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-793 songs - 1 day 11 hr 49 min
+795 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [SAKURA](https://open.spotify.com/track/2CyocAM5pT88oWHLUGSLyy) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SAKURA](https://open.spotify.com/album/6UamsYfTZIbK3iD1vxw5J3) | 2:02 | 2022-03-31 | 2022-10-28 |
 | [sakura](https://open.spotify.com/track/3lgIJDGKrpEAmzcZ8KwjIa) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [scat](https://open.spotify.com/album/4Ys3tmuEwecgFxmnCSKLlK) | 3:35 | 2021-12-23 | 2022-07-29 |
 | [SAKURA \(SOUND TOUR\)](https://open.spotify.com/track/0ZbCIFHHkC4pOBxD1qJUJX) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [SAKURA \(SOUND TOUR\)](https://open.spotify.com/album/65hKXJu0KmXrQ7Skss7sXN) | 1:36 | 2022-04-14 | 2022-07-11 |
+| [Sakura Snow](https://open.spotify.com/track/0iMxk8UK4SfteXkNgoMDAe) | [Lofi Milk](https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT), [Maho Fukami](https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP) | [Sakura Snow](https://open.spotify.com/album/2ge66asTGSrySXY0vG0G60) | 2:09 | 2025-03-21 |  |
 | [Samui](https://open.spotify.com/track/02vMiqjglGHUt0poNcIf5v) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Samui](https://open.spotify.com/album/6elgJt4O7fsS80BDj992CN) | 1:24 | 2022-03-24 | 2022-04-19 |
 | [Samui](https://open.spotify.com/track/74bdadCpSCzqFBZ4XuQaCQ) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Samui](https://open.spotify.com/album/3DcZEHiHT7uPkd5Bs8ynn9) | 1:24 | 2022-07-28 | 2022-10-21 |
 | [sanctuary](https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [sanctuary](https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t) | 3:15 | 2025-02-09 |  |
@@ -658,6 +659,7 @@
 | [Streets of Kyoto](https://open.spotify.com/track/6NRRbRKPVZOZKVtGIDiVVe) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Streets of Kyoto](https://open.spotify.com/album/7zqqLokT18SEG7y7AZ576V) | 1:36 | 2022-01-13 | 2022-04-16 |
 | [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 | 2022-07-28 | 2024-04-19 |
 | [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 | 2025-02-10 |
+| [Sublimation](https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [Sublimation](https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al) | 3:55 | 2025-03-21 |  |
 | [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 | 2024-07-15 |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
 | [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 | 2023-06-10 |
@@ -701,7 +703,7 @@
 | [The Color of Your Heart](https://open.spotify.com/track/5oIdUGVkz7UjsZTWl71jQk) | [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [The Color of Your Heart](https://open.spotify.com/album/1dQ2W2w3AnGpDWkIVwKmiu) | 4:28 | 2021-12-23 | 2022-07-27 |
 | [The Train Ride Home](https://open.spotify.com/track/0I9Sb0yl3ygzcmcW6sDl16) | [Taiyo Ky](https://open.spotify.com/artist/0MxSQxHSbd0E7RgmqDZ1DA) | [The Train Ride Home](https://open.spotify.com/album/2dphwqQhCUNDGrAX9ncfN2) | 3:04 | 2021-12-23 | 2022-04-21 |
 | [The Way I Feel](https://open.spotify.com/track/2SDIyQgY55oWZOqRmMWE3h) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [The Way I Feel](https://open.spotify.com/album/5duFo9fLgha403PX3005QI) | 1:36 | 2021-12-23 | 2022-01-22 |
-| [The Way of the Rain](https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [The Way of the Rain](https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u) | 3:10 | 2021-12-23 |  |
+| [The Way of the Rain](https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [The Way of the Rain](https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u) | 3:10 | 2021-12-23 | 2025-03-30 |
 | [this time](https://open.spotify.com/track/1uGZzKxDdi4Um0lORt6bZe) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [this time](https://open.spotify.com/album/3IPFVDh9DogTkFAo8seeW4) | 2:30 | 2021-12-23 | 2022-07-27 |
 | [Time Flies](https://open.spotify.com/track/1TzTFDuSoePewojzuxejAh) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Time Flies](https://open.spotify.com/album/6VBSLYVKCFMoMBqtVm942G) | 2:22 | 2021-12-23 | 2022-04-20 |
 | [Time Goes by](https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Time Goes by](https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo) | 1:53 | 2024-09-25 | 2024-12-24 |
@@ -793,7 +795,7 @@
 | [オダイジン](https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [藤沢 2021](https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV) | 2:30 | 2024-09-25 | 2025-02-05 |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |
 | [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 | 2025-01-25 |
-| [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 |  |
+| [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2025-03-30 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |
 | [平和](https://open.spotify.com/track/3g3k750g1iXaaFfK6aWazL) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [平和](https://open.spotify.com/album/3S5A4RX0kQMqKKnPT5UR4w) | 3:23 | 2024-04-12 | 2024-12-05 |

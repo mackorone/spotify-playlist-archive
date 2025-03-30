@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Lucy Dacus
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 8,524 likes - 81 songs - 4 hr 51 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 8,523 likes - 81 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

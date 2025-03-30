@@ -4109,6 +4109,36 @@
     },
     {
       "album": {
+        "name": "Ichnos / Autumn Leaves (Take Two)",
+        "url": "https://open.spotify.com/album/0Yk1b9iPyNxhpOyUfLz0q5"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "Stefano Bagnoli",
+          "url": "https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN"
+        },
+        {
+          "name": "Dino Rubino",
+          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263722,
+      "name": "Ichnos",
+      "url": "https://open.spotify.com/track/21QFG2angX1SiMDsXlXMIO"
+    },
+    {
+      "album": {
         "name": "Give Me November",
         "url": "https://open.spotify.com/album/3hBYyrSwgLGzQzzxl8tZ10"
       },
@@ -6460,7 +6490,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 231506,
       "name": "On and On",
       "url": "https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS"

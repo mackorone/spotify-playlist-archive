@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,765 likes - 90 songs - 4 hr 59 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,767 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 42 | [Ya sé](https://open.spotify.com/track/38ydHYk2vT3UNNxG5GbhJs) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Ya sé](https://open.spotify.com/album/5UHaZk8kkzkb6Gs5DPYWqH) | 3:06 |
 | 43 | [Doberman](https://open.spotify.com/track/5vWfIEWXevuwFSVqgrItHC) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Lonely People With Power](https://open.spotify.com/album/5Eh3xMVdGFAUiYwuoPOzXc) | 6:34 |
 | 44 | [If Not Now, It's Soon](https://open.spotify.com/track/3fcwVo8YgUTZsO74AVeL1c) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [If Not Now, It’s Soon](https://open.spotify.com/album/0hi2AoxkJXc2PM0J9POaRn) | 2:35 |
-| 45 | [Playa Las Negras](https://open.spotify.com/track/1fSvWFN6zVStDeJWgUCqaD) | [Julio Benavente](https://open.spotify.com/artist/3QfsFYUOQfTKQaIeOEKJai) | [Playa Las Negras](https://open.spotify.com/album/6lpBfC2CsBAwFVrM56cxP2) | 2:38 |
+| 45 | [PLAYA LAS NEGRAS](https://open.spotify.com/track/1fSvWFN6zVStDeJWgUCqaD) | [Julio Benavente](https://open.spotify.com/artist/3QfsFYUOQfTKQaIeOEKJai) | [PLAYA LAS NEGRAS](https://open.spotify.com/album/6lpBfC2CsBAwFVrM56cxP2) | 2:38 |
 | 46 | [Are You In?](https://open.spotify.com/track/75RWvdK6iawjliJUpXdzxw) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Are You In?](https://open.spotify.com/album/4mFpFXxYbJ2V0pZROtWUwq) | 2:37 |
 | 47 | [Doves](https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Doves](https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50) | 4:11 |
 | 48 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |

@@ -2355,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "INATT IGEN",
+        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139310,
+      "name": "INATT IGEN",
+      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
+    },
+    {
+      "album": {
         "name": "Inge mer fun",
         "url": "https://open.spotify.com/album/75J4SpsZaxeNt8xMCUoB4m"
       },
@@ -2658,7 +2676,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 170329,
       "name": "K\u00e4ra Idioter",
       "url": "https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16"
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 173133,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0bcNxMaqVrQQoTnwh35uqD"
@@ -4536,6 +4554,24 @@
       "duration_ms": 244600,
       "name": "Varf\u00f6r slutar allt i t\u00e5rar",
       "url": "https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI"
+    },
+    {
+      "album": {
+        "name": "Murphy",
+        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153618,
+      "name": "Vem fan \u00e4r Murphy?",
+      "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
     },
     {
       "album": {

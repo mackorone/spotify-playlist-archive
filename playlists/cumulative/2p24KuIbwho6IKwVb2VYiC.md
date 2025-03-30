@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: James Hype
 
-293 songs - 15 hr 22 min
+294 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [If U Need It](https://open.spotify.com/track/0xfaCHwtlu4xXZO9x3Axen) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 2:59 | 2024-02-02 | 2025-02-15 |
 | [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 | 2024-09-20 |  |
 | [Incognito](https://open.spotify.com/track/5lvB1y6l9FF5BiOSDPNM27) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/5S2mpgI8SRO5apKCEFSHET) | 4:01 | 2024-03-08 | 2024-03-23 |
+| [It Doesn't Matter](https://open.spotify.com/track/0y9TOTfCp3N5tW4cv6uzbe) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [It Doesn't Matter](https://open.spotify.com/album/6xqZLy9Gwo1sBXvnhUNxhc) | 2:56 | 2025-03-29 |  |
 | [It's All On You](https://open.spotify.com/track/2ugMmpncnUU5BlufHZcq7m) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi), [Foonzy](https://open.spotify.com/artist/39CAY2Pk8BtywnmFcssR6X) | [It's All On You](https://open.spotify.com/album/6RVuczenRVz4Xdwe69LJOf) | 2:25 | 2024-06-14 | 2025-03-15 |
 | [It's Saturday](https://open.spotify.com/track/7yQ7aCZgciyCJprT8sp4og) | [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83), [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [It's Saturday](https://open.spotify.com/album/461Qyoq9JX5Qkpm7NT228I) | 3:44 | 2024-04-29 | 2025-01-22 |
 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 | 2023-10-27 | 2024-05-13 |

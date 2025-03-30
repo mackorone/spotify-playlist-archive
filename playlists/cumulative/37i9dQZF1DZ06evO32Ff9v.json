@@ -373,6 +373,28 @@
     },
     {
       "album": {
+        "name": "El Chato",
+        "url": "https://open.spotify.com/album/1pcmtSkSvsZX2anSkn5zsI"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "El Chato",
+      "url": "https://open.spotify.com/track/0uNazwI0XPyMqVw4LOsOUt"
+    },
+    {
+      "album": {
         "name": "El Chepis",
         "url": "https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v"
       },
@@ -402,7 +424,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 179500,
       "name": "El De Las Plumas - En Vivo",
       "url": "https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM"

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,561 songs - 2 day 10 hr 41 min
+1,562 songs - 2 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1123,6 +1123,7 @@
 | [Ripple](https://open.spotify.com/track/1Rnkpq2HoxOP3iAMpamnG9) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Ripple](https://open.spotify.com/album/3xs1HLiHgJgQJS1nR8h6zx) | 2:28 | 2024-05-13 | 2024-07-06 |
 | [ripple](https://open.spotify.com/track/3mkpwKRUX0u1GDQhrR8vQp) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [ripple](https://open.spotify.com/album/18H8HGviqtnArP662rcExG) | 2:34 | 2022-09-23 | 2023-09-22 |
 | [Rising Sun](https://open.spotify.com/track/5XYFtVddo28JpOE19HnaDp) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Rising Sun](https://open.spotify.com/album/0SFIQ665d2KsSOOuKD40Wf) | 1:52 | 2025-03-21 |  |
+| [Ritual](https://open.spotify.com/track/66lAmN5xv5SCUaMiwa0FNd) | [YetU](https://open.spotify.com/artist/4UeU1HyzFmfydGOM0uU3Cj) | [Ritual](https://open.spotify.com/album/4V04Wbvw9WBlDrRCkhGVL7) | 2:44 | 2025-03-28 |  |
 | [River](https://open.spotify.com/track/3VGELY7USddorN2Spw5GrQ) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [River](https://open.spotify.com/album/6G8wtMGNrzVmQ6kKP1lIdv) | 2:22 | 2022-12-09 | 2023-09-05 |
 | [river by a window](https://open.spotify.com/track/2fI2f1Lhbnqtf1F96pf2dW) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [river by a window](https://open.spotify.com/album/15S3M61RhLznUafm0vm3mg) | 2:31 | 2024-09-13 | 2024-10-26 |
 | [River Dancing](https://open.spotify.com/track/026x5V4Jhi5sKX2xXgza1K) | [flat disc](https://open.spotify.com/artist/65GQa6LQz8LMbqjGb8qY5g) | [River Dancing](https://open.spotify.com/album/4Tl7Vuq1PRC6XetVDbW8z8) | 2:24 | 2022-11-25 | 2023-08-04 |
@@ -1305,7 +1306,7 @@
 | [Sunburn](https://open.spotify.com/track/5YZOHVXgS3khDYFARvAUzh) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Zephyr](https://open.spotify.com/album/3o1AjNSUqYbysJbeinEb7c) | 2:14 | 2022-07-29 | 2022-11-12 |
 | [sunburn](https://open.spotify.com/track/4U5WqVdkISyQaKIlAOICAt) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [sunburn](https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ) | 2:10 | 2023-09-22 |  |
 | [Sunday Coffee](https://open.spotify.com/track/0nFRjElVFDu9605P1eYk1z) | [Sir Nicolas](https://open.spotify.com/artist/3X8CvGF1mqdrFIcfNS2HEW), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Sunday Coffee](https://open.spotify.com/album/08AaXh2e0CIkcsW71lPVQB) | 3:12 | 2022-12-16 | 2023-03-25 |
-| [Sunday Stroller](https://open.spotify.com/track/1SYlHEWr5qbtIHZMZnMbi5) | [Jon Beauté](https://open.spotify.com/artist/1ExH27k1fKzrvoKkRWlCPv) | [Sunday Stroller](https://open.spotify.com/album/0q3HyHdqrYLMSeZYPTgrs9) | 2:20 | 2024-07-25 |  |
+| [Sunday Stroller](https://open.spotify.com/track/1SYlHEWr5qbtIHZMZnMbi5) | [Jon Beauté](https://open.spotify.com/artist/1ExH27k1fKzrvoKkRWlCPv) | [Sunday Stroller](https://open.spotify.com/album/0q3HyHdqrYLMSeZYPTgrs9) | 2:20 | 2024-07-25 | 2025-03-30 |
 | [Sunflower](https://open.spotify.com/track/4ng2LSEKmQ1s1jL3FGmI2j) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Sunflower](https://open.spotify.com/album/4Sr7kNZLsdF59C13I83lft) | 2:22 | 2023-03-08 |  |
 | [Sunflower](https://open.spotify.com/track/3a2fLFjazrZlinsXTZB3T3) | [Velvet Static](https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1) | [Sunflower](https://open.spotify.com/album/6q2ce3gSOf1osMaAHJBAEl) | 2:13 | 2024-09-27 |  |
 | [sunflowers](https://open.spotify.com/track/2lsu6It5U15RZzhFylH5yb) | [chilltrap](https://open.spotify.com/artist/33QpdTC6EssmdARvxTLOMm) | [sunflowers](https://open.spotify.com/album/1xIBjY2QdM61QZBkrsDqUW) | 1:25 | 2022-01-27 | 2022-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\.  Natalie Perez & Banda XXI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,907 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,942 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 22 | [Nuestra Canción](https://open.spotify.com/track/6lK0niJHknZWdogHBGQDSR) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Nuestra Canción](https://open.spotify.com/album/4RCkuee3gtodGWyP8vc9pG) | 3:31 |
 | 23 | [Una Noche](https://open.spotify.com/track/2DV0uRNE0tJPekHH2MK63C) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Una Noche](https://open.spotify.com/album/5TGdD0LC9hnbWvEbazhcAs) | 2:38 |
 | 24 | [No Vale La Pena \- Remix](https://open.spotify.com/track/2ZlRzsvx9EykiedungsKZu) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t) | [No Vale La Pena \(Remix\)](https://open.spotify.com/album/1g5CERWrdhZkNkmnXBjGpp) | 3:29 |
-| 25 | [Corazón Solitario](https://open.spotify.com/track/5SrNC7yinXWHtlQuxDwpH0) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Corazón Solitario](https://open.spotify.com/album/5LA6iiI65Oihi4P80OMB6R) | 4:06 |
+| 25 | [Corazón Solitario](https://open.spotify.com/track/5SrNC7yinXWHtlQuxDwpH0) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Corazón Solitario](https://open.spotify.com/album/5LA6iiI65Oihi4P80OMB6R) | 4:04 |
 | 26 | [Duele](https://open.spotify.com/track/0DVwxwo4q6IZq8uzusS02f) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Duele](https://open.spotify.com/album/1TkVyUQYvNSya2J4n5iFR7) | 3:02 |
 | 27 | [Amanecer Sin Ti](https://open.spotify.com/track/1CLRaOuCtn3L6Ekfm4Nr8c) | [Albita](https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Amanecer Sin Ti](https://open.spotify.com/album/50zf5GYJy08keUdlZd05zR) | 3:13 |
 | 28 | [Tattoo](https://open.spotify.com/track/7a0XI53EB3Pp4ItRPOFxEl) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Tattoo](https://open.spotify.com/album/4K0ofDuN9kcVOEAIIKCJnB) | 3:09 |

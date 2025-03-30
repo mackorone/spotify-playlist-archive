@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,057 likes - 137 songs - 7 hr 19 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,059 likes - 137 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 20 | [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 |
 | 21 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 22 | [I'm Yours \- Acoustic](https://open.spotify.com/track/5BAzqh3hnJxerXAANSYTle) | [Gavern](https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt) | [I'm Yours \(Acoustic\)](https://open.spotify.com/album/4FHbQeG5jGIlIWzvxIkimh) | 2:22 |
-| 23 | [Up Where We Belong \- Acoustic](https://open.spotify.com/track/5RRPw7aHDXmbKjaaOIzuLt) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Up Where We Belong \(Acoustic\)](https://open.spotify.com/album/6Ph3mgUyosIR8nZ84rUJ1m) | 3:26 |
+| 23 | [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/24RPVHtPO71yC3TPPJlYBs) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/140HsR9epNAx6aHV2S936F) | 3:07 |
 | 24 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 |
 | 25 | [Don't Dream It's Over](https://open.spotify.com/track/4VFM638fhpRTmkyJ69fSWE) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Don't Dream It's Over](https://open.spotify.com/album/5rxtBTtwKhso4luWXRjj8t) | 3:27 |
 | 26 | [Viva La Vida \- Acoustic](https://open.spotify.com/track/5MglzGLNOwOhQkOyk95Fg9) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Viva La Vida \(Acoustic\)](https://open.spotify.com/album/7H9o1ODOGd05qUVRz2N7zl) | 2:53 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 136 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 137 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAFyESEZ4AUUHeKpjk2dujCts5R3BDa`
+Snapshot ID: `AAAFyv63Nt+dhgTHQ1vmDL1YuX/JMMEQ`

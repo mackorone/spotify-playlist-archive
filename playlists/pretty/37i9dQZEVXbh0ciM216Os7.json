@@ -6,23 +6,27 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABIgdrcsQYyRvRzdOz6D2YJ",
+  "snapshot_id": "AAAAAAAAAACFUZl48U14blzl8i4Kltsx",
   "tracks": [
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "Sunshine & Rain...",
-        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/28P6u8GFLmkmqidihSbMe9"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
         }
       ],
-      "duration_ms": 197796,
-      "name": "Sunshine & Rain...",
-      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
+      "duration_ms": 134814,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/0DHRn7rRoaqH2pA2CopoCN"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -51,6 +55,42 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
+        "name": "Ride By Your Side",
+        "url": "https://open.spotify.com/album/5swLy79YPLF54oLhmMZolN"
+      },
+      "artists": [
+        {
+          "name": "Dylan Owen",
+          "url": "https://open.spotify.com/artist/3tBtdC4EFE4bNqkt7JP0Co"
+        },
+        {
+          "name": "juli",
+          "url": "https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Ride By Your Side",
+      "url": "https://open.spotify.com/track/4FcatmvN3zpXrMdFeGETHH"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
+        "name": "Sunshine & Rain...",
+        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Sunshine & Rain...",
+      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
         "name": "Vortex (from \"LAZARUS\" Soundtrack)",
         "url": "https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX"
       },
@@ -63,6 +103,38 @@
       "duration_ms": 383631,
       "name": "Vortex (from \"LAZARUS\" Soundtrack)",
       "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -91,54 +163,22 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+        "name": "Little Death Wishes",
+        "url": "https://open.spotify.com/album/6kpOIKEFaI7CNXV0QQUlKZ"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "The Long Way Round",
-        "url": "https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+          "name": "CocoRosie",
+          "url": "https://open.spotify.com/artist/05fo024EFotg9songSENOZ"
         },
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 296454,
-      "name": "Jeffrey",
-      "url": "https://open.spotify.com/track/2DLxjFJOqqzMJlijtDsjMv"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "Fences",
-        "url": "https://open.spotify.com/album/2GC8O1eqMUZYY9SG0Z6mka"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/2m3DrOH7x3EUkzav5Mj9mZ"
+      "duration_ms": 215871,
+      "name": "Girl In Town",
+      "url": "https://open.spotify.com/track/0kVJgm9Mqin3WDUTixdDX7"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -187,18 +227,22 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/0nQuEvHnzWiFghawXVYjws"
+        "name": "The Long Way Round",
+        "url": "https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9"
       },
       "artists": [
         {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1ZtaHVUr3LYmtP5v5HrbTy"
+      "duration_ms": 296454,
+      "name": "Jeffrey",
+      "url": "https://open.spotify.com/track/2DLxjFJOqqzMJlijtDsjMv"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -214,6 +258,10 @@
         {
           "name": "Georgia Anne Muldrow",
           "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Paulo Santos Uakti",
+          "url": "https://open.spotify.com/artist/5r9ft8dY06CpB1pFi5i1Sd"
         }
       ],
       "duration_ms": 310314,
@@ -235,26 +283,6 @@
       "duration_ms": 229125,
       "name": "One of a Kind",
       "url": "https://open.spotify.com/track/3rjP5E00ajzEQoZVTxLOQS"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "Little Death Wishes",
-        "url": "https://open.spotify.com/album/6kpOIKEFaI7CNXV0QQUlKZ"
-      },
-      "artists": [
-        {
-          "name": "CocoRosie",
-          "url": "https://open.spotify.com/artist/05fo024EFotg9songSENOZ"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 215871,
-      "name": "Girl In Town",
-      "url": "https://open.spotify.com/track/0kVJgm9Mqin3WDUTixdDX7"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -295,6 +323,50 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/2GC8O1eqMUZYY9SG0Z6mka"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/2m3DrOH7x3EUkzav5Mj9mZ"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
+        "name": "Shostakovich: Symphonies; Concertos; Lady Macbeth of Mtsensk District",
+        "url": "https://open.spotify.com/album/7CREZmKkA28IN0Ql6MSAtL"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "duration_ms": 800506,
+      "name": "Cello Concerto No. 2 in G Major, Op. 126: I. Largo",
+      "url": "https://open.spotify.com/track/3nMrQcx64lzE92X6B1d0dh"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -306,11 +378,35 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 190373,
-      "name": "GOOD CREDIT (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
+      "duration_ms": 190053,
+      "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 94825,
+      "name": "TWIN TRIM (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3surY3LebvLLdJezmiKUBO"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -347,26 +443,6 @@
       "duration_ms": 268630,
       "name": "Mandingo",
       "url": "https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 94825,
-      "name": "TWIN TRIM (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/3surY3LebvLLdJezmiKUBO"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -411,34 +487,6 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "From The Private Collection of Saba and No ID",
-        "url": "https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        }
-      ],
-      "duration_ms": 208197,
-      "name": "Crash (feat. Raphael Saadiq and Kelly Rowland)",
-      "url": "https://open.spotify.com/track/4BWd7seTOURluar6C8RqYG"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
         "name": "Old Man",
         "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
@@ -467,26 +515,6 @@
       "duration_ms": 177586,
       "name": "The Big One",
       "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "Albion Files",
-        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 253231,
-      "name": "Not Sharing",
-      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -531,70 +559,6 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "Dragon Season... Equinox",
-        "url": "https://open.spotify.com/album/52rPoXrmxR3JaAw9igvBqG"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 188187,
-      "name": "I Won't Lie Down",
-      "url": "https://open.spotify.com/track/5U8aJm4YSFYSIXGDm8zMK1"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "RDV",
-        "url": "https://open.spotify.com/album/6akYqv2xiUKwSG6mu9AFJm"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 205719,
-      "name": "RDV",
-      "url": "https://open.spotify.com/track/1Dg3BWfcM1pE7YPmzMkjET"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "Champagne for Breakfast (Dusted Edition)",
-        "url": "https://open.spotify.com/album/0pP11JATd5JwmjoYksEjjb"
-      },
-      "artists": [
-        {
-          "name": "DJ Muggs",
-          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
-        },
-        {
-          "name": "Meyhem Lauren",
-          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Szechuan Capital - Dusted",
-      "url": "https://open.spotify.com/track/3d1de8PnOJYTwMOWanQKoY"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
       },
@@ -619,22 +583,18 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "Glib Tongued",
-        "url": "https://open.spotify.com/album/2GPo3dNO4wZeBRC0DnjdG9"
+        "name": "The Sickness (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CDtzSrJDuQe0rPQGPpxx5"
       },
       "artists": [
         {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 223908,
-      "name": "Glib Tongued",
-      "url": "https://open.spotify.com/track/1PPbLuCWH1ji5iomP73VmT"
+      "duration_ms": 315225,
+      "name": "Stupify - Live at the London Astoria, London, UK, 2/25/01",
+      "url": "https://open.spotify.com/track/4sfdQ1Fa4U5TdoYlmkKc7k"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -651,54 +611,6 @@
       "duration_ms": 233502,
       "name": "IT'S OUT THERE",
       "url": "https://open.spotify.com/track/3nR4FMpzmCQk6fjTmgWBrv"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-        "url": "https://open.spotify.com/album/5yI5jBtWF01weyuXH22Rfm"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 395986,
-      "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-      "url": "https://open.spotify.com/track/4dLVUG0RvDi1DmwWr48UcP"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "LOBBY",
-        "url": "https://open.spotify.com/album/78fUKHidecZPV1xvxKpobm"
-      },
-      "artists": [
-        {
-          "name": "Vicky R",
-          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 181117,
-      "name": "KME (Solaar Outro)",
-      "url": "https://open.spotify.com/track/33Qk0mh8daf29cKE1Cqw9k"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,960 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,964 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can't Wait](https://open.spotify.com/track/647q0KZHceDZTyLExHU0ue) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [I Can't Wait: Collected](https://open.spotify.com/album/3V2uj3rLi0Y6McyB4Tw84n) | 3:38 |
 | 2 | [Bad Times \(I Can’t Stand It\)](https://open.spotify.com/track/0QBsvWt6ETINvdIOXk8r8y) | [Captain Rapp](https://open.spotify.com/artist/2vFDldd30bospeUYKowjrA) | [Magic Disc Records\- West Coast Rap\-thology](https://open.spotify.com/album/4Sc3xG1esf2GPawfbacqTX) | 5:35 |
 | 3 | [Planet Rock](https://open.spotify.com/track/6hUUmluBMJ3JjKfDapUQPJ) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [Afrika Bambaataa & The Soulsonic Force](https://open.spotify.com/artist/4J8cVSLFJ4T4ReYLtehLj0) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/7c8s7VnzBUNEAxhJh439M0) | 6:22 |
-| 4 | [The Voice of Q \- 12" Mix](https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH) | [Q](https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD) | [The Voice of Q](https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF) | 5:16 |
+| 4 | [The Voice of Q \(12" Mix\)](https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH) | [Q](https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD) | [The Voice of Q](https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF) | 5:16 |
 | 5 | [Freak\-a\-Zoid](https://open.spotify.com/track/42UpH9fz5utv8tkvOgh5Qb) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [No Parking on the Dance Floor](https://open.spotify.com/album/67v1yz3SGvFEnQeTO8H6jP) | 8:05 |
 | 6 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/275f5JOFJpYYc6hVaBkwJy) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5ruz2QpBWht3pGLRLMAiAK) | 6:55 |
 | 7 | [Return of Captain Rock](https://open.spotify.com/track/36ULNVlkao4F26DVoE8q6d) | [Captain Rock](https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz) | [To the Future Shock](https://open.spotify.com/album/7vkbELdpFsZRlPmpzSQkxb) | 3:56 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 10449,
+  "num_followers": 10454,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Jimmy Cozier",
+        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
+      },
+      "artists": [
+        {
+          "name": "J. Cozier",
+          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "She's All I Got - Radio Edit",
+      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Mama Stay",
         "url": "https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 190746,
       "name": "Ravers Gas",
       "url": "https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Jimmy Cozier",
-        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
-      },
-      "artists": [
-        {
-          "name": "J. Cozier",
-          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "She's All I Got - Radio Edit",
-      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
     },
     {
       "added_at": "2022-10-01 16:43:03",

@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Dabin
 
-746 songs - 1 day 20 hr 39 min
+747 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [CRACKS](https://open.spotify.com/track/7o4hWcXufdfWcWCbh5O8kf) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Slowpalace](https://open.spotify.com/artist/5OykEYbsyupQcKIoTH5Szu) | [CRACKS](https://open.spotify.com/album/1xl2Nj9aHqjB6J3AYvutqC) | 3:10 | 2022-07-08 | 2022-07-29 |
 | [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-10 |  |
 | [Crazy \(feat\. Casey Cook\)](https://open.spotify.com/track/61ilfNBj7SUVn3YYQlWy04) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crazy \(feat\. Casey Cook\)](https://open.spotify.com/album/65oyOZzt4GYuAPNz7ckr27) | 3:32 | 2022-07-08 | 2024-07-27 |
-| [Crowded Room](https://open.spotify.com/track/5E9MkOulHaMk4Uxerg0eho) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crowded Room](https://open.spotify.com/album/3w7sgD73mYLQ8xJkb16aQc) | 3:12 | 2024-11-15 |  |
+| [Crowded Room](https://open.spotify.com/track/5E9MkOulHaMk4Uxerg0eho) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crowded Room](https://open.spotify.com/album/3w7sgD73mYLQ8xJkb16aQc) | 3:12 | 2024-11-15 | 2025-03-30 |
 | [Cruel Summer](https://open.spotify.com/track/1GGifxPLmNb1iA8QUnvEdx) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Cruel Summer](https://open.spotify.com/album/3dZmNlTCCP3FS1WmrhNoM1) | 3:08 | 2022-07-08 | 2023-06-03 |
 | [Cycles](https://open.spotify.com/track/5wD1R8jJ3OkmO77LzKFYFV) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Cycles](https://open.spotify.com/album/0vwGdvJ3deQNv696OiPlro) | 3:58 | 2025-02-14 |  |
 | [Damaged](https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Damaged](https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu) | 3:15 | 2022-08-05 | 2024-04-26 |
@@ -740,6 +740,7 @@
 | [Without You](https://open.spotify.com/track/6lx0nNHGV82zak7aO2JNWz) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Without You](https://open.spotify.com/album/28NpcJHOCvuYdr0c0DDmwF) | 4:22 | 2023-09-15 | 2023-11-11 |
 | [WONDER](https://open.spotify.com/track/3GMQ9rDVclsd1ZbwT3qPta) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [7KY](https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj) | [WONDER](https://open.spotify.com/album/5Zc3rYRTlGvzTUaN9AYSgl) | 2:44 | 2024-12-20 |  |
 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 | 2024-08-23 |  |
+| [Worlds Apart](https://open.spotify.com/track/4tUX1aYiThsz8JBrq7Tfj5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Worlds Apart](https://open.spotify.com/album/5NlYWL5uGUoCnoEwTIqSsa) | 2:46 | 2025-03-29 |  |
 | [Worlds Away](https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away](https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr) | 4:10 | 2023-06-16 | 2024-02-17 |
 | [Worlds Away \- yetep Remix](https://open.spotify.com/track/2FIMqlUhjUpMmuyBIccbwK) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away \(yetep Remix\)](https://open.spotify.com/album/6HIILItHPNh4q46jHSXuFy) | 4:51 | 2024-02-16 |  |
 | [Worst Night of My Life](https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Worst Night of My Life](https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY) | 2:55 | 2024-05-24 | 2024-08-17 |

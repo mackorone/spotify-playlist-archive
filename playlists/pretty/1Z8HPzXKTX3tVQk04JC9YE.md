@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain]
 
 > All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 28,492 likes - 52 songs - 3 hr 17 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 28,493 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain]
 | 9 | [Rise Up](https://open.spotify.com/track/1zPl3KAqFcIOTC9b2hsS3f) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Step Up: Season 3, Episode 9 \(Original Soundtrack\)](https://open.spotify.com/album/51i1NJjB1kpCJNBSLaJJqk) | 2:43 |
 | 10 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
 | 11 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 |
-| 12 | [Get It On the Floor](https://open.spotify.com/track/1Y1FXNeJNZkVqJsQtq1EYQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [J\. Alphonse Nicholson](https://open.spotify.com/artist/4WYdeixVXkeGuChnvte5Wr) | [P\-Valley: Season 2 \(Music From the Original TV Series\)](https://open.spotify.com/album/2PVnbVP86NZZyTTTV1vRx5) | 3:15 |
+| 12 | [Get It On the Floor](https://open.spotify.com/track/1Y1FXNeJNZkVqJsQtq1EYQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [J\. Alphonse Nicholson](https://open.spotify.com/artist/4WYdeixVXkeGuChnvte5Wr), [Lil' Murda](https://open.spotify.com/artist/5noXSgjnUCgLlzpNzj6zEv) | [P\-Valley: Season 2 \(Music From the Original TV Series\)](https://open.spotify.com/album/2PVnbVP86NZZyTTTV1vRx5) | 3:15 |
 | 13 | [MAGIC](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 |
 | 14 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 15 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |

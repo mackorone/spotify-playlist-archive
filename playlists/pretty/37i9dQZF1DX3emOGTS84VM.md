@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,521 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,539 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 10 | [Crossfaded](https://open.spotify.com/track/6IZ9zRj9hKmQQGaYkRxioA) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [Crossfaded](https://open.spotify.com/album/3oTgCAHMTZs9Nu298dAj8S) | 2:08 |
 | 11 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 |
 | 12 | [Judgement?](https://open.spotify.com/track/5MGVaOgYQ3UclF6l7ctMFA) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Judgement?](https://open.spotify.com/album/34XrJ4YbZvHTztBI4ToCDY) | 4:56 |
-| 13 | [be with ya](https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [10 Songs](https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8) | 2:58 |
+| 13 | [be with ya](https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [10 songs](https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8) | 2:58 |
 | 14 | [Telling Lies](https://open.spotify.com/track/5e5seaBA0OLozCR6uIPE6k) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Dime](https://open.spotify.com/album/4hiWEiCxjUd45HzkwKc7Au) | 2:11 |
 | 15 | [In My Zone](https://open.spotify.com/track/4mx7RPSj1nadicmRAFsg41) | [Malcolm Payton](https://open.spotify.com/artist/1LkXc42OTsZI07ZXWBWssA), [Andrea Onoffmusic](https://open.spotify.com/artist/5n3isu7ReEmwhDuP8S8V9F) | [In My Zone](https://open.spotify.com/album/0FZ4wuzCkrf2HEWDfKe2w0) | 3:52 |
 | 16 | [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Simon Superti, ORKID, Hov1 och Yung Lean med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,454 likes - 109 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,471 likes - 109 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

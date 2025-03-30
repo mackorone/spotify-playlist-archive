@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Ariana Grande, Dua Lipa, Linkin Park, 羊文学, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,179 likes - 93 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,205 likes - 93 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 21 | [Whiplash \(Steve Aoki Remix\)](https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Whiplash \(English Version\)](https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er) | 3:45 |
 | 22 | [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 |
 | 23 | [Dance In The Sunlight \(feat\. Bandit\)](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight \(feat\. Bandit\)](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 |
-| 24 | [THE FINEST \(feat\. VERBAL\)](https://open.spotify.com/track/2Uj3jqkIGIO29OiVH2JnHw) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD), [VERBAL](https://open.spotify.com/artist/6eyG54lvijivzcKqSjZTtB) | [AH!!](https://open.spotify.com/album/2dBqEez0bSEidETriDwcEu) | 3:45 |
+| 24 | [THE FINEST \(feat\. VERBAL\)](https://open.spotify.com/track/2Uj3jqkIGIO29OiVH2JnHw) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD), [VERBAL](https://open.spotify.com/artist/15AoeHPWryzqVsycKzmsWA) | [AH!!](https://open.spotify.com/album/2dBqEez0bSEidETriDwcEu) | 3:45 |
 | 25 | [新世界](https://open.spotify.com/track/3j2vlKP49dQ154CTs4HQSk) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [新世界](https://open.spotify.com/album/4JnfYerV09P9lrRzqc3rr7) | 5:14 |
 | 26 | [Snipe the Heart](https://open.spotify.com/track/3AkkSI6l7UWyiGxhxkiAjB) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Snipe the Heart](https://open.spotify.com/album/3YmUPSA8MQTgAlR7g5HIAe) | 3:17 |
 | 27 | [STUNNER](https://open.spotify.com/track/63j1HWrXmSk1zK7IZYQepo) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [STUNNER \- The 2nd Mini Album](https://open.spotify.com/album/0Q0FQVj4Npz4MmQuNaHh8u) | 3:34 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 29 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
 | 30 | [Hide It Away](https://open.spotify.com/track/2XLG8FRWlCChHrbfs9YvQN) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [More](https://open.spotify.com/album/1h6FJ7fi2IBcYhmeno64Zl) | 2:49 |
 | 31 | [明日も \- IKUSHAMO Ver.](https://open.spotify.com/track/6XuuJ0tzIpvUUyhbDV2RB3) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [明日も \(IKUSHAMO Ver.\)](https://open.spotify.com/album/7v022P29t0n503BJjtMMNc) | 3:06 |
-| 32 | [KOE](https://open.spotify.com/track/6AoZJrUqfPDFViQMx5jKCT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [KOE](https://open.spotify.com/album/7IQmZvP8Jkeq2rCcNSKDMz) | 3:44 |
+| 32 | [KOE feat\. Kj](https://open.spotify.com/track/6AoZJrUqfPDFViQMx5jKCT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [KOE feat\. Kj](https://open.spotify.com/album/7IQmZvP8Jkeq2rCcNSKDMz) | 3:44 |
 | 33 | [Satan's Son \(feat\. Matt Sweeney\)](https://open.spotify.com/track/4ZHoYLvtz08ZYPUPGBpKcN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Matt Sweeney](https://open.spotify.com/artist/6IpGCPfdHtfNZwSGihxXSj) | [Satan's Son \(feat\. Matt Sweeney\)](https://open.spotify.com/album/3xRnDGWgMNDl1joOrRb6Hw) | 2:33 |
 | 34 | [DOA \(From “Death of a Unicorn”\)](https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [DOA \(From “Death of a Unicorn”\)](https://open.spotify.com/album/6U4CPSK3q8QTYpuy8LCOGG) | 3:31 |
 | 35 | [JUST IN CASE](https://open.spotify.com/track/7wmHvJtAfc9zfbXoU6HEQD) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [JUST IN CASE](https://open.spotify.com/album/0WIxaplySiWdE7y6Jw8mTG) | 3:37 |

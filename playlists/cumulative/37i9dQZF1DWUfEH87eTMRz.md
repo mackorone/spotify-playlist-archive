@@ -4,7 +4,7 @@
 
 > Parque Simón Bolívar, Marzo 27, 28, 29 y 30\. Foto: Olivia Rodrigo
 
-324 songs - 19 hr 26 min
+325 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2023-03-01 | 2024-02-22 |
 | [bad idea right?](https://open.spotify.com/track/27Cne97mFE21Ob0ScMewrV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 3:04 | 2025-03-28 |  |
 | [Bad Kingdom](https://open.spotify.com/track/52sUt1HsFxScRUbOxnBQRP) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/3WFNF1Hp0UBPswcawDHpUS) | 4:22 | 2023-03-01 | 2024-02-22 |
-| [Bailen y Gocen](https://open.spotify.com/track/0dXHDOSVpQxJpq4HwifIUp) | [De Mar Y Rio](https://open.spotify.com/artist/4xhp8pU8tOOhJRXiJ9dVAy) | [Bailen y Gocen](https://open.spotify.com/album/2Wm9IQ1hJbfJj8sSlsXZeg) | 3:52 | 2025-03-28 |  |
+| [Bailen y Gocen](https://open.spotify.com/track/0dXHDOSVpQxJpq4HwifIUp) | [De Mar Y Rio](https://open.spotify.com/artist/4xhp8pU8tOOhJRXiJ9dVAy) | [Bailen y Gocen](https://open.spotify.com/album/2Wm9IQ1hJbfJj8sSlsXZeg) | 3:52 | 2025-03-28 | 2025-03-30 |
 | [Balada Borracha](https://open.spotify.com/track/4KGeMBmkTsyYf3v62nahBF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/6LWrBdwjqNUe7lIFW8paQ6) | 4:03 | 2023-03-01 | 2024-02-22 |
 | [BALD!](https://open.spotify.com/track/3djWekEDgbhAtkXGdFNbFt) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EP!](https://open.spotify.com/album/1uULaqGNfDrWb8pxKcxB9i) | 2:33 | 2025-03-28 |  |
 | [Basta Ya](https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:56 | 2025-03-28 |  |
@@ -325,6 +325,7 @@
 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 | 2025-03-28 |  |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2025-03-28 |  |
 | [Who](https://open.spotify.com/track/0SLrmN7eDfGrGQKKji1nKF) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Who Else](https://open.spotify.com/album/3h0xqeLqrs2FLSXTYlkv5p) | 4:41 | 2025-03-28 |  |
+| [Wizard of Love \- Radio Edit](https://open.spotify.com/track/30q3JG3LlFpk8XypDDq6DR) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Shawni](https://open.spotify.com/artist/2FXKV7ijhHUQho7OQLn37f) | [Wizard of Love \(Radio Edit\)](https://open.spotify.com/album/0BuTze2Elc7UPrjHavQ6gb) | 3:56 | 2025-03-28 |  |
 | [Working For It](https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 3:51 | 2024-02-21 | 2025-03-29 |
 | [Ya no kiero </3](https://open.spotify.com/track/06gDkePPzDMXRoXKVX0sLh) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 3:06 | 2025-03-28 |  |
 | [Ya Yo Cambié](https://open.spotify.com/track/1Q4cGQwR08L2HpR4XMzjt6) | [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf), [Felipe Orjuela](https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs) | [LA DOSIS MÁXIMA](https://open.spotify.com/album/5zcnLy7PS3l1uJ4tgYtTU3) | 4:20 | 2025-03-28 |  |

@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-447 songs - 1 day 2 hr 23 min
+448 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 | 2022-03-25 | 2025-02-22 |
 | [Carnaval](https://open.spotify.com/track/5DiZmQVIqQhGaaIJmT0nIO) | [Valentin](https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9) | [Carnaval](https://open.spotify.com/album/5CUm5GDPwrqjHzHDAIzB05) | 3:31 | 2022-03-25 | 2022-04-21 |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-07-04 | 2025-02-22 |
+| [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-28 |  |
 | [Carta](https://open.spotify.com/track/3tw33NtteupbtbQzDLFM4h) | [Os Navegantes](https://open.spotify.com/artist/6PjMQv9sY8rBzN46X5sj16) | [Carta](https://open.spotify.com/album/78kNsTDbRexIgXxqqZ4IIa) | 3:53 | 2022-03-25 | 2022-04-21 |
 | [Casca do Ovo](https://open.spotify.com/track/21UV3qUvsDenzdvTbXg4Nc) | [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Tomaz Lenz](https://open.spotify.com/artist/417JpHs58jEikADklRHgVX), [Cavalo 55](https://open.spotify.com/artist/4tWsAyT9EpNzQWly3Zp5M1) | [Casca do Ovo](https://open.spotify.com/album/2xuHLEn0Y8AqLdZWeqIjQ2) | 4:44 | 2021-12-24 | 2022-07-29 |
 | [Casimir Pulaski Day](https://open.spotify.com/track/1u1YU1LE0FWHFOHpR2iXua) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 5:53 | 2022-03-25 | 2022-04-09 |
@@ -451,7 +452,7 @@
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2021-12-24 |  |
 | [You Ain't Gonna Lose Me](https://open.spotify.com/track/0mwZ8SovvNhoTcJHPZ0aWX) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Mallu Magalhães](https://open.spotify.com/album/1R6xtuomthQlX5TDLvzQcm) | 3:00 | 2022-03-25 | 2022-04-21 |
 | [Zo](https://open.spotify.com/track/79vygpoQcNQCp0NjZ4IPzl) | [Ivo Vargas](https://open.spotify.com/artist/44RkIqWXdkc9K60ZGDggae) | [Zo](https://open.spotify.com/album/5IKnhxYwFlH39AbVyZjQSc) | 3:47 | 2021-12-24 | 2022-07-23 |
-| [Águas do Teu Mar](https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU) | [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Águas do Teu Mar](https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB) | 2:28 | 2021-12-24 |  |
+| [Águas do Teu Mar](https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU) | [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Águas do Teu Mar](https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB) | 2:28 | 2021-12-24 | 2025-03-30 |
 | [Éramos Nós](https://open.spotify.com/track/73YSZS3cTpaa3PwD01vmdA) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj) | [Éramos Nós](https://open.spotify.com/album/23w9TRvLeK6E2QUQt7KjZH) | 3:37 | 2021-12-24 | 2022-07-24 |
 | [Ímpar](https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:30 | 2021-12-24 |  |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-03-25 | 2025-02-22 |

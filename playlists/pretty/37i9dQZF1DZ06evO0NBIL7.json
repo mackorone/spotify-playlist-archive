@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+HyAAAAAABWoVf/CaRm2oxxLPLDcWzm",
+  "snapshot_id": "Z+XmgAAAAADcT7xH5ipuHQmiWt3/qUeh",
   "tracks": [
     {
       "added_at": null,
@@ -212,70 +212,6 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 212800,
-      "name": "Viva Violent",
-      "url": "https://open.spotify.com/track/6q4clEp8vrma0ywWTys1u4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Better To Forget",
-      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "High",
-      "url": "https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 187945,
-      "name": "Inside Joke",
-      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulture Culture",
-        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
       "duration_ms": 198306,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
@@ -308,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 241520,
-      "name": "Sweater Forever",
-      "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
+      "duration_ms": 203786,
+      "name": "High",
+      "url": "https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe"
     },
     {
       "added_at": null,
@@ -340,6 +276,70 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
+      "duration_ms": 212800,
+      "name": "Viva Violent",
+      "url": "https://open.spotify.com/track/6q4clEp8vrma0ywWTys1u4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "Sweater Forever",
+      "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 187945,
+      "name": "Inside Joke",
+      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vulture Culture",
+        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
       "duration_ms": 191373,
       "name": "Kingdumb",
       "url": "https://open.spotify.com/track/7IbR89c0eXe2INNW2brzqK"
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
+      "duration_ms": 232680,
+      "name": "Better To Forget",
+      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU"
+      "duration_ms": 200813,
+      "name": "Heart Is A Landmine",
+      "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 200813,
-      "name": "Heart Is A Landmine",
-      "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
+      "duration_ms": 165613,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 207906,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/5epGSSIQKPc81a1y8n7I9U"
+      "duration_ms": 208693,
+      "name": "Animal Skin",
+      "url": "https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3"
     }
   ],
   "unique_name": "This Is Fangclub",

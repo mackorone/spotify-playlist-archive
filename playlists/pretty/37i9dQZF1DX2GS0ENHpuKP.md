@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,650 likes - 54 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,688 likes - 54 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 12 | [Badala Zamana](https://open.spotify.com/track/0C2eSToZdCu2bNSh1UXP5R) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 3:10 |
 | 13 | [Fotonovela](https://open.spotify.com/track/53sf1Z9U5W34m4PlhHlmyT) | [Ivan](https://open.spotify.com/artist/4geJci3XRoeMknHvknu2gL) | [Lo Mejor De Los Ochenta](https://open.spotify.com/album/1uYi1bqEbverdinug6DMVO) | 4:41 |
 | 14 | [Now That We Found Love \- 12" Version](https://open.spotify.com/track/3DakouX0AK62dbYE4FhEt2) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [Reggae Ambassadors: 20th Anniversary Collection](https://open.spotify.com/album/3vlkQm8RweDiMawQPfFnkA) | 8:15 |
-| 15 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/17I5HiscSrsUwXAYyXF5K1) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Ain't Nobody](https://open.spotify.com/album/2xDAafZy4pUEuyuSawKTku) | 7:18 |
+| 15 | [Ain't Nobody \(12" Mix\)](https://open.spotify.com/track/17I5HiscSrsUwXAYyXF5K1) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Ain't Nobody](https://open.spotify.com/album/2xDAafZy4pUEuyuSawKTku) | 7:18 |
 | 16 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 |
 | 17 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
 | 18 | [Hai capito o no? \- Live](https://open.spotify.com/track/1xBMyLQh9cxjwRdwUqdLxC) | [Ron](https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6) | [Tutti cuori viaggianti](https://open.spotify.com/album/0U1L7YV4j7Jd3VDqoDBCmM) | 3:40 |

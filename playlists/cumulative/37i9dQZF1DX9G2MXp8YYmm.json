@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 127333,
       "name": "2017",
       "url": "https://open.spotify.com/track/4QccVW3CYYLzvTY0yCwcrZ"
@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Can \u0130zi",
+        "url": "https://open.spotify.com/album/6756MQg4QXyZGCFCBa98JQ"
+      },
+      "artists": [
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163616,
+      "name": "Can \u0130zi",
+      "url": "https://open.spotify.com/track/026lcxlgR9NvkT0A4bMerG"
+    },
+    {
+      "album": {
         "name": "Can\u0131n Beni \u00c7ekti",
         "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
       },
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 203417,
       "name": "Daha Nas\u0131l Sevebilirim",
       "url": "https://open.spotify.com/track/0Wvad2SQsggWOPq6WdCoyI"
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 164817,
       "name": "KOCA ADAM",
       "url": "https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq"
@@ -3443,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "Sevmek Yordu",
+        "url": "https://open.spotify.com/album/3XSiXe8FbfZ4UVXazgmrCP"
+      },
+      "artists": [
+        {
+          "name": "Kendimden Hallice",
+          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+        },
+        {
+          "name": "Kayra Kayan",
+          "url": "https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158966,
+      "name": "Sevmek Yordu",
+      "url": "https://open.spotify.com/track/3m9g9R4KE3LzBBKipOLet8"
+    },
+    {
+      "album": {
         "name": "sga",
         "url": "https://open.spotify.com/album/4uLmsJzWa3hzkWJCZN6rMY"
       },
@@ -3454,7 +3494,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 143693,
       "name": "sga",
       "url": "https://open.spotify.com/track/3wxylsVa0oe4zNmWiD5xFt"

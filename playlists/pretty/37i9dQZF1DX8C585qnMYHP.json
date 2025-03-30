@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 185920,
+  "num_followers": 185955,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "Baqui",
+        "url": "https://open.spotify.com/album/2XwExprMzbNz9z0cuNjpTz"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Baqui",
+      "url": "https://open.spotify.com/track/283ejY2T9pXfjSq7oVOBze"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
       },
@@ -223,22 +239,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 408678,
-      "name": "Verona Walls",
-      "url": "https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Spaces In Between",
         "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
       },
@@ -255,18 +255,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Baqui",
-        "url": "https://open.spotify.com/album/2XwExprMzbNz9z0cuNjpTz"
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
       "artists": [
         {
-          "name": "Oxis",
-          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
         }
       ],
-      "duration_ms": 132413,
-      "name": "Baqui",
-      "url": "https://open.spotify.com/track/283ejY2T9pXfjSq7oVOBze"
+      "duration_ms": 408678,
+      "name": "Verona Walls",
+      "url": "https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -511,6 +511,26 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "OH WAH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/5P7A3lqcPyjge2jR5p376p"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 205485,
+      "name": "OH WAH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2NB392VTggsHTnhRpfNl9r"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "OH WAH (feat. NATURE)",
-        "url": "https://open.spotify.com/album/5P7A3lqcPyjge2jR5p376p"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 205485,
-      "name": "OH WAH (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2NB392VTggsHTnhRpfNl9r"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "nothing or something to die for",
-        "url": "https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7"
+        "name": "Hounds",
+        "url": "https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m"
       },
       "artists": [
         {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
         }
       ],
-      "duration_ms": 141960,
-      "name": "the mould",
-      "url": "https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11"
+      "duration_ms": 301445,
+      "name": "Hounds",
+      "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "nothing or something to die for",
+        "url": "https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "the mould",
+      "url": "https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
       },
@@ -763,18 +779,34 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Hounds",
-        "url": "https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m"
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
       "artists": [
         {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 301445,
-      "name": "Hounds",
-      "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "O Bicho Anda Por A\u00ed",
+        "url": "https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 152218,
+      "name": "O Bicho Anda Por A\u00ed",
+      "url": "https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -799,22 +831,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Lust 1",
         "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 214613,
       "name": "Barbara",
       "url": "https://open.spotify.com/track/2t8sijt2I0w7LLQ3lIPCSb"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "O Bicho Anda Por A\u00ed",
-        "url": "https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 152218,
-      "name": "O Bicho Anda Por A\u00ed",
-      "url": "https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -931,38 +931,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
-      },
-      "artists": [
-        {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
-        }
-      ],
-      "duration_ms": 203955,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6SfxRLlE2hfTxJjG4Y5vrq"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        }
-      ],
-      "duration_ms": 320409,
-      "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Whispering Ln",
         "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        }
+      ],
+      "duration_ms": 203955,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6SfxRLlE2hfTxJjG4Y5vrq"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "forevermore",
-        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "roots",
-      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Are You There God? It\u2019s Me, @",
         "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Parallels II",
-        "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
+        "name": "forevermore",
+        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
       },
       "artists": [
         {
-          "name": "Minor Conflict",
-          "url": "https://open.spotify.com/artist/2DJpF2PxGMPYry3ffKmTys"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 394523,
-      "name": "Parallels II",
-      "url": "https://open.spotify.com/track/31k85bFbmHYTe2rWGm7K92"
+      "duration_ms": 159428,
+      "name": "roots",
+      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1215,6 +1199,22 @@
       "duration_ms": 226421,
       "name": "Hankyu Denshya",
       "url": "https://open.spotify.com/track/23dVWxBH8kGbkRCuAJPxwj"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Parallels II",
+        "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
+      },
+      "artists": [
+        {
+          "name": "Minor Conflict",
+          "url": "https://open.spotify.com/artist/2DJpF2PxGMPYry3ffKmTys"
+        }
+      ],
+      "duration_ms": 394523,
+      "name": "Parallels II",
+      "url": "https://open.spotify.com/track/31k85bFbmHYTe2rWGm7K92"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Epic Wonder",
-        "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
-      },
-      "artists": [
-        {
-          "name": "toechter",
-          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Me she said",
-      "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "The 39 Steps",
         "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
       },
@@ -1299,22 +1283,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Feels Like Love (Visceral)",
-        "url": "https://open.spotify.com/album/571jYs4OBy03hDwhVnHcmN"
+        "name": "Epic Wonder",
+        "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
       },
       "artists": [
         {
-          "name": "Ghost Buttons",
-          "url": "https://open.spotify.com/artist/1xGkKuEwvLlaL7Tc0iphRY"
-        },
-        {
-          "name": "Dee R\u00fcsche",
-          "url": "https://open.spotify.com/artist/3NtFFDJqHCWvLFSC08oIlM"
+          "name": "toechter",
+          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
         }
       ],
-      "duration_ms": 311959,
-      "name": "Feels Like Love (Visceral)",
-      "url": "https://open.spotify.com/track/41B2Q0q5QAMreQolu2wHyd"
+      "duration_ms": 176170,
+      "name": "Me she said",
+      "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1335,18 +1315,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Pordeno Me",
-        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
+        "name": "Feels Like Love (Visceral)",
+        "url": "https://open.spotify.com/album/571jYs4OBy03hDwhVnHcmN"
       },
       "artists": [
         {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+          "name": "Ghost Buttons",
+          "url": "https://open.spotify.com/artist/1xGkKuEwvLlaL7Tc0iphRY"
+        },
+        {
+          "name": "Dee R\u00fcsche",
+          "url": "https://open.spotify.com/artist/3NtFFDJqHCWvLFSC08oIlM"
         }
       ],
-      "duration_ms": 149457,
-      "name": "Pordeno Me",
-      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
+      "duration_ms": 311959,
+      "name": "Feels Like Love (Visceral)",
+      "url": "https://open.spotify.com/track/41B2Q0q5QAMreQolu2wHyd"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1379,6 +1363,22 @@
       "duration_ms": 312770,
       "name": "LA",
       "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Pordeno Me",
+        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 149457,
+      "name": "Pordeno Me",
+      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "FLOATING / 005 MAGIK",
+        "url": "https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa"
+      },
+      "artists": [
+        {
+          "name": "ONYX GARDEN",
+          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "005 MAGIK",
+      "url": "https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "IN:titolo",
         "url": "https://open.spotify.com/album/1IfDRUJl02s8omCCPnhg0Y"
       },
@@ -1575,6 +1591,22 @@
       "duration_ms": 319389,
       "name": "Sailor (for fin)",
       "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Air in the Dark",
+        "url": "https://open.spotify.com/album/7mm77HNHmOZ0WGqIfWnctD"
+      },
+      "artists": [
+        {
+          "name": "Kilig",
+          "url": "https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Air in the Dark",
+      "url": "https://open.spotify.com/track/6C2RgC32elJb8ktvWvUEIZ"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1607,38 +1639,6 @@
       "duration_ms": 708927,
       "name": "2033",
       "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "Air in the Dark",
-        "url": "https://open.spotify.com/album/7mm77HNHmOZ0WGqIfWnctD"
-      },
-      "artists": [
-        {
-          "name": "Kilig",
-          "url": "https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Air in the Dark",
-      "url": "https://open.spotify.com/track/6C2RgC32elJb8ktvWvUEIZ"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "FLOATING / 005 MAGIK",
-        "url": "https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa"
-      },
-      "artists": [
-        {
-          "name": "ONYX GARDEN",
-          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "005 MAGIK",
-      "url": "https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm"
     },
     {
       "added_at": "2025-03-28 08:51:09",

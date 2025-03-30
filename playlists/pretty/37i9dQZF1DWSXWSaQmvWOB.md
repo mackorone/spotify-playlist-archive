@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,101 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,127 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 20 | [Not A Fool \(feat\. Lord Apex\)](https://open.spotify.com/track/1UqkHjLcnBotgV7yVIIssE) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Not A Fool \(feat\. Lord Apex\)](https://open.spotify.com/album/2pUITKn6U1RHQQnaACB2c0) | 3:55 |
 | 21 | [Deep Dive \(feat\. Candy Dulfer\)](https://open.spotify.com/track/1vUIfW9ZucBz0DZAMW5Suj) | [ROSEYE](https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Deep Dive \(feat\. Candy Dulfer\)](https://open.spotify.com/album/6f5TCopsrO24t7Asl2lO4C) | 3:03 |
 | 22 | [Well Damn!](https://open.spotify.com/track/3AASXOsIkhILecUTonWp5r) | [Judah](https://open.spotify.com/artist/1neV899hNmascCvWio0LWj) | [Well Damn!](https://open.spotify.com/album/0OKuWl7hPWYStMugDMiZhJ) | 2:40 |
-| 23 | [Love You Too](https://open.spotify.com/track/6EjPDxrSXu2RcNctj6n0r1) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Love You Too](https://open.spotify.com/album/7xyoMrhpNYrXnxc1YaTn8g) | 3:01 |
+| 23 | [LOVE YOU TOO](https://open.spotify.com/track/6EjPDxrSXu2RcNctj6n0r1) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [LOVE YOU TOO](https://open.spotify.com/album/7xyoMrhpNYrXnxc1YaTn8g) | 3:01 |
 | 24 | [Trustfall](https://open.spotify.com/track/3bsa5c5Xs8ySQOJxFluQv6) | [Valvetronic](https://open.spotify.com/artist/0XbLVjYVNnVmy5mwjfI5i1), [Louisa Aida](https://open.spotify.com/artist/2rtdzXthBv4yibhTCSRYYn) | [Trustfall](https://open.spotify.com/album/0aLthXm5wv4zrXv9G1YzYD) | 3:44 |
 | 25 | [Lucky \(Song 7\)](https://open.spotify.com/track/2mLnBJjlMOcDWQcuMYqkOR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Lucky \(Song 7\)](https://open.spotify.com/album/6vtYTmK07RguZCw1MEXCQa) | 3:51 |
 | 26 | [This body](https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Do you feel the same?](https://open.spotify.com/album/5yWWc7zmTtLFxB9aqFWA0N) | 4:20 |

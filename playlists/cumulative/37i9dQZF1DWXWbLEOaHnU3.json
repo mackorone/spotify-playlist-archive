@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 356521,
       "name": "Anahata Trip",
       "url": "https://open.spotify.com/track/78s2UUkbnjLTaC6BjJPU4E"
@@ -3783,6 +3783,28 @@
     },
     {
       "album": {
+        "name": "Nova Sinfonia",
+        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
+      },
+      "artists": [
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268591,
+      "name": "Nova Sinfonia",
+      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
+    },
+    {
+      "album": {
         "name": "Novo Mundo",
         "url": "https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj"
       },
@@ -3992,7 +4014,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 245357,
       "name": "Other Days",
       "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
@@ -6010,7 +6032,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 210612,
       "name": "Tokyo Core",
       "url": "https://open.spotify.com/track/4JzmYfrpFyTOXHZsoB9rL6"

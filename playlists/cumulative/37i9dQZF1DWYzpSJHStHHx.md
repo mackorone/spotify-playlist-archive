@@ -4,7 +4,7 @@
 
 > All the sunny surf rock you need.
 
-366 songs - 20 hr 48 min
+369 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,12 +57,13 @@
 | [Cacti For Clothes](https://open.spotify.com/track/4JlIPmUjRmw9fmkEoV1Tmm) | [Pageants](https://open.spotify.com/artist/6KfGl8LhIlb8R1Uhu0yqqr) | [Cacti For Clothes](https://open.spotify.com/album/3QWUoUL1vdQQAcsnvPFwEl) | 3:02 | 2021-02-05 | 2022-05-17 |
 | [Cameos](https://open.spotify.com/track/1Buh8ZFWaCoE6Yh3LhKZ4v) | [Swimming Tapes](https://open.spotify.com/artist/1nQj0M42wlxHPw999Pms69) | [Cameos](https://open.spotify.com/album/0uuYUsM1ZHla0YHXbVINtz) | 3:11 | 2021-02-05 | 2022-04-20 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-04-13 | 2023-07-14 |
-| [Car Sales Men](https://open.spotify.com/track/0FyZzLlMr9ZU11D2NWmkBP) | [Media House](https://open.spotify.com/artist/6sMnrjbUXdunhzDoCUagoj) | [Car Sales Men](https://open.spotify.com/album/4O9BYxLmiGbjKfrrfSGjOU) | 3:59 | 2023-07-13 |  |
+| [Car Sales Men](https://open.spotify.com/track/0FyZzLlMr9ZU11D2NWmkBP) | [Media House](https://open.spotify.com/artist/6sMnrjbUXdunhzDoCUagoj) | [Car Sales Men](https://open.spotify.com/album/4O9BYxLmiGbjKfrrfSGjOU) | 3:59 | 2023-07-13 | 2025-03-30 |
 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 | 2023-07-13 |  |
 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 | 2023-08-18 |  |
 | [Catamaran](https://open.spotify.com/track/0y6Mp5Y1OxHtzxi6AwewPt) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/3XgVl7O0ddImgVBtlEPdDw) | 3:32 | 2021-02-05 | 2022-07-02 |
 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 | 2022-07-22 |  |
 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 | 2023-07-13 |  |
+| [Change The Film](https://open.spotify.com/track/6rHmQDbXRDUzVwI7t1o6pR) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [Change The Film](https://open.spotify.com/album/0OvMIMyoOE3T6S4GeOTXEF) | 2:47 | 2025-03-27 |  |
 | [Cigarettes On Patios](https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Cigarettes On Patios](https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw) | 3:27 | 2023-03-01 | 2023-07-14 |
 | [City Club](https://open.spotify.com/track/17jEoYoOfRD6dvNCMmC9n4) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/5rKFS59ntz44KWVXPIlc3N) | 3:16 | 2021-02-05 | 2022-07-21 |
 | [City Club](https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:16 | 2022-07-22 | 2023-03-02 |
@@ -175,7 +176,7 @@
 | [Jumping Jack](https://open.spotify.com/track/3mWdEEm8cwipwYgLBy4dHO) | [Red and The Flames](https://open.spotify.com/artist/4rQ0ekYCBZi2j8pjfuKE6r) | [Jumping Jack b/w Little Cinderella](https://open.spotify.com/album/6rp2OIvLI2d3IlOJ7OFc2A) | 1:56 | 2023-07-13 | 2025-02-15 |
 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 | 2023-03-01 | 2023-07-14 |
 | [Keep in Line](https://open.spotify.com/track/45FKtXcNaJVtbfCumiUHHe) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Keep in Line](https://open.spotify.com/album/0k5jwmJHT4lsTT9tatZ807) | 3:39 | 2021-02-05 | 2022-04-21 |
-| [Keep on](https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Love Sick](https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK) | 3:07 | 2023-07-13 |  |
+| [Keep on](https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Love Sick](https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK) | 3:07 | 2023-07-13 | 2025-03-30 |
 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 | 2025-02-07 |  |
 | [L.S.D](https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [L.S.D](https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W) | 3:37 | 2023-08-18 |  |
 | [Lara](https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl) | [Blanco Tranco](https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH) | [Lara](https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q) | 3:05 | 2023-07-13 | 2025-03-16 |
@@ -196,7 +197,7 @@
 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 | 2023-07-13 |  |
 | [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 | 2023-07-13 | 2025-03-28 |
 | [Marcel](https://open.spotify.com/track/7BttFWHvQk5LCj2yOTDf8E) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Marcel](https://open.spotify.com/album/0rK9HP4j66B4BxH1XRDb3E) | 3:07 | 2021-02-05 | 2022-07-29 |
-| [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 | 2023-07-13 |  |
+| [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 | 2023-07-13 | 2025-03-30 |
 | [Miserlou](https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [King of the Surf Guitar](https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A) | 2:15 | 2022-06-01 | 2022-06-17 |
 | [Miserlou](https://open.spotify.com/track/11KrkGG4k0URkEe5NNKx55) | [Dick Dale & His Del\-Tones](https://open.spotify.com/artist/7J77vP6EbI63lB3snZeRj4) | [Surfer's Choice](https://open.spotify.com/album/3WE8DHBf6fDJpZWcdTsWAx) | 2:17 | 2021-02-05 | 2022-04-20 |
 | [Miss It Still](https://open.spotify.com/track/3YLadskq6NQpeMaDR1zoVn) | [Plastic Picnic](https://open.spotify.com/artist/0oiS9wyrwFOAvNhYhP3udG) | [Miss It Still](https://open.spotify.com/album/3BhrsD4j66uuz10FXvQkUU) | 4:06 | 2021-02-05 | 2022-04-21 |
@@ -261,6 +262,7 @@
 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 | 2023-03-01 | 2023-07-14 |
 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 | 2025-03-27 |  |
 | [Right Before I Go](https://open.spotify.com/track/17mYQ5uVoqY8ykHctLUlJT) | [Baby Jesus](https://open.spotify.com/artist/47A3cu9GtV5QypYedB8lMo) | [Rock And Roll Music](https://open.spotify.com/album/7dQwYwiBPqQbPRPuJljtZk) | 2:35 | 2023-08-18 | 2025-03-06 |
+| [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 | 2025-03-27 |  |
 | [Rip Van Winkle](https://open.spotify.com/track/5zrQA1pPrlZfhy50ua01ez) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Dreams in the Rat House](https://open.spotify.com/album/42BEHqjwbFSpFZXzEauKiG) | 2:12 | 2021-02-05 | 2022-04-21 |
 | [Rocketship](https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Rocketship](https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj) | 1:56 | 2025-02-07 |  |
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-04-13 | 2023-03-02 |
@@ -304,6 +306,7 @@
 | [Sun Medallion](https://open.spotify.com/track/2avVVXPzzk3aRD63rMr5SG) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Was Dead](https://open.spotify.com/album/45Kf7LOIGIZoWAhmCi8bE7) | 2:30 | 2021-02-05 | 2022-07-29 |
 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 | 2023-07-13 |  |
 | [Sun's Out](https://open.spotify.com/track/7M9LKoGmelhGBj5jQACPd8) | [Hoops](https://open.spotify.com/artist/12qS7lypMdpvASeNnFXtmN) | [Routines](https://open.spotify.com/album/60Z1NWmapWQBmNNtyN9DbE) | 2:49 | 2021-02-05 | 2022-07-29 |
+| [Sunday Scaries](https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Sunday Scaries](https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY) | 2:52 | 2025-03-27 |  |
 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 | 2025-02-07 |  |
 | [Super Natural](https://open.spotify.com/track/6As34Fmjj7dtReKB51NOVc) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Good Nature](https://open.spotify.com/album/1KzvEewMA8NX0y3Rtx9vOz) | 4:17 | 2021-02-05 | 2022-07-28 |
 | [Super Natural](https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Good Nature](https://open.spotify.com/album/7ChpG56flymk0okdZiaIrq) | 4:17 | 2022-07-22 | 2023-01-24 |

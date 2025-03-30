@@ -1,6 +1,6 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 53971,
+  "num_followers": 53976,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 235644,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Aono \uff06 Akine (From \"Blue Orchestra\" Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x"
+        "name": "\u5dee\u3057\u8272",
+        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 157554,
-      "name": "Aono & Akine",
-      "url": "https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc"
+      "duration_ms": 183709,
+      "name": "\u5dee\u3057\u8272",
+      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "\u5dee\u3057\u8272",
-        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 183709,
-      "name": "\u5dee\u3057\u8272",
-      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
         "name": "C.P.E. Bach: The W\u00fcrttemberg Sonatas",
         "url": "https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j"
       },
@@ -1727,26 +1711,6 @@
       "duration_ms": 180880,
       "name": "W\u00fcrttemberg Sonata No. 4 in B-Flat Major, H. 32: II. Andante",
       "url": "https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
-        "name": "drip&trip",
-        "url": "https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
-          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
-        },
-        {
-          "name": "\u4e00\u670dtrack",
-          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "drip&trip",
-      "url": "https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1775,6 +1739,42 @@
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "drip&trip",
+        "url": "https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "drip&trip",
+      "url": "https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "How I Got Home",
+        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 219247,
+      "name": "How I Got Home",
+      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

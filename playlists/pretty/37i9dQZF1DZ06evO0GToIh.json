@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 280570,
+  "num_followers": 280739,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+HyAAAAAABNPnZRrsJRp9A1IwiDWlfs",
+  "snapshot_id": "Z+XmgAAAAACxH3Foxo3Um0/5seI+UB/V",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 168514,
       "name": "La Dama",
       "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Loco el Plebe",
+        "url": "https://open.spotify.com/album/7zib463YTjdtk4CqQZK6kK"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Qu\u00e9 Loco El Plebe",
+      "url": "https://open.spotify.com/track/5gLwcpNzRB5f9WKu512COs"
     },
     {
       "added_at": null,
@@ -235,30 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CCC (Remix)",
-        "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 147877,
-      "name": "CCC - Remix",
-      "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -291,6 +283,30 @@
       "duration_ms": 143123,
       "name": "Unas Heladas",
       "url": "https://open.spotify.com/track/3tBQOzfAYaIbiZm2U5BsYx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CCC (Remix)",
+        "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 147877,
+      "name": "CCC - Remix",
+      "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Prohibidos en Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 191941,
-      "name": "Vanidosa - En Vivo",
-      "url": "https://open.spotify.com/track/5bD8rppIQMN7kpQx4FY2DG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 245846,
       "name": "Mi Lugar Favorito",
       "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 191941,
+      "name": "Vanidosa - En Vivo",
+      "url": "https://open.spotify.com/track/5bD8rppIQMN7kpQx4FY2DG"
     },
     {
       "added_at": null,
@@ -639,26 +655,6 @@
       "duration_ms": 213501,
       "name": "Piensa En M\u00ed",
       "url": "https://open.spotify.com/track/36c4H8RuaazjGuG3ZwD57x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Sab\u00eda Cu\u00e1nto",
-        "url": "https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "No Sab\u00eda Cu\u00e1nto",
-      "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
     },
     {
       "added_at": null,
@@ -699,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Sab\u00eda Cu\u00e1nto",
+        "url": "https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "No Sab\u00eda Cu\u00e1nto",
+      "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Reca\u00edda en Los Excesos",
         "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Prohibidos en Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 154102,
-      "name": "El Viejo Joven - En Vivo",
-      "url": "https://open.spotify.com/track/62ZunOIq69evNr6v76njsT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 241029,
       "name": "Ni Te Conozco, Ni Me Saludes",
       "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 154102,
+      "name": "El Viejo Joven - En Vivo",
+      "url": "https://open.spotify.com/track/62ZunOIq69evNr6v76njsT"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Prohibidos en Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 132736,
-      "name": "La Playa - En Vivo",
-      "url": "https://open.spotify.com/track/2ulIzu003qLUX83g3qVXdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 127186,
       "name": "Full",
       "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 132736,
+      "name": "La Playa - En Vivo",
+      "url": "https://open.spotify.com/track/2ulIzu003qLUX83g3qVXdU"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Prohibidos en Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "C\u00f3mo Me Duele - En Vivo",
-      "url": "https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF"
       },
@@ -891,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sabes La Que Te Espera",
-        "url": "https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA"
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
       },
       "artists": [
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 161000,
-      "name": "No Sabes La Que Te Espera",
-      "url": "https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL"
+      "duration_ms": 158933,
+      "name": "C\u00f3mo Me Duele - En Vivo",
+      "url": "https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

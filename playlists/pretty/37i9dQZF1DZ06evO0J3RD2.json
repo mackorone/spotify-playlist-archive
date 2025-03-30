@@ -1,29 +1,13 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 8585,
+  "num_followers": 8593,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+HyAAAAAACrYpW3ZJR1XYINXR/sPyT9",
+  "snapshot_id": "Z+XmgAAAAACOD8Q7bx+C71NecGDNwzW8",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where I Lay",
-        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 216741,
-      "name": "Where I Lay",
-      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 208853,
       "name": "Daylily",
       "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 147788,
-      "name": "Kept",
-      "url": "https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 204786,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 147788,
+      "name": "Kept",
+      "url": "https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give (B-Sides)",
-        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 188325,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 220373,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give (B-Sides)",
+        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 188325,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 226360,
       "name": "Third Degree",
       "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "In My Blood",
-      "url": "https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 284626,
       "name": "Suffer Through",
       "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Garden Eyes",
-      "url": "https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227840,
       "name": "Deadly Dull",
       "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Garden Eyes",
+      "url": "https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 95466,
-      "name": "No Good Left To Give",
-      "url": "https://open.spotify.com/track/7lEqc7FV8GvApJWC1Zns88"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Good Left To Give (B-Sides)",
         "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 237558,
       "name": "No Silhouette",
       "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 95466,
+      "name": "No Good Left To Give",
+      "url": "https://open.spotify.com/track/7lEqc7FV8GvApJWC1Zns88"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 277146,
-      "name": "Love Took The Last Of It",
-      "url": "https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 269946,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 277146,
+      "name": "Love Took The Last Of It",
+      "url": "https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb"
     },
     {
       "added_at": null,

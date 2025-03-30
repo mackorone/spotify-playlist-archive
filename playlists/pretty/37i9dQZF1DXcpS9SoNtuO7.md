@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,904 likes - 97 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,910 likes - 97 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 6 | [Let's be ONE](https://open.spotify.com/track/1zDYHe160Z4NXdFNTZQQOx) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Let's be ONE](https://open.spotify.com/album/7s3LovT9EoD7YnaGK3lKY6) | 3:57 |
 | 7 | [DAISUKI FULL POWER](https://open.spotify.com/track/2TyMixo6q2jstl9WxvPm0d) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [DAISUKI FULL POWER](https://open.spotify.com/album/4Iapc6S2Ee4O4ntomE2Igw) | 4:07 |
 | 8 | [アイコトバ！](https://open.spotify.com/track/5x2CP6plITBIEwMKZ6he8T) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [アイコトバ！](https://open.spotify.com/album/32m8f8Sd1lqiKk3juyfmaE) | 3:47 |
-| 9 | [ゼッタイ歌姫宣言ッ!](https://open.spotify.com/track/2QWitJfoaukiVeRiP6jIuB) | [オルケリア](https://open.spotify.com/artist/1ABqoADdkAlb22ak8Beijz), [プリンセッション・オーケストラ](https://open.spotify.com/artist/6cIevobGQsZ36Rlr1ZADGu) | [ゼッタイ歌姫宣言ッ!](https://open.spotify.com/album/5rMrexpRv84h197gsoKYGz) | 4:14 |
+| 9 | [ゼッタイ歌姫宣言ッ！](https://open.spotify.com/track/2QWitJfoaukiVeRiP6jIuB) | [オルケリア](https://open.spotify.com/artist/1ABqoADdkAlb22ak8Beijz), [プリンセッション・オーケストラ](https://open.spotify.com/artist/6cIevobGQsZ36Rlr1ZADGu) | [ゼッタイ歌姫宣言ッ！](https://open.spotify.com/album/5rMrexpRv84h197gsoKYGz) | 4:14 |
 | 10 | [処救生](https://open.spotify.com/track/2hKZmf3dKhgwRvtlb5Zoch) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [跡暖空](https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU) | 3:38 |
 | 11 | [砂寸奏](https://open.spotify.com/track/0PVR3V0YJblwgm45ApPGJm) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [跡暖空](https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU) | 3:44 |
 | 12 | [歌いましょう鳴らしましょう](https://open.spotify.com/track/2ppMBBzXosczsCWvB2XBFd) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/00NGDnA59dl4yGhGBn4gnx) | 2:56 |

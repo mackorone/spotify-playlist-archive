@@ -21307,6 +21307,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/4V04Wbvw9WBlDrRCkhGVL7"
+      },
+      "artists": [
+        {
+          "name": "YetU",
+          "url": "https://open.spotify.com/artist/4UeU1HyzFmfydGOM0uU3Cj"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164948,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/66lAmN5xv5SCUaMiwa0FNd"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/6G8wtMGNrzVmQ6kKP1lIdv"
       },
@@ -24786,7 +24804,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 140751,
       "name": "Sunday Stroller",
       "url": "https://open.spotify.com/track/1SYlHEWr5qbtIHZMZnMbi5"

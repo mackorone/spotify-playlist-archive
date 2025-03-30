@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,478 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,479 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,7 +237,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 227 | [Moonlight Sunset](https://open.spotify.com/track/0piC6v6TL1TG2LlRwVDrLR) | [Placid Angles](https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX) | [056 \(The Lotus\)](https://open.spotify.com/album/5I2WVMWHewxqdowmjfi1b5) | 5:47 |
 | 228 | [Breathe \- Nalin & Kane Remix](https://open.spotify.com/track/0sGgUZQ1W26CTfncOmYFEG) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Harrycane](https://open.spotify.com/artist/6umjXXP7Q8i4he6WALLuOf), [Andry Nalin](https://open.spotify.com/artist/6nLZufA2jwtUc3r8AJpdQD) | [Mixes](https://open.spotify.com/album/3CKGDcHZJlf4FgKth6QZRr) | 10:13 |
 | 229 | [Even Closer \(feat\. DJ\_Dave\)](https://open.spotify.com/track/1sO7Y3XM50oeP42OUoQfpb) | [Tomás Tomás](https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Even Closer \(feat\. DJ\_Dave\)](https://open.spotify.com/album/1yttHZVD9bwJEyHC7FrvUG) | 1:52 |
-| 230 | [Legacy](https://open.spotify.com/track/6n1lC261DxiRwTEjSjBdCN) | [OVEOUS](https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc), [Don Kamares](https://open.spotify.com/artist/3t2OViLLWd2jfhqoK2uw56) | [Legacy](https://open.spotify.com/album/1dWpzFDhtnT3RPKz1OaDXy) | 5:35 |
+| 230 | [Legacy](https://open.spotify.com/track/6n1lC261DxiRwTEjSjBdCN) | [OVEOUS](https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc), [Don Kamares](https://open.spotify.com/artist/5HyPIZY44lqVFp02VfudUU) | [Legacy](https://open.spotify.com/album/1dWpzFDhtnT3RPKz1OaDXy) | 5:35 |
 | 231 | [Vexed](https://open.spotify.com/track/4hCfBJwDvZZwzDDAY06sZZ) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not What It Seems](https://open.spotify.com/album/0RanQIXVRxe397jBysVWlG) | 5:08 |
 | 232 | [Prototype](https://open.spotify.com/track/2ySYzeF1PRruUVXYS6PzTy) | [Headhunter](https://open.spotify.com/artist/6lM8S7ilFNv2fhplTc26yl) | [Prototype](https://open.spotify.com/album/12AJ85lcusGDe5oD5G6CCR) | 5:07 |
 | 233 | [@;ڿڰۣ—](https://open.spotify.com/track/7iAR8f06VNTv9Tkvn8IIQG) | [Brbko](https://open.spotify.com/artist/1RjSCvuRvWdXcsUMSVv5Tf) | [2pk @;ڿڰۣ—](https://open.spotify.com/album/32f1IZjwdiyyci5Ayw0wMu) | 3:07 |

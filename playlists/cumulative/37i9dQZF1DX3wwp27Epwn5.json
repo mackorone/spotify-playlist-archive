@@ -566,12 +566,24 @@
       },
       "artists": [
         {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         },
         {
           "name": "Hamsika Iyer",
           "url": "https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Niranjan Iyengar",
+          "url": "https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i"
         }
       ],
       "date_added": "2023-07-11",
@@ -1628,7 +1640,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 262866,
       "name": "Kukkad",
       "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
@@ -2258,7 +2270,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 195397,
       "name": "Odhani (From \"Made in China\")",
       "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD"

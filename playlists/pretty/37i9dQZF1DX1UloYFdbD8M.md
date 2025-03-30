@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: The Down Troddence
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,688 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,694 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 26 | [Puttu Biriyani](https://open.spotify.com/track/0HNQsBtT9LfC1PCV1W9V2y) | [Sannidanandan](https://open.spotify.com/artist/36G7EzMNhakODA2g5hLxIq), [Retheesh Narayanan](https://open.spotify.com/artist/6JdxkqU06zxt6pLC0PSeSz) | [Puttu Biriyani](https://open.spotify.com/album/3PsgvyeqCTUCeKE4FaSuMr) | 3:44 |
 | 27 | [Kuzhiyaana](https://open.spotify.com/track/2wRdUfBdx5LiDs09h4YsaL) | [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m), [Sanoop.S](https://open.spotify.com/artist/1ta9W23chi8q5VHMLLkEH1), [Jinusha Mahesh](https://open.spotify.com/artist/3hcydeAnkec05nhIsrMJle) | [Kuzhiyaana](https://open.spotify.com/album/6nBOsy1LWl0ddZzwHDVOba) | 3:49 |
 | 28 | [Nee Mazhayai](https://open.spotify.com/track/7piia8DolCCJHqcdWuRian) | [Shakir Koppam](https://open.spotify.com/artist/1WI2cWpJ8NJcpmxpDRt8aB), [Nowfila Sherin](https://open.spotify.com/artist/3BjqfcjcD2txogewsXe7x5) | [Nee Mazhayai](https://open.spotify.com/album/4Q51vYrkfKvr2lqQiJ1Ymz) | 2:54 |
-| 29 | [Dil Tu Jaan Tu \- Malayalam Version](https://open.spotify.com/track/4ft1TctTGzf8WwMTSjGzJB) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Dil Tu Jaan Tu \(Malayalam Version\)](https://open.spotify.com/album/14hbKCRfwpOoRh0EtcnMIe) | 3:25 |
+| 29 | [Dil Tu Jaan Tu \- Malayalam Version](https://open.spotify.com/track/4ft1TctTGzf8WwMTSjGzJB) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Siju Thuravoor](https://open.spotify.com/artist/6UtEvO4Sbr0uooYqdpFTDI) | [Dil Tu Jaan Tu \(Malayalam Version\)](https://open.spotify.com/album/14hbKCRfwpOoRh0EtcnMIe) | 3:25 |
 | 30 | [Bhal Lage](https://open.spotify.com/track/4PyKda0dhHiHsruUw3uug9) | [RajdeepMusic](https://open.spotify.com/artist/1w8Fqh5P94YeLgJpMZAZGj), [STANNiUM](https://open.spotify.com/artist/3xjWUU2asayhICfjknfGyf), [Hirak Jyoti Sarma](https://open.spotify.com/artist/20rNQvxTCAk1LQOTtv4pKD) | [Bhal Lage](https://open.spotify.com/album/4PFkaMSOYfqNRXSEpFBA0N) | 2:48 |
 | 31 | [Poraattam](https://open.spotify.com/track/2OKCRHRIseK0xrvu2n9t0E) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Pavithra Menon](https://open.spotify.com/artist/6vs87fqt96uUfyrrsOQeAL), [Fil$](https://open.spotify.com/artist/7f0UeNCU8nGFeU3DAUoNH1), [SRMC Choir](https://open.spotify.com/artist/0Ezeqz3lqIatAwSf4hr32r) | [Poraattam](https://open.spotify.com/album/5uXQnjIzmW0suiPjj0BiTs) | 3:37 |
 | 32 | [Arike](https://open.spotify.com/track/6bVsRIrDLbTapubqk438Qe) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d) | [Arike](https://open.spotify.com/album/03N2qhseEiA4pKaYNiOoV1) | 4:05 |

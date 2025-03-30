@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,794 songs - 3 day 21 hr 4 min
+1,795 songs - 3 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Dirt](https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dirt](https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB) | 3:38 | 2023-11-09 | 2024-02-09 |
 | [Dirty Words](https://open.spotify.com/track/3EPkZ3xV2ZmqkZ04m7GVp2) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Being the girl](https://open.spotify.com/album/5pe9tPuqHpPnThwNfVCPpf) | 3:13 | 2021-12-16 | 2022-03-11 |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2024-11-16 |
+| [Djungeltelegrafen](https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Innan kronan blir för tung](https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p) | 3:53 | 2025-03-28 |  |
 | [Djävulen på axeln](https://open.spotify.com/track/2nWG6W5lqaMGVEjRXsvJJl) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Djävulen på axeln](https://open.spotify.com/album/14kj30ODGR8DCnkp4yYn3p) | 3:40 | 2025-01-23 | 2025-01-31 |
 | [DNA](https://open.spotify.com/track/2Mf5xOPBxNKWaGuq2hQbEM) | [William Stridh](https://open.spotify.com/artist/5xDae0zB3YLr6lYvlMdpbR) | [DNA](https://open.spotify.com/album/22y2KgB85sd5ST2MkFIckw) | 3:10 | 2024-03-28 | 2024-05-03 |
 | [Do I Make Sense](https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf) | [Helly](https://open.spotify.com/artist/3QGI6lFDEJq5o2yxhEtT16) | [Side Effects](https://open.spotify.com/album/0APh33IURQVK8qhsKVxq7g) | 3:24 | 2024-01-25 | 2024-02-25 |
@@ -1346,7 +1347,7 @@
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-21 |  |
 | [Single At 40](https://open.spotify.com/track/1Hkfx9v6M0A2E7gbgYneQo) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Single At 40](https://open.spotify.com/album/0UBTtf7QW0FMLAZLavnFWY) | 2:40 | 2021-12-16 | 2021-12-22 |
 | [Sinking Like a Stone](https://open.spotify.com/track/12OOKJeLg0Vd28oQii9UvY) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Sinking Like a Stone](https://open.spotify.com/album/4dvpeRYEohWv3OyrUXSOxu) | 2:45 | 2024-04-18 | 2024-05-24 |
-| [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 |  |
+| [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 | 2025-03-30 |
 | [Siri](https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Siri](https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8) | 4:03 | 2023-11-16 | 2024-02-09 |
 | [Sista dan på sommarn](https://open.spotify.com/track/0WPQFNeOCqgPdDkeIv4LG3) | [Nathalie Brydolf](https://open.spotify.com/artist/1c9W4FJpTKvklYHfyNzAPl) | [Sista dan på sommarn](https://open.spotify.com/album/2BRU9uzdvlkQpSDIB5dr5s) | 3:51 | 2024-08-15 | 2024-09-13 |
 | [Sista gången](https://open.spotify.com/track/6VEHZjdc9WLeyJjTBN3Lzm) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Sista gången](https://open.spotify.com/album/7oGmIcZOWuH4BYfyh8F7Wz) | 3:00 | 2021-12-16 | 2022-03-11 |

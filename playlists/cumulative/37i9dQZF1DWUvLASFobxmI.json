@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "CHE CHE",
+        "url": "https://open.spotify.com/album/3i1uH1OCtUBdgX05Y637Ad"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180805,
+      "name": "CHE CHE",
+      "url": "https://open.spotify.com/track/2GUApVyQ3yGKW5W2NH2DjA"
+    },
+    {
+      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
       },
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 173673,
       "name": "Dos Dias",
       "url": "https://open.spotify.com/track/0LHL11oU3BlAU1sdcJIkW2"

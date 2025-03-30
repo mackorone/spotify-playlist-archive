@@ -1,13 +1,29 @@
 {
   "description": "Your daily update of the most viral tracks right now - Argentina.",
-  "num_followers": 125769,
+  "num_followers": 125765,
   "original_name": "Viral 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L3oQoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L3tkeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
+    {
+      "added_at": "2025-03-28 20:03:38",
+      "album": {
+        "name": "Pa las girlas",
+        "url": "https://open.spotify.com/album/5yGeyYQfUhdQUvk0yVTVkY"
+      },
+      "artists": [
+        {
+          "name": "Mattei",
+          "url": "https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw"
+        }
+      ],
+      "duration_ms": 150578,
+      "name": "Pa las girlas",
+      "url": "https://open.spotify.com/track/7dCGkDZgWIDSZyxInMkdIv"
+    },
     {
       "added_at": "2025-03-28 20:03:38",
       "album": {

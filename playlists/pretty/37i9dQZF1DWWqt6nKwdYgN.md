@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! MC Davo y Sandro Malandro en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,877 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,893 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 9 | [ADN](https://open.spotify.com/track/6A69ir2y3C3mGaTKcSSgaN) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [ADN](https://open.spotify.com/album/4pvFRpzPSBouPH6Se6etmh) | 4:20 |
 | 10 | [Ya fue](https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Ya fue](https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g) | 3:05 |
 | 11 | [TNT](https://open.spotify.com/track/54PqhlUl96Tl19A57k3Asy) | [Maldita Russa](https://open.spotify.com/artist/1uUjIm9jx1TgVlEpZGMKiL), [Tuerto](https://open.spotify.com/artist/233Dkj6Z2h0HuGXLlMqN4C), [El Esca](https://open.spotify.com/artist/7GdYY1koOX8nAt1sDFlfzt) | [TNT](https://open.spotify.com/album/4vhHyij5KPPWgDbd5xPWnK) | 2:43 |
-| 12 | [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/5yUUXervRBpp0aXXFZyQvy) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 |
+| 12 | [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/4yz602qHvJ4eoC06wCM5rG) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 |
 | 13 | [LACKIN](https://open.spotify.com/track/022GzMRW1e22FssZigkIaq) | [Jordizy](https://open.spotify.com/artist/3fYN83AsnBQ6TKkF4X0ck0), [ANDER ONE PRODUCE](https://open.spotify.com/artist/4fcco6Tm47vDMAfRuv62Jt) | [LACKIN](https://open.spotify.com/album/7M16Vr0ANq66shNQiaEATJ) | 2:07 |
 | 14 | [Cabalgo](https://open.spotify.com/track/42BmQC0hKg1TIMt1M6UKeR) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [Cabalgo](https://open.spotify.com/album/1TH8YnwOZFE88SxSufkiDi) | 3:44 |
 | 15 | [999 \(Goer\)](https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa) | [999 \(Goer\)](https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb) | 2:40 |

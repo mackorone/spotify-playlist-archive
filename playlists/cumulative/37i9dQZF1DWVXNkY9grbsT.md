@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-473 songs - 1 day 15 hr 24 min
+474 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2023-01-20 | 2024-04-19 |
 | [Calma](https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf) | [Calma](https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x) | 4:53 | 2023-08-25 | 2025-02-01 |
 | [Camina](https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Camina](https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev) | 8:37 | 2023-12-01 | 2025-01-15 |
-| [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-01-07 |  |
+| [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-01-07 | 2025-03-30 |
 | [Carmel](https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w) | [Matthias Vogt](https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY), [Sato](https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD) | [Ten As One](https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV) | 5:36 | 2023-08-11 | 2025-01-25 |
 | [Castle Song](https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Castle Song](https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW) | 2:53 | 2023-08-04 | 2025-01-31 |
 | [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 | 2023-12-01 |  |
@@ -379,6 +379,7 @@
 | [Solace](https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl) | 2:44 | 2023-01-20 | 2024-03-01 |
 | [Solace](https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Solace](https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce) | 2:44 | 2022-04-01 | 2023-01-27 |
 | [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 | 2023-06-30 |
+| [Somebody \- Mixed](https://open.spotify.com/track/1sW1re8MIUHwxtYAiDICaK) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Somebody \(Mixed\)](https://open.spotify.com/album/4kY0vJC1JGRDIwSsIjZey9) | 3:22 | 2025-03-29 |  |
 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 | 2025-03-20 |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-04-01 | 2025-02-08 |
 | [Stapler](https://open.spotify.com/track/54ZttkOfyEW4JVZblFopLt) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Stapler](https://open.spotify.com/album/2lvi6nRKSPfzIVlRw5fyb3) | 3:41 | 2021-12-26 | 2022-01-25 |

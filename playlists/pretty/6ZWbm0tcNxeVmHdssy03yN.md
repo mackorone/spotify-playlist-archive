@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,789 likes - 94 songs - 4 hr 51 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,809 likes - 94 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Spiralling \(Feat\. Bastille\)](https://open.spotify.com/track/7gCjzW0xJKKfcC0T4IMCxY) | [To Kill A King](https://open.spotify.com/artist/7yHBGaYHPXkJSVUtHiM816), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Spiralling \(Feat\. Bastille\)](https://open.spotify.com/album/4SLemDV2VHFDedyrro0UnH) | 3:46 |
-| 2 | [Hellraiser](https://open.spotify.com/track/1dQ3V1bvhrwGr9gPM7jpMV) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt), [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Gloomy Culture](https://open.spotify.com/artist/2rBoyTKqZEFVTXc2B17mhT) | [Hellraiser](https://open.spotify.com/album/6is0g8hqDuAN7GETILBjgM) | 2:39 |
+| 2 | [Hellraiser](https://open.spotify.com/track/1dQ3V1bvhrwGr9gPM7jpMV) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt), [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [Hellraiser](https://open.spotify.com/album/6is0g8hqDuAN7GETILBjgM) | 2:39 |
 | 3 | [Forever](https://open.spotify.com/track/18XhEJZD4crnDLVy9HilQr) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Forever](https://open.spotify.com/album/7wsWIzPxeo1yUFIkjKPezt) | 2:37 |
 | 4 | [cut me](https://open.spotify.com/track/6KrfX0RLQclPUiMt3TypvF) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [cut me](https://open.spotify.com/album/6xPEkn6QjznRqs263Cjht9) | 2:00 |
 | 5 | [KIAEESHA](https://open.spotify.com/track/78HHK0cJZIZQZVcXUmYcIR) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [KIAEESHA](https://open.spotify.com/album/2ylboHl2iEffXfO0cAHEHy) | 3:26 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 15 | [The Flood](https://open.spotify.com/track/5dwDoDE0JdWa52aPk47sde) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [Some Kind Of Control](https://open.spotify.com/album/4ec6Nvl0SxqX9xWAqB3ZEg) | 4:08 |
 | 16 | [run away with you](https://open.spotify.com/track/30Cl8JEIrR76GLgSvjz6gJ) | [beach scum](https://open.spotify.com/artist/2JPD7MQeNXhJ8XqGKZgeTf) | [run away with you](https://open.spotify.com/album/4EBkib8OPhEJxxhFOcCnAK) | 3:05 |
 | 17 | [regime](https://open.spotify.com/track/05eI1adwRDbU9Bi2hLla8Q) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [regime](https://open.spotify.com/album/1GBPQYYzJuJe8VGUc4lXE7) | 2:06 |
-| 18 | [The Chant](https://open.spotify.com/track/3HONA5MaXHffKl31OhfpWS) | [L\-Vis 1990](https://open.spotify.com/artist/3Av5YRDWBegMumHlMOIa91), [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [The Chant](https://open.spotify.com/album/0xa5Pj7cJjJdO0icVmEsuW) | 4:03 |
+| 18 | [The Chant](https://open.spotify.com/track/3HONA5MaXHffKl31OhfpWS) | [L\-Vis 1990](https://open.spotify.com/artist/3Av5YRDWBegMumHlMOIa91) | [The Chant](https://open.spotify.com/album/0xa5Pj7cJjJdO0icVmEsuW) | 4:03 |
 | 19 | [Similar Vibes/Cinema Girl](https://open.spotify.com/track/3zuLPR6WWJPZG6JXWCbtdN) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Similar Vibes/Cinema Girl](https://open.spotify.com/album/07Wjn4pAAkFhWTXH9Alcmo) | 2:07 |
 | 20 | [I Need Your Love](https://open.spotify.com/track/5EQiIGIxqSZTE8pXsa3VWJ) | [The Milk](https://open.spotify.com/artist/4sxtLUswMXhoDrec7zc6i0) | [I Need Your Love](https://open.spotify.com/album/7iCt44WF62MfqIKwGaC6TF) | 4:21 |
 | 21 | [Darren Moore](https://open.spotify.com/track/6TM2JmtkN2H8a5yc73Fi1Y) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm), [WIZE](https://open.spotify.com/artist/0b1Ixfw9ikmQSMkAnGPQBb) | [Darren Moore](https://open.spotify.com/album/1fuc6mFKhAqTWokbwpUhO7) | 2:39 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 62 | [It's On You](https://open.spotify.com/track/4fAHdVOZW7QgKJPmdZ4YPg) | [MRNMRS](https://open.spotify.com/artist/7vF0eLf5ZAqtSqOTKwLikU) | [Bashed Up](https://open.spotify.com/album/3jmdvDzUJuP7pDHAtINytm) | 3:50 |
 | 63 | [Sophia](https://open.spotify.com/track/05GJ75nb4P8wqwwJGm7ksa) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 3:41 |
 | 64 | [Forget U](https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Forget U](https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO) | 2:33 |
-| 65 | [Empty Space](https://open.spotify.com/track/4aFOUWe1rXMzXt3HOmClNv) | [Somewhere Sun](https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg) | [Empty Space](https://open.spotify.com/album/2ap4ZMjVEzt6ssFqmlB0t7) | 3:34 |
+| 65 | [Empty Space](https://open.spotify.com/track/4aFOUWe1rXMzXt3HOmClNv) | [East Of Indigo](https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg) | [Empty Space](https://open.spotify.com/album/2ap4ZMjVEzt6ssFqmlB0t7) | 3:34 |
 | 66 | [Better](https://open.spotify.com/track/7nULLZfM0aRxYwffvvi0ky) | [Kayslee Don Collins](https://open.spotify.com/artist/3GBM7HxzkACZVPM9APdDZH) | [Better](https://open.spotify.com/album/2nHhQJuwuevXOkLs4rNwUw) | 3:36 |
 | 67 | [What You're Made Of](https://open.spotify.com/track/4tfvT0fBOygN08zCuVr46f) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [What You're Made Of](https://open.spotify.com/album/7aTE0PUhLFm7fjT5VuKgc3) | 3:27 |
 | 68 | [Steal Wool](https://open.spotify.com/track/4XITM4Q8kxFs8mX7rlX81F) | [PremRock](https://open.spotify.com/artist/13kiuNRHlROJeT7L15o7vi), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Sebb Bash](https://open.spotify.com/artist/3NAVgoymGp2cN3rlqi7Hu5) | [Steal Wool](https://open.spotify.com/album/14vNfOxeJ4fdYSgBW4htBb) | 2:58 |

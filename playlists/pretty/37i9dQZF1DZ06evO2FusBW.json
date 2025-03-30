@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10796,
+  "num_followers": 10801,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+HyAAAAAAB3gltHHrZ5kQLMx5tdsn+Y",
+  "snapshot_id": "Z+XmgAAAAACiwNaowMJkVH1sRSm1W7Jp",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 263583,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0nFiXjQUmqZJnskf6nKi70"
+      "duration_ms": 210760,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/1DJFBjtxPwiTlHFpBnp7kp"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 210760,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/1DJFBjtxPwiTlHFpBnp7kp"
+      "duration_ms": 263583,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0nFiXjQUmqZJnskf6nKi70"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jingle Bells Reimagined",
+        "url": "https://open.spotify.com/album/1ZhlvU4jWfrMGMaxcNDi80"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 155682,
+      "name": "Jingle Bells Reimagined",
+      "url": "https://open.spotify.com/track/5HY2b7hBXZhOv3VNqoq22U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hintergrundmusik zum Lesen",
         "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 197573,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/5HnSkMqT880jHQL5efIx2h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 114633,
-      "name": "Perfect Balance",
-      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504"
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 295706,
-      "name": "Meditation",
-      "url": "https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v"
+      "duration_ms": 114633,
+      "name": "Perfect Balance",
+      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
       "duration_ms": 144725,
       "name": "Habibi (Love)",
       "url": "https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 295706,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hintergrundmusik zum Lesen",
-        "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/62ffNyWwzneLiD96UC4ycT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 66",
         "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 1369525,
       "name": "Flow State 22",
       "url": "https://open.spotify.com/track/0E9NGd4NMBF93UBzrEv7u5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hintergrundmusik zum Lesen",
+        "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/62ffNyWwzneLiD96UC4ycT"
     },
     {
       "added_at": null,
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 111",
-        "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 142083,
-      "name": "Meditation 111",
-      "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
+      "duration_ms": 77999,
+      "name": "Changing Times",
+      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
     },
     {
       "added_at": null,
@@ -571,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+        "name": "Meditation 111",
+        "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
       "artists": [
         {
@@ -580,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 77999,
-      "name": "Changing Times",
-      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
+      "duration_ms": 142083,
+      "name": "Meditation 111",
+      "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
     },
     {
       "added_at": null,
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 101000,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/5ZBAPouicX889poK2HBKuE"
+      "duration_ms": 278750,
+      "name": "NATURE VIBRATION",
+      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 278750,
-      "name": "NATURE VIBRATION",
-      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
+      "duration_ms": 101000,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/5ZBAPouicX889poK2HBKuE"
     },
     {
       "added_at": null,
@@ -699,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Meditations",
-        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/55pCEgcgrUOP9ifcNXf1vw"
       },
       "artists": [
-        {
-          "name": "TUNE YOUR MIND",
-          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
-        },
         {
           "name": "RIOPY",
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 272550,
-      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
-      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+      "duration_ms": 209826,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/698yyux04kySM0ezqzIQhD"
     },
     {
       "added_at": null,
@@ -735,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/55pCEgcgrUOP9ifcNXf1vw"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/698yyux04kySM0ezqzIQhD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Tale in Paris",
         "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
       },
@@ -763,6 +759,26 @@
       "duration_ms": 166338,
       "name": "A Tale in Paris",
       "url": "https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleep Meditations",
+        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
+      },
+      "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 272550,
+      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
+      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
     },
     {
       "added_at": null,
@@ -795,26 +811,6 @@
       "duration_ms": 277208,
       "name": "POWER OF THE SEA",
       "url": "https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleep Meditations",
-        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
-      },
-      "artists": [
-        {
-          "name": "TUNE YOUR MIND",
-          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
-        },
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 328714,
-      "name": "Sleep Meditation: Deep Relaxation 528 Hz",
-      "url": "https://open.spotify.com/track/2s5ZOWYIBxDfQyaQOtAVtt"
     },
     {
       "added_at": null,

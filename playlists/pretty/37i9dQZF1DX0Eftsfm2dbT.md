@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:千葉雄喜
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,184 likes - 81 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,209 likes - 81 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 71 | [Chandelier \(feat\. Hideyoshi, DALU & OSAMI\)](https://open.spotify.com/track/4JzNVvkFyZ9WFAoZOqy4jO) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [Tokyo Young Vision](https://open.spotify.com/album/2au1F39Khj54T7HJqd1Aal) | 3:37 |
 | 72 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
 | 73 | [Cheetah \- Freestyle](https://open.spotify.com/track/0YBzPPtLfs6nMLP5wYZMNo) | [11](https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa) | [Cheetah \(Freestyle\)](https://open.spotify.com/album/70u1uDsy33GAZSvGeKaAyb) | 4:02 |
-| 74 | [Lucky \(feat\. TAKABO\)](https://open.spotify.com/track/0MkQWUAeExxGvEhnCmLVj2) | [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7), [inman](https://open.spotify.com/artist/6cSvumJiWbFqeuiVZ1891Q), [TAKABO](https://open.spotify.com/artist/1ONcZc9JHSMznxssduZW0U) | [Lucky \(feat\. TAKABO\)](https://open.spotify.com/album/7dsn3IFuO5iAdIshD7tj8E) | 2:34 |
+| 74 | [Lucky \(feat\. TAKABO\)](https://open.spotify.com/track/0MkQWUAeExxGvEhnCmLVj2) | [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7), [韻マン](https://open.spotify.com/artist/5KUOSKYLz09CFEp79nLJW5), [TAKABO](https://open.spotify.com/artist/1ONcZc9JHSMznxssduZW0U) | [Lucky \(feat\. TAKABO\)](https://open.spotify.com/album/7dsn3IFuO5iAdIshD7tj8E) | 2:34 |
 | 75 | [CINDERELLA BABY](https://open.spotify.com/track/58bYuUJ8nRL3JbzgtgWIKC) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [CINDERELLA BABY](https://open.spotify.com/album/1idMA7THKFuFjh0M3T2r4a) | 2:50 |
 | 76 | [Friday Night Town \(feat\. Benjazzy & Jin Dogg\)](https://open.spotify.com/track/7pmmTgGXSCdLoFRtrPzNnM) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [THE MESSAGE 6](https://open.spotify.com/album/4g2O1wfyRDa36SbbdD4Pea) | 2:37 |
 | 77 | [MOGURA Hadashi no mama de](https://open.spotify.com/track/573CfyEhiPFe5Qmw2syuls) | [Hannya](https://open.spotify.com/artist/42ptkP1SS9arSLyX0ECcQF), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [MOGURA Hadashi no mama de](https://open.spotify.com/album/2DudQSNTVA4xU50XvH7ejr) | 3:49 |

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-276 songs - 14 hr 8 min
+277 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/1MVsvA4KgABP84K4yymwL1) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/2vMJzstrV9NINEBu05fJMR) | 2:32 | 2022-07-02 | 2023-02-02 |
 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 | 2019-10-13 |  |
 | [No Scrubs \- Acoustic](https://open.spotify.com/track/4SlvVeLLojqmRT3VpXGNVZ) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [No Scrubs \(Acoustic\)](https://open.spotify.com/album/2eTxGTbHIMKl8ZFzkbgQIT) | 3:11 | 2020-07-24 |  |
+| [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/24RPVHtPO71yC3TPPJlYBs) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/140HsR9epNAx6aHV2S936F) | 3:07 | 2025-03-29 |  |
 | [Only You \- Acoustic](https://open.spotify.com/track/1VhvvVUUsdvHOg03lGTARR) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Only You \(Acoustic\)](https://open.spotify.com/album/6URklNb6ymA8wmm4J64WJ1) | 3:42 | 2022-01-13 | 2025-02-03 |
 | [Paradise \- Acoustic Version](https://open.spotify.com/track/5IaTbmfClU9YmW9vjZr86l) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Paradise \(Acoustic Version\)](https://open.spotify.com/album/4w20E4lMmjWmApwDb7Iie6) | 3:40 | 2019-10-13 |  |
 | [Perfect \- Acoustic](https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Perfect \(Acoustic\)](https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv) | 4:20 | 2019-10-13 |  |
@@ -243,7 +244,7 @@
 | [Unchained Melody \- Acoustic](https://open.spotify.com/track/3LfAycjUKSLw3mCzMXCpO1) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/4dZF6uoT6U3OPIB23hh79S) | 3:55 | 2024-02-09 |  |
 | [Unchained Melody \- Acoustic](https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/5H9nvMZwoWBFHuHdoI1PpY) | 3:29 | 2022-08-06 | 2023-05-10 |
 | [Unwritten \- Acoustic](https://open.spotify.com/track/3BYsIZrlLUwkKBrPMpfTwx) | [Gavern](https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt) | [Unwritten \(Acoustic\)](https://open.spotify.com/album/6PIc4JQuEv9c3h9ImJewGy) | 2:16 | 2025-02-07 |  |
-| [Up Where We Belong \- Acoustic](https://open.spotify.com/track/5RRPw7aHDXmbKjaaOIzuLt) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Up Where We Belong \(Acoustic\)](https://open.spotify.com/album/6Ph3mgUyosIR8nZ84rUJ1m) | 3:26 | 2023-10-27 |  |
+| [Up Where We Belong \- Acoustic](https://open.spotify.com/track/5RRPw7aHDXmbKjaaOIzuLt) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Up Where We Belong \(Acoustic\)](https://open.spotify.com/album/6Ph3mgUyosIR8nZ84rUJ1m) | 3:26 | 2023-10-27 | 2025-03-30 |
 | [Upside Down \- Acoustic](https://open.spotify.com/track/1Bj7uQHtE5RfCzVMKhgskl) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Upside Down \(Acoustic\)](https://open.spotify.com/album/78fjGqALsUEsAi5nuKI19m) | 2:22 | 2023-03-24 | 2023-05-30 |
 | [Uptown Girl \- Acoustic](https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Uptown Girl \(Acoustic\)](https://open.spotify.com/album/4piOFs8574bvoGwjdI7x4r) | 3:08 | 2022-09-15 | 2022-09-25 |
 | [Use Somebody \- Acoustic](https://open.spotify.com/track/15ifihnDCzcbGX3lQdUHKn) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Use Somebody \(Acoustic\)](https://open.spotify.com/album/6ccSCZ1k60gVpONCZZPvAm) | 2:59 | 2023-03-03 | 2023-06-24 |

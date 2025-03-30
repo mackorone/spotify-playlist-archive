@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 316059,
+  "num_followers": 316088,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 197389,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Coping Habits",
         "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 159863,
       "name": "Up Late",
       "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 197389,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "baby's out of luck again",
-        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "baby\u2019s out of luck again",
-      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Hyper-normal",
         "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 195691,
       "name": "Hyper-normal",
       "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "baby\u2019s out of luck again",
+        "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "carry you on my broken wings",
+      "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "baby\u2019s out of luck again",
-        "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "carry you on my broken wings",
-      "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Falling Apart Without You",
         "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 245998,
       "name": "Cellar",
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "baby's out of luck again",
+        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "baby\u2019s out of luck again",
+      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 217939,
       "name": "Driving in My Car",
       "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Heaven Sent (Between Heavens B-Sides)",
-        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Nadine",
-      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Back Into Your Arms",
         "url": "https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 263801,
       "name": "Back Into Your Arms",
       "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 169477,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
         "name": "Blister",
         "url": "https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 229333,
       "name": "Blister",
       "url": "https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "Honeybee",
-        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
-      },
-      "artists": [
-        {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
-        }
-      ],
-      "duration_ms": 169477,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Never Apart",
-        "url": "https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9"
-      },
-      "artists": [
-        {
-          "name": "Old Man Canyon",
-          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
-        }
-      ],
-      "duration_ms": 247649,
-      "name": "Never Apart",
-      "url": "https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Simona",
         "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 228642,
       "name": "Cielo Negro",
       "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Never Apart",
+        "url": "https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9"
+      },
+      "artists": [
+        {
+          "name": "Old Man Canyon",
+          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+        }
+      ],
+      "duration_ms": 247649,
+      "name": "Never Apart",
+      "url": "https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D"
     },
     {
       "added_at": "2024-08-29 20:23:41",

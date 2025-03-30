@@ -175,6 +175,42 @@
     },
     {
       "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC"
+      },
+      "artists": [
+        {
+          "name": "Blush Davis",
+          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
+        }
+      ],
+      "date_added": "2025-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182687,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI"
+    },
+    {
+      "album": {
+        "name": "Accidentally On Purpose - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2025-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181120,
+      "name": "Better Dayz",
+      "url": "https://open.spotify.com/track/3Utn7kpHOgv7EQG5XmFzY7"
+    },
+    {
+      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e"
       },

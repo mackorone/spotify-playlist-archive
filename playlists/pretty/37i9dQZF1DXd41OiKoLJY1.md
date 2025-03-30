@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: mayfly Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,990 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,995 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 18 | [Moon Song](https://open.spotify.com/track/2XkI3bhIlpHRObj67U7LE0) | [Above Velvet Air](https://open.spotify.com/artist/5sgL6TpSBvXPqXnM17CYQT) | [Moon Song](https://open.spotify.com/album/0DNOjiQ1v2IqJt6wGDBK96) | 2:44 |
 | 19 | [Psychotic](https://open.spotify.com/track/1Ac0Jp92XOSfd0j205K94E) | [Cartier St.](https://open.spotify.com/artist/5ldmhYBcM87MWRmYWgxETX), [Peter Miranda](https://open.spotify.com/artist/1LdJBVApsCM3MAXqVh6wuF), [Frank Saturday](https://open.spotify.com/artist/7EYbDLfdMh8yyuWpHGdZ6o) | [Psychotic](https://open.spotify.com/album/59PTQgYNeuxRAjct0dACgo) | 2:45 |
 | 20 | [Pale Moonlight](https://open.spotify.com/track/6wEjh3zSBV2eQoG7l5RpZO) | [n\_d\_g](https://open.spotify.com/artist/03nJFzQYJFQ7RdprHime47) | [Pale Moonlight](https://open.spotify.com/album/4PT5n4DtFOMMxOAmAMlcI1) | 3:10 |
-| 21 | [No Ragrets](https://open.spotify.com/track/4N4qQNnh0lHE9kmQfxlMHM) | [Sala](https://open.spotify.com/artist/3ElPfqOWdiXukhHUEqMXGZ) | [No Ragrets](https://open.spotify.com/album/3t3GRrt2vd2x0Uqi5weYqY) | 4:27 |
+| 21 | [No Ragrets](https://open.spotify.com/track/4N4qQNnh0lHE9kmQfxlMHM) | [Sala](https://open.spotify.com/artist/3Og97WuFeDOOj1Uqzm7H5Y) | [No Ragrets](https://open.spotify.com/album/3t3GRrt2vd2x0Uqi5weYqY) | 4:27 |
 | 22 | [Prinsesa](https://open.spotify.com/track/39Nqg6Ha976VJ3HPK3ZBBR) | [Dan Gil](https://open.spotify.com/artist/5cxHYcxW4k0Z3NWBB86yNu), [Kat Darling](https://open.spotify.com/artist/1V9v5IZJ4KSUuwaKKkQCD3) | [Prinsesa](https://open.spotify.com/album/5qD1rMKCLdNv8WsAYteVaV) | 4:04 |
 | 23 | [Pintuan](https://open.spotify.com/track/4xIK6jTK26xlvQeeFIprdw) | [Kollabz Kollektive](https://open.spotify.com/artist/27b6G6N0YJa17DmeIhtNnz), [Karolyn May Patricio](https://open.spotify.com/artist/1EMwQK9vloVxrTcCo8ixuG) | [Pintuan](https://open.spotify.com/album/2WQiqjVk3cLPe1dwUiEfzc) | 5:22 |
 | 24 | [Green](https://open.spotify.com/track/1LCdBn1kyMHqmZem7THoec) | [Erin Galadriel](https://open.spotify.com/artist/2Vdh38tMMIVNRhnOFO2BGt) | [Green](https://open.spotify.com/album/0yyfM5OpLTqufjhW8uRX1o) | 4:07 |

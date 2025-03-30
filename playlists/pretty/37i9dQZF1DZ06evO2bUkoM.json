@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49539,
+  "num_followers": 49536,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+HyAAAAAADArHXNpUpiHW7U4TPcXPsQ",
+  "snapshot_id": "Z+XmgAAAAADLl95Ws6S75cWwroR2L8pZ",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
-        "url": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
       "artists": [
         {
-          "name": "Sweater Beats",
-          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
-        },
-        {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
         }
       ],
-      "duration_ms": 168344,
-      "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
-      "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
+      "duration_ms": 230711,
+      "name": "Given It All",
+      "url": "https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45"
     },
     {
       "added_at": null,
@@ -691,18 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
+        "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
+        "url": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
       },
       "artists": [
         {
+          "name": "Sweater Beats",
+          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
+        },
+        {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
         }
       ],
-      "duration_ms": 230711,
-      "name": "Given It All",
-      "url": "https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45"
+      "duration_ms": 168344,
+      "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
+      "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
     },
     {
       "added_at": null,

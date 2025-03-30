@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180196,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/4WjDltdgowln78iPoiolIQ"
+    },
+    {
+      "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f"
       },
@@ -708,7 +730,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 163608,
       "name": "Me Doli\u00f3",
       "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
@@ -904,10 +926,28 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-30",
       "duration_ms": 182525,
       "name": "OMG",
       "url": "https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH"
+    },
+    {
+      "album": {
+        "name": "Kenia Os: La OG (En Vivo)",
+        "url": "https://open.spotify.com/album/1TX9VVfsBsoxn7fjkxo0Jy"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "OMG - En Vivo",
+      "url": "https://open.spotify.com/track/4eYt6uatHfqgtC4TLYi5Kd"
     },
     {
       "album": {

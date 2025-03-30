@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Oklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,088 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,073 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sou + Eu](https://open.spotify.com/track/3eciqHhEwNm63zKnvSR27R) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sou + Eu](https://open.spotify.com/album/3wdrPQhXzaRt0ILhgYtKBN) | 2:38 |
 | 2 | [INTENSIDADE](https://open.spotify.com/track/1sErxEqsi3lrCVBAqzWMEZ) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [INTENSIDADE](https://open.spotify.com/album/5Ce2UXmZhzQWrIX5K2XcMR) | 2:07 |
-| 3 | [Celular](https://open.spotify.com/track/2RDmYZtJE1vwmUQ0vJBNFe) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Celular](https://open.spotify.com/album/5sUT0eNXmwPIHM7v1zfl5B) | 3:31 |
+| 3 | [Celular](https://open.spotify.com/track/2RDmYZtJE1vwmUQ0vJBNFe) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Pedrix](https://open.spotify.com/artist/6Kvajdlb4SCfkEuajloA3q) | [Celular](https://open.spotify.com/album/5sUT0eNXmwPIHM7v1zfl5B) | 3:31 |
 | 4 | [Senta Pros Do Momento](https://open.spotify.com/track/64O5X0s5QYtLQcUrXeo0L7) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [Senta Pros Do Momento](https://open.spotify.com/album/7wp7dajAjWOj4onmViycAs) | 3:10 |
 | 5 | [WOW](https://open.spotify.com/track/1K3qIJ1rmPki4bPqlIkoeW) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [WOW](https://open.spotify.com/album/4bgeRfkzj8fRutAMsfISZ0) | 3:02 |
 | 6 | [Latino Americano](https://open.spotify.com/track/6zHljzSIv7lHW4krlOC1hy) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [PRA SEMPRE NO MESMO BAIRRO](https://open.spotify.com/album/5Cc1z7x5KA1eo20fmWG4Zi) | 2:32 |

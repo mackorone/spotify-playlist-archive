@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Calibre 50
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,797 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,879 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 24 | [FULL OF HOES](https://open.spotify.com/track/0R0Cn76nPYSyXC0Behn4Mr) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [FULL OF HOES](https://open.spotify.com/album/6Rf4KhMAcuW7hqAqd0HBtq) | 3:00 |
 | 25 | [Te Va A Doler](https://open.spotify.com/track/0I3l9BG7BhqW0KljVMFO5N) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Va A Doler](https://open.spotify.com/album/3IHiYxW0ZdaQDPXFnmbSqN) | 2:20 |
 | 26 | [El Proceso](https://open.spotify.com/track/5NeI9iQNuzsYBPu6W90C1s) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [El Proceso](https://open.spotify.com/album/53WLcJthRZhuNKkyfIs0Zw) | 3:23 |
-| 27 | [BadBoyzz](https://open.spotify.com/track/0yPedQtuHH9R7DsduRRmv9) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Victor Rivera](https://open.spotify.com/artist/2QmZsoPMAvXLEw6UWpJVso) | [Lado B](https://open.spotify.com/album/3vo0B5gx3yJYcfJ7Os4EGy) | 2:30 |
+| 27 | [BadBoyzz](https://open.spotify.com/track/0yPedQtuHH9R7DsduRRmv9) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Lado B](https://open.spotify.com/album/3vo0B5gx3yJYcfJ7Os4EGy) | 2:30 |
 | 28 | [Sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 |
 | 29 | [Que Tal Si Te Compro / Alma Enamorada \- El Pilón](https://open.spotify.com/track/4d995yBkZLk1vty9lTwqTm) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Que Tal Si Te Compro / Alma Enamorada \(El Pilón\)](https://open.spotify.com/album/3z2gj1dDBQHN3Ieiond9FT) | 3:14 |
 | 30 | [Qué Planes Tienes](https://open.spotify.com/track/67vFyD8CqmesTaPlh6vqZj) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Diecisiete](https://open.spotify.com/album/1TIJbgPRB6Lqra6zkWUE3h) | 3:45 |

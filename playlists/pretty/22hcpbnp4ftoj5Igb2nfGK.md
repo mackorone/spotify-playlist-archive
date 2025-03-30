@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 
 > pretty flippin&\#x27; peak ;\)
 
-[TangerineGod](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 79 songs - 4 hr 7 min
+[TangerineGod](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,6 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 | 77 | [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:20 |
 | 78 | [What the hip hop hell is this ?](https://open.spotify.com/track/7nEOnYGnPIqNukJ0RJIDox) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S) | 2:32 |
 | 79 | [Exmilitary](https://open.spotify.com/track/1ZzSRXy86bhxjqwNjSZnko) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 5:01 |
+| 80 | [King Kunta](https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:54 |
 
-Snapshot ID: `AAAFwKbfih31VNPtUxMlydK4x0d0KcQY`
+Snapshot ID: `AAAFwSbtYrRpP4Xi6WxufO+PtpY5gx7O`

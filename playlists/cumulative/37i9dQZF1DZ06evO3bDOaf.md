@@ -4,7 +4,7 @@
 
 > This is Liam Payne\. The essential tracks, all in one playlist.
 
-16 songs - 51 min 18 sec
+17 songs - 53 min 53 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Get Low \(with Liam Payne\)](https://open.spotify.com/track/2syQ0f4SAQdzvlAewPl1DJ) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Get Low \(with Liam Payne\)](https://open.spotify.com/album/0gmjYisnPhgbCL1HNfSc7O) | 3:24 | 2024-10-19 |  |
 | [Home With You](https://open.spotify.com/track/0SHVPx5dQaqBi1um98oWlf) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [First Time \- EP](https://open.spotify.com/album/0ViYtdxPRPslcrPfqwJE9b) | 3:01 | 2024-10-19 |  |
 | [Midnight \(feat\. Liam Payne\)](https://open.spotify.com/track/4ZTTUAjJCd4NMZmIU7RB4c) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Midnight \(feat\. Liam Payne\)](https://open.spotify.com/album/4Cq0dfyCX1msQ6ZRbdT4YG) | 3:40 | 2024-10-19 |  |
+| [Naughty List \(with Dixie\)](https://open.spotify.com/track/2Y0ktCGrGoGcQFXsGztvhi) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Naughty List \(with Dixie\)](https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM) | 2:34 | 2025-03-30 |  |
 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 | 2024-10-19 |  |
 | [Remember](https://open.spotify.com/track/2uAX7DbFp5GWCkE1bpkUn4) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:09 | 2024-10-19 |  |
 | [Slow](https://open.spotify.com/track/3LUG5sTuLksOVeTVw787jp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [First Time \- EP](https://open.spotify.com/album/0ViYtdxPRPslcrPfqwJE9b) | 3:29 | 2024-10-19 |  |

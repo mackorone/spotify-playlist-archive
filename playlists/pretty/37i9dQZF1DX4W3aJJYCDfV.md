@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nemzzz, Mumford & Sons, Little Simz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,668 likes - 117 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,780 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,6 +124,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 114 | [Mortal Dread](https://open.spotify.com/track/78H8tG1mxDnKGPidHweKIz) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Dreams on Toast](https://open.spotify.com/album/19syLvSEiTyMcBMgdLtqp6) | 3:29 |
 | 115 | [Soltera](https://open.spotify.com/track/6akmyVciLXDjqyykAGwr3s) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0) | [Soltera](https://open.spotify.com/album/7gY2wdy2teydXwpYLznG93) | 2:47 |
 | 116 | [Sweatbox](https://open.spotify.com/track/7rrE7xPl4rE26gvcXagLf3) | [Mikey Sebastian](https://open.spotify.com/artist/5ZelZTeJ3VpDZ2geKawS1E), [Harry Wills](https://open.spotify.com/artist/5AE52XrC6wM9wzhtSQDupS) | [Sweatbox](https://open.spotify.com/album/2Aasb38FJph28iq6R0JCAQ) | 2:46 |
-| 117 | [500 Fils](https://open.spotify.com/track/7Iy4P5OCAALXRqKC1sBGsS) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7), [NULL](https://open.spotify.com/artist/0ayHtPhx8fVXh5HHQUU5Uu), [Parthenope](https://open.spotify.com/artist/12SAOKdwPi1nmYPK46E6jA) | [Knats](https://open.spotify.com/album/5PhVl8NFjxJga2ZhR5QTBd) | 6:44 |
+| 117 | [500 Fils](https://open.spotify.com/track/7Iy4P5OCAALXRqKC1sBGsS) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7), [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Knats](https://open.spotify.com/album/5PhVl8NFjxJga2ZhR5QTBd) | 6:44 |
 
 Snapshot ID: `Z+ZgpAAAAACZAYjwIY5DvZk0rL6RqOKP`

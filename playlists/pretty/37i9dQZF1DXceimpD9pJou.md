@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Juan Carlos Rodríguez de Tercer Cielo
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,249 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,259 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 9 | [Lugar Secreto](https://open.spotify.com/track/3UeSQ2VGF2h2q0XHX8Z64y) | [Desde Lo Íntimo](https://open.spotify.com/artist/24DYHPZbNiWoYDNnNdpgMi), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Mafer Melgar](https://open.spotify.com/artist/1WPBaQxzMlFTpGUiUe1AIm) | [Lugar Secreto](https://open.spotify.com/album/3Nx9IKCMJUMcVDwJbv7jbq) | 4:05 |
 | 10 | [Cómo me mira tu Hijo](https://open.spotify.com/track/2oVaylrVoGa66J8Xi63wbC) | [tuyo](https://open.spotify.com/artist/4KtTbMwHxXj1W4gFDSe6CJ) | [Cómo me mira tu Hijo](https://open.spotify.com/album/1k5DjtgmDeBL0Puxp2xVEk) | 2:36 |
 | 11 | [Jesús](https://open.spotify.com/track/7tRG2dgIkcZUPvZINWfR7B) | [caminodevida música](https://open.spotify.com/artist/26uYihnzGQPWmX5208Hdiq) | [Tetelestai \(Todo hecho está\)](https://open.spotify.com/album/2kJ9Wkj82r6N9rq8XAAkzc) | 7:23 |
-| 12 | [Hermoso Nombre \- Remix](https://open.spotify.com/track/250Hd63echw5RCu1fvjwHt) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Fernando Leiva](https://open.spotify.com/artist/3ktWF4d9um38F9Uc2VoINH) | [Los Remixes](https://open.spotify.com/album/5WJkVH2Zy74mXeE6pgGULV) | 3:11 |
+| 12 | [Hermoso Nombre \- Remix](https://open.spotify.com/track/250Hd63echw5RCu1fvjwHt) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq) | [Los Remixes](https://open.spotify.com/album/5WJkVH2Zy74mXeE6pgGULV) | 3:11 |
 | 13 | [Rodeado \(Asi Peleo Mis Batallas\)](https://open.spotify.com/track/1zgsIiS5kLfWOOwH0xm1dY) | [Priscila Matiesco](https://open.spotify.com/artist/1wdCbEqpZ64lJTjXbqnD8M), [Evangelina Crubinca](https://open.spotify.com/artist/7aquXEXSrOvSZyWkOln2hi), [Joni Tevez](https://open.spotify.com/artist/4SRJ6Rqo5WmrtDAoon2jxZ) | [Rodeado \(Asi Peleo Mis Batallas\)](https://open.spotify.com/album/05QYFqStYMLZLHsiv1Rm8a) | 9:06 |
 | 14 | [Propósito](https://open.spotify.com/track/7c4xy0zTpIbExZh0wg9Gjv) | [Josías Onoto](https://open.spotify.com/artist/0aItvaN8OoSSCwTtDGvIWN), [Melody Franz](https://open.spotify.com/artist/0KGAFpq4y7idw7HBtHKGIU) | [Propósito](https://open.spotify.com/album/6HP7jAj7r0I1qJj6CDvF9D) | 6:14 |
 | 15 | [Betania](https://open.spotify.com/track/7qqvRKIcgnzkIIgj9yk6AC) | [Semillas De Vida](https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2) | [Betania](https://open.spotify.com/album/4pRymoq2Es1dBnAzpy24Kq) | 8:15 |

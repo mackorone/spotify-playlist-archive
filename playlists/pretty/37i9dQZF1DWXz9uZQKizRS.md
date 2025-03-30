@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: PAULA ROMA, Kathia
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,846 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,848 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 22 | [modlitwa](https://open.spotify.com/track/69T5uAZvcOOy2DGIVVUr9Q) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [modlitwa](https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN) | 2:25 |
 | 23 | [smutna planeta](https://open.spotify.com/track/66l8hZa57KPWu86MtgfToD) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [smutna planeta](https://open.spotify.com/album/6NyE88EDc9nrPUrcAdCY9d) | 2:59 |
 | 24 | [Maj 1939 \(Z\. Ginczanka\)](https://open.spotify.com/track/3yprz1Nu7lBzOksp7bivNr) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Maj 1939 \(Z\. Ginczanka\)](https://open.spotify.com/album/69lSgcOsIvRb27DwIULYEu) | 3:16 |
-| 25 | [NIE DAJ SIĘ](https://open.spotify.com/track/7EfvZQ1Y6XtP27XI7HMhqX) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [NIE DAJ SIĘ](https://open.spotify.com/album/7cqxBNP7aaI6ufuKYrDIEm) | 2:40 |
+| 25 | [NIE DAJ SIĘ](https://open.spotify.com/track/7EfvZQ1Y6XtP27XI7HMhqX) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [NIE DAJ SIĘ](https://open.spotify.com/album/7cqxBNP7aaI6ufuKYrDIEm) | 2:40 |
 | 26 | [Przed Zmierzchem](https://open.spotify.com/track/3mxWdDPIwb0vazxKAJxWl1) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Patrycja Mizerska](https://open.spotify.com/artist/3Icw9ace9TUGGVOqFqBNfi) | [Przed Zmierzchem](https://open.spotify.com/album/0tAg7QGNXd7pqhuIIoWilu) | 3:32 |
 | 27 | [Z daleka](https://open.spotify.com/track/6jygpzUxLsi3DXcWyBFisT) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Z daleka](https://open.spotify.com/album/1nwgR2s7Ti50wST74EkNAw) | 3:36 |
 | 28 | [Nastolatek \- Radio edit](https://open.spotify.com/track/4PcpgIdED8lLelt84JepFq) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Nastolatek \(Radio edit\)](https://open.spotify.com/album/5Ykv6y7OGnCnU2QqakY1qW) | 3:35 |
