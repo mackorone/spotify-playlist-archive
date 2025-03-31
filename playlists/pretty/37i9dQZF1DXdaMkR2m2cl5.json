@@ -543,6 +543,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Some People I Know",
+        "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 177452,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/4dIhkME9H3hzb0wNhA3f1m"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 220848,
       "name": "Scattershot",
       "url": "https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Some People I Know",
-        "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 177452,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/4dIhkME9H3hzb0wNhA3f1m"
     },
     {
       "added_at": "2023-09-15 04:00:00",

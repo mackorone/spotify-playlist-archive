@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,389 likes - 120 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,387 likes - 120 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 45 | [Colored Abyss](https://open.spotify.com/track/70KMLoUKbqkUOVPF1SJx61) | [Pete McMurray](https://open.spotify.com/artist/0axEcnxjPL29xOVtOW2RSN) | [Colored Abyss](https://open.spotify.com/album/5RNcOxVxZj9wjNvN1Bik8X) | 2:41 |
 | 46 | [Cepheid](https://open.spotify.com/track/3lrj8lldxN9UESE70sspmd) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [Light Years](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) | 4:32 |
 | 47 | [Intervention](https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Intervention](https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62) | 2:55 |
-| 48 | [Focus One](https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus One](https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1) | 3:31 |
-| 49 | [Sepia Dreams](https://open.spotify.com/track/7AmKStZhRS1vo7aT3vURqO) | [Nebula Drift](https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh) | [Sepia Dreams](https://open.spotify.com/album/3sykd6tVUWJwCNEhPKCshJ) | 2:42 |
-| 50 | [The Vase](https://open.spotify.com/track/6QKQxPbhKOF9z3AiQKyyE5) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [The Vase](https://open.spotify.com/album/07k5ouNCNLE4lLn7UYrmhQ) | 2:22 |
-| 51 | [Morning Song](https://open.spotify.com/track/5xwjyZHMhpl0L1Obp0fV2j) | [Cijon](https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj) | [Morning Song](https://open.spotify.com/album/1kewlFuBDRl9Je0mKP0ttc) | 2:37 |
+| 48 | [Sepia Dreams](https://open.spotify.com/track/7AmKStZhRS1vo7aT3vURqO) | [Nebula Drift](https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh) | [Sepia Dreams](https://open.spotify.com/album/3sykd6tVUWJwCNEhPKCshJ) | 2:42 |
+| 49 | [The Vase](https://open.spotify.com/track/6QKQxPbhKOF9z3AiQKyyE5) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [The Vase](https://open.spotify.com/album/07k5ouNCNLE4lLn7UYrmhQ) | 2:22 |
+| 50 | [Morning Song](https://open.spotify.com/track/5xwjyZHMhpl0L1Obp0fV2j) | [Cijon](https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj) | [Morning Song](https://open.spotify.com/album/1kewlFuBDRl9Je0mKP0ttc) | 2:37 |
+| 51 | [Focus One](https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus One](https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1) | 3:31 |
 | 52 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 |
 | 53 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 |
 | 54 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 |
@@ -105,11 +105,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 95 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 |
 | 96 | [Vesperam](https://open.spotify.com/track/6xUIYjip7xV5rOGz0V168m) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Vesperam](https://open.spotify.com/album/6XnyWTBrYLkNvpiDoEN3b5) | 2:56 |
 | 97 | [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 |
-| 98 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 |
-| 99 | [Traveling South](https://open.spotify.com/track/403ONsS1ggfGlohDshBgjG) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Traveling South](https://open.spotify.com/album/3a1knsci6NazXIV5pK4OFh) | 3:00 |
-| 100 | [Stillness](https://open.spotify.com/track/4bnaF7yVJ8vc0jmdbwGkeP) | [Gae Terragni](https://open.spotify.com/artist/48aSPr6mkeQaIKPJtMycrj) | [Stillness](https://open.spotify.com/album/2hMPYFNkc0f3Ceq7BjZl5w) | 2:38 |
-| 101 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 |
-| 102 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 |
+| 98 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 |
+| 99 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 |
+| 100 | [Traveling South](https://open.spotify.com/track/403ONsS1ggfGlohDshBgjG) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Traveling South](https://open.spotify.com/album/3a1knsci6NazXIV5pK4OFh) | 3:00 |
+| 101 | [Stillness](https://open.spotify.com/track/4bnaF7yVJ8vc0jmdbwGkeP) | [Gae Terragni](https://open.spotify.com/artist/48aSPr6mkeQaIKPJtMycrj) | [Stillness](https://open.spotify.com/album/2hMPYFNkc0f3Ceq7BjZl5w) | 2:38 |
+| 102 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 |
 | 103 | [Forgotten Desires](https://open.spotify.com/track/5TsPiBgoHxpBuf8upDnLln) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Forgotten Desires](https://open.spotify.com/album/65vjvKUEuZv3cFLrBZjWp0) | 2:21 |
 | 104 | [Passing By](https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Passing By](https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU) | 3:39 |
 | 105 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 |

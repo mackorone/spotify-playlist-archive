@@ -1,6 +1,6 @@
 {
   "description": "Face-melters only. Cover: Eddie Van Halen",
-  "num_followers": 1509842,
+  "num_followers": 1510025,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Heartbreaker - 1990 Remaster",
-      "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 313373,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Heartbreaker - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Joe's Garage Acts I, II & III",
-        "url": "https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        }
-      ],
-      "duration_ms": 547960,
-      "name": "Watermelon In Easter Hay",
-      "url": "https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 297373,
       "name": "Lenny",
       "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Joe's Garage Acts I, II & III",
+        "url": "https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "duration_ms": 547960,
+      "name": "Watermelon In Easter Hay",
+      "url": "https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues - Live At Fillmore East, March 12, 1971 - First Show",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
         "name": "Flying In A Blue Dream",
         "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 323066,
       "name": "Flying in a Blue Dream",
       "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Here Come The Warm Jets",
-        "url": "https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 319373,
-      "name": "Baby's On Fire - Remastered 2004",
-      "url": "https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI"
     }
   ],
   "unique_name": "Legendary Guitar Solos",

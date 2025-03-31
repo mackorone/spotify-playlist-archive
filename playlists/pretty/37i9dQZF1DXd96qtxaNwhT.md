@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,016 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,025 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 67 | [Lovesick](https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs) | [Jack Robertson](https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T), [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Lovesick](https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB) | 3:44 |
 | 68 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 69 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 |
-| 70 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 |
-| 71 | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 |
-| 72 | [Dream On](https://open.spotify.com/track/6BCGPXXC8gfZUZfVSz7KtW) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Dream On](https://open.spotify.com/album/3fXM1TfNBpDAs3GaJTwS2Y) | 3:51 |
+| 70 | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 |
+| 71 | [Dream On](https://open.spotify.com/track/6BCGPXXC8gfZUZfVSz7KtW) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Dream On](https://open.spotify.com/album/3fXM1TfNBpDAs3GaJTwS2Y) | 3:51 |
+| 72 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 |
 | 73 | [Alone on the Moon](https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Alone on the Moon](https://open.spotify.com/album/1RlXHytHcfxZjLlnN4PC9W) | 3:11 |
 | 74 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 |
 | 75 | [I Would](https://open.spotify.com/track/1TfyoN21PbOuUQXBkjNjGk) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [I Would](https://open.spotify.com/album/65Phf4Ar2O7uXUn8sflqFI) | 3:21 |

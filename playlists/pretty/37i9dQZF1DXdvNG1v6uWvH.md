@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist frá Ariana Grande, Birnir og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,201 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,202 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 86 | [Say It's Over](https://open.spotify.com/track/2Bld0ECkYEE0Txsgdkp0hA) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Say It's Over](https://open.spotify.com/album/5vTE6chsIaysIXnlqJ22zE) | 2:05 |
 | 87 | [Pavement](https://open.spotify.com/track/5Bg9F10yutS3kGUXgiKkCC) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [Pavement](https://open.spotify.com/album/4942j5PnFEcAH1isNYXpmP) | 3:27 |
 | 88 | [longest day on the beach](https://open.spotify.com/track/2Yhf2mOGeU0YDE4LapXmWE) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [longest day on the beach](https://open.spotify.com/album/0yrDVStpgEO9ZM3By7REEP) | 4:11 |
-| 89 | [sky king](https://open.spotify.com/track/4zW2ffpTVJXKz8OANJCaYK) | [Hounds](https://open.spotify.com/artist/19PLpNEIhz6DvnRFMWNo9J) | [sky king](https://open.spotify.com/album/6LnrwKA1OWh4MSZMCLC6yi) | 3:59 |
-| 90 | [On my Mind](https://open.spotify.com/track/6YejsW2SEeISYMpUvCD45f) | [The Perfumist](https://open.spotify.com/artist/6tliw5g3UJwx3NNfKXiYq4) | [On my Mind](https://open.spotify.com/album/4aMmZLw3vv42RM5C99r74B) | 3:11 |
-| 91 | [Bastard](https://open.spotify.com/track/1cgTrpKtampzDh4Lt4mB8W) | [Brynja Rán](https://open.spotify.com/artist/4ru6DsYY6QIegPYyD0AZOt) | [Bastard](https://open.spotify.com/album/7h4qPjnkPRjFtOuotMUzHD) | 3:06 |
-| 92 | [Five Years From Now](https://open.spotify.com/track/03GV7gKXNjfOLl9SdzRLM7) | [Ragnar Olafsson](https://open.spotify.com/artist/0ceRs3GSji9kQCDtW42N65) | [Mexico](https://open.spotify.com/album/6KhZNvBTDSVF9a4J8PG0Xh) | 2:59 |
-| 93 | [Olvídame](https://open.spotify.com/track/3f8SZaj3TCNx1vIEOw42Qp) | [Pitenz](https://open.spotify.com/artist/6ijYq2QSTeOMuKoFGTB5eV) | [7](https://open.spotify.com/album/4FFB6WpKAmVIEB0EgLtQ9x) | 3:47 |
-| 94 | [Tag 4 Tag](https://open.spotify.com/track/32BmVGQNaYd36ve7f4Ar92) | [lil mario](https://open.spotify.com/artist/1BJet6m0LaVHlTlwSFIxMO) | [Tag 4 Tag](https://open.spotify.com/album/2mgFQeoFwQHUsVuOmyYDOB) | 2:34 |
-| 95 | [Run I](https://open.spotify.com/track/55Qgr5xK6OKSnIdNamKVfd) | [Ea Akilat](https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ), [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [Run I/IV](https://open.spotify.com/album/2JDFwNkxY3XseoPwvJeRJW) | 1:55 |
-| 96 | [Hall of Fame](https://open.spotify.com/track/7d199Uwm74MaKwY81Lb7gK) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Fish Food](https://open.spotify.com/album/5yEKSDSQAAonGZDfnnxHxk) | 3:23 |
-| 97 | [Warm Streetlights](https://open.spotify.com/track/0dcDe0fpnoJYQxrFqm2Blo) | [V.V.I.A.](https://open.spotify.com/artist/6O6Bd9Vv1b8OpjxTwUxfTT), [Venus Volcanism](https://open.spotify.com/artist/5QN22Nuch4HIFASEwpTqhF), [In Atlas](https://open.spotify.com/artist/4R5wjsM5vUjsgjah7v4J2P) | [I Knew You Before We Met](https://open.spotify.com/album/7ihyFA1wabrOrKu5r2avRZ) | 3:38 |
-| 98 | [shortest day on the beach](https://open.spotify.com/track/3KbVZlInw4HU2TD3rl9vMh) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV), [re:treat](https://open.spotify.com/artist/4RpXImfXn7MswsilaMi8OF) | [longest day on the beach](https://open.spotify.com/album/0yrDVStpgEO9ZM3By7REEP) | 2:06 |
-| 99 | [Party Girl](https://open.spotify.com/track/6EFFxQF3asb9fW9OSLug10) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Lush](https://open.spotify.com/album/4WkNU8w47Cl7slbsZZPpKT) | 5:28 |
-| 100 | [Ghost \(feat\. jite\) \- remix](https://open.spotify.com/track/6pLclh5vAOewiBJ5felQ3x) | [Luthersson](https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109), [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [Ghost \(feat\. jite\) \[Remix\]](https://open.spotify.com/album/0aSyFpZuVWSg4JMuSfXwX1) | 3:37 |
+| 89 | [Hall of Fame](https://open.spotify.com/track/7d199Uwm74MaKwY81Lb7gK) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Fish Food](https://open.spotify.com/album/5yEKSDSQAAonGZDfnnxHxk) | 3:23 |
+| 90 | [Nothing Without You](https://open.spotify.com/track/0IfYF9evGdkLHxBrY06hsh) | [Under The Elms](https://open.spotify.com/artist/1nWNNhWyvkcuFlwc1Zwswk) | [Nothing Without You](https://open.spotify.com/album/018QUOPoNDwLlFp3VJ7DvE) | 2:59 |
+| 91 | [Miðstöðin](https://open.spotify.com/track/5KtzmDT0ykCOHcZkUMoE24) | [Johnny Blaze & Hakki Brakes](https://open.spotify.com/artist/3unt5HBSSNkLOhU5o6Gs8I), [Mr\. Silla](https://open.spotify.com/artist/5fDIMFV2dlwWyRdebipqUo) | [Miðstöðin](https://open.spotify.com/album/2CO5BqAJlW1nEJ8kcs1jkq) | 5:28 |
+| 92 | [Run I](https://open.spotify.com/track/55Qgr5xK6OKSnIdNamKVfd) | [Ea Akilat](https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ), [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [Run I/IV](https://open.spotify.com/album/2JDFwNkxY3XseoPwvJeRJW) | 1:55 |
+| 93 | [sky king](https://open.spotify.com/track/4zW2ffpTVJXKz8OANJCaYK) | [Hounds](https://open.spotify.com/artist/19PLpNEIhz6DvnRFMWNo9J) | [sky king](https://open.spotify.com/album/6LnrwKA1OWh4MSZMCLC6yi) | 3:59 |
+| 94 | [shortest day on the beach](https://open.spotify.com/track/3KbVZlInw4HU2TD3rl9vMh) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV), [re:treat](https://open.spotify.com/artist/4RpXImfXn7MswsilaMi8OF) | [longest day on the beach](https://open.spotify.com/album/0yrDVStpgEO9ZM3By7REEP) | 2:06 |
+| 95 | [On my Mind](https://open.spotify.com/track/6YejsW2SEeISYMpUvCD45f) | [The Perfumist](https://open.spotify.com/artist/6tliw5g3UJwx3NNfKXiYq4) | [On my Mind](https://open.spotify.com/album/4aMmZLw3vv42RM5C99r74B) | 3:11 |
+| 96 | [Bastard](https://open.spotify.com/track/1cgTrpKtampzDh4Lt4mB8W) | [Brynja Rán](https://open.spotify.com/artist/4ru6DsYY6QIegPYyD0AZOt) | [Bastard](https://open.spotify.com/album/7h4qPjnkPRjFtOuotMUzHD) | 3:06 |
+| 97 | [Ghost \(feat\. jite\) \- remix](https://open.spotify.com/track/6pLclh5vAOewiBJ5felQ3x) | [Luthersson](https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109), [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [Ghost \(feat\. jite\) \[Remix\]](https://open.spotify.com/album/0aSyFpZuVWSg4JMuSfXwX1) | 3:37 |
+| 98 | [Party Girl](https://open.spotify.com/track/6EFFxQF3asb9fW9OSLug10) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Lush](https://open.spotify.com/album/4WkNU8w47Cl7slbsZZPpKT) | 5:28 |
+| 99 | [Olvídame](https://open.spotify.com/track/3f8SZaj3TCNx1vIEOw42Qp) | [Pitenz](https://open.spotify.com/artist/6ijYq2QSTeOMuKoFGTB5eV) | [7](https://open.spotify.com/album/4FFB6WpKAmVIEB0EgLtQ9x) | 3:47 |
+| 100 | [Burn the Drum](https://open.spotify.com/track/7leS8dumxneKd8l6Y6OIsf) | [Oliver Devaney](https://open.spotify.com/artist/1Vv8qjFI4X68yHEeHjtUqn) | [Burn the Drum](https://open.spotify.com/album/0fEDmVYanGlgbNpfp1bUcX) | 3:37 |
 
 Snapshot ID: `Z+Ye2wAAAAD3L0UKMeSNpnCCsXGriyhm`

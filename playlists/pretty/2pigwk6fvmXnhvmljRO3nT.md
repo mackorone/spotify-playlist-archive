@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,543 songs - 17 day 2 hr 43 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,551 songs - 17 day 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5929,7 +5929,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5919 | [Back in Time](https://open.spotify.com/track/2EsS9BRINN9NjuhykzV69F) | [린](https://open.spotify.com/artist/7etvfQxNFSPc4IPwAgFmtC) | [The Moon That Embraces the Sun OST \(Soundtrack\)](https://open.spotify.com/album/50LjIJGZeJiUgLEQPydiVv) | 3:31 |
 | 5920 | [잊지말아요](https://open.spotify.com/track/3kmqdUOIFUyJaYXDzPuSwk) | [발라드가수들](https://open.spotify.com/artist/2B6LUHwavLRRQscG3Oi74n) | [여자 가수 히트 발라드 모음 3집](https://open.spotify.com/album/6QJRgyCbjYulTTw825zVyt) | 4:03 |
 | 5921 | [맨발의 청춘](https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL) | [벅](https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq) | [맨발의 청춘](https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1) | 3:42 |
-| 5922 | [그대 내게 다시](https://open.spotify.com/track/63Hr7Uvt6S6BLgwvXfivAD) | [변진섭](https://open.spotify.com/artist/5Moz0OfOqFgmg4JpQNdyQm) | [변진섭5집\-그대 내게 다시](https://open.spotify.com/album/3ob8YgLT4Q71ZAi3viACtd) | 4:05 |
+| 5922 | [그대 내게 다시](https://open.spotify.com/track/63Hr7Uvt6S6BLgwvXfivAD) | [변진섭](https://open.spotify.com/artist/5Moz0OfOqFgmg4JpQNdyQm) | [그대 내게 다시](https://open.spotify.com/album/3ob8YgLT4Q71ZAi3viACtd) | 4:05 |
 | 5923 | [Tic Tac Toe](https://open.spotify.com/track/6aNc2VAWYiXklUN0sqy3tR) | [부가킹즈](https://open.spotify.com/artist/4uO7l2PC3obqQDjsBsyF7U) | [The Renaissance](https://open.spotify.com/album/1QMiVLQPf0OascUKHDg37l) | 3:55 |
 | 5924 | [서시](https://open.spotify.com/track/2L7BInu08uxTbnSUPUMcAc) | [신성우](https://open.spotify.com/artist/1MIfKoCxp9GZlygivx6gMG) | [서시](https://open.spotify.com/album/0sYbKlWmO3Ze6lJGUpis6d) | 3:43 |
 | 5925 | [진혼](https://open.spotify.com/track/2BxUjHQRrYX82cP3wDvOTU) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Restructure](https://open.spotify.com/album/6NEUkvavXv0GoJYxWPpfLp) | 5:06 |
@@ -6551,5 +6551,13 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6541 | [Chilling at the Cafe](https://open.spotify.com/track/0bAnMjBZEqlj39SpHB1omj) | [毎日甘いもの食べたい](https://open.spotify.com/artist/1GctxKMcdLc0FwcbpYJqrL) | [Chilling at the Cafe](https://open.spotify.com/album/74ad0BSaRnowjUARYYoxkr) | 1:24 |
 | 6542 | [Cotton Candy](https://open.spotify.com/track/4ZTvsIe2r6wyE3WBIB3IGv) | [Kim Mun Seong](https://open.spotify.com/artist/0y3CVo9fXDYScgj7XIANJA) | [Watercolor Painting](https://open.spotify.com/album/2DXEvD3JELAyRqeYK4dFrS) | 1:55 |
 | 6543 | [Parade](https://open.spotify.com/track/7bZB7muJ2bTZjgVdDr44PW) | [しゃろう](https://open.spotify.com/artist/78Oq5iXIM9HCAe0zYg8E7o) | [Parade](https://open.spotify.com/album/4zX9eyLOygb9YrmVAg1ijf) | 2:54 |
+| 6544 | [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 |
+| 6545 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
+| 6546 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 |
+| 6547 | [I Think I Like When It Rains](https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/0rLXT7k0bitHIkYLWrXIq5) | 4:38 |
+| 6548 | [Kimi ni Todoke](https://open.spotify.com/track/07a1JZd3ktwBFljqwB2znn) | [Tomofumi Tanizawa](https://open.spotify.com/artist/5n0GlcrNHmTAWB0xn4svSH) | [Kimi ni Todoke](https://open.spotify.com/album/3vKTcbCdP6Ps0e3RcpZTjE) | 3:25 |
+| 6549 | [Comfort Chain](https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1) | 3:04 |
+| 6550 | [Watering My Plants](https://open.spotify.com/track/0LH7ijaQi0ybY6Oe4SCLo1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Adjust To The Game](https://open.spotify.com/album/1fhJxvLoBB7tdxQVZhBpfB) | 2:15 |
+| 6551 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 
-Snapshot ID: `AAAD7OAK83+++xhhQZQB5CbhEzSZsdUq`
+Snapshot ID: `AAAD9j3jQA4V0giBnqa3ditZhRgphdZL`

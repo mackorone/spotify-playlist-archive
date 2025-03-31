@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 
 > hora d hacer la meme
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,924 likes - 236 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,917 likes - 236 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 | 57 | [Remembrance](https://open.spotify.com/track/7o5vJPnyA74cuM60JQ8NQS) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Remembrance](https://open.spotify.com/album/5Rhc4DOgS45jzFpd74v7pR) | 2:48 |
 | 58 | [Eclipse](https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Eclipse](https://open.spotify.com/album/4NN6SfzljIm5dqqkCXARPY) | 2:55 |
 | 59 | [Expectancy](https://open.spotify.com/track/13c21xph1VSr6Nxc5JSMeP) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Expectancy](https://open.spotify.com/album/2zYNtZBAUbiE3ZBJoxeTMn) | 2:51 |
-| 60 | [In the Stillness](https://open.spotify.com/track/38UK747YAiaElqtkXz8xmX) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [In the Stillness](https://open.spotify.com/album/1t7JhPDdr9OqJOez5uB1SW) | 3:09 |
-| 61 | [Euclid](https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Euclid](https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej) | 2:27 |
+| 60 | [Euclid](https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Euclid](https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej) | 2:27 |
+| 61 | [In the Stillness](https://open.spotify.com/track/38UK747YAiaElqtkXz8xmX) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [In the Stillness](https://open.spotify.com/album/1t7JhPDdr9OqJOez5uB1SW) | 3:09 |
 | 62 | [Abyss](https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Abyss](https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN) | 2:54 |
 | 63 | [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 |
 | 64 | [Familiar Hemisphere](https://open.spotify.com/track/79QDfGlwn1LjdNyHPJuucN) | [Adrien Magnusen](https://open.spotify.com/artist/4GjMz4ePaiqSI3rOWIiLir) | [Familiar Hemisphere](https://open.spotify.com/album/0LhQd7xIBY0Dbg62mbvVe2) | 2:09 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 | 75 | [Crystal Shells](https://open.spotify.com/track/2zYMpzcL5s032DNC3FX1M0) | [Sasha Coleman](https://open.spotify.com/artist/48h7ZhLv7ZR1D1HFUcA7oO) | [Crystal Shells](https://open.spotify.com/album/63yjO9pMTTnJni9RA6d6Wh) | 2:37 |
 | 76 | [Droplets](https://open.spotify.com/track/1LUljKZFZcHctU5OBMqFmG) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Droplets](https://open.spotify.com/album/4jztVXUzJmvVITmF509pPu) | 2:50 |
 | 77 | [Seeking Light](https://open.spotify.com/track/11SGmPlJJVTIaO0MIbOPdP) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Seeking Light](https://open.spotify.com/album/10nuZNLsHAEWI1DdKeUH83) | 2:55 |
-| 78 | [Steady State](https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Steady State](https://open.spotify.com/album/2HPKrqGymgPLfjEGKFdycC) | 2:51 |
-| 79 | [Moonblossom](https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Moonblossom](https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4) | 2:22 |
-| 80 | [Orbiting Solitude](https://open.spotify.com/track/5cjqCGTY2O4ealKtCSeoda) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Orbiting Solitude](https://open.spotify.com/album/2ljkYFpk8HeHtqP494zXOq) | 2:24 |
+| 78 | [Moonblossom](https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Moonblossom](https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4) | 2:22 |
+| 79 | [Orbiting Solitude](https://open.spotify.com/track/5cjqCGTY2O4ealKtCSeoda) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Orbiting Solitude](https://open.spotify.com/album/2ljkYFpk8HeHtqP494zXOq) | 2:24 |
+| 80 | [Steady State](https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Steady State](https://open.spotify.com/album/2HPKrqGymgPLfjEGKFdycC) | 2:51 |
 | 81 | [Miravar](https://open.spotify.com/track/5iEcnvMT4iEPjDihzlq4Ns) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Miravar](https://open.spotify.com/album/0ExUh2Y2QlemMCiEtXTwDt) | 2:51 |
 | 82 | [Beyond the Valley](https://open.spotify.com/track/5nAw7zxtQKsWNXcaliIewg) | [Broadleaf Radio](https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON) | [Beyond the Valley](https://open.spotify.com/album/2FnqXYSMOOu9KV5R5MGviq) | 3:21 |
 | 83 | [Dimmed Light](https://open.spotify.com/track/7zNoicQ4RSRfWzyMH9uf4j) | [Universal Embrace](https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY) | [Dimmed Light](https://open.spotify.com/album/7CHL1omMAmsCF9B25bT11e) | 2:59 |

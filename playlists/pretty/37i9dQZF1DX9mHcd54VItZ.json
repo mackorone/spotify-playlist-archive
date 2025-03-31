@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=7X1_tHmfSle3dzFG6qztgg\">Francois van Coke</a>",
-  "num_followers": 22722,
+  "num_followers": 22730,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-28 06:27:48",
       "album": {
-        "name": "Berge",
-        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 255722,
-      "name": "Berge",
-      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
-    },
-    {
-      "added_at": "2025-03-28 06:27:48",
-      "album": {
         "name": "Wie's Bang",
         "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 212573,
       "name": "Dis 'N Land",
       "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
+    },
+    {
+      "added_at": "2025-03-28 06:27:48",
+      "album": {
+        "name": "Berge",
+        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 255722,
+      "name": "Berge",
+      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
     },
     {
       "added_at": "2025-03-28 06:27:48",

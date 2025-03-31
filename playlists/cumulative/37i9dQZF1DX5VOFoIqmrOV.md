@@ -4,13 +4,14 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-245 songs - 16 hr 13 min
+246 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 0:00 | 2022-07-24 | 2023-03-22 |
 | [](https://open.spotify.com/track/47BZ5zznG2jzc2hjsEbvxH) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 0:00 | 2021-12-16 | 2023-03-22 |
 | [](https://open.spotify.com/track/6rji5mwjuHRuhozNhn8DG8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2FJmYZos4BIzkjvhmAy1hU) | 0:00 | 2021-12-16 | 2023-03-22 |
+| [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 | 2023-08-07 |  |
 | [Aanandam Madike](https://open.spotify.com/track/3AqiOvi0fx0LsYlqPswUf8) | [Sid Sriram, Satya Yamini](https://open.spotify.com/artist/5R6Apw6QgECTJDP8RqWm3n) | [Ishq \- Not A Love Story](https://open.spotify.com/album/4S1FWZaXzEt3MXbzChYDkR) | 3:38 | 2021-12-16 | 2022-07-25 |
 | [Adiga Adiga](https://open.spotify.com/track/5Mo0zkOAPtR2rW9kL29X37) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ninnu Kori](https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8) | 3:29 | 2023-08-07 |  |
 | [Akhanda \- Title Song \(From "Akhanda"\)](https://open.spotify.com/track/1xTxKdIpD2QDTBAMvBNr7J) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Shivam Mahadevan](https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl) | [Akhanda \- Title Song \(From "Akhanda"\)](https://open.spotify.com/album/1o06U1v1fjOYGWWCA0sSvn) | 4:44 | 2021-12-16 | 2022-07-25 |
@@ -90,7 +91,7 @@
 | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Gundellonaa \(From "Ori Devuda"\) \- Single](https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO) | 3:20 | 2023-01-11 | 2023-08-08 |
 | [Guruvaram](https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Kirrak Party](https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p) | 3:36 | 2022-07-24 |  |
 | [Gusa Gusa Lade](https://open.spotify.com/track/1W5Ap5w2SFAKuxebIU2CAN) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5imMm0rlYNFKqLHAzt5gxm) | 3:57 | 2021-12-16 | 2022-07-25 |
-| [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 | 2023-08-07 |  |
+| [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 | 2023-08-07 | 2025-03-31 |
 | [Hey Idi Nenena](https://open.spotify.com/track/10nKbCaaU2OFTywWNvqHkX) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Solo Brathuke So Better \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7awYSEyiYQKxMwz6jBumue) | 4:14 | 2022-07-24 | 2023-08-08 |
 | [Hey Idi Nenena \(From "Solo Brathuke So Better"\)](https://open.spotify.com/track/4GC2IwmYrlC12YfPfHPLQe) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hey Idi Nenena \(From "Solo Brathuke So Better"\)](https://open.spotify.com/album/0UMCfoLfAmiV5jfwIB5Rd2) | 4:14 | 2021-12-16 | 2022-07-25 |
 | [Hey Pillagaada](https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS) | [Sindhuri](https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG), [Sinov Raj](https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:08 | 2023-08-07 |  |

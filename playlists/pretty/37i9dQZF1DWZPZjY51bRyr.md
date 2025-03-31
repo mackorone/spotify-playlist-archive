@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,647 likes - 170 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,682 likes - 170 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 19 | [Petal](https://open.spotify.com/track/5unOU1NabCBv04wxyWwoCe) | [Dhyana](https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX) | [Petal](https://open.spotify.com/album/27h5GuP3utJANajWzjhuKI) | 2:39 |
 | 20 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 |
 | 21 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 |
-| 22 | [Encounter](https://open.spotify.com/track/2u0OrgjfGTyQLGNtClTBD5) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Encounter](https://open.spotify.com/album/0HNu4tr2WmMR6Srn1pTMpN) | 2:37 |
-| 23 | [Through The Changes](https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Through The Changes](https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns) | 3:29 |
+| 22 | [Through The Changes](https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Through The Changes](https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns) | 3:29 |
+| 23 | [Encounter](https://open.spotify.com/track/2u0OrgjfGTyQLGNtClTBD5) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Encounter](https://open.spotify.com/album/0HNu4tr2WmMR6Srn1pTMpN) | 2:37 |
 | 24 | [Harps of Refinement](https://open.spotify.com/track/7rmtLLMsb4zKZbs8m4TBFs) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Harps of Refinement](https://open.spotify.com/album/24rrR09ppuyoNWgKwGRP4J) | 3:00 |
 | 25 | [528 Hz Well Being](https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [528 Hz Well Being](https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp) | 3:01 |
 | 26 | [Clear Mind \- 432 Hz](https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA) | [Liilia Janes](https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j) | [Clear Mind \- 432 Hz](https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM) | 2:51 |
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 60 | [Miraculous](https://open.spotify.com/track/3MYrAqstmtJbm1uEAFtdQD) | [Elements](https://open.spotify.com/artist/3c6UIuZ0KCsN5nhXFErvMy) | [Miraculous](https://open.spotify.com/album/1ghztZVEQP5SJxN0t3zmzp) | 2:18 |
 | 61 | [Shadow Behind the Hill](https://open.spotify.com/track/066ZcXmTUcgiQOWKL9RVdf) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Shadow Behind the Hill](https://open.spotify.com/album/4C8nFHQAZimibmids5LwTW) | 2:40 |
 | 62 | [Your Eyes](https://open.spotify.com/track/0we7ueXlIbKRsfPkOuX9dW) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Your Eyes](https://open.spotify.com/album/6SoYA3Ay1qSWc14Ug5E9lR) | 3:40 |
-| 63 | [Pune](https://open.spotify.com/track/0RmW4i2Drbqe2i7rLzReL4) | [Arch](https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL) | [Pune](https://open.spotify.com/album/0jUYXqBJAa9peMbYsTP5wE) | 2:56 |
-| 64 | [Zense](https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Zense](https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ) | 2:57 |
+| 63 | [Zense](https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Zense](https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ) | 2:57 |
+| 64 | [Pune](https://open.spotify.com/track/0RmW4i2Drbqe2i7rLzReL4) | [Arch](https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL) | [Pune](https://open.spotify.com/album/0jUYXqBJAa9peMbYsTP5wE) | 2:56 |
 | 65 | [Ananda](https://open.spotify.com/track/3uq6352VXgMMJ2VvVXLgI0) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Ananda](https://open.spotify.com/album/0veARGclLULEvfaKbbLr0H) | 3:29 |
 | 66 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 |
 | 67 | [Nomad Sunset](https://open.spotify.com/track/7i4vfxYPhQOAKhqx693w8U) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Nomad Sunset](https://open.spotify.com/album/7cCqGm4KWivC0lbOR3X752) | 3:24 |
 | 68 | [Nereal Beauty](https://open.spotify.com/track/1eNHSY3zqCHnBGok3b5hsG) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Nereal Beauty](https://open.spotify.com/album/6jHxOlPcctkQrPcBjtEwwi) | 2:27 |
-| 69 | [Exploration](https://open.spotify.com/track/1r4ZJZtYc26u54jIgOhlbM) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Exploration](https://open.spotify.com/album/3u4416QBy5zLXb5Okw0qnC) | 2:49 |
-| 70 | [Fourth Magnitude](https://open.spotify.com/track/5HLF9qyqBKWJoNks93acco) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Fourth Magnitude](https://open.spotify.com/album/3jNFiZVHftvuPAUvv2swP7) | 2:53 |
+| 69 | [Fourth Magnitude](https://open.spotify.com/track/5HLF9qyqBKWJoNks93acco) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Fourth Magnitude](https://open.spotify.com/album/3jNFiZVHftvuPAUvv2swP7) | 2:53 |
+| 70 | [Exploration](https://open.spotify.com/track/1r4ZJZtYc26u54jIgOhlbM) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Exploration](https://open.spotify.com/album/3u4416QBy5zLXb5Okw0qnC) | 2:49 |
 | 71 | [Mirage](https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Mirage](https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx) | 2:18 |
 | 72 | [Welfare](https://open.spotify.com/track/5Bli3DZHL98wqcdVICgpuA) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Welfare](https://open.spotify.com/album/5VCu4xY2prTZ6XDArvfw73) | 3:21 |
 | 73 | [Healing Winds](https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds](https://open.spotify.com/album/3ii72HV58BygTMrrqVh4UJ) | 3:02 |

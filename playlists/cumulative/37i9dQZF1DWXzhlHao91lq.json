@@ -941,6 +941,28 @@
     },
     {
       "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/5fhJHv91Y71lXFzrRMw9ku"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277299,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/4joCdZ76bt2OQTqYMbizJI"
+    },
+    {
+      "album": {
         "name": "dishonesty",
         "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
@@ -4108,7 +4130,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 295066,
       "name": "The Open Sea",
       "url": "https://open.spotify.com/track/7sPdbKOGW6OYEE6F2jNrD8"
@@ -4851,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/3Y7mCZN8kDs7oZX89bazbg"
+      },
+      "artists": [
+        {
+          "name": "Vivien Yap",
+          "url": "https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168076,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/0zdUjThG0sDfyF27Ji3XHd"
+    },
+    {
+      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -4974,7 +5014,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 182442,
       "name": "You Belong",
       "url": "https://open.spotify.com/track/7l0tDNF2csr9nNfwhiwPnp"

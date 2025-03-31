@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: soap
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,544 likes - 96 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,547 likes - 96 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 <a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,093 likes - 59 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,096 likes - 59 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

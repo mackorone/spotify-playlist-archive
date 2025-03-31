@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 20304,
+  "num_followers": 20310,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmxQAAAACRoFqHlK3ZGTcrLg5bIWFP",
+  "snapshot_id": "Z+kV0AAAAACfkhHWb6A78bCPYsUmJwpC",
   "tracks": [
     {
       "added_at": "2025-03-28 00:01:09",
@@ -47,6 +47,22 @@
       "duration_ms": 194571,
       "name": "We will be many",
       "url": "https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN"
+    },
+    {
+      "added_at": "2025-03-30 09:58:40",
+      "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/0zsCBuFbfqrHLFt2KKwluz"
+      },
+      "artists": [
+        {
+          "name": "Naomi Classik",
+          "url": "https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW"
+        }
+      ],
+      "duration_ms": 981193,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/7DFITGJNeTWWtpz8o3jbj2"
     },
     {
       "added_at": "2023-05-26 00:01:00",

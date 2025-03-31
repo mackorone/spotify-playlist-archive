@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Cazzu",
-  "num_followers": 274281,
+  "num_followers": 274302,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,22 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
-        "name": "Piel",
-        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 141079,
-      "name": "Piel",
-      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -187,6 +187,26 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 141079,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
         "name": "DOCTOR",
         "url": "https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 144148,
       "name": "DOCTOR",
       "url": "https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 209492,
       "name": "POR QU\u00c9 SER\u00c1",
       "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -475,6 +475,26 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 214735,
+      "name": "LOS DOS",
+      "url": "https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -527,26 +547,6 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 214735,
-      "name": "LOS DOS",
-      "url": "https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Sin Ti No S\u00e9 Vivir",
-      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -623,6 +607,22 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Sin Ti No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/6Vwvxf9LwtMKAZjNIGpiKr"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
         "name": "AMOR PROPIO",
         "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 172485,
       "name": "AMOR PROPIO",
       "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
-        "name": "El Amor de Mi Vida",
-        "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
         "name": "Felic\u00edtalo",
         "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 186226,
       "name": "Felic\u00edtalo",
       "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
+        "name": "El Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -779,26 +779,6 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
-        "name": "Perdonarte \u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Perdonarte \u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -891,6 +871,26 @@
       "duration_ms": 247786,
       "name": "Suave Y Tierno",
       "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
+        "name": "Perdonarte \u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Perdonarte \u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
+        "name": "Recuerdos Andinos",
+        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Cumbia Azteca",
+      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
-        "name": "Recuerdos Andinos",
-        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
         }
       ],
-      "duration_ms": 236813,
-      "name": "Cumbia Azteca",
-      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -1083,22 +1099,6 @@
       "duration_ms": 238335,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
-        "name": "Linda Mujer",
-        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 169471,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
+        "name": "No Hay Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "No Hay Vida Sin Ti",
+      "url": "https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
         "name": "Si Alguien Me Ve",
         "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 181386,
       "name": "EL POLACO | DJ TAO Turreo Sessions #27",
       "url": "https://open.spotify.com/track/4xY29SGoJwc10t78HZCZwd"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
-        "name": "No Hay Vida Sin Ti",
-        "url": "https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "No Hay Vida Sin Ti",
-      "url": "https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z"
     },
     {
       "added_at": "2025-03-28 18:57:53",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2025-03-28 18:57:53",
       "album": {
+        "name": "Gritar\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/4Irm6WebB7Z2OT8Z4tnPQJ"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 209224,
+      "name": "Gritar\u00eda - Remix",
+      "url": "https://open.spotify.com/track/4r3gyRGbwgL5gdQT4AIwuz"
+    },
+    {
+      "added_at": "2025-03-28 18:57:53",
+      "album": {
         "name": "CHIRIPADA",
         "url": "https://open.spotify.com/album/7sSsgy9uMWg1NO5948red1"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 139058,
       "name": "Iguales",
       "url": "https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq"
-    },
-    {
-      "added_at": "2025-03-28 18:57:53",
-      "album": {
-        "name": "Gritar\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/4Irm6WebB7Z2OT8Z4tnPQJ"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 209224,
-      "name": "Gritar\u00eda - Remix",
-      "url": "https://open.spotify.com/track/4r3gyRGbwgL5gdQT4AIwuz"
     },
     {
       "added_at": "2025-03-28 18:57:53",

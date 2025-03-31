@@ -13580,7 +13580,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 217208,
       "name": "Burn the Drum",
       "url": "https://open.spotify.com/track/7leS8dumxneKd8l6Y6OIsf"
@@ -30708,7 +30708,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 179680,
       "name": "Five Years From Now",
       "url": "https://open.spotify.com/track/03GV7gKXNjfOLl9SdzRLM7"
@@ -59710,7 +59710,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 328000,
       "name": "Mi\u00f0st\u00f6\u00f0in",
       "url": "https://open.spotify.com/track/5KtzmDT0ykCOHcZkUMoE24"
@@ -64860,6 +64860,24 @@
       "duration_ms": 131666,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/2YRir3VAHPZy2mrlMKPEcz"
+    },
+    {
+      "album": {
+        "name": "Nothing Without You",
+        "url": "https://open.spotify.com/album/018QUOPoNDwLlFp3VJ7DvE"
+      },
+      "artists": [
+        {
+          "name": "Under The Elms",
+          "url": "https://open.spotify.com/artist/1nWNNhWyvkcuFlwc1Zwswk"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179742,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/0IfYF9evGdkLHxBrY06hsh"
     },
     {
       "album": {
@@ -86468,7 +86486,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 154505,
       "name": "Tag 4 Tag",
       "url": "https://open.spotify.com/track/32BmVGQNaYd36ve7f4Ar92"
@@ -96528,7 +96546,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 218000,
       "name": "Warm Streetlights",
       "url": "https://open.spotify.com/track/0dcDe0fpnoJYQxrFqm2Blo"

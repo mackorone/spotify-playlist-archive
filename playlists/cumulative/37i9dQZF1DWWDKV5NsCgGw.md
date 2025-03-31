@@ -4,7 +4,7 @@
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-121 songs - 5 hr 25 min
+124 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Pianississimo](https://open.spotify.com/track/4EZPjc5DRkYbjeErEivXHv) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:00 | 2023-02-17 |  |
 | [Piano Forte](https://open.spotify.com/track/1QwbJjAPDmd3QWAd7OIpF0) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 0:48 | 2023-02-17 |  |
 | [Piano Oscuro](https://open.spotify.com/track/0QE3lvkDq6SWekaibSEZlV) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:50 | 2023-02-17 |  |
+| [Piano Trio No\. 2 in E Minor, Op\. 67: I\. Andante \- Moderato](https://open.spotify.com/track/4mDEdBHRw1xgFl7yv9kGOI) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Emanuel Ax](https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5), [Isaac Stern](https://open.spotify.com/artist/3HYV4ZdJ1LSOhPo5ehlEqF) | [Shostakovich: Piano Trio No\. 2 in E Minor, Op\. 67 & Cello Sonata in D Minor, Op\. 40 \(Remastered\)](https://open.spotify.com/album/2Kwcyf1QGuoUybmnQGgieC) | 8:01 | 2025-03-31 |  |
 | [Piccolo piccolo](https://open.spotify.com/track/74zSpmg9Y4kRYcX3vxKRLd) | [Robertino](https://open.spotify.com/artist/1zB6QrCTm5gvZG5ZsYgSfy) | [Robertino Top Songs](https://open.spotify.com/album/5sE9AgCpcXyzPxzi7F4Sm3) | 2:33 | 2023-02-17 |  |
 | [Pimjai Lam Plearn](https://open.spotify.com/track/2aNYUdDZpSDoxtE2lQTFM0) | [The Paradise Bangkok Molam International Band](https://open.spotify.com/artist/1cBpduQulXQHJaj9m0RYS8) | [Araya Lam](https://open.spotify.com/album/6bLisJtpu2YaFXWr07g0m2) | 3:17 | 2025-02-17 |  |
 | [Pineapple Suite](https://open.spotify.com/track/4pslwLGsiXcRBc4jLyT0KE) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 2:37 | 2023-02-17 |  |
@@ -106,6 +107,7 @@
 | [Spiritual](https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Volume 1](https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth) | 2:34 | 2023-02-17 |  |
 | [Swing \(Crush Club Remix\)](https://open.spotify.com/track/2W4VxL0zdrdCdLjeo2dZUQ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [Swing \(Crush Club Remix\)](https://open.spotify.com/album/2mNJytDr4WjIyBaKom9taK) | 5:48 | 2025-03-17 |  |
 | [Testa di Moro](https://open.spotify.com/track/41U5FtI46R10WiB4PGz4Ou) | [Kim Neundorf](https://open.spotify.com/artist/4a7mPbeyyu6OIO7xoJCiBH) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 0:40 | 2023-02-17 |  |
+| [Thai Boxing](https://open.spotify.com/track/2ZbsOx9CLJYFiqor2C2yI5) | [Jiraphand Ong\-Ard](https://open.spotify.com/artist/28Owj9Ejv8D9Qyhcx9TLsM) | [Thai Beat A Go\-Go Vol\. 3](https://open.spotify.com/album/6btf9wNnXLhG8a5lFz6XO9) | 3:04 | 2025-03-31 |  |
 | [The Bass \- Club Mix](https://open.spotify.com/track/3XZmUDD3tKfh0EsbHfx5PY) | [Jason Jaxx](https://open.spotify.com/artist/11dG8nE6hMUFMEqIdTglYb), [DJ Flashback](https://open.spotify.com/artist/2Q5BnGKjhw9UCX4QbauUJ5) | [EDM 2020: Best Of Electro, Trance, Future Bass, House, Reggae, Hip\-Hop & Rap](https://open.spotify.com/album/2CTPyCg3p9FqcXqzqnNua7) | 4:35 | 2025-03-17 |  |
 | [The Best Things In Life Are Free \- Live](https://open.spotify.com/track/6jF3FFsAvliEqH0mWrkOla) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Sam Cooke At The Copa \(Live From Copacabana, New York City/July 7 & 8, 1964\)](https://open.spotify.com/album/0LmHN5Es93TYwXBSDn36lu) | 1:31 | 2023-02-17 |  |
 | [Ti ruberò](https://open.spotify.com/track/7JqnMhkypXhaFUqD74U6kO) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le più belle canzoni di Bruno Lauzi](https://open.spotify.com/album/7yDrycDjqxK5mMTRcSbUez) | 2:55 | 2023-02-17 |  |
@@ -128,6 +130,7 @@
 | [สามช่าคาราบาว](https://open.spotify.com/track/0q3evbLMFwykdzaUJWYYuk) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [คาราบาวซุปเปอร์ 3 ช่า Non\-Stop Vol.2](https://open.spotify.com/album/2UzoII0TGhsk3FGoUlOR4n) | 4:33 | 2025-03-03 |  |
 | [เธอคือความฝัน \(MUSIC BOX VERSION\)](https://open.spotify.com/track/5oZY3CtJ4xY8Rywnpemi8z) | [พราว](https://open.spotify.com/artist/3JGC3LkYrwlrTscixVwY72) | [L'amour](https://open.spotify.com/album/2ZRxqDuFkP4XAoYSe4xzma) | 3:29 | 2025-03-24 |  |
 | [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 | 2025-02-17 |  |
+| [ไปด้วยกันนะ](https://open.spotify.com/track/51CvSBJF342D1YRjmbWCY8) | [Christina Aguilar](https://open.spotify.com/artist/09VdMuwneFbHFtzjrFFPPx) | [RED BEAT รหัสร้อน](https://open.spotify.com/album/1THBiAtJXZBl6NI72uxwOS) | 4:00 | 2025-03-31 |  |
 | [ラム・キアオ\(ターン・ニャーオ\)](https://open.spotify.com/track/6v6Dl3YSMK5suVPcllEYGB) | [Chawiwan Damnoen](https://open.spotify.com/artist/7gC3jgnNKJdzJkt0eW58gh) | [THE WORLD ROOTS MUSIC LIBRARY: タイ/イサーンの音楽～モーラムとポーンラーン](https://open.spotify.com/album/1QdIKIVu6WJckuRjtm7J8M) | 3:45 | 2025-03-03 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

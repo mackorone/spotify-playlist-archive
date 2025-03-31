@@ -789,6 +789,42 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109053,
+      "name": "Katniss Afoot",
+      "url": "https://open.spotify.com/track/3iKss6qGNZ1jHQlbwCqp8m"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "Katniss Is Chosen",
+      "url": "https://open.spotify.com/track/7IFDy0hiM9kw3vmW4067W3"
+    },
+    {
+      "album": {
         "name": "Night After Night (Music from the Movies of M. Night Shyamalan)",
         "url": "https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui"
       },
@@ -1310,7 +1346,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 131271,
       "name": "Running on Raindrops",
       "url": "https://open.spotify.com/track/39Ji2TlTj6OWZBHKIyN6yp"
@@ -1422,7 +1458,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 205053,
       "name": "Tenuous Winners/Returning Home",
       "url": "https://open.spotify.com/track/3Bx7utlrwP1eAxFBUfqwXz"

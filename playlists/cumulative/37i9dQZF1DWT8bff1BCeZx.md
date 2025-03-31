@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-428 songs - 1 day 5 hr 3 min
+429 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [OVER DO \(feat\. AMERADO\) \[Remix\]](https://open.spotify.com/track/5ZihPaQYouHULw8wMPKDUb) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [OVER DO \(feat\. AMERADO\) \[Remix\]](https://open.spotify.com/album/22UlZS5LWO7oxXnrFi9wcE) | 3:21 | 2024-10-18 | 2025-03-14 |
 | [Overdo](https://open.spotify.com/track/7qlJKujY7TFrretwydfJAA) | [Millicent Yankey](https://open.spotify.com/artist/3deqTqS9xbjPEQ92Dy5teL), [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Overdo](https://open.spotify.com/album/5sovl7DBuBTG5ttgieKYDe) | 3:18 | 2025-03-07 |  |
 | [Overflow](https://open.spotify.com/track/0T6SxDe19DBdjVcdQtKJal) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Nmesoh Oma](https://open.spotify.com/artist/0Kr4XhL9iwbKeaooIGLJJo), [Dehvvd](https://open.spotify.com/artist/3MoXiLbVX1VS4PW29lJEbF) | [Love N\` Good Vibe](https://open.spotify.com/album/48gMLonb4XuvSlDJitpcef) | 2:17 | 2025-03-07 |  |
+| [Overflow \- Live](https://open.spotify.com/track/7DFITGJNeTWWtpz8o3jbj2) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Overflow \(Live\)](https://open.spotify.com/album/0zsCBuFbfqrHLFt2KKwluz) | 16:21 | 2025-03-30 |  |
 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 | 2024-04-12 | 2024-09-27 |
 | [Paradise](https://open.spotify.com/track/2bSx2cJHJYUKNdJQgVoHBM) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2) | [Paradise](https://open.spotify.com/album/2MfmE6MldCPS8DOZBQnoe9) | 2:22 | 2023-08-04 | 2023-08-31 |
 | [Particularly](https://open.spotify.com/track/5mAkFGshHceNUuw6GOwnz8) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Particularly](https://open.spotify.com/album/6wdvPGkqiUVd3vxtxBXzA1) | 3:08 | 2024-05-24 | 2025-02-28 |

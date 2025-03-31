@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYM2TpfSdxV.md) - [plain]
 
 > Ruido blanco para ayudarte a dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,678 likes - 200 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,834 likes - 200 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,12 +125,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYM2TpfSdxV.md) - [plain]
 | 115 | [Noise over the Pacific Ocean](https://open.spotify.com/track/7ratGZAkdFspHgYsK4otGM) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Dreams of White Noise](https://open.spotify.com/album/3lWPS5Gjc8BdOKKWWa9tEo) | 2:10 |
 | 116 | [System Shutdown](https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Digitalion](https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM) | 3:00 |
 | 117 | [Rumore Pesante Del Sonno](https://open.spotify.com/track/3jBtGFrRvQDDSrwtQsWZHD) | [Lettere a Sleepnes](https://open.spotify.com/artist/2GQVGJZ6yDlEpa2ClxVgQg) | [Suoni Rumorosi](https://open.spotify.com/album/3TLWgb3JPo553zbZ87lVHC) | 2:28 |
-| 118 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 |
-| 119 | [Lost In Noise](https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:13 |
-| 120 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 |
-| 121 | [White Oasis](https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:30 |
-| 122 | [Whirl of White Noise](https://open.spotify.com/track/52gLFB1JwnwesroSmsqkok) | [Wax Walls](https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp) | [Study White Noise](https://open.spotify.com/album/4D2CPrnRBsaHuDAHxfwSqN) | 2:57 |
-| 123 | [Doze Off](https://open.spotify.com/track/4pU7rgTDiVrCGwFhM4u3Rm) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:57 |
+| 118 | [Lost In Noise](https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:13 |
+| 119 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 |
+| 120 | [Doze Off](https://open.spotify.com/track/4pU7rgTDiVrCGwFhM4u3Rm) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:57 |
+| 121 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 |
+| 122 | [White Oasis](https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:30 |
+| 123 | [Whirl of White Noise](https://open.spotify.com/track/52gLFB1JwnwesroSmsqkok) | [Wax Walls](https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp) | [Study White Noise](https://open.spotify.com/album/4D2CPrnRBsaHuDAHxfwSqN) | 2:57 |
 | 124 | [W\-Noise FX](https://open.spotify.com/track/3DgC6dMvMSU72n4D3SSPMF) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Calmed By The White Noise](https://open.spotify.com/album/3yNmTVNqVdF3cR5Rg2vnqU) | 2:04 |
 | 125 | [White Noise Lullaby](https://open.spotify.com/track/6sEeaMuuF5xx6xHGMUWdot) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sheets of White Noise](https://open.spotify.com/album/4b0GXTlHxxtVqrXzmCTDnj) | 2:59 |
 | 126 | [Harmonious](https://open.spotify.com/track/1wUzoaQgii2QrgnqlcRPAC) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Harmonious](https://open.spotify.com/album/3IDmrMJl8iGvEXij8TqaPO) | 2:53 |

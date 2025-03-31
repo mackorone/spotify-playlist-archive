@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Malcriado",
+        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155700,
+      "name": "Cuando Te Dejan De Querer",
+      "url": "https://open.spotify.com/track/06H98a1flJoJ6ixFyiG0yJ"
+    },
+    {
+      "album": {
         "name": "TRIP",
         "url": "https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Superstar!!\" \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!\n",
-  "num_followers": 10833,
+  "num_followers": 10837,
   "original_name": "Love Live! Superstar!!",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2025-01-14 15:45:22",
       "album": {
+        "name": "\u672a\u6765\u4e88\u5831\u30cf\u30ec\u30eb\u30e4\uff01 / Tiny Stars (\u7b2c1\u8a71\u76e4)",
+        "url": "https://open.spotify.com/album/1WK8j1olBIVqzl5LFfHeuV"
+      },
+      "artists": [
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        },
+        {
+          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
+          "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
+        }
+      ],
+      "duration_ms": 233329,
+      "name": "Tiny Stars",
+      "url": "https://open.spotify.com/track/6OkVKclkNwr3ER4C1Gwhxk"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
         "name": "Blooming Dance\uff01Dance\uff01",
         "url": "https://open.spotify.com/album/6AISbTnxy4A4Qw7TUMwFu1"
       },
@@ -175,22 +195,18 @@
     {
       "added_at": "2025-01-14 15:45:22",
       "album": {
-        "name": "\u672a\u6765\u4e88\u5831\u30cf\u30ec\u30eb\u30e4\uff01 / Tiny Stars (\u7b2c1\u8a71\u76e4)",
-        "url": "https://open.spotify.com/album/1WK8j1olBIVqzl5LFfHeuV"
+        "name": "DAISUKI FULL POWER",
+        "url": "https://open.spotify.com/album/4Iapc6S2Ee4O4ntomE2Igw"
       },
       "artists": [
         {
-          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
-          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
-        },
-        {
-          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
-          "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
         }
       ],
-      "duration_ms": 233329,
-      "name": "Tiny Stars",
-      "url": "https://open.spotify.com/track/6OkVKclkNwr3ER4C1Gwhxk"
+      "duration_ms": 247726,
+      "name": "DAISUKI FULL POWER",
+      "url": "https://open.spotify.com/track/2TyMixo6q2jstl9WxvPm0d"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -216,6 +232,38 @@
       },
       "artists": [
         {
+          "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
+          "url": "https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H"
+        }
+      ],
+      "duration_ms": 215952,
+      "name": "Flyer's High",
+      "url": "https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "\u5fc3\u30ad\u30e9\u30e9\u30e9",
+        "url": "https://open.spotify.com/album/2pnYfYP4Jki32IDSFRnM5K"
+      },
+      "artists": [
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        }
+      ],
+      "duration_ms": 208275,
+      "name": "\u5fc3\u30ad\u30e9\u30e9\u30e9",
+      "url": "https://open.spotify.com/track/5qnyyQDnoaBrrJrzV3WQm5"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "What a Wonderful Dream!!",
+        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
+      },
+      "artists": [
+        {
           "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
           "url": "https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp"
         }
@@ -223,6 +271,22 @@
       "duration_ms": 215844,
       "name": "\u307f\u3066\u308d\uff01",
       "url": "https://open.spotify.com/track/0uRiiumJpHbTCFmCPsYVJ1"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "\u30d3\u30bf\u30df\u30f3SUMMER\uff01 / Chance Day, Chance Way\uff01 (\u7b2c6\u8a71\u76e4)",
+        "url": "https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "duration_ms": 209467,
+      "name": "\u30d3\u30bf\u30df\u30f3SUMMER\uff01",
+      "url": "https://open.spotify.com/track/2J3Ysm4IPXulMfvwP7em3s"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -256,54 +320,6 @@
       },
       "artists": [
         {
-          "name": "\u7c73\u5973\u30e1\u30a4 (CV.\u85ae\u5cf6\u6731\u97f3)",
-          "url": "https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU"
-        }
-      ],
-      "duration_ms": 217505,
-      "name": "\u30d1\u30ec\u30fc\u30c9\u306f\u3044\u3064\u3082 - \u7c73\u5973\u30e1\u30a4 Ver.",
-      "url": "https://open.spotify.com/track/3dnba4vbNNqYf6Y6arfiup"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "DAISUKI FULL POWER",
-        "url": "https://open.spotify.com/album/4Iapc6S2Ee4O4ntomE2Igw"
-      },
-      "artists": [
-        {
-          "name": "Liella!",
-          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
-        }
-      ],
-      "duration_ms": 247726,
-      "name": "DAISUKI FULL POWER",
-      "url": "https://open.spotify.com/track/2TyMixo6q2jstl9WxvPm0d"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "What a Wonderful Dream!!",
-        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
-      },
-      "artists": [
-        {
-          "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
-          "url": "https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H"
-        }
-      ],
-      "duration_ms": 215952,
-      "name": "Flyer's High",
-      "url": "https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f2",
-        "url": "https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB"
-      },
-      "artists": [
-        {
           "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
           "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
         }
@@ -311,22 +327,6 @@
       "duration_ms": 155878,
       "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30b5\u30fc\u30ad\u30c3\u30c8 - \u5510 \u53ef\u53ef Ver.",
       "url": "https://open.spotify.com/track/5v8NI6etnhsmj6MmzkbBpm"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f2",
-        "url": "https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB"
-      },
-      "artists": [
-        {
-          "name": "\u82e5\u83dc\u56db\u5b63 (CV.\u5927\u718a\u548c\u594f)",
-          "url": "https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O"
-        }
-      ],
-      "duration_ms": 218497,
-      "name": "\u30d1\u30ec\u30fc\u30c9\u306f\u3044\u3064\u3082 - \u82e5\u83dc\u56db\u5b63 Ver.",
-      "url": "https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -347,8 +347,24 @@
     {
       "added_at": "2025-01-14 15:45:22",
       "album": {
-        "name": "\u5fc3\u30ad\u30e9\u30e9\u30e9",
-        "url": "https://open.spotify.com/album/2pnYfYP4Jki32IDSFRnM5K"
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f2",
+        "url": "https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB"
+      },
+      "artists": [
+        {
+          "name": "\u7c73\u5973\u30e1\u30a4 (CV.\u85ae\u5cf6\u6731\u97f3)",
+          "url": "https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU"
+        }
+      ],
+      "duration_ms": 217505,
+      "name": "\u30d1\u30ec\u30fc\u30c9\u306f\u3044\u3064\u3082 - \u7c73\u5973\u30e1\u30a4 Ver.",
+      "url": "https://open.spotify.com/track/3dnba4vbNNqYf6Y6arfiup"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "What a Wonderful Dream!!",
+        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
       },
       "artists": [
         {
@@ -356,25 +372,9 @@
           "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
         }
       ],
-      "duration_ms": 208275,
-      "name": "\u5fc3\u30ad\u30e9\u30e9\u30e9",
-      "url": "https://open.spotify.com/track/5qnyyQDnoaBrrJrzV3WQm5"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "\u30d3\u30bf\u30df\u30f3SUMMER\uff01 / Chance Day, Chance Way\uff01 (\u7b2c6\u8a71\u76e4)",
-        "url": "https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF"
-      },
-      "artists": [
-        {
-          "name": "Liella!",
-          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
-        }
-      ],
-      "duration_ms": 209467,
-      "name": "\u30d3\u30bf\u30df\u30f3SUMMER\uff01",
-      "url": "https://open.spotify.com/track/2J3Ysm4IPXulMfvwP7em3s"
+      "duration_ms": 279006,
+      "name": "\u9752\u7a7a\u3092\u5f85\u3063\u3066\u308b",
+      "url": "https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -384,13 +384,13 @@
       },
       "artists": [
         {
-          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
-          "url": "https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp"
+          "name": "\u82e5\u83dc\u56db\u5b63 (CV.\u5927\u718a\u548c\u594f)",
+          "url": "https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O"
         }
       ],
-      "duration_ms": 155878,
-      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30b5\u30fc\u30ad\u30c3\u30c8 - \u5e73\u5b89\u540d\u3059\u307f\u308c Ver.",
-      "url": "https://open.spotify.com/track/7u57GnFsg1CaOC0c7eVp83"
+      "duration_ms": 218497,
+      "name": "\u30d1\u30ec\u30fc\u30c9\u306f\u3044\u3064\u3082 - \u82e5\u83dc\u56db\u5b63 Ver.",
+      "url": "https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -432,6 +432,22 @@
       },
       "artists": [
         {
+          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
+          "url": "https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30b5\u30fc\u30ad\u30c3\u30c8 - \u5e73\u5b89\u540d\u3059\u307f\u308c Ver.",
+      "url": "https://open.spotify.com/track/7u57GnFsg1CaOC0c7eVp83"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f2",
+        "url": "https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB"
+      },
+      "artists": [
+        {
           "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
           "url": "https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H"
         }
@@ -439,6 +455,26 @@
       "duration_ms": 221382,
       "name": "\u99c6\u3051\u308b\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9 - \u5d50 \u5343\u7802\u90fd Ver.",
       "url": "https://open.spotify.com/track/3o8J9VsfhIDpsJlRRu8VBW"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "\u5909\u308f\u3089\u306a\u3044\u3059\u3079\u3066",
+        "url": "https://open.spotify.com/album/4OByCHwJJ9b2S1jxd7j1Tr"
+      },
+      "artists": [
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        },
+        {
+          "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
+          "url": "https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H"
+        }
+      ],
+      "duration_ms": 240985,
+      "name": "\u5909\u308f\u3089\u306a\u3044\u3059\u3079\u3066",
+      "url": "https://open.spotify.com/track/7h0BBoDxVkGsAh0oHUUsm6"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -475,38 +511,6 @@
     {
       "added_at": "2025-01-14 15:45:22",
       "album": {
-        "name": "What a Wonderful Dream!!",
-        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
-      },
-      "artists": [
-        {
-          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
-          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
-        }
-      ],
-      "duration_ms": 279006,
-      "name": "\u9752\u7a7a\u3092\u5f85\u3063\u3066\u308b",
-      "url": "https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
-      },
-      "artists": [
-        {
-          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
-          "url": "https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/3kWOerHNFMYfcWEgABBdz3"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
         "name": "Second Sparkle",
         "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
       },
@@ -519,22 +523,6 @@
       "duration_ms": 224899,
       "name": "\u831c\u5fc3",
       "url": "https://open.spotify.com/track/1hIp7DZMhrW6gxYVccHWZh"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
-      },
-      "artists": [
-        {
-          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
-          "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "Ringing!",
-      "url": "https://open.spotify.com/track/1kHJGOQklAJfCtzOL1qQPV"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -555,26 +543,6 @@
     {
       "added_at": "2025-01-14 15:45:22",
       "album": {
-        "name": "\u5909\u308f\u3089\u306a\u3044\u3059\u3079\u3066",
-        "url": "https://open.spotify.com/album/4OByCHwJJ9b2S1jxd7j1Tr"
-      },
-      "artists": [
-        {
-          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
-          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
-        },
-        {
-          "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
-          "url": "https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H"
-        }
-      ],
-      "duration_ms": 240985,
-      "name": "\u5909\u308f\u3089\u306a\u3044\u3059\u3079\u3066",
-      "url": "https://open.spotify.com/track/7h0BBoDxVkGsAh0oHUUsm6"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
         "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
       },
@@ -587,22 +555,6 @@
       "duration_ms": 234946,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0v7X5EKPiOT9UWkhFJNdnx"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
-      },
-      "artists": [
-        {
-          "name": "\u8449\u6708 \u604b (CV.\u9752\u5c71\u306a\u304e\u3055)",
-          "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/7HnxJymLu101xufequpt8m"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -663,6 +615,38 @@
     {
       "added_at": "2025-01-14 15:45:22",
       "album": {
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
+      },
+      "artists": [
+        {
+          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
+          "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "Ringing!",
+      "url": "https://open.spotify.com/track/1kHJGOQklAJfCtzOL1qQPV"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
+          "url": "https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/3kWOerHNFMYfcWEgABBdz3"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
         "name": "Second Sparkle",
         "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
       },
@@ -675,6 +659,38 @@
       "duration_ms": 234078,
       "name": "\u661f\u5c51\u30af\u30eb\u30fc\u30b8\u30f3\u30b0",
       "url": "https://open.spotify.com/track/20DDILVNtFMfzEjYWCgZDZ"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
+      },
+      "artists": [
+        {
+          "name": "\u8449\u6708 \u604b (CV.\u9752\u5c71\u306a\u304e\u3055)",
+          "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/7HnxJymLu101xufequpt8m"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5c0f\u8def\u304d\u306a\u5b50 (CV.\u9234\u539f\u5e0c\u5b9f)",
+          "url": "https://open.spotify.com/artist/5YhJfeXFPB1cuhpR7pJAx2"
+        }
+      ],
+      "duration_ms": 194869,
+      "name": "\u30d3\u30ae\u30ca\u30fc\u30baRock!!",
+      "url": "https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -707,22 +723,6 @@
       "duration_ms": 221146,
       "name": "Dears",
       "url": "https://open.spotify.com/track/1nnYVSTnh8ON9XM8OvE8XC"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5c0f\u8def\u304d\u306a\u5b50 (CV.\u9234\u539f\u5e0c\u5b9f)",
-          "url": "https://open.spotify.com/artist/5YhJfeXFPB1cuhpR7pJAx2"
-        }
-      ],
-      "duration_ms": 194869,
-      "name": "\u30d3\u30ae\u30ca\u30fc\u30baRock!!",
-      "url": "https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu"
     },
     {
       "added_at": "2025-01-14 15:45:22",

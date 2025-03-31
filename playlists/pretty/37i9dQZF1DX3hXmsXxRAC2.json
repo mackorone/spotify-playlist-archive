@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 343562,
+  "num_followers": 343612,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,26 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
       },
@@ -195,42 +215,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 280146,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Los D\u00fao",
-        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 278800,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 280146,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 273453,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 239733,
       "name": "Ma\u00f1ana, Ma\u00f1ana - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 273453,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
       "artists": [
         {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
+      "duration_ms": 209040,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -459,34 +459,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk"
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -507,50 +491,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 477760,
-      "name": "Viva Juan Gabriel / Popurr\u00ed",
-      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Amar y Querer (Homenaje a Las Grandes Canciones)",
-        "url": "https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
+      "duration_ms": 211493,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -571,34 +523,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "En Acustico",
-        "url": "https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw"
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 319306,
-      "name": "Debo Hacerlo / Caray / Querida / Me Nace del Coraz\u00f3n (Popurri Juan Gabriel)",
-      "url": "https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Las Rancheras De Juan Gabriel",
-        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
+      "duration_ms": 477760,
+      "name": "Viva Juan Gabriel / Popurr\u00ed",
+      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -619,18 +555,34 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Interpretan \u00c9xitos De Juan Gabriel",
-        "url": "https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM"
+        "name": "Amar y Querer (Homenaje a Las Grandes Canciones)",
+        "url": "https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Dejame Vivir",
-      "url": "https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK"
+      "duration_ms": 261773,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Las Rancheras De Juan Gabriel",
+        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -647,6 +599,54 @@
       "duration_ms": 431533,
       "name": "Medley: Caray / Esta Noche Voy a Verla / Juntos",
       "url": "https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "En Acustico",
+        "url": "https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 319306,
+      "name": "Debo Hacerlo / Caray / Querida / Me Nace del Coraz\u00f3n (Popurri Juan Gabriel)",
+      "url": "https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Interpretan \u00c9xitos De Juan Gabriel",
+        "url": "https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Dejame Vivir",
+      "url": "https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Mi Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 284306,
+      "name": "Con Tu Amor",
+      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "La Vargas Ritual Chavela",
         "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 188567,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Canta Once Grandes Exitos De Juan Gabriel",
-        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Mi Tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+        "name": "Canta Once Grandes Exitos De Juan Gabriel",
+        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 284306,
-      "name": "Con Tu Amor",
-      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+      "duration_ms": 212760,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 210042,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Costumbres",
-        "url": "https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 284421,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Ana Gabriel Todos Sus Exitos",
         "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
       },
@@ -1227,6 +1211,42 @@
       "duration_ms": 270266,
       "name": "Luna",
       "url": "https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
+        "url": "https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Siempre en Mi Mente - MTV Unplugged [En Vivo]",
+      "url": "https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Costumbres",
+        "url": "https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 284421,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1267,22 +1287,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
-        "url": "https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 294760,
-      "name": "Siempre en Mi Mente - MTV Unplugged [En Vivo]",
-      "url": "https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx"
+      "duration_ms": 143994,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 143994,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/4YzNjecIvmLFEby13NOBmj"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 180533,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/5HQnUFcJWN9jpfhj4NxJB8"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 284665,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 284665,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Primera Fila - Vol. 1",
         "url": "https://open.spotify.com/album/0sKGLI3vnagX4jo4uHJrBC"
       },
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 154739,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Canciones Que Recuerdo",
         "url": "https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 179013,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/4s3C6infDnkoWxwocJYbhD"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 154739,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
     },
     {
       "added_at": "2024-07-02 23:46:15",

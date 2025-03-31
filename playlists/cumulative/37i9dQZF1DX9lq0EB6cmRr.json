@@ -2179,6 +2179,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441320,
+      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
+      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
+    },
+    {
+      "album": {
         "name": "MOZART: Piano Works 1",
         "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
       },
@@ -2260,7 +2282,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 628546,
       "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
       "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
@@ -2898,7 +2920,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 279613,
       "name": "The Red String",
       "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
@@ -3220,6 +3242,36 @@
       "duration_ms": 1015440,
       "name": "Violin Concerto No. 2, BB 117: I. Allegro non troppo",
       "url": "https://open.spotify.com/track/7GZP28qyjxjNMI1d0jgEMf"
+    },
+    {
+      "album": {
+        "name": "Nielsen: Violin Concerto, Op. 33: Ia. Praeludium. Largo",
+        "url": "https://open.spotify.com/album/3exdIJxDUdHdjsQFFLGknw"
+      },
+      "artists": [
+        {
+          "name": "Carl Nielsen",
+          "url": "https://open.spotify.com/artist/73I7vbj7hzsw8rW4LUoxtz"
+        },
+        {
+          "name": "Bomsori",
+          "url": "https://open.spotify.com/artist/6eg0Lhwxk31hrFEAXfpCd1"
+        },
+        {
+          "name": "Danish National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
+        },
+        {
+          "name": "Fabio Luisi",
+          "url": "https://open.spotify.com/artist/3UZDU4aoV3JR95COUOrLyG"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420511,
+      "name": "Violin Concerto, Op. 33: Ia. Praeludium. Largo",
+      "url": "https://open.spotify.com/track/10gNHc4jJX1duBDHZWJbOI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,198 likes - 120 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,195 likes - 120 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 | 56 | [Wish I Didn't Miss You](https://open.spotify.com/track/1nptAYTa5Gps4uhImuSZjk) | [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T) | [Wish I Didn't Miss You](https://open.spotify.com/album/4Jz21rRURJ684wdODJ2UAL) | 3:44 |
 | 57 | [Squire For Hire \- Fouk Remix Edit](https://open.spotify.com/track/1nYNEbLHR6odSN9hHBCtil) | [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy), [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Squire For Hire \(Fouk Remixes\)](https://open.spotify.com/album/1mpjavww04IMjI3i1cTBsu) | 3:52 |
 | 58 | [Sky \(Shining Bright\)](https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky \(Shining Bright\)](https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7) | 2:50 |
-| 59 | [Outta My Mind](https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Outta My Mind](https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi) | 2:19 |
-| 60 | [Sweet Love](https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Sweet Love](https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej) | 4:09 |
-| 61 | [Vicino O' Mare \- The Shapeshifters Remix](https://open.spotify.com/track/4oAu9Wfs3YdDA2zw1oZA3g) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Vicino O' Mare \(The Shapeshifters Remix\)](https://open.spotify.com/album/0eY1ikGLbHzwrz2x7hZfAT) | 3:19 |
-| 62 | [Que Tal America \- Dave Lee Mix](https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg) | [Dos Hombres Sonido](https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Que Tal America \(Dave Lee Mixes\)](https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH) | 4:00 |
+| 59 | [Sweet Love](https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Sweet Love](https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej) | 4:09 |
+| 60 | [Vicino O' Mare \- The Shapeshifters Remix](https://open.spotify.com/track/4oAu9Wfs3YdDA2zw1oZA3g) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Vicino O' Mare \(The Shapeshifters Remix\)](https://open.spotify.com/album/0eY1ikGLbHzwrz2x7hZfAT) | 3:19 |
+| 61 | [Que Tal America \- Dave Lee Mix](https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg) | [Dos Hombres Sonido](https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Que Tal America \(Dave Lee Mixes\)](https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH) | 4:00 |
+| 62 | [Outta My Mind](https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Outta My Mind](https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi) | 2:19 |
 | 63 | [Deep Inside \- CASSIMM Remix](https://open.spotify.com/track/26xyL8HgzrQfiY0n8x01Z8) | [Hardsoul](https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi), [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Deep Inside \(CASSIMM Remix\)](https://open.spotify.com/album/7Asey26DCncU51AaKxSQ5f) | 3:14 |
 | 64 | [I Wish](https://open.spotify.com/track/6m5d4HhoCRDz5bq3fv3jrB) | [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [I Wish](https://open.spotify.com/album/5uZWttqXTzmePt6RpWg9a4) | 2:09 |
 | 65 | [Solid Ground \- Brian Tappert for the Heads Remix](https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB) | [Rony Breaker](https://open.spotify.com/artist/5wSpDfqDmrcfiXQX3hILuL), [Chinua Hawk](https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0), [Brian Tappert](https://open.spotify.com/artist/15PNwQoGpnGp9XNFlSYy8A) | [Solid Ground](https://open.spotify.com/album/0wSR02tnGQD9TDcnnvjWWy) | 6:01 |

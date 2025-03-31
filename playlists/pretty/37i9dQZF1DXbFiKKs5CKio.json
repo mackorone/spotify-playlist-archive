@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 66797,
+  "num_followers": 66806,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,26 @@
     {
       "added_at": "2025-03-24 15:14:05",
       "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Allefez",
+          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Gaveta/Onironauta",
+      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
+    },
+    {
+      "added_at": "2025-03-24 15:14:05",
+      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
-    },
-    {
-      "added_at": "2025-03-24 15:14:05",
-      "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Allefez",
-          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Gaveta/Onironauta",
-      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
     },
     {
       "added_at": "2025-03-24 15:14:05",

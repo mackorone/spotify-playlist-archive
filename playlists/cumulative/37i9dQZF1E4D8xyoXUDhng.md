@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, LaShun Pace, James Cleveland and more
+> With Sunday Service Choir, Tramaine Hawkins, LaShun Pace and more
 
 1,724 songs - 5 day 10 hr 18 min
 

@@ -1,6 +1,6 @@
 {
   "description": "The original chill instrumental beats playlist.",
-  "num_followers": 2224036,
+  "num_followers": 2224077,
   "original_name": "Jazz Vibes",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
+        "name": "Maturity",
+        "url": "https://open.spotify.com/album/14XOFQfIYhkziYa62UAgVk"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        }
+      ],
+      "duration_ms": 130060,
+      "name": "Maturity",
+      "url": "https://open.spotify.com/track/6ugFAYxotR6wlHNCTeBis3"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
         "name": "No Goodbyes",
         "url": "https://open.spotify.com/album/05lIfZJmiXCSMsFZK85m5Q"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 114929,
       "name": "Calm Winds",
       "url": "https://open.spotify.com/track/22x6TxJlGxZfQjJbAN4cQY"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
-        "name": "Maturity",
-        "url": "https://open.spotify.com/album/14XOFQfIYhkziYa62UAgVk"
-      },
-      "artists": [
-        {
-          "name": "C4C",
-          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
-        }
-      ],
-      "duration_ms": 130060,
-      "name": "Maturity",
-      "url": "https://open.spotify.com/track/6ugFAYxotR6wlHNCTeBis3"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -443,30 +443,6 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "The Realest",
-        "url": "https://open.spotify.com/album/7mQn9XWfeffVvBFzfGrlA8"
-      },
-      "artists": [
-        {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
-        },
-        {
-          "name": ".Eehou",
-          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
-        },
-        {
-          "name": "T.Check",
-          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "The Realest",
-      "url": "https://open.spotify.com/track/26vWmDXFUQilc5FtUMIgN7"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/11CYpa0oCkneUiM0uvsVcd"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 112602,
       "name": "Crimson",
       "url": "https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "The Realest",
+        "url": "https://open.spotify.com/album/7mQn9XWfeffVvBFzfGrlA8"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        },
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "The Realest",
+      "url": "https://open.spotify.com/track/26vWmDXFUQilc5FtUMIgN7"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "Umbria",
-        "url": "https://open.spotify.com/album/2C4hrSybOvug3T9hMAEp3d"
-      },
-      "artists": [
-        {
-          "name": "lorleaf",
-          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
-        }
-      ],
-      "duration_ms": 121643,
-      "name": "Umbria",
-      "url": "https://open.spotify.com/track/1o3ZiNEWLfOlb0Be2X4KbJ"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
         "name": "The Backyard",
         "url": "https://open.spotify.com/album/2qIJX83D3MrwxygvyC8pL7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 146000,
       "name": "The Backyard",
       "url": "https://open.spotify.com/track/6cyX6lruOniejnJWvnBmRm"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "Umbria",
+        "url": "https://open.spotify.com/album/2C4hrSybOvug3T9hMAEp3d"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "duration_ms": 121643,
+      "name": "Umbria",
+      "url": "https://open.spotify.com/track/1o3ZiNEWLfOlb0Be2X4KbJ"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -1251,22 +1251,6 @@
       "duration_ms": 99300,
       "name": "Fishizens",
       "url": "https://open.spotify.com/track/56YpXPDyWRzgElEKvTGTif"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
-        "name": "Tenkodo",
-        "url": "https://open.spotify.com/album/6CnqMRpV1fwpZ11AnxctcF"
-      },
-      "artists": [
-        {
-          "name": "lorleaf",
-          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Tenkodo",
-      "url": "https://open.spotify.com/track/4f9IkeqLuVZ5JO1rAwPVsA"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -1363,6 +1347,22 @@
       "duration_ms": 142134,
       "name": "Floatin'",
       "url": "https://open.spotify.com/track/0SwMW7AfosFNOwCIkzi4Rn"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "Tenkodo",
+        "url": "https://open.spotify.com/album/6CnqMRpV1fwpZ11AnxctcF"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Tenkodo",
+      "url": "https://open.spotify.com/track/4f9IkeqLuVZ5JO1rAwPVsA"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "Felices Siestas",
-        "url": "https://open.spotify.com/album/1wRRFA1Lv2RZZXFR0EMaBk"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1or Siesta",
-          "url": "https://open.spotify.com/artist/2i7FDVuvOVPT1aPOhx6oQ5"
-        }
-      ],
-      "duration_ms": 127321,
-      "name": "Felices Siestas",
-      "url": "https://open.spotify.com/track/37P1VYFyxYXH3jFsnuONhs"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
         "name": "The Last Day",
         "url": "https://open.spotify.com/album/1PQjOVMGA7uKJCuRR8ZbZl"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "Paces",
-        "url": "https://open.spotify.com/album/08PsAKfhRdGhIXLmSvz6f7"
+        "name": "Felices Siestas",
+        "url": "https://open.spotify.com/album/1wRRFA1Lv2RZZXFR0EMaBk"
       },
       "artists": [
         {
-          "name": "Lazlow",
-          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+          "name": "Se\u00f1or Siesta",
+          "url": "https://open.spotify.com/artist/2i7FDVuvOVPT1aPOhx6oQ5"
         }
       ],
-      "duration_ms": 131111,
-      "name": "Paces",
-      "url": "https://open.spotify.com/track/2ZrUwNP8q29wg3VpvMI0t3"
+      "duration_ms": 127321,
+      "name": "Felices Siestas",
+      "url": "https://open.spotify.com/track/37P1VYFyxYXH3jFsnuONhs"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -1551,6 +1535,22 @@
       "duration_ms": 146823,
       "name": "3:30pm - Jam'addict Remix",
       "url": "https://open.spotify.com/track/2BrW5gipvs2hSQsQowp8Gy"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "Paces",
+        "url": "https://open.spotify.com/album/08PsAKfhRdGhIXLmSvz6f7"
+      },
+      "artists": [
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "duration_ms": 131111,
+      "name": "Paces",
+      "url": "https://open.spotify.com/track/2ZrUwNP8q29wg3VpvMI0t3"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "Morning Hug",
-        "url": "https://open.spotify.com/album/126OcPlgXnIeMP2sBFb6pg"
-      },
-      "artists": [
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
-        }
-      ],
-      "duration_ms": 121519,
-      "name": "Morning Hug",
-      "url": "https://open.spotify.com/track/2e4g7mcYZmRA2f4TAOHftF"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
         "name": "Trust Your Instincts",
         "url": "https://open.spotify.com/album/6AieE7VxP7qxs5zSbPFyEW"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 120000,
       "name": "Trust Your Instincts",
       "url": "https://open.spotify.com/track/7u9TmYmSFk1jIwZVO4ZtBs"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "Morning Hug",
+        "url": "https://open.spotify.com/album/126OcPlgXnIeMP2sBFb6pg"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "duration_ms": 121519,
+      "name": "Morning Hug",
+      "url": "https://open.spotify.com/track/2e4g7mcYZmRA2f4TAOHftF"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "Winterdreams",
-        "url": "https://open.spotify.com/album/2mPK345x9io2iKVISIQGjw"
-      },
-      "artists": [
-        {
-          "name": "gknister",
-          "url": "https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7"
-        }
-      ],
-      "duration_ms": 132361,
-      "name": "Winterdreams",
-      "url": "https://open.spotify.com/track/0LPKPitr0yhElMFdvtcHov"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
         "name": "biking",
         "url": "https://open.spotify.com/album/5RUyPvRnacQ1dakJdpJeY1"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 141818,
       "name": "biking",
       "url": "https://open.spotify.com/track/7dU3XypaQO3xh4Wx3Rh17N"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "Winterdreams",
+        "url": "https://open.spotify.com/album/2mPK345x9io2iKVISIQGjw"
+      },
+      "artists": [
+        {
+          "name": "gknister",
+          "url": "https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7"
+        }
+      ],
+      "duration_ms": 132361,
+      "name": "Winterdreams",
+      "url": "https://open.spotify.com/track/0LPKPitr0yhElMFdvtcHov"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -2459,6 +2459,30 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2zQBzQieDGZKzHZ8ve78XL"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/0eLUwTgJuz6K9dL12GGlgp"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/6Wfn25bD9miwF2ptQZMGyJ"
       },
@@ -2515,30 +2539,6 @@
       "duration_ms": 128606,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/22oY68j9hKLirnVZ1Um77c"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2zQBzQieDGZKzHZ8ve78XL"
-      },
-      "artists": [
-        {
-          "name": "yosev",
-          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
-        },
-        {
-          "name": "Seb Zillner",
-          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
-        },
-        {
-          "name": "Lazlow",
-          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/0eLUwTgJuz6K9dL12GGlgp"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -2831,26 +2831,6 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "Evening Lounge",
-        "url": "https://open.spotify.com/album/3kAa5ralpgQdJtBhRQFy2N"
-      },
-      "artists": [
-        {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
-        },
-        {
-          "name": "tenkousei.",
-          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
-        }
-      ],
-      "duration_ms": 103792,
-      "name": "Evening Lounge",
-      "url": "https://open.spotify.com/track/0YAkSCPXn1yJOL19rBhWFc"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
         "name": "Ocean Breath",
         "url": "https://open.spotify.com/album/0YhJ8TcTop6mjDAhIWrvIN"
       },
@@ -2883,6 +2863,26 @@
       "duration_ms": 100909,
       "name": "Suave",
       "url": "https://open.spotify.com/track/2AnGLfLySrmIhmneu4meTM"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "Evening Lounge",
+        "url": "https://open.spotify.com/album/3kAa5ralpgQdJtBhRQFy2N"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "tenkousei.",
+          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
+        }
+      ],
+      "duration_ms": 103792,
+      "name": "Evening Lounge",
+      "url": "https://open.spotify.com/track/0YAkSCPXn1yJOL19rBhWFc"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -4379,22 +4379,6 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "Alpha",
-        "url": "https://open.spotify.com/album/22J8I9RclptwR54QbU5eKO"
-      },
-      "artists": [
-        {
-          "name": "Otis Neon",
-          "url": "https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5"
-        }
-      ],
-      "duration_ms": 113127,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/7Hiblos98LjJwAoHn6vyiU"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
         "name": "Autumnal Longing",
         "url": "https://open.spotify.com/album/3asMClIVmaKkPHk0UHy046"
       },
@@ -4427,6 +4411,22 @@
       "duration_ms": 156279,
       "name": "Rain City",
       "url": "https://open.spotify.com/track/72QF1SBVFfRt0gZ302u4XZ"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/22J8I9RclptwR54QbU5eKO"
+      },
+      "artists": [
+        {
+          "name": "Otis Neon",
+          "url": "https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5"
+        }
+      ],
+      "duration_ms": 113127,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/7Hiblos98LjJwAoHn6vyiU"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -4923,22 +4923,6 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
-        "name": "Withered Flowers",
-        "url": "https://open.spotify.com/album/1tImnzWhnlCt4nPP0E27b8"
-      },
-      "artists": [
-        {
-          "name": "Iassu",
-          "url": "https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe"
-        }
-      ],
-      "duration_ms": 97777,
-      "name": "Withered Flowers",
-      "url": "https://open.spotify.com/track/1YkcLEmOUVmGFD3snAyEN2"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
         "name": "Dinner",
         "url": "https://open.spotify.com/album/2TwGRSPBjcJKZo39umoKmC"
       },
@@ -4955,6 +4939,22 @@
       "duration_ms": 124349,
       "name": "Dinner",
       "url": "https://open.spotify.com/track/3OFeSpRnqPoeqZMyx9Mbhx"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
+        "name": "Withered Flowers",
+        "url": "https://open.spotify.com/album/1tImnzWhnlCt4nPP0E27b8"
+      },
+      "artists": [
+        {
+          "name": "Iassu",
+          "url": "https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe"
+        }
+      ],
+      "duration_ms": 97777,
+      "name": "Withered Flowers",
+      "url": "https://open.spotify.com/track/1YkcLEmOUVmGFD3snAyEN2"
     },
     {
       "added_at": "2025-03-28 14:20:30",
@@ -5475,6 +5475,22 @@
     {
       "added_at": "2025-03-28 14:20:30",
       "album": {
+        "name": "Porwiggle",
+        "url": "https://open.spotify.com/album/4JltDTUIzQrGgDQiEFT13f"
+      },
+      "artists": [
+        {
+          "name": "Am Froggo",
+          "url": "https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW"
+        }
+      ],
+      "duration_ms": 124545,
+      "name": "Porwiggle",
+      "url": "https://open.spotify.com/track/6ylLrrKXTKfFiD62kgymOj"
+    },
+    {
+      "added_at": "2025-03-28 14:20:30",
+      "album": {
         "name": "Farlands",
         "url": "https://open.spotify.com/album/7wr0LYZiFh5SQ86PzRIHIP"
       },
@@ -5491,22 +5507,6 @@
       "duration_ms": 93681,
       "name": "Farlands",
       "url": "https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD"
-    },
-    {
-      "added_at": "2025-03-28 14:20:30",
-      "album": {
-        "name": "Porwiggle",
-        "url": "https://open.spotify.com/album/4JltDTUIzQrGgDQiEFT13f"
-      },
-      "artists": [
-        {
-          "name": "Am Froggo",
-          "url": "https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW"
-        }
-      ],
-      "duration_ms": 124545,
-      "name": "Porwiggle",
-      "url": "https://open.spotify.com/track/6ylLrrKXTKfFiD62kgymOj"
     },
     {
       "added_at": "2025-03-28 14:20:30",

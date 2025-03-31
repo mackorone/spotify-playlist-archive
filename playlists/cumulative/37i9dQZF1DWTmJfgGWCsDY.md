@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-128 songs - 8 hr 41 min
+129 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Maisha Yetu Usela](https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm) | [Maisha Yetu Usela](https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG) | 5:25 | 2023-12-15 |  |
 | [Mama Samia](https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Mama Samia](https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk) | 5:00 | 2024-04-26 |  |
 | [Mamu Remix \- Remix](https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mr Blue](https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9) | [Mamu Remix](https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK) | 6:11 | 2022-08-05 |  |
+| [Mapenzi Hisia \(feat\. Jetty Mc, Vanillah, Baddest 47 & Jay Combat\)](https://open.spotify.com/track/5AOLHEODPUTgPJSxs5DceH) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Jetty Mc](https://open.spotify.com/artist/04pRUHmMXLeGtMCInTm142), [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ), [Jay Combat](https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx) | [Mapenzi Hisia \(feat\. Jetty Mc, Vanillah, Baddest 47 & Jay Combat\)](https://open.spotify.com/album/7h3Jhk5AvX06EqybrzWmm3) | 4:21 | 2025-03-28 |  |
 | [Mbabaifu](https://open.spotify.com/track/1GM6D0xdZxL7l42m44WLOi) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Shufayna kisauti](https://open.spotify.com/artist/6jrRPmRVu0tp5M56vnaKG0) | [Mbabaifu](https://open.spotify.com/album/28Di56j1gayfBSqetkIag5) | 3:27 | 2022-12-16 | 2023-09-02 |
 | [Mchepuko](https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Mchepuko](https://open.spotify.com/album/3ZJ0RRiA56WsQb3G2M4N6F) | 4:33 | 2023-01-20 | 2025-03-08 |
 | [Miss Buza](https://open.spotify.com/track/0dJlBA59qFQYj5qCXftBDa) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Vanny Boy](https://open.spotify.com/album/3fhna2FmjpHFePlDXn6voT) | 5:20 | 2022-08-05 | 2022-10-07 |
@@ -120,7 +121,7 @@
 | [Twende Beach](https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em) | [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Twende Beach](https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M) | 4:10 | 2024-06-28 | 2024-10-04 |
 | [Ujaulamba](https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Ujaulamba](https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0) | 5:33 | 2022-08-05 |  |
 | [Umbea](https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Hits of Aslay](https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC) | 3:22 | 2022-08-05 |  |
-| [Umedorola](https://open.spotify.com/track/41GbxDGQxBxTYsL9hxJuPl) | [Asanoo](https://open.spotify.com/artist/75VYC0xCWRZYFp64NnYwQD) | [Umedorola](https://open.spotify.com/album/4krdJKrFET6dPGk8vfT8TL) | 4:06 | 2023-12-15 |  |
+| [Umedorola](https://open.spotify.com/track/41GbxDGQxBxTYsL9hxJuPl) | [Asanoo](https://open.spotify.com/artist/75VYC0xCWRZYFp64NnYwQD) | [Umedorola](https://open.spotify.com/album/4krdJKrFET6dPGk8vfT8TL) | 4:06 | 2023-12-15 | 2025-03-31 |
 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 | 2022-08-05 |  |
 | [Uongo](https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Uongo](https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi) | 3:26 | 2023-04-14 |  |
 | [Upwii](https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Upwii](https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ) | 3:07 | 2024-01-26 |  |

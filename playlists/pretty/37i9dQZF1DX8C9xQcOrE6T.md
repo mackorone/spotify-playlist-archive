@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Moana 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,532,252 likes - 131 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,533,019 likes - 131 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 125 | [Just Around the Riverbend](https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 2:27 |
 | 126 | [I Can't Let You Throw Yourself Away](https://open.spotify.com/track/7tSODhfDkv0JEhkSMYSIBS) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:05 |
 | 127 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 |
-| 128 | [We Own the Night](https://open.spotify.com/track/3n1lJB7m8iNDToXJVzIHD2) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs) | 2:30 |
+| 128 | [We Own the Night](https://open.spotify.com/track/3n1lJB7m8iNDToXJVzIHD2) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs) | 2:30 |
 | 129 | [Chim Chim Cher\-ee \- From "Mary Poppins"/Soundtrack Version](https://open.spotify.com/track/2Bl4ZuWiMoffCXzj11s0oR) | [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Karen Dotrice](https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz), [Matthew Garber](https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ) | [Saving Mr\. Banks \(Original Motion Picture Soundtrack \[Deluxe Edition\]\)](https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12) | 2:46 |
 | 130 | [The Aristocats](https://open.spotify.com/track/1yTZjNU4R0pYNpXwyl37bE) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Songs From The Aristocats](https://open.spotify.com/album/2FeAtX8kDxc62NtpWNW93Z) | 2:20 |
 | 131 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |

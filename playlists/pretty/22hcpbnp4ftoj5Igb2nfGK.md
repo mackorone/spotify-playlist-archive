@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain](/playlists/plain/22hcpbnp4ftoj5Igb2nfGK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/22hcpbnp4ftoj5Igb2nfGK)
 
-### [music \*\*I\*\* like not YOU I dont care about YOUR opinion](https://open.spotify.com/playlist/22hcpbnp4ftoj5Igb2nfGK)
+### [Mystery brew 🧙‍♀️](https://open.spotify.com/playlist/22hcpbnp4ftoj5Igb2nfGK)
 
 > pretty flippin&\#x27; peak ;\)
 
-[TangerineGod](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 80 songs - 4 hr 11 min
+[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 81 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,6 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 | 78 | [What the hip hop hell is this ?](https://open.spotify.com/track/7nEOnYGnPIqNukJ0RJIDox) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S) | 2:32 |
 | 79 | [Exmilitary](https://open.spotify.com/track/1ZzSRXy86bhxjqwNjSZnko) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 5:01 |
 | 80 | [King Kunta](https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:54 |
+| 81 | [IGOR'S THEME](https://open.spotify.com/track/51RN0kzWd7xeR4th5HsEtW) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:20 |
 
-Snapshot ID: `AAAFwSbtYrRpP4Xi6WxufO+PtpY5gx7O`
+Snapshot ID: `AAAFxj/5WWVV/uaRRL9WGeJ3rA+xAYwI`

@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 107498,
+  "num_followers": 107492,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 202913,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
         "name": "EN EL ESPACIO",
         "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 156738,
       "name": "Nena, dime algo.",
       "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "X AMOR",
         "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 242755,
       "name": "X AMOR",
       "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/5U47V2N5iF2ata6zfvFZEN"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 187505,
-      "name": "Pienso en Ti",
-      "url": "https://open.spotify.com/track/6seoRwpChU9ZP3cA2GkjsM"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Escorpio",
         "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 172000,
       "name": "John & Yoko",
       "url": "https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/5U47V2N5iF2ata6zfvFZEN"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 187505,
+      "name": "Pienso en Ti",
+      "url": "https://open.spotify.com/track/6seoRwpChU9ZP3cA2GkjsM"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "El Chiste",
         "url": "https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 140500,
       "name": "Voy a Seguir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6b76aAcQltcNWyJD9LODpc"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "C\u00f3mo y Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku"
-      },
-      "artists": [
-        {
-          "name": "El F\u00e9ral",
-          "url": "https://open.spotify.com/artist/34Iany0uooiPsZ0pIWUy1G"
-        },
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 204273,
-      "name": "C\u00f3mo y Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 192464,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "C\u00f3mo y Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku"
+      },
+      "artists": [
+        {
+          "name": "El F\u00e9ral",
+          "url": "https://open.spotify.com/artist/34Iany0uooiPsZ0pIWUy1G"
+        },
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 204273,
+      "name": "C\u00f3mo y Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY"
     },
     {
       "added_at": "2025-03-14 03:00:12",

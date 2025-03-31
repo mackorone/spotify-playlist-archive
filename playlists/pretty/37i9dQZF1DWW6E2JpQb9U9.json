@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 121754,
+  "num_followers": 121768,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,26 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
+        "name": "Spinetta y Las Bandas Eternas",
+        "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "T\u00e9 para Tres (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -231,22 +251,6 @@
       "duration_ms": 289154,
       "name": "Al Vac\u00edo",
       "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
-        "name": "En El Opera",
-        "url": "https://open.spotify.com/album/0bjaDXdUk6kiaYvqtFlX6a"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Costumbres Argentinas - En Vivo",
-      "url": "https://open.spotify.com/track/5kRFlfWSTdQXl6AATz3xn8"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -271,22 +275,18 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Spinetta y Las Bandas Eternas",
-        "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
       "artists": [
         {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 196453,
-      "name": "T\u00e9 para Tres (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
+      "duration_ms": 364493,
+      "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -307,18 +307,18 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+        "name": "En El Opera",
+        "url": "https://open.spotify.com/album/0bjaDXdUk6kiaYvqtFlX6a"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 364493,
-      "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
+      "duration_ms": 197933,
+      "name": "Costumbres Argentinas - En Vivo",
+      "url": "https://open.spotify.com/track/5kRFlfWSTdQXl6AATz3xn8"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Ven Aqu\u00ed (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
       },
       "artists": [
         {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 266519,
-      "name": "Ven Aqu\u00ed - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
+      "duration_ms": 225120,
+      "name": "Te Hacen Falta Vitaminas - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -403,6 +403,38 @@
       "duration_ms": 324125,
       "name": "Movimiento Astral - En vivo",
       "url": "https://open.spotify.com/track/1gQRoX5GMn1MIbamqGT2uJ"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "Ven Aqu\u00ed (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 266519,
+      "name": "Ven Aqu\u00ed - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "Tan (En Vivo)",
+        "url": "https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Fuera De Control (En Vivo)",
+      "url": "https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -443,18 +475,18 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Tan (En Vivo)",
-        "url": "https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz"
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Fuera De Control (En Vivo)",
-      "url": "https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH"
+      "duration_ms": 261680,
+      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -487,38 +519,6 @@
       "duration_ms": 233213,
       "name": "Te quiero igual - En directo 2005",
       "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Te Hacen Falta Vitaminas - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
-        "name": "No S\u00e9 Si Es Baires O Madrid",
-        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 432680,
-      "name": "Al Lado Del Camino",
-      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -567,6 +567,22 @@
       "duration_ms": 294784,
       "name": "Savia - Vivo en Luna Park",
       "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "No S\u00e9 Si Es Baires O Madrid",
+        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 432680,
+      "name": "Al Lado Del Camino",
+      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -631,22 +647,6 @@
       "duration_ms": 278137,
       "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 263373,
       "name": "Pronta Entrega - En Vivo",
       "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Veinticirco La Gira (En Vivo)",
-        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 249742,
-      "name": "Kil\u00f3metros - En Vivo",
-      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
         "name": "En Vivo-Vol.2",
         "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
       },
@@ -1199,6 +1183,38 @@
       "duration_ms": 201293,
       "name": "Me Puedo Programar (En Vivo",
       "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "Veinticirco La Gira (En Vivo)",
+        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 249742,
+      "name": "Kil\u00f3metros - En Vivo",
+      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -1219,22 +1235,6 @@
       "duration_ms": 266824,
       "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Vivire Viajando",
-        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
+        "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Arde la ciudad",
-      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+      "duration_ms": 294334,
+      "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -1311,6 +1315,22 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
+        "name": "Vivire Viajando",
+        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Arde la ciudad",
+      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
         "name": "Fuego (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 286528,
       "name": "Fuego - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
-        "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
-        "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 294334,
-      "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
-      "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "La Fuente (Vivo en Obras 11/06/2022)",
-        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 251434,
-      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
-      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
         "name": "Fr\u00e1gil (En Vivo)",
         "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 200985,
       "name": "Fr\u00e1gil - En Vivo",
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "La Fuente (Vivo en Obras 11/06/2022)",
+        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 251434,
+      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
+      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
     },
     {
       "added_at": "2025-03-07 16:35:12",

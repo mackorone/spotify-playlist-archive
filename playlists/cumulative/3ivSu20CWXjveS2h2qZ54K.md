@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,606 songs - 8 day 7 hr 36 min
+3,608 songs - 8 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1357,6 +1357,7 @@
 | [Haut Contre Bas](https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Rong Weicknes](https://open.spotify.com/album/6PPLCyHL015tBNHY0GQuc0) | 3:39 | 2024-10-25 | 2024-11-09 |
 | [Have You Ever Seen An Angel](https://open.spotify.com/track/7JHZebGtDStHWYdZ7XFMe9) | [My Brightest Diamond](https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B) | [Have You Ever Seen An Angel](https://open.spotify.com/album/1i552Cfcl1l1UO85CvIGXS) | 3:02 | 2024-07-26 | 2024-08-10 |
 | [Hay Un Brillo](https://open.spotify.com/track/3yjeGzGv8zE8VvcZcJIjVg) | [El Faro](https://open.spotify.com/artist/3tEffij11uKABNZ3RFnfk4) | [Hay Un Brillo](https://open.spotify.com/album/3UmxDv2rvYp9flgvOXK1D2) | 3:12 | 2025-01-31 | 2025-02-08 |
+| [Hay un hueco bajo tu cama y está lleno de mierda](https://open.spotify.com/track/5eTkrLxHf8W24yGPo5gEG2) | [el momento incómodo](https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh) | [Hay un hueco bajo tu cama y está lleno de mierda](https://open.spotify.com/album/78BfDF2Ci4pdNhfmdEEZGL) | 2:43 | 2025-03-30 |  |
 | [Hay Veces](https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hay Veces](https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7) | 3:06 | 2024-06-14 | 2024-06-22 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-10 | 2024-05-18 |
 | [He Venido al Mar \- short mix](https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [He Venido al Mar](https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4) | 5:40 | 2024-05-17 | 2024-05-25 |
@@ -2357,6 +2358,7 @@
 | [Otra cara](https://open.spotify.com/track/32leyUmGACtpxGIXE2pFE4) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3) | [Otra cara](https://open.spotify.com/album/3a5SAZ034CPmJx5bksWpHp) | 2:32 | 2025-03-21 | 2025-03-29 |
 | [Otra Noche](https://open.spotify.com/track/6KPus1TamfVqT4dmvGHKry) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [Juait](https://open.spotify.com/artist/0vUkmneVTyPdu8E4Cs7dvr) | [Otra Noche](https://open.spotify.com/album/2b4omO2A2zVVKZgDUcfztH) | 2:11 | 2024-04-26 | 2024-05-10 |
 | [Otra Noche Contigo](https://open.spotify.com/track/0QCYkMnrtXeq95wiu6QbTx) | [Fresquito](https://open.spotify.com/artist/1fURW117sgaPpgIoz8YLXW), [Mango](https://open.spotify.com/artist/1hus2QLWtdEpTUSgopRRZq) | [Otra Noche Contigo](https://open.spotify.com/album/3MD9P5GLBH8P58k3yfi2NB) | 2:45 | 2024-06-21 | 2024-06-29 |
+| [Otra Noche de Llorar](https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Otra Noche de Llorar](https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX) | 3:39 | 2025-03-30 |  |
 | [Otra Noche Más](https://open.spotify.com/track/2wZ6EgqdYzUvJPmDHxaHBv) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Pokito Paranoiko](https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag) | [Escaleras Al Cielo](https://open.spotify.com/album/5LOjLR09sxwriEiMm6GIvM) | 2:27 | 2024-05-10 | 2024-05-18 |
 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 | 2024-10-11 | 2024-10-19 |
 | [Otro Chico +](https://open.spotify.com/track/5NRDTyKvOuyELtlyCfTlln) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Otro Chico +](https://open.spotify.com/album/35E2Korz5jlpPNjqUyTLts) | 2:26 | 2025-03-14 | 2025-03-22 |

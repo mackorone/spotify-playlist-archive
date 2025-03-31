@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring amie blu  ☁️
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,264 likes - 86 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,237 likes - 86 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

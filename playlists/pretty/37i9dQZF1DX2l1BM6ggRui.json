@@ -779,6 +779,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 182031,
+      "name": "CAPTAIN",
+      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "Once In a Summer",
         "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 182031,
-      "name": "CAPTAIN",
-      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "For you, my sunshine",
         "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
       },
@@ -923,6 +923,26 @@
       "duration_ms": 209133,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 171967,
+      "name": "SKIP (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -1011,26 +1031,6 @@
       "duration_ms": 214906,
       "name": "You and I in this hard day",
       "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 171967,
-      "name": "SKIP (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

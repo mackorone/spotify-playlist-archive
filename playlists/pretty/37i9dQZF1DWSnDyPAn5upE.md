@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Laura Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,733 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,764 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 70 | [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 |
 | 71 | [Shifting Winds](https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Shifting Winds](https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3) | 4:12 |
 | 72 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
-| 73 | [Bardo Landscape \(Reimagined\)](https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape \(Reimagined\)](https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP) | 3:16 |
-| 74 | [Respite](https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf) | [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [Respite](https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI) | 3:47 |
+| 73 | [Respite](https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf) | [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [Respite](https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI) | 3:47 |
+| 74 | [Bardo Landscape \(Reimagined\)](https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape \(Reimagined\)](https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP) | 3:16 |
 | 75 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [Guest](https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 |
 | 76 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 |
 | 77 | [Pray for Us](https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo) | [Kiselёk](https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz), [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Pray for Us](https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo) | 4:52 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 94 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 |
 | 95 | [Montjuïc](https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c) | [Gi Gi](https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r), [Mi Mi](https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX) | [Lumino Pleco](https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta) | 8:11 |
 | 96 | [Hannah](https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW) | [Jay Chakravorty](https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY) | [A Map With No Memory](https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U) | 3:13 |
-| 97 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
-| 98 | [Lungs](https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD) | [anthéne](https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Seasons Shifting](https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV) | 4:20 |
+| 97 | [Lungs](https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD) | [anthéne](https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Seasons Shifting](https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV) | 4:20 |
+| 98 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
 | 99 | [Stretch Your Eyes \- Ambient Acapella](https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Stretch Your Eyes \(Ambient Acapella\)](https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp) | 6:07 |
-| 100 | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ) | 2:51 |
+| 100 | [Epic Mirage](https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Grand Views](https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1) | 5:06 |
 
 Snapshot ID: `Z8E04gAAAADefS2Uc5sMWLwjvxWgccpK`

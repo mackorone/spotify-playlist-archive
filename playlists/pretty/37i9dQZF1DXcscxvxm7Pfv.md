@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,859 likes - 175 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,060 likes - 175 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 116 | [White Noise Hz](https://open.spotify.com/track/0mG42zKN4SCbohCNM0dMqc) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:26 |
 | 117 | [White Noise Cave](https://open.spotify.com/track/1i3G5HbGIHa7UHccW5kbpp) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [White Noise Cave](https://open.spotify.com/album/248nKykgiNq8NA0bxsgKAM) | 4:50 |
 | 118 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 |
-| 119 | [White Noise Meditation Oasis](https://open.spotify.com/track/3cNlR1vO4bXOT1bVV0HBgX) | [Sound Carrie](https://open.spotify.com/artist/6VSLsTLt5SnJSaiKVwHSKn) | [White Noise Sleep Sanctuary](https://open.spotify.com/album/7i5Cjjqcvs8boLevSB3nP2) | 2:32 |
-| 120 | [Morning Noise](https://open.spotify.com/track/5Yha53zwcxaZ6BCfIjFwnQ) | [Sleep Sound Factory](https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT) | [Noises At Night](https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO) | 2:22 |
+| 119 | [Morning Noise](https://open.spotify.com/track/5Yha53zwcxaZ6BCfIjFwnQ) | [Sleep Sound Factory](https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT) | [Noises At Night](https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO) | 2:22 |
+| 120 | [White Noise Meditation Oasis](https://open.spotify.com/track/3cNlR1vO4bXOT1bVV0HBgX) | [Sound Carrie](https://open.spotify.com/artist/6VSLsTLt5SnJSaiKVwHSKn) | [White Noise Sleep Sanctuary](https://open.spotify.com/album/7i5Cjjqcvs8boLevSB3nP2) | 2:32 |
 | 121 | [Deep Space Voyage](https://open.spotify.com/track/6PvAlp8pKy23Bff6tUjhl0) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 |
 | 122 | [White Haze](https://open.spotify.com/track/2FL3hIfryGKeLJkykSlyhZ) | [Turquoise Turmoil](https://open.spotify.com/artist/5W19VR9TpHPvtmH3lfR6vt) | [Sleepy Stream](https://open.spotify.com/album/3Tph9JVGBEKSQ46sTBRglJ) | 2:54 |
 | 123 | [Harmonious Noise](https://open.spotify.com/track/76acca0MmdeFW5L8m1yL1T) | [Chen Pa](https://open.spotify.com/artist/6tBqsxZQcS6IjIwzZ3axD9) | [Steady White Noise](https://open.spotify.com/album/14hlWan4DFAHTypwMU1jwJ) | 2:11 |

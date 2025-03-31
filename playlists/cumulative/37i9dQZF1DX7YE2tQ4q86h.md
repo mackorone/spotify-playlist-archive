@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘 Cover: Troye Sivan & Dua Lipa
 
-1,249 songs - 2 day 14 hr 37 min
+1,250 songs - 2 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 | 2023-04-22 |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-17 | 2023-11-11 |
 | [Cryo](https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH2](https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip) | 2:38 | 2022-03-11 | 2022-05-17 |
+| [Crème Brulée](https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Crème Brulée](https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt) | 2:59 | 2025-03-30 |  |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-02-15 | 2022-07-16 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-16 | 2022-12-24 |
 | [Cupid](https://open.spotify.com/track/4eCERVpRjClw6Ni2jEkmFQ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Synchronicity](https://open.spotify.com/album/5H94Ia6oEGuXih6DKjbhrV) | 4:03 | 2022-07-18 | 2022-08-27 |
@@ -385,7 +386,7 @@
 | [Freaks In Town](https://open.spotify.com/track/2XbfCpQpmkrJKIjuIKhFs3) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Freaks In Town](https://open.spotify.com/album/45ZPxkBKBznmXvBphMfAVG) | 2:12 | 2023-10-27 | 2024-04-13 |
 | [Free Woman](https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:11 | 2022-08-12 | 2022-08-27 |
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 | 2023-04-15 |
-| [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-18 |  |
+| [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-18 | 2025-03-31 |
 | [Freefall](https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Freefall](https://open.spotify.com/album/4kGEeZJodQnNKyIpbDdpTR) | 2:49 | 2024-10-11 | 2024-11-30 |
 | [FREYA](https://open.spotify.com/track/1rDwsfTxO3BvGPmpNeVVbB) | [Maria Celin](https://open.spotify.com/artist/5cNJTVpvfQKB5oJRtsWbsd) | [FREYA](https://open.spotify.com/album/2RCQJRLAfWiF9kMXplBB5T) | 3:03 | 2023-02-17 | 2023-10-07 |
 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 | 2024-12-13 |  |

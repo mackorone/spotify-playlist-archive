@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,955 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,982 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 38 | [London Tipton Remix](https://open.spotify.com/track/0EPOAe0idyN6jL3a7oPt2J) | [Fetish](https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [London Tipton Remix](https://open.spotify.com/album/3u8X9iNjwiDrQuoTqGho09) | 2:44 |
 | 39 | [Harmony of Irrelevant Facts](https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Harmony of Irrelevant Facts](https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe) | 5:12 |
 | 40 | [Ancient DNA](https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Ancient DNA](https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx) | 2:43 |
-| 41 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 |
-| 42 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 |
-| 43 | [Multifolds](https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Everything Squared](https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr) | 5:31 |
-| 44 | [the mould](https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for](https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7) | 2:21 |
-| 45 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 |
-| 46 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
+| 41 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 |
+| 42 | [Multifolds](https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Everything Squared](https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr) | 5:31 |
+| 43 | [the mould](https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for](https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7) | 2:21 |
+| 44 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 |
+| 45 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
+| 46 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 |
 | 47 | [O Bicho Anda Por Aí](https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [O Bicho Anda Por Aí](https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya) | 2:32 |
 | 48 | [Old Age](https://open.spotify.com/track/7mr020BsS8ucWUoyn1EqM3) | [1100](https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6), [AMIANGELIKA](https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu) | [Old Age](https://open.spotify.com/album/3ebtbu8s9W9a4AUP5T6feh) | 3:56 |
 | 49 | [Barbara](https://open.spotify.com/track/2t8sijt2I0w7LLQ3lIPCSb) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Squu](https://open.spotify.com/artist/0nCnrZSTvBk1PZCtGioMRq) | [Lust 1](https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L) | 3:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 95 | [500 ascended](https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:32 |
 | 96 | [2033](https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA) | [Pelp](https://open.spotify.com/artist/5O6mSkESMMTM6WmQmtlDcK) | [2007](https://open.spotify.com/album/1XrAK2WxsAlogv7MmVypiY) | 11:48 |
 | 97 | [I Am Here and Now](https://open.spotify.com/track/7ubSeCP13u6DnlswYIQ6yh) | [Valentina Goncharova](https://open.spotify.com/artist/5rzFg9cZH3EAHs1x0yOTGu) | [Campanelli](https://open.spotify.com/album/3RmPqy5455voCtj5rI3UJd) | 7:04 |
-| 98 | [the REAL \- HAAi Remix](https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [the REAL \(HAAi Remix\)](https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j) | 5:36 |
-| 99 | [WHYET？](https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz) | [ondo](https://open.spotify.com/artist/31D2x4Ch0Lz1Z9jhXTTLBF) | [WHYET？](https://open.spotify.com/album/41Nf6etzcF599AG6udxp1P) | 3:31 |
-| 100 | [y volvieron a transformarse, enfrente de nosotros,](https://open.spotify.com/track/08SgLXVGR8a8pE5dQXpMRE) | [Galgo](https://open.spotify.com/artist/2sP4mSzvPK5etmf9M6uO5U) | [y volvieron a transformarse, enfrente de nosotros,](https://open.spotify.com/album/2GuZgZ4s9CSsXx6fUxLN7P) | 4:05 |
+| 98 | [y volvieron a transformarse, enfrente de nosotros,](https://open.spotify.com/track/08SgLXVGR8a8pE5dQXpMRE) | [Galgo](https://open.spotify.com/artist/2sP4mSzvPK5etmf9M6uO5U) | [y volvieron a transformarse, enfrente de nosotros,](https://open.spotify.com/album/2GuZgZ4s9CSsXx6fUxLN7P) | 4:05 |
+| 99 | [the REAL \- HAAi Remix](https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [the REAL \(HAAi Remix\)](https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j) | 5:36 |
+| 100 | [WHYET？](https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz) | [ondo](https://open.spotify.com/artist/31D2x4Ch0Lz1Z9jhXTTLBF) | [WHYET？](https://open.spotify.com/album/41Nf6etzcF599AG6udxp1P) | 3:31 |
 
 Snapshot ID: `Z+Zi/QAAAACffNcJGBc3IC1n1o+DISZi`

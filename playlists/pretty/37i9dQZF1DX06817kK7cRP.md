@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,661 likes - 125 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,693 likes - 125 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 78 | [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 |
 | 79 | [Pyramids Revisited](https://open.spotify.com/track/3vXrrNtaV8I6opIxPniy2j) | [Electrotastica](https://open.spotify.com/artist/5q5uMW70FwqROgeYo3ojb8) | [Pyramids Revisited](https://open.spotify.com/album/0B8x8wor9Hv9ahYC0naaTA) | 3:18 |
 | 80 | [Luminism](https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk) | [Blossum](https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Luminism](https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy) | 2:20 |
-| 81 | [Sunflowers](https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [A Bouquet of Flowers](https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa) | 2:45 |
-| 82 | [Refractions](https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [mishingo](https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK) | [Refractions](https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT) | 2:16 |
-| 83 | [Velvet Keys](https://open.spotify.com/track/2lLWYl54En7wmYWO5FVhOf) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Velvet Keys](https://open.spotify.com/album/7wHdZd8aY5ivOMG7phgPTD) | 2:22 |
-| 84 | [Junior](https://open.spotify.com/track/4cNqYiu2K5gBjjy1GmHngv) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [Junior](https://open.spotify.com/album/7xy09uniqHYvBDiNJ9M4lW) | 2:09 |
+| 81 | [Refractions](https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [mishingo](https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK) | [Refractions](https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT) | 2:16 |
+| 82 | [Velvet Keys](https://open.spotify.com/track/2lLWYl54En7wmYWO5FVhOf) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Velvet Keys](https://open.spotify.com/album/7wHdZd8aY5ivOMG7phgPTD) | 2:22 |
+| 83 | [Junior](https://open.spotify.com/track/4cNqYiu2K5gBjjy1GmHngv) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [Junior](https://open.spotify.com/album/7xy09uniqHYvBDiNJ9M4lW) | 2:09 |
+| 84 | [Sunflowers](https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [A Bouquet of Flowers](https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa) | 2:45 |
 | 85 | [Dinner Party](https://open.spotify.com/track/0jTs2pJwZX2XHNyPyO4p2h) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Dinner Party](https://open.spotify.com/album/1misnUF0YhwPZiEWP7ugsf) | 1:42 |
 | 86 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 |
 | 87 | [Dive In!](https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf) | [Lavender Box](https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9) | [Dive In!](https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3266,
+  "num_followers": 3268,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAADHKJdR/kSvTZA8sf2UMgof",
+  "snapshot_id": "Z+c4AAAAAAA2tORekptwxo3BHB6qXzRM",
   "tracks": [
     {
       "added_at": null,
@@ -535,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabotage 50",
-        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
-      },
-      "artists": [
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 234090,
-      "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
-      "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 199860,
       "name": "Fases",
       "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 234090,
+      "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
+      "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
     },
     {
       "added_at": null,

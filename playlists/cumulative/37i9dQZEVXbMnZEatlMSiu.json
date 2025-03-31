@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "2 soon",
+        "url": "https://open.spotify.com/album/5TfGMgtbj2pU60Hk7DT5Yb"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "2 soon",
+      "url": "https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv"
+    },
+    {
+      "album": {
         "name": "24/7, 365",
         "url": "https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG"
       },
@@ -7740,7 +7758,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -10408,7 +10426,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -12858,7 +12876,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
@@ -17212,7 +17230,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 279146,
       "name": "\u5e74\u5c11\u6709\u70ba",
       "url": "https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp"
@@ -19876,6 +19894,24 @@
       "duration_ms": 197273,
       "name": "\u70ba\u59b3\u5beb\u7684\u6b4c",
       "url": "https://open.spotify.com/track/5qmtIGToI36Z9sNE7bvghH"
+    },
+    {
+      "album": {
+        "name": "\u70c2\u7247\u5267\u60c5",
+        "url": "https://open.spotify.com/album/2Km6rWJjdJoli9PFE8nwxh"
+      },
+      "artists": [
+        {
+          "name": "LBI\u5229\u6bd4",
+          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "\u70c2\u7247\u5267\u60c5",
+      "url": "https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG"
     },
     {
       "album": {

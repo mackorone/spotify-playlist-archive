@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 91225,
+  "num_followers": 91216,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 256443,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -179,6 +195,26 @@
       "duration_ms": 187200,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 166853,
+      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -211,22 +247,6 @@
       "duration_ms": 192800,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 256443,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -299,26 +319,6 @@
       "duration_ms": 167973,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 166853,
-      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Canterbury Cathedral Girls' Choir",
-          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Rest in Peace",
-      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 253607,
       "name": "Cradle in Bethlehem",
       "url": "https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+      },
+      "artists": [
+        {
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Canterbury Cathedral Girls' Choir",
+          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -659,22 +659,18 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
-        "name": "Love to Keep Me Warm",
-        "url": "https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF"
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
       "artists": [
         {
           "name": "Laufey",
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -747,6 +743,26 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
         "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters",
         "url": "https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76"
       },
@@ -815,54 +831,6 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/23e53JCxxqZBTz5AO6SjTS"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
-        "name": "Let It Swing: A Jazz Christmas With Verve",
-        "url": "https://open.spotify.com/album/2OVtgimkNWYBek4ue7gdL2"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/7gXjaS8KmxBtsoyv6XNogg"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
         "name": "Jazz Christmas",
         "url": "https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc"
       },
@@ -883,6 +851,38 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
+        "name": "Let It Swing: A Jazz Christmas With Verve",
+        "url": "https://open.spotify.com/album/2OVtgimkNWYBek4ue7gdL2"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/7gXjaS8KmxBtsoyv6XNogg"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/23e53JCxxqZBTz5AO6SjTS"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
         "name": "Christmas With Ella & Friends",
         "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 179498,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/3FYOHrQTCwF0SvPQlWDXJU"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
-        "name": "Christmas Music",
-        "url": "https://open.spotify.com/album/7HRRSRbyl9q0WS9YLxw1Tq"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 137880,
-      "name": "Christmas Island",
-      "url": "https://open.spotify.com/track/7uw9rMICwKlJ1a5evKUjVe"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -963,6 +947,22 @@
       "duration_ms": 187906,
       "name": "The First Snowfall - Single Version",
       "url": "https://open.spotify.com/track/5g7GS1C3zqW2evPRjqiOjA"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
+        "name": "Christmas Music",
+        "url": "https://open.spotify.com/album/7HRRSRbyl9q0WS9YLxw1Tq"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "Christmas Island",
+      "url": "https://open.spotify.com/track/7uw9rMICwKlJ1a5evKUjVe"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

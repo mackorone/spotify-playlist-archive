@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-208 songs - 15 hr 48 min
+209 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Gershwin: Porgy and Bess, Act 2, Scene 1: "Oh, I can't sit down" \(Maria, Bess, Porgy, Chorus\)](https://open.spotify.com/track/10lJT9VwEPBlBBzxKJmguK) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Sir Willard White/Cynthia Haymon/Marietta Simpson/Glyndebourne Chorus/London Philharmonic Orchestra/Sir Simon Rattle](https://open.spotify.com/artist/2jIQ4wTk7o2nS6ZgXCO6gO), [Willard White](https://open.spotify.com/artist/4vteTJJmyFSu91w1rxv1Xv), [Cynthia Haymon](https://open.spotify.com/artist/6AtgdNp2Q7d9IpBTILhoHC), [Glyndebourne Festival Chorus](https://open.spotify.com/artist/1p4y529sRq6IlgVDY1lFu1), [Marietta Simpson](https://open.spotify.com/artist/0PT7kJyKkN793JgwIXjLTC), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [Gershwin: Porgy & Bess](https://open.spotify.com/album/6JOrscZTwb7OH6e5EM9Jyg) | 4:23 | 2024-07-24 |  |
 | [Gleda](https://open.spotify.com/track/71E4T4F67OeX2oNX3E9X4r) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 3:29 | 2025-01-09 |  |
 | [Gone, Gone, Gone](https://open.spotify.com/track/7JXspV8huWhAauiO8cGVLr) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 2:03 | 2024-07-24 |  |
+| [HeeJae Part.2](https://open.spotify.com/track/3EGuzy7TZdWreueR7bzgSr) | [December](https://open.spotify.com/artist/6WiANXryTQJOTCM3z8jENM) | [Dear My Lover](https://open.spotify.com/album/4EemgcWT7C3JfIibNZHoDX) | 4:09 | 2025-03-30 |  |
 | [Here Comes The Heavster](https://open.spotify.com/track/7dFetZ4CpCjOz8WSr7g9np) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Blue Funk](https://open.spotify.com/album/0mjKnJ6EaGkrMozJlmQbdC) | 4:53 | 2024-07-24 |  |
 | [Home](https://open.spotify.com/track/0sSwIvwh26CP6o9dFnEFWY) | [Dave Daniels](https://open.spotify.com/artist/0Vh90V75jUqGR31zSjASYz) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 2:03 | 2024-07-24 |  |
 | [Hooray for the U.S.A.](https://open.spotify.com/track/0NIuZl2eo3FHCMC4qb1Zbh) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Sally Wilfert](https://open.spotify.com/artist/4BAg51jG2nRh14hWH8dH3K), [Bethe Austin](https://open.spotify.com/artist/30TvnkCTJUGDxLcbDQwyvb) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:49 | 2024-07-24 |  |

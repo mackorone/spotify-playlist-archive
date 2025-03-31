@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 29522,
+  "num_followers": 29537,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
+        "name": "Angar Bhangar Nay Rr - Single",
+        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
+      },
+      "artists": [
+        {
+          "name": "Madhur Milind Shinde",
+          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Angaar Bhangar Nai Rr",
+      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
         "name": "Mi Naadkhula",
         "url": "https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 259894,
       "name": "Mi Naadkhula",
       "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
-        "name": "Angar Bhangar Nay Rr - Single",
-        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
-      },
-      "artists": [
-        {
-          "name": "Madhur Milind Shinde",
-          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Angaar Bhangar Nai Rr",
-      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
     },
     {
       "added_at": "2025-02-19 09:10:16",
@@ -499,26 +499,6 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
-        "name": "Chandramukhi",
-        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Chandra (Featuring. Shreya Ghoshal)",
-      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
         "name": "Masuta (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 282315,
       "name": "Waju De Waju De",
       "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
+        "name": "Chandramukhi",
+        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 315653,
+      "name": "Chandra (Featuring. Shreya Ghoshal)",
+      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
     },
     {
       "added_at": "2025-02-19 09:10:16",
@@ -611,8 +611,8 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
-        "name": "Aika Dajiba",
-        "url": "https://open.spotify.com/album/2W0MLcqkRs0DbS3kXq4d7C"
+        "name": "Zenda (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3oCYJ9yh2VfLl5lBVfGeIq"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Aika Dajiba",
-      "url": "https://open.spotify.com/track/5FjtI1VamgonPsylqnQWNZ"
+      "duration_ms": 237026,
+      "name": "Patil Aala",
+      "url": "https://open.spotify.com/track/6EdZ7a4LCQhKgiFLG0lzMu"
     },
     {
       "added_at": "2025-02-19 09:10:16",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
-        "name": "Zenda (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3oCYJ9yh2VfLl5lBVfGeIq"
-      },
-      "artists": [
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Patil Aala",
-      "url": "https://open.spotify.com/track/6EdZ7a4LCQhKgiFLG0lzMu"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
         "name": "Aapli Yaari (feat. Adarsh Shinde & Sonali Sonawane)",
         "url": "https://open.spotify.com/album/7hnkrHkIiLVtgg67fR0NG4"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
+        "name": "Aika Dajiba",
+        "url": "https://open.spotify.com/album/2W0MLcqkRs0DbS3kXq4d7C"
+      },
+      "artists": [
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Aika Dajiba",
+      "url": "https://open.spotify.com/track/5FjtI1VamgonPsylqnQWNZ"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
         "name": "Maharashtra Shaheer",
         "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
-        "name": "Meri Madhubala",
-        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 238864,
-      "name": "Meri Madhubala",
-      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
         "name": "Mauli (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7mZGc0WvyyQznsSo2L7Rwg"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 214669,
       "name": "Dhuvun Taak",
       "url": "https://open.spotify.com/track/6GWKXINigx4Pf7yuqRHgq3"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
+        "name": "Meri Madhubala",
+        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
+      },
+      "artists": [
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 238864,
+      "name": "Meri Madhubala",
+      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
     }
   ],
   "unique_name": "Marathi Workout",

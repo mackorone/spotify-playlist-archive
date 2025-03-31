@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,210 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,211 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 49 | [Can't Get Over Losing You](https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:30 |
 | 50 | [True Love](https://open.spotify.com/track/5YfnR3WZr3E17OcLo5AaOr) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 2:54 |
 
-Snapshot ID: `Z+XmgAAAAADm3eYpt+5Z3nJeOmGdhtNn`
+Snapshot ID: `Z+c4AAAAAADJ0uGdDQ6zYrxs5Z/I1ytU`

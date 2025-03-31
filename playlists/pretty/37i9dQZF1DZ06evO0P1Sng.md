@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,188 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,191 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
 | 50 | [Vamu](https://open.spotify.com/track/5IcjA42tUbyrM0P3GIVTQJ) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Raissa](https://open.spotify.com/artist/5aXydhORFva5JBIUtQwOTm) | [Vamu](https://open.spotify.com/album/3hVFOQiSDlm3Fr22iBH2vd) | 3:34 |
 
-Snapshot ID: `Z+XmgAAAAAAq66bfJmMGWOayeGWexKFK`
+Snapshot ID: `Z+c4AAAAAABn40TSGyMSSfC1r4Sr+XEN`

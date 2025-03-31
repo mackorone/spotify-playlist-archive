@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 187659,
       "name": "ANGELINA JOLIE",
       "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
@@ -4626,7 +4626,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Bine Ai Venit in Balcani",
       "url": "https://open.spotify.com/track/66bHSTuQi0ncFmqEvS9E6x"
@@ -8545,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Da-te-n Spate",
+      "url": "https://open.spotify.com/track/1WvthiEwIlyl4YfHxN6leG"
+    },
+    {
+      "album": {
         "name": "Dac\u0103 n-ai bani",
         "url": "https://open.spotify.com/album/4ivxooZl7TXgGjeDxK8MiK"
       },
@@ -10532,7 +10550,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 165906,
       "name": "Dragoste nou\u0103",
       "url": "https://open.spotify.com/track/4mffuuMam2bBlx1c4PtfjJ"
@@ -14224,7 +14242,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -17140,7 +17158,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 168000,
       "name": "Ia-ma Du-ma",
       "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
@@ -21281,6 +21299,28 @@
     },
     {
       "album": {
+        "name": "Ma Suni Noaptea",
+        "url": "https://open.spotify.com/album/19iAGMazWIIS3DFfDNvCaT"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "BOB",
+          "url": "https://open.spotify.com/artist/6iI6dJM2djVzT4xFEGymMU"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Ma Suni Noaptea",
+      "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
+    },
+    {
+      "album": {
         "name": "MA$ON",
         "url": "https://open.spotify.com/album/5ss2imP1agMTCSDEk9Ycda"
       },
@@ -22522,7 +22562,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 206341,
       "name": "Mi-E Dor De Muzica Ei",
       "url": "https://open.spotify.com/track/2ljVnFkDPMzyuWoYFq6aHS"
@@ -22964,7 +23004,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -24542,7 +24582,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -24778,7 +24818,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 285988,
       "name": "NU E CEVA DE MOMENT",
       "url": "https://open.spotify.com/track/41Pi8IUzMZBGhVz3wrZTaq"
@@ -25917,6 +25957,24 @@
     },
     {
       "album": {
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Operatiunea GhostGun",
+      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -26934,7 +26992,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -37307,6 +37365,28 @@
     },
     {
       "album": {
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Rheda",
+          "url": "https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Triton",
+      "url": "https://open.spotify.com/track/7xrxAyfJwM1ExXRojWYFtO"
+    },
+    {
+      "album": {
         "name": "Tropical",
         "url": "https://open.spotify.com/album/2CWOoMPIegD2EZ2LLjFoy1"
       },
@@ -37602,7 +37682,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 
 > Enjoy music from "Kaiju No\. 8"! ©防衛隊第３部隊 ©松本直也／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,710 likes - 71 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,732 likes - 71 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 | 14 | [保科のテーマ](https://open.spotify.com/track/1snJjlCKewQXDHZdAzQjoR) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [LEO](https://open.spotify.com/artist/5z0S6khZtjz0rl1K9Om9A6), [中村滉己](https://open.spotify.com/artist/6OzkQUkv6ClZ1iS1jsCgGG), [MON/KU](https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df) | [相模原討伐作戦 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/0Yq0iuzrVkBqRNJufDpQVT) | 2:35 |
 | 15 | [防衛隊のテーマ](https://open.spotify.com/track/4QjfqDZZBsMGXFVeesU5TK) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [怪獣8号のテーマ 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16) | 0:43 |
 | 16 | [怪獣討伐](https://open.spotify.com/track/2tEiU80rdS1gprQo5f6vAw) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [怪獣8号のテーマ 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16) | 0:17 |
-| 17 | [\#12【最終回‼】MC福西さん×ミナ役瀬戸さん×レノ役加藤さん「そうです。私が緊張ほどきガールです。」](https://open.spotify.com/episode/3b2p8p58c7cUF9KIX5mLKu) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 53:46 |
+| 17 | [\#12【最終回‼】MC福西さん×ミナ役瀬戸さん×レノ役加藤さん「そうです。私が緊張ほどきガールです。」](https://open.spotify.com/episode/3b2p8p58c7cUF9KIX5mLKu) | [アニメ『怪獣8号』ポッドキャスト大討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣8号』ポッドキャスト大討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 53:46 |
 | 18 | [キコルのテーマ](https://open.spotify.com/track/1RT3HBMQThip0rmgGlRIU0) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [MON/KU](https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df) | [KIKORU 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/3VvCs79ckbnk0n0XyctHVG) | 0:59 |
 | 19 | [Kaiju Beats 1](https://open.spotify.com/track/5lUiOPtqtuO73eN2aNRfnn) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [KIKORU 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/3VvCs79ckbnk0n0XyctHVG) | 1:55 |
 | 20 | [ミナとカフカ](https://open.spotify.com/track/1w8pEcZgKSqY4ttG854QVG) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Ensemble FOVE](https://open.spotify.com/artist/6q6FKLC39VIDZXz2vX2ZOZ) | [KIKORU 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/3VvCs79ckbnk0n0XyctHVG) | 1:57 |

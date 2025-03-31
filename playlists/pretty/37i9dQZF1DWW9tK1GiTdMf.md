@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ NASKA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,161 likes - 112 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,158 likes - 112 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,080 songs - 4 day 15 hr 20 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,086 songs - 4 day 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2088,5 +2088,11 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2078 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 |
 | 2079 | [Woops \- Slowed + Reverb](https://open.spotify.com/track/3ajR6pspj94O8XkqkCNCir) | [Dj Bountyhunter](https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66) | [Woops](https://open.spotify.com/album/2UV4r8pygmFLFD7fevUGrC) | 1:54 |
 | 2080 | [Loco](https://open.spotify.com/track/4eLDmhsJW3JoZTXCAozHor) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:06 |
+| 2081 | [NOSTYLIST](https://open.spotify.com/track/0MXemkrh7WpAfiafcGQwZO) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 3:00 |
+| 2082 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
+| 2083 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
+| 2084 | [Crazy](https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [False Persona](https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o) | [Crazy](https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL) | 4:29 |
+| 2085 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/7I6DOsv8I8mZC88CkvmrsE) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(UK Edition\)](https://open.spotify.com/album/3RIRsDECFJX0nNnbgQM21G) | 2:23 |
+| 2086 | [Wanna See U](https://open.spotify.com/track/1gqJjjCl9kepWReQclosRu) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Wanna See Houston](https://open.spotify.com/album/6EV96sexRlM3AxZNXMiWzP) | 5:21 |
 
-Snapshot ID: `AAAD6v3GhNUfR7e7kqG6iu8EwrW5d8Bh`
+Snapshot ID: `AAAD8eu8clihH4nom5HkzLch3xhWmKtN`

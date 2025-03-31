@@ -1,6 +1,6 @@
 {
   "description": "chill beats, lofi vibes, new tracks every week... ",
-  "num_followers": 5400647,
+  "num_followers": 5400804,
   "original_name": "lofi beats",
   "owner": {
     "name": "Spotify",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
+        "name": "Little Walk",
+        "url": "https://open.spotify.com/album/6TcEjTcmM0KuXfoUnMZzfC"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "Ahntow",
+          "url": "https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H"
+        }
+      ],
+      "duration_ms": 99230,
+      "name": "Little Walk",
+      "url": "https://open.spotify.com/track/0RYEiTC6wFbekaZpzr8JUQ"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
         "name": "cooled coffee",
         "url": "https://open.spotify.com/album/4JcZNcGeR9Uamb6fDDBKn3"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 149823,
       "name": "Chewy",
       "url": "https://open.spotify.com/track/6wv26tqIej3IqFHt3IfrBu"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
-        "name": "Little Walk",
-        "url": "https://open.spotify.com/album/6TcEjTcmM0KuXfoUnMZzfC"
-      },
-      "artists": [
-        {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
-        },
-        {
-          "name": "Ahntow",
-          "url": "https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H"
-        }
-      ],
-      "duration_ms": 99230,
-      "name": "Little Walk",
-      "url": "https://open.spotify.com/track/0RYEiTC6wFbekaZpzr8JUQ"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
-        "name": "Through The Horizons",
-        "url": "https://open.spotify.com/album/0Hbnfj872J8kOiBV2CT738"
-      },
-      "artists": [
-        {
-          "name": "B\u01b1BBLE",
-          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "Through The Horizons",
-      "url": "https://open.spotify.com/track/0nermprVtm8B7tOeLy2yXz"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
         "name": "couch sitters",
         "url": "https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 142250,
       "name": "devotion",
       "url": "https://open.spotify.com/track/2LgVhJxRPvs9sNxMbsZPX5"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
+        "name": "Through The Horizons",
+        "url": "https://open.spotify.com/album/0Hbnfj872J8kOiBV2CT738"
+      },
+      "artists": [
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Through The Horizons",
+      "url": "https://open.spotify.com/track/0nermprVtm8B7tOeLy2yXz"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -2807,22 +2807,6 @@
       "duration_ms": 122142,
       "name": "The Day Before Yesterday",
       "url": "https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
-        "name": "don`t go",
-        "url": "https://open.spotify.com/album/1Lo7F3bCn4kHzTYywmNJyY"
-      },
-      "artists": [
-        {
-          "name": "faux kitsune",
-          "url": "https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv"
-        }
-      ],
-      "duration_ms": 130291,
-      "name": "don`t go",
-      "url": "https://open.spotify.com/track/2J8z3PEgZDhBf2pkXyCvXO"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -2967,6 +2951,22 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
+        "name": "don`t go",
+        "url": "https://open.spotify.com/album/1Lo7F3bCn4kHzTYywmNJyY"
+      },
+      "artists": [
+        {
+          "name": "faux kitsune",
+          "url": "https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv"
+        }
+      ],
+      "duration_ms": 130291,
+      "name": "don`t go",
+      "url": "https://open.spotify.com/track/2J8z3PEgZDhBf2pkXyCvXO"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
         "name": "Surf Tiger",
         "url": "https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE"
       },
@@ -3059,22 +3059,6 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
-        "name": "Perfections",
-        "url": "https://open.spotify.com/album/3K6OC8KGNwZQRGWOspvkQp"
-      },
-      "artists": [
-        {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Perfections",
-      "url": "https://open.spotify.com/track/5ZYgCqDnubS8OT10bDou1T"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
         "name": "The Big Apple",
         "url": "https://open.spotify.com/album/4L7cDeQPHCV85gNMZRfT8D"
       },
@@ -3087,6 +3071,22 @@
       "duration_ms": 120823,
       "name": "The Big Apple",
       "url": "https://open.spotify.com/track/2dmlcVftNwXCIviTTUMEEO"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
+        "name": "Perfections",
+        "url": "https://open.spotify.com/album/3K6OC8KGNwZQRGWOspvkQp"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Perfections",
+      "url": "https://open.spotify.com/track/5ZYgCqDnubS8OT10bDou1T"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
-        "name": "semi-hollow",
-        "url": "https://open.spotify.com/album/4ctfPJLaYEBKhoy5E7aR3k"
-      },
-      "artists": [
-        {
-          "name": "Ponzi Skeemz",
-          "url": "https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "semi-hollow",
-      "url": "https://open.spotify.com/track/0WZmg03i0vltH03r3pDuex"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
         "name": "Calm Your Mind",
         "url": "https://open.spotify.com/album/0NiPn5lJ7jmoFIRmmSqQXU"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 139220,
       "name": "Hotel Alone",
       "url": "https://open.spotify.com/track/7CcQusLaSL89fV4kpYZRGn"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
+        "name": "semi-hollow",
+        "url": "https://open.spotify.com/album/4ctfPJLaYEBKhoy5E7aR3k"
+      },
+      "artists": [
+        {
+          "name": "Ponzi Skeemz",
+          "url": "https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "semi-hollow",
+      "url": "https://open.spotify.com/track/0WZmg03i0vltH03r3pDuex"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -3579,6 +3579,22 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
+        "name": "The Jam",
+        "url": "https://open.spotify.com/album/39V0x4k2jWjPuqF6mSC3AW"
+      },
+      "artists": [
+        {
+          "name": "Audio Phill",
+          "url": "https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb"
+        }
+      ],
+      "duration_ms": 99893,
+      "name": "The Jam",
+      "url": "https://open.spotify.com/track/7xJqP2LZrVpJhUR6ZukE9q"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
         "name": "Nostalgic",
         "url": "https://open.spotify.com/album/4Kw3dlJ1SVQxwj5o4J2GJ9"
       },
@@ -3607,22 +3623,6 @@
       "duration_ms": 148315,
       "name": "Slowmotion",
       "url": "https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
-        "name": "The Jam",
-        "url": "https://open.spotify.com/album/39V0x4k2jWjPuqF6mSC3AW"
-      },
-      "artists": [
-        {
-          "name": "Audio Phill",
-          "url": "https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb"
-        }
-      ],
-      "duration_ms": 99893,
-      "name": "The Jam",
-      "url": "https://open.spotify.com/track/7xJqP2LZrVpJhUR6ZukE9q"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -3875,22 +3875,6 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
-        "name": "Beat Crusher",
-        "url": "https://open.spotify.com/album/7GSXF4jI5bIMgELjbkKiFK"
-      },
-      "artists": [
-        {
-          "name": "Nishimura Blaze",
-          "url": "https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa"
-        }
-      ],
-      "duration_ms": 130632,
-      "name": "Beat Crusher",
-      "url": "https://open.spotify.com/track/3zCQK3MbJfryLGpDZdPO9i"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
         "name": "neutron",
         "url": "https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5"
       },
@@ -3919,6 +3903,22 @@
       "duration_ms": 145806,
       "name": "Radiotravel",
       "url": "https://open.spotify.com/track/39whRf3d7uFeO7DxEVLM0W"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
+        "name": "Beat Crusher",
+        "url": "https://open.spotify.com/album/7GSXF4jI5bIMgELjbkKiFK"
+      },
+      "artists": [
+        {
+          "name": "Nishimura Blaze",
+          "url": "https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa"
+        }
+      ],
+      "duration_ms": 130632,
+      "name": "Beat Crusher",
+      "url": "https://open.spotify.com/track/3zCQK3MbJfryLGpDZdPO9i"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -5203,26 +5203,6 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/4n3yQiL0AUNEJ6hgvOgKnx"
-      },
-      "artists": [
-        {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
-        },
-        {
-          "name": "Lenny Loops",
-          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
-        }
-      ],
-      "duration_ms": 115909,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/57x74cwEjgyNs65AaAFUQv"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
         "name": "always by your side",
         "url": "https://open.spotify.com/album/7zdxISh4gzSHasN6xBDyG2"
       },
@@ -5267,6 +5247,26 @@
       "duration_ms": 132307,
       "name": "reconnecting",
       "url": "https://open.spotify.com/track/21x8QFngUHniuJ76OSHKPH"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/4n3yQiL0AUNEJ6hgvOgKnx"
+      },
+      "artists": [
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        }
+      ],
+      "duration_ms": 115909,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/57x74cwEjgyNs65AaAFUQv"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -5835,6 +5835,22 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
+        "name": "marzipan shuffle",
+        "url": "https://open.spotify.com/album/0uBNw4DJM0MPKqwg8EcYCF"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "marzipan shuffle",
+      "url": "https://open.spotify.com/track/5wdv54IxFDvxTjln9p9P17"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
         "name": "sweet",
         "url": "https://open.spotify.com/album/3G8xpiRLTaNfQSczY0R14l"
       },
@@ -5867,22 +5883,6 @@
       "duration_ms": 133953,
       "name": "Offtheground",
       "url": "https://open.spotify.com/track/1M2vwDBnixHHtg8lcs9xxa"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
-        "name": "marzipan shuffle",
-        "url": "https://open.spotify.com/album/0uBNw4DJM0MPKqwg8EcYCF"
-      },
-      "artists": [
-        {
-          "name": "Sleepr Cell",
-          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "marzipan shuffle",
-      "url": "https://open.spotify.com/track/5wdv54IxFDvxTjln9p9P17"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -6107,42 +6107,6 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
-        "name": "Contrails",
-        "url": "https://open.spotify.com/album/6oQDfks2LCUEMx6Ge8j0Nb"
-      },
-      "artists": [
-        {
-          "name": "SwuM",
-          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
-        },
-        {
-          "name": "Lenny Loops",
-          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Contrails",
-      "url": "https://open.spotify.com/track/3zoCYcBrseap7WpuUfpEEe"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
-        "name": "a strangers love",
-        "url": "https://open.spotify.com/album/0oISsu9J6bEKGJLwEJoL6B"
-      },
-      "artists": [
-        {
-          "name": "_tillus",
-          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
-        }
-      ],
-      "duration_ms": 70000,
-      "name": "so kind",
-      "url": "https://open.spotify.com/track/1aPOPR8ruYsW0cQK46EDqJ"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
         "name": "Your Eyes",
         "url": "https://open.spotify.com/album/3koTAiq6tJJg5usPYNiKDf"
       },
@@ -6211,6 +6175,26 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
+        "name": "Contrails",
+        "url": "https://open.spotify.com/album/6oQDfks2LCUEMx6Ge8j0Nb"
+      },
+      "artists": [
+        {
+          "name": "SwuM",
+          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
+        },
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Contrails",
+      "url": "https://open.spotify.com/track/3zoCYcBrseap7WpuUfpEEe"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
         "name": "Think Twice",
         "url": "https://open.spotify.com/album/5RCslTc9uXM8WvX7cXrEPa"
       },
@@ -6259,6 +6243,22 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
+        "name": "Stellar Journey",
+        "url": "https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hall",
+          "url": "https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu"
+        }
+      ],
+      "duration_ms": 187164,
+      "name": "Stellar Journey",
+      "url": "https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
         "name": "Ink of Dawn",
         "url": "https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg"
       },
@@ -6275,26 +6275,6 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF"
-      },
-      "artists": [
-        {
-          "name": "Slipp",
-          "url": "https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e"
-        },
-        {
-          "name": "Nick's chill factory",
-          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
-        }
-      ],
-      "duration_ms": 145791,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
         "name": "First Things First",
         "url": "https://open.spotify.com/album/26GxtM80uLUiS82C069HQm"
       },
@@ -6307,6 +6287,22 @@
       "duration_ms": 126428,
       "name": "First Things First",
       "url": "https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
+        "name": "a strangers love",
+        "url": "https://open.spotify.com/album/0oISsu9J6bEKGJLwEJoL6B"
+      },
+      "artists": [
+        {
+          "name": "_tillus",
+          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
+        }
+      ],
+      "duration_ms": 70000,
+      "name": "so kind",
+      "url": "https://open.spotify.com/track/1aPOPR8ruYsW0cQK46EDqJ"
     },
     {
       "added_at": "2025-03-28 07:46:36",
@@ -6343,22 +6339,6 @@
     {
       "added_at": "2025-03-28 07:46:36",
       "album": {
-        "name": "Stellar Journey",
-        "url": "https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hall",
-          "url": "https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu"
-        }
-      ],
-      "duration_ms": 187164,
-      "name": "Stellar Journey",
-      "url": "https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb"
-    },
-    {
-      "added_at": "2025-03-28 07:46:36",
-      "album": {
         "name": "Spikes",
         "url": "https://open.spotify.com/album/089BNS2vIXOO7ZKcuJgU2v"
       },
@@ -6371,6 +6351,26 @@
       "duration_ms": 151428,
       "name": "Spikes",
       "url": "https://open.spotify.com/track/73JxBWQnLBc5tYeXtYC1kB"
+    },
+    {
+      "added_at": "2025-03-28 07:46:36",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF"
+      },
+      "artists": [
+        {
+          "name": "Slipp",
+          "url": "https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "duration_ms": 145791,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F"
     },
     {
       "added_at": "2025-03-28 07:46:36",

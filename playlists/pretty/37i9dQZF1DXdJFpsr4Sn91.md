@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Haloo Helsinki!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,773 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,780 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 11 | [Leijonanruokaa](https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Leijonanruokaa](https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj) | 3:14 |
 | 12 | [Koodisto \(feat\. Turisti\)](https://open.spotify.com/track/449scioK4oof2kJteHAIyh) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Koodisto \(feat\. Turisti\)](https://open.spotify.com/album/3kILLjHOSPUXxdNEw4Ryfe) | 2:34 |
 | 13 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
-| 14 | [Paperihaavoja](https://open.spotify.com/track/7GdqPP7jriHMeDlXIMpZ7l) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Paperihaavoja](https://open.spotify.com/album/4VmHhco0tZOG1aAbrNOkZd) | 3:15 |
-| 15 | [Rehellisesti](https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rehellisesti](https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI) | 3:10 |
+| 14 | [Rehellisesti](https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rehellisesti](https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI) | 3:10 |
+| 15 | [Paperihaavoja](https://open.spotify.com/track/7GdqPP7jriHMeDlXIMpZ7l) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Paperihaavoja](https://open.spotify.com/album/4VmHhco0tZOG1aAbrNOkZd) | 3:15 |
 | 16 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
 | 17 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
 | 18 | [Dust](https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Dust](https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 79 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 80 | [Sä et ole yksin](https://open.spotify.com/track/5eI0ESdNu0U2eiHdCQ9imT) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Sä et ole yksin](https://open.spotify.com/album/5nowBOIX8BSqkqAEzR6PIJ) | 3:27 |
 
-Snapshot ID: `Z+ZOvAAAAACrgs4IOPJvB6EeqVxtf0To`
+Snapshot ID: `Z+mG/wAAAACWMYBX+JIqxpxLrNc3uwkQ`

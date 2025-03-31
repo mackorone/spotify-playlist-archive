@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18886,
+  "num_followers": 18885,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"
     },
     {
-      "added_at": "2025-02-20 13:00:26",
-      "album": {
-        "name": "The Question",
-        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Question",
-      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "M\u0101ori Ki Te Ao",
@@ -207,6 +191,22 @@
       "duration_ms": 165000,
       "name": "Hyperreal (Middle of the Night)",
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2025-02-20 13:00:26",
+      "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Question",
+      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
     },
     {
       "added_at": "2025-01-23 13:00:35",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Concubine",
-      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
-    },
-    {
       "added_at": "2025-02-27 13:00:12",
       "album": {
         "name": "I Wanna Tell Somebody",
@@ -419,6 +403,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Concubine",
+      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 172879,
       "name": "That's Life, Baby!",
       "url": "https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c"
-    },
-    {
-      "added_at": "2025-01-30 13:00:19",
-      "album": {
-        "name": "Problem",
-        "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 238481,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
     },
     {
       "added_at": "2024-12-12 13:00:02",
@@ -565,20 +549,20 @@
       "url": "https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2025-01-30 13:00:19",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+        "name": "Problem",
+        "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
+      "duration_ms": 238481,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -611,6 +595,22 @@
       "duration_ms": 194670,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
       "added_at": "2025-01-30 13:00:19",
@@ -729,30 +729,6 @@
       "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
     },
     {
-      "added_at": "2025-02-13 13:00:24",
-      "album": {
-        "name": "Maumahara Noa Ahau",
-        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        },
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        },
-        {
-          "name": "Brannigan Kaa",
-          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
-        }
-      ],
-      "duration_ms": 170691,
-      "name": "Maumahara Noa Ahau",
-      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
-    },
-    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "Soft Power",
@@ -783,6 +759,30 @@
       "duration_ms": 220000,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5koR0ccU16Uknn5Rvm93g2"
+    },
+    {
+      "added_at": "2025-02-13 13:00:24",
+      "album": {
+        "name": "Maumahara Noa Ahau",
+        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        },
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        },
+        {
+          "name": "Brannigan Kaa",
+          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
+        }
+      ],
+      "duration_ms": 170691,
+      "name": "Maumahara Noa Ahau",
+      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
     },
     {
       "added_at": "2025-03-20 14:42:12",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Follow (Edit)",
-        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 157843,
-      "name": "Follow - Edit",
-      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Follow (Edit)",
+        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 157843,
+      "name": "Follow - Edit",
+      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "pinky girl",
         "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "In The Shade",
         "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 156055,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
     },
     {
       "added_at": "2024-10-24 13:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "50% techno, 50% house  \ud83d\udc00  Tech house technicians, featuring Chris Lake & Ragie Ban",
-  "num_followers": 655800,
+  "num_followers": 655875,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+f8UQAAAADREHySqhLhqekur+wARzjp",
+  "snapshot_id": "Z+lLjgAAAABAOVMoV0BwN9boUNzX9u+l",
   "tracks": [
     {
       "added_at": "2025-03-28 04:00:46",
@@ -183,18 +183,22 @@
     {
       "added_at": "2025-03-28 04:00:46",
       "album": {
-        "name": "Groove on Display",
-        "url": "https://open.spotify.com/album/697Ivc2Y1XcRyRwicfkAxG"
+        "name": "Malfunktion",
+        "url": "https://open.spotify.com/album/7Hm8E2Z9NkBAUSGhjycF1H"
       },
       "artists": [
         {
-          "name": "Max Low",
-          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+          "name": "Adapter",
+          "url": "https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V"
+        },
+        {
+          "name": "FRANCO BA",
+          "url": "https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx"
         }
       ],
-      "duration_ms": 181406,
-      "name": "Groove on Display",
-      "url": "https://open.spotify.com/track/0RlOukhypYrKnpBHdzPWF6"
+      "duration_ms": 181874,
+      "name": "Malfunktion",
+      "url": "https://open.spotify.com/track/1rNUdaRCaO0ibxHBac9IAk"
     },
     {
       "added_at": "2025-03-21 04:00:59",
@@ -311,22 +315,18 @@
     {
       "added_at": "2025-03-28 04:00:46",
       "album": {
-        "name": "Malfunktion",
-        "url": "https://open.spotify.com/album/7Hm8E2Z9NkBAUSGhjycF1H"
+        "name": "Groove on Display",
+        "url": "https://open.spotify.com/album/697Ivc2Y1XcRyRwicfkAxG"
       },
       "artists": [
         {
-          "name": "Adapter",
-          "url": "https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V"
-        },
-        {
-          "name": "FRANCO BA",
-          "url": "https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx"
+          "name": "Max Low",
+          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Malfunktion",
-      "url": "https://open.spotify.com/track/1rNUdaRCaO0ibxHBac9IAk"
+      "duration_ms": 181406,
+      "name": "Groove on Display",
+      "url": "https://open.spotify.com/track/0RlOukhypYrKnpBHdzPWF6"
     },
     {
       "added_at": "2025-02-07 05:00:27",
@@ -351,18 +351,18 @@
     {
       "added_at": "2025-03-28 04:00:46",
       "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/2DLVFONWzZixQeEt29p7Ts"
+        "name": "TDB",
+        "url": "https://open.spotify.com/album/7mHZzgbOpwZHypoxkfmots"
       },
       "artists": [
         {
-          "name": "Shaded",
-          "url": "https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S"
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
         }
       ],
-      "duration_ms": 203856,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/74OmqbXZMTgA20UXB908hO"
+      "duration_ms": 156850,
+      "name": "TDB",
+      "url": "https://open.spotify.com/track/4jxzrDXSI0scOfiZ4Olhp6"
     },
     {
       "added_at": "2025-02-28 05:00:48",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-03-28 04:00:46",
       "album": {
-        "name": "TDB",
-        "url": "https://open.spotify.com/album/7mHZzgbOpwZHypoxkfmots"
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/2DLVFONWzZixQeEt29p7Ts"
       },
       "artists": [
         {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+          "name": "Shaded",
+          "url": "https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S"
         }
       ],
-      "duration_ms": 156850,
-      "name": "TDB",
-      "url": "https://open.spotify.com/track/4jxzrDXSI0scOfiZ4Olhp6"
+      "duration_ms": 203856,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/74OmqbXZMTgA20UXB908hO"
     },
     {
       "added_at": "2024-11-01 05:19:33",
@@ -1177,26 +1177,6 @@
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Boost Up",
-        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 211899,
-      "name": "Boost Up",
-      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
-    },
-    {
       "added_at": "2024-10-04 16:20:25",
       "album": {
         "name": "COLLECT THE COMMAS",
@@ -1279,6 +1259,26 @@
       "duration_ms": 226500,
       "name": "Go Back (feat. Julia Church) - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
       "added_at": "2025-02-14 05:00:34",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
     },
     {
-      "added_at": "2025-01-17 05:00:56",
-      "album": {
-        "name": "Demon Time",
-        "url": "https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 201377,
-      "name": "Demon Time",
-      "url": "https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Still My Baby",
@@ -1547,6 +1531,22 @@
       "duration_ms": 272253,
       "name": "Flood",
       "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
+    },
+    {
+      "added_at": "2025-01-17 05:00:56",
+      "album": {
+        "name": "Demon Time",
+        "url": "https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 201377,
+      "name": "Demon Time",
+      "url": "https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -1677,26 +1677,6 @@
       "url": "https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"
     },
     {
-      "added_at": "2025-02-14 05:00:34",
-      "album": {
-        "name": "Force",
-        "url": "https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK"
-      },
-      "artists": [
-        {
-          "name": "8181 Enzo",
-          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
-        },
-        {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
-        }
-      ],
-      "duration_ms": 164544,
-      "name": "Force",
-      "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
-    },
-    {
       "added_at": "2025-01-17 05:00:56",
       "album": {
         "name": "Latinamerica (feat. Vika)",
@@ -1725,6 +1705,42 @@
       "url": "https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6"
     },
     {
+      "added_at": "2025-02-14 05:00:34",
+      "album": {
+        "name": "Force",
+        "url": "https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK"
+      },
+      "artists": [
+        {
+          "name": "8181 Enzo",
+          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        }
+      ],
+      "duration_ms": 164544,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Pressure",
@@ -1745,20 +1761,24 @@
       "url": "https://open.spotify.com/track/3wdOS1vNOk05bJyV83etSd"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl"
+        "name": "See You Sweat",
+        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
+      "duration_ms": 209280,
+      "name": "See You Sweat",
+      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1793,26 +1813,6 @@
       "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "See You Sweat",
-        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "See You Sweat",
-      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
-    },
-    {
       "added_at": "2025-01-17 05:00:56",
       "album": {
         "name": "Gimme",
@@ -1827,22 +1827,6 @@
       "duration_ms": 179887,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "MERTHER",
-        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 189405,
-      "name": "MERTHER",
-      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     },
     {
       "added_at": "2025-01-24 05:00:51",
@@ -1867,6 +1851,22 @@
       "duration_ms": 178240,
       "name": "Push The Tempo - Odd Mob Remix",
       "url": "https://open.spotify.com/track/3lUpvA6ty7qoNLxcBOu2Q1"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "MERTHER",
+        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 189405,
+      "name": "MERTHER",
+      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     }
   ],
   "unique_name": "Tech House Operator",

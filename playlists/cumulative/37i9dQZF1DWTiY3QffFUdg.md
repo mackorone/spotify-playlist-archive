@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-263 songs - 13 hr 52 min
+264 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Convivium](https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Convivium](https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv) | 2:13 | 2024-04-26 | 2024-08-17 |
 | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ) | 2:25 | 2024-06-07 |  |
 | [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2024-04-19 |  |
+| [Crumble](https://open.spotify.com/track/4g8ibMfOiniXqYVwzMl8gK) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [May Li](https://open.spotify.com/artist/4jQnjcUdngKVUr8GKjgRTJ) | [Crumble](https://open.spotify.com/album/0Ma9ophXBUdVuwUqrG0t6g) | 2:12 | 2025-03-28 |  |
 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-23 | 2024-04-19 |
 | [Crusade \- Club Edit](https://open.spotify.com/track/7x3ni6d5mJRS2QwrbO1ktr) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/5qzhVqrg6xV9Ex18ZuKD6A) | 2:59 | 2024-04-19 | 2025-01-11 |
 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 | 2023-09-15 | 2023-10-28 |
@@ -213,7 +214,7 @@
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-02-21 |  |
 | [Samba De Janeiro](https://open.spotify.com/track/00Qte4PHghHWKKX2pgQty1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba De Janeiro](https://open.spotify.com/album/2pXVc3TNN2OZc8ECDgOdDL) | 2:15 | 2024-09-13 | 2024-11-23 |
 | [Say You Will](https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Say You Will](https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV) | 2:12 | 2023-09-01 | 2023-09-30 |
-| [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
+| [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 | 2025-03-31 |
 | [SexyBack \- TechnoBack](https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf) | 2:26 | 2024-10-25 | 2025-03-20 |
 | [Shadows Of The Night \- GIGI DAG Mix](https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [Shadows Of The Night \(GIGI DAG Mix\)](https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi) | 2:42 | 2024-04-12 |  |
 | [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 | 2025-03-14 |  |

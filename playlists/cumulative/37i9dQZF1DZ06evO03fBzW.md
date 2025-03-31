@@ -4,7 +4,7 @@
 
 > This is No Doubt\. The essential tracks, all in one playlist.
 
-47 songs - 3 hr 6 min
+48 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Monkey Man](https://open.spotify.com/track/58ulODLlgkcE9I4z5B5vrG) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [True Love](https://open.spotify.com/album/6ODiIJASdmYZwoyhLhUz7c) | 3:39 | 2025-03-08 |  |
 | [Mouth Shut \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tastes Like Gold](https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW) | 2:41 | 2025-03-08 |  |
 | [New](https://open.spotify.com/track/0IKGay6QHzB1A0P00h60Gg) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Return Of Saturn](https://open.spotify.com/album/6O35YawqZFdtOhL9smKmh7) | 4:26 | 2025-03-08 |  |
+| [Oi To The World](https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 2:40 | 2025-03-31 |  |
 | [One More Summer](https://open.spotify.com/track/6v5gVGbjz9ZqX3F5BAJBnS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 4:38 | 2025-03-08 |  |
 | [Open The Gate](https://open.spotify.com/track/61vxG9VYYLXPi9lYCmM6Qv) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 3:41 | 2025-03-08 |  |
 | [Push And Shove](https://open.spotify.com/track/1fvGs20dhb5eyiAurPO75y) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 5:06 | 2025-03-08 |  |
@@ -52,7 +53,7 @@
 | [Sunday Morning](https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:33 | 2025-03-08 |  |
 | [Total Hate '95](https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 3:18 | 2025-03-08 |  |
 | [Trapped In A Box](https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 3:22 | 2025-03-08 |  |
-| [Under Construction](https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:12 | 2025-03-08 |  |
+| [Under Construction](https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:12 | 2025-03-08 | 2025-03-31 |
 | [Underneath It All](https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 5:02 | 2025-03-08 |  |
 | [You're So Foxy](https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:39 | 2025-03-08 |  |
 

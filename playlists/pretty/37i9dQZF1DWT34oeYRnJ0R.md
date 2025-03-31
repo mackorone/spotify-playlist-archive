@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,861 likes - 200 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,893 likes - 200 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 56 | [No Se Dio](https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [No Se Dio](https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF) | 2:48 |
 | 57 | [Ni Me Conozco](https://open.spotify.com/track/0xyWkRMb09qdCDhloehCsi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:49 |
 | 58 | [Cobro](https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Cobro](https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq) | 2:44 |
-| 59 | [Mi Refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
+| 59 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
 | 60 | [Origami](https://open.spotify.com/track/7ymaMMugaNMOTTcsAxxwmL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:28 |
 | 61 | [LMKK](https://open.spotify.com/track/4itEEB64hmixOwiEsrllCi) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [LMKK](https://open.spotify.com/album/6pgtliFYOwd7KZPFn6buMR) | 3:01 |
 | 62 | [XQ ERES ASÍ](https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [XQ ERES ASÍ](https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM) | 3:32 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 84 | [Besitos BB 2.0](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Besitos BB 2.0](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 |
 | 85 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 |
 | 86 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
-| 87 | [Frente al Mar](https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Frente al Mar](https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs) | 2:45 |
+| 87 | [frente al mar](https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [frente al mar](https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs) | 2:45 |
 | 88 | [EROTICAAAAAAA](https://open.spotify.com/track/6x38KcIs0tsw3ZzvBfLxOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [THE WORLD IS YOURS](https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS) | 2:49 |
 | 89 | [Lo Que Tiene](https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Lo Que Tiene](https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4) | 4:19 |
 | 90 | [Call Center](https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA) | [Smash Hits](https://open.spotify.com/artist/5WPggSPnnyS5quU7qUJKyB), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Super Solo](https://open.spotify.com/artist/6pEuDcxBNx84IYdolTyxsr), [Mistel Kind](https://open.spotify.com/artist/0GryZmZV36lQUnxhIVoIIZ) | [YKWGTS](https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn) | 3:06 |

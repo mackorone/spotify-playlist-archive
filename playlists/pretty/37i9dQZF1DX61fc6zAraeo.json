@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 101788,
+  "num_followers": 101804,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-03-27 16:00:29",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "added_at": "2025-03-27 16:00:29",
+      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -327,6 +343,46 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
+    },
+    {
+      "added_at": "2025-03-27 16:00:29",
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/0iIC693yA29mHcT8j08osB"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "duration_ms": 129103,
+      "name": "TEN",
+      "url": "https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8"
+    },
+    {
+      "added_at": "2025-03-27 16:00:29",
+      "album": {
+        "name": "Feel The Passion",
+        "url": "https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Feel The Passion",
+      "url": "https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT"
     },
     {
       "added_at": "2025-03-27 16:00:29",
@@ -371,22 +427,6 @@
     {
       "added_at": "2025-03-27 16:00:29",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
-    },
-    {
-      "added_at": "2025-03-27 16:00:29",
-      "album": {
         "name": "Never Letting Go (feat. Julia Church)",
         "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
       },
@@ -407,46 +447,6 @@
       "duration_ms": 122839,
       "name": "Never Letting Go",
       "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
-    },
-    {
-      "added_at": "2025-03-27 16:00:29",
-      "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/0iIC693yA29mHcT8j08osB"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
-        }
-      ],
-      "duration_ms": 129103,
-      "name": "TEN",
-      "url": "https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8"
-    },
-    {
-      "added_at": "2025-03-27 16:00:29",
-      "album": {
-        "name": "Feel The Passion",
-        "url": "https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Feel The Passion",
-      "url": "https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT"
     },
     {
       "added_at": "2025-03-27 16:00:29",
@@ -511,30 +511,6 @@
     {
       "added_at": "2025-03-27 16:00:29",
       "album": {
-        "name": "Dudada",
-        "url": "https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Goldcher",
-          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Dudada",
-      "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
-    },
-    {
-      "added_at": "2025-03-27 16:00:29",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
       },
@@ -587,6 +563,30 @@
       "duration_ms": 161871,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/3c27H2nNYfoipwl2f1ULnK"
+    },
+    {
+      "added_at": "2025-03-27 16:00:29",
+      "album": {
+        "name": "Dudada",
+        "url": "https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Goldcher",
+          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Dudada",
+      "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
     },
     {
       "added_at": "2025-03-27 16:00:29",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-03-27 16:00:29",
       "album": {
-        "name": "When You're Lonely",
-        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 159016,
-      "name": "When You're Lonely",
-      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
-    },
-    {
-      "added_at": "2025-03-27 16:00:29",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 149760,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
+    },
+    {
+      "added_at": "2025-03-27 16:00:29",
+      "album": {
+        "name": "When You're Lonely",
+        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
     },
     {
       "added_at": "2025-03-27 16:00:29",

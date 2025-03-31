@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Isac Elliotilta, Ariana Grandelta, Costilta ja Mouhoukselta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,460 likes - 117 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,456 likes - 117 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6868,6 +6868,24 @@
     {
       "album": {
         "name": "La ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1A1pCqF5m2piQNzfVbw09s"
+      },
+      "artists": [
+        {
+          "name": "Oh! Romeo",
+          "url": "https://open.spotify.com/artist/7KQbGVjQiKZC8xXGvDtNHA"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146745,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5XDPRVKFwsAaZDTG0Vlutw"
+    },
+    {
+      "album": {
+        "name": "La ma\u00f1ana",
         "url": "https://open.spotify.com/album/1WMioOpHEbc8fuV67lW1mY"
       },
       "artists": [
@@ -6878,7 +6896,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 146745,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5sOOi16X9RoSxPMTIQ5GxA"

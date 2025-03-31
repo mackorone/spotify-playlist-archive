@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,183 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,207 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 26 | [Nutrition](https://open.spotify.com/track/2dT232m3tJqiGxhTQOWlKk) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Nutrition EP](https://open.spotify.com/album/1bOl840hJ6oAoDWn1qNYgV) | 4:25 |
 | 27 | [Truffles Sprinkles](https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Truffles Sprinkles](https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS) | 4:11 |
 | 28 | [Ultra Truth](https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX) | 5:17 |
-| 29 | [Slow Worm](https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Slow Worm](https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC) | 2:32 |
+| 29 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
 | 30 | [Everything](https://open.spotify.com/track/2VuTl07AKztRIzYuA5iJVj) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Everything](https://open.spotify.com/album/1mf6phipthmQ7n0e3eur7J) | 2:49 |
-| 31 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
+| 31 | [Slow Worm](https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Slow Worm](https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC) | 2:32 |
 | 32 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 33 | [Elysian Heights](https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Azure](https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4) | 4:06 |
 | 34 | [I Exist Inside This Machine](https://open.spotify.com/track/4H3bAliffBEGwr1tKkHheR) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Aneek Thapar](https://open.spotify.com/artist/7ib2ZAqoKc68C2Uks3aN24) | [I Exist Inside This Machine](https://open.spotify.com/album/73Id9hBvdlVdQnftlULeDn) | 5:02 |
 | 35 | [Mermaid Dust](https://open.spotify.com/track/3uqqRRbVy9CFyZuh4F3xK7) | [Aux Mirari](https://open.spotify.com/artist/56DOlJ7BgDjliureDLKn7i) | [Mermaid Dust](https://open.spotify.com/album/2X1Zcet8uHbUyVHrbnDuh3) | 4:29 |
-| 36 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 |
-| 37 | [Hidden Hass](https://open.spotify.com/track/702aIe9qKIXTXDSluPyD4V) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Hidden Hass](https://open.spotify.com/album/0oe44ilOSSLd6RNtmDqkdn) | 2:07 |
-| 38 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 |
-| 39 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 |
+| 36 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 |
+| 37 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 |
+| 38 | [Hidden Hass](https://open.spotify.com/track/702aIe9qKIXTXDSluPyD4V) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Hidden Hass](https://open.spotify.com/album/0oe44ilOSSLd6RNtmDqkdn) | 2:07 |
+| 39 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 |
 | 40 | [Dream Walk](https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [These Days Don't Exist](https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr) | 3:45 |
 | 41 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
 | 42 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 55 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
 | 56 | [Riot on the Hush \- K\-LONE Remix](https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Hailu Remixes](https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ) | 5:34 |
 | 57 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
-| 58 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 |
-| 59 | [Before I Leave](https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Endless Summer](https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF) | 4:08 |
+| 58 | [Before I Leave](https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Endless Summer](https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF) | 4:08 |
+| 59 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 |
 | 60 | [Lotus Light](https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:31 |
 | 61 | [Promise You'll Haunt Me](https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 6:33 |
 | 62 | [Insight](https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Insight](https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5) | 4:53 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 91 | [Rotterdambi](https://open.spotify.com/track/7amYhgypF2tsCax09u80oF) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 2:17 |
 | 92 | [You've Changed](https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 |
 | 93 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
-| 94 | [The Pier](https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Hodes](https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP) | 3:14 |
-| 95 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 |
+| 94 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 |
+| 95 | [The Pier](https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Hodes](https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP) | 3:14 |
 | 96 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
 | 97 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
 | 98 | [MWLHWOF\-4](https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx) | [James Emrick](https://open.spotify.com/artist/246T2idxs2MWDrX6ntZNBm) | [Actoma](https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3) | 3:29 |

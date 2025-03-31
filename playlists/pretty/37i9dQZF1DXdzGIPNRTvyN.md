@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,625 likes - 195 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,195 likes - 195 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 11 | [Grounding Springs](https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Grounding Springs](https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil) | 2:54 |
 | 12 | [Swells of Peace](https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Swells of Peace](https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF) | 2:23 |
 | 13 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 |
-| 14 | [Mendocino Rest \(Forest\)](https://open.spotify.com/track/1FVKJv0aLxNPeBiJAF8xE0) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Mendocino Rest \(Forest\)](https://open.spotify.com/album/155r1CDT3MsxkbM5JhSYYN) | 2:35 |
-| 15 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
-| 16 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 |
+| 14 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 |
+| 15 | [Mendocino Rest \(Forest\)](https://open.spotify.com/track/1FVKJv0aLxNPeBiJAF8xE0) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Mendocino Rest \(Forest\)](https://open.spotify.com/album/155r1CDT3MsxkbM5JhSYYN) | 2:35 |
+| 16 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
 | 17 | [Inner Universe](https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Inner Universe](https://open.spotify.com/album/6J0yt0cvJfJxtsEPfe1DFh) | 2:52 |
 | 18 | [Casuarina Calm](https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Casuarina Calm](https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9) | 2:55 |
 | 19 | [Lilac](https://open.spotify.com/track/5AgmQ1LOYIEhKk6tChXisU) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Lilac](https://open.spotify.com/album/6L9sRkofncbL9S1Pm8h22E) | 2:42 |
 | 20 | [Little Rabbit](https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Little Rabbit](https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV) | 3:07 |
 | 21 | [Sequoia Peace \(Forest\)](https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Sequoia Peace \(Forest\)](https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7) | 2:54 |
-| 22 | [Oasis](https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Oasis](https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ) | 2:51 |
-| 23 | [Quiet Explorer](https://open.spotify.com/track/5QCepve7pVYDH3r81mx2tC) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Quiet Explorer](https://open.spotify.com/album/3vKpYojebacZJInuEd09Cl) | 3:07 |
-| 24 | [Creek Of Wonder \(Meditation\)](https://open.spotify.com/track/3rbYnf1AoDwPoNTBUYRPaI) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Creek Of Wonder](https://open.spotify.com/album/4OBLtNZOdzSkQRvok1BDew) | 3:04 |
+| 22 | [Creek Of Wonder \(Meditation\)](https://open.spotify.com/track/3rbYnf1AoDwPoNTBUYRPaI) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Creek Of Wonder](https://open.spotify.com/album/4OBLtNZOdzSkQRvok1BDew) | 3:04 |
+| 23 | [Oasis](https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Oasis](https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ) | 2:51 |
+| 24 | [Quiet Explorer](https://open.spotify.com/track/5QCepve7pVYDH3r81mx2tC) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Quiet Explorer](https://open.spotify.com/album/3vKpYojebacZJInuEd09Cl) | 3:07 |
 | 25 | [The Riddle of Dreams](https://open.spotify.com/track/3p8EPHwGsP6nX7UrwqzJlp) | [Epilogue Gravity](https://open.spotify.com/artist/1ujQ7yELrx9UJkxV0NiSCe) | [The Riddle of Dreams](https://open.spotify.com/album/0jWXe3O5djbov0RcnXJZFG) | 2:36 |
 | 26 | [Sacred](https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Sacred](https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3) | 2:29 |
 | 27 | [A New Day \(by a Forest Stream\)](https://open.spotify.com/track/5Gx8X9lJUJy8QfFzo61DMM) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Forest Sunrise](https://open.spotify.com/album/4iIlz2x6TrEeGimx3idJy5) | 3:44 |

@@ -1,6 +1,6 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 31088,
+  "num_followers": 31087,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 297373,
+      "name": "Lenny",
+      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Born Under A Bad Sign",
         "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 314880,
       "name": "Be Careful With a Fool",
       "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 297373,
-      "name": "Lenny",
-      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Tattoo (Remastered 2017)",
-        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 279958,
-      "name": "Tattoo'd Lady",
-      "url": "https://open.spotify.com/track/3qy4FZ9nzsjSmVOBMZCUed"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 156397,
       "name": "Crosscut Saw - Mono Mix",
       "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Tattoo (Remastered 2017)",
+        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 279958,
+      "name": "Tattoo'd Lady",
+      "url": "https://open.spotify.com/track/3qy4FZ9nzsjSmVOBMZCUed"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 150667,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 150667,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "The Complete Chess Masters",
         "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
       },
@@ -551,6 +551,26 @@
       "duration_ms": 189133,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -603,26 +623,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The Original Delta Blues (Mojo Workin': Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq"
       },
@@ -671,6 +671,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "The Complete Chess Masters",
+        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Don't Drive Me Baby",
+      "url": "https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Ain't Enough Comin' In",
         "url": "https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 268160,
       "name": "Honey, Hush aka Talking Woman Blues",
       "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "The Complete Chess Masters",
-        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Don't Drive Me Baby",
-      "url": "https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Gangster Of Love",
-        "url": "https://open.spotify.com/album/1Smhg9Z3vsvr4GcMg8cQSp"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Cuttin' In",
-      "url": "https://open.spotify.com/track/3zIFZYaOv5xqtszhnXxYkb"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "I Was Walkin' Through The Woods",
         "url": "https://open.spotify.com/album/3zAWUcaE9lzjf5qWcNqJlk"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 434693,
       "name": "Stone Crazy",
       "url": "https://open.spotify.com/track/3FVpPBl3Jbd5TRLUFZamO9"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Gangster Of Love",
+        "url": "https://open.spotify.com/album/1Smhg9Z3vsvr4GcMg8cQSp"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/3zIFZYaOv5xqtszhnXxYkb"
     },
     {
       "added_at": "2020-10-21 20:41:20",

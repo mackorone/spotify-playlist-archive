@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 166907,
+  "num_followers": 166924,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAABR5jfIj5AJFe6OOEFgBvvX",
+  "snapshot_id": "Z+c4AAAAAACWxkKcRZPyoHoLZJh7KAYk",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 369520,
+      "name": "Wild Heart - 2016 Remaster",
+      "url": "https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music From Party of Five",
         "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 195560,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 369520,
-      "name": "Wild Heart - 2016 Remaster",
-      "url": "https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa"
     },
     {
       "added_at": null,

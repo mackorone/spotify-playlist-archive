@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,284 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,286 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 59 | [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 |
 | 60 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 |
 | 61 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
-| 62 | [Black meditation](https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Afrikan Culture](https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0) | 3:58 |
-| 63 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
+| 62 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
+| 63 | [Black meditation](https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Afrikan Culture](https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0) | 3:58 |
 | 64 | [First Sleep](https://open.spotify.com/track/4kvIhfgXgFIMsxmCbsMB0M) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 2:52 |
 | 65 | [Regentag](https://open.spotify.com/track/2SKuIX3Gfg4K8aKoY9Z7k0) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1), [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [WALD \(Original Soundtrack\)](https://open.spotify.com/album/6H45vwAFL4XobeGKIUcQrK) | 1:40 |
 | 66 | [Au couchant](https://open.spotify.com/track/5eqovPK4whLwjlJj9x7ITG) | [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [8 tableaux](https://open.spotify.com/album/7pMLnAkNLcgeKVQtskA56B) | 5:44 |
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 85 | [Drive My Car \(Cassette\)](https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:55 |
 | 86 | [When The Sun Comes Out](https://open.spotify.com/track/19fWeHgp9MBX16WMmh3Ayh) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [Silver Shadow](https://open.spotify.com/album/77D07PWUVtGQXMW2nBStG2) | 2:53 |
 | 87 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 |
-| 88 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
-| 89 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 |
-| 90 | [Que llueva \`\`\`](https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Que llueva \`\`\`](https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr) | 4:28 |
-| 91 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 |
-| 92 | [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 |
+| 88 | [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 |
+| 89 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
+| 90 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 |
+| 91 | [Que llueva \`\`\`](https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Que llueva \`\`\`](https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr) | 4:28 |
+| 92 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 |
 | 93 | [Breathless](https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Breathless](https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w) | 3:05 |
 | 94 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
 | 95 | [The Room](https://open.spotify.com/track/0C70150gB04nyN9nmTyf1b) | [Takuro Okada](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [The Near End, The Dark Night, The County Line](https://open.spotify.com/album/1oKvS1J3kCe9CUl4GsLaP9) | 2:12 |

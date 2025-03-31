@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,271 likes - 120 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,410 likes - 120 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,9 +124,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 114 | [Timeless](https://open.spotify.com/track/6qxWNOGxX8VdQUHRsf4YUY) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93), [Grimix](https://open.spotify.com/artist/29NIvby6mXbv2rirvtYr6a) | [Timeless](https://open.spotify.com/album/6oUebbsW22LXqQ06NVSmrX) | 2:15 |
 | 115 | [Fuck The Club Up](https://open.spotify.com/track/6vGhZRu22LqqtD45vTBXQ3) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4), [DJ Phats](https://open.spotify.com/artist/60Gb9mZj9gDqxbJ4BgwVgF) | [Fuck The Club Up / Murk Dat](https://open.spotify.com/album/10JenWfGDaS54QbEO60hD1) | 5:09 |
 | 116 | [Energy](https://open.spotify.com/track/1mtj5tJt9J5KTA0MD0BHbY) | [NICK LEON](https://open.spotify.com/artist/2jcvrNY7uTEVxAsMqbZjzf) | [Energy](https://open.spotify.com/album/67PZaoU3BcUhdTUZyjhaDl) | 3:32 |
-| 117 | [Get Raw](https://open.spotify.com/track/6oXH6ZWEEB8mPRpZIVWwjv) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Get Raw](https://open.spotify.com/album/6nBXpCNwhojx4LNx1QXruc) | 4:42 |
-| 118 | [Forget](https://open.spotify.com/track/6DIpOa3lVMEJNVLdx5Mqc6) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Forget](https://open.spotify.com/album/7n2kp3xh7NhXTiGA8rYD7B) | 3:21 |
-| 119 | [Sona](https://open.spotify.com/track/2fpxgApHigoyrHNrc14zle) | [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz) | [Sona](https://open.spotify.com/album/43IAWBCu2HDdCpSzNFQ840) | 3:29 |
-| 120 | [Someone To Hold](https://open.spotify.com/track/7dy2uWzChvcUqK74Q2ngkd) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX) | [Someone To Hold](https://open.spotify.com/album/5I3tAXPBw1s98vaUbrg2Fs) | 2:51 |
+| 117 | [Someone To Hold](https://open.spotify.com/track/7dy2uWzChvcUqK74Q2ngkd) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX) | [Someone To Hold](https://open.spotify.com/album/5I3tAXPBw1s98vaUbrg2Fs) | 2:51 |
+| 118 | [Sona](https://open.spotify.com/track/2fpxgApHigoyrHNrc14zle) | [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz) | [Sona](https://open.spotify.com/album/43IAWBCu2HDdCpSzNFQ840) | 3:29 |
+| 119 | [Forget](https://open.spotify.com/track/6DIpOa3lVMEJNVLdx5Mqc6) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Forget](https://open.spotify.com/album/7n2kp3xh7NhXTiGA8rYD7B) | 3:21 |
+| 120 | [Get Raw](https://open.spotify.com/track/6oXH6ZWEEB8mPRpZIVWwjv) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Get Raw](https://open.spotify.com/album/6nBXpCNwhojx4LNx1QXruc) | 4:42 |
 
 Snapshot ID: `Z+cqCgAAAABkCfdrdUcmx1RrovuaUe8R`

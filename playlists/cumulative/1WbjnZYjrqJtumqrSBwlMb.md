@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,061 songs - 2 day 17 hr 7 min
+1,062 songs - 2 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1000,6 +1000,7 @@
 | [VULTURES \- Havoc Version](https://open.spotify.com/track/1AmRnoLEaq7E38IlFDjQRl) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bump J](https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [VULTURES PACK](https://open.spotify.com/album/28pcV1bRvJ8WoVDFcF2Rl9) | 4:24 | 2024-02-09 |  |
 | [Waiting for You](https://open.spotify.com/track/12bdwFDnyVWjk77wSQVoDK) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 3:20 | 2024-05-10 |  |
 | [Waiting Room](https://open.spotify.com/track/7LmkhaMCqsjppaYtAYhMaI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:00 | 2022-09-05 |  |
+| [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:08 | 2025-03-30 |  |
 | [walk from me](https://open.spotify.com/track/6EJwlIKZNu8UVQsFyjP8qi) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [things change](https://open.spotify.com/album/3NxDEbOY9ch3YSqLh8duBs) | 2:19 | 2022-07-29 |  |
 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 | 2023-07-02 |  |
 | [Want You So Bad](https://open.spotify.com/track/69Wh0ipeW1z2x78lOpsKuL) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [English Graffiti \(Expanded Edition\)](https://open.spotify.com/album/0aroGGkehVjsg8QCNDGjTK) | 4:18 | 2025-03-16 |  |

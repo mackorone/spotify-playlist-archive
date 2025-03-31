@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 622558,
+  "num_followers": 622594,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAACkxS34r7HSuodm9GQwmExr",
+  "snapshot_id": "Z+c4AAAAAAAZAEpn1rO+a7p0ecUTLjoe",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Try It On My Own",
-      "url": "https://open.spotify.com/track/2IpeftovkFwpkWBYuS0qCz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 276666,
       "name": "So Emotional",
       "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Try It On My Own",
+      "url": "https://open.spotify.com/track/2IpeftovkFwpkWBYuS0qCz"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
       "duration_ms": 259532,
       "name": "I Learned from the Best",
       "url": "https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 312506,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     }
   ],
   "unique_name": "This Is Whitney Houston",

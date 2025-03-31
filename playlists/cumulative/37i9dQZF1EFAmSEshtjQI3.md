@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-40 songs - 2 hr 4 min
+41 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [CORAZONES ROTOS](https://open.spotify.com/track/6Z4lXWlvGEZxAi3qnqY0WB) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:50 | 2023-12-13 |  |
 | [Corriendo Con Tijeras](https://open.spotify.com/track/4iD92GmrfOzcteNgs74CYe) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 3:14 | 2023-12-13 |  |
 | [Cualquiera](https://open.spotify.com/track/67wfqT0P3DtNieeQz1R3RJ) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:31 | 2023-12-13 |  |
+| [Cuando Te Dejan De Querer](https://open.spotify.com/track/06H98a1flJoJ6ixFyiG0yJ) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:35 | 2025-03-30 |  |
 | [Euforia](https://open.spotify.com/track/0Wx46C3NgydTkr0yJrQ9sI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [TRIP](https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY) | 2:29 | 2023-12-13 |  |
 | [Fuera De Servicio](https://open.spotify.com/track/6RkIowV2rsGJTcRohynZ5D) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Chino & Nacho Is Back](https://open.spotify.com/album/6NPRXeULsH66D8zshrpiDm) | 2:43 | 2023-12-13 |  |
 | [Fui Lo Que Soy](https://open.spotify.com/track/7Kjl77gI01AAjAy2CZMyvn) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:32 | 2023-12-13 |  |

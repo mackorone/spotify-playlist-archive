@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "RHYTHM",
+        "url": "https://open.spotify.com/album/5WYJXaI0FtApcaMjjj9woj"
+      },
+      "artists": [
+        {
+          "name": "URBANHOOD",
+          "url": "https://open.spotify.com/artist/6xN0cz2lbYuGzc8bNtKqYG"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149533,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/0I3uR1uafbPIExTyPVKO2m"
+    },
+    {
+      "album": {
         "name": "24/7 YOU...",
         "url": "https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr"
       },
@@ -10466,7 +10484,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 148000,
       "name": "Neet tokyo freestyle (feat. SEEDA)",
       "url": "https://open.spotify.com/track/4udfLv4bJwmCayqkznikFA"

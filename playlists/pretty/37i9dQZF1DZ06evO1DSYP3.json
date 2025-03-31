@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAAAFoCGtpBS5d4ZhdXK2oItk",
+  "snapshot_id": "Z+c4AAAAAAC9hU18dP77FbG8xdDRsd5J",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f"
+      },
+      "artists": [
+        {
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 202387,
+      "name": "Too Faded",
+      "url": "https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Had To",
         "url": "https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 161285,
       "name": "Had To",
       "url": "https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Cold",
-        "url": "https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f"
-      },
-      "artists": [
-        {
-          "name": "Rob $tone",
-          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 202387,
-      "name": "Too Faded",
-      "url": "https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"
     },
     {
       "added_at": null,
@@ -964,17 +964,17 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "ALLBLACK",
-          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
         },
         {
-          "name": "22nd Jim",
-          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+          "name": "1100 Himself",
+          "url": "https://open.spotify.com/artist/2gHzUK8N8lsmNtTuJIoLga"
         }
       ],
-      "duration_ms": 137798,
-      "name": "Dubs In The House",
-      "url": "https://open.spotify.com/track/6k6lQcFik0jqmKWWE5U8UU"
+      "duration_ms": 148883,
+      "name": "Iso",
+      "url": "https://open.spotify.com/track/14WqeZPn7TvrVlzuNTlsdh"
     },
     {
       "added_at": null,
@@ -1048,17 +1048,17 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
         },
         {
-          "name": "1100 Himself",
-          "url": "https://open.spotify.com/artist/2gHzUK8N8lsmNtTuJIoLga"
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
         }
       ],
-      "duration_ms": 148883,
-      "name": "Iso",
-      "url": "https://open.spotify.com/track/14WqeZPn7TvrVlzuNTlsdh"
+      "duration_ms": 137798,
+      "name": "Dubs In The House",
+      "url": "https://open.spotify.com/track/6k6lQcFik0jqmKWWE5U8UU"
     },
     {
       "added_at": null,
@@ -1108,13 +1108,13 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
         }
       ],
-      "duration_ms": 182926,
-      "name": "Luh U",
-      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
+      "duration_ms": 144459,
+      "name": "House",
+      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
     },
     {
       "added_at": null,

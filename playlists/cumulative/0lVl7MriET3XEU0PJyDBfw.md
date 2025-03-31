@@ -4,7 +4,7 @@
 
 > Only the best Tech House \| Find the mix series on SoundCloud: Bassline Therapy Radio
 
-606 songs - 1 day 7 hr 49 min
+607 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [I Got Nothing](https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing](https://open.spotify.com/album/32wadIN0emxBanTLINlH08) | 3:23 | 2024-01-15 | 2024-01-30 |
 | [I Like](https://open.spotify.com/track/2GmaauSymTSNHyFDGBIwva) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Unlocked Vol\. 7](https://open.spotify.com/album/2ZGt57yuvSbq03sUUIJIYT) | 3:08 | 2024-02-05 | 2024-06-24 |
 | [I Like The Beat](https://open.spotify.com/track/7EEa4j3RTKc3d6fPQB65uB) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x) | [I Like The Beat](https://open.spotify.com/album/1wdVJeqr11pVba7sb3ztYH) | 2:25 | 2024-11-25 | 2025-02-17 |
+| [I Miss You](https://open.spotify.com/track/2ptFPGWY55B755rTJpPUpT) | [AL6](https://open.spotify.com/artist/42h9jbE5V1PjXHVgXVIXMx) | [I Miss You](https://open.spotify.com/album/56RNGyNbJ7jEnUWmI9dg2l) | 3:32 | 2025-03-30 |  |
 | [I Wanna Be U](https://open.spotify.com/track/1WW6raNvbxQ3zqScGHr7Ym) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [I Wanna Be U](https://open.spotify.com/album/5DDLVW7ulqWjEI2biaX9PQ) | 2:22 | 2024-09-02 | 2024-10-29 |
 | [I Want Your Soul \- Mau P Remix](https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [I Want Your Soul \(Mau P Remix\)](https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3) | 3:30 | 2025-02-09 |  |
 | [I Wonder](https://open.spotify.com/track/2ZvNbJB9aVsmaHqwXQLGqX) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [I Wonder](https://open.spotify.com/album/2tJ70GerIAZoi1ateUSHUY) | 2:46 | 2025-02-22 |  |

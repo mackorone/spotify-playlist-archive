@@ -1,15 +1,31 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "num_followers": 3694135,
+  "num_followers": 3694663,
   "original_name": "This Is Ariana Grande",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2+SJwAAAAB0M85xBLVgDGID5oh4dSEt",
+  "snapshot_id": "Z+nE6gAAAABQMx4jn26g+KxLUqqIdT1H",
   "tracks": [
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 215834,
+      "name": "past life",
+      "url": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/2h1IPjP471JJRSShTHRUhi"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
@@ -77,103 +109,7 @@
       "url": "https://open.spotify.com/track/1X2Zd5wKGbY1oKzb8dzJRy"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2022-10-14 10:00:06",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "7 rings",
-      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 164927,
-      "name": "bye",
-      "url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
-    },
-    {
-      "added_at": "2022-10-14 10:00:06",
-      "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 244453,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/7yHEDfrJNd0zWOfXwydNH0"
-    },
-    {
-      "added_at": "2022-10-14 10:00:06",
-      "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197546,
-      "name": "God is a woman",
-      "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
-    },
-    {
-      "added_at": "2022-10-14 10:00:06",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -189,7 +125,135 @@
       "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 201905,
+      "name": "warm",
+      "url": "https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "7 rings",
+      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 216264,
+      "name": "Hampstead",
+      "url": "https://open.spotify.com/track/4D2DFuqs2PwLiHbcf6CX47"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "bye",
+      "url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 244453,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7yHEDfrJNd0zWOfXwydNH0"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197546,
+      "name": "God is a woman",
+      "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
@@ -205,7 +269,23 @@
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204815,
+      "name": "dandelion",
+      "url": "https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
@@ -221,7 +301,7 @@
       "url": "https://open.spotify.com/track/7bJwvubZZaoGE1AGEfu8Fi"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -237,7 +317,7 @@
       "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW"
@@ -257,7 +337,7 @@
       "url": "https://open.spotify.com/track/4pLwZjInHj3SimIyN9SnOz"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
@@ -273,7 +353,7 @@
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
@@ -293,7 +373,7 @@
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -309,7 +389,7 @@
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
@@ -329,7 +409,7 @@
       "url": "https://open.spotify.com/track/45wBTYlOx3FsuFluuuRRQh"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
@@ -349,7 +429,7 @@
       "url": "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -365,7 +445,7 @@
       "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -381,7 +461,7 @@
       "url": "https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -397,7 +477,7 @@
       "url": "https://open.spotify.com/track/1bj8x3ERN9gSc2NfJIpc76"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -413,7 +493,7 @@
       "url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
@@ -433,7 +513,7 @@
       "url": "https://open.spotify.com/track/7fYbFYt7X4FZvuJJC90EX0"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -449,7 +529,7 @@
       "url": "https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
@@ -469,7 +549,7 @@
       "url": "https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "boyfriend",
         "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV"
@@ -489,7 +569,7 @@
       "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -505,7 +585,7 @@
       "url": "https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7"
@@ -525,7 +605,7 @@
       "url": "https://open.spotify.com/track/5AKlnLpP3WLwZseNbjquND"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
@@ -545,7 +625,7 @@
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/5AMOKSM1ftb3opIbGT2d4q"
@@ -569,7 +649,7 @@
       "url": "https://open.spotify.com/track/3oEekS4xhmFQ88ieCVTZ7H"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -585,7 +665,7 @@
       "url": "https://open.spotify.com/track/7miR3W96BChuGCX8NZtz3a"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -601,7 +681,7 @@
       "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7"
@@ -617,7 +697,7 @@
       "url": "https://open.spotify.com/track/6f5TuB9WtbA1g49A4DcMQ4"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -633,7 +713,7 @@
       "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels)",
         "url": "https://open.spotify.com/album/2qWVO5SXPdWAECnwEWYOJH"
@@ -657,7 +737,7 @@
       "url": "https://open.spotify.com/track/3NkJNL3WqO1Lqc3uNDxvCN"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -673,7 +753,7 @@
       "url": "https://open.spotify.com/track/5Il6Oe7lr5XM7A0cWbVQtr"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
@@ -693,7 +773,7 @@
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7"
@@ -713,7 +793,7 @@
       "url": "https://open.spotify.com/track/6yL2kTsdVwYnGwPkKGtMd5"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -729,7 +809,7 @@
       "url": "https://open.spotify.com/track/7wA4ZnoGI9E6ZcyTPXq9HP"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -745,7 +825,7 @@
       "url": "https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -765,7 +845,7 @@
       "url": "https://open.spotify.com/track/6IHDsLAPM17ZS5uIe3P3He"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -781,7 +861,7 @@
       "url": "https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
@@ -801,7 +881,7 @@
       "url": "https://open.spotify.com/track/63bo7NDoWdMFXufhsYOxwG"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -817,7 +897,7 @@
       "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -837,7 +917,7 @@
       "url": "https://open.spotify.com/track/0K2UmT0JOcEaLssWda2703"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0JjoGwsBjce2mgHRliH0VN"
@@ -857,7 +937,7 @@
       "url": "https://open.spotify.com/track/4Q5yMlwAfAoitqg4r9oZHN"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -873,7 +953,7 @@
       "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions (Deluxe)",
         "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
@@ -889,7 +969,7 @@
       "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
@@ -905,7 +985,7 @@
       "url": "https://open.spotify.com/track/5yxghrFKJbU7pcaUFEv1Sg"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
@@ -921,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2waUyWiimcCeA8DbJH8BtT"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
@@ -937,7 +1017,7 @@
       "url": "https://open.spotify.com/track/6NmCCgnQcxKHPOAKgd9Nth"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -953,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3yXToXVFzYJklkDWpzeRXb"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
@@ -973,7 +1053,7 @@
       "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
@@ -989,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
@@ -1009,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1BP617VnYByf7FzCnLEjbg"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -1025,7 +1105,7 @@
       "url": "https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
@@ -1045,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0fCINfrtQdkFSj6enmeEDt"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -1061,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4uTvPEr01pjTbZgl7jcKBD"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Dance To This (feat. Ariana Grande)",
         "url": "https://open.spotify.com/album/43UPJEBgAwfuGufr9RsCJV"
@@ -1081,7 +1161,7 @@
       "url": "https://open.spotify.com/track/1NbGcdgwRHZ5rbPIT9hdR3"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -1097,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0egpmBxmeALIzcq2C1BOb7"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
@@ -1113,7 +1193,7 @@
       "url": "https://open.spotify.com/track/5DsnMBbnSmEmqOQMFTwXRq"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Bed (feat. Ariana Grande)",
         "url": "https://open.spotify.com/album/6KlKprVgLbkUTtynww6MQh"
@@ -1133,7 +1213,7 @@
       "url": "https://open.spotify.com/track/1ZEm9cJC05rawV2tptNfTS"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -1149,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -1165,7 +1245,7 @@
       "url": "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -1181,7 +1261,7 @@
       "url": "https://open.spotify.com/track/6STFK268EWdTPZeRNlAs1n"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7"
@@ -1197,7 +1277,7 @@
       "url": "https://open.spotify.com/track/2SUQGI9ztmp0PQd1J8SVHx"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -1213,7 +1293,7 @@
       "url": "https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
@@ -1229,7 +1309,7 @@
       "url": "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "MONOPOLY",
         "url": "https://open.spotify.com/album/0MbXjBEw6FrGtcglqEDHpb"
@@ -1249,7 +1329,7 @@
       "url": "https://open.spotify.com/track/6tsOcBnaKgzK22yEiqRh8P"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
@@ -1265,7 +1345,7 @@
       "url": "https://open.spotify.com/track/7GQzqBLZyjL69pAIKLx7ap"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -1281,7 +1361,7 @@
       "url": "https://open.spotify.com/track/5YeHLHDdQ4nKHk81XFWhCU"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Dancing With The Devil\u2026The Art of Starting Over",
         "url": "https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd"
@@ -1301,7 +1381,7 @@
       "url": "https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3"
     },
     {
-      "added_at": "2022-10-14 10:00:06",
+      "added_at": "2025-03-30 22:25:31",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"

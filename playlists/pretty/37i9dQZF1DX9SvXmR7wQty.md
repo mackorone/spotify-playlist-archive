@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,166 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,175 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 21 | [La Trippance](https://open.spotify.com/track/6oGYqLbC0iKvWdPPvaOe7L) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [La Trippance](https://open.spotify.com/album/7fMWbdtBBm6NAZ45d6PBUi) | 3:35 |
 | 22 | [Hélas](https://open.spotify.com/track/1sgMttYr6QVzahlCm6wfSR) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Hélas](https://open.spotify.com/album/3FczKjTL5VelPAfdgzFyPk) | 3:01 |
 | 23 | [SHAOLIN](https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SHAOLIN](https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz) | 2:04 |
-| 24 | [Gentil Garçon](https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Gentil Garçon](https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN) | 3:24 |
-| 25 | [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 |
+| 24 | [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 |
+| 25 | [Gentil Garçon](https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Gentil Garçon](https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN) | 3:24 |
 | 26 | [Girl \(2025\)](https://open.spotify.com/track/7DuXqTgphrMZUA0cRU92TL) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 3:31 |
 | 27 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 |
 | 28 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 |

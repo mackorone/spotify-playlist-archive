@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,107 likes - 300 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,190 likes - 300 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 77 | [Undo Last Move](https://open.spotify.com/track/0exSVgWhrGLASyIcxCZ6ho) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [Undo Last Move](https://open.spotify.com/album/48nUPCrBRAwwuhS0jkYBvT) | 2:12 |
 | 78 | [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 |
 | 79 | [be glossy](https://open.spotify.com/track/2D2dkAz0unaWMCgSadf7Yp) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [double espresso](https://open.spotify.com/album/1PxI6cttkIIoRuwqgWS6GU) | 1:34 |
-| 80 | [Vitae](https://open.spotify.com/track/1Qm8jGs8iEgrvfbPCAawqR) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Vitae](https://open.spotify.com/album/4GgfRSypBrqRIevwH3kriJ) | 2:12 |
-| 81 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 |
+| 80 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 |
+| 81 | [Vitae](https://open.spotify.com/track/1Qm8jGs8iEgrvfbPCAawqR) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Vitae](https://open.spotify.com/album/4GgfRSypBrqRIevwH3kriJ) | 2:12 |
 | 82 | [fogata](https://open.spotify.com/track/3WYeJ4DRymjJ9y2XjVui3C) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [fogata](https://open.spotify.com/album/7uIzkfXliaEnoB3BqLvRih) | 2:09 |
 | 83 | [orion](https://open.spotify.com/track/5MAOedbiuGHjjLhpIh8BWg) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [orion](https://open.spotify.com/album/3adCTmwdWqxYvBxeTDqn0i) | 2:06 |
 | 84 | [Woodpecker](https://open.spotify.com/track/0SpFgelmLt7W2JOMGDh0sW) | [Mokezi](https://open.spotify.com/artist/3H4BXDh1utWbNJp32pTqIg) | [Woodpecker](https://open.spotify.com/album/24XOU1tMWVtnrYCbTqhiCZ) | 2:23 |
@@ -249,10 +249,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 239 | [Safe](https://open.spotify.com/track/6AmxUi6c3tBWe3TPKAwKwQ) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Safe](https://open.spotify.com/album/3LQbjJ9OnZJ1H43qhYbh6o) | 2:14 |
 | 240 | [time together](https://open.spotify.com/track/5S3M80eLbQYjf53A4hXiZi) | [Peach Lotus](https://open.spotify.com/artist/7KlRU1JqR54t1nQE9dHpN8) | [time together](https://open.spotify.com/album/71RaloNOmG7PpjGvn8rmQR) | 2:12 |
 | 241 | [mosaic maker](https://open.spotify.com/track/3oOFrBFkh8vvEOhBgzB9PR) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [mosaic maker](https://open.spotify.com/album/3vGv2KrRg2QRh8vLbhgggR) | 2:31 |
-| 242 | [With Nature & Jazz](https://open.spotify.com/track/2Y3U5hYqX7dzOWqAHAuRG7) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [With Nature & Jazz](https://open.spotify.com/album/27YoqMmwlaOs7bIcrvktbY) | 1:55 |
-| 243 | [Temporality](https://open.spotify.com/track/5UNOJl1CnxZ36iTh3IEHo2) | [Savage Bops](https://open.spotify.com/artist/3D54UHQi6RvooCNsIP0E27) | [Temporality](https://open.spotify.com/album/73PVVmCOfW3gu1sbYye1di) | 2:07 |
-| 244 | [slow talker](https://open.spotify.com/track/14J0lsWN28VepmhmmvKKYw) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [slow talker](https://open.spotify.com/album/5LdTlYWrzL9aRJzfPVdgdl) | 2:50 |
-| 245 | [alone again](https://open.spotify.com/track/7uWXc1inErOSLrxDDbN33C) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [alone again](https://open.spotify.com/album/4i1z2ZQCEHkMQsevr38RIR) | 2:24 |
+| 242 | [Temporality](https://open.spotify.com/track/5UNOJl1CnxZ36iTh3IEHo2) | [Savage Bops](https://open.spotify.com/artist/3D54UHQi6RvooCNsIP0E27) | [Temporality](https://open.spotify.com/album/73PVVmCOfW3gu1sbYye1di) | 2:07 |
+| 243 | [slow talker](https://open.spotify.com/track/14J0lsWN28VepmhmmvKKYw) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [slow talker](https://open.spotify.com/album/5LdTlYWrzL9aRJzfPVdgdl) | 2:50 |
+| 244 | [alone again](https://open.spotify.com/track/7uWXc1inErOSLrxDDbN33C) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [alone again](https://open.spotify.com/album/4i1z2ZQCEHkMQsevr38RIR) | 2:24 |
+| 245 | [With Nature & Jazz](https://open.spotify.com/track/2Y3U5hYqX7dzOWqAHAuRG7) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [With Nature & Jazz](https://open.spotify.com/album/27YoqMmwlaOs7bIcrvktbY) | 1:55 |
 | 246 | [aperol spritz](https://open.spotify.com/track/6h1tgGz0ZWoNvPVadoGanS) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [aperol spritz](https://open.spotify.com/album/4WeG7tPEaI7ywF6jayjuA8) | 2:10 |
 | 247 | [moonshake](https://open.spotify.com/track/3kpeEvKALaDFYCT67W1iz7) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [moonshake](https://open.spotify.com/album/2FGuznGJ6z59TinF8cQQv7) | 2:10 |
 | 248 | [What's For Dessert?](https://open.spotify.com/track/3yGIwZB68iW9gjK0ggNG7S) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [What's For Dessert?](https://open.spotify.com/album/2F7iRgvwoFXOvgpK4tCNNZ) | 2:43 |

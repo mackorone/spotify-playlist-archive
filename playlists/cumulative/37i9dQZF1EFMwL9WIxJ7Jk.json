@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Title (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4UAaN9ifmJueH9wBtuz2f4"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176251,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/151pHp99ciTnpmdPCvgLbe"
+    },
+    {
+      "album": {
         "name": "Better When I'm Dancin'",
         "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
       },
@@ -486,7 +504,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 176266,
       "name": "Better When I'm Dancin'",
       "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"

@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 68071,
+  "num_followers": 68068,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAAAR0s6EApoCstImX9tGH0fM",
+  "snapshot_id": "Z+c4AAAAAABUXeJlkUeewT6bXvL0H7W+",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUKHA",
-        "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 172239,
-      "name": "MEDICINA NATURAL",
-      "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu No Eres un Angel",
         "url": "https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 191727,
       "name": "Tu No Eres un Angel",
       "url": "https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUKHA",
+        "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 172239,
+      "name": "MEDICINA NATURAL",
+      "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
     },
     {
       "added_at": null,

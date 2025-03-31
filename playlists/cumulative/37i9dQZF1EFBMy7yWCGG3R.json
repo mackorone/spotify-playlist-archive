@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Weather (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/5RPq4WPdn53v53m72dLBBf"
+    },
+    {
+      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/2ellIuTAeZqsBDVqGpNe9R"
       },
@@ -5606,10 +5624,28 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 256413,
       "name": "TE AMO",
       "url": "https://open.spotify.com/track/3jYRSnuIYvV3um624beS4v"
+    },
+    {
+      "album": {
+        "name": "MY",
+        "url": "https://open.spotify.com/album/5KpiGNTu3QsPI1j0zo2qxS"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256413,
+      "name": "TE AMO",
+      "url": "https://open.spotify.com/track/6EOK4bju6W6Ek9wBvUSeDc"
     },
     {
       "album": {

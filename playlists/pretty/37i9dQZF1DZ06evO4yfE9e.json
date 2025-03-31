@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2243,
+  "num_followers": 2242,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAABste7XCdvDdJR6XhfbWx51",
+  "snapshot_id": "Z+c4AAAAAAA9Jw5/5Xx0sOPhSfy7uLWE",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grim Reaper",
+        "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Grim Reaper",
+      "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trillion$ (feat. bludnymph)",
         "url": "https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 123681,
       "name": "Trillion$ (feat. bludnymph)",
       "url": "https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grim Reaper",
-        "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Grim Reaper",
-      "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
     },
     {
       "added_at": null,

@@ -785,6 +785,44 @@
     },
     {
       "album": {
+        "name": "Marybel (Remix)",
+        "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Gaelo",
+          "url": "https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Marybel - Remix",
+      "url": "https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg"
+    },
+    {
+      "album": {
         "name": "El Dominio",
         "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
@@ -1598,7 +1636,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 209657,
       "name": "Si ella supiera",
       "url": "https://open.spotify.com/track/3m9lQPBYtMZ2sF6mOal4bT"

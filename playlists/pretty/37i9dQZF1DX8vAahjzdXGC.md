@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Henry Moodie, Ariana Grande, hingga Bilal Indrajaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,115 likes - 91 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,172 likes - 91 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

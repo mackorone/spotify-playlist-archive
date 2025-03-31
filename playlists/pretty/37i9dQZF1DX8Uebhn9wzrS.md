@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,088,494 likes - 675 songs - 1 day 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,088,726 likes - 675 songs - 1 day 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,10 +167,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 157 | [traffic](https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [traffic](https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3) | 1:39 |
 | 158 | [Borrowed Car](https://open.spotify.com/track/3wwUV04m85SsAqbn04dpnR) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [Borrowed Car](https://open.spotify.com/album/5imAUxqWdjsZBmsbrBwc1I) | 2:06 |
 | 159 | [Vortex](https://open.spotify.com/track/5gUG9ivCY3V5DRW8301SbS) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Vortex](https://open.spotify.com/album/5a9qEcg5nTzr7ZIPVO8FQk) | 2:04 |
-| 160 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 |
-| 161 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
-| 162 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 |
-| 163 | [The Jam](https://open.spotify.com/track/7xJqP2LZrVpJhUR6ZukE9q) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The Jam](https://open.spotify.com/album/39V0x4k2jWjPuqF6mSC3AW) | 1:39 |
+| 160 | [The Jam](https://open.spotify.com/track/7xJqP2LZrVpJhUR6ZukE9q) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The Jam](https://open.spotify.com/album/39V0x4k2jWjPuqF6mSC3AW) | 1:39 |
+| 161 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 |
+| 162 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
+| 163 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 |
 | 164 | [fastback ride](https://open.spotify.com/track/2J4JxUvNa8zqP6N5BUitlt) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [fastback ride](https://open.spotify.com/album/0sfVPSFcr0vdy3QDwoy2uM) | 2:49 |
 | 165 | [Jump](https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Jump](https://open.spotify.com/album/5F9VAT5LKQLCH8wbFEpkN0) | 2:05 |
 | 166 | [poolside](https://open.spotify.com/track/23qAxDhazTIB0AvnmPKaFS) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [poolside](https://open.spotify.com/album/33hQDtv1nKUPbZPl0ish6A) | 1:58 |
@@ -296,10 +296,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 286 | [Sugah](https://open.spotify.com/track/6s43acxBgDAjMOXsFy31BY) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Sugah](https://open.spotify.com/album/486zaGmIow1agmTcbShXVO) | 2:00 |
 | 287 | [Strong Desires](https://open.spotify.com/track/1HjWCjS7DVNqJlfRrmU1oF) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Strong Desires](https://open.spotify.com/album/6bG2FKpaqcUQmBn6CqThx3) | 2:17 |
 | 288 | [apple dumplins](https://open.spotify.com/track/02Mxkf8nzMQd9DiBLhfhA1) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [apple dumplins](https://open.spotify.com/album/4o2DvfLdEfzl0tmnoZhflh) | 2:33 |
-| 289 | [These beautiful paws](https://open.spotify.com/track/52QkQ7onZ9POqsEMecB8L3) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [These beautiful paws](https://open.spotify.com/album/4mXXyzIfEwXfOTvY8QOWfc) | 2:46 |
-| 290 | [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 |
-| 291 | [Trust Spring](https://open.spotify.com/track/79SRBZJ8mQo6cxpqNRjfv3) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Trust Spring](https://open.spotify.com/album/2I3IoVyZOTVuSGOr5SX9kK) | 2:13 |
-| 292 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 |
+| 289 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 |
+| 290 | [These beautiful paws](https://open.spotify.com/track/52QkQ7onZ9POqsEMecB8L3) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [These beautiful paws](https://open.spotify.com/album/4mXXyzIfEwXfOTvY8QOWfc) | 2:46 |
+| 291 | [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 |
+| 292 | [Trust Spring](https://open.spotify.com/track/79SRBZJ8mQo6cxpqNRjfv3) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Trust Spring](https://open.spotify.com/album/2I3IoVyZOTVuSGOr5SX9kK) | 2:13 |
 | 293 | [Thinking](https://open.spotify.com/track/4J26M0hSK1Qh8X8J0fwQ9J) | [Joe Arrow](https://open.spotify.com/artist/0FoHpBCk3IjQFbEJyB9Spa) | [Thinking](https://open.spotify.com/album/0f2muISbBfsetN2WFKrtJN) | 2:35 |
 | 294 | [Lizards and Lattes](https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Lizards and Lattes](https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb) | 1:59 |
 | 295 | [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 |
@@ -507,9 +507,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 497 | [Free](https://open.spotify.com/track/2fI7xNA7dEskW6fGjq623B) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Free](https://open.spotify.com/album/5eDB2lujlCVEe0v1wxZQYN) | 2:48 |
 | 498 | [Falcon](https://open.spotify.com/track/2ayC31AGGoGHISl3BP0qSs) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Falcon](https://open.spotify.com/album/71xM5XgklqQxrh2AZaoaNY) | 2:53 |
 | 499 | [Glitter](https://open.spotify.com/track/0DpGahj6aqqMZqo82kefOX) | [Thin Wire](https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ) | [Glitter](https://open.spotify.com/album/0wSRICqBdqiXKSmzRaH6nS) | 2:05 |
-| 500 | [Drifting](https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Drifting](https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa) | 2:55 |
-| 501 | [Turu\-Ima](https://open.spotify.com/track/0jBtrAzvFc1vnLI4rGtYvd) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Turu\-Ima](https://open.spotify.com/album/4uMh3lacLXG9av3GFkGM09) | 1:57 |
-| 502 | [yellow](https://open.spotify.com/track/5xP5GFRzVzbDiCl2zmrXUG) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [yellow](https://open.spotify.com/album/2Cnafu8DqlVMrS1ntS5NHs) | 1:54 |
+| 500 | [yellow](https://open.spotify.com/track/5xP5GFRzVzbDiCl2zmrXUG) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [yellow](https://open.spotify.com/album/2Cnafu8DqlVMrS1ntS5NHs) | 1:54 |
+| 501 | [Drifting](https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Drifting](https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa) | 2:55 |
+| 502 | [Turu\-Ima](https://open.spotify.com/track/0jBtrAzvFc1vnLI4rGtYvd) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Turu\-Ima](https://open.spotify.com/album/4uMh3lacLXG9av3GFkGM09) | 1:57 |
 | 503 | [Stronger Together](https://open.spotify.com/track/6qM40RhvwLCbib0oflXBz1) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [New Life EP](https://open.spotify.com/album/2XG9Odg88Io1LmaGKEKzfG) | 1:55 |
 | 504 | [Battle Scars](https://open.spotify.com/track/5Dad8McLnbvlcMgatup13k) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Purpose](https://open.spotify.com/album/2pXYL4dh76enhCxUGMCoF2) | 2:03 |
 | 505 | [Tear Me Apart](https://open.spotify.com/track/3SulLcEmLS7c45KMeFpnpZ) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tear Me Apart](https://open.spotify.com/album/6ZWBm80CbzWyskZV5MbECr) | 2:01 |

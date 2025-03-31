@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAX37wFXnKWjbHr1VlXMZ/V",
+  "snapshot_id": "AAAAAAAAAADCGnHRSy7N3XQNcNR6JpB8",
   "tracks": [
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "The Squirrely Years Revisited",
-        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Revenge - Squirrely Version",
-      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
-    },
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
@@ -91,22 +75,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Ya Llegaron Las Pipsas",
-        "url": "https://open.spotify.com/album/14uQXvB5NN41y8zdOGIXrf"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 120131,
-      "name": "Ya Llegaron Las Pipsas",
-      "url": "https://open.spotify.com/track/2XnfSSbKyrXUBjcN73BKed"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
       },
@@ -135,22 +103,6 @@
       "duration_ms": 181017,
       "name": "Loss",
       "url": "https://open.spotify.com/track/7B6ddTSICdNYKAlNTIhZSb"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 220660,
-      "name": "Love Is War",
-      "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -199,26 +151,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Superlover (Feat. Annie Lennox)",
-        "url": "https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 312602,
-      "name": "Superlover (Feat. Annie Lennox)",
-      "url": "https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Pink + White",
         "url": "https://open.spotify.com/album/3FumX8Rc1bIO57p41mmf0i"
       },
@@ -255,6 +187,86 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "Legends, Revisted",
+        "url": "https://open.spotify.com/album/6jJEhSUKlIu07ZdpRTrmEC"
+      },
+      "artists": [
+        {
+          "name": "October Surprise",
+          "url": "https://open.spotify.com/artist/1tDS4AWeVc17LKXHcuKziS"
+        }
+      ],
+      "duration_ms": 142377,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/3hYdFeTvqn6FwU7QSpgQHJ"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "Wonder of it All",
+        "url": "https://open.spotify.com/album/4bAqtq5Iiui0wZJYLTlTkx"
+      },
+      "artists": [
+        {
+          "name": "Steve Bardwil Band",
+          "url": "https://open.spotify.com/artist/3rr88hUf3dHF6pELIkwbNg"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Wonder of it All",
+      "url": "https://open.spotify.com/track/5Pl4mplIYh6NG27jbXfnX2"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "You're Going Far",
+        "url": "https://open.spotify.com/album/0CsXpP8IlAkNAqRevapgNL"
+      },
+      "artists": [
+        {
+          "name": "The Jins",
+          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
+        }
+      ],
+      "duration_ms": 140036,
+      "name": "You\u2019re Going Far",
+      "url": "https://open.spotify.com/track/3wr4dKzt1539U3pja06XbT"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14"
+      },
+      "artists": [
+        {
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+        }
+      ],
+      "duration_ms": 454666,
+      "name": "Ein langer Weg",
+      "url": "https://open.spotify.com/track/4BjXZXez1sUCXQFidFNwh6"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
         "name": "The Screaming Of The Valkyries",
         "url": "https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi"
       },
@@ -271,18 +283,18 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+        "name": "T.I.M.E.",
+        "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
         }
       ],
-      "duration_ms": 244915,
-      "name": "Vanish Into You",
-      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+      "duration_ms": 238407,
+      "name": "T.I.M.E.",
+      "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -303,6 +315,22 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
+        "name": "The Sickness (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CDtzSrJDuQe0rPQGPpxx5"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 351103,
+      "name": "Down with the Sickness - Live at The Palladium, Los Angeles, CA, 4/18/01",
+      "url": "https://open.spotify.com/track/2g0p3OTwrLLKBgXQ55gN3g"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
         "name": "El mundo ya estaba as\u00ed antes",
         "url": "https://open.spotify.com/album/3raEHCMrq99083RfbRYNkp"
       },
@@ -319,22 +347,6 @@
       "duration_ms": 182434,
       "name": "El mundo ya estaba as\u00ed antes",
       "url": "https://open.spotify.com/track/58CBtPjIo7dS3zJalIKvIp"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "The Sickness (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CDtzSrJDuQe0rPQGPpxx5"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 315225,
-      "name": "Stupify - Live at the London Astoria, London, UK, 2/25/01",
-      "url": "https://open.spotify.com/track/4sfdQ1Fa4U5TdoYlmkKc7k"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -371,6 +383,22 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
+        "name": "Big Ole Album Vol. 1",
+        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
         "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
         "url": "https://open.spotify.com/album/3aHP1jOUBurnOCjdvWDZUl"
       },
@@ -391,22 +419,6 @@
       "duration_ms": 251548,
       "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
       "url": "https://open.spotify.com/track/2yPZUzIMp3SPXzxdW7O0lj"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Curious Ruminant",
-        "url": "https://open.spotify.com/album/1m5tTXkBOzJEiwDz1TyPIG"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 355680,
-      "name": "Over Jerusalem",
-      "url": "https://open.spotify.com/track/3PcSN0Crczqq6WHCGlUyiq"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -487,46 +499,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Private Dancer (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Greg Walsh",
-          "url": "https://open.spotify.com/artist/1oVGKaQu7WJwgR6668lrrI"
-        },
-        {
-          "name": "Martyn Ware",
-          "url": "https://open.spotify.com/artist/0g4bxJkNeoMi0rRJw5hGPV"
-        }
-      ],
-      "duration_ms": 230146,
-      "name": "Let's Stay Together - Alternative Radio Mix, 1983",
-      "url": "https://open.spotify.com/track/4uW9miGI2E7d1aAvcEyVp3"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "My Way (The Best Of Frank Sinatra)",
-        "url": "https://open.spotify.com/album/3xpGJeKAVe79XWMwf1x6TV"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 173519,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/0PAu2UajAE7poRItj6gvof"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") [En Espa\u00f1ol]",
         "url": "https://open.spotify.com/album/4kq35NPgiGYz44sySBThgk"
       },
@@ -543,6 +515,30 @@
       "duration_ms": 179500,
       "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") - En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/63fHP1xHozbuZNcdEKSj8x"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "Harmonies of Soul 2",
+        "url": "https://open.spotify.com/album/6L5vVDTlc8zxzsQaknsqrK"
+      },
+      "artists": [
+        {
+          "name": "Drumatic&Fa\u00e7ade",
+          "url": "https://open.spotify.com/artist/5ZAUB7yRQT6EaeRBGmNYIx"
+        },
+        {
+          "name": "Nelerh",
+          "url": "https://open.spotify.com/artist/75RCJSBtdVE4Gu5Qyjt7Mx"
+        },
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "duration_ms": 450304,
+      "name": "Nyathela (feat. Nelerh & Panda)",
+      "url": "https://open.spotify.com/track/5b7bKrKV1JKBGSED6omXwg"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

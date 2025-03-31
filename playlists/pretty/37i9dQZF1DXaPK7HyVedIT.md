@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Zerb, Ape Drums, Jeremih
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,972 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,979 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 40 | [Don't Go Away \- Edit](https://open.spotify.com/track/7nF3iK80qv2twUtP8ITCrb) | [Mary Olivetti](https://open.spotify.com/artist/23kb4zi6EJe9OsuSSR6Gth) | [Don't Go Away](https://open.spotify.com/album/6YdHrddRxVCUOeuq80axdl) | 4:39 |
 | 41 | [Turn Off The Lights](https://open.spotify.com/track/3AL8qaMxMNmH3yH9UO6Mvq) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Galucci](https://open.spotify.com/artist/4HNXhh3w9P6zBnumvYzvjX) | [Turn Off The Lights](https://open.spotify.com/album/4E9LtiGWwa9RZ1WEc5CfKZ) | 2:49 |
 | 42 | [Give It to Me](https://open.spotify.com/track/0hWriVrNXaLiC5TO2GFyNc) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. I\)](https://open.spotify.com/album/27SNkj72LB2Ir4ujwFl3NF) | 3:08 |
-| 43 | [Turn It Up](https://open.spotify.com/track/3MASY75KCPRGj58vTGiFsT) | [Mark State](https://open.spotify.com/artist/1Ownlen2OBmNYzXPruk73Q), [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [AntiarT](https://open.spotify.com/artist/4q3ZXSal7stTCwSZDsiaLN) | [Turn It Up](https://open.spotify.com/album/6vOKgtKHuaa07ULkjuaFZe) | 2:03 |
+| 43 | [Turn It Up](https://open.spotify.com/track/3MASY75KCPRGj58vTGiFsT) | [Mark State](https://open.spotify.com/artist/1Ownlen2OBmNYzXPruk73Q), [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Antiart](https://open.spotify.com/artist/17SD0Xzm6tdJm6mQXo4fPG) | [Turn It Up](https://open.spotify.com/album/6vOKgtKHuaa07ULkjuaFZe) | 2:03 |
 | 44 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 |
 | 45 | [A GIRA](https://open.spotify.com/track/4pYtao3lFQeIewGgRZguHS) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [A GIRA](https://open.spotify.com/album/36ejXTBB6Okdvdwpw5AE2B) | 3:04 |
 | 46 | [Rock the Floor](https://open.spotify.com/track/1lz4gBRc57LjO9DaKmbP4Q) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Teamworx](https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj) | [Rock the Floor](https://open.spotify.com/album/3y92Vab7bPABBKwz49yGkF) | 2:44 |

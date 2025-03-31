@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 125665,
+  "num_followers": 125664,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -157,70 +157,6 @@
       "url": "https://open.spotify.com/track/0YWKQfm1v9AkvgjjbqEbaj"
     },
     {
-      "added_at": "2025-03-13 13:00:38",
-      "album": {
-        "name": "Safeandsound",
-        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 277617,
-      "name": "Safeandsound",
-      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
-    },
-    {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 169941,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Movie Scene",
-        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 180661,
-      "name": "Movie Scene",
-      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
-    },
-    {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Running Out",
-        "url": "https://open.spotify.com/album/4e4HuGGMBput0CxfwBUOoQ"
-      },
-      "artists": [
-        {
-          "name": "The Moving Stills",
-          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
-        }
-      ],
-      "duration_ms": 189232,
-      "name": "Running Out",
-      "url": "https://open.spotify.com/track/2k5IHV4mdDun3M4IgI8HTe"
-    },
-    {
       "added_at": "2025-03-04 23:20:58",
       "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
@@ -243,6 +179,70 @@
     {
       "added_at": "2025-03-20 14:34:44",
       "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 169941,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e"
+    },
+    {
+      "added_at": "2025-03-13 13:00:38",
+      "album": {
+        "name": "Safeandsound",
+        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 277617,
+      "name": "Safeandsound",
+      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
+    },
+    {
+      "added_at": "2025-03-20 14:34:44",
+      "album": {
+        "name": "Running Out",
+        "url": "https://open.spotify.com/album/4e4HuGGMBput0CxfwBUOoQ"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "duration_ms": 189232,
+      "name": "Running Out",
+      "url": "https://open.spotify.com/track/2k5IHV4mdDun3M4IgI8HTe"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
+    },
+    {
+      "added_at": "2025-03-20 14:34:44",
+      "album": {
         "name": "Bird in Paradise",
         "url": "https://open.spotify.com/album/4pLn7PExHV2Z66zFu4xDQc"
       },
@@ -255,22 +255,6 @@
       "duration_ms": 281640,
       "name": "Bird in Paradise",
       "url": "https://open.spotify.com/track/7IjOninBTGNdGfZ3g1Xidh"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 213258,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -295,6 +279,22 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 213258,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
     },
     {
       "added_at": "2025-03-20 14:34:44",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
-        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "If Our Love Is Dead",
-      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -635,30 +635,6 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "it's Franky baby!",
-        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 221602,
-      "name": "Give Thanks, Give Praise",
-      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -671,6 +647,22 @@
       "duration_ms": 192647,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Recognise",
+        "url": "https://open.spotify.com/album/4887blG8QR8i119By3sGO8"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 231966,
+      "name": "Recognise",
+      "url": "https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -691,18 +683,26 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Recognise",
-        "url": "https://open.spotify.com/album/4887blG8QR8i119By3sGO8"
+        "name": "it's Franky baby!",
+        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
         }
       ],
-      "duration_ms": 231966,
-      "name": "Recognise",
-      "url": "https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l"
+      "duration_ms": 221602,
+      "name": "Give Thanks, Give Praise",
+      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
       },
@@ -799,38 +815,6 @@
       "duration_ms": 284026,
       "name": "What Turns You On",
       "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "One Bad Day",
-        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "One Bad Day",
-      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Golden Wolf",
-        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "Golden Wolf",
-      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -883,18 +867,18 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Peripheral Lover",
-        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+        "name": "Golden Wolf",
+        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
       },
       "artists": [
         {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
         }
       ],
-      "duration_ms": 195486,
-      "name": "Peripheral Lover",
-      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
+      "duration_ms": 219196,
+      "name": "Golden Wolf",
+      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -911,6 +895,22 @@
       "duration_ms": 208797,
       "name": "How to Kill Houseplants",
       "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Peripheral Lover",
+        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 195486,
+      "name": "Peripheral Lover",
+      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1213,20 +1213,24 @@
       "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
     },
     {
-      "added_at": "2025-03-20 14:34:44",
+      "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Old Mervs",
-        "url": "https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g"
+        "name": "Know You Love Me",
+        "url": "https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw"
       },
       "artists": [
         {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
         }
       ],
-      "duration_ms": 161511,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
+      "duration_ms": 179161,
+      "name": "Know You Love Me",
+      "url": "https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1245,20 +1249,20 @@
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
-      "added_at": "2025-03-20 14:34:44",
+      "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Shut You Out",
-        "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
+        "name": "You're Still Mine",
+        "url": "https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu"
       },
       "artists": [
         {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
         }
       ],
-      "duration_ms": 234715,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
+      "duration_ms": 147846,
+      "name": "You're Still Mine",
+      "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
     }
   ],
   "unique_name": "The Local List",

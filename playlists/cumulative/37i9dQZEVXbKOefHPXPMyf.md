@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-3,146 songs - 7 day 4 hr 29 min
+3,146 songs - 7 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1758,7 +1758,7 @@
 | [Mi Primera Chamba](https://open.spotify.com/track/5VdMiJiobLaK7zZkN7Virq) | [Eladio chambion](https://open.spotify.com/artist/0pu2rZxTGqnfz1GB6xKKyT) | [Mi Primera Chamba](https://open.spotify.com/album/00hHsVMPA8DuPZBYiLjjqb) | 3:51 | 2023-11-01 | 2023-11-05 |
 | [Mi Primera Chamba](https://open.spotify.com/track/6KL3mzK9SdRCT93pPgVvHu) | [La Pirris](https://open.spotify.com/artist/0IZ3bdKJOLbrpEfREKGRM6), [Eladio chambion](https://open.spotify.com/artist/7wYBQX4u3CLKuvrUOWrNhl) | [Tears In The Ofi](https://open.spotify.com/album/3sBeQDRGs15hWUslFQguHL) | 3:51 | 2023-11-04 | 2023-11-10 |
 | [Mi Primera Chamba \- Si la Calle Llama Edit](https://open.spotify.com/track/010OId0BrP0zHToUv4a4xx) | [Luna Cristofanelli](https://open.spotify.com/artist/3HQ5dYTQ6URNajUz07H0pr) | [Mi Primera Chamba \- Si la Calle Llama Edit](https://open.spotify.com/album/2AEL1CakMM940deBq8mYvc) | 3:46 | 2023-11-25 | 2023-11-28 |
-| [Mi Refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-24 |  |
+| [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-24 |  |
 | [Mi Suerte](https://open.spotify.com/track/2kVtMvrlcK5SRxZvdHgTzn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas \(Edición Especial\)](https://open.spotify.com/album/1o5GGiUcnDHS9Y6OK9VBTM) | 3:33 | 2024-10-21 | 2024-10-23 |
 | [mi último peso](https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU) | [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [DommoBeats](https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc) | [mi último peso](https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT) | 2:20 | 2024-03-17 | 2024-03-19 |
 | [miau](https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [miau](https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg) | 3:05 | 2024-07-22 | 2025-02-19 |
@@ -2968,7 +2968,7 @@
 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 | 2024-08-24 | 2024-08-31 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-10 | 2023-11-16 |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-08-02 | 2022-08-17 |
-| [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 1:00 | 2025-02-25 |  |
+| [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 | 2025-02-25 |  |
 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 | 2022-01-29 | 2022-02-07 |
 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2024-06-13 | 2024-06-18 |
 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 | 2022-02-04 | 2022-02-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 
 > Adormecer ao som relaxante da chuva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,221 likes - 300 songs - 13 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,327 likes - 300 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 42 | [rain in stavanger](https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in stavanger](https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m) | 3:28 |
 | 43 | [Cozier Rain](https://open.spotify.com/track/0RQktlGrRK4m19H85ILLTO) | [Aqualogic](https://open.spotify.com/artist/4LiP2v7wfqtd3lLZta08UP) | [Late Night Drizzle](https://open.spotify.com/album/11GgUitOEBUhUysI0cdec6) | 2:14 |
 | 44 | [Healing Night Rain](https://open.spotify.com/track/3Wn4UZiOkXbzpec53UT1MP) | [Sprightly Showers](https://open.spotify.com/artist/1llhdol7FsQZaxIAUec9Rd) | [Healing Night Rain](https://open.spotify.com/album/299k3GzKubBd6ICnH6owhQ) | 2:33 |
-| 45 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 |
-| 46 | [Dark skies](https://open.spotify.com/track/48jzJCr5iHi1aMuhTKlXP0) | [LWD Rain](https://open.spotify.com/artist/6lrsSXFmqs1QlXzV9XjQxL) | [LWD Rain](https://open.spotify.com/album/2XXKpJdXfo89hdDUJwrNJH) | 2:01 |
-| 47 | [Rainfall Reverberations: Melodic Rain Sounds](https://open.spotify.com/track/20HUGlsJXMHLAXkW5HDoav) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Tranquil Showers: Refreshing Rain Sounds](https://open.spotify.com/album/75Z3imNQxLfriwo9X5iWQv) | 2:30 |
+| 45 | [Dark skies](https://open.spotify.com/track/48jzJCr5iHi1aMuhTKlXP0) | [LWD Rain](https://open.spotify.com/artist/6lrsSXFmqs1QlXzV9XjQxL) | [LWD Rain](https://open.spotify.com/album/2XXKpJdXfo89hdDUJwrNJH) | 2:01 |
+| 46 | [Rainfall Reverberations: Melodic Rain Sounds](https://open.spotify.com/track/20HUGlsJXMHLAXkW5HDoav) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Tranquil Showers: Refreshing Rain Sounds](https://open.spotify.com/album/75Z3imNQxLfriwo9X5iWQv) | 2:30 |
+| 47 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 |
 | 48 | [Βροχερές μέρες](https://open.spotify.com/track/6l9VlJgElboeOE5A9P2rBc) | [Ο Ήχος της Βροχής](https://open.spotify.com/artist/52egGkXfWR0PlZgldvrw6X) | [Ήρεμη ελληνική καλοκαιρινή βροχή](https://open.spotify.com/album/3VUFMU3lq4eVQmMiuAYasG) | 2:23 |
 | 49 | [Luscious Rain](https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Luscious Rain](https://open.spotify.com/album/4HGhxEOSzvVuaXAb39qhkX) | 2:12 |
 | 50 | [Relaxing Sleep Ambience](https://open.spotify.com/track/0dUMBi3YvpnfxOshM783xa) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Garden Rain](https://open.spotify.com/album/2B422CHROjn9jI9YjumQbH) | 3:01 |
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 150 | [Stormy Nights And Days](https://open.spotify.com/track/3yIzotqlArHD8rDU4uGLZl) | [Empyrean](https://open.spotify.com/artist/3KMNkkaZzoo0wfCzVZ3pri) | [Maelstrom](https://open.spotify.com/album/0cEnjF7hkDTrlJWVjRug6O) | 2:40 |
 | 151 | [Rain Streams](https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxing Sounds of Nature](https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG) | 2:43 |
 | 152 | [Sky Is Rumbling](https://open.spotify.com/track/3rxnLHNAstvd01Yw7rTdkX) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Sky Is Rumbling](https://open.spotify.com/album/5FEIvtKpEOGZIFFbfbiitA) | 3:36 |
-| 153 | [Thunderclaps](https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [A Storm Is Brewing](https://open.spotify.com/album/6fPAUNMUttiZ8pcEm2PdVy) | 2:33 |
-| 154 | [Sleep Rain in Nature](https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Forest Rain](https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV) | 2:18 |
+| 153 | [Sleep Rain in Nature](https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Forest Rain](https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV) | 2:18 |
+| 154 | [Thunderclaps](https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [A Storm Is Brewing](https://open.spotify.com/album/6fPAUNMUttiZ8pcEm2PdVy) | 2:33 |
 | 155 | [Focus To Rain Sound](https://open.spotify.com/track/1Zlgk780ReXjity59pzdWB) | [Storm Machine](https://open.spotify.com/artist/2pXi0IcglHeXlVJqcDStpk) | [Unlimited Rain](https://open.spotify.com/album/5AAGGHlY1D0SqdfOKcXJh2) | 2:28 |
 | 156 | [Fjorgyn](https://open.spotify.com/track/6umAPo33PT9loaaQ1b937z) | [Heart of Fjorgyn](https://open.spotify.com/artist/4fkTPjObX2xjH7mEk7WQRX) | [Blessed Rain](https://open.spotify.com/album/4Bu6bIFHYCabxiQSxkI36T) | 3:21 |
 | 157 | [Steady Soft Rain \- Fade](https://open.spotify.com/track/2KzY9G2grpQdNs82FKrpE2) | [Turquoise Turmoil](https://open.spotify.com/artist/5W19VR9TpHPvtmH3lfR6vt) | [Constant Showers](https://open.spotify.com/album/3GXpc4Ud7r4tjQpBOh9sYq) | 2:06 |
@@ -232,9 +232,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 222 | [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 |
 | 223 | [Mindful Rain](https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ) | [Dreamy Drops](https://open.spotify.com/artist/6Ml1Yweh4BCb2qGIi9NGp2) | [Mindful Rain](https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh) | 2:48 |
 | 224 | [Rain](https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6) | [New Sounds Of Nature](https://open.spotify.com/artist/5U4BDAMefQlcNIp9OaEbQa) | [New Sounds Of Nature](https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy) | 2:22 |
-| 225 | [A Rainy Day At The Park](https://open.spotify.com/track/3GIlON6gSvqaNJYm87uWsM) | [Waters Of Deluge](https://open.spotify.com/artist/0WOVfUGhrR6cXub2J4wz10) | [Park And Nature Rains](https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT) | 2:48 |
-| 226 | [Soft Clappering Rain With Distant Storm](https://open.spotify.com/track/54gd3cuzXOLPgmj1BLIHmB) | [Livia Michaels](https://open.spotify.com/artist/3WH5Te2JfIJd5yOOkchwZE) | [Meditation Morning Rain](https://open.spotify.com/album/7Il9UcVgVjIHBHJRN8oScd) | 2:25 |
-| 227 | [Rainy Alley](https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 3:00 |
+| 225 | [Rainy Alley](https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 3:00 |
+| 226 | [A Rainy Day At The Park](https://open.spotify.com/track/3GIlON6gSvqaNJYm87uWsM) | [Waters Of Deluge](https://open.spotify.com/artist/0WOVfUGhrR6cXub2J4wz10) | [Park And Nature Rains](https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT) | 2:48 |
+| 227 | [Soft Clappering Rain With Distant Storm](https://open.spotify.com/track/54gd3cuzXOLPgmj1BLIHmB) | [Livia Michaels](https://open.spotify.com/artist/3WH5Te2JfIJd5yOOkchwZE) | [Meditation Morning Rain](https://open.spotify.com/album/7Il9UcVgVjIHBHJRN8oScd) | 2:25 |
 | 228 | [Night Storm](https://open.spotify.com/track/7iug7zoz8Q0hYJB1aFoyZ3) | [Peceful Waters](https://open.spotify.com/artist/2VfTfwQpjAkt3dR71njyYp) | [Peceful Waters](https://open.spotify.com/album/2bFCb65X1zLYlDrS1JLPOm) | 2:09 |
 | 229 | [Storm During Night](https://open.spotify.com/track/0DhLvC2rnUUEffwwHYoCt6) | [Atmospheric Force](https://open.spotify.com/artist/6Py5HyyKAoChKdXs6CofD8) | [Stormy Conditions](https://open.spotify.com/album/54Sg1PfgxhbOgIrCmxMuwf) | 2:47 |
 | 230 | [The Skies Clear Up](https://open.spotify.com/track/2h4dGNkPZLhGJtV2tPulAd) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Wet Terrain](https://open.spotify.com/album/3HUBias9HKd0fxmDMZX9lD) | 3:08 |

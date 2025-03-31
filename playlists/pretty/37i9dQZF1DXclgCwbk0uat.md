@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Kidd Voodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,999,425 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,999,552 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 16 | [Ay Mamasita](https://open.spotify.com/track/2xPdYKH4tKDThf6p6sqLtD) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Ay Mamasita](https://open.spotify.com/album/6YUB8mVHkQodN4g0HV9R3V) | 2:49 |
 | 17 | [Cosa Linda](https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:30 |
 | 18 | [CHINGON](https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [CHINGON](https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe) | 2:14 |
-| 19 | [Mi Refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
+| 19 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
 | 20 | [Tattoo](https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Tattoo](https://open.spotify.com/album/3EYAbEV8gM0VvHPqF3asP4) | 3:21 |
 | 21 | [Niña Bonita](https://open.spotify.com/track/74DwamD0wHlOYiMWXjHkgV) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [Niña Bonita](https://open.spotify.com/album/5ngjjXHPqjIiklwbAuf7aQ) | 2:21 |
 | 22 | [Pinocchio Remix \- Versión Remix](https://open.spotify.com/track/6DmvFgAoRgvWpcXUWxku8h) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [Pinocchio \(Versión Remix\)](https://open.spotify.com/album/6WILSplnG8R7tUbfkGEjxN) | 3:19 |

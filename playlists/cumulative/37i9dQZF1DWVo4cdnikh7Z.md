@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Good Bad Ugly
 
-1,730 songs - 4 day 8 hr 43 min
+1,731 songs - 4 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Glimpse of Garudan \- From "Garudan"](https://open.spotify.com/track/7dmnDiva567l2mXXePzQrR) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Glimpse of Garudan \(From "Garudan"\)](https://open.spotify.com/album/2BORjAPg6L2MunflPOb38s) | 2:04 | 2024-02-07 | 2024-03-15 |
 | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1) | 0:42 | 2023-08-18 | 2023-10-05 |
 | [Gnazhal Gnazhal Malare \(Tamil\)](https://open.spotify.com/track/7zs4XW6KEy8Hvfcl2YyItE) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Adipurush \(TAMIL\)](https://open.spotify.com/album/6bMBoIbi4sb2gngx4dC6TT) | 3:21 | 2023-06-07 | 2023-06-20 |
+| [God Bless U \(From "Good Bad Ugly"\)](https://open.spotify.com/track/6SZgnc7BvRmSXErk0hyXkq) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [God Bless U \(From "Good Bad Ugly"\)](https://open.spotify.com/album/0Q6DkvxKEsdC8n11b7rLcq) | 4:00 | 2025-03-30 |  |
 | [Goinda Goinda](https://open.spotify.com/track/1xDX4EC5qG3uSj1FVdnkq9) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Gana Francis](https://open.spotify.com/artist/4266Hzvg3Laf0fNQSqNJA4), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [DD Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe) | 2:30 | 2023-07-31 | 2023-08-15 |
 | [Going to Goa \(From "Glassmates"\)](https://open.spotify.com/track/4DafFDdRYxzgqkYgDxsjvN) | [Mukesh Mohamed](https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5), [Prithivy](https://open.spotify.com/artist/4GveDaKZ4DWn1iswEDuIHP), [Seerkali Sirpi](https://open.spotify.com/artist/7j42iXz1Q0nbm3fr6Dm18H) | [Going to Goa \(From "Glassmates"\)](https://open.spotify.com/album/4ZDNtBYlF513Vnof9uDpgI) | 3:31 | 2024-01-22 | 2024-02-17 |
 | [Going to Goa \(From "Glassmates"\)](https://open.spotify.com/track/4bV4wXhCwgXGuolnsGULOM) | [Prithivy](https://open.spotify.com/artist/4GveDaKZ4DWn1iswEDuIHP), [Mukesh Mohamed](https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5) | [Going to Goa \(From "Glassmates"\)](https://open.spotify.com/album/4m4pwWO65N0fAk61KlkafM) | 3:31 | 2024-01-22 | 2024-01-24 |

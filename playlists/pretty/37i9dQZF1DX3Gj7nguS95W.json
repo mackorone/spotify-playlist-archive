@@ -1,6 +1,6 @@
 {
   "description": "The greatest New Wave songs through the decades. Cover: Blondie",
-  "num_followers": 925022,
+  "num_followers": 925127,
   "original_name": "Essential New Wave",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,38 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "This Charming Man - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
+        "name": "Atomic/Atomix",
+        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -119,6 +151,22 @@
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Just What I Needed",
+      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -155,86 +203,6 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Atomic/Atomix",
-        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "This Charming Man - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
-        "name": "The Cars",
-        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Just What I Needed",
-      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
         "name": "Forever Now",
         "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
       },
@@ -267,22 +235,6 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Parallel Lines (Remastered)",
-        "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "One Way Or Another - Remastered 2001",
-      "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -299,8 +251,8 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Burning Down the House / I Get Wild / Wild Gravity",
-        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
@@ -308,25 +260,25 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 241920,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+        "name": "Parallel Lines (Remastered)",
+        "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
+      "duration_ms": 215106,
+      "name": "One Way Or Another - Remastered 2001",
+      "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -359,6 +311,22 @@
       "duration_ms": 206866,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -443,18 +411,18 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Singles (2016 Remaster)",
-        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+        "name": "Burning Down the House / I Get Wild / Wild Gravity",
+        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 450800,
-      "name": "Blue Monday - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX"
+      "duration_ms": 241920,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -475,6 +443,22 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
+        "name": "Singles (2016 Remaster)",
+        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 450800,
+      "name": "Blue Monday - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
         "name": "Metro Music",
         "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 219866,
       "name": "Echo Beach",
       "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
+        "name": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "duration_ms": 151106,
+      "name": "We Got The Beat - 2011 Remaster",
+      "url": "https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
         "name": "Heartbeat City",
         "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 354626,
       "name": "E=MC2",
       "url": "https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
-        "name": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
-      },
-      "artists": [
-        {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
-        }
-      ],
-      "duration_ms": 151106,
-      "name": "We Got The Beat - 2011 Remaster",
-      "url": "https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
+        "name": "The Globe",
+        "url": "https://open.spotify.com/album/7bhRilzc9srMwwkJQc3o0e"
+      },
+      "artists": [
+        {
+          "name": "Big Audio Dynamite",
+          "url": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4gTMIyJJlSuB5BOhbMri6B"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
         "name": "Skylarking (Remastered 2001)",
         "url": "https://open.spotify.com/album/0KZzE7kp90tb85NaixWeir"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "The Globe",
-        "url": "https://open.spotify.com/album/7bhRilzc9srMwwkJQc3o0e"
-      },
-      "artists": [
-        {
-          "name": "Big Audio Dynamite",
-          "url": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4gTMIyJJlSuB5BOhbMri6B"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
         "name": "Metro Music",
         "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
         "name": "Outlandos D'Amour",
         "url": "https://open.spotify.com/album/6EW7DSC8rjwBJIeAc1d7uQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 191946,
       "name": "Roxanne - Remastered 2003",
       "url": "https://open.spotify.com/track/0SYRVn2YF7HBscQEmlkpTI"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
     }
   ],
   "unique_name": "Essential New Wave",

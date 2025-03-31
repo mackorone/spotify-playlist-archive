@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa J.Karjalainen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,052 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,051 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 1 | [Rolling Stone](https://open.spotify.com/track/4AxYQbt2YhKzCV0KW88TMI) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Rolling Stone](https://open.spotify.com/album/3d1cnmrDYi2Lmdwogee26y) | 3:12 |
 | 2 | [Aamuihmiset](https://open.spotify.com/track/6ZaEw9vOMaKvg3WYkDQHOu) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Suomalaista muotoiluu](https://open.spotify.com/album/75be1pSUYClB92gUh4E9Ar) | 3:14 |
-| 3 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
-| 4 | [Rolling Stone](https://open.spotify.com/track/4AxYQbt2YhKzCV0KW88TMI) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Rolling Stone](https://open.spotify.com/album/3d1cnmrDYi2Lmdwogee26y) | 3:12 |
+| 3 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 4 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
 | 5 | [Sun Silmistä Aurinko Nousee](https://open.spotify.com/track/2x9WxOczWrn52S5vrn9dHO) | [Max Olavi & Elävät Kuvat](https://open.spotify.com/artist/280wSk35Poeg85y2oxb5xe), [Jepa Lambert](https://open.spotify.com/artist/0x2sRpqcE6H2nZeYT6Gb1w) | [Sun Silmistä Aurinko Nousee](https://open.spotify.com/album/5GKYWz1g4HXTsBFWv8lv1e) | 3:32 |
 | 6 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
 | 7 | [Kauan eläköön rakkaus](https://open.spotify.com/track/7xFKbIs8CD0tyeOMjD7zg9) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Kauan eläköön rakkaus](https://open.spotify.com/album/3zxo9n3JW093mTb5FkwXRD) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Kaikki hyvin \(feat\. Pikku G\)](https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp) | [Leo Stillman](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Ihmiset & ongelmat](https://open.spotify.com/album/65XJMEVfqyrETikUgxreps) | 2:43 |
 | 80 | [Tää ei hajoo](https://open.spotify.com/track/6rSRbR53rRzVSnDXV2Hr1N) | [Indica](https://open.spotify.com/artist/1Nc6H2qbH5SljekjNBTX7m) | [Tää ei hajoo / Kieroja aarioita](https://open.spotify.com/album/6XhSAiVeoGAs8z0j40zIn2) | 3:07 |
 
-Snapshot ID: `Z+XKogAAAAAc8PxBs2fu9gLVRf6pj1YH`
+Snapshot ID: `Z+mHwgAAAAANopXRNXct8hLZojDdGgQZ`

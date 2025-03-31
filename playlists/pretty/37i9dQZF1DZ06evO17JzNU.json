@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 27309,
+  "num_followers": 27331,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAABVeH3K2zlNtte/+66RgsNt",
+  "snapshot_id": "Z+c4AAAAAABiHZ3jTCp3IWhVJZLoTkVU",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "Pase De Pescado",
-      "url": "https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rose Coke",
         "url": "https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 166374,
       "name": "Rose Coke",
       "url": "https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "Pase De Pescado",
+      "url": "https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 131589,
       "name": "En El Este",
       "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
     },
     {
       "added_at": null,
@@ -803,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Nuevo Dia",
+        "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        },
+        {
+          "name": "Fernando llanos",
+          "url": "https://open.spotify.com/artist/0R1I0zOAHYjQ7Hue05j6Ht"
+        }
+      ],
+      "duration_ms": 195995,
+      "name": "Un Nuevo Dia",
+      "url": "https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nos Acoplamos Macizo",
         "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
       },
@@ -819,22 +843,6 @@
       "duration_ms": 246059,
       "name": "Nos Acoplamos Macizo",
       "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Sin Opci\u00f3n",
-      "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
     },
     {
       "added_at": null,
@@ -859,26 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Nuevo Dia",
-        "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
+        "name": "Sin Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
-        },
-        {
-          "name": "Fernando llanos",
-          "url": "https://open.spotify.com/artist/0R1I0zOAHYjQ7Hue05j6Ht"
         }
       ],
-      "duration_ms": 195995,
-      "name": "Un Nuevo Dia",
-      "url": "https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW"
+      "duration_ms": 116000,
+      "name": "Sin Opci\u00f3n",
+      "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
     },
     {
       "added_at": null,

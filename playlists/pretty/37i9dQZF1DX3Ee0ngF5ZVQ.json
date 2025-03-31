@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 410533,
+  "num_followers": 410528,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,26 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
+        "name": "She Hurts Like Tequila",
+        "url": "https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "She Hurts Like Tequila",
+      "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
         "name": "Fall This Way",
         "url": "https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5"
       },
@@ -371,22 +391,6 @@
       "duration_ms": 215000,
       "name": "Fall This Way",
       "url": "https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
-        "name": "Handle On You",
-        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Handle On You",
-      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -427,22 +431,18 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "She Hurts Like Tequila",
-        "url": "https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd"
+        "name": "Handle On You",
+        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 202560,
-      "name": "She Hurts Like Tequila",
-      "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
+      "duration_ms": 219333,
+      "name": "Handle On You",
+      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
         "name": "Missin' Tonight",
         "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 170154,
       "name": "Missin' Tonight",
       "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
+        "name": "Starting Over Again",
+        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
         "name": "Coulda Been Love",
         "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 240025,
       "name": "Outlaws and Mustangs",
       "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
-        "name": "Starting Over Again",
-        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Starting Over Again",
-      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
-      },
-      "artists": [
-        {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
-        }
-      ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
         "name": "Denver to Dallas",
         "url": "https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 208618,
       "name": "Denver to Dallas",
       "url": "https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     },
     {
       "added_at": "2025-03-28 15:39:10",

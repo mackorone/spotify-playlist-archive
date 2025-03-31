@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 228560,
       "name": "Deu\u00f1o De Ti",
       "url": "https://open.spotify.com/track/60qMXOUgTo6mhnW2ls9AMr"
@@ -3920,7 +3920,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -5446,7 +5446,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -7400,6 +7400,10 @@
         {
           "name": "Kuv507",
           "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
         }
       ],
       "date_added": "2025-03-29",
@@ -8663,7 +8667,7 @@
     },
     {
       "album": {
-        "name": "Mi Refe",
+        "name": "mi refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
       },
       "artists": [
@@ -8680,7 +8684,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159404,
-      "name": "Mi Refe",
+      "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
@@ -8802,7 +8806,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -10438,7 +10442,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 211591,
       "name": "Pera Madura (Remastered 2023)",
       "url": "https://open.spotify.com/track/10M5bUq5qVOp43MIjF5eGS"
@@ -12756,7 +12760,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "Si Yo Fuera El",
       "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
@@ -15221,7 +15225,7 @@
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 60406,
+      "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
     },

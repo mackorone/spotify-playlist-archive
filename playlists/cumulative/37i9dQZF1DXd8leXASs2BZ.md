@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: CFN MALIK
 
-897 songs - 1 day 17 hr 35 min
+898 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [22 \(feat\. 7 & lj\)](https://open.spotify.com/track/7JP6VzbPQnaRdqtWD4Hsjk) | [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Vintage](https://open.spotify.com/album/4c59zUaORT4VV062BXPT8o) | 2:40 | 2024-05-28 | 2024-11-06 |
 | [24](https://open.spotify.com/track/4g9DnWhen9MpCAIkIjQE4K) | [Back Street Blues](https://open.spotify.com/artist/3rCf49MZAEGvV1eAhV3R5E) | [24](https://open.spotify.com/album/7hRwENDtQ7htxGZWvRhLJc) | 3:32 | 2024-03-05 | 2024-04-03 |
 | [24 Projects](https://open.spotify.com/track/4Hb3PaRov6xxBybVo4fZRT) | [JiLL](https://open.spotify.com/artist/6XZd47IjmOKNEbp7gXhnfa), [DJ SPACE KID](https://open.spotify.com/artist/3oUTUcCquzQxpiHxnCl1mw) | [Baggage From Nowhere](https://open.spotify.com/album/2QmdZUfrPntHJMKFM9Cdti) | 3:09 | 2024-07-30 | 2024-08-28 |
+| [24/7](https://open.spotify.com/track/0I3uR1uafbPIExTyPVKO2m) | [URBANHOOD](https://open.spotify.com/artist/6xN0cz2lbYuGzc8bNtKqYG) | [RHYTHM](https://open.spotify.com/album/5WYJXaI0FtApcaMjjj9woj) | 2:29 | 2025-03-31 |  |
 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-13 | 2024-04-24 |
 | [247](https://open.spotify.com/track/5yHVEyrqkHfgRCBugctuji) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [247](https://open.spotify.com/album/1wlVSUTDVGEVuO3S9vHGdk) | 4:25 | 2024-07-23 | 2024-09-04 |
 | [2am in Tokyo](https://open.spotify.com/track/1rjNWXWLPdxYcY7oFnfOlU) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [2am in Tokyo](https://open.spotify.com/album/6n2U8QF1kjfUfMSfaNOZ3G) | 2:24 | 2024-02-22 | 2024-03-22 |
@@ -503,7 +504,7 @@
 | [NAMI](https://open.spotify.com/track/3gyXUKKJOyRkst9eZYiY3w) | [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Merry Delo](https://open.spotify.com/artist/1Q1IHJA1chZCn2P0ppiOfW) | [Marina](https://open.spotify.com/album/0Wd7kzmJBgmfvebEJub5q9) | 3:36 | 2024-10-15 | 2024-10-22 |
 | [NARI\-A\-GARI](https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NARI\-A\-GARI](https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR) | 2:45 | 2024-01-09 | 2024-02-09 |
 | [Natural Buzz](https://open.spotify.com/track/19fy3JDujAYlCL0f0LZUHx) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [OHZKEY](https://open.spotify.com/artist/71j3AMPO4zOfdTMc7Blt5j), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [castermild](https://open.spotify.com/artist/6gNIKY01gcqrLVU26YJ4RX) | [DAY TIME SNACK](https://open.spotify.com/album/0puKoRo0S118LVlME7ELtp) | 3:01 | 2024-03-21 | 2024-11-06 |
-| [Neet tokyo freestyle \(feat\. SEEDA\)](https://open.spotify.com/track/4udfLv4bJwmCayqkznikFA) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [Cupid's aim](https://open.spotify.com/album/1CC8ILBQfKQDIcho5BheYW) | 2:28 | 2024-12-10 |  |
+| [Neet tokyo freestyle \(feat\. SEEDA\)](https://open.spotify.com/track/4udfLv4bJwmCayqkznikFA) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [Cupid's aim](https://open.spotify.com/album/1CC8ILBQfKQDIcho5BheYW) | 2:28 | 2024-12-10 | 2025-03-31 |
 | [NERI CHAGI](https://open.spotify.com/track/7MEtFiQy6Y4uwSLRDlgbHz) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NERI CHAGI](https://open.spotify.com/album/0p7ELsDN4BVx16x0qJshCa) | 2:42 | 2024-02-27 | 2024-04-17 |
 | [never let you down](https://open.spotify.com/track/4X449OjkeVnRmjOQqAg8Rj) | [SOTAROBEATS](https://open.spotify.com/artist/30MIhh1YjWvnWwlTbwNYrR), [鴉 a.k.a jungo](https://open.spotify.com/artist/151mgEIscBcxtyEebxwSCB) | [never let you down](https://open.spotify.com/album/6OMpDXmH3pdPnm8XYxG6fJ) | 2:30 | 2024-03-21 | 2024-04-24 |
 | [never4ever](https://open.spotify.com/track/5lEJuqYmCHLXdHIfYJwsEv) | [BBY NABE](https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [now that UR gone](https://open.spotify.com/album/4pujOHKtOo25md7rMwnRLE) | 2:48 | 2023-12-07 | 2023-12-15 |

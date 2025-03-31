@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 23379,
+  "num_followers": 23385,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAABvIpgGbekUaEIUxk58hekO",
+  "snapshot_id": "Z+c4AAAAAACh6SUFdxApLeWtE7kQ8xBt",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 268000,
-      "name": "The Northern",
-      "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"
+      "duration_ms": 331266,
+      "name": "Blue Spade",
+      "url": "https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otherness",
-        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 331266,
-      "name": "Blue Spade",
-      "url": "https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq"
+      "duration_ms": 268000,
+      "name": "The Northern",
+      "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aussie Tour 7inch",
-        "url": "https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 280600,
-      "name": "The Dead Heart",
-      "url": "https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death Letter",
         "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 214592,
       "name": "Burial",
       "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aussie Tour 7inch",
+        "url": "https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 280600,
+      "name": "The Dead Heart",
+      "url": "https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ"
     },
     {
       "added_at": null,

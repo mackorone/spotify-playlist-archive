@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > claire knows the apple don't fall far from the tree
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,559,547 likes - 135 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,559,487 likes - 135 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

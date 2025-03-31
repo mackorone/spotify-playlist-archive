@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,677 likes - 150 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,692 likes - 150 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,9 +113,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 103 | [SLOWLY](https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ) | [Sorsele](https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw) | [Slowly](https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej) | 2:19 |
 | 104 | [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 |
 | 105 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
-| 106 | [LEVITATE](https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [LEVITATE](https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk) | 2:19 |
-| 107 | [Sleep Under My Eyes](https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Sleep Under My Eyes](https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz) | 2:18 |
-| 108 | [Trouble In Smoky Paradise](https://open.spotify.com/track/4xbDrO1BWWmmMpShGcCYTf) | [X56.aif](https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB) | [Trouble In Smoky Paradise](https://open.spotify.com/album/6LvEYsVFTVzi0Mcllrt2jd) | 2:28 |
+| 106 | [Sleep Under My Eyes](https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Sleep Under My Eyes](https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz) | 2:18 |
+| 107 | [Trouble In Smoky Paradise](https://open.spotify.com/track/4xbDrO1BWWmmMpShGcCYTf) | [X56.aif](https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB) | [Trouble In Smoky Paradise](https://open.spotify.com/album/6LvEYsVFTVzi0Mcllrt2jd) | 2:28 |
+| 108 | [LEVITATE](https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [LEVITATE](https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk) | 2:19 |
 | 109 | [honey sweet](https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [honey sweet](https://open.spotify.com/album/68VuJvWiekf22ADYco8THc) | 1:55 |
 | 110 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 |
 | 111 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 |

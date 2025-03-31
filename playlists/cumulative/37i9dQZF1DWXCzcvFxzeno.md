@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-247 songs - 18 hr 26 min
+248 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 | 2025-03-08 |
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-27 | 2024-11-14 |
 | [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 | 2024-10-15 |
+| [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 | 2025-03-19 |  |
 | [ESSEM!NJO](https://open.spotify.com/track/4sm8GdxepC7g9P9PKPgf3t) | [Noneoftheabove](https://open.spotify.com/artist/3O02ateaX0BgRKwB3D53Oa), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [TAR VARIOUS ARTISTS](https://open.spotify.com/album/1EcILTSariejjul2lWn1kl) | 6:30 | 2024-04-09 | 2024-04-19 |
 | [Fake Like That](https://open.spotify.com/track/1us1kcmAd3FUPJuMtEA57G) | [Azulo](https://open.spotify.com/artist/1T4SBodPtb9Wy2uLUEIF0I), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fake Like That](https://open.spotify.com/album/2GBtW5IAow0eNJVeCw5inu) | 3:44 | 2024-04-09 |  |
 | [Fall Down](https://open.spotify.com/track/3Gh49ji5wft1WtdQqfEHrj) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F) | [Fall Down](https://open.spotify.com/album/4HvRF2t748T2rcwMftPFoO) | 2:52 | 2024-09-27 | 2024-11-07 |
@@ -123,7 +124,7 @@
 | [I Gotta Come In](https://open.spotify.com/track/5Zvm7MJIqbJNPUilBp4VsF) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [I Gotta Come In](https://open.spotify.com/album/6U4Zykb93hkwR0mE4pj7lS) | 2:42 | 2025-02-14 | 2025-02-21 |
 | [I Wanna Feel](https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [I Wanna Feel](https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32) | 5:18 | 2024-08-05 | 2025-03-20 |
 | [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 | 2024-12-14 |
-| [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |
+| [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 | 2025-03-31 |
 | [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 | 2024-05-14 |
 | [It's A Fine Day \- Hard Techno Remix](https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY) | [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Grym](https://open.spotify.com/artist/4EyLyiExN1bAKQYWnVok4k), [Moxius](https://open.spotify.com/artist/6JISEm4WN6a2LzWRi8KCrR) | [It's A Fine Day \(Hard Techno Remix\)](https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM) | 2:33 | 2025-01-09 |  |
 | [Kalima](https://open.spotify.com/track/5hGhHUMdLYQq48IyuuqwJt) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Kalima EP](https://open.spotify.com/album/3EnmgngDjZK5zDt36WI51Q) | 3:55 | 2025-03-19 |  |

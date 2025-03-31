@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 114080,
+  "num_followers": 114121,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
         "name": "Shinamania",
         "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
-        "name": "Ivory Music Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
-      },
-      "artists": [
-        {
-          "name": "Dizzy K Falola",
-          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Baby Kilode",
-      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
         "name": "3rd World",
         "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
@@ -391,22 +375,6 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
-        "name": "This Is Eddy Grant",
-        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
-      },
-      "artists": [
-        {
-          "name": "Eddy Grant",
-          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
-        }
-      ],
-      "duration_ms": 235799,
-      "name": "Say I Love You",
-      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
         "name": "Juju Music",
         "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
       },
@@ -419,6 +387,38 @@
       "duration_ms": 307866,
       "name": "Ma Jaiye Oni",
       "url": "https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
+      },
+      "artists": [
+        {
+          "name": "Dizzy K Falola",
+          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Baby Kilode",
+      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "This Is Eddy Grant",
+        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "duration_ms": 235799,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -555,70 +555,6 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
-        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
-        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
-      },
-      "artists": [
-        {
-          "name": "The Funkees",
-          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
-        }
-      ],
-      "duration_ms": 448914,
-      "name": "Akula Owu Onyeara",
-      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
-      },
-      "artists": [
-        {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Sibongile",
-        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        }
-      ],
-      "duration_ms": 351053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
         "name": "Fatteliku (Live in Athens 1987)",
         "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
       },
@@ -639,6 +575,86 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
+        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy - Edit",
+      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
         "name": "Daddy Lumba Essentials",
         "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 337606,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
     }
   ],
   "unique_name": "Classic Afropop",

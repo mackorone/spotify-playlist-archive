@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ariana Grande \(pictured\), Linkin Park, EAZ and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,340 likes - 122 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,342 likes - 122 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

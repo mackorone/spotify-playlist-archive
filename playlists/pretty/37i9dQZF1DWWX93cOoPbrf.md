@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,681 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,764 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 15 | [La Güera y La Morena](https://open.spotify.com/track/28c2DNs7tghpQuVZLbaRyb) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Güera y La Morena](https://open.spotify.com/album/3iUNVJ2MkizmsYYeTBxSTx) | 3:22 |
 | 16 | [El N1 El Perfil o El Chavalon](https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:39 |
 | 17 | [EL R2](https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El R2](https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc) | 2:32 |
-| 18 | [Loko](https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Loko](https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx) | 2:11 |
+| 18 | [LOKO](https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LOKO](https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx) | 2:11 |
 | 19 | [Una Caguama en la Banqueta](https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Tony Montoya](https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB) | [Una Caguama en la Banqueta](https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt) | 2:46 |
 | 20 | [James B.](https://open.spotify.com/track/6T9mi3HBKG2T21JvM9zowV) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [James B.](https://open.spotify.com/album/0SopcVXw2oPUQTAJYZv6UQ) | 2:54 |
 | 21 | [COMO CAPO](https://open.spotify.com/track/4N1dogCaVWnGyFdPjdqNWF) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:45 |

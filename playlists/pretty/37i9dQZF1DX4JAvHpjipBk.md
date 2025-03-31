@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ariana Grande, Playboi Carti, Lucy Dacus, Kali Uchis, Jordan Davis, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,333,841 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,334,089 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

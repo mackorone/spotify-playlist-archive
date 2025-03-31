@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 168943,
+  "num_followers": 168984,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 193401,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
         "name": "Remember My Song",
         "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 201230,
       "name": "Danielle (smile on my face)",
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 193401,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Outlook Remains Untouched",
-        "url": "https://open.spotify.com/album/3UXZO8203DQInQGskJLBoy"
-      },
-      "artists": [
-        {
-          "name": "||||||||||||||||||||",
-          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
-        }
-      ],
-      "duration_ms": 391111,
-      "name": "Outlook Remains Untouched",
-      "url": "https://open.spotify.com/track/5XkFY9AdesErbMzRpBo4Ja"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
         "name": "We Give Thanks",
         "url": "https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 220853,
       "name": "We Give Thanks",
       "url": "https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
+        "name": "Outlook Remains Untouched",
+        "url": "https://open.spotify.com/album/3UXZO8203DQInQGskJLBoy"
+      },
+      "artists": [
+        {
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+        }
+      ],
+      "duration_ms": 391111,
+      "name": "Outlook Remains Untouched",
+      "url": "https://open.spotify.com/track/5XkFY9AdesErbMzRpBo4Ja"
     }
   ],
   "unique_name": "Turntable",

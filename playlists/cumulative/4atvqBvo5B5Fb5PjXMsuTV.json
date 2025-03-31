@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Mar 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Mar 22:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -6698,7 +6698,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 163721,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/7cUPAbH6B8h0iSyxZ1B1zS"
@@ -12354,6 +12354,24 @@
       "duration_ms": 178362,
       "name": "Can't Be Still",
       "url": "https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX"
+    },
+    {
+      "album": {
+        "name": "Can't Cancel All Of Us",
+        "url": "https://open.spotify.com/album/7J77NVBS7K4yUQg7sj4PqN"
+      },
+      "artists": [
+        {
+          "name": "Tom MacDonald",
+          "url": "https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Can't Cancel All Of Us",
+      "url": "https://open.spotify.com/track/2oSfCBw6GQM1bGAxVtrN3O"
     },
     {
       "album": {
@@ -45260,7 +45278,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 93805,
       "name": "luv this feeling",
       "url": "https://open.spotify.com/track/1zdKJi5A8h86jHXK2jNfPZ"
@@ -56793,6 +56811,24 @@
     },
     {
       "album": {
+        "name": "PMO",
+        "url": "https://open.spotify.com/album/5uSvNfwYWKsYsK3SE3CQWS"
+      },
+      "artists": [
+        {
+          "name": "Civ",
+          "url": "https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "PMO",
+      "url": "https://open.spotify.com/track/2aE2IWHFmvSglpXvsuvyXu"
+    },
+    {
+      "album": {
         "name": "Pocket",
         "url": "https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP"
       },
@@ -59024,7 +59060,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 142768,
       "name": "Ran Out",
       "url": "https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk"
@@ -81294,6 +81330,24 @@
       "duration_ms": 151080,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/5kmv9qvrOgxlOY0ottSalh"
+    },
+    {
+      "album": {
+        "name": "Whiplash (English Version)",
+        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Whiplash (English Version)",
+      "url": "https://open.spotify.com/track/4YHeXM7mgLvxpvaUGnybGK"
     },
     {
       "album": {

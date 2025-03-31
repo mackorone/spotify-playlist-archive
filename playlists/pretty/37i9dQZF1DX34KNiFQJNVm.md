@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Teto, Gusttavo Lima, Ariana Grande e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,048,857 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,048,981 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 23 | [Não É Só Tesão](https://open.spotify.com/track/72DzABy5QrFjjrLgT1xOeX) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dom](https://open.spotify.com/artist/4xTYyi8DMAejeE8L10qS1O), [KOC](https://open.spotify.com/artist/0DJpGYLwnwr6CPnMvQvlBN), [Drip Studio](https://open.spotify.com/artist/0hzsrTtn9788QCHCqyxT9a) | [Não É Só Tesão](https://open.spotify.com/album/773WXNV6zeRfm7gMmYKpqn) | 2:52 |
 | 24 | [Se Não Dá Pra Namorar](https://open.spotify.com/track/0lclQZwMllqGcJkEYQz40U) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7) | [Se Não Dá Pra Namorar](https://open.spotify.com/album/32jkSt88Xu9X2xCHSLgj51) | 2:03 |
 | 25 | [Brincadeira](https://open.spotify.com/track/5jaMzAGuJx8lS5eGPvOR4I) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Mc 7 Belo](https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7) | [Brincadeira](https://open.spotify.com/album/6NuFtgqI6IA3sDMkTv5E5G) | 2:10 |
-| 26 | [Fugidinha \- Ao Vivo](https://open.spotify.com/track/5Utz6sfsIfu78pc7zHlREX) | [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Fugidinha \(Ao Vivo\)](https://open.spotify.com/album/3g33bGWM9G6InRuA6ael64) | 2:45 |
+| 26 | [Fugidinha \- Ao Vivo](https://open.spotify.com/track/5Utz6sfsIfu78pc7zHlREX) | [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Fugidinha \(Ao Vivo\)](https://open.spotify.com/album/3g33bGWM9G6InRuA6ael64) | 2:44 |
 | 27 | [Me Amava Nada \- Ao Vivo em Fortaleza](https://open.spotify.com/track/4ThOKJiI3iZhJrUwyPm3Cz) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Me Amava Nada \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/1g5MySbdyM1AeqPirplHBU) | 2:37 |
 | 28 | [Até a Lua](https://open.spotify.com/track/2mijRVErkp7Yt6QHZybRGC) | [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Até a Lua](https://open.spotify.com/album/1zR0WC9Li2XTn2253mQ8cc) | 2:42 |
 | 29 | [Solteiramente \- Ao Vivo](https://open.spotify.com/track/3wADvfJs4ZMwWNmilPmXCY) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Confranejo \(Ao Vivo / EP2\)](https://open.spotify.com/album/4HGxHhEl4fEdrRMuZnentV) | 2:27 |

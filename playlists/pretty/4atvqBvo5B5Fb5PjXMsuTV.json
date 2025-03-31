@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Mar 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Mar 22:04 UTC.",
   "num_followers": 91,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAQrVABchtKSPk1AplOMJBySXS6ZqLv",
+  "snapshot_id": "AAAQsytsw+dOMpSLklE93qEWyGPz49hS",
   "tracks": [
+    {
+      "added_at": "2025-03-30 19:04:21",
+      "album": {
+        "name": "Can't Cancel All Of Us",
+        "url": "https://open.spotify.com/album/7J77NVBS7K4yUQg7sj4PqN"
+      },
+      "artists": [
+        {
+          "name": "Tom MacDonald",
+          "url": "https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Can't Cancel All Of Us",
+      "url": "https://open.spotify.com/track/2oSfCBw6GQM1bGAxVtrN3O"
+    },
     {
       "added_at": "2025-03-28 23:05:05",
       "album": {
@@ -119,6 +135,22 @@
       "duration_ms": 188000,
       "name": "TALK DOWN",
       "url": "https://open.spotify.com/track/707TyT8EitPzFF6EyXVCrI"
+    },
+    {
+      "added_at": "2025-03-30 09:05:07",
+      "album": {
+        "name": "PMO",
+        "url": "https://open.spotify.com/album/5uSvNfwYWKsYsK3SE3CQWS"
+      },
+      "artists": [
+        {
+          "name": "Civ",
+          "url": "https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "PMO",
+      "url": "https://open.spotify.com/track/2aE2IWHFmvSglpXvsuvyXu"
     },
     {
       "added_at": "2025-03-28 23:05:05",
@@ -267,6 +299,22 @@
       "duration_ms": 188013,
       "name": "Panic",
       "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
+    },
+    {
+      "added_at": "2025-03-30 22:04:31",
+      "album": {
+        "name": "Whiplash (English Version)",
+        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash (English Version)",
+      "url": "https://open.spotify.com/track/4YHeXM7mgLvxpvaUGnybGK"
     },
     {
       "added_at": "2025-03-27 23:04:24",
@@ -771,54 +819,6 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-03-21 19:03:36",
-      "album": {
-        "name": "Ran Out",
-        "url": "https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 142768,
-      "name": "Ran Out",
-      "url": "https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk"
-    },
-    {
-      "added_at": "2025-03-22 19:04:08",
-      "album": {
-        "name": "Balcony",
-        "url": "https://open.spotify.com/album/6SOaIyj4IOM9ZlmIdTuKCC"
-      },
-      "artists": [
-        {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
-        }
-      ],
-      "duration_ms": 163721,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/7cUPAbH6B8h0iSyxZ1B1zS"
-    },
-    {
-      "added_at": "2025-03-22 09:04:00",
-      "album": {
-        "name": "luv this feeling",
-        "url": "https://open.spotify.com/album/1cyKUAvN138kaF4uGGHnWP"
-      },
-      "artists": [
-        {
-          "name": "1oneam",
-          "url": "https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv"
-        }
-      ],
-      "duration_ms": 93805,
-      "name": "luv this feeling",
-      "url": "https://open.spotify.com/track/1zdKJi5A8h86jHXK2jNfPZ"
     }
   ],
   "unique_name": "New Singles Now",

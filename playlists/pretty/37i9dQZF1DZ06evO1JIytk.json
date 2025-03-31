@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAAAGMDJ/ETD6P5p+1Elh6KqI",
+  "snapshot_id": "Z+c4AAAAAACShJmv3XQBQhOtK2A3E6gE",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Racists",
+      "url": "https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Spring",
         "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 210306,
       "name": "Brandenburg Gate",
       "url": "https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Racists",
-      "url": "https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt"
     },
     {
       "added_at": null,

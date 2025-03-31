@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: IKARVS",
-  "num_followers": 22089,
+  "num_followers": 22090,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-03-27 23:00:25",
       "album": {
+        "name": "Sad But True",
+        "url": "https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM"
+    },
+    {
+      "added_at": "2025-03-27 23:00:25",
+      "album": {
         "name": "modlitwa",
         "url": "https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN"
       },
@@ -759,6 +775,22 @@
     {
       "added_at": "2025-03-27 23:00:25",
       "album": {
+        "name": "Warszawa",
+        "url": "https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 234264,
+      "name": "Warszawa",
+      "url": "https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi"
+    },
+    {
+      "added_at": "2025-03-27 23:00:25",
+      "album": {
         "name": "Ty to Ja",
         "url": "https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 213818,
       "name": "Ty to Ja",
       "url": "https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6"
-    },
-    {
-      "added_at": "2025-03-27 23:00:25",
-      "album": {
-        "name": "Sad But True",
-        "url": "https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL"
-      },
-      "artists": [
-        {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Sad But True",
-      "url": "https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM"
-    },
-    {
-      "added_at": "2025-03-27 23:00:25",
-      "album": {
-        "name": "Warszawa",
-        "url": "https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 234264,
-      "name": "Warszawa",
-      "url": "https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi"
     },
     {
       "added_at": "2025-03-27 23:00:25",

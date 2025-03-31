@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V?si=qWQfpmFCRbGTazBKW4yHxg">tan sholto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,552 likes - 124 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,551 likes - 124 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,12 +97,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 87 | [Secrets](https://open.spotify.com/track/00LGzFI1sjScDrOFHwWMHx) | [Bam Bam Brown](https://open.spotify.com/artist/5P3TMf58goWkcj5wUJKKGy) | [Secrets](https://open.spotify.com/album/6Fdr04YndoOoWd3P7sr4Na) | 4:23 |
 | 88 | [Eat You Up](https://open.spotify.com/track/5Jfh0EBXSFeoMCFG28Ekx7) | [Joneaux](https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv) | [Eat You Up](https://open.spotify.com/album/6cj7vtmOQrzSmZ3RwYdx5v) | 1:50 |
 | 89 | [Spirited Boy](https://open.spotify.com/track/6t1bhrMaQ6lRNNUWJEjP8Y) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Spirited Boy](https://open.spotify.com/album/4rhBdIyqWqXCpzKpq5y0oo) | 3:42 |
-| 90 | [Running To You](https://open.spotify.com/track/5gQS9fLQ9g4Rc3elzDdRP9) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Running To You](https://open.spotify.com/album/2c4BnHtRgZVj5IDoFOzdiI) | 3:21 |
-| 91 | [Mood](https://open.spotify.com/track/2578Qrf5xqP9a82DyOlQgJ) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Mood](https://open.spotify.com/album/4BVBc55x4URYz4wLi4RXxV) | 2:59 |
-| 92 | [Over You](https://open.spotify.com/track/3slbgFPGIqBPcQH1gDynB5) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Over You](https://open.spotify.com/album/4QZRQsznUdzpTFeKXb4x95) | 3:28 |
+| 90 | [Over You](https://open.spotify.com/track/3slbgFPGIqBPcQH1gDynB5) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Over You](https://open.spotify.com/album/4QZRQsznUdzpTFeKXb4x95) | 3:28 |
+| 91 | [Running To You](https://open.spotify.com/track/5gQS9fLQ9g4Rc3elzDdRP9) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Running To You](https://open.spotify.com/album/2c4BnHtRgZVj5IDoFOzdiI) | 3:21 |
+| 92 | [Mood](https://open.spotify.com/track/2578Qrf5xqP9a82DyOlQgJ) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Mood](https://open.spotify.com/album/4BVBc55x4URYz4wLi4RXxV) | 2:59 |
 | 93 | [ur so beautiful](https://open.spotify.com/track/0ASAyuTHB3TAxtJujVu0t9) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [adis.](https://open.spotify.com/artist/44EIiaDS5dA1xFse9TmbfW) | [ur so beautiful](https://open.spotify.com/album/6hnYGFbVJlFJjfT8roJeCm) | 3:07 |
-| 94 | [Cinnamon Whiskey](https://open.spotify.com/track/5iLhfhw81hcBloaFpq2QvB) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Cinnamon Whiskey](https://open.spotify.com/album/3wTYz0yTSRJBRvzddhBgUd) | 2:39 |
-| 95 | [UNTIL WE MEET AGAIN](https://open.spotify.com/track/1Nw4bYpkPJIVYU4HBxsWnT) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [UNTIL WE MEET AGAIN](https://open.spotify.com/album/0hml4WNXD4sPex1jNN4Jjz) | 3:09 |
+| 94 | [UNTIL WE MEET AGAIN](https://open.spotify.com/track/1Nw4bYpkPJIVYU4HBxsWnT) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [UNTIL WE MEET AGAIN](https://open.spotify.com/album/0hml4WNXD4sPex1jNN4Jjz) | 3:09 |
+| 95 | [Cinnamon Whiskey](https://open.spotify.com/track/5iLhfhw81hcBloaFpq2QvB) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Cinnamon Whiskey](https://open.spotify.com/album/3wTYz0yTSRJBRvzddhBgUd) | 2:39 |
 | 96 | [Mary Jane](https://open.spotify.com/track/1PGw5vrq068zZ0DdNMDstW) | [Muzzzoh](https://open.spotify.com/artist/5dGFDimZDbExhKao9FzqG9) | [Mary Jane](https://open.spotify.com/album/6Ugs01sOEKzRv8Lrv70M9w) | 2:32 |
 | 97 | [You Can Do It!](https://open.spotify.com/track/36pwYvn0pZknPBDaxI9kPy) | [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [You Can Do It!](https://open.spotify.com/album/0Wbwd4ndK88tTg9RL1tu49) | 4:24 |
 | 98 | [Dance Of Dust](https://open.spotify.com/track/4mfmQTSHJXE3LkEJMFRbr7) | [Nina Kay](https://open.spotify.com/artist/10UUXKtZkwnnLbyEj8YCtt) | [Dance Of Dust](https://open.spotify.com/album/43we7pIPLtEhI8evl32iib) | 2:30 |
@@ -117,15 +117,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 107 | [Same Love](https://open.spotify.com/track/0z7Fjz5tCrZhcnKeNzST5p) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Same Love](https://open.spotify.com/album/6FoxkEyonYt9do47LPc6kc) | 3:34 |
 | 108 | [Torrential](https://open.spotify.com/track/4hFGBfQoyjk1FhvZ8HZqlJ) | [Cara Knox](https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR) | [Torrential](https://open.spotify.com/album/1laoB6Ha6YDaBVdg3gk8kD) | 3:16 |
 | 109 | [First Love](https://open.spotify.com/track/5qG1bS0QJMdBQ7ZWS7ARCx) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [First Love](https://open.spotify.com/album/2JV7DLFUqhL71henfidRcT) | 3:07 |
-| 110 | [Agent of Persuasion](https://open.spotify.com/track/6hHXBPayInBuHinZUO1Tom) | [Ash temple](https://open.spotify.com/artist/4mZSVTZv9nrB1fwBipO5ZD) | [Agent of Persuasion](https://open.spotify.com/album/3v1rgi8pHYxWU8Zdjaeu8i) | 4:31 |
-| 111 | [To Feel Strange](https://open.spotify.com/track/70VFFycKn12NYMMWbRqc7g) | [The Office Koki Club](https://open.spotify.com/artist/0Hwau6CLbJsWOCJHk7hboT) | [To Feel Strange](https://open.spotify.com/album/7xIvaB9waXGdt8uTI83I86) | 4:37 |
-| 112 | [Oh No I'm in Love](https://open.spotify.com/track/3V64DXodINEWxCUylLhlK5) | [Leoné Murphy](https://open.spotify.com/artist/0ScxP19sE2M47pvrhLy3fU) | [Oh No I'm in Love](https://open.spotify.com/album/1zgKL2sH0z2GM92EIAjgpg) | 3:29 |
-| 113 | [Walls](https://open.spotify.com/track/3UM37gkpBZxjLm4A2qDP58) | [Jonny Hayes](https://open.spotify.com/artist/4RscgyBOMvKeYLQ6OOF3sp) | [Walls](https://open.spotify.com/album/1RUQIdCT0UYHXzkVp6EnwC) | 4:47 |
-| 114 | [Teeth](https://open.spotify.com/track/1XBwV3BhiuAH9VYkCUuMLy) | [GAZE](https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7) | [Teeth](https://open.spotify.com/album/24s4moFjVF8bscpV2Yw94X) | 3:57 |
+| 110 | [Teeth](https://open.spotify.com/track/1XBwV3BhiuAH9VYkCUuMLy) | [GAZE](https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7) | [Teeth](https://open.spotify.com/album/24s4moFjVF8bscpV2Yw94X) | 3:57 |
+| 111 | [Agent of Persuasion](https://open.spotify.com/track/6hHXBPayInBuHinZUO1Tom) | [Ash temple](https://open.spotify.com/artist/4mZSVTZv9nrB1fwBipO5ZD) | [Agent of Persuasion](https://open.spotify.com/album/3v1rgi8pHYxWU8Zdjaeu8i) | 4:31 |
+| 112 | [To Feel Strange](https://open.spotify.com/track/70VFFycKn12NYMMWbRqc7g) | [The Office Koki Club](https://open.spotify.com/artist/0Hwau6CLbJsWOCJHk7hboT) | [To Feel Strange](https://open.spotify.com/album/7xIvaB9waXGdt8uTI83I86) | 4:37 |
+| 113 | [Oh No I'm in Love](https://open.spotify.com/track/3V64DXodINEWxCUylLhlK5) | [Leoné Murphy](https://open.spotify.com/artist/0ScxP19sE2M47pvrhLy3fU) | [Oh No I'm in Love](https://open.spotify.com/album/1zgKL2sH0z2GM92EIAjgpg) | 3:29 |
+| 114 | [Walls](https://open.spotify.com/track/3UM37gkpBZxjLm4A2qDP58) | [Jonny Hayes](https://open.spotify.com/artist/4RscgyBOMvKeYLQ6OOF3sp) | [Walls](https://open.spotify.com/album/1RUQIdCT0UYHXzkVp6EnwC) | 4:47 |
 | 115 | [Part of Your Kind](https://open.spotify.com/track/1h83MOXEOMdH3XqhUan5cz) | [Ys Van Die Koud](https://open.spotify.com/artist/2BIUeAfAunTs5fAsR1xaef) | [Ys Up My Sleeve](https://open.spotify.com/album/2i27DOFkKmjWVB5gRYU1vk) | 3:40 |
 | 116 | [glad i didn't die](https://open.spotify.com/track/7lbBI9RWgoY9O26wYQndWU) | [BOLEYN](https://open.spotify.com/artist/3ud134vZTGy9JihuGAn8RI) | [glad i didn't die](https://open.spotify.com/album/6hm8j3ze8vQYjupMJPWMlp) | 4:00 |
-| 117 | [Mirror](https://open.spotify.com/track/23QVH6eCYp7JOACnWmXn6c) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/739wi0ab4CutRBydBVtgmW) | 4:56 |
-| 118 | [Part Time Lover](https://open.spotify.com/track/600oNxo6gY5I37cbZhQ9IM) | [Joshua Beaches](https://open.spotify.com/artist/2rtnlkY9uRaEKtlZBs56fF) | [Part Time Lover](https://open.spotify.com/album/37vX3U9MZ0daA5hbYXr37T) | 4:36 |
+| 117 | [Part Time Lover](https://open.spotify.com/track/600oNxo6gY5I37cbZhQ9IM) | [Joshua Beaches](https://open.spotify.com/artist/2rtnlkY9uRaEKtlZBs56fF) | [Part Time Lover](https://open.spotify.com/album/37vX3U9MZ0daA5hbYXr37T) | 4:36 |
+| 118 | [Mirror](https://open.spotify.com/track/23QVH6eCYp7JOACnWmXn6c) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/739wi0ab4CutRBydBVtgmW) | 4:56 |
 | 119 | [u know about it](https://open.spotify.com/track/0oF06SeT3eG44fqHQGLyLT) | [Taking Back March](https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq) | [u know about it](https://open.spotify.com/album/7MEbiJq82JKpOfs78gr4yr) | 3:28 |
 | 120 | [July](https://open.spotify.com/track/2fOLwJnT73maHejedOc4xs) | [GAZE](https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7) | [July](https://open.spotify.com/album/2GlUguLaugvNPQOHKCVre1) | 3:58 |
 | 121 | [Losing You](https://open.spotify.com/track/5MaLNx6cWCAZiOEJJzz85X) | [Muzzzoh](https://open.spotify.com/artist/5dGFDimZDbExhKao9FzqG9) | [Going Back](https://open.spotify.com/album/0vJT1cYwLLcMynyZcWsK4E) | 2:44 |

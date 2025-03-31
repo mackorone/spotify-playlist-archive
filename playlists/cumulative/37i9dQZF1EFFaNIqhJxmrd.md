@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 5 hr 45 min
+116 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Imposter Syndrome](https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 | 2024-01-29 |  |
 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 | 2024-12-11 |  |
 | [Ingenting har gjort så ont](https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:26 | 2024-01-29 |  |
-| [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 | 2025-01-28 |  |
+| [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 | 2025-01-28 | 2025-03-31 |
+| [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/5BCP1OvZ2MRDVJbRafIgtS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:28 | 2025-03-30 |  |
 | [Jealous \(feat\. Harper\)](https://open.spotify.com/track/077qQHjUTzQVDbhWjDzSoz) | [TRXD](https://open.spotify.com/artist/29JlvmcJaB2Iv1dQZ8Jd8F), [Harper](https://open.spotify.com/artist/0nLSQ7A3JaZfFTH0D4381m) | [Jealous \(feat\. Harper\)](https://open.spotify.com/album/7ABu6SQQwNvzOTSE6gRUEu) | 3:11 | 2024-01-29 |  |
 | [Kids On The Run](https://open.spotify.com/track/1KlMVhdZocTOtVd8YEQ1IO) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Kids On The Run](https://open.spotify.com/album/433AXIDMBatkEVdvSJ39ut) | 3:29 | 2024-01-29 |  |
 | [Kokain](https://open.spotify.com/track/56QJ0BBPhIGmBIzRX7C9pl) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:53 | 2024-01-29 |  |
@@ -78,7 +79,8 @@
 | [late night thoughts](https://open.spotify.com/track/7EU53emZ1UfKMLULJmWr1J) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:25 | 2024-01-29 |  |
 | [Like You](https://open.spotify.com/track/43UyWO6ngUld3xcjYl5XRR) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/2I3nYpvclZVh4kMB7pzaRS) | 3:24 | 2024-10-17 |  |
 | [Like You](https://open.spotify.com/track/60B6GgDJmbHH9OCEb4Ltdq) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/4VQuG8kX3s0Oo1VSGdtXQs) | 3:24 | 2024-01-29 | 2024-10-18 |
-| [Ljuger för mig själv](https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Ljuger för mig själv](https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP) | 2:08 | 2024-11-09 |  |
+| [Ljuger för mig själv](https://open.spotify.com/track/3zCm30Ye2uvSnny2TlIddt) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:08 | 2025-03-30 |  |
+| [Ljuger för mig själv](https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Ljuger för mig själv](https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP) | 2:08 | 2024-11-09 | 2025-03-31 |
 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 | 2024-01-29 |  |
 | [Love Is Lonely](https://open.spotify.com/track/4IAjCbrxOPyfMqbVasSjwc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:17 | 2024-08-23 |  |
 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 | 2024-01-29 |  |

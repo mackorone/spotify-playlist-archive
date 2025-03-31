@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147853,
+      "name": "Cajun Moon",
+      "url": "https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj"
+    },
+    {
+      "album": {
         "name": "Live from Madison Square Garden",
         "url": "https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH"
       },
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 139373,
       "name": "Rock And Roll Records",
       "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"

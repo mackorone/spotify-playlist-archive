@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5bwJ1FHFe.md) - [plain]
 
 > Soft rain for restful sleeping
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,184 likes - 200 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,267 likes - 200 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5bwJ1FHFe.md) - [plain]
 | 37 | [rain in stavanger](https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in stavanger](https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m) | 3:28 |
 | 38 | [Cozier Rain](https://open.spotify.com/track/0RQktlGrRK4m19H85ILLTO) | [Aqualogic](https://open.spotify.com/artist/4LiP2v7wfqtd3lLZta08UP) | [Late Night Drizzle](https://open.spotify.com/album/11GgUitOEBUhUysI0cdec6) | 2:14 |
 | 39 | [Relaxing Sleep Ambience](https://open.spotify.com/track/0dUMBi3YvpnfxOshM783xa) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Garden Rain](https://open.spotify.com/album/2B422CHROjn9jI9YjumQbH) | 3:01 |
-| 40 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 |
-| 41 | [Blu Droplets](https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Blu Droplets](https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S) | 3:34 |
-| 42 | [Safe Rain](https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt) | [AEON](https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk) | [Empty Rain](https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y) | 2:04 |
+| 40 | [Blu Droplets](https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Blu Droplets](https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S) | 3:34 |
+| 41 | [Safe Rain](https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt) | [AEON](https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk) | [Empty Rain](https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y) | 2:04 |
+| 42 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 |
 | 43 | [Rain in Prague](https://open.spotify.com/track/04q8CLzn8RIOtHFaJFH09X) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr) | 3:30 |
 | 44 | [Raining Coma](https://open.spotify.com/track/3Iz6G9HAuoh31yBriwzMMw) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Heavy Due](https://open.spotify.com/album/3RcTFyLySVy1aRt1ah2Ytx) | 3:00 |
 | 45 | [Stetiger Regen](https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO) | [Die ganze Nacht](https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl) | [Regen die ganze Nacht](https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s) | 2:11 |
@@ -184,14 +184,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5bwJ1FHFe.md) - [plain]
 | 174 | [Falling Rain](https://open.spotify.com/track/4iTua1XyulvzNnL1gaWZkm) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 4:01 |
 | 175 | [Rain In The Dock](https://open.spotify.com/track/5sAWwesBEzl003BnJiThr0) | [The Sleep & Focus Group](https://open.spotify.com/artist/1yo94DHAgjAgdDZg3gc8af) | [The Sleep & Focus Group](https://open.spotify.com/album/69CLx438sfU15q6FGLPcMs) | 3:56 |
 | 176 | [Rain After The Storm](https://open.spotify.com/track/6INpACWuzfVytMrEJByyhc) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Scandinavian Rain](https://open.spotify.com/album/1KYpqdkgChN7cRPriZTDFJ) | 2:49 |
-| 177 | [Morning Rain](https://open.spotify.com/track/5imJcc13Fu59LGcxQKhQtp) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 3:06 |
-| 178 | [Regnljud](https://open.spotify.com/track/5mBKVM21lALtJgUz0viYbl) | [Bad Weather Forecast](https://open.spotify.com/artist/4cSSlFZVzDr6U2JbKiaqVs) | [Sleeping Sounds](https://open.spotify.com/album/0I7MgTcuGhEDJ4W80dmcIC) | 2:37 |
-| 179 | [Rainy Day](https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 5:22 |
-| 180 | [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 |
-| 181 | [moody state](https://open.spotify.com/track/3B0qn6IA4pDe4uy9HHJ4hd) | [lumen](https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu) | [rainy day therapy](https://open.spotify.com/album/1vfbNsnUdawhLdJyrvZiYJ) | 3:44 |
-| 182 | [Relax, It’s Raining](https://open.spotify.com/track/2xIrVdhiBGroHmUCsskMPG) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 |
-| 183 | [Rain For Sleep](https://open.spotify.com/track/6wT1d9zlFGhO1zQkJWKHZM) | [School of Rain](https://open.spotify.com/artist/2OLA6J4qX4gsVVKnmDVumf) | [Rain Sounds](https://open.spotify.com/album/4XwvhenBWUTg0M6YsUIWcF) | 3:33 |
-| 184 | [Morning Rain](https://open.spotify.com/track/6ZWHkhgj0Q8sf1x6jzSGNf) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Nature's Rain](https://open.spotify.com/album/5AcfrjqA4vnBfkvXV4yKe8) | 3:08 |
+| 177 | [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 |
+| 178 | [Morning Rain](https://open.spotify.com/track/5imJcc13Fu59LGcxQKhQtp) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 3:06 |
+| 179 | [Regnljud](https://open.spotify.com/track/5mBKVM21lALtJgUz0viYbl) | [Bad Weather Forecast](https://open.spotify.com/artist/4cSSlFZVzDr6U2JbKiaqVs) | [Sleeping Sounds](https://open.spotify.com/album/0I7MgTcuGhEDJ4W80dmcIC) | 2:37 |
+| 180 | [moody state](https://open.spotify.com/track/3B0qn6IA4pDe4uy9HHJ4hd) | [lumen](https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu) | [rainy day therapy](https://open.spotify.com/album/1vfbNsnUdawhLdJyrvZiYJ) | 3:44 |
+| 181 | [Relax, It’s Raining](https://open.spotify.com/track/2xIrVdhiBGroHmUCsskMPG) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 |
+| 182 | [Rain For Sleep](https://open.spotify.com/track/6wT1d9zlFGhO1zQkJWKHZM) | [School of Rain](https://open.spotify.com/artist/2OLA6J4qX4gsVVKnmDVumf) | [Rain Sounds](https://open.spotify.com/album/4XwvhenBWUTg0M6YsUIWcF) | 3:33 |
+| 183 | [Morning Rain](https://open.spotify.com/track/6ZWHkhgj0Q8sf1x6jzSGNf) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Nature's Rain](https://open.spotify.com/album/5AcfrjqA4vnBfkvXV4yKe8) | 3:08 |
+| 184 | [Rainy Day](https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 5:22 |
 | 185 | [Deep Sleep Rain](https://open.spotify.com/track/5pw1sVck5W8BQ31gCHrips) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 |
 | 186 | [Deep Sleep](https://open.spotify.com/track/7dHr133ktmzImMTGvCgzXs) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Relajante](https://open.spotify.com/album/3W7iJMFNBgaprQDVLIIkHd) | 2:56 |
 | 187 | [Ambient Rain](https://open.spotify.com/track/4HgrTAqOd1cc5VGoq6j0m7) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Gentle Rains](https://open.spotify.com/album/2gjjR6rmLktToYJtGmjHEs) | 2:40 |

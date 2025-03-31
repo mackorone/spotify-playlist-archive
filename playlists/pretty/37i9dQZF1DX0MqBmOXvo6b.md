@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 
 > Concéntrate al máximo, sin distracciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,280 likes - 223 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,308 likes - 223 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,9 +214,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 204 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 |
 | 205 | [Minorities](https://open.spotify.com/track/0WGxduCskRMRz2sBkHgpDg) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Minorities](https://open.spotify.com/album/48ludebOOiB7RpPpgtEhxs) | 2:49 |
 | 206 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 |
-| 207 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 |
-| 208 | [above the world](https://open.spotify.com/track/6rgvIxOgJNNaQrIDPt0C1n) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [above the world](https://open.spotify.com/album/0NFfAEcHOvTRfrciO3WGqT) | 2:26 |
-| 209 | [A Brighter Future](https://open.spotify.com/track/02mGLexrQiaZGpg9oV737j) | [Celesete Cooper](https://open.spotify.com/artist/6jmxsGLj7q0TnovfN32GUT) | [A Brighter Future](https://open.spotify.com/album/6mFYBZojwGTAiauZGEvHDc) | 2:08 |
+| 207 | [above the world](https://open.spotify.com/track/6rgvIxOgJNNaQrIDPt0C1n) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [above the world](https://open.spotify.com/album/0NFfAEcHOvTRfrciO3WGqT) | 2:26 |
+| 208 | [A Brighter Future](https://open.spotify.com/track/02mGLexrQiaZGpg9oV737j) | [Celesete Cooper](https://open.spotify.com/artist/6jmxsGLj7q0TnovfN32GUT) | [A Brighter Future](https://open.spotify.com/album/6mFYBZojwGTAiauZGEvHDc) | 2:08 |
+| 209 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 |
 | 210 | [Les passions](https://open.spotify.com/track/5eVSECRwlo8dpiAVWZImDs) | [Gianfranco Abate](https://open.spotify.com/artist/0LY1eNeWoYUJ9kwockmS2t) | [Les passions](https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh) | 2:34 |
 | 211 | [Tuscan Nights](https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R) | [Mads Alter](https://open.spotify.com/artist/5EkUhnSLb0Wt2DklMJbIuf) | [Tuscan Nights](https://open.spotify.com/album/0NM3BPkYwqktJ5Lk8VCLMe) | 3:02 |
 | 212 | [Fairy Pools](https://open.spotify.com/track/02jSeRZPyBoysGlvsnFe7N) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:40 |

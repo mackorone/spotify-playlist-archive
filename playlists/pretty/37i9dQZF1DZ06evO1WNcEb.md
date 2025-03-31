@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,982 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,979 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [Ele Vem](https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Ele Vem](https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0) | 6:43 |
 | 50 | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/album/3DeAUGWcyPL0iLtDaObm4o) | 4:05 |
 
-Snapshot ID: `Z+XmgAAAAADsjJVUOkS5x9Mhe4oRhVpd`
+Snapshot ID: `Z+c4AAAAAAB4jsaIx8MDUQb4juPuDzDA`

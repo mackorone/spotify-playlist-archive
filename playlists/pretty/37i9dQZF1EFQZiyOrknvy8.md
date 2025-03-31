@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 128 | [Wiedersehen](https://open.spotify.com/track/5k7tMgpIMQxhao6NA5ZbLG) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:23 |
 | 129 | [Mallory Knox](https://open.spotify.com/track/0SLprHTJbp3i1FK0YFKsMG) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 3:23 |
 | 130 | [Gut soweit](https://open.spotify.com/track/6gS1Q6jG6BQ5aNvseKZjic) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:21 |
-| 131 | [LiqLiq Boom](https://open.spotify.com/track/3h3h2aYoI5J64kyS45pmTl) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 3:17 |
-| 132 | [Tam Alman](https://open.spotify.com/track/1qUQYitRlFzb3Xso5z7RP4) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 2:49 |
+| 131 | [Tam Alman](https://open.spotify.com/track/1qUQYitRlFzb3Xso5z7RP4) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 2:49 |
+| 132 | [LiqLiq Boom](https://open.spotify.com/track/3h3h2aYoI5J64kyS45pmTl) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 3:17 |
 | 133 | [Sturm](https://open.spotify.com/track/6GLd9U2cXZetuQDhtYfdJU) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:55 |
 | 134 | [ich hasse dich](https://open.spotify.com/track/2JLZAtFOW9jTDHN1r9rlQI) | [youareslowlykillingme](https://open.spotify.com/artist/1OO6NNsMdnnZqjFPKaIiZp) | [ich hasse dich](https://open.spotify.com/album/76ABHtDaeYPnY1zpefPGR7) | 2:24 |
 | 135 | [Highride](https://open.spotify.com/track/5tndemWuouLfRPAtjfOPJj) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 2:59 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 155 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 156 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbtYSgAAAACMxw9q/P+Y5GOEOImlK4Um`
+Snapshot ID: `AbteEgAAAACUlMVgIBNlfJ5RpPElG1yr`

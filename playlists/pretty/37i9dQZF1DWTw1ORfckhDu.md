@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Leyla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,431 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,432 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paras virhe](https://open.spotify.com/track/1pNnC5KyzcAyMcIBJXgUBU) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Paras virhe](https://open.spotify.com/album/2By3JFuQSEAPTJmIs7G1aQ) | 3:02 |
-| 2 | [Koodisto \(feat\. Turisti\)](https://open.spotify.com/track/449scioK4oof2kJteHAIyh) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Koodisto \(feat\. Turisti\)](https://open.spotify.com/album/3kILLjHOSPUXxdNEw4Ryfe) | 2:34 |
-| 3 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
-| 4 | [Ei kertsii \(feat\. ibe\)](https://open.spotify.com/track/4CE08Ci8QqNkLcuxTYat13) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ei kertsii \(feat\. ibe\)](https://open.spotify.com/album/04FHwm7U7mkN6kfU4PgLUU) | 3:29 |
-| 5 | [DIANA](https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [DIANA](https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo) | 2:26 |
-| 6 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
-| 7 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
-| 8 | [Kuka on vastuus?](https://open.spotify.com/track/2NO3NqzOQqtlOgQY4URkMC) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Kuka on vastuus?](https://open.spotify.com/album/5H3b6G0Zdf9yKMfDdWjFRY) | 2:32 |
-| 9 | [Jiihaa](https://open.spotify.com/track/1yUcUd0oZ5wZZmKj0LmqrK) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Jiihaa](https://open.spotify.com/album/7JU8ZzL385P0HKTHE6mLiG) | 2:43 |
-| 10 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
-| 11 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 |
+| 1 | [Koodisto \(feat\. Turisti\)](https://open.spotify.com/track/449scioK4oof2kJteHAIyh) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Koodisto \(feat\. Turisti\)](https://open.spotify.com/album/3kILLjHOSPUXxdNEw4Ryfe) | 2:34 |
+| 2 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
+| 3 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 4 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
+| 5 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
+| 6 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 |
+| 7 | [Paras virhe](https://open.spotify.com/track/1pNnC5KyzcAyMcIBJXgUBU) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Paras virhe](https://open.spotify.com/album/2By3JFuQSEAPTJmIs7G1aQ) | 3:02 |
+| 8 | [Ei kertsii \(feat\. ibe\)](https://open.spotify.com/track/4CE08Ci8QqNkLcuxTYat13) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ei kertsii \(feat\. ibe\)](https://open.spotify.com/album/04FHwm7U7mkN6kfU4PgLUU) | 3:29 |
+| 9 | [DIANA](https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [DIANA](https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo) | 2:26 |
+| 10 | [Kuka on vastuus?](https://open.spotify.com/track/2NO3NqzOQqtlOgQY4URkMC) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Kuka on vastuus?](https://open.spotify.com/album/5H3b6G0Zdf9yKMfDdWjFRY) | 2:32 |
+| 11 | [Jiihaa](https://open.spotify.com/track/1yUcUd0oZ5wZZmKj0LmqrK) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Jiihaa](https://open.spotify.com/album/7JU8ZzL385P0HKTHE6mLiG) | 2:43 |
 | 12 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
 | 13 | [Elämä kantaa sua](https://open.spotify.com/track/0jYRN6OZ4CbJd37zpW9cyE) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Maailman reunalla](https://open.spotify.com/album/01Rm1ME5b9Hc9UaimHFXCI) | 3:15 |
 | 14 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Rockstar](https://open.spotify.com/track/1o07xfumEmwE01GeYCFz1w) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Rockstar](https://open.spotify.com/album/4qh0oqh6tSVZmgK5fEtoGM) | 3:00 |
 | 50 | [HAAVERI](https://open.spotify.com/track/43abPnVxTyDK7rg5EDXWKc) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [SEPPO MIXTAPE](https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g) | 2:37 |
 
-Snapshot ID: `Z+XKogAAAABU/1HOwE+AQ2RnFarNGzp3`
+Snapshot ID: `Z+mFuQAAAAAjiMeNMR88eB1v8ea4//C/`

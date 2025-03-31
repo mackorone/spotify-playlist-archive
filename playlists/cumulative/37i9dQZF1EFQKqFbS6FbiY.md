@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-607 songs - 1 day 5 hr 32 min
+608 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,8 @@
 | [Mãe Solteira \- Ao Vivo](https://open.spotify.com/track/4jh3lLJpuUveF0aiUcrecc) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 3:09 | 2023-12-30 |  |
 | [Na Cama Maltrata](https://open.spotify.com/track/4ePDqyOoDD2Z4v3p2T8qGM) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Na Cama Maltrata](https://open.spotify.com/album/3TnkcAVV7otJ0VeKRa5wid) | 3:01 | 2023-12-30 |  |
 | [Na Moral](https://open.spotify.com/track/4C0yPPCSSA34OyBPzkjIUt) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Na Moral](https://open.spotify.com/album/1KcKAyYOBkNTsHq8N5JJJY) | 3:02 | 2023-12-30 |  |
-| [Nada](https://open.spotify.com/track/5sOOi16X9RoSxPMTIQ5GxA) | [Oh! Romeo](https://open.spotify.com/artist/7KQbGVjQiKZC8xXGvDtNHA) | [La mañana](https://open.spotify.com/album/1WMioOpHEbc8fuV67lW1mY) | 2:26 | 2023-12-30 |  |
+| [Nada](https://open.spotify.com/track/5XDPRVKFwsAaZDTG0Vlutw) | [Oh! Romeo](https://open.spotify.com/artist/7KQbGVjQiKZC8xXGvDtNHA) | [La mañana](https://open.spotify.com/album/1A1pCqF5m2piQNzfVbw09s) | 2:26 | 2025-03-30 |  |
+| [Nada](https://open.spotify.com/track/5sOOi16X9RoSxPMTIQ5GxA) | [Oh! Romeo](https://open.spotify.com/artist/7KQbGVjQiKZC8xXGvDtNHA) | [La mañana](https://open.spotify.com/album/1WMioOpHEbc8fuV67lW1mY) | 2:26 | 2023-12-30 | 2025-03-31 |
 | [Namora Comigo](https://open.spotify.com/track/1bWvbOgA5ZWT9izf0nX7JY) | [Lucas & Vinícius](https://open.spotify.com/artist/4mgDWGV3CxAyE8nvQvANuE), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Namora Comigo](https://open.spotify.com/album/4yS6oEGm7qyyYK2PS5xtUO) | 2:56 | 2023-12-30 |  |
 | [Negociando o Fim](https://open.spotify.com/track/5IUB06VcigEHjYWRyhMqtL) | [Rodrigo Freitas](https://open.spotify.com/artist/3wB9jAUYvJVcOHJLda8twf) | [Lista de Transmissão](https://open.spotify.com/album/4OEEYhZxr2pvFpMJi9yIBC) | 2:43 | 2023-12-30 |  |
 | [Neide \- Ao Vivo](https://open.spotify.com/track/4uOdxmIpl4MhCBJs9hNrE9) | [Pedro Motta e Henrique](https://open.spotify.com/artist/0oCIFyJNwJen2o09bwpy8K), [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Nú Haras \- Ep1 \(ao Vivo\)](https://open.spotify.com/album/4sdwr83eTU1584CH4w3czQ) | 2:38 | 2023-12-30 |  |

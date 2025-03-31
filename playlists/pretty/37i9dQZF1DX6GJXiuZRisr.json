@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1598727,
+  "num_followers": 1598862,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-03-28 04:00:34",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 169528,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
-    },
-    {
-      "added_at": "2025-03-28 04:00:34",
-      "album": {
         "name": "Every Breath",
         "url": "https://open.spotify.com/album/4UUnFvSEbJhp6Tyuut9ncu"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 205440,
       "name": "Every Breath",
       "url": "https://open.spotify.com/track/6mTWTcuOnCGktsCXeCEEjK"
+    },
+    {
+      "added_at": "2025-03-28 04:00:34",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 169528,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
       "added_at": "2025-03-28 04:00:34",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-03-28 04:00:34",
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/4nFSITI81LYuC5TCeaEjDT"
-    },
-    {
-      "added_at": "2025-03-28 04:00:34",
-      "album": {
         "name": "I Need A Miracle",
         "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
       },
@@ -1343,6 +1327,42 @@
       "duration_ms": 193353,
       "name": "I Need A Miracle",
       "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
+    },
+    {
+      "added_at": "2025-03-28 04:00:34",
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/4nFSITI81LYuC5TCeaEjDT"
+    },
+    {
+      "added_at": "2025-03-28 04:00:34",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2025-03-28 04:00:34",
@@ -1431,42 +1451,6 @@
     {
       "added_at": "2025-03-28 04:00:34",
       "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
-    },
-    {
-      "added_at": "2025-03-28 04:00:34",
-      "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 720000,
-      "name": "Re_Jaded",
-      "url": "https://open.spotify.com/track/5HDn8fl53QzZxejNpx1q9w"
-    },
-    {
-      "added_at": "2025-03-28 04:00:34",
-      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 245624,
       "name": "Yumi - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
+    },
+    {
+      "added_at": "2025-03-28 04:00:34",
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 720000,
+      "name": "Re_Jaded",
+      "url": "https://open.spotify.com/track/5HDn8fl53QzZxejNpx1q9w"
     },
     {
       "added_at": "2025-03-28 04:00:34",

@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 209100,
       "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
       "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 203349,
       "name": "Delete Ya",
       "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Pacific",
+        "url": "https://open.spotify.com/album/0aXxE3f2pCjvN1A6vEXMqT"
+      },
+      "artists": [
+        {
+          "name": "Science Noodles",
+          "url": "https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224947,
+      "name": "Samba Love",
+      "url": "https://open.spotify.com/track/1hcEue7ZkwNYa7FohZQ8uC"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -1018,10 +1036,28 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-31",
       "duration_ms": 162165,
       "name": "Tallinn",
       "url": "https://open.spotify.com/track/3jXXnHujoTjC4lnr3jUY1w"
+    },
+    {
+      "album": {
+        "name": "Telepono",
+        "url": "https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo"
+      },
+      "artists": [
+        {
+          "name": "ONE CLICK STRAIGHT",
+          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
+        }
+      ],
+      "date_added": "2025-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Telepono",
+      "url": "https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71"
     },
     {
       "album": {
@@ -1252,7 +1288,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"

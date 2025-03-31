@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 16891,
+  "num_followers": 16903,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -247,38 +247,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
-        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        },
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        }
-      ],
-      "duration_ms": 193547,
-      "name": "SEXTAPE",
-      "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "kolorowe domy",
         "url": "https://open.spotify.com/album/4WrhYd2L5Hj0n83MK4DyPi"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 157331,
       "name": "Lusterka",
       "url": "https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
+        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 193547,
+      "name": "SEXTAPE",
+      "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
+        "name": "ZG\u0141OWY",
+        "url": "https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 228655,
+      "name": "ZG\u0141OWY",
+      "url": "https://open.spotify.com/track/0Xgm5y8d01Jcrob2o7BuFe"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "ZG\u0141OWY",
-        "url": "https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 228655,
-      "name": "ZG\u0141OWY",
-      "url": "https://open.spotify.com/track/0Xgm5y8d01Jcrob2o7BuFe"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "Pierwsza P\u0142yta",
         "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        }
-      ],
-      "duration_ms": 202037,
-      "name": "Sama na planecie",
-      "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
       },
@@ -663,22 +647,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "Czekam na \u015bwit",
-        "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 191103,
-      "name": "Podr\u00f3\u017c w czasie",
-      "url": "https://open.spotify.com/track/48xVwl7mPJMYkppkf7zrqI"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "Ballada o Niej",
         "url": "https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK"
       },
@@ -707,6 +675,38 @@
       "duration_ms": 283577,
       "name": "Warszawa Wschodnia",
       "url": "https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 202037,
+      "name": "Sama na planecie",
+      "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "Czekam na \u015bwit",
+        "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 191103,
+      "name": "Podr\u00f3\u017c w czasie",
+      "url": "https://open.spotify.com/track/48xVwl7mPJMYkppkf7zrqI"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -1527,58 +1527,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
-      },
-      "artists": [
-        {
-          "name": "Tomasz D\u0105browski",
-          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
-        },
-        {
-          "name": "The Individual Beings",
-          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
-        }
-      ],
-      "duration_ms": 338031,
-      "name": "Bonzer",
-      "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
-        "name": "Zero Waste",
-        "url": "https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P"
-      },
-      "artists": [
-        {
-          "name": "Szymon Zawodny Quintet",
-          "url": "https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Morning Sea",
-      "url": "https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1603,6 +1551,58 @@
       "duration_ms": 577993,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
+      },
+      "artists": [
+        {
+          "name": "Tomasz D\u0105browski",
+          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
+        },
+        {
+          "name": "The Individual Beings",
+          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
+        }
+      ],
+      "duration_ms": 338031,
+      "name": "Bonzer",
+      "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "Zero Waste",
+        "url": "https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P"
+      },
+      "artists": [
+        {
+          "name": "Szymon Zawodny Quintet",
+          "url": "https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Morning Sea",
+      "url": "https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr"
     }
   ],
   "unique_name": "Fryderyk 2025",

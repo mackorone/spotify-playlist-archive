@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,149 likes - 325 songs - 14 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,405 likes - 325 songs - 14 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 49 | [Cozier Rain](https://open.spotify.com/track/0RQktlGrRK4m19H85ILLTO) | [Aqualogic](https://open.spotify.com/artist/4LiP2v7wfqtd3lLZta08UP) | [Late Night Drizzle](https://open.spotify.com/album/11GgUitOEBUhUysI0cdec6) | 2:14 |
 | 50 | [Rainfall Reverberations: Melodic Rain Sounds](https://open.spotify.com/track/20HUGlsJXMHLAXkW5HDoav) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Tranquil Showers: Refreshing Rain Sounds](https://open.spotify.com/album/75Z3imNQxLfriwo9X5iWQv) | 2:30 |
 | 51 | [Relaxing Sleep Ambience](https://open.spotify.com/track/0dUMBi3YvpnfxOshM783xa) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Garden Rain](https://open.spotify.com/album/2B422CHROjn9jI9YjumQbH) | 3:01 |
-| 52 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 |
-| 53 | [Blu Droplets](https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Blu Droplets](https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S) | 3:34 |
+| 52 | [Blu Droplets](https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Blu Droplets](https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S) | 3:34 |
+| 53 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 |
 | 54 | [Searching For Cover](https://open.spotify.com/track/61DyLRwrghWPY9o93BoTNw) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Searching For Cover](https://open.spotify.com/album/5wKxqBdrmequiiLVZaDlg7) | 2:40 |
 | 55 | [Safe Rain](https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt) | [AEON](https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk) | [Empty Rain](https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y) | 2:04 |
 | 56 | [Rain in Prague](https://open.spotify.com/track/04q8CLzn8RIOtHFaJFH09X) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr) | 3:30 |
@@ -221,8 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 211 | [Magic Skies](https://open.spotify.com/track/76AKzeKmKutPgOAjgQBzYx) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Magic Skies](https://open.spotify.com/album/38Qhx2XFJufpeO72WTYrQK) | 3:50 |
 | 212 | [Dream Rain](https://open.spotify.com/track/4nmDCD7xB5mBFsupQxcx8M) | [24H Rain Sounds](https://open.spotify.com/artist/3Gx6UNiTUubJFQzUyUjKQW) | [Dream Rain](https://open.spotify.com/album/1J0soxGBVkV0duPq6dIZ5R) | 2:47 |
 | 213 | [Oneiric Rain](https://open.spotify.com/track/4KVtQrlK6ABMi5UkSuXHBF) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:54 |
-| 214 | [Cosy Storm](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Noise of Water](https://open.spotify.com/artist/72HyAh4s02aVrmIDCDHuBl) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:20 |
-| 215 | [Rumbling](https://open.spotify.com/track/5aHIVNM8mZbJQgkTCEbHLu) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 |
+| 214 | [Rumbling](https://open.spotify.com/track/5aHIVNM8mZbJQgkTCEbHLu) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 |
+| 215 | [Cosy Storm](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Noise of Water](https://open.spotify.com/artist/72HyAh4s02aVrmIDCDHuBl) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:20 |
 | 216 | [Soothing Rain](https://open.spotify.com/track/5JyCrKg7QK1Bf7PugGNy8W) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Calming Rain Sounds](https://open.spotify.com/album/2cvVce7JBqeqyCSHvPSR9g) | 3:04 |
 | 217 | [Thunderstorm In the Forest](https://open.spotify.com/track/3D97oOZdpxItVqFoAwBfYC) | [Weather Watcher](https://open.spotify.com/artist/2wzYCm2bWxypuCR1UzL8Hw) | [Weather Watcher](https://open.spotify.com/album/2Xm7W3aJDAsQPYQD7eDcgC) | 2:34 |
 | 218 | [Heavy Forest Rain](https://open.spotify.com/track/1OuE5GvLhctnSKCdxq6dka) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Forest Rain](https://open.spotify.com/album/1Yo5Dg0KY1Ic4fDOPKYR6s) | 2:49 |
@@ -239,8 +239,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 229 | [Rain Coming Down](https://open.spotify.com/track/24lHr1XxXOxfaHkF7ZR5Zc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [A Stormy Night](https://open.spotify.com/album/6HLYpQwA1LmxmduBYqWfAC) | 3:36 |
 | 230 | [Gute Nacht Regen](https://open.spotify.com/track/59ybuybj11WcV9iujtGBpS) | [Ruhiger Regen](https://open.spotify.com/artist/2yHK2jyCxTblDd5p9KvtLU) | [Gute Nacht Regen](https://open.spotify.com/album/5yLEy4Lt5WqK2QYbgVA2k3) | 2:03 |
 | 231 | [Light Rain \- Distant Thunder](https://open.spotify.com/track/3Cs5FEzThXXBVwavjW2DaX) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 2:58 |
-| 232 | [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 |
-| 233 | [Rainy Alley](https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 3:00 |
+| 232 | [Rainy Alley](https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 3:00 |
+| 233 | [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 |
 | 234 | [Mindful Rain](https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ) | [Dreamy Drops](https://open.spotify.com/artist/6Ml1Yweh4BCb2qGIi9NGp2) | [Mindful Rain](https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh) | 2:48 |
 | 235 | [Rain](https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6) | [New Sounds Of Nature](https://open.spotify.com/artist/5U4BDAMefQlcNIp9OaEbQa) | [New Sounds Of Nature](https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy) | 2:22 |
 | 236 | [A Rainy Day At The Park](https://open.spotify.com/track/3GIlON6gSvqaNJYm87uWsM) | [Waters Of Deluge](https://open.spotify.com/artist/0WOVfUGhrR6cXub2J4wz10) | [Park And Nature Rains](https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT) | 2:48 |
@@ -317,8 +317,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 307 | [Neighborhood Rain](https://open.spotify.com/track/3UXRdoAEg4rM51dYaB95nM) | [NOZ](https://open.spotify.com/artist/73IhlyQu5jyVJuCMUGdDF3) | [Splash n Dash](https://open.spotify.com/album/6lQewyi6CZEVNokROU7bSj) | 2:40 |
 | 308 | [Santa Rosa](https://open.spotify.com/track/4WUknVj32CkjuRtNelRm8l) | [Brisa Matinal](https://open.spotify.com/artist/1DXZ1YHbVYMnaiBKoqiBqd) | [Santa Rosa](https://open.spotify.com/album/6JFU8X93Atd9FCMO2Sy0yW) | 2:47 |
 | 309 | [Cloudrunner](https://open.spotify.com/track/6iUnKEbLtm1CFrchovbx2D) | [Majestik](https://open.spotify.com/artist/4yiEWZ9B3XrSXHBxWbnfqT) | [Cloudrunner](https://open.spotify.com/album/5tjrixSgphGXHa6CfFRjCF) | 2:50 |
-| 310 | [Nocturne Rain](https://open.spotify.com/track/1mOkjs4DIuCQg6qmAxttyW) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Holiday Hickups](https://open.spotify.com/album/5fII6wLUclWST4r5J9vWxo) | 2:25 |
-| 311 | [Fuerte lluvia y trueno](https://open.spotify.com/track/226PADyAAd84tELtUrT4No) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Lluvia ligera y truenos](https://open.spotify.com/album/09x9KnmIyjuZYwZMC5I8Eu) | 2:19 |
+| 310 | [Fuerte lluvia y trueno](https://open.spotify.com/track/226PADyAAd84tELtUrT4No) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Lluvia ligera y truenos](https://open.spotify.com/album/09x9KnmIyjuZYwZMC5I8Eu) | 2:19 |
+| 311 | [Nocturne Rain](https://open.spotify.com/track/1mOkjs4DIuCQg6qmAxttyW) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Holiday Hickups](https://open.spotify.com/album/5fII6wLUclWST4r5J9vWxo) | 2:25 |
 | 312 | [Hällregn](https://open.spotify.com/track/2HJfk9zFgpCy875kptvbaU) | [Regnar Dahlberg](https://open.spotify.com/artist/7D0QnmeTPHqm3PaKOAIUMs) | [Hällregn](https://open.spotify.com/album/46f4NyBfm3D7y2P3NGsKCL) | 3:14 |
 | 313 | [Japanese Garden Rain](https://open.spotify.com/track/6Th9VRLifyT6FJ3BNTFge7) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Nihon Garden Rain](https://open.spotify.com/album/0ad3J1YO5XhWi1DoBCnZXa) | 2:45 |
 | 314 | [Nemesis](https://open.spotify.com/track/7kyjoTvqu9H0cq7qYXeyMm) | [Lauren Whyatt](https://open.spotify.com/artist/6VrqstTqqTtV7nG13WRvrx) | [Holovid](https://open.spotify.com/album/1XUFL4Zh9itPf7K6aHRvIU) | 2:17 |

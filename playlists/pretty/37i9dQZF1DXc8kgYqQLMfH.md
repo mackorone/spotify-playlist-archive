@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,032 likes - 400 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,052 likes - 400 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,10 +284,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 274 | [hello](https://open.spotify.com/track/7McehAjzhS8bEprBvY9KDJ) | [werklig](https://open.spotify.com/artist/27bOXURlYhViWycg2CYg6r) | [hello](https://open.spotify.com/album/4BY8K9Hr6r1QZHKxg9FYx1) | 1:58 |
 | 275 | [A New Moon](https://open.spotify.com/track/57uL3rfYDL29Z50j5cmNQa) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [A New Moon](https://open.spotify.com/album/7CemiUQuglZbxXy6FGmSZP) | 2:12 |
 | 276 | [Absinth](https://open.spotify.com/track/2j4yK3jY7L8sipeqvgUqt7) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Absinth](https://open.spotify.com/album/4awE5uVPCnR1nZSskH5tch) | 2:19 |
-| 277 | [Shimmer](https://open.spotify.com/track/79FvTJvLURJtsgbaD0JbEx) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Shimmer](https://open.spotify.com/album/2EdLiIm0Gr8wkimnQJwtvX) | 2:48 |
-| 278 | [timelines](https://open.spotify.com/track/2LjJ2TIZe9mz4POiqUyxif) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [timelines](https://open.spotify.com/album/4v2m6YNbwMtzWDPo4uav5N) | 2:04 |
-| 279 | [To The Wind](https://open.spotify.com/track/7taHveMP7mwK40qDQhMwzC) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [To The Wind](https://open.spotify.com/album/31JdcI3X2p0mLcponFQWE8) | 2:42 |
-| 280 | [Hifi Lofi](https://open.spotify.com/track/682flrnGXdpKgfVvgdn3YZ) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [Hifi Lofi](https://open.spotify.com/album/0X8i5xKE8jPrd365EP9ji1) | 1:51 |
+| 277 | [Hifi Lofi](https://open.spotify.com/track/682flrnGXdpKgfVvgdn3YZ) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [Hifi Lofi](https://open.spotify.com/album/0X8i5xKE8jPrd365EP9ji1) | 1:51 |
+| 278 | [Shimmer](https://open.spotify.com/track/79FvTJvLURJtsgbaD0JbEx) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Shimmer](https://open.spotify.com/album/2EdLiIm0Gr8wkimnQJwtvX) | 2:48 |
+| 279 | [timelines](https://open.spotify.com/track/2LjJ2TIZe9mz4POiqUyxif) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [timelines](https://open.spotify.com/album/4v2m6YNbwMtzWDPo4uav5N) | 2:04 |
+| 280 | [To The Wind](https://open.spotify.com/track/7taHveMP7mwK40qDQhMwzC) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [To The Wind](https://open.spotify.com/album/31JdcI3X2p0mLcponFQWE8) | 2:42 |
 | 281 | [Getaway Shack](https://open.spotify.com/track/2g5p0HAHft0wEphhZGFrS1) | [Gittiye](https://open.spotify.com/artist/4g4I92b4rKtESZUpNA0w5f) | [Getaway Shack](https://open.spotify.com/album/7hToZsaSWSKNzKYF8hLsFv) | 2:16 |
 | 282 | [soft](https://open.spotify.com/track/1ZfHwFcjHYxic6tiMnXwcG) | [$affie](https://open.spotify.com/artist/3m63AiBD7p1QAVi95d03te) | [soft](https://open.spotify.com/album/4SSDjMU6FNAmkV50GF5f6X) | 1:58 |
 | 283 | [Silence](https://open.spotify.com/track/4ttNvUY7MsacvCSdlRwKSD) | [AWL](https://open.spotify.com/artist/7DYdwCUdpyJMKpaaL1cSBF) | [Silence](https://open.spotify.com/album/2aErA4LHZw9ZBRVQw6xqz9) | 1:58 |

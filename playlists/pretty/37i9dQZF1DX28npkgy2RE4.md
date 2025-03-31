@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,938 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,943 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 141 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 |
 | 142 | [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 |
 | 143 | [Growin' Down](https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Growin' Down](https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9) | 4:16 |
-| 144 | [mud](https://open.spotify.com/track/5irN1VPsOqBPpmyHu8Mh9X) | [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [deer](https://open.spotify.com/album/5hxy6Yf0wLnB106AqTbOC7) | 2:06 |
-| 145 | [Turn Away](https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Turn Away](https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk) | 3:44 |
+| 144 | [Turn Away](https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Turn Away](https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk) | 3:44 |
+| 145 | [mud](https://open.spotify.com/track/5irN1VPsOqBPpmyHu8Mh9X) | [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [deer](https://open.spotify.com/album/5hxy6Yf0wLnB106AqTbOC7) | 2:06 |
 | 146 | [Was Always You](https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj) | [Camille Jansen](https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN) | [Was Always You](https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS) | 3:16 |
 | 147 | [Greatest Weapon](https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Greatest Weapon / Under The Water](https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo) | 2:54 |
 | 148 | [The Weakness in Me](https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:42 |

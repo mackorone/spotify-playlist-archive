@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 216527,
+  "num_followers": 216555,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAADhf/+tTnIvCwds+utQUvfe",
+  "snapshot_id": "Z+c4AAAAAADVIFqEdyT4Ec0aBLOWH8XY",
   "tracks": [
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trill Bill",
-        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 154199,
-      "name": "Cyber Truck",
-      "url": "https://open.spotify.com/track/4DpqKZHmMLx1YN8ieULMp9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hit Stick",
         "url": "https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 193246,
       "name": "Hit Stick",
       "url": "https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 154199,
+      "name": "Cyber Truck",
+      "url": "https://open.spotify.com/track/4DpqKZHmMLx1YN8ieULMp9"
     },
     {
       "added_at": null,
@@ -931,22 +931,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain Snow",
-        "url": "https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t"
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
       },
       "artists": [
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 191598,
-      "name": "Rain Snow",
-      "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K"
     }
   ],
   "unique_name": "This Is Kodak Black",

@@ -1,6 +1,6 @@
 {
   "description": "Beats with a flavour of Jazz.",
-  "num_followers": 76932,
+  "num_followers": 77042,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
@@ -159,26 +159,6 @@
     {
       "added_at": "2025-03-28 13:58:14",
       "album": {
-        "name": "I'm here.",
-        "url": "https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i"
-      },
-      "artists": [
-        {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
-        },
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        }
-      ],
-      "duration_ms": 157508,
-      "name": "I'm here.",
-      "url": "https://open.spotify.com/track/1xC2XNZCIlmfuCDTF9b2bu"
-    },
-    {
-      "added_at": "2025-03-28 13:58:14",
-      "album": {
         "name": "Verdant",
         "url": "https://open.spotify.com/album/1m86OJ9K6rQD4rpJM9aoXx"
       },
@@ -215,22 +195,6 @@
     {
       "added_at": "2025-03-28 13:58:14",
       "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 155558,
-      "name": "Outta Here",
-      "url": "https://open.spotify.com/track/2mcnza8Cwx05ZBnkT39QDQ"
-    },
-    {
-      "added_at": "2025-03-28 13:58:14",
-      "album": {
         "name": "Plage des Casernes",
         "url": "https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX"
       },
@@ -259,6 +223,42 @@
       "duration_ms": 129037,
       "name": "Ocean Ride",
       "url": "https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP"
+    },
+    {
+      "added_at": "2025-03-28 13:58:14",
+      "album": {
+        "name": "I'm here.",
+        "url": "https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "I'm here.",
+      "url": "https://open.spotify.com/track/1xC2XNZCIlmfuCDTF9b2bu"
+    },
+    {
+      "added_at": "2025-03-28 13:58:14",
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 155558,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/2mcnza8Cwx05ZBnkT39QDQ"
     },
     {
       "added_at": "2025-03-28 13:58:14",
@@ -455,46 +455,6 @@
     {
       "added_at": "2025-03-28 13:58:14",
       "album": {
-        "name": "Jezerro",
-        "url": "https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE"
-      },
-      "artists": [
-        {
-          "name": "\u00d8DYSSEE",
-          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
-        },
-        {
-          "name": "delaney.",
-          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Jezerro",
-      "url": "https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ"
-    },
-    {
-      "added_at": "2025-03-28 13:58:14",
-      "album": {
-        "name": "Sandscape Vibes",
-        "url": "https://open.spotify.com/album/0kkCV2JYagLkcvkqR2eiZA"
-      },
-      "artists": [
-        {
-          "name": "Monocloud",
-          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
-        },
-        {
-          "name": "Bertram Kvist",
-          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
-        }
-      ],
-      "duration_ms": 115714,
-      "name": "Sandscape Vibes",
-      "url": "https://open.spotify.com/track/4r7ND09OEWwcsGGaVR9w9d"
-    },
-    {
-      "added_at": "2025-03-28 13:58:14",
-      "album": {
         "name": "JazzRevelations",
         "url": "https://open.spotify.com/album/25yJ7QmFtmYSzbtkH6YXKR"
       },
@@ -547,6 +507,26 @@
     {
       "added_at": "2025-03-28 13:58:14",
       "album": {
+        "name": "Jezerro",
+        "url": "https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Jezerro",
+      "url": "https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ"
+    },
+    {
+      "added_at": "2025-03-28 13:58:14",
+      "album": {
         "name": "Bella Vista",
         "url": "https://open.spotify.com/album/3CTkvlYkHej43Ha301QEQ5"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 150643,
       "name": "Bella Vista",
       "url": "https://open.spotify.com/track/2UrJHvGEOXDMY8jHgzGkwU"
+    },
+    {
+      "added_at": "2025-03-28 13:58:14",
+      "album": {
+        "name": "Sandscape Vibes",
+        "url": "https://open.spotify.com/album/0kkCV2JYagLkcvkqR2eiZA"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "duration_ms": 115714,
+      "name": "Sandscape Vibes",
+      "url": "https://open.spotify.com/track/4r7ND09OEWwcsGGaVR9w9d"
     },
     {
       "added_at": "2025-03-28 13:58:14",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-03-28 13:58:14",
       "album": {
+        "name": "Verdant",
+        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
+      },
+      "artists": [
+        {
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        }
+      ],
+      "duration_ms": 146437,
+      "name": "Verdant",
+      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+    },
+    {
+      "added_at": "2025-03-28 13:58:14",
+      "album": {
         "name": "Falling Upward",
         "url": "https://open.spotify.com/album/6S7siWeWOfuP5PsLgduBth"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 164571,
       "name": "Falling Upward",
       "url": "https://open.spotify.com/track/0YRWFIuLMW5xTukssiTfJk"
-    },
-    {
-      "added_at": "2025-03-28 13:58:14",
-      "album": {
-        "name": "Verdant",
-        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
-      },
-      "artists": [
-        {
-          "name": "khoa",
-          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
-        }
-      ],
-      "duration_ms": 146437,
-      "name": "Verdant",
-      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
     },
     {
       "added_at": "2025-03-28 13:58:14",
@@ -2559,6 +2559,30 @@
     {
       "added_at": "2025-03-28 13:58:14",
       "album": {
+        "name": "Former Glory",
+        "url": "https://open.spotify.com/album/3BduGow9Zh2JhJzXLrUzNd"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        },
+        {
+          "name": "Marvin Frey",
+          "url": "https://open.spotify.com/artist/1ay8QiQk931SyvOAsGuqOM"
+        }
+      ],
+      "duration_ms": 108200,
+      "name": "Former Glory",
+      "url": "https://open.spotify.com/track/0H8Gg3A5oLQU4IBtZiaVio"
+    },
+    {
+      "added_at": "2025-03-28 13:58:14",
+      "album": {
         "name": "I Don\u2019t Want Love (SwuM Remix)",
         "url": "https://open.spotify.com/album/0qU2uou1nUrCv9nbmhI7K1"
       },
@@ -2635,30 +2659,6 @@
       "duration_ms": 144657,
       "name": "Soft Moments",
       "url": "https://open.spotify.com/track/3fkJhN1UvLO1yy6gpoxmC2"
-    },
-    {
-      "added_at": "2025-03-28 13:58:14",
-      "album": {
-        "name": "Former Glory",
-        "url": "https://open.spotify.com/album/3BduGow9Zh2JhJzXLrUzNd"
-      },
-      "artists": [
-        {
-          "name": "Erwin Do",
-          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
-        },
-        {
-          "name": "Lenny B",
-          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
-        },
-        {
-          "name": "Marvin Frey",
-          "url": "https://open.spotify.com/artist/1ay8QiQk931SyvOAsGuqOM"
-        }
-      ],
-      "duration_ms": 108200,
-      "name": "Former Glory",
-      "url": "https://open.spotify.com/track/0H8Gg3A5oLQU4IBtZiaVio"
     },
     {
       "added_at": "2025-03-28 13:58:14",
@@ -2875,22 +2875,6 @@
     {
       "added_at": "2025-03-28 13:58:14",
       "album": {
-        "name": "Coelum",
-        "url": "https://open.spotify.com/album/0nsGYEKBZlu5lap25ZWEJf"
-      },
-      "artists": [
-        {
-          "name": "Made in M",
-          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
-        }
-      ],
-      "duration_ms": 130257,
-      "name": "Coelum",
-      "url": "https://open.spotify.com/track/09zb80ci56DEgN3r1e0F9T"
-    },
-    {
-      "added_at": "2025-03-28 13:58:14",
-      "album": {
         "name": "Chime",
         "url": "https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW"
       },
@@ -2903,6 +2887,22 @@
       "duration_ms": 109613,
       "name": "Chime",
       "url": "https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS"
+    },
+    {
+      "added_at": "2025-03-28 13:58:14",
+      "album": {
+        "name": "Coelum",
+        "url": "https://open.spotify.com/album/0nsGYEKBZlu5lap25ZWEJf"
+      },
+      "artists": [
+        {
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+        }
+      ],
+      "duration_ms": 130257,
+      "name": "Coelum",
+      "url": "https://open.spotify.com/track/09zb80ci56DEgN3r1e0F9T"
     },
     {
       "added_at": "2025-03-28 13:58:14",
@@ -3331,22 +3331,6 @@
     {
       "added_at": "2025-03-28 13:58:14",
       "album": {
-        "name": "mira la noche",
-        "url": "https://open.spotify.com/album/2OpONlRS6cr5lYQpJwY8cz"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Kluzek",
-          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "mira la noche",
-      "url": "https://open.spotify.com/track/6wFX7sd6VMY6Fqd29fkgmq"
-    },
-    {
-      "added_at": "2025-03-28 13:58:14",
-      "album": {
         "name": "Hit the Lights",
         "url": "https://open.spotify.com/album/6hESTwKEAi1Qacec4JSuxy"
       },
@@ -3363,6 +3347,22 @@
       "duration_ms": 126455,
       "name": "Hit the Lights",
       "url": "https://open.spotify.com/track/4InFEKneua0HUGrwHuZ78h"
+    },
+    {
+      "added_at": "2025-03-28 13:58:14",
+      "album": {
+        "name": "mira la noche",
+        "url": "https://open.spotify.com/album/2OpONlRS6cr5lYQpJwY8cz"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "mira la noche",
+      "url": "https://open.spotify.com/track/6wFX7sd6VMY6Fqd29fkgmq"
     },
     {
       "added_at": "2025-03-28 13:58:14",

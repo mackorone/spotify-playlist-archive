@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Meme del Real en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,961 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,967 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 29 | [Amigo Mercado](https://open.spotify.com/track/6tTWM2nyUiQi7TgqVmq0jR) | [Medalla](https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Amigo Mercado](https://open.spotify.com/album/7saMaFAW0XJ25QNFRVNqp3) | 3:03 |
 | 30 | [Para llegar hasta aquí](https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Para llegar hasta aquí](https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV) | 3:53 |
 | 31 | [Campanas en la Noche](https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Campanas en la Noche](https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr) | 4:10 |
-| 32 | [Ridículo](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Ridículo](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 |
+| 32 | [RIDÍCULO](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [RIDÍCULO](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 |
 | 33 | [El Aniversario](https://open.spotify.com/track/7HDRyTeisdxpumgx0qzq6a) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [El Aniversario](https://open.spotify.com/album/6EKgmBAE0fpAe61hDAt21i) | 2:05 |
 | 34 | [Siempre Vuelve](https://open.spotify.com/track/093O6bfSwAyLCWY8qzyVpo) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Siempre Vuelve](https://open.spotify.com/album/507BsizaHyU05PfPFMLlzp) | 4:27 |
 | 35 | [Cha\-Cha Love](https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Cha\-Cha Love](https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue) | 3:34 |

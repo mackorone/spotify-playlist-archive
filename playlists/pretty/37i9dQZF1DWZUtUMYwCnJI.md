@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 
 > Enjoy the world of “Fire Force”! ©大久保篤・講談社／特殊消防隊動画広報課
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,982 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,993 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

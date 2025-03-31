@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,765 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,768 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 49 | [Flow Capurro](https://open.spotify.com/track/6xtkI0kvRa8470H89L81ho) | [Tussiwarriors](https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0), [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB), [Venen](https://open.spotify.com/artist/7CrCrSVCxLDfJs3yOyr2Nb) | [Tonkiclub](https://open.spotify.com/album/2P6P1acRbZHf7hgvgkQuD8) | 2:18 |
 | 50 | [Los Dinosaurios](https://open.spotify.com/track/3VCKdfJAL8DTDlwZw5O6Ik) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:28 |
 
-Snapshot ID: `L3tkeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L3y1+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

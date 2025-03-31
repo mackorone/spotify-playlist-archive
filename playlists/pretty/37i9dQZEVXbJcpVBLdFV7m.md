@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,922 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,919 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 49 | [antidepressants](https://open.spotify.com/track/6rWLrj4M3PDu6XpgjY7vAU) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [antidepressants](https://open.spotify.com/album/7ymEP219k33PfwUwrHHI3C) | 1:58 |
 | 50 | [NASTY!](https://open.spotify.com/track/7sSkVHpF7EVGuGynDOnKOk) | [IMPXSTR](https://open.spotify.com/artist/59V4CkmOIZqnGNYr455XQ7) | [NASTY!](https://open.spotify.com/album/3u2crFfWf4i1lSnbkl2aqu) | 1:48 |
 
-Snapshot ID: `L3tkeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L3y1+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

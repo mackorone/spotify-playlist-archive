@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,842 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,942 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 44 | [Let It Burn](https://open.spotify.com/track/1ryJE0dz9TeEHgdRvC9EGE) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Human Rias](https://open.spotify.com/artist/5HvRY6v6p1gHMjiaNGZTBX), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Let It Burn](https://open.spotify.com/album/5ScFfQtWzrR41CIccSLbas) | 3:08 |
 | 45 | [Worak](https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L) | [Ameli Paul](https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc) | [6 Years of Underyourskin Records](https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ) | 6:58 |
 | 46 | [Agua e pipa](https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Agua e pipa](https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b) | 3:22 |
-| 47 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 |
-| 48 | [Forlorn Hope](https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Forlorn Hope](https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx) | 8:40 |
+| 47 | [Forlorn Hope](https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Forlorn Hope](https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx) | 8:40 |
+| 48 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 |
 | 49 | [The Landing \- Nadav Dagon & JPattersson](https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK), [Nadav Dagon](https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU) | [The Landing](https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep) | 7:15 |
 | 50 | [State the Obvious](https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Global Entry 2](https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm) | 7:49 |
 | 51 | [Boho](https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Boho](https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU) | 4:53 |

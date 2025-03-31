@@ -4,7 +4,7 @@
 
 > mostly furry
 
-313 songs - 15 hr 51 min
+316 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Birthday Song](https://open.spotify.com/track/4D9ySWAIUxMWdWeNmsLuva) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:18 | 2024-12-24 |  |
 | [Bitrate](https://open.spotify.com/track/1vcVSS6GO8p4SJzElQgLpq) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 1:28 | 2023-12-12 |  |
 | [Bitter and Blunt](https://open.spotify.com/track/0hzzqdkrpFOmPWF3IjfKku) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Paper Alibis](https://open.spotify.com/album/5q9JKSnjSiY2kVLdC7LuHS) | 3:26 | 2024-07-12 |  |
+| [Bittersweet](https://open.spotify.com/track/0aNUvgmRUtGKlrv3PmK1Or) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Bittersweet](https://open.spotify.com/album/0R6UxUN5XLDJmFNVhUYuUl) | 4:15 | 2025-03-30 |  |
 | [Black Goo Zone](https://open.spotify.com/track/0pxSg6zPFFeMNgQS3z1VeL) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:51 | 2024-12-24 |  |
 | [Blue Bird](https://open.spotify.com/track/1p22iYZzkbVdjKhVjWPnNk) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Blue Bird](https://open.spotify.com/album/1KouYdQgreczfMEKX3gotS) | 4:01 | 2023-11-20 |  |
 | [Boom](https://open.spotify.com/track/1eVFe5XVz5ucyQoBB76fYj) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Tundra Fox Music](https://open.spotify.com/album/5Mes2PsdAWigtNwpYE2wpv) | 3:08 | 2023-12-07 |  |
@@ -118,6 +119,7 @@
 | [I Don't Give A Shit](https://open.spotify.com/track/2rEUhgw2YsRVuYxtnoVRuG) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [I Don't Give A Shit](https://open.spotify.com/album/4NPE68vsYqAN7AdIGPOnQf) | 2:18 | 2024-07-09 |  |
 | [I Feel Alright](https://open.spotify.com/track/6xPP2LJT84uHYRKoWIf1e9) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:09 | 2025-03-28 |  |
 | [I Forgot That You Exist](https://open.spotify.com/track/4BPjIJeCbtfTVrUUj4vF7v) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Forgot That You Exist](https://open.spotify.com/album/4idOoVmTO0xzXNr1DXMqZs) | 2:46 | 2024-07-09 |  |
+| [I miss you](https://open.spotify.com/track/6gvSJdfqtKD1OT3C6lyhWN) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I miss you](https://open.spotify.com/album/3HhltlZ4wbbRm2Mit9E5hv) | 4:18 | 2025-03-30 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-01-18 |  |
 | [I Really Want You](https://open.spotify.com/track/5FfNHhuYcEEMvTvGS1lpYT) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 4:19 | 2024-08-03 |  |
 | [I Used To](https://open.spotify.com/track/5hrPqder6ITJiUhdxNrHx4) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [I Used To](https://open.spotify.com/album/5mni4TNMRiOGHhgEpK6IvM) | 2:57 | 2024-07-12 |  |
@@ -138,6 +140,7 @@
 | [KNOT SONG](https://open.spotify.com/track/39hUFFX2yGm26YXSu4QEYF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:18 | 2025-02-24 |  |
 | [Laboratory](https://open.spotify.com/track/7h25e8n5b1qCCDGgE5OfZy) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 2:08 | 2024-12-24 |  |
 | [LDR](https://open.spotify.com/track/4cX5v8mjtmvMJivWTJlQE5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:02 | 2024-07-09 |  |
+| [LDR \- MetaHumanBoi Remix](https://open.spotify.com/track/0TcQoDpXC8NFGpb3JN5Qpe) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [MetaHumanBoi](https://open.spotify.com/artist/3DsBpdDLkW2CpH7kHqcxWo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:36 | 2025-03-30 |  |
 | [LDR \- RET TRO Remix](https://open.spotify.com/track/20BeyVDtpJ2ypQghzS3rCg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 1:59 | 2024-07-02 |  |
 | [leave a message](https://open.spotify.com/track/5rFpVMxL7bhnEUP6JpXjDZ) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [leave a message](https://open.spotify.com/album/4klHExXZnN4V1ccK4nju1Q) | 1:32 | 2024-05-13 |  |
 | [Leave u GONE](https://open.spotify.com/track/6nNw8rUbBk94o0CpUGye0F) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 1:42 | 2025-03-28 |  |

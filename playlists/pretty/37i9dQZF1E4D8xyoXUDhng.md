@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, LaShun Pace, James Cleveland and more
+> With Sunday Service Choir, Tramaine Hawkins, LaShun Pace and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 240 likes - 50 songs - 4 hr 23 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [THE GLORY ft\. New Breed](https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [New Breed](https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9) | [T.D\. JAKES Presents FINALLY LOOSED](https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI) | 6:14 |
 | 50 | [Holy Spirit v1.1](https://open.spotify.com/track/2TLZ1vVlNHMjEBa0h0It4F) | [New Jersey Mass Choir](https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH) | [Classic Gold: At Their Best](https://open.spotify.com/album/6EEceRkxSjrXrwJdWbciFr) | 3:48 |
 
-Snapshot ID: `Z+iyrwAAAABRTMfKiIs++NN2tE9pfrix`
+Snapshot ID: `Z+oE5QAAAADkn6IOT4XwtepXU4lJZjr6`

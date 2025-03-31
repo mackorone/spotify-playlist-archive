@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-474 songs - 1 day 15 hr 27 min
+475 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Alyosha Lying](https://open.spotify.com/track/2Xm1NUw2buXWoNvzKz7Wai) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Alyosha Lying](https://open.spotify.com/album/7f2iPwLQp0qiCdiZy986Fh) | 2:59 | 2023-11-24 |  |
 | [AMB001](https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB001\-008](https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv) | 6:03 | 2025-01-17 |  |
 | [Amos](https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Amos](https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG) | 8:03 | 2023-04-07 | 2025-01-14 |
-| [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 | 2022-03-04 |  |
+| [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 | 2022-03-04 | 2025-03-31 |
 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 | 2022-03-25 | 2025-03-08 |
 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 | 2025-01-14 |  |
 | [Antikythera Rddl](https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk) | [Pulse Mandala](https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX), [Distant Fires Burning](https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z) | [R Abacus Lndr](https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf) | 7:12 | 2023-09-22 | 2025-01-12 |
@@ -361,6 +361,7 @@
 | [Seekers \- 2022 Remaster](https://open.spotify.com/track/6CXAqQPTDgwH03w1Ll5gBb) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Jeffrey Fayman](https://open.spotify.com/artist/7MbgIuNbvtFLdLZ1tTpcwt) | [Trance Spirits \(2022 Remaster\)](https://open.spotify.com/album/4GLYU9Ajjtqe9QwU8wOviJ) | 7:22 | 2022-05-06 | 2023-07-14 |
 | [Semiasian](https://open.spotify.com/track/3a7C503asAanhiSJqwdtKh) | [Andreas Tilliander](https://open.spotify.com/artist/53pOTwEk2tDTWd5tlaxZzO) | [Elit](https://open.spotify.com/album/4jNY6CU9vIaveYEVHtWPSi) | 5:29 | 2022-07-15 | 2022-07-23 |
 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 | 2025-01-17 |  |
+| [Shelter](https://open.spotify.com/track/2Hk5lGsf7ItPiPkRuKGimb) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Shelter](https://open.spotify.com/album/5R4P6Oiuejf0SkL7qy2LH8) | 3:30 | 2025-03-29 |  |
 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 | 2025-02-07 |  |
 | [Shizumu \- Ambient Mix](https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Reflections 06](https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx) | 3:24 | 2023-08-31 | 2025-01-23 |
 | [Shortwave Memories](https://open.spotify.com/track/2XCBIIIzpn2dCWJG3uiNuf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/19qBP7vJMQXgn78B3LfqRN) | 7:53 | 2021-12-26 | 2023-05-27 |

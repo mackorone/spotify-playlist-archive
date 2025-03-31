@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Música sin etiquetas.<br/>📷 Dillom  & BLAIR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,793 likes - 104 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,253 likes - 104 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 10 | [Yanina](https://open.spotify.com/track/3ERN9saVeg8WeMe8m48Spd) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Yanina](https://open.spotify.com/album/0qdCj5u3smxdwDTMVUUhGZ) | 2:58 |
 | 11 | [DEUDA ESPIRITUAL](https://open.spotify.com/track/3BMT0MXj0QbnUsbV7MErGX) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [DEUDA ESPIRITUAL](https://open.spotify.com/album/3RuRCKTY4qVn3Ssit25mDW) | 3:45 |
 | 12 | [triste y vacía \- bolero](https://open.spotify.com/track/2IO9hcLXWGHdqp3oneG86Z) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [triste y vacía \(bolero\)](https://open.spotify.com/album/2mCQz8Z3Sh8ShBoiT8rvQl) | 2:35 |
-| 13 | [Ridículo](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Ridículo](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 |
+| 13 | [RIDÍCULO](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [RIDÍCULO](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 |
 | 14 | [cuando cae la nite](https://open.spotify.com/track/65YR0u0CXQX9zGRvBGHkkA) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [cuando cae la nite](https://open.spotify.com/album/7CJrWjQkD0xYHQBe4QqYuG) | 3:31 |
 | 15 | [Candela](https://open.spotify.com/track/684u0hZtsMmdz4cxJ3MU0S) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Candela](https://open.spotify.com/album/0fxMGmOLhlDwP8Dxk3ehRy) | 2:53 |
 | 16 | [Loco](https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Loco](https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ) | 3:35 |

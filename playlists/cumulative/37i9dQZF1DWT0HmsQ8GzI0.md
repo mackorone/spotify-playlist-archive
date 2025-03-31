@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Aron Andras
 
-215 songs - 11 hr 53 min
+216 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Egyformák](https://open.spotify.com/track/6fgA2gddZ2AjbM5bHh00xd) | [MAJRÉ](https://open.spotify.com/artist/1VP5B0ctEHTMvQsEKNtxmJ), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai), [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [Egyformák](https://open.spotify.com/album/5k0aOqsnIphaSj8tXRHRHq) | 3:04 | 2024-06-28 | 2024-07-05 |
 | [Elképzelt Hős](https://open.spotify.com/track/7ygArGFB1kfKb3NSywRO2E) | [godfater.](https://open.spotify.com/artist/3qVfxEzzh2djh9KaLgOkBh) | [Elképzelt Hős](https://open.spotify.com/album/6d6ZFECNuG6rfZ6NT0HZkn) | 5:58 | 2024-06-28 | 2024-08-16 |
 | [Elmentél](https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM) | [ZÓRA](https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW) | [Elmentél](https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI) | 4:44 | 2024-06-28 |  |
-| [Elég a tenger](https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Elég a tenger](https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT) | 3:27 | 2024-06-28 |  |
+| [Elég a tenger](https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Elég a tenger](https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT) | 3:27 | 2024-06-28 | 2025-03-31 |
 | [ember NEM élhet törött lábbal](https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [ember NEM élhet törött lábbal](https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi) | 2:07 | 2024-07-04 | 2025-01-25 |
 | [Engem szeretni nehéz](https://open.spotify.com/track/4Mamklib5ugFYkndshmeif) | [Wolf Kati](https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r), [Wolf Kati Band](https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8) | [Engem szeretni nehéz](https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP) | 4:02 | 2024-06-28 |  |
 | [Estimese](https://open.spotify.com/track/6IvAS87q2pGlp72Ry9WT7u) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD) | [Estimese](https://open.spotify.com/album/13BphwAN3avFYwXRsJ1IDT) | 3:10 | 2024-10-18 | 2024-11-21 |
@@ -193,6 +193,7 @@
 | [Szörny vagyok](https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Szörny vagyok](https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7) | 3:02 | 2024-06-28 | 2024-11-12 |
 | [Sétáló](https://open.spotify.com/track/5FKecXHiTbEjulc09VAMCc) | [Barkóczi Noémi](https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc) | [Sétáló](https://open.spotify.com/album/3LMPhLjannPEFqgh8KRYFf) | 2:40 | 2025-03-07 | 2025-03-29 |
 | [SÖRSEGGŰ LÁNY](https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 3:26 | 2024-11-08 |  |
+| [Takarj el](https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK) | [Esti Kornél](https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m) | [Takarj el](https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01) | 4:33 | 2025-03-28 |  |
 | [Talán](https://open.spotify.com/track/0wjC043aJvsNJ4irylqZht) | [Labek & Chrobak](https://open.spotify.com/artist/4T8Wfe5msKm69gj4mJUefK), [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ) | [Talán](https://open.spotify.com/album/0lkJsDRKUKNj7SbhwxIaMQ) | 4:43 | 2024-12-05 | 2025-03-25 |
 | [The Last Thing On My Mind](https://open.spotify.com/track/5oPK2g4KYkMgQwIoTKPfGA) | [Aron Andras](https://open.spotify.com/artist/7JNJRhoNangEwIlZQYHIT0) | [The Last Thing On My Mind](https://open.spotify.com/album/2Vz3JBbfvUwPNUYuujEpsg) | 3:10 | 2025-03-28 |  |
 | [TIK\-TAK](https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [TIK\-TAK](https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP) | 5:09 | 2024-06-28 | 2024-09-14 |

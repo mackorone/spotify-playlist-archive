@@ -4,7 +4,7 @@
 
 > a little indie, a little pop\.  Cover: d4vd
 
-1,300 songs - 2 day 16 hr 43 min
+1,301 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 | 2022-06-03 | 2022-07-02 |
 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-01-20 | 2023-03-25 |
 | [Birthmark](https://open.spotify.com/track/0WBkEWQ7evLCkPRLehTJeY) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Birthmark](https://open.spotify.com/album/35GQtom38u5STlcnpDeALd) | 3:22 | 2023-01-20 | 2023-03-25 |
-| [Bittersweet](https://open.spotify.com/track/1iAnZUotftnMCCLPcsoUtx) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Bittersweet](https://open.spotify.com/album/4fa718GM4u2gzw2iHFQZBf) | 2:27 | 2025-01-31 |  |
+| [Bittersweet](https://open.spotify.com/track/1iAnZUotftnMCCLPcsoUtx) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Bittersweet](https://open.spotify.com/album/4fa718GM4u2gzw2iHFQZBf) | 2:27 | 2025-01-31 | 2025-03-31 |
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-02 | 2024-11-12 |
 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 | 2023-09-16 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2024-01-05 | 2024-07-19 |
@@ -270,6 +270,7 @@
 | [Cry \(let it out\)](https://open.spotify.com/track/5DbArXOkqbbxmrdkf6On9l) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Cry \(let it out\)](https://open.spotify.com/album/03YaY85RTJO8YfR5IhZ5S5) | 2:36 | 2022-08-26 | 2022-09-17 |
 | [CRYBABY](https://open.spotify.com/track/2xNyRwIlRuYO2eN4enzRPQ) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [CRYBABY](https://open.spotify.com/album/4N1kb8sxL6pVnKgpWMW3s6) | 2:56 | 2024-04-19 | 2024-06-01 |
 | [Crystal Ball](https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Crystal Ball](https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy) | 2:53 | 2024-07-12 | 2024-09-07 |
+| [Crème Brulée](https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Crème Brulée](https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt) | 2:59 | 2025-03-30 |  |
 | [CTFO](https://open.spotify.com/track/61ziMfZxM3yJ5LlfTwCjoz) | [Sleeping Lion](https://open.spotify.com/artist/4sBiA3ARQSDSGUqI2mbWgf) | [CTFO](https://open.spotify.com/album/0dyGXZOW0gV11BA2EYflV4) | 3:23 | 2022-08-05 | 2022-09-03 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2021-10-29 | 2022-02-26 |
 | [cut my hair](https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1) | 2:56 | 2022-11-25 | 2023-03-11 |

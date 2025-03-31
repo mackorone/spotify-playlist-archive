@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAACxlyzg49yOYca0ujNz2uz7",
+  "snapshot_id": "Z+c4AAAAAABUP49OE15VZeu3ktxZBs1G",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents: Arise",
-        "url": "https://open.spotify.com/album/4M1JVqohTqHghNEgqEtMUl"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Amen Amen",
-      "url": "https://open.spotify.com/track/38mVByC9CdaVvw2DXg4aWR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Crown",
         "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 500306,
       "name": "Doctor Jesus / Draw Me Nearer",
       "url": "https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "51 Lex Presents: Arise",
+        "url": "https://open.spotify.com/album/4M1JVqohTqHghNEgqEtMUl"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Amen Amen",
+      "url": "https://open.spotify.com/track/38mVByC9CdaVvw2DXg4aWR"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 1108400,
-      "name": "Jesus Christ Super Star/Miracle In Praise/Don't Be Afraid/Jesus Is The Victory/The Lord Is Good/The Lord Reigneth/F'oyin Si Aiyemi (Yoruba)/Chuku Nke Bi Nigwe (Igbo)",
-      "url": "https://open.spotify.com/track/1GvopR7PYlYcsEsXF9gouH"
+      "duration_ms": 399506,
+      "name": "The Crown",
+      "url": "https://open.spotify.com/track/78rbXUtsreBxUadfpJwdMy"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 399506,
-      "name": "The Crown",
-      "url": "https://open.spotify.com/track/78rbXUtsreBxUadfpJwdMy"
+      "duration_ms": 1108400,
+      "name": "Jesus Christ Super Star/Miracle In Praise/Don't Be Afraid/Jesus Is The Victory/The Lord Is Good/The Lord Reigneth/F'oyin Si Aiyemi (Yoruba)/Chuku Nke Bi Nigwe (Igbo)",
+      "url": "https://open.spotify.com/track/1GvopR7PYlYcsEsXF9gouH"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 448026,
+      "name": "Dance Of The Elephants",
+      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3rd World",
         "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 501040,
       "name": "3rd World",
       "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "Jesus King Of Kings",
-      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 448026,
-      "name": "Dance Of The Elephants",
-      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
+      "duration_ms": 289573,
+      "name": "Jesus King Of Kings",
+      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 417493,
-      "name": "Mohammed",
-      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
+      "duration_ms": 568280,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
       "duration_ms": 684933,
       "name": "Festival Of The Hunters",
       "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 417493,
+      "name": "Mohammed",
+      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
     },
     {
       "added_at": null,
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 568280,
-      "name": "Tell Them",
-      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
+      "duration_ms": 465506,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/2MNnFBSrtVgPLMsOi2IGaF"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
       "duration_ms": 337666,
       "name": "My Cherie Koko",
       "url": "https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 465506,
-      "name": "My Woman",
-      "url": "https://open.spotify.com/track/2MNnFBSrtVgPLMsOi2IGaF"
     },
     {
       "added_at": null,

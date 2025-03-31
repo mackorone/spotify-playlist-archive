@@ -4,7 +4,7 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-136 songs - 8 hr 36 min
+137 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Azúcar, Azúcar](https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Etc\. Etc\. Etc.](https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv) | 3:00 | 2021-12-28 | 2024-05-29 |
 | [Bajo la Luna \- Remastered 2012](https://open.spotify.com/track/0v7WSTmUCNqnCKIQm3d9Hk) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Orquesta Gloria Matancera](https://open.spotify.com/artist/033f6Mcs7lx7eGPGqLVAm8) | [Serie Cuba Libre: Celia Vive, Vol\. 1 \(Remastered 2012\)](https://open.spotify.com/album/4FLgubgexzl0cYHzKJviP3) | 2:26 | 2023-01-15 | 2024-11-12 |
 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 | 2021-12-28 |  |
-| [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 | 2021-12-28 |  |
+| [Bemba Colorá](https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:31 | 2025-03-31 |  |
+| [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 | 2021-12-28 | 2025-03-31 |
 | [Bravo](https://open.spotify.com/track/4PWZHrzR0oSRULq6zcPjXF) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bravo](https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E) | 2:36 | 2021-12-28 | 2024-06-19 |
 | [Burundanga](https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Canta Celia Cruz](https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop) | 2:40 | 2024-01-03 |  |
 | [Canto A La Habana](https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 5:31 | 2021-12-28 |  |

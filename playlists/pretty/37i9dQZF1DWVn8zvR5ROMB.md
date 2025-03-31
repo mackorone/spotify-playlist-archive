@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Jordan Davis,  Cody Johnson with Carin Leon, Tucker Wetmore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,516 likes - 83 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,784 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 316088,
+  "num_followers": 316119,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
+        "name": "Gloomy Girl",
+        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Gloomy Girl",
+      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 199413,
       "name": "Nadine",
       "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "Gloomy Girl",
-        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Gloomy Girl",
-      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 182000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "All We've Ever Known",
-        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 241499,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
+        "name": "Cricket Songs",
+        "url": "https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM"
       },
       "artists": [
         {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+          "name": "Phantom Handshakes",
+          "url": "https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo"
         }
       ],
-      "duration_ms": 185182,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
+      "duration_ms": 230480,
+      "name": "Cricket Songs",
+      "url": "https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP"
     }
   ],
   "unique_name": "Dreampop",

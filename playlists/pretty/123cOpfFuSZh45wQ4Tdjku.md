@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 956 likes - 312 songs - 15 hr 48 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 957 likes - 315 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,5 +320,8 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 310 | [Oh Yeah?](https://open.spotify.com/track/3qjZvwNwyveoy6OPAk3kyd) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Oh Yeah?](https://open.spotify.com/album/4Zkl6RwdxqrcGoEsxzV9Gi) | 2:01 |
 | 311 | [DANCE!](https://open.spotify.com/track/5Yw9HZhnnOG2tkmSaRTfBE) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Knives](https://open.spotify.com/album/3YhBp1Hp4TNNnVlFYtXFr8) | 2:58 |
 | 312 | [Waggin' Like Us](https://open.spotify.com/track/0K04IaMVTW2dJhTEWg3bTo) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM), [DanyG](https://open.spotify.com/artist/7fMvm2Ryxh3HRuL0XQqzsr) | [Waggin' Like Us](https://open.spotify.com/album/6Vk2P5O78L7i8O79m8rDFG) | 3:34 |
+| 313 | [Bittersweet](https://open.spotify.com/track/0aNUvgmRUtGKlrv3PmK1Or) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Bittersweet](https://open.spotify.com/album/0R6UxUN5XLDJmFNVhUYuUl) | 4:15 |
+| 314 | [LDR \- MetaHumanBoi Remix](https://open.spotify.com/track/0TcQoDpXC8NFGpb3JN5Qpe) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [MetaHumanBoi](https://open.spotify.com/artist/3DsBpdDLkW2CpH7kHqcxWo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:36 |
+| 315 | [I miss you](https://open.spotify.com/track/6gvSJdfqtKD1OT3C6lyhWN) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I miss you](https://open.spotify.com/album/3HhltlZ4wbbRm2Mit9E5hv) | 4:18 |
 
-Snapshot ID: `AAABaoPS0tc1SluSHhfVGmTFgR/WjPxr`
+Snapshot ID: `AAABbV3WEMu+LHA4oxeSX3pP1L8XboB6`
