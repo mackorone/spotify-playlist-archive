@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Dinamarca, Meth Math",
-  "num_followers": 215454,
+  "num_followers": 215436,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
+        "name": "TIGUERON",
+        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
+      },
+      "artists": [
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        },
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "TIGUERON",
+      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
         "name": "Fumo Escarcha",
         "url": "https://open.spotify.com/album/43qGLfNbqTbP9sWiFGSUEA"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 195918,
       "name": "Fumo Escarcha",
       "url": "https://open.spotify.com/track/7gHvsVdofphSMQsKg47UnX"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
-        "name": "TIGUERON",
-        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
-      },
-      "artists": [
-        {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
-        },
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "TIGUERON",
-      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
     },
     {
       "added_at": "2025-03-27 23:00:02",
@@ -831,38 +831,6 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/1rucdQzAcVqylG4W1aUyVI"
-      },
-      "artists": [
-        {
-          "name": "Cariatydes",
-          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
-        }
-      ],
-      "duration_ms": 125052,
-      "name": "resurrecci\u00f3n",
-      "url": "https://open.spotify.com/track/7ArdDTr4xHyOy9btUb6GTE"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
-        "name": "Las cosas de antes",
-        "url": "https://open.spotify.com/album/5mvfySQnC0bKfUHvTFgj4d"
-      },
-      "artists": [
-        {
-          "name": "Rakky Ripper",
-          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
-        }
-      ],
-      "duration_ms": 207861,
-      "name": "Las cosas de antes",
-      "url": "https://open.spotify.com/track/1aUnY86IUiBcsUWwlWSUr4"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
         "name": "Astrozorras 2",
         "url": "https://open.spotify.com/album/6OVzdAOxEcF9AxZDLA0wUa"
       },
@@ -883,6 +851,38 @@
       "duration_ms": 178536,
       "name": "Volver Con Mi Ex",
       "url": "https://open.spotify.com/track/6x7bITUOfSa6me2QSAp17t"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Las cosas de antes",
+        "url": "https://open.spotify.com/album/5mvfySQnC0bKfUHvTFgj4d"
+      },
+      "artists": [
+        {
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        }
+      ],
+      "duration_ms": 207861,
+      "name": "Las cosas de antes",
+      "url": "https://open.spotify.com/track/1aUnY86IUiBcsUWwlWSUr4"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/1rucdQzAcVqylG4W1aUyVI"
+      },
+      "artists": [
+        {
+          "name": "Cariatydes",
+          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
+        }
+      ],
+      "duration_ms": 125052,
+      "name": "resurrecci\u00f3n",
+      "url": "https://open.spotify.com/track/7ArdDTr4xHyOy9btUb6GTE"
     },
     {
       "added_at": "2025-03-27 23:00:02",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "Sar\u00e0 perch\u00e9 ti amo (Remix)",
-        "url": "https://open.spotify.com/album/2wXkbn4obAkBTq9KoFYgNz"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        },
-        {
-          "name": "CyberBoy",
-          "url": "https://open.spotify.com/artist/4jNEyzplHXkVFmlhC9eyzP"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sar\u00e0 perch\u00e9 ti amo - Remix",
-      "url": "https://open.spotify.com/track/2LMUj5wsPc1g9P7OGriBPX"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
         "name": "Coraz\u00f3n de trapo",
         "url": "https://open.spotify.com/album/51R1Ay4iABvvrMjITLQydy"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 139200,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Sar\u00e0 perch\u00e9 ti amo (Remix)",
+        "url": "https://open.spotify.com/album/2wXkbn4obAkBTq9KoFYgNz"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        },
+        {
+          "name": "CyberBoy",
+          "url": "https://open.spotify.com/artist/4jNEyzplHXkVFmlhC9eyzP"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sar\u00e0 perch\u00e9 ti amo - Remix",
+      "url": "https://open.spotify.com/track/2LMUj5wsPc1g9P7OGriBPX"
     },
     {
       "added_at": "2025-03-27 23:00:02",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "JOHATSU",
-        "url": "https://open.spotify.com/album/4FcgWrGtWjxVQbMxBjMro1"
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/4az71vJuMdpocSaBNveZKT"
       },
       "artists": [
         {
           "name": "Ana Farelo",
           "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        },
+        {
+          "name": "J Po",
+          "url": "https://open.spotify.com/artist/1eylOSU9FQOsH9NE5O6RQy"
         }
       ],
-      "duration_ms": 140800,
-      "name": "JOHATSU",
-      "url": "https://open.spotify.com/track/6YBNoqmfANpeMxYP1PDqro"
+      "duration_ms": 182763,
+      "name": "UN BESO Y UNA FLOR",
+      "url": "https://open.spotify.com/track/6G68K0h8qYOtu2nYzo9wmV"
     },
     {
       "added_at": "2025-03-27 23:00:02",
@@ -1099,6 +1103,26 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
+        "name": "HELLO PITI",
+        "url": "https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p"
+      },
+      "artists": [
+        {
+          "name": "Korashe",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+        }
+      ],
+      "duration_ms": 143029,
+      "name": "HELLO PITI",
+      "url": "https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
         "name": "^^7^ 24",
         "url": "https://open.spotify.com/album/1rld2nBapWTBxFL4vgBE7K"
       },
@@ -1131,46 +1155,6 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "Lobby",
-        "url": "https://open.spotify.com/album/2HSmtXUtFD8CkkUL4jhXoH"
-      },
-      "artists": [
-        {
-          "name": "Durango",
-          "url": "https://open.spotify.com/artist/0cJIsoqSZaMNSFZkbG8erM"
-        },
-        {
-          "name": "Molina Beatz",
-          "url": "https://open.spotify.com/artist/30a8Vp8yoh7bvZZ559XhnU"
-        }
-      ],
-      "duration_ms": 133150,
-      "name": "Lobby",
-      "url": "https://open.spotify.com/track/7u4l3gG7TutJxtk78xyF01"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
-        "name": "HELLO PITI",
-        "url": "https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p"
-      },
-      "artists": [
-        {
-          "name": "Korashe",
-          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
-        },
-        {
-          "name": "Kf\u00e9",
-          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
-        }
-      ],
-      "duration_ms": 143029,
-      "name": "HELLO PITI",
-      "url": "https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
         "name": "DUELO",
         "url": "https://open.spotify.com/album/1mm5h6hkdoSpVLD0N4Scz4"
       },
@@ -1191,22 +1175,58 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/4az71vJuMdpocSaBNveZKT"
+        "name": "Lobby",
+        "url": "https://open.spotify.com/album/2HSmtXUtFD8CkkUL4jhXoH"
+      },
+      "artists": [
+        {
+          "name": "Durango",
+          "url": "https://open.spotify.com/artist/0cJIsoqSZaMNSFZkbG8erM"
+        },
+        {
+          "name": "Molina Beatz",
+          "url": "https://open.spotify.com/artist/30a8Vp8yoh7bvZZ559XhnU"
+        }
+      ],
+      "duration_ms": 133150,
+      "name": "Lobby",
+      "url": "https://open.spotify.com/track/7u4l3gG7TutJxtk78xyF01"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "JOHATSU",
+        "url": "https://open.spotify.com/album/4FcgWrGtWjxVQbMxBjMro1"
       },
       "artists": [
         {
           "name": "Ana Farelo",
           "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
-        },
-        {
-          "name": "J Po",
-          "url": "https://open.spotify.com/artist/1eylOSU9FQOsH9NE5O6RQy"
         }
       ],
-      "duration_ms": 182763,
-      "name": "UN BESO Y UNA FLOR",
-      "url": "https://open.spotify.com/track/6G68K0h8qYOtu2nYzo9wmV"
+      "duration_ms": 140800,
+      "name": "JOHATSU",
+      "url": "https://open.spotify.com/track/6YBNoqmfANpeMxYP1PDqro"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Floren",
+        "url": "https://open.spotify.com/album/2KPrLmZmcNQtmfaSGItI2h"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "damnpablo",
+          "url": "https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI"
+        }
+      ],
+      "duration_ms": 198501,
+      "name": "Floren",
+      "url": "https://open.spotify.com/track/5LiInUHBbi9BOBH7bDYg3Y"
     },
     {
       "added_at": "2025-03-27 23:00:02",
@@ -1275,6 +1295,22 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
+        "name": "El Angel eres t\u00fa",
+        "url": "https://open.spotify.com/album/1XkaSlYhT9za7PGwAI2cjh"
+      },
+      "artists": [
+        {
+          "name": "Nevo Angel",
+          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "El Angel eres t\u00fa",
+      "url": "https://open.spotify.com/track/79w7zBDLsyaITdPlgUUWYU"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
         "name": "DRiP DONA",
         "url": "https://open.spotify.com/album/5WBXqqEu8jsnO2kbGz0i87"
       },
@@ -1291,42 +1327,6 @@
       "duration_ms": 134081,
       "name": "DRiP DONA",
       "url": "https://open.spotify.com/track/3aEFnWehtnlM7esFCKdeEK"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
-        "name": "Floren",
-        "url": "https://open.spotify.com/album/2KPrLmZmcNQtmfaSGItI2h"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "damnpablo",
-          "url": "https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI"
-        }
-      ],
-      "duration_ms": 198501,
-      "name": "Floren",
-      "url": "https://open.spotify.com/track/5LiInUHBbi9BOBH7bDYg3Y"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
-        "name": "El Angel eres t\u00fa",
-        "url": "https://open.spotify.com/album/1XkaSlYhT9za7PGwAI2cjh"
-      },
-      "artists": [
-        {
-          "name": "Nevo Angel",
-          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "El Angel eres t\u00fa",
-      "url": "https://open.spotify.com/track/79w7zBDLsyaITdPlgUUWYU"
     },
     {
       "added_at": "2025-03-27 23:00:02",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "LA BABY ES MALA",
-        "url": "https://open.spotify.com/album/5g7ChyJQXO3OuI5dMiFodf"
-      },
-      "artists": [
-        {
-          "name": "Fran Laoren",
-          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
-        }
-      ],
-      "duration_ms": 152183,
-      "name": "LA BABY ES MALA",
-      "url": "https://open.spotify.com/track/2HrGfzBvWetERJ4oc4c7yx"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
         "name": "i GOT",
         "url": "https://open.spotify.com/album/5tsSsvU4MSQ3LnxBzq4VVa"
       },
@@ -1419,6 +1403,58 @@
       "duration_ms": 129062,
       "name": "i GOT",
       "url": "https://open.spotify.com/track/10UAil3yHf66nY1vSIHVka"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "LA BABY ES MALA",
+        "url": "https://open.spotify.com/album/5g7ChyJQXO3OuI5dMiFodf"
+      },
+      "artists": [
+        {
+          "name": "Fran Laoren",
+          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
+        }
+      ],
+      "duration_ms": 152183,
+      "name": "LA BABY ES MALA",
+      "url": "https://open.spotify.com/track/2HrGfzBvWetERJ4oc4c7yx"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "/\\/\\olly \\/\\/orld",
+        "url": "https://open.spotify.com/album/3oJnYxUhBvXrzqN4ekyxge"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Yung Naik",
+          "url": "https://open.spotify.com/artist/4PhWnSDUrQL81GghbasNDP"
+        }
+      ],
+      "duration_ms": 107067,
+      "name": "QUE /\\/\\AL",
+      "url": "https://open.spotify.com/track/1VTsKdvNcArIf35R2josmg"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
+        "name": "Cocky!",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+      },
+      "artists": [
+        {
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Cocky!",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2025-03-27 23:00:02",
@@ -1447,26 +1483,6 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
-        "name": "/\\/\\olly \\/\\/orld",
-        "url": "https://open.spotify.com/album/3oJnYxUhBvXrzqN4ekyxge"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Yung Naik",
-          "url": "https://open.spotify.com/artist/4PhWnSDUrQL81GghbasNDP"
-        }
-      ],
-      "duration_ms": 107067,
-      "name": "QUE /\\/\\AL",
-      "url": "https://open.spotify.com/track/1VTsKdvNcArIf35R2josmg"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
         "name": "BOLLO",
         "url": "https://open.spotify.com/album/5fRhTNq6p6VuqvRiOVGg5H"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 128884,
       "name": "BOLLO",
       "url": "https://open.spotify.com/track/4QrWf9E9GU8QXri08OlF43"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
-        "name": "Cocky!",
-        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
-      },
-      "artists": [
-        {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Cocky!",
-      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2025-03-27 23:00:02",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-03-27 23:00:02",
       "album": {
+        "name": "DESNUDO X DAIGUAL",
+        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
+      },
+      "artists": [
+        {
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "DESNUDO",
+      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
+    },
+    {
+      "added_at": "2025-03-27 23:00:02",
+      "album": {
         "name": "AERIAL DISPLAY",
         "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 170000,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
-    },
-    {
-      "added_at": "2025-03-27 23:00:02",
-      "album": {
-        "name": "DESNUDO X DAIGUAL",
-        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "DESNUDO",
-      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
     },
     {
       "added_at": "2025-03-27 23:00:02",

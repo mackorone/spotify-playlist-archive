@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "ARISE AND SHINE",
+        "url": "https://open.spotify.com/album/4b0TTUruvy0QuiudbDp226"
+      },
+      "artists": [
+        {
+          "name": "IFIOK BASSEY",
+          "url": "https://open.spotify.com/artist/2orAsBkKwUSIrmOf9oIg6y"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269475,
+      "name": "ARISE AND SHINE",
+      "url": "https://open.spotify.com/track/2XX2knQscx85wwf049pUKn"
+    },
+    {
+      "album": {
         "name": "Armour Of God (Live)",
         "url": "https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F"
       },
@@ -7814,7 +7832,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 461003,
       "name": "Spontaneous Worship 1 - Live",
       "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"

@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 249240,
       "name": "Blossom of Flower",
       "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 232000,
       "name": "Camellia",
       "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 628546,
       "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
       "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
@@ -2330,6 +2330,28 @@
       "duration_ms": 96093,
       "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": III. Rondo. Allegretto",
       "url": "https://open.spotify.com/track/2Wc6N3q1jAoEftfryRJjIT"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230506,
+      "name": "Piano Sonata No. 5 in C Minor, Op. 10 No. 1: III. Finale. Prestissimo",
+      "url": "https://open.spotify.com/track/11FAr98BqkUlyuJoJ8zmgA"
     },
     {
       "album": {
@@ -2920,7 +2942,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 279613,
       "name": "The Red String",
       "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
@@ -3084,7 +3106,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 253360,
       "name": "Une Vie Part 1",
       "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"

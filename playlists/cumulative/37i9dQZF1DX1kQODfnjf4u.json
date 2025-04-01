@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Doechii",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Frosti, ERNE100",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -543,6 +543,36 @@
     },
     {
       "album": {
+        "name": "Ewa Farna",
+        "url": "https://open.spotify.com/album/3x7uF7U23YDVjXh2z0fcLT"
+      },
+      "artists": [
+        {
+          "name": "Frosti",
+          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
+        },
+        {
+          "name": "ERNE100",
+          "url": "https://open.spotify.com/artist/2PsXHmUVTryvflJlh19Fr5"
+        },
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223783,
+      "name": "Ewa Farna",
+      "url": "https://open.spotify.com/track/2SKRhxWAr43tlNHM8yN3jE"
+    },
+    {
+      "album": {
         "name": "Ex-Opps",
         "url": "https://open.spotify.com/album/0DNQNUzuaW1fIa4AnoXyqJ"
       },
@@ -812,7 +842,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 176516,
       "name": "Ice Baby Melt",
       "url": "https://open.spotify.com/track/2uXWBou22TwQ2O40B5dTm5"
@@ -860,6 +890,28 @@
       "duration_ms": 155294,
       "name": "Jazda",
       "url": "https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F"
+    },
+    {
+      "album": {
+        "name": "blue.",
+        "url": "https://open.spotify.com/album/21WNqI8VHCWS5vA8cJg7YU"
+      },
+      "artists": [
+        {
+          "name": "KOJO",
+          "url": "https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "Jenom a\u0165 nesn\u00edm.. (feat. Calin)",
+      "url": "https://open.spotify.com/track/1xqRQAe2Gic8HJgg6uGKO2"
     },
     {
       "album": {
@@ -1012,7 +1064,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -1290,7 +1342,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -1574,7 +1626,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 209680,
       "name": "RATHER LIE (with The Weeknd)",
       "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
@@ -1921,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Sawsane",
+          "url": "https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Tras tou",
+      "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"
+    },
+    {
+      "album": {
         "name": "TRUST ISSUES",
         "url": "https://open.spotify.com/album/0MAIZb2QzjEMMEmDsdbRTQ"
       },
@@ -1998,6 +2072,24 @@
       "duration_ms": 186086,
       "name": "ULICE DRUH\u00c1 M\u00c1MA",
       "url": "https://open.spotify.com/track/00Imdq7NDBO3zbbREGgUOM"
+    },
+    {
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Chevon",
-  "num_followers": 18520,
+  "num_followers": 18536,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -991,38 +991,6 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
-        "name": "\u82b1\u3060\u3088\u308a",
-        "url": "https://open.spotify.com/album/3qlsQe8zHDv8bjIpCcmuMO"
-      },
-      "artists": [
-        {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 185912,
-      "name": "\u82b1\u3060\u3088\u308a",
-      "url": "https://open.spotify.com/track/1AOFADZrzi8HmtymciRWcI"
-    },
-    {
-      "added_at": "2025-03-25 15:00:30",
-      "album": {
-        "name": "\u30a2\u30b2\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/0vsupM6aCnzZIpZUeSEPhF"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 261366,
-      "name": "\u30a2\u30b2\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/7IxSLwOvzPianPBi0VsAF8"
-    },
-    {
-      "added_at": "2025-03-25 15:00:30",
-      "album": {
         "name": "\u60aa\u5922\u306e\u3088\u3046\u306a1\u9031\u9593",
         "url": "https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9"
       },
@@ -1039,6 +1007,22 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
+        "name": "\u82b1\u3060\u3088\u308a",
+        "url": "https://open.spotify.com/album/3qlsQe8zHDv8bjIpCcmuMO"
+      },
+      "artists": [
+        {
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+        }
+      ],
+      "duration_ms": 185912,
+      "name": "\u82b1\u3060\u3088\u308a",
+      "url": "https://open.spotify.com/track/1AOFADZrzi8HmtymciRWcI"
+    },
+    {
+      "added_at": "2025-03-25 15:00:30",
+      "album": {
         "name": "\u9006\u5149",
         "url": "https://open.spotify.com/album/23dQlC3w5yTUu3bWhINSHi"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 200472,
       "name": "\u9006\u5149",
       "url": "https://open.spotify.com/track/1Y02kNPlR4ZTfpTCKQLFvV"
+    },
+    {
+      "added_at": "2025-03-25 15:00:30",
+      "album": {
+        "name": "\u30a2\u30b2\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/0vsupM6aCnzZIpZUeSEPhF"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 261366,
+      "name": "\u30a2\u30b2\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7IxSLwOvzPianPBi0VsAF8"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
+        "name": "\u60aa\u5922\u306e\u3088\u3046\u306a1\u9031\u9593",
+        "url": "https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "\u571f\u66dc\u65e5\uff1a\u9ad8\u6162",
+      "url": "https://open.spotify.com/track/5Fr2EAAgn7bkzhGyQVNTiP"
+    },
+    {
+      "added_at": "2025-03-25 15:00:30",
+      "album": {
         "name": "\u5343\u5e74\u9ce5",
         "url": "https://open.spotify.com/album/0RHPKiskH6TZvVZm3z0XWI"
       },
@@ -1131,38 +1147,6 @@
       "duration_ms": 171233,
       "name": "\u5343\u5e74\u9ce5",
       "url": "https://open.spotify.com/track/5Qq23YFrYkgXxE2llCuBeJ"
-    },
-    {
-      "added_at": "2025-03-25 15:00:30",
-      "album": {
-        "name": "\u3042\u3068\u304c\u304d",
-        "url": "https://open.spotify.com/album/0UrgQ9Lrb13OnjOVntZ3Wz"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
-        }
-      ],
-      "duration_ms": 309984,
-      "name": "\u3042\u3068\u304c\u304d",
-      "url": "https://open.spotify.com/track/4InLG5Cex1EKPJFSWtxvbA"
-    },
-    {
-      "added_at": "2025-03-25 15:00:30",
-      "album": {
-        "name": "\u663c\u4e0b\u304c\u308a\u306e\u661f\u3001\u7d9a\u304f\u65c5\u8def",
-        "url": "https://open.spotify.com/album/7xRT0o3mBMKLdQ02vRJv07"
-      },
-      "artists": [
-        {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 224651,
-      "name": "\u65c5\u8def",
-      "url": "https://open.spotify.com/track/4DDn9TyqXKb8oatJEUzxAf"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1183,34 +1167,34 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
-        "name": "\u60aa\u5922\u306e\u3088\u3046\u306a1\u9031\u9593",
-        "url": "https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9"
+        "name": "\u663c\u4e0b\u304c\u308a\u306e\u661f\u3001\u7d9a\u304f\u65c5\u8def",
+        "url": "https://open.spotify.com/album/7xRT0o3mBMKLdQ02vRJv07"
       },
       "artists": [
         {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
         }
       ],
-      "duration_ms": 181866,
-      "name": "\u571f\u66dc\u65e5\uff1a\u9ad8\u6162",
-      "url": "https://open.spotify.com/track/5Fr2EAAgn7bkzhGyQVNTiP"
+      "duration_ms": 224651,
+      "name": "\u65c5\u8def",
+      "url": "https://open.spotify.com/track/4DDn9TyqXKb8oatJEUzxAf"
     },
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
-        "name": "\u300c\u300d",
-        "url": "https://open.spotify.com/album/394ZLDoheGuFzGeVJt5iMp"
+        "name": "\u3042\u3068\u304c\u304d",
+        "url": "https://open.spotify.com/album/0UrgQ9Lrb13OnjOVntZ3Wz"
       },
       "artists": [
         {
-          "name": "\u85cd\u7a7a\u3068\u6708",
-          "url": "https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg"
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
         }
       ],
-      "duration_ms": 216587,
-      "name": "\u300c\u300d",
-      "url": "https://open.spotify.com/track/3eGtyAM9HnLUFGGwjfv14T"
+      "duration_ms": 309984,
+      "name": "\u3042\u3068\u304c\u304d",
+      "url": "https://open.spotify.com/track/4InLG5Cex1EKPJFSWtxvbA"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1227,6 +1211,22 @@
       "duration_ms": 304180,
       "name": "\u30d0\u30e9\u30c3\u30c9",
       "url": "https://open.spotify.com/track/7i7IIiQmG3aaPksXzN0xmq"
+    },
+    {
+      "added_at": "2025-03-25 15:00:30",
+      "album": {
+        "name": "\u300c\u300d",
+        "url": "https://open.spotify.com/album/394ZLDoheGuFzGeVJt5iMp"
+      },
+      "artists": [
+        {
+          "name": "\u85cd\u7a7a\u3068\u6708",
+          "url": "https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg"
+        }
+      ],
+      "duration_ms": 216587,
+      "name": "\u300c\u300d",
+      "url": "https://open.spotify.com/track/3eGtyAM9HnLUFGGwjfv14T"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1263,34 +1263,22 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
-        "name": "\u30a8\u30ad\u30b9\u30c8\u30e9",
-        "url": "https://open.spotify.com/album/4lUyJSKjpBpd15h5pP2TLL"
+        "name": "\u6620\u753b\u300e\u30cd\u30e0\u30eb\u30d0\u30ab\u300f\u97f3\u697d\u96c6",
+        "url": "https://open.spotify.com/album/7KTYauB60kH35WVoGLq817"
       },
       "artists": [
         {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 196850,
-      "name": "\u30a8\u30ad\u30b9\u30c8\u30e9",
-      "url": "https://open.spotify.com/track/1GzJQkdWo8v4v21K0mEhHG"
-    },
-    {
-      "added_at": "2025-03-25 15:00:30",
-      "album": {
-        "name": "\u59cb\u307e\u308a\u306e\u5408\u56f3",
-        "url": "https://open.spotify.com/album/0Fm272mQnYFh4e2dXp7JZV"
-      },
-      "artists": [
+          "name": "Yuna Taira",
+          "url": "https://open.spotify.com/artist/4JpTxcascGeAJPnE35dXWY"
+        },
         {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+          "name": "Ruka Kujirai",
+          "url": "https://open.spotify.com/artist/5z8636jXphV2jlDx1aenqh"
         }
       ],
-      "duration_ms": 241565,
-      "name": "\u59cb\u307e\u308a\u306e\u5408\u56f3",
-      "url": "https://open.spotify.com/track/4gKJN7M6VRCFBgRcp9ej7a"
+      "duration_ms": 259693,
+      "name": "\u30cd\u30e0\u30eb\u30d0\u30ab",
+      "url": "https://open.spotify.com/track/1OUvQ7S1i50wU72ifLlYS3"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1311,6 +1299,22 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
+        "name": "\u30a8\u30ad\u30b9\u30c8\u30e9",
+        "url": "https://open.spotify.com/album/4lUyJSKjpBpd15h5pP2TLL"
+      },
+      "artists": [
+        {
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+        }
+      ],
+      "duration_ms": 196850,
+      "name": "\u30a8\u30ad\u30b9\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/1GzJQkdWo8v4v21K0mEhHG"
+    },
+    {
+      "added_at": "2025-03-25 15:00:30",
+      "album": {
         "name": "sanagi",
         "url": "https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob"
       },
@@ -1323,6 +1327,22 @@
       "duration_ms": 195493,
       "name": "\u4e0d\u5b8c\u5168\u306b\u604b",
       "url": "https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC"
+    },
+    {
+      "added_at": "2025-03-25 15:00:30",
+      "album": {
+        "name": "\u59cb\u307e\u308a\u306e\u5408\u56f3",
+        "url": "https://open.spotify.com/album/0Fm272mQnYFh4e2dXp7JZV"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "duration_ms": 241565,
+      "name": "\u59cb\u307e\u308a\u306e\u5408\u56f3",
+      "url": "https://open.spotify.com/track/4gKJN7M6VRCFBgRcp9ej7a"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1375,22 +1395,18 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
-        "name": "\u6620\u753b\u300e\u30cd\u30e0\u30eb\u30d0\u30ab\u300f\u97f3\u697d\u96c6",
-        "url": "https://open.spotify.com/album/7KTYauB60kH35WVoGLq817"
+        "name": "25\u6b73",
+        "url": "https://open.spotify.com/album/7pjylBBnITd6yocDyeE0pn"
       },
       "artists": [
         {
-          "name": "Yuna Taira",
-          "url": "https://open.spotify.com/artist/4JpTxcascGeAJPnE35dXWY"
-        },
-        {
-          "name": "Ruka Kujirai",
-          "url": "https://open.spotify.com/artist/5z8636jXphV2jlDx1aenqh"
+          "name": "the paddles",
+          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
         }
       ],
-      "duration_ms": 259693,
-      "name": "\u30cd\u30e0\u30eb\u30d0\u30ab",
-      "url": "https://open.spotify.com/track/1OUvQ7S1i50wU72ifLlYS3"
+      "duration_ms": 219754,
+      "name": "25\u6b73",
+      "url": "https://open.spotify.com/track/3LrLefCZ9ly0HZEHfYuhH7"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
-        "name": "\u7d14\u7c8b\u7121\u57a2",
-        "url": "https://open.spotify.com/album/6ILQCQLlwzdKJGA4hyH7cp"
-      },
-      "artists": [
-        {
-          "name": "yutori",
-          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "\u7d14\u7c8b\u7121\u57a2",
-      "url": "https://open.spotify.com/track/0HhBVrUqAAMR8UNtU2ANiw"
-    },
-    {
-      "added_at": "2025-03-25 15:00:30",
-      "album": {
         "name": "\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/3k6MjLF2NQFI9SpHtZBILR"
       },
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
-        "name": "25\u6b73",
-        "url": "https://open.spotify.com/album/7pjylBBnITd6yocDyeE0pn"
+        "name": "\u7d14\u7c8b\u7121\u57a2",
+        "url": "https://open.spotify.com/album/6ILQCQLlwzdKJGA4hyH7cp"
       },
       "artists": [
         {
-          "name": "the paddles",
-          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
         }
       ],
-      "duration_ms": 219754,
-      "name": "25\u6b73",
-      "url": "https://open.spotify.com/track/3LrLefCZ9ly0HZEHfYuhH7"
+      "duration_ms": 178426,
+      "name": "\u7d14\u7c8b\u7121\u57a2",
+      "url": "https://open.spotify.com/track/0HhBVrUqAAMR8UNtU2ANiw"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
-        "name": "\u3064\u3082\u308b\u8a71\u3057",
-        "url": "https://open.spotify.com/album/29IKGV8xfKvVxnTagolL3L"
-      },
-      "artists": [
-        {
-          "name": "Teikokukissa",
-          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
-        }
-      ],
-      "duration_ms": 224769,
-      "name": "\u3064\u3082\u308b\u8a71\u3057",
-      "url": "https://open.spotify.com/track/3QIDeOvqubq6pDxQq5rOlN"
-    },
-    {
-      "added_at": "2025-03-25 15:00:30",
-      "album": {
         "name": "\u3057\u305f\u3044\u3053\u3068\u30ea\u30b9\u30c8",
         "url": "https://open.spotify.com/album/6UXnmf6H9kWlDEL3PJNWDu"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2025-03-25 15:00:30",
       "album": {
+        "name": "\u3064\u3082\u308b\u8a71\u3057",
+        "url": "https://open.spotify.com/album/29IKGV8xfKvVxnTagolL3L"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "duration_ms": 224769,
+      "name": "\u3064\u3082\u308b\u8a71\u3057",
+      "url": "https://open.spotify.com/track/3QIDeOvqubq6pDxQq5rOlN"
+    },
+    {
+      "added_at": "2025-03-25 15:00:30",
+      "album": {
         "name": "\u8eab\u4f53\u4e00\u3064\u3001\u6050\u6016\u65ad\u3064\u3002",
         "url": "https://open.spotify.com/album/7k6To2DuKefCGeRusIsjQu"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 159037,
       "name": "\u8eab\u4f53\u4e00\u3064\u3001\u6050\u6016\u65ad\u3064\u3002",
       "url": "https://open.spotify.com/track/3ijD72BtPOnYnl2It5uc94"
-    },
-    {
-      "added_at": "2025-03-25 15:00:30",
-      "album": {
-        "name": "\u672c\u97f3",
-        "url": "https://open.spotify.com/album/6j5jS4wiNHZwGWk8yL4GfI"
-      },
-      "artists": [
-        {
-          "name": "Fish and Lips",
-          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
-        }
-      ],
-      "duration_ms": 251233,
-      "name": "\u672c\u97f3",
-      "url": "https://open.spotify.com/track/4vWgiPZlnrd4KKaDjou88T"
     },
     {
       "added_at": "2025-03-25 15:00:30",
@@ -1615,6 +1599,22 @@
       "duration_ms": 203480,
       "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
       "url": "https://open.spotify.com/track/6KvgHYLTnrIo5LW503B3HC"
+    },
+    {
+      "added_at": "2025-03-25 15:00:30",
+      "album": {
+        "name": "\u672c\u97f3",
+        "url": "https://open.spotify.com/album/6j5jS4wiNHZwGWk8yL4GfI"
+      },
+      "artists": [
+        {
+          "name": "Fish and Lips",
+          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
+        }
+      ],
+      "duration_ms": 251233,
+      "name": "\u672c\u97f3",
+      "url": "https://open.spotify.com/track/4vWgiPZlnrd4KKaDjou88T"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

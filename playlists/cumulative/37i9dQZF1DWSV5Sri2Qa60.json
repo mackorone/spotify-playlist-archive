@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: florence road",
+  "description": "Where your new favourite bands are discovered. Cover: Westside Cowboy",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -200,6 +200,24 @@
       "duration_ms": 218862,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0dPVVnSzDSngf9i2umcLDb"
+    },
+    {
+      "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/5cT2fT6DwOXIY0hgrBWhr6"
+      },
+      "artists": [
+        {
+          "name": "Real Farmer",
+          "url": "https://open.spotify.com/artist/19lSZSwxm5y6ihi5mODLaK"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/47x33fckrWvLk82Hc4cJfK"
     },
     {
       "album": {
@@ -614,6 +632,24 @@
       "duration_ms": 148504,
       "name": "Cranium",
       "url": "https://open.spotify.com/track/749zlkeyfz7is44tqB7t1O"
+    },
+    {
+      "album": {
+        "name": "Cycling",
+        "url": "https://open.spotify.com/album/5KQn81KQ7RMugV7RsZo468"
+      },
+      "artists": [
+        {
+          "name": "lilo",
+          "url": "https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Cycling",
+      "url": "https://open.spotify.com/track/3enH46VQbycYogUQjxetiH"
     },
     {
       "album": {
@@ -1517,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167866,
+      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
+    },
+    {
+      "album": {
         "name": "Jeremiah",
         "url": "https://open.spotify.com/album/410lTpDhzFkeJ0YBUZdaeQ"
       },
@@ -1600,7 +1654,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 220820,
       "name": "Kiss Me Like You Miss Her",
       "url": "https://open.spotify.com/track/2Hy2atXIzk7l6fbYfCejIm"
@@ -1618,7 +1672,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 160908,
       "name": "Know It All",
       "url": "https://open.spotify.com/track/6T1mTUx2LKIw1INNOwFFhG"

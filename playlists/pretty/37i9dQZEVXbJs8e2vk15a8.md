@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,582 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,580 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 43 | [OLIMPO](https://open.spotify.com/track/6tt6JnKerLnOL0oez9QPqS) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:49 |
 | 44 | [Quema las Estrellas](https://open.spotify.com/track/6YJCMB7m2STptevEp6zW3v) | [Resonancia Etérea](https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB) | [Quema las Estrellas](https://open.spotify.com/album/3jJSZ03dxbChLZU2Hsuxxp) | 4:12 |
 | 45 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
-| 46 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 |
+| 46 | [Innerbloom](https://open.spotify.com/track/05kVyNUR9uibHta4jcGTTv) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/396Y1EKWxeJt2Yh3Da1for) | 9:38 |
 | 47 | [Boxindanga \- Remix](https://open.spotify.com/track/7vFAOgnAAj5J29gj1RErgl) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [Ezequiel Matthysse](https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Lil Pani](https://open.spotify.com/artist/7JOPAChLMSwpi4LSZBw000), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Jota M](https://open.spotify.com/artist/6lDlWJAXIwpV5bxVXnr4cX), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Boxindanga \(Remix\)](https://open.spotify.com/album/5uzqzq37eXNaWwAbOFbDGn) | 4:31 |
 | 48 | [Cuéntale](https://open.spotify.com/track/7oNn9kh8eEe8aZU8vHjDBI) | [Intocables de Chile](https://open.spotify.com/artist/3Rnvdbd16ZNKjHLYq8sATE), [Talismanes del Ritmo y del amor](https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd) | [Cuéntale](https://open.spotify.com/album/6UjeFQFnqVsaboG0yqA75C) | 3:11 |
 | 49 | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F) | 1:58 |
 | 50 | [PPC](https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [PPC](https://open.spotify.com/album/4V5HyefyVSF15kOhuy11up) | 4:00 |
 
-Snapshot ID: `L3y1+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L34HeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

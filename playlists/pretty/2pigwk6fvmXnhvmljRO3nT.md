@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,551 songs - 17 day 3 hr 9 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,564 songs - 17 day 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6559,5 +6559,18 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6549 | [Comfort Chain](https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1) | 3:04 |
 | 6550 | [Watering My Plants](https://open.spotify.com/track/0LH7ijaQi0ybY6Oe4SCLo1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Adjust To The Game](https://open.spotify.com/album/1fhJxvLoBB7tdxQVZhBpfB) | 2:15 |
 | 6551 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
+| 6552 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 |
+| 6553 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
+| 6554 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 |
+| 6555 | [Kimi Ni Todoke](https://open.spotify.com/track/5vswHbOuXtukiFMu4PLInk) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Fantasia of Life Stripe](https://open.spotify.com/album/6OH2nBM7kOVLLIRpLBEJ2g) | 5:22 |
+| 6556 | [Behind \(with Yuna Yoshino & Lynn\)](https://open.spotify.com/track/7d1690LbH6hRaqcqMvXq7L) | [Karin Isobe](https://open.spotify.com/artist/3I66Yvv0UsBwtbzwSZVmGB), [Yuna Yoshino](https://open.spotify.com/artist/3oN1CCmDgf7bhW0p9bClZY), [Lynn](https://open.spotify.com/artist/3tXHWcReMaVk8CbtEAfCcR) | [Behind \(with Yuna Yoshino & Lynn\)](https://open.spotify.com/album/549X3ZIyEGErCwbSZKMmni) | 5:35 |
+| 6557 | [Haikei Shounenyo](https://open.spotify.com/track/1zuJhvTWKLWmfJk6vIPPVT) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [Haikei Shounenyo](https://open.spotify.com/album/4oha0F6Ng0LUQL7zm6nkCE) | 3:08 |
+| 6558 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 |
+| 6559 | [ありがとう](https://open.spotify.com/track/6vh4m5T5KMFxdKegDeXnm4) | [高木さん\(CV:高橋李依\)](https://open.spotify.com/artist/1R0fW14xdvdhRIJs7WPIGP) | [からかい上手の高木さん2 Cover song collection](https://open.spotify.com/album/6ZkiAyyK8QnvWwIfTdhndY) | 5:59 |
+| 6560 | [ありがとう](https://open.spotify.com/track/17yTGt8knYEGkxKoh14VTP) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 5:59 |
+| 6561 | [気まぐれロマンティック](https://open.spotify.com/track/46jFfrQdRnKSb4uuPDQSne) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 4:02 |
+| 6562 | [ブルーバード](https://open.spotify.com/track/7LY0Mdsj2esWkuO98LEAPl) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [My song Your song](https://open.spotify.com/album/2AOTzestyJAx9xheLCrGnm) | 3:38 |
+| 6563 | [卒業証書](https://open.spotify.com/track/2IbsFcA4QHMFoL3lJlPY9l) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [卒業証書](https://open.spotify.com/album/7M8mokoPuWZXU1jrXNoHJH) | 4:58 |
+| 6564 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
 
-Snapshot ID: `AAAD9j3jQA4V0giBnqa3ditZhRgphdZL`
+Snapshot ID: `AAAEBDrJHNz2z1CL2q+NJ60Fp8rs85q7`

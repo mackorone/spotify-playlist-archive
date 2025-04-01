@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-246 songs - 17 hr 27 min
+247 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 | 2024-09-27 |  |
 | [Wonderful Things \- Remix](https://open.spotify.com/track/4MSS6wih5zmRU3THSxm3Pp) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Wonderful Things \(Remix\)](https://open.spotify.com/album/0i0xvtEdrhepz9CPRUw0cj) | 3:18 | 2025-01-17 | 2025-02-28 |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-09-27 | 2025-02-28 |
+| [YES](https://open.spotify.com/track/3e9GnGjPhfWcG2Bw8wgiBN) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Danielle LaTouche](https://open.spotify.com/artist/4sexZV9stgh3w9OnFbQieQ) | [YES](https://open.spotify.com/album/1vVp9CDY3dwxcFYGfDsWbF) | 4:48 | 2025-03-31 |  |
 | [You](https://open.spotify.com/track/4jP9BprqNUmsG7xnb0tyHC) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [Spirit & Life Collective](https://open.spotify.com/artist/0hplB8E1h8iFQvA949bI2q) | [You](https://open.spotify.com/album/5yveYWC5QD8qO0fYR5MPS1) | 2:23 | 2024-10-25 | 2025-02-07 |
 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 | 2024-09-27 |  |
 | [You Are Yahweh](https://open.spotify.com/track/7Cfe74owuRtozH7Yyx3WSI) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You Are Yahweh](https://open.spotify.com/album/5jx5lmaMmzQZ6NA4QWiDfp) | 4:38 | 2024-09-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 112673,
+  "num_followers": 112705,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAAB101aEX6gnxUXkvv18tAM6",
+  "snapshot_id": "Z+iJgAAAAABdZQjJfggBZBufTJVodMV1",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 201373,
-      "name": "Flip A Switch.",
-      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
+      "duration_ms": 199293,
+      "name": "The Thrill Is Gone.",
+      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 199293,
-      "name": "The Thrill Is Gone.",
-      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
+      "duration_ms": 201373,
+      "name": "Flip A Switch.",
+      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
     },
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make It To Heaven (with Raye)",
-        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Make It to Heaven (with Raye)",
-      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BED (David Guetta Festival Mix)",
         "url": "https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 235200,
       "name": "BED - David Guetta Festival Mix",
       "url": "https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make It To Heaven (with Raye)",
+        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "Make It to Heaven (with Raye)",
+      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
     },
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
         }
       ],
-      "duration_ms": 91780,
-      "name": "Mary Jane vs Graeme Blevins. - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/2TI2gRkaJek6ZH0KehqwcG"
+      "duration_ms": 97528,
+      "name": "Overture. - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2aU4dNaEpGQIp1oGkmJlBZ"
     },
     {
       "added_at": null,
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
         }
       ],
-      "duration_ms": 97528,
-      "name": "Overture. - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/2aU4dNaEpGQIp1oGkmJlBZ"
+      "duration_ms": 91780,
+      "name": "Mary Jane vs Graeme Blevins. - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2TI2gRkaJek6ZH0KehqwcG"
     },
     {
       "added_at": null,

@@ -3059,6 +3059,28 @@
     },
     {
       "album": {
+        "name": "Lost Futures",
+        "url": "https://open.spotify.com/album/1ccFrrZoLFGfDM2LaB8bc6"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236364,
+      "name": "News About Heaven",
+      "url": "https://open.spotify.com/track/0GTopopHvqgaIbV8VSx9wM"
+    },
+    {
+      "album": {
         "name": "Noise",
         "url": "https://open.spotify.com/album/4kOLBB19jvRtoVfnMEN5Cg"
       },
@@ -3388,7 +3410,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 234878,
       "name": "Ouverture",
       "url": "https://open.spotify.com/track/6XF87ir7jZgsz7i4iWWvJI"

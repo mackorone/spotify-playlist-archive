@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-401 songs - 21 hr 48 min
+402 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Pour All Night](https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Thelonious](https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s) | [Pour All Night](https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e) | 3:29 | 2021-11-19 | 2022-01-08 |
 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 | 2023-06-09 |  |
 | [Power](https://open.spotify.com/track/1nmuZI2wKNBEyqXkDIDN91) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Power](https://open.spotify.com/album/6unE3WcMjp3qr9sVt4LmY2) | 3:26 | 2022-12-09 | 2023-01-20 |
-| [Psycho](https://open.spotify.com/track/4AfRmTreKv9Djf3FNd97FS) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Malaa \(Alter Ego\)](https://open.spotify.com/artist/23OllNLLdftM8a6HhEhAi9), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Psycho](https://open.spotify.com/album/7dEANzVyOHnQQerh3k6esg) | 3:10 | 2025-01-10 |  |
+| [Protocol](https://open.spotify.com/track/2JqvYABtzlyJ7XI2KOW0QV) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC) | [OMEN](https://open.spotify.com/album/08l9hwOKLZT7J3UazDDgzc) | 2:18 | 2025-03-28 |  |
+| [Psycho](https://open.spotify.com/track/4AfRmTreKv9Djf3FNd97FS) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Malaa \(Alter Ego\)](https://open.spotify.com/artist/23OllNLLdftM8a6HhEhAi9), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Psycho](https://open.spotify.com/album/7dEANzVyOHnQQerh3k6esg) | 3:10 | 2025-01-10 | 2025-04-01 |
 | [Purple Lamborghini \(with Rick Ross\)](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Purple Lamborghini \(with Rick Ross\)](https://open.spotify.com/album/3W6iNTF9ajh2btsyxslpCY) | 3:35 | 2022-07-22 | 2022-12-03 |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 |  |
 | [Puzzle Box](https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Puzzle Box](https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M) | 3:32 | 2022-03-11 |  |

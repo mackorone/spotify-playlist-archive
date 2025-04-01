@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: late night drive home
 
-3,171 songs - 7 day 0 hr 41 min
+3,172 songs - 7 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1332,6 +1332,7 @@
 | [I Just Want That Movie Ending](https://open.spotify.com/track/26wbsjbBrWrEDGWsuMNXGk) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [I Just Want That Movie Ending](https://open.spotify.com/album/1hLNThy6I1yvXw0bCBsTwm) | 4:30 | 2022-03-18 | 2022-04-09 |
 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-09-23 | 2022-10-29 |
 | [I Know Nothing At All](https://open.spotify.com/track/00lb13Y2ROaiMi3u5NPRFQ) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OTHERBODY](https://open.spotify.com/album/1FrxEEIn0BIIffAaf2Njfs) | 2:33 | 2023-05-01 | 2023-06-03 |
+| [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 | 2025-03-31 |  |
 | [I Look Alive](https://open.spotify.com/track/5vdLIDyjCWDzUGx71q3nOa) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [I Look Alive](https://open.spotify.com/album/4i4HgvJHB3O2cLvAcKOBeY) | 3:58 | 2024-10-18 | 2025-01-18 |
 | [I Love This Part](https://open.spotify.com/track/4wy91vbmH7EGY0q8qrUjTX) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [I Love This Part](https://open.spotify.com/album/4dwxRRxH7No8fqNlMG3qMF) | 3:02 | 2022-03-25 | 2022-05-28 |
 | [I Might Fall In Love](https://open.spotify.com/track/0nvdQLgHJWmwOSxBKAXJK4) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [I Might Fall In Love](https://open.spotify.com/album/6AlbPtyeZf1N1DXg3gcCow) | 3:32 | 2022-06-24 | 2022-07-30 |

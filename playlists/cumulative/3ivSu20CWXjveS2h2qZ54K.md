@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,608 songs - 8 day 7 hr 42 min
+3,609 songs - 8 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2481,6 +2481,7 @@
 | [Poems](https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Nostalgia Death Act 1](https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw) | 3:49 | 2024-07-12 | 2024-07-19 |
 | [POETA MODERNET](https://open.spotify.com/track/6IuXqremosnpKA0ruA9lKP) | [Al·lèrgiques al pol·len](https://open.spotify.com/artist/0M6k9ahckv10ACmoT6IIbS) | [POETA MODERNET](https://open.spotify.com/album/3t7ssSDAIvWZyPD5Ebslp0) | 2:09 | 2024-11-15 | 2024-11-23 |
 | [Polvo de tu Vida](https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Polvo de tu Vida](https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh) | 2:52 | 2024-06-07 | 2024-06-15 |
+| [Pompeya](https://open.spotify.com/track/06Y1gReJMsH7X2obxr9LhV) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2), [Alondra Bentley](https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3) | [Pompeya](https://open.spotify.com/album/245BGxtR13VK9P8fDZW1Uh) | 4:01 | 2025-03-31 |  |
 | [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 | 2025-03-06 | 2025-03-15 |
 | [Pony](https://open.spotify.com/track/0KYSOh2TEXrukuS00PfCB3) | [The Men](https://open.spotify.com/artist/30XB6UJMhn7v7ZDX2GlIsM) | [Pony](https://open.spotify.com/album/1E0hWSa51d7q4eKb167gF6) | 2:44 | 2024-11-28 | 2024-12-07 |
 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 | 2024-12-13 | 2024-12-28 |

@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 177000,
       "name": "Dag etter dag",
       "url": "https://open.spotify.com/track/0ICFzymmGVBrldD4odQgXf"
@@ -5296,6 +5296,24 @@
       "duration_ms": 141176,
       "name": "STILO",
       "url": "https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B"
+    },
+    {
+      "album": {
+        "name": "Storby Psykose",
+        "url": "https://open.spotify.com/album/23bUcQK6PZuNgdgJ86DvOP"
+      },
+      "artists": [
+        {
+          "name": "Kode.59",
+          "url": "https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Storby Psykose",
+      "url": "https://open.spotify.com/track/6vaYWHrBfUD5WqOJvqYZ2a"
     },
     {
       "album": {

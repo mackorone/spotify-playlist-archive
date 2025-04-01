@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 209333,
       "name": "Bersabarlah Sayang",
       "url": "https://open.spotify.com/track/460DbFlJM33MPBPBJ31ZfD"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 159093,
       "name": "Bila Takbir Bergema",
       "url": "https://open.spotify.com/track/2jIdcT0HmgwUV2nJk5qzfL"
@@ -3496,7 +3496,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Cahaya Aidilfitri",
       "url": "https://open.spotify.com/track/77QVIMNs9jeiTsTURUkhGa"
@@ -4926,7 +4926,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 163333,
       "name": "Dendang Perantau",
       "url": "https://open.spotify.com/track/4S5D7LtgiHLhoQSe4kMMIh"
@@ -5584,7 +5584,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 187263,
       "name": "drunk text",
       "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
@@ -7666,7 +7666,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 184698,
       "name": "Handlebars (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
@@ -10103,6 +10103,24 @@
     },
     {
       "album": {
+        "name": "Kasih Lebaran",
+        "url": "https://open.spotify.com/album/3JmhkFPxKnqrXdC8tgwQl6"
+      },
+      "artists": [
+        {
+          "name": "Sufian Suhaimi",
+          "url": "https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201625,
+      "name": "Kasih Lebaran",
+      "url": "https://open.spotify.com/track/0sifzWpJd8P1uZ15x4nIWY"
+    },
+    {
+      "album": {
         "name": "Pesan Dari Surga",
         "url": "https://open.spotify.com/album/6sRTe26Ku29Ia4xvRxxin9"
       },
@@ -12088,7 +12106,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 234589,
       "name": "Masing Masing",
       "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
@@ -15012,7 +15030,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 287071,
       "name": "Rahsia Tuhan",
       "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
@@ -15092,6 +15110,28 @@
       "duration_ms": 167200,
       "name": "Raya Raya Raya",
       "url": "https://open.spotify.com/track/5bu4tKnKyjBwQhLdDK7VWe"
+    },
+    {
+      "album": {
+        "name": "Raya ya ya",
+        "url": "https://open.spotify.com/album/1f5dWyBEVa2XLX8vag3Wec"
+      },
+      "artists": [
+        {
+          "name": "Iman Troye",
+          "url": "https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq"
+        },
+        {
+          "name": "Dato' Sri Aliff Syukri",
+          "url": "https://open.spotify.com/artist/28EjmOA1xrfZfVFp9qQU0R"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Raya ya ya",
+      "url": "https://open.spotify.com/track/3veoUajhvh3RRu3Be1ilr8"
     },
     {
       "album": {
@@ -15268,7 +15308,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 265406,
       "name": "Reminisensi",
       "url": "https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE"
@@ -16358,7 +16398,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 155746,
       "name": "Selamat Hari Raya",
       "url": "https://open.spotify.com/track/7vCNi9mpNQCB8BPsja8U76"
@@ -16546,7 +16586,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 262272,
       "name": "Seribu Tahun Lagi",
       "url": "https://open.spotify.com/track/1RKXxb95nvXtM7EQ6WtPmG"
@@ -19356,7 +19396,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -20820,7 +20860,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 288026,
       "name": "Warna Warni Aidilfitri",
       "url": "https://open.spotify.com/track/2NuXB2BK357vJ2yvLL7OB0"
@@ -20936,7 +20976,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

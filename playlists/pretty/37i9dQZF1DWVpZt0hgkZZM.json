@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 38783,
+  "num_followers": 38800,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
-      },
-      "artists": [
-        {
-          "name": "Rhapsodia",
-          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
-        }
-      ],
-      "duration_ms": 410070,
-      "name": "Nuestro Amor Ser\u00e1",
-      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
+      },
+      "artists": [
+        {
+          "name": "Rhapsodia",
+          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
+        }
+      ],
+      "duration_ms": 410070,
+      "name": "Nuestro Amor Ser\u00e1",
+      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 295879,
-      "name": "Bebiendo y Llorando",
-      "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Cordobesa",
-        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
       },
       "artists": [
         {
-          "name": "La Sonora Cordobesa",
-          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 160606,
-      "name": "Bocachico Sinuano",
-      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
+      "duration_ms": 295879,
+      "name": "Bebiendo y Llorando",
+      "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1411,6 +1395,22 @@
       "duration_ms": 271573,
       "name": "El Debilitao",
       "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de la Sonora Cordobesa",
+        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Cordobesa",
+          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+        }
+      ],
+      "duration_ms": 160606,
+      "name": "Bocachico Sinuano",
+      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Alfredo Guti\u00e9rrez",
-        "url": "https://open.spotify.com/album/0YYxKT1WDdzYUvPA09rkG8"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        }
-      ],
-      "duration_ms": 217421,
-      "name": "Hue Le La",
-      "url": "https://open.spotify.com/track/4f1SHxvB9HorDX5gX1YxPU"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
         "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de Alfredo Guti\u00e9rrez",
+        "url": "https://open.spotify.com/album/0YYxKT1WDdzYUvPA09rkG8"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        }
+      ],
+      "duration_ms": 217421,
+      "name": "Hue Le La",
+      "url": "https://open.spotify.com/track/4f1SHxvB9HorDX5gX1YxPU"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
       },
@@ -1621,8 +1621,8 @@
         }
       ],
       "duration_ms": 148536,
-      "name": "La Ca\u00f1a de Azucar",
-      "url": "https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo"
+      "name": "El Eco y el Carretero",
+      "url": "https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1733,8 +1733,8 @@
         }
       ],
       "duration_ms": 148536,
-      "name": "El Eco y el Carretero",
-      "url": "https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl"
+      "name": "La Ca\u00f1a de Azucar",
+      "url": "https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

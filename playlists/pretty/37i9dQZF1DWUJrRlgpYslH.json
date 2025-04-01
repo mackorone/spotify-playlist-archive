@@ -1,6 +1,6 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 103554,
+  "num_followers": 103587,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-08-09 15:11:20",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2024-08-09 15:11:20",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+    },
+    {
+      "added_at": "2024-08-09 15:11:20",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2024-08-09 15:11:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-09 15:11:20",
       "album": {
-        "name": "Tails",
-        "url": "https://open.spotify.com/album/6T9F35NdrGIdrMrVAwBEb7"
-      },
-      "artists": [
-        {
-          "name": "Lisa Loeb & Nine Stories",
-          "url": "https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp"
-    },
-    {
-      "added_at": "2024-08-09 15:11:20",
-      "album": {
         "name": "Breakthrough (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 215546,
       "name": "Fallin' For You",
       "url": "https://open.spotify.com/track/1le5KVGTF1xWf2aUj7ruLy"
+    },
+    {
+      "added_at": "2024-08-09 15:11:20",
+      "album": {
+        "name": "Tails",
+        "url": "https://open.spotify.com/album/6T9F35NdrGIdrMrVAwBEb7"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb & Nine Stories",
+          "url": "https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp"
     },
     {
       "added_at": "2024-08-09 15:11:20",

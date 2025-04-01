@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Flick
 
-741 songs - 1 day 13 hr 36 min
+742 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Pray For Me](https://open.spotify.com/track/4XM2KilXlDb2siMTkCGBPI) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [Pray For Me](https://open.spotify.com/album/1brnCFqF8lOK2AiUcHtmf4) | 3:19 | 2024-06-07 | 2024-06-28 |
 | [Prayed Up](https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Prayed Up](https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB) | 2:48 | 2023-08-03 | 2023-08-25 |
 | [Presidential Flow](https://open.spotify.com/track/0T7RP4RexQAzcJEH3zEmun) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Presidential Flow](https://open.spotify.com/album/75BOIUImVfqmTO0Nc1ZVnP) | 2:55 | 2024-01-19 | 2024-03-08 |
+| [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 | 2025-03-31 |  |
 | [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-14 |  |
 | [Princess](https://open.spotify.com/track/4odJCj9E7HSg2bRtJdISjK) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/6qR7Ngfx489PeBLe7EgS94) | 1:37 | 2025-03-06 | 2025-03-14 |
 | [Problem](https://open.spotify.com/track/1ap13V0TDN8mn99eaaWEcd) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Problem](https://open.spotify.com/album/23XTTIJBevXciIi6ywpOvV) | 2:34 | 2024-07-26 | 2024-08-30 |
@@ -687,7 +688,7 @@
 | [Valley Of Trappers](https://open.spotify.com/track/0M45LdUPRAlAZJUp6jeHL5) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [Valley Of Trappers](https://open.spotify.com/album/7mZz6DhJ44tgc0rIypklgj) | 2:13 | 2024-04-19 | 2025-03-29 |
 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 | 2024-07-19 |  |
 | [Vawulence \(Remix\)](https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Vawulence \(Remix\)](https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri) | 2:54 | 2024-01-12 | 2024-05-03 |
-| [VIBE C FLOW](https://open.spotify.com/track/6nwxa1vc42iRaFqXZKwPuJ) | [Sokka Sdw](https://open.spotify.com/artist/4PlWzQ3evhRTWHK6u78Cdk) | [VIBE C FLOW](https://open.spotify.com/album/5ZjNJYDnqKSnXks0didoJe) | 1:50 | 2025-03-21 |  |
+| [VIBE C FLOW](https://open.spotify.com/track/6nwxa1vc42iRaFqXZKwPuJ) | [Sokka Sdw](https://open.spotify.com/artist/4PlWzQ3evhRTWHK6u78Cdk) | [VIBE C FLOW](https://open.spotify.com/album/5ZjNJYDnqKSnXks0didoJe) | 1:50 | 2025-03-21 | 2025-04-01 |
 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 | 2022-06-24 | 2023-02-11 |
 | [VIENNA GIRL](https://open.spotify.com/track/7gUcIlYHUtnEf8DGoOEEd3) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [VIENNA GIRL](https://open.spotify.com/album/5xCrRNDZBC8jfTMw1j1ygP) | 2:25 | 2024-05-03 |  |
 | [Virgin](https://open.spotify.com/track/2PA1H6OkeKlz1PE7M3Wzcj) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Virgin](https://open.spotify.com/album/6PqKYBkwgpg2FVHFTiMbVx) | 2:17 | 2025-03-14 |  |

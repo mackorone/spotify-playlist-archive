@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Fascination",
+        "url": "https://open.spotify.com/album/5v5R3JtW0bvAqJWAcJRpnR"
+      },
+      "artists": [
+        {
+          "name": "Gaston",
+          "url": "https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/47WewSqip6G4BSSi8V8O8N"
+    },
+    {
+      "album": {
         "name": "Fine line (Instrumental)",
         "url": "https://open.spotify.com/album/1O5RL3FtwvqQN1CJ2hlTF8"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 174521,
       "name": "New Home (Slowed)",
       "url": "https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW"

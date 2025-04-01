@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Strong Feelings",
+        "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244533,
+      "name": "Strong Feelings",
+      "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
+    },
+    {
+      "album": {
         "name": "Hope Downs",
         "url": "https://open.spotify.com/album/0zL1ncgS3vbeh8iQ2qywwY"
       },
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 234097,
       "name": "Yo Cuid\u00e9 a Tu Amor",
       "url": "https://open.spotify.com/track/2rlnTBTeAYRCiWRV5OiSug"

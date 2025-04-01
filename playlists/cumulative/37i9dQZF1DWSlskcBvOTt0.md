@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-884 songs - 3 day 4 hr 47 min
+885 songs - 3 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 | 2022-08-05 | 2023-07-22 |
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-04-21 | 2022-10-13 |
 | [Bacall](https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Noir](https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G) | 4:06 | 2022-07-01 | 2023-04-29 |
-| [Back 2 Me](https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Back 2 Me](https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi) | 2:41 | 2024-11-08 |  |
+| [Back 2 Me](https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Back 2 Me](https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi) | 2:41 | 2024-11-08 | 2025-04-01 |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-03-25 | 2023-09-30 |
 | [Back On 74 \- Rework](https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT) | [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z), [Arper](https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq) | [Back On 74 \(Rework\)](https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W) | 5:40 | 2024-08-23 |  |
 | [Back To Life](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Back To Life](https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW) | 3:33 | 2025-03-14 |  |
@@ -732,6 +732,7 @@
 | [Starz](https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9) | 5:00 | 2022-11-11 | 2023-03-23 |
 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 | 2023-03-31 | 2024-03-08 |
 | [State Of Mind](https://open.spotify.com/track/56cy6VeMITQwVSB59W60sg) | [MIICHII](https://open.spotify.com/artist/6BbFRF1B3d5gTvDj2Q8gUw) | [State Of Mind](https://open.spotify.com/album/4maF20FgW8psnhV4JpmF9d) | 8:05 | 2021-05-07 | 2022-06-17 |
+| [Stay Here](https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Stay Here](https://open.spotify.com/album/5mAHnG3rpP9QywIex52LyW) | 3:58 | 2025-03-28 |  |
 | [Storyteller](https://open.spotify.com/track/0WSqJpY7RsFv2EszoXDANr) | [Shai T](https://open.spotify.com/artist/3peEllG3urQKzvyoZf4UgN) | [Miracles](https://open.spotify.com/album/2y4op7MZHA2kuzZhsN6Mlv) | 7:30 | 2021-04-21 | 2022-07-09 |
 | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda\]](https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda\]](https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc) | 3:11 | 2023-07-07 | 2024-04-19 |
 | [Stuck In Melodies](https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Stuck In Melodies](https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D) | 3:31 | 2023-06-09 | 2023-10-08 |

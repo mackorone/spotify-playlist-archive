@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-457 songs - 23 hr 23 min
+458 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,7 @@
 | [Solar Plexus 528 Hz](https://open.spotify.com/track/4KDNgNpc0O2AcWhFQKrjpy) | [Stardust Waves](https://open.spotify.com/artist/3K1Lkycummq31rCDkrnZPv) | [Solar Plexus 528 Hz](https://open.spotify.com/album/2Ko0m904fdmXjFDMBFHI1i) | 3:00 | 2024-04-05 |  |
 | [Solaris](https://open.spotify.com/track/6RiFmLjeXzsi3ivJmwalQk) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Solaris](https://open.spotify.com/album/12dUsxCb14lYdk35EH9lZY) | 2:48 | 2025-02-28 |  |
 | [Solfeggio Purity 741 Hz](https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Purity 741 Hz](https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez) | 2:55 | 2023-07-28 | 2025-01-23 |
-| [Sonar Light](https://open.spotify.com/track/4odbTZUw8sqfkz0Aor84DV) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Sonar Light](https://open.spotify.com/album/1HMquYwpOmvSvYpxXvvolE) | 3:03 | 2024-05-20 |  |
+| [Sonar Light](https://open.spotify.com/track/4odbTZUw8sqfkz0Aor84DV) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Sonar Light](https://open.spotify.com/album/1HMquYwpOmvSvYpxXvvolE) | 3:03 | 2024-05-20 | 2025-04-01 |
 | [Soulful Solitude](https://open.spotify.com/track/7jQjXE5ZsOpzeY8lhP8oQA) | [Fresh Inclinations](https://open.spotify.com/artist/0THmB0GAXHP7bJEB3XqT7c) | [Soulful Solitude](https://open.spotify.com/album/6TVn9amY9rhwaPYKisSE1V) | 2:36 | 2024-07-15 |  |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2022-01-12 | 2024-05-21 |
 | [Southward Bound \(432 Hz\)](https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Southward Bound](https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr) | 2:34 | 2022-11-11 | 2025-01-22 |
@@ -452,6 +452,7 @@
 | [Wherever We Go](https://open.spotify.com/track/0AFJiHFXZLXvM426b05kQA) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Wherever We Go](https://open.spotify.com/album/060ql2hG4jbNXknXA8sEIu) | 2:32 | 2025-01-21 |  |
 | [Wide Horizon](https://open.spotify.com/track/2yCVaaUmCeSUbrCEvGtBz2) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Wide Horizon](https://open.spotify.com/album/6VQaZmXz3lDCQYFXoO3jEX) | 2:50 | 2024-01-17 | 2024-10-20 |
 | [Wider Purpose](https://open.spotify.com/track/4R5tfiuzHBNvUh71998qJM) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Wider Purpose](https://open.spotify.com/album/7hAwWhV1BZVOql2EPChZVk) | 2:43 | 2024-01-17 |  |
+| [World of Solitude \(ambient sleep\)](https://open.spotify.com/track/3xDbCldr6KXuFdT3E49DDf) | [Astral Ocean](https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6) | [World of Solitude \(ambient sleep\)](https://open.spotify.com/album/1REDSnaGybkfnVosX1M6AB) | 2:43 | 2025-03-25 |  |
 | [Wrapped in Warmth](https://open.spotify.com/track/6vUO4F4h0Fg01FyiWFa8hb) | [Multicolored Dreams](https://open.spotify.com/artist/6sIcU8P0T1TcAjOHEkAt3Q) | [Wrapped in Warmth](https://open.spotify.com/album/6gX6pglJXaKDnCdC6x2Ls6) | 3:32 | 2022-01-12 | 2022-02-02 |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-04-21 |  |

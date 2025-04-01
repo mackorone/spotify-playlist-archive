@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Dei V & Omar Courtz, Feid & Ty Dolla $ign, Emilia, TINI & Nicki Nicole and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,669 likes - 56 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,691 likes - 56 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

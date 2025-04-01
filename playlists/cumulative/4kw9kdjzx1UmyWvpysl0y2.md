@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-948 songs - 2 day 5 hr 39 min
+949 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Give Me A Second](https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Give Me A Second](https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0) | 4:22 | 2022-01-21 | 2022-03-30 |
 | [Go Stupid](https://open.spotify.com/track/08cSrWKeWhO6gHL3E3l0c6) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Go Stupid](https://open.spotify.com/album/1Ff3Kx4DU8dSoHwRK38yDt) | 2:27 | 2024-09-16 | 2024-12-07 |
 | [GODSP33D](https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP) | 3:51 | 2022-03-28 | 2022-06-09 |
+| [Going Under](https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Going Under](https://open.spotify.com/album/18qd9Qz8xCZzTnsWnHkp7v) | 2:41 | 2025-03-31 |  |
 | [Golden](https://open.spotify.com/track/6jMonGirFrktmZJtzL9p1v) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Golden](https://open.spotify.com/album/0qwAAkozsllq8QcGddgi24) | 3:34 | 2023-03-08 | 2023-05-31 |
 | [Golden Leaves](https://open.spotify.com/track/4kgAtYwG7vkQIiJ6BaUvzZ) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Golden Leaves](https://open.spotify.com/album/2d0pcvKiUVCjUe9f4zSp2x) | 3:07 | 2023-10-10 | 2024-01-26 |
 | [Good Feeling](https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Good Feeling](https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK) | 3:22 | 2021-12-06 | 2022-03-11 |

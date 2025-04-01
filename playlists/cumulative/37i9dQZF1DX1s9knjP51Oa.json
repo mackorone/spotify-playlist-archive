@@ -7045,6 +7045,24 @@
     },
     {
       "album": {
+        "name": "L'aube",
+        "url": "https://open.spotify.com/album/6gGss4PADu9mLuChpsMpZt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Maury",
+          "url": "https://open.spotify.com/artist/2L45Yn85mKJs9hVQGcaXwS"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "L'aube",
+      "url": "https://open.spotify.com/track/0BHvhpdDy5TcHjK2Fgrcjh"
+    },
+    {
+      "album": {
         "name": "L'automne est l\u00e0",
         "url": "https://open.spotify.com/album/5SL3Sreq6F4aZK51eXYIm8"
       },
@@ -13124,6 +13142,24 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb"
+      },
+      "artists": [
+        {
+          "name": "Claudia Schumann",
+          "url": "https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149182,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78"
     },
     {
       "album": {

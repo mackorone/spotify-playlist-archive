@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,489 songs - 3 day 12 hr 31 min
+1,490 songs - 3 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,7 +751,7 @@
 | [Little Bit Of Love](https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Little Bit Of Love](https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz) | 3:15 | 2020-05-23 | 2022-07-29 |
 | [Little Bit of Love](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Acoustic\)](https://open.spotify.com/album/4TFniUvcapARz1DzhdKPas) | 3:46 | 2021-05-14 | 2022-07-29 |
 | [Little L](https://open.spotify.com/track/5sS4g0adkAUXvLJHQ1i2kj) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/2M50cB74zAc1lQNlrlYHxY) | 4:55 | 2019-11-08 | 2021-05-27 |
-| [Live Everyday](https://open.spotify.com/track/16O4Md5cdgXEm3uUQULVvR) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Sunrise](https://open.spotify.com/album/0y8pIxr4NKnyTwpZnrWqYH) | 3:23 | 2025-03-03 |  |
+| [Live Everyday](https://open.spotify.com/track/16O4Md5cdgXEm3uUQULVvR) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Sunrise](https://open.spotify.com/album/0y8pIxr4NKnyTwpZnrWqYH) | 3:23 | 2025-03-03 | 2025-04-01 |
 | [Live Forever](https://open.spotify.com/track/4ownN808GtYeavQgh5RBOB) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr), [Lexy Panterra](https://open.spotify.com/artist/5bB58D2RfSIIM2eBJy2Kww), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Live Forever](https://open.spotify.com/album/34Rfryw69aC39DScJPubpT) | 3:21 | 2019-08-05 | 2021-05-13 |
 | [Live It Up](https://open.spotify.com/track/5gTzTrw6ORSPWK9qxVKCnf) | [Mental As Anything](https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK) | [Essential As Anything](https://open.spotify.com/album/5iTdMXmcuJl7bqVIsIJ76D) | 3:47 | 2021-03-20 | 2022-04-13 |
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2023-01-30 |  |
@@ -793,7 +793,7 @@
 | [Love On Myself](https://open.spotify.com/track/4KmfgzXQ1trtD2eY7CtUAP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Love On Myself](https://open.spotify.com/album/6VW7kUijiZ6DmX9066eMlJ) | 2:49 | 2021-03-15 | 2021-05-28 |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2019-08-01 | 2022-04-12 |
 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 | 2019-07-30 | 2022-04-04 |
-| [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 | 2019-08-01 | 2025-03-17 |
+| [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 | 2019-08-01 |  |
 | [Love Songs](https://open.spotify.com/track/5WmPL0RQxooB4si6PuSkUi) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Love Songs](https://open.spotify.com/album/0I3jWk2OaJ6jjQt3bbJllg) | 3:15 | 2020-06-30 | 2022-07-28 |
 | [Love Songs](https://open.spotify.com/track/0Fs0pr0lq3408wD1cemNll) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Songs](https://open.spotify.com/album/4Nflv5XvC1phnt8ZwFs1Ta) | 3:11 | 2020-05-04 | 2022-04-19 |
 | [Love Today](https://open.spotify.com/track/7d40ltmahMLJKA8HhzX9xe) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/1lGwdsq4OtYZfIIoi4p79E) | 3:55 | 2019-10-25 | 2019-10-26 |
@@ -995,9 +995,10 @@
 | [People Everyday \- Metamorphosis Mix](https://open.spotify.com/track/5thts3213xwSroRd11fv5A) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Greatest Hits](https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm) | 4:56 | 2019-08-01 | 2021-07-27 |
 | [Perfect](https://open.spotify.com/track/3ZqGaV6I9FgRureoCBPzuF) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The Very Best Of Fairground Attraction](https://open.spotify.com/album/1hZS2rfcjyWuE2I0iql5wY) | 3:37 | 2019-08-09 | 2022-04-19 |
 | [Perfect Places](https://open.spotify.com/track/1wC93sZRGcTgKLN2UWRSwW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/4JeJPyNnsB3tqnHR7RL5v5) | 3:41 | 2021-05-11 | 2022-04-19 |
-| [Peripheral Lover](https://open.spotify.com/track/4HbD58hUbzkczpKCHvlZGr) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/4q1PrAoSunC7Hfhd16a092) | 3:15 | 2025-03-03 |  |
+| [Peripheral Lover](https://open.spotify.com/track/4HbD58hUbzkczpKCHvlZGr) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/4q1PrAoSunC7Hfhd16a092) | 3:15 | 2025-03-03 | 2025-04-01 |
 | [Phew](https://open.spotify.com/track/1IDv6LpNsbHngIuH6hlmvb) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Pollyanarchy](https://open.spotify.com/album/5au7ixdQYFkdlr01uMTfXb) | 3:19 | 2019-10-25 | 2022-04-12 |
 | [Physical](https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS) | 3:13 | 2021-03-10 | 2022-04-12 |
+| [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 | 2025-03-31 |  |
 | [Pick Me](https://open.spotify.com/track/1MDRc141FqtXbIP0UPrdiO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Pick Me](https://open.spotify.com/album/1RxckMhTl9KU5SqyhsHv58) | 2:58 | 2020-06-12 | 2022-04-20 |
 | [Pick Me Up](https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Pick Me Up](https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0) | 2:54 | 2021-07-01 | 2022-07-29 |
 | [Piece Of My Mind](https://open.spotify.com/track/39IO8ecvUkYbbgtP9Q8CxU) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Piece Of My Mind](https://open.spotify.com/album/3SXpSwAS8NCHsPBU2IKAkC) | 3:20 | 2022-04-05 | 2022-04-08 |

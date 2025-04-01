@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,928 likes - 104 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,910 likes - 104 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

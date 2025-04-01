@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-3,196 songs - 7 day 1 hr 38 min
+3,197 songs - 7 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [Comme un oiseau](https://open.spotify.com/track/4cSvVZdMWCPkGmmCjneYDu) | [Komo](https://open.spotify.com/artist/5wg2ra651q5K20VOy3WUqL) | [Comme un oiseau](https://open.spotify.com/album/5umCSAciVXC9tdAO1Dca4C) | 2:48 | 2022-04-08 | 2022-04-16 |
 | [Comme un saule](https://open.spotify.com/track/1eAMh00UJJx2sj4FDylYBl) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Comme un saule](https://open.spotify.com/album/75l2H4yE3KjVWhyigNUdgo) | 3:06 | 2023-06-23 | 2023-07-09 |
 | [Comme une évidence](https://open.spotify.com/track/2ppnLfEpEqlDZs8qmpsdCB) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte deux](https://open.spotify.com/album/531fHm8Odx5THAX4CuLg91) | 3:36 | 2022-09-02 | 2022-09-17 |
+| [Comme Ye](https://open.spotify.com/track/64pEZyDpOpb3zOjryhvNSv) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Comme Ye](https://open.spotify.com/album/1xyFYAejJRKhUdTk0lkUas) | 2:33 | 2025-03-28 |  |
 | [Comme ça](https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Comme ça](https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt) | 2:31 | 2023-10-27 | 2024-01-05 |
 | [Comme ça](https://open.spotify.com/track/5tMRCsbCLNfbrKCAf47kYe) | [Shecky](https://open.spotify.com/artist/3N3ik9Imb3cjqYRL6cz3qv) | [Amour Délétère](https://open.spotify.com/album/1KCL3PKWV96JnYgq5i71hN) | 2:52 | 2022-08-05 | 2022-08-27 |
 | [Comment comment](https://open.spotify.com/track/1AXzOrfhuYFimANimmvIeH) | [Dominique Hudson](https://open.spotify.com/artist/5jUUxz4x0tzHtghlDNyBLa), [Stefano Torrex](https://open.spotify.com/artist/5nB3srQnV3w0QZms0DM6S8) | [Comment comment](https://open.spotify.com/album/1RlT0KHsTw6RGhT6b0gki3) | 2:49 | 2022-09-30 | 2022-10-15 |
@@ -1539,7 +1540,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/6BpzjdJyNxG2Yf47YLoQah) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Queen of Hearts](https://open.spotify.com/album/6F13Kct2RcazzysroP8157) | 3:04 | 2021-12-31 | 2022-01-22 |
 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-03 | 2023-12-17 |
 | [La visite](https://open.spotify.com/track/2wqyaiPDgS5ZZrFlx1Q35V) | [Veranda](https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M) | [Là\-bas](https://open.spotify.com/album/2KWmLmZE7yZ8bwjCaHhpPK) | 3:53 | 2022-09-16 | 2022-09-24 |
-| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-21 |  |
+| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-21 | 2025-04-01 |
 | [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 | 2024-10-18 | 2024-12-15 |
 | [Lady Renarde](https://open.spotify.com/track/3EbASRjxu4gSNOQBJJVaYJ) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Lady Renarde](https://open.spotify.com/album/4J1K1l4YEcDanstwGuvwtV) | 3:44 | 2024-02-16 | 2024-02-24 |
 | [Laisse faire](https://open.spotify.com/track/7eFQnRjylo3pQbelR1R4Pz) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Laisse faire](https://open.spotify.com/album/3H8t91CIYSCZq8tEYobUio) | 3:04 | 2023-03-10 | 2023-03-18 |

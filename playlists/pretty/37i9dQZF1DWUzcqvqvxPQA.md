@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Spring is here! Check out these fresh tracks to keep your faith blooming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,393 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,407 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 45 | [Prayers Filled With Praises \- ambient](https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Prayers Filled With Praises \(ambient\)](https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F) | 4:06 |
 | 46 | [iN THE ENd \(up2U\)](https://open.spotify.com/track/1092156OHNOEq5y2DIZl8j) | [AMXNRADIO](https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [iN THE ENd \~iii](https://open.spotify.com/album/71Uj0r3tiQ8keskP8SQHpd) | 7:46 |
 | 47 | [Right Where You Are](https://open.spotify.com/track/1UscjxjPkZ25Efe8rEaUQM) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Right Where You Are](https://open.spotify.com/album/1nM9E1dc2aBJaITJouZT3S) | 3:07 |
-| 48 | [The Light](https://open.spotify.com/track/1zgbKCVxcGxdbqce60bEAz) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [The Light](https://open.spotify.com/album/7FmN15oCd3uLB8QamfIrKg) | 3:09 |
-| 49 | [Hand It To Jesus](https://open.spotify.com/track/4EyCv6grVlsZoraot8LTGJ) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Hand It To Jesus](https://open.spotify.com/album/76iEI6HptDGdJAsxp5jF2y) | 3:40 |
-| 50 | [Heartbeat \- Live](https://open.spotify.com/track/5901lRKYg3yE8TSikghLsO) | [Gateway ALL IN](https://open.spotify.com/artist/4UBVmZZCusAPfH11kGImxO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Heartbeat \(Live\)](https://open.spotify.com/album/3e4yorS3h0tIJ93uvOcVK4) | 3:35 |
+| 48 | [Hand It To Jesus](https://open.spotify.com/track/4EyCv6grVlsZoraot8LTGJ) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Hand It To Jesus](https://open.spotify.com/album/76iEI6HptDGdJAsxp5jF2y) | 3:40 |
+| 49 | [Heartbeat \- Live](https://open.spotify.com/track/5901lRKYg3yE8TSikghLsO) | [Gateway ALL IN](https://open.spotify.com/artist/4UBVmZZCusAPfH11kGImxO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Heartbeat \(Live\)](https://open.spotify.com/album/3e4yorS3h0tIJ93uvOcVK4) | 3:35 |
 
-Snapshot ID: `Z90xOwAAAAB4bOzhEWRlotipcij4sUl0`
+Snapshot ID: `Z+sHkQAAAABs1sNm3m4vff4masJbEBJh`

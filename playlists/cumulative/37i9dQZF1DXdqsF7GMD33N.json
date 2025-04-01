@@ -1383,6 +1383,32 @@
     },
     {
       "album": {
+        "name": "Something To Shout About",
+        "url": "https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177689,
+      "name": "Something To Shout About",
+      "url": "https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g"
+    },
+    {
+      "album": {
         "name": "Les Mis\u00e9rables (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD"
       },

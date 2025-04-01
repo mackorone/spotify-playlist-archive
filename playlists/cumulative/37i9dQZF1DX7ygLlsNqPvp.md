@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-242 songs - 12 hr 10 min
+243 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [For The Streetz](https://open.spotify.com/track/1gS2JFbUnIGwzPAZAx7CaG) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [For The Streetz](https://open.spotify.com/album/3ue4vYiExwOP9VvpipbTJS) | 2:22 | 2025-02-28 | 2025-03-21 |
 | [Frass](https://open.spotify.com/track/4YesAXkrlESdn1Vk2f65pa) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Nothing Matters](https://open.spotify.com/album/6nhytxiQ5m9fgRIMKoqgbi) | 2:43 | 2022-12-08 | 2023-02-11 |
 | [Fre Me](https://open.spotify.com/track/5jOjRAFGcCLd0gMUyviyM4) | [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fre Me](https://open.spotify.com/album/5vpZvekXCaEXVDqSuN7vMW) | 2:51 | 2022-10-30 | 2022-11-19 |
-| [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/track/4JFvMJhj0IItMMOosrxEJY) | [FREE THE YOUTH](https://open.spotify.com/artist/0DtFQ5ZCavMbEf4jmYsgui), [Lil Skid](https://open.spotify.com/artist/1e9JfhpBsf4VF51AWObUBa), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/album/27UWJ4EXmYP7pg6B9Aehxp) | 2:59 | 2025-02-28 |  |
+| [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/track/4JFvMJhj0IItMMOosrxEJY) | [FREE THE YOUTH](https://open.spotify.com/artist/0DtFQ5ZCavMbEf4jmYsgui), [Lil Skid](https://open.spotify.com/artist/1e9JfhpBsf4VF51AWObUBa), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/album/27UWJ4EXmYP7pg6B9Aehxp) | 2:59 | 2025-02-28 | 2025-04-01 |
 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 | 2023-01-13 | 2024-03-15 |
 | [Frodo Baggins](https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/7tXVr3QOLpz8xUiXLbbpgs) | 4:36 | 2022-06-09 | 2023-02-26 |
 | [Gagging](https://open.spotify.com/track/13MdYCDGb9vSdgrYeF77Kv) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Gagging](https://open.spotify.com/album/3TmImBXEyLpj4fSP81HAX8) | 3:00 | 2025-02-28 |  |
@@ -189,6 +189,7 @@
 | [Perfect Timing](https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/2HPDq4nWDFz0rwW3Il34Ek) | 3:28 | 2022-09-01 | 2022-10-14 |
 | [Plan B](https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Plan B](https://open.spotify.com/album/5BKLaEnrvktRKecn5Wqrem) | 3:08 | 2022-11-15 | 2022-12-09 |
 | [POWER](https://open.spotify.com/track/1pVinZbONbJJUoNs9I0zF1) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [TPS](https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn) | 2:10 | 2024-06-21 |  |
+| [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 | 2025-03-31 |  |
 | [Pull Up](https://open.spotify.com/track/3cWvkCD9isTVUZ72ETXWyO) | [MAGESTY](https://open.spotify.com/artist/3V6xbGSuk5cJrzTAD0AG7p) | [Pull Up](https://open.spotify.com/album/3UwtSP7zqETH2kmP8HG1ww) | 3:36 | 2023-08-03 | 2023-08-11 |
 | [Radio](https://open.spotify.com/track/3OJTZiHmdYT2USRnRglgnm) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/23XvGYaFe7fU1bRteOPIVj) | 2:52 | 2023-01-13 | 2024-04-19 |
 | [Radio](https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/3e9ZA55qDYcenxT4REJ14g) | 2:52 | 2022-09-01 |  |

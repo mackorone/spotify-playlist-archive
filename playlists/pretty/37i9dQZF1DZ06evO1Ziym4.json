@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1513117,
+  "num_followers": 1513230,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAAC9PEvkSkkVxspk2tSmDvGD",
+  "snapshot_id": "Z+iJgAAAAABcmowRoXatFN6yKjO7QlVg",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Skool",
-        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 221892,
-      "name": "Hard Skool",
-      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 283213,
       "name": "Chinese Democracy",
       "url": "https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Skool",
+        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 221892,
+      "name": "Hard Skool",
+      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 529506,
-      "name": "Voodoo Child (Slight Return) / Civil War - Live In New York, Ritz Theatre - May 16, 1991",
-      "url": "https://open.spotify.com/track/5pxwBcIYQRr01zL7Ya4SX7"
+      "duration_ms": 202000,
+      "name": "Wild Horses - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
+      "url": "https://open.spotify.com/track/6duHxAfKPYnrvkjVBcBklR"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Wild Horses - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
-      "url": "https://open.spotify.com/track/6duHxAfKPYnrvkjVBcBklR"
+      "duration_ms": 529506,
+      "name": "Voodoo Child (Slight Return) / Civil War - Live In New York, Ritz Theatre - May 16, 1991",
+      "url": "https://open.spotify.com/track/5pxwBcIYQRr01zL7Ya4SX7"
     },
     {
       "added_at": null,

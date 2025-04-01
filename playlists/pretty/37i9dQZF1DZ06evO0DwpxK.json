@@ -1,12 +1,12 @@
 {
   "description": "This is HUMBE. The essential tracks, all in one playlist.",
-  "num_followers": 249784,
+  "num_followers": 249926,
   "original_name": "This Is HUMBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+c4AAAAAADQrS7dc85iIuPogC80ocMy",
+  "snapshot_id": "Z+iJgAAAAAB1toBZvAxOKzL+C+uNx+u0",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 229709,
-      "name": "\u00faltimamente",
-      "url": "https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ARMAGED\u00d3N",
         "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 370700,
       "name": "1960",
       "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 229709,
+      "name": "\u00faltimamente",
+      "url": "https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV"
     },
     {
       "added_at": null,
@@ -359,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+        "name": "Malbec",
+        "url": "https://open.spotify.com/album/7lNurKQoVKo2ZIz3uVW2tG"
       },
       "artists": [
         {
           "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 221075,
-      "name": "C\u00d3MO RESPIRAR???",
-      "url": "https://open.spotify.com/track/3SLao8qTGy9iAQqhZcCluv"
+      "duration_ms": 264058,
+      "name": "Malbec",
+      "url": "https://open.spotify.com/track/5q4p4WNMECv9F6G97o4a42"
     },
     {
       "added_at": null,
@@ -391,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
       "artists": [
         {
@@ -400,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 207900,
-      "name": "Himno",
-      "url": "https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR"
+      "duration_ms": 221075,
+      "name": "C\u00d3MO RESPIRAR???",
+      "url": "https://open.spotify.com/track/3SLao8qTGy9iAQqhZcCluv"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malbec",
-        "url": "https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m"
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
       "artists": [
         {
           "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 264058,
-      "name": "Malbec",
-      "url": "https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g"
+      "duration_ms": 207900,
+      "name": "Himno",
+      "url": "https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 188525,
-      "name": "Te Conoc\u00ed en Jap\u00f3n",
-      "url": "https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85"
+      "duration_ms": 350852,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 350852,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf"
+      "duration_ms": 188525,
+      "name": "Te Conoc\u00ed en Jap\u00f3n",
+      "url": "https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 175800,
-      "name": "roma",
-      "url": "https://open.spotify.com/track/5eIL2PBVtangYd7tepcTIs"
+      "duration_ms": 245557,
+      "name": "MANIFIESTO",
+      "url": "https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 245557,
-      "name": "MANIFIESTO",
-      "url": "https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r"
+      "duration_ms": 175800,
+      "name": "roma",
+      "url": "https://open.spotify.com/track/5eIL2PBVtangYd7tepcTIs"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
       "duration_ms": 185454,
       "name": "Todo Mal",
       "url": "https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 125606,
+      "name": "si ma\u00f1ana comienza sin m\u00ed",
+      "url": "https://open.spotify.com/track/76cA70PWNqcNmyHt1IZeuM"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 185525,
       "name": "Te Quiero Aqu\u00ed Ya",
       "url": "https://open.spotify.com/track/1Jl3WYyjdEGfz4sZxEfcPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 125606,
-      "name": "si ma\u00f1ana comienza sin m\u00ed",
-      "url": "https://open.spotify.com/track/76cA70PWNqcNmyHt1IZeuM"
     },
     {
       "added_at": null,

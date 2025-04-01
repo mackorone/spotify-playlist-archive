@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 194000,
       "name": "Allermooiste Pijn",
       "url": "https://open.spotify.com/track/1UsdHth1uy9sAbZiJLzFt7"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 142151,
       "name": "Alles goed?",
       "url": "https://open.spotify.com/track/4ipYkev86TwpdpLNxFzcOG"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 179297,
       "name": "Naar de Stad",
       "url": "https://open.spotify.com/track/6FCgiuKSCNEL0OByqSyaHV"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 155586,
       "name": "Rotonde",
       "url": "https://open.spotify.com/track/03jAxbMjwKuxlsgYaqT1Bt"
@@ -2741,6 +2741,28 @@
     },
     {
       "album": {
+        "name": "Vager!",
+        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        },
+        {
+          "name": "MAZOO",
+          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132727,
+      "name": "Vager!",
+      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
+    },
+    {
+      "album": {
         "name": "Venus (ft. Noor)",
         "url": "https://open.spotify.com/album/0iB2ctTWAoM76KbMy4RJh1"
       },
@@ -2980,6 +3002,24 @@
       "duration_ms": 169625,
       "name": "Wie Ben Ik",
       "url": "https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa"
+    },
+    {
+      "album": {
+        "name": "Wildernis",
+        "url": "https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Is Zijn Naam",
+          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211186,
+      "name": "Wildernis",
+      "url": "https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ"
     },
     {
       "album": {

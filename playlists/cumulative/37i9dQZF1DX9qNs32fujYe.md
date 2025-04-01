@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Arch Enemy
 
-1,027 songs - 3 day 3 hr 13 min
+1,028 songs - 3 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [In Black and White \- New Version 2021](https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [Lies' Device \(New Version 2021\)](https://open.spotify.com/album/3tVQsBnb2stVCvWzM7aXgB) | 4:09 | 2021-12-17 | 2025-02-01 |
 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 | 2024-08-23 |  |
 | [In Extremis](https://open.spotify.com/track/5Hq0ORq01GmoS2HDYbxSZR) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [In Extremis](https://open.spotify.com/album/1aKyeErEZECLxc0TC1zeAu) | 4:41 | 2022-07-08 | 2022-08-03 |
+| [In Misery](https://open.spotify.com/track/2DreUmH0fSm1OnYj3Ii1eL) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [In Misery](https://open.spotify.com/album/02c3M3MzWQ8I9SzTXP74bF) | 4:39 | 2025-03-28 |  |
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 | 2024-11-04 | 2025-01-11 |
 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 | 2022-03-22 | 2024-04-19 |
 | [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 |  |
@@ -511,7 +512,7 @@
 | [Love is Gonna Get You Killed](https://open.spotify.com/track/4BopOUl5fmRZHrjKIR2L3S) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Love is Gonna Get You Killed](https://open.spotify.com/album/2eKvO8SeApDc4id1XahaiC) | 3:59 | 2021-12-29 | 2022-04-20 |
 | [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-04-14 | 2023-10-30 |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-29 | 2023-04-17 |
-| [Machines of Our Disgrace \- Single Edit](https://open.spotify.com/track/0JsAGWQvyJkuJdemFSi20y) | [Circle of Dust](https://open.spotify.com/artist/60GtR6PIcDY1pikPgKHNk9), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Machines of Our Disgrace](https://open.spotify.com/album/26Ow9WZWh8HvqoLV7JdIa2) | 3:52 | 2025-01-31 |  |
+| [Machines of Our Disgrace \- Single Edit](https://open.spotify.com/track/0JsAGWQvyJkuJdemFSi20y) | [Circle of Dust](https://open.spotify.com/artist/60GtR6PIcDY1pikPgKHNk9), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Machines of Our Disgrace](https://open.spotify.com/album/26Ow9WZWh8HvqoLV7JdIa2) | 3:52 | 2025-01-31 | 2025-04-01 |
 | [Made Of Metal](https://open.spotify.com/track/6YvnVtMnUipiiJXKexq9MI) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Made Of Metal](https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN) | 4:12 | 2024-08-23 | 2024-11-05 |
 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 | 2022-08-19 | 2024-04-19 |
 | [Magic Signs](https://open.spotify.com/track/3ds3h3P2TsIYofkxHc3mtB) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Magic Signs](https://open.spotify.com/album/1d8Ox6KeG0LC7RObcYR5eU) | 4:52 | 2021-12-17 | 2022-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,356 likes - 115 songs - 5 hr 44 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,356 likes - 116 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 113 | [All I Need](https://open.spotify.com/track/0D8o8KQzuOtxxgaDDiasxW) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [All I Need](https://open.spotify.com/album/6O9GRSikWchQaCnzAevGhh) | 2:59 |
 | 114 | [Shingaling Shingaling](https://open.spotify.com/track/3fwmJrwHkJrUcybkmTU8pd) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [Reebs](https://open.spotify.com/artist/5gnvJivfNKC78JcOknY5Y0) | [Shingaling Shingaling](https://open.spotify.com/album/6kRYsgKCkmWeDnkT7m6eUS) | 2:26 |
 | 115 | [On & On](https://open.spotify.com/track/73r0IA1j4oLM8CPTKTiH86) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Eddy Don't Sail](https://open.spotify.com/artist/7bKSZzB7rAS834Ete3bAmx) | [On & On](https://open.spotify.com/album/2ETS2W9kWIEW4jrMjYYx5N) | 2:29 |
+| 116 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 |
 
-Snapshot ID: `AAAKQ0v2hyAdobZeZ98HrC3iriH9GgpW`
+Snapshot ID: `AAAKRKPwp3jS9Y57QrN3cpTHZgSnEQPt`

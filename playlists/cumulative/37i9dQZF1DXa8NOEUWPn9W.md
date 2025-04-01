@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Azzecca & Cole Knight
 
-1,125 songs - 2 day 17 hr 40 min
+1,126 songs - 2 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,7 @@
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-07-22 | 2024-07-13 |
 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 | 2022-09-26 | 2023-02-18 |
 | [Ready 2 Dance \(with Biscits feat\. Anelisa Lamola\)](https://open.spotify.com/track/65rgchI8TW6KX4Zsesiu3i) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi) | [Ready 2 Dance \(with Biscits feat\. Anelisa Lamola\)](https://open.spotify.com/album/0PL8HBjU6iTy7eQOjXNtOW) | 2:50 | 2021-04-03 | 2021-09-18 |
-| [Ready 2 Go](https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Ready 2 Go](https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57) | 2:39 | 2024-10-25 |  |
+| [Ready 2 Go](https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Ready 2 Go](https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57) | 2:39 | 2024-10-25 | 2025-04-01 |
 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 | 2024-01-12 | 2024-08-03 |
 | [Real Love](https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Real Love](https://open.spotify.com/album/6XU17Ta3KWa045AfQV0mLM) | 2:53 | 2023-12-01 | 2024-07-20 |
 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 | 2022-05-27 | 2022-08-24 |
@@ -936,6 +936,7 @@
 | [Sun Goes Down](https://open.spotify.com/track/28cF5QOu0CWdyTt6lYxIeA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sun Goes Down](https://open.spotify.com/album/1vbX5xsy8Dz96qmskVY8SI) | 2:34 | 2021-03-27\* | 2021-04-24 |
 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 | 2023-07-14 | 2023-09-30 |
 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 | 2025-02-07 |  |
+| [Sunny](https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Sunny](https://open.spotify.com/album/2VTfQy8ZPbdjvYzHCO0PVz) | 2:34 | 2025-03-28 |  |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-01 | 2024-11-09 |
 | [Sunshine 2025](https://open.spotify.com/track/5uTjgnvttrNUfVFETRJ8TP) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Tomaz](https://open.spotify.com/artist/3GXiP6aI7feec8YTvLJfwf), [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Sunshine 2025](https://open.spotify.com/album/6EOLwD4dOgXcZ3G4QpYwtC) | 3:38 | 2025-03-14 |  |
 | [Supersonic](https://open.spotify.com/track/7qzNN86nlI4YaslP5lZVb0) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Supersonic](https://open.spotify.com/album/0EeLq0QPw6ogMvv4HZZGkB) | 2:17 | 2024-12-13 | 2025-03-30 |

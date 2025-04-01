@@ -6,7 +6,7 @@
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMFnoTOKCpVDLnZDdAkxMVbWm05hy4",
+  "snapshot_id": "AAAMGreGVq3S7tqyiGlUv4UjEz4AhYz3",
   "tracks": [
     {
       "added_at": "2025-03-01 22:42:13",
@@ -429,6 +429,22 @@
       "url": "https://open.spotify.com/track/5Mkufcn3PfLRNC4Vqgalzt"
     },
     {
+      "added_at": "2025-03-31 15:41:58",
+      "album": {
+        "name": "Radio DDR",
+        "url": "https://open.spotify.com/album/2rMHZAlbmZuIsr8iWR7oZX"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/5f1pCciS3t1hdQnSn6jVF5"
+    },
+    {
       "added_at": "2025-03-22 16:00:53",
       "album": {
         "name": "Radio DDR",
@@ -515,6 +531,38 @@
       "duration_ms": 147692,
       "name": "CRANK",
       "url": "https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3"
+    },
+    {
+      "added_at": "2025-03-31 15:43:34",
+      "album": {
+        "name": "Loneliest In The Morning",
+        "url": "https://open.spotify.com/album/2LGJoiH5Vjj7t7B49vYKHm"
+      },
+      "artists": [
+        {
+          "name": "Julie Doiron",
+          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "Explain",
+      "url": "https://open.spotify.com/track/3J216Nn7CBDSnFk5S9gKXW"
+    },
+    {
+      "added_at": "2025-03-31 15:45:14",
+      "album": {
+        "name": "Loneliest In The Morning",
+        "url": "https://open.spotify.com/album/2LGJoiH5Vjj7t7B49vYKHm"
+      },
+      "artists": [
+        {
+          "name": "Julie Doiron",
+          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5LYiV6wYgkKgkzyqyI7DyO"
     }
   ],
   "unique_name": "acting on feeling",

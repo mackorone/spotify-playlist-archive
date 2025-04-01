@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Matroda",
-  "num_followers": 456588,
+  "num_followers": 456634,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1445,10 +1445,10 @@
       "url": "https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld"
     },
     {
-      "added_at": "2025-02-14 05:00:46",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
+        "name": "The Don",
+        "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
       },
       "artists": [
         {
@@ -1456,13 +1456,17 @@
           "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Jamakabi",
-          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        },
+        {
+          "name": "Gabi'el",
+          "url": "https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN"
         }
       ],
-      "duration_ms": 137595,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
+      "duration_ms": 166237,
+      "name": "The Don",
+      "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1573,50 +1577,6 @@
       "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
-      "added_at": "2024-11-06 13:03:41",
-      "album": {
-        "name": "NEVER STOPPIN'",
-        "url": "https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "Nouni",
-          "url": "https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww"
-        }
-      ],
-      "duration_ms": 143809,
-      "name": "NEVER STOPPIN'",
-      "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "The Don",
-        "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Jay Robinson",
-          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
-        },
-        {
-          "name": "Gabi'el",
-          "url": "https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN"
-        }
-      ],
-      "duration_ms": 166237,
-      "name": "The Don",
-      "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Backstage Baddies",
@@ -1635,6 +1595,46 @@
       "duration_ms": 181818,
       "name": "Backstage Baddies",
       "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
+    },
+    {
+      "added_at": "2025-02-14 05:00:46",
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
+    },
+    {
+      "added_at": "2024-11-06 13:03:41",
+      "album": {
+        "name": "NEVER STOPPIN'",
+        "url": "https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Nouni",
+          "url": "https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww"
+        }
+      ],
+      "duration_ms": 143809,
+      "name": "NEVER STOPPIN'",
+      "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1749,42 +1749,6 @@
       "url": "https://open.spotify.com/track/1REJlR8ulnslkfATIzOLgd"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Droppin' It (La La La)",
-        "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "BURNERS!",
-          "url": "https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Droppin' It (La La La)",
-      "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
-    },
-    {
-      "added_at": "2024-09-30 15:01:28",
-      "album": {
-        "name": "Baggy Black Jeans",
-        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 192692,
-      "name": "Baggy Black Jeans",
-      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Pump (AC Slater Remix)",
@@ -1805,56 +1769,36 @@
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
     },
     {
-      "added_at": "2025-02-28 05:01:00",
+      "added_at": "2024-09-30 15:01:28",
       "album": {
-        "name": "GHOST",
-        "url": "https://open.spotify.com/album/5yJiV2EyTu45VcJbXwTDI5"
+        "name": "Baggy Black Jeans",
+        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         }
       ],
-      "duration_ms": 216000,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/1Z80aMp7Zxk4jqHoy4m9OI"
+      "duration_ms": 192692,
+      "name": "Baggy Black Jeans",
+      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
     },
     {
-      "added_at": "2025-01-31 05:00:38",
+      "added_at": "2024-08-16 14:00:00",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
       },
       "artists": [
         {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 110769,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+      "duration_ms": 142080,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1881,6 +1825,38 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
+      "added_at": "2025-01-24 05:00:54",
+      "album": {
+        "name": "ROTATION",
+        "url": "https://open.spotify.com/album/6FvYSejmjBfZSjB65JMzsw"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "ROTATION",
+      "url": "https://open.spotify.com/track/7GTUoWhahYmX0jxJea2IFg"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
       "added_at": "2025-03-14 04:00:25",
       "album": {
         "name": "Umbrella",
@@ -1897,20 +1873,44 @@
       "url": "https://open.spotify.com/track/00yyg9O0uiWTAcxp5N7ppH"
     },
     {
-      "added_at": "2024-08-16 14:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
+        "name": "Droppin' It (La La La)",
+        "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
       "artists": [
         {
           "name": "BYOR",
           "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "BURNERS!",
+          "url": "https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw"
         }
       ],
-      "duration_ms": 142080,
-      "name": "Comeback",
-      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
+      "duration_ms": 156190,
+      "name": "Droppin' It (La La La)",
+      "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
+    },
+    {
+      "added_at": "2025-01-31 05:00:38",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     },
     {
       "added_at": "2024-08-16 14:10:04",
@@ -1953,22 +1953,6 @@
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
-      "added_at": "2025-01-24 05:00:54",
-      "album": {
-        "name": "North, West, South, East",
-        "url": "https://open.spotify.com/album/4RaPQf3X9EfNNqbS9LJR2u"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 147651,
-      "name": "North, West, South, East",
-      "url": "https://open.spotify.com/track/5wZCXsK5v970hRFkxXmcSa"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Enemy",
@@ -2003,6 +1987,22 @@
       "duration_ms": 231044,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0"
+    },
+    {
+      "added_at": "2025-01-24 05:00:54",
+      "album": {
+        "name": "North, West, South, East",
+        "url": "https://open.spotify.com/album/4RaPQf3X9EfNNqbS9LJR2u"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 147651,
+      "name": "North, West, South, East",
+      "url": "https://open.spotify.com/track/5wZCXsK5v970hRFkxXmcSa"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2197,6 +2197,42 @@
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
     },
     {
+      "added_at": "2025-03-07 05:47:46",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/2u64xM5mYc5qBvOQfkGPm5"
+      },
+      "artists": [
+        {
+          "name": "Helang",
+          "url": "https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/622eAV8J0zkZyrCH5pZqF4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
       "added_at": "2025-01-24 05:00:54",
       "album": {
         "name": "Bitches Over Boys",
@@ -2219,26 +2255,6 @@
       "duration_ms": 147947,
       "name": "Bitches Over Boys",
       "url": "https://open.spotify.com/track/5NUpQHTzK9pqhtBGG51TFy"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -2271,22 +2287,6 @@
       "duration_ms": 169846,
       "name": "CANT GET ENOUGH",
       "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
-    },
-    {
-      "added_at": "2025-03-07 05:47:46",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/2u64xM5mYc5qBvOQfkGPm5"
-      },
-      "artists": [
-        {
-          "name": "Helang",
-          "url": "https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/622eAV8J0zkZyrCH5pZqF4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2325,26 +2325,6 @@
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
     },
     {
-      "added_at": "2025-02-14 05:00:46",
-      "album": {
-        "name": "WORK MY BODY",
-        "url": "https://open.spotify.com/album/611O0XAHVbIzd6EyVfIIVt"
-      },
-      "artists": [
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 155806,
-      "name": "WORK MY BODY",
-      "url": "https://open.spotify.com/track/4xoyzrSXUMtUL8EvBAdVp6"
-    },
-    {
       "added_at": "2025-01-17 05:56:39",
       "album": {
         "name": "Bass",
@@ -2363,18 +2343,22 @@
     {
       "added_at": "2025-02-14 05:00:46",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/0RmmCnU1xigUfPQC0BwgxZ"
+        "name": "WORK MY BODY",
+        "url": "https://open.spotify.com/album/611O0XAHVbIzd6EyVfIIVt"
       },
       "artists": [
         {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
         }
       ],
-      "duration_ms": 152125,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/0fWRHwEPTXWVsc4JDdrgTl"
+      "duration_ms": 155806,
+      "name": "WORK MY BODY",
+      "url": "https://open.spotify.com/track/4xoyzrSXUMtUL8EvBAdVp6"
     },
     {
       "added_at": "2024-09-30 15:01:28",
@@ -2401,20 +2385,48 @@
       "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
     },
     {
-      "added_at": "2025-03-07 05:47:46",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Feel So Right",
-        "url": "https://open.spotify.com/album/1HK3AXlfMIYy9m7TLnxQRs"
+        "name": "Get Hype",
+        "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
       },
       "artists": [
         {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+          "name": "Rob Vice",
+          "url": "https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv"
+        },
+        {
+          "name": "MNRVA",
+          "url": "https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1"
         }
       ],
-      "duration_ms": 161777,
-      "name": "Feel So Right",
-      "url": "https://open.spotify.com/track/0fpDD4JKDf35bUyU8gPOnl"
+      "duration_ms": 155437,
+      "name": "Get Hype",
+      "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Pa Pa Pa (feat. MC Maromba)",
+        "url": "https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Mc Maromba",
+          "url": "https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q"
+        },
+        {
+          "name": "KAORU",
+          "url": "https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Pa Pa Pa (feat. MC Maromba)",
+      "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
     }
   ],
   "unique_name": "Nasty Bits",

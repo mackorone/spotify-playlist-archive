@@ -4,7 +4,7 @@
 
 > 🚨
 
-301 songs - 13 hr 8 min
+302 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Cph Freestyle](https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD), [Peder Nord](https://open.spotify.com/artist/54m555rji218uiKKLkIMzX) | [Bra År](https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA) | 1:49 | 2024-11-14 |  |
 | [Cuando Menos Lo Espera](https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Menos Lo Espera](https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC) | 3:00 | 2023-09-21 | 2024-03-01 |
 | [Daddy Issues \(feat\. Simon Superti\)](https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [BABA IVO](https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU) | 2:29 | 2024-02-29 | 2024-04-26 |
-| [Dag etter dag](https://open.spotify.com/track/0ICFzymmGVBrldD4odQgXf) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [FLUS \(Original Soundtrack\)](https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63) | 2:57 | 2025-02-06 |  |
+| [Dag etter dag](https://open.spotify.com/track/0ICFzymmGVBrldD4odQgXf) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [FLUS \(Original Soundtrack\)](https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63) | 2:57 | 2025-02-06 | 2025-04-01 |
 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 | 2023-09-21 |  |
 | [Dansar Med Demoner](https://open.spotify.com/track/013JhskiJZIa42WVsTgdmy) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [Dansar Med Demoner](https://open.spotify.com/album/4PU3aoHJOvRwquYTLT3Ru5) | 3:56 | 2024-09-19 | 2024-10-28 |
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2023-09-21 | 2023-09-29 |
@@ -267,6 +267,7 @@
 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 | 2023-09-21 | 2025-03-28 |
 | [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 |  |
 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 | 2023-09-21 | 2024-07-12 |
+| [Storby Psykose](https://open.spotify.com/track/6vaYWHrBfUD5WqOJvqYZ2a) | [Kode.59](https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q) | [Storby Psykose](https://open.spotify.com/album/23bUcQK6PZuNgdgJ86DvOP) | 2:26 | 2025-03-27 |  |
 | [Storbyen sin lillebror](https://open.spotify.com/track/6ldkEtZoW3K1eV1pJsdJcf) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Yosef Wolde\-Mariam](https://open.spotify.com/artist/2GBlvdFVbAmRuOz0ibDtZC), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [FLUS \(Original Soundtrack\)](https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63) | 3:14 | 2025-02-06 |  |
 | [STÖRDA](https://open.spotify.com/track/0y5bqc1pwZ0ptNUCbsqzYd) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [ProdByR1](https://open.spotify.com/artist/5U8wjIW3UWL3B7Hee3VaDQ) | [STÖRDA](https://open.spotify.com/album/0Ttzx21RWBkvzS8MFbxhZP) | 2:06 | 2025-01-23 | 2025-02-07 |
 | [Sugerør \(2J x Siyabång\)](https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Sugerør \(2J x Siyabång\)](https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76) | 2:20 | 2024-10-03 | 2025-03-28 |

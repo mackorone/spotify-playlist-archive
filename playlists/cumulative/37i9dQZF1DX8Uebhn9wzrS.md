@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,282 songs - 3 day 14 hr 59 min
+2,285 songs - 3 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Backstreets](https://open.spotify.com/track/2Vv8WDD6QmyfLLvMUYmNkN) | [disco robots](https://open.spotify.com/artist/6R3cgq9nqaTLLM2KvAijIN) | [Backstreets](https://open.spotify.com/album/1jssDx0ApKUbsuIEpd2zuX) | 2:09 | 2025-02-07 | 2025-03-22 |
 | [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2023-08-17 | 2024-10-07 |
 | [bad checks](https://open.spotify.com/track/02aGT8vsA26xHDNLkvhN50) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [bad checks](https://open.spotify.com/album/6ha63yZVl5uhEIlCAVSHUg) | 1:48 | 2022-10-28 | 2023-03-25 |
+| [Baggy pants](https://open.spotify.com/track/0QPqBiYSymN9kRyC0vbose) | [only jo](https://open.spotify.com/artist/5Pjr520HlwNPHWV0XRwmzP) | [Baggy pants](https://open.spotify.com/album/1UB1ZevAcP9kEzeBcA4dhe) | 2:28 | 2025-03-28 |  |
 | [BAGS](https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [BAGS](https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52) | 2:21 | 2024-08-09 |  |
 | [balance](https://open.spotify.com/track/4mJcc7iXKgVP7gZxQs3dNr) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [balance](https://open.spotify.com/album/40ewMDtpcM95qQaPRIPVrN) | 3:07 | 2025-02-27 |  |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
@@ -859,7 +860,7 @@
 | [Happy Camper](https://open.spotify.com/track/65Aih3UTZ71FYy1IFX9yai) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Happy Camper](https://open.spotify.com/album/0dGweGrhJHrI7b2aZzrlbP) | 2:00 | 2023-06-06 | 2023-12-08 |
 | [happy moggie](https://open.spotify.com/track/6mnuzqUm6MObdHHk59Tg4E) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [happy moggie](https://open.spotify.com/album/5HRw1jjjlShVFhlyNlyjpi) | 2:18 | 2023-12-08 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 | 2024-05-14 |
-| [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2023-07-13 |  |
+| [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2023-07-13 | 2025-04-01 |
 | [hatten](https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [hatten](https://open.spotify.com/album/00xZabDtZSUmnM8ODVHA7e) | 2:35 | 2023-01-06 | 2024-02-02 |
 | [Hauga](https://open.spotify.com/track/4Zt4YhDZ0SoMIR8lzXZw7I) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Hauga](https://open.spotify.com/album/08Hy3qIJEDIvUDw1oaoT7g) | 2:01 | 2023-04-03 | 2024-10-18 |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
@@ -1033,7 +1034,7 @@
 | [Kite](https://open.spotify.com/track/2YFpUFkSTOqCDy9hzMi1FY) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/0Ek36hK7QpAGGcNBwV17y5) | 2:23 | 2022-09-16 | 2022-11-20 |
 | [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2023-03-08 |  |
 | [knowing](https://open.spotify.com/track/62zfzTVCAvK7iceTH7eXBF) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [Knowing](https://open.spotify.com/album/2UhoZRmJfvg9EFInZUZUhD) | 1:43 | 2025-02-21 | 2025-03-22 |
-| [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 |  |
+| [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 | 2025-04-01 |
 | [kodak](https://open.spotify.com/track/7q8NJyn5JHHzfTwa1auiPH) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [kodak](https://open.spotify.com/album/0ggeJPPUAeDt8oCadobrvM) | 1:51 | 2023-11-17 |  |
 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 | 2022-08-05 | 2022-10-01 |
 | [Kreate](https://open.spotify.com/track/6gFVo9UQuTbLgpyhzI3OO8) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Kreate](https://open.spotify.com/album/6gZ0xOaVXVJt4K2c5C70Nv) | 2:30 | 2024-01-19 |  |
@@ -1167,6 +1168,7 @@
 | [Lovealized](https://open.spotify.com/track/6yKvJVPHX3qDdRvtMLjVcq) | [Hydronix](https://open.spotify.com/artist/60sSfJVnyDu9eWnqLGtcDW) | [Lovealized](https://open.spotify.com/album/7tz6vmkJu4hopT5vUgvydL) | 2:51 | 2022-04-15 | 2022-07-01 |
 | [Lovespell](https://open.spotify.com/track/3gV5lV1Y5P93ZqHQAz72TZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Lovespell](https://open.spotify.com/album/0rjaM4lvJKHzsf5D3owH7D) | 2:30 | 2022-07-29 | 2022-10-08 |
 | [Low Battery](https://open.spotify.com/track/1D4S66ipaVqV9du7elf89y) | [jeppa.](https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69) | [Low Battery](https://open.spotify.com/album/4AYCDaIFCSdHmXUz6fkoxS) | 1:56 | 2024-10-11 |  |
+| [Lower East Side](https://open.spotify.com/track/0HP3RxQPPdLmpSQJQZHl9Z) | [Chase Beats](https://open.spotify.com/artist/6rjVfqmICjUb56U9D9KR6h) | [Lower East Side](https://open.spotify.com/album/1abGAhcGC1jATomzDE85dT) | 1:55 | 2025-03-28 |  |
 | [Lowride River](https://open.spotify.com/track/2SqIwESq04iFODwdyzVYoy) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Lowride River](https://open.spotify.com/album/2joB6WYW30agKgPmd8NYSl) | 3:24 | 2022-04-15 | 2022-11-12 |
 | [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-03-01 | 2025-01-24 |
 | [Lucky 7](https://open.spotify.com/track/7uTx78QPwbsA6ZGzv8whYN) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Lucky 7](https://open.spotify.com/album/6OpO74wlEiYGCbuf1TimUb) | 2:07 | 2025-03-14 |  |
@@ -1557,7 +1559,7 @@
 | [pistachios forever](https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [pistachios forever](https://open.spotify.com/album/0K2AeWTHKIEQSBq0oPbIF4) | 3:03 | 2024-03-22 |  |
 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 | 2023-03-08 |  |
 | [Plant Haze](https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu) | [WFPB](https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM) | [Plant Haze](https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA) | 2:01 | 2022-12-16 |  |
-| [Play and Stop](https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Viro Aronowitz](https://open.spotify.com/album/6PyEDBCGsADSxhoRksNFxQ) | 1:45 | 2022-09-02 |  |
+| [Play and Stop](https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Viro Aronowitz](https://open.spotify.com/album/6PyEDBCGsADSxhoRksNFxQ) | 1:45 | 2022-09-02 | 2025-04-01 |
 | [Playdew](https://open.spotify.com/track/6P6iIyHwCCHWC7IsRUV8Mp) | [Picky Vines](https://open.spotify.com/artist/05DroYv02C0y45iNlXCqXf) | [Playdew](https://open.spotify.com/album/1mbkGqUxjkGLOf7vEv2Ia5) | 2:21 | 2022-04-15 | 2022-05-27 |
 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 | 2022-04-15 | 2022-05-27 |
 | [pLUCKY](https://open.spotify.com/track/2UeMeI3vB8mZn8zegcnljf) | [SeeLegs](https://open.spotify.com/artist/4IjDQjo6pvuwlhx3jWotcp) | [pLUCKY](https://open.spotify.com/album/5JhHOtntNf8S6iAhZ89Jkb) | 3:22 | 2022-04-15 | 2022-07-22 |
@@ -1918,6 +1920,7 @@
 | [sunbed](https://open.spotify.com/track/2pGDKCGHfj4b4UPOaRtMcq) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [sunbed](https://open.spotify.com/album/4wwoExOEBwsdlcjYHgXePG) | 2:05 | 2024-05-31 |  |
 | [Sunburn \- Remix](https://open.spotify.com/track/2NQidIdJeB77ZblvIwIZrt) | [Sebastián Zarza](https://open.spotify.com/artist/6gtTcc5ZMOrs3870QQfyxC), [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Sunburn \(Remix\)](https://open.spotify.com/album/5dgqvaimpNv9MePu6nHlFS) | 3:05 | 2022-11-11 | 2023-09-16 |
 | [Sunday](https://open.spotify.com/track/1gFYYUmb1cwLssxND7thGG) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Sunday](https://open.spotify.com/album/5bmSp90NZHIeDJDgedtTFL) | 1:24 | 2022-04-15 | 2022-09-09 |
+| [sunday](https://open.spotify.com/track/5RZT7iLq4E9hSr6ljE7TXu) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [sunday](https://open.spotify.com/album/2HMUvhOR7xl0wMfuw3B0Hn) | 2:05 | 2025-03-28 |  |
 | [Sunday \(Nichiyoubi\)](https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Sunday \(Nichiyoubi\)](https://open.spotify.com/album/5EBjW98OgvW7lXGNfOvnff) | 2:24 | 2024-02-09 | 2025-01-29 |
 | [Sunday Funday](https://open.spotify.com/track/69SSNKlRiIl05N6x0drCUa) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Sunday Funday](https://open.spotify.com/album/5vPRAZcnvkETTgTqnIEluP) | 1:58 | 2024-01-19 |  |
 | [sunday jammin'](https://open.spotify.com/track/03YNvnjIXEv0Du4mWlYhvd) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [sunday jammin'](https://open.spotify.com/album/2UR3mLagCXzEm1UHsWi8Xh) | 2:09 | 2022-04-15 | 2022-10-14 |

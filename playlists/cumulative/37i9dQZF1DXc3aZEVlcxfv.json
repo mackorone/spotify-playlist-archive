@@ -4913,6 +4913,28 @@
     },
     {
       "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/1vVp9CDY3dwxcFYGfDsWbF"
+      },
+      "artists": [
+        {
+          "name": "Theo Milford",
+          "url": "https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD"
+        },
+        {
+          "name": "Danielle LaTouche",
+          "url": "https://open.spotify.com/artist/4sexZV9stgh3w9OnFbQieQ"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288931,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/3e9GnGjPhfWcG2Bw8wgiBN"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/5yveYWC5QD8qO0fYR5MPS1"
       },

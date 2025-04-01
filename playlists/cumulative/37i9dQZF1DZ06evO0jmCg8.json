@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269853,
+      "name": "Dream Stealer",
+      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
+    },
+    {
+      "album": {
         "name": "Dream Stealer",
         "url": "https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 269853,
       "name": "Dream Stealer",
       "url": "https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 285213,
       "name": "Shout - cover version",
       "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 247080,
       "name": "Vivre Libre",
       "url": "https://open.spotify.com/track/1GhrLheC4G4oGjm2VL2DVv"

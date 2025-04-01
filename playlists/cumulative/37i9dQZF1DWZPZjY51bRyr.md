@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-271 songs - 13 hr 57 min
+273 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Asha](https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Asha](https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p) | 2:34 | 2023-03-10 | 2024-11-23 |
 | [Astral Devotion \- Spa 432Hz](https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Astral Devotion](https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8) | 3:37 | 2023-09-25 | 2024-10-08 |
 | [Aura](https://open.spotify.com/track/5kv8YaBfm2SZQk8YRPjXy5) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:06 | 2023-02-17 | 2023-03-29 |
-| [Awakening Gaia](https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [Awakening Gaia](https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X) | 2:21 | 2023-02-17 |  |
+| [Awakening Gaia](https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [Awakening Gaia](https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X) | 2:21 | 2023-02-17 | 2025-04-01 |
 | [Aún](https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv) | [Didio Carrión](https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw) | [Aún](https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq) | 3:04 | 2023-02-17 | 2025-03-20 |
 | [Bansuri Devi](https://open.spotify.com/track/2qJS00DNGAoDey317CPZqM) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Bansuri Devi](https://open.spotify.com/album/1iA3Sgu2WxM2k0HezwVjPl) | 5:13 | 2025-03-19 |  |
 | [Bask](https://open.spotify.com/track/4U4PSgvQHPAvJz1f8MRiQ0) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Cocoon](https://open.spotify.com/album/41BmCymTJ6prw6c8lae8b5) | 2:33 | 2023-07-10 |  |
@@ -174,6 +174,7 @@
 | [Opulence](https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Opulence](https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9) | 2:24 | 2023-04-24 | 2025-03-20 |
 | [Osage Sun](https://open.spotify.com/track/1AfN7g9ZprfJ4OyIXn0iDa) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Osage Sun](https://open.spotify.com/album/4ta7OY2kWeKbnGkehPzqVi) | 3:12 | 2025-01-17 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2023-02-17 |  |
+| [Otaru](https://open.spotify.com/track/6TEppwql6CjV9yzHtC3F5p) | [Nika Tibia](https://open.spotify.com/artist/4QhNvRkthPpRIRdhsj6lTg) | [Otaru](https://open.spotify.com/album/4aoVH68mkXFn6nKRIrSGqg) | 3:01 | 2025-03-19 |  |
 | [Paessagio Naturale](https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Paessagio Naturale](https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd) | 2:43 | 2023-02-17 |  |
 | [Pax Mundi](https://open.spotify.com/track/1KGbSpJomANfc0836NqTdg) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Pax Mundi](https://open.spotify.com/album/3EGJfV6X0lqRjau5fCCZ45) | 2:16 | 2023-02-17 | 2023-08-17 |
 | [Peace Within](https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS) | [Holly Summers](https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es) | [Peace Within](https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb) | 2:16 | 2023-02-17 |  |
@@ -182,6 +183,7 @@
 | [Perceive](https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET) | [Julianne Pascal](https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO) | [Perceive](https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO) | 2:53 | 2023-05-19 |  |
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-10 |  |
 | [Petal](https://open.spotify.com/track/5unOU1NabCBv04wxyWwoCe) | [Dhyana](https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX) | [Petal](https://open.spotify.com/album/27h5GuP3utJANajWzjhuKI) | 2:39 | 2024-11-14 |  |
+| [Place of Peace \(meditation\)](https://open.spotify.com/track/78kiyj5tcpdFBAYGrbr7Nd) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [Place of Peace \(meditation\)](https://open.spotify.com/album/14X1RLfHGMJnPDhUr9swB8) | 2:49 | 2025-03-19 |  |
 | [Plenty](https://open.spotify.com/track/60tWghdZKTWx5UiOJvKCRZ) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Plenty](https://open.spotify.com/album/2vGMc1zVBTv6GZ8vIIh7fl) | 2:35 | 2024-08-02 | 2025-03-20 |
 | [Polysomnography](https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Somniloquy](https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca) | 1:52 | 2023-12-15 | 2025-01-18 |
 | [Pravāsa](https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tantra](https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1) | 2:57 | 2023-02-17 |  |
@@ -265,7 +267,7 @@
 | [Variable Star](https://open.spotify.com/track/5Gx0ZadnGMAsFsw1QCtfAF) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Variable Star](https://open.spotify.com/album/7jjuZCgfQX4jlwoRkMtYmu) | 2:12 | 2025-03-19 |  |
 | [Vents Calmes](https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg) | [Ellis Atkins](https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL) | [Vents Calmes](https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22) | 2:27 | 2023-08-16 |  |
 | [Vinyasa](https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Vinyasa](https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1) | 3:58 | 2023-02-17 |  |
-| [Viṣṇu / The Awakened One](https://open.spotify.com/track/4Hv1xig7t4bHkOQjuGFlJc) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Viṣṇu](https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY) | 2:46 | 2024-08-02 |  |
+| [Viṣṇu / The Awakened One](https://open.spotify.com/track/4Hv1xig7t4bHkOQjuGFlJc) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Viṣṇu](https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY) | 2:46 | 2024-08-02 | 2025-04-01 |
 | [Voices of Ether](https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Voices of Ether](https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE) | 2:27 | 2023-10-26 |  |
 | [Wander](https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Wander](https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY) | 3:20 | 2023-03-03 |  |
 | [Warm Embrace](https://open.spotify.com/track/41HqljiSUTgOqCW8x86BXk) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Warm Embrace](https://open.spotify.com/album/4JIRKxiufxZK3aiadQqxkB) | 2:57 | 2025-03-19 |  |

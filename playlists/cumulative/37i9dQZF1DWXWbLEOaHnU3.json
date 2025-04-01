@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 356521,
       "name": "Anahata Trip",
       "url": "https://open.spotify.com/track/78s2UUkbnjLTaC6BjJPU4E"
@@ -4014,7 +4014,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 245357,
       "name": "Other Days",
       "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
@@ -4764,7 +4764,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 491666,
       "name": "Sapana - Avalon Remix",
       "url": "https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13"
@@ -5198,6 +5198,28 @@
       "duration_ms": 241956,
       "name": "Social Animal",
       "url": "https://open.spotify.com/track/7qzE2vuPPew5aZN7lnU5tw"
+    },
+    {
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/1bYHcpySfB2nB010FkFHWC"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224788,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/3HD3QiXD5962IrhFhCyXnd"
     },
     {
       "album": {

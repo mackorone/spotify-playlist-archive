@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-839 songs - 1 day 12 hr 2 min
+841 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Kjærlighet](https://open.spotify.com/track/1UgFiq67HxKCD2rCeloW2V) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [Kjærlighet](https://open.spotify.com/album/65gHwlRipPDPscf5UK6dOF) | 3:01 | 2021-12-13 | 2022-09-13 |
 | [kloverberg](https://open.spotify.com/track/3TKBlpWAXmf6HGMu4GkLGD) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [klöverberg](https://open.spotify.com/album/3iQCg7rFcYKJ4slM7r2VKP) | 2:49 | 2023-11-28 |  |
 | [Koto](https://open.spotify.com/track/0LWWi4CHmFfPDV005TLzPP) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Koto](https://open.spotify.com/album/0z58hOr09oGPCmEj0fIIWv) | 2:48 | 2021-12-13 | 2022-12-22 |
+| [L'aube](https://open.spotify.com/track/0BHvhpdDy5TcHjK2Fgrcjh) | [Patrick Maury](https://open.spotify.com/artist/2L45Yn85mKJs9hVQGcaXwS) | [L'aube](https://open.spotify.com/album/6gGss4PADu9mLuChpsMpZt) | 3:00 | 2025-03-31 |  |
 | [L'automne est là](https://open.spotify.com/track/7xpf7Qnslkz8n7PH20N4mV) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [L'automne est là](https://open.spotify.com/album/5SL3Sreq6F4aZK51eXYIm8) | 2:23 | 2022-01-18 | 2023-06-15 |
 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 | 2021-12-13 | 2022-05-27 |
 | [La Cura de Lombao](https://open.spotify.com/track/6nXUKDdwjPTmOTfRiU5AvY) | [Bart Sunshine](https://open.spotify.com/artist/2x6y0xyollJ7JbXMybN2yv) | [La Cura de Lombao](https://open.spotify.com/album/3UjE2OA3MMSPzFldAOZHe0) | 1:59 | 2022-09-12 | 2023-08-22 |
@@ -735,6 +736,7 @@
 | [The Story of Forever](https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Story of Forever](https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW) | 3:43 | 2024-08-12 |  |
 | [the traveler](https://open.spotify.com/track/1Niqti17jYAgEBlHzUEQ02) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the traveler & fragile flowers](https://open.spotify.com/album/6RkJifc0y3nOQLHHWB0oC8) | 2:50 | 2022-11-11 | 2024-06-01 |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-18 | 2024-01-03 |
+| [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 | 2025-03-31 |  |
 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
 | [The Winds](https://open.spotify.com/track/29nz4Q61vwzYqgHrLDqPuz) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [The Winds](https://open.spotify.com/album/55K9a0Lmj1kPAtvnnK1cml) | 2:51 | 2021-12-13 | 2022-08-10 |
 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 | 2025-02-25 |  |

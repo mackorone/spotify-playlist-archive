@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Pablo Ferrandez
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,403 likes - 73 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,437 likes - 73 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

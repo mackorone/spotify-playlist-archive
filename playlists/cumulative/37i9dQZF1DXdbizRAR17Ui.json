@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 203524,
       "name": "+1",
       "url": "https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw"
@@ -1322,6 +1322,24 @@
       "duration_ms": 127505,
       "name": "Close 2 u",
       "url": "https://open.spotify.com/track/6va8138Nso6BNPMUIyFJ5Z"
+    },
+    {
+      "album": {
+        "name": "Closer To My Dreams",
+        "url": "https://open.spotify.com/album/5EOgqtgOgcCuQgN7nCsIAS"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298550,
+      "name": "Closer To My Dreams",
+      "url": "https://open.spotify.com/track/6Ci2jTX3usJfA9GP3tkSk6"
     },
     {
       "album": {
@@ -4644,7 +4662,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 261333,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/3bt4iH6cBrJPPbCas44szD"
@@ -7134,7 +7152,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 240000,
       "name": "We Got This",
       "url": "https://open.spotify.com/track/3t0ZToA8zfqVD2vDIbmiKm"

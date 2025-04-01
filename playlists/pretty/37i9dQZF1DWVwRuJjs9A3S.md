@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Svart Ridå
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,777 likes - 140 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,810 likes - 140 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

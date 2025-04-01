@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DHtfeD4PsmR9YGhCP4VF7">Nemzzz</a>
 
-2,250 songs - 4 day 4 hr 8 min
+2,251 songs - 4 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,7 +544,7 @@
 | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/track/5Xks4meWbkd8vjWsxqYeNF) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/album/566YUUlXUHUdv98SJKo0Os) | 2:47 | 2021-11-05 | 2022-02-05 |
 | [DOG SHIT \(with Baby Money\)](https://open.spotify.com/track/4f6whET6RFEWTy4dYmQF3n) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [DOG SHIT \(with Baby Money\)](https://open.spotify.com/album/5ZgGsUpnQnowHb4X9GMaIn) | 2:33 | 2023-03-24 | 2023-04-15 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-22 | 2022-09-10 |
-| [DOLLAR menu](https://open.spotify.com/track/4uSaaHuvtIo1qIdWgsX4AH) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [DOLLAR menu](https://open.spotify.com/album/2uA1w90cupy2tS1FsUM2rB) | 4:24 | 2025-03-28 |  |
+| [DOLLAR menu](https://open.spotify.com/track/4uSaaHuvtIo1qIdWgsX4AH) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [DOLLAR menu](https://open.spotify.com/album/2uA1w90cupy2tS1FsUM2rB) | 4:24 | 2025-03-28 | 2025-04-01 |
 | [Don Julio](https://open.spotify.com/track/479pcxeVzWpYm9RzwSZL1D) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Don Julio](https://open.spotify.com/album/1KjvoymutxBKQBn0FQboxK) | 1:49 | 2024-05-25 | 2024-06-01 |
 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 | 2024-02-02 | 2025-02-01 |
 | [Don Who Leo \- Añejo Remix](https://open.spotify.com/track/5AoeI3GRZVwWOwLUgwwDbi) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Don Who Leo \- Añejo Remix](https://open.spotify.com/album/6ptsMHVB7xuclG8FKewffu) | 2:30 | 2024-08-09 | 2024-08-31 |
@@ -1506,6 +1506,7 @@
 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 | 2022-07-08 | 2022-09-03 |
 | [Parking Lot](https://open.spotify.com/track/2DhGDCZoUjyTyDh4SEXh8K) | [Kuttem Reese](https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4) | [Parking Lot](https://open.spotify.com/album/2vUUncji6W1GanfV2pHJKb) | 2:09 | 2023-02-03 | 2023-03-25 |
 | [Part Of The Plan](https://open.spotify.com/track/1g5UopJRkEceGAJX2OEgIX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Part Of The Plan + Hold Me Down](https://open.spotify.com/album/4emkA3xbBqF6gXlA1nAGJF) | 2:20 | 2024-09-27 | 2024-10-26 |
+| [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 | 2025-04-01 |  |
 | [Pass The Ball](https://open.spotify.com/track/46zVtEpYgxOn3HW5ODiRnj) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Pass The Ball](https://open.spotify.com/album/7x48tJgtaTjSpgsmWwA476) | 2:05 | 2022-06-17 | 2022-07-09 |
 | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/track/7G0MIYpMnZkEAg3cVjMPGd) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/album/6UH4nolB5PbkBahuWxKkuZ) | 2:53 | 2024-09-13 | 2024-09-21 |
 | [Passport Junkie](https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Passport Junkie](https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv) | 2:27 | 2024-10-04 | 2024-10-26 |

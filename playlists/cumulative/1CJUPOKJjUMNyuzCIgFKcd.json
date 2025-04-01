@@ -261,6 +261,32 @@
     },
     {
       "album": {
+        "name": "Ain't My Fault",
+        "url": "https://open.spotify.com/album/1mD0rR1VKGaJHd0cpfPZBG"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Mike G Beatz",
+          "url": "https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "Ain't My Fault",
+      "url": "https://open.spotify.com/track/453O275lHzJI4y321q2dk7"
+    },
+    {
+      "album": {
         "name": "Alabama Don",
         "url": "https://open.spotify.com/album/5oUaD0eObdJmanpxCaTtC5"
       },
@@ -866,7 +892,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 116471,
       "name": "Boss Affirmations",
       "url": "https://open.spotify.com/track/6aW3D266UU5858OyPswJMq"
@@ -1361,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "d!e slow",
+        "url": "https://open.spotify.com/album/4Jt5IcF2gDQlsGACmk1luN"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135947,
+      "name": "d!e slow",
+      "url": "https://open.spotify.com/track/4ibBRYeY2OiyYbQSjD1H1E"
+    },
+    {
+      "album": {
         "name": "Da Trimmest",
         "url": "https://open.spotify.com/album/6srl6Xvzq4YtTCUXr61Vbr"
       },
@@ -1644,7 +1688,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 188081,
       "name": "Don't Play With Me",
       "url": "https://open.spotify.com/track/23j7u8QDwbDOHwzYABBeBT"
@@ -2042,7 +2086,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 157605,
       "name": "Feelin' Me",
       "url": "https://open.spotify.com/track/0JCfyEk0KGWhvhbjNpY06C"
@@ -2176,6 +2220,28 @@
       "duration_ms": 205185,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/0hJFRBkbBS20cLnVnQZQuv"
+    },
+    {
+      "album": {
+        "name": "FTW",
+        "url": "https://open.spotify.com/album/3QopZMe12YsPHvz3LXJAx4"
+      },
+      "artists": [
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148182,
+      "name": "FTW",
+      "url": "https://open.spotify.com/track/3FtdFxk3mXsBtmCICjIYOZ"
     },
     {
       "album": {
@@ -2684,7 +2750,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 134948,
       "name": "Hawk Tuah",
       "url": "https://open.spotify.com/track/1vV7X5IBrBudb3hct3OBWn"
@@ -2714,6 +2780,28 @@
       "duration_ms": 89083,
       "name": "Heathrow Bound",
       "url": "https://open.spotify.com/track/4e1NXnaqoNFpHPKcleiUtR"
+    },
+    {
+      "album": {
+        "name": "Heavens Above (My Angel)",
+        "url": "https://open.spotify.com/album/2IosEc26m00LIquMx6GdtH"
+      },
+      "artists": [
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198567,
+      "name": "Heavens Above (My Angel)",
+      "url": "https://open.spotify.com/track/2N4hIFZ7md1kP5Ekts4RIG"
     },
     {
       "album": {
@@ -3088,7 +3176,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 174314,
       "name": "I Eat Lobster",
       "url": "https://open.spotify.com/track/3vlR8f4kkaRALyuRD4wSrD"
@@ -3491,6 +3579,28 @@
     },
     {
       "album": {
+        "name": "LA Takeover",
+        "url": "https://open.spotify.com/album/0xLXXEp3MNVElpzOU8SbDp"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136247,
+      "name": "LA Takeover",
+      "url": "https://open.spotify.com/track/3wMSKHBO2KC1MlQK5FbLLK"
+    },
+    {
+      "album": {
         "name": "Lake Lanier",
         "url": "https://open.spotify.com/album/4AmS8OoOwlqO8oGF42IsEQ"
       },
@@ -3564,7 +3674,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 152526,
       "name": "Last Ones Left",
       "url": "https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5"
@@ -3662,7 +3772,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 125070,
       "name": "LIVE AND LET DIE",
       "url": "https://open.spotify.com/track/0EaTgcYikwnfkAmybrinn5"
@@ -4235,6 +4345,28 @@
     },
     {
       "album": {
+        "name": "NIGHTMARES (feat. Lil Poppa)",
+        "url": "https://open.spotify.com/album/1CAkUf2GVdMiIzm3dABpss"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "NIGHTMARES (feat. Lil Poppa)",
+      "url": "https://open.spotify.com/track/1EQE7ZGC1n1AM49KHa0PcB"
+    },
+    {
+      "album": {
         "name": "Nissan",
         "url": "https://open.spotify.com/album/2GG3MHE2CEPZMuArEhyTss"
       },
@@ -4692,7 +4824,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 115225,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/3GA0Jtt74Nj0T3eYjWk0Ay"
@@ -5045,6 +5177,24 @@
     },
     {
       "album": {
+        "name": "Screen Share",
+        "url": "https://open.spotify.com/album/5uPwJVRb1npGbNvZhKBfNq"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174620,
+      "name": "Screen Share",
+      "url": "https://open.spotify.com/track/6xmKZWq3cxYWUfHTx49ENX"
+    },
+    {
+      "album": {
         "name": "Selena",
         "url": "https://open.spotify.com/album/25b0HvvlY2ocNGlT90NBf7"
       },
@@ -5278,7 +5428,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 130560,
       "name": "Soul Ties",
       "url": "https://open.spotify.com/track/3uiKtDvSXAtepyv8o8sibo"
@@ -5372,7 +5522,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 124752,
       "name": "Stomp",
       "url": "https://open.spotify.com/track/4iiWGeuGiYM5kr1c8P6wIW"
@@ -5496,7 +5646,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 179425,
       "name": "TAKE IT HIGH",
       "url": "https://open.spotify.com/track/6u2IPsy2UY0AKYv7ONswuV"
@@ -5594,7 +5744,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 178144,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/0OfirwboNrLdcGsNtxqpoE"
@@ -5858,7 +6008,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 151157,
       "name": "TROLLIN'",
       "url": "https://open.spotify.com/track/63T2RxfAIE3xFoQX9QvHza"
@@ -5993,6 +6143,28 @@
     },
     {
       "album": {
+        "name": "Twin",
+        "url": "https://open.spotify.com/album/2tKbD7TNQXv5ZNCzRAec5Q"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142829,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/7LzZ9FgkCDuagnGnOSSHng"
+    },
+    {
+      "album": {
         "name": "TWO HI (WAVES) [feat. Channel Tres, Free Nationals & George Clinton]",
         "url": "https://open.spotify.com/album/6TPZCjtRmp7GsF6XuproDU"
       },
@@ -6046,7 +6218,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 133248,
       "name": "Typa",
       "url": "https://open.spotify.com/track/3HYyYI3aG9zM7meu1xUsdu"

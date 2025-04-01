@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: <strong>Rachel Chinouriri<strong>.
 
-1,911 songs - 4 day 7 hr 8 min
+1,913 songs - 4 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [busy feat\. Katannah](https://open.spotify.com/track/6b5Dc785SNrn9DCsrj7yWP) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU), [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j) | [I LOVE THE INTERNET \- DELUXE](https://open.spotify.com/album/6FTME3xp0SfeYX2nz7R1gS) | 2:44 | 2024-06-28 | 2024-10-07 |
 | [But does my love make you feel?](https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [But does my love make you feel?](https://open.spotify.com/album/4vyUUI6cAAkoYH1mmZh3lX) | 4:56 | 2024-08-23 | 2025-02-22 |
 | [BUTCHER'S BIN](https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BUTCHER'S BIN](https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R) | 4:00 | 2024-03-17 | 2024-04-03 |
-| [Butter](https://open.spotify.com/track/64FLB8me1Fb0XV0YO8ntqC) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Butter](https://open.spotify.com/album/0kHYxQbKPKpWYSDwY3kjOo) | 3:01 | 2024-10-11 |  |
+| [Butter](https://open.spotify.com/track/64FLB8me1Fb0XV0YO8ntqC) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Butter](https://open.spotify.com/album/0kHYxQbKPKpWYSDwY3kjOo) | 3:01 | 2024-10-11 | 2025-04-01 |
 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 | 2024-07-26 | 2025-01-25 |
 | [Butterfly](https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:09 | 2024-11-08 | 2025-03-30 |
 | [bye bye](https://open.spotify.com/track/12bz9ZB91ONuwiZt1NaUMK) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:18 | 2022-03-24 | 2022-04-21 |
@@ -281,6 +281,7 @@
 | [calor](https://open.spotify.com/track/2QNT2MvSRO1DrqrmAnX47Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [calor](https://open.spotify.com/album/2eUfQWRGBq8xCFR51UK20N) | 3:13 | 2022-03-24 | 2022-12-15 |
 | [CAN YOU UNDERSTAND ME?](https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [CAN YOU UNDERSTAND ME?](https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh) | 3:28 | 2024-02-26 | 2024-05-11 |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-03-24 | 2022-04-19 |
+| [Cannibal](https://open.spotify.com/track/3Sg6B5YHoP2JvDEj4AndqL) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Cannibal](https://open.spotify.com/album/7M07KVSye8Bj8Qdn4ijnJ7) | 3:11 | 2025-03-28 |  |
 | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/track/5sXsXtwDBgINAVwhoX6Ys2) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/album/1uAagTn6V0Uy7auhsgOCR5) | 2:44 | 2022-03-24 | 2022-08-02 |
 | [capricho](https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:59 | 2025-01-31 |  |
 | [CARRY YOU](https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [CARRY YOU](https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k) | 3:08 | 2024-08-09 | 2024-09-07 |
@@ -1255,6 +1256,7 @@
 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 | 2023-10-13 | 2024-04-19 |
 | [PPT \(Patita Pa Tra\)](https://open.spotify.com/track/4LLPvnckbEITdIaF2hc28W) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [PPT \(Patita Pa Tra\)](https://open.spotify.com/album/7cjIuMyS3K0HwvdWSzOWZg) | 2:45 | 2022-03-24 | 2022-04-20 |
 | [Prayer](https://open.spotify.com/track/0XWGCBspGhV4sbVmWstSkF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [About Ä Boy](https://open.spotify.com/album/3VzL7inCTsW6xkk8CmjzUD) | 3:02 | 2024-10-11 | 2024-12-23 |
+| [Precious](https://open.spotify.com/track/1tLWU4cpSMyLsJzG6BQDHT) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 3:01 | 2025-03-28 |  |
 | [Predator](https://open.spotify.com/track/50einjgl3ERzlcGJPT5mWM) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Predator](https://open.spotify.com/album/2kAKa8z3EuCnkadmNXeewO) | 3:01 | 2024-07-26 | 2025-01-25 |
 | [Press On Me](https://open.spotify.com/track/1sUqXRbX4USlqa5zUGPV8J) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [& Stone Between](https://open.spotify.com/album/1E50RSNgyM9yXSt1SUOEA5) | 2:54 | 2024-08-23 | 2024-09-01 |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-03 | 2023-10-06 |
@@ -1647,7 +1649,7 @@
 | [Watershed](https://open.spotify.com/track/2CfWHcw3H18SdyX4PcwJV2) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/799I2k2TkWYZgot4HkSJXH) | 3:38 | 2022-03-24 | 2022-04-20 |
 | [We Are The River](https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c) | [Calum Bowie](https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG) | [We Are The River](https://open.spotify.com/album/09Co4NYXyYwAUEncVniSiY) | 3:10 | 2024-02-02 | 2024-06-01 |
 | [We Be Killing it](https://open.spotify.com/track/220vekezDsEdQz8PZrmfCn) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Safar](https://open.spotify.com/album/1XknSuKMvGyfUWEf1TrrsO) | 2:45 | 2024-08-16 | 2024-10-06 |
-| [We Don't Need to Do Forever](https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 2:36 | 2024-11-15 |  |
+| [We Don't Need to Do Forever](https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 2:36 | 2024-11-15 | 2025-04-01 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-02-03 | 2022-09-16 |
 | [we grew up together](https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu), [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [we grew up together](https://open.spotify.com/album/0a8IV62EQe7cWglIFJXapM) | 4:04 | 2023-09-15 | 2023-11-18 |
 | [We're All Gonna Die](https://open.spotify.com/track/0cO9d6BRSLjETagiTQ9HXv) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [We're All Gonna Die](https://open.spotify.com/album/7xQq5fpb1TV8b5Rg9XEjI7) | 3:08 | 2025-01-03 |  |

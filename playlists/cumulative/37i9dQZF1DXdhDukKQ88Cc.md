@@ -4,7 +4,7 @@
 
 > 🔥 <a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> 🔥
 
-303 songs - 13 hr 5 min
+304 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [KITTY \(feat\. Tessa\)](https://open.spotify.com/track/0L8mArFgQMunWP6qip3U7k) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [KITTY \(feat\. Tessa\)](https://open.spotify.com/album/2o4OKDnYbLOXp9md43Nqnt) | 2:16 | 2024-06-06 | 2024-11-08 |
 | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r) | 2:10 | 2024-08-22 | 2024-11-01 |
 | [KOM HERHEN](https://open.spotify.com/track/7ig9hPxbAJ6do2HRqwJhoA) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [KOM HERHEN](https://open.spotify.com/album/2GpJnXX38497OokE7BBxkS) | 2:24 | 2024-05-23 | 2025-01-10 |
+| [Kun Os](https://open.spotify.com/track/43iOu7xPRhZdnKXDgCwyz9) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kun Os](https://open.spotify.com/album/63DY4bmIG6gBTwK4zELvBj) | 2:53 | 2025-03-31 |  |
 | [Lad Mig Lande \(feat\. Gilli, KESI, Kimbo & Sivas\)](https://open.spotify.com/track/50kvRbk8GLtPtgxoMeasSK) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:32 | 2024-03-21 | 2024-06-22 |
 | [LAG PÅ LAG](https://open.spotify.com/track/3okKedyibuPyKZy16clOWH) | [Naoui](https://open.spotify.com/artist/0AvmzQcrG34vvnXwwXy06A), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [LAG PÅ LAG](https://open.spotify.com/album/7qgIprL7S4IdbsSgPsUtL0) | 2:15 | 2024-01-04 | 2024-01-17 |
 | [Langt Væk](https://open.spotify.com/track/29wJ4iomPWiJLXaXYhowRu) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Langt Væk](https://open.spotify.com/album/21xYB9rpuvfWagpQkuAxdV) | 2:09 | 2024-10-10 | 2024-11-01 |

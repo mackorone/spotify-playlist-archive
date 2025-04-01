@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Dende
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,545 likes - 170 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,555 likes - 170 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

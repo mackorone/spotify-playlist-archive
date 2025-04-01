@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-382 songs - 19 hr 48 min
+383 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Told You](https://open.spotify.com/track/6jSLaYL3asiPzk0mCSm5pF) | [FutureShape](https://open.spotify.com/artist/0blllSlSM8o1rGyCTuIekr) | [Told You](https://open.spotify.com/album/66PrrpxI8kGjsn3OZeUP5M) | 2:24 | 2023-07-28 | 2024-03-14 |
 | [Torta](https://open.spotify.com/track/3eCZhR3W7lMWm8C7WUe17s) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Kapoh](https://open.spotify.com/artist/6zmjY4utOtTz5N4Q1PdTVC) | [Torta](https://open.spotify.com/album/4vtE1c1L7oaeg5s4kiciN8) | 2:24 | 2023-09-06 | 2024-03-14 |
 | [Torture Me \(feat\. Skrillex\)](https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:53 | 2023-06-13 | 2024-03-14 |
+| [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-31 |  |
 | [Try Try Try](https://open.spotify.com/track/5UcXIF9BHOS8DP2mmFZ801) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11), [Martay M'Kenzy](https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb) | [Try Try Try \(feat\. Martay M'Kenzy\)](https://open.spotify.com/album/6qHoPyFEpxGY31QGj1kmHZ) | 2:29 | 2025-02-28 |  |
 | [Under My Body](https://open.spotify.com/track/6A1NvtGGH34biEXYbzv0Fo) | [4TUNE](https://open.spotify.com/artist/6cDaHyH3TTBe1IdwzEehmV) | [Under My Body](https://open.spotify.com/album/4E9LlkHXuTQqdstfXmKWP1) | 2:30 | 2023-06-02 | 2024-03-14 |
 | [Unstoppable](https://open.spotify.com/track/1sLFzxbXKvOeTkDgnsKbXI) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Unstoppable](https://open.spotify.com/album/01onMvpJIQJ8KEznfzLC3U) | 3:08 | 2023-07-07 | 2024-03-14 |

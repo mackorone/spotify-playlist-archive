@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 112099,
       "name": "I'm Sick of Missing You",
       "url": "https://open.spotify.com/track/6AKcw88IDs1odE5xiHZxqV"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 230635,
       "name": "Klubben (feat. Jannis) (feat. Choir Of Young Believers)",
       "url": "https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN"
@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Regn P\u00e5 Min Kind",
+        "url": "https://open.spotify.com/album/6xscW4MSCl4g87YaQyd8BH"
+      },
+      "artists": [
+        {
+          "name": "BUKURU",
+          "url": "https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169883,
+      "name": "Regn P\u00e5 Min Kind",
+      "url": "https://open.spotify.com/track/5mcIyGl60e8Y1pk4hx8l6S"
+    },
+    {
+      "album": {
         "name": "Samme side",
         "url": "https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P"
       },
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 182860,
       "name": "Sang Til Min Far",
       "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"

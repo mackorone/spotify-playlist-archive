@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-27 songs - 1 hr 28 min
+28 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,5 +35,6 @@
 | [Time Is Now](https://open.spotify.com/track/3Qvo8jqssKxu0f5EyP3IJF) | [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN), [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR), [Fem Fel](https://open.spotify.com/artist/61NJMGxlvjOHmWCuJn13sc) | [Project Z](https://open.spotify.com/album/477j0umdJe3x4fgst9dp17) | 3:28 | 2024-12-21 |  |
 | [Toxic](https://open.spotify.com/track/11VqkjKPzAFMoo4V4uk9Ys) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Toxic](https://open.spotify.com/album/6frJVs66js2iZrJB7DKz1V) | 2:45 | 2024-06-13 |  |
 | [Walk Away](https://open.spotify.com/track/45hRLI6ljnV3rYOYWMyoIt) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Joe Devlin](https://open.spotify.com/artist/6zvaBH9XesIrlYqkC4w6ze) | [Walk Away](https://open.spotify.com/album/3aDkMVk9kfsNPGnj5DKIn0) | 3:12 | 2024-06-13 |  |
+| [Woah Man!](https://open.spotify.com/track/6JAW6U9tvLicav3YTgkhDZ) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Woah Man!](https://open.spotify.com/album/6vVz2NNu2eqBZ7TKE1eCBZ) | 3:03 | 2025-03-31 |  |
 
 \*This playlist was first scraped on 2024-06-14. Prior content cannot be recovered.

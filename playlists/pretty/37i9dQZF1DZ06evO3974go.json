@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+XmgAAAAADy28vFZl+25g6tuR6Lc5Ol",
+  "snapshot_id": "Z+iJgAAAAAAH/V/cJt0mNgwMgxbJPbEi",
   "tracks": [
     {
       "added_at": null,
@@ -895,18 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family & Mula",
-        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+        "name": "I'm Sayin' (feat. Rich Homie Quan)",
+        "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
       },
       "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 144023,
-      "name": "Krazy",
-      "url": "https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU"
+      "duration_ms": 202200,
+      "name": "I'm Sayin' (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
     },
     {
       "added_at": null,

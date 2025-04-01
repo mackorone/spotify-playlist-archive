@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Artie 5ive, Lorenzza, Silent Bob e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,250 likes - 132 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,252 likes - 132 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

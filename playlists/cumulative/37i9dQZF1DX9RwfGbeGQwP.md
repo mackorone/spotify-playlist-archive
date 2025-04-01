@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,562 songs - 2 day 10 hr 44 min
+1,563 songs - 2 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Another Promise](https://open.spotify.com/track/5ZV8OzO3O4YfBArCQyilaL) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [WERE](https://open.spotify.com/artist/5P1tayGhNEZlky687uFT06) | [Another Promise](https://open.spotify.com/album/2vI7bNZCTthrYZFgymzTGb) | 2:18 | 2022-08-12 | 2022-10-15 |
 | [Anti](https://open.spotify.com/track/3zqBbUO98vVRF8SBFVMDrI) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Anti](https://open.spotify.com/album/6uWgVDRheEtVFDnlTOzsvf) | 2:14 | 2022-07-08 | 2022-12-10 |
 | [aperol spritz](https://open.spotify.com/track/6h1tgGz0ZWoNvPVadoGanS) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [aperol spritz](https://open.spotify.com/album/4WeG7tPEaI7ywF6jayjuA8) | 2:10 | 2024-10-04 |  |
+| [aperture](https://open.spotify.com/track/4nB73xtcP4qEfLcK8x2HfT) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [aperture](https://open.spotify.com/album/6uu13CX4JIamrQT6aefBy6) | 2:20 | 2025-03-28 |  |
 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2023-09-08 | 2024-10-19 |
 | [April](https://open.spotify.com/track/2Tc2p3pNAWjnIjiP6fS6y4) | [Young Akino](https://open.spotify.com/artist/4u16ySAhgpcfh3aRi0pv5o) | [April](https://open.spotify.com/album/60e5ClJJ339aOagoS3C21n) | 2:00 | 2023-08-03 |  |
 | [Aqua Bar](https://open.spotify.com/track/2fMjuehxqKJQml8jitq4Xd) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93) | [Aqua Bar](https://open.spotify.com/album/1ZBxF4yICm5p5i3gwqBW4F) | 1:33 | 2022-09-02 | 2023-09-05 |
@@ -635,7 +636,7 @@
 | [impromptu love](https://open.spotify.com/track/136bCLrehD1YeAqsFSZhVs) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [impromptu love](https://open.spotify.com/album/5LzfVJgkagIRWtQNTZo7Oy) | 2:04 | 2025-01-10 | 2025-02-08 |
 | [In My Mind](https://open.spotify.com/track/79Qncq9X02HoE3AvSz7HZt) | [Raven Paradox](https://open.spotify.com/artist/6kOg93cYVJ8rQile4irBtc) | [In My Mind](https://open.spotify.com/album/3xrXU507RQMBgeqPo54hha) | 1:38 | 2022-09-09 | 2023-09-16 |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2022-01-27 | 2022-06-10 |
-| [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 | 2022-10-28 |  |
+| [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 | 2022-10-28 | 2025-04-01 |
 | [In the Mood \- Instrumental](https://open.spotify.com/track/5qNfTRKQtMCWZSMQ4yQHc6) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Chuuwee](https://open.spotify.com/artist/6ZBnvCszokLW4YHZ50uHY8), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Dreaming Hills \(Extras\)](https://open.spotify.com/album/01SxP0WBT6TiJYiTDZnAKr) | 2:52 | 2023-09-29 | 2024-05-14 |
 | [In The Mood For Coffee](https://open.spotify.com/track/1f3o2sG628NdG1WnMGfxUp) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [In The Mood For Coffee](https://open.spotify.com/album/6GwK4fEPO8ywjMxs2ftsip) | 2:51 | 2022-11-11 |  |
 | [In The Third Move](https://open.spotify.com/track/5uAhIMnDPNjRNeiH5tDtqy) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:24 | 2022-01-27 | 2022-07-15 |

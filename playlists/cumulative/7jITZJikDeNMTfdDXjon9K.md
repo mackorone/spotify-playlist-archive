@@ -4,7 +4,7 @@
 
 > 
 
-3,123 songs - 7 day 16 hr 16 min
+3,124 songs - 7 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1979,6 +1979,7 @@
 | [Oh No!](https://open.spotify.com/track/0VVNXqaDwfHngG2gXaOtlI) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels \(Deluxe\)](https://open.spotify.com/album/2JYafZ3dl9GEIvP1buukIM) | 3:00 | 2018-06-08 |  |
 | [Oh No!!!](https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Oh No!!!](https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp) | 3:35 | 2021-08-06 |  |
 | [Ohms](https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:10 | 2023-03-15 |  |
+| [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:21 | 2025-03-31 |  |
 | [OKAY! \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/05g1nYlwJQJ09fMq5CRXhh) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [TW20 50](https://open.spotify.com/album/1VVeLNCUGQSYL1GLek67gv) | 4:35 | 2022-03-18 |  |
 | [Old money bitch](https://open.spotify.com/track/1Ips8oXVyBdcfX4Dpv68FN) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Old money bitch](https://open.spotify.com/album/7lQ4aPxo9J75gfmHeFuS38) | 4:05 | 2023-09-22 |  |
 | [Olive Branch \(Original Lackadaisy Animated Short Soundtrack\)](https://open.spotify.com/track/1ssU0xD8QDhtd4KFSSACJN) | [Sepiatonic](https://open.spotify.com/artist/6KqHTCk3yOeEXcoE5rgDyn) | [Olive Branch \(Original Lackadaisy Animated Short Soundtrack\)](https://open.spotify.com/album/0dzQI8dIje09xsdgdc5vVb) | 5:22 | 2023-04-23 |  |

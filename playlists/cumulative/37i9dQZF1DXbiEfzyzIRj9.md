@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: X CLUB.
 
-1,279 songs - 3 day 22 hr 53 min
+1,280 songs - 3 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,8 +336,9 @@
 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 | 2024-06-06 | 2024-08-09 |
 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 | 2023-03-20 | 2023-05-19 |
 | [El Enamorao](https://open.spotify.com/track/6F8SC3vTPi9Jh0ftYErL06) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [El Enamorao](https://open.spotify.com/album/2Jj38P9dQHypdGOSaghKbf) | 2:51 | 2024-07-19 | 2024-09-27 |
-| [Electricity \(Arca Remix\)](https://open.spotify.com/track/4GZBn7lvGSoEalXLJekGrg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Electricity \(Arca Remix\)](https://open.spotify.com/album/38xD3ZibRtmc2bwV1cGvdS) | 3:38 | 2025-02-27 |  |
+| [Electricity \(Arca Remix\)](https://open.spotify.com/track/4GZBn7lvGSoEalXLJekGrg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Electricity \(Arca Remix\)](https://open.spotify.com/album/38xD3ZibRtmc2bwV1cGvdS) | 3:38 | 2025-02-27 | 2025-04-01 |
 | [Electricity \(Karen Nyame KG Remix\)](https://open.spotify.com/track/0WGZA4fWEWIeqbASvl24XM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Electricity \(Karen Nyame KG Remix\)](https://open.spotify.com/album/3vP5SePa5PUZeBMed5o4Gg) | 3:42 | 2025-02-21 | 2025-03-30 |
+| [Electricity \(salute Remix\)](https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Electricity \(salute Remix\)](https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk) | 4:10 | 2025-03-31 |  |
 | [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Elixir](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 | 2024-12-19 | 2025-03-30 |
 | [en skog](https://open.spotify.com/track/6I0qoxCuCJjBVyDZY0Sx5B) | [Frog 3](https://open.spotify.com/artist/4sRWBaiv58EbKHgZwVGkXb) | [en skog](https://open.spotify.com/album/7JwaprGwzwWgqE9ghsQvkz) | 4:46 | 2023-03-16 | 2023-05-12 |
 | [Enamorá](https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Enamorá](https://open.spotify.com/album/70Rb9d3ty7Fg6PEU9TNjyl) | 2:52 | 2025-03-13 |  |

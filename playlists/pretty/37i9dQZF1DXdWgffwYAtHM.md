@@ -2,22 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 ### [RADAR Brasil Creators](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:4bFXTB2DcMA4dy3CC27bKu">Em Busca da Rotina Perfeita, com Giu Tessitore</a>
+> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:6gt6D5EyS6DRo3X4KuNhz5">O Turno da Noite</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,821 likes - 11 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,821 likes - 13 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Como suas expectativas estão afetando sua felicidade? EP\#47](https://open.spotify.com/episode/6N16ntjEAOWGI4JWXiqY52) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/show/4bFXTB2DcMA4dy3CC27bKu) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/album/4bFXTB2DcMA4dy3CC27bKu) | 19:14 |
-| 2 | [eu jamais voltaria a ser criança ](https://open.spotify.com/episode/39kq31hiaHDSj5jZUlwHei) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 25:59 |
-| 3 | [\#93\. Babão](https://open.spotify.com/episode/3tsWPjIcyRsV3u6YqQSfwp) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 36:38 |
-| 4 | [Gabby Petito achava que ia viver a viagem dos sonhos](https://open.spotify.com/episode/55qjYcXs5eqT9uDVh2JGdE) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 24:44 |
-| 5 | [\#85 \- Infância Gospel com Samira Close \- Joguei no Grupo](https://open.spotify.com/episode/50yGVUiL62DAoYfB6kJcZ9) | [Joguei no Grupo](https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9) | [Joguei no Grupo](https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9) | 1:28:18 |
-| 6 | [para minha eu do passado \#43](https://open.spotify.com/episode/28d1l3NzNCGiGlbtw6wGXo) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 21:09 |
-| 7 | [O SILÊNCIO DO ABUSO](https://open.spotify.com/episode/5NHr3y14xjpv6b5lEydelT) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 1:18:28 |
-| 8 | [A SENHORA DE NAZARÉ E O MAR QUE CONTAVA HISTÓRIAS \- Histórias pra Adulto Dormir \(Barulho de Ondas e Gaivotas\)](https://open.spotify.com/episode/07TIR4kuvQZ5JED2DMmJgU) | [Histórias pra adulto dormir](https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt) | [Histórias pra adulto dormir](https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt) | 17:07 |
-| 9 | [POGRAMA DE BÊBO \#37](https://open.spotify.com/episode/3iXnvaZxa6uookXOlnI6Z5) | [POGRAMA](https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q) | [POGRAMA](https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q) | 1:18:00 |
-| 10 | [MATCH O PAPO & CLUBE DO ERRO \#09 \- RELAÇÕES SIGILOSAS E DE MUITO APRENDIZADO](https://open.spotify.com/episode/0Rhjqtm18kFV5XP40N2ksg) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 58:44 |
-| 11 | [Ep\#104 Amor romântico \(e suas complexidades\)](https://open.spotify.com/episode/6xH8tCVMaRErLxAIgOcZ4K) | [Eu preciso falar de amor ](https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd) | [Eu preciso falar de amor ](https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd) | 39:31 |
+| 1 | [\#33 Contos da Noite \| O Papel de Parede Amarelo](https://open.spotify.com/episode/44WqO4S1ELqj7hUKM8U0TT) | [O Turno da Noite](https://open.spotify.com/show/6gt6D5EyS6DRo3X4KuNhz5) | [O Turno da Noite](https://open.spotify.com/album/6gt6D5EyS6DRo3X4KuNhz5) | 45:31 |
+| 2 | [Você tem certeza de que essa rotina é sua? EP\#51](https://open.spotify.com/episode/32QB837O6bJJBFd8GSbTOk) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/show/4bFXTB2DcMA4dy3CC27bKu) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/album/4bFXTB2DcMA4dy3CC27bKu) | 28:24 |
+| 3 | [a filha que não deu trabalho ](https://open.spotify.com/episode/5adD2Ao2e5TlbM7zqtSCKa) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 27:10 |
+| 4 | [\#105\. Cinco em um](https://open.spotify.com/episode/06xtq2kRHgYwkMpk4QCaJl) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 30:36 |
+| 5 | [como juntei meus pedaços](https://open.spotify.com/episode/5Z2n6ELhlgbyjCfSzwBcXw) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 18:47 |
+| 6 | [MAL\-ESTAR NA ADOLESCÊNCIA](https://open.spotify.com/episode/2d4WGs3F6g7HmW4DvXMWHW) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 1:13:19 |
+| 7 | [a coragem que falta \#46](https://open.spotify.com/episode/6WaAXsTnMk9R6xtcMQ2Y0N) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 19:12 |
+| 8 | [Durma imaginando: UM DIA NA CASA DO VOVÔ DANIEL \- Histórias pra Adulto Dormir](https://open.spotify.com/episode/1ADTram672mDAx16pJqGCR) | [Histórias pra adulto dormir](https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt) | [Histórias pra adulto dormir](https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt) | 15:33 |
+| 9 | [\#89 \- Você Sabe Atuar? com DesiRée Beck \- Joguei No Grupo](https://open.spotify.com/episode/51SAuJQcfdPDM1CtwVRep2) | [Joguei no Grupo](https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9) | [Joguei no Grupo](https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9) | 1:04:15 |
+| 10 | [EP\#108 Vida boa e sem culpa.](https://open.spotify.com/episode/3Aqf3CikYyU9HLYjDlPBea) | [Eu preciso falar de amor ](https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd) | [Eu preciso falar de amor ](https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd) | 27:00 |
+| 11 | [Clube do Erro \#115 \- Quem É Você?](https://open.spotify.com/episode/6g5CkpHrodLHobDbYklMf2) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 16:26 |
+| 12 | [MENTIRAS \- POGRAMA \#42](https://open.spotify.com/episode/0mQqyqmHfXLnVXqIDb5STm) | [POGRAMA](https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q) | [POGRAMA](https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q) | 43:00 |
+| 13 | [Ele achava que era o Coringa, entrou armado no cinema](https://open.spotify.com/episode/6RxsbAk1f7ndhqKjYo78Xj) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 18:55 |
 
-Snapshot ID: `Z8ME9gAAAADcPuGau8gzUvJVdZKrDsI5`
+Snapshot ID: `Z+sslwAAAADTillvL3b8WvnBEBw+Vd49`

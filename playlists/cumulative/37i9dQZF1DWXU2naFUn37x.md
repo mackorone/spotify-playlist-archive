@@ -4,7 +4,7 @@
 
 > Artie 5ive in cover della playlist con il top dello street rap italiano ⛓️
 
-748 songs - 1 day 10 hr 17 min
+749 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [BALLIN](https://open.spotify.com/track/3TFMHw1vYWUWc5QALZQf2K) | [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BALLIN](https://open.spotify.com/album/5NlYTLOJa5rVz5qLJf1lXf) | 2:40 | 2024-11-14 | 2024-11-29 |
 | [BAMBA](https://open.spotify.com/track/0QJHIiPs1UTgJ3ZURHIBMw) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:15 | 2022-05-11 | 2022-06-03 |
 | [Bambola](https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bambola](https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB) | 2:49 | 2023-06-06 | 2023-10-27 |
-| [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX) | 3:14 | 2024-12-12 |  |
+| [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX) | 3:14 | 2024-12-12 | 2025-04-01 |
 | [Bandit](https://open.spotify.com/track/0U9hvXudneGTIO3WtpVoh0) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [Bandit](https://open.spotify.com/album/2gzqXgZ8Qdzyb0H7VvXmc9) | 2:54 | 2023-02-09 | 2023-03-31 |
 | [Bandito](https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Bandito](https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh) | 2:39 | 2022-12-08 | 2023-04-21 |
 | [Bandolero fuma static \(feat\. Fre\_nky\)](https://open.spotify.com/track/5e9e6wuEf5nvj4hT9ZzQ1m) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [BDM Mixtape Vol\. 1](https://open.spotify.com/album/69Wwgurz8xPbkxqwwqKUSG) | 2:54 | 2024-04-18 | 2024-05-14 |
@@ -284,6 +284,7 @@
 | [Fumando mary](https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Fumando mary](https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4) | 2:46 | 2023-05-11 | 2023-06-02 |
 | [Fumo Con Lei](https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Fumo Con Lei](https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe) | 2:14 | 2023-02-09 | 2023-05-12 |
 | [Fuori Controllo](https://open.spotify.com/track/2hcAjddSU4X4RMbNCICzuI) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 1:32 | 2024-06-27 | 2024-07-19 |
+| [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-03-31 |  |
 | [G CLASS](https://open.spotify.com/track/2s2slPHRcUQSYsOrlNhN5c) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [G CLASS](https://open.spotify.com/album/5i8sSSUmC6NMJd70gLS4Hn) | 2:25 | 2022-05-19 | 2022-06-17 |
 | [G II](https://open.spotify.com/track/3HUPMluR4pzVtC1tVdcxlh) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [G II](https://open.spotify.com/album/3qo652f9S3cLUEHQcCz4XG) | 2:33 | 2025-01-17 | 2025-01-31 |
 | [G63](https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:49 | 2023-11-17 | 2024-04-19 |

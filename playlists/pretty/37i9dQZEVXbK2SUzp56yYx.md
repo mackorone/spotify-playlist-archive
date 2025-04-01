@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,991 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,993 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
 | 50 | [Party](https://open.spotify.com/track/3oFcDLxie8sWYwlvVrPxuG) | [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c) | [Vibes](https://open.spotify.com/album/7kSi7WoAifeAaRH39rEeBM) | 2:00 |
 
-Snapshot ID: `L3y1+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L34HeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

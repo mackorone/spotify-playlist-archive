@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 99476,
+  "num_followers": 99502,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 260666,
       "name": "Love Me, Please Love Me",
       "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "En passant",
-        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
+        "name": "Barbara - N\u00b02",
+        "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
       },
       "artists": [
         {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
         }
       ],
-      "duration_ms": 265226,
-      "name": "Quand tu danses",
-      "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
+      "duration_ms": 161786,
+      "name": "G\u00f6ttingen",
+      "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Barbara - N\u00b02",
-        "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
+        "name": "En passant",
+        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
       "artists": [
         {
-          "name": "Barbara",
-          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
         }
       ],
-      "duration_ms": 161786,
-      "name": "G\u00f6ttingen",
-      "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
+      "duration_ms": 265226,
+      "name": "Quand tu danses",
+      "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
     },
     {
       "added_at": "2024-10-03 14:22:43",

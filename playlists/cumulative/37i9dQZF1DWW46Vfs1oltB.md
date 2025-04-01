@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> Swings\(스윙스\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> REDDY\(레디\)\)
 
-1,484 songs - 3 day 8 hr 29 min
+1,485 songs - 3 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [Recipient unknown](https://open.spotify.com/track/7iOmsc5LAxqRv6F0hOAHjy) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [CYWORLD BGM 2021](https://open.spotify.com/album/36752KbajX9ZAZ4tnVAQ4t) | 4:23 | 2021-12-21 | 2022-06-25 |
 | [Red Light \(Feat\. BIG Naughty\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3) | [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 4:30 | 2021-12-18 | 2022-07-01 |
 | [Red Pill \(Born from the Blue Pt\. II\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6wGvdwH0Pp9u08f28qTcGC) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 4:31 | 2022-07-22 | 2022-12-10 |
+| [Reditation \(Feat\. B.I\)](https://open.spotify.com/track/1k4SoED85lgOTBR7sFnOmB) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Reddy Made 0.5 Prototype](https://open.spotify.com/album/3bzioNfD7RUqPpQMuu58ce) | 3:13 | 2025-03-31 |  |
 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 | 2022-07-07 | 2022-10-15 |
 | [Reminiscence](https://open.spotify.com/track/68nVn4LRsmyhpY9TuRXkHp) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Reminiscence](https://open.spotify.com/album/4Z53Tk4gFsUDYs7aUGB6s2) | 2:21 | 2023-11-02 | 2024-01-06 |
 | [Reset \(Feat\. Gaeko, Kid Milli\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/5oD7cKg3DRl2HFuybvVsI5) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:17 | 2021-12-18 | 2022-07-08 |

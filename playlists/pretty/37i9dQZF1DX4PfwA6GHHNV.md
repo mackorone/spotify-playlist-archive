@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,357 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,366 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 9 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |
 | 10 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |
 | 11 | [Quem Me Guia](https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq) | [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Quem Me Guia](https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq) | 2:29 |
-| 12 | [Fica Mais Um Pouco](https://open.spotify.com/track/4w5xa6yvUKYoEN0aEVNiMy) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj), [Vanessa Melo](https://open.spotify.com/artist/0uX0lfxIua1tF782lTKLg9) | [Fica Mais Um Pouco](https://open.spotify.com/album/4st39nhWsplou4KFdFYoo5) | 2:38 |
-| 13 | [Intensão](https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Intensão](https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm) | 3:30 |
+| 12 | [Intensão](https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Intensão](https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm) | 3:30 |
+| 13 | [Fica Mais Um Pouco](https://open.spotify.com/track/4w5xa6yvUKYoEN0aEVNiMy) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj), [Vanessa Melo](https://open.spotify.com/artist/0uX0lfxIua1tF782lTKLg9) | [Fica Mais Um Pouco](https://open.spotify.com/album/4st39nhWsplou4KFdFYoo5) | 2:38 |
 | 14 | [Elite](https://open.spotify.com/track/1ZkSqrikGhRosF1krrlRd3) | [Lazza](https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs), [Ras Akin](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Elite](https://open.spotify.com/album/1Qn7502SAltX9ciuK7FY7K) | 3:22 |
 | 15 | [Calor](https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Calor](https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L) | 2:29 |
 | 16 | [ÁGUA DE COCO](https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS) | [ÁGUA DE COCO](https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE) | 2:14 |

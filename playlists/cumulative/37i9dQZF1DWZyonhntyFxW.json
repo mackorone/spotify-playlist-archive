@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0625\u062d\u0646\u0627 \u0641\u0648\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0627\u0641\u064a\u0634 \u063a\u064a\u0631\u0646\u0627 \u0641\u064a \u0627\u0644\u0633\u064a\u0646! \u063a\u0644\u0627\u0641: \u0648\u064a\u062c\u0632",
+  "description": " \u0625\u062d\u0646\u0627 \u0641\u0648\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0627\u0641\u064a\u0634 \u063a\u064a\u0631\u0646\u0627 \u0641\u064a \u0627\u0644\u0633\u064a\u0646! \u063a\u0644\u0627\u0641:  \u0623\u0631\u0633\u064a\u0646\u064a\u0643 \u0648\u0623\u0628\u0648 \u0627\u0644\u0623\u0646\u0648\u0627\u0631",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -2424,6 +2424,28 @@
       "duration_ms": 113208,
       "name": "FOKAK MENI",
       "url": "https://open.spotify.com/track/56ohyUS0aLJpk10OQhleUD"
+    },
+    {
+      "album": {
+        "name": "Fomanshi",
+        "url": "https://open.spotify.com/album/3pj9ksj2ATL75K6F1zscW7"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167915,
+      "name": "Fomanshi",
+      "url": "https://open.spotify.com/track/1aMA5gWiKvHOhVYxHJ2pY1"
     },
     {
       "album": {
@@ -7172,7 +7194,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 194243,
       "name": "\u0633\u0643\u0629",
       "url": "https://open.spotify.com/track/3LFoLm13Aped0za3Qx8PAO"

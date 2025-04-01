@@ -2,9 +2,9 @@
 
 ### [Hot New Bands](https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60)
 
-> Where your new favourite bands are discovered\. Cover: florence road
+> Where your new favourite bands are discovered\. Cover: Westside Cowboy
 
-171 songs - 10 hr 11 min
+174 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beautiful Hands](https://open.spotify.com/track/7uOgRXGJD7kHoZGjkjgkYA) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Beautiful Hands](https://open.spotify.com/album/1k2nj68i8nUY0iT3pA1Pj6) | 3:43 | 2025-03-07 |  |
 | [Bedwetter](https://open.spotify.com/track/0Pkkje3ykyNs1reEKq2Xih) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Bedwetter](https://open.spotify.com/album/3boYoDjJRkzVCRtruIGDXX) | 5:26 | 2025-01-22 |  |
 | [Better Days](https://open.spotify.com/track/0dPVVnSzDSngf9i2umcLDb) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Better Days](https://open.spotify.com/album/1hlEQk2DaeeAdceEkJ6rgH) | 3:38 | 2025-03-28 |  |
+| [Big Stepper](https://open.spotify.com/track/47x33fckrWvLk82Hc4cJfK) | [Real Farmer](https://open.spotify.com/artist/19lSZSwxm5y6ihi5mODLaK) | [Big Stepper](https://open.spotify.com/album/5cT2fT6DwOXIY0hgrBWhr6) | 2:38 | 2025-03-31 |  |
 | [Bittersweet](https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Bittersweet](https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp) | 3:57 | 2025-03-17 |  |
 | [Bleeding](https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Bleeding](https://open.spotify.com/album/1haIHMphCyAK4P3YWOvNQF) | 4:49 | 2024-08-16 | 2025-01-23 |
 | [Borderline](https://open.spotify.com/track/5ZeId40tYso3dnPaH0Irnl) | [Adult Leisure](https://open.spotify.com/artist/1x8fyCiAVXjUlU0yfRSIP7) | [Borderline](https://open.spotify.com/album/5sFHFJWNEZ1aBBG8z57CcK) | 3:41 | 2024-08-16 | 2025-01-23 |
@@ -42,6 +43,7 @@
 | [colour photo](https://open.spotify.com/track/3lSarTYqSK7A9bnNwz1P61) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [colour photo](https://open.spotify.com/album/68q75hsPYIehvIar3lI9E0) | 2:53 | 2024-07-12 | 2024-12-13 |
 | [Constantly](https://open.spotify.com/track/5aS0lhnoreY5qphG7C90am) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Constantly](https://open.spotify.com/album/2QmEscO87UBIOXNH1wiQyX) | 3:52 | 2024-07-12 | 2024-09-07 |
 | [Cranium](https://open.spotify.com/track/749zlkeyfz7is44tqB7t1O) | [Lei Hope](https://open.spotify.com/artist/6257V4WUEDg5kZd2IbBUJu) | [Cranium](https://open.spotify.com/album/6GLvAOeCOr1KK2O6S59KHU) | 2:28 | 2024-11-22 |  |
+| [Cycling](https://open.spotify.com/track/3enH46VQbycYogUQjxetiH) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [Cycling](https://open.spotify.com/album/5KQn81KQ7RMugV7RsZo468) | 4:21 | 2025-03-31 |  |
 | [Davey Says](https://open.spotify.com/track/0taAI29AhzNRcrnWhGPMwZ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Davey Says](https://open.spotify.com/album/6vQVPgqVMU51qDxJnAm3dC) | 2:47 | 2024-06-14 | 2024-10-07 |
 | [Dead Ocean Swimmer](https://open.spotify.com/track/3UpaBM4jiBcs5ERfFMfJSq) | [Solis](https://open.spotify.com/artist/0K3Fj6AQuFF0wggXjejSZS) | [Dead Ocean Swimmer](https://open.spotify.com/album/2c7s79EZUrj34wz6d3tXF3) | 4:22 | 2024-10-06 | 2025-03-18 |
 | [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 | 2024-06-14 | 2024-07-27 |
@@ -92,12 +94,13 @@
 | [Innocence of Youth](https://open.spotify.com/track/4Gms5mWx5dWNjgCTzBFyRN) | [The Manatees](https://open.spotify.com/artist/2cWGltn2fZoaAiIhuQyw5h) | [Innocence of Youth](https://open.spotify.com/album/3sqm7E11vrNJonXeE9APrf) | 3:33 | 2024-06-14 | 2024-12-13 |
 | [It's Not Right](https://open.spotify.com/track/418XyOLRQ4nqcIjxThO0jE) | [Shale](https://open.spotify.com/artist/0xHF1WsfkOmGD1ajOfbj60) | [It's Not Right](https://open.spotify.com/album/3TkkgSxTf1SqBHH7IVH9wX) | 2:50 | 2025-01-22 |  |
 | [Its not deep](https://open.spotify.com/track/56nO8TNRfTQT2ZfwNNwmyf) | [Lip Filler](https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ) | [witchescrew](https://open.spotify.com/album/4thHMKP08QEIYSyuMQz6Z6) | 2:04 | 2024-06-14 | 2024-10-07 |
+| [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 | 2025-03-31 |  |
 | [Jeremiah](https://open.spotify.com/track/238NHYxrU8GXkDNNr7s9Ox) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Jeremiah](https://open.spotify.com/album/410lTpDhzFkeJ0YBUZdaeQ) | 4:19 | 2024-06-14 | 2024-07-27 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-14 | 2024-07-13 |
 | [Killing It](https://open.spotify.com/track/3JwKYXKyBKJeWJs4c7uFrH) | [Disgusting Sisters](https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe) | [Killing It](https://open.spotify.com/album/0W7ffeXzEIXrdPYV9dlr3P) | 3:34 | 2024-11-22 |  |
 | [King Cnut](https://open.spotify.com/track/4m0cUQ0fKhdHA0iBx9XCuk) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [King Cnut](https://open.spotify.com/album/5JTiEmHBkvYLAlSk1FGmNO) | 4:46 | 2024-10-06 | 2024-11-09 |
-| [Kiss Me Like You Miss Her](https://open.spotify.com/track/2Hy2atXIzk7l6fbYfCejIm) | [Adult Leisure](https://open.spotify.com/artist/1x8fyCiAVXjUlU0yfRSIP7) | [Kiss Me Like You Miss Her](https://open.spotify.com/album/2tC0PnJAdst2WrZ3nd72o0) | 3:40 | 2024-11-22 |  |
-| [Know It All](https://open.spotify.com/track/6T1mTUx2LKIw1INNOwFFhG) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Heaven's A Lonely Place](https://open.spotify.com/album/14bpn72iaC3QTtva2PYoQm) | 2:40 | 2024-11-08 |  |
+| [Kiss Me Like You Miss Her](https://open.spotify.com/track/2Hy2atXIzk7l6fbYfCejIm) | [Adult Leisure](https://open.spotify.com/artist/1x8fyCiAVXjUlU0yfRSIP7) | [Kiss Me Like You Miss Her](https://open.spotify.com/album/2tC0PnJAdst2WrZ3nd72o0) | 3:40 | 2024-11-22 | 2025-04-01 |
+| [Know It All](https://open.spotify.com/track/6T1mTUx2LKIw1INNOwFFhG) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Heaven's A Lonely Place](https://open.spotify.com/album/14bpn72iaC3QTtva2PYoQm) | 2:40 | 2024-11-08 | 2025-04-01 |
 | [Kraut](https://open.spotify.com/track/29pzCVABjlBFfMLlgg3AKd) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Kraut](https://open.spotify.com/album/1JAoPZrG9rUe9o55VpjNaa) | 2:53 | 2025-02-07 |  |
 | [Leeches](https://open.spotify.com/track/1quJhosjIGze4W4bT3b5D3) | [Lip Filler](https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ) | [Leeches](https://open.spotify.com/album/0OerUibglMu1gZ1jrN0q45) | 3:03 | 2025-01-22 |  |
 | [Lightbulb Moment](https://open.spotify.com/track/3eCSG6GiW6ldZ9sCNApLBl) | [Adult Play](https://open.spotify.com/artist/0qAWgmNrJU4yfHMCMnEnOl) | [Deep Recess Dial Up Despair](https://open.spotify.com/album/3WeWOz5wpbGwK9YWqTAaNo) | 3:47 | 2024-06-14 | 2024-09-14 |

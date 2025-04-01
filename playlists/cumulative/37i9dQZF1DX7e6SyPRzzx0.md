@@ -2,7 +2,7 @@
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> The home of rage rap\. Cover: Yeat
+> The home of rage rap\. Cover: Playboi Carti
 
 138 songs - 5 hr 53 min
 

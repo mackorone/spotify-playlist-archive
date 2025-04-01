@@ -6785,6 +6785,32 @@
     },
     {
       "album": {
+        "name": "Going Under",
+        "url": "https://open.spotify.com/album/18qd9Qz8xCZzTnsWnHkp7v"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161805,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/0qwAAkozsllq8QcGddgi24"
       },

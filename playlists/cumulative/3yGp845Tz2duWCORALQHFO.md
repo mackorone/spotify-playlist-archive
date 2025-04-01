@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,438 songs - 5 day 11 hr 52 min
+2,440 songs - 5 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1814,6 +1814,7 @@
 | [Rome](https://open.spotify.com/track/7J007OEBeGZUbY8YBaSQK0) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Rome](https://open.spotify.com/album/2itN7tAfgwopk4KtXdrx4e) | 3:47 | 2024-08-02 | 2024-08-09 |
 | [Rosaita](https://open.spotify.com/track/7z4YHGFF9WrqvFN4frqASY) | [Marc Suarez](https://open.spotify.com/artist/3ouLIt5I6JW0rrNismO5q6), [Jakblauz](https://open.spotify.com/artist/0jBf3A4p8Cv5UovH9LPDvg) | [Rosaita](https://open.spotify.com/album/5Px1hEKCW3Mmr9WpCK8GaN) | 2:03 | 2024-09-05 | 2024-09-21 |
 | [Roulette](https://open.spotify.com/track/6ryHZe8zX3IDZmFVD2msh7) | [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL) | [Roulette](https://open.spotify.com/album/0F8fqVUJgdjyJGHKgfAYdc) | 3:19 | 2024-12-05 | 2024-12-14 |
+| [RPG](https://open.spotify.com/track/1D87s9kLf2XVrFYru0QFFK) | [Axiom Drift](https://open.spotify.com/artist/1XzjXVTrUoaAL695r18PUQ), [Chill Union CFM](https://open.spotify.com/artist/367thuhEvBpz99ytopYN3a) | [RPG](https://open.spotify.com/album/1cP7TTZdOoDFvoyL7UvxGw) | 2:40 | 2025-03-31 |  |
 | [Rubix Cube](https://open.spotify.com/track/6o12D6Pk42lsb6m2aYtqJr) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Rubix Cube](https://open.spotify.com/album/0PktwDBITGLMcZYG1uK6VQ) | 2:40 | 2025-01-10 | 2025-01-18 |
 | [Rude Boy \- Edit](https://open.spotify.com/track/2pQlKDNqBNtWXfKUDg5xIj) | [Snow N Stuff](https://open.spotify.com/artist/6wIX9hW2uQAVv190xXV9mA) | [Rude Boy](https://open.spotify.com/album/4zXfAKSP8QWHVAmSICOax3) | 3:10 | 2025-02-21 | 2025-03-01 |
 | [Rude Boyz](https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Rude Boyz](https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB) | 3:25 | 2024-07-05 | 2024-07-12 |
@@ -2375,6 +2376,7 @@
 | [where will i be](https://open.spotify.com/track/4S05mkyTtAiWy5l4umch0X) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:20 | 2024-09-05 | 2024-09-13 |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-07 | 2024-06-17 |
 | [Wherever You Go](https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [Eke](https://open.spotify.com/artist/2nVW87xBOKOyAO3kXRjCNw) | [Wherever You Go](https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT) | 3:17 | 2025-03-14 | 2025-03-22 |
+| [Whispered Flight](https://open.spotify.com/track/6p40NzXPRWmZp9AzpmvEIi) | [Tearvox](https://open.spotify.com/artist/1bShjMKt9n9guAdXH7yKXg), [Chill Union CFM](https://open.spotify.com/artist/367thuhEvBpz99ytopYN3a) | [Whispered Flight](https://open.spotify.com/album/7vUaEBBIpVpNptUxnKLl79) | 3:19 | 2025-03-31 |  |
 | [Whispers](https://open.spotify.com/track/48jfowhGrYD4DbA90Yk5kD) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Reptythm](https://open.spotify.com/artist/4QVGTZc0H7xTHzIKoIyCTQ) | [Ray Tracer](https://open.spotify.com/album/5zZSQ1DyTijx0x4e8wlni9) | 2:35 | 2024-09-26 | 2024-10-04 |
 | [Who Do You Love](https://open.spotify.com/track/7ptycIbhDwLluruvnR2i9W) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Who Do You Love](https://open.spotify.com/album/1nqOQVumgFjpw0z5CVtGq6) | 3:05 | 2024-05-30 | 2024-06-08 |
 | [Who We Are](https://open.spotify.com/track/3KQZCX9DIRpWH7LFmwtn0e) | [Kinetica](https://open.spotify.com/artist/0Tn8rPpDEdjfmx4SyyTdYM) | [Who We Are](https://open.spotify.com/album/0X7g856ZHw5HgmQ3Qu7ue6) | 4:01 | 2024-08-30 | 2024-09-06 |

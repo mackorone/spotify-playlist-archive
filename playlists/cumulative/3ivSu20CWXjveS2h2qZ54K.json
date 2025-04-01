@@ -47619,6 +47619,28 @@
     },
     {
       "album": {
+        "name": "Pompeya",
+        "url": "https://open.spotify.com/album/245BGxtR13VK9P8fDZW1Uh"
+      },
+      "artists": [
+        {
+          "name": "Amateur",
+          "url": "https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2"
+        },
+        {
+          "name": "Alondra Bentley",
+          "url": "https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241832,
+      "name": "Pompeya",
+      "url": "https://open.spotify.com/track/06Y1gReJMsH7X2obxr9LhV"
+    },
+    {
+      "album": {
         "name": "Pondeggi",
         "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
       },

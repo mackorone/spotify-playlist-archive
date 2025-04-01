@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297071,
+  "num_followers": 297078,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,26 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
+        "name": "MUTT (CB REMIX)",
+        "url": "https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "MUTT (feat. Chris Brown) [CB REMIX]",
+      "url": "https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 159760,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
-        "name": "MUTT (CB REMIX)",
-        "url": "https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "MUTT (feat. Chris Brown) [CB REMIX]",
-      "url": "https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -203,38 +203,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Need U To Need Me",
-        "url": "https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Need U To Need Me",
-      "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 228047,
-      "name": "YES IT IS",
-      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "JADED",
         "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
       },
@@ -251,6 +219,22 @@
       "duration_ms": 166954,
       "name": "I Do (feat. Muni Long)",
       "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "Need U To Need Me",
+        "url": "https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Need U To Need Me",
+      "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -287,6 +271,22 @@
       "duration_ms": 210051,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 228047,
+      "name": "YES IT IS",
+      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -351,26 +351,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Favorite One",
-        "url": "https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        }
-      ],
-      "duration_ms": 176442,
-      "name": "Favorite One",
-      "url": "https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "TWIN FLAME",
         "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
       },
@@ -391,6 +371,26 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
+        "name": "Favorite One",
+        "url": "https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 176442,
+      "name": "Favorite One",
+      "url": "https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
         "name": "No One Else (feat. Jeremih)",
         "url": "https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 162240,
       "name": "No One Else (feat. Jeremih)",
       "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
-        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
-        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 196439,
-      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
-      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -455,6 +439,22 @@
       "duration_ms": 202750,
       "name": "STAR",
       "url": "https://open.spotify.com/track/7IiVKpdCtU1Y5seKBe3Asg"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 196439,
+      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -495,26 +495,6 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "A Fair Exchange",
-        "url": "https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy",
-          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
-        },
-        {
-          "name": "Mitchell Yard",
-          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "A Fair Exchange",
-      "url": "https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR"
-    },
-    {
-      "added_at": "2025-03-20 23:00:21",
-      "album": {
         "name": "HIGHER",
         "url": "https://open.spotify.com/album/1mAwkzV51N4Z9CbaIncD5T"
       },
@@ -535,18 +515,22 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "AAA",
-        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
+        "name": "A Fair Exchange",
+        "url": "https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
         }
       ],
-      "duration_ms": 204447,
-      "name": "AAA",
-      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
+      "duration_ms": 140000,
+      "name": "A Fair Exchange",
+      "url": "https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -567,6 +551,22 @@
       "duration_ms": 141211,
       "name": "Drive It",
       "url": "https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb"
+    },
+    {
+      "added_at": "2025-03-20 23:00:21",
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 204447,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "SHADES",
-        "url": "https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH"
       },
       "artists": [
         {
           "name": "Giefa Sparkle",
           "url": "https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh"
+        },
+        {
+          "name": "Miss Angel",
+          "url": "https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi"
         }
       ],
-      "duration_ms": 148317,
-      "name": "Shades Prayer",
-      "url": "https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH"
+      "duration_ms": 205461,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/50GBuFD6FPNoJDjVnd4nrV"
     },
     {
       "added_at": "2025-03-20 23:00:21",
@@ -1287,22 +1291,18 @@
     {
       "added_at": "2025-03-20 23:00:21",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH"
+        "name": "SHADES",
+        "url": "https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty"
       },
       "artists": [
         {
           "name": "Giefa Sparkle",
           "url": "https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh"
-        },
-        {
-          "name": "Miss Angel",
-          "url": "https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi"
         }
       ],
-      "duration_ms": 205461,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/50GBuFD6FPNoJDjVnd4nrV"
+      "duration_ms": 148317,
+      "name": "Shades Prayer",
+      "url": "https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH"
     }
   ],
   "unique_name": "R&B Magic",

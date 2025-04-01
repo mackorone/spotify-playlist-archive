@@ -4,7 +4,7 @@
 
 > All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
 
-91 songs - 4 hr 35 min
+92 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ethereal](https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO) | [Txmy](https://open.spotify.com/artist/5sHlUJiG0VTOGG6g9u3TFF) | [Ethereal](https://open.spotify.com/album/0tdi4b0MZ7cMSLVxST3f14) | 2:48 | 2025-02-27 |  |
 | [Everything in Its Right Place](https://open.spotify.com/track/1QxmKMggKPykokcwBYvjso) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 6:55 | 2025-02-27 |  |
 | [fairy’s cry](https://open.spotify.com/track/0K8zwePrInxqqyVEjMrL0m) | [r1naq](https://open.spotify.com/artist/4K3rVK0TWutJO1mIx6VfTr) | [fairy’s cry](https://open.spotify.com/album/13rh3p4F6Gso3vdznQm8Ha) | 2:31 | 2025-02-27 |  |
+| [Fascination](https://open.spotify.com/track/47WewSqip6G4BSSi8V8O8N) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr) | [Fascination](https://open.spotify.com/album/5v5R3JtW0bvAqJWAcJRpnR) | 2:39 | 2025-03-31 |  |
 | [Fine line \- Instrumental](https://open.spotify.com/track/2DQPiyq5H4evGiR1ta6BT4) | [Kapa Boy](https://open.spotify.com/artist/02WFtZreToLN0ARfpZukYI) | [Fine line \(Instrumental\)](https://open.spotify.com/album/1O5RL3FtwvqQN1CJ2hlTF8) | 1:53 | 2025-03-21 |  |
 | [Frosti](https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 1:41 | 2025-02-27 |  |
 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 | 2025-03-14 |  |
@@ -59,7 +60,7 @@
 | [Mother's Love](https://open.spotify.com/track/25iPLrlogdTHS9ZYnUEtxw) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [A Plane Over Woods](https://open.spotify.com/album/4Z7lelxEoQzIl8Zi9rjsVi) | 3:41 | 2025-03-21 |  |
 | [Nearer My God to Thee](https://open.spotify.com/track/7bY1PujXNQ0Mi7QxkrTkvW) | [Newfoundland Theatre Orchestra](https://open.spotify.com/artist/1TcvMFDQ6SrYwI1ltgXGAz) | [Return to Titanic](https://open.spotify.com/album/1sooPZsGgiQgxSnrnji820) | 2:40 | 2025-02-27 |  |
 | [New Home](https://open.spotify.com/track/4YU1TYJM667l0wfKsa5zwN) | [Matti Paalanen](https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1), [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [Piano for Reels](https://open.spotify.com/album/2DimA4FGM0mjtDq3ZkoMw5) | 1:12 | 2025-03-21 |  |
-| [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 | 2025-02-27 |  |
+| [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 | 2025-02-27 | 2025-04-01 |
 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/61YM5SkqqeUjIBL7It56cs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Bordas](https://open.spotify.com/artist/3dfj7lu33WXUMWOlFcybXM) | [JUST THE BEST MUSIC Vol\. 2 Solo Piano Relax Playlist](https://open.spotify.com/album/5aftlLJi5cmXRnPQjwUak2) | 5:02 | 2025-02-27 |  |
 | [numb](https://open.spotify.com/track/69pHMM7biztKZHCTnxnzFI) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [ambient vol 3](https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7) | 1:41 | 2025-03-14 |  |
 | [Obituary](https://open.spotify.com/track/4Fv5HOJjnzisDpIZBmTaH3) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The French Dispatch \(Original Score\)](https://open.spotify.com/album/5c7wx5wrravz5c8JcRp0G6) | 3:30 | 2025-03-07 |  |

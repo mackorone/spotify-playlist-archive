@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: DG e Batidão Stronda, J\. Eskine, Mc Davi, MC G15
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,960 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,022 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 55 | [Lembrei de Nós](https://open.spotify.com/track/11es0nisthvmASZRRCTR37) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Fabinho Testado](https://open.spotify.com/artist/29OyPpZR54SPGzG4YmQ8gY), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z) | [Lembrei de Nós](https://open.spotify.com/album/6ElwHWBxUL7Lm3rKuvhfWN) | 2:52 |
 | 56 | [Medley Explosão \- Reggae Funk](https://open.spotify.com/track/73mGrH51bfCXuESnwzOVKH) | [Antoniel Remix Oficial](https://open.spotify.com/artist/1SNoYlKoisFXoMXHK93cwm) | [Medley Explosão \- Reggae Funk](https://open.spotify.com/album/535EBEKDa7e278S26SXPfW) | 4:06 |
 | 57 | [Rala Xerekinha \- Joga No Coroa](https://open.spotify.com/track/47JkzmLFh3iPXmr9V1ADCx) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Wilson Castro](https://open.spotify.com/artist/3ePiu1aYb8oCSlWmJe1S6y) | [Rala Xerekinha \- Joga No Coroa](https://open.spotify.com/album/2fvBuZ3xMzGYsHMq0Ci3ju) | 2:54 |
-| 58 | [Zero Papo De Amor](https://open.spotify.com/track/3H4gD9o9vK3hY3QuVGhQqb) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Zero Papo De Amor](https://open.spotify.com/album/2wdEG2pMp2wPdUUwkBw2iM) | 2:06 |
-| 59 | [O Amor da Sua Vida](https://open.spotify.com/track/2CYjT2NshCZLq6els35MkZ) | [Kiko Chicabana](https://open.spotify.com/artist/6XcDYZyF8otmTfCS6xseyl), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [O Amor da Sua Vida](https://open.spotify.com/album/3LWSKe8dqg1lcuarJZ0Ghr) | 3:41 |
+| 58 | [O Amor da Sua Vida](https://open.spotify.com/track/2CYjT2NshCZLq6els35MkZ) | [Kiko Chicabana](https://open.spotify.com/artist/6XcDYZyF8otmTfCS6xseyl), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [O Amor da Sua Vida](https://open.spotify.com/album/3LWSKe8dqg1lcuarJZ0Ghr) | 3:41 |
+| 59 | [Zero Papo De Amor](https://open.spotify.com/track/3H4gD9o9vK3hY3QuVGhQqb) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Zero Papo De Amor](https://open.spotify.com/album/2wdEG2pMp2wPdUUwkBw2iM) | 2:06 |
 | 60 | [PEDRIN](https://open.spotify.com/track/4MOmJ4na1BcX1Qoy47cHYH) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [PEDRIN](https://open.spotify.com/album/6mJ3kagqd9VovvNdzeXh3K) | 2:07 |
 | 61 | [Surto Coletivo \- Ao Vivo](https://open.spotify.com/track/4BJnnK4LPHhNK2TqwC6s99) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Tem paGGodeiro aí? \(\#sónostalgia\) \[Ao Vivo\]](https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO) | 3:10 |
 | 62 | [Medleys Dos Medleys \- O Barraco Dela Lá / Eu Vou Pro Baile Eu Vou Pro Bega / Ela Não Presta](https://open.spotify.com/track/1S1WZmrwbmmOwDRaw95eno) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Sapinha](https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ao After e Além, Pt.2](https://open.spotify.com/album/34eaUTnAMJMnniGG1mOlJu) | 4:05 |

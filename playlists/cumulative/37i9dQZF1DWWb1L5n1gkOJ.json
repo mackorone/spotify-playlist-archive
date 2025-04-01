@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 178500,
       "name": "Auriga",
       "url": "https://open.spotify.com/track/1xB31OvpmOnsalR2T2RF4Y"
@@ -550,6 +550,24 @@
       "duration_ms": 149518,
       "name": "Blume",
       "url": "https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ"
+    },
+    {
+      "album": {
+        "name": "Bokeh Boulevard",
+        "url": "https://open.spotify.com/album/1VhZOwKk5haKti0UzWsdnd"
+      },
+      "artists": [
+        {
+          "name": "Nile Kaufman",
+          "url": "https://open.spotify.com/artist/2pyrI3SOsUuA1iiVe62WU4"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Bokeh Boulevard",
+      "url": "https://open.spotify.com/track/7r56dy9FDLa2SVV7p3DrA0"
     },
     {
       "album": {
@@ -1255,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Exosphere",
+        "url": "https://open.spotify.com/album/2fUHwfECZ0NzyAKd6lq7Zn"
+      },
+      "artists": [
+        {
+          "name": "Proph\u00e9tique",
+          "url": "https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "Exosphere",
+      "url": "https://open.spotify.com/track/5NaVTiR84uETryBVyy0ICT"
+    },
+    {
+      "album": {
         "name": "Expectancy",
         "url": "https://open.spotify.com/album/2zYNtZBAUbiE3ZBJoxeTMn"
       },
@@ -1381,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Floating Beyond Time",
+        "url": "https://open.spotify.com/album/4pmonzpsdgtBHHmwMxHfWx"
+      },
+      "artists": [
+        {
+          "name": "Atli \u00de\u00f3rirsson",
+          "url": "https://open.spotify.com/artist/7JhDZrYjtUBmTG4j61iIr4"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213124,
+      "name": "Floating Beyond Time",
+      "url": "https://open.spotify.com/track/7ATIl0Vreg5PKPJ0k9FYpR"
+    },
+    {
+      "album": {
         "name": "Flowing Out",
         "url": "https://open.spotify.com/album/4bkMOKuU7EBhxrbbRhr0zA"
       },
@@ -1414,6 +1468,24 @@
       "duration_ms": 196188,
       "name": "Flux",
       "url": "https://open.spotify.com/track/4h630EA56uiWkCMuDKJK7s"
+    },
+    {
+      "album": {
+        "name": "foggy lake",
+        "url": "https://open.spotify.com/album/4Hptpc8NsaFT0EJprDcIkK"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Sooth",
+          "url": "https://open.spotify.com/artist/5ozCJLjahj9KK6MX8isMc7"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "foggy lake",
+      "url": "https://open.spotify.com/track/32EsAYQLaWHpEIDkEY7FTt"
     },
     {
       "album": {
@@ -2551,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Orbital Oasis",
+        "url": "https://open.spotify.com/album/1yspBlFboddEbivYv2VSpu"
+      },
+      "artists": [
+        {
+          "name": "Ruben Ortega",
+          "url": "https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Orbital Oasis",
+      "url": "https://open.spotify.com/track/6zGZtDSM0FSol4zakv14CS"
+    },
+    {
+      "album": {
         "name": "Orphic",
         "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
       },
@@ -2764,6 +2854,24 @@
       "duration_ms": 261437,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/0Eu6Fjbq1HgqRv9QoaLq16"
+    },
+    {
+      "album": {
+        "name": "Radiant Refractor",
+        "url": "https://open.spotify.com/album/6vHEwJU7RQuGeVosC53Qd8"
+      },
+      "artists": [
+        {
+          "name": "Roy Grall",
+          "url": "https://open.spotify.com/artist/2ZFF1blZGfmGzHvdApJnI2"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Radiant Refractor",
+      "url": "https://open.spotify.com/track/2vTDJRlpG9YXqphJea4Wwi"
     },
     {
       "album": {
@@ -3102,7 +3210,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 159000,
       "name": "Soar",
       "url": "https://open.spotify.com/track/4nP53bWGusxWyPqq2dIErS"
@@ -3196,6 +3304,24 @@
       "duration_ms": 186153,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/4hmBfrGNlsVhZRHHiHwqB5"
+    },
+    {
+      "album": {
+        "name": "Sombra de la Noche",
+        "url": "https://open.spotify.com/album/2o7zb0jDxZdLdigZqovFsV"
+      },
+      "artists": [
+        {
+          "name": "Horintah",
+          "url": "https://open.spotify.com/artist/0lArdxeTwlCo724oBT2WxY"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178090,
+      "name": "Sombra de la Noche",
+      "url": "https://open.spotify.com/track/0HNNcDp6irgwLaPzOVKfBy"
     },
     {
       "album": {
@@ -3541,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "The Nocturnal Hours",
+        "url": "https://open.spotify.com/album/6u8Jkz0oGLflAdUp4VAVdU"
+      },
+      "artists": [
+        {
+          "name": "Bon Vie",
+          "url": "https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151112,
+      "name": "The Nocturnal Hours",
+      "url": "https://open.spotify.com/track/6d9QfrRflhuaElrI1CGZtZ"
+    },
+    {
+      "album": {
         "name": "The Wish",
         "url": "https://open.spotify.com/album/1tmUGszdvl1lHeEx3IeyuD"
       },
@@ -3790,6 +3934,24 @@
       "duration_ms": 160511,
       "name": "Wanderstar",
       "url": "https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S"
+    },
+    {
+      "album": {
+        "name": "Wanderstar",
+        "url": "https://open.spotify.com/album/3nghvvvAdQa7MxVCV5DIL7"
+      },
+      "artists": [
+        {
+          "name": "Everlasting Theta",
+          "url": "https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131133,
+      "name": "Wanderstar",
+      "url": "https://open.spotify.com/track/1JspAUpS37WVRIqRJaFnWW"
     },
     {
       "album": {

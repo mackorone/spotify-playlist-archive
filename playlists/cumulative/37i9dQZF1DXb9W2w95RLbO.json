@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3"
+      },
+      "artists": [
+        {
+          "name": "Operation Mincemeat",
+          "url": "https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320964,
+      "name": "Born to Lead",
+      "url": "https://open.spotify.com/track/2w3CGXFMOCuMJz8ayZDOor"
+    },
+    {
+      "album": {
         "name": "Wonderful Town",
         "url": "https://open.spotify.com/album/7lmX44kYia0L9xI71zcUzq"
       },
@@ -388,7 +406,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 300329,
       "name": "Comedy Tonight",
       "url": "https://open.spotify.com/track/41xOlm3Kl620klE0J2MB7p"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 194906,
       "name": "Live in Living Color",
       "url": "https://open.spotify.com/track/7DQ8jixzfxibvZ2Z1TmveY"
@@ -1056,6 +1074,32 @@
       "duration_ms": 269160,
       "name": "Overture / Food, Glorious Food",
       "url": "https://open.spotify.com/track/79My7Xn0jYxVPpLyhiWU0r"
+    },
+    {
+      "album": {
+        "name": "Why Am I So Single? (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/4sKZ9RoA6KcP9u6PVuiIH7"
+      },
+      "artists": [
+        {
+          "name": "Jo Foster",
+          "url": "https://open.spotify.com/artist/17R4ymbMur8StPF1rwzD6K"
+        },
+        {
+          "name": "Leesa Tulley",
+          "url": "https://open.spotify.com/artist/680Llo7QXDCRj8yGGpTE7U"
+        },
+        {
+          "name": "Original Cast of Why Am I So Single?",
+          "url": "https://open.spotify.com/artist/3DwNP78t78BAZzzH4mvVmr"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128067,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/6ss7duE4xPIf2B8UwmdyAY"
     },
     {
       "album": {

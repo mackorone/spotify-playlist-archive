@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: LoSin
 
-1,134 songs - 2 day 5 hr 46 min
+1,135 songs - 2 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 | 2024-06-20 | 2024-11-01 |
 | [10 vor 10](https://open.spotify.com/track/37TJfrw9teASpsQeoWupq5) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [10 vor 10](https://open.spotify.com/album/5fEamjUSG4mSuaCXPbCBfe) | 2:38 | 2024-05-30 | 2024-07-12 |
 | [1000 Liter Teer](https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [1000 Liter Teer](https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT) | 3:08 | 2023-11-09 | 2024-03-01 |
-| [1000 mal belogen](https://open.spotify.com/track/2WXmmkyFRlPOKPAsjTAT5I) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [eigentlich perfekt](https://open.spotify.com/album/3sNXDqOrlJ9blj7xpbB0ms) | 2:03 | 2025-03-20 |  |
+| [1000 mal belogen](https://open.spotify.com/track/2WXmmkyFRlPOKPAsjTAT5I) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [eigentlich perfekt](https://open.spotify.com/album/3sNXDqOrlJ9blj7xpbB0ms) | 2:03 | 2025-03-20 | 2025-04-01 |
 | [1000 songs](https://open.spotify.com/track/3jXA5jKVV8qwFrHLlqYN0e) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [1000 songs](https://open.spotify.com/album/6QQiiBlobTDUx9bRMjpky6) | 2:39 | 2023-02-16 | 2023-05-05 |
 | [110 km/h](https://open.spotify.com/track/019qHAL5i793FKmBomt6Py) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [110 km/h](https://open.spotify.com/album/34RHqZHk0AD9yXaQF8Rve9) | 3:13 | 2023-02-16 | 2023-03-18 |
 | [14\. Stock](https://open.spotify.com/track/6f77E75f6dwDzT6o4zXaYv) | [Jona Straub](https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao) | [14\. Stock](https://open.spotify.com/album/6hYmjAfCwpsxdq81K0ytMN) | 2:34 | 2023-09-07 | 2023-09-29 |
@@ -383,6 +383,7 @@
 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 | 2024-02-01 | 2024-05-24 |
 | [Für immer hier](https://open.spotify.com/track/6lFE3aWWixcBaZsnAS84I1) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Hier](https://open.spotify.com/album/3z4KjpDgWh8k4KSUXMuAbx) | 2:49 | 2024-02-13 | 2024-02-16 |
 | [Für jeden aber nicht für dich](https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Für jeden aber nicht für dich](https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf) | 2:14 | 2025-02-13 | 2025-02-15 |
+| [Für mich](https://open.spotify.com/track/0zz7YXXIyiW4CGLt72CRSU) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Für mich](https://open.spotify.com/album/1qvfaRD1qKkQklYf429VAA) | 2:30 | 2025-03-31 |  |
 | [Für mich soll’s rote Rosen regnen](https://open.spotify.com/track/5z4YDW5oMQ2bInAN4Nsg6x) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0) | [Starke Frauen](https://open.spotify.com/album/5Xaw05y8yvgFHvyNvyEVIH) | 3:11 | 2024-02-13 | 2024-02-16 |
 | [Für Noel](https://open.spotify.com/track/6Tgq6QgQBNPScKb0R0B3xA) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Für Noel](https://open.spotify.com/album/0ZWlbdrR3ZiWYuzPOqLjGJ) | 2:39 | 2024-02-29 | 2024-03-29 |
 | [Fürdichwürdich](https://open.spotify.com/track/2N5okxps0l2aLu01uWYE0H) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Für immer temporär](https://open.spotify.com/album/6cMHp64TomRwVrEJHIMJmd) | 2:12 | 2023-08-31 | 2024-02-16 |

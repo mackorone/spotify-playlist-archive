@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 133593,
+  "num_followers": 133628,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+c4AAAAAABlwebYi0DG4FNP4ilJ9fNz",
+  "snapshot_id": "Z+iJgAAAAACGSxjTazWMiNpXEZSHz5aY",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marilyn Monroe",
-        "url": "https://open.spotify.com/album/5193xqKwr38y0IYSePpzLg"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Grupo MM",
-          "url": "https://open.spotify.com/artist/6B8hu42GbDNo6uvQfxPJJY"
-        }
-      ],
-      "duration_ms": 193969,
-      "name": "Marilyn Monroe",
-      "url": "https://open.spotify.com/track/0DVmXQv4zcdh0rW2QLi8SC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 137769,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/5193xqKwr38y0IYSePpzLg"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Grupo MM",
+          "url": "https://open.spotify.com/artist/6B8hu42GbDNo6uvQfxPJJY"
+        }
+      ],
+      "duration_ms": 193969,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0DVmXQv4zcdh0rW2QLi8SC"
     },
     {
       "added_at": null,

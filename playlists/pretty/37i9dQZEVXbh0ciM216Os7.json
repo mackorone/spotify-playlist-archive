@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAA+NO793qdgzrC0EGdVSDng",
+  "snapshot_id": "AAAAAAAAAADvwQx90lDfGY/JIwuYAmGQ",
   "tracks": [
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/28P6u8GFLmkmqidihSbMe9"
-      },
-      "artists": [
-        {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
-        },
-        {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
-        }
-      ],
-      "duration_ms": 134814,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/0DHRn7rRoaqH2pA2CopoCN"
-    },
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
@@ -51,26 +31,6 @@
       "duration_ms": 128511,
       "name": "Patriots",
       "url": "https://open.spotify.com/track/0Lxh4vtrzKzivbkgYzgqBa"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "Ride By Your Side",
-        "url": "https://open.spotify.com/album/5swLy79YPLF54oLhmMZolN"
-      },
-      "artists": [
-        {
-          "name": "Dylan Owen",
-          "url": "https://open.spotify.com/artist/3tBtdC4EFE4bNqkt7JP0Co"
-        },
-        {
-          "name": "juli",
-          "url": "https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Ride By Your Side",
-      "url": "https://open.spotify.com/track/4FcatmvN3zpXrMdFeGETHH"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -123,18 +83,26 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+        "name": "Lalala (DJ Premier Remix)",
+        "url": "https://open.spotify.com/album/3NjM6SR1pFljxauIy1dnQt"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+      "duration_ms": 161856,
+      "name": "Lalala - DJ Premier Remix",
+      "url": "https://open.spotify.com/track/61IQ6K43WxTnWfOXmffrGw"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -247,22 +215,34 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/2QxrRhr7pB8nuwWvgx6S7L"
+        "name": "Doppler Affection",
+        "url": "https://open.spotify.com/album/3c5rCd8nQe3WkDTm869aUM"
       },
       "artists": [
         {
-          "name": "DJ MB",
-          "url": "https://open.spotify.com/artist/2M39EFnEFKC3R094HpOlnH"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/2tUne4yaQLEhFs5jGebMGW"
+      "duration_ms": 229125,
+      "name": "One of a Kind",
+      "url": "https://open.spotify.com/track/3rjP5E00ajzEQoZVTxLOQS"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
+        "name": "Dexion (from \"LAZARUS\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3o0JLon9nA1g2CidIZdojj"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 548480,
+      "name": "Dexion (from \"LAZARUS\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1S4VJpB3i8k2Y5m1fmgELM"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -287,50 +267,46 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "Spanish Moss",
-        "url": "https://open.spotify.com/album/2iQsy98UWAgFjOkSEm2JOY"
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/2GC8O1eqMUZYY9SG0Z6mka"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 205666,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/0S9V5vYfmGbs4LZg6H30iu"
+      "duration_ms": 196250,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/2m3DrOH7x3EUkzav5Mj9mZ"
     },
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
-        "name": "Bar None",
-        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+        "name": "Shostakovich: Symphonies; Concertos; Lady Macbeth of Mtsensk District",
+        "url": "https://open.spotify.com/album/7CREZmKkA28IN0Ql6MSAtL"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 173064,
-      "name": "Bar None",
-      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
-    },
-    {
-      "added_at": "2025-03-28 04:00:00",
-      "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
-      },
-      "artists": [
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
         }
       ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+      "duration_ms": 800506,
+      "name": "Cello Concerto No. 2 in G Major, Op. 126: I. Largo",
+      "url": "https://open.spotify.com/track/3nMrQcx64lzE92X6B1d0dh"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -515,6 +491,22 @@
     {
       "added_at": "2025-03-28 04:00:00",
       "album": {
+        "name": "Part of the Dream",
+        "url": "https://open.spotify.com/album/2a8WvcJFoyJSUSDDhYa85L"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 139995,
+      "name": "Part of the Dream",
+      "url": "https://open.spotify.com/track/1kTCuSzhaYdMY4hj8l2pWn"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib"
       },
@@ -551,6 +543,30 @@
       "duration_ms": 205719,
       "name": "RDV",
       "url": "https://open.spotify.com/track/1Dg3BWfcM1pE7YPmzMkjET"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
+      },
+      "artists": [
+        {
+          "name": "44th Move",
+          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        }
+      ],
+      "duration_ms": 363619,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
     },
     {
       "added_at": "2025-03-28 04:00:00",
@@ -603,6 +619,26 @@
       "duration_ms": 233502,
       "name": "IT'S OUT THERE",
       "url": "https://open.spotify.com/track/3nR4FMpzmCQk6fjTmgWBrv"
+    },
+    {
+      "added_at": "2025-03-28 04:00:00",
+      "album": {
+        "name": "LOBBY",
+        "url": "https://open.spotify.com/album/78fUKHidecZPV1xvxKpobm"
+      },
+      "artists": [
+        {
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 181117,
+      "name": "KME (Solaar Outro)",
+      "url": "https://open.spotify.com/track/33Qk0mh8daf29cKE1Cqw9k"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

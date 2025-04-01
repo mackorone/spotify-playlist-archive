@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Jazeek und SAMIRA \(Cover\), Ariana Grande, Linkin Park und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,591 likes - 88 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,590 likes - 88 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 87 | [high note](https://open.spotify.com/track/68zYA1qlIAY9QnvBAWsCh6) | [NOA LONE](https://open.spotify.com/artist/4wPKvnsueREFg2eOoUH6Gq), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [high note](https://open.spotify.com/album/22lTtiZYcxpwzNNmGDDWyz) | 2:25 |
 | 88 | [She Makes Me](https://open.spotify.com/track/4UPPsbC81yQ1oxj80lfKWg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [She Makes Me](https://open.spotify.com/album/0ts5DfHtMBh47p5OBEKvuh) | 3:06 |
 
-Snapshot ID: `Z+ZZEAAAAAC1mwsgEQ6g4vrJmAMdYpbU`
+Snapshot ID: `Z+ph/wAAAABxQcv19UbcKJbGFH/F6VvD`

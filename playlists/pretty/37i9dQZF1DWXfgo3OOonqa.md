@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,974 likes - 102 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,978 likes - 102 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 8 | [Wavy Baby](https://open.spotify.com/track/43Pvyc1UNBDF9yHrwbyfRH) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [Wavy Baby](https://open.spotify.com/album/33rzuTJRX0CgBpaPUiW0e0) | 1:54 |
 | 9 | [I Parken](https://open.spotify.com/track/6K9FuhOGa7VgjO7Hn9tG1K) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [I Parken](https://open.spotify.com/album/7InYSxatuS5otKgF240iLr) | 2:44 |
 | 10 | [DNA](https://open.spotify.com/track/3s9kIbEsaS6ZlOUfIzvAKt) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [DNA](https://open.spotify.com/album/1dcYIocFl8vQhh8uOUm7FI) | 2:03 |
-| 11 | [Historia](https://open.spotify.com/track/13uwWjwQxYfmbDkUxP0Njv) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Historia](https://open.spotify.com/album/04k4JfBeMhwdeofnfhoofD) | 3:05 |
+| 11 | [MER ÄN KÄRLEK](https://open.spotify.com/track/3YQFlD7ff3RsP2T2qHVgO7) | [NOËL](https://open.spotify.com/artist/4nUSL3ONua6ReBSIuYDKmf), [ABOW](https://open.spotify.com/artist/3y3dsdD0zyorLGIXds3JrB) | [MER ÄN KÄRLEK](https://open.spotify.com/album/5GyKDkQwLpednSPjYB6PG3) | 2:14 |
 | 12 | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/track/6zd7EGess2mwXiS70RSRRR) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/album/1pBr99gwaeeLzfmcdqDY8W) | 2:08 |
-| 13 | [MER ÄN KÄRLEK](https://open.spotify.com/track/3YQFlD7ff3RsP2T2qHVgO7) | [NOËL](https://open.spotify.com/artist/4nUSL3ONua6ReBSIuYDKmf), [ABOW](https://open.spotify.com/artist/3y3dsdD0zyorLGIXds3JrB) | [MER ÄN KÄRLEK](https://open.spotify.com/album/5GyKDkQwLpednSPjYB6PG3) | 2:14 |
-| 14 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
-| 15 | [Points](https://open.spotify.com/track/0dYNsLSpIGbF41qbz44qlh) | [NLAZE](https://open.spotify.com/artist/5h1oIUlcTnrbzA1x6OCn6L) | [Points](https://open.spotify.com/album/4pCX5lfMR6taGv1ADYXWoD) | 2:40 |
-| 16 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 |
+| 13 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
+| 14 | [Historia](https://open.spotify.com/track/13uwWjwQxYfmbDkUxP0Njv) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Historia](https://open.spotify.com/album/04k4JfBeMhwdeofnfhoofD) | 3:05 |
+| 15 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 |
+| 16 | [Deadly](https://open.spotify.com/track/3a77PeH4l9zJVDy6tgppCV) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Deadly](https://open.spotify.com/album/2xnp35ifilAEEIBUXYCVvD) | 2:38 |
 | 17 | [DRUNK AND LOVED](https://open.spotify.com/track/7yN6x2Hhlfk0Gssv1Fu39v) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DRUNK AND LOVED](https://open.spotify.com/album/3WXEivTwwkiYGxhFsaijxx) | 2:41 |
 | 18 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |
-| 19 | [Deadly](https://open.spotify.com/track/3a77PeH4l9zJVDy6tgppCV) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Deadly](https://open.spotify.com/album/2xnp35ifilAEEIBUXYCVvD) | 2:38 |
+| 19 | [Points](https://open.spotify.com/track/0dYNsLSpIGbF41qbz44qlh) | [NLAZE](https://open.spotify.com/artist/5h1oIUlcTnrbzA1x6OCn6L) | [Points](https://open.spotify.com/album/4pCX5lfMR6taGv1ADYXWoD) | 2:40 |
 | 20 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
 | 21 | [4LIFE](https://open.spotify.com/track/2fqY6Sw40xnB6y1SPHFnIN) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [4LIFE](https://open.spotify.com/album/3mnUnUKdtRGL4KrYMmauoC) | 2:45 |
 | 22 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 101 | [Aj Aj Aj](https://open.spotify.com/track/55M6DeR1dnoeYU9Ig4nP3m) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H) | [Aj Aj Aj](https://open.spotify.com/album/1orU6gnKffJv1mg14FNVcl) | 2:07 |
 | 102 | [Avänsjuk \(Avundsjuk\)](https://open.spotify.com/track/1QA0z8FYzITv6Y8INYxaqI) | [Jashua K](https://open.spotify.com/artist/2nIAGKzAZOR0PsM6jsA9Jj) | [Avänsjuk \(Avundsjuk\)](https://open.spotify.com/album/1Ksjb3SqRFvfn1PbvWgU5X) | 2:31 |
 
-Snapshot ID: `Z+XYfAAAAADo1r0lPkCo0Kqv8i8tM/lG`
+Snapshot ID: `Z+o91gAAAADaFIyc0GeHl9dnTU0v/Le+`

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Himonshu Parikh,  and other exciting artists.
 
-1,017 songs - 2 day 7 hr 30 min
+1,018 songs - 2 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Intezaar](https://open.spotify.com/track/4yIoCve220GOx7x17Wk69B) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Intezaar](https://open.spotify.com/album/1Rk9eLLCjJifVY4zGufZqS) | 4:41 | 2023-07-28 | 2023-08-25 |
 | [Intezar](https://open.spotify.com/track/2yuZXpAlfirFjU2K9sDBk6) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Hitesh Lokhande](https://open.spotify.com/artist/42p0pfvWpQs8e4MJb3FFsl) | [Intezar](https://open.spotify.com/album/3PKvtaCmyp3dWVxo8fcd23) | 2:52 | 2024-05-03 | 2024-06-15 |
 | [Intezar \- Female Version](https://open.spotify.com/track/0wt8pr8qikMMN8r8F9gqLB) | [Srishti Bhandari](https://open.spotify.com/artist/0wZVnB36ng3hXHxkBReBpG) | [Intezar \(Female Version\)](https://open.spotify.com/album/2PqNVihrebsSQ6qfV8kVbD) | 3:07 | 2024-06-21 | 2024-07-27 |
+| [Ishaare](https://open.spotify.com/track/33ZSjdEUt5LmAgF1DRizHF) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [Finding Joy](https://open.spotify.com/album/0eAenznPhLMhCpuKNmcNJW) | 1:53 | 2025-03-21 |  |
 | [Ishq](https://open.spotify.com/track/7d4xV9QurriaLxYwxbUZxa) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ishq](https://open.spotify.com/album/6ZQ8vCY94TRUNz5B6SAscW) | 4:14 | 2024-04-19 | 2024-06-15 |
 | [Ishq Rang Reza](https://open.spotify.com/track/5wEfczCkc17dZ3mQu8meA1) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Poorvi Koutish](https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p) | [Ishq Rang Reza](https://open.spotify.com/album/7iOpJU0Ky0R4YmkNARz5LP) | 2:47 | 2024-11-29 | 2024-12-14 |
 | [It's OK](https://open.spotify.com/track/2JMuletO0l8LK3LiKc3DTZ) | [RUUH](https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ), [JOH](https://open.spotify.com/artist/6chON6pmc2A5MZ2g4oDrNk) | [It's OK](https://open.spotify.com/album/72Ydb5jLfCwJdpuvQ3OEjz) | 2:01 | 2024-11-29 | 2025-01-11 |
@@ -573,7 +574,7 @@
 | [LOVESEXDHOKA!!!](https://open.spotify.com/track/1u3KTMxSOXMX0cbb5BKGdc) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [LOVESEXDHOKA!!!](https://open.spotify.com/album/7nkIdUMqhsS0EESkOimQwy) | 3:12 | 2024-08-02 | 2024-09-28 |
 | [Lucky Tonight](https://open.spotify.com/track/2ARuZO81GAo9e9F1Qs932z) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Lucky Tonight](https://open.spotify.com/album/5ECFwJQNSICDZFAf1fro6s) | 3:51 | 2024-04-19 | 2024-05-18 |
 | [Maa](https://open.spotify.com/track/3x2xFh8crGsLHF6O4cYGgy) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Maa](https://open.spotify.com/album/67u4Fpuq3Pleo8tqkISkGK) | 3:35 | 2024-05-06 | 2024-06-15 |
-| [Maahi](https://open.spotify.com/track/2pURBxvZxAGgukj6cyaVMf) | [Abhi Dutt](https://open.spotify.com/artist/5l0HeIJvLTJhLJgO1qeJ5m), [Musical Tarsh](https://open.spotify.com/artist/1COWZLBBTINIyZIornthQd) | [Maahi](https://open.spotify.com/album/1IniOCfkXutE7NTe1awOVx) | 3:42 | 2025-02-14 |  |
+| [Maahi](https://open.spotify.com/track/2pURBxvZxAGgukj6cyaVMf) | [Abhi Dutt](https://open.spotify.com/artist/5l0HeIJvLTJhLJgO1qeJ5m), [Musical Tarsh](https://open.spotify.com/artist/1COWZLBBTINIyZIornthQd) | [Maahi](https://open.spotify.com/album/1IniOCfkXutE7NTe1awOVx) | 3:42 | 2025-02-14 | 2025-04-01 |
 | [Maahi Dekhle](https://open.spotify.com/track/1nWJtWMjH82MLk3iduAi7N) | [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Maahi Dekhle](https://open.spotify.com/album/3fONz4jUEAG3k3BADifk88) | 3:10 | 2023-07-28 | 2023-09-09 |
 | [Maddham](https://open.spotify.com/track/4tYogjyp5Azr6Jyj5ERkam) | [Vibha Kale](https://open.spotify.com/artist/2nYV3AXefi8GgeP3aFFdCS), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Maddham](https://open.spotify.com/album/2Ka2P9lZXZFN7EP48dVLH0) | 3:09 | 2024-03-08 | 2024-04-19 |
 | [Main Awara](https://open.spotify.com/track/73n0BOjhAwenbyx0gwDuSE) | [Nikhil And Rishabh](https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l) | [Main Awara](https://open.spotify.com/album/3qs0pQxmXbReMklmyunn00) | 3:23 | 2023-10-13 | 2023-11-18 |

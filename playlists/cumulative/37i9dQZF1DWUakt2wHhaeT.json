@@ -83,6 +83,28 @@
     },
     {
       "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "Jennifer Simard",
+          "url": "https://open.spotify.com/artist/4t5i1y4ok9zB6kSyw9iBzI"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250399,
+      "name": "Alive Forever",
+      "url": "https://open.spotify.com/track/7hfs1FKNwuxQ1hkyWHCmpb"
+    },
+    {
+      "album": {
         "name": "Spring Awakening (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/22BNtGKmvhmIcalNXzS9xC"
       },
@@ -130,7 +152,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 132617,
       "name": "All the Ladies",
       "url": "https://open.spotify.com/track/19GpYDzW77W8HBMGOwwcO5"
@@ -316,7 +338,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 245759,
       "name": "Better",
       "url": "https://open.spotify.com/track/5l4Uhz4UZ2OLtPOyGeyr7M"
@@ -465,6 +487,36 @@
     },
     {
       "album": {
+        "name": "Why Am I So Single? (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/4sKZ9RoA6KcP9u6PVuiIH7"
+      },
+      "artists": [
+        {
+          "name": "Jo Foster",
+          "url": "https://open.spotify.com/artist/17R4ymbMur8StPF1rwzD6K"
+        },
+        {
+          "name": "Leesa Tulley",
+          "url": "https://open.spotify.com/artist/680Llo7QXDCRj8yGGpTE7U"
+        },
+        {
+          "name": "Noah Thomas",
+          "url": "https://open.spotify.com/artist/4L0DIeYIt7LANTjOUGfy1T"
+        },
+        {
+          "name": "Original Cast of Why Am I So Single?",
+          "url": "https://open.spotify.com/artist/3DwNP78t78BAZzzH4mvVmr"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276750,
+      "name": "Clubs Glorious Clubs",
+      "url": "https://open.spotify.com/track/6VVnMWw1CRwpBbl2fv6P5o"
+    },
+    {
+      "album": {
         "name": "Sunday in the Park with George (2017 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1L6Q4V6oAFOF8lTR2wIjP5"
       },
@@ -524,10 +576,54 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 180647,
       "name": "Dance While You Can",
       "url": "https://open.spotify.com/track/0RW3RUyEQGJCXSYDOL0xzb"
+    },
+    {
+      "album": {
+        "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3"
+      },
+      "artists": [
+        {
+          "name": "Operation Mincemeat",
+          "url": "https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351900,
+      "name": "Dear Bill",
+      "url": "https://open.spotify.com/track/3erRbtsj9KJrSUcQZ4ZRG0"
+    },
+    {
+      "album": {
+        "name": "Why Am I So Single? (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/4sKZ9RoA6KcP9u6PVuiIH7"
+      },
+      "artists": [
+        {
+          "name": "Jo Foster",
+          "url": "https://open.spotify.com/artist/17R4ymbMur8StPF1rwzD6K"
+        },
+        {
+          "name": "Leesa Tulley",
+          "url": "https://open.spotify.com/artist/680Llo7QXDCRj8yGGpTE7U"
+        },
+        {
+          "name": "Original Cast of Why Am I So Single?",
+          "url": "https://open.spotify.com/artist/3DwNP78t78BAZzzH4mvVmr"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415431,
+      "name": "Disco Ball",
+      "url": "https://open.spotify.com/track/0MZGMlpQiV2sMaQ9stJf7w"
     },
     {
       "album": {
@@ -1861,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3"
+      },
+      "artists": [
+        {
+          "name": "Operation Mincemeat",
+          "url": "https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579677,
+      "name": "Making a Man",
+      "url": "https://open.spotify.com/track/2rfA6J1ihjLIemZ9PbKhNb"
+    },
+    {
+      "album": {
         "name": "Man Of The House",
         "url": "https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu"
       },
@@ -2804,7 +2918,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 209394,
       "name": "That\u2019s the Way It Is",
       "url": "https://open.spotify.com/track/4gpbXdxDIRmRnJccrjsXsh"
@@ -3010,7 +3124,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 159336,
       "name": "This Time - from \"The Time Traveller's Wife The Musical\"",
       "url": "https://open.spotify.com/track/5wONhDccNj4ONVITWprJ1t"
@@ -3341,6 +3455,28 @@
     },
     {
       "album": {
+        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
+      },
+      "artists": [
+        {
+          "name": "Helen J Shen",
+          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
+        },
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162700,
+      "name": "When You're in Love",
+      "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"
+    },
+    {
+      "album": {
         "name": "White Girl in Danger: A New Musical (Original Off-Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6vkyKRbAS1G8AbTjrQjdCo"
       },
@@ -3512,7 +3648,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 233209,
       "name": "You Coulda Knocked Me Over With A Feather",
       "url": "https://open.spotify.com/track/3Q6MFmutoKCc69hEVvX61k"

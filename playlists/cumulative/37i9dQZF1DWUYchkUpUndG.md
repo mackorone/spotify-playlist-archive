@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=yy1tJkUVR4qMJMuJydS1Mw>Festizie</a>
 
-4,848 songs - 14 day 18 hr 27 min
+4,850 songs - 14 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [All My Life](https://open.spotify.com/track/2UWV6y2LKiLQdd92zGUDHp) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [All My Life](https://open.spotify.com/album/0ymijpS9vH1roB2dmCVuCQ) | 7:51 | 2024-05-24 | 2024-06-07 |
 | [All Night, All Day](https://open.spotify.com/track/7wgsCLvFX1UP88UD71hfm5) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [All Night, All Day](https://open.spotify.com/album/1gEcIbCaPGtxmgTrApk9pr) | 2:49 | 2024-03-15 | 2024-03-29 |
 | [All Of A Sudden \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [All Of A Sudden / Another One](https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI) | 7:55 | 2024-04-05 | 2024-04-19 |
+| [All Of Me](https://open.spotify.com/track/7rJjCsZhhRHTvtGwzhZyIp) | [JUDAH ZA](https://open.spotify.com/artist/09x4h7twOcBASVguzqYY4C), [Tshepang Mphuthi](https://open.spotify.com/artist/57FHTdXqLlY9AxN0ylLxce) | [All Of Me](https://open.spotify.com/album/3NMSim1KBFgKjZblFRJzFU) | 4:55 | 2025-03-31 |  |
 | [All of My Worship](https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [All of My Worship](https://open.spotify.com/album/4v4rJu3XcdUprfdG49O5kK) | 3:28 | 2024-05-10 | 2024-05-24 |
 | [All Our Days \(Live at Zeal '23\)](https://open.spotify.com/track/6zd3ll2iOHP3mZ6bV30yfU) | [Shofarband](https://open.spotify.com/artist/5SQke12fP5vvpAv4krgAwJ), [Shaun Kwela](https://open.spotify.com/artist/0QviQJJya2B5q4cF8RNJMg) | [All Our Days \(Live at Zeal '23\)](https://open.spotify.com/album/4l368XXQgrIIoG0ltP3VeW) | 5:31 | 2023-10-06 | 2023-10-20 |
 | [All Over The World](https://open.spotify.com/track/0QQXbuDmrGBcxVSNjCbAjs) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [All Over The World](https://open.spotify.com/album/2WW74ORHcfnmasd6ROZOlK) | 3:06 | 2024-07-19 | 2024-08-02 |
@@ -303,6 +304,7 @@
 | [Are You Ready?](https://open.spotify.com/track/5LFe8WeORerOU7QWa0UrvA) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY), [OluwaShalom](https://open.spotify.com/artist/4cAwYOeyghW391YpCK7hhM) | [Are You Ready?](https://open.spotify.com/album/6EIV2qv80qDhR7Y2556x75) | 6:39 | 2023-07-28 | 2023-08-04 |
 | [Arise](https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Glory](https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck) | 4:57 | 2025-02-21 | 2025-03-14 |
 | [Arise \(Take Over\)](https://open.spotify.com/track/1WvWX4EATuTElhpcgsygYr) | [Preye Orok](https://open.spotify.com/artist/5nikYjyK1nrDinw2xwc3eh), [Prosper King](https://open.spotify.com/artist/677IMyYdfEJkb09sUl4ORp) | [Arise \(Take Over\)](https://open.spotify.com/album/03WCJj7J66iKoK0NAn2Pj5) | 6:10 | 2023-10-13 | 2023-11-17 |
+| [ARISE AND SHINE](https://open.spotify.com/track/2XX2knQscx85wwf049pUKn) | [IFIOK BASSEY](https://open.spotify.com/artist/2orAsBkKwUSIrmOf9oIg6y) | [ARISE AND SHINE](https://open.spotify.com/album/4b0TTUruvy0QuiudbDp226) | 4:29 | 2025-03-31 |  |
 | [Armour Of God \- Live](https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Armour Of God \(Live\)](https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F) | 12:25 | 2025-02-07 | 2025-02-21 |
 | [Arms of Love](https://open.spotify.com/track/4rG8CT1RwgECfPRczIC3iJ) | [THIRDLEAD](https://open.spotify.com/artist/4SYTfABq7hnqtlUoGnGUZq) | [Arms of Love](https://open.spotify.com/album/3nIzXgPcwysGJ6Yu00arcJ) | 4:42 | 2023-12-15 | 2023-12-30 |
 | [As Hy Weer Kom](https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [As Hy Weer Kom](https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF) | 3:07 | 2023-08-11 | 2023-08-25 |

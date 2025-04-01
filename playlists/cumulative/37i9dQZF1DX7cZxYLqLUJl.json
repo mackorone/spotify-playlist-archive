@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb"
+      },
+      "artists": [
+        {
+          "name": "Claudia Schumann",
+          "url": "https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149182,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78"
+    },
+    {
+      "album": {
         "name": "Through My Eyes",
         "url": "https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN"
       },

@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "UTC +1:00",
+        "url": "https://open.spotify.com/album/74ikALD3NTuHQZ48QI2Btc"
+      },
+      "artists": [
+        {
+          "name": "CBW",
+          "url": "https://open.spotify.com/artist/04diW1Jyt2jXdG6ZmSgJyu"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271304,
+      "name": "14 lutego",
+      "url": "https://open.spotify.com/track/3pVvKbNtiRvyok7FHGthdy"
+    },
+    {
+      "album": {
         "name": "15 MINUT",
         "url": "https://open.spotify.com/album/4Zdit50vrKOrDlC4LH04TR"
       },
@@ -3704,6 +3726,24 @@
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+    },
+    {
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "album": {
@@ -14730,7 +14770,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -17834,6 +17874,24 @@
       "duration_ms": 227280,
       "name": "International Love (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
+    },
+    {
+      "album": {
+        "name": "WIDMO",
+        "url": "https://open.spotify.com/album/4G4R5TtnUFugDuyt2GVrXK"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Interpol",
+      "url": "https://open.spotify.com/track/0SSzxRyRVHfVZywNMlvuIp"
     },
     {
       "album": {
@@ -21050,7 +21108,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 227044,
       "name": "Kocham",
       "url": "https://open.spotify.com/track/68pQlMru6HFuMXx7vH5L02"
@@ -23818,7 +23876,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 200333,
       "name": "Magenta",
       "url": "https://open.spotify.com/track/07Agqdd4SD83JRgN19OjdW"
@@ -27314,7 +27372,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 166250,
       "name": "Na ostatni\u0105 chwil\u0119",
       "url": "https://open.spotify.com/track/4anCiD3HMc1ZeD09IsnzlF"
@@ -28772,7 +28830,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 142978,
       "name": "NIEBO",
       "url": "https://open.spotify.com/track/1jAwReLgaaNxczO49Utjnn"
@@ -30822,7 +30880,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -33230,7 +33288,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 233425,
       "name": "Pi\u0119kny \u015awiat",
       "url": "https://open.spotify.com/track/11Z7oHnQzt8iwfkQwHZ70I"
@@ -36790,7 +36848,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 171694,
       "name": "R\u00f3\u017c",
       "url": "https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi"
@@ -41558,7 +41616,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -45878,7 +45936,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 191304,
       "name": "Woda Ksi\u0119\u017cycowa",
       "url": "https://open.spotify.com/track/1usq8LPUPjpF1TxLXTOJ82"
@@ -47520,7 +47578,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB"

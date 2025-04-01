@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: tan sholto, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,658 likes - 212 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,641 likes - 212 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

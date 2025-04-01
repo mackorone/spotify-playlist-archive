@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 69840,
       "name": "AMG",
       "url": "https://open.spotify.com/track/0Otff9Ldkr2lHuOu5nDLFr"
@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Blanket of Stars",
+        "url": "https://open.spotify.com/album/272dYU5oRxVVgPCoFN7h67"
+      },
+      "artists": [
+        {
+          "name": "midnight static",
+          "url": "https://open.spotify.com/artist/6NAAEIThA5OpNwZrkLLfE8"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67404,
+      "name": "Blanket of Stars",
+      "url": "https://open.spotify.com/track/1TgRp4e3Jc18VyTK9XV9uG"
+    },
+    {
+      "album": {
         "name": "blankets of snow",
         "url": "https://open.spotify.com/album/6ZVWmjgHpKz5em2hBbkVGH"
       },
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 143008,
       "name": "Call of Silence ~ Attack on Titan",
       "url": "https://open.spotify.com/track/4ytkiwNynUgPRZTJs5owP7"
@@ -1710,6 +1728,24 @@
       "duration_ms": 120000,
       "name": "Catching Dreams",
       "url": "https://open.spotify.com/track/4yDdQHpDTSREQHAeRXowjO"
+    },
+    {
+      "album": {
+        "name": "Chapter Four",
+        "url": "https://open.spotify.com/album/1LAwgWr5n6GmvBGtRRLNsR"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127899,
+      "name": "Chapter Four",
+      "url": "https://open.spotify.com/track/6D4VBVyZ9kBbGrsSll3qEH"
     },
     {
       "album": {
@@ -2221,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/77E5sodaafq5cYLmbdgLU8"
+      },
+      "artists": [
+        {
+          "name": "Piano Cat",
+          "url": "https://open.spotify.com/artist/538T4iNqqlXwznpvW6XQJk"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180916,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/5WOxrh4eNnOGMquDcT0anU"
+    },
+    {
+      "album": {
         "name": "This is Peaceful Piano",
         "url": "https://open.spotify.com/album/6h88J1mzeP9ov0JJcXuZWC"
       },
@@ -2232,7 +2286,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 141000,
       "name": "Countryside Mellow",
       "url": "https://open.spotify.com/track/28AeeDJJwpQR9Uk0iOIhuR"
@@ -4030,7 +4084,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 168000,
       "name": "Forest Runner",
       "url": "https://open.spotify.com/track/3zsJIDItxARcmy6vFtHyHZ"
@@ -4130,6 +4184,36 @@
       "duration_ms": 233314,
       "name": "Forgiveness \u2013 Solo Piano",
       "url": "https://open.spotify.com/track/00jx306y0LjySIaEdEppWG"
+    },
+    {
+      "album": {
+        "name": "Fortune Falling",
+        "url": "https://open.spotify.com/album/7bVhF67gq6w84vYkbgPVH9"
+      },
+      "artists": [
+        {
+          "name": "Cascadilla",
+          "url": "https://open.spotify.com/artist/6fa5P1SFsexpT4141tAn7F"
+        },
+        {
+          "name": "Chris Bartels",
+          "url": "https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K"
+        },
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        },
+        {
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140369,
+      "name": "Fortune Falling",
+      "url": "https://open.spotify.com/track/582of1VW6iu7WQ96Hcgrod"
     },
     {
       "album": {
@@ -4792,7 +4876,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 134604,
       "name": "Harrild Hede - Take 2",
       "url": "https://open.spotify.com/track/6LYsiuh60fTL3v9Ck6BmAX"
@@ -4911,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4XxZCAUffl8oatOTkiJ7Sd"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142658,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/7j3Z6AmF7ehDVcAqYsdcbe"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2HrbVGg6S8khRN1Uwyj9OI"
       },
@@ -4998,7 +5100,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 91962,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2mN7nlx5n2PmPMaEUXnSdT"
@@ -5082,7 +5184,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 182000,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0geJbuyMR6YmogxKPFSmbv"
@@ -5100,7 +5202,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/6zNoaA3PJA7BImBRMTgi2b"
@@ -5356,6 +5458,24 @@
       "duration_ms": 107250,
       "name": "Idea 5",
       "url": "https://open.spotify.com/track/18x3MCjaft6XBVrLBI0DUo"
+    },
+    {
+      "album": {
+        "name": "Idea 5 (Remixes)",
+        "url": "https://open.spotify.com/album/1c77f714uzqG59Nc0LZuIq"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133437,
+      "name": "Idea 5 (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/2iYdYudB0s0OuWRSB6Q37X"
     },
     {
       "album": {
@@ -6147,6 +6267,24 @@
     },
     {
       "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/7ygXTxaHA2hdR5mHHoH9CY"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139535,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/3GCr2W28TaJE8Z6HjZJ0mB"
+    },
+    {
+      "album": {
         "name": "Let's Count the Stars",
         "url": "https://open.spotify.com/album/0wQpfptQeu1hSHCrqLUfEm"
       },
@@ -6685,6 +6823,24 @@
     },
     {
       "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/3VJffCREWeLFENVTOMVQDY"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kensington",
+          "url": "https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/4m4g41CzFmrPXI0wsM8a3p"
+    },
+    {
+      "album": {
         "name": "Chill Music Vol. 1",
         "url": "https://open.spotify.com/album/3myVSgw73Z9hKHWLPgrco7"
       },
@@ -6718,6 +6874,24 @@
       "duration_ms": 127777,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/1D0mZLmpcjOWJqKXw2u6Ob"
+    },
+    {
+      "album": {
+        "name": "Melbourne",
+        "url": "https://open.spotify.com/album/69QyB82rlATWR3KfIK9USY"
+      },
+      "artists": [
+        {
+          "name": "Pierson Booth",
+          "url": "https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Melbourne",
+      "url": "https://open.spotify.com/track/1AyLFED3mOp4RquG8QTdf2"
     },
     {
       "album": {
@@ -7590,7 +7764,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 121995,
       "name": "Nostal",
       "url": "https://open.spotify.com/track/0osfH1VSFAV6no4hNpMCsv"
@@ -10346,7 +10520,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 147025,
       "name": "Stay Close",
       "url": "https://open.spotify.com/track/13PHy1sRlXOZZQilvOqFNK"
@@ -11187,6 +11361,24 @@
     },
     {
       "album": {
+        "name": "Thinkin Bout You (Piano Cover)",
+        "url": "https://open.spotify.com/album/7MzpLRWlnI2zfNXOOVROw7"
+      },
+      "artists": [
+        {
+          "name": "Gaslamp",
+          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175163,
+      "name": "Thinkin Bout You (Piano Cover)",
+      "url": "https://open.spotify.com/track/0kImx2P6UMiE21LU1yJlLa"
+    },
+    {
+      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/5RVPmgix8LHfENV3rWntyR"
       },
@@ -11274,6 +11466,24 @@
       "duration_ms": 109959,
       "name": "thoughts",
       "url": "https://open.spotify.com/track/1GkeRFP2QageV8fv5ibfMe"
+    },
+    {
+      "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/6ON1a0jLzpWGNqi6XclXyN"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kensington",
+          "url": "https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201363,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/1EKjqoBv5KnpaLYzhjqLB9"
     },
     {
       "album": {
@@ -11774,7 +11984,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 375893,
       "name": "Uhre Kirke - Take 5",
       "url": "https://open.spotify.com/track/5JTuOIoBRsTt2IsF0M7DCz"
@@ -12036,7 +12246,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 105310,
       "name": "wandering through life",
       "url": "https://open.spotify.com/track/283NV9eklRiVlH1VEAYPle"
@@ -12572,7 +12782,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 125056,
       "name": "white dahlias",
       "url": "https://open.spotify.com/track/2I87Dbuf1mWXgzG6JDGDt1"

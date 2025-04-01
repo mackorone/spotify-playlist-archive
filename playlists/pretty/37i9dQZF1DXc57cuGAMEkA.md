@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Ariana Grande, Dua Lipa, Linkin Park, 羊文学, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,219 likes - 93 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,221 likes - 93 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

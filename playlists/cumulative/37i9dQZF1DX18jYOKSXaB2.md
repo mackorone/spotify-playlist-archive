@@ -4,7 +4,7 @@
 
 > Best served with party jollof
 
-169 songs - 8 hr 35 min
+171 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 | 2022-02-11 | 2024-09-07 |
 | [Auntie Martha](https://open.spotify.com/track/7KJk6qepGGM1Nl8gsLZhW3) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Best of El](https://open.spotify.com/album/5kH9iKfsMVoHfl9UgZhh5d) | 4:28 | 2022-02-11 | 2023-03-25 |
 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2022-02-11 | 2024-09-28 |
+| [Babcock](https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH) | [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Babcock](https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L) | 2:23 | 2025-03-31 |  |
 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 | 2022-02-11 |  |
 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-30 |  |
 | [Bad and Boujee](https://open.spotify.com/track/0sy1phpDCCy7DB7N03iZEW) | [Murphy Mccarthy](https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Bad and Boujee](https://open.spotify.com/album/33FfluAHOTnk36bi6gheDp) | 3:35 | 2022-10-14 | 2023-12-21 |
@@ -51,6 +52,7 @@
 | [Emergency](https://open.spotify.com/track/5ab2hiVCC2fHQzc8nOa4JV) | [Toiner](https://open.spotify.com/artist/0qKplH0yrvOyQq0Vfs0iPT), [Bima](https://open.spotify.com/artist/3ezYivBdhfcqN44xLps8Kf) | [Emergency](https://open.spotify.com/album/3M2oZFtUNB8xEFVAUF0Lj9) | 3:03 | 2024-11-22 | 2025-01-31 |
 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 | 2022-02-11 | 2022-09-02 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2022-02-11 | 2024-06-01 |
+| [Excellent \(with Kelvyn Boy\)](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent \(with Kelvyn Boy\)](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 | 2025-03-31 |  |
 | [Facetime](https://open.spotify.com/track/6tsY2AuNy68FWW6maO3lNg) | [Lussh](https://open.spotify.com/artist/7dcgOecKFZRRu4ypD4Yruy) | [Facetime & I AM](https://open.spotify.com/album/4XRy6il98qAt68ybqXIgHJ) | 3:04 | 2024-10-18 | 2024-12-17 |
 | [Fall in Love](https://open.spotify.com/track/3h0PPi8gFxKDuTgJ97Ekjr) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [Afrobeats With Love, Vol\. 4](https://open.spotify.com/album/2nQEl6qFWDNCiBJgXNCtyw) | 3:45 | 2024-07-19 |  |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-05 | 2024-08-26 |
@@ -62,7 +64,7 @@
 | [For Instance](https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love \(Deluxe\)](https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7) | 3:24 | 2024-02-09 | 2024-02-15 |
 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 | 2024-03-01 |
 | [For You](https://open.spotify.com/track/3225yFOItlcXiJOl2hURor) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [For You](https://open.spotify.com/album/2a6u7lATbFmzWrDvW1g8mt) | 3:45 | 2024-03-01 | 2024-07-06 |
-| [FOREVER](https://open.spotify.com/track/3rRzR7seHCDOU92oDYop8n) | [Jay Teazer](https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [FOREVER](https://open.spotify.com/album/5yFZAZi0WSKmogH5xZOcp8) | 2:54 | 2024-11-22 |  |
+| [FOREVER](https://open.spotify.com/track/3rRzR7seHCDOU92oDYop8n) | [Jay Teazer](https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [FOREVER](https://open.spotify.com/album/5yFZAZi0WSKmogH5xZOcp8) | 2:54 | 2024-11-22 | 2025-04-01 |
 | [Forever](https://open.spotify.com/track/17NVTfQBL35FZMAN5nd1pD) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 3:04 | 2022-07-22 | 2023-03-25 |
 | [Forever](https://open.spotify.com/track/4wJBGQs7MtAdPuLHUaE40v) | [Sam Adeniji](https://open.spotify.com/artist/69eRJTkl9WP8JbovaqCRta) | [PAPI](https://open.spotify.com/album/7iG4WYvT5WP28y2KFcdOTq) | 3:06 | 2024-10-04 | 2024-11-30 |
 | [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-14 |  |
@@ -121,7 +123,7 @@
 | [Ogwashi\-uku](https://open.spotify.com/track/5tOjLy0wnfJEBGtEoRjUgQ) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20) | [Ogwashi\-uku](https://open.spotify.com/album/42eC3vSBfcE6OuitK91wXx) | 2:08 | 2025-03-28 |  |
 | [Ohemaa](https://open.spotify.com/track/0kRy7nW9uIdvBK0Xr90U9W) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Ohemaa](https://open.spotify.com/album/0gOlMRtoFxvMUAfyLtIJ1h) | 4:05 | 2022-02-11 | 2023-04-15 |
 | [Ole](https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Ole](https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0) | 2:44 | 2024-08-30 | 2025-01-18 |
-| [One & Only](https://open.spotify.com/track/3g1ap9E3iRZzlya84LRhwt) | [Kiyagi](https://open.spotify.com/artist/175itjZJLOZ4toEeb4Y0Yj) | [One & Only](https://open.spotify.com/album/0QmRBHLzLp4b78JIjzOEue) | 3:03 | 2024-10-25 |  |
+| [One & Only](https://open.spotify.com/track/3g1ap9E3iRZzlya84LRhwt) | [Kiyagi](https://open.spotify.com/artist/175itjZJLOZ4toEeb4Y0Yj) | [One & Only](https://open.spotify.com/album/0QmRBHLzLp4b78JIjzOEue) | 3:03 | 2024-10-25 | 2025-04-01 |
 | [One And Only](https://open.spotify.com/track/7wKjjHpcu0XT8xvW5rE8PU) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [One And Only](https://open.spotify.com/album/3IHJ9ZVzVTnbClgxFTT3E1) | 2:44 | 2024-11-22 | 2025-01-31 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 | 2022-02-11 | 2024-04-19 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2022-02-11 | 2022-11-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1157603,
+  "num_followers": 1157560,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -363,30 +363,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "No Rain, No Rose",
-        "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
-      },
-      "artists": [
-        {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
-        },
-        {
-          "name": "Shook Twins",
-          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
-        },
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 266894,
-      "name": "Highway Blood",
-      "url": "https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 243973,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "No Rain, No Rose",
+        "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        },
+        {
+          "name": "Shook Twins",
+          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 266894,
+      "name": "Highway Blood",
+      "url": "https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Dead Leaves",
-        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
-      },
-      "artists": [
-        {
-          "name": "Luis Trindade",
-          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
-        }
-      ],
-      "duration_ms": 187036,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Eleven Songs",
         "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 169320,
       "name": "Flash in the Pan",
       "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Dead Leaves",
+        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Trindade",
+          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
+        }
+      ],
+      "duration_ms": 187036,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "always you",
-        "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
-      },
-      "artists": [
-        {
-          "name": "COULOU",
-          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
-        }
-      ],
-      "duration_ms": 188799,
-      "name": "always you",
-      "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Asylum",
-        "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
+        "name": "always you",
+        "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
       },
       "artists": [
         {
-          "name": "Chloe Foy",
-          "url": "https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa"
+          "name": "COULOU",
+          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
         }
       ],
-      "duration_ms": 231200,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
+      "duration_ms": 188799,
+      "name": "always you",
+      "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Better Way",
-        "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Chloe Foy",
+          "url": "https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa"
         }
       ],
-      "duration_ms": 356522,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
+      "duration_ms": 231200,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Orange Tree",
-        "url": "https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc"
+        "name": "Better Way",
+        "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 192106,
-      "name": "Orange Tree",
-      "url": "https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8"
+      "duration_ms": 356522,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -931,6 +915,22 @@
       "duration_ms": 207441,
       "name": "Cormorant Bird",
       "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Orange Tree",
+        "url": "https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Orange Tree",
+      "url": "https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        }
-      ],
-      "duration_ms": 195880,
-      "name": "Note to Self",
-      "url": "https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Precious Days",
         "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 195880,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "All the Things That I Did and All the Things That I Didn't Do",
         "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Nervous At Night",
-        "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Hickey",
-          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Planet With Water",
-      "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0cPPcr4ZDcVVolsBZL6HOS"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 197331,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/2te2574HryYNJMPHJSpQvN"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Nervous At Night",
+        "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Planet With Water",
+      "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "Oh Mama Won't You Write Me",
+        "url": "https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Oh Mama Won't You Write Me",
+      "url": "https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "Sleeping with Headphones",
         "url": "https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Oh Mama Won't You Write Me",
-        "url": "https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Oh Mama Won't You Write Me",
-      "url": "https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/1hnGG0Wg9CmgGZeOpU7tCA"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 229104,
       "name": "First Time",
       "url": "https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "The Next Good Time",
+      "url": "https://open.spotify.com/track/2CttQN84ikl6AZ3ffwVdbZ"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1243,22 +1259,6 @@
       "duration_ms": 236133,
       "name": "New Person, Old Place (New Feelings Version)",
       "url": "https://open.spotify.com/track/6G5C3uAzRh5CPDBoXhMAhP"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "The Next Good Time",
-      "url": "https://open.spotify.com/track/2CttQN84ikl6AZ3ffwVdbZ"
     }
   ],
   "unique_name": "Morning Acoustic",

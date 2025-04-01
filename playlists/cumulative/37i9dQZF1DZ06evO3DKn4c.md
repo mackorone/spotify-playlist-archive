@@ -4,7 +4,7 @@
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 4 min
+51 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [O RITMO E A RAIVA](https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 2:34 | 2023-09-18 |  |
 | [Papaia](https://open.spotify.com/track/3PMXcwMCEcFx5ZmSmUFXSg) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Hot e Oreia](https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb) | [Crianças Selvagens](https://open.spotify.com/album/5KD6a45jKqFqE7HrhcfghS) | 3:55 | 2024-02-10 | 2025-02-26 |
 | [Papaia](https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x) | [Hot e Oreia](https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Crianças Selvagens](https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1) | 3:55 | 2025-02-26 |  |
+| [Papo Reto](https://open.spotify.com/track/7pTzeVZeSIRANp2ajcbvYG) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Daniel Yoruba](https://open.spotify.com/artist/3U7bRKXDeu2IONs3BPtJeX), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Coisas do Meu Imaginário](https://open.spotify.com/album/7GflQRs2UHd9J5aDAx2ntx) | 3:35 | 2025-04-01 |  |
 | [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 | 2023-09-18 |  |
 | [Que Nem o Meu Cachorro](https://open.spotify.com/track/6EHOyqVSyd8JRmQniT721T) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 3:31 | 2023-09-18 |  |
 | [QUEIMANDO TUDO \- Ao Vivo](https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 2:55 | 2024-11-09 |  |

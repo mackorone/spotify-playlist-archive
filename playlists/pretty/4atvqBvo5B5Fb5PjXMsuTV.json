@@ -1,13 +1,61 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Mar 22:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Apr 22:03 UTC.",
   "num_followers": 91,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAQsytsw+dOMpSLklE93qEWyGPz49hS",
+  "snapshot_id": "AAAQvEcuWQEWNQSyRph6XtmMltO95xAN",
   "tracks": [
+    {
+      "added_at": "2025-03-31 22:03:57",
+      "album": {
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/0Jle3MpguzwMbaHsFZN3Ie"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 271624,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/0zXetawK1ZHDd9Rqw0fD7J"
+    },
+    {
+      "added_at": "2025-03-31 18:04:54",
+      "album": {
+        "name": "Mystery Of Love (Demo)",
+        "url": "https://open.spotify.com/album/06pLW7elratms6S5yufTzn"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 244766,
+      "name": "Mystery Of Love - Demo",
+      "url": "https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS"
+    },
+    {
+      "added_at": "2025-03-31 18:04:54",
+      "album": {
+        "name": "Nothing I Need",
+        "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Nothing I Need",
+      "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+    },
     {
       "added_at": "2025-03-30 19:04:21",
       "album": {
@@ -55,6 +103,22 @@
       "duration_ms": 221525,
       "name": "Babyface Maniacs",
       "url": "https://open.spotify.com/track/5jAgJyYGFg75DpIyEGxomh"
+    },
+    {
+      "added_at": "2025-03-31 13:04:59",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 172294,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"
     },
     {
       "added_at": "2025-03-29 09:04:24",
@@ -285,6 +349,22 @@
       "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
     },
     {
+      "added_at": "2025-03-31 08:04:15",
+      "album": {
+        "name": "Oganesson",
+        "url": "https://open.spotify.com/album/2akCRZgnJZknlNUxyNzLY5"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 195752,
+      "name": "Oganesson",
+      "url": "https://open.spotify.com/track/6e9ksYQWj1fhzIGYMClL4g"
+    },
+    {
       "added_at": "2025-03-28 23:05:05",
       "album": {
         "name": "Panic",
@@ -381,6 +461,22 @@
       "url": "https://open.spotify.com/track/7oL7jAZkNyolF1H15Fhlm1"
     },
     {
+      "added_at": "2025-03-28 23:05:05",
+      "album": {
+        "name": "WW3",
+        "url": "https://open.spotify.com/album/1swjwGPv1aHBed9jy9ASDk"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 103344,
+      "name": "WW3",
+      "url": "https://open.spotify.com/track/1XMQl1X1rpfqdSAg0UJqTS"
+    },
+    {
       "added_at": "2025-03-28 09:04:45",
       "album": {
         "name": "Seed of the Night",
@@ -395,22 +491,6 @@
       "duration_ms": 318601,
       "name": "Seed of the Night",
       "url": "https://open.spotify.com/track/0F5tX3DwuK1JyGEZ7Bv72B"
-    },
-    {
-      "added_at": "2025-03-28 23:05:05",
-      "album": {
-        "name": "WW3",
-        "url": "https://open.spotify.com/album/1swjwGPv1aHBed9jy9ASDk"
-      },
-      "artists": [
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 103122,
-      "name": "WW3",
-      "url": "https://open.spotify.com/track/1XMQl1X1rpfqdSAg0UJqTS"
     },
     {
       "added_at": "2025-03-26 23:04:29",
@@ -735,90 +815,6 @@
       "duration_ms": 117176,
       "name": "Big Pink Bubble",
       "url": "https://open.spotify.com/track/4I43vEkyuNfH2pNKGOjM8i"
-    },
-    {
-      "added_at": "2025-03-21 09:03:27",
-      "album": {
-        "name": "WASH",
-        "url": "https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "WASH",
-      "url": "https://open.spotify.com/track/6KPtG0aIKnSqszstXgH2NS"
-    },
-    {
-      "added_at": "2025-03-25 04:04:44",
-      "album": {
-        "name": "Keep M\u00f8ving",
-        "url": "https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 202951,
-      "name": "Keep M\u00f8ving",
-      "url": "https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd"
-    },
-    {
-      "added_at": "2025-03-23 23:04:02",
-      "album": {
-        "name": "Will You Always Love Her?",
-        "url": "https://open.spotify.com/album/0jlavK1I1ZewnfYWXbJPNs"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 185557,
-      "name": "Will You Always Love Her?",
-      "url": "https://open.spotify.com/track/3AaT6DOf5An98ZstWmKBbb"
-    },
-    {
-      "added_at": "2025-03-21 19:03:36",
-      "album": {
-        "name": "R.I.P.",
-        "url": "https://open.spotify.com/album/31GGW5v48kh1vAZ6FSyqZk"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        },
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 184259,
-      "name": "R.I.P.",
-      "url": "https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8"
-    },
-    {
-      "added_at": "2025-03-26 23:04:29",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     }
   ],
   "unique_name": "New Singles Now",

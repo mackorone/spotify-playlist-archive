@@ -5691,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "OMEN",
+        "url": "https://open.spotify.com/album/08l9hwOKLZT7J3UazDDgzc"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "Protocol",
+      "url": "https://open.spotify.com/track/2JqvYABtzlyJ7XI2KOW0QV"
+    },
+    {
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/7dEANzVyOHnQQerh3k6esg"
       },
@@ -5710,7 +5728,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-01",
       "duration_ms": 190909,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/4AfRmTreKv9Djf3FNd97FS"

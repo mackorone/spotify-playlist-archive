@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,795 songs - 3 day 21 hr 8 min
+1,797 songs - 3 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-03-10 |
 | [Crash](https://open.spotify.com/track/4gJdZtzkAx877Q3T6zdt4T) | [Daniel Gidlund](https://open.spotify.com/artist/16MsIlrZeMWpSAk1RlULB6) | [Crash](https://open.spotify.com/album/4TDoinDsR2KzvdrqzBMrId) | 3:26 | 2024-08-22 | 2024-09-08 |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2022-05-12 | 2023-02-01 |
-| [Cry](https://open.spotify.com/track/7FD2G3OxS0gtv4DyAVLeK9) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cry](https://open.spotify.com/album/6qGGbXGhMDyKrbM18rRROD) | 2:45 | 2024-09-26 |  |
+| [Cry](https://open.spotify.com/track/7FD2G3OxS0gtv4DyAVLeK9) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cry](https://open.spotify.com/album/6qGGbXGhMDyKrbM18rRROD) | 2:45 | 2024-09-26 | 2025-04-01 |
 | [Cry over me](https://open.spotify.com/track/5HdoVX4952B9unJEjoemUI) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Cry over me](https://open.spotify.com/album/65igJnmDIP8wnxFik4Eanz) | 2:50 | 2021-12-16 | 2022-04-02 |
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-05-16 | 2024-06-14 |
 | [Cut Them Out](https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Cut Them Out](https://open.spotify.com/album/6tdkOD0oV6jwXYRmQClfSR) | 3:07 | 2024-02-02 | 2024-03-25 |
@@ -408,6 +408,7 @@
 | [Earth](https://open.spotify.com/track/10DkiMa9oJCAKNnelrf4XC) | [Malin Andersson](https://open.spotify.com/artist/5jsCO40QvQDijky97Z8AK5) | [Space to Feel](https://open.spotify.com/album/4mExFMTOHoOalPxYE4KhCV) | 3:24 | 2024-04-18 | 2024-05-10 |
 | [Easy Go!](https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Easy Go!](https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk) | 2:30 | 2023-06-15 | 2023-10-20 |
 | [EASY ON ME](https://open.spotify.com/track/5F89wBe6CTzxoHCgKwqHdG) | [NAVII](https://open.spotify.com/artist/4WzIyUXg4knXtXjuFxwW9l), [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [EASY ON ME](https://open.spotify.com/album/7rKicak8sRLTjFAmBDIPzb) | 3:01 | 2024-05-02 | 2024-05-24 |
+| [Eazy Breezy](https://open.spotify.com/track/4Tv4dzoB1LKDxdfPzZ5pp2) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Eazy Breezy](https://open.spotify.com/album/2aN6U5tgjZNUIGCpUbIG5N) | 3:18 | 2025-03-28 |  |
 | [Eddie](https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Eddie](https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn) | 2:37 | 2024-08-29 | 2024-09-06 |
 | [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 | 2023-09-22 |
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-27 |  |
@@ -877,7 +878,7 @@
 | [Kudde](https://open.spotify.com/track/6MW0vqvHbvcRMOWZuU4LjR) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kudde](https://open.spotify.com/album/4m5BDHYbTbF1zX5RfcHOhj) | 2:40 | 2025-01-09 | 2025-01-19 |
 | [Kylskåpspoesi](https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Kylskåpspoesi](https://open.spotify.com/album/2nPyHdabNvD39J6RH9pkLr) | 2:58 | 2022-03-04 | 2022-07-06 |
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
-| [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 |  |
+| [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 | 2025-04-01 |
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [Känns som igår](https://open.spotify.com/track/1GWsPe0PZYRRlY8Awcejds) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Känns som igår](https://open.spotify.com/album/08c1O8RIYYnazaS59PwhPD) | 2:53 | 2024-03-28 | 2024-05-03 |
 | [Känslodiplomaten](https://open.spotify.com/track/1000gg1gsEwmCMXrVbJnFt) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Känslodiplomaten](https://open.spotify.com/album/6nlRpNWQLHEt6FkiktioPr) | 3:32 | 2023-10-19 | 2023-11-27 |
@@ -1667,6 +1668,7 @@
 | [Vaskar mina tårar](https://open.spotify.com/track/1qUYbmIfoIDVRaRuDUlVZ3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Vaskar mina tårar](https://open.spotify.com/album/2UR8C8nPqhQ1W7t1ti5TAn) | 2:56 | 2021-12-16 | 2022-02-13 |
 | [Vattenfast maskara](https://open.spotify.com/track/4mUcCiwzgHl6PgYt1AsDF4) | [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Vattenfast maskara](https://open.spotify.com/album/0rtgvXiMJh6mGluRT9Kre4) | 3:07 | 2021-12-16 | 2022-04-02 |
 | [Vem e som dig](https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh) | [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [Vem e som dig](https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae) | 2:48 | 2024-02-29 | 2024-04-19 |
+| [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 |  |
 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 | 2024-02-08 | 2024-04-05 |
 | [Verkligheten har jag här för mig själv](https://open.spotify.com/track/0z7sJEhd7I9EONtW6DnRqI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [APONIA](https://open.spotify.com/album/1jco0VGKqWijdEj3rD0SIs) | 4:16 | 2025-03-07 |  |
 | [Verktygslådan](https://open.spotify.com/track/6z1PzNtoUQG2SjWpxb6USn) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Verktygslådan](https://open.spotify.com/album/7GSZ8je5bbyUyja0HgZUCs) | 2:47 | 2024-06-13 | 2024-08-16 |

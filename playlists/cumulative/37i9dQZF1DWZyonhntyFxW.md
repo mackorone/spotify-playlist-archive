@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: ويجز
+> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أرسينيك وأبو الأنوار
 
-383 songs - 18 hr 50 min
+384 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Ferksh \(feat\. Slyver PV\)](https://open.spotify.com/track/5byhbOVu1cQ2hUu7EtAkeF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Dawama](https://open.spotify.com/album/3afugJgjarUyVMCfeRxjxn) | 3:45 | 2023-08-17 | 2023-09-06 |
 | [Fish Wa2t](https://open.spotify.com/track/5CARpixYK1xzYkfTl1cvOJ) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Fish Wa2t](https://open.spotify.com/album/5dI5JMzymMU1ZAbXT12hOn) | 2:36 | 2022-08-23 | 2022-10-11 |
 | [FOKAK MENI](https://open.spotify.com/track/56ohyUS0aLJpk10OQhleUD) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [FOKAK MENI](https://open.spotify.com/album/73HNyxz2RUUZrqCyOZHW32) | 1:53 | 2024-02-01 | 2024-02-23 |
+| [Fomanshi](https://open.spotify.com/track/1aMA5gWiKvHOhVYxHJ2pY1) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Fomanshi](https://open.spotify.com/album/3pj9ksj2ATL75K6F1zscW7) | 2:47 | 2025-03-31 |  |
 | [Freedom Music: Scene Cypher 2](https://open.spotify.com/track/2WGsTI0dM1DsHsi3y1svgp) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [Lil Baba](https://open.spotify.com/artist/16m87d8FV11gipfSu03k0Y) | [Freedom Music: Scene Cypher 2](https://open.spotify.com/album/0IpOZAQTWlE2pn9sw2LiVb) | 5:08 | 2022-05-10 | 2022-05-18 |
 | [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-03 | 2024-04-15 |
 | [Freestyle](https://open.spotify.com/track/28I6S4VxP42TMjgMYszHu7) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Freestyle](https://open.spotify.com/album/33Z8BT35ZwgYBRREcKiwCg) | 2:29 | 2022-12-22 | 2023-03-07 |
@@ -362,7 +363,7 @@
 | [سامعك](https://open.spotify.com/track/5ODdBs7S8J42JNz35SfUQJ) | [Teefo](https://open.spotify.com/artist/3RTq9uscohYNRvooYGSHfb) | [سامعك](https://open.spotify.com/album/7eZjOkfhzvK7sPFPJzYSWf) | 2:32 | 2025-02-18 |  |
 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-10-25 | 2022-12-24 |
 | [سخنت](https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [سخنت](https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3) | 3:06 | 2024-01-15 | 2024-02-07 |
-| [سكة](https://open.spotify.com/track/3LFoLm13Aped0za3Qx8PAO) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [سكة](https://open.spotify.com/album/5EHEsSOcBExuVkeMKayq45) | 3:14 | 2024-06-25 |  |
+| [سكة](https://open.spotify.com/track/3LFoLm13Aped0za3Qx8PAO) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [سكة](https://open.spotify.com/album/5EHEsSOcBExuVkeMKayq45) | 3:14 | 2024-06-25 | 2025-04-01 |
 | [صح صح للكلام](https://open.spotify.com/track/58IDmCrPSh18wKXv1mirGt) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [صح صح للكلام](https://open.spotify.com/album/6JJjjiKFYr7fUOCBOZGODr) | 3:09 | 2023-09-30 | 2023-10-06 |
 | [ع الأبيض \- 3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [كي.أوه \(K.O\)](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 | 2024-02-16 |  |
 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 | 2024-03-08 |  |
