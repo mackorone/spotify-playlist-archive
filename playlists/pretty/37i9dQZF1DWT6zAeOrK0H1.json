@@ -1,6 +1,6 @@
 {
   "description": "Home of the best bands orbiting the universe right now. Cover: Fontaines D.C.",
-  "num_followers": 405,
+  "num_followers": 439,
   "original_name": "The Best Bands In The Universe \ud83e\ude90",
   "owner": {
     "name": "Spotify",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
     },
     {
-      "added_at": "2024-06-01 16:35:15",
-      "album": {
-        "name": "Only God Was Above Us",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Mary Boone",
-      "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
-    },
-    {
       "added_at": "2024-03-11 23:40:41",
       "album": {
         "name": "Wake Up & It's Over",
@@ -431,6 +415,22 @@
       "duration_ms": 227546,
       "name": "Portrait of a Blank Slate",
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "added_at": "2024-06-01 16:35:15",
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Mary Boone",
+      "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Tejano Blue",
-        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Tejano Blue",
-      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 304279,
       "name": "Delicious Things",
       "url": "https://open.spotify.com/track/6pAfAhSBOeNi5Tw8AfB5RQ"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "added_at": "2024-03-11 23:40:41",

@@ -4,7 +4,7 @@
 
 > 
 
-919 songs - 1 day 20 hr 41 min
+920 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Levels Vol\. 2](https://open.spotify.com/track/4j8F7ySiiH5wm7vP66n0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 1:51 | 2024-03-04 | 2024-11-06 |
 | [Lif3](https://open.spotify.com/track/5CYq30RE6u1z0MXPUGD5tn) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:37 | 2022-11-22 | 2023-05-09 |
 | [Life Is Beautiful](https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:06 | 2025-02-26 |  |
+| [Life Is Better](https://open.spotify.com/track/4GRxW50GO0Yc5Pp9LK62Rw) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 4:41 | 2025-04-01 |  |
 | [Life Is Great](https://open.spotify.com/track/1394EvWgfpb0cHpQWTX4zY) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 2:25 | 2022-06-10 | 2023-12-14 |
 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 | 2024-06-05 | 2024-11-06 |
 | [Light It Up](https://open.spotify.com/track/41mzryVlFLlz6b1BCtJAjx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:29 | 2023-11-29 | 2024-03-05 |

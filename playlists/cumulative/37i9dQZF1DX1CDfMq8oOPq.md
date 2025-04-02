@@ -4,7 +4,7 @@
 
 > big d com a senha da cena, fenomenal!
 
-282 songs - 13 hr 17 min
+283 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 | 2022-05-27 | 2023-04-22 |
 | [Disk P@\#$%&!](https://open.spotify.com/track/6X8aYB2eFCge9jpkgjecPR) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Taurus, Vol\. 2](https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4) | 2:30 | 2024-05-24 |  |
 | [Diz](https://open.spotify.com/track/2FWOsv9w008EapGfigHK9i) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Diz](https://open.spotify.com/album/7Lxz0lRrYciltkKfziu6s0) | 3:24 | 2022-03-11 | 2023-08-26 |
+| [Do Corre](https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [DJ LN](https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET) | [Do Corre](https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP) | 3:15 | 2025-04-01 |  |
 | [Dominadora](https://open.spotify.com/track/1bWPBHhTIsjplANKVjjJVW) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Dominadora](https://open.spotify.com/album/7Du5sEj5n4u8oytrQuMVON) | 1:49 | 2024-10-11 | 2024-11-15 |
 | [Dona](https://open.spotify.com/track/0sMr4oZ3NN3lYi9zmOmVoo) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ) | [Dona](https://open.spotify.com/album/7M7jOTXZUyBUvDm3Z6HzzT) | 2:40 | 2022-05-27 | 2022-06-25 |
 | [Donas do Jogo](https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Donas do Jogo](https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9) | 4:04 | 2022-03-11 | 2022-06-18 |
@@ -209,7 +210,7 @@
 | [Porta Malas](https://open.spotify.com/track/4oYbNX6n4aVdyNrLalcjo4) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Porta Mala](https://open.spotify.com/album/6PRJZZi5iupZTLCklur4bs) | 2:01 | 2022-08-12 | 2022-08-27 |
 | [Postura de Braba](https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Postura de Braba](https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z) | 2:08 | 2023-07-21 | 2023-09-16 |
 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 | 2022-03-11 | 2023-09-02 |
-| [Preta Classe A](https://open.spotify.com/track/2uI42avrqy1JJOJVoYAfev) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [Encruzilhada](https://open.spotify.com/album/2zDnQA4s9S567Jc2EP14bq) | 3:13 | 2024-11-22 |  |
+| [Preta Classe A](https://open.spotify.com/track/2uI42avrqy1JJOJVoYAfev) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [Encruzilhada](https://open.spotify.com/album/2zDnQA4s9S567Jc2EP14bq) | 3:13 | 2024-11-22 | 2025-04-02 |
 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 | 2022-03-11 | 2024-01-27 |
 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 | 2023-10-06 | 2024-02-24 |
 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 | 2023-12-01 |  |

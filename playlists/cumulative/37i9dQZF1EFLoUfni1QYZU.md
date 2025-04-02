@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 9 hr 20 min
+152 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Come On & Get It](https://open.spotify.com/track/5qZZo8XGfe2XPt9ggCV3dA) | [DJ Dan](https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [L.P.](https://open.spotify.com/artist/0EiFuHVGo5D7B8JeeOg3bK) | [DJ Dan Presents Future Retro](https://open.spotify.com/album/7rVQG7r5pRfKOVKRV0lX05) | 3:12 | 2022-09-08 |  |
 | [Day By Day](https://open.spotify.com/track/1AWffsRRRPuqAM6hC5atPX) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Day By Day](https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO) | 3:40 | 2022-09-08 |  |
 | [Death Valley](https://open.spotify.com/track/7lKCiqJLakjQuPZ7ZvpmPc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 2:52 | 2022-09-08 | 2023-12-14 |
-| [Death Valley](https://open.spotify.com/track/5zEIsGLEDLpdzWU89dvTpl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 2:53 | 2023-12-13 |  |
+| [Death Valley](https://open.spotify.com/track/3zqdzaUeXFrMk6wRz5Fd9A) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 2:53 | 2025-04-01 |  |
+| [Death Valley](https://open.spotify.com/track/5zEIsGLEDLpdzWU89dvTpl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 2:53 | 2023-12-13 | 2025-04-02 |
 | [Die For Your Love](https://open.spotify.com/track/1AOTYevwqid1yqhxvaxDoY) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:39 | 2024-07-26 |  |
 | [Die For Your Love](https://open.spotify.com/track/37z1U7PORW95mDVHiKedWx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:39 | 2022-09-08 | 2023-12-14 |
 | [Die For Your Love](https://open.spotify.com/track/5qUBLOVnyluBNP7kdVo9Jo) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:39 | 2023-12-13 | 2024-07-27 |
@@ -85,7 +86,8 @@
 | [N'oublie pas](https://open.spotify.com/track/7FIpYtyMksImC785MQ6rk0) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Désobéissance](https://open.spotify.com/album/5YDET5CVSy7YvV7I3s5wAI) | 3:39 | 2022-09-08 |  |
 | [Night Like This](https://open.spotify.com/track/5uZbXwM8gGGHSD1Dqv8kCu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:00 | 2022-09-08 |  |
 | [No Witness](https://open.spotify.com/track/13qy3gxJFjx5IKXrW7t6dj) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:28 | 2022-09-08 | 2023-12-14 |
-| [No Witness](https://open.spotify.com/track/6dLAGp6YfJ7TIEU5UZLokn) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:28 | 2023-12-13 |  |
+| [No Witness](https://open.spotify.com/track/6dLAGp6YfJ7TIEU5UZLokn) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:28 | 2023-12-13 | 2025-04-02 |
+| [No Witness](https://open.spotify.com/track/7nrLAS1LDhsVrEi8RrvGxh) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:28 | 2025-04-01 |  |
 | [Nothing To Lose](https://open.spotify.com/track/3Kad9SsW6fAdq0KhFoJDzE) | [Nick Fradiani](https://open.spotify.com/artist/0YklCNXJmtsiaFPCEjWXut) | [Hurricane](https://open.spotify.com/album/2WDIkQMRzMGKz1MDDaqb7k) | 3:22 | 2022-09-08 |  |
 | [One Last Mistake](https://open.spotify.com/track/0Mo8e9GpOr8dJ2YuOo7jNB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:35 | 2022-09-08 |  |
 | [One Last Time](https://open.spotify.com/track/3b5rN0v3y5T70UUX9zayTy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/73yPks0QhGEUpg7jcWHVso) | 3:13 | 2022-09-08 |  |

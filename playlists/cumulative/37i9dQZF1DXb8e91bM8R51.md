@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-394 songs - 22 hr 33 min
+395 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-09-29 | 2024-09-13 |
 | [Buddy](https://open.spotify.com/track/0xr24hc6g7hFBZcU4xY87j) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 4:54 | 2023-03-03 | 2024-09-13 |
 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 | 2024-11-08 |
+| [Bulletproof \(feat\. Jac Ross\)](https://open.spotify.com/track/0U9u3sImYBK0fl165yFfsl) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Based on a True Story](https://open.spotify.com/album/4iLHF8zxDXeBowudrI2KtT) | 2:56 | 2025-04-01 |  |
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 | 2022-01-14 | 2022-04-23 |
 | [Butterfly Effect \(feat\. RJ Payne\)](https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [RJ Payne](https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy) | [Butterfly Effect \(feat\. RJ Payne\)](https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1) | 2:58 | 2022-03-11 |  |
 | [Cake](https://open.spotify.com/track/2ChAypXrj4P5YKwxPZjfr2) | [Super Sako](https://open.spotify.com/artist/2ZMnWI3oIHyj7MyuZ99gvu), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Cake](https://open.spotify.com/album/10I65oH6NTkRcYQDd96Z7K) | 3:01 | 2022-05-23 | 2022-06-25 |
@@ -357,7 +358,7 @@
 | [The Legacy](https://open.spotify.com/track/4jb5oH4vmShQ542vofpwQu) | [Group Home](https://open.spotify.com/artist/48elQHSJ3DmffHQpf89jxX), [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [A Tear For The Ghetto](https://open.spotify.com/album/0QiUcnzRMUG2feqKc54Nb4) | 4:01 | 2022-01-14 | 2022-03-04 |
 | [The Listening](https://open.spotify.com/track/1eNjOyhYefAN2AmncRpSjg) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [The Listening](https://open.spotify.com/album/2t4caad14mHY6Lthukz2cY) | 6:07 | 2022-02-04 | 2022-07-20 |
 | [The Recipe](https://open.spotify.com/track/07D2IULzPNePTwnBzDnudX) | [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR), [DJ Hoppa](https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD), [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU) | [The Recipe](https://open.spotify.com/album/4ZbVA7Oz0WNzrfSIqWnuCj) | 2:36 | 2022-04-22 | 2022-07-29 |
-| [The Shallimar](https://open.spotify.com/track/5ilGsQhMaxLg0BiHzH8qWK) | [Keith Murray](https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3), [Funkality](https://open.spotify.com/artist/4l7rxpEt5uiyD5kRljrJB3), [Brady Jo](https://open.spotify.com/artist/7x4OXq2sqvXH99Z7kwpDpJ) | [The Shallimar](https://open.spotify.com/album/0bXkfJaK9qe8fzM91mIoY7) | 3:50 | 2024-11-08 |  |
+| [The Shallimar](https://open.spotify.com/track/5ilGsQhMaxLg0BiHzH8qWK) | [Keith Murray](https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3), [Funkality](https://open.spotify.com/artist/4l7rxpEt5uiyD5kRljrJB3), [Brady Jo](https://open.spotify.com/artist/7x4OXq2sqvXH99Z7kwpDpJ) | [The Shallimar](https://open.spotify.com/album/0bXkfJaK9qe8fzM91mIoY7) | 3:50 | 2024-11-08 | 2025-04-02 |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-14 | 2025-01-18 |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 | 2024-08-08 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-05-24 |

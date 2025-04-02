@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd_waLOSAXrA\">Panda Bear</a>",
-  "num_followers": 67315,
+  "num_followers": 67312,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQhS2DQ7QT7xiZwomrP7VUmC1ilP8c",
+  "snapshot_id": "AAAQh9PvVOfPr0B8Fp4UCqMrGFkrWK5H",
   "tracks": [
+    {
+      "added_at": "2025-04-01 17:52:02",
+      "album": {
+        "name": "catch these fists",
+        "url": "https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 188514,
+      "name": "catch these fists",
+      "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
+    },
     {
       "added_at": "2025-03-27 08:24:28",
       "album": {

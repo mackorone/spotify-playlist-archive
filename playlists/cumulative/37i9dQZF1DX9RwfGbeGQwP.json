@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 140800,
       "name": "aperture",
       "url": "https://open.spotify.com/track/4nB73xtcP4qEfLcK8x2HfT"
@@ -14129,6 +14129,24 @@
     },
     {
       "album": {
+        "name": "Lima",
+        "url": "https://open.spotify.com/album/32e4coW7YK6lKPSfZPlfyo"
+      },
+      "artists": [
+        {
+          "name": "cmd f",
+          "url": "https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/5fE2vXhsn72AXqizO3dLha"
+    },
+    {
+      "album": {
         "name": "limelight",
         "url": "https://open.spotify.com/album/5yMQnvnMglKwQ7V9pVALVX"
       },
@@ -14538,7 +14556,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 123703,
       "name": "Lots of lofi in one tone",
       "url": "https://open.spotify.com/track/7MZgOMd6nDWR4HHJM8NStG"
@@ -22032,7 +22050,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 132852,
       "name": "Saturday Breezy",
       "url": "https://open.spotify.com/track/37Mcxao2vhMIIw5OxFwaiT"

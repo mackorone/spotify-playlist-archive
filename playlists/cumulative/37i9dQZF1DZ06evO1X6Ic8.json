@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206737,
+      "name": "Menswear",
+      "url": "https://open.spotify.com/track/1v07ywlVYd02pOCnXRBDNA"
+    },
+    {
+      "album": {
         "name": "Milk",
         "url": "https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8"
       },

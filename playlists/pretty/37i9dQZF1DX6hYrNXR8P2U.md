@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Música sin etiquetas.<br/>📷 Dillom  & BLAIR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,611 likes - 104 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,046 likes - 104 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

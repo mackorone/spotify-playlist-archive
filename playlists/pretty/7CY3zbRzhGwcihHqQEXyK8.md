@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 615 songs - 1 day 7 hr 30 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 640 songs - 1 day 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -623,5 +623,30 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 613 | [Black Mass](https://open.spotify.com/track/1O047NE68YUR6j26zBPz2O) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Black Mass](https://open.spotify.com/album/23aOWuA3ezrcNekrUG9miW) | 6:50 |
 | 614 | [Bang! \(feat\. Hayley Kiyoko\) \- AhhHaa Remix](https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [AhhHaa](https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m) | [Bang! \(feat\. Hayley Kiyoko\) \[AhhHaa Remix\]](https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04) | 2:47 |
 | 615 | [rose tints](https://open.spotify.com/track/307mkoJ63M8wCXmB8Et9hL) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [rose tints](https://open.spotify.com/album/61bPYrN2YGGBFB0ZSqUgo3) | 3:16 |
+| 616 | [The Roaring 2020's](https://open.spotify.com/track/2nuqXGEaqdrji38aNKotkT) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 0:42 |
+| 617 | [Help Me](https://open.spotify.com/track/04YTd5sh1fcbfb5TwbZzqY) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 3:32 |
+| 618 | [Gentleman](https://open.spotify.com/track/0q1EKlkbBzsX5Eqq8QiRYH) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 2:30 |
+| 619 | [100 Years](https://open.spotify.com/track/1dv3PakdOZd9bCvUZNrwdF) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 3:45 |
+| 620 | [Sugar Honey Ice Tea](https://open.spotify.com/track/6tuT87YiwOUFeLCOPXwWBs) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 3:32 |
+| 621 | [Still Dancing](https://open.spotify.com/track/2ll43KPPbcMelPmIaufAGm) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 3:18 |
+| 622 | [Run Wubby Run](https://open.spotify.com/track/6heMFs1WkY2CL3coBpUXSC) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 2:49 |
+| 623 | [Karma](https://open.spotify.com/track/3vlGt07VLPkzI5q78uOzOb) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 3:24 |
+| 624 | [Living On](https://open.spotify.com/track/7sakLfABpGSKn85LhTTFHr) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 3:19 |
+| 625 | [To You](https://open.spotify.com/track/683g6C3gRUCPCe7Ut6QVpE) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Clover](https://open.spotify.com/album/30hjQn1MkKIEfd6qjkZKbS) | 2:49 |
+| 626 | [Doki Doki Forever](https://open.spotify.com/track/5MHYkxRxkk3OUgdJHwm3rG) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Doki Doki Forever](https://open.spotify.com/album/5jUz1WljGky4hbD3K0XMd0) | 3:00 |
+| 627 | [The End](https://open.spotify.com/track/3QQIg4VEKLMMN6nniY25JN) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx), [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [The End](https://open.spotify.com/album/4FWS1FOBjykqv9Sn0whiFI) | 3:10 |
+| 628 | [Karma](https://open.spotify.com/track/3sjrnOAajTkO4xqHBMu6XZ) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Karma](https://open.spotify.com/album/6oZTrwtiDaWfvAbozr6lYc) | 3:24 |
+| 629 | [Karma \(OR3O ver.\)](https://open.spotify.com/track/3pfXU0xrqWcQHWvXpMhLuH) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Karma \(OR3O ver.\)](https://open.spotify.com/album/6uTflMTt3EWDLHGrX4JR5f) | 3:24 |
+| 630 | [BrOki Broki Forever](https://open.spotify.com/track/7jC4FW4kXNDI88V9xsALft) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [BrOki Broki Forever](https://open.spotify.com/album/6C9JnmxDSn0wqjdJRy1bzH) | 2:53 |
+| 631 | [Gentleman](https://open.spotify.com/track/7GljkZ2S6fDS5j5z85QsAG) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Gentleman](https://open.spotify.com/album/4xgaGJJm37VDJKKhhdOm6G) | 2:30 |
+| 632 | [Not Alone This Christmas](https://open.spotify.com/track/5h44FZTlqEWggnp7cVRvmg) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx), [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Caleb Hyles](https://open.spotify.com/artist/4Adn8z9dOrrJEVGQZMvBK6), [Ace Of Hearts](https://open.spotify.com/artist/2W9T8ZK5qh0ikzaYEVAPFf), [Genuine](https://open.spotify.com/artist/4nmRuRFucxxIWpYvlYyPcq), [Djsmell](https://open.spotify.com/artist/2uSIBYjPIHKVxHpyzUzzKv), [Kathy\-Chan](https://open.spotify.com/artist/1zt31Pa9UtQ2rtV7zdPDXq), [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3), [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW), [Illymation](https://open.spotify.com/artist/757bg8WDQ7G1YPrTk03qq2) | [Not Alone This Christmas](https://open.spotify.com/album/3zogke3oao56WaimMG3YTL) | 4:34 |
+| 633 | [Help Me](https://open.spotify.com/track/3WSQ8LXGMUjm4DGrfN7oYz) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Help Me](https://open.spotify.com/album/7p92XCQAqgLq9I9zHNtQfY) | 3:32 |
+| 634 | [100 Years](https://open.spotify.com/track/01gDbVhFC9R8YVZqUOwbfo) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [100 Years](https://open.spotify.com/album/25zp7kjuPeaZFwV7mJF8Jr) | 3:45 |
+| 635 | [Sugar Honey Ice Tea](https://open.spotify.com/track/4pPHtAr5bD7oFtaNWrNtBc) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Sugar Honey Ice Tea](https://open.spotify.com/album/60NsNPkTffalC8iQjR236o) | 3:32 |
+| 636 | [Living On](https://open.spotify.com/track/32D6FnNnUemlXjXDcbvLhZ) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Living On](https://open.spotify.com/album/41aBNAhGIm6e0XQnfdYghG) | 3:19 |
+| 637 | [The Zombie Song \(Nightcore Version\)](https://open.spotify.com/track/5FDvUcuOKzzndcCOSFZ5YP) | [Stephanie Mabey](https://open.spotify.com/artist/11ymgw8TwTMPeYllQ6V1uw) | [The Zombie Song \(Nightcore Version\)](https://open.spotify.com/album/7lWBOGCzhRMfBmDap6WtEM) | 2:18 |
+| 638 | [Ghost Rule](https://open.spotify.com/track/6pWUUDClR9TuLiPPQo4CiE) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [Ghost Rule](https://open.spotify.com/album/5YPELd6H44TdjrLHesB3aA) | 3:49 |
+| 639 | [Owo You're So Warm](https://open.spotify.com/track/5LJtWXdSKpvSqC7rpMzlbc) | [Senzawa](https://open.spotify.com/artist/2iXAFUDVjc12Gea585uitg) | [Owo You're So Warm](https://open.spotify.com/album/0KGGQYurZVGFGiIthqpC2e) | 1:03 |
+| 640 | [Girl A](https://open.spotify.com/track/7urddi7J2M0GwbYK5kH2T9) | [Will Stetson](https://open.spotify.com/artist/4DzC4sTTWf2juzeeMiFB8O) | [Girl A](https://open.spotify.com/album/0jzWW6gvFbX4biBrOqgrBw) | 4:02 |
 
-Snapshot ID: `AAABhvcNUZtwDkeA/rhJJUuCjZdjQEXt`
+Snapshot ID: `AAABlpavQB+WATOr6WMOC4OtOrgGkw1s`

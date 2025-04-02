@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 357838,
+  "num_followers": 357899,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
+      },
+      "artists": [
+        {
+          "name": "Amnesty",
+          "url": "https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "We Have Love",
+      "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Pushin On",
         "url": "https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 199560,
       "name": "Pushin On",
       "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
-      },
-      "artists": [
-        {
-          "name": "Amnesty",
-          "url": "https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "We Have Love",
-      "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Totally Together",
-      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "True Spirit",
         "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 247893,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Totally Together",
+      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Best by Far",
         "url": "https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 252933,
       "name": "Be Thankful",
       "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
-      "added_at": "2024-08-12 13:49:26",
-      "album": {
-        "name": "In The Breaks",
-        "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "In The Breaks",
-      "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Made in Sweden",
@@ -1175,6 +1159,22 @@
       "duration_ms": 234106,
       "name": "Looking up to You",
       "url": "https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq"
+    },
+    {
+      "added_at": "2024-08-12 13:49:26",
+      "album": {
+        "name": "In The Breaks",
+        "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "In The Breaks",
+      "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
     },
     {
       "added_at": "2022-07-14 19:24:43",

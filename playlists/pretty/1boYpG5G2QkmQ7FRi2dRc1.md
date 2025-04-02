@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 289,044 likes - 30 songs - 1 hr 35 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 289,034 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 16 | [Falling Up](https://open.spotify.com/track/0yTjMXmYRi3YQNVO4h7Mef) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Falling Up](https://open.spotify.com/album/6h1MD0mbleCoPXg0FYAEzw) | 2:45 |
 | 17 | [Say My Name](https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Say My Name](https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF) | 2:36 |
 | 18 | [I Can Feel Your Love](https://open.spotify.com/track/45HQ2uow1flBrzw3uDIwlM) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r), [Emma Wells](https://open.spotify.com/artist/3ChhgHO30YBZB8X7kyligx) | [I Can Feel Your Love](https://open.spotify.com/album/3cBuDutAXydPeChsT1RQaX) | 3:20 |
-| 19 | [Drip](https://open.spotify.com/track/030t6Ow4qRRbJQk3TtWLLH) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Drip](https://open.spotify.com/album/2CWkLbzoUIRmHsNmJFiYlK) | 3:12 |
+| 19 | [Drip \(feat\. Eliza Legzdina\)](https://open.spotify.com/track/030t6Ow4qRRbJQk3TtWLLH) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Drip \(feat\. Eliza Legzdina\)](https://open.spotify.com/album/2CWkLbzoUIRmHsNmJFiYlK) | 3:12 |
 | 20 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 |
 | 21 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 |
 | 22 | [Are You In?](https://open.spotify.com/track/75RWvdK6iawjliJUpXdzxw) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Are You In?](https://open.spotify.com/album/4mFpFXxYbJ2V0pZROtWUwq) | 2:37 |

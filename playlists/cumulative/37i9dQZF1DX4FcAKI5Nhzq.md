@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: TEN\(텐\)\)
+> Future K\-Pop hits! \(Cover: BEOMGYU\(범규\)\)
 
-1,240 songs - 2 day 19 hr 18 min
+1,241 songs - 2 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,7 +740,7 @@
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2020-10-13\* | 2020-10-22 |
 | [Nectar \(Feat\. Jay Park\)](https://open.spotify.com/track/0Tq39nkuBrIdhGhUSRFISJ) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [BM 1st EP 'Element'](https://open.spotify.com/album/6q2zOdLESHZyOpfSwA8Reb) | 2:57 | 2024-05-07 | 2024-06-24 |
 | [Need U](https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Need U](https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2) | 3:31 | 2021-12-13 | 2022-01-17 |
-| [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 | 2024-10-01 |  |
+| [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 | 2024-10-01 | 2025-04-02 |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-29 | 2022-10-15 |
 | [Never Let Me Go \(Korean Ver.\)](https://open.spotify.com/track/53qhnJwezZdvrH2wyaG8hb) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Never Let Me Go](https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq) | 3:03 | 2023-02-09 | 2023-03-25 |
 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-03-17 |  |
@@ -953,6 +953,7 @@
 | [Shut Up 받고 Crazy Hot!](https://open.spotify.com/track/1z7QyEi7KWDgqKr4MtnmAm) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Shut Up 받고 Crazy Hot!](https://open.spotify.com/album/0UXupM1TaPLQSTMkKwYEqQ) | 3:45 | 2021-08-11 | 2021-09-18 |
 | [Shutdown \(Feat.Seori\)](https://open.spotify.com/track/69790X4RDQIKwcxltIMHvU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/album/3qGgRGX3KHbwph4AzWVko1) | 3:21 | 2022-01-06 | 2022-03-22 |
 | [Side By Side \- Korean Version](https://open.spotify.com/track/4FXKLGkXw4v5Kw3pEWCTYV) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Side By Side](https://open.spotify.com/album/2icreg0F2hBSb6JGpTeOYA) | 2:59 | 2021-04-15 | 2021-06-25 |
+| [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 | 2025-04-01 |  |
 | [SIREN](https://open.spotify.com/track/24KYbNn0mcRFuSiGLOegSi) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : STAND OUT](https://open.spotify.com/album/0IBGqfWduNDfbSqYjSd1Tv) | 3:01 | 2020-11-05 | 2021-03-01 |
 | [Siren](https://open.spotify.com/track/0lCT7dZovwscmIRIltborh) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/13eyoNteqwQJmUqhUcWuQt) | 2:27 | 2024-04-15 | 2024-06-24 |
 | [Siren](https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO) | 2:27 | 2024-04-03 | 2024-04-19 |

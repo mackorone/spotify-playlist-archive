@@ -1,13 +1,29 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Black Tiger Sex Machine",
-  "num_followers": 981464,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Skrillex",
+  "num_followers": 981559,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye8gAAAABHLcn5aavE01sJsBzLYR0K",
+  "snapshot_id": "Z+wnyQAAAABg6Rf/06Y4L+2hWAucdRpk",
   "tracks": [
+    {
+      "added_at": "2025-04-01 17:26:32",
+      "album": {
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 129629,
+      "name": "VOLTAGE",
+      "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
+    },
     {
       "added_at": "2025-03-28 04:00:50",
       "album": {
@@ -1379,22 +1395,6 @@
       "duration_ms": 144335,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
-    },
-    {
-      "added_at": "2025-01-31 05:00:42",
-      "album": {
-        "name": "BITE (MY STYLE)",
-        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 148514,
-      "name": "BITE (MY STYLE)",
-      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
     },
     {
       "added_at": "2025-02-07 05:00:47",

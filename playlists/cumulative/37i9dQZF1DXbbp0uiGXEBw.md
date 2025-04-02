@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: ĐINH HƯƠNG
+> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Đông Nhi
 
-309 songs - 19 hr 40 min
+310 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 | 2023-06-06 |  |
 | [Một Người Đánh Mất Một Người](https://open.spotify.com/track/6slHerkX6036uziyYSOtZn) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Một Người Đánh Mất Một Người](https://open.spotify.com/album/7aZjLp9YLf3CdJLATM5NxT) | 4:17 | 2023-11-29 | 2024-03-08 |
 | [Một Người Đánh Mất Một Người](https://open.spotify.com/track/00be0bf1yiRaJB8PMXG9uj) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Một Người Đánh Mất Một Người](https://open.spotify.com/album/2E6ZljmtzzHy1oxv1Yoaht) | 4:17 | 2024-12-04 |  |
+| [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:30 | 2025-04-01 |  |
 | [Mời Anh Vào Team Em](https://open.spotify.com/track/4fx2Hs100AuN9qPsFj3fW7) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Mời Anh Vào Team Em](https://open.spotify.com/album/0qnWAQh9eqFA7JGjznCJE0) | 3:15 | 2022-09-06 | 2022-10-13 |
 | [Ngày Chưa Giông Bão](https://open.spotify.com/track/7laWkT6uyoMDUXBqhcAN4V) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Ngày Chưa Giông Bão \(Người Bất Tử OST\)](https://open.spotify.com/album/6eYeMsrAOwsbGsdMU3tMZn) | 3:32 | 2021-12-07 | 2022-05-04 |
 | [Ngã Tư Không Đèn](https://open.spotify.com/track/6ziPpLftJg2NI6NtUDlzqf) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b), [Khoa Vũ](https://open.spotify.com/artist/4OqYnPUq6VwNMacIwwbWGw) | [Chỉ Có Thể Là Anh](https://open.spotify.com/album/05exQ0cMKWDNUlnVjR0dta) | 3:38 | 2024-06-07 | 2024-07-04 |

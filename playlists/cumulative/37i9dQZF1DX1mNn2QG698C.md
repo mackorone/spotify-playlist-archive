@@ -2,9 +2,9 @@
 
 ### [Nuova Scena Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX1mNn2QG698C)
 
-> La playlist ufficiale del rap show di Netflix, la nuova stagione inizia il 31 marzo.
+> La playlist ufficiale del rap show di Netflix, la nuova stagione è uscita.
 
-84 songs - 4 hr 24 min
+86 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,9 +88,11 @@
 | [TU ED IO \(feat\. Rose Villain\)](https://open.spotify.com/track/3XOcMFFT6Oo2ZCXLJ9lqdT) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 3:03 | 2025-03-24 |  |
 | [TU MI HAI CAPITO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MADAME](https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr) | 3:31 | 2024-03-20 | 2025-03-25 |
 | [Tu Si A Droga Pe Me \(feat\. MV Killa\)](https://open.spotify.com/track/2SRsQmM6pKyhIZv5sspGj6) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:56 | 2024-03-20 | 2025-03-25 |
+| [TUTTO A POSTO \(From the Netflix Rap Show “Nuova Scena”\) \- Live](https://open.spotify.com/track/5YZEHwsOGXQZo7IrPhqJam) | [Vago](https://open.spotify.com/artist/02HjKECtF08ZgloUOOyWHo), [NACHELO](https://open.spotify.com/artist/46EBXauU1flzrR1huA7HId), [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58), [Joejoe](https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [TUTTO A POSTO \(From the Netflix Rap Show “Nuova Scena”\) \[Live\]](https://open.spotify.com/album/2upDuP0vVywKWjSzYr96iW) | 2:31 | 2025-04-01 |  |
 | [Veleno 6](https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 2](https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr) | 3:25 | 2025-03-24 |  |
 | [Vetro \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/30hSNULGkp6OgCsQ9TpNDS) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Vetro \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/1n7lZ3Urf2B2s5MJJFJFEZ) | 2:03 | 2024-03-20 | 2025-03-25 |
 | [Vip In Trip](https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Controcultura](https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY) | 3:56 | 2025-03-24 |  |
+| [WE GOT IT \(From the Netflix Rap Show “Nuova Scena”\) \- Live](https://open.spotify.com/track/011YjJ0LFDtAl7OahUAUfD) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ), [NOX](https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A), [Krifal](https://open.spotify.com/artist/37hzD9cWKbTAChHr9WQaLD), [FlyKush](https://open.spotify.com/artist/0HeKoi9Hi5fXejPhdyZlOB), [Spampy](https://open.spotify.com/artist/3OrFZXaCLSMFGIoYvTHQOL), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [WE GOT IT \(From the Netflix Rap Show “Nuova Scena”\) \[Live\]](https://open.spotify.com/album/2UGy313uBHbjbYsSbSq7cd) | 2:36 | 2025-04-01 |  |
 | [Zig Zag \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/0dZIit1w1ke7tCto0J2gma) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Zig Zag \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/0hBAJrQB8kTuqyRrEUDVu6) | 1:49 | 2024-03-20 | 2025-03-25 |
 
 \*This playlist was first scraped on 2024-11-14. Prior content cannot be recovered.

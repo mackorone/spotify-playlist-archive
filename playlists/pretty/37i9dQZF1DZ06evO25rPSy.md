@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,475 likes - 44 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,481 likes - 44 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 9 | [No Pensé Que Era Amor](https://open.spotify.com/track/7jXYUkQiz302VHuZjmMuyI) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:53 |
 | 10 | [Alquien Que Bese Como Tu](https://open.spotify.com/track/3yX13QX2pqJP55Q0Tg8Pm5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 6:06 |
 | 11 | [Te Siento de Sólo Pensar](https://open.spotify.com/track/2w1rwzelNTt9VKdh9tHGO5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:22 |
-| 12 | [No Llores Más Morena](https://open.spotify.com/track/0cJhcc1wxaF9jXIH9zS615) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:31 |
+| 12 | [Cuando Pienses en Volver](https://open.spotify.com/track/6tpwEWMmoeIKQu7CDMFmZV) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 4:14 |
 | 13 | [Si Escuchas a un Angel](https://open.spotify.com/track/4OZN1r8FyvLXnaZhdZH4f6) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:01 |
-| 14 | [Cuando Pienses en Volver](https://open.spotify.com/track/6tpwEWMmoeIKQu7CDMFmZV) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 4:14 |
+| 14 | [No Llores Más Morena](https://open.spotify.com/track/0cJhcc1wxaF9jXIH9zS615) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:31 |
 | 15 | [Sé Que Todo Ha Acabado Ya](https://open.spotify.com/track/2KmjzHrv8GUIqEJRydovEq) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:29 |
-| 16 | [Talk Show](https://open.spotify.com/track/20BHTy2hj3hw9130jIKvfH) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 5:54 |
+| 16 | [Tema del Adiós](https://open.spotify.com/track/26pzODqyLzJWS0VjMzufRE) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:11 |
 | 17 | [Me Elevé](https://open.spotify.com/track/6UCyJCjS5W8ta1LkQEzcbw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:40 |
-| 18 | [Tema del Adiós](https://open.spotify.com/track/26pzODqyLzJWS0VjMzufRE) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:11 |
+| 18 | [Talk Show](https://open.spotify.com/track/20BHTy2hj3hw9130jIKvfH) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 5:54 |
 | 19 | [Mi Auto Era Una Rana](https://open.spotify.com/track/6DHwQ01JVHHY8QEowRpDvv) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:58 |
 | 20 | [Cuando Pienses en Volver \(Versión Cumbia\- Salsa\)](https://open.spotify.com/track/2eeLReh5i1YWCkp5zUfQrW) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [Lucho Quequezana](https://open.spotify.com/artist/26602pmPYeVz6KXGldVTEu), [Sonia Morales](https://open.spotify.com/artist/6fWtb6DzqSMMDSxRAUiFFb), [Bartola](https://open.spotify.com/artist/1XbwufcjNzo4kSHBDcBpd6), [Christian Yaipén](https://open.spotify.com/artist/5Hcw0zvINciBD0LZv13oNL), [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT), [Guillermo Bussinger](https://open.spotify.com/artist/6RikhFPOTZtU9sDL55VQn3) | [Cuando Pienses en Volver \(Versión Cumbia\- Salsa\)](https://open.spotify.com/album/5WckkHkSVlDEpMdf0KtNr9) | 4:12 |
 | 21 | [No Llores Más](https://open.spotify.com/track/6b99570f9AyRpALqusGu05) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:55 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 43 | [Hoy Me Llenaré de Valor \(Tema de Tereso\)](https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:13 |
 | 44 | [Estoy cansado de llorar](https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
 
-Snapshot ID: `Z+iJgAAAAAD+0M2sCFaWmz3IktgMzZ9C`
+Snapshot ID: `Z+nbAAAAAACq+jQ1JZo01KhI48Eve5JP`

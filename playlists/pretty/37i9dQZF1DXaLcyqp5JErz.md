@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,703 likes - 70 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,878 likes - 70 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 55 | [Adorador por Excelência](https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po) | 5:33 |
 | 56 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 | 57 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx) | 5:07 |
-| 58 | [Mais Alto \- Live](https://open.spotify.com/track/7oGzCcmvXSKB451tIZAQP3) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Fernandinho Acústico](https://open.spotify.com/album/7MaBAP7yuoxXP2vGDOC3Je) | 4:33 |
-| 59 | [Me Rendo A Ti](https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Global Project PORTUGUÊS \(Portuguese\)](https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv) | 6:10 |
+| 58 | [Me Rendo A Ti](https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Global Project PORTUGUÊS \(Portuguese\)](https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv) | 6:10 |
+| 59 | [Mais Alto \- Live](https://open.spotify.com/track/7oGzCcmvXSKB451tIZAQP3) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Fernandinho Acústico](https://open.spotify.com/album/7MaBAP7yuoxXP2vGDOC3Je) | 4:33 |
 | 60 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
 | 61 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |
 | 62 | [Teus Olhos Revelam](https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Esperança](https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i) | 4:58 |

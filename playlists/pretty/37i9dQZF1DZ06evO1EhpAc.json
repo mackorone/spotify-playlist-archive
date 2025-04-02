@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9351,
+  "num_followers": 9353,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAACL8RKrS5/Gw9jg9nQ++9N",
+  "snapshot_id": "Z+nbAAAAAAB/0cThE8h9IEhFf3UN8oJU",
   "tracks": [
     {
       "added_at": null,
@@ -350,11 +350,15 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 172613,
-      "name": "Done (Let's Get It)",
-      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
+      "duration_ms": 239080,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
     },
     {
       "added_at": null,
@@ -422,15 +426,11 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 239080,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
+      "duration_ms": 172613,
+      "name": "Done (Let's Get It)",
+      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
     },
     {
       "added_at": null,

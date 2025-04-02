@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 503337,
+  "num_followers": 503327,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "You Say I'm in Love",
-        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
-      },
-      "artists": [
-        {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Safe House",
         "url": "https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "You Say I'm in Love",
+        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+      },
+      "artists": [
+        {
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "You Say I'm in Love",
+      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Human Condition",
         "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 131618,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "I Clung to You Hoping We'd Both Drown",
+        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "duration_ms": 171261,
+      "name": "My Heart Goes Bum Bum Bum",
+      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -839,22 +855,6 @@
       "duration_ms": 159141,
       "name": "Around the Pomegranate",
       "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "I Clung to You Hoping We'd Both Drown",
-        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
-      },
-      "artists": [
-        {
-          "name": "Flatsound",
-          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
-        }
-      ],
-      "duration_ms": 171261,
-      "name": "My Heart Goes Bum Bum Bum",
-      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "The Way He Looks",
-        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
-      },
-      "artists": [
-        {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Beautiful Mind",
-      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "The Gaping Mouth",
         "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 219010,
       "name": "Seaface",
       "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "The Way He Looks",
+        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Beautiful Mind",
+      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "Heatdeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 219205,
       "name": "Reality",
       "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "HeatDeath",
+        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "Heatdeath",
+      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Didn't Want to Go",
         "url": "https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 129940,
       "name": "Didn't Want to Go",
       "url": "https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2024-07-09 21:52:54",

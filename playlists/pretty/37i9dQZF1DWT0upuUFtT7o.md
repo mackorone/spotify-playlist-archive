@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: After
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,011 likes - 127 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,033 likes - 127 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

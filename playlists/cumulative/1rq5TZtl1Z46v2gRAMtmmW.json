@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171408,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK"
+    },
+    {
+      "album": {
         "name": "Doubletap",
         "url": "https://open.spotify.com/album/2uSidtx5ambTWR3lQW9FJ4"
       },

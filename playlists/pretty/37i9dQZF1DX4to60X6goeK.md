@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Georgie Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,221 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,247 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 29 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
 | 30 | [Liftoff](https://open.spotify.com/track/4yI74bdkCfRmhr3BzMTLwU) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [X12](https://open.spotify.com/album/4f1MB3TwIBkzUixeNncZIw) | 3:00 |
 | 31 | [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 |
-| 32 | [Loud Enuff](https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Loud Enuff](https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR) | 2:57 |
-| 33 | [Bad Boy Horns](https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8) | [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD), [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Bad Boy Horns](https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt) | 4:12 |
+| 32 | [Bad Boy Horns](https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8) | [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD), [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Bad Boy Horns](https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt) | 4:12 |
+| 33 | [Loud Enuff](https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Loud Enuff](https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR) | 2:57 |
 | 34 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
 | 35 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |
 | 36 | [Take Me Up](https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Take Me Up](https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt) | 3:35 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 44 | [I See You](https://open.spotify.com/track/1h9CeTtiXEJ6aPf3CwTb0s) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [I See You](https://open.spotify.com/album/2iGupYncg0V5MfQYVzcGI8) | 3:20 |
 | 45 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 46 | [Robocop](https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [B Live 247](https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Robocop](https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT) | 3:01 |
-| 47 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
-| 48 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 |
+| 47 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 |
+| 48 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
 | 49 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
 | 50 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
 | 51 | [Bounce](https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao) | [Sub Zero](https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR) | [Bounce EP](https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev) | 3:01 |

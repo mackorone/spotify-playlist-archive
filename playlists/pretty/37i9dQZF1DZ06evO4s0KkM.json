@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 121445,
+  "num_followers": 121448,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAACl/7zvNA+3q94hTA6YPsrt",
+  "snapshot_id": "Z+nbAAAAAAC//2/NkC46UpmNLBGUMfXo",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 160013,
       "name": "Mick Jones Nicked My Pudding",
       "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gang's All Here",
-        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 158600,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+      "duration_ms": 132393,
+      "name": "My Eyes Are Gonna Shine",
+      "url": "https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemah Rising",
-        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 132393,
-      "name": "My Eyes Are Gonna Shine",
-      "url": "https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA"
+      "duration_ms": 158600,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 222749,
-      "name": "Turn Up That Dial",
-      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okemah Rising",
         "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 222749,
+      "name": "Turn Up That Dial",
+      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 169604,
       "name": "All You Fonies",
       "url": "https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Black Velvet Band",
-      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
       "artists": [
         {
@@ -728,9 +712,25 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Jimmy Collins' Wake",
-      "url": "https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ"
+      "duration_ms": 183306,
+      "name": "Black Velvet Band",
+      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 283680,
+      "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
+      "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Collection Vol. 2",
-        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 283680,
-      "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
-      "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okemah Rising",
         "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Jimmy Collins' Wake",
+      "url": "https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Going Out In Style",
         "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
       },
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest Of Times",
-        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 196693,
-      "name": "God Willing",
-      "url": "https://open.spotify.com/track/7fgK2S0XAGZk7gG3bwhXik"
+      "duration_ms": 158880,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

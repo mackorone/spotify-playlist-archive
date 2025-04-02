@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Jackie Hollander.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring KI/KI.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 186433,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/334GuKwzVHyHHrG2DczgKd"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 167244,
       "name": "BURN IT DOWN",
       "url": "https://open.spotify.com/track/2yikG6FBpLI5FOYKo3r1YB"
@@ -3590,6 +3590,28 @@
       "duration_ms": 179440,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/2M3a7PGk8OTLHdW5NiftJ4"
+    },
+    {
+      "album": {
+        "name": "slash 011 - Getting Ready For The Party",
+        "url": "https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        },
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199520,
+      "name": "Getting Ready For The Party",
+      "url": "https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd"
     },
     {
       "album": {
@@ -6530,6 +6552,24 @@
       "duration_ms": 191854,
       "name": "Night Drift",
       "url": "https://open.spotify.com/track/2LS6hBqhAXda0ckQDHMEBT"
+    },
+    {
+      "album": {
+        "name": "Night Flow",
+        "url": "https://open.spotify.com/album/7LHDihoKUnYjNz2ekeGCNb"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Night Flow",
+      "url": "https://open.spotify.com/track/0eWl2ceaBL0G5xTxU1Qjai"
     },
     {
       "album": {

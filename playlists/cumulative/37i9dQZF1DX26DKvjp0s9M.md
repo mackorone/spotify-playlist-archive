@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX26DKvjp0s9M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX26DKvjp0s9M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX26DKvjp0s9M)
 
-### [Essential Indie](https://open.spotify.com/playlist/37i9dQZF1DX26DKvjp0s9M)
+### [Indie Anthems](https://open.spotify.com/playlist/37i9dQZF1DX26DKvjp0s9M)
 
 > Everlasting indie hits, ft Clairo & Charli XCX
 

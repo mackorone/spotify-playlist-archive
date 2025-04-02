@@ -1545,6 +1545,36 @@
     },
     {
       "album": {
+        "name": "Do Corre",
+        "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "DJ LN",
+          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Do Corre",
+      "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
+    },
+    {
+      "album": {
         "name": "Dominadora",
         "url": "https://open.spotify.com/album/7Du5sEj5n4u8oytrQuMVON"
       },
@@ -4750,7 +4780,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 193846,
       "name": "Preta Classe A",
       "url": "https://open.spotify.com/track/2uI42avrqy1JJOJVoYAfev"

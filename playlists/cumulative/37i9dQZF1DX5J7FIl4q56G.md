@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$ocial Violence](https://open.spotify.com/track/5fANinoFkzZJ2HYifiLYK2) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp), [Kubrick](https://open.spotify.com/artist/27boWovaiAzel4nW6oFciJ) | [$ocial Violence](https://open.spotify.com/album/1jJJx2wuKqTlTeZvwZ0FOi) | 3:05 | 2025-03-28 |  |
+| [$ocial Violence](https://open.spotify.com/track/5fANinoFkzZJ2HYifiLYK2) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp), [Kubrick](https://open.spotify.com/artist/1yGpXXgd2JzhpgM25NgQvU) | [$ocial Violence](https://open.spotify.com/album/1jJJx2wuKqTlTeZvwZ0FOi) | 3:05 | 2025-03-28 |  |
 | [$wing](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2023-06-02 | 2023-06-10 |
 | [\(I Am\) In Kommand](https://open.spotify.com/track/77CyELCJEELTPBJNytEhyn) | [Sword](https://open.spotify.com/artist/6RNuNpxyKhqaGRQTboO3Kf) | [\(I Am\) In Kommand](https://open.spotify.com/album/72xbc0huQhgMNXs7XFkSV8) | 4:07 | 2022-09-16 | 2022-09-24 |
 | [\(I Just\) Died In Your Arms \(feat\. Anica Russo\)](https://open.spotify.com/track/6vivsn3oJm0G6tRI6zl4IO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [\(I Just\) Died In Your Arms](https://open.spotify.com/album/4OvAdO2V2lW2mb1r01rW4s) | 4:32 | 2023-12-08 | 2023-12-16 |

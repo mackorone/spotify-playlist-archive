@@ -3335,6 +3335,28 @@
     },
     {
       "album": {
+        "name": "Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/1PvKNzwf78tHq50nNFEsmM"
+      },
+      "artists": [
+        {
+          "name": "R\u00ea Barbosa",
+          "url": "https://open.spotify.com/artist/2LdRIx27LRtTjL2PASuduX"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147007,
+      "name": "Nossa M\u00fasica",
+      "url": "https://open.spotify.com/track/4vJJqJ9psCW7CKCJSEqrtL"
+    },
+    {
+      "album": {
         "name": "Nosso Futuro",
         "url": "https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF"
       },
@@ -3908,7 +3930,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"

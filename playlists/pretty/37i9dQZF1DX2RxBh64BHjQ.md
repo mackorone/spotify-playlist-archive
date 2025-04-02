@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DHtfeD4PsmR9YGhCP4VF7">Nemzzz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,799,273 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,799,417 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:40 |
 | 2 | [Get Jiggy](https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Get Jiggy](https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu) | 1:58 |
 | 3 | [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 |
-| 4 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 |
+| 4 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 |
 | 5 | [Am I Wrong?](https://open.spotify.com/track/6XLW8iiuaGeSwHXoox3h2s) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Am I Wrong?](https://open.spotify.com/album/3uAQYZlvTqD0NdJKjc3gdU) | 2:39 |
 | 6 | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG) | 2:58 |
 | 7 | [Never Need \(feat\. GloRilla & KARRAHBOOO\)](https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Never Need \(feat\. GloRilla & KARRAHBOOO\)](https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr) | 2:59 |

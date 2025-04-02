@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 522611,
+  "num_followers": 523303,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAA8+zcuoFDZ25DNH7SlE7B0",
+  "snapshot_id": "Z+nbAAAAAAAoG1llHhU2/ceac7cGjeHy",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Almost Love",
+      "url": "https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
         "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 235000,
       "name": "What a Girl Wants - ft. Sabrina Carpenter - Live - Spotify Anniversaries Version",
       "url": "https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Almost Love",
-      "url": "https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "prfct",
+      "url": "https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 166909,
       "name": "Hands",
       "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "prfct",
-      "url": "https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU"
     },
     {
       "added_at": null,

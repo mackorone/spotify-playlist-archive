@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Juicce
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,474 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,456 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Scarlett](https://open.spotify.com/track/2bT1KqGLDhPsS7uEPE4RMP) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Scarlett](https://open.spotify.com/album/0QjrIkeSfkGph8zija7vFv) | 3:12 |
 | 50 | [For](https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG) | [Greggio](https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [For](https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG) | 3:03 |
 
-Snapshot ID: `Z+diewAAAAA32OG+yqJ5nYrk3DQ1V+Gj`
+Snapshot ID: `Z+wD6gAAAABDzsmwg/iXg3f02jUB7FVT`

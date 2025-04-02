@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,859 likes - 120 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,912 likes - 120 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 7 | [Choose Life](https://open.spotify.com/track/2OkOgmVzRjhph4kawX1MHF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Choose Life](https://open.spotify.com/album/2KzcNZkZJ7tbBMcizN3e5x) | 3:34 |
 | 8 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
 | 9 | [Tambur \- Radio Edit](https://open.spotify.com/track/0URCf0KPujKLPpeakuowNS) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Tambur \(Radio Edit\)](https://open.spotify.com/album/5VxBaoGs0ta7mF8BaC3aTp) | 2:31 |
-| 10 | [Drip](https://open.spotify.com/track/030t6Ow4qRRbJQk3TtWLLH) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Drip](https://open.spotify.com/album/2CWkLbzoUIRmHsNmJFiYlK) | 3:12 |
+| 10 | [Drip \(feat\. Eliza Legzdina\)](https://open.spotify.com/track/030t6Ow4qRRbJQk3TtWLLH) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Drip \(feat\. Eliza Legzdina\)](https://open.spotify.com/album/2CWkLbzoUIRmHsNmJFiYlK) | 3:12 |
 | 11 | [Do It For The Bass](https://open.spotify.com/track/7vvicpDycMPhX4RJjgipB8) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Do It For The Bass](https://open.spotify.com/album/1eQJLYDQnc2JjShc8DRZeF) | 3:27 |
 | 12 | [Dance Machine](https://open.spotify.com/track/7LFnn4s6e9KoDVR0Zha2nt) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Dance Machine](https://open.spotify.com/album/4hFvusvuCsLmwx8myBP351) | 2:16 |
 | 13 | [Neon Storm](https://open.spotify.com/track/7wHHdOV12YO5GKhiYXnAcU) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Neon Storm](https://open.spotify.com/album/4RJ5JoM4AKoxw3bm6rKqmH) | 3:52 |

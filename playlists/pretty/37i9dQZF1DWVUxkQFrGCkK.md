@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,252 likes - 378 songs - 1 day 0 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,452 likes - 378 songs - 1 day 0 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 140 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |
 | 141 | [Day Starter](https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Day Starter / Affection](https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR) | 3:14 |
 | 142 | [Back To '89](https://open.spotify.com/track/4RYlANUIQAf8g4y6SEMQku) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Boogietraxx](https://open.spotify.com/artist/2CMUIHJ41MQbfrEoG6Jsof), [Akeem Raphael](https://open.spotify.com/artist/1QNHbzaaDt7sCdrRxn2rKE) | [Back To '89](https://open.spotify.com/album/7vK2XkzynM63vx6GD8kxgp) | 2:34 |
-| 143 | [All Dancing Under The Same Sky \- Edit](https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [All Dancing Under The Same Sky](https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR) | 3:04 |
+| 143 | [All Dancing Under The Same Sky](https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [All Dancing Under The Same Sky](https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR) | 3:04 |
 | 144 | [Hey](https://open.spotify.com/track/3s0J7zz00CFoc35XjZlG3Q) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Hey](https://open.spotify.com/album/6BzWXIsAAJCVYdbRurYEDc) | 3:48 |
 | 145 | [After The Love](https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [After The Love](https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH) | 3:00 |
 | 146 | [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 |
@@ -191,7 +191,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 181 | [ALL NIGHT](https://open.spotify.com/track/7w9JjoCRKBLHWOuJ3mwS3W) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [ALL NIGHT](https://open.spotify.com/album/7AL4DbAU3OwoiERqFmfab5) | 2:48 |
 | 182 | [Go Again](https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Go Again](https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS) | 3:41 |
 | 183 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 |
-| 184 | [Naarm's Sunset \- Edit](https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Naarm's Sunset](https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv) | 4:12 |
+| 184 | [Naarm's Sunset](https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Naarm's Sunset](https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv) | 4:12 |
 | 185 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 | 186 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 187 | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV) | 3:14 |

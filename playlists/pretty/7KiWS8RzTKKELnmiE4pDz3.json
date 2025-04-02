@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAeC64352ojoNI1xgR2WTxnJ4tMChG1",
+  "snapshot_id": "AAAeDEUzonEfk7C+MCu3l4+DW3SWICU3",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -4235,6 +4235,26 @@
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "added_at": "2025-04-01 20:36:23",
+      "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 281040,
+      "name": "Life Is Better",
+      "url": "https://open.spotify.com/track/4GRxW50GO0Yc5Pp9LK62Rw"
     }
   ],
   "unique_name": "main ",

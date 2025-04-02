@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,112 likes - 65 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,350 likes - 65 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

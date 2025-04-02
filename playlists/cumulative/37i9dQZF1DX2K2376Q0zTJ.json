@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: Elle Teresa",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u9752\u8449\u5e02\u5b50",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 247978,
       "name": "COLORATURA",
       "url": "https://open.spotify.com/track/3jIGteplWR9tMpqsH06J83"
@@ -4452,6 +4452,24 @@
       "duration_ms": 209087,
       "name": "FIRST STEP",
       "url": "https://open.spotify.com/track/0jlgX7f6gbUX3xuCZyCHmP"
+    },
+    {
+      "album": {
+        "name": "Luminescent Creatures",
+        "url": "https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276681,
+      "name": "FLAG",
+      "url": "https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql"
     },
     {
       "album": {
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 215106,
       "name": "IMA IMA IMA",
       "url": "https://open.spotify.com/track/53hS9eKKsLAtSsydsc9NUn"
@@ -8288,6 +8306,24 @@
       "duration_ms": 320500,
       "name": "Le Le bonheur",
       "url": "https://open.spotify.com/track/03EkAOW70dbyAV13VopYVB"
+    },
+    {
+      "album": {
+        "name": "leeway",
+        "url": "https://open.spotify.com/album/37YjSR5m2VC05W5JET65un"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232564,
+      "name": "leeway",
+      "url": "https://open.spotify.com/track/4KOaVXtQ905oQbzPvflnum"
     },
     {
       "album": {
@@ -9895,6 +9931,28 @@
     },
     {
       "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/0dXvi001KmH8jigLmzFPnU"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165433,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/3c02V4RX7JtTV45zP44aZT"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/2mazcGoo3AHuIKugiV3Q3V"
       },
@@ -10912,7 +10970,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 241199,
       "name": "Noraneko",
       "url": "https://open.spotify.com/track/6TZpDKmOUd4qyKnd6qmw4i"
@@ -11540,7 +11598,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 170581,
       "name": "Organic Thing",
       "url": "https://open.spotify.com/track/2Kn5I1jYCXpsJJQQkqjc1m"
@@ -13078,6 +13136,24 @@
       "duration_ms": 265161,
       "name": "Room Tour",
       "url": "https://open.spotify.com/track/6LHIN6rig6gAsikFBwpWfe"
+    },
+    {
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "ROSE",
+      "url": "https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0"
     },
     {
       "album": {
@@ -15372,7 +15448,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 210138,
       "name": "tears",
       "url": "https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3"
@@ -16208,6 +16284,24 @@
       "duration_ms": 191637,
       "name": "Tremolo",
       "url": "https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ"
+    },
+    {
+      "album": {
+        "name": "Antigone",
+        "url": "https://open.spotify.com/album/2G9x4lIqKywDAywaIJPsQm"
+      },
+      "artists": [
+        {
+          "name": "Eiko Ishibashi",
+          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246503,
+      "name": "Trial",
+      "url": "https://open.spotify.com/track/6F4dJc6g4o9bunMkhciBzN"
     },
     {
       "album": {
@@ -17444,7 +17538,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 252241,
       "name": "wind, flower, noise, and street",
       "url": "https://open.spotify.com/track/52s4jyBjDYQXgkDQvHAsAY"
@@ -19682,7 +19776,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 264018,
       "name": "\u308f\u305f\u3057\u3001\u8776\u3005\u3002",
       "url": "https://open.spotify.com/track/18SSkgCNdj9dhb27eRgCyV"
@@ -23414,6 +23508,24 @@
       "duration_ms": 241152,
       "name": "\u6708\u306e\u82b1",
       "url": "https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4"
+    },
+    {
+      "album": {
+        "name": "\u672a\u6765\u5730\u56f32025",
+        "url": "https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360247,
+      "name": "\u672a\u6765\u5730\u56f32025",
+      "url": "https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8"
     },
     {
       "album": {

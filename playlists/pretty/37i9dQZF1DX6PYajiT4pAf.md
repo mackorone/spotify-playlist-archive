@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo, Emilia x TINI x Nicki Nicole, Feid, Dei V y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,197 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,245 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

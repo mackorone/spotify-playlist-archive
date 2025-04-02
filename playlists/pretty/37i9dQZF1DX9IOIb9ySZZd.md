@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 
 > Enjoy music from "Macross Series"! SF超大作アニメ、マクロスシリーズの主題歌/挿入歌 /サントラ曲を1つのプレイリストで！©︎1984,1994,2015 BIGWEST ©︎2007 BIGWEST/MACROSS F PROJECT・MBS©︎12015 ビックウエスト／マクロスΔ製作委員会<br/>©︎2015 BW/MDP
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,108 likes - 98 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,132 likes - 98 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 | 88 | [ランナー　\-リンミンメイ・バージョン\-](https://open.spotify.com/track/4yM7JpnpjAxVu2MeZZdwCl) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [超時空要塞マクロス　MACROSS EXTRA VOCAL COLLECTION](https://open.spotify.com/album/0MicEVyVqLUFk8sxwuGfTq) | 1:42 |
 | 89 | [そうだよ。](https://open.spotify.com/track/6d0NYfNsJoSSHfHX4aMaQg) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS) | [「劇場版 マクロスF～イツワリノウタヒメ～」CMランカ](https://open.spotify.com/album/7vp5DZT4SFlTnjpWHNEFIE) | 3:58 |
 | 90 | [Idol Talk](https://open.spotify.com/track/7L2ukROe6ovsl6zxuAaymO) | [SHARON APPLE](https://open.spotify.com/artist/4Ja4YDaP3MBVRtZqdsh2XY) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/6eu172tyEZKS0Qh6Xfd7qB) | 5:37 |
-| 91 | [After,in the dark ～ Torch song](https://open.spotify.com/track/1yKaRQykFnUZzXIKarliLk) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn), [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 9:00 |
+| 91 | [After,in the dark ～ Torch song](https://open.spotify.com/track/1yKaRQykFnUZzXIKarliLk) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj), [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 9:00 |
 | 92 | [SUBMARINE STREET](https://open.spotify.com/track/6pE0FjgyIZRcu6sAuQOygc) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO) | [「マクロス7」LET'S FIRE!!](https://open.spotify.com/album/1bperZa8VrSjLpU6ptETtm) | 4:25 |
 | 93 | [約束](https://open.spotify.com/track/6iJWiBanAwDiS4qTgW2ugW) | [Hiroko Kasahara](https://open.spotify.com/artist/77Py0M4NdAeNvEwCLLEw4F) | [マクロス　SONGコレクション 2002](https://open.spotify.com/album/57NFqW2IxIOqtSBR6uA1Wo) | 5:22 |
 | 94 | [de・ja・vu～そばにいて](https://open.spotify.com/track/7LhrQbH6sPv6ax3TbFrWAC) | [金子美香](https://open.spotify.com/artist/599eLw2R1DB1TKLUeSgLUk) | [超時空要塞マクロスII　オリジナル・サウンドトラック](https://open.spotify.com/album/4loG3XV5W0Trnv6d7RDUmw) | 4:47 |

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 유다빈밴드\) \(핫한 국내 록 음악을 만나보세요!\)
 
-919 songs - 2 day 8 hr 8 min
+920 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Human mechanism](https://open.spotify.com/track/6hfaaIr9uFny885jQBve8s) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Earth](https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr) | 3:42 | 2024-12-18 | 2025-02-19 |
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-11-06 | 2024-11-22 |
 | [HUSH](https://open.spotify.com/track/3ytqIDBXmnKD62m2ezyH5I) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Won't Forget You](https://open.spotify.com/album/5YAKoVELgEDXMao7RHtft9) | 3:42 | 2022-05-03 | 2022-07-25 |
+| [Hwal Hwal](https://open.spotify.com/track/3CZvDl0HdzAxXnMXAd8NWB) | [Hwang Soyoon](https://open.spotify.com/artist/41v8KRJraohAPib31yym6K) | [When Life Gives You Tangerines OST from the Netflix Series \- Chapter 2](https://open.spotify.com/album/6WhDk8AmDwlYdDii0SOCSk) | 5:37 | 2025-03-31 |  |
 | [HYPERTONIC](https://open.spotify.com/track/5POv5vVMmnjKkGd5zKM7Yw) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [TAN W SERIES ‘3TAN’\(WORLD Ver.\) 1ST ALBUM](https://open.spotify.com/album/6aWiQbt0V13GtSeKSX8wx5) | 2:56 | 2024-04-09 | 2024-05-10 |
 | [HYPNOSIS](https://open.spotify.com/track/7qhjwn64be9d1ISv6EuVkl) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [HYPNOSIS](https://open.spotify.com/album/0bEnhrI5XFjnTmewRdxc5q) | 4:53 | 2024-04-09 | 2024-05-10 |
 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 | 2022-06-18 | 2022-07-26 |
@@ -506,7 +507,7 @@
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-08 | 2022-07-28 |
 | [NAN CHUN](https://open.spotify.com/track/4TBHfv2isYco3fNKjQ8oSI) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN](https://open.spotify.com/album/10vZm1P5k6mIJSlPg127eb) | 3:49 | 2024-06-05 | 2024-11-07 |
 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 | 2022-04-12 | 2024-03-22 |
-| [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2025-03-19 |  |
+| [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2025-03-19 | 2025-04-02 |
 | [Natural History Museum](https://open.spotify.com/track/3SqTKxJvLkJAAcPBfjzKEG) | [The Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Natural History Museum](https://open.spotify.com/album/4nh8S3OoLrRBy0jHAPIl0t) | 3:13 | 2023-05-31 | 2023-06-14 |
 | [Navillera](https://open.spotify.com/track/5J4E8EChG1AJWFwxZNgn76) | [Biuret](https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn) | [Navillera](https://open.spotify.com/album/2pLW8MHtuFT62bk9WC7oA4) | 3:12 | 2023-10-27 | 2023-11-04 |
 | [Navy Blue](https://open.spotify.com/track/4xoVIYHoo0g6OzOHHvU86i) | [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V) | [Empty Paper](https://open.spotify.com/album/7Cb65QgLHfgCrrtmMxF4wM) | 2:50 | 2024-03-21 | 2024-05-10 |

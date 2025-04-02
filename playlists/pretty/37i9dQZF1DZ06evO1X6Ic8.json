@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 801944,
+  "num_followers": 802026,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAADoi2svqWR7pYojHnD4uA7x",
+  "snapshot_id": "Z+nbAAAAAAAd3siY1QDak1IoBwSFExqV",
   "tracks": [
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 47538,
-      "name": "An Encounter (Live From The AO Arena, Manchester, 17.02.24)",
-      "url": "https://open.spotify.com/track/2fsNOvKiVlGWRhL0CA0uXR"
+      "duration_ms": 291440,
+      "name": "You (Live From The AO Arena, Manchester, 17.02.24)",
+      "url": "https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 295151,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
+      "duration_ms": 206737,
+      "name": "Menswear",
+      "url": "https://open.spotify.com/track/1v07ywlVYd02pOCnXRBDNA"
     },
     {
       "added_at": null,
@@ -720,9 +720,25 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 291440,
-      "name": "You (Live From The AO Arena, Manchester, 17.02.24)",
-      "url": "https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu"
+      "duration_ms": 47538,
+      "name": "An Encounter (Live From The AO Arena, Manchester, 17.02.24)",
+      "url": "https://open.spotify.com/track/2fsNOvKiVlGWRhL0CA0uXR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 295151,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
     },
     {
       "added_at": null,

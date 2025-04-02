@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-315 songs - 20 hr 19 min
+317 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Fly Again](https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT) | [Tom Petrone](https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb) | [Fly Again](https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk) | 3:21 | 2021-11-19 | 2023-12-14 |
 | [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 | 2022-07-14 | 2024-04-10 |
 | [Follow](https://open.spotify.com/track/54klJfQfIJY2CrU1VOJHxk) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/2wPswblTpxjufCoGGyilYs) | 3:52 | 2021-11-19 | 2022-07-29 |
-| [forever](https://open.spotify.com/track/5XHkF1XgwokzNEr7t3DWaY) | [Jol!e](https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq) | [forever](https://open.spotify.com/album/3YNCXsidsTFYglcWYLIZLh) | 3:39 | 2024-09-18 |  |
+| [forever](https://open.spotify.com/track/5XHkF1XgwokzNEr7t3DWaY) | [Jol!e](https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq) | [forever](https://open.spotify.com/album/3YNCXsidsTFYglcWYLIZLh) | 3:39 | 2024-09-18 | 2025-04-02 |
 | [Forever Now](https://open.spotify.com/track/46zJ3FTTeK48LESza15wbQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:40 | 2021-11-19 | 2024-04-10 |
 | [Fragile](https://open.spotify.com/track/4QyG5ATNtJcpTUNkmsyggh) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Dear Soulmate](https://open.spotify.com/album/5VFaoS9iAQKQruM5V3VEYH) | 4:01 | 2022-08-11 | 2022-10-14 |
 | [Fragile](https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:01 | 2022-10-13 | 2022-12-08 |
@@ -211,6 +211,7 @@
 | [My Cherie Amour](https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 3:16 | 2022-07-14 | 2024-04-19 |
 | [My One and Only Love](https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK) | [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [My One and Only Love](https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S) | 4:06 | 2021-11-19 |  |
 | [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 | 2021-11-19 |  |
+| [Never Mine](https://open.spotify.com/track/4HW2xzrEHGtQzo5NvWx38z) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [Never Mine](https://open.spotify.com/album/0aZNmdhb8Q67pFyzPesVMe) | 3:27 | 2025-04-01 |  |
 | [New Orleans](https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn) | [Elly Hoyt](https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG) | [The Composers' Voice: Celebrating Australian Women Composers](https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y) | 3:19 | 2021-11-19 |  |
 | [No Meanness](https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [No Meanness](https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj) | 3:58 | 2021-11-19 |  |
 | [Not for Me](https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not For Me](https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd) | 4:03 | 2021-11-19 | 2024-07-06 |
@@ -234,7 +235,7 @@
 | [Same Way Home](https://open.spotify.com/track/5ja2Rt6qki0on26cKUOrbG) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7) | [Same Way Home](https://open.spotify.com/album/7qNO6QXzhsJarTBHXXlhwL) | 2:58 | 2021-11-19 | 2022-10-20 |
 | [Same Way Home](https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/6qfMf8A1BZZsPeQdVkewVA) | [Same Way Home](https://open.spotify.com/album/4tzpMQQJ5JPI6n7xEsxs7e) | 2:58 | 2023-08-23 | 2024-04-10 |
 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 | 2021-11-19 |  |
-| [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 | 2024-09-18 |  |
+| [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 | 2024-09-18 | 2025-04-02 |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2021-11-19 |  |
 | [She Used To Be Mine](https://open.spotify.com/track/3QjBj0FOOlDmIt9s3YZAwX) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [She Used To Be Mine](https://open.spotify.com/album/0ck5yBjvct1p5w6FRXQo2Y) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [She Used To Be Mine](https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH) | 4:24 | 2022-07-14 | 2023-02-14 |
@@ -293,6 +294,7 @@
 | [Try Your Wings](https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [Try Your Wings](https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT) | 2:54 | 2023-05-03 | 2023-05-06 |
 | [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 | 2023-02-23 | 2023-04-19 |
 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-11-24 | 2023-02-19 |
+| [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 | 2025-04-01 |  |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2024-09-04 |  |
 | [Visions](https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 5:11 | 2021-11-19 |  |
 | [Waiting In Vain](https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo) | 4:59 | 2022-11-24 | 2023-05-06 |

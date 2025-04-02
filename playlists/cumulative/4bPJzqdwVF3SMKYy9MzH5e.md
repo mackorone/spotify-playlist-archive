@@ -4,7 +4,7 @@
 
 > 
 
-2,103 songs - 4 day 16 hr 44 min
+2,105 songs - 4 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2021-08-05 |  |
 | [assadist pussy got me actin strange](https://open.spotify.com/track/2Fdk4x2qqHsHqJpd7b5MOZ) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 1:15 | 2022-04-26 |  |
 | [Asshole](https://open.spotify.com/track/0EKbMWOt2ZwdEcqgRpLHaC) | [hooligan chase](https://open.spotify.com/artist/2qSWeggSfTTkTaF4t4WFpF) | [Asshole](https://open.spotify.com/album/6ynBGhVvTi6qEBD4oq4wqP) | 2:36 | 2021-08-05 |  |
+| [ASTRO](https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm), [zaichkou888](https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte) | [ASTRO](https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC) | 2:24 | 2025-04-01 |  |
 | [Athoth a Go!! Go!!](https://open.spotify.com/track/3pyQ4ijJjLPW0wW1mPExdc) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | […Because I’m Young Arrogant and Hate Everything You Stand For](https://open.spotify.com/album/2e5IzvDrIc8656bHTx3fE5) | 1:35 | 2022-05-23 |  |
 | [Attack The Flow](https://open.spotify.com/track/52OMp97LMUaGJ8bf2wpyQY) | [SRB](https://open.spotify.com/artist/1Rrgj81U1W0kRhxvzeCXVQ), [RTC](https://open.spotify.com/artist/6XKzxZJ5BIe7e1hyI4NSAs) | [Rocket Science](https://open.spotify.com/album/5HjYEkQtNcHoiOvzzO5g9R) | 4:00 | 2023-05-22 |  |
 | [Attracted to You](https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Attracted To You](https://open.spotify.com/album/3tY6ZOPhcl9B5HVVhs7GkC) | 1:07 | 2021-08-05 |  |
@@ -2092,6 +2093,7 @@
 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 | 2021-08-05 |  |
 | [You'll miss me when I'm not around](https://open.spotify.com/track/0Sqh9dVJMFJRwz4K0jeoOR) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 2:41 | 2023-01-01 |  |
 | [You've Got Everything Now \- 2011 Remaster](https://open.spotify.com/track/2DYCM1sNmGliRszlzPkMiG) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:59 | 2021-09-08 |  |
+| [You've Seen the Butcher](https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:31 | 2025-04-01 |  |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2024-02-08 |  |
 | [Your favorite sidekick](https://open.spotify.com/track/0VNjaRcmIowjLbPtYDhLuh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:30 | 2021-11-14 |  |
 | [Your New Boyfriend](https://open.spotify.com/track/4vLBnQtece15fFhqWxZvJP) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Your New Boyfriend](https://open.spotify.com/album/7krAqKWEJpVnJfH4eOqA6F) | 3:59 | 2021-08-05 |  |

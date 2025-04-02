@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ariana Grande, Playboi Carti, Lucy Dacus, Kali Uchis, Jordan Davis, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,334,169 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,334,237 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 65 | [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 |
 | 66 | [face](https://open.spotify.com/track/23wSLjgq4iX7A6WylR5pYu) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [face](https://open.spotify.com/album/6bmmkIA2SpMrnF4lN81kJK) | 4:41 |
 | 67 | [kourtney](https://open.spotify.com/track/0f2YTpRpN9fC2WiS0O2PaG) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [kourtney](https://open.spotify.com/album/28H5VUcQCraHm1rGvXW5sw) | 3:12 |
-| 68 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 |
+| 68 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 |
 | 69 | [Man Of The House](https://open.spotify.com/track/2zBIyHV5TXk6wzpiGWJCQE) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/3P2S6dILjqropRqOGrMIcB) | 3:38 |
 | 70 | [Cheer Me On](https://open.spotify.com/track/11gdbJcwyy7mgOrhArwi1D) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Cheer Me On](https://open.spotify.com/album/3BZrsHbBApn2UyM8IclceX) | 4:17 |
 | 71 | [Are You In?](https://open.spotify.com/track/75RWvdK6iawjliJUpXdzxw) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Are You In?](https://open.spotify.com/album/4mFpFXxYbJ2V0pZROtWUwq) | 2:37 |

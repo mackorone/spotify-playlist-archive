@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,062 songs - 2 day 17 hr 12 min
+1,065 songs - 2 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Before The Day Is Over](https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:33 | 2022-11-06 |  |
 | [Before You Were Mine](https://open.spotify.com/track/2hy7LS3pvWnPrPMAoCN6ys) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:15 | 2021-08-16 |  |
 | [BEG FORGIVENESS](https://open.spotify.com/track/7DPUuTaTZCtQ6o4Xx00qzT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 6:08 | 2024-02-10 | 2024-05-20 |
+| [Being so Normal](https://open.spotify.com/track/65sNrvOp2HLlhGTeLJ0nnk) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:40 | 2025-04-01 |  |
 | [BEING YOURSELF](https://open.spotify.com/track/4oOajqkg42wp1D5liEAWKv) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:05 | 2024-02-16 |  |
 | [being yourself](https://open.spotify.com/track/1ZpvyFhY8Rl3ooTBNtNgcG) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [being yourself](https://open.spotify.com/album/4OjqG0s9AerXNuVa4ZAlMK) | 3:08 | 2023-04-19 |  |
 | [Believe What I Say](https://open.spotify.com/track/0JuSGEldfovcc8IS9va1wa) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:02 | 2021-10-01 |  |
@@ -248,6 +249,7 @@
 | [DREAMS I SEE](https://open.spotify.com/track/4mamncqmgsPaWkBaemFijf) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [DREAMS I SEE](https://open.spotify.com/album/4v4448kFqcuBFv6uhUW6as) | 2:19 | 2024-07-11 |  |
 | [Drips on a Wire](https://open.spotify.com/track/2yqfvgPuKuPbCm2y1rJr0X) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:09 | 2022-03-04 |  |
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-29 |  |
+| [Drop the Guillotine](https://open.spotify.com/track/1gpBDeONibvJyQYEv5HJh9) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:39 | 2025-04-01 |  |
 | [Dry Your Eyes](https://open.spotify.com/track/3PEx44by2Pe7E6M8tgqE5N) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:31 | 2023-01-12 |  |
 | [Duhhhhhhhhhhhhhhhhh](https://open.spotify.com/track/1SHOlAdcna7plmlXYRWWEu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:07 | 2024-06-17 |  |
 | [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 | 2024-02-16 |  |
@@ -697,6 +699,7 @@
 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 | 2023-04-03 |  |
 | [PRETTY PRIVILEGE](https://open.spotify.com/track/63zyUDHNbc1LumMS9X27Me) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:14 | 2024-02-16 |  |
 | [Pretty Visitors](https://open.spotify.com/track/45n7uujqwmMyBMjBu9SwRu) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:40 | 2020-12-04 |  |
+| [Private Presley](https://open.spotify.com/track/40d4m1eI0erCRKLXz55RtT) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 5:39 | 2025-04-01 |  |
 | [PROBLEMATIC](https://open.spotify.com/track/1ty0at2tUKqMGTyYbJ43eL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:14 | 2024-02-10 | 2024-05-20 |
 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 | 2024-06-17 |  |
 | [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 | 2020-10-02 |  |

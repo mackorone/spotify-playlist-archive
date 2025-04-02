@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Chelsea Dinorath
 
-493 songs - 1 day 4 hr 45 min
+494 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Beijam](https://open.spotify.com/track/2ubsUZQRhYWFEpHikHfwom) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Beijam](https://open.spotify.com/album/4VK90Rvs5zStsJW6cMiOpX) | 3:50 | 2022-07-22 | 2022-09-16 |
 | [Beijam](https://open.spotify.com/track/7CIWnLmuWHKIc3f5IoR8wD) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Beijam](https://open.spotify.com/album/0FqokGojULcFWTeeE1fVuU) | 3:50 | 2022-01-14 | 2022-07-02 |
 | [Beijei](https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Itary](https://open.spotify.com/artist/73JleuMWIuH1oUwF1bpd3w) | [Conexões Angola & Brasil](https://open.spotify.com/album/3DdYxPf8B8tsWQTDWuzrr2) | 3:41 | 2021-12-10 | 2022-06-01 |
-| [Beijo Na Boca](https://open.spotify.com/track/5u2dMMtXaUT4nCTVTl51B8) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK) | [Beijo Na Boca](https://open.spotify.com/album/59uSu3mvGvpypSVqNA7KGD) | 3:47 | 2024-10-10 |  |
+| [Beijo Na Boca](https://open.spotify.com/track/5u2dMMtXaUT4nCTVTl51B8) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK) | [Beijo Na Boca](https://open.spotify.com/album/59uSu3mvGvpypSVqNA7KGD) | 3:47 | 2024-10-10 | 2025-04-02 |
 | [Bela](https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Bela](https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA) | 3:58 | 2021-12-10 |  |
 | [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 | 2025-02-07 |
 | [Bem Li](https://open.spotify.com/track/2DidJYeb38gHwFIT3B0UXy) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Bem Li](https://open.spotify.com/album/0O6l4KIuMLNziHEqrTplRf) | 3:35 | 2023-11-10 | 2024-03-08 |
@@ -95,6 +95,7 @@
 | [Cigana Linda](https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Cigana Linda](https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK) | 3:38 | 2021-12-10 | 2022-12-08 |
 | [Clima](https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Clima](https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX) | 4:03 | 2022-05-13 | 2025-03-28 |
 | [Cofres do Céu](https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Cofres do Céu](https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm) | 3:18 | 2022-07-07 | 2022-08-19 |
+| [Colete](https://open.spotify.com/track/1krMTQdB1x1BG7eXhXh4AO) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Colete](https://open.spotify.com/album/1neI5ph7I9SW3r2obxbIAZ) | 3:58 | 2025-03-28 |  |
 | [Com Quem Será](https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Com Quem Será](https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL) | 4:28 | 2024-09-26 |  |
 | [Comment vivre sans toi](https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Comment vivre sans toi](https://open.spotify.com/album/78MJrZeQPFSxILprjOulwB) | 3:26 | 2021-12-10 | 2022-07-22 |
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2022-03-25 |  |

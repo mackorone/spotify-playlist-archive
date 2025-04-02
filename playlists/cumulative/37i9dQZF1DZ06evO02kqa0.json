@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "BD Music Presents Maria Callas",
+        "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281946,
+      "name": "Madame Butterfly: Un bel di, vedremo",
+      "url": "https://open.spotify.com/track/6oKWBxOT37SPyRkT6xHhH4"
+    },
+    {
+      "album": {
         "name": "The 1963 Recital at the Th\u00e9\u00e2tre des Champs-Elys\u00e9es, Paris: Works by Berlioz, Bizet, Gluck, Gounod & Massenet (The Original Sound of Maria Callas)",
         "url": "https://open.spotify.com/album/5VKttFwHQzWoYnbcrE5vTC"
       },
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 195226,
       "name": "Tosca: Tosca, Act II: Vissi d'arte",
       "url": "https://open.spotify.com/track/1JS09jW8dWzNb5AWFYKRdF"

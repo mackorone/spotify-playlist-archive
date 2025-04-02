@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,548 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,590 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 35 | [No Apology](https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [No Apology](https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh) | 2:49 |
 | 36 | [Workout](https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Workout \(feat\. Nailah Blackman\)](https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe) | 3:58 |
 | 37 | [How She Like It](https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [How She Like It](https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC) | 3:01 |
-| 38 | [Ducking](https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys) | [Fadda Fox](https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK) | [Studio B Presents Crop Over Hits 2014](https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt) | 3:53 |
-| 39 | [Ola](https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB) | 3:06 |
+| 38 | [Ola](https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB) | 3:06 |
+| 39 | [Ducking](https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys) | [Fadda Fox](https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK) | [Studio B Presents Crop Over Hits 2014](https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt) | 3:53 |
 | 40 | [Funky Business](https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu) | [Fimba](https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM) | [Funky Business](https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj) | 2:53 |
 | 41 | [Pump Me Up](https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Ultimate Party \- Pump Me Up](https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3) | 4:45 |
 | 42 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 56 | [A Little Wine](https://open.spotify.com/track/5AH8FUXusa1sUfLzqIRImU) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Spanish Fly Riddim](https://open.spotify.com/album/1DlfMapYkUFtvl1WliOjHH) | 3:23 |
 | 57 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
 | 58 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
-| 59 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
-| 60 | [Explore](https://open.spotify.com/track/177934bysEv1ssIn65AAJy) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Alien Head Riddim](https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM) | 2:25 |
+| 59 | [Explore](https://open.spotify.com/track/177934bysEv1ssIn65AAJy) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Alien Head Riddim](https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM) | 2:25 |
+| 60 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
 | 61 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
 | 62 | [No Behavior Shell Down](https://open.spotify.com/track/713bTySu02xdpMMap8UPQv) | [Cloud 5](https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL) | [No Behavior Shell Down](https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO) | 4:22 |
 | 63 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 89 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
 | 90 | [Search Party](https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Search Party](https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g) | 3:26 |
 | 91 | [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 |
-| 92 | [Coffee](https://open.spotify.com/track/7l7N33CHWxmPl2v6D69jS8) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coffee](https://open.spotify.com/album/7lKoacDvRqyrPpQI8IaEts) | 3:08 |
-| 93 | [Hall of Fame](https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Hall of Fame](https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB) | 3:37 |
+| 92 | [Hall of Fame](https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Hall of Fame](https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB) | 3:37 |
+| 93 | [Coffee](https://open.spotify.com/track/7l7N33CHWxmPl2v6D69jS8) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coffee](https://open.spotify.com/album/7lKoacDvRqyrPpQI8IaEts) | 3:08 |
 | 94 | [Jumbo Jet](https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:53 |
 | 95 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
 | 96 | [Vent](https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [International Stephen](https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6) | [Vent](https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc) | 3:45 |

@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa Yeboyah.",
-  "num_followers": 24956,
+  "num_followers": 24957,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-03-30 18:04:01",
       "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 137191,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
+    },
+    {
+      "added_at": "2025-03-30 18:04:01",
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 184698,
       "name": "Handlebars (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
-    },
-    {
-      "added_at": "2025-03-30 18:04:01",
-      "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 137191,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
     },
     {
       "added_at": "2025-03-30 18:04:01",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2025-03-30 18:04:01",
       "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
-    },
-    {
-      "added_at": "2025-03-30 18:04:01",
-      "album": {
         "name": "Fat Juicy & Wet",
         "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
       },
@@ -1391,22 +1371,38 @@
     {
       "added_at": "2025-03-30 18:04:01",
       "album": {
-        "name": "Crashing (with Kali Uchis)",
-        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 187660,
-      "name": "Crashing (with Kali Uchis)",
-      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "added_at": "2025-03-30 18:04:01",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-03-30 18:04:01",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2025-03-30 18:04:01",
       "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+        "name": "Crashing (with Kali Uchis)",
+        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+      "duration_ms": 187660,
+      "name": "Crashing (with Kali Uchis)",
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
     },
     {
       "added_at": "2025-03-30 18:04:01",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2025-03-30 18:04:01",
       "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2025-03-30 18:04:01",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-03-30 18:04:01",
       "album": {
+        "name": "southbound / test drive",
+        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 137923,
+      "name": "southbound",
+      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
+    },
+    {
+      "added_at": "2025-03-30 18:04:01",
+      "album": {
         "name": "Sunset Blvd",
         "url": "https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 167584,
       "name": "Sunset Blvd",
       "url": "https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO"
-    },
-    {
-      "added_at": "2025-03-30 18:04:01",
-      "album": {
-        "name": "southbound / test drive",
-        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 137923,
-      "name": "southbound",
-      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
     },
     {
       "added_at": "2025-03-30 18:04:01",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2025-03-30 18:04:01",
       "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 189647,
-      "name": "Younger And Hotter Than Me",
-      "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
-    },
-    {
-      "added_at": "2025-03-30 18:04:01",
-      "album": {
         "name": "One More Dance",
         "url": "https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
+    },
+    {
+      "added_at": "2025-03-30 18:04:01",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 189647,
+      "name": "Younger And Hotter Than Me",
+      "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
     },
     {
       "added_at": "2025-03-30 18:04:01",

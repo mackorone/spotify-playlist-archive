@@ -107,6 +107,32 @@
     },
     {
       "album": {
+        "name": "12 Bore",
+        "url": "https://open.spotify.com/album/1lqgmn4bJ72l60zfJxN9mJ"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Dev Kharoud",
+          "url": "https://open.spotify.com/artist/7GXtuySBAajVFEGLUSoo3w"
+        },
+        {
+          "name": "Jhindi",
+          "url": "https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141083,
+      "name": "12 Bore",
+      "url": "https://open.spotify.com/track/4spabAzmxykhdHZtRPdfiS"
+    },
+    {
+      "album": {
         "name": "2 Asle",
         "url": "https://open.spotify.com/album/2jByVY0MXtcSypW0WBv0Ye"
       },
@@ -2862,6 +2888,24 @@
       "duration_ms": 175384,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2TIIsy9WCwJCGw3rTh4akB"
+    },
+    {
+      "album": {
+        "name": "Kanneda (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2HF4aHW9ZSlzbLhidUnDLJ"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Desiya Da Daur - From \"Kanneda\"",
+      "url": "https://open.spotify.com/track/2hnNKAuVl9S3Abc3VNRUok"
     },
     {
       "album": {
@@ -8424,7 +8468,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 187010,
       "name": "Note",
       "url": "https://open.spotify.com/track/3njYCFO0JFZrc7oUrgBcOC"
@@ -8810,7 +8854,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 142173,
       "name": "OPTION",
       "url": "https://open.spotify.com/track/68WvmWTqaNl31bGqPwPI6e"
@@ -9004,7 +9048,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 153004,
       "name": "Patiala Flow",
       "url": "https://open.spotify.com/track/4bwM0uV1LvFtNtTL78ZgHR"
@@ -10854,6 +10898,40 @@
       "duration_ms": 133340,
       "name": "Star Roof",
       "url": "https://open.spotify.com/track/0bIyjIVtFUwkAZgbfETrGI"
+    },
+    {
+      "album": {
+        "name": "Statements",
+        "url": "https://open.spotify.com/album/0wnAJ5dze0FZHcCWPUNyxm"
+      },
+      "artists": [
+        {
+          "name": "HeartBeat",
+          "url": "https://open.spotify.com/artist/6eHl2vIWYGa9wSeWzlUlpd"
+        },
+        {
+          "name": "Naninder Dhillon",
+          "url": "https://open.spotify.com/artist/04BlTEVhAfshgm1XKJY4fo"
+        },
+        {
+          "name": "Mehmaan shakur",
+          "url": "https://open.spotify.com/artist/3w0xq8M9o0j8UxQ06zLcbR"
+        },
+        {
+          "name": "Gyaana Hassan",
+          "url": "https://open.spotify.com/artist/1FnmchLxliYxYdGpRxaQhs"
+        },
+        {
+          "name": "Atreyii Hassan",
+          "url": "https://open.spotify.com/artist/0NqohnXD4gg31UmkF2IPAG"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284160,
+      "name": "Statements",
+      "url": "https://open.spotify.com/track/3job61uTG1dl3P2fN8JEHF"
     },
     {
       "album": {

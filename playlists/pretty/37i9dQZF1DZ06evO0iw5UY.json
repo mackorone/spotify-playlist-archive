@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27746,
+  "num_followers": 27751,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAACQtBueivU97AUotEyXei05",
+  "snapshot_id": "Z+nbAAAAAACb6eWqAESUUTnw+3iKDGU1",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Song to the Earth",
         "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 231679,
       "name": "Love Song to the Earth",
       "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 179014,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World Pt. 1",
         "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 195533,
       "name": "Human",
       "url": "https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 179014,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Come & Get It",
+      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/1LxrrnNOm8an34LWCc48Ue"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227539,
-      "name": "zer0",
-      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 163479,
       "name": "No Control",
       "url": "https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 227539,
+      "name": "zer0",
+      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
     },
     {
       "added_at": null,

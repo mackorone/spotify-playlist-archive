@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,563 songs - 2 day 10 hr 46 min
+1,564 songs - 2 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Another Promise](https://open.spotify.com/track/5ZV8OzO3O4YfBArCQyilaL) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [WERE](https://open.spotify.com/artist/5P1tayGhNEZlky687uFT06) | [Another Promise](https://open.spotify.com/album/2vI7bNZCTthrYZFgymzTGb) | 2:18 | 2022-08-12 | 2022-10-15 |
 | [Anti](https://open.spotify.com/track/3zqBbUO98vVRF8SBFVMDrI) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Anti](https://open.spotify.com/album/6uWgVDRheEtVFDnlTOzsvf) | 2:14 | 2022-07-08 | 2022-12-10 |
 | [aperol spritz](https://open.spotify.com/track/6h1tgGz0ZWoNvPVadoGanS) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [aperol spritz](https://open.spotify.com/album/4WeG7tPEaI7ywF6jayjuA8) | 2:10 | 2024-10-04 |  |
-| [aperture](https://open.spotify.com/track/4nB73xtcP4qEfLcK8x2HfT) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [aperture](https://open.spotify.com/album/6uu13CX4JIamrQT6aefBy6) | 2:20 | 2025-03-28 |  |
+| [aperture](https://open.spotify.com/track/4nB73xtcP4qEfLcK8x2HfT) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [aperture](https://open.spotify.com/album/6uu13CX4JIamrQT6aefBy6) | 2:20 | 2025-03-28 | 2025-04-02 |
 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2023-09-08 | 2024-10-19 |
 | [April](https://open.spotify.com/track/2Tc2p3pNAWjnIjiP6fS6y4) | [Young Akino](https://open.spotify.com/artist/4u16ySAhgpcfh3aRi0pv5o) | [April](https://open.spotify.com/album/60e5ClJJ339aOagoS3C21n) | 2:00 | 2023-08-03 |  |
 | [Aqua Bar](https://open.spotify.com/track/2fMjuehxqKJQml8jitq4Xd) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93) | [Aqua Bar](https://open.spotify.com/album/1ZBxF4yICm5p5i3gwqBW4F) | 1:33 | 2022-09-02 | 2023-09-05 |
@@ -748,6 +748,7 @@
 | [Lights Down](https://open.spotify.com/track/0rjbtVM8enAg85s1zc4Bpt) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Lights Down](https://open.spotify.com/album/4xCrjBY0N8JF8Tdqt4vLLu) | 1:40 | 2022-09-02 |  |
 | [Lights Out](https://open.spotify.com/track/0RPC5TjgZ2J8ILaeO9Z60B) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Lights Out](https://open.spotify.com/album/3jo6GWMSzyU8HckHKNUxSO) | 1:57 | 2022-11-25 | 2023-09-29 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-01-27 | 2022-09-03 |
+| [Lima](https://open.spotify.com/track/5fE2vXhsn72AXqizO3dLha) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lima](https://open.spotify.com/album/32e4coW7YK6lKPSfZPlfyo) | 2:52 | 2025-03-28 |  |
 | [limelight](https://open.spotify.com/track/2D6U1ScmjRJ5QLrYhMCQDe) | [Louis Loux](https://open.spotify.com/artist/4TSSTLGRVNcu07DrrYni5V) | [limelight](https://open.spotify.com/album/5yMQnvnMglKwQ7V9pVALVX) | 2:24 | 2023-11-24 |  |
 | [Liqueur](https://open.spotify.com/track/1KTKgEpAs0sOWl2QavI3bR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Liqueur](https://open.spotify.com/album/67nvpA8be1IUw5DAcx2rPK) | 2:26 | 2022-09-02 | 2023-01-20 |
 | [Liquid Force](https://open.spotify.com/track/10bPPpQ60lkYCmoHYB6Y1o) | [Chilimanjaro](https://open.spotify.com/artist/4YZwxJSx2UJYXsIL9W514t) | [Jungle Haze](https://open.spotify.com/album/7Apf1ulc15WJvhlmLGhIKe) | 1:24 | 2022-01-27 | 2022-04-22 |
@@ -769,7 +770,7 @@
 | [los beachos](https://open.spotify.com/track/3ZVLP49KrKZakJz9w55ef7) | [Lobby Lingu!n!](https://open.spotify.com/artist/3PmqglMO0kO7kkmhGHrxkv) | [los beachos](https://open.spotify.com/album/2ZzWNf6dEX51b6RHlgnFEe) | 2:12 | 2022-01-27 | 2023-04-21 |
 | [Lost In Bass](https://open.spotify.com/track/1HXDPrnTAG7h4ioqERvqBL) | [Juan Ling](https://open.spotify.com/artist/5Ar4iiLpngpY9FZRsFO2Dy) | [Lost In Bass](https://open.spotify.com/album/6SD42hydmhMgTNmlAaLDuH) | 2:48 | 2022-01-27 | 2022-12-17 |
 | [Lost Time](https://open.spotify.com/track/24HeDGq4VhfLqgxNMMtQZC) | [Theo Juarez](https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A), [Felix Deleon](https://open.spotify.com/artist/5o8YHpc8nmpN6PlAQMkaH4), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Lost Time](https://open.spotify.com/album/6Qc6tlgIxU07xFw5wsip8u) | 2:20 | 2022-09-23 | 2023-09-22 |
-| [Lots of lofi in one tone](https://open.spotify.com/track/7MZgOMd6nDWR4HHJM8NStG) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Lots of lofi in one tone](https://open.spotify.com/album/4ADuZR1RptULzYraMIvgPO) | 2:03 | 2022-04-15 |  |
+| [Lots of lofi in one tone](https://open.spotify.com/track/7MZgOMd6nDWR4HHJM8NStG) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Lots of lofi in one tone](https://open.spotify.com/album/4ADuZR1RptULzYraMIvgPO) | 2:03 | 2022-04-15 | 2025-04-02 |
 | [Louisiana Belle](https://open.spotify.com/track/4aqsBKBI9PAozNPLka2bxA) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Louisiana Belle](https://open.spotify.com/album/7FD4XoWfiFWOUZH7luCmJQ) | 2:01 | 2025-01-24 | 2025-02-15 |
 | [love letters](https://open.spotify.com/track/6gH5qa93MI3efakVxIC6Sw) | [Fuyu](https://open.spotify.com/artist/4p6uSzp3RTnHrfgkZEUj4O) | [love letters](https://open.spotify.com/album/0Yu8z7QTDgeNTZq43JFSws) | 2:24 | 2022-07-29 | 2022-09-17 |
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2022-01-27 | 2022-10-15 |
@@ -1160,7 +1161,7 @@
 | [Sandbaggin'](https://open.spotify.com/track/1MmAvvKSQmx033XMJfzyBC) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Sandbaggin'](https://open.spotify.com/album/76yhrUTsBumHr0CRvrJLnY) | 1:40 | 2022-06-10 | 2023-08-04 |
 | [Santorini](https://open.spotify.com/track/60bnC7jsOCgrtBUa9cMEYp) | [Moretti](https://open.spotify.com/artist/0mjFTaFNZ2G7AxvKZh96WD) | [Santorini](https://open.spotify.com/album/6ScDvj4ItlziG4UtB2bsl5) | 2:18 | 2024-08-30 |  |
 | [satisfying piece of music](https://open.spotify.com/track/2X6sK7eY9UBuY6ZIUIn1fI) | [Nel Gabriel](https://open.spotify.com/artist/2onT71Iu0BI68iR5gLayrZ), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [satisfying piece of music](https://open.spotify.com/album/0avjV2k3kz7aJlw2Ix3Qdw) | 2:51 | 2022-08-19 | 2023-01-07 |
-| [Saturday Breezy](https://open.spotify.com/track/37Mcxao2vhMIIw5OxFwaiT) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:12 | 2022-07-01 | 2025-02-24 |
+| [Saturday Breezy](https://open.spotify.com/track/37Mcxao2vhMIIw5OxFwaiT) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:12 | 2022-07-01 |  |
 | [Saturday Morning Rain](https://open.spotify.com/track/28JFjvMQvokJsMdmBAzttE) | [Tempelhof Sayonara](https://open.spotify.com/artist/2PTjVOmUzd0987OTsTYpld) | [Saturday Morning Rain](https://open.spotify.com/album/3noi1QWebW9jiydrtjKB6E) | 2:12 | 2022-09-30 | 2024-05-19 |
 | [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 | 2023-02-07 |  |
 | [Say Nothing](https://open.spotify.com/track/4g4FFVWwDoPfHrVFJrpmxe) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Say Nothing](https://open.spotify.com/album/3naAnnLy38EzcEbRk7UZDy) | 2:37 | 2022-12-09 | 2023-08-04 |

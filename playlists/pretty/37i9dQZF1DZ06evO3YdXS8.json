@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 630444,
+  "num_followers": 630602,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAADXeKdw/xgs47ZIs4YMC7Jt",
+  "snapshot_id": "Z+nbAAAAAABLLq/x+dP9ZcFwKe5wcQwY",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+        "name": "Mis Mejores Canciones: 17 Super Exitos",
+        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 177066,
-      "name": "No Quiero Saber - 1990 Version",
-      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
+      "duration_ms": 228466,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4T2lNtytcsuIa3FipR37Wu"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Mejores Canciones: 17 Super Exitos",
-        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4T2lNtytcsuIa3FipR37Wu"
+      "duration_ms": 177066,
+      "name": "No Quiero Saber - 1990 Version",
+      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Terco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 253733,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selena: The Series Soundtrack",
-        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Terco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr"
     },
     {
       "added_at": null,

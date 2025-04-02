@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,603 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,809 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 35 | [Sacred Breath](https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Sacred Breath](https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813) | 3:12 |
 | 36 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 37 | [Earth and Sky](https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ) | [Terry Oldfield](https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j) | [Yoga Harmony](https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai) | 8:19 |
-| 38 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
-| 39 | [Oceans of Mindfulness](https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Mindful Piano: Music for Meditation](https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm) | 5:32 |
+| 38 | [Oceans of Mindfulness](https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Mindful Piano: Music for Meditation](https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm) | 5:32 |
+| 39 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
 | 40 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
 | 41 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
 | 42 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 50 | [Flutes of Harmony](https://open.spotify.com/track/7uHPpDHBB42j8cPmIDjKpn) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s), [Raman Marharjan](https://open.spotify.com/artist/6woWbiCbnSbegIEX4SDwls) | [Echoes of Silence](https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH) | 3:37 |
 | 51 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
 | 52 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
-| 53 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
-| 54 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 |
+| 53 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 |
+| 54 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
 | 55 | [Between the Worlds Yoga Nidra \- Sunset Flow](https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 7:51 |
 | 56 | [Indian Nights](https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [OM Yoga Mix](https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P) | 11:26 |
 | 57 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 95 | [Garden of Peace](https://open.spotify.com/track/0TkRwflhagr5BE6eqlzo53) | [Philip Guyler](https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY) | [Holsitic Relaxation](https://open.spotify.com/album/6wJJcvzrrh46nw5l8VBpEO) | 6:04 |
 | 96 | [Tokyo Drifting](https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/2jdD7Hg1UGMmIwlW9rhQQw) | 3:23 |
 | 97 | [Holistic Water](https://open.spotify.com/track/5vLlwuqv3g0AKjOY6urkui) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [TAO Lounge](https://open.spotify.com/album/3cNVpXWMBraQIAHZgmSTN9) | 5:13 |
-| 98 | [Oxygen Bar](https://open.spotify.com/track/1qborK6nItSSVgZkXosT4k) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Chill Me Out](https://open.spotify.com/album/2pMPUcaC0WR7lJwNraywTn) | 5:31 |
-| 99 | [Illumination of the Heart](https://open.spotify.com/track/6BOBioDka5as3H3PKfkEFp) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Nada Himalaya: Music for Meditation](https://open.spotify.com/album/1jE4zYk5CeenzZAu2yvypg) | 9:34 |
+| 98 | [Illumination of the Heart](https://open.spotify.com/track/6BOBioDka5as3H3PKfkEFp) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Nada Himalaya: Music for Meditation](https://open.spotify.com/album/1jE4zYk5CeenzZAu2yvypg) | 9:34 |
+| 99 | [Oxygen Bar](https://open.spotify.com/track/1qborK6nItSSVgZkXosT4k) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Chill Me Out](https://open.spotify.com/album/2pMPUcaC0WR7lJwNraywTn) | 5:31 |
 | 100 | [Moonlight Saptah](https://open.spotify.com/track/6gu8EBy9qA8dF6HBN3Gq9T) | [Craig Kohland & Shaman's Dream](https://open.spotify.com/artist/1TGMZFLE54UJlOJCPxYggZ) | [Bindu](https://open.spotify.com/album/2MolLpSGO6Bh3DPOcH56Ap) | 9:41 |
 
 Snapshot ID: `Z6SI7wAAAADmDPvspobpuDPQuQ8wKdcj`

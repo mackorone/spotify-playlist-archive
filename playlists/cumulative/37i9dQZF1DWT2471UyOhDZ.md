@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Mumford & Sons
 
-263 songs - 16 hr 56 min
+264 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-06-14 | 2025-03-22 |
 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 | 2024-06-14 | 2025-02-28 |
 | [Don't Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-03-25 |
+| [Doves](https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Doves](https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50) | 4:11 | 2025-03-28 |  |
 | [Dream Job](https://open.spotify.com/track/3u7PMsVBQ1viIm8tlhotl6) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg) | 2:39 | 2024-06-14 | 2025-03-22 |
 | [Dumb Guitar](https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Dumb Guitar](https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql) | 5:10 | 2024-06-14 | 2024-07-12 |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-31 |  |
@@ -144,12 +145,12 @@
 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 | 2024-11-15 | 2025-02-04 |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-08-14 |  |
 | [LA Runaway](https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Night Life](https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA) | 5:06 | 2025-03-21 |  |
-| [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 |  |
+| [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 | 2025-04-02 |
 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-17 |  |
 | [Life Is](https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k) | 3:08 | 2024-06-14 | 2025-01-21 |
 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 | 2024-11-15 |  |
 | [Limelight](https://open.spotify.com/track/0OyTkxom7HBZ3lM1U2Fskz) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Limelight](https://open.spotify.com/album/5x2ybzUxgUq67ig0swZmok) | 3:48 | 2025-03-21 |  |
-| [Liquid Gold 25](https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Liquid Gold 25](https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x) | 4:27 | 2025-01-31 |  |
+| [Liquid Gold 25](https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Liquid Gold 25](https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x) | 4:27 | 2025-01-31 | 2025-04-02 |
 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 | 2024-08-14 | 2025-02-08 |
 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 | 2024-07-18 | 2025-01-31 |
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-06-14 | 2025-03-22 |
@@ -241,7 +242,7 @@
 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 | 2024-06-14 | 2025-01-19 |
 | [There’s Always Gonna Be Something](https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [There's Always Gonna Be Something](https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl) | 4:02 | 2025-01-31 |  |
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-17 |  |
-| [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2024-11-15 | 2025-03-31 |
+| [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2024-11-15 |  |
 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-03-21 |  |
 | [Time For Slurp](https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [SHHHHHHH!](https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf) | 1:57 | 2024-07-18 | 2025-03-23 |
 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 | 2024-06-14 | 2024-11-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Nemzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,098 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,104 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 20 | [BAD DECISIONS](https://open.spotify.com/track/6DPe3yHTfpFwVVx92AVT54) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [BAD DECISIONS](https://open.spotify.com/album/6FRtJw6ULKUrSvqXK99PjR) | 2:19 |
 | 21 | [Miss Independent](https://open.spotify.com/track/1yQrZzxczuHbNZPlUAcuVl) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [Miss Independent](https://open.spotify.com/album/18ItH4Zhcr5jQv6A8n0IWc) | 2:35 |
 | 22 | [One Man](https://open.spotify.com/track/0bD1LDP34R5DJUx2LWY98y) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [One Man](https://open.spotify.com/album/4I2WfSVxmJBCTsSModKOfn) | 2:20 |
-| 23 | [Straight Rhymez 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Straight Rhymez 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 |
+| 23 | [STRAIGHT RHYMEZ 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [STRAIGHT RHYMEZ 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 |
 | 24 | [Overboard](https://open.spotify.com/track/2melgMWdSgph1i1zC3xORu) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Overboard](https://open.spotify.com/album/6SEs8vv2s6shts0RJBopIx) | 2:54 |
 | 25 | [Dopeboy](https://open.spotify.com/track/5FtPapM2zslDdSYEri9Ls1) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Dopeboy](https://open.spotify.com/album/0FrLwLBNhAhPc1QRl0dpIS) | 3:10 |
 | 26 | [Professor X](https://open.spotify.com/track/3HeAyM2SnHS0tQZq2LPJQF) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Professor X](https://open.spotify.com/album/1zN59rjqE4BVDfKRY31t9I) | 1:27 |

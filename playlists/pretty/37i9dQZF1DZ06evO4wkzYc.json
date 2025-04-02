@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 154289,
+  "num_followers": 154381,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAABi7mQVBK0luGuVz5UBrlC9",
+  "snapshot_id": "Z+nbAAAAAAAOV8InDIZRevIZJrQhEtlO",
   "tracks": [
     {
       "added_at": null,
@@ -551,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
       "artists": [
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 147602,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
+      "duration_ms": 259531,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
       },
       "artists": [
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 259531,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
+      "duration_ms": 147602,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
     },
     {
       "added_at": null,

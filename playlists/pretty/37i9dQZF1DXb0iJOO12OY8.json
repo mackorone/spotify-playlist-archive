@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udea9\ud83e\udea9\ud83e\udea9\ud83e\udea9",
-  "num_followers": 214141,
+  "num_followers": 214131,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-03-27 23:00:14",
       "album": {
+        "name": "Overfladisk",
+        "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Overfladisk",
+      "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
+    },
+    {
+      "added_at": "2025-03-27 23:00:14",
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 127403,
       "name": "Tilbake",
       "url": "https://open.spotify.com/track/5VzJAbt14nJ70wijAEmujX"
-    },
-    {
-      "added_at": "2025-03-27 23:00:14",
-      "album": {
-        "name": "Overfladisk",
-        "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Overfladisk",
-      "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
     },
     {
       "added_at": "2025-03-27 23:00:14",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-03-27 23:00:14",
       "album": {
-        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186377,
-      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2025-03-27 23:00:14",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2025-03-27 23:00:14",
+      "album": {
+        "name": "Ambassad\u00f8r",
+        "url": "https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Ambassad\u00f8r",
+      "url": "https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ"
     },
     {
       "added_at": "2025-03-27 23:00:14",
@@ -843,18 +843,22 @@
     {
       "added_at": "2025-03-27 23:00:14",
       "album": {
-        "name": "Bless Meg",
-        "url": "https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq"
+        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
       "artists": [
         {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Bless Meg",
-      "url": "https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ"
+      "duration_ms": 186377,
+      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
     }
   ],
   "unique_name": "ung, dum & lovende",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 234 songs - 11 hr 49 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 235 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,5 +242,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 232 | [Rebuke](https://open.spotify.com/track/56dcNOb2HEjZfPEaNP9Vze) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/0iAbMGXKXGfmtmneJrsNcl) | 1:58 |
 | 233 | [Enough](https://open.spotify.com/track/0tKyAbwXl2oG2pqHSLlle0) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 2:46 |
 | 234 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
+| 235 | [Life Is Better](https://open.spotify.com/track/4GRxW50GO0Yc5Pp9LK62Rw) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 4:41 |
 
-Snapshot ID: `AAAeC64352ojoNI1xgR2WTxnJ4tMChG1`
+Snapshot ID: `AAAeDEUzonEfk7C+MCu3l4+DW3SWICU3`

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 224797,
+  "num_followers": 224852,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAC+N/c5KWqLSBdfjfPC/PaW",
+  "snapshot_id": "Z+nbAAAAAAAg6I3N444J4QQ+QhWSf0Wr",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Si Pego",
+        "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Por Si Pego",
+      "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Preguntan por M\u00ed",
         "url": "https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 228500,
       "name": "Si Preguntan por M\u00ed",
       "url": "https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Si Pego",
-        "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Por Si Pego",
-      "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
     },
     {
       "added_at": null,
@@ -707,6 +707,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marybel (Remix)",
+        "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Gaelo",
+          "url": "https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Marybel - Remix",
+      "url": "https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
       },
@@ -799,42 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marybel (Remix)",
-        "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
-      },
-      "artists": [
-        {
-          "name": "Dj Aza",
-          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Jowell",
-          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
-        },
-        {
-          "name": "Gaelo",
-          "url": "https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt"
-        },
-        {
-          "name": "Alan Dazmel",
-          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Marybel - Remix",
-      "url": "https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dominio",
         "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
@@ -842,11 +842,15 @@
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
         }
       ],
-      "duration_ms": 198120,
-      "name": "Me ir\u00e9",
-      "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
+      "duration_ms": 196880,
+      "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
+      "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
     },
     {
       "added_at": null,
@@ -922,15 +926,11 @@
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Meny Mendez",
-          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
         }
       ],
-      "duration_ms": 196880,
-      "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
-      "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
+      "duration_ms": 198120,
+      "name": "Me ir\u00e9",
+      "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "La Historia De Un Olvido",
+      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Take Over, Vol. 3",
         "url": "https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 236880,
       "name": "Round 5 (feat. MC Davo)",
       "url": "https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Ya no hay nada",
+      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Qu\u00e9 Ser\u00e1?",
         "url": "https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 199531,
       "name": "Por Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Ya no hay nada",
-      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
     },
     {
       "added_at": null,

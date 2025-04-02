@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: IKARVS
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,088 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,087 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 29 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 30 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 |
 | 31 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 |
-| 32 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
-| 33 | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/track/4Xgy6XFSLcfkfCFjkoykwM) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/album/6uNMTjRSkWvWmynCwwWkcc) | 2:30 |
-| 34 | [Daydreaming](https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Daydreaming](https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14) | 3:19 |
-| 35 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |
-| 36 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 |
-| 37 | [death wish](https://open.spotify.com/track/0syhM7efawK9yseurhzPmN) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [death wish](https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH) | 2:50 |
+| 32 | [Daydreaming](https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Daydreaming](https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14) | 3:19 |
+| 33 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
+| 34 | [death wish](https://open.spotify.com/track/0syhM7efawK9yseurhzPmN) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [death wish](https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH) | 2:50 |
+| 35 | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/track/4Xgy6XFSLcfkfCFjkoykwM) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/album/6uNMTjRSkWvWmynCwwWkcc) | 2:30 |
+| 36 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |
+| 37 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 |
 | 38 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 |
 | 39 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 40 | [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 49 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 |
 | 50 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 |
 | 51 | [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 |
-| 52 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 |
-| 53 | [bilet beze mnie](https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [bilet beze mnie](https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ) | 2:50 |
+| 52 | [bilet beze mnie](https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [bilet beze mnie](https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ) | 2:50 |
+| 53 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 |
 | 54 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 |
 | 55 | [Wszystko się ułoży](https://open.spotify.com/track/59aqzh41cy5Cg6aSWPjXuJ) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wszystko się ułoży](https://open.spotify.com/album/3zxROJJfzFpOJEwVM1v0j5) | 2:04 |
 | 56 | [Nie bolało](https://open.spotify.com/track/1RJfHolln7fiPAOBWleNFL) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Nie bolało](https://open.spotify.com/album/6iWtrne7gJQfcsmbtcmuPL) | 2:48 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 61 | [KIEDYŚ NAS ZABRAKNIE](https://open.spotify.com/track/28BiuNEoSSrKGc9BGLNlgn) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [KIEDYŚ NAS ZABRAKNIE](https://open.spotify.com/album/0JobUXh3L2eKcdH6AUggjl) | 2:13 |
 | 62 | [Arkadia](https://open.spotify.com/track/3PMYCND2OpaEV74EQkWrOZ) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Arkadia](https://open.spotify.com/album/2p4Udkis07aTRZIDjpyNTQ) | 3:34 |
 | 63 | [Ptaki](https://open.spotify.com/track/2LwA6OrbN2DFP9osByAYEY) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/2he62aL4O9Bg03NYRK9LvA) | 4:06 |
-| 64 | [Trust Issues](https://open.spotify.com/track/1PEY0rrb2d8Ic5f4hCPCkX) | [Teo](https://open.spotify.com/artist/75KRhZ6OWTAF6alZRfM90S) | [Trust Issues](https://open.spotify.com/album/4Nwbv0UxHNuSeK4pKAoJjs) | 2:49 |
-| 65 | [aż zrozumiesz](https://open.spotify.com/track/2xP5xhtfisju7OIMygfNNL) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [aż zrozumiesz](https://open.spotify.com/album/10eUUfLaohBIrXd4zZL0Ll) | 3:21 |
+| 64 | [Chcę Ciebie częściej](https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Chcę Ciebie częściej](https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7) | 3:01 |
+| 65 | [Trust Issues](https://open.spotify.com/track/1PEY0rrb2d8Ic5f4hCPCkX) | [Teo](https://open.spotify.com/artist/75KRhZ6OWTAF6alZRfM90S) | [Trust Issues](https://open.spotify.com/album/4Nwbv0UxHNuSeK4pKAoJjs) | 2:49 |
 
 Snapshot ID: `Z+XYiQAAAAAIaHV3uJcDujQmxXnoj3GM`

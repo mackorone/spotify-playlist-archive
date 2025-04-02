@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 241484,
+  "num_followers": 241546,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAAlsJXMq6KFLXizCiIWwKVv",
+  "snapshot_id": "Z+nbAAAAAADnF63YB0nmZTwOoOS6Ak3l",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nunca Tuve Tanto",
         "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 229982,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compilado, Vol. 1",
-        "url": "https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -823,6 +807,42 @@
       "duration_ms": 213773,
       "name": "Camina Sola",
       "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compilado, Vol. 1",
+        "url": "https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coincidimos",
+        "url": "https://open.spotify.com/album/21RfMYRrUo2VVY2WyqqeiD"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 172668,
+      "name": "Coincidimos",
+      "url": "https://open.spotify.com/track/3IEUAkhsrEpWLFDPasBKzj"
     },
     {
       "added_at": null,
@@ -847,26 +867,6 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coincidimos",
-        "url": "https://open.spotify.com/album/21RfMYRrUo2VVY2WyqqeiD"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 172668,
-      "name": "Coincidimos",
-      "url": "https://open.spotify.com/track/3IEUAkhsrEpWLFDPasBKzj"
     },
     {
       "added_at": null,

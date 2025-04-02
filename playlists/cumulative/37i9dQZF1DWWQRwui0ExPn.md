@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,294 songs - 11 day 12 hr 16 min
+7,295 songs - 11 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [After The Rain](https://open.spotify.com/track/08na55XX2rRgupwFAGDlRI) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [After The Rain](https://open.spotify.com/album/1Q2K0uHiBmY7qdOLR3Jz54) | 2:04 | 2025-02-16 | 2025-03-01 |
 | [After the storm](https://open.spotify.com/track/7nXLNvY8XRSTwUNMW6etyB) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [After the storm](https://open.spotify.com/album/5NffXg01pFJe0BwF1NAjbY) | 1:36 | 2023-01-13 | 2023-05-04 |
 | [After Us](https://open.spotify.com/track/3Oi0KzxA2JV6bL4JDaSYP1) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [After Us](https://open.spotify.com/album/5VulHOMsD7genwUB3Z2pY0) | 2:27 | 2023-01-13 | 2023-04-21 |
-| [Afterain](https://open.spotify.com/track/0c64UKO8Ky8lVYCLLgFtmz) | [Gyûki](https://open.spotify.com/artist/0f1wG4nrFzA7sc92lDeItL), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H) | [Afterain](https://open.spotify.com/album/0pGLrEBnOlg9gee39d80Qp) | 2:28 | 2024-07-26 |  |
+| [Afterain](https://open.spotify.com/track/0c64UKO8Ky8lVYCLLgFtmz) | [Gyûki](https://open.spotify.com/artist/0f1wG4nrFzA7sc92lDeItL), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H) | [Afterain](https://open.spotify.com/album/0pGLrEBnOlg9gee39d80Qp) | 2:28 | 2024-07-26 | 2025-04-02 |
 | [Afterglow](https://open.spotify.com/track/6dHozDVKUUc7fm26EgrP2E) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Afterglow](https://open.spotify.com/album/77uGdp712E0p0nGkrQx35L) | 2:29 | 2021-10-02 | 2022-04-15 |
 | [Afterlife](https://open.spotify.com/track/60FEBUWsdIp8oasrEFrp6h) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7) | [Soul Finding](https://open.spotify.com/album/5IoQ7doIuueYyDOEICtAeQ) | 2:03 | 2021-01-21 | 2022-01-14 |
 | [Aftermath](https://open.spotify.com/track/6J9zXhGvqxTLwJzl6Qll2C) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Aftermath](https://open.spotify.com/album/0GPVt87nPKQUWreh8US5xK) | 2:54 | 2022-10-28 | 2024-01-12 |
@@ -3748,6 +3748,7 @@
 | [Low Light](https://open.spotify.com/track/3k2LhixJoiaBmzPVoVDXsq) | [$MASH](https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Low Light](https://open.spotify.com/album/0xEEiASBiCjfRTivyc640F) | 1:49 | 2022-12-02 | 2024-01-19 |
 | [Low Light](https://open.spotify.com/track/50GgGFke22W9dVw6AgGHJu) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Low Light](https://open.spotify.com/album/541XWxsAYmzTzAGndjcEy3) | 2:07 | 2023-08-03 | 2024-01-12 |
 | [Low Tide](https://open.spotify.com/track/7DvFefh4tcbBPuqlLZkYlY) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C) | [Low Tide](https://open.spotify.com/album/4NKElIDmOSXyChrfwC5DW2) | 2:16 | 2024-04-19 |  |
+| [Low Tone](https://open.spotify.com/track/3UQ0SX3wO9sXDs27ZgHhqm) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [Low Tone](https://open.spotify.com/album/00VdSSkzttBydmBcpT2N2q) | 2:17 | 2025-03-28 |  |
 | [Low.noise](https://open.spotify.com/track/11UKFXDDUgzeBsPuRMvbs7) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Low.noise](https://open.spotify.com/album/7wg5ljVlAdJY01bRiV1VWo) | 1:25 | 2024-01-12 | 2024-10-01 |
 | [Lowaltitude](https://open.spotify.com/track/2VjiQGqn4r6Y0a7V2V4NPB) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Lowaltitude](https://open.spotify.com/album/6NCUt3BUBQUn3XaLcgB8lO) | 2:05 | 2022-05-27 | 2022-09-23 |
 | [Lowkey](https://open.spotify.com/track/2vPZkk05tEl3NCwTSLqf9H) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Lowkey](https://open.spotify.com/album/16c23L2Mjpd6FbVMhLXCfl) | 2:08 | 2020-01-03 | 2020-07-07 |

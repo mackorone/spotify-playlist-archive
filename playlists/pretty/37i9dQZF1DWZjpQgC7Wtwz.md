@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,758 likes - 82 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,856 likes - 82 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 58 | [La Caguama \- En Vivo](https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [La Caguama \(En Vivo\)](https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH) | 2:15 |
 | 59 | [Mi Tesoro](https://open.spotify.com/track/6b5JZSfTcxB9XjrPWUcOa2) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [Mi Tesoro](https://open.spotify.com/album/656qILncImWpKsn1bJsULE) | 2:16 |
 | 60 | [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 |
-| 61 | [Lo Lindo De Ti](https://open.spotify.com/track/0tEQO7K2rQIezdLy3aoVqf) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Borrachera Con Tololoche](https://open.spotify.com/album/2QsedCgwU2MBnNLYpsjfoQ) | 3:47 |
+| 61 | [Lo Lindo De Ti \- En vivo](https://open.spotify.com/track/0tEQO7K2rQIezdLy3aoVqf) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Borrachera Con Tololoche \(En vivo\)](https://open.spotify.com/album/2QsedCgwU2MBnNLYpsjfoQ) | 3:47 |
 | 62 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
 | 63 | [Quisiera Tenerte](https://open.spotify.com/track/6hBvPqvKtWteISagvdDjmq) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr) | [Mi Droga El Amor](https://open.spotify.com/album/0zXPwwVOovS3nmfkpcCPn8) | 3:52 |
 | 64 | [Chica La Bola](https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Chica La Bola](https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ) | 2:53 |

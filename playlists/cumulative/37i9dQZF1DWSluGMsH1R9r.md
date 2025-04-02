@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-734 songs - 1 day 7 hr 26 min
+736 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Cornélis](https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Cornélis](https://open.spotify.com/album/4jlUnPvwnPdxwNwC6VU3Mf) | 2:28 | 2021-12-07 | 2024-11-06 |
 | [Cotton Tale](https://open.spotify.com/track/3p4mrh87pFZu0w2WdNK7bZ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Cotton Tale](https://open.spotify.com/album/5g6VsUEKvMkDNMqzvLJ9CT) | 2:07 | 2022-02-15 | 2022-12-24 |
 | [Coulee Vert](https://open.spotify.com/track/5CocdKvyw8gpwdwOaZeVAw) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Coulee Vert](https://open.spotify.com/album/7CClClD5IkyrZFjqBRd3Xr) | 2:16 | 2021-12-07 | 2023-07-05 |
+| [Creations](https://open.spotify.com/track/5DdvcGxyvQEyeFM5jEkWDW) | [Saveliy Lleu](https://open.spotify.com/artist/6GR4x2rlUUYUrj2mimfXm9) | [Creations](https://open.spotify.com/album/6XL2imjJxQdS8D0ILLiupu) | 2:50 | 2025-04-01 |  |
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2022-01-04 | 2022-07-16 |
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2021-12-07 | 2022-04-21 |
 | [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
@@ -726,6 +727,7 @@
 | [winter waltz](https://open.spotify.com/track/4OrNJsI46x4VvX6VXfJHEW) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [winter waltz](https://open.spotify.com/album/5zMCgImeWbDPD2UFb1s96h) | 2:51 | 2024-02-05 | 2025-01-16 |
 | [Winter´s Passing](https://open.spotify.com/track/0HXWR7kXRRDsmSeBgAgpPz) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Winter´s Passing](https://open.spotify.com/album/1nrBZ7BnwGbi7Nt6elcIKB) | 3:38 | 2021-12-07 | 2022-07-16 |
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-12-07 | 2022-09-15 |
+| [Within Reach](https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Within Reach](https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog) | 2:33 | 2025-04-01 |  |
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2021-12-07 |  |
 | [Without Words](https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 4:14 | 2022-09-14 |  |
 | [Woman traveling alone](https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Woman traveling alone](https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1) | 2:06 | 2023-05-19 |  |

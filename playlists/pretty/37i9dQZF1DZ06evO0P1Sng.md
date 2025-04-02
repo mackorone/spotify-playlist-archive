@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,189 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,193 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 12 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/4O70zH7vpNWNZCYtyRkuoJ) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/5sENXit6vpwJiumlyKo1Gw) | 4:30 |
 | 13 | [60K \- Remix](https://open.spotify.com/track/4tRhRB2kJQLosmNCWrIsLw) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:43 |
 | 14 | [Outro Lugar](https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Spinnheli](https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud) | [Outro Lugar](https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ) | 2:33 |
-| 15 | [DAMN GLOVES \- BAILE FUNK REMIX](https://open.spotify.com/track/18AkbqlH8nBkpkqAzaCIDZ) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [GRIP SEQUEL](https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd) | 2:13 |
-| 16 | [Encrenqueira](https://open.spotify.com/track/2T6s33kOlJhdLpfgAYS5Ey) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Encrenqueira](https://open.spotify.com/album/0zEQ45hjcWKDS2DYZazdIu) | 2:51 |
+| 15 | [Encrenqueira](https://open.spotify.com/track/2T6s33kOlJhdLpfgAYS5Ey) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Encrenqueira](https://open.spotify.com/album/0zEQ45hjcWKDS2DYZazdIu) | 2:51 |
+| 16 | [DAMN GLOVES \- BAILE FUNK REMIX](https://open.spotify.com/track/18AkbqlH8nBkpkqAzaCIDZ) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [GRIP SEQUEL](https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd) | 2:13 |
 | 17 | [FZND DNV](https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [FZND DNV](https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5) | 2:14 |
 | 18 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 |
 | 19 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Coisa Fina](https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Coisa Fina](https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7) | 2:56 |
 | 50 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
 
-Snapshot ID: `Z+iJgAAAAABaDa+PAetx26e8BwscWhV1`
+Snapshot ID: `Z+nbAAAAAAAMW/yCXw0Cu8mdxc6KvoTB`

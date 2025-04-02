@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Boldy James",
-  "num_followers": 1592142,
+  "num_followers": 1592132,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,30 @@
     {
       "added_at": "2025-03-28 04:00:47",
       "album": {
+        "name": "The Rose Bowl",
+        "url": "https://open.spotify.com/album/738mu27ZSAb4E6HuSO9tzt"
+      },
+      "artists": [
+        {
+          "name": "The High & Mighty",
+          "url": "https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 255156,
+      "name": "The Rose Bowl",
+      "url": "https://open.spotify.com/track/4R3V2vn98DbTGi9s0xnNjq"
+    },
+    {
+      "added_at": "2025-03-28 04:00:47",
+      "album": {
         "name": "Token of Appreciation",
         "url": "https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT"
       },
@@ -827,6 +851,26 @@
       "duration_ms": 199680,
       "name": "Lop Sided",
       "url": "https://open.spotify.com/track/5pOEFbZDVXm9Atxc2K09is"
+    },
+    {
+      "added_at": "2025-03-28 04:00:47",
+      "album": {
+        "name": "Armani Section",
+        "url": "https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 180731,
+      "name": "Armani Section",
+      "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
     },
     {
       "added_at": "2025-03-28 04:00:47",
@@ -855,22 +899,26 @@
     {
       "added_at": "2025-03-28 04:00:47",
       "album": {
-        "name": "Armani Section",
-        "url": "https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K"
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
       },
       "artists": [
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 180731,
-      "name": "Armani Section",
-      "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
+      "duration_ms": 154466,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
     },
     {
       "added_at": "2025-03-28 04:00:47",
@@ -899,50 +947,6 @@
     {
       "added_at": "2025-03-28 04:00:47",
       "album": {
-        "name": "I Been",
-        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "I Been",
-      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
-    },
-    {
-      "added_at": "2025-03-28 04:00:47",
-      "album": {
-        "name": "Token of Appreciation",
-        "url": "https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Chuck Strangers",
-          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
-        }
-      ],
-      "duration_ms": 210864,
-      "name": "Global Telling",
-      "url": "https://open.spotify.com/track/4qsxIj0t2Iqc6PxPX88lNB"
-    },
-    {
-      "added_at": "2025-03-28 04:00:47",
-      "album": {
         "name": "MARiO COINS",
         "url": "https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g"
       },
@@ -959,26 +963,26 @@
     {
       "added_at": "2025-03-28 04:00:47",
       "album": {
-        "name": "The Rose Bowl",
-        "url": "https://open.spotify.com/album/738mu27ZSAb4E6HuSO9tzt"
+        "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
+        "url": "https://open.spotify.com/album/2hGVmhbARvihNo7UQsna9W"
       },
       "artists": [
-        {
-          "name": "The High & Mighty",
-          "url": "https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj"
-        },
         {
           "name": "The Alchemist",
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 255156,
-      "name": "The Rose Bowl",
-      "url": "https://open.spotify.com/track/4R3V2vn98DbTGi9s0xnNjq"
+      "duration_ms": 169560,
+      "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK"
     }
   ],
   "unique_name": "Spilled Ink",

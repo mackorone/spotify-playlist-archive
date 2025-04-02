@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 68069,
+  "num_followers": 68076,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAA8vsf15Sf3mlCc7h25z06G",
+  "snapshot_id": "Z+nbAAAAAADRCZOgsR9hrNm9AX7AnNwV",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Falta",
-        "url": "https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 188412,
-      "name": "La Falta",
-      "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
+      "duration_ms": 147000,
+      "name": "Si Dios Fuera Poeta",
+      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
     },
     {
       "added_at": null,
@@ -331,22 +327,6 @@
       "duration_ms": 158217,
       "name": "Hola Mi Amor",
       "url": "https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Si Dios Fuera Poeta",
-      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
     },
     {
       "added_at": null,
@@ -391,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188412,
+      "name": "La Falta",
+      "url": "https://open.spotify.com/track/3ButIE6y5SSxmpI5y6rOaP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CALIDOSA",
         "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
       },
@@ -403,30 +403,6 @@
       "duration_ms": 178500,
       "name": "Desaparecida",
       "url": "https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Keityn",
-          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
-        }
-      ],
-      "duration_ms": 170471,
-      "name": "El Ego\u00edsmo",
-      "url": "https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY"
     },
     {
       "added_at": null,
@@ -462,11 +438,39 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 161860,
-      "name": "Sufrimos De Lo Mismo",
-      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
+      "duration_ms": 197879,
+      "name": "La L\u00e1",
+      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Keityn",
+          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
+        }
+      ],
+      "duration_ms": 170471,
+      "name": "El Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY"
     },
     {
       "added_at": null,
@@ -483,26 +487,6 @@
       "duration_ms": 174263,
       "name": "Cha Cha - Bandera Blanca",
       "url": "https://open.spotify.com/track/6TnIcW5IzJFr9lqvHmZWDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cali Buenaventura",
-        "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Cali Buenaventura",
-      "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
     },
     {
       "added_at": null,
@@ -530,15 +514,31 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 197879,
-      "name": "La L\u00e1",
-      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+      "duration_ms": 161860,
+      "name": "Sufrimos De Lo Mismo",
+      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cali Buenaventura",
+        "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Cali Buenaventura",
+      "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mitad",
         "url": "https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Qu\u00e9date Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIDOSA",
         "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 122586,
       "name": "La Pena",
       "url": "https://open.spotify.com/track/1MXDyt63gNC0sDbtDa9HFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": null,
@@ -943,6 +927,34 @@
       "duration_ms": 194228,
       "name": "Aspirina",
       "url": "https://open.spotify.com/track/6ALrReAwOmnpcC9L1GI8GD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 226238,
+      "name": "Te Besar\u00e9 - Salsa Remix",
+      "url": "https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU"
     }
   ],
   "unique_name": "This Is Mike Bah\u00eda",

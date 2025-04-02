@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-777 songs - 1 day 22 hr 48 min
+778 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Beauty Sleep](https://open.spotify.com/track/1BwKjdV2zKcHsZMkUO8e9O) | [AB001](https://open.spotify.com/artist/7xxxjEnWtmZeBT3A4PxnY7) | [Beauty Sleep](https://open.spotify.com/album/6D6tmzkDcU8QMAeTGRypYp) | 4:46 | 2023-10-17 | 2023-11-18 |
 | [Below](https://open.spotify.com/track/4YPmXZt65zFz5oVWuwFMW8) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Below](https://open.spotify.com/album/1OC1nAvU5jJdqwidm5AS7z) | 3:35 | 2022-05-09 | 2022-10-04 |
 | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX) | 2:35 | 2021-06-25 | 2022-07-21 |
-| [Best For You and Me](https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Best For You and Me](https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G) | 3:05 | 2024-02-16 |  |
+| [Best For You and Me](https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Best For You and Me](https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G) | 3:05 | 2024-02-16 | 2025-04-02 |
 | [Between All Things](https://open.spotify.com/track/3OPQDZohlsoElUKr7n0O54) | [OHMA](https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx) | [Between All Things](https://open.spotify.com/album/3oduRfKuuHDm7vyZmsIlum) | 5:18 | 2023-10-17 | 2024-04-19 |
 | [Between All Things](https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL) | [OHMA](https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx) | [Between All Things](https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX) | 5:18 | 2022-09-20 | 2023-08-31 |
 | [BIKE NO MORE](https://open.spotify.com/track/4cnZHXqhnYkJP4sUplLrXN) | [Brotherkenzie](https://open.spotify.com/artist/2wy3BoEJGIQdvrkChuNGOS) | [NATHAN](https://open.spotify.com/album/5zwTqi80R9GeYtcJzomP7s) | 3:02 | 2023-05-25 | 2023-11-18 |
@@ -188,6 +188,7 @@
 | [Don't Believe](https://open.spotify.com/track/73v70IvfjLxHBlMsqk1glR) | [Slow Dancer](https://open.spotify.com/artist/2qq8yiTh6GieJeWShMcihO) | [Don't Believe](https://open.spotify.com/album/18Sn9UfuGPsEjTDPrGUZfv) | 3:49 | 2020-12-21 | 2022-04-18 |
 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 | 2023-11-21 |  |
 | [Don't Pull Away](https://open.spotify.com/track/7KAGU3dUQ6YuubQWQ1bMws) | [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Don't Pull Away](https://open.spotify.com/album/5dyjXNMqxOArNhfNsFecZK) | 4:01 | 2020-12-21 | 2022-04-20 |
+| [Dot](https://open.spotify.com/track/4zgwH2Bcs2dweaZ71hNotH) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [yoyo](https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H) | 5:22 | 2025-02-07 |  |
 | [Downtown](https://open.spotify.com/track/2rsFt7hIUz5iPKsr1ImgEc) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Downtown](https://open.spotify.com/album/1iz51lvOjZLHPV8A1QjNsN) | 4:09 | 2020-12-21 | 2022-04-21 |
 | [Drama](https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Drama](https://open.spotify.com/album/1udu7ftqiJGPFjMyUvetdq) | 3:48 | 2021-03-19 | 2022-07-19 |
 | [Dream](https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [L.O.L\. \(Lack Of Love\)](https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP) | 1:24 | 2022-10-28 | 2023-10-24 |

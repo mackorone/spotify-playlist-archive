@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,805,941 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,806,000 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 29 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 |
 | 30 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 31 | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5) | 2:53 |
-| 32 | [Drip](https://open.spotify.com/track/030t6Ow4qRRbJQk3TtWLLH) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Drip](https://open.spotify.com/album/2CWkLbzoUIRmHsNmJFiYlK) | 3:12 |
+| 32 | [Drip \(feat\. Eliza Legzdina\)](https://open.spotify.com/track/030t6Ow4qRRbJQk3TtWLLH) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Drip \(feat\. Eliza Legzdina\)](https://open.spotify.com/album/2CWkLbzoUIRmHsNmJFiYlK) | 3:12 |
 | 33 | [Party Don’t Stop](https://open.spotify.com/track/0wHvrVW47PQORaLEwjsGup) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Ad\-Apt](https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD) | [Party Don’t Stop](https://open.spotify.com/album/4edYdG2DNar0u4Yi2GdjAy) | 3:21 |
 | 34 | [In My Head](https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [In My Head](https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr) | 3:35 |
 | 35 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 |

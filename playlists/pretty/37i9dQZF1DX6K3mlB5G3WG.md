@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,967 likes - 147 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,964 likes - 147 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

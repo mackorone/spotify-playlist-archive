@@ -1,6 +1,6 @@
 {
   "description": "desce dose, carteado na mesa - os verdadeiro \u2705 os bico \u274c",
-  "num_followers": 1404737,
+  "num_followers": 1404678,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,46 @@
     {
       "added_at": "2025-03-28 17:56:48",
       "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "Imagina esse Cen\u00e1rio",
+      "url": "https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -427,46 +467,6 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "Imagina esse Cen\u00e1rio",
-      "url": "https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -647,30 +647,6 @@
     {
       "added_at": "2025-03-28 17:56:48",
       "album": {
-        "name": "Sorriso no Rosto",
-        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sorriso no Rosto",
-      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
         "name": "Tropa Do Pisa",
         "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 133333,
       "name": "Tropa Do Pisa",
       "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
+        "name": "Sorriso no Rosto",
+        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sorriso no Rosto",
+      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -727,6 +727,42 @@
       "duration_ms": 144360,
       "name": "Problemas de um Milion\u00e1rio",
       "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
+        "name": "Mixtape Chir\u00f3",
+        "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "duration_ms": 348292,
+      "name": "Capa da Vogue",
+      "url": "https://open.spotify.com/track/3rzMu9vRyCZAyGvBaJbL9t"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -771,38 +807,34 @@
     {
       "added_at": "2025-03-28 17:56:48",
       "album": {
-        "name": "Mixtape Chir\u00f3",
-        "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
       },
       "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
         {
           "name": "Orochi",
           "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
         },
         {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+          "name": "DJ Negret",
+          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
         }
       ],
-      "duration_ms": 348292,
-      "name": "Capa da Vogue",
-      "url": "https://open.spotify.com/track/3rzMu9vRyCZAyGvBaJbL9t"
+      "duration_ms": 288000,
+      "name": "Nois J\u00e1 T\u00e1 Rico",
+      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -923,38 +955,6 @@
       "duration_ms": 176400,
       "name": "Sem Foto",
       "url": "https://open.spotify.com/track/2xYyitQHifMU31LPWGRVSZ"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "DJ Negret",
-          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Nois J\u00e1 T\u00e1 Rico",
-      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2025-03-28 17:56:48",
       "album": {
-        "name": "Falando com as Favelas",
-        "url": "https://open.spotify.com/album/0J0bz5R86cW6QQ2jg0218D"
-      },
-      "artists": [
-        {
-          "name": "Memphis Depay",
-          "url": "https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 190549,
-      "name": "Falando com as Favelas",
-      "url": "https://open.spotify.com/track/6SXgLTXFwsmF4s6xRt2CRu"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
         "name": "Filha do Deputado",
         "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 371852,
       "name": "Filha do Deputado",
       "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
+        "name": "Falando com as Favelas",
+        "url": "https://open.spotify.com/album/0J0bz5R86cW6QQ2jg0218D"
+      },
+      "artists": [
+        {
+          "name": "Memphis Depay",
+          "url": "https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 190549,
+      "name": "Falando com as Favelas",
+      "url": "https://open.spotify.com/track/6SXgLTXFwsmF4s6xRt2CRu"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -1271,34 +1271,6 @@
     {
       "added_at": "2025-03-28 17:56:48",
       "album": {
-        "name": "Peita do Coring\u00e3o",
-        "url": "https://open.spotify.com/album/02YRoqfpEdkFNwwLpwDvmj"
-      },
-      "artists": [
-        {
-          "name": "Memphis Depay",
-          "url": "https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Peita do Coring\u00e3o",
-      "url": "https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
         "name": "Sigo Frio",
         "url": "https://open.spotify.com/album/2UnskzWZDBBdi01HzIqJjW"
       },
@@ -1339,6 +1311,50 @@
       "duration_ms": 269508,
       "name": "Sigo Frio",
       "url": "https://open.spotify.com/track/6HLY75qUVX62UxxmQcZPul"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
+        "name": "Goodnight Menina 4",
+        "url": "https://open.spotify.com/album/6v0KM0h9wtgD7EcToXVvPl"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Goodnight Menina 4",
+      "url": "https://open.spotify.com/track/2rFi57mXQTm8Di4DJ8WPKi"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
+        "name": "Sem Tempo Pra Fofoca",
+        "url": "https://open.spotify.com/album/1kOekmmNItSKpxIVfVk1Tf"
+      },
+      "artists": [
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Sem Tempo Pra Fofoca",
+      "url": "https://open.spotify.com/track/3MAt1i2suotwxyd7t3R5X5"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -1387,26 +1403,6 @@
     {
       "added_at": "2025-03-28 17:56:48",
       "album": {
-        "name": "Sem Tempo Pra Fofoca",
-        "url": "https://open.spotify.com/album/1kOekmmNItSKpxIVfVk1Tf"
-      },
-      "artists": [
-        {
-          "name": "DJ BOY",
-          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "Sem Tempo Pra Fofoca",
-      "url": "https://open.spotify.com/track/3MAt1i2suotwxyd7t3R5X5"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -1431,26 +1427,30 @@
     {
       "added_at": "2025-03-28 17:56:48",
       "album": {
-        "name": "Goodnight Menina 4",
-        "url": "https://open.spotify.com/album/6v0KM0h9wtgD7EcToXVvPl"
+        "name": "Peita do Coring\u00e3o",
+        "url": "https://open.spotify.com/album/02YRoqfpEdkFNwwLpwDvmj"
       },
       "artists": [
         {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+          "name": "Memphis Depay",
+          "url": "https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo"
         },
         {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         },
         {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Goodnight Menina 4",
-      "url": "https://open.spotify.com/track/2rFi57mXQTm8Di4DJ8WPKi"
+      "duration_ms": 245500,
+      "name": "Peita do Coring\u00e3o",
+      "url": "https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -1479,6 +1479,30 @@
       "duration_ms": 140979,
       "name": "C.A.P",
       "url": "https://open.spotify.com/track/6848Jh2cFXvILaNmoaezOG"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
+        "name": "Dinero - Spotify Singles",
+        "url": "https://open.spotify.com/album/550HfEeA8nIJAquFVlejI8"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Dinero - Spotify Singles",
+      "url": "https://open.spotify.com/track/3f75BmT1ClAVyjjFEw6sws"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -1579,30 +1603,6 @@
     {
       "added_at": "2025-03-28 17:56:48",
       "album": {
-        "name": "Dinero - Spotify Singles",
-        "url": "https://open.spotify.com/album/550HfEeA8nIJAquFVlejI8"
-      },
-      "artists": [
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Dinero - Spotify Singles",
-      "url": "https://open.spotify.com/track/3f75BmT1ClAVyjjFEw6sws"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
         "name": "Vou Nessa",
         "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
       },
@@ -1623,6 +1623,34 @@
       "duration_ms": 226875,
       "name": "Vou Nessa",
       "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
+    },
+    {
+      "added_at": "2025-03-28 17:56:48",
+      "album": {
+        "name": "Do Corre",
+        "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "DJ LN",
+          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Do Corre",
+      "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
     },
     {
       "added_at": "2025-03-28 17:56:48",
@@ -1671,34 +1699,6 @@
       "duration_ms": 156744,
       "name": "Futuro de Ouro",
       "url": "https://open.spotify.com/track/2Q0EI3fEeqlEr12YUUAzOW"
-    },
-    {
-      "added_at": "2025-03-28 17:56:48",
-      "album": {
-        "name": "Do Corre",
-        "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
-      },
-      "artists": [
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "DJ LN",
-          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Do Corre",
-      "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
     }
   ],
   "unique_name": "creme",

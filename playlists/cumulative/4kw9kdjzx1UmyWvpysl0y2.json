@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 200454,
       "name": "Beacon",
       "url": "https://open.spotify.com/track/0QSgN6pgdJdCBSNCAxHyok"
@@ -14266,7 +14266,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 160000,
       "name": "Rubix Cube",
       "url": "https://open.spotify.com/track/6o12D6Pk42lsb6m2aYtqJr"
@@ -19508,6 +19508,28 @@
       "duration_ms": 158027,
       "name": "World Wide Web",
       "url": "https://open.spotify.com/track/65XS0xY3RjsXdn0Qzy3isF"
+    },
+    {
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/7urxeMQpkbdTidAYJS6Cl8"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187874,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/43clOQYz4Jhr7AuU1hOS78"
     },
     {
       "album": {

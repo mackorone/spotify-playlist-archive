@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: ROTTENGRAFFTY
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: ANORAK!
 
-820 songs - 1 day 19 hr 35 min
+822 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Fire](https://open.spotify.com/track/2a5Mrsb0r8lzpHryHgumAv) | [G\-FREAK FACTORY](https://open.spotify.com/artist/6XPpGsWRFQG1bi0qscvotx) | [FLARE/Fire](https://open.spotify.com/album/3tCbroV4FrGUw59V6YNJs9) | 4:00 | 2022-05-12 | 2022-07-26 |
 | [flagship](https://open.spotify.com/track/0JJx4ACNhyKrrSVRMPXyzw) | [hificoffees](https://open.spotify.com/artist/1AqwM9YZhBOxQlSyiiYVMY) | [flagship](https://open.spotify.com/album/21fI2KyTKCoUszbfw0GGtI) | 3:46 | 2024-03-05 | 2024-04-19 |
 | [flagship](https://open.spotify.com/track/4a01VbAG5YGyQ6CBH7KzLA) | [ハイファイコーヒーズ](https://open.spotify.com/artist/3nfnWSg80zCxmZ9Q8sspKm) | [flagship](https://open.spotify.com/album/6sumXukVRgoHRce55kELGj) | 3:46 | 2024-03-05 | 2024-09-04 |
+| [Fledgling](https://open.spotify.com/track/5tvaEwIBqMrbKPIzfIRzMQ) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [Fledgling](https://open.spotify.com/album/4PW3M0r0Zs8msRppMWuNn9) | 2:24 | 2025-04-01 |  |
 | [Fleeting](https://open.spotify.com/track/75HEbPH6oRiraYCdrT7BZU) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Fleeting](https://open.spotify.com/album/544Jdvoikdhj5TstI63Pyy) | 2:34 | 2022-05-17 | 2022-07-29 |
 | [FLY & DIVE](https://open.spotify.com/track/1GyJ9861V1V5xddnmDIRpx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [FLY & DIVE](https://open.spotify.com/album/5DQw8dUj4sorH7LFW6LBFc) | 3:44 | 2023-09-07 | 2023-10-18 |
 | [FlyAway](https://open.spotify.com/track/32Z0ajZeUseesxfJHnGZJK) | [MOTHBALL](https://open.spotify.com/artist/4kFIznJL74Ic9Z5wfpCFNc) | [What a Wonderful World](https://open.spotify.com/album/5PZX1fseCj8BA3clmmwlsW) | 3:06 | 2022-05-12 | 2022-07-26 |
@@ -193,7 +194,7 @@
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 |  |
 | [Happy Nante](https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Happy Nante](https://open.spotify.com/album/2B2IgbFuBorxh70ZQzM7nk) | 3:22 | 2025-01-07 |  |
-| [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 |  |
+| [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 | 2025-04-02 |
 | [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-08-23 |
 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-05 | 2023-05-18 |
@@ -435,6 +436,7 @@
 | [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 |  |
 | [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 | 2024-04-17 |
 | [Seahorse](https://open.spotify.com/track/26NdFMwJkFi2L4EWSxcPnV) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [Seahorse](https://open.spotify.com/album/7jb4aq0bopsiuW1k8i6lDA) | 3:28 | 2023-11-28 | 2023-12-06 |
+| [SEASON](https://open.spotify.com/track/1r1Ft25nw0PaQs2fI5fymJ) | [HERO COMPLEX](https://open.spotify.com/artist/2w3zotiYKfS7ZQLqqu3vkV) | [SEASON](https://open.spotify.com/album/4un5E7EVg5RvLev9xTsoQR) | 3:05 | 2025-04-01 |  |
 | [Second March](https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe) | [Danablu](https://open.spotify.com/artist/7rOm14pDj1CaXtrbFfIjRt) | [Second March](https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0) | 2:45 | 2023-08-01 | 2023-08-23 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
 | [see you walking](https://open.spotify.com/track/2S77Zkxf7eckj4gaq3zn1O) | [ALiVE](https://open.spotify.com/artist/5pSPKQkHGRGaTyY3vMG8Hz) | [Olive branch](https://open.spotify.com/album/0piB3BJMmZ82AFte4dy7XL) | 0:35 | 2023-07-11 | 2023-08-16 |
@@ -749,7 +751,7 @@
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-01-10 |
 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2023-10-24 | 2023-10-26 |
 | [少年時代](https://open.spotify.com/track/2uVnjd2uVKPg299891KcFs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [少年時代](https://open.spotify.com/album/5y3xFfjLRFB5ACA5EBgjtq) | 3:20 | 2024-07-09 | 2024-10-09 |
-| [左様なら](https://open.spotify.com/track/35EO65pIPwMR9jNfBsHNBv) | [HATAKE](https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0) | [左様なら](https://open.spotify.com/album/4otXvksOzgyZSuyz0RzWgp) | 2:29 | 2025-03-11 |  |
+| [左様なら](https://open.spotify.com/track/35EO65pIPwMR9jNfBsHNBv) | [HATAKE](https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0) | [左様なら](https://open.spotify.com/album/4otXvksOzgyZSuyz0RzWgp) | 2:29 | 2025-03-11 | 2025-04-02 |
 | [彗星](https://open.spotify.com/track/7IP4KLRpBHMlt8ItnmcIwq) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [シエラのように](https://open.spotify.com/album/0luH7u81HrQytGR9HHRDKs) | 1:51 | 2022-05-17 | 2022-12-14 |
 | [心の旅](https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 3:27 | 2022-05-12 | 2022-12-16 |
 | [心の銃](https://open.spotify.com/track/0Fk248BqI822A40zhw5iGy) | [ANARCHY](https://open.spotify.com/artist/65PLMuXMHef9HcEW5AamYy) | [亜無亜危異 都市](https://open.spotify.com/album/4fbwOtm9zF6VM9lA9yDPVm) | 2:31 | 2022-05-19 | 2022-07-08 |

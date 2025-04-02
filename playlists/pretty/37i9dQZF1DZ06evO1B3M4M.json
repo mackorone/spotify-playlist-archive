@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 14479,
+  "num_followers": 14481,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAACROcFXy//7PdG9NP7nb/Az",
+  "snapshot_id": "Z+nbAAAAAAACDcIk8QNd2o65z2tCqTV9",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 86906,
-      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
-      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 168929,
       "name": "The Old Therebefore / Singing at Snakes - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/6Mbgtn1ZjgS1upiV2ghB9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/44qAUS0siEj2plisdS25xw"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 159960,
+      "name": "The Mockingjay",
+      "url": "https://open.spotify.com/track/46EmDxrxAXfkplyXDQKTJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peter Pan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 324026,
       "name": "Fairy Dance",
       "url": "https://open.spotify.com/track/3VODwXoY2gZKbgC098Hr77"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunger Games: Original Motion Picture Score",
-        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 299800,
-      "name": "Rue's Farewell",
-      "url": "https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/44qAUS0siEj2plisdS25xw"
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 159960,
-      "name": "The Mockingjay",
-      "url": "https://open.spotify.com/track/46EmDxrxAXfkplyXDQKTJJ"
+      "duration_ms": 299800,
+      "name": "Rue's Farewell",
+      "url": "https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo"
     },
     {
       "added_at": null,
@@ -650,11 +650,15 @@
         {
           "name": "James Newton Howard",
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Jennifer Lawrence",
+          "url": "https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh"
         }
       ],
-      "duration_ms": 145506,
-      "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"
+      "duration_ms": 581826,
+      "name": "There Are Worse Games To Play/Deep In The Meadow/The Hunger Games Suite - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/2hgmZiJQLjpzkkD93Nne8d"
     },
     {
       "added_at": null,
@@ -714,15 +718,11 @@
         {
           "name": "James Newton Howard",
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "Jennifer Lawrence",
-          "url": "https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh"
         }
       ],
-      "duration_ms": 581826,
-      "name": "There Are Worse Games To Play/Deep In The Meadow/The Hunger Games Suite - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/2hgmZiJQLjpzkkD93Nne8d"
+      "duration_ms": 145506,
+      "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"
     },
     {
       "added_at": null,

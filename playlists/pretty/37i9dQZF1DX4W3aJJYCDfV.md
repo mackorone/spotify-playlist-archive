@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nemzzz, Mumford & Sons, Little Simz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,865 likes - 117 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,876 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

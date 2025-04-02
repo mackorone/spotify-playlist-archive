@@ -3066,7 +3066,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 186409,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/24FUU6qp8yTcbJGvhExsPC"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 231016,
       "name": "Con otra",
       "url": "https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ"
@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 171860,
       "name": "Culiacan",
       "url": "https://open.spotify.com/track/20iFe0nIF1BefqYeTFtXYN"
@@ -3318,7 +3318,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/21AShE3yF3gqN1EHw3aEmH"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
@@ -4709,6 +4709,28 @@
     },
     {
       "album": {
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+    },
+    {
+      "album": {
         "name": "En Tu Cuerpo (Remix)",
         "url": "https://open.spotify.com/album/4IoXqa2p31wSTnOIYppcG3"
       },
@@ -5446,7 +5468,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -7408,7 +7430,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 188969,
       "name": "Leyenda",
       "url": "https://open.spotify.com/track/3CiLKA28ADlogEKaUOmPRX"
@@ -8806,7 +8828,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -11730,7 +11752,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 183346,
       "name": "Recordar\u00e1s Que Te Amo",
       "url": "https://open.spotify.com/track/1GGZnUQ91PVTYfmjW8NVsz"
@@ -12760,7 +12782,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 192786,
       "name": "Si Yo Fuera El",
       "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
@@ -13030,7 +13052,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 192200,
       "name": "Solo Los Tontos",
       "url": "https://open.spotify.com/track/542Wnf7kuXpw35ORdmPpzk"
@@ -13520,7 +13542,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 233639,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
@@ -15224,7 +15246,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"

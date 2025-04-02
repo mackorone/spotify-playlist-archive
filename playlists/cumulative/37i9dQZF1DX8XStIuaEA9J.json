@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: YOASOBI",
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: imase ",
   "name": "Teen Culture",
   "tracks": [
     {
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 148089,
       "name": "Drop",
       "url": "https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 232649,
       "name": "FRIENDS!!!",
       "url": "https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx"
@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 215120,
       "name": "GOD_i",
       "url": "https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN"
@@ -3441,6 +3441,32 @@
     },
     {
       "album": {
+        "name": "Hood Melody",
+        "url": "https://open.spotify.com/album/5IcWRGsA5XaQAtV5msVoqL"
+      },
+      "artists": [
+        {
+          "name": "G-k.i.d",
+          "url": "https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v"
+        },
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "ELIONE",
+          "url": "https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174366,
+      "name": "HANEDA (feat. Kvi Baba & ELIONE)",
+      "url": "https://open.spotify.com/track/4XV1FDxQSdMnqCY2Bpsm5v"
+    },
+    {
+      "album": {
         "name": "Hang Out",
         "url": "https://open.spotify.com/album/0R9igyV7fn4zfcDCHpVGVa"
       },
@@ -3572,6 +3598,24 @@
       "duration_ms": 153065,
       "name": "HELLO (from The Tiger's Apprentice)",
       "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
+    },
+    {
+      "album": {
+        "name": "20 +",
+        "url": "https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298875,
+      "name": "HERE",
+      "url": "https://open.spotify.com/track/60KQDUR0c1YQJ0KFphbQG4"
     },
     {
       "album": {
@@ -5282,7 +5326,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 273600,
       "name": "Miss Luxury",
       "url": "https://open.spotify.com/track/2pPZuMAbrKIxxRCYhhOojm"
@@ -6190,7 +6234,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 182847,
       "name": "Oneway Drive (feat. Kohjiya)",
       "url": "https://open.spotify.com/track/4fu29RldaHcE39JaT2LBRe"
@@ -6848,7 +6892,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 196932,
       "name": "Red Wine (It Tastes Young & Rich)",
       "url": "https://open.spotify.com/track/4YZXpETSuNWLCPv1kzKtYC"
@@ -7018,6 +7062,24 @@
       "duration_ms": 174768,
       "name": "rooftop",
       "url": "https://open.spotify.com/track/2BiW2mCVcfDr49njt7j5B6"
+    },
+    {
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "ROSE",
+      "url": "https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0"
     },
     {
       "album": {
@@ -7339,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "BIG C",
+        "url": "https://open.spotify.com/album/53QpvoPooI5XLKHOs4rdxz"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "She Knows",
+      "url": "https://open.spotify.com/track/7wjKYOF5B2ebYVzFiDpkK3"
+    },
+    {
+      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -7484,6 +7564,24 @@
       "duration_ms": 215490,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+    },
+    {
+      "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/7soauDeprZhDEaFw2yXjAW"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166612,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/3yoNPRG7fYlOu7Mgwoc6WQ"
     },
     {
       "album": {
@@ -7686,6 +7784,24 @@
       "duration_ms": 173212,
       "name": "South Side",
       "url": "https://open.spotify.com/track/2mtcDNgCXpgIHfla9flfsB"
+    },
+    {
+      "album": {
+        "name": "Soyokaze",
+        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216417,
+      "name": "Soyokaze",
+      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
     },
     {
       "album": {
@@ -9768,7 +9884,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 241626,
       "name": "\u304a\u304f\u3059\u308a",
       "url": "https://open.spotify.com/track/6hx93BC7f14bffbKr82cOq"
@@ -12785,6 +12901,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u4eba\u306b\u306a\u3093\u3066\u306a\u308a\u305f\u304f\u306a\u3044",
+        "url": "https://open.spotify.com/album/3lJvtKUveqQgguZnxUAYrc"
+      },
+      "artists": [
+        {
+          "name": "edhiii boi",
+          "url": "https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222788,
+      "name": "\u30de\u30b8\u3060\u308a\u3043",
+      "url": "https://open.spotify.com/track/5SnwsfxnDH4bp5UTWUnq2b"
+    },
+    {
+      "album": {
         "name": "\u30df\u30ab\u30c5\u30ad",
         "url": "https://open.spotify.com/album/5Ab8WWR8dwoctuRFdtKLCz"
       },
@@ -13385,6 +13519,24 @@
     },
     {
       "album": {
+        "name": "\u4e16\u754c\u3067\u3044\u3061\u3070\u3093\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/6JD8GM696doIeX577fX94c"
+      },
+      "artists": [
+        {
+          "name": "Cho Tokimeki Sendenbu",
+          "url": "https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "\u4e16\u754c\u3067\u3044\u3061\u3070\u3093\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/4wsPxkBObUfhyH1zpF5LBs"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e7e\u676f!!\uff5e\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30b3\u30e9\u30dc\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\uff5e",
         "url": "https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX"
       },
@@ -13508,7 +13660,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 161693,
       "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU - Japanese Ver.",
       "url": "https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S"
@@ -14420,7 +14572,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 139259,
       "name": "\u5927\u4eba\u306b\u306a\u3093\u3066\u306a\u308a\u305f\u304f\u306a\u3044",
       "url": "https://open.spotify.com/track/0xHpdLczstT3UOhLa55wq9"
@@ -16156,6 +16308,24 @@
       "duration_ms": 190575,
       "name": "\u7fa4\u9752",
       "url": "https://open.spotify.com/track/72mV4ZPL2UBGwgWyqdllIx"
+    },
+    {
+      "album": {
+        "name": "\u7fa4\u9752\u98db\u884c",
+        "url": "https://open.spotify.com/album/3hk3Z5cwWJ24yEMhTDUqCg"
+      },
+      "artists": [
+        {
+          "name": "DISH//",
+          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "\u7fa4\u9752\u98db\u884c",
+      "url": "https://open.spotify.com/track/1L71DEeMAtf3HSY433elri"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Durk\)
 
-2,707 songs - 5 day 16 hr 54 min
+2,707 songs - 5 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2632,7 +2632,7 @@
 | [Worst Day](https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Worst Day](https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT) | 3:04 | 2022-02-11 | 2022-03-18 |
 | [Worst Manifesto](https://open.spotify.com/track/5MAnvU9jQcM9bPMeDxptol) | [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio), [Prime Manifez](https://open.spotify.com/artist/2PRy6vElGqZHlWrShjYOCP) | [Worst Manifesto \- EP](https://open.spotify.com/album/03edROnPGNqribY1GwIJm2) | 1:55 | 2023-01-26 | 2023-03-18 |
 | [WORTH SOMETHING](https://open.spotify.com/track/4kUi3uKKit4XcmDs0V63h2) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [WORTH SOMETHING](https://open.spotify.com/album/7wuX9vUDXBCS3MzUVp7Drw) | 4:05 | 2025-03-27 |  |
-| [WORTH SOMETHING \(feat\. Big Sean & Skilla Baby\)](https://open.spotify.com/track/4h5lvpabFcgDiBwKSqQ0x8) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [UNDEFEATED \- EP](https://open.spotify.com/album/0CLVJq9JGSbGABvSbWR09Z) | 3:47 | 2025-03-06 |  |
+| [WORTH SOMETHING \(feat\. Big Sean & Skilla Baby\)](https://open.spotify.com/track/4h5lvpabFcgDiBwKSqQ0x8) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [UNDEFEATED \- EP](https://open.spotify.com/album/0CLVJq9JGSbGABvSbWR09Z) | 2:40 | 2025-03-06 |  |
 | [WOW \(Prod\. GroovyRoom\)](https://open.spotify.com/track/7ess2wDLy17GpjWSWJuIw0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:25 | 2022-11-05 | 2022-12-16 |
 | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG) | 2:57 | 2023-09-07 | 2023-10-06 |
 | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0bZdXeBR0s4NMYFfjc5nzh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 2:40 | 2023-11-29 | 2024-01-05 |

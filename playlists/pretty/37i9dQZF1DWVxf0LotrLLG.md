@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,227 likes - 87 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,251 likes - 87 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6169,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "cat from turkey",
+        "url": "https://open.spotify.com/album/1j6yFAlsPYHktZBAPOWDMP"
+      },
+      "artists": [
+        {
+          "name": "S N U G",
+          "url": "https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100756,
+      "name": "cat from turkey",
+      "url": "https://open.spotify.com/track/4ff4AYceAt76utRfGpyZ6p"
+    },
+    {
+      "album": {
         "name": "Cat Whisperer",
         "url": "https://open.spotify.com/album/4bwfOZ4QtcVU2grYXcJAd6"
       },
@@ -21966,7 +21984,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 127851,
       "name": "Lucky 7",
       "url": "https://open.spotify.com/track/7uTx78QPwbsA6ZGzv8whYN"
@@ -29516,6 +29534,24 @@
       "duration_ms": 142000,
       "name": "Postcard",
       "url": "https://open.spotify.com/track/6igKvLcWShsDL1ZRhUMTcM"
+    },
+    {
+      "album": {
+        "name": "Pottery",
+        "url": "https://open.spotify.com/album/6QHLthR6BNxKWAN5pScrGo"
+      },
+      "artists": [
+        {
+          "name": "Quinn Rain",
+          "url": "https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135689,
+      "name": "Pottery",
+      "url": "https://open.spotify.com/track/2ITFn7Wzd3vbit7MwFx8FX"
     },
     {
       "album": {
@@ -39060,7 +39096,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 184658,
       "name": "Topinamborough",
       "url": "https://open.spotify.com/track/64S00l6oDW4AYs7yXb0SLD"

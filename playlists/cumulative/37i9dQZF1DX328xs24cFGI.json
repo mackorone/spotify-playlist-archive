@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Ever Song",
+        "url": "https://open.spotify.com/album/603VPX30jylDq8oxT9lrlq"
+      },
+      "artists": [
+        {
+          "name": "reGretGirl",
+          "url": "https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Ever Song",
+      "url": "https://open.spotify.com/track/6e0mije7XkHP82jEyQTADM"
+    },
+    {
+      "album": {
         "name": "EYES ON YOU",
         "url": "https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L"
       },
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 231099,
       "name": "then I luv U",
       "url": "https://open.spotify.com/track/45qDFztSBBgzodqrBc37TM"
@@ -5762,7 +5780,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 203211,
       "name": "\u604b",
       "url": "https://open.spotify.com/track/2BjsXpCV4Bw1P4pXmlTv7b"
@@ -6558,6 +6576,24 @@
       "duration_ms": 261546,
       "name": "\u681e",
       "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"
+    },
+    {
+      "album": {
+        "name": "\u6848\u306e\u5b9a\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/6OsOr0IIHM1VobBeAO5zsu"
+      },
+      "artists": [
+        {
+          "name": "Chippoke Ohashi",
+          "url": "https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "\u6848\u306e\u5b9a\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+      "url": "https://open.spotify.com/track/1iX3eiTPtXhGwFd1KLQpzq"
     },
     {
       "album": {

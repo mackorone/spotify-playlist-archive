@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 319662,
+  "num_followers": 319654,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Birds In The Sky",
-        "url": "https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X"
-      },
-      "artists": [
-        {
-          "name": "NewEra",
-          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
-        }
-      ],
-      "duration_ms": 133548,
-      "name": "Birds In The Sky",
-      "url": "https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Birds In The Sky",
+        "url": "https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X"
+      },
+      "artists": [
+        {
+          "name": "NewEra",
+          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
+        }
+      ],
+      "duration_ms": 133548,
+      "name": "Birds In The Sky",
+      "url": "https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 150987,
-      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "No Time (feat. SadBoi)",
         "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 171520,
       "name": "No Time (feat. SadBoi)",
       "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 150987,
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
-      },
-      "artists": [
-        {
-          "name": "Symmetrik",
-          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "I CAN'T LOSE YOU",
         "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 155343,
       "name": "I CAN\u2019T LOSE YOU",
       "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
+      },
+      "artists": [
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Dance To The Beat (Pitchin')",
         "url": "https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 161029,
       "name": "Dance To The Beat (Pitchin')",
       "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "A Feeling",
-        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
-      },
-      "artists": [
-        {
-          "name": "Hyzteria",
-          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 158809,
-      "name": "A Feeling",
-      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "At Night EP",
         "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 238367,
       "name": "At Night",
       "url": "https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "A Feeling",
+        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
+      },
+      "artists": [
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 158809,
+      "name": "A Feeling",
+      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1443,30 +1443,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "PE$O",
-        "url": "https://open.spotify.com/album/2XoyikKhNxe9XLRloDLRC7"
-      },
-      "artists": [
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 156416,
-      "name": "PE$O",
-      "url": "https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dominator",
         "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
       },
@@ -1491,6 +1467,30 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "PE$O",
+        "url": "https://open.spotify.com/album/2XoyikKhNxe9XLRloDLRC7"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 156416,
+      "name": "PE$O",
+      "url": "https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Bota Bota",
         "url": "https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV"
       },
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6BAVulcFKGtQX4B6VGm42s"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "She's In The Club (feat. Asal)",
         "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 188011,
       "name": "She's In The Club (feat. Asal)",
       "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD"
-      },
-      "artists": [
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        }
-      ],
-      "duration_ms": 218507,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/6BAVulcFKGtQX4B6VGm42s"
     },
     {
       "added_at": "2024-09-19 23:00:00",

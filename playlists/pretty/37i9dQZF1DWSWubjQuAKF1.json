@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: IKARVS",
-  "num_followers": 22088,
+  "num_followers": 22087,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-03-27 23:00:25",
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
+    },
+    {
+      "added_at": "2025-03-27 23:00:25",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS"
       },
@@ -523,6 +539,22 @@
       "duration_ms": 175082,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE"
+    },
+    {
+      "added_at": "2025-03-27 23:00:25",
+      "album": {
+        "name": "death wish",
+        "url": "https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 170519,
+      "name": "death wish",
+      "url": "https://open.spotify.com/track/0syhM7efawK9yseurhzPmN"
     },
     {
       "added_at": "2025-03-27 23:00:25",
@@ -543,22 +575,6 @@
       "duration_ms": 150495,
       "name": "Babydoll (feat. Aliyah\u2019s Interlude)",
       "url": "https://open.spotify.com/track/4Xgy6XFSLcfkfCFjkoykwM"
-    },
-    {
-      "added_at": "2025-03-27 23:00:25",
-      "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
     },
     {
       "added_at": "2025-03-27 23:00:25",
@@ -591,22 +607,6 @@
       "duration_ms": 172854,
       "name": "Talk Me Down",
       "url": "https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb"
-    },
-    {
-      "added_at": "2025-03-27 23:00:25",
-      "album": {
-        "name": "death wish",
-        "url": "https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 170519,
-      "name": "death wish",
-      "url": "https://open.spotify.com/track/0syhM7efawK9yseurhzPmN"
     },
     {
       "added_at": "2025-03-27 23:00:25",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-03-27 23:00:25",
       "album": {
-        "name": "TENSION",
-        "url": "https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 147321,
-      "name": "TENSION",
-      "url": "https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH"
-    },
-    {
-      "added_at": "2025-03-27 23:00:25",
-      "album": {
         "name": "bilet beze mnie",
         "url": "https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 170000,
       "name": "bilet beze mnie",
       "url": "https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On"
+    },
+    {
+      "added_at": "2025-03-27 23:00:25",
+      "album": {
+        "name": "TENSION",
+        "url": "https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "duration_ms": 147321,
+      "name": "TENSION",
+      "url": "https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH"
     },
     {
       "added_at": "2025-03-27 23:00:25",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-03-27 23:00:25",
       "album": {
+        "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
+        "url": "https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
+      "url": "https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl"
+    },
+    {
+      "added_at": "2025-03-27 23:00:25",
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/4Nwbv0UxHNuSeK4pKAoJjs"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 169485,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/1PEY0rrb2d8Ic5f4hCPCkX"
-    },
-    {
-      "added_at": "2025-03-27 23:00:25",
-      "album": {
-        "name": "a\u017c zrozumiesz",
-        "url": "https://open.spotify.com/album/10eUUfLaohBIrXd4zZL0Ll"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "a\u017c zrozumiesz",
-      "url": "https://open.spotify.com/track/2xP5xhtfisju7OIMygfNNL"
     }
   ],
   "unique_name": "up next",

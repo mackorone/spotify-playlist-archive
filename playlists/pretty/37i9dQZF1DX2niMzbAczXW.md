@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 
 > Enjoy the world of “COWBOY BEBOP” ©SUNRISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,385 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,479 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tank!](https://open.spotify.com/track/2VqRxxZFbC0uZaTJcZY36c) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック](https://open.spotify.com/album/6cYPbwsAFAcddFuGeXMR7l) | 3:29 |
 | 2 | [RUSH](https://open.spotify.com/track/29jN3FY0OcxtKOQCjZD8rQ) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック](https://open.spotify.com/album/6cYPbwsAFAcddFuGeXMR7l) | 3:34 |
-| 3 | [THE REAL FOLK BLUES](https://open.spotify.com/track/3hhiF1IJa3inOKToUylE7B) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn) | [「COWBOY BEBOP」Vitaminless](https://open.spotify.com/album/3xc0ZAAaQT1peXizHAM1wm) | 6:16 |
+| 3 | [THE REAL FOLK BLUES](https://open.spotify.com/track/3hhiF1IJa3inOKToUylE7B) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [「COWBOY BEBOP」Vitaminless](https://open.spotify.com/album/3xc0ZAAaQT1peXizHAM1wm) | 6:16 |
 | 4 | [Ask DNA](https://open.spotify.com/track/7tKiqBsdfa0GIccaroDekE) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Knockin'on heaven's door Ask DNA](https://open.spotify.com/album/0jVm4Q8Oa4wzXr1V99flUN) | 4:50 |
 | 5 | [WHAT PLANET IS THIS.](https://open.spotify.com/track/4OAgucK8jB2IPdi3swlyXE) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! THE! BEST!](https://open.spotify.com/album/3Irm9gWGr96IBrVjdmGChF) | 2:44 |
 | 6 | [Hamduche](https://open.spotify.com/track/4gl6DKfk51JvKqcCIX1VWz) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Knockin'on heaven's door Ask DNA](https://open.spotify.com/album/0jVm4Q8Oa4wzXr1V99flUN) | 1:49 |
-| 7 | [BLUE](https://open.spotify.com/track/3to42U3gINcBO7oStx7qlh) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 5:01 |
+| 7 | [BLUE](https://open.spotify.com/track/3to42U3gINcBO7oStx7qlh) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 5:01 |
 | 8 | [Doggy Dog](https://open.spotify.com/track/5bqsJ4uuEsnbZdEJXRXCiF) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」Vitaminless](https://open.spotify.com/album/3xc0ZAAaQT1peXizHAM1wm) | 3:15 |
 | 9 | [WO QUI NON COIN](https://open.spotify.com/track/785rHlWIQg67RVPuzOv07u) | [多田葵](https://open.spotify.com/artist/2GA3vR0niTdN9RJItcLMtK) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 3:41 |
-| 10 | [Want it all back](https://open.spotify.com/track/5SZhO7VvDvzvcEWWdmuHAX) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn) | [「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 4:01 |
+| 10 | [Want it all back](https://open.spotify.com/track/5SZhO7VvDvzvcEWWdmuHAX) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 4:01 |
 | 11 | [CAT BLUES](https://open.spotify.com/track/3SkteT464IebspRE7fpkCA) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック](https://open.spotify.com/album/6cYPbwsAFAcddFuGeXMR7l) | 2:35 |
 | 12 | [CALL ME CALL ME](https://open.spotify.com/track/1NXwk4CnS9i4LO492Ci612) | [Steve Conte](https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 4:42 |
 | 13 | [ELM](https://open.spotify.com/track/0VybrPIFPWQo60U1WS60Zm) | [Pierre Bensusan](https://open.spotify.com/artist/5gwjYIVPjuGklvvIhM9EnI) | [「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 5:04 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 | 34 | [Forever Broke](https://open.spotify.com/track/2iFvVitsLlTjm7aWfkdZD5) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 3:14 |
 | 35 | [N.Y RUSH](https://open.spotify.com/track/3xWkdFOPOH5goXhBW0nM9W) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 5:04 |
 | 36 | [AUTUMN IN GANYMEDE](https://open.spotify.com/track/3twRUwWJ3Rpf5DKBg3NQUE) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 3:54 |
-| 37 | [Don't bother none](https://open.spotify.com/track/3q1aZQM0CtOCuSJxJgf67d) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn) | [「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 3:39 |
+| 37 | [Don't bother none](https://open.spotify.com/track/3q1aZQM0CtOCuSJxJgf67d) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 3:39 |
 | 38 | [7minutes](https://open.spotify.com/track/2RXNo7ZWAlj1bOoQQstqus) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP Knockin'on heaven's door」Original Soundtrack　FUTURE BLUES](https://open.spotify.com/album/00ZzUjYsBfmFqjPDUGkFzy) | 6:46 |
 | 39 | [MUSHROOM HUNTING](https://open.spotify.com/track/4kOrqGqBGbPFwHXestzx4a) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 3:18 |
 | 40 | [TOO GOOD TOO BAD](https://open.spotify.com/track/7LqNQahoGykDs5Y6QShGb1) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック](https://open.spotify.com/album/6cYPbwsAFAcddFuGeXMR7l) | 2:34 |

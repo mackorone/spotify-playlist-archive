@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 108653,
+  "num_followers": 108702,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-04-01 00:00:23",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
-    },
-    {
-      "added_at": "2025-04-01 00:00:23",
-      "album": {
         "name": "Meu Xod\u00f3",
         "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 197584,
       "name": "Meu Xod\u00f3",
       "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
+    },
+    {
+      "added_at": "2025-04-01 00:00:23",
+      "album": {
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
     },
     {
       "added_at": "2025-04-01 00:00:23",
@@ -623,22 +623,18 @@
     {
       "added_at": "2025-04-01 00:00:23",
       "album": {
-        "name": "Sem Filtro (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/26F7DKHpz7cpE998hMWv3d"
       },
       "artists": [
         {
           "name": "Banda Eva",
           "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 184914,
-      "name": "Louca - Ao Vivo",
-      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+      "duration_ms": 147692,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/4ulWW2Z1OQU6gDxC1MPIRB"
     },
     {
       "added_at": "2025-04-01 00:00:23",
@@ -755,18 +751,22 @@
     {
       "added_at": "2025-04-01 00:00:23",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/26F7DKHpz7cpE998hMWv3d"
+        "name": "Sem Filtro (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
       "artists": [
         {
           "name": "Banda Eva",
           "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 147692,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/4ulWW2Z1OQU6gDxC1MPIRB"
+      "duration_ms": 184914,
+      "name": "Louca - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
     },
     {
       "added_at": "2025-04-01 00:00:23",

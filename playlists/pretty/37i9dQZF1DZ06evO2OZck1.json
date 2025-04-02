@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54035,
+  "num_followers": 54037,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAAiIS2PpvpmH06pi+OX4iIw",
+  "snapshot_id": "Z+nbAAAAAAArUXydK8Gw9d9v1TxaPC7c",
   "tracks": [
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 165354,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
+      "duration_ms": 255600,
+      "name": "koinosyadanki feat H ZETTRIO",
+      "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
     },
     {
       "added_at": null,
@@ -339,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 255600,
-      "name": "koinosyadanki feat H ZETTRIO",
-      "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
+      "duration_ms": 165354,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 259066,
-      "name": "toumeigirl(H ZETT M edit ver.)",
-      "url": "https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN"
+      "duration_ms": 253866,
+      "name": "zzz",
+      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 253866,
-      "name": "zzz",
-      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
+      "duration_ms": 259066,
+      "name": "toumeigirl(H ZETT M edit ver.)",
+      "url": "https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > layan je
 
-281 songs - 18 hr 32 min
+282 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Break The Silence \- Indonesia Version](https://open.spotify.com/track/2T3pycj5laBVctruGZUtC7) | [Audrey Vanessa](https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA) | [Break The Silence](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 | 2024-01-25 | 2024-02-02 |
 | [Buang Waktu](https://open.spotify.com/track/498HBb9Fg8djwl2kIkL33h) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 3:55 | 2024-07-12 | 2024-07-27 |
 | [Bukan Dengan Dia](https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Bukan Dengan Dia](https://open.spotify.com/album/6F8ak3UeNmOXcE4v3KctlC) | 4:01 | 2024-06-27 | 2024-07-27 |
+| [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 | 2025-03-13 |  |
 | [Bukan Karena Tak Cinta](https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Karena Tak Cinta](https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x) | 4:18 | 2024-06-07 | 2024-06-21 |
 | [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 | 2024-08-30 |  |
 | [Bukan Sebuah Rindu](https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Sebuah Rindu](https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy) | 3:51 | 2024-05-10 | 2024-05-17 |
@@ -149,7 +150,7 @@
 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 | 2024-02-29 |  |
 | [Kisah Yang Lain](https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Yang Lain](https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss) | 4:02 | 2024-02-15 | 2024-02-23 |
 | [Kita Sama Sama Tau](https://open.spotify.com/track/2W88VFBsbYqCK2WXocaQZu) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Kita Sama Sama Tau](https://open.spotify.com/album/6IiO7rwSMqGEwC71XcgfnU) | 4:02 | 2024-10-17 | 2024-12-13 |
-| [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 | 2024-01-18 |  |
+| [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 | 2024-01-18 | 2025-04-02 |
 | [Kukira Hanya Lagu](https://open.spotify.com/track/37lt8ItlvPlHFg6V5pYzih) | [Angie Zelena](https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz) | [Kukira Hanya Lagu](https://open.spotify.com/album/1cDf5UybBdkY64gV4F1EjA) | 3:35 | 2024-01-25 | 2024-02-02 |
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-01 | 2024-10-04 |
 | [Langit Yang Sama \- Acoustic](https://open.spotify.com/track/6z92dAQFnIAACDMtvgdzKi) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama \- Acoustic](https://open.spotify.com/album/7u3Tul3r6d5Jrty0mTQccq) | 4:10 | 2024-09-19 | 2024-09-28 |

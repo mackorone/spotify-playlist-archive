@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 874,
+  "num_followers": 875,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAABqvaqjSdDwHC+7BcGiYJ23",
+  "snapshot_id": "Z+nbAAAAAAD5b1USEBcOmlkEhExf3ggB",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 185391,
-      "name": "Mami - En Vivo",
-      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
+      "duration_ms": 143564,
+      "name": "Dos D\u00edas - En Vivo",
+      "url": "https://open.spotify.com/track/6oPw0awpdxjcWicr2r9Nmv"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Negra a Negra",
+        "url": "https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "De Negra a Negra",
+      "url": "https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con la U y la P",
         "url": "https://open.spotify.com/album/4uuRnTWV3KUzdZBQOZSb5t"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 196659,
       "name": "Con la U y la P",
       "url": "https://open.spotify.com/track/2zOPjlGlARwM0t5YEHPwf4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Negra a Negra",
-        "url": "https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 165640,
-      "name": "De Negra a Negra",
-      "url": "https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY"
     },
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "YO NO SOY CELOSO (En Vivo)",
+        "url": "https://open.spotify.com/album/5orwrnYkL5u7Thu3DmhBRo"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Nuevo Regimen",
+          "url": "https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8"
+        }
+      ],
+      "duration_ms": 231125,
+      "name": "YO NO SOY CELOSO - En Vivo",
+      "url": "https://open.spotify.com/track/7nzpSyN3g8VLoKiBOIxtiX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu"
       },
@@ -795,46 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL AMOR NUNCA SE VENDE (En Vivo)",
-        "url": "https://open.spotify.com/album/2dxsZvPEjOITBYHa91huZm"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "EL AMOR NUNCA SE VENDE - En Vivo",
-      "url": "https://open.spotify.com/track/0FC0wOPpXiRT4Vu3tk8QAH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YO NO SOY CELOSO (En Vivo)",
-        "url": "https://open.spotify.com/album/5orwrnYkL5u7Thu3DmhBRo"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Nuevo Regimen",
-          "url": "https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8"
-        }
-      ],
-      "duration_ms": 231125,
-      "name": "YO NO SOY CELOSO - En Vivo",
-      "url": "https://open.spotify.com/track/7nzpSyN3g8VLoKiBOIxtiX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grupo T\u00e1ctico",
         "url": "https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0"
       },
@@ -851,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW"
+        "name": "EL AMOR NUNCA SE VENDE (En Vivo)",
+        "url": "https://open.spotify.com/album/2dxsZvPEjOITBYHa91huZm"
       },
       "artists": [
         {
@@ -860,13 +840,13 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Los Kortez De Sinaloa",
-          "url": "https://open.spotify.com/artist/7EvFqmaY1UeFqI9ZM03HST"
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 166365,
-      "name": "MIENTRAS VIVA - En Vivo",
-      "url": "https://open.spotify.com/track/3K50Dqm0LzWQZKhpr4BovV"
+      "duration_ms": 207957,
+      "name": "EL AMOR NUNCA SE VENDE - En Vivo",
+      "url": "https://open.spotify.com/track/0FC0wOPpXiRT4Vu3tk8QAH"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
       "duration_ms": 281840,
       "name": "Mi Ranchito (En Vivo)",
       "url": "https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Kortez De Sinaloa",
+          "url": "https://open.spotify.com/artist/7EvFqmaY1UeFqI9ZM03HST"
+        }
+      ],
+      "duration_ms": 166365,
+      "name": "MIENTRAS VIVA - En Vivo",
+      "url": "https://open.spotify.com/track/3K50Dqm0LzWQZKhpr4BovV"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "NO LLORES M\u00c1S",
+      "url": "https://open.spotify.com/track/3QROwoRzAm4MP58syg12Zk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TUMBADO STYLE",
         "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
       },
@@ -947,26 +963,6 @@
       "duration_ms": 194626,
       "name": "SALUDOS A MI VIEJ\u00d3N",
       "url": "https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Tomas Madrigal",
-          "url": "https://open.spotify.com/artist/29MvAYU9dWzjODhCShvn4C"
-        }
-      ],
-      "duration_ms": 220970,
-      "name": "EL REY DE MIL CORONAS - En Vivo",
-      "url": "https://open.spotify.com/track/4pCa8V4EFQxJiJg7NYwWHf"
     }
   ],
   "unique_name": "This Is Danny Felix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,001 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,024 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 64 | [Electricity](https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/2EqVdnQMtVOAIyLVPH1q9Y) | 2:12 |
 | 65 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 |
 | 66 | [For the Popping \(Apicki\)](https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [For the Popping \(Apicki\)](https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq) | 2:57 |
-| 67 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
-| 68 | [Kwaku Ananse](https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Kwaku Ananse](https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw) | 3:26 |
+| 67 | [Kwaku Ananse](https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Kwaku Ananse](https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw) | 3:26 |
+| 68 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
 | 69 | [NLF \(Breakfast\) \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\) \- Remix](https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [NLF \(Breakfast\) \[Remix\] \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\)](https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II) | 4:26 |
 | 70 | [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 |
 | 71 | [Fly Girl \(feat\. Oseikrom Sikanii\) \- Remix](https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl \(feat\. Oseikrom Sikanii\) \[Remix\]](https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG) | 3:15 |

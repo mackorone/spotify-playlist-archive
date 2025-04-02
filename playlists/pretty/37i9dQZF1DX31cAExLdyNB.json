@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 72546,
+  "num_followers": 72588,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA"
       },
@@ -979,24 +995,8 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Feels Right",
-        "url": "https://open.spotify.com/album/6iatTNK5ZX7RkhxgRPej9i"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/3lsmVQoFvCNouKW2PeeYuz"
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/6iatTNK5ZX7RkhxgRPej9i"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/3lsmVQoFvCNouKW2PeeYuz"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "LLUVIA",
         "url": "https://open.spotify.com/album/6CxBqU8z9qtUjJlg8RkiX9"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 218171,
       "name": "LLUVIA",
       "url": "https://open.spotify.com/track/31aKmRsmEV8SPw54VlAQXN"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
     },
     {
       "added_at": "2024-06-28 21:13:36",

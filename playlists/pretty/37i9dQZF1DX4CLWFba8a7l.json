@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 125674,
+  "num_followers": 125686,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -227,38 +227,6 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Movie Scene",
-        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 180661,
-      "name": "Movie Scene",
-      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
-    },
-    {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Bird in Paradise",
-        "url": "https://open.spotify.com/album/4pLn7PExHV2Z66zFu4xDQc"
-      },
-      "artists": [
-        {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "Bird in Paradise",
-      "url": "https://open.spotify.com/track/7IjOninBTGNdGfZ3g1Xidh"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "added_at": "2025-03-20 14:34:44",
+      "album": {
+        "name": "Bird in Paradise",
+        "url": "https://open.spotify.com/album/4pLn7PExHV2Z66zFu4xDQc"
+      },
+      "artists": [
+        {
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "Bird in Paradise",
+      "url": "https://open.spotify.com/track/7IjOninBTGNdGfZ3g1Xidh"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
         "name": "Room For You",
         "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU"
     },
     {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Backflips in a Restaurant",
+        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 165522,
+      "name": "Need You Around",
+      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
+    },
+    {
       "added_at": "2025-03-04 23:20:58",
       "album": {
         "name": "Lose Control",
@@ -549,22 +565,6 @@
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
     },
     {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Backflips in a Restaurant",
-        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 165522,
-      "name": "Need You Around",
-      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
-    },
-    {
       "added_at": "2025-03-04 23:20:58",
       "album": {
         "name": "We Could Be Love",
@@ -585,38 +585,6 @@
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
     },
     {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "New Love",
-        "url": "https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 161982,
-      "name": "Learn Yourself",
-      "url": "https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl"
-    },
-    {
       "added_at": "2025-03-13 13:00:38",
       "album": {
         "name": "Call My Name",
@@ -635,18 +603,34 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+        "name": "New Love",
+        "url": "https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+      "duration_ms": 161982,
+      "name": "Learn Yourself",
+      "url": "https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -671,6 +655,22 @@
       "duration_ms": 221602,
       "name": "Give Thanks, Give Praise",
       "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
     },
     {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 174595,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
-    },
-    {
       "added_at": "2025-03-13 13:00:38",
       "album": {
         "name": "empty pages",
@@ -851,18 +835,34 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Peripheral Lover",
-        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
       },
       "artists": [
         {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 195486,
-      "name": "Peripheral Lover",
-      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
+      "duration_ms": 174595,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Electric Feel (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Electric Feel - Spotify Singles",
+      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -899,18 +899,18 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Electric Feel (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
+        "name": "Peripheral Lover",
+        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
       },
       "artists": [
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
         }
       ],
-      "duration_ms": 176800,
-      "name": "Electric Feel - Spotify Singles",
-      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
+      "duration_ms": 195486,
+      "name": "Peripheral Lover",
+      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
+        "name": "So Excited",
+        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 240486,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
         "name": "Happiness In A Place It Shouldn't Be",
         "url": "https://open.spotify.com/album/7bB8437Z2UvT6SSMFBWez2"
       },
@@ -1113,20 +1129,36 @@
       "url": "https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW"
     },
     {
-      "added_at": "2025-03-04 23:20:58",
+      "added_at": "2025-03-20 14:34:44",
       "album": {
-        "name": "So Excited",
-        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
+        "name": "Old Mervs",
+        "url": "https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g"
       },
       "artists": [
         {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
         }
       ],
-      "duration_ms": 240486,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
+      "duration_ms": 161511,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 239769,
+      "name": "Love at First Sight - Spotify Singles",
+      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1147,38 +1179,6 @@
       "duration_ms": 217997,
       "name": "1 DAY 2 LATE",
       "url": "https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Parched",
-        "url": "https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN"
-      },
-      "artists": [
-        {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
-        }
-      ],
-      "duration_ms": 235534,
-      "name": "Parched",
-      "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 239769,
-      "name": "Love at First Sight - Spotify Singles",
-      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
     },
     {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Shut You Out",
-        "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
-      },
-      "artists": [
-        {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
-        }
-      ],
-      "duration_ms": 234715,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
-    },
-    {
       "added_at": "2025-03-04 23:20:58",
       "album": {
         "name": "You're Still Mine",
@@ -1259,6 +1243,22 @@
       "duration_ms": 147846,
       "name": "You're Still Mine",
       "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Young Free & Reckless",
+        "url": "https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        }
+      ],
+      "duration_ms": 192876,
+      "name": "Young Free & Reckless",
+      "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
     }
   ],
   "unique_name": "The Local List",

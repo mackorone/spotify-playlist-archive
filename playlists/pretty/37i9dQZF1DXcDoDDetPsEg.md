@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Unknown T
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,025 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,006 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 22 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
 | 23 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 24 | [All Eyes On Me](https://open.spotify.com/track/6jBy6OXWqs0UphUSUtOa8P) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [All Eyes On Me](https://open.spotify.com/album/2nrWRrICuGJOEdmzTL5m18) | 1:58 |
-| 25 | [Straight Rhymez 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Straight Rhymez 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 |
+| 25 | [STRAIGHT RHYMEZ 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [STRAIGHT RHYMEZ 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 |
 | 26 | [GIMME A HUG](https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:13 |
 | 27 | [Ricky O](https://open.spotify.com/track/6CQudGojPyFpt162AOAFCL) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [U2OPIA](https://open.spotify.com/album/0t7d0JPnLZURcsgLMNub8h) | 2:47 |
 | 28 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 |

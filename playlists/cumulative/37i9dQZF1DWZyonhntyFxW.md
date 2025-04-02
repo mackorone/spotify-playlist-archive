@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أرسينيك وأبو الأنوار
 
-384 songs - 18 hr 53 min
+385 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Ahmed Santa](https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santa El Gded](https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a) | 2:31 | 2022-08-23 | 2024-02-23 |
 | [AHWAGY](https://open.spotify.com/track/37EWbHlj1GLBqC2pFT0XXh) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:21 | 2022-08-08 | 2022-11-08 |
 | [AIRPLANE MODE](https://open.spotify.com/track/4S06nzlWnSbCL2sDTQm4ms) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:06 | 2024-08-05 | 2024-09-06 |
-| [AL ARBA3](https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AL ARBA3](https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp) | 3:20 | 2024-06-20 |  |
+| [AL ARBA3](https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AL ARBA3](https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp) | 3:20 | 2024-06-20 | 2025-04-02 |
 | [ALANKE \(Freedom Music\)](https://open.spotify.com/track/4tKWw3ClrkgYC6KMtuXuD6) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [ALANKE \(Freedom Music\)](https://open.spotify.com/album/0XzAGlu3c7tBgD0DUZQh4V) | 1:57 | 2024-06-09 | 2024-07-24 |
 | [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 | 2023-10-05 | 2023-12-23 |
 | [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-05-10 | 2023-05-26 |
@@ -76,6 +76,7 @@
 | [Betadeen](https://open.spotify.com/track/693Zm4S9surNZUPZp0RCXi) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/655aNZA5EP7l9CgwM0XYMh) | 3:26 | 2023-08-08 | 2023-08-18 |
 | [BIG MOOD](https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:02 | 2022-07-14 | 2022-11-08 |
 | [Blanco](https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 2:26 | 2023-03-09 | 2024-01-26 |
+| [BONO](https://open.spotify.com/track/2Jsw1sLDq7Kzb05xkNS6LP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BONO](https://open.spotify.com/album/1uqEXTzK7dGspcFeL97krg) | 1:53 | 2025-04-01 |  |
 | [Brazil](https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:32 | 2022-09-13 | 2023-09-19 |
 | [Brrr Brrr Brrr](https://open.spotify.com/track/56toH670HEUhhOYEbubXYr) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Brrr Brrr Brrr](https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3) | 3:27 | 2022-05-10 | 2023-03-07 |
 | [Buffon](https://open.spotify.com/track/1z80McM0pmXmdxxazZZW0S) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Setta Bel Hob](https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu) | 3:26 | 2022-08-08 | 2022-12-07 |

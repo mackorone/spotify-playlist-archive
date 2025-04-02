@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Durk, Playboi Carti, NAV and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,049 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,169 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 2 | [Vanish Mode](https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:03 |
 | 3 | [UNLIMITED \(FT PLAYBOI CARTI\)](https://open.spotify.com/track/4j8n7cA99r729g1nAtA6qV) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 3:28 |
 | 4 | [HARD LIFE \(feat\. Carey Washington\)](https://open.spotify.com/track/7yYYyYKELkxv4aLTTLWwSZ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [HARD LIFE \(feat\. Carey Washington\)](https://open.spotify.com/album/31EbjNtO1KwwMnhqLt3NFB) | 3:42 |
-| 5 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 |
+| 5 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 |
 | 6 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
 | 7 | [2004 \- feat\. buddy & the gang](https://open.spotify.com/track/53TwJxoz2dCjrfRYZJAIaQ) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [The Gang](https://open.spotify.com/artist/0FgJeqcioFnFh5jYUNZXMI) | [2004 \(feat\. buddy & the gang\)](https://open.spotify.com/album/0FKxD8lXXxJI0DDMMm8whM) | 4:02 |
 | 8 | [5 Star \- feat\. Gunna](https://open.spotify.com/track/00H3q5D7iXFIms4VYbsMP0) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [5 Star \(feat\. Gunna\)](https://open.spotify.com/album/3aKFzOw4GGmEMJ5LbBSa8n) | 3:28 |

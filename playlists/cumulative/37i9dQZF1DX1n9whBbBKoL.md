@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-449 songs - 22 hr 13 min
+456 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Apogee](https://open.spotify.com/track/3nCjMRvyfq0wgR3hDcAcWb) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Apogee](https://open.spotify.com/album/5xrbFlHe5YxRFctRbWyzmq) | 2:47 | 2025-03-05 |  |
 | [Arcana](https://open.spotify.com/track/4x6DTsAYJgsXCsVgLdZwQY) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Arcana](https://open.spotify.com/album/2h4DOpkem90iq0Q3U0MKoj) | 2:26 | 2025-03-19 |  |
 | [Arctic](https://open.spotify.com/track/0GU48wNylLzxHde7OXHpAj) | [Eural](https://open.spotify.com/artist/50x43BjaV7dRtBZkdrRNJo) | [Arctic](https://open.spotify.com/album/0Zq6Iv1Mzxjj2TJ5qHldja) | 2:36 | 2024-03-20 |  |
+| [Ariel](https://open.spotify.com/track/1aTbEQ3fPmKGfFQR6mMGgw) | [Moon Safari](https://open.spotify.com/artist/79PnPgpRqswq4eBx8PSohy) | [Ariel](https://open.spotify.com/album/1yAQzhD2VMgJQ71rIvLuE6) | 2:40 | 2025-04-01 |  |
 | [Arnofio](https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Arnofio](https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN) | 2:57 | 2023-07-13 | 2024-12-13 |
 | [Arrival](https://open.spotify.com/track/368jncPJF0SYxzqyBXapXj) | [Both Are Infinite](https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve) | [Arrival](https://open.spotify.com/album/5tJDBMs6MEeA1ij6jOlTlb) | 3:49 | 2023-10-06 | 2024-04-06 |
 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 | 2022-03-17 |  |
@@ -84,9 +85,11 @@
 | [Bylgjur](https://open.spotify.com/track/1QcZEkKC9yLrt4EWIWVHWS) | [Einingu](https://open.spotify.com/artist/0fiP3M4LPNPJxvfTDizIbw) | [Bylgjur](https://open.spotify.com/album/1I3CUE1uQHtGSA5yVdQbTL) | 2:21 | 2021-11-10 | 2024-04-06 |
 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 | 2023-04-14 | 2024-12-13 |
 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 | 2021-11-10 | 2024-02-08 |
+| [Canopus](https://open.spotify.com/track/05Q9R0ojp6tZf2RKsBm1fe) | [Indigenouz](https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7) | [Canopus](https://open.spotify.com/album/4HeZsHEBZFs4UGu5uBBJFH) | 2:42 | 2025-04-01 |  |
 | [Cardboard Gadgets](https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0) | [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Cardboard Gadgets](https://open.spotify.com/album/2MzvZKJ9HAnFmTxQHTAqyH) | 3:36 | 2021-11-10 | 2024-05-21 |
 | [Carefree and Wandering](https://open.spotify.com/track/6BLJRG06lHwNifYGc2G1R9) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Carefree and Wandering](https://open.spotify.com/album/4gH11AYH0vTqxtYtlMXnZz) | 3:05 | 2025-02-04 |  |
 | [Carried Away](https://open.spotify.com/track/7iS9HAX2IOXeNLEgoGwZYi) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Carried Away](https://open.spotify.com/album/6w9bA9xq4bmYTb06js67RU) | 2:55 | 2021-11-10 | 2024-02-08 |
+| [Celestial](https://open.spotify.com/track/1FPjiDSqB5qYzLy77eQqMU) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Celestial](https://open.spotify.com/album/42vrYOv2bbFPQp9pku4loa) | 2:51 | 2025-04-01 |  |
 | [Centered](https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n) | [A´leroi](https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I) | [Centered](https://open.spotify.com/album/4B8W32tfhj8fkNSa9N1hlx) | 2:46 | 2024-05-20 |  |
 | [Ceremonial Stone](https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji) | [Star Patterns](https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d) | [Bertrand of the Ringing](https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ) | 3:18 | 2021-11-10 | 2022-05-04 |
 | [Chasing Starlight](https://open.spotify.com/track/2BEdZkn1qOVr3mSEM0vTk8) | [Milan Moux](https://open.spotify.com/artist/2Hp3fVH7ZTcfwgzq4f4Zam) | [Chasing Starlight](https://open.spotify.com/album/5C27QY3d4DBjfHLxEHA2Q2) | 2:59 | 2024-03-20 | 2024-05-05 |
@@ -142,6 +145,7 @@
 | [Eindeloos 528 Hz](https://open.spotify.com/track/2kofSc5aL5EaoyTZpMAlR6) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Eindeloos 528 Hz](https://open.spotify.com/album/6lKMxnHTKYldZmQBgqIjN8) | 3:17 | 2024-09-05 |  |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 | 2023-11-11 |
 | [Endless](https://open.spotify.com/track/7nQT0pn9pURr5rLqHzfBXq) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Endless](https://open.spotify.com/album/5tAiXuJzbpP2ADCqn3a7GW) | 3:09 | 2024-07-09 |  |
+| [Endless Garden](https://open.spotify.com/track/3qpA0ifDb7VWyCqP7UoLjP) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Endless Garden](https://open.spotify.com/album/37rBsT4hvSYnez9AvIRDvy) | 2:57 | 2025-04-01 |  |
 | [Endless Hope](https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:41 | 2023-02-25 | 2024-10-16 |
 | [Endless Veil](https://open.spotify.com/track/5czOCRTuiXbTJYQHbkPaaB) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Endless Veil](https://open.spotify.com/album/7tahva3atN5vFRpFPbroq3) | 3:39 | 2024-12-12 |  |
 | [Energy Cleanse \- 417 Hz](https://open.spotify.com/track/2yIp2wgUXOl5xhlhPbpy0a) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Energy Cleanse](https://open.spotify.com/album/0AX3jy6WYDkT4Ed8Lb9ZKa) | 2:30 | 2024-02-27 |  |
@@ -284,7 +288,7 @@
 | [Nonduality](https://open.spotify.com/track/37iWbUX1dqG6e05nNUwrmj) | [maximillian melody](https://open.spotify.com/artist/2kjRDCiVl7GFG9tpaIFVfe) | [Nonduality](https://open.spotify.com/album/1YMwYutpKpmeNWpm1voOVY) | 2:31 | 2024-11-06 | 2025-02-13 |
 | [Norrbotten](https://open.spotify.com/track/5ardBAnHzOgVgwbC7lUeoj) | [Lugnet före stormen](https://open.spotify.com/artist/6dr0I7Dag5o0aCFKKglKSH) | [Norrbotten](https://open.spotify.com/album/39pxK7nI9nT3Vo3XQ4MJQK) | 2:36 | 2021-11-10 | 2024-04-06 |
 | [Oblivion](https://open.spotify.com/track/676cCislDJ6X51j2mai6xD) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Oblivion](https://open.spotify.com/album/03PoUSzMmhA5FYH7yU0BGO) | 3:08 | 2021-11-10 | 2022-08-13 |
-| [Occasion](https://open.spotify.com/track/2rAClrs2LgdQiO1w7sczaS) | [A´leroi](https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I) | [Occasion](https://open.spotify.com/album/0LUNEpdtuOAkmFDwvgmV8r) | 2:54 | 2024-05-04 |  |
+| [Occasion](https://open.spotify.com/track/2rAClrs2LgdQiO1w7sczaS) | [A´leroi](https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I) | [Occasion](https://open.spotify.com/album/0LUNEpdtuOAkmFDwvgmV8r) | 2:54 | 2024-05-04 | 2025-04-02 |
 | [Occuring Birds](https://open.spotify.com/track/5tXw2CCHvtbUKaS3lnt2Df) | [Silent Remedies](https://open.spotify.com/artist/4NJWqCRTPzxsi7mO67m54U) | [Occuring Birds](https://open.spotify.com/album/6o13cVOcpbtIxvUbA1Ks94) | 3:44 | 2021-11-10 | 2022-04-22 |
 | [Ocean Dreams](https://open.spotify.com/track/5aSmTQ7MCjH4P19C18jobr) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Ocean Dreams](https://open.spotify.com/album/1Igmp7dPuwNwZx0Q7sUtmb) | 3:14 | 2023-08-11 | 2024-12-04 |
 | [Omega Sleep](https://open.spotify.com/track/3qMsByyqiXa4g7LlzfM8WZ) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:31 | 2023-03-03 | 2024-11-07 |
@@ -292,6 +296,7 @@
 | [Onomatopoeia](https://open.spotify.com/track/6gJbOl8YQDqK4MZyNy4hDj) | [Caleb Huber](https://open.spotify.com/artist/3gEu2oKuCuCY3HcbVLHlNW) | [Onomatopoeia](https://open.spotify.com/album/4kzn5aeKooUIqJI5PC5qMn) | 3:20 | 2021-11-10 | 2024-07-16 |
 | [Opposite Corners](https://open.spotify.com/track/3PgIwEucvwrY3bMeYP6cS5) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [New Directions](https://open.spotify.com/album/0u5DOcmCHAiXpGTfgmMUfN) | 3:20 | 2024-02-27 | 2024-12-13 |
 | [Orbital Oasis](https://open.spotify.com/track/6zGZtDSM0FSol4zakv14CS) | [Ruben Ortega](https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl) | [Orbital Oasis](https://open.spotify.com/album/1yspBlFboddEbivYv2VSpu) | 3:07 | 2025-03-19 |  |
+| [Orion's Belt](https://open.spotify.com/track/32WBMMaZIiB3Mzp08cVPLS) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Orion's Belt](https://open.spotify.com/album/4iIPlEMUmcbnuUB6gATNFQ) | 2:27 | 2025-04-01 |  |
 | [Oscillations](https://open.spotify.com/track/3eRCugWpn7FesB0qD5H0FY) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Oscillations](https://open.spotify.com/album/4LfxsshJgvo3qXvUJnSMkU) | 2:31 | 2024-05-04 |  |
 | [Oscitancy](https://open.spotify.com/track/64CajkmsGoNAefmvK8pYpY) | [Didio Carrión](https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw) | [Oscitancy](https://open.spotify.com/album/4h2imOOg6ILMwmTmGiKZp5) | 3:47 | 2021-11-10 | 2024-02-08 |
 | [Out Of Orbit](https://open.spotify.com/track/3J9ldOGckxVS61LVokGRwT) | [Elleste](https://open.spotify.com/artist/5L2XQWJFxiYCGe1ASvaq8m) | [Out Of Orbit](https://open.spotify.com/album/2IDhfopsHmpEN3UBn6uNZS) | 2:35 | 2024-07-22 | 2025-02-13 |
@@ -369,6 +374,7 @@
 | [Sleep Drone In C](https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Sleep Drone In C](https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz) | 2:48 | 2023-01-20 | 2024-12-13 |
 | [Sleep Simulation](https://open.spotify.com/track/5PT87najWBxmBwN9WtUYtb) | [Digitalis](https://open.spotify.com/artist/0dxuNGL2sY3z2qXzZ69ki2) | [Sleep Simulation](https://open.spotify.com/album/1IKcjETH3hGOtl69KspOHo) | 2:38 | 2024-02-27 |  |
 | [Sleepy Space](https://open.spotify.com/track/6ksvkmi4eGv0m8Dg9Hhdjn) | [Isaques Blues](https://open.spotify.com/artist/3w04ME5pSiFF5LK1SB2ea0) | [Sleepy Space](https://open.spotify.com/album/6rcEWX5oQJLh4w1knvZkZ2) | 2:06 | 2021-11-10 | 2024-07-16 |
+| [Slow Arising](https://open.spotify.com/track/2LJRdGoj4TmxJ2ngMfwT0K) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Slow Arising](https://open.spotify.com/album/7gRFZY8ncBT06abXN7Vqb1) | 2:44 | 2025-04-01 |  |
 | [Slow Comets](https://open.spotify.com/track/3RooVmiw2ZTwu3rnBNAq1f) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [Slow Comets](https://open.spotify.com/album/6KkIHN9fRp96181Q3Y1kV5) | 2:40 | 2022-04-06 | 2024-02-08 |
 | [Snesl bych ti modré z nebe](https://open.spotify.com/track/1v8nEP8CRicvuRiGxxjZF6) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Snesl bych ti modré z nebe](https://open.spotify.com/album/4XDdhhDFoUgsmSjcVFRJp0) | 4:19 | 2021-11-10 | 2022-08-13 |
 | [Solace](https://open.spotify.com/track/4SKrdC5aL4KsfNFBX5CjSv) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Solace](https://open.spotify.com/album/29tJGtzE38ICWOe9swOOYw) | 2:32 | 2025-02-26 |  |
@@ -431,6 +437,7 @@
 | [Vectors](https://open.spotify.com/track/0FjAG9mIy6iqAzQMcGIKj4) | [Abundance](https://open.spotify.com/artist/785T5QvYWEMaWjrKp5cjhe) | [Vectors](https://open.spotify.com/album/340D9rpqBmwlduaCdnZkZQ) | 3:27 | 2024-12-12 |  |
 | [Verlangen](https://open.spotify.com/track/75pcpojFTJnyfeGw0YrEQ9) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Verlangen](https://open.spotify.com/album/0rJlx5Lk9FZni8yreWrEFP) | 4:13 | 2021-11-10 | 2022-08-13 |
 | [Vesen](https://open.spotify.com/track/6xiyfTANi7d5Sp80JjKQs8) | [Meine Sela](https://open.spotify.com/artist/7K3zxPwEbmuPo1NpzugNxI) | [Vesen](https://open.spotify.com/album/0rEiLqAWZ5F58MhP3ARQet) | 3:50 | 2021-11-10 | 2024-07-23 |
+| [Vide](https://open.spotify.com/track/2XzTcXOTfJHicUy2xWtAP8) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Vide](https://open.spotify.com/album/5MX9KtvH8av0VcxY1q7zIj) | 2:30 | 2025-04-01 |  |
 | [Vincible](https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT) | [Tech Guru](https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q) | [Vincible](https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD) | 3:32 | 2021-11-10 | 2022-04-22 |
 | [Vista](https://open.spotify.com/track/7dtcMyTqczRKdUe27niB1N) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Vista](https://open.spotify.com/album/3Gmxb6pNTqDvOu2kU9jHyu) | 2:55 | 2021-11-10 | 2022-08-13 |
 | [Volunteer](https://open.spotify.com/track/4xAQP9W25XLD7z8XjLucOt) | [White Suits](https://open.spotify.com/artist/4UTueaH3m4W8f1AjxlYKkO) | [Volunteer](https://open.spotify.com/album/5X21dHQAd3DxUhN7iuR5Zi) | 3:20 | 2024-03-20 |  |

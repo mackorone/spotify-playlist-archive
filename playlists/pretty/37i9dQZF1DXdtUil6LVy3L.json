@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 8412,
+  "num_followers": 8411,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
+        "name": "O Come, All Ye Faithful",
+        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
+      },
+      "artists": [
+        {
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+        }
+      ],
+      "duration_ms": 177874,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
+    },
+    {
+      "added_at": "2024-12-20 08:15:14",
+      "album": {
         "name": "A Jazzy Little Christmas",
         "url": "https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 163130,
       "name": "The Chipmunk Song",
       "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
-    },
-    {
-      "added_at": "2024-12-20 08:15:14",
-      "album": {
-        "name": "O Come, All Ye Faithful",
-        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
-      },
-      "artists": [
-        {
-          "name": "Grayville Trio",
-          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
-        }
-      ],
-      "duration_ms": 177874,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
     },
     {
       "added_at": "2024-12-20 08:15:14",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
-        "name": "A Christmas Love Song",
-        "url": "https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ"
-      },
-      "artists": [
-        {
-          "name": "Francis Graden",
-          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "A Christmas Love Song",
-      "url": "https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55"
-    },
-    {
-      "added_at": "2024-12-20 08:15:14",
-      "album": {
         "name": "Lost in the stars",
         "url": "https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc"
       },
@@ -507,18 +491,34 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
-        "name": "Good King Wenceslas",
-        "url": "https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my"
+        "name": "A Christmas Love Song",
+        "url": "https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ"
       },
       "artists": [
         {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
         }
       ],
-      "duration_ms": 144708,
-      "name": "Good King Wenceslas",
-      "url": "https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt"
+      "duration_ms": 158066,
+      "name": "A Christmas Love Song",
+      "url": "https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55"
+    },
+    {
+      "added_at": "2024-12-20 08:15:14",
+      "album": {
+        "name": "Tis the season",
+        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "duration_ms": 214596,
+      "name": "Tis the season",
+      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
     },
     {
       "added_at": "2024-12-20 08:15:14",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
-        "name": "Tis the season",
-        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
+        "name": "Good King Wenceslas",
+        "url": "https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my"
       },
       "artists": [
         {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
         }
       ],
-      "duration_ms": 214596,
-      "name": "Tis the season",
-      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
+      "duration_ms": 144708,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt"
     },
     {
       "added_at": "2024-12-20 08:15:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 154096,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW"
-    },
-    {
-      "added_at": "2024-12-20 08:15:14",
-      "album": {
         "name": "What Are You Doing New Years Eve?",
         "url": "https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 281500,
       "name": "What Are You Doing New Years Eve?",
       "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
+    },
+    {
+      "added_at": "2024-12-20 08:15:14",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 154096,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW"
     },
     {
       "added_at": "2024-12-20 08:15:14",

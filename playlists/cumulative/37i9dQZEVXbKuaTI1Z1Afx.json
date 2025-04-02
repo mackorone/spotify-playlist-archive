@@ -9279,6 +9279,24 @@
     },
     {
       "album": {
+        "name": "Bout Me",
+        "url": "https://open.spotify.com/album/64JzjGdBmqRTsnGpM6b1M9"
+      },
+      "artists": [
+        {
+          "name": "Dom Innarella",
+          "url": "https://open.spotify.com/artist/48rd4biBGjgoUUtzDBsJoV"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Bout Me",
+      "url": "https://open.spotify.com/track/7GroTxe8e68dbphwwWxdRK"
+    },
+    {
+      "album": {
         "name": "FREAKY",
         "url": "https://open.spotify.com/album/035gwa3Veg378UiY2p6ZwN"
       },
@@ -11930,8 +11948,8 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
-      "duration_ms": 202000,
+      "date_removed": null,
+      "duration_ms": 200826,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
@@ -12566,7 +12584,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 173800,
       "name": "Classy Girl",
       "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
@@ -14384,7 +14402,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 230895,
       "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
       "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
@@ -20744,7 +20762,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -25606,7 +25624,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 183615,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K"
@@ -30820,7 +30838,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 203610,
       "name": "I've Got A Story (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/14ohM4hSfXkTFbMIP4LBUT"
@@ -31650,7 +31668,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 239349,
       "name": "In and Out",
       "url": "https://open.spotify.com/track/2oWaHVTGvuFk38iBRVRAaO"
@@ -56782,7 +56800,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 245713,
       "name": "Sleepyhead 2025",
       "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
@@ -66306,10 +66324,28 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 73231,
       "name": "Trap Royalty",
       "url": "https://open.spotify.com/track/4GDlvKTTSM2hH6BMKb2Jun"
+    },
+    {
+      "album": {
+        "name": "Trap Royalty",
+        "url": "https://open.spotify.com/album/2ZoqaPh5rrEAzk2VJrP92z"
+      },
+      "artists": [
+        {
+          "name": "very cool tutorials",
+          "url": "https://open.spotify.com/artist/15AcC9c53zJObzwpvgY5yO"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73231,
+      "name": "Trap Royalty",
+      "url": "https://open.spotify.com/track/5MV9Uf9hoW7ZSxs8w5ybRh"
     },
     {
       "album": {
@@ -72318,7 +72354,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 220558,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"

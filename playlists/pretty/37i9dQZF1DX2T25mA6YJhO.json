@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Lisasinson.",
-  "num_followers": 25653,
+  "num_followers": 25670,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "Joderse La Vida",
-        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Durante",
-          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
-        }
-      ],
-      "duration_ms": 165838,
-      "name": "Joderse La Vida",
-      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
-    },
-    {
-      "added_at": "2025-03-27 23:00:16",
-      "album": {
         "name": "\u00a1AHORA!",
         "url": "https://open.spotify.com/album/7qTh2Y4oDIPp3tG5GZubUj"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 193534,
       "name": "El futuro sobre plano",
       "url": "https://open.spotify.com/track/5Tw395NgXE6T0F7SyevHQz"
+    },
+    {
+      "added_at": "2025-03-27 23:00:16",
+      "album": {
+        "name": "Joderse La Vida",
+        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "duration_ms": 165838,
+      "name": "Joderse La Vida",
+      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
     },
     {
       "added_at": "2025-03-27 23:00:16",
@@ -999,22 +999,18 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "Dientes rotos",
-        "url": "https://open.spotify.com/album/1GPSLnxbpMHl4vMCmrFbyZ"
+        "name": "Insurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
       },
       "artists": [
         {
-          "name": "Vicente Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
-        },
-        {
-          "name": "Samantha Hudson",
-          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+          "name": "Cala Vento",
+          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Dientes rotos",
-      "url": "https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx"
+      "duration_ms": 124521,
+      "name": "Insurrecci\u00f3n",
+      "url": "https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4"
     },
     {
       "added_at": "2025-03-27 23:00:16",
@@ -1039,34 +1035,22 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "Insurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
+        "name": "Dientes rotos",
+        "url": "https://open.spotify.com/album/1GPSLnxbpMHl4vMCmrFbyZ"
       },
       "artists": [
         {
-          "name": "Cala Vento",
-          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
-        }
-      ],
-      "duration_ms": 124521,
-      "name": "Insurrecci\u00f3n",
-      "url": "https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4"
-    },
-    {
-      "added_at": "2025-03-27 23:00:16",
-      "album": {
-        "name": "PARAR EL TIEMPO",
-        "url": "https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB"
-      },
-      "artists": [
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        },
         {
-          "name": "Periferia",
-          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
         }
       ],
-      "duration_ms": 197824,
-      "name": "PARAR EL TIEMPO",
-      "url": "https://open.spotify.com/track/3SIPfve99XQwjim9r8uW7S"
+      "duration_ms": 151573,
+      "name": "Dientes rotos",
+      "url": "https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx"
     },
     {
       "added_at": "2025-03-27 23:00:16",
@@ -1083,6 +1067,22 @@
       "duration_ms": 156213,
       "name": "MENTIRA",
       "url": "https://open.spotify.com/track/1XQ9DWOsy5yFh6pkVYJvdQ"
+    },
+    {
+      "added_at": "2025-03-27 23:00:16",
+      "album": {
+        "name": "PARAR EL TIEMPO",
+        "url": "https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB"
+      },
+      "artists": [
+        {
+          "name": "Periferia",
+          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+        }
+      ],
+      "duration_ms": 197824,
+      "name": "PARAR EL TIEMPO",
+      "url": "https://open.spotify.com/track/3SIPfve99XQwjim9r8uW7S"
     },
     {
       "added_at": "2025-03-27 23:00:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
-      },
-      "artists": [
-        {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "ojal\u00e1",
-      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
-    },
-    {
-      "added_at": "2025-03-27 23:00:16",
-      "album": {
         "name": "Amor y Resiliencia",
         "url": "https://open.spotify.com/album/4aY9msZhbxir4Q1BoBvfxw"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "Cada Vez",
-        "url": "https://open.spotify.com/album/27e4FfyKW2sdN45j6dBP64"
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
       },
       "artists": [
         {
-          "name": "Nuevos Vicios",
-          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
         }
       ],
-      "duration_ms": 244033,
-      "name": "Cada Vez",
-      "url": "https://open.spotify.com/track/4uV6TsaGR1MaHzqzn9DUov"
+      "duration_ms": 193621,
+      "name": "ojal\u00e1",
+      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
     },
     {
       "added_at": "2025-03-27 23:00:16",
@@ -1283,6 +1267,22 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2025-03-27 23:00:16",
+      "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/27e4FfyKW2sdN45j6dBP64"
+      },
+      "artists": [
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "duration_ms": 244033,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/4uV6TsaGR1MaHzqzn9DUov"
     },
     {
       "added_at": "2025-03-27 23:00:16",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "Eres Un Regalo",
-        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 210428,
-      "name": "Eres Un Regalo",
-      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
-    },
-    {
-      "added_at": "2025-03-27 23:00:16",
-      "album": {
         "name": "La gran renuncia",
         "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
+        "name": "Eres Un Regalo",
+        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "duration_ms": 210428,
+      "name": "Eres Un Regalo",
+      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
+    },
+    {
+      "added_at": "2025-03-27 23:00:16",
+      "album": {
         "name": "Ni un paso atr\u00e1s",
         "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
       },
@@ -1455,18 +1455,22 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "T E R A P I A",
-        "url": "https://open.spotify.com/album/2diKSpEGcWiSRxa1jopIw1"
+        "name": "Ganas de verte",
+        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
       "artists": [
         {
-          "name": "Ni\u00f1os Bravos",
-          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        },
+        {
+          "name": "Luc\u00eda Moreno",
+          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
         }
       ],
-      "duration_ms": 154921,
-      "name": "T E R A P I A",
-      "url": "https://open.spotify.com/track/1NzgTx7ZC91tQkwsCYZTFg"
+      "duration_ms": 174613,
+      "name": "Ganas de verte",
+      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
     },
     {
       "added_at": "2025-03-27 23:00:16",
@@ -1487,22 +1491,6 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "Vivo En Las Nubes",
-        "url": "https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 192888,
-      "name": "Vivo En Las Nubes",
-      "url": "https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p"
-    },
-    {
-      "added_at": "2025-03-27 23:00:16",
-      "album": {
         "name": "COMERTE",
         "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
       },
@@ -1519,22 +1507,34 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "Ganas de verte",
-        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
+        "name": "T E R A P I A",
+        "url": "https://open.spotify.com/album/2diKSpEGcWiSRxa1jopIw1"
       },
       "artists": [
         {
-          "name": "Pagafantas",
-          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
-        },
-        {
-          "name": "Luc\u00eda Moreno",
-          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
+          "name": "Ni\u00f1os Bravos",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
         }
       ],
-      "duration_ms": 174613,
-      "name": "Ganas de verte",
-      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+      "duration_ms": 154921,
+      "name": "T E R A P I A",
+      "url": "https://open.spotify.com/track/1NzgTx7ZC91tQkwsCYZTFg"
+    },
+    {
+      "added_at": "2025-03-27 23:00:16",
+      "album": {
+        "name": "Vivo En Las Nubes",
+        "url": "https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "duration_ms": 192888,
+      "name": "Vivo En Las Nubes",
+      "url": "https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p"
     },
     {
       "added_at": "2025-03-27 23:00:16",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-03-27 23:00:16",
       "album": {
-        "name": "6 Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/5MSvDzxgLIZIP9scNp7OHF"
-      },
-      "artists": [
-        {
-          "name": "Tatuaje",
-          "url": "https://open.spotify.com/artist/6SbNt8NCZ0Onpuefsji2N8"
-        }
-      ],
-      "duration_ms": 199238,
-      "name": "6 Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/7uFc45CVhlEoZ3priKhCxa"
-    },
-    {
-      "added_at": "2025-03-27 23:00:16",
-      "album": {
         "name": "Vamos Tarde",
         "url": "https://open.spotify.com/album/5yH5j8Znp3Thdn7eJ6DRcb"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 183900,
       "name": "Yo Nunca He",
       "url": "https://open.spotify.com/track/09hobK7AC3FLTjMGnoz25P"
+    },
+    {
+      "added_at": "2025-03-27 23:00:16",
+      "album": {
+        "name": "6 Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/5MSvDzxgLIZIP9scNp7OHF"
+      },
+      "artists": [
+        {
+          "name": "Tatuaje",
+          "url": "https://open.spotify.com/artist/6SbNt8NCZ0Onpuefsji2N8"
+        }
+      ],
+      "duration_ms": 199238,
+      "name": "6 Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/7uFc45CVhlEoZ3priKhCxa"
     },
     {
       "added_at": "2025-03-27 23:00:16",

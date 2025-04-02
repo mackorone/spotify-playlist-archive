@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 The Secret of Us Tour in Seoul 4월 6일\(일\) 18:00 @ 명화 라이브홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,990 likes - 21 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,994 likes - 21 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

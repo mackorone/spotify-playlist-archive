@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,285 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,288 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 9 | [Brotha](https://open.spotify.com/track/2sNAjuCXxyj8jHt93t9IJ9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:28 |
 | 10 | [Life Story](https://open.spotify.com/track/3DaRelvnlOkN8YHzIQzYNR) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 4:09 |
 | 11 | [Excuse Me](https://open.spotify.com/track/72V3zdMD3x7CxNhtN7xYX5) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Instant Vintage](https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov) | 3:24 |
-| 12 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
+| 12 | [2 Bad Habits](https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:57 |
 | 13 | [Pissed Off](https://open.spotify.com/track/4yorDWFzW0orW36OMr9WSS) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:41 |
 | 14 | [Everyday](https://open.spotify.com/track/7okKZ5JfRIJBcqKhX2fTmU) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 4:32 |
-| 15 | [2 Bad Habits](https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:57 |
+| 15 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
 | 16 | [Lovers' Ghetto](https://open.spotify.com/track/7wZ1Sk4ySUKhy821HXIaQb) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:05 |
 | 17 | [Life Goes On](https://open.spotify.com/track/38BLnUKD9m1v7Xaf07u7F0) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:57 |
 | 18 | [Bone 2 Pic \(Wit U\)](https://open.spotify.com/track/5CBiUwCW1j6v5ITZYK9khy) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 49 | [Love Of My Life Worldwide](https://open.spotify.com/track/7sfv48GFGTACbipv2osobB) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Worldwide Underground](https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ) | 5:26 |
 | 50 | [Kiss All Over Your Body](https://open.spotify.com/track/0GmZfFYIhU0Pd9oXV5EKZt) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 4:45 |
 
-Snapshot ID: `Z+iJgAAAAAD8U3kH5tjyXAuypsZgEGYk`
+Snapshot ID: `Z+nbAAAAAADKVjgwZC7aIvz7/FXyZIm9`

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10593,
+  "num_followers": 10606,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2025-03-04 05:53:20",
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5"
-      },
-      "artists": [
-        {
-          "name": "YOUNG POSSE",
-          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
-        },
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 187939,
-      "name": "COLD (feat.10CM)",
-      "url": "https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa"
-    },
-    {
-      "added_at": "2025-03-04 05:53:20",
-      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 179000,
       "name": "Alone (Feat. LeeHi)",
       "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
+    },
+    {
+      "added_at": "2025-03-04 05:53:20",
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 187939,
+      "name": "COLD (feat.10CM)",
+      "url": "https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa"
     },
     {
       "added_at": "2025-03-04 05:53:20",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-03-04 05:53:20",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+    },
+    {
+      "added_at": "2025-03-04 05:53:20",
+      "album": {
         "name": "Action!",
         "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 190812,
       "name": "Action! (Feat. GRAY)",
       "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
-    },
-    {
-      "added_at": "2025-03-04 05:53:20",
-      "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
-      },
-      "artists": [
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "ISLAND",
-      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
     },
     {
       "added_at": "2025-03-04 05:53:20",

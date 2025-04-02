@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 527560,
+  "num_followers": 527777,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 202026,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
         "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+        "name": "Bobby Helms Sings To My Special Angel",
+        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
       },
       "artists": [
         {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
+      "duration_ms": 179293,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1615,22 +1631,6 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Bobby Helms Sings To My Special Angel",
-        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
     },
     {
       "added_at": "2024-07-05 20:27:10",

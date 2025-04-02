@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 87952,
+  "num_followers": 87995,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAACRh/rprsmQBbuqkrfwNnKU",
+  "snapshot_id": "Z+nbAAAAAADH1KbmpWlJzbcRVCHGbKag",
   "tracks": [
     {
       "added_at": null,
@@ -79,18 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out of Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+        "name": "Nice To Meet You (feat. Lainey Wilson)",
+        "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
       },
       "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Out of Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+      "duration_ms": 176000,
+      "name": "Nice To Meet You (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
     },
     {
       "added_at": null,
@@ -111,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nice To Meet You (feat. Lainey Wilson)",
-        "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
       },
       "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
     },
     {
       "added_at": null,

@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276146,
+      "name": "Bukan Dia Tapi Aku",
+      "url": "https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7"
+    },
+    {
+      "album": {
         "name": "Bukan Karena Tak Cinta",
         "url": "https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x"
       },
@@ -2662,7 +2680,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 235335,
       "name": "Ku Ingin Pisah",
       "url": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE"

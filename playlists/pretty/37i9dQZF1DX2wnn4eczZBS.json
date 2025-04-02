@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
-  "num_followers": 10135,
+  "num_followers": 10158,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-03-28 15:51:08",
       "album": {
+        "name": "Zonder Naam",
+        "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Zonder Naam",
+      "url": "https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri"
+    },
+    {
+      "added_at": "2025-03-28 15:51:08",
+      "album": {
         "name": "Wind In De Zeilen",
         "url": "https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D"
       },
@@ -563,18 +579,22 @@
     {
       "added_at": "2025-03-28 15:51:08",
       "album": {
-        "name": "Zonder Naam",
-        "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
+        "name": "Vager!",
+        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
       },
       "artists": [
         {
-          "name": "Spinvis",
-          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        },
+        {
+          "name": "MAZOO",
+          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Zonder Naam",
-      "url": "https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri"
+      "duration_ms": 132727,
+      "name": "Vager!",
+      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
     },
     {
       "added_at": "2025-03-28 15:51:08",
@@ -611,6 +631,22 @@
     {
       "added_at": "2025-03-28 15:51:08",
       "album": {
+        "name": "Rotonde",
+        "url": "https://open.spotify.com/album/6jC78OUnAmxDCn24Xj2sC3"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Rotonde",
+      "url": "https://open.spotify.com/track/03jAxbMjwKuxlsgYaqT1Bt"
+    },
+    {
+      "added_at": "2025-03-28 15:51:08",
+      "album": {
         "name": "Symptomen",
         "url": "https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f"
       },
@@ -639,58 +675,6 @@
       "duration_ms": 228813,
       "name": "Altijd Anders",
       "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
-    },
-    {
-      "added_at": "2025-03-28 15:51:08",
-      "album": {
-        "name": "Vager!",
-        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        },
-        {
-          "name": "MAZOO",
-          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Vager!",
-      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
-    },
-    {
-      "added_at": "2025-03-28 15:51:08",
-      "album": {
-        "name": "Staal Op Staal",
-        "url": "https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q"
-      },
-      "artists": [
-        {
-          "name": "dorpsstraat 3",
-          "url": "https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A"
-        }
-      ],
-      "duration_ms": 235704,
-      "name": "Filmster",
-      "url": "https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj"
-    },
-    {
-      "added_at": "2025-03-28 15:51:08",
-      "album": {
-        "name": "Rotonde",
-        "url": "https://open.spotify.com/album/6jC78OUnAmxDCn24Xj2sC3"
-      },
-      "artists": [
-        {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Rotonde",
-      "url": "https://open.spotify.com/track/03jAxbMjwKuxlsgYaqT1Bt"
     },
     {
       "added_at": "2025-03-28 15:51:08",
@@ -727,34 +711,18 @@
     {
       "added_at": "2025-03-28 15:51:08",
       "album": {
-        "name": "Opslaan",
-        "url": "https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1"
+        "name": "Staal Op Staal",
+        "url": "https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q"
       },
       "artists": [
         {
-          "name": "Hiltje",
-          "url": "https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8"
+          "name": "dorpsstraat 3",
+          "url": "https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Opslaan",
-      "url": "https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik"
-    },
-    {
-      "added_at": "2025-03-28 15:51:08",
-      "album": {
-        "name": "Het Vliegt Voorbij",
-        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 163261,
-      "name": "Het Vliegt Voorbij",
-      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
+      "duration_ms": 235704,
+      "name": "Filmster",
+      "url": "https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj"
     },
     {
       "added_at": "2025-03-28 15:51:08",
@@ -775,6 +743,22 @@
     {
       "added_at": "2025-03-28 15:51:08",
       "album": {
+        "name": "Opslaan",
+        "url": "https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1"
+      },
+      "artists": [
+        {
+          "name": "Hiltje",
+          "url": "https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Opslaan",
+      "url": "https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik"
+    },
+    {
+      "added_at": "2025-03-28 15:51:08",
+      "album": {
         "name": "IJsberen",
         "url": "https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 182044,
       "name": "IJsberen",
       "url": "https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz"
+    },
+    {
+      "added_at": "2025-03-28 15:51:08",
+      "album": {
+        "name": "Het Vliegt Voorbij",
+        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 163261,
+      "name": "Het Vliegt Voorbij",
+      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
     },
     {
       "added_at": "2025-03-28 15:51:08",

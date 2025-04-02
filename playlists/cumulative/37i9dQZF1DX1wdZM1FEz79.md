@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 손혜은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 서자영\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-562 songs - 1 day 9 hr 18 min
+563 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Celebrity \- Acoustic](https://open.spotify.com/track/6sYwUFG8bG02yRtwDMuc8H) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [Celebrity \(Acoustic\)](https://open.spotify.com/album/0zDLUzfQQCPFLJiROj5AAG) | 3:24 | 2022-02-10 | 2022-04-14 |
 | [Changing Seasons](https://open.spotify.com/track/31zwd5SqzByO40OvwyW5fA) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Mosaic](https://open.spotify.com/album/0wBXXN9fvO9RKhcsqtNzmf) | 3:26 | 2025-03-28 |  |
 | [Chapter of our love](https://open.spotify.com/track/0xqij7BqOzbnwcjmNqWMIG) | [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [PROPHET](https://open.spotify.com/album/6llFy3B9EZt3H0QQTVzLxA) | 4:23 | 2022-03-31 | 2022-04-21 |
-| [Cherish](https://open.spotify.com/track/5xX9WHM9qn7zsYFKcTGTD1) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Cherish](https://open.spotify.com/album/2rIyU9oLnV4ap127MYOjL7) | 2:52 | 2025-03-14 |  |
+| [Cherish](https://open.spotify.com/track/5xX9WHM9qn7zsYFKcTGTD1) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Cherish](https://open.spotify.com/album/2rIyU9oLnV4ap127MYOjL7) | 2:52 | 2025-03-14 | 2025-04-02 |
 | [Chilly Weather](https://open.spotify.com/track/7JWODJwvHmmTUsvr0YypZS) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Chilly Weather](https://open.spotify.com/album/3QAqYe4w6LlWJBg1svzIhG) | 3:39 | 2022-03-31 | 2022-04-02 |
 | [Close To You](https://open.spotify.com/track/6vvIG5bhPay9ewgS9I8h8t) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [Social Savvy Class 101 OST Part.5](https://open.spotify.com/album/1JGlWwjZflilU8AbBiPL2b) | 3:51 | 2024-11-20 | 2024-12-06 |
 | [Close Your Eyes](https://open.spotify.com/track/7Lf3MxufBeAg6ZSKlut8wZ) | [Bam Soo Sung](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Close Your Eyes](https://open.spotify.com/album/5D8tcWOfpWfIoLG075ptmG) | 3:32 | 2022-03-31 | 2022-04-14 |
@@ -324,6 +324,7 @@
 | [Oh, Love](https://open.spotify.com/track/1G0TFPZipyn1bLyQvKtPnx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Oh, Love](https://open.spotify.com/album/2MujROsBWLNsCZo2B3udec) | 3:44 | 2023-04-27 | 2023-05-10 |
 | [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2021-12-10 | 2022-07-29 |
 | [On My Way Home](https://open.spotify.com/track/6CZkzTRpn5uK67QAim9jPw) | [KOLAVO](https://open.spotify.com/artist/3yR502TEuKfRu3qwLcn4sx) | [On My Way Home](https://open.spotify.com/album/0huLDoldnbqWCJQnxjCWv3) | 3:59 | 2022-01-10 | 2022-04-13 |
+| [On the Trail](https://open.spotify.com/track/7qBkFGmE3VOPHiKcgFs3Bk) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [On the Trail](https://open.spotify.com/album/2jNmDTt7yiAuF1FOeXdpbF) | 4:01 | 2025-04-01 |  |
 | [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-21 | 2023-01-11 |
 | [One Day](https://open.spotify.com/track/1HaOaDNfC9O5gwOKN8Gbvs) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Terius Behind Me Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0h1PAe69zzMZqbOvYMhLo5) | 3:16 | 2022-03-31 | 2022-04-20 |
 | [Only if](https://open.spotify.com/track/1RIYFSubxDnlLuK3LeilyC) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Roy Kim Live in Begin Again 2](https://open.spotify.com/album/3G2sZtxuU89eVp2npTP4RQ) | 3:33 | 2022-04-12 | 2022-04-15 |
@@ -374,7 +375,7 @@
 | [Sapiens](https://open.spotify.com/track/0FsbtDdRJI7QjRPmqthg3r) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Voice beside Guitar](https://open.spotify.com/album/70GhQ25UJGiA9zda20tcW4) | 3:34 | 2022-11-20 | 2022-11-25 |
 | [Sappy Love Song](https://open.spotify.com/track/003Z3hDiS7KMpstUZDVBVF) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Sappy Love Song](https://open.spotify.com/album/32V0RRuEcdnpY1DL1ln5iT) | 3:18 | 2021-12-10 | 2022-04-10 |
 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2021-12-10 | 2022-07-27 |
-| [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 |  |
+| [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 | 2025-04-02 |
 | [Scent of the day](https://open.spotify.com/track/0xu3l9eS4OMm4wsBi9a6Nj) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Scent of the day](https://open.spotify.com/album/5HHhZ7N9Rz5UPXG6AJQ1Xg) | 4:37 | 2021-12-10 | 2022-06-17 |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-08 | 2024-04-19 |
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2021-12-10 | 2022-07-29 |
@@ -420,7 +421,7 @@
 | [Storage \(with Galaxy Fan\)](https://open.spotify.com/track/6gPSrbvhVziaeeVizhbB6X) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [4.3](https://open.spotify.com/album/64MZHHTKO362VOMfyI2oqE) | 3:26 | 2022-03-31 | 2022-04-15 |
 | [Story](https://open.spotify.com/track/10xIDPlfoOPojv15gs4v5U) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [RADIO ROMANCE OST Part.5](https://open.spotify.com/album/39E5NxDaelO34UD2PuGcZh) | 3:45 | 2022-03-31 | 2022-04-17 |
 | [Strange Stroll](https://open.spotify.com/track/31T7mn1xbeV4G9JxP44koG) | [Yuna Bae](https://open.spotify.com/artist/69WlUWV5wRqG9YfRHe4pso) | [Strange Stroll](https://open.spotify.com/album/6CF7msQNpDwc6ZZN285Xl4) | 4:16 | 2024-02-07 | 2024-03-07 |
-| [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 | 2021-12-10 | 2025-03-29 |
+| [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 | 2021-12-10 |  |
 | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/track/6XYNKhfq3bucZVrP8kp0DO) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Mori](https://open.spotify.com/artist/1BNvKAHE63KEhzYHDarlpT) | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/album/4jW8sXbG23vSJe1qxgh5vx) | 3:27 | 2022-03-31 | 2022-04-11 |
 | [Summer night](https://open.spotify.com/track/5jAmRmTCrSueBF2O7mqI1I) | [for\_the\_poet](https://open.spotify.com/artist/4LzAduZVy0eNJxbe4fwbuX) | [Summer night](https://open.spotify.com/album/0J25ZbYJdZOIa1nDoYCJTP) | 3:19 | 2022-08-19 | 2022-09-03 |
 | [Summer Night](https://open.spotify.com/track/4SPSIlALa6SJMay3SQi7Mp) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Summer Night](https://open.spotify.com/album/66r2jNtBUScalDYJOtbDG8) | 3:34 | 2022-03-31 | 2022-04-05 |

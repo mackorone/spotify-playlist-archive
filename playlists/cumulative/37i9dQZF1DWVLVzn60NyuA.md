@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-524 songs - 1 day 3 hr 41 min
+525 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Mami So Bad](https://open.spotify.com/track/7HL6wIxsT3aRJrUxfVowFn) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Mami So Bad](https://open.spotify.com/album/4QX6zxCyytdRQDmR1IcW0R) | 3:01 | 2021-12-16 | 2022-05-17 |
 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 | 2021-12-16 | 2023-04-07 |
 | [MANSORY](https://open.spotify.com/track/5ykyiyN3DwPgMjwdFvT7zW) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [MANSORY](https://open.spotify.com/album/2IBCiUYbFf6kwrdLK1Nsga) | 4:05 | 2024-10-04 | 2024-10-18 |
-| [Marathon](https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Koba Brown](https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75) | [Marathon](https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj) | 3:00 | 2025-01-28 |  |
+| [Marathon](https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Koba Brown](https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75) | [Marathon](https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj) | 3:00 | 2025-01-28 | 2025-04-02 |
 | [MAS DUSHI](https://open.spotify.com/track/3q1ji65PsbwM9nAAheWEYL) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [MAS DUSHI](https://open.spotify.com/album/5yjHjSmo3ouZQdYu910Vpd) | 2:38 | 2024-07-22 | 2025-02-23 |
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-12-14 | 2025-02-23 |
 | [Mehbooba](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 | 2021-12-16 | 2021-12-29 |
@@ -394,6 +394,7 @@
 | [Rum & Soca](https://open.spotify.com/track/1DOPGpgJEv3vI228L66zqC) | [Freddy Rasta](https://open.spotify.com/artist/2o3cQt2dbARtbMFhXlgQ6P) | [Rum & Soca](https://open.spotify.com/album/02bYRbLMW4j5s1UZdbRPrJ) | 2:43 | 2021-12-16 | 2022-05-17 |
 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 | 2021-12-16 | 2022-02-24 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-10-10 |  |
+| [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 | 2025-04-01 |  |
 | [Sanko](https://open.spotify.com/track/6hJHVYmb81ecCPUEBxXsI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/3XOLe6u3PhDseCeE5RO84l) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Sans moi](https://open.spotify.com/track/5cZ6NaDFs0a7ZYfGpaJWEt) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Vibe](https://open.spotify.com/album/1TMCeLmJhVY2WQwAweIyKf) | 2:39 | 2021-12-16 | 2023-06-08 |
 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-06-25 |  |

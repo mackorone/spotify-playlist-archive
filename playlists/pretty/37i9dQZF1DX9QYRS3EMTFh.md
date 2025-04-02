@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : 1T1
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,597 likes - 40 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,780 likes - 40 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

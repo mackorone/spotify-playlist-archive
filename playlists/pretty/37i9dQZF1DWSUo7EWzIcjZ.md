@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Wilfrido Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,209 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,197 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,9 +107,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 97 | [Buscando Tus Besos](https://open.spotify.com/track/0OONd4OG3OBVLGBfrsdmCp) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/6HoHMYmzsLU76TOqNJdfcf) | 3:55 |
 | 98 | [Sobrevivire](https://open.spotify.com/track/7oi3XP83oftMs0G2BKji6t) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/5Lwqjfe4t5ilCLr4rdXBmR) | 4:15 |
 | 99 | [Curame](https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:06 |
-| 100 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |
-| 101 | [Cama Y Mesa](https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:07 |
-| 102 | [Faltaste a la Cita](https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengazo](https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e) | 4:27 |
+| 100 | [Cama Y Mesa](https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:07 |
+| 101 | [Faltaste a la Cita](https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengazo](https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e) | 4:27 |
+| 102 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |
 | 103 | [Como una Loba](https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF) | 4:22 |
 | 104 | [Amor, Amor](https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 4:22 |
 | 105 | [Que Ganas De No Verte Nunca Mas](https://open.spotify.com/track/2FnRMLwYTrrKgUbHNRfDr7) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 4:31 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 136 | [Noche Eterna](https://open.spotify.com/track/0Qyeb26NIFE2fHrX1uNewL) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Ring...Ring](https://open.spotify.com/album/3H00vhCcHbxZBk2QzGagQP) | 4:36 |
 | 137 | [Me Enamore De Ti](https://open.spotify.com/track/2ny5mfflZhPtorz8lO8RMs) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:07 |
 | 138 | [Hecha Para Mi](https://open.spotify.com/track/1DbtNvGpWDRf2tD68leVQy) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:25 |
-| 139 | [Jenny](https://open.spotify.com/track/0M72uHdSxJeBFulYmXmIeR) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 4:01 |
-| 140 | [Quero Conocerte](https://open.spotify.com/track/64EvOShIj4iNaQa1Y2kCbo) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:48 |
+| 139 | [Quero Conocerte](https://open.spotify.com/track/64EvOShIj4iNaQa1Y2kCbo) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:48 |
+| 140 | [Jenny](https://open.spotify.com/track/0M72uHdSxJeBFulYmXmIeR) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 4:01 |
 | 141 | [Nadie Me Brinda Na'](https://open.spotify.com/track/6ZRcNiFhbuSisisClh4Axr) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:55 |
 | 142 | [En Bandolera](https://open.spotify.com/track/5eHACquDQ3PHVQnUOX8tzo) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Exitos De](https://open.spotify.com/album/2L5sR3eAnIlDTLoj2B1ljl) | 3:29 |
 | 143 | [Medley "Rescate Tipico" No.1: Pajaro Perlu / Fiesta Y Serrucho / El Diente De Oro / Abusadora](https://open.spotify.com/track/3Nq4SfYlza7lTKqP5wPHl2) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 5:11 |

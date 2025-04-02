@@ -4,7 +4,7 @@
 
 > Let's go! 💪
 
-129 songs - 5 hr 51 min
+130 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bad Day](https://open.spotify.com/track/5qncWTWI5o2a4iKfDnzXDO) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/17PiY34CSqVPtrgUNaKhet) | 2:15 | 2023-11-28 | 2024-02-09 |
 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 | 2023-09-01 | 2024-08-23 |
 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 | 2024-06-06 |  |
+| [Be My Lover](https://open.spotify.com/track/4CMMYnsYsM7gY3Gf7j10yf) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [Be My Lover](https://open.spotify.com/album/5ej6OUxhJ6XNey2Il4svaW) | 2:35 | 2025-03-03 |  |
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2024-08-22 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-11-10 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2023-09-01 | 2023-10-28 |
@@ -47,7 +48,7 @@
 | [Energy \(feat\. Bay\-C\)](https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr), [Bay\-C](https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8) | [Energy \(feat\. Bay\-C\)](https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs) | 2:32 | 2023-09-01 | 2023-10-14 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2024-02-08 | 2024-09-01 |
 | [Eternity](https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Eternity](https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY) | 2:15 | 2024-02-08 | 2024-12-25 |
-| [Fade Away](https://open.spotify.com/track/3gG1APb47C9I1nIgcLFMEh) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Fade Away](https://open.spotify.com/album/1gCaL4MQetFtRh6wZNH9UT) | 2:37 | 2025-03-03 |  |
+| [Fade Away](https://open.spotify.com/track/3gG1APb47C9I1nIgcLFMEh) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Fade Away](https://open.spotify.com/album/1gCaL4MQetFtRh6wZNH9UT) | 2:37 | 2025-03-03 | 2025-04-02 |
 | [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 | 2024-02-08 | 2024-11-14 |
 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 | 2023-09-01 | 2024-02-09 |
 | [Ghost](https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Ghost](https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk) | 2:32 | 2024-12-13 |  |

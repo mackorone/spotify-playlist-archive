@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Great Grandpa
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,965 likes - 127 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,978 likes - 127 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

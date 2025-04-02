@@ -4,41 +4,41 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,584 likes - 241 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,640 likes - 241 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bygone times](https://open.spotify.com/track/6oyU04b8W2SHwL72QsDtKy) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Bygone times](https://open.spotify.com/album/4oiA2h89zEUicBtWIyUhLL) | 2:17 |
-| 2 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 |
-| 3 | [Snow\-Bound](https://open.spotify.com/track/2nbGR74wIrImIH53b4qtHQ) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Snow\-Bound](https://open.spotify.com/album/3bRNHXUTWsQJqwN2JImJ0V) | 2:36 |
+| 2 | [Snow\-Bound](https://open.spotify.com/track/2nbGR74wIrImIH53b4qtHQ) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Snow\-Bound](https://open.spotify.com/album/3bRNHXUTWsQJqwN2JImJ0V) | 2:36 |
+| 3 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 |
 | 4 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 |
 | 5 | [Amber Road](https://open.spotify.com/track/1t4RBkX8Ppdb41yXved4of) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Amber Road](https://open.spotify.com/album/6HeYvdS0Nyd0LCWEbdnR5s) | 2:19 |
 | 6 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
 | 7 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
 | 8 | [Crimson Skies](https://open.spotify.com/track/43qZorUUAipduGWksDmZUM) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Crimson Skies](https://open.spotify.com/album/7cVAB3ystjfhiE9lcPHk4l) | 2:14 |
-| 9 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
-| 10 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 |
-| 11 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 |
-| 12 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
+| 9 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 |
+| 10 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
+| 11 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
+| 12 | [Tremor](https://open.spotify.com/track/329r6KZ1LQRObJcFKF4wYz) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Tremor](https://open.spotify.com/album/2JAvoIwDs7BK7BWXIu6rmf) | 2:02 |
 | 13 | [From the Window](https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [From the Window](https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf) | 2:32 |
-| 14 | [Virelai](https://open.spotify.com/track/6OyHaNVzxNdjFm0wThDBpn) | [Florentin Fontaine](https://open.spotify.com/artist/2s9On29ToFU3xTzFt3IpV8) | [Virelai](https://open.spotify.com/album/7dp62StBuLbIWr3oMF5dls) | 1:54 |
-| 15 | [Tremor](https://open.spotify.com/track/329r6KZ1LQRObJcFKF4wYz) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Tremor](https://open.spotify.com/album/2JAvoIwDs7BK7BWXIu6rmf) | 2:02 |
-| 16 | [Chanceux](https://open.spotify.com/track/5wgH8YJwzSVVWM8a1bfcq0) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Chanceux](https://open.spotify.com/album/3VqA48JuoaMtT5OJReQ6X0) | 3:16 |
-| 17 | [Ljuset](https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Ljuset](https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK) | 2:22 |
-| 18 | [Isabelle](https://open.spotify.com/track/1ZOGR0g0RPxcdMLqVmR5xg) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Isabelle](https://open.spotify.com/album/2OtktlXxPi0Gj2UY5BuuhF) | 2:11 |
+| 14 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 |
+| 15 | [Virelai](https://open.spotify.com/track/6OyHaNVzxNdjFm0wThDBpn) | [Florentin Fontaine](https://open.spotify.com/artist/2s9On29ToFU3xTzFt3IpV8) | [Virelai](https://open.spotify.com/album/7dp62StBuLbIWr3oMF5dls) | 1:54 |
+| 16 | [Isabelle](https://open.spotify.com/track/1ZOGR0g0RPxcdMLqVmR5xg) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Isabelle](https://open.spotify.com/album/2OtktlXxPi0Gj2UY5BuuhF) | 2:11 |
+| 17 | [Chanceux](https://open.spotify.com/track/5wgH8YJwzSVVWM8a1bfcq0) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Chanceux](https://open.spotify.com/album/3VqA48JuoaMtT5OJReQ6X0) | 3:16 |
+| 18 | [Ljuset](https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Ljuset](https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK) | 2:22 |
 | 19 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
-| 20 | [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 |
-| 21 | [Whispers](https://open.spotify.com/track/5gRrCTbq0RXgi4TBksGaU5) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Whispers](https://open.spotify.com/album/7xTXaobGtWXAJFncgGfFDG) | 2:09 |
-| 22 | [The Act of Contemplation](https://open.spotify.com/track/6866Lw5Sxcmjg6OxO5IUmj) | [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [The Act of Contemplation](https://open.spotify.com/album/4YZT7FiMRnLTLGF28jcgWi) | 1:42 |
-| 23 | [Concepts](https://open.spotify.com/track/5zQA5HeJ6KfWSgwAGZRxUh) | [Richard Noé](https://open.spotify.com/artist/5WxEK0rCJfxI9TN0dbVoWp) | [Concepts](https://open.spotify.com/album/5DHW9iPdqzWyrQuaI4sv3j) | 2:12 |
+| 20 | [Concepts](https://open.spotify.com/track/5zQA5HeJ6KfWSgwAGZRxUh) | [Richard Noé](https://open.spotify.com/artist/5WxEK0rCJfxI9TN0dbVoWp) | [Concepts](https://open.spotify.com/album/5DHW9iPdqzWyrQuaI4sv3j) | 2:12 |
+| 21 | [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 |
+| 22 | [Whispers](https://open.spotify.com/track/5gRrCTbq0RXgi4TBksGaU5) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Whispers](https://open.spotify.com/album/7xTXaobGtWXAJFncgGfFDG) | 2:09 |
+| 23 | [The Act of Contemplation](https://open.spotify.com/track/6866Lw5Sxcmjg6OxO5IUmj) | [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [The Act of Contemplation](https://open.spotify.com/album/4YZT7FiMRnLTLGF28jcgWi) | 1:42 |
 | 24 | [Particles](https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Particles](https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX) | 2:39 |
 | 25 | [Light As A Feather](https://open.spotify.com/track/3U30zuvNNHUUMSI954bWZk) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Light As A Feather](https://open.spotify.com/album/1Ug8cU7eAWPnyMcr7GGocA) | 2:36 |
 | 26 | [The Brave Wind](https://open.spotify.com/track/2JORX3wf4DlvcO269jPLKd) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Brave Wind](https://open.spotify.com/album/35ai3f8NbCkolGXiJlJRgz) | 2:54 |
-| 27 | [A Thousand Miles](https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [A Thousand Miles](https://open.spotify.com/album/7eo39n32RoBLx2Z2yFfsnG) | 3:17 |
-| 28 | [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 |
-| 29 | [Echoes in the Rain](https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Echoes in the Rain](https://open.spotify.com/album/0NVJMgNWPnUFPKOQBlYUPg) | 2:26 |
+| 27 | [Data Stream](https://open.spotify.com/track/1V0hIdLiePAzR7nFQ6TPUt) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Data Stream](https://open.spotify.com/album/6FhIvJlDLlmbRiP2yjacrg) | 2:48 |
+| 28 | [A Thousand Miles](https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [A Thousand Miles](https://open.spotify.com/album/7eo39n32RoBLx2Z2yFfsnG) | 3:17 |
+| 29 | [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 |
 | 30 | [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 |
-| 31 | [Data Stream](https://open.spotify.com/track/1V0hIdLiePAzR7nFQ6TPUt) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Data Stream](https://open.spotify.com/album/6FhIvJlDLlmbRiP2yjacrg) | 2:48 |
+| 31 | [Echoes in the Rain](https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Echoes in the Rain](https://open.spotify.com/album/0NVJMgNWPnUFPKOQBlYUPg) | 2:26 |
 | 32 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 |
 | 33 | [Whirlwinds of Life](https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Whirlwinds of Life](https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss) | 2:22 |
 | 34 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 240 | [Nyári séta](https://open.spotify.com/track/7CgSotbNO8YesINbIWsmaV) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:13 |
 | 241 | [Ballade](https://open.spotify.com/track/78zPgh3hoMj0RvhQUMl2t4) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Soothing](https://open.spotify.com/album/0HpVnkz47Z30QIE89pHlLY) | 2:58 |
 
-Snapshot ID: `Z+LQ6AAAAADZ8HSVEj2iJLgqfQyJpDob`
+Snapshot ID: `Z+uujQAAAAB89aL5tcmcoPO3upbyDEc9`

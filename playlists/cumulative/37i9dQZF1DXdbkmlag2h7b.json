@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 127693,
       "name": "Ali",
       "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
@@ -1188,6 +1188,32 @@
       "duration_ms": 220532,
       "name": "Elementary Grounds",
       "url": "https://open.spotify.com/track/1dNqMaHUuT86QMuOAKCZvC"
+    },
+    {
+      "album": {
+        "name": "Ember (Circle 52)",
+        "url": "https://open.spotify.com/album/1gh5vYoqQOalH4bXBJAhTP"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "EIRLYS",
+          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295384,
+      "name": "Ember (Circle 52)",
+      "url": "https://open.spotify.com/track/1uWthhIazUVavafVC5GG9r"
     },
     {
       "album": {
@@ -2905,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Orbital Oasis",
+        "url": "https://open.spotify.com/album/1yspBlFboddEbivYv2VSpu"
+      },
+      "artists": [
+        {
+          "name": "Ruben Ortega",
+          "url": "https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Orbital Oasis",
+      "url": "https://open.spotify.com/track/6zGZtDSM0FSol4zakv14CS"
+    },
+    {
+      "album": {
         "name": "Meditations for Woods & Winds",
         "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
       },
@@ -4022,7 +4066,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 167386,
       "name": "The Light of Day",
       "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"

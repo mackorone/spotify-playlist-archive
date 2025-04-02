@@ -1505,28 +1505,6 @@
     },
     {
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/2dGp8VifkLqCVp0o5q1O7f"
-      },
-      "artists": [
-        {
-          "name": "Juri Vallentin",
-          "url": "https://open.spotify.com/artist/2YtNr7UFUdaRMLRbQY1OJb"
-        },
-        {
-          "name": "Ensemble Reflektor",
-          "url": "https://open.spotify.com/artist/47Khw2Og2Im70QJmKU4Qqt"
-        }
-      ],
-      "date_added": "2025-02-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255312,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/6WRzX7MZHC0YgZuoACKOlD"
-    },
-    {
-      "album": {
         "name": "everything i wanted (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/0ndzbkku7rXbTBRhlSt8Zw"
       },
@@ -1560,6 +1538,28 @@
       "duration_ms": 332671,
       "name": "everything i wanted (notturno)",
       "url": "https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1"
+    },
+    {
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/2dGp8VifkLqCVp0o5q1O7f"
+      },
+      "artists": [
+        {
+          "name": "Juri Vallentin",
+          "url": "https://open.spotify.com/artist/2YtNr7UFUdaRMLRbQY1OJb"
+        },
+        {
+          "name": "Ensemble Reflektor",
+          "url": "https://open.spotify.com/artist/47Khw2Og2Im70QJmKU4Qqt"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255312,
+      "name": "Everything I Wanted - Arr. for Oboe and Chamber Orchestra by Juri Vallentin",
+      "url": "https://open.spotify.com/track/6WRzX7MZHC0YgZuoACKOlD"
     },
     {
       "album": {

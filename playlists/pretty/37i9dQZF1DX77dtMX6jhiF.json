@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 15399,
+  "num_followers": 15403,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,30 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Born 2 Rap",
+        "url": "https://open.spotify.com/album/5MDmKDe9kmJBsf8yYn8dUM"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "J. Stone",
+          "url": "https://open.spotify.com/artist/5vIbOHLEq5uLoCRV6ys20U"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 314262,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4CUoTkHeYj5RYxWbH44EK0"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
       },
@@ -791,30 +815,6 @@
       "duration_ms": 267384,
       "name": "THE NEWS",
       "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Born 2 Rap",
-        "url": "https://open.spotify.com/album/5MDmKDe9kmJBsf8yYn8dUM"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "J. Stone",
-          "url": "https://open.spotify.com/artist/5vIbOHLEq5uLoCRV6ys20U"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 314262,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4CUoTkHeYj5RYxWbH44EK0"
     },
     {
       "added_at": "2022-10-01 16:57:49",

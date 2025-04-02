@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from DJ Maphorisa &  Xduppy, Ariana Grande, Lil Nas X and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,740 likes - 79 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,828 likes - 79 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

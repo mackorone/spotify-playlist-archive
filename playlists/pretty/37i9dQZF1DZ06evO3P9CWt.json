@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAABLgXdu1HtSDGSfXNhAEJiK",
+  "snapshot_id": "Z+nbAAAAAACOVMnH1G0xvZxREDXINJ8P",
   "tracks": [
     {
       "added_at": null,
@@ -268,13 +268,13 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "Will Love",
+          "url": "https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj"
         }
       ],
-      "duration_ms": 206002,
-      "name": "Hoje \u00c0 Noite (Alone)",
-      "url": "https://open.spotify.com/track/05JKQNjTszGYFsPpC480Xq"
+      "duration_ms": 133669,
+      "name": "Rubi",
+      "url": "https://open.spotify.com/track/6dIkrUW18wrp0402u2It44"
     },
     {
       "added_at": null,
@@ -344,13 +344,13 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "Will Love",
-          "url": "https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj"
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         }
       ],
-      "duration_ms": 133669,
-      "name": "Rubi",
-      "url": "https://open.spotify.com/track/6dIkrUW18wrp0402u2It44"
+      "duration_ms": 206002,
+      "name": "Hoje \u00c0 Noite (Alone)",
+      "url": "https://open.spotify.com/track/05JKQNjTszGYFsPpC480Xq"
     },
     {
       "added_at": null,
@@ -496,13 +496,13 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         }
       ],
-      "duration_ms": 144175,
-      "name": "Ai Que Calor",
-      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan"
+      "duration_ms": 157492,
+      "name": "Falta Coragem",
+      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
     },
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
+      },
+      "artists": [
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 168983,
+      "name": "Nada Se Compara a Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/7uzJJ3v91TG26zothutvV2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Manda em Mim",
         "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
       },
@@ -547,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 144175,
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -563,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
-        }
-      ],
-      "duration_ms": 157492,
-      "name": "Falta Coragem",
-      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 167502,
       "name": "Zap Zum",
       "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
-      },
-      "artists": [
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 168983,
-      "name": "Nada Se Compara a Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/7uzJJ3v91TG26zothutvV2"
     },
     {
       "added_at": null,
@@ -647,30 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "111 DELUXE",
-        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Mc Mayara",
-          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
-        }
-      ],
-      "duration_ms": 146543,
-      "name": "Bandida (feat. Mc Mayara)",
-      "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -699,6 +675,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "111 DELUXE",
+        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Mc Mayara",
+          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
+        }
+      ],
+      "duration_ms": 146543,
+      "name": "Bandida (feat. Mc Mayara)",
+      "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Esque\u00e7o",
         "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 185217,
       "name": "N\u00e3o Esque\u00e7o",
       "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
+      },
+      "artists": [
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 158664,
+      "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
+      "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
     },
     {
       "added_at": null,
@@ -824,9 +844,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 158664,
-      "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
-      "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
+      "duration_ms": 163622,
+      "name": "S\u00e3o Amores - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Sqo6EUQ7SSoDusy7C5oun"
     },
     {
       "added_at": null,
@@ -867,42 +887,6 @@
       "duration_ms": 199629,
       "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
       "url": "https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
-      },
-      "artists": [
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 163622,
-      "name": "S\u00e3o Amores - Ao Vivo",
-      "url": "https://open.spotify.com/track/3Sqo6EUQ7SSoDusy7C5oun"
     },
     {
       "added_at": null,
@@ -987,26 +971,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUBA Remix",
-        "url": "https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY"
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
       },
       "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        },
-        {
-          "name": "Marley no Beat",
-          "url": "https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 162700,
-      "name": "CUBA Remix",
-      "url": "https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF"
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
     },
     {
       "added_at": null,
@@ -1027,6 +1003,30 @@
       "duration_ms": 158544,
       "name": "Trago seu Amor de Volta (feat. Dilsinho)",
       "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CUBA Remix",
+        "url": "https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        },
+        {
+          "name": "Marley no Beat",
+          "url": "https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 162700,
+      "name": "CUBA Remix",
+      "url": "https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

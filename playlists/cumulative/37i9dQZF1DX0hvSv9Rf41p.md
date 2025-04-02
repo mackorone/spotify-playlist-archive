@@ -2,9 +2,9 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Black Tiger Sex Machine
+> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Skrillex
 
-1,221 songs - 2 day 20 hr 13 min
+1,222 songs - 2 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-08 | 2024-03-18 |
 | [Birthday](https://open.spotify.com/track/4Rmi1phDTLVbVgL5d4LrLn) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Lexy Panterra](https://open.spotify.com/artist/5bB58D2RfSIIM2eBJy2Kww) | [Birthday](https://open.spotify.com/album/2ch36ok30TIJAaCWUCThWy) | 3:25 | 2025-02-21 |  |
 | [bitches](https://open.spotify.com/track/2cqscm1gWXZElrn48maeMe) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [bitches](https://open.spotify.com/album/2leobyqQarqugCXzuEzTAY) | 3:37 | 2021-12-17 | 2022-02-19 |
-| [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 | 2025-01-31 |  |
+| [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 | 2025-01-31 | 2025-04-02 |
 | [Bite Your Lip pt\. 2](https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Bite Your Lip pt\. 2](https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL) | 3:05 | 2024-04-12 | 2024-05-04 |
 | [Black Hole](https://open.spotify.com/track/4VQK9d4giauCdAN9C8W6nh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Black Hole](https://open.spotify.com/album/1lvwDVM28x49MlrDYMnBPg) | 3:38 | 2021-12-17 | 2022-03-12 |
 | [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 | 2024-01-12 | 2024-04-19 |
@@ -1155,6 +1155,7 @@
 | [Vendetta](https://open.spotify.com/track/4dJLLJgIDDVWrntAt1qlPY) | [SSOS](https://open.spotify.com/artist/1X90DISqAUei3m4aEHCYhR), [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd) | [Awakening Compilation 01](https://open.spotify.com/album/3711bSb5rWJ2gABaMUporo) | 2:43 | 2024-04-05 | 2024-04-19 |
 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 | 2021-12-17 | 2022-02-19 |
 | [Villain](https://open.spotify.com/track/5SvEdcv97xIAwQdP4DQ8RT) | [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Villain](https://open.spotify.com/album/06jFDgkJvhOWELU32BmGon) | 4:54 | 2022-03-11 | 2023-01-04 |
+| [VOLTAGE](https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:09 | 2025-04-01 |  |
 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 | 2024-04-12 | 2024-09-28 |
 | [Voodoo \- NGHTMRE Remix](https://open.spotify.com/track/17Qks76rdTLEZkFObBNVm6) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The Resonance VII](https://open.spotify.com/album/5SjR0EUzWxrlNFLgfwbUJq) | 2:52 | 2024-04-26 | 2024-06-01 |
 | [Waiting](https://open.spotify.com/track/4TxYA7kcWt5fF77v9Zp4nJ) | [MIKESH!FT](https://open.spotify.com/artist/38ry7phGphvGGKVmxgpUkn), [KERO](https://open.spotify.com/artist/1buRQJUaOGTgp36hBMda6y) | [Waiting](https://open.spotify.com/album/3b8zqouJM1exZabdPAs3gf) | 4:00 | 2024-04-12 | 2024-04-19 |

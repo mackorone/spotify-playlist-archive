@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-14",
-  "description": "La playlist ufficiale del rap show di Netflix, la nuova stagione inizia il 31 marzo. ",
+  "description": "La playlist ufficiale del rap show di Netflix, la nuova stagione \u00e8 uscita.",
   "name": "Nuova Scena Official Playlist",
   "tracks": [
     {
@@ -1733,6 +1733,44 @@
     },
     {
       "album": {
+        "name": "TUTTO A POSTO (From the Netflix Rap Show \u201cNuova Scena\u201d) [Live]",
+        "url": "https://open.spotify.com/album/2upDuP0vVywKWjSzYr96iW"
+      },
+      "artists": [
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/02HjKECtF08ZgloUOOyWHo"
+        },
+        {
+          "name": "NACHELO",
+          "url": "https://open.spotify.com/artist/46EBXauU1flzrR1huA7HId"
+        },
+        {
+          "name": "EOS",
+          "url": "https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV"
+        },
+        {
+          "name": "Erness",
+          "url": "https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58"
+        },
+        {
+          "name": "Joejoe",
+          "url": "https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151835,
+      "name": "TUTTO A POSTO (From the Netflix Rap Show \u201cNuova Scena\u201d) - Live",
+      "url": "https://open.spotify.com/track/5YZEHwsOGXQZo7IrPhqJam"
+    },
+    {
+      "album": {
         "name": "MM Vol. 2",
         "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
       },
@@ -1792,6 +1830,44 @@
       "duration_ms": 236253,
       "name": "Vip In Trip",
       "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
+    },
+    {
+      "album": {
+        "name": "WE GOT IT (From the Netflix Rap Show \u201cNuova Scena\u201d) [Live]",
+        "url": "https://open.spotify.com/album/2UGy313uBHbjbYsSbSq7cd"
+      },
+      "artists": [
+        {
+          "name": "Lina Simons",
+          "url": "https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A"
+        },
+        {
+          "name": "Krifal",
+          "url": "https://open.spotify.com/artist/37hzD9cWKbTAChHr9WQaLD"
+        },
+        {
+          "name": "FlyKush",
+          "url": "https://open.spotify.com/artist/0HeKoi9Hi5fXejPhdyZlOB"
+        },
+        {
+          "name": "Spampy",
+          "url": "https://open.spotify.com/artist/3OrFZXaCLSMFGIoYvTHQOL"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156471,
+      "name": "WE GOT IT (From the Netflix Rap Show \u201cNuova Scena\u201d) - Live",
+      "url": "https://open.spotify.com/track/011YjJ0LFDtAl7OahUAUfD"
     },
     {
       "album": {

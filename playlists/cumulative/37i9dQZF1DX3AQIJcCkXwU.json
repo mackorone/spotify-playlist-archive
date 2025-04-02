@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2vW1TY9g69JevrR0pzkbH6"
+      },
+      "artists": [
+        {
+          "name": "LaYam",
+          "url": "https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142245,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/1A8PSrSpKl1hHDpQKgU9vd"
+    },
+    {
+      "album": {
         "name": "Back to Sinharaja",
         "url": "https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 214666,
       "name": "Bhupali",
       "url": "https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo"
@@ -524,6 +542,28 @@
       "duration_ms": 192093,
       "name": "Brahman",
       "url": "https://open.spotify.com/track/7k3lKBWa8ptckauaJvolEF"
+    },
+    {
+      "album": {
+        "name": "Buddha's Peace",
+        "url": "https://open.spotify.com/album/1ngMYGtbdupfJRnn94mLZh"
+      },
+      "artists": [
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        },
+        {
+          "name": "Deepesh Sanmal",
+          "url": "https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173923,
+      "name": "Buddha's Peace",
+      "url": "https://open.spotify.com/track/11FGBWOWOixTNjRV59T49f"
     },
     {
       "album": {
@@ -664,7 +704,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 231452,
       "name": "Colors of Love",
       "url": "https://open.spotify.com/track/06qxVIUENc5A9YhR02onIF"
@@ -794,6 +834,32 @@
       "duration_ms": 179191,
       "name": "Dawn Dusk Divinity",
       "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
+    },
+    {
+      "album": {
+        "name": "Chapter III: We Return to Light",
+        "url": "https://open.spotify.com/album/10y2phPg1DNcq2YALjzABR"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        },
+        {
+          "name": "Alam Khan",
+          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
+        },
+        {
+          "name": "Sarathy Korwar",
+          "url": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278130,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/5yTsposXxnk1rJVETaXS4N"
     },
     {
       "album": {
@@ -1163,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour Ganges",
+        "url": "https://open.spotify.com/album/0hde8PjUfNu7GT8RLIUup8"
+      },
+      "artists": [
+        {
+          "name": "Aks & Lakshmi",
+          "url": "https://open.spotify.com/artist/5zXob0LQBUchAV6mZOgu2w"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Golden Hour Ganges",
+      "url": "https://open.spotify.com/track/2PSBjAYj5x7yS5ZyGLs4SC"
+    },
+    {
+      "album": {
         "name": "Amarujala",
         "url": "https://open.spotify.com/album/15cPIQVlhbw9pPuqfOJbfX"
       },
@@ -1178,6 +1262,24 @@
       "duration_ms": 147640,
       "name": "Haathee",
       "url": "https://open.spotify.com/track/2iIEvKccENdTBtmLElhqOp"
+    },
+    {
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/0ZXpgNaR3yo9pwMkZECoz6"
+      },
+      "artists": [
+        {
+          "name": "Northern Path",
+          "url": "https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/2nZOjE2FuBUjgSual4RPNF"
     },
     {
       "album": {
@@ -1586,7 +1688,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 191063,
       "name": "Kautilya (The Echo Project)",
       "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
@@ -1858,7 +1960,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 212525,
       "name": "Lost In The Moment",
       "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
@@ -1984,7 +2086,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 235846,
       "name": "Maun",
       "url": "https://open.spotify.com/track/7pvkoMZYbxCvyw2CU4vjIn"
@@ -2092,7 +2194,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 142685,
       "name": "Morning Dawn",
       "url": "https://open.spotify.com/track/0AvtIHB9BG8N725eCesw5F"
@@ -2110,7 +2212,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 164571,
       "name": "Morning in Jaipur",
       "url": "https://open.spotify.com/track/6bq2sIFBwDlNSvAeRSUOfC"
@@ -2362,7 +2464,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 354520,
       "name": "Night",
       "url": "https://open.spotify.com/track/4N3vw766peEDGWJEnSC7cL"
@@ -2398,7 +2500,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 368799,
       "name": "Papa Tau (A Tribute to Papa Tau Moe)",
       "url": "https://open.spotify.com/track/4gE7Vsah50s9rAjaEHrHw5"
@@ -2958,7 +3060,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 164571,
       "name": "Rise of the Capital",
       "url": "https://open.spotify.com/track/5t3WHBCb8dg7niQPTIkRgm"
@@ -3210,7 +3312,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 309013,
       "name": "Shiva's Meditation",
       "url": "https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT"
@@ -3578,7 +3680,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 198532,
       "name": "Tathy",
       "url": "https://open.spotify.com/track/0gDypzWjp6hHkcs0OEzP3A"
@@ -3722,7 +3824,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 176013,
       "name": "The Namesake Opening Titles",
       "url": "https://open.spotify.com/track/3IVjSLTk4Ojf7iJCnuafbi"

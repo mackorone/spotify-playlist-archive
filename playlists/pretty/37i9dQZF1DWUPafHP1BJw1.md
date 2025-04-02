@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,153 likes - 173 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,277 likes - 173 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 21 | [For Good \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/04AfCHCBBLuD2YuIUEcWLa) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [For Good \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/6Ezlz82NOJ0il1XOiqg7CL) | 3:24 |
 | 22 | [Sweet Dreams \- Piano Version](https://open.spotify.com/track/36nEmaseHoiF7qoTZem3On) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Sweet Dreams \(Piano Version\)](https://open.spotify.com/album/4NckuV5rT6ZhrFijUPJoAt) | 2:07 |
 | 23 | [Now We Are Free \(Arr\. Piano\) \- from "Gladiator"](https://open.spotify.com/track/32DOR9FunwPXFYyTAXzYQj) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Now We Are Free \(Arr\. Piano\) \[from "Gladiator"\]](https://open.spotify.com/album/5XdnldcWyrm9wBSMNtoQvN) | 2:44 |
-| 24 | [Everything I Wanted](https://open.spotify.com/track/6WRzX7MZHC0YgZuoACKOlD) | [Juri Vallentin](https://open.spotify.com/artist/2YtNr7UFUdaRMLRbQY1OJb), [Ensemble Reflektor](https://open.spotify.com/artist/47Khw2Og2Im70QJmKU4Qqt) | [Everything I Wanted](https://open.spotify.com/album/2dGp8VifkLqCVp0o5q1O7f) | 4:15 |
+| 24 | [Everything I Wanted \- Arr\. for Oboe and Chamber Orchestra by Juri Vallentin](https://open.spotify.com/track/6WRzX7MZHC0YgZuoACKOlD) | [Juri Vallentin](https://open.spotify.com/artist/2YtNr7UFUdaRMLRbQY1OJb), [Ensemble Reflektor](https://open.spotify.com/artist/47Khw2Og2Im70QJmKU4Qqt) | [Everything I Wanted](https://open.spotify.com/album/2dGp8VifkLqCVp0o5q1O7f) | 4:15 |
 | 25 | [Lend Me Your Voice \(feat\. Tina Guo\)](https://open.spotify.com/track/4guuWK2dDbaascmSeE191L) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Lend Me Your Voice \(feat\. Tina Guo\)](https://open.spotify.com/album/3mFvgCj4JaMobvWndyr5rx) | 4:11 |
 | 26 | [Don’t Look Back in Anger \- Symphony Orchestra Version](https://open.spotify.com/track/0VK3Pojsx1FlvYvwzF4EGj) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Don’t Look Back in Anger \(Symphony Orchestra Version\)](https://open.spotify.com/album/373zux9SQ2TIPmYbbtjQj2) | 2:38 |
 | 27 | [Glimpse Of Us \(Radio Edit\) \- Symphony Orchestra Version](https://open.spotify.com/track/3lKsTCKWr7qCtxqkOuxEFm) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Glimpse Of Us \(Radio Edit\) \[Symphony Orchestra Version\]](https://open.spotify.com/album/44zuDsGns1Fz5YloQPjYOs) | 3:40 |

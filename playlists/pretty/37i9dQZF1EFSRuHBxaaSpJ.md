@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 81 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 17 | [Hakan Sukur](https://open.spotify.com/track/0EE5QfsVywpj6CycOUADk1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [En esprit](https://open.spotify.com/album/4YUEcV66XwylhSNJI51ABq) | 2:37 |
 | 18 | [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 |
 | 19 | [Madame Courage](https://open.spotify.com/track/5HB6o7sYMJ4n1KQ4jJZrQU) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Affranchis](https://open.spotify.com/album/4MbntxMXJhPQvsFXMLaZcM) | 4:37 |
-| 20 | [Regarde toi](https://open.spotify.com/track/3fd1m0WrUUkntWM2EnLS2Y) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:25 |
-| 21 | [Boucherie](https://open.spotify.com/track/0EDAdelJuVt815AlBn4HCF) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:25 |
+| 20 | [Boucherie](https://open.spotify.com/track/0EDAdelJuVt815AlBn4HCF) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:25 |
+| 21 | [Regarde toi](https://open.spotify.com/track/3fd1m0WrUUkntWM2EnLS2Y) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:25 |
 | 22 | [La musique est bonne](https://open.spotify.com/track/1mkfypfSeJflYlTloYN1s1) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La musique est bonne](https://open.spotify.com/album/5IA5n3Vdofj8itY4hJHk2E) | 2:42 |
 | 23 | [AMF \- NOUVELLE ÉCOLE](https://open.spotify.com/track/21OiWAHVk1rIjDMzlWpdSS) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [LE SOLEIL NE S'ÉTEINT JAMAIS](https://open.spotify.com/album/3NUhwHq408l2Vm5quZyp06) | 3:00 |
 | 24 | [Bourgeoisie](https://open.spotify.com/track/6KPTsPIe7faR13q8IfG0l8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Bourgeoisie](https://open.spotify.com/album/7gVMzPkmhEdF7l7Ew5HuGA) | 2:56 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 51 | [M'en aller](https://open.spotify.com/track/7LlyQndi8Sebi4YRXz4nVc) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 2:46 |
 | 52 | [Vie de reusta](https://open.spotify.com/track/2eEkL0gd9Qv0bHwNwykNQH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:25 |
 | 53 | [Terminer](https://open.spotify.com/track/6fHYEeB30chvQLqEpm89pR) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 3:03 |
-| 54 | [Jesuispasséchezso : Episode 7 / R](https://open.spotify.com/track/1rWMvByN7HOWUmU9F3zkkE) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Jesuispasséchezso : Episode 7 / R](https://open.spotify.com/album/2G8NoosPxbWVoWWUZCC12w) | 5:54 |
-| 55 | [Ton love](https://open.spotify.com/track/7d3tcVaz3RIEV4gzy21Kp7) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:18 |
+| 54 | [Ton love](https://open.spotify.com/track/7d3tcVaz3RIEV4gzy21Kp7) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:18 |
+| 55 | [Jesuispasséchezso : Episode 7 / R](https://open.spotify.com/track/1rWMvByN7HOWUmU9F3zkkE) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Jesuispasséchezso : Episode 7 / R](https://open.spotify.com/album/2G8NoosPxbWVoWWUZCC12w) | 5:54 |
 | 56 | [Ouais x4 / Wake Up](https://open.spotify.com/track/23JfoAyYt1CJvQQ6uaa7Ze) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 4:32 |
 | 57 | [Papel](https://open.spotify.com/track/2cqnmtSYMDRUBWDkFJWlXj) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 3:16 |
 | 58 | [Mitterrand](https://open.spotify.com/track/3cK8iQ4iSDaUE2wlZ2N7lF) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:49 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 80 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
 | 81 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 
-Snapshot ID: `AbtjswAAAAChHDVv3S/wlvrIm+EFTcpy`
+Snapshot ID: `AbtpUgAAAAC6Ig6mvd6kyj1Eewjo61Jh`

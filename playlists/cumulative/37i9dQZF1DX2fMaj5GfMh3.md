@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Dua Lipa & Troye Sivan
 
-905 songs - 1 day 22 hr 3 min
+907 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [About You](https://open.spotify.com/track/5hDjdcUB4Ex143S8BSVsFG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [About You](https://open.spotify.com/album/2Fs0WFILf3bV6D1Ph6iFhm) | 2:40 | 2023-02-24 | 2023-03-04 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-03 |  |
 | [ADHD](https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [ADHD](https://open.spotify.com/album/0AEsYY4W8qjXwLpyd8SmAM) | 2:55 | 2024-01-18 | 2024-03-19 |
-| [After The Opera](https://open.spotify.com/track/2yeTcMb9sYIYvZm7JZu770) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [After The Opera](https://open.spotify.com/album/0Fc51KziL9dQGphoiRYQaR) | 3:00 | 2025-01-23 |  |
+| [After The Opera](https://open.spotify.com/track/2yeTcMb9sYIYvZm7JZu770) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [After The Opera](https://open.spotify.com/album/0Fc51KziL9dQGphoiRYQaR) | 3:00 | 2025-01-23 | 2025-04-02 |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-18 | 2024-04-05 |
 | [Alive](https://open.spotify.com/track/5CCS7S9pJxDrjYl1cmvZh7) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8) | [Alive](https://open.spotify.com/album/7ErfdKwwn9bXBfdesT1AoU) | 3:37 | 2024-12-03 | 2025-02-08 |
 | [All Is Ours](https://open.spotify.com/track/1rxLCrJvvAH1gzcgEF7Sa2) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 3:41 | 2024-07-04 | 2024-09-20 |
@@ -63,6 +63,7 @@
 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 | 2024-10-24 | 2025-01-17 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2023-02-24 | 2023-04-07 |
 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 | 2023-11-09 | 2024-01-26 |
+| [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 | 2025-04-01 |  |
 | [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-24 | 2024-07-09 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-11 | 2023-11-14 |
@@ -137,7 +138,7 @@
 | [cautious](https://open.spotify.com/track/6arWSraSUt15KNwLrWXeJV) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [cautious](https://open.spotify.com/album/1idt4EiRyhXtzyMiygpXWC) | 3:02 | 2025-01-30 |  |
 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 | 2023-11-09 | 2024-03-01 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-24 | 2023-05-26 |
-| [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-16 |  |
+| [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-16 | 2025-04-02 |
 | [Cero \(feat\. Namayana Women's Choir\)](https://open.spotify.com/track/3K3Iw3FsrP364vSkAHzWjm) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Namayana Women's Choir](https://open.spotify.com/artist/5VaB3puDBDbNGldxINR9rJ) | [Cero \(feat\. Namayana Women's Choir\)](https://open.spotify.com/album/5hUO1e8Nglh6Fk8E6ouWrh) | 3:02 | 2024-10-24 | 2025-01-17 |
 | [Change My Mind](https://open.spotify.com/track/5msyZ3CYqTXWdIYmrcwBQk) | [VINCHNZO](https://open.spotify.com/artist/0SB8N9mcJPZMDcekfzBlru) | [Change My Mind](https://open.spotify.com/album/4dog10ScA3Wl9XoMRv1JL2) | 3:47 | 2024-07-18 | 2024-10-04 |
 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-30 | 2024-07-23 |
@@ -671,6 +672,7 @@
 | [Red Light](https://open.spotify.com/track/3Bkd4gTLmlGGtvlTq4HQm7) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [miroir / Red Light](https://open.spotify.com/album/6k86lCqjXPJfucjK3FVbzO) | 2:37 | 2024-10-24 | 2025-01-10 |
 | [Red Light](https://open.spotify.com/track/1eRsYW80thFTfA7QP8vRBK) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Red Light](https://open.spotify.com/album/05RpaVvtRNOyUID3IQL4eh) | 2:26 | 2025-02-27 |  |
 | [Reflections](https://open.spotify.com/track/0fvIQtkk9ikyFRu0oWez4B) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Troubled Waters](https://open.spotify.com/album/26PBL1D0ltBX7cXWm3luIm) | 3:53 | 2024-11-07 | 2025-01-24 |
+| [Relentless Love](https://open.spotify.com/track/0hzt5MB7hjMWDPkM5BLDLt) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Relentless Love](https://open.spotify.com/album/3c8dzx8Vhy0w4eLH8ns5Zj) | 4:03 | 2025-04-01 |  |
 | [remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 | 2025-03-06 |  |
 | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere) | 2:02 | 2024-12-03 | 2025-02-19 |
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-25 | 2023-12-01 |

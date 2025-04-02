@@ -6,40 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACrlH/ySqyQ1lzKRteqkuU4",
+  "snapshot_id": "AAAAAAAAAAAITL8b19eI96L3Zd85JbsM",
   "tracks": [
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "The Squirrely Years Revisited",
-        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Revenge - Squirrely Version",
-      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Otra Noche de Llorar",
-        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
-    },
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
@@ -55,22 +23,6 @@
       "duration_ms": 183223,
       "name": "Up From the Bottom",
       "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "A Million Suns",
-      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -91,18 +43,50 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Ya Llegaron Las Pipsas",
-        "url": "https://open.spotify.com/album/14uQXvB5NN41y8zdOGIXrf"
+        "name": "Otra Noche de Llorar",
+        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
       },
       "artists": [
         {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 120131,
-      "name": "Ya Llegaron Las Pipsas",
-      "url": "https://open.spotify.com/track/2XnfSSbKyrXUBjcN73BKed"
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "The Squirrely Years Revisited",
+        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Revenge - Squirrely Version",
+      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "A Million Suns",
+      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -135,82 +119,6 @@
       "duration_ms": 200440,
       "name": "Sleep Now In The Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "The Place After This One",
-        "url": "https://open.spotify.com/album/5qEOO4BX3s3amNgFashUs0"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 181017,
-      "name": "Loss",
-      "url": "https://open.spotify.com/track/7B6ddTSICdNYKAlNTIhZSb"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 220660,
-      "name": "Love Is War",
-      "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Even If It Kills Me (Reimagined)",
-        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 174755,
-      "name": "Even If It Kills Me (Reimagined)",
-      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Mendelssohn & Tchaikovsky: Violin Concertos",
-        "url": "https://open.spotify.com/album/3xezaPr6IEAaXhoa12PVAj"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Mariko Senju",
-          "url": "https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W"
-        },
-        {
-          "name": "Japan Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2mRcW1hyPk87K7KiBdLyc6"
-        },
-        {
-          "name": "\u5ca9\u6751 \u529b",
-          "url": "https://open.spotify.com/artist/0lkaqeGgAK5WAcCU01z2Kq"
-        }
-      ],
-      "duration_ms": 665026,
-      "name": "Violin Concerto in D Major, Op. 35: III. Finale. Allegro vivacissimo",
-      "url": "https://open.spotify.com/track/6bVr7w94u5RjbzXPxrRG7s"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -251,6 +159,26 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
+        "name": "Oculus Maximus",
+        "url": "https://open.spotify.com/album/6AM8F6nueCKT8QXNADxSHq"
+      },
+      "artists": [
+        {
+          "name": "ScarLid Vibez",
+          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 71157,
+      "name": "Xeroxs",
+      "url": "https://open.spotify.com/track/1y8uRz1qLUAZcuiWFmezFW"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
         "name": "Now or Never (F.A.S.T x & DJ Triple XL Remix)",
         "url": "https://open.spotify.com/album/3fZxc2BwHIv2I72Txd9yGq"
       },
@@ -279,22 +207,50 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Oculus Maximus",
-        "url": "https://open.spotify.com/album/6AM8F6nueCKT8QXNADxSHq"
+        "name": "Mendelssohn & Tchaikovsky: Violin Concertos",
+        "url": "https://open.spotify.com/album/3xezaPr6IEAaXhoa12PVAj"
       },
       "artists": [
         {
-          "name": "ScarLid Vibez",
-          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+          "name": "Mariko Senju",
+          "url": "https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W"
+        },
+        {
+          "name": "Japan Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2mRcW1hyPk87K7KiBdLyc6"
+        },
+        {
+          "name": "\u5ca9\u6751 \u529b",
+          "url": "https://open.spotify.com/artist/0lkaqeGgAK5WAcCU01z2Kq"
         }
       ],
-      "duration_ms": 78080,
-      "name": "Pulis",
-      "url": "https://open.spotify.com/track/1eeEfLUzZ6EKE9IE12Mtx4"
+      "duration_ms": 665026,
+      "name": "Violin Concerto in D Major, Op. 35: III. Finale. Allegro vivacissimo",
+      "url": "https://open.spotify.com/track/6bVr7w94u5RjbzXPxrRG7s"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "F!ck The Industry",
+        "url": "https://open.spotify.com/album/57wwTucyd52AC2TuDwfUtk"
+      },
+      "artists": [
+        {
+          "name": "6VIB3Z",
+          "url": "https://open.spotify.com/artist/4rd1Fk18onvjLw3rA0oj8O"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 214021,
+      "name": "Will You Hold My Hand If The World Ends (@Grimes)",
+      "url": "https://open.spotify.com/track/3jVDhHhQsE17DOz0262o8y"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -308,9 +264,9 @@
           "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
         }
       ],
-      "duration_ms": 454666,
-      "name": "Ein langer Weg",
-      "url": "https://open.spotify.com/track/4BjXZXez1sUCXQFidFNwh6"
+      "duration_ms": 491440,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/7lpMpIlqrk2PHCeM1nADC6"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -363,38 +319,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Awen",
-        "url": "https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Awen",
-      "url": "https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "The Sickness (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CDtzSrJDuQe0rPQGPpxx5"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 351103,
-      "name": "Down with the Sickness - Live at The Palladium, Los Angeles, CA, 4/18/01",
-      "url": "https://open.spotify.com/track/2g0p3OTwrLLKBgXQ55gN3g"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "El mundo ya estaba as\u00ed antes",
         "url": "https://open.spotify.com/album/3raEHCMrq99083RfbRYNkp"
       },
@@ -415,6 +339,22 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
+        "name": "The Sickness (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CDtzSrJDuQe0rPQGPpxx5"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 316394,
+      "name": "Walk - Live at The Palladium, Los Angeles, CA, 4/18/01",
+      "url": "https://open.spotify.com/track/0ptXNDuo2mwZOcPHHw7mP1"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
         "name": "Un Caf\u00e9 para Plat\u00f3n",
         "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
       },
@@ -427,22 +367,6 @@
       "duration_ms": 242948,
       "name": "Un Caf\u00e9 para Plat\u00f3n",
       "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Myths of Fate (Orchestral Version)",
-        "url": "https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 312590,
-      "name": "Einherjar - Orchestral Version",
-      "url": "https://open.spotify.com/track/2JJ0Blx2BvU1Z42TWzSrGY"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -463,26 +387,18 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
-        "url": "https://open.spotify.com/album/3aHP1jOUBurnOCjdvWDZUl"
+        "name": "Myths of Fate (Orchestral Version)",
+        "url": "https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt"
       },
       "artists": [
         {
-          "name": "Fiorel",
-          "url": "https://open.spotify.com/artist/34PWxO2J2jLO4fnVrMtyrk"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
-        },
-        {
-          "name": "Martin Quaglia",
-          "url": "https://open.spotify.com/artist/0xnCAa7wn23JQHXOE3wZ2b"
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
         }
       ],
-      "duration_ms": 251548,
-      "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
-      "url": "https://open.spotify.com/track/2yPZUzIMp3SPXzxdW7O0lj"
+      "duration_ms": 312590,
+      "name": "Einherjar - Orchestral Version",
+      "url": "https://open.spotify.com/track/2JJ0Blx2BvU1Z42TWzSrGY"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -503,22 +419,6 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Oceanside Countryside",
-        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Dance Dance Dance",
-      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
         "name": "Harvest of Sorrow (All Versions)",
         "url": "https://open.spotify.com/album/3gnOkMUVQ9gX8Fh7YOLqqi"
       },
@@ -535,22 +435,18 @@
     {
       "added_at": "2025-03-28 03:00:00",
       "album": {
-        "name": "Angels For Each Other",
-        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
+        "name": "Oceanside Countryside",
+        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
         }
       ],
-      "duration_ms": 215076,
-      "name": "Angels For Each Other",
-      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
+      "duration_ms": 152998,
+      "name": "Dance Dance Dance",
+      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -612,29 +508,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 173519,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/0PAu2UajAE7poRItj6gvof"
-    },
-    {
-      "added_at": "2025-03-28 03:00:00",
-      "album": {
-        "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") [En Espa\u00f1ol]",
-        "url": "https://open.spotify.com/album/4kq35NPgiGYz44sySBThgk"
-      },
-      "artists": [
-        {
-          "name": "Iris ~Pamela Calvo~",
-          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
-        },
-        {
-          "name": "Lufca",
-          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/63fHP1xHozbuZNcdEKSj8x"
+      "duration_ms": 149199,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/1orbpXnRLZOLTWADeOkBz1"
     },
     {
       "added_at": "2025-03-28 03:00:00",
@@ -659,6 +535,26 @@
       "duration_ms": 450304,
       "name": "Nyathela (feat. Nelerh & Panda)",
       "url": "https://open.spotify.com/track/5b7bKrKV1JKBGSED6omXwg"
+    },
+    {
+      "added_at": "2025-03-28 03:00:00",
+      "album": {
+        "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") [En Espa\u00f1ol]",
+        "url": "https://open.spotify.com/album/4kq35NPgiGYz44sySBThgk"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        },
+        {
+          "name": "Lufca",
+          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/63fHP1xHozbuZNcdEKSj8x"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

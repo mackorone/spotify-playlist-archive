@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,716 likes - 20 songs - 1 hr 3 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,714 likes - 21 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,6 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 18 | [Get Lively](https://open.spotify.com/track/5NrUDt2o0oVc7p4877iy8W) | [ROKAR](https://open.spotify.com/artist/1LLLQlvDT5CZamubBAYMkC) | [Get Lively](https://open.spotify.com/album/3M2dqJdE86wiFvonXHdF3X) | 2:56 |
 | 19 | [Transmogrify](https://open.spotify.com/track/71ENOo4NbkyZz2qkMHF228) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Transmogrify](https://open.spotify.com/album/1PucuF8bCtqLLfWzKhN8Ft) | 3:51 |
 | 20 | [Turn off the Bass](https://open.spotify.com/track/6JncowJAifTsWJlewqiuIc) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO), [Trallez](https://open.spotify.com/artist/28eQwvrKWHqRACUQ9FQRfZ) | [Turn off the Bass](https://open.spotify.com/album/124w0tz2zz6ajh6ephBR14) | 2:37 |
+| 21 | [Good Girls](https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Good Girls](https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI) | 3:01 |
 
-Snapshot ID: `AAATl0SOTbexzcvXBVTSy7TjARCI/yZO`
+Snapshot ID: `AAATmHGW9lZRAz3NZXUwN9SwNBMBRE6j`

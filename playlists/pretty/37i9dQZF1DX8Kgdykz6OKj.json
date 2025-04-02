@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1435597,
+  "num_followers": 1436085,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2025-03-26 16:43:33",
       "album": {
+        "name": "Chapter 7",
+        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Ty",
+          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Chapter 7 (feat. Ty)",
+      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+    },
+    {
+      "added_at": "2025-03-26 16:43:33",
+      "album": {
         "name": "Jazzmatazz Volume II: The New Reality",
         "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
@@ -395,42 +415,6 @@
     {
       "added_at": "2025-03-26 16:43:33",
       "album": {
-        "name": "Chapter 7",
-        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Ty",
-          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Chapter 7 (feat. Ty)",
-      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
-    },
-    {
-      "added_at": "2025-03-26 16:43:33",
-      "album": {
-        "name": "Ziplock / Rich Don't Stop",
-        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Ziplock",
-      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
-    },
-    {
-      "added_at": "2025-03-26 16:43:33",
-      "album": {
         "name": "Summer Drop (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 168573,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
+    },
+    {
+      "added_at": "2025-03-26 16:43:33",
+      "album": {
+        "name": "Ziplock / Rich Don't Stop",
+        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Ziplock",
+      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
     },
     {
       "added_at": "2025-03-26 16:43:33",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-03-26 16:43:33",
       "album": {
-        "name": "Clin D'oeil",
-        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
-      },
-      "artists": [
-        {
-          "name": "Jazz Liberatorz",
-          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
-        }
-      ],
-      "duration_ms": 328573,
-      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
-      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
-    },
-    {
-      "added_at": "2025-03-26 16:43:33",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 353346,
       "name": "Children Of The Internet - Ezra Collective Remix",
       "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
+    },
+    {
+      "added_at": "2025-03-26 16:43:33",
+      "album": {
+        "name": "Clin D'oeil",
+        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
+      },
+      "artists": [
+        {
+          "name": "Jazz Liberatorz",
+          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+        }
+      ],
+      "duration_ms": 328573,
+      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
+      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
     },
     {
       "added_at": "2025-03-26 16:43:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-03-26 16:43:33",
       "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
-    },
-    {
-      "added_at": "2025-03-26 16:43:33",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2025-03-26 16:43:33",
       "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2025-03-26 16:43:33",
+      "album": {
         "name": "One of Those Feelings",
         "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
       },
@@ -1223,26 +1223,6 @@
       "duration_ms": 156342,
       "name": "One of Those Feelings",
       "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
-    },
-    {
-      "added_at": "2025-03-26 16:43:33",
-      "album": {
-        "name": "GREEN LIGHT",
-        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
-      },
-      "artists": [
-        {
-          "name": "Moses Yoofee Trio",
-          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "GREEN LIGHT",
-      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
     },
     {
       "added_at": "2025-03-26 16:43:33",
@@ -1267,6 +1247,26 @@
       "duration_ms": 203680,
       "name": "Violets (feat. Phonte)",
       "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
+    },
+    {
+      "added_at": "2025-03-26 16:43:33",
+      "album": {
+        "name": "GREEN LIGHT",
+        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "GREEN LIGHT",
+      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
     },
     {
       "added_at": "2025-03-26 16:43:33",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2025-03-26 16:43:33",
       "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2025-03-26 16:43:33",
+      "album": {
         "name": "mynameisnt",
         "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2025-03-26 16:43:33",
       "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2025-03-26 16:43:33",
-      "album": {
         "name": "Mi Casa, Su Casa",
         "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 117933,
       "name": "Truth Serum",
       "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
+    },
+    {
+      "added_at": "2025-03-26 16:43:33",
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2025-03-26 16:43:33",
@@ -1479,22 +1495,6 @@
       "duration_ms": 161536,
       "name": "Boiler Room (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
-    },
-    {
-      "added_at": "2025-03-26 16:43:33",
-      "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2025-03-26 16:43:33",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-03-26 16:43:33",
       "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
-    },
-    {
-      "added_at": "2025-03-26 16:43:33",
-      "album": {
         "name": "Jazz & Coffee, Pt. 4",
         "url": "https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 180000,
       "name": "Jazz & Coffee, Pt. 4",
       "url": "https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ"
+    },
+    {
+      "added_at": "2025-03-26 16:43:33",
+      "album": {
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2025-03-26 16:43:33",

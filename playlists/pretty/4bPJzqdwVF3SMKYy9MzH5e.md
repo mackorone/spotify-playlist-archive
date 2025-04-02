@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,086 songs - 4 day 15 hr 41 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,088 songs - 4 day 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2092,7 +2092,9 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2082 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
 | 2083 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
 | 2084 | [Crazy](https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [False Persona](https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o) | [Crazy](https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL) | 4:29 |
-| 2085 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/7I6DOsv8I8mZC88CkvmrsE) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(UK Edition\)](https://open.spotify.com/album/3RIRsDECFJX0nNnbgQM21G) | 2:23 |
-| 2086 | [Wanna See U](https://open.spotify.com/track/1gqJjjCl9kepWReQclosRu) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Wanna See Houston](https://open.spotify.com/album/6EV96sexRlM3AxZNXMiWzP) | 5:21 |
+| 2085 | [You've Seen the Butcher](https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:31 |
+| 2086 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/7I6DOsv8I8mZC88CkvmrsE) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(UK Edition\)](https://open.spotify.com/album/3RIRsDECFJX0nNnbgQM21G) | 2:23 |
+| 2087 | [Wanna See U](https://open.spotify.com/track/1gqJjjCl9kepWReQclosRu) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Wanna See Houston](https://open.spotify.com/album/6EV96sexRlM3AxZNXMiWzP) | 5:21 |
+| 2088 | [ASTRO](https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm), [zaichkou888](https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte) | [ASTRO](https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC) | 2:24 |
 
-Snapshot ID: `AAAD8eu8clihH4nom5HkzLch3xhWmKtN`
+Snapshot ID: `AAAD9XMQqhugPpUzo7GpCxjuYM1DMan1`

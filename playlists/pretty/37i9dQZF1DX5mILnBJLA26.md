@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=NLdnaE7bSzKyYP72GIrVXw">Dj Maphorisa</a>, <a href="https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i?si=JSxFFM8HTAysmeM1B\-BTTg">Xduppy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,505 likes - 60 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,126 likes - 60 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

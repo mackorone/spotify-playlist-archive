@@ -4,7 +4,7 @@
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-285 songs - 14 hr 19 min
+286 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-09 |  |
 | [Dirty Sprite](https://open.spotify.com/track/1cHi5LM8WtL6T7OzyuAWUY) | [MGee](https://open.spotify.com/artist/6U5nLRjQJAkIKGT1rVBVRd), [candyboii](https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [nolovemoxxie](https://open.spotify.com/artist/242kC9YxsEKPswYUuxJGDg) | [Dirty Sprite](https://open.spotify.com/album/6XkfP7OWJtxp4mXayqFFq0) | 3:57 | 2025-01-07 | 2025-01-21 |
 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 | 2025-01-20 |  |
+| [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 | 2025-03-24 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2024-07-01 | 2025-01-21 |
 | [Don't Matter](https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Vertigo](https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg) | 3:20 | 2025-03-10 |  |
 | [Dor](https://open.spotify.com/track/5995XpvFA4BNHCUVyJ6pq9) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [Dor](https://open.spotify.com/album/0Di16WwT0ga845P9SZKu9v) | 3:20 | 2025-03-03 | 2025-03-18 |
@@ -97,7 +98,7 @@
 | [E Adevărat](https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [E Adevărat](https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa) | 2:47 | 2024-09-30 | 2025-03-30 |
 | [E Româncă](https://open.spotify.com/track/3NQB3bz9WQS1uItTsheAxL) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [E Româncă](https://open.spotify.com/album/5zoPt9fepkgmTZfPspLMta) | 3:02 | 2024-07-15 | 2024-07-30 |
 | [E vina mea](https://open.spotify.com/track/4mC0XJcNito55X2pvNoTvs) | [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE), [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [E vina mea](https://open.spotify.com/album/2SlYqe4DBuEMEuk3db2GsP) | 2:50 | 2025-03-03 | 2025-03-18 |
-| [Eee Aaa \| Burj Khalifa](https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Eee Aaa \| Burj Khalifa](https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P) | 2:31 | 2024-07-01 |  |
+| [Eee Aaa \| Burj Khalifa](https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Eee Aaa \| Burj Khalifa](https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P) | 2:31 | 2024-07-01 | 2025-04-02 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-09-30 |  |
 | [Emirate](https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Emirate](https://open.spotify.com/album/6SupsrnE6vLLVLye1QOemc) | 2:09 | 2024-07-29 | 2024-08-06 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-07-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 16906,
+  "num_followers": 16907,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,26 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
+        "name": "Sploty",
+        "url": "https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV"
+      },
+      "artists": [
+        {
+          "name": "Warsaw Village Band",
+          "url": "https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie"
+        },
+        {
+          "name": "Bassa\u0142yki",
+          "url": "https://open.spotify.com/artist/7zc32OGpApsqnOXhGvUs1y"
+        }
+      ],
+      "duration_ms": 381843,
+      "name": "Siwa zezulejko",
+      "url": "https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
         "name": "Brim On",
         "url": "https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y"
       },
@@ -995,22 +1015,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "30 lat Agnieszki Chyli\u0144skiej - Kiedy\u015b do Ciebie wr\u00f3c\u0119",
-        "url": "https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky"
-      },
-      "artists": [
-        {
-          "name": "Agnieszka Chyli\u0144ska",
-          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
-        }
-      ],
-      "duration_ms": 310653,
-      "name": "Kr\u00f3lowa \u0142ez",
-      "url": "https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "Instant Rewards",
         "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
       },
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "Sploty",
-        "url": "https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV"
+        "name": "30 lat Agnieszki Chyli\u0144skiej - Kiedy\u015b do Ciebie wr\u00f3c\u0119",
+        "url": "https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky"
       },
       "artists": [
         {
-          "name": "Warsaw Village Band",
-          "url": "https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie"
-        },
-        {
-          "name": "Bassa\u0142yki",
-          "url": "https://open.spotify.com/artist/7zc32OGpApsqnOXhGvUs1y"
+          "name": "Agnieszka Chyli\u0144ska",
+          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
         }
       ],
-      "duration_ms": 381843,
-      "name": "Siwa zezulejko",
-      "url": "https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG"
+      "duration_ms": 310653,
+      "name": "Kr\u00f3lowa \u0142ez",
+      "url": "https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9"
     },
     {
       "added_at": "2025-03-14 10:24:29",

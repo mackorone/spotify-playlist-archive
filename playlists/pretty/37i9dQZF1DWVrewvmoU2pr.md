@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 ### [想愛就愛](https://open.spotify.com/playlist/37i9dQZF1DWVrewvmoU2pr)
 
-> 愛本來就係自由嘅事！想愛就愛吧！
+> 愛本來就係自由嘅事！想愛就愛吧！Cover: Leslie Cheung
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,972 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [你是我的專屬配對](https://open.spotify.com/track/62BeRvTinssD8w7uaprANz) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k), [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [你是我的專屬配對](https://open.spotify.com/album/2icunGDFU7RJOCTbIX4fsk) | 3:23 |
-| 2 | [我 The Hymn of Water Fairies](https://open.spotify.com/track/3owv9sjIEcVEmlzuqn2Ice) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REVISIT](https://open.spotify.com/album/05tspedDVm17HyfEJJ1E0R) | 5:08 |
-| 3 | [勞斯.萊斯](https://open.spotify.com/track/37JJeZrHX3fsk2sdCkdiMN) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [梁祝下世傳奇 \(2nd Version\)](https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG) | 4:30 |
-| 4 | [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 |
-| 5 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 |
-| 6 | [黑彩虹](https://open.spotify.com/track/4UWoWjmD9MzzbREGsIZ0ik) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [黑彩虹](https://open.spotify.com/album/03x5AHLUVKl9N4Q6Ix9O5O) | 4:40 |
-| 7 | [我感覺到](https://open.spotify.com/track/1oKqn2ZQPjxyO5cHukLyJz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我感覺到](https://open.spotify.com/album/29jfGvVKC2aJFTW01HB6fU) | 4:33 |
-| 8 | [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [復黑王\-你還愛我嗎?](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 |
-| 9 | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/track/596MqWmYLojkoFvgygAteu) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC) | 3:17 |
-| 10 | [內外](https://open.spotify.com/track/0GLxavYdjEYvGx9eN3lDv4) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [內外](https://open.spotify.com/album/1dMVJFOcO7aaDbrxyPuBqL) | 3:47 |
+| 1 | [我 The Hymn of Water Fairies](https://open.spotify.com/track/3owv9sjIEcVEmlzuqn2Ice) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REVISIT](https://open.spotify.com/album/05tspedDVm17HyfEJJ1E0R) | 5:08 |
+| 2 | [勞斯.萊斯](https://open.spotify.com/track/37JJeZrHX3fsk2sdCkdiMN) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [梁祝下世傳奇 \(2nd Version\)](https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG) | 4:30 |
+| 3 | [你是我的專屬配對](https://open.spotify.com/track/62BeRvTinssD8w7uaprANz) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k), [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [你是我的專屬配對](https://open.spotify.com/album/2icunGDFU7RJOCTbIX4fsk) | 3:23 |
+| 4 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 |
+| 5 | [黑彩虹](https://open.spotify.com/track/4UWoWjmD9MzzbREGsIZ0ik) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [黑彩虹](https://open.spotify.com/album/03x5AHLUVKl9N4Q6Ix9O5O) | 4:40 |
+| 6 | [我感覺到](https://open.spotify.com/track/1oKqn2ZQPjxyO5cHukLyJz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我感覺到](https://open.spotify.com/album/29jfGvVKC2aJFTW01HB6fU) | 4:33 |
+| 7 | [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [復黑王\-你還愛我嗎?](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 |
+| 8 | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/track/596MqWmYLojkoFvgygAteu) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC) | 3:17 |
+| 9 | [內外](https://open.spotify.com/track/0GLxavYdjEYvGx9eN3lDv4) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [內外](https://open.spotify.com/album/1dMVJFOcO7aaDbrxyPuBqL) | 3:47 |
+| 10 | [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 |
 | 11 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 |
 | 12 | [三人床](https://open.spotify.com/track/6JQlVBfOTkF0yOTAnEB9Tn) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [三人床](https://open.spotify.com/album/0n60Y3MGspMfn4IygCnFyL) | 2:40 |
 | 13 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 48 | [好朋友](https://open.spotify.com/track/0b110tCRwwA7Z7BD1qGM6f) | [Edmond Leung](https://open.spotify.com/artist/1THfyLd3iyJYJ6X2U36K0y) | [好朋友 \(華星40系列\)](https://open.spotify.com/album/5wYJgrAPKb6xreuSMyYVpO) | 3:15 |
 | 49 | [紅屋頂](https://open.spotify.com/track/6BSlsvHQiJw9XuqAAHqUrS) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [What Really Matters \(加強版\)](https://open.spotify.com/album/3Dg9TeDh6zX0604z9T2AIh) | 4:00 |
 
-Snapshot ID: `Z8mmSwAAAACpLJLPY4qJVq3iKErFXPAb`
+Snapshot ID: `Z+wNiwAAAACtu0LOqG1ZWWbpQS734zEN`

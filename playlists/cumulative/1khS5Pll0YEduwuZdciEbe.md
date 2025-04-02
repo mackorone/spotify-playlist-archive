@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Lucy Dacus
 
-255 songs - 15 hr 20 min
+257 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Houston](https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Houston](https://open.spotify.com/album/48adyhddPaE5YihkleCu7I) | 4:37 | 2024-09-27 | 2025-03-08 |
 | [hudson \- demo](https://open.spotify.com/track/3fLSTZwKza9Wjb3wzj7K2u) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE \(5 Year Anniversary Edition\)](https://open.spotify.com/album/00xS2v4q9DUBBLlslZX6pG) | 2:50 | 2024-12-15 | 2025-03-01 |
 | [Hydroplaning Off the Edge of the World](https://open.spotify.com/track/6BLHt08Gaa41PmY07pryul) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Hydroplaning Off the Edge of the World](https://open.spotify.com/album/06lhK9JxaL50CiIP2NuXsW) | 4:49 | 2025-03-07 |  |
-| [i don't really feel it anymore](https://open.spotify.com/track/49vbTCy6HYvy67dLe8ZQ5K) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/2TfTE74h6Tiadsm2Dj0Jbn) | 2:00 | 2024-02-16 |  |
+| [i don't really feel it anymore](https://open.spotify.com/track/49vbTCy6HYvy67dLe8ZQ5K) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/2TfTE74h6Tiadsm2Dj0Jbn) | 2:00 | 2024-02-16 | 2025-04-02 |
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-11-01 |  |
 | [I Wanna Be A Mother](https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [I Wanna Be A Mother](https://open.spotify.com/album/74uhmB7i7u3hGPiHUyijn3) | 3:43 | 2024-09-27 | 2024-10-26 |
 | [I'll Go Anywhere](https://open.spotify.com/track/1v10JNv4HwPALOeWH28R8M) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 2:34 | 2024-09-27 |  |
@@ -141,6 +141,7 @@
 | [Life Of The Party](https://open.spotify.com/track/1FEZnCbas8ET6pfyB3u6Rb) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Life Of The Party](https://open.spotify.com/album/61asLyV0SRvt9XrcqpHeZt) | 2:10 | 2023-11-03 | 2023-11-18 |
 | [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 | 2025-01-31 |  |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-11-03 | 2024-06-29 |
+| [Listen2me](https://open.spotify.com/track/4MaGyPaBYJnEcgesCmieZZ) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Listen2me](https://open.spotify.com/album/2Ob33KgVFSrkI8LS7DljBh) | 2:43 | 2025-04-01 |  |
 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-11-03 | 2024-08-10 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-25 |  |
 | [Look At That Woman](https://open.spotify.com/track/6Op1AAvS0Jb3Gbom92zadJ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 2:43 | 2024-10-04 |  |
@@ -149,7 +150,7 @@
 | [Lover’s Rock](https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Lover’s Rock](https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z) | 2:28 | 2024-06-01 |  |
 | [Lucky Streak](https://open.spotify.com/track/4KiC4QZ6cc8XKv0e3Obw5F) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Lucky Streak](https://open.spotify.com/album/44H92aSgzMMmtlWIFwsDmP) | 3:10 | 2024-08-09 | 2024-09-28 |
 | [M](https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [M](https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ) | 3:51 | 2024-08-02 | 2025-03-01 |
-| [Magic](https://open.spotify.com/track/10e8q50norTRKjCFM3xePC) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Magic](https://open.spotify.com/album/05Abr5BF3CZpcjatqNTi1p) | 3:46 | 2025-03-07 |  |
+| [Magic](https://open.spotify.com/track/10e8q50norTRKjCFM3xePC) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Magic](https://open.spotify.com/album/05Abr5BF3CZpcjatqNTi1p) | 3:46 | 2025-03-07 | 2025-04-02 |
 | [Make Ya Proud](https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Make Ya Proud](https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE) | 3:30 | 2024-03-29 | 2025-01-26 |
 | [Meant](https://open.spotify.com/track/0PbXhejxq3Ih2ObOGfundH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Meant](https://open.spotify.com/album/6AwFbp01un82gwxyAvipCi) | 3:27 | 2024-03-01 | 2024-04-27 |
 | [Melody](https://open.spotify.com/track/3DFfNBtNDKKMaUv3CZ0qsE) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Melody](https://open.spotify.com/album/6lLyfQ83nAeBmCBNZWBi7q) | 3:20 | 2025-03-07 |  |
@@ -187,7 +188,7 @@
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-11-03 | 2023-12-16 |
 | [Quiet Love](https://open.spotify.com/track/6M2SS7708p1TEMeLp9wd1Q) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz) | 3:36 | 2023-11-03 | 2024-02-24 |
 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 | 2023-11-03 | 2024-02-10 |
-| [Raining On Your Pillow](https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Raining On Your Pillow](https://open.spotify.com/album/35uymqTjUrltGX52KHDns8) | 3:53 | 2024-05-24 |  |
+| [Raining On Your Pillow](https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Raining On Your Pillow](https://open.spotify.com/album/35uymqTjUrltGX52KHDns8) | 3:53 | 2024-05-24 | 2025-04-02 |
 | [Realms](https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Realms](https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu) | 2:50 | 2024-08-02 |  |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-21 |  |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-25 |  |
@@ -253,6 +254,7 @@
 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 | 2024-09-20 | 2025-01-26 |
 | [When Everything Was Lost](https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [When Everything Was Lost](https://open.spotify.com/album/4LqsBqbpTQ634UZjEcKrwj) | 4:00 | 2023-11-03 |  |
 | [When You're Outside](https://open.spotify.com/track/3NiGbCCmXsCABNi2oou9db) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [When You're Outside](https://open.spotify.com/album/1KAluoUVJfMJf6IMduhPOA) | 3:03 | 2024-05-10 | 2024-06-29 |
+| [White Male Privilege](https://open.spotify.com/track/4HGkMZR0hdU5YfuANzsCyF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [takeaways](https://open.spotify.com/album/4VHiidABI5iOAaG3L4TW5s) | 3:49 | 2025-04-01 |  |
 | [Wild Heart](https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Wild Heart](https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF) | 2:39 | 2024-08-02 |  |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-06 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-25 |  |

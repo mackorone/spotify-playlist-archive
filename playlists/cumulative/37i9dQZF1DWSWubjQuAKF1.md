@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: IKARVS
 
-405 songs - 19 hr 35 min
+406 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [azs](https://open.spotify.com/track/2vq6rl7RArxCQvz4mJs7bC) | [Dafeat](https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [azs](https://open.spotify.com/album/1q4eCy4H5R0uZcVLLx5NOv) | 2:44 | 2024-11-07 | 2024-11-22 |
 | [Aż Będziesz Wiedzieć](https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Tylko Lepiej EP](https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC) | 2:27 | 2024-09-19 | 2025-01-24 |
 | [Aż tyle](https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [Aż tyle](https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV) | 2:16 | 2024-09-27 | 2025-01-24 |
-| [aż zrozumiesz](https://open.spotify.com/track/2xP5xhtfisju7OIMygfNNL) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [aż zrozumiesz](https://open.spotify.com/album/10eUUfLaohBIrXd4zZL0Ll) | 3:21 | 2025-03-20 |  |
+| [aż zrozumiesz](https://open.spotify.com/track/2xP5xhtfisju7OIMygfNNL) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [aż zrozumiesz](https://open.spotify.com/album/10eUUfLaohBIrXd4zZL0Ll) | 3:21 | 2025-03-20 | 2025-04-02 |
 | [babcia sprzedała sie za propozycje fotowoltaiki](https://open.spotify.com/track/0BvrkxIZfPZ3JrAVH5bCFi) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [babcia sprzedała sie za propozycje fotowoltaiki](https://open.spotify.com/album/7wWJ8WQeKaxi0y2FMhJt1l) | 2:06 | 2024-07-25 | 2024-10-12 |
 | [BABY](https://open.spotify.com/track/5hUhAExayqsD6U8gzZ9Gk5) | [Tatiana Kopala](https://open.spotify.com/artist/6vCgCKcijaRVMDq5HfkkPn) | [BABY](https://open.spotify.com/album/4uqDEnsLv5T2wrKFO5RDb9) | 2:16 | 2024-06-28 | 2024-07-27 |
 | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/track/4Xgy6XFSLcfkfCFjkoykwM) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/album/6uNMTjRSkWvWmynCwwWkcc) | 2:30 | 2025-02-27 |  |
@@ -64,6 +64,7 @@
 | [Can't Hide](https://open.spotify.com/track/5YJy4FNzokXFaiq6QoBuka) | [Marien](https://open.spotify.com/artist/3OJV0xQWTH0mrMRmfNxqGk) | [Can't Hide](https://open.spotify.com/album/2Yf42Gy5nxChZyEmKizL5s) | 2:41 | 2025-01-16 | 2025-03-14 |
 | [Candy](https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx) | [Agata Świderska](https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC) | [Candy](https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7) | 2:06 | 2024-09-13 | 2025-01-24 |
 | [Caramel Love](https://open.spotify.com/track/7mfbHPYJNdBilOyRqsl8Fe) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Caramel Love](https://open.spotify.com/album/0h8xuOdOfOnFiS2Xfmo03N) | 2:21 | 2025-01-09 | 2025-02-07 |
+| [Chcę Ciebie częściej](https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Chcę Ciebie częściej](https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7) | 3:01 | 2025-03-27 |  |
 | [chcę cię więcej](https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [chcę cię więcej](https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF) | 2:35 | 2024-07-25 | 2024-12-21 |
 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 | 2024-06-28 | 2024-08-31 |
 | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/album/5ywUP1yvmqZLjsopZWQxQt) | 2:41 | 2024-07-04 | 2024-10-05 |

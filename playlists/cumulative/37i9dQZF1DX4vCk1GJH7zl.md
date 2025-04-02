@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruno Caliman, Luan Santana
 
-186 songs - 11 hr 6 min
+187 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Blue](https://open.spotify.com/track/3frGdSsiPLEe5Hk9UeG3Q4) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/4ChzaBU01MnxVWNF7ATXJ7) | 4:09 | 2023-11-03 | 2024-04-06 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 | 2024-09-28 |
 | [Buquê de Rimas](https://open.spotify.com/track/3YV3rFEs55ie3idd3tVlfb) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Buquê de Rimas](https://open.spotify.com/album/7e3V41aO2OtnBQuRRuIVZ6) | 2:56 | 2023-07-21 | 2024-04-06 |
+| [Calado](https://open.spotify.com/track/5M4w7qwhLqUVN0umLEUy9s) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Calado](https://open.spotify.com/album/725kdSU9KRz2qn5jdYGayO) | 2:48 | 2025-04-01 |  |
 | [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 | 2023-07-21 | 2024-07-19 |
 | [Carta no Baralho](https://open.spotify.com/track/5uAiXNsj4YD6sqjlE1g9Yj) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Carta no Baralho](https://open.spotify.com/album/3WQ0Ob1xbq8QSWbF1vdW6x) | 5:12 | 2023-07-21 | 2023-08-26 |
 | [Carta pro Passado](https://open.spotify.com/track/4WnXJEmktIas3NyqVJLepw) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Carta pro Passado](https://open.spotify.com/album/1zmEyQcEMoQ1XlXugjheEQ) | 3:15 | 2023-07-21 | 2024-03-30 |
@@ -99,7 +100,7 @@
 | [Monólogo](https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Canções Para Um Novo Mundo](https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5) | 3:12 | 2025-01-10 |  |
 | [Mulher da Vida \- Acústica\) \(Faixa Bônus](https://open.spotify.com/track/2EzZE6Nsnl25qROTiTXTQP) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Reviravolta \(Edição Deluxe\)](https://open.spotify.com/album/6Zcg2ml3VjVsWyQA4F1w0m) | 2:26 | 2024-01-26 | 2024-05-11 |
 | [Música de Botar o Papo no Lugar](https://open.spotify.com/track/38389u9gqu5jd9RiSy2jEH) | [Scatolove](https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg) | [Música de Botar o Papo no Lugar](https://open.spotify.com/album/2dU7Mwqk5B31axoHYs5LqY) | 2:53 | 2023-07-21 | 2024-02-24 |
-| [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 | 2023-10-13 |  |
+| [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 | 2023-10-13 | 2025-04-02 |
 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/2gherKlc3X6kBvzOdz8jMg) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/34Q4mgQQN0vsEKSZ3c3jE5) | 5:22 | 2024-02-02 | 2024-04-19 |
 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 | 2023-07-21 |  |
 | [Nada](https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp) | [Nada](https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY) | 2:29 | 2024-07-12 |  |

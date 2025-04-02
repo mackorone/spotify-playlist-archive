@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 216968,
+  "num_followers": 216983,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAADaRwkxgLTL+AaYol/skSKL",
+  "snapshot_id": "Z+nbAAAAAADsr+Ozf7rSeFO5VagH5MUr",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KAOS (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 209757,
-      "name": "Eurydice - Dan's Demo",
-      "url": "https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 204819,
       "name": "The Anchor",
       "url": "https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KAOS (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 209757,
+      "name": "Eurydice - Dan's Demo",
+      "url": "https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg"
     },
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spiralling (Feat. Bastille)",
+        "url": "https://open.spotify.com/album/4SLemDV2VHFDedyrro0UnH"
+      },
+      "artists": [
+        {
+          "name": "To Kill A King",
+          "url": "https://open.spotify.com/artist/7yHBGaYHPXkJSVUtHiM816"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 226401,
+      "name": "Spiralling (Feat. Bastille)",
+      "url": "https://open.spotify.com/track/7gCjzW0xJKKfcC0T4IMCxY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shut Off The Lights",
         "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
-      },
-      "artists": [
-        {
-          "name": "FRENSHIP",
-          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 234410,
-      "name": "Won't Let You Go",
-      "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
       },
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiralling (Feat. Bastille)",
-        "url": "https://open.spotify.com/album/4SLemDV2VHFDedyrro0UnH"
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
       },
       "artists": [
         {
-          "name": "To Kill A King",
-          "url": "https://open.spotify.com/artist/7yHBGaYHPXkJSVUtHiM816"
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
         },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 226401,
-      "name": "Spiralling (Feat. Bastille)",
-      "url": "https://open.spotify.com/track/7gCjzW0xJKKfcC0T4IMCxY"
+      "duration_ms": 234410,
+      "name": "Won't Let You Go",
+      "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pompeii (Audien Remix)",
-        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        }
-      ],
-      "duration_ms": 352968,
-      "name": "Pompeii - Audien Remix",
-      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liar Liar (Feat. Bastille)",
         "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 174632,
       "name": "Liar Liar (Feat. Bastille)",
       "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pompeii (Audien Remix)",
+        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        }
+      ],
+      "duration_ms": 352968,
+      "name": "Pompeii - Audien Remix",
+      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
     },
     {
       "added_at": null,

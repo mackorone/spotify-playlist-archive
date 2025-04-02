@@ -4787,6 +4787,32 @@
     },
     {
       "album": {
+        "name": "New Direction",
+        "url": "https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257435,
+      "name": "New Direction",
+      "url": "https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd"
+    },
+    {
+      "album": {
         "name": "No More Stress",
         "url": "https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl"
       },
@@ -6266,7 +6292,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"

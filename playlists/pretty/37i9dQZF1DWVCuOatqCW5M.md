@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from ShNik, Nakash Aziz, Anubha Bajaj and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,956 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,000 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 48 | [Pray](https://open.spotify.com/track/1U4SFexUzNOXWbt759oYp1) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Pray](https://open.spotify.com/album/03DpxrvRiqjROobHxl4iHv) | 3:13 |
 | 49 | [Aadhey Adhoorey](https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aadhey Adhoorey](https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM) | 2:53 |
 
-Snapshot ID: `Z+ZzKQAAAAAEyzoPUReUpzmGy7QHIxhI`
+Snapshot ID: `Z+vA3AAAAADPHnQWvnJBYEzOgwXFxXc6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,246 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,251 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Invítame A Un Café \(Steve Aoki & Deorro Remix\)](https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Invítame A Un Café \(Steve Aoki & Deorro Remix\)](https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj) | 3:56 |
 | 50 | [Dime](https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Se Agradece](https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2) | 3:35 |
 
-Snapshot ID: `Z+iJgAAAAACf3L9hNzvVPcDG8EGjjZ4b`
+Snapshot ID: `Z+nbAAAAAABA8BLB5yGFPWekgoNGWXlZ`

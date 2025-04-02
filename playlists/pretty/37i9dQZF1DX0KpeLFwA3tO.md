@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: PUP
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,476 likes - 121 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,496 likes - 121 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

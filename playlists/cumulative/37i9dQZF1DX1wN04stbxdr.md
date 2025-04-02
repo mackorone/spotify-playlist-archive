@@ -2,7 +2,7 @@
 
 ### [Hver gang vi møtes 2025](https://open.spotify.com/playlist/37i9dQZF1DX1wN04stbxdr)
 
-> Hver gang vi møtes er tilbake med en ny sesong! Hør årets tolkninger her.
+> Hør årets tolkninger her!
 
 98 songs - 4 hr 55 min
 

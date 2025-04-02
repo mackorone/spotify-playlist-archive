@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like this. cover: Noah Cyrus",
-  "num_followers": 2426093,
+  "num_followers": 2425941,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 246606,
-      "name": "stay a little longer",
-      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Ivory",
@@ -731,6 +715,22 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
     },
     {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183499,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G"
-    },
-    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
@@ -867,6 +851,22 @@
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183499,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Locksmith",
-        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "Locksmith",
-      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "Locksmith",
+        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Locksmith",
+      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Hold the Rhythm",
+        "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1059,22 +1075,6 @@
       "duration_ms": 178000,
       "name": "Pray",
       "url": "https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Hold the Rhythm",
-        "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
         }
       ],
-      "duration_ms": 179534,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
+      "duration_ms": 143960,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1467,6 +1451,22 @@
       "duration_ms": 184892,
       "name": "Older",
       "url": "https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179534,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
     },
     {
       "added_at": "2025-03-21 04:01:01",
@@ -1781,22 +1781,6 @@
       "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
-      "added_at": "2025-03-25 16:01:47",
-      "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "not my job anymore",
@@ -1813,20 +1797,20 @@
       "url": "https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
+      "added_at": "2025-03-25 16:01:47",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
         }
       ],
-      "duration_ms": 153633,
-      "name": "i wish i hated you",
-      "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-03-21 04:01:01",
@@ -1843,6 +1827,22 @@
       "duration_ms": 235381,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4xg5WAehIEXWpZeO4PEIkr"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 153633,
+      "name": "i wish i hated you",
+      "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2025-03-28 04:00:52",
       "album": {
+        "name": "(the angry part)",
+        "url": "https://open.spotify.com/album/7gxbIv1uPNjNf93OYaeLPG"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/0dG8MLek8njy95ScARZkD6"
+    },
+    {
+      "added_at": "2025-03-28 04:00:52",
+      "album": {
         "name": "Fled Into The Night",
         "url": "https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM"
       },
@@ -1895,18 +1911,18 @@
     {
       "added_at": "2025-03-28 04:00:52",
       "album": {
-        "name": "(the angry part)",
-        "url": "https://open.spotify.com/album/7gxbIv1uPNjNf93OYaeLPG"
+        "name": "Save My Heart",
+        "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
       },
       "artists": [
         {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+          "name": "Bradley Marshall",
+          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/0dG8MLek8njy95ScARZkD6"
+      "duration_ms": 181260,
+      "name": "Save My Heart",
+      "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1923,22 +1939,6 @@
       "duration_ms": 158594,
       "name": "Here's Your Perfect",
       "url": "https://open.spotify.com/track/7ranmtPVs7Ckg2WLHO2L0m"
-    },
-    {
-      "added_at": "2025-03-28 04:00:52",
-      "album": {
-        "name": "Save My Heart",
-        "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
-      },
-      "artists": [
-        {
-          "name": "Bradley Marshall",
-          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
-        }
-      ],
-      "duration_ms": 181260,
-      "name": "Save My Heart",
-      "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
     },
     {
       "added_at": "2024-09-13 04:05:55",

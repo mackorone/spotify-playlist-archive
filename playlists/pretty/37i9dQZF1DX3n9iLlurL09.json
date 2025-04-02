@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 98594,
+  "num_followers": 98621,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "Lazuli",
-      "url": "https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Sweet Disarray",
         "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 196848,
       "name": "From Nowhere",
       "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN"
     },
     {
       "added_at": "2025-03-14 12:16:12",

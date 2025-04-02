@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Nemzzz 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,788 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,966 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 27 | [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 |
 | 28 | [Ya Get Dat](https://open.spotify.com/track/3rEL8kOlF1Ppxn8QoK6HOk) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Ya Get Dat](https://open.spotify.com/album/3gc5hhDCc1sl7BCGGUpSwx) | 2:10 |
 | 29 | [Ricky O](https://open.spotify.com/track/6CQudGojPyFpt162AOAFCL) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [U2OPIA](https://open.spotify.com/album/0t7d0JPnLZURcsgLMNub8h) | 2:47 |
-| 30 | [Straight Rhymez 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Straight Rhymez 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 |
+| 30 | [STRAIGHT RHYMEZ 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [STRAIGHT RHYMEZ 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 |
 | 31 | [Limitless](https://open.spotify.com/track/25fvND4h7BT76CB77Mjsm3) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:21 |
 | 32 | [2s n 3s](https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [2s n 3s](https://open.spotify.com/album/5XO5hOeV9vDooe90ufbCwT) | 3:00 |
 | 33 | [Tic Tic](https://open.spotify.com/track/09PlRgnqrxGgft0sn1b6Cq) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Tic Tic](https://open.spotify.com/album/6WKRexy0sYEh1GV56UDKeB) | 1:32 |

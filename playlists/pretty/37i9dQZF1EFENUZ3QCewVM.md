@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 116 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 416 likes - 116 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 86 | [Let's get married](https://open.spotify.com/track/7bp8Hrl65fhUKiyoAfR5WA) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:41 |
 | 87 | [Trouble](https://open.spotify.com/track/73WUUh7anm2SS0pNHIZEd3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Trouble](https://open.spotify.com/album/5S4K4P92cYvJWFpXo1aaQS) | 3:09 |
 | 88 | [Chapel](https://open.spotify.com/track/083E4FFkmkNx2bAfiHGA7N) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:01 |
-| 89 | [Sad Gurl](https://open.spotify.com/track/5nt1oHeq7HJDz26LQbZPoL) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:11 |
-| 90 | [someone's gotta be the last](https://open.spotify.com/track/3cpY2r6QYGqnG2ncZ1CwvU) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:00 |
+| 89 | [someone's gotta be the last](https://open.spotify.com/track/3cpY2r6QYGqnG2ncZ1CwvU) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:00 |
+| 90 | [Sad Gurl](https://open.spotify.com/track/5nt1oHeq7HJDz26LQbZPoL) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:11 |
 | 91 | [Hold Me Down](https://open.spotify.com/track/4WkCano9OcQXN5q0VT7aWK) | [Toby Randall](https://open.spotify.com/artist/2BNzC3mJTD21RihwTZgI3B) | [ONE.](https://open.spotify.com/album/76R4XO5BYKd8Zf2foFWXGJ) | 3:13 |
 | 92 | [One Mississippi](https://open.spotify.com/track/2075qOiQPv12B8YM1dA0Yo) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:02 |
 | 93 | [So Not Sober](https://open.spotify.com/track/2RVChbMVi7Q0CKFnKSTGMr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over \(It's Really Really Really Over Edition\)](https://open.spotify.com/album/60MSlGTw8G4KR2l05F3t7P) | 2:38 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 115 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 116 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AbtjswAAAABjG6U3AWvX4bKVTKe8fmhr`
+Snapshot ID: `AbtpFgAAAABN9cDBCBqe1lFi8eO1nU9w`

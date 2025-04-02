@@ -4,7 +4,7 @@
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 29 min
+102 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [La Puerta Del Infierno](https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:48 | 2022-06-01 |  |
 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 | 2022-06-01 |  |
 | [La Rubia del Moño Negro](https://open.spotify.com/track/1cwcDWVIwnjGQrQkLyto28) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:13 | 2022-06-03 | 2022-09-07 |
-| [La Tambora Va a Sonar](https://open.spotify.com/track/34cDaMb6Sb60r8C13P2SlO) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Diverso](https://open.spotify.com/album/3aZHL0BsqDyrlwePDd1JH9) | 2:39 | 2024-12-29 |  |
+| [La Tambora Va a Sonar](https://open.spotify.com/track/34cDaMb6Sb60r8C13P2SlO) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Diverso](https://open.spotify.com/album/3aZHL0BsqDyrlwePDd1JH9) | 2:39 | 2024-12-29 | 2025-04-02 |
 | [La Tambora Va A Sonar](https://open.spotify.com/track/5THowR37eGWTSo8FWhBNRd) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Tambora Va A Sonar](https://open.spotify.com/album/2g95Xdn4llprlryyEPqTMw) | 2:39 | 2024-10-15 | 2024-12-29 |
 | [La Vida Marca los Rumbos](https://open.spotify.com/track/2jRgDq88GVkM0wJH1ygASp) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [El Peinado](https://open.spotify.com/album/4ahaeAiuNqijZzN1BqPDN9) | 3:34 | 2022-06-01 | 2022-10-13 |
 | [La Vida Prestada \- En Vivo](https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:09 | 2022-06-01 |  |
@@ -95,6 +95,7 @@
 | [Los Juniors De Culiacán](https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:52 | 2022-06-01 |  |
 | [Mario Aguirre \- En Vivo](https://open.spotify.com/track/6Gzfl2SGDJL4NrPMS5q2wF) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 2:59 | 2022-06-01 |  |
 | [Me Va A Extrañar](https://open.spotify.com/track/5q4107DEo8FfcZkvNtQLKR) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Sin Fronteras](https://open.spotify.com/album/0ohV6f8KKKniel0VDKaMQ8) | 3:31 | 2022-07-13 | 2022-08-19 |
+| [Mi Ranchito Querido](https://open.spotify.com/track/5NBqQ42L9zHfCb3NJV1HEP) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:16 | 2025-04-02 |  |
 | [Ni el Dinero Ni Nada](https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:50 | 2024-02-07 |  |
 | [Pachanga en el Infierno](https://open.spotify.com/track/5qWNCBn3Y0f36URNDAmOfg) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:36 | 2022-06-02 |  |
 | [Palomas Que Andan Volando / Cariñito de Mi Vida \- En Vivo](https://open.spotify.com/track/5jwl6jbNnPGtj01xeSGMaY) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 5:30 | 2022-06-01 | 2022-10-13 |

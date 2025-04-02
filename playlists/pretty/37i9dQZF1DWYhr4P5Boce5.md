@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,389 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,401 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 55 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
 | 56 | [Scared to Love](https://open.spotify.com/track/3mhdHHNjP6lllNggZwK9v6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Scared to Love](https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff) | 4:15 |
 | 57 | [Love In the Time of Madness](https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Slow Renaissance](https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1) | 4:03 |
-| 58 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
+| 58 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
 | 59 | [Loving Me Like Jesus](https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99) | [Franchesca](https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM), [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Loving Me Like Jesus](https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz) | 3:12 |
-| 60 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
+| 60 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
 | 61 | [Look At Love](https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:21 |
 | 62 | [i do](https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [i do](https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA) | 2:31 |
 | 63 | [Together](https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Glorious Unfolding](https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ) | 4:02 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 96 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 |
 | 97 | [I Do](https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [I Do](https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8) | 3:34 |
 | 98 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 |
-| 99 | [Hold Me Down](https://open.spotify.com/track/1di5UNszQaTG1dNHdkb06q) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Hold Me Down](https://open.spotify.com/album/5ynCJ6GEsTN7zRvPrzDjLb) | 3:03 |
-| 100 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
+| 99 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
+| 100 | [Hold Me Down](https://open.spotify.com/track/1di5UNszQaTG1dNHdkb06q) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Hold Me Down](https://open.spotify.com/album/5ynCJ6GEsTN7zRvPrzDjLb) | 3:03 |
 
 Snapshot ID: `Z68RzQAAAADQXbuhFEqEE6fFJi5GYyrs`

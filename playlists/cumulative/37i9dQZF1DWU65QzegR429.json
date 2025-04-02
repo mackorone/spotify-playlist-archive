@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Latin music making waves. Cover: Hamilton",
+  "description": "Latin music making waves. Cover: Venesti",
   "name": "Latin Frequency",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 161739,
       "name": "Belize",
       "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
@@ -528,6 +528,28 @@
       "duration_ms": 208203,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
+    },
+    {
+      "album": {
+        "name": "Chalala",
+        "url": "https://open.spotify.com/album/3Cqpeb59ZINiYhL9lhyroH"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Chalala",
+      "url": "https://open.spotify.com/track/4K918dPB4zViUAr9gHqTab"
     },
     {
       "album": {
@@ -1490,7 +1512,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 177240,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
@@ -2133,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "La Nena",
+        "url": "https://open.spotify.com/album/65MahQD30Fr4WuANjeBQs5"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "La Nena",
+      "url": "https://open.spotify.com/track/4aR1PWvBRZTJ417mf8Eib3"
+    },
+    {
+      "album": {
         "name": "La Presa",
         "url": "https://open.spotify.com/album/4XgrDRMdsPDzaI9u4wxgiL"
       },
@@ -2170,6 +2210,24 @@
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
+    },
+    {
+      "album": {
+        "name": "PISTOLA",
+        "url": "https://open.spotify.com/album/2ha5bvXlmL8TSKuR5qf5GY"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197651,
+      "name": "LADIOSA",
+      "url": "https://open.spotify.com/track/0ZIGEhtGiOL7u3YkwDkk6V"
     },
     {
       "album": {
@@ -2294,7 +2352,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 194666,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk"
@@ -2716,7 +2774,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 138626,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
@@ -3091,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153571,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX"
+    },
+    {
+      "album": {
         "name": "ChocQuib House",
         "url": "https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2"
       },
@@ -3391,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "QSV",
+        "url": "https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125555,
+      "name": "QSV",
+      "url": "https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG"
+    },
+    {
+      "album": {
         "name": "Que Buena Tu Ta",
         "url": "https://open.spotify.com/album/0FDDX1P8pUlNOC4fVIHfWf"
       },
@@ -3646,7 +3740,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 180808,
       "name": "Se Me Nota (Agarrame) - Prod by B-One",
       "url": "https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS"
@@ -3802,6 +3896,24 @@
       "duration_ms": 190646,
       "name": "Sky Walker - Spanish Version",
       "url": "https://open.spotify.com/track/4Jyv7sW01crlVLoNbbBhOg"
+    },
+    {
+      "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
     },
     {
       "album": {
@@ -3980,7 +4092,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 174133,
       "name": "Sugar Boi",
       "url": "https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi"
@@ -4064,6 +4176,28 @@
       "duration_ms": 139546,
       "name": "TAMBI\u00c9N",
       "url": "https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M"
+    },
+    {
+      "album": {
+        "name": "Tamo Ah\u00ed",
+        "url": "https://open.spotify.com/album/2ooZKcwDvXXzdZn4p7OdP1"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Dj Pope",
+          "url": "https://open.spotify.com/artist/6v6C3dH5H2SYdvFyhxYLwp"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154786,
+      "name": "Tamo Ah\u00ed",
+      "url": "https://open.spotify.com/track/3YX2k5BKZaOjBxOVqEjEDH"
     },
     {
       "album": {
@@ -4354,7 +4488,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 159590,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
@@ -4372,7 +4506,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 152079,
       "name": "Uff",
       "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"
@@ -4488,6 +4622,32 @@
       "duration_ms": 147535,
       "name": "Vete Y Dile",
       "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
+    },
+    {
+      "album": {
+        "name": "VITAMINA",
+        "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208743,
+      "name": "VITAMINA",
+      "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
     },
     {
       "album": {

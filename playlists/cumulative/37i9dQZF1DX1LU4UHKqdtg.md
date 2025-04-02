@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: KiiiKiii
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-1,418 songs - 3 day 3 hr 37 min
+1,419 songs - 3 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-01 | 2025-03-07 |
 | [Drive](https://open.spotify.com/track/0TNYF3NLy6FgYs8jM10mwi) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/5NvK8EDgRXrTNhYbSDKQ5j) | 3:05 | 2022-08-23 | 2022-10-05 |
 | [Drive](https://open.spotify.com/track/7N2ZqlzoDqXB7xMzUHevJ5) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/5N7p81PrhjsvkICINxnQXf) | 3:05 | 2022-08-23 | 2022-08-25 |
-| [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 | 2025-03-06 |  |
+| [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 | 2025-03-06 | 2025-04-02 |
 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 | 2022-07-28 | 2022-10-12 |
 | [DUMB DUMB](https://open.spotify.com/track/6HAbPNraOVHwShFFtRVTik) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/1aFBAMZbMPfzXYGjANINvw) | 2:27 | 2021-12-23 | 2022-01-04 |
 | [Dunk Shot](https://open.spotify.com/track/5FotCNJEeRjXwLGsbtyS9t) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Dunk Shot](https://open.spotify.com/album/4mC1EE9p4dHGws7cxoTZk4) | 2:59 | 2024-09-09 | 2024-09-25 |
@@ -965,6 +965,7 @@
 | [Romeo and Juliet](https://open.spotify.com/track/7zHLLOTZTAexqKsyi3etd5) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Romeo and Juliet](https://open.spotify.com/album/1YA2MGjNMvXk3wkY8z49Eh) | 4:27 | 2022-08-23 | 2022-10-19 |
 | [ROSE](https://open.spotify.com/track/45m3imiP0PeG1C9h6uORVo) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/2Ymg04Jq86b8m2qsARX5Dw) | 3:15 | 2023-05-09 | 2023-05-11 |
 | [ROSE](https://open.spotify.com/track/6HXfVZrYQtjNMWQSgNUoD9) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/6ZiZUrxg8kEA38ICz4ekeF) | 3:15 | 2023-05-09 | 2023-06-21 |
+| [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 | 2025-04-01 |  |
 | [Roses](https://open.spotify.com/track/4mcTAI2cZUWC0bmdOHiuYF) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/4frUEjTX05dL5d2OG5a28J) | 2:48 | 2024-08-13 | 2024-08-30 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-13 | 2023-08-11 |
 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-09-03 | 2024-09-25 |

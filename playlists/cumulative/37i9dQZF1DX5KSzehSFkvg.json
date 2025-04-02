@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "Les meilleurs hits de la pop maghr\u00e9bine. Cover: RYM",
+  "description": "Les meilleurs hits de la pop maghr\u00e9bine. Cover: Mounim Slimani",
   "name": "Top Maghreb Pop",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 228925,
       "name": "Abala Ya Bali",
       "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
+    },
+    {
+      "album": {
+        "name": "Ach Dani",
+        "url": "https://open.spotify.com/album/1NV8RX4FjotSe0X3cYFjw7"
+      },
+      "artists": [
+        {
+          "name": "Aya Mounfaloti",
+          "url": "https://open.spotify.com/artist/1fsGhCmYZIOImaxNJmPH1J"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252100,
+      "name": "Ach Dani",
+      "url": "https://open.spotify.com/track/1MIsomWMkhUQ3HB5x6JrWd"
     },
     {
       "album": {
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 220000,
       "name": "Tawaak Galbek",
       "url": "https://open.spotify.com/track/7CvVm3ZVBm5JkjncF81qf5"

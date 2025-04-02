@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,953 songs - 1 day 15 hr 40 min
+1,954 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Constant Reminders](https://open.spotify.com/track/1DotoqFrrnUXTPsBqDjcli) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:41 | 2022-01-12 |  |
 | [Contemplate](https://open.spotify.com/track/3QObWJzUMxqOkTJeBYiIEk) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Overcome](https://open.spotify.com/album/2P1dLjwu0Pwq46QZFOiwMX) | 1:02 | 2022-04-29 |  |
 | [Contentment](https://open.spotify.com/track/3IYfQjms64oQVkkBGOz1Ms) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Contentment](https://open.spotify.com/album/1jb2Oj0l4gi4NXz6uUrC0B) | 1:00 | 2024-10-02 |  |
+| [Continue](https://open.spotify.com/track/59jchBKLMvL5h2cs27JOFU) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Continue](https://open.spotify.com/album/4eQyHKXwgR77V7SO0XirWG) | 1:00 | 2025-04-01 |  |
 | [Copper](https://open.spotify.com/track/6gtSfUeF4Py6aJijrEh6Ho) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Copper](https://open.spotify.com/album/61ufV9Jq9lcKaAZmhi8FGk) | 1:00 | 2025-01-15 |  |
 | [Corridors](https://open.spotify.com/track/2vrj9N9JVZkrpk4ObLLwa3) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Daydreaming](https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8) | 1:37 | 2022-01-12 |  |
 | [Cosmic](https://open.spotify.com/track/6tuAX3AbkjX9OMcGjo8IiN) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |

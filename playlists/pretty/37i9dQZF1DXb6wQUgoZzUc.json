@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1047311,
+  "num_followers": 1047579,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "ROMEO",
-        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190624,
-      "name": "ROMEO",
-      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Me Reclama",
         "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "ROMEO",
+        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190624,
+      "name": "ROMEO",
+      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1107,6 +1107,34 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "DUCATI (feat. Hades66)",
+        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 246290,
+      "name": "DUCATI (feat. Hades66)",
+      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "El Androide",
         "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
       },
@@ -1163,34 +1191,6 @@
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "DUCATI (feat. Hades66)",
-        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 246290,
-      "name": "DUCATI (feat. Hades66)",
-      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1919,6 +1919,26 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "En To Lao",
+        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 195033,
+      "name": "En To Lao",
+      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "La Trinidad",
         "url": "https://open.spotify.com/album/7ncFTdVkNnDG3ZXzJo7t9x"
       },
@@ -1939,26 +1959,6 @@
       "duration_ms": 187200,
       "name": "La Trinidad",
       "url": "https://open.spotify.com/track/43SEzRHiv6GvPg9zOyVrX6"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "En To Lao",
-        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
-      },
-      "artists": [
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195033,
-      "name": "En To Lao",
-      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -2103,26 +2103,26 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "Le Clique: Vida Rockstar (X)",
-        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+        "name": "SEXOLANDIA",
+        "url": "https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy"
       },
       "artists": [
         {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         },
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
         },
         {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
         }
       ],
-      "duration_ms": 254493,
-      "name": "Porsche Carrera",
-      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
+      "duration_ms": 148800,
+      "name": "Chaka",
+      "url": "https://open.spotify.com/track/0Oa7cgRCgjWBZcbASvH2Lw"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -2147,26 +2147,26 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "SEXOLANDIA",
-        "url": "https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy"
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Chaka",
-      "url": "https://open.spotify.com/track/0Oa7cgRCgjWBZcbASvH2Lw"
+      "duration_ms": 254493,
+      "name": "Porsche Carrera",
+      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
     },
     {
       "added_at": "2025-03-14 06:00:10",

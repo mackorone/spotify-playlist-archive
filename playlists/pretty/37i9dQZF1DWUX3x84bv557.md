@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Danique & Ruben Annink
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,340 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,333 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 |
 | 2 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
-| 3 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 |
-| 4 | [Atlas](https://open.spotify.com/track/6zdmJ79GtRfpJJdaDPECYm) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Atlas](https://open.spotify.com/album/7vTA5iDvkhVHkRLYvVXWad) | 3:00 |
-| 5 | [1 Nacht](https://open.spotify.com/track/2dUJ0xW4XC89CC6gD7mjwi) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:13 |
-| 6 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 |
-| 7 | [Te Waar Om Mooi Te Zijn](https://open.spotify.com/track/4hihzc1FWSnlMGRnYEZm7s) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Lunace](https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx) | [Te Waar Om Mooi Te Zijn](https://open.spotify.com/album/02u6G4zpAqzWsthZTSjkc0) | 2:55 |
-| 8 | [Sprakeloos](https://open.spotify.com/track/1Y2KLMM1V2TeHcmOiiUXak) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Sprakeloos](https://open.spotify.com/album/1wSyoTzqvfj8Rx9D1L6x7Z) | 2:25 |
+| 3 | [Sprakeloos](https://open.spotify.com/track/1Y2KLMM1V2TeHcmOiiUXak) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Sprakeloos](https://open.spotify.com/album/1wSyoTzqvfj8Rx9D1L6x7Z) | 2:25 |
+| 4 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 |
+| 5 | [Atlas](https://open.spotify.com/track/6zdmJ79GtRfpJJdaDPECYm) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Atlas](https://open.spotify.com/album/7vTA5iDvkhVHkRLYvVXWad) | 3:00 |
+| 6 | [1 Nacht](https://open.spotify.com/track/2dUJ0xW4XC89CC6gD7mjwi) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:13 |
+| 7 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 |
+| 8 | [Te Waar Om Mooi Te Zijn](https://open.spotify.com/track/4hihzc1FWSnlMGRnYEZm7s) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Lunace](https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx) | [Te Waar Om Mooi Te Zijn](https://open.spotify.com/album/02u6G4zpAqzWsthZTSjkc0) | 2:55 |
 | 9 | [Bennie](https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Bennie](https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve) | 2:37 |
 | 10 | [Tegenover Mij](https://open.spotify.com/track/4tDhHQtrWgldmPTpz1BHsF) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Dat Je Alles Ziet Wat Ik Liever Niet Laat Zien](https://open.spotify.com/album/4jCT18pejA7ZErpavi3X4r) | 2:53 |
 | 11 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 |
 | 70 | [Merci](https://open.spotify.com/track/2ucacgpSBS5IwOXvDnCvWs) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Merci](https://open.spotify.com/album/2CLzos1UOTwd6YoL7FVQni) | 3:11 |
 
-Snapshot ID: `Z+ZwQQAAAABV26MaC5m5Lozg8r/SxPl0`
+Snapshot ID: `Z+vNEAAAAADo/LlUbL7UpbiQ/f+SYObu`

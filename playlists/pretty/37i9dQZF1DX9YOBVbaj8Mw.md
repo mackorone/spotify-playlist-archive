@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,906 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,907 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 45 | [Kozak](https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzybnia](https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6) | 2:53 |
 | 46 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |
 | 47 | [Spotkanie z Warszawą](https://open.spotify.com/track/0bNNDAUvcKnqIf8X26Ho38) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 2:26 |
-| 48 | [Brim On](https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq) | [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Zohar Fresco](https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN) | [Brim On](https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y) | 4:22 |
-| 49 | [Królowa łez](https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [30 lat Agnieszki Chylińskiej \- Kiedyś do Ciebie wrócę](https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky) | 5:10 |
+| 48 | [Siwa zezulejko](https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie), [Bassałyki](https://open.spotify.com/artist/7zc32OGpApsqnOXhGvUs1y) | [Sploty](https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV) | 6:21 |
+| 49 | [Brim On](https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq) | [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Zohar Fresco](https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN) | [Brim On](https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y) | 4:22 |
 | 50 | [Fearflood](https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Instant Rewards](https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm) | 5:58 |
-| 51 | [Siwa zezulejko](https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie), [Bassałyki](https://open.spotify.com/artist/7zc32OGpApsqnOXhGvUs1y) | [Sploty](https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV) | 6:21 |
+| 51 | [Królowa łez](https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [30 lat Agnieszki Chylińskiej \- Kiedyś do Ciebie wrócę](https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky) | 5:10 |
 | 52 | [Cursed Angel of Doom \- Live](https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [XXX Years Ov Blasphemy](https://open.spotify.com/album/4SNgCerS7obje1M8pIcdXf) | 3:00 |
 | 53 | [Ciągle](https://open.spotify.com/track/3ePTGOjZp25Z1OHBT0L8zQ) | [Cool Kids Of Death](https://open.spotify.com/artist/4illxVu43vK6CgfzDhfunc) | [Origami EP](https://open.spotify.com/album/0EFCMCxvJeAn39A19ZxIhC) | 2:31 |
 | 54 | [Nie pamiętam siebie](https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6) | [Dom Zły](https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt) | [Ku pogrzebaniu serc](https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9) | 6:54 |

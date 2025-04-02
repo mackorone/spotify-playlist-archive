@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-935 songs - 1 day 15 hr 58 min
+937 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Cornélis](https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Cornélis](https://open.spotify.com/album/4jlUnPvwnPdxwNwC6VU3Mf) | 2:28 | 2021-12-07 | 2023-04-26 |
 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 | 2023-04-18 | 2024-12-12 |
 | [Cotton Tale](https://open.spotify.com/track/3p4mrh87pFZu0w2WdNK7bZ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Cotton Tale](https://open.spotify.com/album/5g6VsUEKvMkDNMqzvLJ9CT) | 2:07 | 2022-02-14 | 2022-04-09 |
+| [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-04-01 |  |
 | [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 | 2023-10-09 |  |
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2022-01-04 | 2023-10-07 |
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2021-12-07 | 2022-10-05 |
@@ -193,6 +194,7 @@
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-12-07 | 2022-09-24 |
 | [Dark Skies, Bright Stars](https://open.spotify.com/track/2d6TuppzOeiaMHuaddPO9K) | [Elke Fischer](https://open.spotify.com/artist/6TSeTJYdnpkR0LBtg3AmoI) | [Dark Skies, Bright Stars](https://open.spotify.com/album/5Y0tdMVlsomtFC6HqXmahk) | 2:00 | 2021-12-07 | 2022-05-06 |
 | [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2022-10-13 | 2023-03-21 |
+| [Dawn](https://open.spotify.com/track/0IDIT4eSB5sKSaZUJ8v0XE) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Dawn](https://open.spotify.com/album/2N9fMSg5D2f8DIBokgF9cI) | 2:44 | 2025-04-01 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 | 2022-07-20 |
 | [Deep Blue](https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Deep Blue](https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l) | 2:37 | 2025-03-21 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa The Rasmus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,643 likes - 88 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,641 likes - 88 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

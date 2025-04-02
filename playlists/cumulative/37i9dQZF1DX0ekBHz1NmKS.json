@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 275386,
       "name": "All My Life - and then\u2026",
       "url": "https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS"
@@ -16794,7 +16794,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 153500,
       "name": "Leva mitt liv",
       "url": "https://open.spotify.com/track/7C4PvS9o9UrdnmwwZvEgFs"
@@ -19589,6 +19589,24 @@
     },
     {
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2Ek5tJoeZq7mqe4eoFuxmD"
+      },
+      "artists": [
+        {
+          "name": "Sofia Monroy",
+          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156151,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4RsUWrDd0Lxwt3oRehY6FW"
+    },
+    {
+      "album": {
         "name": "Mormor",
         "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
       },
@@ -20660,7 +20678,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 154213,
       "name": "nylon",
       "url": "https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr"
@@ -28109,6 +28127,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4tter f\u00e4rg p\u00e5 mig",
+        "url": "https://open.spotify.com/album/6ZaTXLvA5vdN28xXIbXwv1"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148266,
+      "name": "S\u00e4tter f\u00e4rg p\u00e5 mig",
+      "url": "https://open.spotify.com/track/5k2ASJQCLRyzg9J4gFPU6h"
+    },
+    {
+      "album": {
         "name": "S\u00e5 Fr\u00e4sch",
         "url": "https://open.spotify.com/album/4kw3dJQ231y8FAAZms8b8i"
       },
@@ -28250,6 +28286,32 @@
       "duration_ms": 193600,
       "name": "Tack vare dig",
       "url": "https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX"
+    },
+    {
+      "album": {
+        "name": "tagesanbruch",
+        "url": "https://open.spotify.com/album/6nyOnLizny7SotOf76OwpB"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        },
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197215,
+      "name": "tagesanbruch",
+      "url": "https://open.spotify.com/track/0lKQ8gAUZxOvcifiyC9lFO"
     },
     {
       "album": {

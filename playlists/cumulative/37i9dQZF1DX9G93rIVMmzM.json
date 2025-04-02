@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 233750,
       "name": "Love me, slow",
       "url": "https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 325142,
       "name": "Lovely (Forget Me Not)",
       "url": "https://open.spotify.com/track/3zyL8LRNulKlAHTtAB8Wh5"
@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "PLEASER",
+        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165925,
+      "name": "PLEASER",
+      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
+    },
+    {
+      "album": {
         "name": "Realize",
         "url": "https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb"
       },
@@ -1748,6 +1766,24 @@
       "duration_ms": 190833,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE"
+    },
+    {
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "SHALLOW",
+      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
     },
     {
       "album": {

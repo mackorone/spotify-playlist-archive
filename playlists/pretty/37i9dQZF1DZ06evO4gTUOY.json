@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 3999880,
+  "num_followers": 4000406,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAACh9FnI9oNZ9OTTRAjeSYBe",
+  "snapshot_id": "Z+nbAAAAAACiZN0CNntxVuJ4DbVkC3tg",
   "tracks": [
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
       },
       "artists": [
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "White Gold",
-          "url": "https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ"
         }
       ],
-      "duration_ms": 298384,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
+      "duration_ms": 281320,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
     },
     {
       "added_at": null,
@@ -831,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 281320,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 278640,
       "name": "Space Bound",
       "url": "https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "White Gold",
+          "url": "https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ"
+        }
+      ],
+      "duration_ms": 298384,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
       "duration_ms": 318360,
       "name": "That's All She Wrote",
       "url": "https://open.spotify.com/track/6XAA7T9VHcqKQSzjmXAJ8o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 206649,
-      "name": "Brand New Dance",
-      "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
     },
     {
       "added_at": null,
@@ -939,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 206649,
+      "name": "Brand New Dance",
+      "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Marshall Mathers LP2 (Deluxe)",
         "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
@@ -955,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 98152,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
+      "duration_ms": 296880,
+      "name": "Like Toy Soldiers",
+      "url": "https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO"
     }
   ],
   "unique_name": "This Is Eminem",

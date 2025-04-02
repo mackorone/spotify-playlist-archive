@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 340490,
+  "num_followers": 340467,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-03-14 15:38:26",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2025-03-14 15:38:26",
-      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2025-03-14 15:38:26",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2025-03-14 15:38:26",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-03-14 15:38:26",
       "album": {
-        "name": "Unloving You",
-        "url": "https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 153863,
-      "name": "Unloving You",
-      "url": "https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34"
-    },
-    {
-      "added_at": "2025-03-14 15:38:26",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 186514,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "added_at": "2025-03-14 15:38:26",
+      "album": {
+        "name": "Unloving You",
+        "url": "https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 153863,
+      "name": "Unloving You",
+      "url": "https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34"
     },
     {
       "added_at": "2025-03-14 15:38:26",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2025-03-14 15:38:26",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+      "duration_ms": 251527,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
     },
     {
       "added_at": "2025-03-14 15:38:26",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2025-03-14 15:38:26",
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
       "artists": [
         {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 251527,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2025-03-14 15:38:26",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2025-03-14 15:38:26",
       "album": {
-        "name": "I Follow",
-        "url": "https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6"
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
       "artists": [
         {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 169405,
-      "name": "I Follow",
-      "url": "https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB"
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
     }
   ],
   "unique_name": "Friozinho",

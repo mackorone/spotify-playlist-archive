@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: ROTTENGRAFFTY ",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: ANORAK!",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Fledgling",
+        "url": "https://open.spotify.com/album/4PW3M0r0Zs8msRppMWuNn9"
+      },
+      "artists": [
+        {
+          "name": "ANORAK!",
+          "url": "https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144236,
+      "name": "Fledgling",
+      "url": "https://open.spotify.com/track/5tvaEwIBqMrbKPIzfIRzMQ"
+    },
+    {
+      "album": {
         "name": "Fleeting",
         "url": "https://open.spotify.com/album/544Jdvoikdhj5TstI63Pyy"
       },
@@ -3398,7 +3416,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 191000,
       "name": "Hate",
       "url": "https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn"
@@ -7776,6 +7794,24 @@
       "duration_ms": 208977,
       "name": "Seahorse",
       "url": "https://open.spotify.com/track/26NdFMwJkFi2L4EWSxcPnV"
+    },
+    {
+      "album": {
+        "name": "SEASON",
+        "url": "https://open.spotify.com/album/4un5E7EVg5RvLev9xTsoQR"
+      },
+      "artists": [
+        {
+          "name": "HERO COMPLEX",
+          "url": "https://open.spotify.com/artist/2w3zotiYKfS7ZQLqqu3vkV"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185210,
+      "name": "SEASON",
+      "url": "https://open.spotify.com/track/1r1Ft25nw0PaQs2fI5fymJ"
     },
     {
       "album": {
@@ -13518,7 +13554,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 149680,
       "name": "\u5de6\u69d8\u306a\u3089",
       "url": "https://open.spotify.com/track/35EO65pIPwMR9jNfBsHNBv"

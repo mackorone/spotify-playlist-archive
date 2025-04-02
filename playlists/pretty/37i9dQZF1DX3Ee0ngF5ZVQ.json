@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 410507,
+  "num_followers": 410517,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
+        "name": "Bye In A Goodbye",
+        "url": "https://open.spotify.com/album/4B281NRNlGrzrQRxXXu72R"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "duration_ms": 237011,
+      "name": "Bye In A Goodbye",
+      "url": "https://open.spotify.com/track/10aBvWcmf8tFa69J8LQAKn"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
         "name": "Honky Tonkin' About",
         "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "Bye In A Goodbye",
-        "url": "https://open.spotify.com/album/4B281NRNlGrzrQRxXXu72R"
-      },
-      "artists": [
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        }
-      ],
-      "duration_ms": 237011,
-      "name": "Bye In A Goodbye",
-      "url": "https://open.spotify.com/track/10aBvWcmf8tFa69J8LQAKn"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
         "name": "Diamondhead",
         "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "Missin' Tonight",
-        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 170154,
-      "name": "Missin' Tonight",
-      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
         "name": "That's Texas",
         "url": "https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 163133,
       "name": "That's Texas",
       "url": "https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
+        "name": "Missin' Tonight",
+        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "duration_ms": 170154,
+      "name": "Missin' Tonight",
+      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
         "name": "Start at the End",
         "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 208573,
       "name": "Start at the End",
       "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -811,18 +811,22 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        },
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
         }
       ],
-      "duration_ms": 200930,
-      "name": "Chipping Mill",
-      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+      "duration_ms": 170251,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -879,22 +883,18 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
       },
       "artists": [
         {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        },
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 170251,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
+      "duration_ms": 200930,
+      "name": "Chipping Mill",
+      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
+        "name": "County Road 123",
+        "url": "https://open.spotify.com/album/77QZTXu1DoZcAZuJNi55Ft"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 226917,
+      "name": "County Road 123",
+      "url": "https://open.spotify.com/track/0YzmIrYwxjhUCEzrRmhTH4"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
-      },
-      "artists": [
-        {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
-        }
-      ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
         "name": "Old Tricks",
         "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 148778,
       "name": "Old Tricks",
       "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
-        "name": "County Road 123",
-        "url": "https://open.spotify.com/album/77QZTXu1DoZcAZuJNi55Ft"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 226917,
-      "name": "County Road 123",
-      "url": "https://open.spotify.com/track/0YzmIrYwxjhUCEzrRmhTH4"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
+        "name": "Outlaws and Mustangs",
+        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 240025,
+      "name": "Outlaws and Mustangs",
+      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
+    },
+    {
+      "added_at": "2025-03-28 15:39:10",
+      "album": {
         "name": "Learnin' my Lesson",
         "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 187089,
       "name": "Learnin' my Lesson",
       "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
-    },
-    {
-      "added_at": "2025-03-28 15:39:10",
-      "album": {
-        "name": "Outlaws and Mustangs",
-        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 240025,
-      "name": "Outlaws and Mustangs",
-      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "Two Way Drive",
-        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 222275,
-      "name": "Two Way Drive",
-      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
+        "name": "Two Way Drive",
+        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
         }
       ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+      "duration_ms": 222275,
+      "name": "Two Way Drive",
+      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "The Droptines",
-        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 182406,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
+        "name": "The Droptines",
+        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
         }
       ],
-      "duration_ms": 201211,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
+      "duration_ms": 182406,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
     },
     {
       "added_at": "2025-03-28 15:39:10",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2025-03-28 15:39:10",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 201211,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
     },
     {
       "added_at": "2025-03-28 15:39:10",

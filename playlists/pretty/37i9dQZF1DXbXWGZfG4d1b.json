@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24076,
+  "num_followers": 24079,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "general paz",
+        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 169581,
+      "name": "General Paz",
+      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "general paz",
-        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+        "name": "A Veces Casi",
+        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
       },
       "artists": [
         {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
         }
       ],
-      "duration_ms": 169581,
-      "name": "General Paz",
-      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
+      "duration_ms": 180163,
+      "name": "A Veces Casi",
+      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -559,22 +575,6 @@
       "duration_ms": 132221,
       "name": "Botella",
       "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "A Veces Casi",
-        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
-      },
-      "artists": [
-        {
-          "name": "Viva Elastico",
-          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "A Veces Casi",
-      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Traicionarse",
-        "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "Traicionarse",
-      "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Mir\u00e1 mam\u00e1",
         "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 182056,
       "name": "Mir\u00e1 mam\u00e1",
       "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Traicionarse",
+        "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "Traicionarse",
+      "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -835,6 +835,38 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Losers' Paradise",
+        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Vin",
+          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Losers' Paradise",
+      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Humo y Menta",
         "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
@@ -855,22 +887,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
-      },
-      "artists": [
-        {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "LOS VIEJOS CON GUITA",
         "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 244195,
       "name": "DOSMILUNO",
       "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "Losers' Paradise",
-        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Vin",
-          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Losers' Paradise",
-      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Donde nac\u00ed",
-        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 231270,
-      "name": "Donde nac\u00ed",
-      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Entre L\u00edneas",
         "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 196173,
       "name": "Entre L\u00edneas",
       "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "Cinta Testigo, Vol. 1",
+        "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 182197,
+      "name": "Las Cosas que Fueron Antes",
+      "url": "https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 171272,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/3lzASIb59OFvxqNTw6B5FK"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "Cinta Testigo, Vol. 1",
-        "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 182197,
-      "name": "Las Cosas que Fueron Antes",
-      "url": "https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Creo que necesito ir a dar una vuelta",
         "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 192137,
       "name": "Oh my goth",
       "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "El Buen Fantasma",
-        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 179539,
-      "name": "El Buen Fantasma",
-      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Exquisito como el Disgusto",
-        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
-      },
-      "artists": [
-        {
-          "name": "Socorro",
-          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Boca de Dama",
-      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "No digas que no te avis\u00e9",
         "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 266472,
       "name": "No digas que no te avis\u00e9",
       "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Exquisito como el Disgusto",
+        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
+      },
+      "artists": [
+        {
+          "name": "Socorro",
+          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Boca de Dama",
+      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "ya soy, ya tengo",
-        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
-      },
-      "artists": [
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        }
-      ],
-      "duration_ms": 249245,
-      "name": "ya soy, ya tengo",
-      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Pol\u00edtico o Rolling Stone",
         "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "ya soy, ya tengo",
+        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
+      },
+      "artists": [
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+        }
+      ],
+      "duration_ms": 249245,
+      "name": "ya soy, ya tengo",
+      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "Fantas\u00edas de Violencia",
+        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
+      },
+      "artists": [
+        {
+          "name": "Bubis Vayins",
+          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
+        }
+      ],
+      "duration_ms": 253177,
+      "name": "Los Carritos",
+      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Desconsuelo",
         "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 200014,
       "name": "Pastillas",
       "url": "https://open.spotify.com/track/51SYnvMbQqIiw8EbGh2HZK"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "Fantas\u00edas de Violencia",
-        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
-      },
-      "artists": [
-        {
-          "name": "Bubis Vayins",
-          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
-        }
-      ],
-      "duration_ms": 253177,
-      "name": "Los Carritos",
-      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
     },
     {
       "added_at": "2025-01-09 18:07:40",

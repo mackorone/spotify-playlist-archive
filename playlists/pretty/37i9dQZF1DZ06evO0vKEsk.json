@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133099,
+  "num_followers": 133101,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAB54knlMk3WmTrpB+AQMKpr",
+  "snapshot_id": "Z+nbAAAAAAB4RjLSVoxAHu9FEGV8Ewq4",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 254769,
-      "name": "Vento do Esp\u00edrito",
-      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
+      "duration_ms": 244831,
+      "name": "Uma Mulher, Um Milagre",
+      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 244831,
-      "name": "Uma Mulher, Um Milagre",
-      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+      "duration_ms": 254769,
+      "name": "Vento do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
     },
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Melhor Amigo",
-        "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
+        "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
+        "url": "https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz"
       },
       "artists": [
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 335481,
-      "name": "Melhor Amigo",
-      "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
+      "duration_ms": 268887,
+      "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
+      "url": "https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ"
     },
     {
       "added_at": null,
@@ -727,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
-        "url": "https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 268887,
-      "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
-      "url": "https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 467647,
       "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Melhor Amigo",
+        "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 335481,
+      "name": "Melhor Amigo",
+      "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levantamos Tu Nombre",
-        "url": "https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 350528,
-      "name": "Levantamos Tu Nombre",
-      "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maranata (Vem Emanuel) (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 419263,
       "name": "Maranata (Vem Emanuel) (Ao Vivo)",
       "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Levantamos Tu Nombre",
+        "url": "https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 350528,
+      "name": "Levantamos Tu Nombre",
+      "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
     },
     {
       "added_at": null,

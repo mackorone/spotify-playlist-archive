@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 9060,
+  "num_followers": 9090,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 190745,
+      "name": "DOMINGO DE BOTE",
+      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "ALVRGZO",
         "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 162187,
       "name": "ALVRGZO",
       "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 190745,
-      "name": "DOMINGO DE BOTE",
-      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 202967,
+      "name": "CALENT\u00d3N",
+      "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG Tropicana",
         "url": "https://open.spotify.com/album/7wVMhb43j1AzGLM1Ek8HwX"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 105114,
       "name": "MTG Tropicana",
       "url": "https://open.spotify.com/track/5Dki7m3M8mJR1ozN3Mkep4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 202967,
-      "name": "CALENT\u00d3N",
-      "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "SaxoSuelta Oriente Tribe",
-        "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
-      },
-      "artists": [
-        {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
-        },
-        {
-          "name": "Darek Sotelo",
-          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
-        }
-      ],
-      "duration_ms": 229437,
-      "name": "SaxoSuelta Oriente Tribe",
-      "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG COLO DE MENINA",
         "url": "https://open.spotify.com/album/3wDQXvoToiiDEhE0sc1GXN"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 118730,
       "name": "MTG COLO DE MENINA",
       "url": "https://open.spotify.com/track/3DNwrOexgGtykcPU8bEs2e"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "SaxoSuelta Oriente Tribe",
+        "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
+      },
+      "artists": [
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Darek Sotelo",
+          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
+        }
+      ],
+      "duration_ms": 229437,
+      "name": "SaxoSuelta Oriente Tribe",
+      "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG - ELASTIC HEART",
-        "url": "https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd"
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
       "artists": [
         {
-          "name": "Lucas Hits",
-          "url": "https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 80009,
-      "name": "MTG - ELASTIC HEART",
-      "url": "https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw"
+      "duration_ms": 155076,
+      "name": "Torai",
+      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+        "name": "MTG - ELASTIC HEART",
+        "url": "https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Lucas Hits",
+          "url": "https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Torai",
-      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
+      "duration_ms": 80009,
+      "name": "MTG - ELASTIC HEART",
+      "url": "https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "GOZANDO",
         "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
       },
@@ -2119,22 +2139,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 187670,
-      "name": "PROVENZA - REMIX",
-      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+      "duration_ms": 153642,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2155,26 +2175,6 @@
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 153642,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2335,26 +2335,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Guaracha Con \u00d1ejo",
-        "url": "https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9"
-      },
-      "artists": [
-        {
-          "name": "Marco Acevedo",
-          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Guaracha Con \u00d1ejo",
-      "url": "https://open.spotify.com/track/6pAgwmKrBsZvDtlQ2lniK3"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Gaga",
         "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
       },
@@ -2371,6 +2351,26 @@
       "duration_ms": 188304,
       "name": "Gaga",
       "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Guaracha Con \u00d1ejo",
+        "url": "https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9"
+      },
+      "artists": [
+        {
+          "name": "Marco Acevedo",
+          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Guaracha Con \u00d1ejo",
+      "url": "https://open.spotify.com/track/6pAgwmKrBsZvDtlQ2lniK3"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2635,6 +2635,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "La Bebe (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 158739,
+      "name": "La Bebe - David Guetta Remix",
+      "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Hasta El QLO",
         "url": "https://open.spotify.com/album/59QlyRjPd5USQQ7OdbMIe3"
       },
@@ -2659,30 +2683,6 @@
       "duration_ms": 162480,
       "name": "Hasta El QLO",
       "url": "https://open.spotify.com/track/4lTlUpfOSZphX37uotVwx6"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "La Bebe (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 158739,
-      "name": "La Bebe - David Guetta Remix",
-      "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2883,6 +2883,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Multiples Efectos",
+        "url": "https://open.spotify.com/album/4ZvluEZl3omQuSerYC1cDD"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cardona",
+          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
+        },
+        {
+          "name": "Heiky Miller",
+          "url": "https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Multiples Efectos",
+      "url": "https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "ONTAS BB",
         "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
       },
@@ -2903,26 +2923,6 @@
       "duration_ms": 207804,
       "name": "ONTAS BB",
       "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Multiples Efectos",
-        "url": "https://open.spotify.com/album/4ZvluEZl3omQuSerYC1cDD"
-      },
-      "artists": [
-        {
-          "name": "Santiago Cardona",
-          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
-        },
-        {
-          "name": "Heiky Miller",
-          "url": "https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Multiples Efectos",
-      "url": "https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2967,26 +2967,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Trackhouse",
-        "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 135348,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG Nosso Xote",
         "url": "https://open.spotify.com/album/4DANxV5ONUmk39WxeNOJww"
       },
@@ -3003,6 +2983,26 @@
       "duration_ms": 136615,
       "name": "MTG Nosso Xote",
       "url": "https://open.spotify.com/track/5BSWVqeTFYNz8IiLPTGkty"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Trackhouse",
+        "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 135348,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3123,26 +3123,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "PARIS HILTON",
-        "url": "https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7"
-      },
-      "artists": [
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
-        }
-      ],
-      "duration_ms": 185995,
-      "name": "PARIS HILTON",
-      "url": "https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
@@ -3187,6 +3167,26 @@
       "duration_ms": 115183,
       "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio) - MTG",
       "url": "https://open.spotify.com/track/6HC2oHUAbDJmffYKPZKtTg"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "PARIS HILTON",
+        "url": "https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "duration_ms": 185995,
+      "name": "PARIS HILTON",
+      "url": "https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp"
     },
     {
       "added_at": "2024-09-30 22:44:34",

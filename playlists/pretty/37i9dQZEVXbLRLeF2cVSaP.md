@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,586 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,589 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 30 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 |
 | 31 | [Ханнамонтана](https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:10 |
 | 32 | [Обломки чувств](https://open.spotify.com/track/6MaJ9Tt6tDJLvszSMQDwJ7) | [Noize MC](https://open.spotify.com/artist/69v4ZOOomf1TNp59YYB1j7), [Монеточка](https://open.spotify.com/artist/0vBQArE9eMYUlZSkXBbVJK) | [Не все дома](https://open.spotify.com/album/65zEqtYQKXLpdVZ22yqpyO) | 3:30 |
-| 33 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/3azJdRk8qSuApz5irmde3R) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 3:11 |
+| 33 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 |
 | 34 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 35 | [Страшный сон 2](https://open.spotify.com/track/1GaJ8rxMQPzCfdZeMGH82G) | [Раковая Выхухоль](https://open.spotify.com/artist/7y6TkCfv1kEBd6YmloUGLK) | [Страшный сон 2](https://open.spotify.com/album/74R9c208EJ1YRoutQjUynU) | 1:50 |
 | 36 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Стань](https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 3:08 |
 | 50 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 |
 
-Snapshot ID: `L34HeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L39WoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

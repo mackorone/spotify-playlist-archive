@@ -1,6 +1,6 @@
 {
   "description": "C\u00e1mara mi amor si ya se la sabe que es recio melecio, es peg\u00e1ndonos como chetos a la muela \ud83e\udd75",
-  "num_followers": 19070,
+  "num_followers": 19071,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -96,7 +96,7 @@
           "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
         }
       ],
-      "duration_ms": 244472,
+      "duration_ms": 244000,
       "name": "Noche Obscura (feat. Nayar, Riko Mix, Alberto Producer)",
       "url": "https://open.spotify.com/track/4ev0CfZNYRsC57aZ9gXhjn"
     },
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "KE LA CASTIGUEN",
-        "url": "https://open.spotify.com/album/2ECnJhv0Aq8MDClUNcLDsM"
-      },
-      "artists": [
-        {
-          "name": "LOUKI",
-          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "KE LA CASTIGUEN",
-      "url": "https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Metele",
         "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 195625,
       "name": "Metele",
       "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "KE LA CASTIGUEN",
+        "url": "https://open.spotify.com/album/2ECnJhv0Aq8MDClUNcLDsM"
+      },
+      "artists": [
+        {
+          "name": "LOUKI",
+          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "KE LA CASTIGUEN",
+      "url": "https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -1183,34 +1183,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
-        "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "B&b",
-          "url": "https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q"
-        },
-        {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
-        },
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
-        }
-      ],
-      "duration_ms": 229125,
-      "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
-      "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "RAYBEN CAP 7: BELLAKACOQUETTE (feat. Profeta Yao Yao & Cachirula)",
         "url": "https://open.spotify.com/album/6oacIxkILsvDG3nG045io9"
       },
@@ -1239,6 +1211,34 @@
       "duration_ms": 159937,
       "name": "RAYBEN CAP 7: BELLAKACOQUETTE (feat. Profeta Yao Yao & Cachirula)",
       "url": "https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
+        "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "B&b",
+          "url": "https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q"
+        },
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        }
+      ],
+      "duration_ms": 229125,
+      "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
+      "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -1915,6 +1915,30 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "SI T\u00da ME LLAMAS",
+        "url": "https://open.spotify.com/album/1FuG5aVjhS1mnmcArhYqFv"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "SI T\u00da ME LLAMAS",
+      "url": "https://open.spotify.com/track/70BfpMR5l7JIFGpBJ9CZIe"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Nena Goga",
         "url": "https://open.spotify.com/album/7mnLvVwKvJb1j3M2rhh2KC"
       },
@@ -1939,30 +1963,6 @@
       "duration_ms": 212000,
       "name": "Nena Goga",
       "url": "https://open.spotify.com/track/7rQxmMmDB68cqX9fAE4WxI"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "SI T\u00da ME LLAMAS",
-        "url": "https://open.spotify.com/album/1FuG5aVjhS1mnmcArhYqFv"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "SI T\u00da ME LLAMAS",
-      "url": "https://open.spotify.com/track/70BfpMR5l7JIFGpBJ9CZIe"
     },
     {
       "added_at": "2025-03-07 06:00:25",

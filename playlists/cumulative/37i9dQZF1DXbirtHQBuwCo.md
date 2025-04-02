@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: Min Jiwoon\(민지운\)\)
 
-807 songs - 1 day 18 hr 55 min
+808 songs - 1 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-07-24 | 2022-09-06 |
 | [Baby PLZ \(feat\. Jay Park\)](https://open.spotify.com/track/0KBQZCNDLOPLFNZ17Q8CQg) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [BLESSED](https://open.spotify.com/album/7wTEF0FR8kVEtPTV5cjRzd) | 2:45 | 2024-03-13 | 2024-03-28 |
 | [Back Against The Wall \(feat\. Kvsh\)](https://open.spotify.com/track/0Qk9zm15Djca5RKNt3y7iu) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Back Against The Wall](https://open.spotify.com/album/3Q2Ma8GBxQLguoc5gxmvk4) | 2:44 | 2022-10-29 | 2022-11-10 |
+| [backroom 2025](https://open.spotify.com/track/31rLxCWKdplzfFR2UQq9wn) | [SZN](https://open.spotify.com/artist/0SPzRZVsUUzgOXjibr7PEj) | [FREE MYSELF](https://open.spotify.com/album/3csmdF5kqdquJHIb6yjRkY) | 2:04 | 2025-04-02 |  |
 | [BAD \(Feat\. Moon Sujin, Joh!\)](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 | 2024-08-08 | 2024-09-06 |
 | [Bad At Us](https://open.spotify.com/track/12EhuKuFOOs7sBMbajhDNW) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/3kyB3zyiJQ4jWKheOKrFhH) | 3:19 | 2023-05-30 | 2023-06-16 |
 | [BAD BAD \(Feat\. Tabber, Jay Park\)](https://open.spotify.com/track/7fjAIwn4DpKwTEqO08zN9H) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:34 | 2023-03-10 | 2023-04-01 |
@@ -118,7 +119,7 @@
 | [Burn it \(feat\. DEAN\)](https://open.spotify.com/track/50hyZD2Tk0Z3by9zJmx6PT) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 3:31 | 2024-11-14 | 2025-03-08 |
 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-01-23 | 2023-02-15 |
 | [Bus Stop](https://open.spotify.com/track/2X0Jlj1hP9q2xP5Lkd8sy4) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[A\]](https://open.spotify.com/album/7EJPkVvOwB787PxrHCrrAE) | 3:01 | 2024-01-08 | 2024-01-24 |
-| [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 | 2024-06-17 |  |
+| [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 | 2024-06-17 | 2025-04-02 |
 | [Butterfly \(feat\. Oceanfromtheblue\)](https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:46 | 2022-09-06 | 2022-09-29 |
 | [Butterfly Effect \(Feat\. nobody likes you pat, Emily Brophy\)](https://open.spotify.com/track/5pYfDCKYjiWHJcIZIiCcDP) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Emily Brophy](https://open.spotify.com/artist/3wjB0noN1ulMz4RCU4kNG3) | [A Thousand Miles](https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd) | 2:27 | 2022-04-19 | 2022-07-28 |
 | [By My Side](https://open.spotify.com/track/6HKKRjm2C9QcAgy5ayOtqk) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:59 | 2022-06-29 | 2022-07-05 |

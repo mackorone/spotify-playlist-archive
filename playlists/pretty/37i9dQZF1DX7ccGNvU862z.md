@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Saran, Z9
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,370 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,372 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 2 | [ONE GIRL](https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ONE GIRL](https://open.spotify.com/album/64UN1Mt9T5qVw21N7JVpEA) | 4:22 |
 | 3 | [คาคอล \(Plz Be Mine\)](https://open.spotify.com/track/1i786ug0BKs9olIjTNtXV4) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [คาคอล \(Plz Be Mine\)](https://open.spotify.com/album/3Edw71jX9Ci5Rd1MDUTkmv) | 3:03 |
 | 4 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 |
-| 5 | [Airplane Mode \(5 นาที\)](https://open.spotify.com/track/4eABL6biW8QZOSvGMaX18M) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Airplane Mode \(5 นาที\)](https://open.spotify.com/album/5Z7qIlzMUkATbDyBERyI23) | 4:02 |
+| 5 | [Airplane Mode \(5 นาที\)](https://open.spotify.com/track/4eABL6biW8QZOSvGMaX18M) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Airplane Mode \(5 นาที\)](https://open.spotify.com/album/5Z7qIlzMUkATbDyBERyI23) | 3:54 |
 | 6 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
 | 7 | [Mr.Nobody](https://open.spotify.com/track/5wJ65RY5tDODQTdNeL74EO) | [FATBOII MQT](https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O) | [Mr.Nobody](https://open.spotify.com/album/7lSr8MP1QKERIN6gcB2fiY) | 2:52 |
 | 8 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 |

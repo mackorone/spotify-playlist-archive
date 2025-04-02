@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 
 > Focus with nature sounds in the background...
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,842 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,930 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 13 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
 | 14 | [Oceans Outside](https://open.spotify.com/track/4ndb9Sv5pTIolY8Lt5jmSn) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 2:02 |
 | 15 | [Exotic Rain](https://open.spotify.com/track/1QqL0tGCIs4ZTfM210rORQ) | [Hawaii Rain](https://open.spotify.com/artist/6nD5OttvcqKRwZCo91p0lR) | [Part 1](https://open.spotify.com/album/61Xw48UHlclilzBtRpzTZK) | 3:21 |
-| 16 | [Bird\-watching](https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 |
-| 17 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
+| 16 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
+| 17 | [Bird\-watching](https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 |
 | 18 | [Oceanic Calmness](https://open.spotify.com/track/15C6LZS1l1ulhDaUe2TbDO) | [Dreams of Dreams](https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:00 |
 | 19 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
 | 20 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 57 | [Dream A Little Ocean](https://open.spotify.com/track/53zuMhOcAgFoyiqWTWbAyu) | [Dreams of Dreams](https://open.spotify.com/artist/3ukM0chAmXUoKjdG4evPMZ) | [Ocean Sound Effects](https://open.spotify.com/album/6mKOEeFkctULRUSSvG9p0H) | 2:52 |
 | 58 | [Shoreline Surf](https://open.spotify.com/track/5DAUIxWI8mbZKoFSX3hLe2) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:52 |
 | 59 | [Soothing Rain Sound](https://open.spotify.com/track/26Wq5dU0knVaquWbUFNPqP) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 2:08 |
-| 60 | [Tranquil Nature](https://open.spotify.com/track/2cP90iPUhpEfyroHaYI5eG) | [Flows of Sleep](https://open.spotify.com/artist/1MAazf048soVcELWMYehho) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:11 |
+| 60 | [Birdsongs](https://open.spotify.com/track/1fAJhJEdYYXDFGqFnZD6cz) | [Tura Cos](https://open.spotify.com/artist/1HH2hoJuJUgwfa5VTMVGsE) | [Birds Chirping](https://open.spotify.com/album/0pR4wlkLjIbvFvEgKRCjmS) | 2:16 |
 
 Snapshot ID: `Z7SlyAAAAACP+xO2SQapkB2B9+Ph9M4D`

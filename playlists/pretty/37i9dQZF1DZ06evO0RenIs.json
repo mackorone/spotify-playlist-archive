@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 95800,
+  "num_followers": 95799,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAD6pWpSkdSYpsy3L5tgG/E0",
+  "snapshot_id": "Z+nbAAAAAABRvv8T2Kzs4FJm8SOt/Y4D",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "One Time Too Many",
-      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 209093,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "One Time Too Many",
+      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
     },
     {
       "added_at": null,
@@ -536,25 +536,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 232680,
-      "name": "Tuttifrutti",
-      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "North",
-      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
+      "duration_ms": 235773,
+      "name": "Goodbye Soleil",
+      "url": "https://open.spotify.com/track/1HENaoJQR9wPP97goBwQsX"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 207106,
       "name": "Holdin' on Together",
       "url": "https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "North",
+      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Goodbye Soleil",
-      "url": "https://open.spotify.com/track/1HENaoJQR9wPP97goBwQsX"
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 259560,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
+      "duration_ms": 264866,
+      "name": "Love for Granted",
+      "url": "https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 264866,
-      "name": "Love for Granted",
-      "url": "https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x"
+      "duration_ms": 259560,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
       "duration_ms": 196813,
       "name": "Rally",
       "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "(You Can't Blame It On) Anybody",
+      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "(You Can't Blame It On) Anybody",
-      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Never Been Like That (Deluxe Version)",
         "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alphabetical",
         "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 245800,
       "name": "Victim of the Crime",
       "url": "https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
     },
     {
       "added_at": null,

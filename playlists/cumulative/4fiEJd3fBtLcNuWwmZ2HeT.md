@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-277 songs - 15 hr 49 min
+279 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Rafflesia \(feat\. Isubokuro\)](https://open.spotify.com/track/1nWBtij4RxBzDUfDIhXl1G) | [Toiki](https://open.spotify.com/artist/0aY8PnGurODkjLN9Zj1AvF), [Isubokuro](https://open.spotify.com/artist/0HQnZbt1PljICvEwcA6d6R) | [Rafflesia \(feat\. Isubokuro\)](https://open.spotify.com/album/4Qz205CzKQp6sSh07rdkgH) | 2:20 | 2024-06-26 |  |
 | [RAISON D'ETRE](https://open.spotify.com/track/3nkNQlnl1hg98AaUQ3HrlC) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 3:41 | 2023-11-08 |  |
 | [RECEPTION](https://open.spotify.com/track/60rHc8aSo4wFQ0X6W4h50Q) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 2:43 | 2024-03-11 |  |
+| [Reflections on Existence](https://open.spotify.com/track/0WxOZ8ArjHaB5unslWtdfN) | [HoshiTakuto](https://open.spotify.com/artist/6ysfmdaAdc2ob5A4o5L2Gh) | [Reflections on Existence](https://open.spotify.com/album/1CQ6V1nHg0JTQv5AwDzIHn) | 3:36 | 2025-04-01 |  |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2023-10-07 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-08-26 |  |
 | [Rose Bud \- I.into the sorrow\-](https://open.spotify.com/track/4QxOlvV3Ruknxk79I7ICWQ) | [Eternal Melody](https://open.spotify.com/artist/5ulQKViMBrchooNvekS86B) | [ALUCARD](https://open.spotify.com/album/6o2LIz8u5xzKTcKbek1NbG) | 5:26 | 2024-06-08 |  |
@@ -239,6 +240,7 @@
 | [壊れた人形のマーチ](https://open.spotify.com/track/6mHdGKGQNLCa4V0Z6W5PUO) | [少女理論観測所](https://open.spotify.com/artist/2nwIeM1Ph9IiHtFuNvhFDu) | [Border on Blossom](https://open.spotify.com/album/53OwVselTqJ9NxGSkBjx2F) | 4:24 | 2024-09-02 |  |
 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:02 | 2024-10-28 | 2024-11-28 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2022-11-25 |  |
+| [失楽園ダイブ](https://open.spotify.com/track/7910oN5hlBbGcphkOvfvvh) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [失楽園ダイブ](https://open.spotify.com/album/6jtMVhjo3bDtacfNHGJrGn) | 3:05 | 2025-04-01 |  |
 | [好きって言って](https://open.spotify.com/track/3vCLTwRBF4kSgmO6T6OS2I) | [ちいたな](https://open.spotify.com/artist/2Ge3g79AyrNekwSaHTu2GF) | [アリアノート](https://open.spotify.com/album/3cRxEHd2WLiBOQqpAR0jlH) | 3:12 | 2022-12-24 |  |
 | [孤独の宗教](https://open.spotify.com/track/1ZIr94qQM1N05mSqrZkz9v) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [必死](https://open.spotify.com/album/4hU4a62lifie6pzLvWjUqO) | 3:10 | 2024-09-09 |  |
 | [宵々古今](https://open.spotify.com/track/3KLHSYHSmny4sJo2finqy9) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Σ](https://open.spotify.com/album/5MruJPW5X4cal6bpN7llrF) | 4:17 | 2023-11-12 |  |

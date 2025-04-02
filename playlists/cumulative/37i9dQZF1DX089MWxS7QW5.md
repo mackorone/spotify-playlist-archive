@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 손예지\(Son Yeji\)\)
 
-496 songs - 1 day 2 hr 57 min
+497 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A) | 3:06 | 2024-08-16 | 2024-10-15 |
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-05-01 |
 | [Back and forth](https://open.spotify.com/track/7s6NmtSMMwoHDYCTgFsqD7) | [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo) | [Back and forth](https://open.spotify.com/album/1asKs3DCbn3dKd7RYcKnIY) | 2:44 | 2025-03-13 |  |
+| [backroom 2025](https://open.spotify.com/track/31rLxCWKdplzfFR2UQq9wn) | [SZN](https://open.spotify.com/artist/0SPzRZVsUUzgOXjibr7PEj) | [FREE MYSELF](https://open.spotify.com/album/3csmdF5kqdquJHIb6yjRkY) | 2:04 | 2025-04-02 |  |
 | [Backstage Singer](https://open.spotify.com/track/2dNYJJalVImtpa07cGKmqv) | [Park Se Jung](https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx) | [Step to Dream](https://open.spotify.com/album/2mUVvRFw9QabFerpyCaKIf) | 2:44 | 2025-01-24 |  |
 | [BAD](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 | 2024-08-09 | 2024-09-28 |
 | [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq) | 2:42 | 2024-05-24 | 2024-08-13 |

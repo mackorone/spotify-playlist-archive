@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,001 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,985 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 17 | [Ole](https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Freestyle](https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:51 |
 | 18 | [E Be Like Say](https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:46 |
 | 19 | [Ihe Ne Me](https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:13 |
-| 20 | [Trouble](https://open.spotify.com/track/716irYdOvfRgpu3HeelScT) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Horoscopes](https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF) | 2:43 |
-| 21 | [See God](https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Realness Over Hype](https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW) | 2:45 |
+| 20 | [See God](https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Realness Over Hype](https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW) | 2:45 |
+| 21 | [Trouble](https://open.spotify.com/track/716irYdOvfRgpu3HeelScT) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Horoscopes](https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF) | 2:43 |
 | 22 | [No Shakin](https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:31 |
 | 23 | [Gaga Shuffle](https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gaga Shuffle](https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO) | 3:41 |
 | 24 | [Higher \(Spiritual Healing\) \[feat\. Huma Lara\]](https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Huma Lara](https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Officially Blind](https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Officially Blind](https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9) | 3:07 |
 | 50 | [Bother You \(feat\. Terry Da Rapman\)](https://open.spotify.com/track/6YI8BQfLb1QdlTjB4lduCK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:16 |
 
-Snapshot ID: `Z+iJgAAAAAANTXVB2kqxql8GjUdP3cJ9`
+Snapshot ID: `Z+nbAAAAAABmkRBzFpiGlvNpVEywVVxE`

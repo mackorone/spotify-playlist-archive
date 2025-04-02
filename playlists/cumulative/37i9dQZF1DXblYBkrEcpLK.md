@@ -2,7 +2,7 @@
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Nana Mizuki 水樹奈々
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: AiScReam
 
 744 songs - 2 day 1 hr 25 min
 
@@ -208,7 +208,7 @@
 | [Lilac Melody](https://open.spotify.com/track/527mtmddRtbAguiGUhOgrh) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Lilac Melody](https://open.spotify.com/album/1q1pLsLvofX0HDjn21HWbm) | 4:23 | 2023-10-17 | 2023-11-02 |
 | [Lonely fate to be destined](https://open.spotify.com/track/2DjM6CRKEhyfGQvedX5OWQ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Lonely fate to be destined](https://open.spotify.com/album/7B9ooveGROUk58lfDBjTkx) | 3:15 | 2023-12-19 | 2024-01-19 |
 | [Longing for!](https://open.spotify.com/track/4xU2SAeIHKtVsx996WnSsy) | [新田恵海](https://open.spotify.com/artist/379SB9OTZ8TnUfCYsTxF9y) | [TVアニメ『アズールレーン びそくぜんしんっ!』主題歌シングル「Longing for! / まひるいろシエスタ」](https://open.spotify.com/album/7baklDpXCciw4nJcejsLhH) | 4:07 | 2022-07-19 | 2022-07-24 |
-| [LOVE 2000](https://open.spotify.com/track/3SgrOFXKKNcffg5jFvU5Cf) | [八奈見杏菜（CV: 遠野ひかる）](https://open.spotify.com/artist/6qWFyHAhTQF0wLIR4f2fcs) | [LOVE 2000](https://open.spotify.com/album/79O4DwN7zgXMwB29Ci3wOI) | 4:23 | 2024-08-22 | 2025-03-11 |
+| [LOVE 2000](https://open.spotify.com/track/3SgrOFXKKNcffg5jFvU5Cf) | [八奈見杏菜（CV: 遠野ひかる）](https://open.spotify.com/artist/6qWFyHAhTQF0wLIR4f2fcs) | [LOVE 2000](https://open.spotify.com/album/79O4DwN7zgXMwB29Ci3wOI) | 4:23 | 2024-08-22 |  |
 | [Love Supreme!](https://open.spotify.com/track/4kUsEPxZeNi59diQNDGroY) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Cipher](https://open.spotify.com/album/6iRdVAMzvCIlTOU3VghPpo) | 4:42 | 2023-12-19 | 2024-01-31 |
 | [Love You Tender!](https://open.spotify.com/track/1EE8P5OZGivcXrP6dqzGDj) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Love You Tender!](https://open.spotify.com/album/0teYYt0UReRcl1Dv1rIBaU) | 3:44 | 2023-10-10 | 2023-11-11 |
 | [Love\-Evidence](https://open.spotify.com/track/4KmhIHRUmZ7ND8RM8Trt2o) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Love\-Evidence](https://open.spotify.com/album/6TDFwzNnos4RFkmDG7lNnG) | 3:25 | 2022-06-21 | 2022-07-22 |
@@ -351,7 +351,7 @@
 | [Tiny Light \- Instrumental](https://open.spotify.com/track/7w9idgpNatXHHSF4roe5aT) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 | 2022-06-09 | 2022-07-04 |
 | [Tokyo Sunny Party](https://open.spotify.com/track/1HBxmRc7PCEw7Vtw3ykr8J) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [服部樹里\(CV:佐倉綾音\)](https://open.spotify.com/artist/01NcNfcHfdCwrHIuALeHJ0), [中村千鶴\(CV:早見沙織\)](https://open.spotify.com/artist/27KTqdwWTPQL5HqhXOnOLf) | [Tokyo Sunny Party](https://open.spotify.com/album/2EfBXXdiFkhQdxthS4RXO0) | 4:02 | 2022-07-07 | 2022-07-19 |
 | [Tomorrow's Diary](https://open.spotify.com/track/0fuUtnCN2n62BfTNSShbG2) | [AiRBLUE](https://open.spotify.com/artist/49nTLE5U2U3eMoEk1cPOLY) | [Tomorrow's Diary/ゆめだより](https://open.spotify.com/album/2ldSZ0ufXJJmch9JKxaPco) | 4:32 | 2022-07-07 | 2022-07-21 |
-| [Tomorrow's Door](https://open.spotify.com/track/71QIULlehYxfPrpeKtU9Ac) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:07 | 2025-03-11 |  |
+| [Tomorrow's Door](https://open.spotify.com/track/71QIULlehYxfPrpeKtU9Ac) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:07 | 2025-03-11 | 2025-04-02 |
 | [Touch of Hope](https://open.spotify.com/track/2JCFV6qfvsOtUdHIuevDSW) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Touch of Hope](https://open.spotify.com/album/5UDEytA8WSVNBJ15tjSkUJ) | 4:29 | 2022-06-12 | 2022-07-23 |
 | [TRIGGER](https://open.spotify.com/track/0zzfORvHh4ak5BscgpdRqF) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [TRIGGER](https://open.spotify.com/album/0FX4ocXqTa8VSq9QSXFA4O) | 4:34 | 2023-02-21 | 2023-04-12 |
 | [Tsuyokute Yowakute Itoshikute](https://open.spotify.com/track/6K3VLQ6FhwGubGX39fBrGC) | [東 日万凛\(CV:宮本侑芽\)](https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX) | [Tsuyokute Yowakute Itoshikute](https://open.spotify.com/album/06jM2JKRUkEZzLD3scqrK4) | 3:13 | 2024-01-25 | 2024-02-14 |

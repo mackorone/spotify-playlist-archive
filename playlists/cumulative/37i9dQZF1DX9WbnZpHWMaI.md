@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring Jackie Hollander.
+> Celebrating women at the center of innovation in electronic music\. Featuring KI/KI.
 
-544 songs - 1 day 10 hr 35 min
+546 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Apollo](https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T) | 7:00 | 2023-03-07 | 2024-03-02 |
 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 | 2023-03-07 | 2023-11-05 |
 | [Are U Down](https://open.spotify.com/track/5UwR04Cke847W9Whoxx57s) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:17 | 2021-03-01 | 2023-03-08 |
-| [Ashes](https://open.spotify.com/track/334GuKwzVHyHHrG2DczgKd) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Ashes](https://open.spotify.com/album/3G60uWVJXhTJ90dCCh2xBB) | 3:06 | 2025-01-10 |  |
+| [Ashes](https://open.spotify.com/track/334GuKwzVHyHHrG2DczgKd) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Ashes](https://open.spotify.com/album/3G60uWVJXhTJ90dCCh2xBB) | 3:06 | 2025-01-10 | 2025-04-02 |
 | [Attack](https://open.spotify.com/track/1Due9XdQ9PAJ4wzBNtWoq2) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Project Ghost](https://open.spotify.com/album/0rJWzZcmEdFrPokYIYPtLm) | 3:40 | 2021-03-01 | 2023-01-07 |
 | [Attack](https://open.spotify.com/track/7wnxYjwm2gl9FjKAJQZEyg) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [PROJECT GHOST](https://open.spotify.com/album/7yxrXJ2KTLEniIiz5bZ4yM) | 3:40 | 2022-03-08 | 2023-03-08 |
 | [Ayana](https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ayana](https://open.spotify.com/album/4DdIBvo6xW2iXFqoNyJx5g) | 3:21 | 2024-05-31 | 2024-09-14 |
@@ -71,7 +71,7 @@
 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 | 2024-07-12 |  |
 | [Bubble Up](https://open.spotify.com/track/4LPHcGr7T3lT2gImcwYWe7) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1H8nHeSZdVakwvkmZNOfkZ) | 6:08 | 2023-03-07 | 2023-05-01 |
 | [Bubble Up](https://open.spotify.com/track/6OfDPAofhAqf4hxLoOGDLM) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1TVK04bZsCf3xZfBhw4CJa) | 6:08 | 2023-03-07 | 2024-03-02 |
-| [BURN IT DOWN](https://open.spotify.com/track/2yikG6FBpLI5FOYKo3r1YB) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [BURN IT DOWN](https://open.spotify.com/album/4SMYoMTin6mYgT7sDnebMt) | 2:47 | 2024-08-16 |  |
+| [BURN IT DOWN](https://open.spotify.com/track/2yikG6FBpLI5FOYKo3r1YB) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [BURN IT DOWN](https://open.spotify.com/album/4SMYoMTin6mYgT7sDnebMt) | 2:47 | 2024-08-16 | 2025-04-02 |
 | [Busy](https://open.spotify.com/track/00dV6gjuXDt6WcSSuC3kmY) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/6l3EtJ9vXokq3dNY7dP3iL) | 2:23 | 2021-03-01 | 2022-07-29 |
 | [Busy](https://open.spotify.com/track/5aT1vzCTNvn9nbo82vMC8P) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/3CGdkbZ0dOfCL06NDv7zGY) | 2:23 | 2022-03-08 | 2024-03-02 |
 | [Call Me Baby](https://open.spotify.com/track/5UVIKStRk79N7xoEZptJra) | [HAI\-LIFE](https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2) | [Call Me Baby](https://open.spotify.com/album/0DbPPf9K0CZd6ajeNMwfVl) | 3:45 | 2024-03-01 | 2024-05-03 |
@@ -198,6 +198,7 @@
 | [Get Busy](https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Get Busy](https://open.spotify.com/album/4SHUE12jvWe2VroUpuhM6o) | 2:48 | 2024-10-04 |  |
 | [Get Down](https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Get Down](https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS) | 4:01 | 2023-03-07 | 2024-03-02 |
 | [Get Up](https://open.spotify.com/track/2M3a7PGk8OTLHdW5NiftJ4) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Get Up](https://open.spotify.com/album/6y9plS2pNJ9OJ1OIduAffr) | 2:59 | 2025-03-14 |  |
+| [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 | 2025-04-01 |  |
 | [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 | 2021-03-01 | 2023-03-08 |
 | [Ghostin'](https://open.spotify.com/track/6GhIDGCeX6GD3aEb7jaj9J) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Coolest In The City](https://open.spotify.com/album/6slqT0LqNWErkUQU22eIY9) | 3:32 | 2024-09-06 | 2025-01-18 |
 | [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-24 |  |
@@ -352,6 +353,7 @@
 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-17 | 2024-07-27 |
 | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/track/0Tv1YRY8Lm8OFcn6dJCF0e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa) | 3:03 | 2024-07-12 | 2025-02-15 |
 | [Night Drift](https://open.spotify.com/track/2LS6hBqhAXda0ckQDHMEBT) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Night Drift](https://open.spotify.com/album/6smxthEq12e5YqZyMSVWHz) | 3:11 | 2023-03-07 | 2024-03-02 |
+| [Night Flow](https://open.spotify.com/track/0eWl2ceaBL0G5xTxU1Qjai) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Night Flow](https://open.spotify.com/album/7LHDihoKUnYjNz2ekeGCNb) | 3:39 | 2025-04-01 |  |
 | [Night Light](https://open.spotify.com/track/1enCBuY9q9TC44NDEjrxiK) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [BABYLON IX](https://open.spotify.com/album/18RD7fs0sVlhy13O8VwN7J) | 3:40 | 2024-03-01 | 2024-06-18 |
 | [Nighthawks 01](https://open.spotify.com/track/2Oz3Tj8RbLBZFW5Adsyzyj) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Musicolours](https://open.spotify.com/album/7soM3OZShMyXvzjncV6ea5) | 6:24 | 2021-03-01 | 2023-03-08 |
 | [NIGHTMARES](https://open.spotify.com/track/6nbDT4jLr90VdiTThxXvUi) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46) | 2:41 | 2024-03-01 | 2024-05-25 |

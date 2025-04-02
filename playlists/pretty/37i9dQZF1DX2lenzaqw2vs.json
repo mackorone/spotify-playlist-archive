@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 136988,
+  "num_followers": 136997,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
+        "name": "KONFESSION",
+        "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
+      },
+      "artists": [
+        {
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "KONFESSION",
+      "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
+    },
+    {
+      "added_at": "2025-01-24 14:41:23",
+      "album": {
         "name": "Querer Querer",
         "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 207572,
       "name": "Querer Querer",
       "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
-    },
-    {
-      "added_at": "2025-01-24 14:41:23",
-      "album": {
-        "name": "KONFESSION",
-        "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
-      },
-      "artists": [
-        {
-          "name": "Matt Louis",
-          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "KONFESSION",
-      "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
+        "name": "Si es contigo si",
+        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 146784,
+      "name": "Si es contigo si",
+      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
+    },
+    {
+      "added_at": "2025-01-24 14:41:23",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2025-01-24 14:41:23",
-      "album": {
-        "name": "Si es contigo si",
-        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 146784,
-      "name": "Si es contigo si",
-      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "He Venido al Mar",
-        "url": "https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 340934,
-      "name": "He Venido al Mar - short mix",
-      "url": "https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8"
-    },
-    {
-      "added_at": "2025-01-24 14:41:23",
-      "album": {
         "name": "OJALA",
         "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "Drama Pop",
-        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
+        "name": "He Venido al Mar",
+        "url": "https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4"
       },
       "artists": [
         {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         }
       ],
-      "duration_ms": 206497,
-      "name": "Sentirme Amante",
-      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
+      "duration_ms": 340934,
+      "name": "He Venido al Mar - short mix",
+      "url": "https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1311,6 +1295,22 @@
       "duration_ms": 244088,
       "name": "Bailemos en la Sala",
       "url": "https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX"
+    },
+    {
+      "added_at": "2025-01-24 14:41:23",
+      "album": {
+        "name": "Drama Pop",
+        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Sentirme Amante",
+      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
     },
     {
       "added_at": "2025-01-24 14:41:23",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-01-24 14:41:23",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
-        }
-      ],
-      "duration_ms": 157909,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
-    },
-    {
-      "added_at": "2025-01-24 14:41:23",
-      "album": {
         "name": "Nobody Got It",
         "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 168071,
       "name": "Nobody Got It",
       "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
+    },
+    {
+      "added_at": "2025-01-24 14:41:23",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
     },
     {
       "added_at": "2025-01-24 14:41:23",

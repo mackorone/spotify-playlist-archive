@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,316 songs - 3 day 7 hr 14 min
+1,318 songs - 3 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU) | 3:54 | 2022-07-05 | 2023-04-29 |
 | [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 | 2023-03-29 | 2024-04-19 |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2022-01-19 |  |
+| [Landmines \- Spotify Singles](https://open.spotify.com/track/4RMPZ1dyIw3852YiaE57ag) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 2:55 | 2025-04-01 |  |
 | [Landslide](https://open.spotify.com/track/0ZxSPvOEDHlwUvjfKxLdZr) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 3:53 | 2022-01-19 |  |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2022-07-05 | 2024-04-19 |
 | [Lass es kreisen \- Spotify Singles](https://open.spotify.com/track/28ldIbz1mhDX0xPsl68HZl) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Spotify Singles](https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3) | 3:40 | 2023-04-28 |  |
@@ -728,7 +729,7 @@
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2025-02-13 |  |
 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 | 2022-01-19 |  |
 | [Love Me Once More](https://open.spotify.com/track/37XUx3fug7C1T1jK2VWX06) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Spotify Singles](https://open.spotify.com/album/0kzBeKrnyzKrDC5JaVCrJW) | 2:49 | 2022-10-26 |  |
-| [Love Raider \- Spotify Singles](https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Love Raider \(Spotify Singles\)](https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK) | 2:58 | 2024-08-29 |  |
+| [Love Raider](https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Love Raider \(Spotify Singles\)](https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK) | 2:58 | 2024-08-29 |  |
 | [Love So Soft \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6rz4aPhhNM6PFh3Ar2n07X) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 2:54 | 2022-01-19 |  |
 | [Love Somebody](https://open.spotify.com/track/2i3o539d37NpxlESnw76CY) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M) | 5:10 | 2022-10-12 | 2023-11-18 |
 | [Love Somebody](https://open.spotify.com/track/6dJVRp70guN5aFRFT0htGT) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/72M2jrnfa3nubQ8W0TYt1v) | 5:10 | 2023-10-02 | 2024-04-19 |
@@ -1020,6 +1021,7 @@
 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 | 2022-03-30 |  |
 | [Sky Walker \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:04 | 2022-01-19 |  |
 | [Skyline \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4HfArox98OAJ9BdSVBjOWq) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 4:16 | 2022-01-19 |  |
+| [Sleep Now In The Fire \- Spotify Singles](https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 3:20 | 2025-04-01 |  |
 | [Slip Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2QX2OeVkckAavMTJtbV7GX) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4vucVTj5GjNV0MllVjsxo5) | 2:48 | 2022-01-19 |  |
 | [Slip Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4LtOPAPRHxFCRqC0gp4i7N) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi) | 2:48 | 2022-07-05 | 2024-04-19 |
 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-05 |  |

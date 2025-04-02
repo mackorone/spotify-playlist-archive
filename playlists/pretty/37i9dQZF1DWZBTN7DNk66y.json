@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Sof\u00eda \u00c1lvez.",
-  "num_followers": 26690,
+  "num_followers": 26696,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
+      },
+      "artists": [
+        {
+          "name": "Virado",
+          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
+        }
+      ],
+      "duration_ms": 244275,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
         "name": "la cueca del canario (V.2)",
         "url": "https://open.spotify.com/album/4wYdWEHOi6bM3bteCU7Bjb"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 121317,
       "name": "la cueca del canario (V.2)",
       "url": "https://open.spotify.com/track/6sag5Wk8UyskYYsqmHKezw"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
-        "name": "Vendaval",
-        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
-      },
-      "artists": [
-        {
-          "name": "Virado",
-          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
-        }
-      ],
-      "duration_ms": 244275,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -359,26 +359,6 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "21 DE ENERo",
-        "url": "https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 174954,
-      "name": "21 DE ENERo",
-      "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
         "name": "Se Vos",
         "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 276252,
       "name": "Se Vos",
       "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "21 DE ENERo",
+        "url": "https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 174954,
+      "name": "21 DE ENERo",
+      "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -459,22 +459,6 @@
       "duration_ms": 209261,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
-        "name": "UNDESASTRE",
-        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 222354,
-      "name": "DESASTRE",
-      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -567,22 +551,6 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "La Certeza del Dolor",
-        "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 212203,
-      "name": "Nadie me lo ense\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
         "name": "LXS INFERNALES (Del Valle Encantado)",
         "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
@@ -595,6 +563,38 @@
       "duration_ms": 182256,
       "name": "TRIGAL",
       "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "UNDESASTRE",
+        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 222354,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "La Certeza del Dolor",
+        "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Nadie me lo ense\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "Vals de la Luna (Vivo en Madrid)",
-        "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Liniers",
-          "url": "https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Vals de la Luna (Vivo en Madrid)",
-      "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
+        "name": "Vals de la Luna (Vivo en Madrid)",
+        "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Liniers",
+          "url": "https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Vals de la Luna (Vivo en Madrid)",
+      "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
         "name": "Alabanza",
         "url": "https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
+        "name": "los ausentes",
+        "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 179635,
+      "name": "los ausentes",
+      "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 140249,
       "name": "El mago y la publicidad",
       "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
-        "name": "los ausentes",
-        "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 179635,
-      "name": "los ausentes",
-      "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "10 minutos",
-        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 202074,
-      "name": "10 minutos",
-      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
         "name": "Vals de la Luna",
         "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
       },
@@ -855,50 +839,18 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "PATA DE PERRA",
-        "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
+        "name": "10 minutos",
+        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
         }
       ],
-      "duration_ms": 195211,
-      "name": "Guitarra D\u00edmelo T\u00fa",
-      "url": "https://open.spotify.com/track/3vaqzU9dZBtwWTKI3MsUJd"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
-        "name": "Vida (Set 1, en vivo)",
-        "url": "https://open.spotify.com/album/3Y6URwZJ3B8wYozOttRk6m"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 191843,
-      "name": "Vida - Set 1, en vivo",
-      "url": "https://open.spotify.com/track/2zIgYoO5tc0ldjwpbZtJLz"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
-        "name": "Nace una Madre",
-        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Nace una Madre",
-      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+      "duration_ms": 202074,
+      "name": "10 minutos",
+      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -923,6 +875,54 @@
       "duration_ms": 151564,
       "name": "Si Me Voy Antes Que Vos",
       "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "Vida (Set 1, en vivo)",
+        "url": "https://open.spotify.com/album/3Y6URwZJ3B8wYozOttRk6m"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 191843,
+      "name": "Vida - Set 1, en vivo",
+      "url": "https://open.spotify.com/track/2zIgYoO5tc0ldjwpbZtJLz"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "PATA DE PERRA",
+        "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 195211,
+      "name": "Guitarra D\u00edmelo T\u00fa",
+      "url": "https://open.spotify.com/track/3vaqzU9dZBtwWTKI3MsUJd"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "Nace una Madre",
+        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Nace una Madre",
+      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -995,6 +995,34 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
+        "name": "Luna Llena de Fuego",
+        "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
+      },
+      "artists": [
+        {
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "Luana Mendez",
+          "url": "https://open.spotify.com/artist/4EsoEMF4MR3LrFzsQFxzGK"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        },
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        }
+      ],
+      "duration_ms": 161875,
+      "name": "Luna Llena de Fuego",
+      "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
         "name": "Comida China",
         "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
       },
@@ -1031,34 +1059,6 @@
       "duration_ms": 238266,
       "name": "LLORAR",
       "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
-        "name": "Luna Llena de Fuego",
-        "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
-      },
-      "artists": [
-        {
-          "name": "Milagros",
-          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
-        },
-        {
-          "name": "Luana Mendez",
-          "url": "https://open.spotify.com/artist/4EsoEMF4MR3LrFzsQFxzGK"
-        },
-        {
-          "name": "YOGAROCK",
-          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
-        },
-        {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
-        }
-      ],
-      "duration_ms": 161875,
-      "name": "Luna Llena de Fuego",
-      "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
-        "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Pinto",
-          "url": "https://open.spotify.com/artist/5RYdKjTrw6Z14Vwtd0f0nR"
-        },
-        {
-          "name": "Dar\u00edo Sztajnszrajber",
-          "url": "https://open.spotify.com/artist/453QsKyL010NjMRXi5hGcI"
-        }
-      ],
-      "duration_ms": 367388,
-      "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
-      "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
         "name": "Arrullito",
         "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
+        "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Pinto",
+          "url": "https://open.spotify.com/artist/5RYdKjTrw6Z14Vwtd0f0nR"
+        },
+        {
+          "name": "Dar\u00edo Sztajnszrajber",
+          "url": "https://open.spotify.com/artist/453QsKyL010NjMRXi5hGcI"
+        }
+      ],
+      "duration_ms": 367388,
+      "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
+      "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "Sampa",
-        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        },
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
-        }
-      ],
-      "duration_ms": 269540,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
         "name": "Canta a V\u00edctor Jara",
         "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "Sampa",
+        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 269540,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 274748,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
         "name": "Llamando",
         "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 343498,
       "name": "Llamando",
       "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "S\u00e1banas Azules",
+        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "S\u00e1banas Azules",
+      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "S\u00e1banas Azules",
-        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
       },
       "artists": [
         {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
         }
       ],
-      "duration_ms": 177000,
-      "name": "S\u00e1banas Azules",
-      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
+      "duration_ms": 274748,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 222006,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
       },
@@ -1719,18 +1735,18 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
       },
       "artists": [
         {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+          "name": "Camila y Silvio",
+          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
         }
       ],
-      "duration_ms": 222006,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
+      "duration_ms": 191339,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -1751,26 +1767,6 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 237078,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
         "name": "Las palabras que no sientes",
         "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
       },
@@ -1783,22 +1779,6 @@
       "duration_ms": 148339,
       "name": "Las palabras que no sientes",
       "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
-    },
-    {
-      "added_at": "2025-03-28 03:00:20",
-      "album": {
-        "name": "Neblina",
-        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
-      },
-      "artists": [
-        {
-          "name": "Camila y Silvio",
-          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
-        }
-      ],
-      "duration_ms": 191339,
-      "name": "Neblina",
-      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -1843,22 +1823,22 @@
     {
       "added_at": "2025-03-28 03:00:20",
       "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
       },
       "artists": [
         {
-          "name": "bambu",
-          "url": "https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
         },
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
         }
       ],
-      "duration_ms": 231127,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
+      "duration_ms": 237078,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
     },
     {
       "added_at": "2025-03-28 03:00:20",
@@ -1879,6 +1859,26 @@
       "duration_ms": 109962,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
+    },
+    {
+      "added_at": "2025-03-28 03:00:20",
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
+      },
+      "artists": [
+        {
+          "name": "bambu",
+          "url": "https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 231127,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
     },
     {
       "added_at": "2025-03-28 03:00:20",

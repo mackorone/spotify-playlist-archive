@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 186012,
+  "num_followers": 186027,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Things We Have In Common",
-        "url": "https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn"
-      },
-      "artists": [
-        {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Balancing Stones",
-      "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Aprender a Ser: Extended",
         "url": "https://open.spotify.com/album/0mYAqeT6oxqrGv1mnt56zN"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 231560,
       "name": "El mar me ve\u00eda",
       "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Things We Have In Common",
+        "url": "https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 216566,
+      "name": "Balancing Stones",
+      "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 208484,
       "name": "Ready to Leave",
       "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 227212,
-      "name": "Mata Hari",
-      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Ancient DNA",
         "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 163097,
       "name": "Ancient DNA",
       "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 227212,
+      "name": "Mata Hari",
+      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "nothing or something to die for",
-        "url": "https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "the mould",
-      "url": "https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "O Bicho Anda Por A\u00ed",
         "url": "https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "Under the Sun",
         "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+        "name": "nothing or something to die for",
+        "url": "https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7"
       },
       "artists": [
         {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
         }
       ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+      "duration_ms": 141960,
+      "name": "the mould",
+      "url": "https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Worm",
-        "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Whispering Ln",
         "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 320044,
       "name": "Moonlit Whispers",
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Worm",
+        "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "lavender's love",
+        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "lavender's love",
+      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "Hailu Remixes",
         "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 334000,
       "name": "Riot on the Hush - K-LONE Remix",
       "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "lavender's love",
-        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "lavender's love",
-      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "forevermore",
-        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "roots",
-      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Parallels II",
         "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 394523,
       "name": "Parallels II",
       "url": "https://open.spotify.com/track/31k85bFbmHYTe2rWGm7K92"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "forevermore",
+        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "roots",
+      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "BORNE WORLD",
-        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/0lJ98gQLU5pxDzDXBAzXLf"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Epic Wonder",
         "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 176170,
       "name": "Me she said",
       "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "BORNE WORLD",
+        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/0lJ98gQLU5pxDzDXBAzXLf"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Unknown City",
-        "url": "https://open.spotify.com/album/5k23jNmflDH7hiCQ3KQco2"
-      },
-      "artists": [
-        {
-          "name": "SabaSaba",
-          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
-        }
-      ],
-      "duration_ms": 194901,
-      "name": "Night Plotters",
-      "url": "https://open.spotify.com/track/6dmczsqgtAQ7O8PXX9vD0l"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "FLOATING / 005 MAGIK",
         "url": "https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 216106,
       "name": "005 MAGIK",
       "url": "https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Unknown City",
+        "url": "https://open.spotify.com/album/5k23jNmflDH7hiCQ3KQco2"
+      },
+      "artists": [
+        {
+          "name": "SabaSaba",
+          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
+        }
+      ],
+      "duration_ms": 194901,
+      "name": "Night Plotters",
+      "url": "https://open.spotify.com/track/6dmczsqgtAQ7O8PXX9vD0l"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "AMB005",
-        "url": "https://open.spotify.com/album/0jKG73qcfRcWA8pHx4ibeT"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 358314,
-      "name": "AMB005",
-      "url": "https://open.spotify.com/track/4ylbp6v81OzyWEcla9nqMM"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Air in the Dark",
         "url": "https://open.spotify.com/album/7mm77HNHmOZ0WGqIfWnctD"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 223500,
       "name": "Air in the Dark",
       "url": "https://open.spotify.com/track/6C2RgC32elJb8ktvWvUEIZ"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "AMB005",
+        "url": "https://open.spotify.com/album/0jKG73qcfRcWA8pHx4ibeT"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 358314,
+      "name": "AMB005",
+      "url": "https://open.spotify.com/track/4ylbp6v81OzyWEcla9nqMM"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "2007",
-        "url": "https://open.spotify.com/album/1XrAK2WxsAlogv7MmVypiY"
-      },
-      "artists": [
-        {
-          "name": "Pelp",
-          "url": "https://open.spotify.com/artist/5O6mSkESMMTM6WmQmtlDcK"
-        }
-      ],
-      "duration_ms": 708927,
-      "name": "2033",
-      "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Campanelli",
         "url": "https://open.spotify.com/album/3RmPqy5455voCtj5rI3UJd"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 424180,
       "name": "I Am Here and Now",
       "url": "https://open.spotify.com/track/7ubSeCP13u6DnlswYIQ6yh"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/1XrAK2WxsAlogv7MmVypiY"
+      },
+      "artists": [
+        {
+          "name": "Pelp",
+          "url": "https://open.spotify.com/artist/5O6mSkESMMTM6WmQmtlDcK"
+        }
+      ],
+      "duration_ms": 708927,
+      "name": "2033",
+      "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
     },
     {
       "added_at": "2025-03-28 08:51:09",

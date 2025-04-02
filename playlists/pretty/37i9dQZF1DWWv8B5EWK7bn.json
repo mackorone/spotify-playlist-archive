@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 199516,
+  "num_followers": 199550,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
     },
     {
+      "added_at": "2024-09-09 14:47:08",
+      "album": {
+        "name": "M\u00fasica do Esquecimento",
+        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
+      },
+      "artists": [
+        {
+          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
+          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
+    },
+    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Mouth Full of Glass",
@@ -487,22 +503,6 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
-      "added_at": "2024-09-09 14:47:08",
-      "album": {
-        "name": "M\u00fasica do Esquecimento",
-        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
-      },
-      "artists": [
-        {
-          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
-          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
     },
     {
       "added_at": "2024-03-21 22:34:34",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
     },
     {
+      "added_at": "2024-07-09 04:26:27",
+      "album": {
+        "name": "Bang (Peanut Butter Wolf Remix)",
+        "url": "https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 248312,
+      "name": "Bang - Peanut Butter Wolf Remix",
+      "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
+    },
+    {
       "added_at": "2024-10-24 01:18:50",
       "album": {
         "name": "Wild Heart",
@@ -875,22 +891,6 @@
       "duration_ms": 217733,
       "name": "Dry",
       "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
-    },
-    {
-      "added_at": "2024-07-09 04:26:27",
-      "album": {
-        "name": "Bang (Peanut Butter Wolf Remix)",
-        "url": "https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 248312,
-      "name": "Bang - Peanut Butter Wolf Remix",
-      "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
     },
     {
       "added_at": "2024-08-29 02:18:16",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1375,6 +1359,22 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2022-08-13 01:40:58",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
-      "added_at": "2024-08-16 20:06:32",
-      "album": {
-        "name": "Sur La Terre",
-        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 196331,
-      "name": "Sur la terre",
-      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
-    },
-    {
       "added_at": "2023-08-24 03:26:17",
       "album": {
         "name": "RPG",
@@ -1591,6 +1575,22 @@
       "duration_ms": 227120,
       "name": "Heat!",
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+    },
+    {
+      "added_at": "2024-08-16 20:06:32",
+      "album": {
+        "name": "Sur La Terre",
+        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 196331,
+      "name": "Sur la terre",
+      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
     },
     {
       "added_at": "2023-03-24 15:38:14",

@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 687289,
+  "num_followers": 689531,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-03-21 00:00:14",
       "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 174524,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
-    },
-    {
-      "added_at": "2025-03-21 00:00:14",
-      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
       },
@@ -843,18 +823,22 @@
     {
       "added_at": "2025-03-21 00:00:14",
       "album": {
-        "name": "Diana (You Don't Even Know)",
-        "url": "https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI"
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 204878,
-      "name": "Diana (You Don't Even Know)",
-      "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
+      "duration_ms": 174524,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
     },
     {
       "added_at": "2025-03-21 00:00:14",
@@ -875,6 +859,22 @@
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
+    },
+    {
+      "added_at": "2025-03-21 00:00:14",
+      "album": {
+        "name": "Diana (You Don't Even Know)",
+        "url": "https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Diana (You Don't Even Know)",
+      "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
     },
     {
       "added_at": "2025-03-21 00:00:14",
@@ -923,6 +923,26 @@
     {
       "added_at": "2025-03-21 00:00:14",
       "album": {
+        "name": "Seasoning",
+        "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        },
+        {
+          "name": "2b.Frank",
+          "url": "https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS"
+        }
+      ],
+      "duration_ms": 203869,
+      "name": "Seasoning (feat. 2b.Frank)",
+      "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
+    },
+    {
+      "added_at": "2025-03-21 00:00:14",
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs"
       },
@@ -935,22 +955,6 @@
       "duration_ms": 180165,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8"
-    },
-    {
-      "added_at": "2025-03-21 00:00:14",
-      "album": {
-        "name": "Have U",
-        "url": "https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 161614,
-      "name": "Have U",
-      "url": "https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B"
     }
   ],
   "unique_name": "Serotonin",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > มาฟังเพลงสำหรับคนคลั่งรักกัน\. ศิลปิน: No One Else
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,481 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,516 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 5 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
 | 6 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 |
 | 7 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
-| 8 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 |
-| 9 | [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 |
+| 8 | [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 |
+| 9 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 |
 | 10 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
 | 11 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |
 | 12 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 49 | [รักนาน ๆ](https://open.spotify.com/track/3DoCl74hQWMxlvBeVj51XC) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [Dome Jaruwat](https://open.spotify.com/artist/0txmzrxdCsJv8qoko7C4CM) | [รักนาน ๆ](https://open.spotify.com/album/27vnza2tIBJ7eOtPXhLmBV) | 3:34 |
 | 50 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 51 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 |
-| 52 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 |
-| 53 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
+| 52 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
+| 53 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 |
 | 54 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
 | 55 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 |
 | 56 | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG) | 2:56 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 80 | [เธอคือคนที่ฟ้าส่งมาเพื่อฉัน \(ilysb\)](https://open.spotify.com/track/1aDDhtSKGhOS3FMx6wMCFa) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เธอคือคนที่ฟ้าส่งมาเพื่อฉัน \(ilysb\)](https://open.spotify.com/album/3DlZnkcwHWq6I3jU1uUtNj) | 2:47 |
 | 81 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
 | 82 | [ยิ้มก็พอ feat\. Wonderframe](https://open.spotify.com/track/089OggImoTkmiPMVtVAs3I) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR), [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [ยิ้มก็พอ](https://open.spotify.com/album/0IsfsMc7MH55yjHssa3Mfd) | 4:05 |
-| 83 | [ภูเขาบังเส้นผม \(Hide you\) feat\. TWOPEE](https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ภูเขาบังเส้นผม \(Hide you\)](https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr) | 3:39 |
-| 84 | [ยิ้มมา](https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ยิ้มมา](https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0) | 2:52 |
+| 83 | [ยิ้มมา](https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ยิ้มมา](https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0) | 2:52 |
+| 84 | [ภูเขาบังเส้นผม \(Hide you\) feat\. TWOPEE](https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ภูเขาบังเส้นผม \(Hide you\)](https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr) | 3:39 |
 | 85 | [FOLLOWERS](https://open.spotify.com/track/5lyB7wS4hQhK0FeFLJWfpQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แพ้ทุกที \(LOOPER\), FOLLOWERS](https://open.spotify.com/album/7igqgnplrOHmu0UoB95pMA) | 3:14 |
 | 86 | [ยิ่งรู้จักยิ่งรักเธอ](https://open.spotify.com/track/5a7QupGpMLTyaq3EvXIOhi) | [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [Thai Music Top Download](https://open.spotify.com/album/2FAAa8DzjRwUhM9hH7pwfQ) | 4:20 |
 | 87 | [ข้างกัน \(City\)](https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:56 |

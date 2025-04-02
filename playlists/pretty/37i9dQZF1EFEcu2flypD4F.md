@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,139 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,140 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 153 | [Free Me](https://open.spotify.com/track/07tsxA3VTCCs35M17sBs88) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Free Me](https://open.spotify.com/album/4FFE30tFDFOFeSCHeR49C0) | 4:46 |
 | 154 | [Light Headed](https://open.spotify.com/track/1od4qobuLFJFBijdUcEsvt) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 2:58 |
 | 155 | [Jesus Wept](https://open.spotify.com/track/5DET60fn3RK36r6qc934tb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 5:29 |
-| 156 | [Living Out Loud](https://open.spotify.com/track/5SfcipP8VRPShcDC56tiYv) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Living Out Loud](https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh) | 3:59 |
-| 157 | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/3SQ4TlJjloLCfiCvVYYN0J) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt) | 2:01 |
+| 156 | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/3SQ4TlJjloLCfiCvVYYN0J) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt) | 2:01 |
+| 157 | [Living Out Loud](https://open.spotify.com/track/5SfcipP8VRPShcDC56tiYv) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Living Out Loud](https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh) | 3:59 |
 | 158 | [Little Man \- Exemen Works](https://open.spotify.com/track/0PxXQz4Im41YdDi0J3kPCv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Exemen](https://open.spotify.com/artist/3pCHYkU91rpHix5L78plcF) | [Healing is Difficult \(10th Anniversary Edition\) \(Deluxe\)](https://open.spotify.com/album/077wcp5NLTdkFGSAttyfmG) | 5:03 |
 | 159 | [Distractions](https://open.spotify.com/track/4DGPON9kch3YXAzVsozF8R) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:16 |
 | 160 | [I Love It Restrung](https://open.spotify.com/track/2OvVZYQ8NqEac8HFHxdDbx) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun, Walking Under Stars Restrung](https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS) | 3:43 |
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 202 | [Playground](https://open.spotify.com/track/3RgMXNXwRoxxdJpRwGNfZE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:28 |
 | 203 | [The Bully](https://open.spotify.com/track/0UUNAZasnJ37nGFZH46AWF) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Ground Trouble Jaw](https://open.spotify.com/album/5Bz9Xq3rMsruOs0WUkhMid) | 2:27 |
 | 204 | [All I Need](https://open.spotify.com/track/2LxEhLrEDpm2lZ5wj8tT48) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:33 |
-| 205 | [Numb](https://open.spotify.com/track/5gvqTX1KXCKJuoqq4Kb6xV) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions VII](https://open.spotify.com/album/0QkbAPs9bqI9xiygRGBSxw) | 3:17 |
-| 206 | [The Final Countdown](https://open.spotify.com/track/6T3FXgh1GwDIxyXrBkrojY) | [School Reunion Band](https://open.spotify.com/artist/6psi5J7f13d8hYDUrhzBL0) | [Old School Family Road Trip Mix](https://open.spotify.com/album/6IxoNDjywEHdjpCc63AhQz) | 5:01 |
+| 205 | [The Final Countdown](https://open.spotify.com/track/6T3FXgh1GwDIxyXrBkrojY) | [School Reunion Band](https://open.spotify.com/artist/6psi5J7f13d8hYDUrhzBL0) | [Old School Family Road Trip Mix](https://open.spotify.com/album/6IxoNDjywEHdjpCc63AhQz) | 5:01 |
+| 206 | [Numb](https://open.spotify.com/track/5gvqTX1KXCKJuoqq4Kb6xV) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions VII](https://open.spotify.com/album/0QkbAPs9bqI9xiygRGBSxw) | 3:17 |
 | 207 | [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 |
 | 208 | [Moon](https://open.spotify.com/track/5Y2VkmfbOJhTKFnUkH8ZuP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:59 |
 | 209 | [Get Me](https://open.spotify.com/track/1L0fGe5sfqUDoacJwTdhlt) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Amplified Heart](https://open.spotify.com/album/6gFFQtaTdZcbu97Xo6wVvH) | 3:34 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AbtjswAAAACrXVV2TS/o1BaY6mvX5WMa`
+Snapshot ID: `AbtpIQAAAABIe6Ddcq3R6Gj+ONZRS8k/`

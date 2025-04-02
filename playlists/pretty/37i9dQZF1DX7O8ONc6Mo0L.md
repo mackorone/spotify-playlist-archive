@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,187 likes - 80 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,309 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 57 | [Esqueço Até o Tempo \(Acústico\)](https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Feliz7Play](https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG), [Benjamim Silva](https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX) | [Esqueço Até o Tempo](https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU) | 2:39 |
 | 58 | [Sala De Estar \- Ao Vivo](https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Késia Soares](https://open.spotify.com/artist/1kFQW1pOLiBkqK9Lu8Wook) | [Sala De Estar \(Ao Vivo\)](https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ) | 4:20 |
 | 59 | [Descansa](https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY), [Jay Santana](https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do) | [Minha Essência](https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG) | 4:29 |
-| 60 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 |
-| 61 | [Formoso És \- Acústico](https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa) | [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Formoso És \(Acústico\)](https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70) | 4:38 |
+| 60 | [Formoso És \- Acústico](https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa) | [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Formoso És \(Acústico\)](https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70) | 4:38 |
+| 61 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 |
 | 62 | [Eu Prefiro Adorar \- Acústico](https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ) | [Voz e Violão \(Acústico\)](https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz) | 4:04 |
 | 63 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |
 | 64 | [Ficarei Aqui \- Acústico](https://open.spotify.com/track/59ipGli2xXjxfvQAS82cyD) | [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Ficarei Aqui \(Acústico\)](https://open.spotify.com/album/1xh3s0d92kE7lKXCNCQ1zL) | 1:49 |

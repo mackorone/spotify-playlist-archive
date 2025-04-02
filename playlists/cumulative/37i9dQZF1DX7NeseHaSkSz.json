@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Buddha's Peace",
+        "url": "https://open.spotify.com/album/1ngMYGtbdupfJRnn94mLZh"
+      },
+      "artists": [
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        },
+        {
+          "name": "Deepesh Sanmal",
+          "url": "https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173923,
+      "name": "Buddha's Peace",
+      "url": "https://open.spotify.com/track/11FGBWOWOixTNjRV59T49f"
+    },
+    {
+      "album": {
         "name": "Calm Garden",
         "url": "https://open.spotify.com/album/4Qyc0q57a7ZzBRHJ4ARzMU"
       },
@@ -1049,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Heart Chakra",
+        "url": "https://open.spotify.com/album/6b1I6NuU7tVPVKXQTRLWdf"
+      },
+      "artists": [
+        {
+          "name": "Kundalini Dreams",
+          "url": "https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128056,
+      "name": "Heart Chakra",
+      "url": "https://open.spotify.com/track/2VxxL0kZY2ZZKghqp0R129"
+    },
+    {
+      "album": {
         "name": "Hidden Paths",
         "url": "https://open.spotify.com/album/3SNa0vQ8EiUjvcAvVBA58s"
       },
@@ -1118,7 +1158,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 200698,
       "name": "In Darkness & Light",
       "url": "https://open.spotify.com/track/0en8E24ctI01YglW8e83Zj"
@@ -1358,6 +1398,24 @@
       "duration_ms": 395800,
       "name": "Krishna's Flute",
       "url": "https://open.spotify.com/track/05HwPjHeYVPpNsVoWKh8iC"
+    },
+    {
+      "album": {
+        "name": "Kundalini",
+        "url": "https://open.spotify.com/album/3IwgUXgEIa96ayUxAREqJH"
+      },
+      "artists": [
+        {
+          "name": "Divine Moments",
+          "url": "https://open.spotify.com/artist/4rK7cbO86S7SvbdVdSNhKf"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156010,
+      "name": "Kundalini",
+      "url": "https://open.spotify.com/track/76B4Y55Vo1XCTqVZBZ7CjR"
     },
     {
       "album": {
@@ -1646,7 +1704,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 167500,
       "name": "Moksha",
       "url": "https://open.spotify.com/track/1L4vmsCWe5whOAmyLqYN0z"
@@ -2096,7 +2154,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 176000,
       "name": "Passionate Aura",
       "url": "https://open.spotify.com/track/63bxtTDtQmWI8hZBadAvTA"
@@ -2114,7 +2172,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 180416,
       "name": "Passionate Aura (Sound Bath)",
       "url": "https://open.spotify.com/track/3hw8KMhzw8MNkkhqDA2CNb"
@@ -2816,7 +2874,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 145503,
       "name": "Sunset Serenade",
       "url": "https://open.spotify.com/track/0wwvMn0YrGweJXky5ZUgLc"

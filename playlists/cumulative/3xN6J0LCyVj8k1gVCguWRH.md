@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,722 songs - 11 day 0 hr 47 min
+4,723 songs - 11 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,6 +730,7 @@
 | [Central Park](https://open.spotify.com/track/4rX700EH3qpPEkQvUgEdkh) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 3:52 | 2023-12-01 | 2024-05-01 |
 | [Cerillo](https://open.spotify.com/track/3a0QjhHJ03nvGP6NevK8So) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [Cerillo](https://open.spotify.com/album/0QCfw8hqrbLuVSebGNzLHh) | 3:16 | 2023-07-08 | 2023-07-29 |
 | [Certain Father](https://open.spotify.com/track/0IQiU1lqQwlCLlb0cnB2WS) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq), [Spencer Krug](https://open.spotify.com/artist/57ebZKL4lpVlngdaBDuQYG) | [Repeat / After This / Certain Father / Hold](https://open.spotify.com/album/4s0wI4QnRMp8L2CV3jfeEW) | 3:10 | 2023-02-03 | 2023-02-25 |
+| [Chain Reaction](https://open.spotify.com/track/0m60PFaHGXFtdrKcWzg3EL) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [I Know So The Album](https://open.spotify.com/album/3qjTz4g5mLN3O9f44te8aG) | 2:10 | 2025-04-01 |  |
 | [Champagne Cry](https://open.spotify.com/track/69DoAXNOhV2QyiTN88aSEV) | [TMG FRE$H](https://open.spotify.com/artist/5fzIcsEcoQWuHF1Sg5NCaP), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Champagne Cry](https://open.spotify.com/album/2vd7JfS5DJqF5wDd7paRRA) | 2:43 | 2020-07-18 | 2020-08-02 |
 | [Champagne Pink Convertible](https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi) | [The Alex Opal Outfit](https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq) | [Champagne Pink Convertible](https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52) | 3:32 | 2024-11-27 | 2024-12-09 |
 | [Champagne!](https://open.spotify.com/track/3S6RHHGyuD5WyusvFu6GGZ) | [Cillë](https://open.spotify.com/artist/2JvvTHZGW7UtOjyeu7cn6t) | [Champagne!](https://open.spotify.com/album/50txUGfs3mSajBQPn7ksX4) | 2:38 | 2023-06-30 | 2023-07-22 |

@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-164 songs - 7 hr 42 min
+165 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2023-01-26 |  |
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2023-01-26 |  |
 | [Sintra](https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2023-03-12 | 2025-02-24 |
+| [Six Etudes for Piano \- q = 96](https://open.spotify.com/track/7bYwm4LQaOsardfDdbVZg6) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Time Curve: Music for Piano by Philip Glass and William Duckworth](https://open.spotify.com/album/1kGhTPdqFxysr6qHRv32MR) | 4:48 | 2023-03-12 |  |
 | [Slowdance](https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77) | [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm), [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Slowdance](https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8) | 2:02 | 2023-01-26 |  |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2023-01-26 | 2024-04-19 |
 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 | 2023-01-26 | 2023-05-23 |
@@ -164,7 +165,7 @@
 | [Unyielding Faith](https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Unyielding Faith](https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp) | 2:38 | 2023-01-26 |  |
 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 | 2023-01-26 | 2024-09-08 |
 | [Valse pour Johann](https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC) | [Fjellson Weber](https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2) | [Valse pour Johann](https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd) | 2:25 | 2023-01-26 |  |
-| [Variations on a Polish Theme, Op\. 10: No\. 5 Andantino](https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Martin Roscoe](https://open.spotify.com/artist/1OBvHJmcD6MzAWSIIErwPM) | [Szymanowski: Piano Works, Vol\. 2](https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO) | 1:16 | 2023-01-26 |  |
+| [Variations on a Polish Theme, Op\. 10: No\. 5 Andantino](https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Martin Roscoe](https://open.spotify.com/artist/1OBvHJmcD6MzAWSIIErwPM) | [Szymanowski: Piano Works, Vol\. 2](https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO) | 1:16 | 2023-01-26 | 2025-04-02 |
 | [Visionaire](https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [Visionaire](https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa) | 1:43 | 2023-01-26 | 2023-09-03 |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2023-01-26 |  |
 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-01-26 |  |

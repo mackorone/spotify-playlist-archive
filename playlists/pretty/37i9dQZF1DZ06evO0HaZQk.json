@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 512756,
+  "num_followers": 512872,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAACocFVpO7SAzqT8f5m2/WlQ",
+  "snapshot_id": "Z+nbAAAAAABuTWw9BZ6NlOiNbGZZOZfi",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave Especial",
-        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 136341,
-      "name": "Mudanza",
-      "url": "https://open.spotify.com/track/2DTFJilnKTmpWPR17Zn4Sm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -699,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Nave Especial",
+        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
       },
       "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 233800,
-      "name": "Mi manera de querer",
-      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
+      "duration_ms": 136341,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/2DTFJilnKTmpWPR17Zn4Sm"
     },
     {
       "added_at": null,
@@ -731,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 208289,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
+      "duration_ms": 233800,
+      "name": "Mi manera de querer",
+      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
       "duration_ms": 278693,
       "name": "Burbujas De Amor",
       "url": "https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 208289,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
     },
     {
       "added_at": null,

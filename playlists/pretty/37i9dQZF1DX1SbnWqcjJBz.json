@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 124275,
+  "num_followers": 124319,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "A Joyful Noise",
+        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Move in the Right Direction",
+      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "It\u2019s About Time",
         "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 296240,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "A Joyful Noise",
-        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Move in the Right Direction",
-      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
     },
     {
       "added_at": "2024-06-02 21:23:10",

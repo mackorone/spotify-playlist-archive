@@ -4,7 +4,7 @@
 
 > 
 
-389 songs - 1 day 1 hr 58 min
+390 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [DJ Friendly \- Chloé Robinson + DJ ADHD Remix](https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [DJ Friendly \(Chloé Robinson + DJ ADHD Remix\)](https://open.spotify.com/album/0iZ89vX6yYOPizSvZ6frTW) | 5:11 | 2023-12-19 | 2024-05-11 |
 | [Do It Like Me](https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 3:15 | 2025-03-24 |  |
 | [Don’t Lose Time](https://open.spotify.com/track/3I1CfmUZZrLAyYY4zm409Y) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Don’t Lose Time](https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq) | 6:13 | 2023-01-20 | 2023-02-15 |
+| [Dopamine](https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Dopamine](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 2:51 | 2025-04-01 |  |
 | [Doubletap](https://open.spotify.com/track/7jGCiFHR79XMX4itdaHiFv) | [Jordan Gardner](https://open.spotify.com/artist/5OeFlYDG6tiOT810MprDQv), [Martyn Bootyspoon](https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC) | [Doubletap](https://open.spotify.com/album/2uSidtx5ambTWR3lQW9FJ4) | 4:48 | 2024-06-19 | 2024-09-11 |
 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 | 2022-10-12 | 2023-04-27 |
 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 | 2023-04-13 | 2024-03-15 |

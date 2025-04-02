@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 46708,
+  "num_followers": 46714,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
     },
     {
+      "added_at": "2024-08-23 00:44:14",
+      "album": {
+        "name": "Pa\u00f1uelo De Seda",
+        "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Pa\u00f1uelo De Seda",
+      "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
+    },
+    {
       "added_at": "2023-12-12 18:56:56",
       "album": {
         "name": "Yellow Laces - Another Life",
@@ -637,22 +653,6 @@
       "url": "https://open.spotify.com/track/32hPiZQofmzTo66j7u3I2E"
     },
     {
-      "added_at": "2024-08-23 00:44:14",
-      "album": {
-        "name": "Pa\u00f1uelo De Seda",
-        "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Pa\u00f1uelo De Seda",
-      "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Guadalupe",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
+      "added_at": "2022-11-18 17:45:57",
+      "album": {
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+    },
+    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Echo en Mexico",
@@ -715,22 +731,6 @@
       "duration_ms": 169746,
       "name": "El Bicho",
       "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
-    },
-    {
-      "added_at": "2022-11-18 17:45:57",
-      "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Echo en Mexico",
-        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
-      },
-      "artists": [
-        {
-          "name": "Money Chicha",
-          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
-        }
-      ],
-      "duration_ms": 302602,
-      "name": "Lamento en la Selva",
-      "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Corriente EP",
         "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 231875,
       "name": "Tambor Del Monte",
       "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Echo en Mexico",
+        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
+      },
+      "artists": [
+        {
+          "name": "Money Chicha",
+          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
+        }
+      ],
+      "duration_ms": 302602,
+      "name": "Lamento en la Selva",
+      "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1237,26 +1237,6 @@
       "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
     },
     {
-      "added_at": "2022-01-11 02:45:58",
-      "album": {
-        "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
-        "url": "https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        },
-        {
-          "name": "Los Kings",
-          "url": "https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw"
-        }
-      ],
-      "duration_ms": 178887,
-      "name": "Empecemos (Let's Start)",
-      "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Invasi\u00f3n",
@@ -1283,6 +1263,26 @@
       "duration_ms": 248610,
       "name": "Invasi\u00f3n",
       "url": "https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW"
+    },
+    {
+      "added_at": "2022-01-11 02:45:58",
+      "album": {
+        "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
+        "url": "https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        },
+        {
+          "name": "Los Kings",
+          "url": "https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw"
+        }
+      ],
+      "duration_ms": 178887,
+      "name": "Empecemos (Let's Start)",
+      "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Mientras Unos Mueren",
-        "url": "https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 224559,
-      "name": "Mientras Unos Mueren",
-      "url": "https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Lalango",
         "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 209371,
       "name": "Republica Federal de Malphino",
       "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Mientras Unos Mueren",
+        "url": "https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 224559,
+      "name": "Mientras Unos Mueren",
+      "url": "https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET"
     },
     {
       "added_at": "2023-03-16 23:13:46",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
     },
     {
-      "added_at": "2025-01-16 17:40:08",
-      "album": {
-        "name": "Capricornio: Ven a mi amor",
-        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
-      },
-      "artists": [
-        {
-          "name": "Sonido Desconocido 2",
-          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Capricornio: Ven a mi amor",
-      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
@@ -1635,6 +1619,22 @@
       "duration_ms": 234231,
       "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
       "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
+    },
+    {
+      "added_at": "2025-01-16 17:40:08",
+      "album": {
+        "name": "Capricornio: Ven a mi amor",
+        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+      },
+      "artists": [
+        {
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Capricornio: Ven a mi amor",
+      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
     },
     {
       "added_at": "2021-10-20 15:37:42",

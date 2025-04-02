@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 274 songs - 15 hr 35 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 276 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -282,5 +282,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 272 | [独全絵図](https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:07 |
 | 273 | [completion](https://open.spotify.com/track/4cMiyKkRtjzglIfBQtWEzH) | [Megurimeguru](https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk) | [completion](https://open.spotify.com/album/6el6qm4djpKHsw5hoAwDZo) | 2:09 |
 | 274 | [ヘイヴン](https://open.spotify.com/track/6aTSQHD767wxox2zqpUWj1) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ヘイヴン](https://open.spotify.com/album/7tnjWKvtu1FFvWxjgXDYTW) | 3:23 |
+| 275 | [Reflections on Existence](https://open.spotify.com/track/0WxOZ8ArjHaB5unslWtdfN) | [HoshiTakuto](https://open.spotify.com/artist/6ysfmdaAdc2ob5A4o5L2Gh) | [Reflections on Existence](https://open.spotify.com/album/1CQ6V1nHg0JTQv5AwDzIHn) | 3:36 |
+| 276 | [失楽園ダイブ](https://open.spotify.com/track/7910oN5hlBbGcphkOvfvvh) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [失楽園ダイブ](https://open.spotify.com/album/6jtMVhjo3bDtacfNHGJrGn) | 3:05 |
 
-Snapshot ID: `AAAI8a24de67kLwUHEGsnVlTfdVE/Njw`
+Snapshot ID: `AAAI8xVRo7Hw684uzZy9z52oyHqEXcPC`

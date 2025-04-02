@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=7X1\_tHmfSle3dzFG6qztgg">Francois van Coke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,738 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,752 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 17 | [Kompas](https://open.spotify.com/track/1kK6WsLnVHTkiEF2zOrsvQ) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Kompas](https://open.spotify.com/album/4jkE4uUmO0wSufzCoHcYwx) | 5:07 |
 | 18 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 19 | [Jonk](https://open.spotify.com/track/6mvqpG4fn6WNSdxsRnNoen) | [Tuimeltrein](https://open.spotify.com/artist/5FZPyeJJIsm4Js3HqzXNJR) | [Jonk](https://open.spotify.com/album/5RgkJKG63Na296u6IVvVjP) | 3:20 |
-| 20 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
-| 21 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 20 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 21 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
 | 22 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
 | 23 | [Honey](https://open.spotify.com/track/3YxaZkRXWlYmZzyZY5KjiP) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Honey](https://open.spotify.com/album/6xTgHiq1vAYl2jdQVylpLB) | 5:25 |
 | 24 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 27 | [Conservative](https://open.spotify.com/track/2BPQUoW5auDctU1jftm7qL) | [Nastiriff](https://open.spotify.com/artist/0ddLqV0wEWb5DKqDSfLERu) | [Malus](https://open.spotify.com/album/2dh2VkQLZtaHO95jYLxa2j) | 3:39 |
 | 28 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
 | 29 | [Verf My Rooi](https://open.spotify.com/track/5Pk46zq6cbJ4w2fJfgDDqV) | [HERLEEF.](https://open.spotify.com/artist/77sMW0E3pXDL81YZm4TeGQ), [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW) | [Verf My Rooi](https://open.spotify.com/album/2el8qiBx6K7GZob2AweFG2) | 3:31 |
-| 30 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
-| 31 | [Ware Noord](https://open.spotify.com/track/0Q5EE4R2qjXN0DBARGGxUk) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Ware Noord](https://open.spotify.com/album/1BGCuXGsGwL6f2QjhpwnO2) | 3:36 |
+| 30 | [Ware Noord](https://open.spotify.com/track/0Q5EE4R2qjXN0DBARGGxUk) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Ware Noord](https://open.spotify.com/album/1BGCuXGsGwL6f2QjhpwnO2) | 3:36 |
+| 31 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
 | 32 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 33 | [Stacey](https://open.spotify.com/track/12WLo0U3jZ4jSjy3HShTNg) | [FREDDY L](https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm) | [Stacey](https://open.spotify.com/album/4JHkCNkUDD6YYG6VQAgtAV) | 3:08 |
 | 34 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |

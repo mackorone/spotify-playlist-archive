@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 792482,
+  "num_followers": 792526,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
         "name": "Beat the Devil's Tattoo",
         "url": "https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 258373,
       "name": "The Devil & The Huntsman",
       "url": "https://open.spotify.com/track/798DGIdVPsLFXvDblTeM7d"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Shaken by a Low Sound",
-        "url": "https://open.spotify.com/album/6uFn0hAG96lR9aINZ1N8y8"
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/4PWmQ9k3FPJKHuOQB2PJ6A"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 201535,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/33gHvO5eLnhxKHgGDu6xu9"
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/5bR0R96OeLHG8mVS1SRh6I"
     }
   ],
   "unique_name": "Southern Gothic",

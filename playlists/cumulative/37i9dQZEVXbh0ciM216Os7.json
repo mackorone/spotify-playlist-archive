@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 363619,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 190053,
       "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
@@ -5620,7 +5620,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 134814,
       "name": "Blur",
       "url": "https://open.spotify.com/track/0DHRn7rRoaqH2pA2CopoCN"
@@ -7724,10 +7724,40 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 800506,
       "name": "Cello Concerto No. 2 in G Major, Op. 126: I. Largo",
       "url": "https://open.spotify.com/track/3nMrQcx64lzE92X6B1d0dh"
+    },
+    {
+      "album": {
+        "name": "Shostakovich: Symphonies; Concertos; Lady Macbeth of Mtsensk District",
+        "url": "https://open.spotify.com/album/7CREZmKkA28IN0Ql6MSAtL"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283786,
+      "name": "Cello Concerto No. 2 in G Major, Op. 126: II. Scherzo. Allegretto \u2013",
+      "url": "https://open.spotify.com/track/1WLb2W7jI0GWktvgGAVH1i"
     },
     {
       "album": {
@@ -17790,10 +17820,32 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 223908,
       "name": "Glib Tongued",
       "url": "https://open.spotify.com/track/1PPbLuCWH1ji5iomP73VmT"
+    },
+    {
+      "album": {
+        "name": "Glib Tongued",
+        "url": "https://open.spotify.com/album/1B23ckEpfx5i1Yjvnbrx8y"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223908,
+      "name": "Glib Tongued",
+      "url": "https://open.spotify.com/track/4rSyP1AMJsQAmdZZqTDuj3"
     },
     {
       "album": {
@@ -18216,7 +18268,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 190373,
       "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
@@ -33704,7 +33756,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 139995,
       "name": "Part of the Dream",
       "url": "https://open.spotify.com/track/1kTCuSzhaYdMY4hj8l2pWn"
@@ -33884,7 +33936,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 128511,
       "name": "Patriots",
       "url": "https://open.spotify.com/track/0Lxh4vtrzKzivbkgYzgqBa"
@@ -41711,6 +41763,32 @@
     },
     {
       "album": {
+        "name": "Superior",
+        "url": "https://open.spotify.com/album/3qX7sLmXiqtFiwW3SoyMBq"
+      },
+      "artists": [
+        {
+          "name": "Zyph3r",
+          "url": "https://open.spotify.com/artist/4fUqTKEepifEUaCLecwxvs"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "^^OON",
+          "url": "https://open.spotify.com/artist/6Bnn1jWCQ7tSaoB1GxevXo"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191375,
+      "name": "Superior",
+      "url": "https://open.spotify.com/track/3gZ9r72Cbi3fTuuu6Iv8vS"
+    },
+    {
+      "album": {
         "name": "eternal sunshine (slightly deluxe and also live)",
         "url": "https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp"
       },
@@ -43454,7 +43532,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 177586,
       "name": "The Big One",
       "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
@@ -47496,7 +47574,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 183223,
       "name": "Up From the Bottom",
       "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"

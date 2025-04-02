@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 574136,
+  "num_followers": 574144,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAA8u9XJPgtTwzjaIuZ1HV6S",
+  "snapshot_id": "Z+nbAAAAAAC78mHipPH6DGLYRYDqfIAf",
   "tracks": [
     {
       "added_at": null,
@@ -214,11 +214,15 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "Afro-X",
+          "url": "https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z"
         }
       ],
-      "duration_ms": 471253,
-      "name": "Jesus Chorou",
-      "url": "https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM"
+      "duration_ms": 433200,
+      "name": "A Vida \u00c9 Desafio",
+      "url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT"
     },
     {
       "added_at": null,
@@ -294,15 +298,11 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "Afro-X",
-          "url": "https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z"
         }
       ],
-      "duration_ms": 433200,
-      "name": "A Vida \u00c9 Desafio",
-      "url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT"
+      "duration_ms": 471253,
+      "name": "Jesus Chorou",
+      "url": "https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 18051,
+  "num_followers": 18056,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4"
+      },
+      "artists": [
+        {
+          "name": "Pentagono",
+          "url": "https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB"
+        },
+        {
+          "name": "Uter\u00e7o",
+          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "\u00c9 o Moio",
+      "url": "https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 186666,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4"
-      },
-      "artists": [
-        {
-          "name": "Pentagono",
-          "url": "https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB"
-        },
-        {
-          "name": "Uter\u00e7o",
-          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "\u00c9 o Moio",
-      "url": "https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW"
     },
     {
       "added_at": "2024-08-16 20:28:24",

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 104651,
       "name": "butterfly in paradise !!",
       "url": "https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 117449,
       "name": "it's all love",
       "url": "https://open.spotify.com/track/6dXOhwojU2t3lLooHqt4Td"
@@ -1290,6 +1290,24 @@
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
+    },
+    {
+      "album": {
+        "name": "see into forever",
+        "url": "https://open.spotify.com/album/0r2ggV3LC7MVjH4a4fHFgP"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114661,
+      "name": "see into forever",
+      "url": "https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d"
     },
     {
       "album": {

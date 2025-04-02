@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Amber Horizon",
+        "url": "https://open.spotify.com/album/0nWoNU2vfeEvZH6tvg9HfR"
+      },
+      "artists": [
+        {
+          "name": "Elysar",
+          "url": "https://open.spotify.com/artist/0DbIdCkQlSF99HXAv8bckc"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "Amber Horizon",
+      "url": "https://open.spotify.com/track/2Z9wxFDiFNK9zQoRkx95h2"
+    },
+    {
+      "album": {
         "name": "Ancient Prayer",
         "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 262347,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/2wIBOetdiYn4ULg7j4jMg6"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 150000,
       "name": "blue hour",
       "url": "https://open.spotify.com/track/4B8vRL0mLgHDVkZeaBgQTS"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 190382,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ"
@@ -934,7 +952,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 195666,
       "name": "Como antes",
       "url": "https://open.spotify.com/track/4qzw27x0zpsqtDNL5pfCc0"
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 146308,
       "name": "Crystal Mind",
       "url": "https://open.spotify.com/track/3Dej28jw6dF2X0zLXgEfGr"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 186258,
       "name": "Days To Come (with Piano)",
       "url": "https://open.spotify.com/track/1BQ1VstLALlEyTTvwkRWNS"
@@ -1082,6 +1100,24 @@
       "duration_ms": 168050,
       "name": "Deep Rest",
       "url": "https://open.spotify.com/track/0SOQcyGJpYPtzY89w6Xljm"
+    },
+    {
+      "album": {
+        "name": "Deep Within",
+        "url": "https://open.spotify.com/album/4SQ5pHgDL1SGOT4DZB4HrZ"
+      },
+      "artists": [
+        {
+          "name": "Stellar Luminous",
+          "url": "https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/2F4YaCepmEZaCi6Ogh06yH"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 187152,
       "name": "Dhyana",
       "url": "https://open.spotify.com/track/4giruyzXVMBmcERashYyj9"
@@ -1240,7 +1276,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 191750,
       "name": "Dreams Heal",
       "url": "https://open.spotify.com/track/61Sd5YUadsBv0q1QwZ0DYq"
@@ -1312,7 +1348,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 168005,
       "name": "Emersion",
       "url": "https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK"
@@ -2284,10 +2320,28 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 168000,
       "name": "Ledande Ljus",
       "url": "https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn"
+    },
+    {
+      "album": {
+        "name": "Let Go for A While",
+        "url": "https://open.spotify.com/album/4ggoAsnXjpZaxxUaig9wg3"
+      },
+      "artists": [
+        {
+          "name": "Distant Waves",
+          "url": "https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Let Go for A While",
+      "url": "https://open.spotify.com/track/3ZnA1wMrhJFfI9gnKSRCcn"
     },
     {
       "album": {
@@ -2446,7 +2500,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 211200,
       "name": "Lotus Garden",
       "url": "https://open.spotify.com/track/4iDlSNw5sqmHobQFFgoNZU"
@@ -2554,7 +2608,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 144782,
       "name": "Metric",
       "url": "https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta"
@@ -2644,7 +2698,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 244025,
       "name": "Namaste Divine",
       "url": "https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F"
@@ -2680,7 +2734,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 158000,
       "name": "Nattlys",
       "url": "https://open.spotify.com/track/1XZQSmBEoJ01g6llQGrz40"
@@ -2842,7 +2896,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 155142,
       "name": "North Of Ishigaki",
       "url": "https://open.spotify.com/track/7KFPyAfvpOXtzdaVi6ugcc"
@@ -3184,7 +3238,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 179189,
       "name": "Progress",
       "url": "https://open.spotify.com/track/0fE0HXttbKltOWWSyffU7h"
@@ -3371,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Restful Skies",
+        "url": "https://open.spotify.com/album/5eotwrzM6ZXL8pUo3la5XW"
+      },
+      "artists": [
+        {
+          "name": "Vayda Sun",
+          "url": "https://open.spotify.com/artist/2DDcsNRmquB7eoFY1S0oxX"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192191,
+      "name": "Restful Skies",
+      "url": "https://open.spotify.com/track/4a0d5NI8Zu7YgZ6L7RXzxm"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x"
       },
@@ -3454,7 +3526,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 203310,
       "name": "Rishis",
       "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
@@ -3814,7 +3886,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 205435,
       "name": "Shaasvat",
       "url": "https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J"
@@ -3965,6 +4037,24 @@
     },
     {
       "album": {
+        "name": "Soft Lake",
+        "url": "https://open.spotify.com/album/65Fx5xgcR32MHyHrfyg9bb"
+      },
+      "artists": [
+        {
+          "name": "Increased Wither",
+          "url": "https://open.spotify.com/artist/5kYX5ISMm4MkbVhNEL99DH"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Soft Lake",
+      "url": "https://open.spotify.com/track/7gI6G65CVImbPX62c4H9s5"
+    },
+    {
+      "album": {
         "name": "Sojourn",
         "url": "https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0"
       },
@@ -4084,7 +4174,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 184251,
       "name": "Soulful Serenity",
       "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
@@ -4253,6 +4343,24 @@
     },
     {
       "album": {
+        "name": "Still Flow",
+        "url": "https://open.spotify.com/album/1EIN9dXe8iBGXeMx0h8szX"
+      },
+      "artists": [
+        {
+          "name": "Kiran Skaar",
+          "url": "https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Still Flow",
+      "url": "https://open.spotify.com/track/44GOMoBmZhB8sT6mviGHZj"
+    },
+    {
+      "album": {
         "name": "Blue Landscapes IV: Meditations",
         "url": "https://open.spotify.com/album/6BT59kuBf1A009gWCKOeE0"
       },
@@ -4322,7 +4430,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 146250,
       "name": "Sublime Worlds",
       "url": "https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA"
@@ -4542,7 +4650,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 179506,
       "name": "Thoughtful",
       "url": "https://open.spotify.com/track/2auA2QuWzZ5vR73aix3V1v"
@@ -4578,7 +4686,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 199663,
       "name": "Through The Self",
       "url": "https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl"
@@ -4596,7 +4704,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 159999,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/21DnS7yrrRpyls44ZIz0is"
@@ -4668,7 +4776,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 153857,
       "name": "Transparent",
       "url": "https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK"
@@ -4740,7 +4848,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 166528,
       "name": "Unending Love",
       "url": "https://open.spotify.com/track/5DbkYCqQFm8HFp6DO8VJMM"
@@ -4992,7 +5100,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 161250,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/57bvTWSTYC2HLS3EjmmTgD"
@@ -5064,7 +5172,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 173918,
       "name": "Winds Of Hope",
       "url": "https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs"

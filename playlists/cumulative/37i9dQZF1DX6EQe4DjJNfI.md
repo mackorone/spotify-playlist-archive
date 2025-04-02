@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Rael
 
-274 songs - 14 hr 4 min
+275 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Nessa Vida](https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE) | 3:09 | 2022-11-18 | 2024-11-23 |
 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 | 2022-11-18 | 2023-04-01 |
 | [Nos Meus Sonhos](https://open.spotify.com/track/71OYvWfgOrjZ24aZO37fof) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Nos Meus Sonhos](https://open.spotify.com/album/3IqsAzB9DiO2SaB93295lj) | 3:33 | 2023-06-02 | 2023-08-12 |
+| [Nossa Música](https://open.spotify.com/track/4vJJqJ9psCW7CKCJSEqrtL) | [Rê Barbosa](https://open.spotify.com/artist/2LdRIx27LRtTjL2PASuduX), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Nossa Música](https://open.spotify.com/album/1PvKNzwf78tHq50nNFEsmM) | 2:27 | 2025-04-01 |  |
 | [Nosso Futuro](https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6) | [Isis Orbelli](https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY) | [Nosso Futuro](https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF) | 2:03 | 2022-12-16 | 2023-04-24 |
 | [Notificação](https://open.spotify.com/track/3ot87RehrieMlYEzKMDFPb) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Notificação](https://open.spotify.com/album/7I2tjoEMssBPwcmcQFDuJX) | 2:57 | 2024-11-04 |  |
 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 | 2023-07-21 |  |
@@ -186,7 +187,7 @@
 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 | 2022-11-18 | 2023-04-09 |
 | [Pontas Soltas](https://open.spotify.com/track/7ESVKGM7Vql3SGqejbJ3DQ) | [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Pontas Soltas](https://open.spotify.com/album/1WQgU6bnnSvV0KtkxHu2bQ) | 3:12 | 2022-11-18 | 2023-03-11 |
 | [Ponto de Equilíbrio](https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV) | [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Ponto de Equilíbrio](https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH) | 3:13 | 2023-04-07 | 2023-10-14 |
-| [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 | 2022-11-18 |  |
+| [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 | 2022-11-18 | 2025-04-02 |
 | [Por Mim Já Deu](https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz) | [Duda Kropf](https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ) | [Por Mim Já Deu](https://open.spotify.com/album/3EBP1z3dhTcCpC5zFTGZjy) | 2:30 | 2023-07-14 | 2023-08-12 |
 | [Porque Me Responde Ainda](https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Porque Me Responde Ainda](https://open.spotify.com/album/27JH4nsKkUIEbu3ri1EXph) | 3:45 | 2024-06-14 |  |
 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 | 2024-03-01 | 2025-02-01 |

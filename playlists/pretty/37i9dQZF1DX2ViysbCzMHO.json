@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 168259,
+  "num_followers": 168296,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-03-21 04:01:00",
       "album": {
-        "name": "Heartbreaker (Acoustic)",
-        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Acoustic",
-      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
-    },
-    {
-      "added_at": "2025-03-21 04:01:00",
-      "album": {
         "name": "5 Foot 9 (Acoustic)",
         "url": "https://open.spotify.com/album/5gJ69NdMNUqbxOBruy5IGy"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 194285,
       "name": "5 Foot 9 - Acoustic",
       "url": "https://open.spotify.com/track/4tObgOBsBUpICU6mT4F3Uk"
+    },
+    {
+      "added_at": "2025-03-21 04:01:00",
+      "album": {
+        "name": "Heartbreaker (Acoustic)",
+        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Acoustic",
+      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-03-21 04:01:00",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
       "artists": [
         {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
         }
       ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-03-21 04:01:00",
       "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
       "artists": [
         {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
         }
       ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-03-21 04:01:00",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
       },
       "artists": [
         {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
         }
       ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-03-21 04:01:00",
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2025-03-21 04:01:00",
+      "album": {
         "name": "Heartbreaker (Piano Version)",
         "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 185815,
       "name": "Coulda Loved You Longer - Acoustic",
       "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
-    },
-    {
-      "added_at": "2025-03-21 04:01:00",
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
     },
     {
       "added_at": "2025-03-21 04:01:00",

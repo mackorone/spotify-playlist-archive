@@ -4541,6 +4541,28 @@
     },
     {
       "album": {
+        "name": "Love is in the Air",
+        "url": "https://open.spotify.com/album/1MzLOn8o3xNWqe8TdIjtT6"
+      },
+      "artists": [
+        {
+          "name": "Thajmola",
+          "url": "https://open.spotify.com/artist/361xEllKxAW0hPs2wEtGzV"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Love is in the Air",
+      "url": "https://open.spotify.com/track/5D9EkbGjkhJ6lDmwputr7Q"
+    },
+    {
+      "album": {
         "name": "Love Meter",
         "url": "https://open.spotify.com/album/2Wkg54aEEoT0aYJqzYXc4X"
       },
@@ -7684,7 +7706,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 228006,
       "name": "Roseuhh",
       "url": "https://open.spotify.com/track/5vAzNd2oiafo5yB79MII1u"
@@ -7866,7 +7888,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 197626,
       "name": "Santhosham",
       "url": "https://open.spotify.com/track/7gocHLwMiHYistuL6IRvPC"

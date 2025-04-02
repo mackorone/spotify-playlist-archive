@@ -4,7 +4,7 @@
 
 > a7san ma kayn f rap maghribi\. Cover: Stormy
 
-373 songs - 19 hr 48 min
+374 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [3A9EL](https://open.spotify.com/track/3kbQeJnwvrhxKS9CExZlSI) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [IZI](https://open.spotify.com/artist/4zpYVC3SJ9r47ztLrd94N5) | [3A9EL](https://open.spotify.com/album/6712T5yLZMI1AZlRGH9eOx) | 4:27 | 2024-10-02 | 2024-10-14 |
 | [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 | 2024-01-06 | 2025-02-13 |
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-20 | 2024-05-10 |
-| [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2024-07-12 |  |
+| [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2024-07-12 | 2025-04-02 |
 | [5E ARRONDISSEMENT](https://open.spotify.com/track/4SuqeO3dyNKT9plI4hdxvJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-11-29 | 2024-12-04 |
 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 | 2024-08-01 |  |
 | [6AM](https://open.spotify.com/track/5UguZtOGnt018aCSqIMCIZ) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [6AM](https://open.spotify.com/album/6Asibeu54ypcwXGygbDziA) | 3:05 | 2024-10-30 | 2025-02-13 |
@@ -188,6 +188,7 @@
 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 | 2023-05-20 | 2024-07-14 |
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-11-14 | 2023-01-06 |
 | [Lmanetta Khassra](https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lmanetta Khassra](https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N) | 3:34 | 2024-11-29 |  |
+| [Lmfadal](https://open.spotify.com/track/0j7GyVN7CkYpOYnm0CziBK) | [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [Lmfadal](https://open.spotify.com/album/1BlWLOZU60My1p8i2cqwbx) | 1:58 | 2025-04-01 |  |
 | [Lmossiba \(المصيبة\)](https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lmossiba \(المصيبة\)](https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t) | 3:48 | 2023-09-30 | 2023-12-10 |
 | [LOIN DE TOI](https://open.spotify.com/track/6RB0KyQNl3UUa7BOEtr8rT) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/5bNqIa68kQPYYR4sATUnnn) | 2:45 | 2024-12-12 | 2025-02-08 |
 | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1) | 2:46 | 2023-08-10 | 2023-12-08 |

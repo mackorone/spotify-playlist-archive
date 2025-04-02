@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,021 songs - 1 day 15 hr 32 min
+1,023 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [At Eventide](https://open.spotify.com/track/19NGKR9VbsWUgf7RfAkm71) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [At Eventide](https://open.spotify.com/album/2cXvOERfSWEvHWjNKA7jvJ) | 2:14 | 2024-06-28 | 2024-07-13 |
 | [At Peace](https://open.spotify.com/track/6JKRbYRi8UH8zfy0oGZ8TQ) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [At Peace](https://open.spotify.com/album/5cIXJGnEEmxcowS9ADX5F1) | 2:31 | 2022-05-20 | 2022-06-25 |
 | [ataraxia](https://open.spotify.com/track/1M6SXJHUZCd311iSiyncIF) | [VAL](https://open.spotify.com/artist/2kd96OmUnYMBGn6dEuV9iP), [saege](https://open.spotify.com/artist/55uDvpZtzLXtM7aV7MJupC) | [ataraxia](https://open.spotify.com/album/5DETKvGvHhWO06gk3OO2EX) | 1:42 | 2022-11-25 | 2023-10-06 |
+| [Aura](https://open.spotify.com/track/0Qyhsb2wiCwX2UIEEY2e6H) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Aura](https://open.spotify.com/album/5uHQLCadQTvlKlcXGH0D2H) | 2:38 | 2025-03-28 |  |
 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 | 2022-04-15 | 2022-05-27 |
 | [Autumn Colours](https://open.spotify.com/track/2M5xnklRUnCnLJD00UUfJG) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/1MqZmJJ8PXsSc76DRVRotP) | 2:27 | 2023-02-21 | 2023-09-29 |
 | [Autumn Colours](https://open.spotify.com/track/4jxUiUn3Ho8aN4u2NQpmia) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/25slxRdPIXB4ytpeMEKEge) | 2:27 | 2022-10-28 | 2023-05-08 |
@@ -247,6 +248,7 @@
 | [Escalator Blues](https://open.spotify.com/track/3ljIaptLZlaDk3cSGB7T7V) | [HEH](https://open.spotify.com/artist/0TPeimMKCuW9cVVu4DUOz0) | [Escalator Blues](https://open.spotify.com/album/5fRq0kVouIFs3fWi0aQ2uK) | 1:51 | 2024-01-12 | 2024-08-16 |
 | [Eskgrow](https://open.spotify.com/track/4SMMdkI3aMh08Ntf9DxuCh) | [Moon Ladder](https://open.spotify.com/artist/0oYx4r2AY0nWFoE5KUyqQI) | [Epsom Road](https://open.spotify.com/album/56OGV838fAkynsOASVD2im) | 3:15 | 2022-04-15 |  |
 | [Estelle](https://open.spotify.com/track/39j1lrsLa9jZ72Qx6PxJ2r) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Estelle](https://open.spotify.com/album/4o9PfEHog5OOVF3csh6ypi) | 1:50 | 2024-11-08 |  |
+| [Everchanging](https://open.spotify.com/track/3F14pdQfwVstaL9VJoVZvf) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [Everchanging](https://open.spotify.com/album/0OTs4X5EuQOo4F2yzJlF4C) | 2:23 | 2025-03-28 |  |
 | [Everything I'm not](https://open.spotify.com/track/3VRUnokiLze9VzGfeQWt8i) | [lowerful](https://open.spotify.com/artist/5vud9meb096x8pcNKiGDAm) | [Everything I'm not](https://open.spotify.com/album/25MzO5IM7UJI0YLX1eNfbM) | 1:48 | 2022-04-15 | 2022-07-08 |
 | [Everything's Better With You](https://open.spotify.com/track/49mdBU2g01KDLPhsbadqgo) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Happy To See You](https://open.spotify.com/album/2RQywmTrDDg7Zf4FdOKNIr) | 2:06 | 2022-04-15 | 2022-07-08 |
 | [Everything's Ok](https://open.spotify.com/track/6joF5vzWbc6Uk4t8jCSG4p) | [baker dalton](https://open.spotify.com/artist/0LbEUtI30VRNEZMbbD2rFe), [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Sanu](https://open.spotify.com/artist/4a9bZ6Cp8BXlUxJ7YgX1fq) | [Everything's Ok](https://open.spotify.com/album/20C5Uyn4WpAkSCe6Hmyeox) | 1:54 | 2023-09-08 | 2023-10-06 |
@@ -771,7 +773,7 @@
 | [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
 | [Skippy](https://open.spotify.com/track/2LHxUoqCPDbroBUzYJvIMi) | [Skipclass](https://open.spotify.com/artist/27cq2WN6MbO7i9788ZKFIr) | [Skippy](https://open.spotify.com/album/4TIbONnA1JbjdbQcUAppg5) | 2:28 | 2025-03-21 |  |
 | [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 | 2025-02-23 |
-| [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 |  |
+| [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 | 2025-04-02 |
 | [Slapperoni Pizza](https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:11 | 2022-04-15 | 2022-05-20 |
 | [sleep tight](https://open.spotify.com/track/6K18f74xVdKOulHIO7iKqx) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [sleep tight](https://open.spotify.com/album/6ZRMc50tIWcf7VWZlyKp9L) | 2:44 | 2024-10-16 | 2024-11-28 |
 | [Sleepless Times](https://open.spotify.com/track/0SIjNbculfq6PiPg1PkggT) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Sleepless Times](https://open.spotify.com/album/5QTYGdQ4X4lUNpf7cV5Z6d) | 2:32 | 2022-11-11 |  |
@@ -1016,7 +1018,7 @@
 | [Wun](https://open.spotify.com/track/1gE2YJrgu8jRfLENtC9Bjf) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Wun](https://open.spotify.com/album/6oqzhDL5OBYl86OIMKWeKd) | 4:00 | 2022-04-15 | 2022-07-08 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-06-10 |
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2022-04-15 | 2022-06-10 |
-| [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-15 |  |
+| [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-15 | 2025-04-02 |
 | [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2022-11-11 | 2023-10-06 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/7D2wp7jItC0PNJMp3fvDZm) | [Lab Progression](https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Jammin Berries](https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o) | [Yesterday's Tomorrow](https://open.spotify.com/album/3pU2zQiCSXTLKpUY1sU3oa) | 2:20 | 2023-09-22 |  |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3SkGlju255xnaTQld9d0DO) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Yesterday's Tomorrow](https://open.spotify.com/album/5yfF9N6Cgy7olJBLPKRkhM) | 2:13 | 2022-12-16 | 2023-02-16 |

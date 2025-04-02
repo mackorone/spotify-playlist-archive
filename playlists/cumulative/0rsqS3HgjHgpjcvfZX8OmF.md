@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover: Yungblud
 
-264 songs - 15 hr 47 min
+266 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2024-01-26 | 2024-03-02 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-11-03 | 2024-04-06 |
 | [Edge Of The Earth](https://open.spotify.com/track/28nkrZPvOzz6zgMy7YO2oE) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Edge Of The Earth](https://open.spotify.com/album/18b4Rr4bGgb6seC7eih9UP) | 3:18 | 2025-01-10 |  |
-| [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-06-01 |  |
+| [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-06-01 | 2025-04-02 |
 | [Everything's Glitter](https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Everything's Glitter](https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts) | 3:50 | 2023-11-03 | 2024-05-11 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-05 |  |
 | [Family of Six](https://open.spotify.com/track/0a71EDvDZpjJosNHz1a15P) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 4:59 | 2023-11-03 | 2024-04-06 |
@@ -157,6 +157,7 @@
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-01-24 |  |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2024-02-02 |  |
 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 | 2023-11-03 | 2024-05-11 |
+| [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-04-01 |  |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-01-26 |  |
 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 | 2024-04-19 | 2024-05-11 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 | 2025-02-02 |
@@ -232,10 +233,11 @@
 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 | 2023-12-08 | 2024-02-03 |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-11-03 | 2024-05-25 |
 | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3qrTll9OQ9wcejTxPFY0qg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/album/4aE8ZrEif8MgWvFNIbz8I6) | 3:12 | 2024-12-06 | 2025-01-11 |
+| [The Milkman](https://open.spotify.com/track/6N5s2LdgDrUNH0y7jfNXg7) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Milkman](https://open.spotify.com/album/5Jh1Rvb07bacdYGlDzqVgh) | 2:57 | 2025-04-01 |  |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-11-03 | 2024-02-24 |
 | [The Place That Makes Me Happy](https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [The Place That Makes Me Happy](https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW) | 3:01 | 2024-03-01 | 2024-06-08 |
 | [The Way](https://open.spotify.com/track/3m3UQHWWkFSwk29fzhhRO3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Valley Of Vision](https://open.spotify.com/album/7AILAzxTzEKmxQ0Kiw5sbV) | 3:54 | 2023-11-03 | 2025-02-16 |
-| [this is the best night of my life!](https://open.spotify.com/track/6PeAt8pcz7SnpketYqNs3N) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [to you, after 2000 years](https://open.spotify.com/album/0LAestwwLwbvkcj9rffMlX) | 1:51 | 2025-02-15 |  |
+| [this is the best night of my life!](https://open.spotify.com/track/6PeAt8pcz7SnpketYqNs3N) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [to you, after 2000 years](https://open.spotify.com/album/0LAestwwLwbvkcj9rffMlX) | 1:51 | 2025-02-15 | 2025-04-02 |
 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/7uxOs9rdEN5raVfcoI1kTA) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/album/3U5WiKz6hbiUZt5zNjy4en) | 3:11 | 2024-09-03 | 2024-09-21 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-11-03 | 2024-04-06 |
 | [Thought You Were Waving](https://open.spotify.com/track/6kPUaajgvBhYzPaOZvJu40) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Thought You Were Waving](https://open.spotify.com/album/1mE2RqG2uYU5AllM8m2LMv) | 3:02 | 2024-07-19 | 2025-01-11 |

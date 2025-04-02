@@ -4584,7 +4584,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 122037,
       "name": "check",
       "url": "https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y"
@@ -7706,7 +7706,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -9324,7 +9324,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 173793,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/559wXxr2rb04rn7t3M3HPx"
@@ -20160,7 +20160,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 173502,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
@@ -24068,7 +24068,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 178900,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
@@ -24975,6 +24975,28 @@
     },
     {
       "album": {
+        "name": "Too Easy",
+        "url": "https://open.spotify.com/album/2ppvVNqEa4we1ZD0kWM4ju"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Too Easy",
+      "url": "https://open.spotify.com/track/0NL9Bfuishm9oqCrzyvLCM"
+    },
+    {
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
       },
@@ -25192,10 +25214,28 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 73231,
       "name": "Trap Royalty",
       "url": "https://open.spotify.com/track/4GDlvKTTSM2hH6BMKb2Jun"
+    },
+    {
+      "album": {
+        "name": "Trap Royalty",
+        "url": "https://open.spotify.com/album/2ZoqaPh5rrEAzk2VJrP92z"
+      },
+      "artists": [
+        {
+          "name": "very cool tutorials",
+          "url": "https://open.spotify.com/artist/15AcC9c53zJObzwpvgY5yO"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73231,
+      "name": "Trap Royalty",
+      "url": "https://open.spotify.com/track/5MV9Uf9hoW7ZSxs8w5ybRh"
     },
     {
       "album": {

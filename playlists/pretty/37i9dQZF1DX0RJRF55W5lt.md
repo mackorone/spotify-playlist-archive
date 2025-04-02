@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,865 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,981 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 65 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
 | 66 | [Dancing for Heaven \- Club](https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [House Tracks for the Dancefloor, Vol\. One](https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9) | 6:12 |
 | 67 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
-| 68 | [Happy to Be Deep](https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 7:17 |
+| 68 | [The Chant W.E.R](https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 6:10 |
 | 69 | [Club Lonely](https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt) | [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Club Asylum Sampler, Vol\. 1](https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq) | 5:14 |
 | 70 | [Deep Inside \- Shadow Child Remix Edit](https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 2:25 |
 | 71 | [Do It Right Baby](https://open.spotify.com/track/5Xt5Tb41aRmIKBpPG3VBYA) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 6:04 |

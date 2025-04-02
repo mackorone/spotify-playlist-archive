@@ -8719,6 +8719,28 @@
     },
     {
       "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281040,
+      "name": "Life Is Better",
+      "url": "https://open.spotify.com/track/4GRxW50GO0Yc5Pp9LK62Rw"
+    },
+    {
+      "album": {
         "name": "Glockoma",
         "url": "https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm"
       },

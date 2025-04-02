@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,372 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,398 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 28 | [A Casa É Sua \- Remix](https://open.spotify.com/track/3PM6PvMzdQmzvNYHbydQqd) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [A Casa É Sua \(Remix\)](https://open.spotify.com/album/4XJSpMo1GQ3l6efE63lyfc) | 2:41 |
 | 29 | [Melhor Lugar \- Remix](https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Melhor Lugar \(Remix\)](https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh) | 3:26 |
 | 30 | [Onde Eu Quero Habitar](https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Guilherme Galdino](https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA) | [Onde Eu Quero Habitar](https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR) | 4:02 |
-| 31 | [Tudo Vai Ficar Bem](https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Higor Rosa](https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP) | [Tudo Vai Ficar Bem](https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN) | 3:29 |
-| 32 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
+| 31 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
+| 32 | [Tudo Vai Ficar Bem](https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Higor Rosa](https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP) | [Tudo Vai Ficar Bem](https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN) | 3:29 |
 | 33 | [A Vida É Boa \- Remix](https://open.spotify.com/track/6dMhYMlH4dmeklYm04a6DU) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Diego Albuquerque](https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE), [Ana Julia](https://open.spotify.com/artist/5euHvW9JgxVPk1l849F4vh) | [A Vida É Boa \(Remix\)](https://open.spotify.com/album/0MUQZQTFRdeUzzuG5oE3w7) | 2:09 |
 | 34 | [Imparável](https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [DOOZZ](https://open.spotify.com/artist/28zlrefIEuwWj113fz0mW1) | [Imparável](https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4) | 3:24 |
 | 35 | [Furioso Oceano \(Remix\)](https://open.spotify.com/track/5tRnAJq0VCUQmG29Ep2Put) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Furioso Oceano \(Remix\)](https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0) | 2:22 |

@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 748029,
+  "num_followers": 747993,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "La Vida Entera",
+        "url": "https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "La Vida Entera",
+      "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "YOTULOKO",
         "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "La Vida Entera",
-        "url": "https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 177423,
-      "name": "La Vida Entera",
-      "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "La Vida Sin Ti",
-        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        }
-      ],
-      "duration_ms": 164470,
-      "name": "La Vida Sin Ti",
-      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "Rayos de Sol",
         "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 231562,
       "name": "Rayos de Sol",
       "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "La Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "EL PANTALON (RUMBAS)",
         "url": "https://open.spotify.com/album/0TtfzOFvZu1xudp1Of4uRa"
       },
@@ -1359,6 +1343,26 @@
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/5tt2V5NfowSz690MCLBlKO"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
     }
   ],
   "unique_name": "Verano 2024",

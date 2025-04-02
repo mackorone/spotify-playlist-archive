@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,851 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,879 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 12 | [Heavy Heart \- Instrumental](https://open.spotify.com/track/2QOC5grYqt8ZFEwzcg7RwU) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/27KzACZPqQ9EcB3NPFDPNj) | 3:34 |
 | 13 | [Love Me Like That \- Instrumental](https://open.spotify.com/track/2Bi7jDHh3IzLt3xJuyx4eU) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 14 | [Whisper \- Instrumental](https://open.spotify.com/track/3fVsrqwCCExLfhr6xm2bSG) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0bAlxx4Id0awW4IAZulgj3) | 2:50 |
-| 15 | [The way to lose you \(Inst.\)](https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
-| 16 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
+| 15 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
+| 16 | [The way to lose you \(Inst.\)](https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
 | 17 | [I WANNA KNOW \- Instrumental](https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 |
 | 18 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 19 | [Wish \- Instrumental](https://open.spotify.com/track/3jxYOo3LSBsJjv1GYvNJpi) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 26 | [The First Snow \- Instrumental](https://open.spotify.com/track/3HeXYGErUXeEDiTBF2zoJP) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Guardian \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5YTid0Ew5Mvlq08gE6ehqc) | 4:56 |
 | 27 | [So Tender \- Instrumental](https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
 | 28 | [Fall In Love \- Instrumental](https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Nevertheless, \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm) | 3:59 |
-| 29 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
-| 30 | [시간의 상처 \(Inst.\)](https://open.spotify.com/track/6xdFDuOy3aJLAdfa0Z5Mtk) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [내 남편과 결혼해줘 OST Part.4](https://open.spotify.com/album/5QXH2tKwc5DVyawOzIHgDy) | 4:37 |
+| 29 | [시간의 상처 \(Inst.\)](https://open.spotify.com/track/6xdFDuOy3aJLAdfa0Z5Mtk) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [내 남편과 결혼해줘 OST Part.4](https://open.spotify.com/album/5QXH2tKwc5DVyawOzIHgDy) | 4:37 |
+| 30 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
 | 31 | [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
 | 32 | [Friend \- Instrumental](https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:16 |
 | 33 | [Is It Still Beautiful \- Instrumental](https://open.spotify.com/track/2h1Ul51I7yWhu2KcI6RSaO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |

@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 94808,
+  "num_followers": 94863,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "No Barco",
-        "url": "https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB"
-      },
-      "artists": [
-        {
-          "name": "Junior e Mateus",
-          "url": "https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I"
-        }
-      ],
-      "duration_ms": 213432,
-      "name": "O Barco",
-      "url": "https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW"
-    },
-    {
-      "added_at": "2025-03-07 03:01:16",
-      "album": {
         "name": "Adorador por Excel\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 239728,
       "name": "Adorador por Excel\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
+    },
+    {
+      "added_at": "2025-03-07 03:01:16",
+      "album": {
+        "name": "No Barco",
+        "url": "https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB"
+      },
+      "artists": [
+        {
+          "name": "Junior e Mateus",
+          "url": "https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I"
+        }
+      ],
+      "duration_ms": 213432,
+      "name": "O Barco",
+      "url": "https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW"
     },
     {
       "added_at": "2025-03-07 03:01:16",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 284505,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
-    },
-    {
-      "added_at": "2025-03-07 03:01:16",
-      "album": {
         "name": "Tempo de Vit\u00f3ria",
         "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 229408,
       "name": "Tempo de Vit\u00f3ria",
       "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
+    },
+    {
+      "added_at": "2025-03-07 03:01:16",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 284505,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
     },
     {
       "added_at": "2025-03-07 03:01:16",
@@ -459,22 +459,18 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z"
+        "name": "Quem \u00c9 Como Tu, Senhor?",
+        "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
       },
       "artists": [
         {
           "name": "Gerson Rufino",
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
         }
       ],
-      "duration_ms": 209134,
-      "name": "Estou Aqui",
-      "url": "https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT"
+      "duration_ms": 331061,
+      "name": "Quem \u00c9 Como Tu, Senhor?",
+      "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
     },
     {
       "added_at": "2025-03-07 03:01:16",
@@ -915,18 +911,22 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "Quem \u00c9 Como Tu, Senhor?",
-        "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z"
       },
       "artists": [
         {
           "name": "Gerson Rufino",
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
         }
       ],
-      "duration_ms": 331061,
-      "name": "Quem \u00c9 Como Tu, Senhor?",
-      "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
+      "duration_ms": 209134,
+      "name": "Estou Aqui",
+      "url": "https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT"
     },
     {
       "added_at": "2025-03-07 03:01:16",

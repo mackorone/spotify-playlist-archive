@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,041 songs - 2 day 15 hr 58 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,044 songs - 2 day 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1049,5 +1049,8 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1039 | [GODSTAINED](https://open.spotify.com/track/2IbtNIdNlVelpPNaRYEZdJ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [GODSTAINED](https://open.spotify.com/album/47pWWT0JyRpY7Fo2Wat8aY) | 3:25 |
 | 1040 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
 | 1041 | [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:08 |
+| 1042 | [Private Presley](https://open.spotify.com/track/40d4m1eI0erCRKLXz55RtT) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 5:39 |
+| 1043 | [Drop the Guillotine](https://open.spotify.com/track/1gpBDeONibvJyQYEv5HJh9) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:39 |
+| 1044 | [Being so Normal](https://open.spotify.com/track/65sNrvOp2HLlhGTeLJ0nnk) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:40 |
 
-Snapshot ID: `AAAI1kFwsWwu9cV1Xd3f16Ifios0K4pD`
+Snapshot ID: `AAAI2SoFiwKBHpX/DBlqnOUweTQ0Im+K`

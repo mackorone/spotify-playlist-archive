@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,959 likes - 70 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,027 likes - 70 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 38 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
 | 39 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 40 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
-| 41 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
+| 41 | [Louvando à Maria](https://open.spotify.com/track/08t3MfYsYecOpJubRX3eBi) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Louvando à Maria](https://open.spotify.com/album/0yltmAC0k3ki0KFPKqXPT1) | 3:04 |
 | 42 | [O Primeiro a Ser Servido](https://open.spotify.com/track/3lhGqMkF0kFccKtjFYKFJ7) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [O Primeiro a Ser Servido](https://open.spotify.com/album/3FqK6o3eXMtKzKCRU0JGuP) | 4:27 |
-| 43 | [Louvando à Maria](https://open.spotify.com/track/08t3MfYsYecOpJubRX3eBi) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Louvando à Maria](https://open.spotify.com/album/0yltmAC0k3ki0KFPKqXPT1) | 3:04 |
+| 43 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
 | 44 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 45 | [Acima dos Telhados \- Acoustic](https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [Acima dos Telhados \(Acoustic\)](https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x) | 6:35 |
 | 46 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |

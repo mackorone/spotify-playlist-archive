@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,806 likes - 329 songs - 17 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,807 likes - 329 songs - 17 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 76 | [Make It Out](https://open.spotify.com/track/6h4JuOPlHFYpHPIEmBwbus) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:06 |
 | 77 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 |
 | 78 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
-| 79 | [For Real](https://open.spotify.com/track/5cDW8x7AtLduR2VgsutTdm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Uninvited](https://open.spotify.com/album/3bbolXAWd2ztEf9AyoOsY7) | 3:12 |
-| 80 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
+| 79 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
+| 80 | [For Real](https://open.spotify.com/track/5cDW8x7AtLduR2VgsutTdm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Uninvited](https://open.spotify.com/album/3bbolXAWd2ztEf9AyoOsY7) | 3:12 |
 | 81 | [The Jungle Book \(feat\. Lil Wop\)](https://open.spotify.com/track/1mHKrQRbFobG1cRwfzr245) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Wop](https://open.spotify.com/artist/3VEfffCnIsuupIrnkgmVtu) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 2:39 |
 | 82 | [Your Song \- Cheat Codes Remix](https://open.spotify.com/track/2h578j1vqX32f3yBdMoZAI) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Cheat Codes Remix\)](https://open.spotify.com/album/2SIvZeZQ9bsUCy7GL7BNfx) | 3:35 |
 | 83 | [Say You Love Me](https://open.spotify.com/track/4xrpNY9y0FZnxVznSwM4cw) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:52 |
@@ -315,8 +315,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 305 | [My Last Breath](https://open.spotify.com/track/7ntUiOKzqJq7ZRIrfHNPsA) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [My Last Breath](https://open.spotify.com/album/5VcD6Qz1hga1DMqVfunb7i) | 2:11 |
 | 306 | [Don't Change On Me](https://open.spotify.com/track/1QyyH8aqLkAaWC5TttfETb) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 3:45 |
 | 307 | [Go Hard](https://open.spotify.com/track/4VLDrl5Rnvd9e8885YX4Jq) | [Booggz](https://open.spotify.com/artist/17LWRPvDAiIUUPECIakeBu) | [Go Hard](https://open.spotify.com/album/310iGUoykPmp1otabSaUKC) | 2:58 |
-| 308 | [I Want War](https://open.spotify.com/track/7yn6VmqXSV92zaRdBY73zu) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [I Want War](https://open.spotify.com/album/4kgvJeUeG2yD2K8AyVLDoW) | 2:18 |
-| 309 | [Look Fear In The Eyes](https://open.spotify.com/track/7gc4pjDiOzg3lSQEr5udpk) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Look Fear In The Eyes](https://open.spotify.com/album/6OikY1sexKi2gbfRyEbW7U) | 2:23 |
+| 308 | [Look Fear In The Eyes](https://open.spotify.com/track/7gc4pjDiOzg3lSQEr5udpk) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Look Fear In The Eyes](https://open.spotify.com/album/6OikY1sexKi2gbfRyEbW7U) | 2:23 |
+| 309 | [I Want War](https://open.spotify.com/track/7yn6VmqXSV92zaRdBY73zu) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [I Want War](https://open.spotify.com/album/4kgvJeUeG2yD2K8AyVLDoW) | 2:18 |
 | 310 | [untitled](https://open.spotify.com/track/0jGrk16kW6xHgjKtUAtbqZ) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [One of a Kind](https://open.spotify.com/album/1B7vpCJ1CosgbHmkBnyHoN) | 3:27 |
 | 311 | [6ix in 6](https://open.spotify.com/track/6jzANR0wmcrr7KQE5MUkrt) | [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi) | [6ix in 6](https://open.spotify.com/album/2TVux5djHams7xxfNf3y9h) | 2:01 |
 | 312 | [Pray](https://open.spotify.com/track/4s98hENRdjWanrZNDolBjP) | [FGFC820](https://open.spotify.com/artist/32raKeUHkfUVqgGHbIPD2u) | [Urban Audio Warfare](https://open.spotify.com/album/5CIMb1rasSmnOpAcmlqHpm) | 5:28 |
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 328 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 329 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbtjswAAAAAFqd6J28wMBN2E2Kcmx0J+`
+Snapshot ID: `AbtpFwAAAAA5RAU329IjZ/iS9xuexIjZ`

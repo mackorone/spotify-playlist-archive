@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26775,
+  "num_followers": 26777,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAAMYVFAsSVX3gMNrnjgvjF5",
+  "snapshot_id": "Z+nbAAAAAAD9/byw4NKbLtFKjPT6TZwj",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "God, Turn It Around",
+        "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 280086,
+      "name": "God, Turn It Around (feat. Matt Maher) - Live Version",
+      "url": "https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The In Between (from The Chosen)",
         "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 246627,
       "name": "No Body (feat. Matt Maher)",
       "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God, Turn It Around",
-        "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 280086,
-      "name": "God, Turn It Around (feat. Matt Maher) - Live Version",
-      "url": "https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
-      },
-      "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "Baptized",
-      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The St. Nemele Collab Sessions",
         "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 238720,
       "name": "It's You - Tide Electric Remix",
       "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worship And Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Hallelujah, You Are Good (feat. Matt Maher)",
-      "url": "https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 211360,
       "name": "Faithfulness (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worship And Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Hallelujah, You Are Good (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz"
     }
   ],
   "unique_name": "This Is Matt Maher",

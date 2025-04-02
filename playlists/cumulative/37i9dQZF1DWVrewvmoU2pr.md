@@ -2,7 +2,7 @@
 
 ### [想愛就愛](https://open.spotify.com/playlist/37i9dQZF1DWVrewvmoU2pr)
 
-> 愛本來就係自由嘅事！想愛就愛吧！
+> 愛本來就係自由嘅事！想愛就愛吧！Cover: Leslie Cheung
 
 132 songs - 8 hr 24 min
 

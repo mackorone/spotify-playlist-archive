@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-885 songs - 3 day 4 hr 51 min
+886 songs - 3 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Hero](https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [A Hero EP](https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27) | 7:38 | 2021-04-21 | 2022-07-05 |
 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 | 2022-04-22 | 2023-09-30 |
 | [A380](https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [A380](https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f) | 4:46 | 2022-05-27 | 2024-03-27 |
+| [Abandoned](https://open.spotify.com/track/1zu20hgpOSlwlIKNorz6M5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [A.M.R \(DE\)](https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD) | [Abandoned](https://open.spotify.com/album/4uRtT3rPcGU7qwovvVSXwo) | 3:58 | 2025-03-28 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-01 | 2022-12-17 |
 | [Abracadabra](https://open.spotify.com/track/38iiZkYYXMHRPwUruuYD0X) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Abracadabra](https://open.spotify.com/album/06aF9kSXXoUiuN7nSX4u8o) | 3:21 | 2024-05-24 | 2024-07-06 |
 | [Afrika My Afrika](https://open.spotify.com/track/63siScIvu0PyOOqSHPzcud) | [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Afrika My Afrika](https://open.spotify.com/album/1rUOxTpEkSvqRgqM1zsg9o) | 6:32 | 2025-03-14 |  |
@@ -192,7 +193,7 @@
 | [Dance of the Crab](https://open.spotify.com/track/7tu1Bd1SfSiBdRgUvYpq7t) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 3:29 | 2023-07-14 | 2023-07-22 |
 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-07 | 2024-08-10 |
 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 | 2023-06-22 |
-| [Dark Waters](https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Dark Waters](https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl) | 3:33 | 2025-03-28 |  |
+| [Dark Waters](https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Dark Waters](https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl) | 3:33 | 2025-03-28 | 2025-04-02 |
 | [Darling \(with Aloe Blacc\)](https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Darling \(with Aloe Blacc\)](https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg) | 4:32 | 2024-03-01 |  |
 | [Day Dreams of Beaches](https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five EP](https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA) | 7:49 | 2025-01-31 |  |
 | [Day Off](https://open.spotify.com/track/6MdctygMY16ASVbS6aEkEu) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Day Off](https://open.spotify.com/album/7qnjYeLG053eq1Dr1oqyMW) | 6:34 | 2023-11-24 | 2024-04-28 |

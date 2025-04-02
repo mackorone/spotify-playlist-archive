@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Art of Peace",
+        "url": "https://open.spotify.com/album/0bOZmqneZzhxk0JxRIfY5X"
+      },
+      "artists": [
+        {
+          "name": "Zims Ele",
+          "url": "https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Art of Peace",
+      "url": "https://open.spotify.com/track/7K8j7uqXYL8l2yj42kpYiS"
+    },
+    {
+      "album": {
         "name": "Asrama (Ocean)",
         "url": "https://open.spotify.com/album/6TvyfWqnj6rvckAguBsmei"
       },
@@ -437,6 +455,24 @@
     },
     {
       "album": {
+        "name": "By The Ocean",
+        "url": "https://open.spotify.com/album/4s8hwiM2MR8KrP04R9kZv4"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166231,
+      "name": "By The Ocean",
+      "url": "https://open.spotify.com/track/7uuDzZ9bfedUL6XTyYah9T"
+    },
+    {
+      "album": {
         "name": "By the Ocean",
         "url": "https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4"
       },
@@ -520,7 +556,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 172500,
       "name": "Chao Phraya",
       "url": "https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC"
@@ -646,7 +682,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 172152,
       "name": "Cove Girl",
       "url": "https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0"
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 178285,
       "name": "Hidden Beach",
       "url": "https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp"
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 160000,
       "name": "Midnight Shoreline",
       "url": "https://open.spotify.com/track/5efJPDxGLNB0h6niF1AXNP"
@@ -1500,6 +1536,24 @@
       "duration_ms": 136000,
       "name": "Mindful Swell",
       "url": "https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W"
+    },
+    {
+      "album": {
+        "name": "Moonlight Dolphin",
+        "url": "https://open.spotify.com/album/3YN2cBhWqzcQfFP5nZaJwx"
+      },
+      "artists": [
+        {
+          "name": "Nature Rehab",
+          "url": "https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Moonlight Dolphin",
+      "url": "https://open.spotify.com/track/5axYEK74QBwkyAdQjNd5DT"
     },
     {
       "album": {
@@ -1536,6 +1590,24 @@
       "duration_ms": 224000,
       "name": "Night Waves",
       "url": "https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls"
+    },
+    {
+      "album": {
+        "name": "Nomad Sunset (Ocean)",
+        "url": "https://open.spotify.com/album/22TZPHVpJdjRVfN0vgIlUL"
+      },
+      "artists": [
+        {
+          "name": "Elysian Heart",
+          "url": "https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204008,
+      "name": "Nomad Sunset (Ocean)",
+      "url": "https://open.spotify.com/track/4Ef0Q4BkUo04WstZrroNNR"
     },
     {
       "album": {
@@ -1622,7 +1694,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 188333,
       "name": "Ocean Birds",
       "url": "https://open.spotify.com/track/2WxsSHPMb206URoGTNwAOQ"
@@ -1640,7 +1712,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 213472,
       "name": "Ocean Dive",
       "url": "https://open.spotify.com/track/2r4NivF3SETTKXKvhp1mYm"
@@ -1788,7 +1860,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 170000,
       "name": "Oceanic Peace",
       "url": "https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv"
@@ -1860,7 +1932,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 136161,
       "name": "Orchids",
       "url": "https://open.spotify.com/track/3BauJaNnmk79bsjD1Py8H9"
@@ -1878,7 +1950,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 166956,
       "name": "Osdale Air",
       "url": "https://open.spotify.com/track/2IFvIXlGNFaVqg7gaDkJZa"
@@ -2256,7 +2328,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 214444,
       "name": "Skye Nights",
       "url": "https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg"
@@ -2332,6 +2404,24 @@
       "duration_ms": 174677,
       "name": "Soft Sea Waves",
       "url": "https://open.spotify.com/track/16PZo5L2PS0p9WNES66TlO"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/7aeM7WDwXOHYYnd7PKxmDs"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204753,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/24qHQhMPILXNklZ4a5GxxO"
     },
     {
       "album": {
@@ -2526,7 +2616,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 172500,
       "name": "Taigh An Locha",
       "url": "https://open.spotify.com/track/4Fissa3zt57IqW1m5Db7bq"

@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-713 songs - 1 day 6 hr 15 min
+715 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Cotton Tale](https://open.spotify.com/track/3p4mrh87pFZu0w2WdNK7bZ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Cotton Tale](https://open.spotify.com/album/5g6VsUEKvMkDNMqzvLJ9CT) | 2:07 | 2022-06-07 | 2022-09-15 |
 | [Coulee Vert](https://open.spotify.com/track/5CocdKvyw8gpwdwOaZeVAw) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Coulee Vert](https://open.spotify.com/album/7CClClD5IkyrZFjqBRd3Xr) | 2:16 | 2022-06-07 | 2023-03-05 |
 | [Country Fields](https://open.spotify.com/track/0rmF2Dyj4xC10meRuGN6FZ) | [Benjamin Walter Stevens](https://open.spotify.com/artist/4Ge5S3YlUYZA0UlBjoHvrT) | [Chill Dove](https://open.spotify.com/album/0vp9iLJa7EFPH7QCSBh5ff) | 3:04 | 2022-06-07 | 2023-10-14 |
+| [Creations](https://open.spotify.com/track/5DdvcGxyvQEyeFM5jEkWDW) | [Saveliy Lleu](https://open.spotify.com/artist/6GR4x2rlUUYUrj2mimfXm9) | [Creations](https://open.spotify.com/album/6XL2imjJxQdS8D0ILLiupu) | 2:50 | 2025-04-01 |  |
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2022-06-07 | 2022-07-20 |
 | [Crossing The Line](https://open.spotify.com/track/3oGSYfpXW9Z26s0tHiab6w) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Crossing The Line](https://open.spotify.com/album/1khXOksViOnCC12iQLSjC2) | 2:01 | 2022-06-07 | 2023-10-02 |
 | [Cupola Quadrata](https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Cupola Quadrata](https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5) | 2:18 | 2022-06-07 | 2022-12-24 |
@@ -707,6 +708,7 @@
 | [Wish of the Progeny](https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:29 | 2022-06-07 | 2024-01-15 |
 | [Wishes](https://open.spotify.com/track/1KnTw354jtQmDvA6b3Fvi0) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Wishes](https://open.spotify.com/album/0qcFUWhrhzdUn1F0bC46wU) | 1:38 | 2022-06-07 | 2023-07-25 |
 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 | 2022-06-07 |  |
+| [Within Reach](https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Within Reach](https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog) | 2:33 | 2025-04-01 |  |
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2022-06-07 |  |
 | [Woman traveling alone](https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Woman traveling alone](https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1) | 2:06 | 2023-05-19 |  |
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2022-06-07 | 2024-05-08 |

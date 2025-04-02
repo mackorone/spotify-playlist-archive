@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Onur Özdemir
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,497 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,476 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:25 |
 | 2 | [Kanadım Aşktan](https://open.spotify.com/track/4dPq1446aMjiA045PnZVKw) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Kanadım Aşktan](https://open.spotify.com/album/45XutpwLGur4gvWHmn0wWa) | 3:07 |
 | 3 | [Anlarsın, ağlarsın](https://open.spotify.com/track/1rJizQgfAylxJGstJgOhyV) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Anlarsın, ağlarsın](https://open.spotify.com/album/1ZwKJi9tHGtMvl4UFIbUbg) | 3:30 |
-| 4 | [Senin Yüzünden](https://open.spotify.com/track/6uR2FFnUKpfx7VHwhdlLKS) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Senin Yüzünden](https://open.spotify.com/album/5y375cJQNBVkAbrSigW9Sg) | 3:06 |
-| 5 | [Seninle](https://open.spotify.com/track/3s6zK8WEwsOUUH7ZO3rJT4) | [Onur Özdemir](https://open.spotify.com/artist/60uO9kaHKuwJKg5X8JBkrC) | [raksedip yarın yokmuşçasına](https://open.spotify.com/album/4hYMzGFWZabwKj33dqAv7O) | 4:42 |
+| 4 | [Seninle](https://open.spotify.com/track/3s6zK8WEwsOUUH7ZO3rJT4) | [Onur Özdemir](https://open.spotify.com/artist/60uO9kaHKuwJKg5X8JBkrC) | [raksedip yarın yokmuşçasına](https://open.spotify.com/album/4hYMzGFWZabwKj33dqAv7O) | 4:42 |
+| 5 | [Senin Yüzünden](https://open.spotify.com/track/6uR2FFnUKpfx7VHwhdlLKS) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Senin Yüzünden](https://open.spotify.com/album/5y375cJQNBVkAbrSigW9Sg) | 3:06 |
 | 6 | [Tek Son Bu Mu?](https://open.spotify.com/track/6sylA3i5kJJLUtmRIylSIr) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO), [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Tek Son Bu Mu?](https://open.spotify.com/album/6SY7Z6y4VcJwzkvVUhPHD9) | 4:00 |
 | 7 | [Korkma 07 \(Düet Hayko Cepkin\)](https://open.spotify.com/track/7jZtpQTaO6YwwEAMwMR8ti) | [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq), [Hayko Cepkin](https://open.spotify.com/artist/3hzijSzD6IwOV4SY2SiWQp) | [Korkma Remastered](https://open.spotify.com/album/2xhpNPI3xBUiYtX7mdNUYb) | 5:12 |
 | 8 | [Bozuk Aralar](https://open.spotify.com/track/0cxvo11BTjyxK85KGzLdxU) | [Şekersiz](https://open.spotify.com/artist/1vMWLVjfrmItWSB4hP1eYf) | [Bozuk Aralar](https://open.spotify.com/album/6q7RxDth2rfYYBREFlhryv) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Ah Ben Öleyim Yollarına](https://open.spotify.com/track/1xVLRgRdoMxcYAYSuBhaIw) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Ah Ben Öleyim Yollarına](https://open.spotify.com/album/0fD4x0ZSjaF8Ddhu9rFkMs) | 2:31 |
 | 75 | [Gecenin En Güzeli](https://open.spotify.com/track/4siCOv70WIGB1EuMrLyIZO) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Gecenin En Güzeli](https://open.spotify.com/album/5sEPycIdKlDyklOgFPnuem) | 3:55 |
 
-Snapshot ID: `Z+W+GgAAAADDcvgB4wGPAQ1TaH56QF+Q`
+Snapshot ID: `Z+uy1QAAAADXbV9XHmbWK1h6JodpjcK4`

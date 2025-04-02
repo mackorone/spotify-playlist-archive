@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 152222,
+  "num_followers": 152253,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAABQUsYqHK2K3QfsEMe2TOI2",
+  "snapshot_id": "Z+nbAAAAAACaNZImue+1bYEmxH111Jd7",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luchar\u00e9 Por Ti",
-        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 210453,
-      "name": "Luchar\u00e9 Por Ti",
-      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
+      "duration_ms": 212462,
+      "name": "La Reyna De Mi Hogar",
+      "url": "https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+        "name": "Luchar\u00e9 Por Ti",
+        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 212462,
-      "name": "La Reyna De Mi Hogar",
-      "url": "https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm"
+      "duration_ms": 210453,
+      "name": "Luchar\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
     },
     {
       "added_at": null,

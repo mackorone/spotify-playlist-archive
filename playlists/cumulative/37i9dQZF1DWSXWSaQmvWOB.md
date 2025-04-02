@@ -4,7 +4,7 @@
 
 > New soul\-infused music! Cover: Jalen Ngonda
 
-1,061 songs - 2 day 16 hr 38 min
+1,062 songs - 2 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [Not Today Mate](https://open.spotify.com/track/7wkKPIBtnWwXpQxDXFSmQO) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Not Today Mate](https://open.spotify.com/album/6a1IXJ5uCSDmNngN10IZRV) | 3:37 | 2020-03-27 | 2020-10-09 |
 | [Nothing Can Tear Us Apart](https://open.spotify.com/track/2IdfvxOWNu4usISuuQvJFB) | [Das Sound Kollektiv](https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B), [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Nothing Can Tear Us Apart](https://open.spotify.com/album/41CHRf8V6yv9x53IQbN4Fp) | 3:55 | 2021-09-04 | 2022-07-29 |
 | [Nothing Can Tear Us Apart](https://open.spotify.com/track/7AU4jI516r2a9ZxnoCmA5k) | [Das Sound Kollektiv](https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B), [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [These Ways](https://open.spotify.com/album/1BAvPtcPcurtLpH9WgCsrq) | 3:55 | 2022-07-28 | 2024-02-10 |
-| [Nowhere](https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc) | [Submerge](https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4) | 3:52 | 2024-07-29 |  |
+| [Nowhere](https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc) | [Submerge](https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4) | 3:52 | 2024-07-29 | 2025-04-02 |
 | [Nowhere](https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Nowhere](https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc) | 3:48 | 2020-03-25\* | 2020-04-24 |
 | [Oceans Of Emotions](https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 3:53 | 2023-06-07 | 2023-12-13 |
 | [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 | 2023-02-17 | 2023-06-19 |
@@ -855,6 +855,7 @@
 | [Stay Up \- Pastel Remix](https://open.spotify.com/track/2jVQoTDSzfytDWnxl6e51X) | [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Intérimixed](https://open.spotify.com/album/6ArXooRUOXEIUrbWNPlHKD) | 3:33 | 2020-10-09 | 2021-04-17 |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2021-07-23 | 2022-02-18 |
 | [STEP BY STEP](https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [STEP BY STEP](https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal) | 3:29 | 2024-02-15 | 2024-06-15 |
+| [Stevie & Sly](https://open.spotify.com/track/3Qd2Xupp6z5UeBKbczux2h) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Stevie & Sly](https://open.spotify.com/album/6Jr0SS676UqNsVRxwpPdpM) | 4:02 | 2025-04-01 |  |
 | [Still](https://open.spotify.com/track/0H8VPq7MtL29JOI3rtO6bc) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [Still](https://open.spotify.com/album/1Scr6kniX8lYs84lGKfga4) | 2:26 | 2022-05-12 | 2022-07-29 |
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/22lLqAMQOysHjy4iojDSmE) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/album/4C88dLvxhgzErXeL2ZZVBW) | 3:25 | 2021-05-14 | 2021-12-01 |
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-03-02 | 2023-06-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,643 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,664 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 20 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
 | 21 | [Practice What You Preach](https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love Songs](https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE) | 3:59 |
 | 22 | [More Than Anything, You're My Everything](https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 3:04 |
-| 23 | [Come On](https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:49 |
-| 24 | [Playing Your Game, Baby](https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:13 |
+| 23 | [Playing Your Game, Baby](https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:13 |
+| 24 | [Come On](https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:49 |
 | 25 | [Love Makin' Music](https://open.spotify.com/track/07w7uThpms6ei8LrcE4son) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 4:59 |
 | 26 | [I Won't Settle For Less Than The Best \(For You Baby\)](https://open.spotify.com/track/10rAFshE2jcncyB0a6f618) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Beware!](https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw) | 4:21 |
 | 27 | [Just Not Enough](https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 4:21 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 33 | [Oh Love, Well We Finally Made It](https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 3:54 |
 | 34 | [I've Found Someone](https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:40 |
 | 35 | [Dark And Lovely \(You Over There\)](https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [The Ultimate Collection](https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL) | 4:54 |
-| 36 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 5:02 |
-| 37 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
+| 36 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
+| 37 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 5:02 |
 | 38 | [Honey Please, Can't Ya See](https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:14 |
 | 39 | [Volare](https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Put Me In Your Mix](https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL) | 5:45 |
 | 40 | [Anything You Want Me To](https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 5:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [Standing In The Shadows Of Love](https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 5:23 |
 | 50 | [I Only Want To Be With You](https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:01 |
 
-Snapshot ID: `Z+iJgAAAAAC9M9iLgbZ1rhvqq99cpPpp`
+Snapshot ID: `Z+nbAAAAAAADhHy5brD/aqowv9N3VqBs`

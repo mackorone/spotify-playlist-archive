@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,564 songs - 17 day 4 hr 6 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,567 songs - 17 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6572,5 +6572,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6562 | [ブルーバード](https://open.spotify.com/track/7LY0Mdsj2esWkuO98LEAPl) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [My song Your song](https://open.spotify.com/album/2AOTzestyJAx9xheLCrGnm) | 3:38 |
 | 6563 | [卒業証書](https://open.spotify.com/track/2IbsFcA4QHMFoL3lJlPY9l) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [卒業証書](https://open.spotify.com/album/7M8mokoPuWZXU1jrXNoHJH) | 4:58 |
 | 6564 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
+| 6565 | [Ramenez la coupe à la maison](https://open.spotify.com/track/45eY7Qi2PDUs8WJEhjGWdN) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Ramenez la coupe à la maison](https://open.spotify.com/album/0Dzpgp18I60Bmgdv8IOaxv) | 3:55 |
+| 6566 | [Flamingo](https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Flamingo](https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq) | 3:17 |
+| 6567 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 
-Snapshot ID: `AAAEBDrJHNz2z1CL2q+NJ60Fp8rs85q7`
+Snapshot ID: `AAAEB/SxdrbZ5P5fWUbWV9DGHzxbeLS2`

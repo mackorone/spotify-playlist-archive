@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Poslechni si \u017eeny z \u010ceska a Slovenska na pln\u00fd pecky! Speci\u00e1ln\u00ed edice k Mezin\u00e1rodn\u00edmu dni \u017een \ud83c\udf38 Cover: Sara Rikas\n",
+  "description": "Poslechni si \u017eeny z \u010ceska a Slovenska na pln\u00fd pecky! Playlist byl sestaven ve spolupr\u00e1ci se Sarou Rikas.",
   "name": "EQUAL CZ&SK",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 294082,
       "name": "19 Minutes",
       "url": "https://open.spotify.com/track/0Q9spd6gWzo0SxeuIx4yce"
+    },
+    {
+      "album": {
+        "name": "ANIMERA",
+        "url": "https://open.spotify.com/album/7yN2X9bGqwhpI2YBPfIFwK"
+      },
+      "artists": [
+        {
+          "name": "SJU",
+          "url": "https://open.spotify.com/artist/3KjvJE6bPR8OSKyktWQ5u3"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181820,
+      "name": "2 INTO 1",
+      "url": "https://open.spotify.com/track/13u3hQSgtyTYvseT6aBG1Q"
     },
     {
       "album": {
@@ -182,7 +200,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 177092,
       "name": "ADVICE FROM ME? NO",
       "url": "https://open.spotify.com/track/4D01IHOsTmxnfqc0Pjoa2L"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 182930,
       "name": "b* back",
       "url": "https://open.spotify.com/track/7d1cZDVdUmbSEmfhWlyLfS"
@@ -851,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Bodygaze",
+        "url": "https://open.spotify.com/album/158aESQuoya9mk4r9i973H"
+      },
+      "artists": [
+        {
+          "name": "Tea Sofia",
+          "url": "https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231830,
+      "name": "Bodygaze",
+      "url": "https://open.spotify.com/track/4iiqNekOQNJu9JJ3XUMfJt"
+    },
+    {
+      "album": {
         "name": "Bolo to d\u00e1vno",
         "url": "https://open.spotify.com/album/60cr1xQVRaZIJGn6jfgFWH"
       },
@@ -1203,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "CHCEM \u00cdS\u0164 VON",
+        "url": "https://open.spotify.com/album/5rhWJm9t4le5XUEtMCyntO"
+      },
+      "artists": [
+        {
+          "name": "ALYA",
+          "url": "https://open.spotify.com/artist/39OL7XofJjgzDzCSP3AdhB"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153356,
+      "name": "CHCEM \u00cdS\u0164 VON",
+      "url": "https://open.spotify.com/track/0GM7BUAC0oIx9gFQEHbQlP"
+    },
+    {
+      "album": {
         "name": "child of insecurity",
         "url": "https://open.spotify.com/album/168NObT9D4deXptr4FuEcp"
       },
@@ -1418,6 +1472,24 @@
       "duration_ms": 154838,
       "name": "Daj mi d\u00f4vod",
       "url": "https://open.spotify.com/track/68K2yt77HKHb1Ew6BJ1dhY"
+    },
+    {
+      "album": {
+        "name": "Dala jsem ti \u017eivot",
+        "url": "https://open.spotify.com/album/57KUpNE2kn1GXxfuIGKZqr"
+      },
+      "artists": [
+        {
+          "name": "Katarzia",
+          "url": "https://open.spotify.com/artist/5EssQRYnIgCOcvPauVySR1"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193681,
+      "name": "Dala jsem ti \u017eivot",
+      "url": "https://open.spotify.com/track/7gUgROXV6bYw3RG2armrV1"
     },
     {
       "album": {
@@ -2022,7 +2094,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 174733,
       "name": "false gold",
       "url": "https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN"
@@ -2210,7 +2282,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 148173,
       "name": "flowers on my eyes",
       "url": "https://open.spotify.com/track/1hdrpaZSva33dtcASJW4yg"
@@ -2380,6 +2452,24 @@
       "duration_ms": 173454,
       "name": "Gentle",
       "url": "https://open.spotify.com/track/3Ct7xzXkaaS36XX2BuoSJh"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/0v2u6wZx3Zi9MWO8U50QYM"
+      },
+      "artists": [
+        {
+          "name": "We Are Domi",
+          "url": "https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195391,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/1p47Pf6lbAjWwJmxw25aRj"
     },
     {
       "album": {
@@ -3601,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "TEKUT\u00c1 SKUTO\u010cNOS\u0164",
+        "url": "https://open.spotify.com/album/5Jy1JBYBWowWAFsb9sZJcs"
+      },
+      "artists": [
+        {
+          "name": "Call Dominika",
+          "url": "https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "IZBA 22",
+      "url": "https://open.spotify.com/track/17oeDP9auIOrS53b3FM4xI"
+    },
+    {
+      "album": {
         "name": "Jack You Up (If My Blade)",
         "url": "https://open.spotify.com/album/1bbdlUkIyNb6CJLq5iiemT"
       },
@@ -3742,7 +3850,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 119272,
       "name": "je to be\u017en\u00e9",
       "url": "https://open.spotify.com/track/5Uy66iMhTDvprJBW6bDZtF"
@@ -4364,7 +4472,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 235500,
       "name": "Labyrint",
       "url": "https://open.spotify.com/track/2dXztulWGxGUtFACDgEk0h"
@@ -4668,6 +4776,24 @@
       "duration_ms": 169454,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/7ziz6Iu5msY4wCZMM2Wqr3"
+    },
+    {
+      "album": {
+        "name": "little favour (alt version)",
+        "url": "https://open.spotify.com/album/7q4P0fM30K5M4VlvGIMGzG"
+      },
+      "artists": [
+        {
+          "name": "THERA",
+          "url": "https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204395,
+      "name": "little favour - alt version",
+      "url": "https://open.spotify.com/track/4oehPOHpLXlWTOukQ9Ij9X"
     },
     {
       "album": {
@@ -5235,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Svetlo",
+        "url": "https://open.spotify.com/album/1We3wq2K6awnxleXiqSfgz"
+      },
+      "artists": [
+        {
+          "name": "Rebis",
+          "url": "https://open.spotify.com/artist/3g8apPATIdBCbwQzjAIZhl"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186514,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/1JsLTDUB4BHycQQJCLmN60"
+    },
+    {
+      "album": {
         "name": "MASKOFF",
         "url": "https://open.spotify.com/album/4ioMeY9oSfz90sohdMWt10"
       },
@@ -5446,6 +5590,24 @@
       "duration_ms": 152470,
       "name": "Moravo",
       "url": "https://open.spotify.com/track/2FGYOoEH3Xb4fYKynsEzWP"
+    },
+    {
+      "album": {
+        "name": "SAWCY mixtape",
+        "url": "https://open.spotify.com/album/0WILarBOHWMY8kDxolvo2T"
+      },
+      "artists": [
+        {
+          "name": "Sawsane",
+          "url": "https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Movin",
+      "url": "https://open.spotify.com/track/3OyKha3O74z8SCvduHypfp"
     },
     {
       "album": {
@@ -7145,6 +7307,24 @@
     },
     {
       "album": {
+        "name": "Pink Lady",
+        "url": "https://open.spotify.com/album/4Z015bnX00X6Mac7ny9ULa"
+      },
+      "artists": [
+        {
+          "name": "Tea Sofia",
+          "url": "https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193711,
+      "name": "Pink Lady",
+      "url": "https://open.spotify.com/track/2Qmv6aoprKagtUC8IrmS6D"
+    },
+    {
+      "album": {
         "name": "LIVE ARCHIVE",
         "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
       },
@@ -7764,7 +7944,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 163862,
       "name": "prvotriedna dr\u00e1ma",
       "url": "https://open.spotify.com/track/3V4qnjY8k0bWxwEemj21MG"
@@ -7941,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "Queen of the Parties",
+        "url": "https://open.spotify.com/album/29087TAdRuhn1hSgxeovSx"
+      },
+      "artists": [
+        {
+          "name": "Berenika Kohoutov\u00e1",
+          "url": "https://open.spotify.com/artist/28ukt2qiT4J2XeLyZklllx"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155383,
+      "name": "Queen of the Parties",
+      "url": "https://open.spotify.com/track/5qJGMfHnmgnDqnbwjgvKlj"
+    },
+    {
+      "album": {
         "name": "ON/OFF",
         "url": "https://open.spotify.com/album/4kVIaC8qr4QsGSjmxsKv31"
       },
@@ -7974,7 +8172,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 171250,
       "name": "Rande",
       "url": "https://open.spotify.com/track/5QpohjX9IC4Mbxpdbv0WYZ"
@@ -8148,6 +8346,28 @@
       "duration_ms": 179649,
       "name": "Ri\u0165",
       "url": "https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h"
+    },
+    {
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/16qCxfIgMZLhn4NjXAoRGk"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179649,
+      "name": "Ri\u0165",
+      "url": "https://open.spotify.com/track/70txHTDsqvDFEodwnNrnMN"
     },
     {
       "album": {
@@ -8328,7 +8548,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 116571,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/4tkapxGz4owJ8rxaNqIvRm"
@@ -8839,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "Columba",
+        "url": "https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Slzy Stvoril Boh",
+      "url": "https://open.spotify.com/track/1iuNOU0HiixDbxbRnBCfnP"
+    },
+    {
+      "album": {
         "name": "Small things",
         "url": "https://open.spotify.com/album/3TEpoDnyz0GjzCyTCq5ptu"
       },
@@ -9054,6 +9292,24 @@
       "duration_ms": 150349,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2NiY72C2sPCYwWM9Ewxj6D"
+    },
+    {
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/2bceFznAWg0apn0Uw1FTA3"
+      },
+      "artists": [
+        {
+          "name": "DIANA",
+          "url": "https://open.spotify.com/artist/0mtxg8pzPsL6qZ7aoK0yBX"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135460,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/036SXIHAxrrxqiWblHZIDT"
     },
     {
       "album": {
@@ -9625,6 +9881,28 @@
     },
     {
       "album": {
+        "name": "Tehly",
+        "url": "https://open.spotify.com/album/4KUWDOwn1G3pOTC6qiyXNd"
+      },
+      "artists": [
+        {
+          "name": "Laris Diam",
+          "url": "https://open.spotify.com/artist/3n5JZ8h7BN3BiCzKZVF30i"
+        },
+        {
+          "name": "Marko Damian",
+          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224427,
+      "name": "Tehly",
+      "url": "https://open.spotify.com/track/7sLPUvOqw5ReCSFXTvUCJ8"
+    },
+    {
+      "album": {
         "name": "Telefon",
         "url": "https://open.spotify.com/album/7uiLdzNKR77LRhsIe8WsKx"
       },
@@ -9800,6 +10078,28 @@
       "duration_ms": 300451,
       "name": "The Ship and the Waves",
       "url": "https://open.spotify.com/track/0fpb8TsiiqnDj1puKFi2e0"
+    },
+    {
+      "album": {
+        "name": "The Silence & The Storm",
+        "url": "https://open.spotify.com/album/1m4no0XlyEjaWa0pW4bkiA"
+      },
+      "artists": [
+        {
+          "name": "Vesna",
+          "url": "https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "The Silence & The Storm",
+      "url": "https://open.spotify.com/track/18wYstWXgbzlxjguSj1LSR"
     },
     {
       "album": {
@@ -10135,6 +10435,24 @@
     },
     {
       "album": {
+        "name": "TOUCHDOWN",
+        "url": "https://open.spotify.com/album/4ov4kSHI45yYHwg9u4NOlx"
+      },
+      "artists": [
+        {
+          "name": "LUISA",
+          "url": "https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130330,
+      "name": "TOUCHDOWN",
+      "url": "https://open.spotify.com/track/0KKSqRe3hLBdX8DosQvcyC"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/4cUBt9MI2PC0hkeOOcudlj"
       },
@@ -10168,6 +10486,24 @@
       "duration_ms": 181071,
       "name": "Toxic Treatments",
       "url": "https://open.spotify.com/track/0fVcY7mduJx7IOqHSpdtNl"
+    },
+    {
+      "album": {
+        "name": "toxic!",
+        "url": "https://open.spotify.com/album/5FX0TVX2LDxdNtj7kbCmp4"
+      },
+      "artists": [
+        {
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182005,
+      "name": "toxic!",
+      "url": "https://open.spotify.com/track/3SKjznPr6CNhME7KjQtsti"
     },
     {
       "album": {
@@ -10236,7 +10572,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 167154,
       "name": "Tvoje ru\u017ee",
       "url": "https://open.spotify.com/track/5H11d1uZ08z5gEb7xMPnUq"
@@ -10406,6 +10742,28 @@
       "duration_ms": 176100,
       "name": "Ut\u00edk\u00e1m",
       "url": "https://open.spotify.com/track/5Bq5TDiOzOW3AXR7DUZ1jc"
+    },
+    {
+      "album": {
+        "name": "U\u017e Sa Mi Smej\u00fa O\u010di",
+        "url": "https://open.spotify.com/album/3k2HkapuEBRYmCW6JS0oIb"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Deryck",
+          "url": "https://open.spotify.com/artist/5K3tn27bBXu4lYlQa0zdxX"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179782,
+      "name": "U\u017e Sa Mi Smej\u00fa O\u010di",
+      "url": "https://open.spotify.com/track/7y6BRIc7V5Y7mVwZIcf7rP"
     },
     {
       "album": {
@@ -10636,7 +10994,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 165522,
       "name": "Ve\u010de\u0159e Sn\u016f",
       "url": "https://open.spotify.com/track/5iMhY7uEPhtkBMbUwoPrWl"
@@ -10984,6 +11342,28 @@
       "duration_ms": 200455,
       "name": "V\u0161ade Vid\u00ed\u0161 M\u0148a",
       "url": "https://open.spotify.com/track/21oHTe1I85RdF6COyIyZ36"
+    },
+    {
+      "album": {
+        "name": "V\u016fn\u011b c\u00edg",
+        "url": "https://open.spotify.com/album/6b1FD8TJTGkmFb7kbnJLDB"
+      },
+      "artists": [
+        {
+          "name": "bae",
+          "url": "https://open.spotify.com/artist/6aXwV5fyIc61IhTAvxXGnJ"
+        },
+        {
+          "name": "fiedlerski",
+          "url": "https://open.spotify.com/artist/0ql0Aw24KJaMeOVlwadzFE"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132129,
+      "name": "V\u016fn\u011b c\u00edg",
+      "url": "https://open.spotify.com/track/51d3RGTf38V9nbT2foXdrH"
     },
     {
       "album": {
@@ -11388,7 +11768,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 210240,
       "name": "YTL - You Taste Like",
       "url": "https://open.spotify.com/track/16BfHGdiyN38s1dSTBOBPn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,149 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,188 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 35 | [What Are We Fighting For](https://open.spotify.com/track/6BCCxK1hcXTnayPXQWYW6Q) | [W.E.T.](https://open.spotify.com/artist/2dRO1l7hgP4FwnpebxW1fq) | [Apex](https://open.spotify.com/album/0R8ypyqV9ilh2Opnk50vxw) | 4:03 |
 | 36 | [Drömmar av is](https://open.spotify.com/track/3a6SOKe3rFl194latWr7Oq) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Drömmar av is](https://open.spotify.com/album/5j2dQJDqjqD3CQ5ioT8E22) | 2:55 |
 | 37 | [Heretic](https://open.spotify.com/track/7mlOTizIUSLL9HC6O4bsRB) | [Ektomorf](https://open.spotify.com/artist/7lyUcNJUvtC0K7ufpLMvpg) | [Heretic](https://open.spotify.com/album/6EaTKlZANZ9u5MCoF8A57N) | 3:10 |
-| 38 | [$ocial Violence](https://open.spotify.com/track/5fANinoFkzZJ2HYifiLYK2) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp), [Kubrick](https://open.spotify.com/artist/27boWovaiAzel4nW6oFciJ) | [$ocial Violence](https://open.spotify.com/album/1jJJx2wuKqTlTeZvwZ0FOi) | 3:05 |
+| 38 | [$ocial Violence](https://open.spotify.com/track/5fANinoFkzZJ2HYifiLYK2) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp), [Kubrick](https://open.spotify.com/artist/1yGpXXgd2JzhpgM25NgQvU) | [$ocial Violence](https://open.spotify.com/album/1jJJx2wuKqTlTeZvwZ0FOi) | 3:05 |
 | 39 | [Sellout](https://open.spotify.com/track/57oO39HwakKuMwjTuE1475) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc) | [Cross Me Twice](https://open.spotify.com/album/7gsdI7hjHwWFQ0ashLR13K) | 4:48 |
 | 40 | [Losing Control](https://open.spotify.com/track/0qwCJX96wh2HZAcvizRjC8) | [Nuns Of The Tundra](https://open.spotify.com/artist/5nkANCbA5BcvfuRU9S7Mvn) | [Losing Control](https://open.spotify.com/album/3MUg9AYVV97mSEkSbksUsN) | 3:36 |
 | 41 | [BONES](https://open.spotify.com/track/1r6ogf6TcwuJeMt9VVzcFO) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [BONES](https://open.spotify.com/album/29jhg7JD0e6yTxKoiceNF0) | 3:59 |

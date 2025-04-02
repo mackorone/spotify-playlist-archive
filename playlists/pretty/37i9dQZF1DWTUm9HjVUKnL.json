@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 237820,
+  "num_followers": 237825,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9rmcwAAAADdWOPhcnZc4v/ApRde7ogr",
+  "snapshot_id": "Z+vtnAAAAACS7BCSzHVfNrL/XM51ksdS",
   "tracks": [
+    {
+      "added_at": "2025-04-01 13:43:56",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 175961,
+      "name": "Landmines - Spotify Singles",
+      "url": "https://open.spotify.com/track/4RMPZ1dyIw3852YiaE57ag"
+    },
+    {
+      "added_at": "2025-04-01 13:43:56",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
+    },
     {
       "added_at": "2025-03-10 12:37:26",
       "album": {
@@ -549,7 +581,7 @@
         }
       ],
       "duration_ms": 178000,
-      "name": "Love Raider - Spotify Singles",
+      "name": "Love Raider",
       "url": "https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,648 likes - 69 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,653 likes - 69 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 68 | [Dans Maar Mee Met Mij](https://open.spotify.com/track/09t3kWLJCvyTmRNT8XthXN) | [Erik van Hoof](https://open.spotify.com/artist/0PCXi9VjIC2BwLyDmEQ6G6) | [Dans Maar Mee Met Mij](https://open.spotify.com/album/1UKBWkp6IwDVb7Dik9XJ7c) | 2:45 |
 | 69 | [Een Druppeltje Geluk](https://open.spotify.com/track/4Kp5K5QOiaQTXAkYHVlgnn) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Een Druppeltje Geluk](https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7) | 3:17 |
 
-Snapshot ID: `Z+XYgAAAAAC8SFCIyfQ343uTS6RxacbQ`
+Snapshot ID: `Z+vNzwAAAAC5eyCtxlGHL8IzmfUP6dwc`

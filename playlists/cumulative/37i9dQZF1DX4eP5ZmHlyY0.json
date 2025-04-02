@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 193345,
       "name": "100!",
       "url": "https://open.spotify.com/track/2Zd5mKEDcw4I5ykv5ZQGyZ"
@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "BE CLASSIC (Special Edition)",
+        "url": "https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/7BHlLqdDjNlweYXdmAeFzN"
+    },
+    {
+      "album": {
         "name": "Boom Boom Back",
         "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
       },
@@ -860,7 +878,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 210200,
       "name": "BOW WOW",
       "url": "https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 165053,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/1lMTjhv9a9XOfKLsRXOInQ"
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 190266,
       "name": "GBAD",
       "url": "https://open.spotify.com/track/3OxVaGUYKdSAXqIp8x7VgC"
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 178400,
       "name": "Get Wild",
       "url": "https://open.spotify.com/track/4IDWkk8s12B50Ksb4aS87W"
@@ -3614,7 +3632,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 191706,
       "name": "Last Festival",
       "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
@@ -5278,7 +5296,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 188013,
       "name": "Panic",
       "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
@@ -7346,7 +7364,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 203524,
       "name": "Tricky",
       "url": "https://open.spotify.com/track/3G6rXjTd5dzChNH3xTeTZj"
@@ -7472,7 +7490,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 191186,
       "name": "Unfreeze",
       "url": "https://open.spotify.com/track/7Ko3Ark4s7OL7sQIo1ToHR"

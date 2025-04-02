@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "The Underdog",
+        "url": "https://open.spotify.com/album/3rOYAOvImczZjhKw2m6f6B"
+      },
+      "artists": [
+        {
+          "name": "Katannah",
+          "url": "https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j"
+        },
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162118,
+      "name": "415 ft. Robin Zoot",
+      "url": "https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -4970,7 +4992,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -11024,7 +11046,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -21875,6 +21897,24 @@
     },
     {
       "album": {
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "Neviem",
+      "url": "https://open.spotify.com/track/6ib1edjQaBJ0YLBWbxWcq8"
+    },
+    {
+      "album": {
         "name": "Nevr\u00e1t\u00ed",
         "url": "https://open.spotify.com/album/7EKYWymCyNRk0k4i3Z8vE8"
       },
@@ -28868,7 +28908,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 150926,
       "name": "Slzy",
       "url": "https://open.spotify.com/track/2aSjZFDJyTmakHyPxsEScQ"
@@ -31209,6 +31249,28 @@
     },
     {
       "album": {
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Grimaso",
+          "url": "https://open.spotify.com/artist/3xipichqzgEr9gx0zmvP3P"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Tancuj len tak",
+      "url": "https://open.spotify.com/track/4mtbIkOg9jfoJKKlEh0l5V"
+    },
+    {
+      "album": {
         "name": "Tancuj sama",
         "url": "https://open.spotify.com/album/1pVMdaQHxtEKtQqdwY8ksq"
       },
@@ -31656,7 +31718,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -36504,6 +36566,36 @@
       "duration_ms": 157727,
       "name": "Z Ghetta",
       "url": "https://open.spotify.com/track/6y3wHQejSy75H4ULCczm54"
+    },
+    {
+      "album": {
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Matej Straka",
+          "url": "https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG"
+        },
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC"
+        },
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Z ul\u00edc von",
+      "url": "https://open.spotify.com/track/2DaJR1064J9edEgFbMRcrt"
     },
     {
       "album": {

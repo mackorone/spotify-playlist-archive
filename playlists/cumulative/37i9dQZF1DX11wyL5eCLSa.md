@@ -2,9 +2,9 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Meme del Real en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Yeyo en Portada.
 
-607 songs - 1 day 12 hr 30 min
+608 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Donde Vivimos Juntos](https://open.spotify.com/track/3utYGrlEOApB9dH2TQuU9Z) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Donde Vivimos Juntos](https://open.spotify.com/album/3pKBfwGAhcVcdq6UYISDIM) | 3:12 | 2025-01-31 |  |
 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 | 2022-04-20 | 2022-09-04 |
 | [Dos No Enamorados](https://open.spotify.com/track/3f1VHlGQob0026MFVRSOYi) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Dos No Enamorados](https://open.spotify.com/album/2NBUuJLDtwmX169TRhljhM) | 3:52 | 2022-09-28 | 2022-11-24 |
-| [dramamine64](https://open.spotify.com/track/5pAdRcvMF7ALasf6hm0AV2) | [Point Decster](https://open.spotify.com/artist/6ofWq57inP1I2Fr3X08uR7) | [dramamine64](https://open.spotify.com/album/6t9YXpejAdr7kcCJlE6jfl) | 3:23 | 2025-01-17 |  |
+| [dramamine64](https://open.spotify.com/track/5pAdRcvMF7ALasf6hm0AV2) | [Point Decster](https://open.spotify.com/artist/6ofWq57inP1I2Fr3X08uR7) | [dramamine64](https://open.spotify.com/album/6t9YXpejAdr7kcCJlE6jfl) | 3:23 | 2025-01-17 | 2025-04-02 |
 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2021-12-17 |  |
 | [Dulce y Amargo](https://open.spotify.com/track/5D3CxWrRvLCKRq4r7bt27j) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Dulce y Amargo](https://open.spotify.com/album/6zA9mGPGpWnoT0jmaf3bbn) | 4:12 | 2021-12-17 | 2022-07-02 |
 | [Déjate Caer \- 2024](https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta](https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V) | 3:22 | 2024-03-08 | 2024-05-18 |
@@ -280,6 +280,7 @@
 | [LA NUBE EN EL JARDÍN](https://open.spotify.com/track/26SAoKWE9LyFHDfAkDzN0i) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [LA NUBE EN EL JARDÍN](https://open.spotify.com/album/2eBqNcxUvgWhj6GfpoaFSW) | 53:49 | 2024-11-08 | 2024-11-30 |
 | [La Orilla](https://open.spotify.com/track/3dFqQse30uPsmAWjw67dql) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [La Orilla](https://open.spotify.com/album/7bwz4aqT6xHJs7x2UiXNhP) | 3:19 | 2024-04-19 | 2024-09-07 |
 | [La Persiana](https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Persiana](https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU) | 2:06 | 2023-06-16 | 2023-06-24 |
+| [La Put4 Makin4 del Di4blo](https://open.spotify.com/track/59MTDfuO9KMQglj1eUT9og) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [Tu Put4 Obsesi0n](https://open.spotify.com/album/77foPnVITCbEBMJWvJM2Z3) | 2:18 | 2025-04-02 |  |
 | [La sangre en el cuerpo \- En Vivo](https://open.spotify.com/track/6AnVTLDZWEiY7zu3JnpNQe) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La sangre en el cuerpo \(En Vivo\)](https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J) | 4:50 | 2023-04-14 | 2023-05-18 |
 | [La Sombra del Amanecer](https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [La Sombra del Amanecer](https://open.spotify.com/album/25i71egTd0RdShae3PQcve) | 6:16 | 2023-10-27 | 2024-01-27 |
 | [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 | 2022-02-24 | 2023-12-16 |

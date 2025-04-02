@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 5269,
+  "num_followers": 5273,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 140166,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Iza Mawala (feat. Dladla Mshunqisi & Goldmax)",
         "url": "https://open.spotify.com/album/5EBJ5rZbVPpvhooXsDXP2g"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 395044,
       "name": "Iza Mawala (feat. Dladla Mshunqisi & Goldmax)",
       "url": "https://open.spotify.com/track/0Xc5lXQ1Q1NxGyL7SSXnF9"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 140166,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
       "added_at": "2024-12-19 13:12:01",

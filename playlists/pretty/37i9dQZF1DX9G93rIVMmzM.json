@@ -1,12 +1,12 @@
 {
   "description": "for the baddies.",
-  "num_followers": 331416,
+  "num_followers": 331591,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9cAAAAAD0ZWweTNUe+Mln5xSceBzH",
+  "snapshot_id": "Z+wDBwAAAAAzRwh9G19CEU2Y44aFA26E",
   "tracks": [
     {
       "added_at": "2025-03-07 05:00:32",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
     },
     {
+      "added_at": "2025-04-01 15:15:19",
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "SHALLOW",
+      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
+    },
+    {
       "added_at": "2025-03-07 05:00:32",
       "album": {
         "name": "Tonight (demo)",
@@ -683,6 +699,22 @@
       "duration_ms": 170462,
       "name": "velvet",
       "url": "https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN"
+    },
+    {
+      "added_at": "2025-04-01 15:15:19",
+      "album": {
+        "name": "PLEASER",
+        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "PLEASER",
+      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -879,22 +911,6 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "GALORE",
-        "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
         "name": "Remnants of the Vessel",
         "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
       },
@@ -907,6 +923,22 @@
       "duration_ms": 306782,
       "name": "Echolalia",
       "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "GALORE",
+        "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -1219,38 +1251,6 @@
       "duration_ms": 190428,
       "name": "I Shift",
       "url": "https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
-        "name": "Sleep Now, In Reverse",
-        "url": "https://open.spotify.com/album/7FO5FYSOvklvOHwnHqQW4F"
-      },
-      "artists": [
-        {
-          "name": "Iress",
-          "url": "https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc"
-        }
-      ],
-      "duration_ms": 325142,
-      "name": "Lovely (Forget Me Not)",
-      "url": "https://open.spotify.com/track/3zyL8LRNulKlAHTtAB8Wh5"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
-        "name": "Love me, slow",
-        "url": "https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K"
-      },
-      "artists": [
-        {
-          "name": "PALESKIN",
-          "url": "https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Love me, slow",
-      "url": "https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ"
     }
   ],
   "unique_name": "ALLURE",

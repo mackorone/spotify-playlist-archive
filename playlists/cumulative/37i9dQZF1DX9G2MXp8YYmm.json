@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "D\u00f6nemem Ona",
+        "url": "https://open.spotify.com/album/5xSW1OcGtEBVlMX2Wurrgt"
+      },
+      "artists": [
+        {
+          "name": "Soner Sar\u0131kabaday\u0131",
+          "url": "https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "D\u00f6nemem Ona",
+      "url": "https://open.spotify.com/track/0KF1y5k6Q4mLfoDl3yGihn"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya Hevesi",
         "url": "https://open.spotify.com/album/7u9u9vazmcEszj6k1G3TVE"
       },
@@ -2430,6 +2448,24 @@
       "duration_ms": 234505,
       "name": "Kara G\u00f6z\u00fcn\u00fcn Hasretinden",
       "url": "https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E"
+    },
+    {
+      "album": {
+        "name": "Karal\u0131m",
+        "url": "https://open.spotify.com/album/6Dz4jZGoLAlUuSbVIqPAoe"
+      },
+      "artists": [
+        {
+          "name": "Kubilay Kar\u00e7a",
+          "url": "https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206613,
+      "name": "Karal\u0131m",
+      "url": "https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H"
     },
     {
       "album": {
@@ -3476,7 +3512,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 158966,
       "name": "Sevmek Yordu",
       "url": "https://open.spotify.com/track/3m9g9R4KE3LzBBKipOLet8"
@@ -3494,7 +3530,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 143693,
       "name": "sga",
       "url": "https://open.spotify.com/track/3wxylsVa0oe4zNmWiD5xFt"

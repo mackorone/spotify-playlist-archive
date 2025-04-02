@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1%](https://open.spotify.com/track/6rlo6XpkwwlFRksxLsCqYK) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:31 | 2022-01-11 |  |
+| [1%](https://open.spotify.com/track/6rlo6XpkwwlFRksxLsCqYK) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:31 | 2022-01-11 | 2025-04-02 |
 | [Ain't No Right](https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 | 2022-01-19 | 2024-07-18 |
 | [Been Caught Stealing](https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf) | 3:33 | 2022-08-20 | 2024-01-23 |
 | [Been Caught Stealing](https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 | 2022-01-11 |  |
@@ -59,7 +59,7 @@
 | [Then She Did...](https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 8:20 | 2022-01-11 |  |
 | [Three Days](https://open.spotify.com/track/05AW0o01NVyzWn52uM9boY) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 10:48 | 2022-01-11 |  |
 | [To Match The Sun](https://open.spotify.com/track/3XYHyEs2go41Bcsbn2vPXz) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 5:25 | 2022-01-27 | 2022-01-29 |
-| [Trip Away](https://open.spotify.com/track/7KAm9ZLmSaqFnbHBGQx2M8) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:34 | 2022-01-11 | 2022-10-13 |
+| [Trip Away](https://open.spotify.com/track/7KAm9ZLmSaqFnbHBGQx2M8) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:34 | 2022-01-11 |  |
 | [True Love](https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [True Love](https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF) | 3:43 | 2024-09-20 |  |
 | [True Nature](https://open.spotify.com/track/2iAo34ybicqwWVYM2aF3xr) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:49 | 2022-01-11 |  |
 | [Twisted Tales](https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 4:29 | 2022-01-11 |  |

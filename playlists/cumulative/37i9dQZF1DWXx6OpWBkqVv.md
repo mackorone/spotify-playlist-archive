@@ -4,7 +4,7 @@
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
-140 songs - 8 hr 58 min
+141 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Heads Will Roll](https://open.spotify.com/track/1YaOIrutGLebjpneXgQqol) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spring Breakers 2021](https://open.spotify.com/album/3mc7YfYD6vojcREl0OA6Ly) | 3:41 | 2022-01-20 | 2022-11-13 |
 | [Heads Will Roll](https://open.spotify.com/track/3zvHOVC4jikl6jORSr6OLE) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/5HBmdEPIzWtcWwH2JSv7go) | 3:41 | 2021-10-15 |  |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2022-01-20 | 2024-04-19 |
+| [Hide It Away](https://open.spotify.com/track/2XLG8FRWlCChHrbfs9YvQN) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [More](https://open.spotify.com/album/1h6FJ7fi2IBcYhmeno64Zl) | 2:49 | 2025-04-01 |  |
 | [If You Wanna](https://open.spotify.com/track/0KNVDEeZWXZPIYKqJeRRpX) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from the Vaccines?](https://open.spotify.com/album/6eWtdQm0hSlTgpkbw4LaBG) | 2:54 | 2021-10-15 |  |
 | [If You Wanna](https://open.spotify.com/track/3VaCWm6MMabDxJAzpedeQi) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [The Hits](https://open.spotify.com/album/6B8yhZXyWT9BIG3qoSI84x) | 2:54 | 2022-01-20 | 2022-11-14 |
 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 | 2022-01-20 | 2024-04-19 |
@@ -92,7 +93,7 @@
 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 | 2021-10-15 |  |
 | [Ready For The Floor](https://open.spotify.com/track/1nZM07V3Vb9Vj71vC7gbmV) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Ready For The Floor](https://open.spotify.com/album/4mabn7xQzCSQKYbA0YPewq) | 3:54 | 2022-01-20 | 2022-11-14 |
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2022-01-20 | 2024-04-19 |
-| [Ready For The Floor](https://open.spotify.com/track/7lsFHOFeMyWiqaKrESLudT) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/7KUjoofW5kTfAHFDyGA953) | 3:54 | 2021-10-15 |  |
+| [Ready For The Floor](https://open.spotify.com/track/7lsFHOFeMyWiqaKrESLudT) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/7KUjoofW5kTfAHFDyGA953) | 3:54 | 2021-10-15 | 2025-04-02 |
 | [Rebellion \(Lies\)](https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:10 | 2021-10-15 |  |
 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 | 2022-01-20 | 2024-04-19 |
 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 | 2021-10-15 |  |

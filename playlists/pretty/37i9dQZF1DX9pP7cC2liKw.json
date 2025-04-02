@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 317016,
+  "num_followers": 317297,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
+      "added_at": "2023-02-02 00:29:46",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
+    },
+    {
       "added_at": "2023-02-03 04:49:29",
       "album": {
         "name": "Porque Yo",
@@ -943,22 +959,6 @@
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
-    },
-    {
-      "added_at": "2023-02-02 00:29:46",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
       "added_at": "2024-05-30 03:07:45",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
     },
     {
+      "added_at": "2024-09-06 18:30:54",
+      "album": {
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+      },
+      "artists": [
+        {
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+        }
+      ],
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+    },
+    {
       "added_at": "2024-07-05 04:11:16",
       "album": {
         "name": "R-A-B-I-A",
@@ -1125,20 +1141,24 @@
       "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
     },
     {
-      "added_at": "2024-09-06 18:30:54",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+        "name": "Noche de Amor",
+        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
       "artists": [
         {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        },
+        {
+          "name": "Juancho Vargas",
+          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
         }
       ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+      "duration_ms": 443874,
+      "name": "Noche de Amor",
+      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1159,26 +1179,6 @@
       "duration_ms": 235856,
       "name": "Uno Con El Sol",
       "url": "https://open.spotify.com/track/1eWM5SGoiXBXNpFAEoKMxg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Noche de Amor",
-        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        },
-        {
-          "name": "Juancho Vargas",
-          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
-        }
-      ],
-      "duration_ms": 443874,
-      "name": "Noche de Amor",
-      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
       "added_at": "2022-08-11 18:18:05",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     },
     {
-      "added_at": "2022-08-19 01:51:18",
-      "album": {
-        "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
-        "url": "https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Archer",
-          "url": "https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa"
-        }
-      ],
-      "duration_ms": 266401,
-      "name": "Ain't Nobody - 12\" Mix",
-      "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Hybridism",
@@ -1243,6 +1227,22 @@
       "duration_ms": 308813,
       "name": "Aima",
       "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
+    },
+    {
+      "added_at": "2022-08-19 01:51:18",
+      "album": {
+        "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
+        "url": "https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Archer",
+          "url": "https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa"
+        }
+      ],
+      "duration_ms": 266401,
+      "name": "Ain't Nobody - 12\" Mix",
+      "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
     },
     {
       "added_at": "2022-06-15 04:26:09",

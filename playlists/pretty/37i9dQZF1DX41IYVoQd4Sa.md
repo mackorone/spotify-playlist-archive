@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : שקל וגלעד כהנא
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,718 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,724 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 36 | [בסוף אני מגן דוד](https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf) | [Avihu Pinhasov Rhythm Club](https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r) | [בסוף אני מגן דוד](https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW) | 3:54 |
 | 37 | [שבתות וחגים](https://open.spotify.com/track/2st7mVorFZpOBrZEzeIt7a) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY), [Korin Allal](https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7) | [סימנים מקדימים](https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd) | 4:25 |
 | 38 | [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 |
-| 39 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 |
-| 40 | [Hate You Instead](https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Hate You Instead](https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1) | 3:01 |
+| 39 | [Hate You Instead](https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Hate You Instead](https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1) | 3:01 |
+| 40 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 |
 | 41 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
 | 42 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 43 | [Running Out of Time](https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH) | [Running Out of Time](https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW) | 3:00 |
-| 44 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
-| 45 | [הכי אוהב אותי](https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [הכי אוהב אותי](https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C) | 2:30 |
+| 44 | [הכי אוהב אותי](https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [הכי אוהב אותי](https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C) | 2:30 |
+| 45 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 46 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
 | 47 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 |
 | 48 | [לא זמן טוב](https://open.spotify.com/track/7rJw8ABsu0fwWFSiQJ3zWD) | [Omer Moskovich](https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s) | [לא זמן טוב](https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY) | 3:50 |

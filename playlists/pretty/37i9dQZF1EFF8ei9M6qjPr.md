@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 93 | [Invisible](https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Invisible](https://open.spotify.com/album/2tUpSas8r57RnM6BZnVGAn) | 3:17 |
 | 94 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 |
 | 95 | [Supernova](https://open.spotify.com/track/2Tb9VdP35jbF4GJmC869uu) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:28 |
-| 96 | [Tight Rope](https://open.spotify.com/track/5NeLJqVbSo5hhrxBSuLhRY) | [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD) | [11:11](https://open.spotify.com/album/7u4fzlWAGPHodLj0lPDuyD) | 3:05 |
-| 97 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 |
+| 96 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 |
+| 97 | [Tight Rope](https://open.spotify.com/track/5NeLJqVbSo5hhrxBSuLhRY) | [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD) | [11:11](https://open.spotify.com/album/7u4fzlWAGPHodLj0lPDuyD) | 3:05 |
 | 98 | [Conversations in the Dark \- Violin Remix](https://open.spotify.com/track/6ujkVvJAlQ39Ra0E2tKx8M) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [John Legend x Lindsey Stirling: The Violin Remixes](https://open.spotify.com/album/1K2wTjP6DYiAljLN10283k) | 3:42 |
 | 99 | [Trojan](https://open.spotify.com/track/512iljhgcY6CaENb5AZUYi) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Trojan](https://open.spotify.com/album/2A9g8Bla0yKYnwcCrmPBdh) | 2:19 |
 | 100 | [Sick of Me Too](https://open.spotify.com/track/6eMq93ZAXM4p3lUTcn5RMb) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/3YiObZSEulFloi6gA9V0rf) | 2:31 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 164 | [ALL I NEED](https://open.spotify.com/track/6Qdsd8iXAdcmDvBdAMz3WL) | [Mia Sora](https://open.spotify.com/artist/5KfyVusD5stu0TBkXqAqiw) | [ALL I NEED](https://open.spotify.com/album/2e7iBgtxzE2lymEAjYSnS5) | 3:30 |
 | 165 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AbtjswAAAAC4rJerh+bm37w0qvsii1AU`
+Snapshot ID: `AbtpFgAAAAAKvxKj0yEJ3FkALx7GR7tC`

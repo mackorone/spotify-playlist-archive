@@ -4,7 +4,7 @@
 
 > Welcome to the Hope World! 💜
 
-54 songs - 2 hr 37 min
+58 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,10 @@
 | [MAMA](https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:32 | 2023-05-22 | 2024-04-19 |
 | [MAMA](https://open.spotify.com/track/7DNO9SkH0OEepTm6ghAH17) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/6KVwzLFpFzAzYPdG5kIWc8) | 3:32 | 2024-03-29 |  |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-21 |  |
+| [MONA LISA \(Afro House Remix\)](https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA \(Remix so fine\)](https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp) | 3:05 | 2025-04-01 |  |
+| [MONA LISA \(Slowed Down\)](https://open.spotify.com/track/1VEKXKcdSauL5ahhnaPbWY) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA \(Remix so fine\)](https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp) | 2:40 | 2025-04-01 |  |
+| [MONA LISA \(Sped Up\)](https://open.spotify.com/track/1VPW9s74aJC6OZL6G38K9D) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA \(Remix so fine\)](https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp) | 1:59 | 2025-04-01 |  |
+| [MONA LISA \(UK Garage Remix\)](https://open.spotify.com/track/30pTVbbJCQXG46gQn4GFni) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA \(Remix so fine\)](https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp) | 2:19 | 2025-04-01 |  |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-09 |  |
 | [MORE \(Instrumental\)](https://open.spotify.com/track/5rJgabqFRVuC3yN7f7L5IC) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box \(HOPE Edition\)](https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6) | 2:58 | 2023-08-18 |  |
 | [Music Box : Reflection](https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:10 | 2022-07-15 |  |

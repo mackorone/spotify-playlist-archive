@@ -4,7 +4,7 @@
 
 > 
 
-6,561 songs - 17 day 3 hr 57 min
+6,564 songs - 17 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1187,6 +1187,7 @@
 | [Dark Knight Dummo \(Feat\. Travis Scott\)](https://open.spotify.com/track/3YeJXuRSNS5FYwOsDu44kD) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dark Knight Dummo \(Feat\. Travis Scott\)](https://open.spotify.com/album/0D2ArJUb7VQ2tVmsHZohUZ) | 4:16 | 2025-01-15 |  |
 | [Dark Queen](https://open.spotify.com/track/2ZdCrBA52bb4pIG3tOOZiQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 2:53 | 2025-01-03 |  |
 | [Dark Red](https://open.spotify.com/track/3FkTxVBsQHrwMh3IyfKO81) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/47DbvIExnHbqAhIuzBAO9W) | 2:53 | 2025-01-15 |  |
+| [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-04-01 |  |
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2025-01-15 |  |
 | [Dat $tick \(Remix\) \(feat\. Ghostface Killah & Pouya\)](https://open.spotify.com/track/1YTz8nFEQi7t0VeZ1ppvy0) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [Dat $tick \(Remix\) \[feat\. Ghostface Killah & Pouya\]](https://open.spotify.com/album/6ptIGPGRpB1aLcmlEFEksD) | 3:17 | 2025-01-15 |  |
 | [Dawn in the Adan](https://open.spotify.com/track/5Wdyg2LLFZPPlYUntexViV) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 4:45 | 2025-01-03 |  |
@@ -1681,6 +1682,7 @@
 | [Five More Minutes](https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 4:01 | 2025-01-15 |  |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2024-12-14 |  |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2024-12-14 |  |
+| [Flamingo](https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Flamingo](https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq) | 3:17 | 2025-04-01 |  |
 | [FLARE](https://open.spotify.com/track/18dWBsEdWdGA1MRPN95H1X) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [LIO](https://open.spotify.com/artist/3TaoBigLDNClJ5pm7NBIRb) | [FLARE](https://open.spotify.com/album/7jzKRRK71xVB1BvWr9akZd) | 4:34 | 2025-01-15 |  |
 | [Flash](https://open.spotify.com/track/5jNlLEY5Q1Oi0XiZbsRF8i) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [BLU\-SWING 10th ANNIVERSARY BEST](https://open.spotify.com/album/5G1FFZKqPPcxNAEj6zFBEw) | 4:25 | 2025-01-19 |  |
 | [FLASH](https://open.spotify.com/track/0iCOM7P9YJosI9G6mIvU3K) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Perfume The Best "P Cubed"](https://open.spotify.com/album/2ys3daPjlHkDZqN3MuKXec) | 4:37 | 2025-01-15 |  |
@@ -4030,6 +4032,7 @@
 | [Rainy Tapestry](https://open.spotify.com/track/3INsIMe6Ap6EJ2xXgt9NB8) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 5:26 | 2025-01-03 |  |
 | [Ramblin' Man](https://open.spotify.com/track/7y4CK8bbzxpyKu73WOvgHJ) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Super Deluxe\)](https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw) | 4:48 | 2024-12-05 |  |
 | [Rambo](https://open.spotify.com/track/5RqsqQU0erB0OgLbwem6pU) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:43 | 2024-12-10 |  |
+| [Ramenez la coupe à la maison](https://open.spotify.com/track/45eY7Qi2PDUs8WJEhjGWdN) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Ramenez la coupe à la maison](https://open.spotify.com/album/0Dzpgp18I60Bmgdv8IOaxv) | 3:55 | 2025-04-01 |  |
 | [range brothers \(with Kendrick Lamar\)](https://open.spotify.com/track/0UTyLmkQgPOEIz95OVAJTR) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 5:16 | 2024-12-10 |  |
 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 | 2025-01-03 |  |
 | [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 6:03 | 2025-01-03 |  |

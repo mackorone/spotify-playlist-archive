@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-1,275 songs - 3 day 15 hr 13 min
+1,276 songs - 3 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Casino Niagara](https://open.spotify.com/track/34X6sen1cw8Vs96nBk79OK) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/0nNTcdbzi1dqnNZcJR6uS2) | 4:02 | 2023-08-02 | 2023-09-21 |
 | [Cassius, Brutus & Judas](https://open.spotify.com/track/7cH7vJWo1XjR0UHtVyBZuT) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Cassius, Brutus & Judas](https://open.spotify.com/album/6O5wo3zXHE631tnWH46juq) | 2:47 | 2024-06-12 | 2024-07-18 |
 | [Cat Burglar](https://open.spotify.com/track/6tN06h74fSHXd23yAjSXvC) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Nom Nom Nom / Cat Burglar](https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx) | 4:16 | 2024-11-26 | 2025-01-30 |
+| [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-01 |  |
 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 | 2025-02-26 |  |
 | [Cellophane Dreams](https://open.spotify.com/track/2UTrgaRRHRypMDESenWxbw) | [Conor Kenahan](https://open.spotify.com/artist/1l1xhd3meqLKqYtokdwSHc) | [Cellophane Dreams / Jane](https://open.spotify.com/album/5r8oLpmLOwPayVSO6LIT0F) | 2:54 | 2023-05-24 | 2023-07-06 |
 | [Chain Reaction](https://open.spotify.com/track/5czdXtcbsQDJpKlnh35FDO) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Chain Reaction](https://open.spotify.com/album/0DWznw4xDVTnmdAVPVgMpc) | 2:51 | 2025-02-19 | 2025-03-28 |

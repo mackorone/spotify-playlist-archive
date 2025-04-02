@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Can We Do This Over",
+        "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Can We Do This Over",
+      "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
+    },
+    {
+      "album": {
         "name": "Y5",
         "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
       },
@@ -4038,7 +4056,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 171000,
       "name": "Heart Of A Woman",
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
@@ -6204,7 +6222,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
@@ -11536,6 +11554,24 @@
       "duration_ms": 169846,
       "name": "yk, i'm good",
       "url": "https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172294,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"
     },
     {
       "album": {

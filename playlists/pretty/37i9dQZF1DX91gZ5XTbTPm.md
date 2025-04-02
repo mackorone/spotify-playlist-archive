@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,046 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,095 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 2 | [Look Like](https://open.spotify.com/track/4jtF5coEPlEaoYzzr96iTE) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [Still Bussin](https://open.spotify.com/album/0WFYOaHjMHBtu4vuoiWdAt) | 2:56 |
 | 3 | [Me Vs Me](https://open.spotify.com/track/3ByGIhWMgrTLmnvfQqeFxb) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Tweak Till The End](https://open.spotify.com/album/2S5JzCvr84WDdl1h9Gcoci) | 2:45 |
 | 4 | [Am I Wrong?](https://open.spotify.com/track/6XLW8iiuaGeSwHXoox3h2s) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Am I Wrong?](https://open.spotify.com/album/3uAQYZlvTqD0NdJKjc3gdU) | 2:39 |
-| 5 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 |
+| 5 | [YN](https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [YN](https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK) | 3:51 |
 | 6 | [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 |
 | 7 | [Speaking French \(feat\. Babyfxce E & 1up Tee\)](https://open.spotify.com/track/1jRpdTKZHbT2DGRf1fuXTB) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Estrella \(Deluxe\)](https://open.spotify.com/album/3mq6ykBgiVWq0C9vm5Frs0) | 2:02 |
 | 8 | [Controversy 2 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:00 |

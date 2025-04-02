@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Sufjan Stevens
 
-679 songs - 1 day 18 hr 4 min
+680 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Masterpiece \- solo](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 | 2022-06-24 | 2024-01-06 |
 | [May](https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/69bmzUtPRFNdCMjsiD11kJ) | 3:58 | 2021-10-22 | 2022-07-16 |
 | [Mean Guy](https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [With a Lightning Strike](https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr) | 3:29 | 2024-10-18 |  |
-| [Mecca](https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 4:51 | 2022-06-24 |  |
+| [Mecca](https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 4:51 | 2022-06-24 | 2025-04-02 |
 | [medication](https://open.spotify.com/track/2ZYnR8cJOI0yN0IMk3eAVn) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [medication](https://open.spotify.com/album/1hvKWVkosXqh4q0wpEuLIY) | 3:51 | 2025-02-07 | 2025-04-01 |
 | [Memorial](https://open.spotify.com/track/1sXdly4AscLh38opR7AkAN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Memorial](https://open.spotify.com/album/2442xkROtnAcVWFuWQgRTE) | 4:38 | 2021-10-22 | 2022-07-24 |
 | [Memory Palace](https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 4:01 | 2023-06-30 | 2024-01-06 |
@@ -405,6 +405,7 @@
 | [Moving Away](https://open.spotify.com/track/4SQvFRCAM6FY9ljcyQ1IMO) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Moving Away](https://open.spotify.com/album/2dSPhyyjETTAF5hZMEZaHn) | 3:40 | 2024-01-05 | 2024-04-27 |
 | [My Beloved](https://open.spotify.com/track/4zmRB0EP0QgUBY0sEh6OZy) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [The Pressing In](https://open.spotify.com/album/0jLITJvsGDolvrwDU3U5mM) | 4:30 | 2024-04-05 | 2024-08-03 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-15 |  |
+| [Mystery Of Love \- Demo](https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery Of Love \(Demo\)](https://open.spotify.com/album/06pLW7elratms6S5yufTzn) | 4:04 | 2025-03-31 |  |
 | [Neon Blue](https://open.spotify.com/track/3C5IAL2ayPXvM1PVEdwUra) | [Amelia Meath](https://open.spotify.com/artist/4SJK5TEZ2G0OOIJeMSSdRb), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Neon Blue](https://open.spotify.com/album/6Sv9Zb6DjvYArLOAAb40aS) | 2:59 | 2021-10-22 | 2024-10-19 |
 | [Never Alone](https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Never Alone](https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU) | 2:23 | 2023-05-05 |  |
 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 | 2024-08-02 |  |

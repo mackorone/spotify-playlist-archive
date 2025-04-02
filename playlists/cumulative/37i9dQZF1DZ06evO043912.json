@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256932,
+      "name": "Eje Ka Ma Jo",
+      "url": "https://open.spotify.com/track/2vYBnG0sn4VwgKhA2BVxlI"
+    },
+    {
+      "album": {
         "name": "Juju Music",
         "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
       },

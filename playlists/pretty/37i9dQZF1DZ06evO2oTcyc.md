@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,605 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,647 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 47 | [Hit Stick](https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Stick](https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN) | 3:13 |
 | 48 | [Cyber Truck](https://open.spotify.com/track/4DpqKZHmMLx1YN8ieULMp9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:34 |
 | 49 | [Bestie \(feat\. Kodak Black\)](https://open.spotify.com/track/4lFBfri98nc9yDjQKVaQZ0) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bestie \(feat\. Kodak Black\) \[Spenda C Nola Bounce Remix\]](https://open.spotify.com/album/3VelGGa5ZgDXNhwsVCh9BL) | 2:20 |
-| 50 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 2:35 |
+| 50 | [Testimony](https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 4:00 |
 
-Snapshot ID: `Z+iJgAAAAACQ1bo05mRjzsf7C0TXp0oR`
+Snapshot ID: `Z+nbAAAAAABvTZLbXC1fs6CpkcHgtBUr`

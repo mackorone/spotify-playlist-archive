@@ -220,6 +220,24 @@
     {
       "album": {
         "name": "Lost On You",
+        "url": "https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173511,
+      "name": "Death Valley",
+      "url": "https://open.spotify.com/track/3zqdzaUeXFrMk6wRz5Fd9A"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
         "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
       },
       "artists": [
@@ -230,7 +248,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 173511,
       "name": "Death Valley",
       "url": "https://open.spotify.com/track/5zEIsGLEDLpdzWU89dvTpl"
@@ -1438,10 +1456,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 208257,
       "name": "No Witness",
       "url": "https://open.spotify.com/track/6dLAGp6YfJ7TIEU5UZLokn"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208257,
+      "name": "No Witness",
+      "url": "https://open.spotify.com/track/7nrLAS1LDhsVrEi8RrvGxh"
     },
     {
       "album": {

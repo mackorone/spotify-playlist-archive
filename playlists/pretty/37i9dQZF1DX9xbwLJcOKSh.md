@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,467 likes - 73 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,469 likes - 73 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 59 | [木漏れび](https://open.spotify.com/track/2mfGMATyARqZny4SqeF6uH) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [雪のワルツ](https://open.spotify.com/album/36uDS3bXbHIXtF9286vaYs) | 3:29 |
 | 60 | [海街diary](https://open.spotify.com/track/7kY6SVaSuLmvFTUfZsutFX) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [海街diary オリジナルサウンドトラック](https://open.spotify.com/album/3zjLKUBam57KIIlHfuSXWX) | 2:04 |
 | 61 | [WO QUI NON COIN](https://open.spotify.com/track/785rHlWIQg67RVPuzOv07u) | [多田葵](https://open.spotify.com/artist/2GA3vR0niTdN9RJItcLMtK) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 3:41 |
-| 62 | [BLUE](https://open.spotify.com/track/3to42U3gINcBO7oStx7qlh) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 5:01 |
+| 62 | [BLUE](https://open.spotify.com/track/3to42U3gINcBO7oStx7qlh) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 5:01 |
 | 63 | [Chance To Shine](https://open.spotify.com/track/4X5GKBvSgQ1wRPQQJJQWjP) | [AKINO from bless4](https://open.spotify.com/artist/20RpnyBvpyBQVSABHEokTd) | [Lost in Time](https://open.spotify.com/album/1dvphJVpGj21fGOkOHfclZ) | 5:41 |
-| 64 | [THE REAL FOLK BLUES](https://open.spotify.com/track/3hhiF1IJa3inOKToUylE7B) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn) | [「COWBOY BEBOP」Vitaminless](https://open.spotify.com/album/3xc0ZAAaQT1peXizHAM1wm) | 6:16 |
+| 64 | [THE REAL FOLK BLUES](https://open.spotify.com/track/3hhiF1IJa3inOKToUylE7B) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [「COWBOY BEBOP」Vitaminless](https://open.spotify.com/album/3xc0ZAAaQT1peXizHAM1wm) | 6:16 |
 | 65 | [CAT'S DELICACY](https://open.spotify.com/track/2Auw3uM56Iix08apX4KooS) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [天空のエスカフローネ　ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/7gUvlTqCFjxTKUBTYw29qZ) | 3:19 |
 | 66 | [White Falcon](https://open.spotify.com/track/0adVlpoDH1AI0aT30emfSb) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [∀ガンダム Original Soundtrack II \- ディアナ＆キエル](https://open.spotify.com/album/21PHw1ZSVzmiJBX0DWYRrf) | 1:59 |
 | 67 | [i do](https://open.spotify.com/track/0a1lNJpEUI3bOTI5VEdgaP) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 4:49 |

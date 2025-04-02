@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,174 songs - 2 day 19 hr 38 min
+1,175 songs - 2 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-11-06 |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2021-11-19 | 2022-02-17 |
 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 | 2025-03-20 | 2025-03-29 |
-| [Bersabarlah Sayang](https://open.spotify.com/track/460DbFlJM33MPBPBJ31ZfD) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [Taj Mahal](https://open.spotify.com/album/6wBzhPqkFCMGJMJmdZ2js4) | 3:29 | 2022-05-02 |  |
+| [Bersabarlah Sayang](https://open.spotify.com/track/460DbFlJM33MPBPBJ31ZfD) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [Taj Mahal](https://open.spotify.com/album/6wBzhPqkFCMGJMJmdZ2js4) | 3:29 | 2022-05-02 | 2025-04-02 |
 | [Bersabarlah Sayang](https://open.spotify.com/track/5qNYqFC0EjNOsUu5p5I8ES) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [Siri Bintang Pujaan](https://open.spotify.com/album/6uAIpQiqmebVpaIEPUPakP) | 3:31 | 2021-05-14 | 2021-05-15 |
 | [Bersama Di Hari Raya](https://open.spotify.com/track/43eUXVOAVjsBQtP6mYj2SG) | [Cenderawasih](https://open.spotify.com/artist/58L8OvnHTDYi9bZVRSw5DC) | [25 Lagu\-Lagu Hari Raya Aidilfitri](https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc) | 2:39 | 2024-04-04 | 2024-04-15 |
 | [Bersama Di Hari Raya](https://open.spotify.com/track/7FpwJEve44YORFJ04Obu63) | [Cenderawasih](https://open.spotify.com/artist/58L8OvnHTDYi9bZVRSw5DC) | [Bersama Di Hari Raya](https://open.spotify.com/album/3OBDQ9toV2xCPEyyooW5nD) | 2:39 | 2021-05-10 |  |
@@ -963,6 +963,7 @@
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 | 2024-02-16 | 2024-02-18 |
 | [Style](https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-07-06 | 2023-11-11 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-03 |
+| [Suara Lebaran Kita](https://open.spotify.com/track/6oFpHmJ7kVwGlCJgdPZbdx) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL), [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Suara Lebaran Kita](https://open.spotify.com/album/1tpyzwVfLyZtxw3rIteF4O) | 3:17 | 2025-04-01 |  |
 | [Suasana Di Hari Raya](https://open.spotify.com/track/2rZIyoaIZBaWtr1954sxyO) | [Anuar & Ellina](https://open.spotify.com/artist/3SDiNzzzX6i660bxil2I3M) | [25 Lagu\-Lagu Hari Raya Aidilfitri](https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc) | 3:15 | 2024-03-24 | 2025-03-29 |
 | [Suasana Di Hari Raya](https://open.spotify.com/track/1IMsCuONQDaYYrgt4ehMbI) | [Anuar & Ellina](https://open.spotify.com/artist/3SDiNzzzX6i660bxil2I3M) | [Suasana Di Hari Raya](https://open.spotify.com/album/0NtEx7iMEd9uI6rw2KkWyP) | 3:15 | 2021-04-29 |  |
 | [Suasana Hari Raya](https://open.spotify.com/track/69xmMtzLEVxACrVckHBrY3) | [Datuk Sharifah Aini](https://open.spotify.com/artist/0EAfDSxGzS4bal72IMoHHQ) | [Syawal 1424](https://open.spotify.com/album/2NCZTtKR9uQjsK5OIlMtpG) | 2:22 | 2021-05-05 |  |

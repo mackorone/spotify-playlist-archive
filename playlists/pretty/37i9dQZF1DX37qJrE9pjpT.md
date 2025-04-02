@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,132 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,136 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 2 | [Bachela](https://open.spotify.com/track/3P0h3icGbxwgsdH3FIbPs4) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq) | [Bachela](https://open.spotify.com/album/5FAm31IKryLF4D7F7ZyYlO) | 3:49 |
 | 3 | [Kubaya](https://open.spotify.com/track/1anC3aZ4cb3dfLgwOfUpib) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Kubaya](https://open.spotify.com/album/1Nq1KOinn0gaqgctW91fsJ) | 4:37 |
 | 4 | [Heshimu Kazi Yangu](https://open.spotify.com/track/2m18A3BYNSDD8Ip69OJzUI) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn) | [Super Nyota II](https://open.spotify.com/album/1kKkrQrdt54Eizm8qI2FqT) | 3:45 |
-| 5 | [Mariana \- Remix](https://open.spotify.com/track/5YVKNjDGHD1cArxJcfsVri) | [Kenny Guitar](https://open.spotify.com/artist/7AhyAQtH5dDSoe42Ur3FD5), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Mariana \(Remix\)](https://open.spotify.com/album/10o3aA6G4MCb71rw2y07AZ) | 3:32 |
+| 5 | [Mariana \- Remix](https://open.spotify.com/track/5YVKNjDGHD1cArxJcfsVri) | [Kenny Guitar](https://open.spotify.com/artist/5t9Qm6Uv34cgSZSnpbrOmU), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Mariana \(Remix\)](https://open.spotify.com/album/10o3aA6G4MCb71rw2y07AZ) | 3:32 |
 | 6 | [God's Calling](https://open.spotify.com/track/4N58tjFFd8zrTG5S9TqrRm) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [God's Calling](https://open.spotify.com/album/5gNmYmdcx1brQXsPTEfqlJ) | 3:20 |
 | 7 | [Pisi \- remix](https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pisi](https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7) | 3:50 |
 | 8 | [Booty Hummer](https://open.spotify.com/track/47U2je4BkDC340poDxTQV0) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [Booty Hummer](https://open.spotify.com/album/6X5SYBxLPtBaOx8N8qu9Xz) | 3:25 |

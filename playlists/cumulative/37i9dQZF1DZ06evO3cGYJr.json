@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "better than i was",
       "url": "https://open.spotify.com/track/0JQkCncxcmSROtUx48oEPb"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 150843,
       "name": "Daggers",
       "url": "https://open.spotify.com/track/1SYcBqrTEG51ZsGQsiQeOd"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/0YnyPvMnShXzMVFG5oCabe"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 170500,
       "name": "Fragments of your presence",
       "url": "https://open.spotify.com/track/4zuHLGBZ1IFvOnGSTY5aFe"
@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "N0_L4T3NCY: HALCYON PT. IV",
+        "url": "https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162420,
+      "name": "NOT_ALIVE//NOT_DEAD",
+      "url": "https://open.spotify.com/track/1dPgMMtJEMqlze4CgbXQTc"
+    },
+    {
+      "album": {
         "name": "HALCYON",
         "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 162420,
       "name": "NOT_ALIVE//NOT_DEAD",
       "url": "https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU"

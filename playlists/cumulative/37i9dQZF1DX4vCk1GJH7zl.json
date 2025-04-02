@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Calado",
+        "url": "https://open.spotify.com/album/725kdSU9KRz2qn5jdYGayO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168624,
+      "name": "Calado",
+      "url": "https://open.spotify.com/track/5M4w7qwhLqUVN0umLEUy9s"
+    },
+    {
+      "album": {
         "name": "Camale\u00e3o",
         "url": "https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH"
       },
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 186280,
       "name": "N-U-M-A-B-O-A",
       "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"

@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 9472,
+  "num_followers": 9476,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAADpBDcfAD1NxPhxqPZLn4kZ",
+  "snapshot_id": "Z+nbAAAAAADq9xFF57tRYfmOXVm2Iq/w",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 152383,
-      "name": "Tiro de Gracia",
-      "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Que Anda en El Dorado (En Vivo)",
         "url": "https://open.spotify.com/album/2qmSpNf0jhi2QqWqpPgbaw"
       },
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cargamento Del Diablo",
-        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
       },
       "artists": [
         {
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 231533,
-      "name": "El Cargamento Del Diablo",
-      "url": "https://open.spotify.com/track/7sGWaqVuPGvfmXtnF71frT"
+      "duration_ms": 152383,
+      "name": "Tiro de Gracia",
+      "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"
     },
     {
       "added_at": null,
@@ -651,6 +635,38 @@
       "duration_ms": 181026,
       "name": "El Cisne",
       "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cargamento Del Diablo",
+        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "El Cargamento Del Diablo",
+      "url": "https://open.spotify.com/track/7sGWaqVuPGvfmXtnF71frT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Los Juniors De Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Los Juniors De Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
@@ -707,26 +707,6 @@
       "duration_ms": 162771,
       "name": "Gilberto Palomares",
       "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Cama de Piedra (En Vivo)",
-        "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 200377,
-      "name": "La Cama de Piedra (En Vivo)",
-      "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
     },
     {
       "added_at": null,
@@ -763,6 +743,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Cama de Piedra (En Vivo)",
+        "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 200377,
+      "name": "La Cama de Piedra (En Vivo)",
+      "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Compa Many (En Vivo)",
+        "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 171363,
+      "name": "El Compa Many - En Vivo",
+      "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -783,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Compa Many (En Vivo)",
-        "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
       "artists": [
         {
@@ -792,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 171363,
-      "name": "El Compa Many - En Vivo",
-      "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
+      "duration_ms": 161493,
+      "name": "Chapo Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU"
     },
     {
       "added_at": null,
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+        "name": "Cargamento Del Diablo",
+        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
       "artists": [
         {
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 161493,
-      "name": "Chapo Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU"
+      "duration_ms": 191840,
+      "name": "El Hueso Del Perron",
+      "url": "https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD"
     },
     {
       "added_at": null,
@@ -851,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cargamento Del Diablo",
-        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
       "artists": [
         {
@@ -860,29 +876,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 191840,
-      "name": "El Hueso Del Perron",
-      "url": "https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diverso",
-        "url": "https://open.spotify.com/album/3aZHL0BsqDyrlwePDd1JH9"
-      },
-      "artists": [
-        {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 159782,
-      "name": "La Tambora Va a Sonar",
-      "url": "https://open.spotify.com/track/34cDaMb6Sb60r8C13P2SlO"
+      "duration_ms": 196346,
+      "name": "Mi Ranchito Querido",
+      "url": "https://open.spotify.com/track/5NBqQ42L9zHfCb3NJV1HEP"
     }
   ],
   "unique_name": "This Is El Potro De Sinaloa",

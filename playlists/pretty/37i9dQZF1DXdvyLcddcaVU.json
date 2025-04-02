@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 698699,
+  "num_followers": 699307,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+aKxQAAAAAzvq8/grfOgiHJ98hPrLwg",
+  "snapshot_id": "Z+yEjQAAAADsyou/66Xj+88rfERjEFxG",
   "tracks": [
     {
       "added_at": "2025-02-14 15:58:38",
@@ -227,6 +227,30 @@
       "duration_ms": 197720,
       "name": "A Toi...",
       "url": "https://open.spotify.com/track/3GoidwIoiYE1buXhwvjaJS"
+    },
+    {
+      "added_at": "2025-04-02 00:27:57",
+      "album": {
+        "name": "La piraterie",
+        "url": "https://open.spotify.com/album/1AEqrjs8dvbBH8mmE7U9Zy"
+      },
+      "artists": [
+        {
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
+        },
+        {
+          "name": "BIGDA",
+          "url": "https://open.spotify.com/artist/7zVRNjTpd96uUDsDbRr879"
+        },
+        {
+          "name": "Loeil",
+          "url": "https://open.spotify.com/artist/4AOjG0hai0eDiUdy1TEuaN"
+        }
+      ],
+      "duration_ms": 170135,
+      "name": "La piraterie",
+      "url": "https://open.spotify.com/track/6sJncGrdz5lcomB5D2Te9C"
     },
     {
       "added_at": "2025-03-28 11:40:53",
@@ -1085,22 +1109,6 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-01-24 15:02:43",
-      "album": {
-        "name": "NONCHALANT 3",
-        "url": "https://open.spotify.com/album/2iSw6vsvRZB0bmNOz232zv"
-      },
-      "artists": [
-        {
-          "name": "La Chine",
-          "url": "https://open.spotify.com/artist/1uUulBiIlV1H36pgq2QpY0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "NONCHALANT 3",
-      "url": "https://open.spotify.com/track/2XzF8Lst0VqUdHHB67lWde"
-    },
-    {
       "added_at": "2025-03-21 12:55:37",
       "album": {
         "name": "VIBE",
@@ -1176,12 +1184,12 @@
           "url": "https://open.spotify.com/artist/2Br81oYMWDS1tpzhbZeDao"
         },
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        },
-        {
           "name": "Leck",
           "url": "https://open.spotify.com/artist/6EFWFj8GbksweYxSkRkJFe"
+        },
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
       "duration_ms": 215086,

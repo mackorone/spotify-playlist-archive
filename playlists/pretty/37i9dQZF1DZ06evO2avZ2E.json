@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2772,
+  "num_followers": 2773,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAAA+4pbhHkf0cqjyaTGGSyue",
+  "snapshot_id": "Z+nbAAAAAADROu3QFSTJR7yzGpuB+doU",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 239082,
+      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
+      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 233656,
+      "name": "Al Fondo de M\u00ed",
+      "url": "https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OPTEMOS",
+        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "OPTEMOS",
+      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like Giants in The Sky (Le Tour Du Monde - Austin)",
         "url": "https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX"
       },
@@ -659,58 +711,6 @@
       "duration_ms": 182849,
       "name": "Like Giants in The Sky - Le Tour Du Monde - Austin",
       "url": "https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 233656,
-      "name": "Al Fondo de M\u00ed",
-      "url": "https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 239082,
-      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
-      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OPTEMOS",
-        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "OPTEMOS",
-      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
     },
     {
       "added_at": null,

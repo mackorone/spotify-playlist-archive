@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 6 | [Watch Me](https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X) | 2:17 |
 | 7 | [The Things I Do For Love](https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/3dmgdqxyBmZL6vN1PpYSMn) | 2:40 |
 | 8 | [Personal Pornstar](https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:49 |
-| 9 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 |
-| 10 | [SEX MACHINA](https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0) | 2:09 |
+| 9 | [SEX MACHINA](https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0) | 2:09 |
+| 10 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 |
 | 11 | [Grim Reaper](https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug) | 2:50 |
 | 12 | [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q) | 2:03 |
 | 13 | [ENEMIES \(feat\. bludnymph & Shift K3Y\)](https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 2:26 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 26 | [Moonwater](https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Moonwater](https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv) | 1:52 |
 | 27 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `Z+iJgAAAAABBkbCmOUAKnRQXzqY2U8GN`
+Snapshot ID: `Z+nbAAAAAACmM3a1CyB4jWoAzgqyOXFA`

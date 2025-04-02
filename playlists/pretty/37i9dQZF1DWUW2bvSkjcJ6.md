@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Jazeek und SAMIRA \(Cover\), Ariana Grande, Linkin Park und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,590 likes - 88 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,581 likes - 88 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

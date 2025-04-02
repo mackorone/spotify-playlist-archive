@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u4e43\u7d2b",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u30a8\u30a4\u30cf\u30d6",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 242972,
       "name": "Cheetah - Freestyle",
       "url": "https://open.spotify.com/track/0YBzPPtLfs6nMLP5wYZMNo"
@@ -5580,7 +5580,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 222949,
       "name": "Endless Weekend",
       "url": "https://open.spotify.com/track/30flVHNe2WBc4dFk83icKH"
@@ -7364,7 +7364,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 202047,
       "name": "Happy Nante",
       "url": "https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN"
@@ -8180,6 +8180,24 @@
       "duration_ms": 220236,
       "name": "Hozue",
       "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
+    },
+    {
+      "album": {
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/5iqhnNXTFzvpALgEh2Q7dW"
+      },
+      "artists": [
+        {
+          "name": "RLOEVO",
+          "url": "https://open.spotify.com/artist/3dz08OK3pJYraaLrwrVWg0"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262105,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/1oWPsCJHkPExpHIEqXsfTr"
     },
     {
       "album": {
@@ -19111,6 +19129,24 @@
     },
     {
       "album": {
+        "name": "Vitaminc",
+        "url": "https://open.spotify.com/album/43jm54H7pX0vhfREFQ0SxH"
+      },
+      "artists": [
+        {
+          "name": "Meg Bonus",
+          "url": "https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256999,
+      "name": "Vitaminc",
+      "url": "https://open.spotify.com/track/1RRStPuOU2WJKmFtip59Yn"
+    },
+    {
+      "album": {
         "name": "V\u00e9randa",
         "url": "https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT"
       },
@@ -20038,7 +20074,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 236671,
       "name": "You",
       "url": "https://open.spotify.com/track/0k8HPtQUswkuC5dR7hNU1C"
@@ -23301,6 +23337,24 @@
     },
     {
       "album": {
+        "name": "UMANITY",
+        "url": "https://open.spotify.com/album/1LFgTfea3yj1Hn8d5Wqiic"
+      },
+      "artists": [
+        {
+          "name": "AHUB",
+          "url": "https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186894,
+      "name": "\u30ad\u30c7\u30a3\u30fc\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/3lX6GbHiomkQyiuRbelFyo"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30e9\u30dc\u30b7",
         "url": "https://open.spotify.com/album/4VdxIfLBEu7K9gZZwyIxwx"
       },
@@ -26072,6 +26126,24 @@
       "duration_ms": 215180,
       "name": "\u30e1\u30ed\u30c7\u30a3\u30fc!",
       "url": "https://open.spotify.com/track/1gdYC7zGOFf0sRPwkkqbf5"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30ca\u30ea\u30b6",
+        "url": "https://open.spotify.com/album/4k0AQEAoCKXV4wPDXTX9Ua"
+      },
+      "artists": [
+        {
+          "name": "OSHIKIKEIGO",
+          "url": "https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185939,
+      "name": "\u30e2\u30ca\u30ea\u30b6",
+      "url": "https://open.spotify.com/track/7IHSSJhSg1SIBba4eOcLGh"
     },
     {
       "album": {
@@ -30317,6 +30389,24 @@
     },
     {
       "album": {
+        "name": "\u65c5\u4eba\u305f\u3061",
+        "url": "https://open.spotify.com/album/6SRIwpMgufmgEtgv94sIdp"
+      },
+      "artists": [
+        {
+          "name": "\u5730\u7403\u304b\u30892\u30df\u30ea\u6d6e\u3044\u3066\u308b\u4eba\u305f\u3061",
+          "url": "https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235080,
+      "name": "\u65c5\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/0PrXCdXevK6QwHK8lPWnuB"
+    },
+    {
+      "album": {
         "name": "\u65e5\u3005\u306e\u624b\u89e6\u308a",
         "url": "https://open.spotify.com/album/4pvtcSMkp3Ng9W1UyBRlue"
       },
@@ -30490,7 +30580,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 201518,
       "name": "\u6625\u306b\u306a\u308c",
       "url": "https://open.spotify.com/track/25vsL9xUIGGx5CpweTKXJh"

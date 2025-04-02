@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 213866,
       "name": "A Flowing Stream",
       "url": "https://open.spotify.com/track/6qHrWqMeZEMl7SOIHF0qmO"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 197647,
       "name": "A Growing Feeling",
       "url": "https://open.spotify.com/track/1peg4JKeWIybo6q2pdbwh7"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 160000,
       "name": "Alpenglow",
       "url": "https://open.spotify.com/track/1JDiDQ4xtzLADSb9z6BpyA"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 135087,
       "name": "Amedeo Nuevo",
       "url": "https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 160624,
       "name": "Clearing",
       "url": "https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 163418,
       "name": "Conscious Jorney",
       "url": "https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 145458,
       "name": "Corals",
       "url": "https://open.spotify.com/track/2zLPRWzrufYPYAemBsT1nR"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 199947,
       "name": "Early Morning Drizzle",
       "url": "https://open.spotify.com/track/5GZMPF7n2SrrOce6Ug7QWj"
@@ -1334,6 +1334,24 @@
       "duration_ms": 138583,
       "name": "Enigmatic Horizons 432Hz",
       "url": "https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY"
+    },
+    {
+      "album": {
+        "name": "Equilibrium (432 Hz)",
+        "url": "https://open.spotify.com/album/7foHel5iyncJ9SwoaQr2fV"
+      },
+      "artists": [
+        {
+          "name": "Astral Yu",
+          "url": "https://open.spotify.com/artist/4T5QX9jKXqbgoXxQ1IlecR"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Equilibrium (432 Hz)",
+      "url": "https://open.spotify.com/track/1OEENaIBAy5lcmVM5Qzrkk"
     },
     {
       "album": {
@@ -1510,10 +1528,28 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 161961,
       "name": "Forest Breath",
       "url": "https://open.spotify.com/track/4JHSk6ehy7ztovsUjZAxV9"
+    },
+    {
+      "album": {
+        "name": "Forest Breath",
+        "url": "https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt"
+      },
+      "artists": [
+        {
+          "name": "Lorien Sky",
+          "url": "https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Forest Breath",
+      "url": "https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz"
     },
     {
       "album": {
@@ -1618,7 +1654,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 120000,
       "name": "Forest Winds",
       "url": "https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X"
@@ -1708,7 +1744,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 179213,
       "name": "Gentle Waters",
       "url": "https://open.spotify.com/track/36jA0NyUCPAO56UWWt4s69"
@@ -1928,7 +1964,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "Hava Aur Paanee",
       "url": "https://open.spotify.com/track/1PMf9J4BekOynzWkslvhFc"
@@ -2144,7 +2180,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 200360,
       "name": "Incubations",
       "url": "https://open.spotify.com/track/32l1QmHNSscsKZiGCpiZxX"
@@ -2418,7 +2454,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 152320,
       "name": "Les Libellules",
       "url": "https://open.spotify.com/track/36DjMBaYlhhPHFH2FzaUet"
@@ -2436,7 +2472,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 161400,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/212mPUELEZutcfu0X1KLxJ"
@@ -2976,7 +3012,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 173841,
       "name": "Mosaic Patterns",
       "url": "https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj"
@@ -3210,7 +3246,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 162645,
       "name": "Nature's Canvas",
       "url": "https://open.spotify.com/track/3gn4qQjNar63wHcK5DOJYU"
@@ -3390,7 +3426,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 160416,
       "name": "Oran Beinne",
       "url": "https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX"
@@ -3448,6 +3484,24 @@
       "duration_ms": 166706,
       "name": "Panacea",
       "url": "https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE"
+    },
+    {
+      "album": {
+        "name": "Panorama Sky",
+        "url": "https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw"
+      },
+      "artists": [
+        {
+          "name": "Willow Skies",
+          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172528,
+      "name": "Panorama Sky",
+      "url": "https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA"
     },
     {
       "album": {
@@ -3577,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Oasis",
+        "url": "https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP"
+      },
+      "artists": [
+        {
+          "name": "Harlow Moss",
+          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Peaceful Oasis",
+      "url": "https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil"
+    },
+    {
+      "album": {
         "name": "Peaceful Path",
         "url": "https://open.spotify.com/album/4HiC9a7PFHX75Le0nXNwBX"
       },
@@ -3660,7 +3732,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 222720,
       "name": "Peaceful Weal (by a Babbling Brook)",
       "url": "https://open.spotify.com/track/6XcXTrmANCkpLiZ1hj215q"
@@ -3966,7 +4038,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 192727,
       "name": "Rain Journey",
       "url": "https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN"
@@ -4038,7 +4110,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 198600,
       "name": "Restful",
       "url": "https://open.spotify.com/track/6NpQVqL5DGAmxhPsIcn8a5"
@@ -4312,7 +4384,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 201724,
       "name": "Seraphyne",
       "url": "https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW"
@@ -4438,7 +4510,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 154134,
       "name": "Silver Stream",
       "url": "https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc"
@@ -4478,6 +4550,24 @@
       "duration_ms": 171158,
       "name": "Skyflow",
       "url": "https://open.spotify.com/track/42yRPwqN8zHcaOj6tsyGS8"
+    },
+    {
+      "album": {
+        "name": "Slow Stream",
+        "url": "https://open.spotify.com/album/3ZowFm97ZG9gFRpFxty9eQ"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Slow Stream",
+      "url": "https://open.spotify.com/track/43slau8Y2GhKBA3itVEvlz"
     },
     {
       "album": {
@@ -4618,7 +4708,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Soulful Stillness",
       "url": "https://open.spotify.com/track/6NwnfeMjU4jZ7pNvQkKprw"
@@ -4708,7 +4798,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 194011,
       "name": "Stilte",
       "url": "https://open.spotify.com/track/7JmuwjQIrdufPz4y7hQyfF"

@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 488450,
+  "num_followers": 488557,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+iJgAAAAACwqel3olOMj2mQd8D/0ewD",
+  "snapshot_id": "Z+nbAAAAAABTCxBhLt7q9VxBXCK4hFvw",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3vcS9nbyzS0KAqZUwL8WKX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wilder Mind",
         "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 220866,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/1fXCNg2QPgOYegAzlJQ5ew"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/1fXCNg2QPgOYegAzlJQ5ew"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wilder Mind",
         "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 312626,
       "name": "Tompkins Square Park",
       "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/3vcS9nbyzS0KAqZUwL8WKX"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
       },
       "artists": [
         {
@@ -252,25 +252,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 307853,
-      "name": "Hopeless Wanderer",
-      "url": "https://open.spotify.com/track/15Mn23dCmLw75foEgfBIOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Wilder Mind",
-      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
+      "duration_ms": 254160,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD"
     },
     {
       "added_at": null,
@@ -291,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
       "artists": [
         {
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 254160,
-      "name": "White Blank Page",
-      "url": "https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD"
+      "duration_ms": 278226,
+      "name": "Wilder Mind",
+      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
     },
     {
       "added_at": null,
@@ -316,15 +300,15 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 208933,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/1WdzzLMa5xbKQxAQvT7A81"
+      "duration_ms": 307853,
+      "name": "Hopeless Wanderer",
+      "url": "https://open.spotify.com/track/15Mn23dCmLw75foEgfBIOp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
       },
       "artists": [
         {
@@ -332,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ditmas",
-      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh"
     },
     {
       "added_at": null,
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
       "artists": [
         {
@@ -364,9 +348,25 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh"
+      "duration_ms": 218626,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/1WdzzLMa5xbKQxAQvT7A81"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221240,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 171000,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/1VJ5aTih2uI1DvQgMxplV8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Snake Eyes",
-      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 186813,
       "name": "Blood On The Page",
       "url": "https://open.spotify.com/track/6ceBMpWX4Xd3qAgJjPSImg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Snake Eyes",
+      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live from Shepherd's Bush Empire",
+        "url": "https://open.spotify.com/album/0KztyTPAryAod5xwE4hIfH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Hold on to What You Believe (Live from Shepherd's Bush Empire, 2010)",
+      "url": "https://open.spotify.com/track/1CW58In68DanWsAtiNuu0T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Johannesburg",
         "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 240453,
       "name": "Wona",
       "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live from Shepherd's Bush Empire",
-        "url": "https://open.spotify.com/album/0KztyTPAryAod5xwE4hIfH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Hold on to What You Believe (Live from Shepherd's Bush Empire, 2010)",
-      "url": "https://open.spotify.com/track/1CW58In68DanWsAtiNuu0T"
     },
     {
       "added_at": null,

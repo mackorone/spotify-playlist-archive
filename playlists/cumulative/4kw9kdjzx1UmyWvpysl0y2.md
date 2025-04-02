@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-949 songs - 2 day 5 hr 42 min
+950 songs - 2 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-09 | 2023-04-29 |
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-27 | 2023-01-19 |
 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-05-01 | 2023-07-25 |
-| [Beacon](https://open.spotify.com/track/0QSgN6pgdJdCBSNCAxHyok) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Beacon](https://open.spotify.com/album/17xeRw9ytYLac0hjH8PAmB) | 3:20 | 2025-01-09 |  |
+| [Beacon](https://open.spotify.com/track/0QSgN6pgdJdCBSNCAxHyok) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Beacon](https://open.spotify.com/album/17xeRw9ytYLac0hjH8PAmB) | 3:20 | 2025-01-09 | 2025-04-02 |
 | [BEAMS](https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [BEAMS](https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS) | 2:58 | 2024-03-20 | 2024-06-07 |
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-07 | 2024-11-01 |
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
@@ -691,7 +691,7 @@
 | [Roots](https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots](https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF) | 3:32 | 2023-08-15 | 2023-12-14 |
 | [Roots \- Festival VIP](https://open.spotify.com/track/08pKfNxr05lKXa0PF5OB0t) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots \(Festival VIP\)](https://open.spotify.com/album/0wTCzlXwljR7qDID6OixIG) | 3:00 | 2025-01-20 |  |
 | [Royalty](https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Royalty](https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ) | 2:57 | 2022-09-01 | 2022-11-05 |
-| [Rubix Cube](https://open.spotify.com/track/6o12D6Pk42lsb6m2aYtqJr) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Rubix Cube](https://open.spotify.com/album/0PktwDBITGLMcZYG1uK6VQ) | 2:40 | 2025-01-08 |  |
+| [Rubix Cube](https://open.spotify.com/track/6o12D6Pk42lsb6m2aYtqJr) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Rubix Cube](https://open.spotify.com/album/0PktwDBITGLMcZYG1uK6VQ) | 2:40 | 2025-01-08 | 2025-04-02 |
 | [Ruin U](https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Ruin U](https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg) | 3:15 | 2023-10-20 | 2024-02-03 |
 | [Run Alone](https://open.spotify.com/track/7IJYK8h8z2NxYfjUjAzJTy) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R), [MARIELE](https://open.spotify.com/artist/7BD5vJssWIjaDmb5Pszagd) | [Run Alone](https://open.spotify.com/album/1QpvGcvfiU6uiQMIy08fMn) | 3:16 | 2024-06-27 | 2024-09-20 |
 | [Run Right Back](https://open.spotify.com/track/2sSn4HVYNcaegvazLKG0dz) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Run Right Back](https://open.spotify.com/album/6HR3uI5fIW1a9gq2Aa44Uw) | 4:04 | 2024-04-30 | 2024-07-20 |
@@ -943,6 +943,7 @@
 | [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 | 2025-03-03 |  |
 | [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 | 2022-09-07 | 2022-11-08 |
 | [World Wide Web](https://open.spotify.com/track/65XS0xY3RjsXdn0Qzy3isF) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [World Wide Web](https://open.spotify.com/album/6gEqtjzCl19g1SjJu09MgT) | 2:38 | 2024-06-04 | 2024-08-24 |
+| [Worlds Apart](https://open.spotify.com/track/43clOQYz4Jhr7AuU1hOS78) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Worlds Apart](https://open.spotify.com/album/7urxeMQpkbdTidAYJS6Cl8) | 3:07 | 2025-04-01 |  |
 | [Worst Night of My Life](https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Worst Night of My Life](https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY) | 2:55 | 2024-05-20 | 2024-08-14 |
 | [Worthy](https://open.spotify.com/track/5UPI2X8D7949HFbRHoyYAe) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS) | [Silk Selections 01](https://open.spotify.com/album/5iIXHLFmPol8ATbxEuLQ87) | 2:56 | 2024-09-10 | 2024-12-03 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |

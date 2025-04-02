@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Vertile
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,865 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,941 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 80 | [Get Up](https://open.spotify.com/track/3cwufpzK10CqK1wFWZCRxj) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Get Up](https://open.spotify.com/album/25UZcKrzHZ5LqkSQfX1nSL) | 3:09 |
 | 81 | [Experience](https://open.spotify.com/track/7wgeUgwP6DUdQGNTe94r9Q) | [Exodus](https://open.spotify.com/artist/2XOM0MCYpUgDsmSS2qpOWH) | [Experience](https://open.spotify.com/album/5e0m4oFd1ZfN27sl9Ylvbt) | 1:58 |
 | 82 | [Fall Of The Celestials](https://open.spotify.com/track/5MW9s0fr6BUgQnf3p4uXVm) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Fall Of The Celestials](https://open.spotify.com/album/2TYsZMFqcENa8toCUKenFw) | 4:00 |
-| 83 | [Let The Beat](https://open.spotify.com/track/7aYbliTeQd5Jgq9e4qf8cQ) | [Bioweapon](https://open.spotify.com/artist/3EfUmgy6o1IOQBL4vXKgwd), [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [Let The Beat](https://open.spotify.com/album/4FxEoj4IxGCTWHuqB00Ntj) | 2:52 |
+| 83 | [Let The Beat](https://open.spotify.com/track/7aYbliTeQd5Jgq9e4qf8cQ) | [Bioweapon](https://open.spotify.com/artist/3EfUmgy6o1IOQBL4vXKgwd), [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [Time Capsule Part I](https://open.spotify.com/album/4FxEoj4IxGCTWHuqB00Ntj) | 2:52 |
 | 84 | [My Own Path](https://open.spotify.com/track/75zCFjRh2CQb5nAT2moiwn) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [My Own Path](https://open.spotify.com/album/4QSywz3AiCNiwnXgelrk9x) | 3:33 |
 | 85 | [Alive](https://open.spotify.com/track/0cYplb4WpvzXCp9PinWNYF) | [Wasted Penguinz](https://open.spotify.com/artist/1Ok5WQlGEnuFOiUlpCKcVT) | [Alive](https://open.spotify.com/album/4PAgkk5281M4rUjA1Rfgby) | 3:18 |
 | 86 | [Seasons](https://open.spotify.com/track/4QD8zw2fPYTufIbNV1f7UL) | [VENNIC](https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS) | [Seasons](https://open.spotify.com/album/2URfrBctWJPR4dxuaGrE80) | 3:27 |

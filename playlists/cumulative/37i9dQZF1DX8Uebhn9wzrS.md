@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,285 songs - 3 day 15 hr 5 min
+2,287 songs - 3 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-01-13 |  |
 | [Cassette](https://open.spotify.com/track/4EONyvUOv8iRZl3tNltowY) | [mpbanga](https://open.spotify.com/artist/64demuyr39jqHDEmokBH1v), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Cassette](https://open.spotify.com/album/5YJnr50lf4eqiEdRUsoolR) | 1:40 | 2022-08-05 | 2022-12-03 |
 | [castle top](https://open.spotify.com/track/7MvfJKi7f053Hoqtmitdg9) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [castle top](https://open.spotify.com/album/1N5hpy04EHnv5n8FyhQVUT) | 2:35 | 2023-12-08 | 2025-02-08 |
+| [cat from turkey](https://open.spotify.com/track/4ff4AYceAt76utRfGpyZ6p) | [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [cat from turkey](https://open.spotify.com/album/1j6yFAlsPYHktZBAPOWDMP) | 1:40 | 2025-03-28 |  |
 | [Cat Whisperer](https://open.spotify.com/track/7nnoeXw1CQ9oLeZ5wgEiXx) | [BLVKEY](https://open.spotify.com/artist/4MzCPIbr4CgXgAbVidFpgB) | [Cat Whisperer](https://open.spotify.com/album/4bwfOZ4QtcVU2grYXcJAd6) | 2:50 | 2024-09-06 | 2024-10-12 |
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 |  |
 | [Catching A Vibe](https://open.spotify.com/track/72irLCVlW9MCrvlTeh1BNp) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Ivy](https://open.spotify.com/album/0rhM5S3YpPb6iA2kGNwnh4) | 1:52 | 2024-09-13 | 2024-10-09 |
@@ -1171,7 +1172,7 @@
 | [Lower East Side](https://open.spotify.com/track/0HP3RxQPPdLmpSQJQZHl9Z) | [Chase Beats](https://open.spotify.com/artist/6rjVfqmICjUb56U9D9KR6h) | [Lower East Side](https://open.spotify.com/album/1abGAhcGC1jATomzDE85dT) | 1:55 | 2025-03-28 |  |
 | [Lowride River](https://open.spotify.com/track/2SqIwESq04iFODwdyzVYoy) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Lowride River](https://open.spotify.com/album/2joB6WYW30agKgPmd8NYSl) | 3:24 | 2022-04-15 | 2022-11-12 |
 | [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-03-01 | 2025-01-24 |
-| [Lucky 7](https://open.spotify.com/track/7uTx78QPwbsA6ZGzv8whYN) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Lucky 7](https://open.spotify.com/album/6OpO74wlEiYGCbuf1TimUb) | 2:07 | 2025-03-14 |  |
+| [Lucky 7](https://open.spotify.com/track/7uTx78QPwbsA6ZGzv8whYN) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Lucky 7](https://open.spotify.com/album/6OpO74wlEiYGCbuf1TimUb) | 2:07 | 2025-03-14 | 2025-04-02 |
 | [lucky charms](https://open.spotify.com/track/4JnGvG2qXVDwAArJkZvZwJ) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [lucky charms](https://open.spotify.com/album/04zMzCmGyAhMlziRYcd0MA) | 2:19 | 2025-03-07 |  |
 | [lullabi](https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME) | [dozeoff](https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW) | [lullabi / midnight](https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS) | 2:54 | 2024-07-12 |  |
 | [Lullaby](https://open.spotify.com/track/3vr0v9Vn5ELEYbwzKdKyTX) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Lullaby](https://open.spotify.com/album/3cSq1BpCyixnSAxS2PRcYp) | 2:05 | 2023-12-22 |  |
@@ -1573,6 +1574,7 @@
 | [Porcelain](https://open.spotify.com/track/0UNB3fFFmSJ8PzI7qQMR7j) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Porcelain](https://open.spotify.com/album/1v6Zf1hclq06Y1IF9rqaxO) | 2:06 | 2022-10-28 | 2023-01-20 |
 | [poseidon](https://open.spotify.com/track/6MpZRAlMbG1PvjuMNtzp9t) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [poseidon](https://open.spotify.com/album/63BcmPVShgWasXts8qMikS) | 2:01 | 2024-02-02 |  |
 | [Postcard](https://open.spotify.com/track/6igKvLcWShsDL1ZRhUMTcM) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Postcard](https://open.spotify.com/album/4a1dWfgc8gKIrnJ7fTQRQ4) | 2:22 | 2023-01-06 | 2023-03-09 |
+| [Pottery](https://open.spotify.com/track/2ITFn7Wzd3vbit7MwFx8FX) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Pottery](https://open.spotify.com/album/6QHLthR6BNxKWAN5pScrGo) | 2:15 | 2025-03-28 |  |
 | [Preciso](https://open.spotify.com/track/6PLpXbbUnefm7DrWaJ2Mr7) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Only Poem](https://open.spotify.com/album/3pCgGtXfUsieWZRGWr686k) | 1:44 | 2023-08-17 |  |
 | [Preferences](https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Preferences](https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA) | 2:19 | 2022-09-02 | 2023-04-21 |
 | [Pristine](https://open.spotify.com/track/5hU6UR3JAmobbRF8in1hpN) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Pristine](https://open.spotify.com/album/68CF9yX62mUPcoJbyVcJD4) | 2:44 | 2022-04-15 | 2022-09-02 |
@@ -2078,7 +2080,7 @@
 | [Tonde Iru Tori](https://open.spotify.com/track/6aWOKxYd6UCWjvTX9duJ3Q) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Tonde Iru Tori](https://open.spotify.com/album/5HRlqqokcT52PFQDKxV3U9) | 1:47 | 2022-04-15 | 2023-03-02 |
 | [TONE DEF](https://open.spotify.com/track/4xA7eEHYHApi4tZvbqYqk7) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [TONE DEF](https://open.spotify.com/album/0qYRzxohVmgdVGY3xxoc4g) | 3:38 | 2022-09-02 | 2022-12-09 |
 | [Tonic](https://open.spotify.com/track/7bKV09vJKYcY9WFuwaMNnU) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mr\. Ginseng](https://open.spotify.com/artist/7ttm00ZarLoBYsKnjauVKw) | [Tonic](https://open.spotify.com/album/4vb3XE0kfGudNlNNCaw5f0) | 1:10 | 2025-03-28 |  |
-| [Topinamborough](https://open.spotify.com/track/64S00l6oDW4AYs7yXb0SLD) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Topinamborough](https://open.spotify.com/album/0FaS0SL2A8oWhO9zCxRM59) | 3:04 | 2023-09-08 |  |
+| [Topinamborough](https://open.spotify.com/track/64S00l6oDW4AYs7yXb0SLD) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Topinamborough](https://open.spotify.com/album/0FaS0SL2A8oWhO9zCxRM59) | 3:04 | 2023-09-08 | 2025-04-02 |
 | [Toro](https://open.spotify.com/track/4LBgiss6mr9vmzby9mMpUq) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM) | [Mediado](https://open.spotify.com/album/5VDUfxSdbWaCOcrq0eFGMS) | 1:39 | 2022-04-15 | 2022-06-25 |
 | [Tough Night](https://open.spotify.com/track/2SIG8r7jJLXc9Q3fAOUrwx) | [Thin Wire](https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ) | [Tough Night](https://open.spotify.com/album/18fZ6VNfyQ0rkBAWHuqZOQ) | 1:47 | 2023-11-17 |  |
 | [toy story clouds](https://open.spotify.com/track/5ea9ybbCxBjxPEkRuiTb9w) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [toy story clouds](https://open.spotify.com/album/2IUxB4DkAY8lK6jJmkSGA4) | 1:57 | 2022-08-05 | 2022-11-12 |

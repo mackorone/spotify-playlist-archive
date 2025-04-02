@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 12 | [Recovery](https://open.spotify.com/track/6HxJjgYLVwjsJxzAnYRObR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:52 |
 | 13 | [Strange](https://open.spotify.com/track/4a9pbQS5R6FzqUkUeycD3i) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:55 |
 | 14 | [One Last Time](https://open.spotify.com/track/3b5rN0v3y5T70UUX9zayTy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/73yPks0QhGEUpg7jcWHVso) | 3:13 |
-| 15 | [No Witness](https://open.spotify.com/track/6dLAGp6YfJ7TIEU5UZLokn) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:28 |
+| 15 | [No Witness](https://open.spotify.com/track/7nrLAS1LDhsVrEi8RrvGxh) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:28 |
 | 16 | [Night Like This](https://open.spotify.com/track/5uZbXwM8gGGHSD1Dqv8kCu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:00 |
 | 17 | [Shaken](https://open.spotify.com/track/4OLDV6nk6JrzYoaiHDRR0v) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:45 |
 | 18 | [When I'm Over You](https://open.spotify.com/track/3x6tvFguQDememXt1suW1e) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 4:26 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 29 | [Wasted Love \- Live](https://open.spotify.com/track/2MUI78ENObwkB08yQQbO5a) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:11 |
 | 30 | [Switchblade](https://open.spotify.com/track/0lghQmFvO9TVRx7GmrafsU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:24 |
 | 31 | [Human](https://open.spotify.com/track/3zr5liODTQ9fdtrDOPatiS) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:29 |
-| 32 | [Death Valley](https://open.spotify.com/track/5zEIsGLEDLpdzWU89dvTpl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 2:53 |
+| 32 | [Death Valley](https://open.spotify.com/track/3zqdzaUeXFrMk6wRz5Fd9A) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 2:53 |
 | 33 | [I Better Love You](https://open.spotify.com/track/2jFd3RbfyLbGAZz822QcKN) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Trust \- EP](https://open.spotify.com/album/6jYfRAJmHkycharyGlu9yC) | 3:16 |
 | 34 | [You Want It All](https://open.spotify.com/track/4dLbEpntPe9g56No8EV6rB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 4:11 |
 | 35 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/6qkRb2XZbkvm0Bk55F4J8F) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [The Time Is Now!](https://open.spotify.com/album/36bkD1IoDWM5DIbgFR5okR) | 3:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 84 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 85 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `AbtjswAAAADxClC732YVyj97kPLOfBaS`
+Snapshot ID: `AbtpUgAAAAD00MOgY7SdHXsuDJz3N9Pg`

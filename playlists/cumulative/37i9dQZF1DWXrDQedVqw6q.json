@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 360624,
       "name": "a surreal hour of normalcy",
       "url": "https://open.spotify.com/track/3fgBSmAdsXQOgsPbvYWvOt"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 176000,
       "name": "Anduin",
       "url": "https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 149230,
       "name": "Closer and Farther",
       "url": "https://open.spotify.com/track/6wTDO6mse4f5CGL5eHcfeY"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 172800,
       "name": "Divinity",
       "url": "https://open.spotify.com/track/4CiLp22MqtNOx8aY2pxXHA"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 144000,
       "name": "pattern",
       "url": "https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA"
@@ -2789,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "Recumbent",
+        "url": "https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt"
+      },
+      "artists": [
+        {
+          "name": "Rellendum",
+          "url": "https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127866,
+      "name": "Recumbent",
+      "url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea"
+    },
+    {
+      "album": {
         "name": "The Breadline / Requiem For Reem",
         "url": "https://open.spotify.com/album/7y6xKQOJFt9jnm4yfU9SEG"
       },
@@ -2854,7 +2872,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 162141,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi"
@@ -3903,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "the world inside",
+        "url": "https://open.spotify.com/album/23HRbZxlo85BFShUhP242s"
+      },
+      "artists": [
+        {
+          "name": "BARTH.",
+          "url": "https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197872,
+      "name": "the world inside",
+      "url": "https://open.spotify.com/track/3HdAT0KfHPo1lAuRgMh4PR"
+    },
+    {
+      "album": {
         "name": "Winter Solstice",
         "url": "https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f"
       },
@@ -3954,6 +3990,24 @@
       "duration_ms": 128084,
       "name": "To Me",
       "url": "https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/3tE4UBfrq9ZwRrvP7BpTZ8"
+      },
+      "artists": [
+        {
+          "name": "Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163723,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/7i4SzjwzpyPetnSzZSFB0B"
     },
     {
       "album": {
@@ -4354,7 +4408,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 142063,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV"
@@ -4372,7 +4426,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-02",
       "duration_ms": 161874,
       "name": "Weightless Moments",
       "url": "https://open.spotify.com/track/430S5jXFtVzLvDY14M8UiM"

@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-407 songs - 1 day 2 hr 1 min
+409 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Etude of Adolescence](https://open.spotify.com/track/1e7GAbiLvMNCyoo8j8ZBpr) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Haruko Nagaya](https://open.spotify.com/artist/5P8drcKYuRizuKKXgUdPO8), [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [JUNK or GEM](https://open.spotify.com/album/4ihrJ3Tvoa5puJ8a8UKeUI) | 4:33 | 2023-03-16 | 2023-04-12 |
 | [Etude of Adolescence](https://open.spotify.com/track/3DvIKEAVYG5oD4PaQC0IRk) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Haruko Nagaya](https://open.spotify.com/artist/5P8drcKYuRizuKKXgUdPO8), [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Etude of Adolescence](https://open.spotify.com/album/3a5OH0xdi3iWVV7a7rXgpR) | 4:33 | 2023-03-07 | 2023-03-18 |
 | [Even if the world hates me \(2023 ver.\)](https://open.spotify.com/track/5OtLyHGENq0YNpo6jNSo8d) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Even if the world hates me \(2023 ver.\)](https://open.spotify.com/album/3Mw3CdZ9Zt838W2gQ8yhqz) | 4:32 | 2023-04-27 | 2023-08-05 |
+| [Ever Song](https://open.spotify.com/track/6e0mije7XkHP82jEyQTADM) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Ever Song](https://open.spotify.com/album/603VPX30jylDq8oxT9lrlq) | 4:33 | 2025-04-01 |  |
 | [EYES ON YOU](https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [EYES ON YOU](https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L) | 3:36 | 2024-08-08 | 2024-11-19 |
 | [fall](https://open.spotify.com/track/6bLxj0u5Q6HLl0HcaaZgMz) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM), [SOUTH BLUE](https://open.spotify.com/artist/2Y4BqFtHihCI2CazDTKkjI) | [fall](https://open.spotify.com/album/6ouOVQ0G2friMVOPVR3WO2) | 3:24 | 2024-10-22 | 2024-11-06 |
 | [feat\. あなた](https://open.spotify.com/track/1Y8w8X8vqCcruiNXVqrGPt) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [feat\. あなた](https://open.spotify.com/album/6eXHmzEFeY1Q3Hwvz793j7) | 3:20 | 2024-02-13 | 2024-02-21 |
@@ -157,7 +158,7 @@
 | [Tabeta Ai](https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Tabeta Ai / Atashi Tachi](https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL) | 5:16 | 2023-03-28 | 2023-04-02 |
 | [Telepathy](https://open.spotify.com/track/70ChanaXg9yutUOpVhdfdV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:19 | 2023-03-28 | 2023-04-04 |
 | [tengoku](https://open.spotify.com/track/3AlA1QVjNLypXq0GKtl44u) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:38 | 2024-01-22 | 2024-02-14 |
-| [then I luv U](https://open.spotify.com/track/45qDFztSBBgzodqrBc37TM) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [then I luv U](https://open.spotify.com/album/5kaEW9NyXvdllc0qOAW4fD) | 3:51 | 2025-02-11 |  |
+| [then I luv U](https://open.spotify.com/track/45qDFztSBBgzodqrBc37TM) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [then I luv U](https://open.spotify.com/album/5kaEW9NyXvdllc0qOAW4fD) | 3:51 | 2025-02-11 | 2025-04-02 |
 | [TOKIDOKI](https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [TOKIDOKI](https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe) | 3:20 | 2023-06-27 | 2023-08-05 |
 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 | 2023-08-04 |  |
 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2024-01-10 | 2024-10-16 |
@@ -321,7 +322,7 @@
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-01-30 |  |
 | [思い出のままに](https://open.spotify.com/track/7odkJ8h9XRe045LagZLQVF) | [TAIL](https://open.spotify.com/artist/5MdDqXrWH37mpmVqj04VE5) | [思い出のままに](https://open.spotify.com/album/2TAWdgU7p7rbffayTO96bY) | 2:18 | 2024-12-10 |  |
 | [恋](https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [blues](https://open.spotify.com/album/2puS4XHci0XEcLNNY4xgjv) | 4:13 | 2023-11-01 | 2024-01-31 |
-| [恋](https://open.spotify.com/track/2BjsXpCV4Bw1P4pXmlTv7b) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [恋](https://open.spotify.com/album/3urBw8VQwQN1N6v97kcAvQ) | 3:23 | 2025-02-25 |  |
+| [恋](https://open.spotify.com/track/2BjsXpCV4Bw1P4pXmlTv7b) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [恋](https://open.spotify.com/album/3urBw8VQwQN1N6v97kcAvQ) | 3:23 | 2025-02-25 | 2025-04-02 |
 | [恋ごころ](https://open.spotify.com/track/56jCBYUSzkGqxnLSCAEXBA) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [恋ごころ](https://open.spotify.com/album/40sxyHoN10iVpW2HuTGyp0) | 3:02 | 2023-09-19 | 2023-10-25 |
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2023-02-09 | 2023-03-03 |
 | [恋するもののあはれ](https://open.spotify.com/track/3rWcWii8DDL4hO68IEFThP) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [恋するもののあはれ](https://open.spotify.com/album/1p7B1jLCom7PTx0ptCqtgH) | 3:46 | 2024-02-06 | 2024-02-14 |
@@ -366,6 +367,7 @@
 | [未恋](https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [未恋](https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i) | 3:08 | 2025-01-21 | 2025-02-19 |
 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 | 2024-04-16 | 2025-02-17 |
 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 | 2023-04-13 |  |
+| [案の定アイラブユー](https://open.spotify.com/track/1iX3eiTPtXhGwFd1KLQpzq) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [案の定アイラブユー](https://open.spotify.com/album/6OsOr0IIHM1VobBeAO5zsu) | 3:49 | 2025-04-01 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2024-04-16 |  |
 | [気持ちの糸](https://open.spotify.com/track/25tMiXWUNsH1IPfrUGQmCM) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [気持ちの糸](https://open.spotify.com/album/0pm0eF38vMHFgTlFjWxnuR) | 4:16 | 2023-04-05 | 2023-05-24 |
 | [浮気したらあかんで](https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [浮気したらあかんで](https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34) | 3:13 | 2024-11-19 | 2025-03-08 |

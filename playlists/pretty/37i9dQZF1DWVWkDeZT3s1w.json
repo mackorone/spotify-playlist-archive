@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 110270,
+  "num_followers": 110289,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs"
+      },
+      "artists": [
+        {
+          "name": "Bocafloja",
+          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
+        }
+      ],
+      "duration_ms": 275318,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Parlante",
         "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 261311,
       "name": "Parlante",
       "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Espacio",
-        "url": "https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs"
-      },
-      "artists": [
-        {
-          "name": "Bocafloja",
-          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
-        }
-      ],
-      "duration_ms": 275318,
-      "name": "Espacio",
-      "url": "https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Nosotras Tenemos Otros Datos",
-        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Nosotras Tenemos Otros Datos",
-      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Tiempos Muertos",
         "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 286673,
       "name": "Esto Es M\u00e9xico",
       "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Nosotras Tenemos Otros Datos",
+        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Nosotras Tenemos Otros Datos",
+      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Despiertas",
-        "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
-      },
-      "artists": [
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        }
-      ],
-      "duration_ms": 171690,
-      "name": "Despiertas",
-      "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "MORE FYAH",
         "url": "https://open.spotify.com/album/5LdNhgoWkHGJdePD8ga9nm"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 642229,
       "name": "MORE FYAH",
       "url": "https://open.spotify.com/track/4L3eRmXwGZ4fPcvtF285El"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Despiertas",
+        "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        }
+      ],
+      "duration_ms": 171690,
+      "name": "Despiertas",
+      "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1623,18 +1623,30 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Inmunes",
-        "url": "https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU"
+        "name": "Rimas Femeninas",
+        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
       },
       "artists": [
         {
           "name": "Ximbo",
           "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Joaka",
+          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
+        },
+        {
+          "name": "Moyenei",
+          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
+        },
+        {
+          "name": "Yoez",
+          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
         }
       ],
-      "duration_ms": 194831,
-      "name": "Inmunes",
-      "url": "https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao"
+      "duration_ms": 193952,
+      "name": "Rimas Femeninas",
+      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1783,30 +1795,18 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Rimas Femeninas",
-        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
+        "name": "Inmunes",
+        "url": "https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU"
       },
       "artists": [
         {
           "name": "Ximbo",
           "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        },
-        {
-          "name": "Joaka",
-          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
-        },
-        {
-          "name": "Moyenei",
-          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
-        },
-        {
-          "name": "Yoez",
-          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
         }
       ],
-      "duration_ms": 193952,
-      "name": "Rimas Femeninas",
-      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
+      "duration_ms": 194831,
+      "name": "Inmunes",
+      "url": "https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao"
     },
     {
       "added_at": "2025-01-31 06:00:22",

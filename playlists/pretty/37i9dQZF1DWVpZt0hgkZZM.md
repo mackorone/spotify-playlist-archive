@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,800 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,816 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 90 | [Oye](https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:09 |
 | 91 | [Charanga Campesina](https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 2:38 |
 | 92 | [Quiéreme, Quiéreme](https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22) | [Chico Cervantes Y Su Banda](https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8), [Pacho Tobío y Chico](https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 5:42 |
-| 93 | [Hue Le La](https://open.spotify.com/track/4f1SHxvB9HorDX5gX1YxPU) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Historia Musical de Alfredo Gutiérrez](https://open.spotify.com/album/0YYxKT1WDdzYUvPA09rkG8) | 3:37 |
-| 94 | [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
+| 93 | [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
+| 94 | [Hue Le La](https://open.spotify.com/track/4f1SHxvB9HorDX5gX1YxPU) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Historia Musical de Alfredo Gutiérrez](https://open.spotify.com/album/0YYxKT1WDdzYUvPA09rkG8) | 3:37 |
 | 95 | [Bacano](https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:29 |
 | 96 | [El Ausente](https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 4:02 |
 | 97 | [Mil Horas](https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:46 |
-| 98 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/6BEFSPf7fEJCWdTtNprn3j) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 3:55 |
-| 99 | [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 |
-| 100 | [La Caña de Azucar](https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
+| 98 | [La Caña de Azucar](https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
+| 99 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/6BEFSPf7fEJCWdTtNprn3j) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 3:55 |
+| 100 | [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 |
 
 Snapshot ID: `ZpG4gwAAAAAz5GuTa0myI09Dy1jEtNhf`
