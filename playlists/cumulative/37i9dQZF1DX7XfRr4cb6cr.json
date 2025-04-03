@@ -1119,6 +1119,36 @@
     },
     {
       "album": {
+        "name": "Divagation",
+        "url": "https://open.spotify.com/album/5kLLUPFyQR2yydhrLpLP9D"
+      },
+      "artists": [
+        {
+          "name": "Ben Shirken",
+          "url": "https://open.spotify.com/artist/2QrmP28DXif8YmZ2GgSVuK"
+        },
+        {
+          "name": "Ex Wiish",
+          "url": "https://open.spotify.com/artist/2VJvX4NmwgYskxZywBAHZA"
+        },
+        {
+          "name": "Pavel Milyakov",
+          "url": "https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo"
+        },
+        {
+          "name": "MIZU",
+          "url": "https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Divagation",
+      "url": "https://open.spotify.com/track/603uB0AnDCZOW8T5wiBIH2"
+    },
+    {
+      "album": {
         "name": "Drips",
         "url": "https://open.spotify.com/album/3QgCCsEkvRIfP7ZDx43mfU"
       },
@@ -1453,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "Decomposition: Fox on a Highway",
+        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
+      },
+      "artists": [
+        {
+          "name": "Saapato",
+          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
+        },
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201423,
+      "name": "Fur and Exhaust",
+      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "album": {
         "name": "Only Love From Now On",
         "url": "https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL"
       },
@@ -1764,7 +1816,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 291051,
       "name": "Headflush",
       "url": "https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8"
@@ -1840,7 +1892,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 479953,
       "name": "Hlj\u00f3\u00f0",
       "url": "https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs"
@@ -2123,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "OHT Frankenstein",
+        "url": "https://open.spotify.com/album/4MKhYeAecBQHpHMy2bH12f"
+      },
+      "artists": [
+        {
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "If you love solitude, you don\u2019t love freedom",
+      "url": "https://open.spotify.com/track/68ehun5XeirwMPnwTSyefV"
+    },
+    {
+      "album": {
         "name": "NATI INFINITI",
         "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
       },
@@ -2370,7 +2440,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 286374,
       "name": "Just innan gryningen",
       "url": "https://open.spotify.com/track/1XLzYfPNccoyY0fRwzFV8N"
@@ -2852,6 +2922,24 @@
       "duration_ms": 268761,
       "name": "Membrane",
       "url": "https://open.spotify.com/track/1gGGC5a2la2tYDgf9HVEPz"
+    },
+    {
+      "album": {
+        "name": "Linked",
+        "url": "https://open.spotify.com/album/3CBdRkbiPgPHHDMIy2blc5"
+      },
+      "artists": [
+        {
+          "name": "Sieren",
+          "url": "https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164536,
+      "name": "Memory Loop",
+      "url": "https://open.spotify.com/track/18SpkwWWrKOwtaO1hxBwsS"
     },
     {
       "album": {
@@ -4468,7 +4556,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 304285,
       "name": "Stora vreden i Storvreta",
       "url": "https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h"

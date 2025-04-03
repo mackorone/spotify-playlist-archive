@@ -1,13 +1,77 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Uwade",
-  "num_followers": 88229,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Rachel Bobbitt",
+  "num_followers": 88309,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+RCcAAAAAAMLU3Vgpk1DHYfu6oSFq44",
+  "snapshot_id": "Z+1fEgAAAABjX8GFNmbjgcw/yuta3WTg",
   "tracks": [
+    {
+      "added_at": "2025-04-02 16:00:18",
+      "album": {
+        "name": "Furthest Limb",
+        "url": "https://open.spotify.com/album/4q0vKaIfYgf3EIqqRLjd3o"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 220168,
+      "name": "Furthest Limb",
+      "url": "https://open.spotify.com/track/1uLYk1vhKYC2ArQ7V4V1mg"
+    },
+    {
+      "added_at": "2025-04-02 16:00:18",
+      "album": {
+        "name": "departure time",
+        "url": "https://open.spotify.com/album/4965cFIF0z594PyvYPIXyv"
+      },
+      "artists": [
+        {
+          "name": "Khatumu",
+          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
+        }
+      ],
+      "duration_ms": 230736,
+      "name": "departure time",
+      "url": "https://open.spotify.com/track/5lwdrVvj3pjXyoiaifx7Pn"
+    },
+    {
+      "added_at": "2025-04-02 16:00:18",
+      "album": {
+        "name": "Chinatown",
+        "url": "https://open.spotify.com/album/6JMB9OIe8MmQQEmy4eW37o"
+      },
+      "artists": [
+        {
+          "name": "Blaize Jenkins",
+          "url": "https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn"
+        }
+      ],
+      "duration_ms": 241794,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/4pP71WCpN3S1QQzenhQuzK"
+    },
+    {
+      "added_at": "2025-04-02 16:00:18",
+      "album": {
+        "name": "Easter Island",
+        "url": "https://open.spotify.com/album/7pkN6MaALNNnR2edSQwzpS"
+      },
+      "artists": [
+        {
+          "name": "No Windows",
+          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
+        }
+      ],
+      "duration_ms": 167530,
+      "name": "Easter Island",
+      "url": "https://open.spotify.com/track/69u13cqyVRR4vlMkcsT81C"
+    },
     {
       "added_at": "2025-03-26 18:07:44",
       "album": {
@@ -23,6 +87,22 @@
       "duration_ms": 211341,
       "name": "Strange Behavior",
       "url": "https://open.spotify.com/track/4xPaHbPvlsoSMJ4Jkza4HI"
+    },
+    {
+      "added_at": "2025-04-02 16:00:18",
+      "album": {
+        "name": "Duel",
+        "url": "https://open.spotify.com/album/5fi1Z4VzXeNAYg4BxNCWgR"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/2BeBp0IazmkqGVc0PxxDye"
     },
     {
       "added_at": "2025-03-26 18:07:44",
@@ -41,6 +121,22 @@
       "url": "https://open.spotify.com/track/2VNbQQVz4qrM6HStZjPpAH"
     },
     {
+      "added_at": "2025-04-02 16:00:18",
+      "album": {
+        "name": "Yes, No Question (Deluxe)",
+        "url": "https://open.spotify.com/album/4HXTgf7nZRXoHPXVdRmOI0"
+      },
+      "artists": [
+        {
+          "name": "Jia*",
+          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
+        }
+      ],
+      "duration_ms": 152069,
+      "name": "Takes",
+      "url": "https://open.spotify.com/track/5FxSwaBgl0oHeGMZoXWW19"
+    },
+    {
       "added_at": "2025-03-26 18:07:44",
       "album": {
         "name": "Lost & Found",
@@ -55,6 +151,22 @@
       "duration_ms": 161946,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/3YHpnbrUQM6OYJNDpUpoFU"
+    },
+    {
+      "added_at": "2025-04-02 16:00:18",
+      "album": {
+        "name": "fear of heights",
+        "url": "https://open.spotify.com/album/4z7AqNt1U8ixlbidzIGErC"
+      },
+      "artists": [
+        {
+          "name": "Camille Cano",
+          "url": "https://open.spotify.com/artist/7nylhQShw6vjJgdpyHa4vY"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "fear of heights",
+      "url": "https://open.spotify.com/track/6d0k9MWSKeYeVF6lVi4YYg"
     },
     {
       "added_at": "2025-03-19 16:00:09",

@@ -2557,6 +2557,24 @@
     },
     {
       "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170057,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
+    },
+    {
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/7klufynHglkdPiPu82O4wB"
       },

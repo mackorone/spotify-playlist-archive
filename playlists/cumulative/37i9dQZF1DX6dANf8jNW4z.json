@@ -25711,6 +25711,24 @@
     },
     {
       "album": {
+        "name": "Por fin te encontr\u00e9",
+        "url": "https://open.spotify.com/album/4SlmZNe1RlvrKOMFaRVH8u"
+      },
+      "artists": [
+        {
+          "name": "Moni Fernandez",
+          "url": "https://open.spotify.com/artist/4Yi02zSYTtpx63FVyTwXoy"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Por fin te encontr\u00e9",
+      "url": "https://open.spotify.com/track/6R92cXLN4xGHXWYn1iWyPm"
+    },
+    {
+      "album": {
         "name": "Por m\u00ed",
         "url": "https://open.spotify.com/album/2AU3CXREJBTZfXG0i3lLS1"
       },
@@ -29444,7 +29462,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 208666,
       "name": "Si T\u00fa Supieras",
       "url": "https://open.spotify.com/track/0rSNljsLJZep9hcqNARySa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=yy1tJkUVR4qMJMuJydS1Mw>Festizie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,099 likes - 99 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,108 likes - 99 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 28 | [Receive My Praise](https://open.spotify.com/track/5ZjM2caU8mtDuCmnboS4z5) | [GB Kharisma](https://open.spotify.com/artist/31fZ1HRBTFBdsaXXtOyn2s) | [Receive My Praise](https://open.spotify.com/album/4T98NUAcBHsUJklKKfrkEA) | 5:50 |
 | 29 | [Aleph](https://open.spotify.com/track/1RWAofRqEZoEKp5R3yPv7N) | [Pacome BenHaelohim](https://open.spotify.com/artist/4Ytvgrankp38Tw46uJwPOj), [Sarepta Faveur](https://open.spotify.com/artist/1R5Ud8jFIhhFfUXnVmmjPE) | [Aleph](https://open.spotify.com/album/2mUoH5MJOzCQhP4WaB8vJo) | 4:22 |
 | 30 | [E.O.H \(Echoes of heart\)](https://open.spotify.com/track/4JyDpJRq1Kw5I7agE3wc0S) | [Dasmart](https://open.spotify.com/artist/1TR30QWtapklwjTmVV89v6) | [E.O.H \(Echoes of heart\)](https://open.spotify.com/album/3kB8a1p96xdGm84wicDuY3) | 2:54 |
-| 31 | [Uloyiko Lwami 2.0 \(Live\)](https://open.spotify.com/track/6xEXoF9hY3AZ7MF9xEw3rZ) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Bonfire Experience \(Live\)](https://open.spotify.com/album/4J9lZoFJ8FH5UFNrjS8owz) | 8:03 |
+| 31 | [Uloyiko Lwami 2.0 \(Live\)](https://open.spotify.com/track/6xEXoF9hY3AZ7MF9xEw3rZ) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Bonfire Experience \(Live\)](https://open.spotify.com/album/4J9lZoFJ8FH5UFNrjS8owz) | 8:02 |
 | 32 | [King Of Glory](https://open.spotify.com/track/2SMAD22BGOPGo2Ri6yPj81) | [Ugee Royalty](https://open.spotify.com/artist/1upKp4bI2MbgvvfVXTxakF) | [King Of Glory](https://open.spotify.com/album/5OkzF7bi00Xfbg5OIfLpe8) | 4:37 |
 | 33 | [Your Hand](https://open.spotify.com/track/04au4heiIGOufXcFQavnGQ) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Your Hand](https://open.spotify.com/album/6y8tuksrsqz8GhSsvcbaXW) | 2:35 |
 | 34 | [Shabach Praise Vol\. 2](https://open.spotify.com/track/0UvxIunl1BhnAgVUc9QJ2c) | [Adetoun](https://open.spotify.com/artist/4N43Qov0D7UPN0Whxw6Gee) | [Shabach Praise Vol\. 2](https://open.spotify.com/album/3iouQTUUfqnFwmTXlNUEbu) | 18:50 |

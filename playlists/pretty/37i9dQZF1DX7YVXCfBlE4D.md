@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,086 likes - 170 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,226 likes - 170 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,8 +170,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 160 | [He Perdido Contigo](https://open.spotify.com/track/2HR8QK0rG0gBBQwY3THWVh) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O) | 3:49 |
 | 161 | [Vereda Tropical](https://open.spotify.com/track/16INyCMOhN3ujAHUMeputd) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS), [Fernando Fernandez](https://open.spotify.com/artist/7yQtfQ00YTUHPt1FhzmBdd), [Lupita Palomera](https://open.spotify.com/artist/1aFfZuSuuFy0o5JFB1PcLf) | [20 Grandes Éxitos](https://open.spotify.com/album/1ljIHA2RiMfQYYNYDRK4D6) | 3:45 |
 | 162 | [Rondando Tu Esquina](https://open.spotify.com/track/2uXnIaHVAz6y18iP7ukF84) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Ídolos de la Matancera](https://open.spotify.com/album/3Wux4ugoECbl7SmIB9qMUx) | 2:28 |
-| 163 | [Candilejas](https://open.spotify.com/track/1Dz1Gm0rHJVptuf6JO6dEJ) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/3n8ERMrAvGUuzCQAde0kAY) | 2:45 |
-| 164 | [Quizas, Quizas, Quizas,](https://open.spotify.com/track/5YuHUi3mQa6O5CsJZVUZWI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/4gJvY3r9i45vsDiInQL01D) | 2:30 |
+| 163 | [Quizas, Quizas, Quizas,](https://open.spotify.com/track/5YuHUi3mQa6O5CsJZVUZWI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/4gJvY3r9i45vsDiInQL01D) | 2:30 |
+| 164 | [Candilejas](https://open.spotify.com/track/1Dz1Gm0rHJVptuf6JO6dEJ) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/3n8ERMrAvGUuzCQAde0kAY) | 2:45 |
 | 165 | [Inolvidable](https://open.spotify.com/track/0lQU56BKMYPNugZD74Oe4x) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [15 Inolvidables Exitos](https://open.spotify.com/album/4QDmGzIIdGibZKrxbUfeDm) | 3:13 |
 | 166 | [Señora](https://open.spotify.com/track/22yYmTviEskq4hCyQSFdDX) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Bienvenido Granda](https://open.spotify.com/album/1TvJRm0Lf0tNSRYAJidYll) | 2:33 |
 | 167 | [Envidia](https://open.spotify.com/track/1h27UDtlLiEKvvDui0QVuC) | [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Mi Diario Musical](https://open.spotify.com/album/5akhxQagOxDAbWZqyWqXAG) | 3:09 |

@@ -4885,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Fulfilled",
+        "url": "https://open.spotify.com/album/7CzUiAzMrlFzPGrZ9EDcBL"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167038,
+      "name": "Fulfilled",
+      "url": "https://open.spotify.com/track/5bDTr8O5GBM8zhrLZidCL5"
+    },
+    {
+      "album": {
         "name": "Full Of Life",
         "url": "https://open.spotify.com/album/2TNQtjdGUSaiq5FIA2ZL1p"
       },
@@ -15186,7 +15204,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 189350,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/7EK4UOqDPX6BJa2RkrtA1X"

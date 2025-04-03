@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Song Sohee(\uc1a1\uc18c\ud76c)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \ub85c\uc774\ud0b4) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -820,6 +820,24 @@
       "duration_ms": 259972,
       "name": "As Autumn Brings Cold Wind",
       "url": "https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN"
+    },
+    {
+      "album": {
+        "name": "As Is",
+        "url": "https://open.spotify.com/album/0aSUdhZA53QNrR3uERvnFU"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246266,
+      "name": "As Is",
+      "url": "https://open.spotify.com/track/5cr5ffcY53WvwLnsnlgcvY"
     },
     {
       "album": {
@@ -7228,7 +7246,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 224413,
       "name": "Peach Tree",
       "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"

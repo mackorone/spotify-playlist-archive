@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 31711,
+  "num_followers": 31737,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAADXDDCt7Plgsq0vG6kkaTPS",
+  "snapshot_id": "Z+ssgAAAAAC+Ugn/6yyolfUaSVBJUQTk",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 167546,
-      "name": "Eva Maria",
-      "url": "https://open.spotify.com/track/78co7RoLUD80KC22tCq6of"
+      "duration_ms": 168306,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/6HXKHHC9T5weilLjvaDXiP"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Los Hombres No Deben Llorar - Live Version",
-      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Veas Lo Que Se Siente",
         "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Los Hombres No Deben Llorar - Live Version",
+      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Estrella De Los Bailes",
         "url": "https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0"
       },
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 168306,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/6HXKHHC9T5weilLjvaDXiP"
+      "duration_ms": 145880,
+      "name": "La Estrella De Los Bailes",
+      "url": "https://open.spotify.com/track/6nL6rki8gwWb0b0fRPkgAq"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escorpion",
         "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Estrella De Los Bailes",
         "url": "https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0"
       },
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 145880,
-      "name": "La Estrella De Los Bailes",
-      "url": "https://open.spotify.com/track/6nL6rki8gwWb0b0fRPkgAq"
+      "duration_ms": 145973,
+      "name": "Que Sacrificio",
+      "url": "https://open.spotify.com/track/2K0pLW0bk9Lqji0pGAMrvj"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Para Que No Me Olvides",
-      "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
         "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 142573,
-      "name": "Coraz\u00f3n Corazoncito",
-      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
+      "duration_ms": 154333,
+      "name": "A Mis Padres",
+      "url": "https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 156706,
-      "name": "Baila Nena",
-      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
+      "duration_ms": 191866,
+      "name": "Para Que No Me Olvides",
+      "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
     },
     {
       "added_at": null,
@@ -548,9 +532,25 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 154333,
-      "name": "A Mis Padres",
-      "url": "https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K"
+      "duration_ms": 142573,
+      "name": "Coraz\u00f3n Corazoncito",
+      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 15 para Coleccionar",
-        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "Los Luchadores",
-      "url": "https://open.spotify.com/track/2pvWTGb71qi76t1c17WCIB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "Los Luchadores",
+      "url": "https://open.spotify.com/track/2pvWTGb71qi76t1c17WCIB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 15 para Coleccionar",
-        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Madrecita Querida",
-      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
+      "duration_ms": 158157,
+      "name": "Por una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
     }
   ],
   "unique_name": "This Is Banda Maguey",

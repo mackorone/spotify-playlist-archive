@@ -786,10 +786,28 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 206360,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF"
+    },
+    {
+      "album": {
+        "name": "Conversations with Strangers",
+        "url": "https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/5OnpQJvF3btoiNmupKRTR0"
     },
     {
       "album": {
@@ -2139,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Conversations with Strangers",
+        "url": "https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178798,
+      "name": "Rothko",
+      "url": "https://open.spotify.com/track/07gbs1Gb4Lu3swfgPzYLBk"
+    },
+    {
+      "album": {
         "name": "Rothko",
         "url": "https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo"
       },
@@ -2150,7 +2186,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 178798,
       "name": "Rothko",
       "url": "https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d"

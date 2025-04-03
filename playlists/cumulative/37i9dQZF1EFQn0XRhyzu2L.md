@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-552 songs - 1 day 6 hr 12 min
+553 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Stopped Buying Diamonds](https://open.spotify.com/track/6j1qrYeRkiWkCkPsgpuM0e) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Stopped Buying Diamonds](https://open.spotify.com/album/5GkROEPJucwWwJoerPZsDI) | 2:36 | 2024-02-27 |  |
 | [stupid](https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:53 | 2024-02-27 |  |
 | [Summer In The City](https://open.spotify.com/track/5fFmZbXzn7iskrkyqsYtLA) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Summer In The City](https://open.spotify.com/album/7mN58OcKQ0vFazWOkBrx29) | 3:43 | 2024-02-27 |  |
+| [Sunset Blvd](https://open.spotify.com/track/1E70pcxXiSQLtxdowVXkbM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:47 | 2025-04-02 |  |
 | [SUPERMODEL](https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:28 | 2024-02-27 |  |
 | [Surefire](https://open.spotify.com/track/34JBZjGLUZonoqFjtbC31v) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 4:03 | 2024-02-27 |  |
 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2024-02-27 |  |

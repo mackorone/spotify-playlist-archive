@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: grentperez, Ariana Grande, Selena Gomez, Playboi Carti, Dope Lemon + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,980 likes - 98 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,976 likes - 98 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

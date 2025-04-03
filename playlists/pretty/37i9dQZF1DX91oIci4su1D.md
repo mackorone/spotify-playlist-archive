@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Above & Beyond
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,172 likes - 180 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,275 likes - 180 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

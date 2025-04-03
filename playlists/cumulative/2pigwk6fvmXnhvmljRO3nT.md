@@ -4,7 +4,7 @@
 
 > 
 
-6,564 songs - 17 day 4 hr 6 min
+6,565 songs - 17 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2778,6 +2778,7 @@
 | [Labyrinth](https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt), [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA), [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 2:32 | 2025-01-04 |  |
 | [Lady Brown \(feat\. Cise Starr from CYNE\)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr](https://open.spotify.com/artist/2Xavhsn8y9Yrr7N08OxvKF) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 3:19 | 2025-01-04 |  |
 | [Lady Of Namek](https://open.spotify.com/track/6ieWL5CLN9WdC875guWtMe) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:13 | 2025-01-15 |  |
+| [Lady Picture Show](https://open.spotify.com/track/6y1I8cGzw6KWy2zPA572Jq) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 4:06 | 2025-04-02 |  |
 | [Lakers \(feat\. Ab\-Soul, Polyester the Saint\)](https://open.spotify.com/track/522oSSdYJqadyIK80MOOqz) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Polyester the Saint](https://open.spotify.com/artist/2i59qMkZ79k8WTLV6gMJXY) | [Piñata](https://open.spotify.com/album/43uErencdmuTRFZPG3zXL1) | 4:30 | 2025-01-03 |  |
 | [Lalala](https://open.spotify.com/track/6Cpw0x7Ngn8p6sXCFG3rx0) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [My Stay In Sendai](https://open.spotify.com/album/62ZAzqJ6KDuwNym3NNsVk3) | 4:33 | 2025-01-03 |  |
 | [LAND OF THE FREE](https://open.spotify.com/track/7BjygzvUpf8P7X6uWzIhsF) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 4:43 | 2025-01-03 |  |
@@ -4627,7 +4628,7 @@
 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2025-01-03 |  |
 | [SPEEDBOAT](https://open.spotify.com/track/2FTOLKjQUswhpdMFq15Raf) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:42 | 2025-01-03 |  |
 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:23 | 2025-01-15 |  |
-| [Spider Dance](https://open.spotify.com/track/3aiGshuqYhdBBBhHqRf6jn) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 1:46 | 2025-03-22 |  |
+| [Spider Dance](https://open.spotify.com/track/3aiGshuqYhdBBBhHqRf6jn) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 1:46 | 2025-03-22 | 2025-04-03 |
 | [Spiderhead](https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:42 | 2024-12-14 |  |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2025-01-03 |  |
 | [Spin Me Around](https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:26 | 2025-01-04 |  |

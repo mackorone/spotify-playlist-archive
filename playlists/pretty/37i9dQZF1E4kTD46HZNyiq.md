@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With The Wild Wind, LAVE, Laureline and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,052 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Call Me a Fool](https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:24 |
 | 50 | [On the Corner Where You Live](https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 4:36 |
 
-Snapshot ID: `Z+yHsQAAAACFvQmTUZY9wuvpoCD2i2BO`
+Snapshot ID: `Z+3/hAAAAACGZmUsllvhokH4C4gODm26`

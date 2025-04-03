@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-820 songs - 1 day 11 hr 36 min
+822 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Das Kaleidoskop](https://open.spotify.com/track/1Lpp0iLabE9C5J1aQJkYS9) | [Albert Kraus](https://open.spotify.com/artist/63ueGtFxRPWEhEqweSglrM) | [Romina](https://open.spotify.com/album/5cEsMVp5pTN5clLQYMj3sy) | 3:14 | 2021-12-08 | 2022-08-05 |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2021-12-08 | 2022-07-08 |
 | [Day & Night](https://open.spotify.com/track/0STOod1idSRY8V0cHyoAkF) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Day & Night](https://open.spotify.com/album/1VJHc2kD8VRJXYeK39dfga) | 2:26 | 2022-11-18 | 2023-04-22 |
+| [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 | 2025-04-02 |  |
 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-27 |  |
 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 | 2025-02-24 |  |
 | [Dayspring Dew](https://open.spotify.com/track/2B5MVIV4kzaS4ehtL1UWFB) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Dayspring Dew](https://open.spotify.com/album/6ZJOzTo1OgudWntdAVZLTN) | 2:54 | 2021-12-08 | 2022-06-10 |
@@ -218,6 +219,7 @@
 | [Eclipse](https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Eclipse](https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29) | 2:04 | 2024-02-02 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2021-12-08 | 2024-04-05 |
 | [El Viso](https://open.spotify.com/track/5RQZ7FhisZezFYIaFKawOX) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [El Viso](https://open.spotify.com/album/0IGK5yy7ilE0aJd19Ylwnd) | 3:00 | 2022-03-18 | 2024-04-05 |
+| [Elys](https://open.spotify.com/track/1GsZaVvJ8K8vrB3QSZElgw) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Elys](https://open.spotify.com/album/3ueM6PUUzuMvqcyWTpInkL) | 2:45 | 2025-04-02 |  |
 | [Elysian](https://open.spotify.com/track/5ymSjtKAJNx0n2cpSz5k6p) | [Luca Tudela](https://open.spotify.com/artist/2gy6cul8rT4vjPjhSlbuo3) | [Elysian](https://open.spotify.com/album/0DJp7TMkGeE5X1hOrDiBaU) | 1:57 | 2021-12-08 | 2023-08-19 |
 | [Embedded](https://open.spotify.com/track/03RenC8nzfNTbQNiZcuSig) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Embedded](https://open.spotify.com/album/4z2GFR64bN18wH3vI6CxQW) | 2:13 | 2022-12-09 | 2024-04-05 |
 | [Eminence](https://open.spotify.com/track/1vTdIN54rYOds3Cf1ymCE5) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Eminence](https://open.spotify.com/album/2sm7AYwabkhNkYxx3BkaUV) | 2:45 | 2022-08-05 | 2023-06-03 |
@@ -383,7 +385,7 @@
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2022-01-05 | 2023-04-22 |
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2022-01-11 | 2024-05-24 |
 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 | 2023-10-27 | 2024-04-05 |
-| [Last call](https://open.spotify.com/track/207wR8oMI5Q6jX6DjNNXSc) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Last call](https://open.spotify.com/album/1rRvNmqAv2MOTPLyL6oW1y) | 2:16 | 2024-06-28 |  |
+| [Last call](https://open.spotify.com/track/207wR8oMI5Q6jX6DjNNXSc) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Last call](https://open.spotify.com/album/1rRvNmqAv2MOTPLyL6oW1y) | 2:16 | 2024-06-28 | 2025-04-03 |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-05-12 | 2024-07-19 |
 | [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-08-10 |  |
 | [Last Fall](https://open.spotify.com/track/7cJxIvDCtQ42oQDmnqw7bP) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Last Fall](https://open.spotify.com/album/12UyG4b6DjNB3KT7bEsl6i) | 2:31 | 2025-01-20 |  |

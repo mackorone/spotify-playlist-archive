@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,246 likes - 75 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,301 likes - 75 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Sahaswara Mantra for Crown Chakra with AUM Sound](https://open.spotify.com/track/72jQQX6TwitG7CVRAk8g3D) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:02:33 |
 | 75 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 |
 
-Snapshot ID: `Z+I/2wAAAAB9bJJ0uzZFBbMmp3DCBUkC`
+Snapshot ID: `Z+zk8wAAAAA496Ma5J0QV+oFFnFv6TFE`

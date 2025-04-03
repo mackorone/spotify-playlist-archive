@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 729,380 likes - 134 songs - 6 hr 41 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 729,366 likes - 134 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 17 | [I Can Feel](https://open.spotify.com/track/1rGIVlrTnTImDk9wRV0x9x) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Can Feel](https://open.spotify.com/album/2R2FlnXX3CxcK6fb2waAdn) | 2:28 |
 | 18 | [harinezumi](https://open.spotify.com/track/7xm03vyufkfib4IKZeelWJ) | [waera](https://open.spotify.com/artist/0Pz9dDcv7SWwHzdqAjQr3l) | [harinezumi](https://open.spotify.com/album/4KXcFAlr8h4ysLuy9dVovi) | 1:57 |
 | 19 | [Change](https://open.spotify.com/track/3UqK34q5uhmHsyQhBIV2T4) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Change](https://open.spotify.com/album/3OBJ42ekOCgYt5Pj7idOwY) | 3:07 |
-| 20 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5), [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 |
+| 20 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 |
 | 21 | [Geometry](https://open.spotify.com/track/0AmYNX6Ho7z4o4auoaupYN) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA) | [Geometry](https://open.spotify.com/album/2x1RrN4EMDOhzKoR6zf3S4) | 2:35 |
 | 22 | [Second Wind](https://open.spotify.com/track/7d9MoWBBI9sbZnsoW16z5Z) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Second Wind](https://open.spotify.com/album/5e3cX20tXLQKMlNUxTSZ4F) | 3:12 |
 | 23 | [Back on Dash](https://open.spotify.com/track/66i7MyCc1Tq4iGZxxHOCej) | [DJVI](https://open.spotify.com/artist/5rn3BUzOWjGGWkCSHQsADZ) | [Back on Dash](https://open.spotify.com/album/3uOH80WiPsBfObjNAzXm32) | 3:06 |

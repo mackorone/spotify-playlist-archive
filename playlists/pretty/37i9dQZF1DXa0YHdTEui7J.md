@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,352 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,360 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 17 | [White Girl Got Some Ass](https://open.spotify.com/track/0rSNz5tygoa5QWNskXzeFE) | [Brothers of Funk](https://open.spotify.com/artist/3Fh9IdO7KcHhocGyaDc2rN) | [White Girl Got Some Ass](https://open.spotify.com/album/2MbEirIXbaEdWXbR1lozsz) | 3:44 |
 | 18 | [Get Get Down](https://open.spotify.com/track/4h4AEqy0iBbjdlbtWvIx5O) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Get Get Down](https://open.spotify.com/album/1ND1coyFl0AIA9D5OujGgg) | 6:07 |
 | 19 | [Shaolin Dreams](https://open.spotify.com/track/2sGFufjNzWIVBp5vRR7Sgm) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Shaolin Dreams](https://open.spotify.com/album/43xx4WgDHH1gCUVdDZoiq5) | 4:28 |
-| 20 | [Visions Of You \- Mixed \- Carl Cox Remix](https://open.spotify.com/track/13ilUvlGLFnt82qEBIZRtj) | [Trevor Rockcliffe](https://open.spotify.com/artist/6I403EVfXQvbFhyo5JMAXe), [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [fabric presents The Martinez Brothers \(DJ Mix\)](https://open.spotify.com/album/2kHNkKY2h0tgLodOl8x9ff) | 2:31 |
+| 20 | [Visions Of You \- Mixed \- Carl Cox Remix](https://open.spotify.com/track/13ilUvlGLFnt82qEBIZRtj) | [Trevor Rockcliffe](https://open.spotify.com/artist/6I403EVfXQvbFhyo5JMAXe), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [fabric presents The Martinez Brothers \(DJ Mix\)](https://open.spotify.com/album/2kHNkKY2h0tgLodOl8x9ff) | 2:31 |
 | 21 | [Bad Behaviour](https://open.spotify.com/track/3VLBjYS5Dhbw2vUd4ku4PU) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Bad Behaviour EP](https://open.spotify.com/album/14jhhdBkvHfiRjDSiOw3jh) | 6:47 |
 | 22 | [U Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/track/0TN9m8rp3ZuNi4JwCKSans) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [2 Future 4 U](https://open.spotify.com/album/00XVrVh53A6ENcRbErr81y) | 8:04 |
 | 23 | [Bowo](https://open.spotify.com/track/7joocoyJfrwgbDTA8vsLHA) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Bowo](https://open.spotify.com/album/5lPBOcNNThSHk5iDpsROzu) | 6:40 |

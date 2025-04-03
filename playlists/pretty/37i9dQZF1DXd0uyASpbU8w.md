@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from DJ Maphorisa &  Xduppy, Ariana Grande, Lil Nas X and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,828 likes - 79 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,902 likes - 79 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 30 | [Wrong'o](https://open.spotify.com/track/0U8xtfWYwhma9j6GMr7qBW) | [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Wrong'o](https://open.spotify.com/album/4DBN4wMKO4YYeDAXkhxKAc) | 7:56 |
 | 31 | [Ngithande \(feat\. Musical Xpress & Blaq Note\)](https://open.spotify.com/track/5ixjCvuftMBoA6mqe9Q7T6) | [Leroyale](https://open.spotify.com/artist/4OVfoB7aEqGe8Hp5t5QMWd), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [Musical Xpress](https://open.spotify.com/artist/1cFqZBH1iBgQW9iqSApg6g), [Blaq Note](https://open.spotify.com/artist/4u5gGmVuOz6sxEgG4tbWV4) | [Ngithande \(feat\. Musical Xpress & Blaq Note\)](https://open.spotify.com/album/3JAex9FMrtmM1JzcTHo73m) | 6:21 |
 | 32 | [Hardcore Romance \(feat\. Ari Abdul\)](https://open.spotify.com/track/76wlJ1x1Hq0I8gfsJ2UFHl) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Hardcore Romance \(feat\. Ari Abdul\)](https://open.spotify.com/album/5BmXjhV33avH542Wn5cZSQ) | 3:20 |
-| 33 | [Karolis \(Sensasie Remix\)](https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Hokaai](https://open.spotify.com/album/6JQ57szEJM2faKvkX56CWH) | 3:10 |
+| 33 | [Karolis \(Sensasie Remix\) \(feat\. Sensasie\)](https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Hokaai](https://open.spotify.com/album/6JQ57szEJM2faKvkX56CWH) | 3:10 |
 | 34 | [Sengize Ngamthola](https://open.spotify.com/track/6U6mnSkN3dWoY0H0k1Og2M) | [AMASINAMUVA AMASHA](https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV), [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [Sengize Ngamthola](https://open.spotify.com/album/0xNTVdgtDwuo5D4FxjJqeS) | 6:01 |
 | 35 | [Amaxhosa](https://open.spotify.com/track/5jVZPPYPHgNMU4eqK6OMEH) | [L'vovo Derrango](https://open.spotify.com/artist/4WDhShFXDvpLtmCpsYdae7), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f) | [Amaxhosa](https://open.spotify.com/album/5H8PPaVIQHORytzAysXcES) | 6:33 |
 | 36 | [No Regrets](https://open.spotify.com/track/5UGWtEHRbi3Y44RcSJER3B) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [No Regrets](https://open.spotify.com/album/1Yp44nuzZFD65GoZYxfsAx) | 2:31 |

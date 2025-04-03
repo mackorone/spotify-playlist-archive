@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16073,
+  "num_followers": 16074,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAACLB3I3AWtjzvsr8Elk3hGJ",
+  "snapshot_id": "Z+ssgAAAAAApT8wTemctOjvaQSO7KEmQ",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Roy Ayers",
-        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -115,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Roy Ayers",
+        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD"
       },
@@ -127,6 +127,30 @@
       "duration_ms": 361826,
       "name": "Love Will Bring Us Back Together",
       "url": "https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
+      },
+      "artists": [
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        },
+        {
+          "name": "Ursula Rucker",
+          "url": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 376066,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF"
     },
     {
       "added_at": null,
@@ -163,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Time",
-        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
-      },
-      "artists": [
-        {
-          "name": "Richard Earnshaw",
-          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
-        },
-        {
-          "name": "Ursula Rucker",
-          "url": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 376066,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 206523,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF"
+      "duration_ms": 180549,
+      "name": "Soulful and Unique",
+      "url": "https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 180549,
-      "name": "Soulful and Unique",
-      "url": "https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a"
+      "duration_ms": 206523,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "And Don't You Say No",
+      "url": "https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrumentals JID009",
         "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 206523,
       "name": "Gravity - Instrumental",
       "url": "https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "And Don't You Say No",
-      "url": "https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw"
     },
     {
       "added_at": null,
@@ -763,30 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Vision",
-        "url": "https://open.spotify.com/album/7GWwRPL4keJ9Xd460YHwR5"
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
       "artists": [
-        {
-          "name": "The Vision",
-          "url": "https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I"
-        },
-        {
-          "name": "Ben Westbeech",
-          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
-        },
-        {
-          "name": "Kon",
-          "url": "https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi"
-        },
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 281186,
-      "name": "Wasting",
-      "url": "https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh"
+      "duration_ms": 300280,
+      "name": "Sunshine - Demo",
+      "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
     },
     {
       "added_at": null,
@@ -811,18 +799,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+        "name": "The Vision",
+        "url": "https://open.spotify.com/album/7GWwRPL4keJ9Xd460YHwR5"
       },
       "artists": [
+        {
+          "name": "The Vision",
+          "url": "https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I"
+        },
+        {
+          "name": "Ben Westbeech",
+          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+        },
+        {
+          "name": "Kon",
+          "url": "https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi"
+        },
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 300280,
-      "name": "Sunshine - Demo",
-      "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
+      "duration_ms": 281186,
+      "name": "Wasting",
+      "url": "https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh"
     },
     {
       "added_at": null,

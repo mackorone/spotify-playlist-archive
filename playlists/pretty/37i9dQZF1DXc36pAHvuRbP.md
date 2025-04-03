@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 45 | [Le temps des cadeaux](https://open.spotify.com/track/5uyvqfUGBXrKIvkgj8BYOK) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:18 |
 | 46 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 |
 | 47 | [Le pull qui gratte](https://open.spotify.com/track/0Ydc98mAUvB0HavHmzX67S) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ) | [Vivre heureux dans un pull qui gratte](https://open.spotify.com/album/5KrBQ8dXT4EhYcw6e7Qmcq) | 3:06 |
-| 48 | [La Flemme](https://open.spotify.com/track/0A1GHh2ct5yKUsEqjThQBN) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [La Flemme](https://open.spotify.com/album/0R34JLS5vnqUsWx7ejh3SX) | 3:30 |
+| 48 | [Rock de la confesssion](https://open.spotify.com/track/2uTC1SJ00q7tOJudyh6G8s) | [Les Z'imbert & Moreau](https://open.spotify.com/artist/2MI5qVfIMsW0IqztPD33HK) | [Magique !](https://open.spotify.com/album/0g1v80kNMKNXXPUpkt9CIt) | 2:47 |
 | 49 | [J'ai trop la honte](https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:15 |
-| 50 | [Rock de la confesssion](https://open.spotify.com/track/2uTC1SJ00q7tOJudyh6G8s) | [Les Z'imbert & Moreau](https://open.spotify.com/artist/2MI5qVfIMsW0IqztPD33HK) | [Magique !](https://open.spotify.com/album/0g1v80kNMKNXXPUpkt9CIt) | 2:47 |
+| 50 | [La Flemme](https://open.spotify.com/track/0A1GHh2ct5yKUsEqjThQBN) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [La Flemme](https://open.spotify.com/album/0R34JLS5vnqUsWx7ejh3SX) | 3:30 |
 
 Snapshot ID: `ZsNT8QAAAACgXz2luWQc8AQPsQvze+A/`

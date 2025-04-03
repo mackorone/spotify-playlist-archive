@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM &amp; Camden Cox
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,764 likes - 87 songs - 4 hr 12 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,778 likes - 87 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 2 | [Illusion](https://open.spotify.com/track/7rONL3DsWAeW3RbNshISEc) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Illusion](https://open.spotify.com/album/5vfu9E9F4kBCq0AlfdquSF) | 2:45 |
 | 3 | [Diamond In The Rough](https://open.spotify.com/track/7jGMJ4elJCN4Jqvep5d0Yi) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Diamond In The Rough](https://open.spotify.com/album/5OkTkv5HihCPXVTzPOGu1q) | 3:10 |
 | 4 | [Run Away](https://open.spotify.com/track/49rG4V7Z3Fz806rW2aL6Wl) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Run Away](https://open.spotify.com/album/1ZhG5FXKUJXcs9ipabxqX0) | 2:22 |
-| 5 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
+| 5 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
 | 6 | [Shades Of Gray](https://open.spotify.com/track/5jakKyB7OiOSPyTrbypdpm) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Shades Of Gray](https://open.spotify.com/album/7DI6EfquW5vUuYWuav9mlU) | 3:00 |
 | 7 | [Warning](https://open.spotify.com/track/1Zcgrk1KIo3fcC1ceyOWfl) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc) | [Warning](https://open.spotify.com/album/7qIQadnPABUBp9p0zwW4vX) | 2:42 |
 | 8 | [Shadows](https://open.spotify.com/track/3yx9FvpJyHrHd5CwONQUIM) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Shadows](https://open.spotify.com/album/15VExKJxqoqCoCpFjldjiQ) | 4:15 |

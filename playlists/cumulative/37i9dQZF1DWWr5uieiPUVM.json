@@ -12945,6 +12945,28 @@
     },
     {
       "album": {
+        "name": "MAIOR QUE O TEMPO",
+        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "PRETTY LET GIRL",
+      "url": "https://open.spotify.com/track/5UBCGftdDXdaxomn1eloLC"
+    },
+    {
+      "album": {
         "name": "Problemas de um Milion\u00e1rio",
         "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
       },
@@ -15610,7 +15632,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 125375,
       "name": "Tomara Que Caia",
       "url": "https://open.spotify.com/track/6OtsS0r3dPbZYr7wL7j9cI"

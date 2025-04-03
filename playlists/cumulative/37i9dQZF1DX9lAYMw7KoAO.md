@@ -2,7 +2,7 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn?si=zjUvrifvSVysFqZUimgxnQ>Nathaniel Bassey</a> and <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=\-ojC\_HqsTYaUE4cvVJYQHQ>Moses Bliss</a>
+> The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>
 
 450 songs - 1 day 15 hr 29 min
 

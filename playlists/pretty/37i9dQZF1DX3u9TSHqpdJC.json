@@ -1,13 +1,229 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Miso Extra. Artwork by Paola Saliby",
-  "num_followers": 225599,
+  "description": "The best new pop music from new, independent artists.  Cover: Josie Oliver. Artwork by Paola Saliby",
+  "num_followers": 225678,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+OB6AAAAACOi4Qv52VozASYTcIT7l3T",
+  "snapshot_id": "Z+0vzwAAAABAZKf3CnMyFmWRSuicGJvX",
   "tracks": [
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Listen to this when you buy a house",
+        "url": "https://open.spotify.com/album/6BTJS3CE6lcSSIT0md7Byv"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Do you really have to go?",
+      "url": "https://open.spotify.com/track/2Aq88M9sEPxN8VaFCx88Ii"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0dTJb9uh9S7o6NzDi3v1M5"
+      },
+      "artists": [
+        {
+          "name": "The Cave",
+          "url": "https://open.spotify.com/artist/2mW9rNrxyKxGj4GC53hVAH"
+        }
+      ],
+      "duration_ms": 192378,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2pCO165sXGWIPlgdCfard7"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Duel",
+        "url": "https://open.spotify.com/album/5fi1Z4VzXeNAYg4BxNCWgR"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/2BeBp0IazmkqGVc0PxxDye"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Dinner For One",
+        "url": "https://open.spotify.com/album/5tqVQa9C5q5cLWK1FEAfDe"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 195119,
+      "name": "Dinner For One",
+      "url": "https://open.spotify.com/track/0gQs0l9EESFn2Y3lj7gFer"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/7w3LUwzj8vPBRW2SkR9f15"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "duration_ms": 160206,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/1Ltayziaf8EYz1bUUQWDD8"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/3ncQbttOb3C2oTDfgJ8Aea"
+      },
+      "artists": [
+        {
+          "name": "Luke Dunleavy",
+          "url": "https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga"
+        }
+      ],
+      "duration_ms": 155357,
+      "name": "I Know What I Want",
+      "url": "https://open.spotify.com/track/2QOyLOKfkSet2ez1pHdlMV"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/48wVtN0GvBtjHHYJ0RxrQD"
+      },
+      "artists": [
+        {
+          "name": "Emma Noodles",
+          "url": "https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ"
+        }
+      ],
+      "duration_ms": 206428,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4urdojDnWsbUHNHftNkiKH"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Good With Goodbye (feat. Chloe Parch\u00e9)",
+        "url": "https://open.spotify.com/album/3t79sGB2WMVu2mptSdfmY6"
+      },
+      "artists": [
+        {
+          "name": "PEPTALK",
+          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
+        },
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        }
+      ],
+      "duration_ms": 165805,
+      "name": "Good With Goodbye (feat. Chloe Parch\u00e9)",
+      "url": "https://open.spotify.com/track/7uDYeoLutNRtO8fYvXU0uf"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Pretty Please",
+        "url": "https://open.spotify.com/album/6CKgfDzlFkaGpfouXutUVR"
+      },
+      "artists": [
+        {
+          "name": "Izzy Withers",
+          "url": "https://open.spotify.com/artist/2INrRE4j3gaPvjeOEo1a8r"
+        }
+      ],
+      "duration_ms": 194659,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/1od6V9SncKppU9jZRoQxsF"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Run Me Dry",
+        "url": "https://open.spotify.com/album/2DwTLlpvotFU9CEpOubcq8"
+      },
+      "artists": [
+        {
+          "name": "KENZY",
+          "url": "https://open.spotify.com/artist/0inFpswIgQhzGTW4WF1FOY"
+        }
+      ],
+      "duration_ms": 211524,
+      "name": "Run Me Dry",
+      "url": "https://open.spotify.com/track/2plpOCTJB7NoYuyNPmq5Rh"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "fentanyl and wedding rings",
+        "url": "https://open.spotify.com/album/3rJa2BVQbsfRPL6DLgRGGB"
+      },
+      "artists": [
+        {
+          "name": "Elli Rowe",
+          "url": "https://open.spotify.com/artist/2KfGE9a5mDcfuL4vJqYqHB"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "fentanyl and wedding rings",
+      "url": "https://open.spotify.com/track/1SufLSPFhDMWOXMhr8WXxX"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "Imperfect",
+        "url": "https://open.spotify.com/album/1kP5mc3SUHBW3iB35Nkndw"
+      },
+      "artists": [
+        {
+          "name": "GEN V",
+          "url": "https://open.spotify.com/artist/4xOvJsdZxX9gVQmRUW92QW"
+        },
+        {
+          "name": "Daney B",
+          "url": "https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Imperfect",
+      "url": "https://open.spotify.com/track/7kUPW9f3UJeoLBSGSozPMG"
+    },
+    {
+      "added_at": "2025-04-02 12:38:39",
+      "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/2p4LmPJMSPOLtcPjRUM8Dm"
+      },
+      "artists": [
+        {
+          "name": "dolphoe",
+          "url": "https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr"
+        }
+      ],
+      "duration_ms": 159188,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/1bTOr6iboynDM7sG5JoM7x"
+    },
     {
       "added_at": "2025-03-26 04:00:08",
       "album": {
@@ -1007,22 +1223,6 @@
     {
       "added_at": "2025-03-05 05:00:05",
       "album": {
-        "name": "Standstill",
-        "url": "https://open.spotify.com/album/5lpEPyhS0CdK6FAsY1WRBv"
-      },
-      "artists": [
-        {
-          "name": "Josie Oliver",
-          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
-        }
-      ],
-      "duration_ms": 191148,
-      "name": "Standstill",
-      "url": "https://open.spotify.com/track/76qHPsrYjI5O7Hml8qNCjX"
-    },
-    {
-      "added_at": "2025-03-05 05:00:05",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/6RKB1HViVixHxxQj06LPUs"
       },
@@ -1299,38 +1499,6 @@
     {
       "added_at": "2025-02-19 05:00:13",
       "album": {
-        "name": "Cynic",
-        "url": "https://open.spotify.com/album/2ZKSMa7uJnSwTmo00PjlMb"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Cynic",
-      "url": "https://open.spotify.com/track/4lQ0lA8YuR7uc6iymwzpEG"
-    },
-    {
-      "added_at": "2025-02-19 05:00:13",
-      "album": {
-        "name": "I'M GOOD (HONEY)",
-        "url": "https://open.spotify.com/album/2CXy5p0KrvW81gZU5lHd6l"
-      },
-      "artists": [
-        {
-          "name": "CAFE TOKYO",
-          "url": "https://open.spotify.com/artist/6O6iCYO5CrnzosokZM0Are"
-        }
-      ],
-      "duration_ms": 179578,
-      "name": "I'M GOOD (HONEY)",
-      "url": "https://open.spotify.com/track/6aJPNvnIZHA6qgCdTJzh4k"
-    },
-    {
-      "added_at": "2025-02-19 05:00:13",
-      "album": {
         "name": "Something's Wrong",
         "url": "https://open.spotify.com/album/0hpgWa4eaWkKSueDk8FDYM"
       },
@@ -1393,102 +1561,6 @@
       "url": "https://open.spotify.com/track/3g9pB5c01TzX76uVI4OffZ"
     },
     {
-      "added_at": "2025-02-12 05:00:11",
-      "album": {
-        "name": "You'll Be Fine",
-        "url": "https://open.spotify.com/album/499KHILLKHUzXgMEyTM7aN"
-      },
-      "artists": [
-        {
-          "name": "Saila",
-          "url": "https://open.spotify.com/artist/01ZjCJW32IZZfRpEv9ND14"
-        }
-      ],
-      "duration_ms": 151893,
-      "name": "You'll Be Fine",
-      "url": "https://open.spotify.com/track/5bo9KUYGNK1cwIEGiP79lh"
-    },
-    {
-      "added_at": "2025-02-12 05:00:11",
-      "album": {
-        "name": "Make Up Sex",
-        "url": "https://open.spotify.com/album/2Q6OjRKonRkQTtaTFgsCkC"
-      },
-      "artists": [
-        {
-          "name": "Ceara Cavalieri",
-          "url": "https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW"
-        }
-      ],
-      "duration_ms": 125693,
-      "name": "Make Up Sex",
-      "url": "https://open.spotify.com/track/48S7JYmTP8ph2QoCQC47y2"
-    },
-    {
-      "added_at": "2025-02-05 05:00:13",
-      "album": {
-        "name": "Not Everything Ends",
-        "url": "https://open.spotify.com/album/3RUxz2erYYect3c0ogPRxC"
-      },
-      "artists": [
-        {
-          "name": "Lilly Bedard",
-          "url": "https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Not Everything Ends",
-      "url": "https://open.spotify.com/track/16X7jn4USwVk0dVobvFN5R"
-    },
-    {
-      "added_at": "2025-02-05 05:00:13",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2lmVjrA39ngMJ5G7xUMRTf"
-      },
-      "artists": [
-        {
-          "name": "KENNEDY",
-          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/0n3nkCQVWJNDNIXw1U08Gw"
-    },
-    {
-      "added_at": "2025-02-05 05:00:13",
-      "album": {
-        "name": "Talking To Myself",
-        "url": "https://open.spotify.com/album/6X21A7aXQTF2gwvcCelQh0"
-      },
-      "artists": [
-        {
-          "name": "Anna Kornis",
-          "url": "https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "Talking To Myself",
-      "url": "https://open.spotify.com/track/5RzSSL0PNS3Pp5V2xJPo2I"
-    },
-    {
-      "added_at": "2025-01-29 05:00:20",
-      "album": {
-        "name": "Live a Little Die a Lot",
-        "url": "https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 247192,
-      "name": "Back To Hell",
-      "url": "https://open.spotify.com/track/0argBvpz23uO6hbnS0Z3Rc"
-    },
-    {
       "added_at": "2025-01-22 05:00:08",
       "album": {
         "name": "Who are you?",
@@ -1503,70 +1575,6 @@
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
-    },
-    {
-      "added_at": "2025-01-29 05:00:20",
-      "album": {
-        "name": "Ruin Me",
-        "url": "https://open.spotify.com/album/60yOfJpwmlp9osVmPWuhTR"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 142090,
-      "name": "Ruin Me",
-      "url": "https://open.spotify.com/track/4MP7zCh4D3eN2odDvQVxHm"
-    },
-    {
-      "added_at": "2025-01-22 05:00:08",
-      "album": {
-        "name": "LUCKY BOY",
-        "url": "https://open.spotify.com/album/7sC2LnkJihVuPsBPPUPU7y"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
-        }
-      ],
-      "duration_ms": 168718,
-      "name": "LUCKY BOY",
-      "url": "https://open.spotify.com/track/5w3s73fS7K0Ld0FMjwWooE"
-    },
-    {
-      "added_at": "2025-01-22 05:00:08",
-      "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/1frNzkqZrkVTzil4tptBPv"
-      },
-      "artists": [
-        {
-          "name": "Olivia C. Dacal",
-          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
-        }
-      ],
-      "duration_ms": 194100,
-      "name": "COMO T\u00da",
-      "url": "https://open.spotify.com/track/4hEUp0JHJ0b20ICmvSebgI"
-    },
-    {
-      "added_at": "2025-01-22 05:00:08",
-      "album": {
-        "name": "C.R.I.N.G.E.",
-        "url": "https://open.spotify.com/album/53VfafhPaGOkRigoncylVc"
-      },
-      "artists": [
-        {
-          "name": "Azuleja",
-          "url": "https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "C.R.I.N.G.E.",
-      "url": "https://open.spotify.com/track/25MPQTNLhtMFbMPzNxghFj"
     },
     {
       "added_at": "2025-01-08 16:58:18",

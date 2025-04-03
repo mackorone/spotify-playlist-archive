@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 148957,
       "name": "A Little Dream",
       "url": "https://open.spotify.com/track/1nmXVqN8SnGqzKhI7K1BOo"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 231980,
       "name": "Glass Maze",
       "url": "https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu"
@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb"
+      },
+      "artists": [
+        {
+          "name": "Claudia Schumann",
+          "url": "https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149182,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78"
+    },
+    {
+      "album": {
         "name": "The Winds Know My Name",
         "url": "https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT"
       },
@@ -4938,6 +4956,24 @@
       "duration_ms": 171596,
       "name": "Winona",
       "url": "https://open.spotify.com/track/3E8FaarMpFzi6HiSRUWSrV"
+    },
+    {
+      "album": {
+        "name": "Within Reach",
+        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
+      },
+      "artists": [
+        {
+          "name": "Waqar Jachin",
+          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153301,
+      "name": "Within Reach",
+      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
     },
     {
       "album": {

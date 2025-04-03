@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 青葉市子
 
-1,318 songs - 3 day 5 hr 39 min
+1,319 songs - 3 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1095,6 +1095,7 @@
 | [ナタリー\(パソコン音楽クラブ Remix\)](https://open.spotify.com/track/4OMJwyjoJzWSZWxr5aP6bF) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [ナタリー\(パソコン音楽クラブ Remix\)](https://open.spotify.com/album/65cw8Ttp5hfyHxuyfxXYst) | 4:04 | 2022-05-31 | 2022-07-06 |
 | [ニッポン笑顔百景 \-ZZ ver.\-](https://open.spotify.com/track/2U69kVLGLVdOtzWK2UAsbg) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46) | [ZZ's Ⅱ](https://open.spotify.com/album/61SioPFNQ2moIbC7BaZIZK) | 3:53 | 2022-09-06 | 2022-10-05 |
 | [ニュー・ポスト](https://open.spotify.com/track/7snmcOI8fQSLpZQVESt5kW) | [meme tokyo.](https://open.spotify.com/artist/17MHlwdSz1PIXcfsqaLflw) | [ニュー・ポスト](https://open.spotify.com/album/3R8dJf7yZFcjBzJLJYFHiY) | 3:03 | 2022-04-05 | 2022-05-05 |
+| [ネビュラロマンス](https://open.spotify.com/track/3SjRQkgA5VdldUK6WKy9O7) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス](https://open.spotify.com/album/4vx6ucRcqp4VtMQxm3NJrO) | 4:02 | 2025-04-01 |  |
 | [ノーメイクスター \(feat\. 詩羽\)](https://open.spotify.com/track/6jIdvMOKYSRTWlmHKunRwn) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [ノーメイクスター \(feat\. 詩羽\)](https://open.spotify.com/album/2Kn1t6oSfWXfBwgGRJh9e8) | 4:04 | 2024-09-10 | 2024-11-13 |
 | [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 | 2024-07-30 |  |
 | [ハッピィエンド](https://open.spotify.com/track/4cVB6Mdg3nqyAb7eMwdGCT) | [ニィキュッパ](https://open.spotify.com/artist/2xO9IhKnLiL2kuOmuaRgaI) | [ハッピィエンド](https://open.spotify.com/album/7lbeoNGyoikSnCGVyEdiKn) | 3:07 | 2024-01-09 | 2024-02-07 |

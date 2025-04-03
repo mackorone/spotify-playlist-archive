@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: X CLUB.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,639 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,643 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 3 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 |
 | 4 | [Worlds Apart](https://open.spotify.com/track/4tUX1aYiThsz8JBrq7Tfj5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Worlds Apart](https://open.spotify.com/album/5NlYWL5uGUoCnoEwTIqSsa) | 2:46 |
 | 5 | [Feel The Friction](https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Feel The Friction](https://open.spotify.com/album/14AhXf3h67J8auGzUzBWLi) | 3:02 |
-| 6 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
+| 6 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
 | 7 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 |
 | 8 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
 | 9 | [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 |

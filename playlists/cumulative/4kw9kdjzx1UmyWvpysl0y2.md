@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-950 songs - 2 day 5 hr 45 min
+951 songs - 2 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Burbank Nights](https://open.spotify.com/track/6cOxE8TUiPe4iYi4kvDoJu) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Burbank Nights](https://open.spotify.com/album/1equ0DwRZaGqjzWi588Oum) | 4:15 | 2023-09-05 | 2024-01-11 |
 | [by myself](https://open.spotify.com/track/6GnEtewHDS2VS3GZj4lYgb) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [by myself](https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV) | 3:05 | 2025-02-25 |  |
 | [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 | 2022-06-22 |
+| [California Dreamin'](https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [California Dreamin'](https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C) | 2:50 | 2025-04-02 |  |
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 | 2022-06-03 |
 | [Calling](https://open.spotify.com/track/2rqlbwqcQBzuaI3DTlRiEP) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [Calling](https://open.spotify.com/album/7eE9VGf46QBOuY4BkzTo3N) | 3:21 | 2023-07-31 | 2023-12-14 |
 | [Calling Us](https://open.spotify.com/track/7maTcRghSDNPyXuP9szRiW) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Calling Us](https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019) | 4:10 | 2023-01-25 | 2023-04-11 |

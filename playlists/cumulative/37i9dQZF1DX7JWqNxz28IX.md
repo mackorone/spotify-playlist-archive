@@ -4,7 +4,7 @@
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-298 songs - 13 hr 26 min
+299 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 | 2022-04-21 |  |
 | [Polvere 2 \- Piano Version](https://open.spotify.com/track/43SCnZKrexM5T7C8AlsDBk) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [Polvere 2 \(Piano Version\)](https://open.spotify.com/album/444H1b2kQtSy0elVuls7kG) | 1:52 | 2023-02-23 | 2023-04-21 |
 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 | 2022-04-21 |  |
+| [Poter scegliere](https://open.spotify.com/track/35s4cmZFjwxJ2fhcsEwAiC) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:20 | 2025-04-03 |  |
 | [Primavera](https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Foglio rosa](https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7) | 2:19 | 2023-11-10 |  |
 | [Promettimi che mi amerai](https://open.spotify.com/track/7tJvwojvbiHOKL4wJFzO20) | [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Promettimi che mi amerai](https://open.spotify.com/album/6ZRm6d7vst3tVg9wqINjOm) | 2:32 | 2022-12-08 | 2023-03-25 |
 | [Punti di vista](https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt) | [Mael+](https://open.spotify.com/artist/5WI9ughINoRS2iom1SU79n), [Puhf](https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj) | [Dove la luce non arriva](https://open.spotify.com/album/2nc0nFlQBDrqriStBtOEZs) | 2:43 | 2022-06-09 | 2022-12-15 |
@@ -228,7 +229,7 @@
 | [Respiro \(ti ricordi di noi?\)](https://open.spotify.com/track/3FwarDyrUu4WLErrK7ZrIs) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Respiro \(ti ricordi di noi?\)](https://open.spotify.com/album/5RWA7IvGTu9KsuW4eEL7Op) | 2:16 | 2022-12-05 | 2023-03-25 |
 | [Rest](https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm) | [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [Suffer On](https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX) | 2:10 | 2024-01-19 | 2025-03-22 |
 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 | 2022-05-26 |  |
-| [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 | 2023-01-12 |  |
+| [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 | 2023-01-12 | 2025-04-03 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2024-01-19 | 2024-07-02 |
 | [Rottami](https://open.spotify.com/track/3Qwqat3qIk2JL8IcXVdnjl) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/6vrZwg5BfH2T7JbY1UDiqq) | 3:19 | 2022-07-14 | 2023-03-25 |
 | [Rottami](https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U) | 3:19 | 2023-04-18 | 2024-02-10 |

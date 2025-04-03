@@ -2,7 +2,7 @@
 
 ### [EQUAL Polska](https://open.spotify.com/playlist/37i9dQZF1DWWsiJMaq2jt5)
 
-> Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href=“spotify:artist:0ML3y0iBY1nq7HWAWP0EFm”> BLANKA</a>
+> Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:0ML3y0iBY1nq7HWAWP0EFm">BLANKA</a>
 
 2,170 songs - 4 day 19 hr 39 min
 

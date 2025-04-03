@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 163259,
+  "num_followers": 163273,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAADl1KHf35dfEIk54dMUI4jb",
+  "snapshot_id": "Z+ssgAAAAAAtm6CXEjvHEJMu55GNiCPX",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "need dat boy",
-        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "need dat boy",
-      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUN GOES DOWN",
         "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 168275,
       "name": "SUN GOES DOWN",
       "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "need dat boy",
+        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "need dat boy",
+      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,596 songs - 4 day 0 hr 31 min
+1,597 songs - 4 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [ALL MY LOVE](https://open.spotify.com/track/2VUtTnTYe2wA3Bj13YfLwq) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [ALL MY LOVE](https://open.spotify.com/album/3sOolxlKbF0j81LDUw02Qa) | 3:09 | 2022-10-18 | 2022-10-20 |
 | [ALL MY LOVE](https://open.spotify.com/track/6AXZEkvpntH6PBotxzRHjg) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [ALL MY LOVE](https://open.spotify.com/album/3jZyvxRqAx1iS3dl8p1r3g) | 3:09 | 2022-10-18 | 2022-10-21 |
 | [All night](https://open.spotify.com/track/5JlJuloP4IgM88EZ3IjCxe) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [All night](https://open.spotify.com/album/23omW2nOAt0jOBcHXo9sYb) | 2:57 | 2023-01-24 | 2023-02-15 |
-| [All Right](https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Minds & Colors](https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36) | 3:18 | 2025-03-26 |  |
+| [All Right](https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Minds & Colors](https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36) | 3:18 | 2025-03-26 | 2025-04-03 |
 | [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-08 | 2023-06-14 |
 | [All Through the Night](https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z) | 3:01 | 2023-02-07 | 2023-03-02 |
 | [All Through the Night](https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn) | 3:01 | 2023-02-07 | 2023-02-09 |
@@ -552,7 +552,7 @@
 | [Krazy Salt](https://open.spotify.com/track/6E2J0fgj3HACa2pHiHBAIk) | [Eryyy](https://open.spotify.com/artist/05bLnicFOOWYmhoVx4FjMM), [Noriyuki Takagi a.k.a\. NT](https://open.spotify.com/artist/4fIgXEZosCpVykEuMaelYm) | [YO WAKARANGA](https://open.spotify.com/album/4xuOPbWMDqE3IHEZ56E4QO) | 3:07 | 2022-06-21 | 2022-06-29 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-04-28 |  |
 | [La la lie](https://open.spotify.com/track/0mHoojc6jZ08qMvUSvEz8g) | [Ryo Nagano](https://open.spotify.com/artist/1pQVDdL0MKMj353vBQ3BM6) | [La la lie](https://open.spotify.com/album/17PcmDiBW1axhPJdWmMrQl) | 3:10 | 2023-11-28 | 2023-12-13 |
-| [Lady](https://open.spotify.com/track/1wi50gwaeaIfA9UuC3N6b1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [Gradation](https://open.spotify.com/album/2FsPwRN3eVBic4gVtixjnx) | 2:47 | 2025-03-26 |  |
+| [Lady](https://open.spotify.com/track/1wi50gwaeaIfA9UuC3N6b1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [Gradation](https://open.spotify.com/album/2FsPwRN3eVBic4gVtixjnx) | 2:47 | 2025-03-26 | 2025-04-03 |
 | [LaLaLa](https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [LaLaLa](https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL) | 2:55 | 2023-01-24 | 2023-03-25 |
 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 | 2022-09-08 | 2023-08-16 |
 | [Lazy](https://open.spotify.com/track/2kZo01ECeedfL95z4zpVKf) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Lazy](https://open.spotify.com/album/3pAueoomvTwfDObLNimgOL) | 3:42 | 2024-01-16 | 2024-01-24 |
@@ -798,7 +798,7 @@
 | [people](https://open.spotify.com/track/47hcYZ2WMLTzArFYLpvgUr) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [people](https://open.spotify.com/album/4FzOMTCyWwAfrXFtEvDzAZ) | 4:50 | 2022-07-26 | 2022-09-09 |
 | [Persona](https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Persona](https://open.spotify.com/album/5e8sX6JiIW3v1LhxBwSoRQ) | 3:00 | 2023-06-20 | 2023-07-19 |
 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 | 2024-09-04 | 2024-09-26 |
-| [Phantom](https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:37 | 2024-12-10 | 2025-04-02 |
+| [Phantom](https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:37 | 2024-12-10 |  |
 | [Phenomeno](https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4yk7K6h54kH24QaEzxINC4) | 2:45 | 2024-04-16 | 2024-05-15 |
 | [Phenomeno](https://open.spotify.com/track/1A2zvkHDQ8adalZv4gPBWR) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4Z8iqDa6wdIb4GTREZ1n1l) | 2:45 | 2024-04-12 | 2024-04-19 |
 | [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 |  |
@@ -1509,6 +1509,7 @@
 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 | 2024-03-07 |  |
 | [月面着陸計画](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-08 |  |
 | [未来のこと](https://open.spotify.com/track/6cYzQkwsO6StfGaSdH1nmk) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [未来のこと](https://open.spotify.com/album/6IZcWgH4YcB4ydbxDVZ9Fc) | 5:53 | 2022-08-24 | 2022-09-15 |
+| [未来地図2025](https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [未来地図2025](https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ) | 6:00 | 2025-04-02 |  |
 | [未来時代](https://open.spotify.com/track/3rMVgn486bfoyJEvkb6xmX) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [未来時代](https://open.spotify.com/album/1VCSBg9Vf3jNgRZfgFVwTS) | 4:41 | 2022-05-26 | 2022-06-29 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-12 |  |
 | [東へ西へ](https://open.spotify.com/track/6iYAdrE8loWBu9bX2Mbfil) | [Leo Imai](https://open.spotify.com/artist/052wDw54ZAwrWQraLblXZb) | [Eastward Westward](https://open.spotify.com/album/04gsYjYupPQFCTpiSQcMhp) | 4:34 | 2023-04-20 | 2023-05-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Hanu Dixit, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Abhishek Gaur, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -282,6 +282,24 @@
       "duration_ms": 191537,
       "name": "Aaftabi",
       "url": "https://open.spotify.com/track/68BjRqJvavHHlOEM9tTZoP"
+    },
+    {
+      "album": {
+        "name": "Aagosh",
+        "url": "https://open.spotify.com/album/3NbN0EOEkyhKC4wuzo3rcw"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Gaur",
+          "url": "https://open.spotify.com/artist/1bFjJGx0Kn8WXy4nAcr6wO"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351457,
+      "name": "Aagosh",
+      "url": "https://open.spotify.com/track/0XPUYDbqewp5L9sRVpDTWd"
     },
     {
       "album": {
@@ -16584,7 +16602,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 247422,
       "name": "Maalik",
       "url": "https://open.spotify.com/track/1GUpzvrpcy4adJ4Mmc4zxN"
@@ -23975,6 +23993,24 @@
     },
     {
       "album": {
+        "name": "Sawariya",
+        "url": "https://open.spotify.com/album/1HZpTP1T1zQxZsNuoado3T"
+      },
+      "artists": [
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Sawariya",
+      "url": "https://open.spotify.com/track/2iujd6n2PNsKSmIMJ9qWlu"
+    },
+    {
+      "album": {
         "name": "Saza",
         "url": "https://open.spotify.com/album/6hVPhyFPvJe7NT0fCaq5pD"
       },
@@ -24290,7 +24326,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 201000,
       "name": "Seven Sins",
       "url": "https://open.spotify.com/track/7xEnWrwd9KodDfS2xCpfIs"
@@ -26693,6 +26729,24 @@
     },
     {
       "album": {
+        "name": "me",
+        "url": "https://open.spotify.com/album/7HOa4qCtTST3bzWZgR60zK"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192125,
+      "name": "the man",
+      "url": "https://open.spotify.com/track/15rG4s2FEQkHVOrbEf8G9z"
+    },
+    {
+      "album": {
         "name": "The Night",
         "url": "https://open.spotify.com/album/5rKQOTXL3oJkJVdndBdhZq"
       },
@@ -26896,7 +26950,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 181000,
       "name": "These Waters",
       "url": "https://open.spotify.com/track/04dFYHAl2Dkjtdhgr6Nj6h"

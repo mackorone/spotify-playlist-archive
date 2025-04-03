@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 
 > Największe polskie alternatywne kawałki w 2024 według naszej redakcji\. Cover: Daria ze Śląska
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,658 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,664 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pamięć do złych słów](https://open.spotify.com/track/6JAEyHiDdGoeoUltoWeja4) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Na południu bez zmian](https://open.spotify.com/album/4kpClwjCLjrJik61hEUc0G) | 3:56 |
 | 2 | [Szum](https://open.spotify.com/track/3qD07JJOPiyqjiQeg1wDK3) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 3:52 |
 | 3 | [Można](https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Kasia i Błażej](https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi) | 4:00 |
-| 4 | [Jestem rzeką](https://open.spotify.com/track/2ThFlxcEMz1X2t9o77vriD) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt), [Bela Komoszyńska](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz) | [Jestem rzeką](https://open.spotify.com/album/5BaCukUeMq4eYQCsOBCMNm) | 4:20 |
+| 4 | [Jestem rzeką](https://open.spotify.com/track/2ThFlxcEMz1X2t9o77vriD) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz) | [Jestem rzeką](https://open.spotify.com/album/5BaCukUeMq4eYQCsOBCMNm) | 4:20 |
 | 5 | [List \(Rojst Millenium \| Netflix\)](https://open.spotify.com/track/4wHHKYyr1DLIGNVoAVfDbf) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [List \(Rojst Millenium \| Netflix\)](https://open.spotify.com/album/2QOBzXMLlull06Z4H7yJqi) | 3:23 |
 | 6 | [Trucizna](https://open.spotify.com/track/5wYOm2m2AhsdTyY3N39Guq) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 2:38 |
 | 7 | [List](https://open.spotify.com/track/2a0XfGcXniIlQyFMEZTKJL) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:37 |

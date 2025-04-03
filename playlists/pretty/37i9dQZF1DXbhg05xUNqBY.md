@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,395 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,388 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 92 | [Harbor](https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Harbor](https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy) | 4:23 |
 | 93 | [Sing Over Me](https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sing Over Me](https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY) | 4:14 |
 | 94 | [Yahweh](https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Yahweh](https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09) | 9:15 |
-| 95 | [Altogether Good \- Live](https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [The Joy of Being Together](https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE) | 5:09 |
-| 96 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
-| 97 | [Heal My Heart \- Live](https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Heal My Heart](https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam) | 7:38 |
+| 95 | [Heal My Heart \- Live](https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Heal My Heart](https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam) | 7:38 |
+| 96 | [Altogether Good \- Live](https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [The Joy of Being Together](https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE) | 5:09 |
+| 97 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
 | 98 | [Eden Restored](https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU) | [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV) | [JUBILATION](https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv) | 6:50 |
 | 99 | [Breathe \- breathe version](https://open.spotify.com/track/2rFrYi2PmyirWybLIrAM2m) | [Worship For Everyone](https://open.spotify.com/artist/5VYPBA36e08yP6JOMvPxau), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW) | [Breathe](https://open.spotify.com/album/71ndlCL4MWUnOjAkS8awmW) | 4:06 |
 | 100 | [Be Still](https://open.spotify.com/track/1Teva30jEfi9cEfDbQ1D9A) | [Amanda Danziger](https://open.spotify.com/artist/6l3sdAWFkzODyjVA2TXp6i), [Filipe Michael](https://open.spotify.com/artist/1lj5Uym0VUFOqO5R6cE3OC) | [Seasons](https://open.spotify.com/album/3nUYvwazbTWIhGSjVHbfCu) | 3:52 |

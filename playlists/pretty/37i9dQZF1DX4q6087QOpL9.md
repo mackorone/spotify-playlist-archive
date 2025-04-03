@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 
 > That real soulful house sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,042 likes - 150 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,081 likes - 150 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 | 145 | [Sensitive \(feat\. Lily McKenzie\)](https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Emotions](https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA) | 3:40 |
 | 146 | [Free Me \- Groove Assassin Remix](https://open.spotify.com/track/4eEYNJeaQNlKVVkJYtHxlO) | [10th Street Assembly](https://open.spotify.com/artist/4ZawuQwsrRF4sACSk3DkwT), [Groove Assassin](https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG) | [Free Me \(Groove Assassin Remix\)](https://open.spotify.com/album/0xNn006mgw6WmaLIMB8ARp) | 3:52 |
 | 147 | [Believe In A Brighter Day \(feat\. P.Y\. Anderson\) \- Micky More & Andy Tee Remix](https://open.spotify.com/track/78ONJrmioSDusDJj5bhmuz) | [Platinum Doll](https://open.spotify.com/artist/6ojudcApV0E08N0akblkAq), [P.Y\. Anderson](https://open.spotify.com/artist/5jPLt2udnOn3DYHWsihKkx), [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN) | [Believe In A Brighter Day \(feat\. P.Y\. Anderson\) \[Micky More & Andy Tee Remix\]](https://open.spotify.com/album/6Fcw8dfdH2Nzte7ij0hMUC) | 3:41 |
-| 148 | [Breathe \- Natasha Diggs Remix](https://open.spotify.com/track/0vEWGzPIOAnLBN6aVf5aWt) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [Natasha Diggs](https://open.spotify.com/artist/0DqGIKEEj1pOGrOTrYUwPt) | [Breathe \(Natasha Diggs Remix\)](https://open.spotify.com/album/4dlv3ovLZYjGwSHmsWPDTv) | 3:54 |
-| 149 | [Nothing But Happiness](https://open.spotify.com/track/0MiVdDAGUeTlj4to1hCs04) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Nothing But Happiness](https://open.spotify.com/album/7hOKlaq1VW154vHsI6yYyh) | 3:23 |
+| 148 | [Nothing But Happiness](https://open.spotify.com/track/0MiVdDAGUeTlj4to1hCs04) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Nothing But Happiness](https://open.spotify.com/album/7hOKlaq1VW154vHsI6yYyh) | 3:23 |
+| 149 | [Breathe \- Natasha Diggs Remix](https://open.spotify.com/track/0vEWGzPIOAnLBN6aVf5aWt) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [Natasha Diggs](https://open.spotify.com/artist/0DqGIKEEj1pOGrOTrYUwPt) | [Breathe \(Natasha Diggs Remix\)](https://open.spotify.com/album/4dlv3ovLZYjGwSHmsWPDTv) | 3:54 |
 | 150 | [Did You Pray Today? \(feat\. Annette Bowen\)](https://open.spotify.com/track/6jLZA4j6JlEmIOwt6snOUM) | [Melvo Baptiste](https://open.spotify.com/artist/1QpOH83Mq6hEUPnLudxPw6), [Annette Bowen](https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6) | [Did You Pray Today? \(feat\. Annette Bowen\)](https://open.spotify.com/album/1qt65emuQCgvkuViFPuQOq) | 4:11 |
 
 Snapshot ID: `Z9NjjAAAAABfW3Kw4hR2U4bQ+MAvh9RK`

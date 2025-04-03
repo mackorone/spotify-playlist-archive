@@ -2,7 +2,7 @@
 
 ### [Mufasa: The Lion King Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVovIX1fs8PH)
 
-> From "Circle of Life" to "Hakuna Matata", listen to all the songs from The Lion King, all in one place\. Mufasa: The Lion King, in theaters now.
+> From "Circle of Life" to "Hakuna Matata", listen to all the songs from The Lion King, all in one place.
 
 97 songs - 5 hr 49 min
 

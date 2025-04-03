@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Homebound",
+        "url": "https://open.spotify.com/album/096aOFTAhHfunfw0Y3DjPz"
+      },
+      "artists": [
+        {
+          "name": "Nora Vale",
+          "url": "https://open.spotify.com/artist/0fPeAHb11dnVfKVXoUBYZE"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126346,
+      "name": "Homebound",
+      "url": "https://open.spotify.com/track/7IcMrQoAG375c6vOPYvo8Z"
+    },
+    {
+      "album": {
         "name": "Hopeful Morning",
         "url": "https://open.spotify.com/album/1vrJEIt5azjKVH8VEaQIB3"
       },
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 118130,
       "name": "Hopeful Morning",
       "url": "https://open.spotify.com/track/4Thn6Qz2Oix0TvwQnaz60M"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 186521,
       "name": "Lavender - with cello",
       "url": "https://open.spotify.com/track/4BAEp107Apsg6doe16AIMH"
@@ -4514,6 +4532,24 @@
       "duration_ms": 124930,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI"
+    },
+    {
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I"
+      },
+      "artists": [
+        {
+          "name": "Daiku T",
+          "url": "https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120720,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye"
     },
     {
       "album": {

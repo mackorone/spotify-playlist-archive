@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "BULLETPOOF",
+        "url": "https://open.spotify.com/album/0Tny996mCnH3DtJ4YRVJMI"
+      },
+      "artists": [
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "Wavyier",
+          "url": "https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "BULLETPOOF",
+      "url": "https://open.spotify.com/track/4vzMyJMRpDb06p5gdQdyAN"
+    },
+    {
+      "album": {
         "name": "Buong Ako Sayo",
         "url": "https://open.spotify.com/album/1MNUWaqszKt8l5fqPU49pu"
       },
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 242875,
       "name": "Hanap",
       "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
@@ -2400,6 +2422,24 @@
       "duration_ms": 249107,
       "name": "KARANASAN",
       "url": "https://open.spotify.com/track/3Y0wDVo2Dlrg0W6UoXkz9b"
+    },
+    {
+      "album": {
+        "name": "KARMEN",
+        "url": "https://open.spotify.com/album/1nERzbdmnFru3H4cwZFxRU"
+      },
+      "artists": [
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227181,
+      "name": "KARMEN",
+      "url": "https://open.spotify.com/track/4ecS04LKhx2dFdnVYCYc7B"
     },
     {
       "album": {
@@ -2868,7 +2908,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 209317,
       "name": "Maharot",
       "url": "https://open.spotify.com/track/3kQoCtlLR0q4inrgAzFA6k"
@@ -2890,7 +2930,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 188375,
       "name": "Mailap",
       "url": "https://open.spotify.com/track/19qY0adCmXoYTRfZoA0P2f"
@@ -3402,6 +3442,24 @@
       "duration_ms": 174495,
       "name": "ON LY",
       "url": "https://open.spotify.com/track/3CpZiVFZTld1E9U9esag6m"
+    },
+    {
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7"
     },
     {
       "album": {

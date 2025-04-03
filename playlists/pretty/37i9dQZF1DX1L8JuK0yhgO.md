@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,543 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,546 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 30 | [単純明快](https://open.spotify.com/track/2vphSwdH25ut8QMtooil3f) | [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I), [Lowki](https://open.spotify.com/artist/51If4Xoq3EAp0IE0wwE1F2) | [単純明快](https://open.spotify.com/album/0p6GflZpLW89Vkktynojym) | 3:23 |
 | 31 | [ちょっとだけずっとグッド](https://open.spotify.com/track/6eKAAUvpxCMQp9iwTpwS5H) | [豊と良治](https://open.spotify.com/artist/5Xp0KrLGD6tSXCvUyNPexl) | [ちょっとだけずっとグッド](https://open.spotify.com/album/5SE4TMoyWUk8wL1i0RnzGR) | 3:00 |
 | 32 | [no sync \- tofubeats Remix](https://open.spotify.com/track/2k6jKxaRiAMKB0XRSudlVz) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [no sync \(tofubeats Remix\)](https://open.spotify.com/album/0taWdWyVqjVnRzYKh68NSt) | 4:19 |
-| 33 | [WELCOME RAIN \(feat\. CHAPPO & MIYA \(Ålborg\)\)](https://open.spotify.com/track/4nGsxh81jcV2vTpUnq3Klv) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD), [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6), [MIYA\(Ålborg\)](https://open.spotify.com/artist/3pP4cAFj6dkQuukluPZj2b) | [AH!!](https://open.spotify.com/album/4jY38xighsYjZ8VCS592h5) | 3:03 |
+| 33 | [WELCOME RAIN \(feat\. シャッポ & MIYA \(Ålborg\)\)](https://open.spotify.com/track/4nGsxh81jcV2vTpUnq3Klv) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD), [シャッポ](https://open.spotify.com/artist/0gcK8vIyzGRwvNeHkCZgFz), [MIYA\(Ålborg\)](https://open.spotify.com/artist/3pP4cAFj6dkQuukluPZj2b) | [AH!!](https://open.spotify.com/album/4jY38xighsYjZ8VCS592h5) | 3:03 |
 | 34 | [push me](https://open.spotify.com/track/6Kw5k9HSJtqRCi7SVfgzes) | [Shu](https://open.spotify.com/artist/2OYhnqda2aY0DpAsU0ROed) | [push me](https://open.spotify.com/album/6wwpqLxeT5baEweTqhV82l) | 2:54 |
 | 35 | [群衆フライデー](https://open.spotify.com/track/59eAiIIFsvA1LY2fY87Dj9) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI) | [群衆フライデー](https://open.spotify.com/album/05FuBLsysXMHxyIX7MlePl) | 4:21 |
 | 36 | [Let Me Be Me](https://open.spotify.com/track/2ANnz9Yz84AjRvQbesAN0y) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Let Me Be Me](https://open.spotify.com/album/6ZKIfOnERnUGU5vm73Q68B) | 3:05 |

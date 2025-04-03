@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-307 songs - 14 hr 2 min
+309 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 | 2023-09-08 |  |
 | [Holunder](https://open.spotify.com/track/5Aki6jU7ZhW2ChqPYULD6W) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Holunder](https://open.spotify.com/album/3Xmq3Xkg8QTkn9ObMIKyoz) | 2:30 | 2023-09-08 |  |
 | [Home](https://open.spotify.com/track/0BZK74rauKeNrOevBkhNE8) | [Gorka](https://open.spotify.com/artist/6kPHDVsuzYXW2oTAZ80QJj) | [Meditations II](https://open.spotify.com/album/3nVaUZTPIjtP99Ebri2LaS) | 3:14 | 2022-02-24 | 2023-09-09 |
-| [Hopeful Morning](https://open.spotify.com/track/4Thn6Qz2Oix0TvwQnaz60M) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Hopeful Morning](https://open.spotify.com/album/1vrJEIt5azjKVH8VEaQIB3) | 1:58 | 2025-02-26 |  |
+| [Homebound](https://open.spotify.com/track/7IcMrQoAG375c6vOPYvo8Z) | [Nora Vale](https://open.spotify.com/artist/0fPeAHb11dnVfKVXoUBYZE) | [Homebound](https://open.spotify.com/album/096aOFTAhHfunfw0Y3DjPz) | 2:06 | 2025-04-02 |  |
+| [Hopeful Morning](https://open.spotify.com/track/4Thn6Qz2Oix0TvwQnaz60M) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Hopeful Morning](https://open.spotify.com/album/1vrJEIt5azjKVH8VEaQIB3) | 1:58 | 2025-02-26 | 2025-04-03 |
 | [Hvile \(Ps.4\)](https://open.spotify.com/track/6VX09RQkEUeCA2f07eF4L0) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Hvile \(Ps.4\)](https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm) | 2:25 | 2023-09-26 |  |
 | [Hybrid Eclipse](https://open.spotify.com/track/0WJ2EOp4SKW5ODXSVcl24d) | [Nucleus A.D.](https://open.spotify.com/artist/2bEtt3sQSaChWOLNzfyX9e) | [Hybrid Eclipse](https://open.spotify.com/album/3fkiWYlQT33Zt2tHesvf20) | 3:48 | 2020-10-20\* | 2024-07-30 |
 | [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 | 2023-09-26 |  |
@@ -145,7 +146,7 @@
 | [Lark](https://open.spotify.com/track/5lG5EHUFKM9IMrozv6nUac) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [Lark](https://open.spotify.com/album/1XIuXtuC9jZHUWzNPNoB9e) | 2:18 | 2023-09-08 |  |
 | [Last Summer](https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Last Summer](https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v) | 2:20 | 2024-12-11 |  |
 | [Laugarvatn](https://open.spotify.com/track/6sbdQPeO6pCjLGn0qYPliB) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Laugarvatn](https://open.spotify.com/album/4PXbi2zhHkm9KkG9hTAZsp) | 3:05 | 2021-09-18 |  |
-| [Lavender \- with cello](https://open.spotify.com/track/4BAEp107Apsg6doe16AIMH) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c), [Ardie Son](https://open.spotify.com/artist/35p89koMONEWydy9cbaWzm) | [More Than Words](https://open.spotify.com/album/5MRoWKvgXINVTmJmmR7Qw5) | 3:06 | 2023-09-08 |  |
+| [Lavender \- with cello](https://open.spotify.com/track/4BAEp107Apsg6doe16AIMH) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c), [Ardie Son](https://open.spotify.com/artist/35p89koMONEWydy9cbaWzm) | [More Than Words](https://open.spotify.com/album/5MRoWKvgXINVTmJmmR7Qw5) | 3:06 | 2023-09-08 | 2025-04-03 |
 | [Law of Attraction \(solo version\)](https://open.spotify.com/track/6cmTVnOrji6WyAkFbnFLQK) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Various Solo Versions](https://open.spotify.com/album/4QLNgqKLeHjtGujmRWlgdG) | 3:35 | 2020-10-20\* | 2023-09-09 |
 | [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 | 2024-10-08 |  |
 | [Le Lac des Buttes](https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ) | [Nicolas Dupain\-Aignon](https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf) | [Lac des Buttes](https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32) | 2:13 | 2023-09-26 |  |
@@ -256,6 +257,7 @@
 | [Summervale](https://open.spotify.com/track/3G7DGzqvFHsFMlsq7OddLH) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Summervale](https://open.spotify.com/album/6BXD9agE1HlJzyNw7NuLrq) | 2:25 | 2023-11-13 |  |
 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 | 2023-09-08 |  |
 | [Sunlight](https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Sunlight](https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh) | 2:04 | 2023-09-18 |  |
+| [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 | 2025-04-02 |  |
 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 | 2020-10-28 |  |
 | [Sunset at the Veranda](https://open.spotify.com/track/1DSFdhs58XvcJs6OFFR6B2) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Sunset at the Veranda](https://open.spotify.com/album/0mnIZBUOqZjxG0Gn8Asp2o) | 2:38 | 2020-10-20\* | 2020-11-28 |
 | [Surrender](https://open.spotify.com/track/2XT3IIDjd9ve1bHoavN1L6) | [Frozen Forests](https://open.spotify.com/artist/3JMKuMIkqPhpsXO0nAUhs9) | [Elevate](https://open.spotify.com/album/3Jr1NEoQbFZ9xi1fYa4Fq6) | 3:32 | 2020-10-20\* | 2021-12-11 |

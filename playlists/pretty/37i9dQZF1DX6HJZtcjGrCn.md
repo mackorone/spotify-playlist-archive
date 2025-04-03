@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Vic Mirallas, MARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,466 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,462 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tal vez](https://open.spotify.com/track/4BdBaKVptpdEPT4yhmCyGZ) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Tal vez](https://open.spotify.com/album/0eEf6BblPnfbpTZslxzvCq) | 3:48 |
+| 1 | [tal vez](https://open.spotify.com/track/4BdBaKVptpdEPT4yhmCyGZ) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [tal vez](https://open.spotify.com/album/0eEf6BblPnfbpTZslxzvCq) | 3:48 |
 | 2 | [Vai e Vem](https://open.spotify.com/track/05lq6K55VhJAFqjit5voto) | [Filipe Karlsson](https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6) | [Lá Vem o Sol](https://open.spotify.com/album/65cxxKUyvNlgzgDnH7dECm) | 3:10 |
 | 3 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 4 | [Se é primavera](https://open.spotify.com/track/3uXQ6DZE9UYFjf9WuduU93) | [Valter Lobo](https://open.spotify.com/artist/69KGUs8AVPGEyE5ZR9PCc7) | [Melancólico Dançante](https://open.spotify.com/album/41Dp0ad9EO6BAg5U3YpFS3) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Akapellah & ACRU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,346 likes - 102 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,355 likes - 102 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 7 | [Alas Rotas](https://open.spotify.com/track/4BjBOHYl0ySaVyfGMrAnWc) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Alas Rotas](https://open.spotify.com/album/6Zii4FrSvlwpqI984JXuHI) | 2:16 |
 | 8 | [PAULINA](https://open.spotify.com/track/0nxvB50oTssriM7Cq9D8vk) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [R Flakkkk](https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll) | [PAULINA](https://open.spotify.com/album/4KKa84CWt4o4XK4Cg5ui9V) | 2:09 |
 | 9 | [Wapo Traketero](https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Wapo Traketero](https://open.spotify.com/album/0HvHR0nVBzvwkzsIMHDRoZ) | 3:01 |
-| 10 | [CICATRICES](https://open.spotify.com/track/0T9dqvswDkVqD5CeCUvJcT) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [Live Session Vol 1](https://open.spotify.com/album/1fbQrdbmFVRDMD6JTyTabO) | 4:15 |
+| 10 | [CICATRICES \(Live Session\)](https://open.spotify.com/track/0T9dqvswDkVqD5CeCUvJcT) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Live Session Vol 1](https://open.spotify.com/album/1fbQrdbmFVRDMD6JTyTabO) | 4:15 |
 | 11 | [MELÓN VINO](https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MELÓN VINO](https://open.spotify.com/album/642DHM5L0ZjQZYGPKELOqN) | 2:56 |
 | 12 | [ACDC](https://open.spotify.com/track/2jJcyBC0I8xsu4t3vpAlgx) | [Dyan](https://open.spotify.com/artist/3hpawnHbN5R65xVPnhJPFY), [Coco Palmer](https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY), [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [ACDC](https://open.spotify.com/album/5GgJMELI6lm7Oj18VRRe4i) | 2:23 |
 | 13 | [Club](https://open.spotify.com/track/39G6VuL4uMc4RkTmTWmGvr) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Faus.](https://open.spotify.com/artist/3523bfC8fO4mikSjfpLccw) | [TR3S](https://open.spotify.com/album/3AiilnB66vqE98WBFReKeT) | 2:59 |

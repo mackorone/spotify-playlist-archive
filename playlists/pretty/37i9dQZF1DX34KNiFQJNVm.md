@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Teto, Gusttavo Lima, Ariana Grande e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049,008 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,049,055 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 11 | [Sorriso Espontâneo \- Ao Vivo](https://open.spotify.com/track/2GjIUzK26F1wy8hDe2PdVp) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Araguaia, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/0Pqegdfdm8jjwJIdIdyj7K) | 3:10 |
 | 12 | [Julieta e Romeu](https://open.spotify.com/track/13gRSs6LkeLA68Ga9gb9sj) | [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8), [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E) | [Julieta e Romeu](https://open.spotify.com/album/4cKXr4IitGV0ragEyoHy6S) | 3:30 |
 | 13 | [Latino Americano](https://open.spotify.com/track/6zHljzSIv7lHW4krlOC1hy) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [PRA SEMPRE NO MESMO BAIRRO](https://open.spotify.com/album/5Cc1z7x5KA1eo20fmWG4Zi) | 2:32 |
-| 14 | [Tiramisù](https://open.spotify.com/track/4rWaO8cmkIdZpQAMnutaP5) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Bebeto](https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz) | [Tiramisù](https://open.spotify.com/album/47oTL1uelbP4YXu6tCJXDF) | 2:40 |
+| 14 | [Tiramisù](https://open.spotify.com/track/4rWaO8cmkIdZpQAMnutaP5) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Bebeto](https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Tiramisù](https://open.spotify.com/album/47oTL1uelbP4YXu6tCJXDF) | 2:40 |
 | 15 | [Do Corre](https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [DJ LN](https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET) | [Do Corre](https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP) | 3:15 |
 | 16 | [Fake](https://open.spotify.com/track/4TTVEPqAKz5BQmb5gqRSFF) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Fake](https://open.spotify.com/album/5Obd8POJspOCF0jTxqIgvB) | 3:03 |
 | 17 | [Musa do Verão](https://open.spotify.com/track/7jdZXXQ0Th0Oub1NIW2EoK) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Musa do Verão](https://open.spotify.com/album/02Gn0ZxKwgvwqqpJVm5BHw) | 2:42 |

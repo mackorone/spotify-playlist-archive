@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Sidewalks and Skeletons, Sky Ferreira and more
+> With Pastel Ghost, Sidewalks and Skeletons, Mareux and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,446 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,475 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [4 Morant \(Better Luck Next Time\)](https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Brokendate](https://open.spotify.com/album/7njHOwYjouefEKp1XbTx95) | 2:51 |
 | 50 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 
-Snapshot ID: `Z+ykMQAAAABjVTB0r5mYZRfMYf5xyHHX`
+Snapshot ID: `Z+359gAAAADSButPTrLcK6JQgiCtLrUW`

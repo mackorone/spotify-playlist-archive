@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-187 songs - 9 hr 48 min
+188 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 | 2022-10-11 |  |
 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 | 2022-10-11 |  |
 | [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 | 2024-09-25 |  |
+| [Calm Current](https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Calm Current](https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR) | 2:57 | 2025-04-02 |  |
 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 | 2022-10-11 |  |
 | [City Light](https://open.spotify.com/track/0iyTHcQ6DHU59aJd7z0lru) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3XB4Ss6DwQVCoybkKE2RDW) | 3:03 | 2024-03-05 |  |
 | [City Light](https://open.spotify.com/track/0oDyEmgdYNE9KZwOHitArr) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3Juf0EoBQN1ZHJXJJxZXJl) | 3:03 | 2023-03-07 | 2024-04-19 |
@@ -162,7 +163,7 @@
 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 | 2022-10-11 |  |
 | [surf minimalism](https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [dear surfers](https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU) | 2:09 | 2024-07-17 |  |
 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 | 2022-10-11 |  |
-| [Suzune](https://open.spotify.com/track/1lFqWakB9tzWAp0zkjQYxl) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Suzune](https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i) | 3:19 | 2024-03-05 |  |
+| [Suzune](https://open.spotify.com/track/1lFqWakB9tzWAp0zkjQYxl) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Suzune](https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i) | 3:19 | 2024-03-05 | 2025-04-03 |
 | [Suzune](https://open.spotify.com/track/2QTKEr2KL16Hr8rH0V4JAc) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 3:19 | 2022-10-11 | 2024-04-19 |
 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 | 2022-10-11 |  |
 | [The Next vacation](https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [wave wave wave](https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP) | 4:54 | 2023-07-11 |  |

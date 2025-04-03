@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: La Bien Querida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,704 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,716 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 55 | [Murakami](https://open.spotify.com/track/4ep3HVihHoweqPBqvAZKEk) | [Lia](https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA) | [Murakami](https://open.spotify.com/album/0JWFG9xvwbOIy8yjVzcoIF) | 2:44 |
 | 56 | [El Silencio](https://open.spotify.com/track/6b6IaYZAPZn7wUfsmRmkq0) | [Marina Daza](https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8), [Gxra](https://open.spotify.com/artist/77HZd4fLD6Qj9pqKzmqTyi) | [Encrucijá](https://open.spotify.com/album/4Re8MX4QeUeM9U9W5yKaRb) | 2:56 |
 | 57 | [Chamba](https://open.spotify.com/track/1ZhULub5rLw6V450hSJX7x) | [Lya](https://open.spotify.com/artist/1fHYbTDju29ManP57CqEgF) | [Chamba](https://open.spotify.com/album/4K16ofB6vpUpkQBuBCUuaR) | 2:56 |
-| 58 | [Fenomenal](https://open.spotify.com/track/5uqMpWn78c3SElpz7rbfe0) | [Begut](https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u) | [Fenomenal](https://open.spotify.com/album/4n8MA85wRz2yUWCxgKbO4O) | 4:00 |
-| 59 | [no soy yo](https://open.spotify.com/track/0jFaTxgl3BjUsKQa1p8Lsj) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [no soy yo](https://open.spotify.com/album/0rIifPBeHR7dpJKnBizzsK) | 2:44 |
-| 60 | [Si Tú Supieras](https://open.spotify.com/track/0rSNljsLJZep9hcqNARySa) | [Moni Fernandez](https://open.spotify.com/artist/4Yi02zSYTtpx63FVyTwXoy) | [Si Tú Supieras](https://open.spotify.com/album/4rOBwstNORgeNF0LkiPqmn) | 3:28 |
+| 58 | [Por fin te encontré](https://open.spotify.com/track/6R92cXLN4xGHXWYn1iWyPm) | [Moni Fernandez](https://open.spotify.com/artist/4Yi02zSYTtpx63FVyTwXoy) | [Por fin te encontré](https://open.spotify.com/album/4SlmZNe1RlvrKOMFaRVH8u) | 3:28 |
+| 59 | [Fenomenal](https://open.spotify.com/track/5uqMpWn78c3SElpz7rbfe0) | [Begut](https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u) | [Fenomenal](https://open.spotify.com/album/4n8MA85wRz2yUWCxgKbO4O) | 4:00 |
+| 60 | [no soy yo](https://open.spotify.com/track/0jFaTxgl3BjUsKQa1p8Lsj) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [no soy yo](https://open.spotify.com/album/0rIifPBeHR7dpJKnBizzsK) | 2:44 |
 | 61 | [Cenicientes del carbón](https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [Cenicientes del carbón](https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19) | 4:04 |
 | 62 | [Hay un hueco bajo tu cama y está lleno de mierda](https://open.spotify.com/track/5eTkrLxHf8W24yGPo5gEG2) | [el momento incómodo](https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh) | [Hay un hueco bajo tu cama y está lleno de mierda](https://open.spotify.com/album/78BfDF2Ci4pdNhfmdEEZGL) | 2:43 |
 | 63 | [Un día genial](https://open.spotify.com/track/0QiSx6ahUCXVJxV2lsHKOO) | [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [SUPERBUCLE](https://open.spotify.com/album/03hjX2nPz9hbMhVaxkgVrE) | 3:15 |
 | 64 | [GUAPA](https://open.spotify.com/track/5c7hCvAfvS1c9X27L8hFZF) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [GUAPA](https://open.spotify.com/album/2zYm7ggrjv0Xkj13BNuyHH) | 2:52 |
 | 65 | [BETTA](https://open.spotify.com/track/5qndiUNd0UN0uw9cvlRzL8) | [MARIA HEIN](https://open.spotify.com/artist/3XROpF1yIcXOcMjDkswghI) | [BETTA](https://open.spotify.com/album/6umchHDa3nRmObSMtz9gCr) | 2:29 |
 
-Snapshot ID: `Z+xh5gAAAAAzdYK1U0s/9GYBrMVFKMiI`
+Snapshot ID: `Z+ztBQAAAABs1fRzXaTWjqtEfGqJgcQc`

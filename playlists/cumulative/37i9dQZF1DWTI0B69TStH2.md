@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href=“spotify:artist:5hE1IPeVSiRpzsHBBBpzy4”> Joulie Fox</a>
+> Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href="spotify:artist:5hE1IPeVSiRpzsHBBBpzy4">Joulie Fox</a>
 
-3,162 songs - 7 day 7 hr 13 min
+3,163 songs - 7 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [GASNĘ](https://open.spotify.com/track/2Qqo7mkK8t7OII8AfOrdMO) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [GASNĘ](https://open.spotify.com/album/6oxvBCpZH0UnRNSMgpd9mv) | 2:37 | 2023-11-07 | 2023-11-30 |
 | [Gasnę](https://open.spotify.com/track/2sG7E5K76wQgnQz5f6oWZr) | [The Party Is Over](https://open.spotify.com/artist/69znI1kRhRjS9pFHP03urW) | [Gasnę](https://open.spotify.com/album/1vG77iPxcQtOWy8E35IBj2) | 4:01 | 2022-06-06 | 2023-01-11 |
 | [GB RAM](https://open.spotify.com/track/6hUMax5T0K5vrdbzBDI5MF) | [Sabina Szewczyk](https://open.spotify.com/artist/1Ofkj69uBttIicwL9skzh6) | [GB RAM](https://open.spotify.com/album/0rEo1XqNDQXewrE0fR2RLo) | 3:29 | 2023-05-30 | 2023-07-12 |
+| [Gdy czytasz w myślach](https://open.spotify.com/track/3FvlduH528Ob6V9mFCex5Y) | [Mateusz Tomczak](https://open.spotify.com/artist/0o54rxa8ThqyrIhVrQ495r) | [Gdy czytasz w myślach](https://open.spotify.com/album/4I2hjSPGFZefG3ESM9DNjo) | 3:51 | 2025-04-02 |  |
 | [Gdy nas nie ma](https://open.spotify.com/track/3A0WY7wbr6dH62wlsATCA2) | [Marekoyyot](https://open.spotify.com/artist/2PWcFSafBgdOPZ9irOik0I) | [Gdy nas nie ma](https://open.spotify.com/album/6dZqHfXF601088lipFt1hX) | 3:34 | 2023-06-13 | 2023-07-12 |
 | [Gdy nastanie nowy dzień](https://open.spotify.com/track/0MXCcEICxyIWxX936pV8zP) | [Błękitno](https://open.spotify.com/artist/0hyoPaqXKVNfSl199EDuVh) | [Drewno](https://open.spotify.com/album/5dZcx2vyvPNI4gUh822Zxp) | 4:08 | 2024-10-01 | 2024-11-06 |
 | [GDY W KRAKOWIE PADA](https://open.spotify.com/track/2sI1QBe4gz23jR36eHtC2m) | [KRASTOROCKSTAR](https://open.spotify.com/artist/7s8k81qFCHqXhnsC1x2Jyo) | [GDY W KRAKOWIE PADA](https://open.spotify.com/album/020iCdYiY6EX8jiKJfQC4m) | 2:21 | 2024-06-11 | 2024-07-03 |
@@ -2481,7 +2482,7 @@
 | [SZUM.](https://open.spotify.com/track/7AwFwRhZsgZxVBJelBTDHX) | [Patryk Krzysztof Molenda](https://open.spotify.com/artist/3pxfM6pz8d8dXGriLKGyvG) | [SZUM.](https://open.spotify.com/album/6vvegZgvQZPSdHXiQnVRJr) | 3:30 | 2024-10-15 | 2024-10-30 |
 | [Szumi mi](https://open.spotify.com/track/6PMqEsgXYaz5CzTBfxOyPU) | [oh!anna](https://open.spotify.com/artist/6gOPcsOgq19O2BoHNzzuKd) | [oh!anna](https://open.spotify.com/album/0OePcgYb5aKC6F9mku84GY) | 4:24 | 2022-09-26 | 2022-10-18 |
 | [Szuru\-buru](https://open.spotify.com/track/4WeLYYC3BywGVRfUhQtr8O) | [Zuza Wiśniewska](https://open.spotify.com/artist/5qrFULx33wM3LQh4Huvj8h) | [Szuru\-buru](https://open.spotify.com/album/0r5gzLKzmQ1vEBJ7FurYNe) | 3:51 | 2025-02-04 | 2025-03-12 |
-| [Szybowce](https://open.spotify.com/track/22HfwNEqN3XPZqY2r6O4id) | [WAAR](https://open.spotify.com/artist/0i8VrETgkBF3I12yuro1u5) | [Szybowce](https://open.spotify.com/album/0Ix8m5FKF1jKHQwYtgaxwW) | 2:45 | 2025-02-25 |  |
+| [Szybowce](https://open.spotify.com/track/22HfwNEqN3XPZqY2r6O4id) | [WAAR](https://open.spotify.com/artist/0i8VrETgkBF3I12yuro1u5) | [Szybowce](https://open.spotify.com/album/0Ix8m5FKF1jKHQwYtgaxwW) | 2:45 | 2025-02-25 | 2025-04-03 |
 | [Sír i dôr](https://open.spotify.com/track/6dg7EAvS3kuE4lFL69nZmv) | [izdeb](https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e) | [Sír i dôr](https://open.spotify.com/album/5BDOsMI83hov0AcDU6babt) | 3:05 | 2024-02-06 | 2024-03-13 |
 | [Sól](https://open.spotify.com/track/0hkdTas2jip2Z7B4aEglGc) | [13 Drzew](https://open.spotify.com/artist/5wKkFchkpi8Qqs4berwBtY) | [Sól](https://open.spotify.com/album/0Q9F4txM2jIjoUOtno5CWX) | 3:18 | 2023-04-18 | 2023-05-17 |
 | [Słodkie Nadzieje](https://open.spotify.com/track/7LpIsy2WeauGoTLPggf41I) | [NIKI](https://open.spotify.com/artist/0EbXnNYpjhTmDdvlgAa175) | [Słodkie Nadzieje](https://open.spotify.com/album/3HuUHSk17zav34XYcTXKOT) | 3:17 | 2024-03-26 | 2024-05-15 |

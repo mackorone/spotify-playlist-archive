@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 27, 28, 29 y 30\. Foto: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,481 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,485 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 137 | [Paradoja](https://open.spotify.com/track/4hFUz3N97ANOjJZFYJdcf7) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Mantras del Gato Negro](https://open.spotify.com/album/0LegeXPNidGLZJW6DFl68Y) | 3:40 |
 | 138 | [La Cita](https://open.spotify.com/track/46HKyv0zom7wQaOBRrch4q) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu), [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [La Cita](https://open.spotify.com/album/1SrTmD935WZFDXslHQkqJy) | 4:11 |
 | 139 | [Mujeres Vuelan en Guitarras](https://open.spotify.com/track/1UAPWjALsTuSMVHXGpoQaT) | [Gabriela Ponce](https://open.spotify.com/artist/0b8Lfum3tO7TcDTLxcWr8L) | [El Sur del Ser](https://open.spotify.com/album/5BLdd5rOYnmwKkndRfalTu) | 3:52 |
-| 140 | [CLOSE combined \(Moving Forward\) \- Live](https://open.spotify.com/track/6YMmk64Yv29wlEyEHwmNDP) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [CLOSE COMBINED \(Live, GLASGOW, LONDON, TOKYO\)](https://open.spotify.com/album/0q6YNiRN4uqqhfV12P7Wqj) | 0:59 |
-| 141 | [Agua de Rio \- CLOUD Sounds](https://open.spotify.com/track/25HyNSWFrD9HeBibMJDT0m) | [CLOUD SOUNDS](https://open.spotify.com/artist/1ACKJ6hH5bMUkcgcKXIqbZ), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Mayra Sánchez x CLOUD Sounds](https://open.spotify.com/album/1b2gf8FLsAkCaiz5iPUGPS) | 5:04 |
+| 140 | [Agua de Rio \- CLOUD Sounds](https://open.spotify.com/track/25HyNSWFrD9HeBibMJDT0m) | [CLOUD SOUNDS](https://open.spotify.com/artist/1ACKJ6hH5bMUkcgcKXIqbZ), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Mayra Sánchez x CLOUD Sounds](https://open.spotify.com/album/1b2gf8FLsAkCaiz5iPUGPS) | 5:04 |
+| 141 | [CLOSE combined \(Moving Forward\) \- Live](https://open.spotify.com/track/6YMmk64Yv29wlEyEHwmNDP) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [CLOSE COMBINED \(Live, GLASGOW, LONDON, TOKYO\)](https://open.spotify.com/album/0q6YNiRN4uqqhfV12P7Wqj) | 0:59 |
 | 142 | [Ya Yo Cambié](https://open.spotify.com/track/1Q4cGQwR08L2HpR4XMzjt6) | [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf), [Felipe Orjuela](https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs) | [LA DOSIS MÁXIMA](https://open.spotify.com/album/5zcnLy7PS3l1uJ4tgYtTU3) | 4:20 |
 | 143 | [Vámonos de Aquí](https://open.spotify.com/track/43DjYVVlP8OJVMmME3TU2X) | [Canales Nacionales](https://open.spotify.com/artist/6IKWIwAANTdlk5fSh2PBDJ), [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Vámonos de Aquí](https://open.spotify.com/album/2FJjbRWNenIWXJPGWEraui) | 3:22 |
 | 144 | [Todo Mal](https://open.spotify.com/track/11ZV41VxciMU8cI9IJFNd5) | [Yo No La Tengo](https://open.spotify.com/artist/2FtRn0DE04usCFPCS4bUV4) | [Fiebre](https://open.spotify.com/album/3aLQaIx8Tzmim8NSjcZTGq) | 3:10 |

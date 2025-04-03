@@ -26031,6 +26031,24 @@
     },
     {
       "album": {
+        "name": "WRONG BALLOON",
+        "url": "https://open.spotify.com/album/15x3ySOZ2wxq5WsnlqPUZn"
+      },
+      "artists": [
+        {
+          "name": "Kellan Christopher Cragg",
+          "url": "https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "I REMEMBER WHEN I WOKE UP",
+      "url": "https://open.spotify.com/track/33QbyrTLRtBxgMzuNQsW5P"
+    },
+    {
+      "album": {
         "name": "Songs From A Thousand Frames Of Mind",
         "url": "https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS"
       },
@@ -29442,7 +29460,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 172171,
       "name": "Kitchen",
       "url": "https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ"

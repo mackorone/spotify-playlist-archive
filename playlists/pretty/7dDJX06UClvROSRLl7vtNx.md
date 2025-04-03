@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 77,357 likes - 221 songs - 9 hr 31 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 77,394 likes - 221 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 77 | [What We Started](https://open.spotify.com/track/5jsiM3FA6cmJmmepchwNCz) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh) | [What We Started](https://open.spotify.com/album/4uq0IbSNNaY2IbPE9oatns) | 2:31 |
 | 78 | [Another Love](https://open.spotify.com/track/7dTsAhklIRJhId49ayybZx) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Another Love](https://open.spotify.com/album/0xOTDrruNGZiRnCcWOup9D) | 2:44 |
 | 79 | [Boulevard of Broken Dreams](https://open.spotify.com/track/2gBcHHTMTuh0BPgDl8WpAK) | [Sunday](https://open.spotify.com/artist/5vFf9aCTZJfrRjuszHhxcd), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2b5muXfNBzuAwMmBqv6PYp) | 2:01 |
-| 80 | [Get So Lonely \- Radio Edit](https://open.spotify.com/track/7vqs6b5FkkUULr0fMyGAkE) | [Ideo](https://open.spotify.com/artist/2f5hd9R0JjvRR9vb7QvYZl), [Dropbusterz](https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Get So Lonely](https://open.spotify.com/album/66lvySL2Ch4mCEhyiBs5VB) | 2:26 |
+| 80 | [Get So Lonely](https://open.spotify.com/track/7vqs6b5FkkUULr0fMyGAkE) | [Ideo](https://open.spotify.com/artist/2f5hd9R0JjvRR9vb7QvYZl), [Dropbusterz](https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Get So Lonely](https://open.spotify.com/album/66lvySL2Ch4mCEhyiBs5VB) | 2:26 |
 | 81 | [Apologize](https://open.spotify.com/track/0tEC32rSvBK2o4lwQbEvM7) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe), [LUKUS](https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Apologize](https://open.spotify.com/album/3A01OtSBqE1cyF0yY3ZcUT) | 2:47 |
 | 82 | [Dancing On Summer Nights Alone](https://open.spotify.com/track/0VhV3HDozYAfa6gHjNmiMw) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Luna Belle](https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Dancing On Summer Nights Alone](https://open.spotify.com/album/6ikkGtvVNhsEg5zDQsBBHN) | 2:15 |
 | 83 | [Old Days](https://open.spotify.com/track/2ztNil2eRGwHwbFuroE1yy) | [phil's ok.](https://open.spotify.com/artist/5HdoLuXD0KtSA3gECZqkty), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Old Days](https://open.spotify.com/album/6PygLwE6EdC61KkbdZxkyu) | 2:13 |

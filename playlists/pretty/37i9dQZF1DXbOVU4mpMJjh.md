@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,102 likes - 786 songs - 2 day 0 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,099 likes - 786 songs - 2 day 0 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -771,8 +771,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 761 | [I Fall in Love Too Easily](https://open.spotify.com/track/60L66fV1SJlht0MherVcfQ) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [I Fall in Love Too Easily](https://open.spotify.com/album/6Tz6CCxy9nH3T6cycfMQen) | 4:49 |
 | 762 | [Waiting](https://open.spotify.com/track/3LTZWlerXvIG5w5bRPXe0J) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Waiting](https://open.spotify.com/album/0Y36HrqDhG2FiVQlNzkgRD) | 3:21 |
 | 763 | [When I Fall in Love](https://open.spotify.com/track/1setjHv9dVg1pkSHuI8DPP) | [Enzo Orefice Trio](https://open.spotify.com/artist/10fF7C0hOnj8V3lDxH6PQH) | [When I Fall in Love](https://open.spotify.com/album/2e9cNF7bAeUtSYfZMbnEJu) | 4:33 |
-| 764 | [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 |
-| 765 | [On and On](https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [On and On](https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz) | 3:51 |
+| 764 | [On and On](https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [On and On](https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz) | 3:51 |
+| 765 | [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 |
 | 766 | [Easy Living](https://open.spotify.com/track/78RAfPGFpTUqnPSTV0LcmT) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/79jNUOF7HaumY5JoP3TpVr) | 4:53 |
 | 767 | [I Got It Bad](https://open.spotify.com/track/2Smeb5R5N2aCYAi7cIhema) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Rosario Giuliani](https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06) | [Duke's Dream](https://open.spotify.com/album/59TvEAv7zdGTO8Eu3oy52f) | 7:20 |
 | 768 | [When We Meet Halfway](https://open.spotify.com/track/0ZmL7e8iZhPiNtpvPNUiNP) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [When We Meet Halfway](https://open.spotify.com/album/2oByqKzmvtbgZolfqUcYsF) | 5:37 |

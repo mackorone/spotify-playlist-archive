@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125476,
+  "num_followers": 125470,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT4qNRpTdhBONyVClJNlE4MOONwvsQ",
+  "snapshot_id": "AAAT4086wvrrKrAt4YXlC41FBMbfVpfP",
   "tracks": [
+    {
+      "added_at": "2025-04-02 14:20:08",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
+    },
     {
       "added_at": "2025-04-01 15:08:27",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Vera Fauna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,874 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,870 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 19 | [El amor que solo a ti te pertenece](https://open.spotify.com/track/2TxZvBYHnpZsjxgEbxh4HN) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [El amor que solo a ti te pertenece](https://open.spotify.com/album/7B7eYLcLAaB8i3YjkTNmgT) | 4:54 |
 | 20 | [El Bosque \[2025\]](https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [El Bosque \[2025\]](https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ) | 3:57 |
 | 21 | [Robot](https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Robot](https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP) | 2:45 |
-| 22 | [Tal vez](https://open.spotify.com/track/4BdBaKVptpdEPT4yhmCyGZ) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Tal vez](https://open.spotify.com/album/0eEf6BblPnfbpTZslxzvCq) | 3:48 |
+| 22 | [tal vez](https://open.spotify.com/track/4BdBaKVptpdEPT4yhmCyGZ) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [tal vez](https://open.spotify.com/album/0eEf6BblPnfbpTZslxzvCq) | 3:48 |
 | 23 | [Peregrino](https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Peregrino](https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ) | 4:54 |
 | 24 | [Me gusta, me encanta](https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Me gusta, me encanta](https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4) | 2:41 |
 | 25 | [Nuestra Forma de Hablar](https://open.spotify.com/track/5ygPD4YuTA8Tn1GIaYq1E3) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 3:12 |

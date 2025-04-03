@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,079 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,083 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 59 | [Me Gusta Mirarte De Cerca](https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Me gusta mirarte de cerca](https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc) | 3:24 |
 | 60 | [Amor Express](https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Amor Express](https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT) | 3:34 |
 | 61 | [malas decisiones](https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [malas decisiones](https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5) | 3:00 |
-| 62 | [GLEEMONEX](https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [GLEEMONEX](https://open.spotify.com/album/43YE48NLIeNmltm3ok8oPv) | 3:46 |
-| 63 | [Entre Líneas](https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Entre Líneas](https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe) | 3:16 |
+| 62 | [Entre Líneas](https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Entre Líneas](https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe) | 3:16 |
+| 63 | [GLEEMONEX](https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [GLEEMONEX](https://open.spotify.com/album/43YE48NLIeNmltm3ok8oPv) | 3:46 |
 | 64 | [Donde nací](https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Donde nací](https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA) | 3:51 |
 | 65 | [Somos Diferentes](https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [El Discreto Encanto de la Melodía](https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH) | 3:45 |
 | 66 | [Aniversario Luctuoso](https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Comportamiento Errático](https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc) | 3:38 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 86 | [ya soy, ya tengo](https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb) | [Tarsitano](https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG) | [ya soy, ya tengo](https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L) | 4:09 |
 | 87 | [Razón](https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims) | [Francisco Bochatón](https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS) | [Razon](https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa) | 2:59 |
 | 88 | [Quiero Ser una Luciérnaga](https://open.spotify.com/track/0gdCMqI69uSqiUMJ6ymqIF) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd), [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Ramiro Garcia Morete](https://open.spotify.com/artist/5YB1X9Z6pRk36FRshYqGGE), [Tato Urbiztondo](https://open.spotify.com/artist/3EaKKv3hOH8Umk2ZN8nSW2), [Emiliano Santillan](https://open.spotify.com/artist/5L8XFW3sEM3771fgtGkUvG) | [Cinta Testigo, Vol\. 1](https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW) | 3:11 |
-| 89 | [El Dato \- Vivo La Plata](https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Vivo La Plata](https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA) | 3:36 |
-| 90 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 |
+| 89 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 |
+| 90 | [El Dato \- Vivo La Plata](https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Vivo La Plata](https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA) | 3:36 |
 | 91 | [siempre es para siempre](https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64) | [Feli Ruiz](https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5) | [siempre es para siempre](https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW) | 3:23 |
 | 92 | [Los Carritos](https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [Fantasías de Violencia](https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4) | 4:13 |
 | 93 | [Desconsuelo](https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Desconsuelo](https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T) | 4:03 |

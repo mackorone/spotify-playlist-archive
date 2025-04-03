@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 103000,
       "name": "April Snow",
       "url": "https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 165304,
       "name": "Falling whisper",
       "url": "https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI"
@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 106240,
       "name": "Kaleidoscope World",
       "url": "https://open.spotify.com/track/3DUnJflhjIE88YwHPDSQ6Q"
@@ -3686,7 +3686,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 112962,
       "name": "Low-lying Indiana",
       "url": "https://open.spotify.com/track/5NYLrenhF9CwDOgun0jdP0"
@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 166482,
       "name": "Salt Water",
       "url": "https://open.spotify.com/track/4qO8z8SUzeYLBeG3Mp7aqV"
@@ -6387,6 +6387,24 @@
     },
     {
       "album": {
+        "name": "The Relaxing One",
+        "url": "https://open.spotify.com/album/5SCMUBbunDL4RnEdb8wtWp"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kahnberg",
+          "url": "https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156050,
+      "name": "The Relaxing One",
+      "url": "https://open.spotify.com/track/2sDcb2ggGJeUZTMAVwl0D8"
+    },
+    {
+      "album": {
         "name": "The Space Between Us",
         "url": "https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN"
       },
@@ -6686,7 +6704,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 102589,
       "name": "Too Soon to Tell",
       "url": "https://open.spotify.com/track/45kY29wtAE6MMJcvCXZYhP"

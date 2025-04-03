@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-381 songs - 15 hr 16 min
+383 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Como Nights](https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc) | [Marcello Fiorenza](https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G) | [Como Nights](https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F) | 2:30 | 2024-05-07 |  |
 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 | 2025-03-07 |  |
 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 | 2023-05-15 |  |
+| [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-04-02 |  |
 | [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 | 2024-01-09 |  |
 | [Crimson](https://open.spotify.com/track/50nkap2cbLP4X1VzDt1qtR) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Crimson](https://open.spotify.com/album/0wMx534abVWJwncT3JAP6i) | 2:15 | 2024-01-09 |  |
 | [Dancing Light](https://open.spotify.com/track/2rfxsIrZkWXDPtRVb738B7) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Dancing Light](https://open.spotify.com/album/69tuCuRBv2FQ5I9k2dfzAO) | 2:20 | 2025-01-06 |  |
@@ -160,7 +161,7 @@
 | [in the midst of it all](https://open.spotify.com/track/1oKYmWpoSYAbQ9U957SWug) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [in the midst of it all](https://open.spotify.com/album/1c7a6NCXbJ0z1IyJwVrKR1) | 2:25 | 2024-02-05 |  |
 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 | 2023-05-15 |  |
 | [Inseparable](https://open.spotify.com/track/4qmOpOHZFZVqS5MPXmcTev) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Inseparable](https://open.spotify.com/album/6fe33jx3YiupGSZqhJS9dr) | 2:31 | 2024-04-03 |  |
-| [Inside the Moon](https://open.spotify.com/track/64vVXe441Mo6VmJJw6Ab2d) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Inside the Moon](https://open.spotify.com/album/30Uqu5fDo3Bjykr8fkuxUD) | 1:45 | 2023-09-11 |  |
+| [Inside the Moon](https://open.spotify.com/track/64vVXe441Mo6VmJJw6Ab2d) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Inside the Moon](https://open.spotify.com/album/30Uqu5fDo3Bjykr8fkuxUD) | 1:45 | 2023-09-11 | 2025-04-03 |
 | [Intervention](https://open.spotify.com/track/4fIU735WMN6QXZKysQkbop) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [KEEN: Soft Piano Vol\. 2](https://open.spotify.com/album/2ZgUoWirpgNlnnEYOKDXpT) | 2:19 | 2022-07-05 | 2022-11-13 |
 | [Intervention](https://open.spotify.com/track/5w8M2WZDLoFwycrmB3QfBm) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 2:19 | 2021-06-27 | 2022-07-29 |
 | [Intervention](https://open.spotify.com/track/6MDfWbNJYTqkS7uvJeq0Hq) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/4bOm72QuKbzeeo0HBHpD1a) | 2:19 | 2022-07-05 | 2023-05-16 |
@@ -180,7 +181,7 @@
 | [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-05-15 |  |
 | [Keepsake](https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Keepsake](https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon) | 2:32 | 2023-11-28 |  |
 | [Keszthely](https://open.spotify.com/track/0GxXg9FfNq1yqwqrrY6W1F) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Keszthely](https://open.spotify.com/album/4pL64wCXuXYe318Z4mZolF) | 2:32 | 2023-05-15 |  |
-| [Kindness](https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Kindness](https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ) | 1:09 | 2024-10-17 |  |
+| [Kindness](https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Kindness](https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ) | 1:09 | 2024-10-17 | 2025-04-03 |
 | [Kindred Spirit](https://open.spotify.com/track/3Sxa7K0sVj5SvK8DPwmZGA) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Kindred Spirit](https://open.spotify.com/album/1vQzaXKZk4UH7MWw7qig95) | 3:23 | 2025-01-31 |  |
 | [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2023-05-15 | 2023-08-16 |
 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 | 2021-06-27 | 2023-05-16 |
@@ -349,7 +350,8 @@
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2023-05-15 |  |
 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 | 2024-03-19 |  |
 | [The Last Spring](https://open.spotify.com/track/23DarNj68Jdadgb8ETaSV9) | [Elba](https://open.spotify.com/artist/3vyBIFbCPSFdrzamx6G60r) | [The Last Spring](https://open.spotify.com/album/1FQidmEkogespC5aJ6rJe1) | 2:10 | 2021-06-27 | 2023-05-16 |
-| [The Light](https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [The Light](https://open.spotify.com/album/6pgKASOwqNzcedfkVriGIy) | 1:59 | 2025-01-31 |  |
+| [The Light](https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [The Light](https://open.spotify.com/album/6pgKASOwqNzcedfkVriGIy) | 1:59 | 2025-01-31 | 2025-04-03 |
+| [The Mighty Ocean](https://open.spotify.com/track/3Fjin8fnhoA4cuz7WLVHC5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [The Mighty Ocean](https://open.spotify.com/album/481dJbM3TjoBdOawFxqiMi) | 2:50 | 2025-04-02 |  |
 | [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 | 2024-01-09 |  |
 | [The Ones Left Behind](https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [The Ones Left Behind](https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh) | 2:28 | 2021-06-27 | 2023-05-16 |
 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-15 |  |

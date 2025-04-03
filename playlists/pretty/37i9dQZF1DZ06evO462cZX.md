@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,251 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,253 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 30 | [You Are Not Alone \(feat\. Dear Sara\)](https://open.spotify.com/track/310TW3iypnMo8laEWughHb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Reflect](https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx) | 3:09 |
 | 31 | [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 |
 | 32 | [PINK](https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [PINK](https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo) | 3:41 |
-| 33 | [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 |
-| 34 | [Burn Out](https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Burn Out](https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x) | 2:52 |
+| 33 | [Burn Out](https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Burn Out](https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x) | 2:52 |
+| 34 | [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 |
 | 35 | [Dime](https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:49 |
 | 36 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
 | 37 | [Te Va a Doler \- Deorro Remix](https://open.spotify.com/track/3fGULDOpjc4bmDvTvPrvaP) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [A Mucha Honra](https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Invítame A Un Café \(Steve Aoki & Deorro Remix\)](https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Invítame A Un Café \(Steve Aoki & Deorro Remix\)](https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj) | 3:56 |
 | 50 | [Dime](https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Se Agradece](https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2) | 3:35 |
 
-Snapshot ID: `Z+nbAAAAAABA8BLB5yGFPWekgoNGWXlZ`
+Snapshot ID: `Z+ssgAAAAABQqr6r53Xm1CPToDz9JAxR`

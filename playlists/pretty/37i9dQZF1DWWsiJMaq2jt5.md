@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 ### [EQUAL Polska](https://open.spotify.com/playlist/37i9dQZF1DWWsiJMaq2jt5)
 
-> Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href=“spotify:artist:0ML3y0iBY1nq7HWAWP0EFm”> BLANKA</a>
+> Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:0ML3y0iBY1nq7HWAWP0EFm">BLANKA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,605 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,700 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [tak już miało być](https://open.spotify.com/track/7uLU201gXV4iQLrgwlj6ik) | [Oliwia Socha](https://open.spotify.com/artist/3oUtnlrd7dEpApRcIJVjRe) | [tak już miało być](https://open.spotify.com/album/2l5jm5anGoYk37tB3DgVUc) | 2:54 |
 | 50 | [Nikt Na Ciebie Nie Patrzy](https://open.spotify.com/track/0prmQTZJEFkD3koBZaOZ4P) | [Aga Laura](https://open.spotify.com/artist/2z1vojxGYzfc1K07uoogbU) | [Nikt Na Ciebie Nie Patrzy](https://open.spotify.com/album/2lpnXZHUYacEvujRxP5J4y) | 3:54 |
 
-Snapshot ID: `Z+xh5gAAAADhSXDLkMULc69ToZQVoCE0`
+Snapshot ID: `Z+zvJQAAAADaBZ7bXKawwHvOvO9RFSCj`

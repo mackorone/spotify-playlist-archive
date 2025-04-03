@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 32344,
+  "num_followers": 32358,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Correspondence",
-        "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Petrella",
-          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
-        },
-        {
-          "name": "Pasquale Mirra",
-          "url": "https://open.spotify.com/artist/0dmvnPuOvkiWbZT9z4MTXu"
-        },
-        {
-          "name": "Danilo Mineo",
-          "url": "https://open.spotify.com/artist/4KNEmG8CjvDg5k0Tr2xKWQ"
-        },
-        {
-          "name": "Giulietta Passera",
-          "url": "https://open.spotify.com/artist/6aycI2HAjRhW9W3AMRwVgk"
-        },
-        {
-          "name": "Primo Zanasi",
-          "url": "https://open.spotify.com/artist/7kN7qQdznUeYIqm1lwNkkN"
-        }
-      ],
-      "duration_ms": 342447,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1535,6 +1503,38 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Correspondence",
+        "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Petrella",
+          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
+        },
+        {
+          "name": "Pasquale Mirra",
+          "url": "https://open.spotify.com/artist/0dmvnPuOvkiWbZT9z4MTXu"
+        },
+        {
+          "name": "Danilo Mineo",
+          "url": "https://open.spotify.com/artist/4KNEmG8CjvDg5k0Tr2xKWQ"
+        },
+        {
+          "name": "Giulietta Passera",
+          "url": "https://open.spotify.com/artist/6aycI2HAjRhW9W3AMRwVgk"
+        },
+        {
+          "name": "Primo Zanasi",
+          "url": "https://open.spotify.com/artist/7kN7qQdznUeYIqm1lwNkkN"
+        }
+      ],
+      "duration_ms": 342447,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1779,8 +1779,8 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "My Songbook",
-        "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
+        "name": "Racconti mediterranei",
+        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
       },
       "artists": [
         {
@@ -1788,13 +1788,17 @@
           "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
         },
         {
-          "name": "Simona Severini",
-          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
+          "name": "Marc Johnson",
+          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
         }
       ],
-      "duration_ms": 340493,
-      "name": "My Heart in a Song",
-      "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
+      "duration_ms": 454173,
+      "name": "Canzone di Nausicaa",
+      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1975,8 +1979,8 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Racconti mediterranei",
-        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
+        "name": "My Songbook",
+        "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
       },
       "artists": [
         {
@@ -1984,17 +1988,13 @@
           "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
         },
         {
-          "name": "Marc Johnson",
-          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+          "name": "Simona Severini",
+          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
         }
       ],
-      "duration_ms": 454173,
-      "name": "Canzone di Nausicaa",
-      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+      "duration_ms": 340493,
+      "name": "My Heart in a Song",
+      "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
     }
   ],
   "unique_name": "Jazz Italia",

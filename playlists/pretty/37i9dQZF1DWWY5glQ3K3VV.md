@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,368 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,398 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 92 | [LAP DANCE \(feat\. Side Baby & Pyrex\)](https://open.spotify.com/track/65O89pZFy6JhVcfomPuJ1s) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:43 |
 | 93 | [Baby \(with J Balvin\)](https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 3:13 |
 | 94 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:21 |
-| 95 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:02 |
+| 95 | [Blauer](https://open.spotify.com/track/47E18bCgrFTWXPFYkGnLMi) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:55 |
 | 96 | [DREAM TEAM \(feat\. Pyrex, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 2:38 |
 | 97 | [Corso Europa](https://open.spotify.com/track/5uzsoxwEGHQe1xcUTrn55e) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Corso Europa](https://open.spotify.com/album/0xrJZ8UIzLxx93BrOXLusE) | 2:12 |
 | 98 | [BON TON \(feat\. Lazza, BLANCO, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/0cefXmvbKCLgPnSoWqclfz) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [BON TON \(feat\. Lazza, BLANCO, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/album/5sYpvvoDPM9LOrTgFkizQ8) | 3:58 |

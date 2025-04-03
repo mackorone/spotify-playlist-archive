@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "In Flux",
+        "url": "https://open.spotify.com/album/0UyM7Rn7PZNt1UghxPvnWE"
+      },
+      "artists": [
+        {
+          "name": "JAMIEvx",
+          "url": "https://open.spotify.com/artist/0gL0yv87B01UdAXjrkjSIP"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273293,
+      "name": "Korrent City Streets",
+      "url": "https://open.spotify.com/track/4GDi16UNFP1jxo5hTjQvMu"
+    },
+    {
+      "album": {
         "name": "Last Knight (Final Girl)",
         "url": "https://open.spotify.com/album/53IpGt3nY72iJFneRIdpJB"
       },
@@ -5300,6 +5318,46 @@
       "duration_ms": 132250,
       "name": "something to hold",
       "url": "https://open.spotify.com/track/3XGmJg7p3an829jy9GqwtQ"
+    },
+    {
+      "album": {
+        "name": "The Parts of Me That Only I Can See",
+        "url": "https://open.spotify.com/album/6rFeD0BD2DM5Qu5OualnSN"
+      },
+      "artists": [
+        {
+          "name": "TWYLIGHT",
+          "url": "https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO"
+        },
+        {
+          "name": "Fordus",
+          "url": "https://open.spotify.com/artist/1YaR1iwmSwt6sufwqUobYP"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "sorry, i zoned out",
+      "url": "https://open.spotify.com/track/1BgXNabnEjcbCocOJnpGSu"
+    },
+    {
+      "album": {
+        "name": "SOS!",
+        "url": "https://open.spotify.com/album/5vPjPuJju1zgLsLXuti8n0"
+      },
+      "artists": [
+        {
+          "name": "Reivan",
+          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220577,
+      "name": "SOS! (Wishing I Wasn't Me)",
+      "url": "https://open.spotify.com/track/5qldUW98OrRk7OAYPoWgvf"
     },
     {
       "album": {

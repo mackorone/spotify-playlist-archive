@@ -4,7 +4,7 @@
 
 > Escucha a mujeres a todo volumen\. Foto: La Bien Querida.
 
-1,914 songs - 4 day 0 hr 6 min
+1,915 songs - 4 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,6 +1367,7 @@
 | [Poquito a Poquito](https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Poquito a Poquito](https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI) | 2:15 | 2023-11-07 | 2023-11-30 |
 | [por ahí bailando](https://open.spotify.com/track/0r1Zke6E7aCe1t0LG68VUb) | [Nerea Rodríguez](https://open.spotify.com/artist/4dwd5pUVuNVBvymNGls5dg) | [por ahí bailando](https://open.spotify.com/album/2JHdPmhkLJWQEcpbLGkD6i) | 2:49 | 2024-06-05 | 2024-07-03 |
 | [Por el humo se sabe dónde está el fuego](https://open.spotify.com/track/25vpYqnXoqb4c6mnbTemci) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5), [Medalla](https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet) | [Yunque](https://open.spotify.com/album/7Cu85ByxKHFltkopAfjS4f) | 3:12 | 2023-04-04 | 2023-05-03 |
+| [Por fin te encontré](https://open.spotify.com/track/6R92cXLN4xGHXWYn1iWyPm) | [Moni Fernandez](https://open.spotify.com/artist/4Yi02zSYTtpx63FVyTwXoy) | [Por fin te encontré](https://open.spotify.com/album/4SlmZNe1RlvrKOMFaRVH8u) | 3:28 | 2025-04-02 |  |
 | [Por mí](https://open.spotify.com/track/5nBAbQnRb0Vf1y1vtMyhHv) | [LYD](https://open.spotify.com/artist/6FxESoS5TUltKFAXd6R8z9), [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [Por mí](https://open.spotify.com/album/2AU3CXREJBTZfXG0i3lLS1) | 2:54 | 2022-01-04 | 2023-01-04 |
 | [Por primera vez](https://open.spotify.com/track/5WIzUEyUVa3ZZJ9qIZZMFU) | [Biuti Bambú](https://open.spotify.com/artist/6UadYwvgJahN1SgN6M8wII) | [Por primera vez](https://open.spotify.com/album/3243FO7elA7mIzxgmm3jW8) | 2:57 | 2025-02-04 | 2025-03-05 |
 | [Por Primera Vez](https://open.spotify.com/track/0clsfsESAQ0JzP7LbGqWkv) | [Nerea Rodríguez](https://open.spotify.com/artist/4dwd5pUVuNVBvymNGls5dg) | [Por Primera Vez](https://open.spotify.com/album/23D7cll7Rt0evyFkYf4T39) | 2:17 | 2023-02-01 | 2023-03-01 |
@@ -1564,7 +1565,7 @@
 | [si tiene que ser será.](https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [si tiene que ser será.](https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3) | 3:21 | 2023-01-03 | 2023-02-02 |
 | [Si Tu Supieras](https://open.spotify.com/track/7IWiFq0d9yoFTq2TEEJESF) | [Estela Trujillo](https://open.spotify.com/artist/3oUVxe8nEQM37H5YNbV6pc) | [Si Tu Supieras](https://open.spotify.com/album/1K2wGb2VVobBfZBWUtU0kE) | 3:06 | 2024-06-05 | 2024-07-03 |
 | [Si Tú Me Quisieras](https://open.spotify.com/track/5o5F4gyk6zO5wkHfNZVqNu) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Si Tú Me Quisieras](https://open.spotify.com/album/7CX4xzjhbiZXblVNiihidE) | 3:08 | 2024-07-02 | 2024-08-07 |
-| [Si Tú Supieras](https://open.spotify.com/track/0rSNljsLJZep9hcqNARySa) | [Moni Fernandez](https://open.spotify.com/artist/4Yi02zSYTtpx63FVyTwXoy) | [Si Tú Supieras](https://open.spotify.com/album/4rOBwstNORgeNF0LkiPqmn) | 3:28 | 2025-04-01 |  |
+| [Si Tú Supieras](https://open.spotify.com/track/0rSNljsLJZep9hcqNARySa) | [Moni Fernandez](https://open.spotify.com/artist/4Yi02zSYTtpx63FVyTwXoy) | [Si Tú Supieras](https://open.spotify.com/album/4rOBwstNORgeNF0LkiPqmn) | 3:28 | 2025-04-01 | 2025-04-03 |
 | [Siamesas](https://open.spotify.com/track/3Wnj67XuGQJffnYwCuY03O) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Siamesas](https://open.spotify.com/album/2Hz9awb8O0QkEhPoOvnvb2) | 2:14 | 2025-03-04 | 2025-04-02 |
 | [Sideral](https://open.spotify.com/track/1lOpSzkofC0mTU7Lbluoms) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Hugsound](https://open.spotify.com/artist/3I3DSocG5r4o5kBGOlzNAi) | [Sideral](https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M) | 2:13 | 2024-06-05 | 2024-07-03 |
 | [SIEMPRE PURA](https://open.spotify.com/track/0Szbd1RVH0d5ItuuLgL0Mf) | [Lachispa](https://open.spotify.com/artist/3HicHd9spplU6i1mYtRCHx) | [SIEMPRE PURA](https://open.spotify.com/album/4EFoY4FvYH38KI9N77poc9) | 1:58 | 2024-11-05 | 2024-12-05 |

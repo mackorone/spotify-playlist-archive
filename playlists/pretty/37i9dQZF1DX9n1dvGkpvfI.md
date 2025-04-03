@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with their compositions for "Yellowjackets," musicians Anna Waronker & Craig Wedren share the songs that shape their alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,009 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,020 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 29 | [LAX](https://open.spotify.com/track/7buq0625ImumwYrQutzo2s) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [Destroyer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71VeS3G00zXhORszYbMVye) | 2:45 |
 | 30 | [Needed Me](https://open.spotify.com/track/2252EIwkFG7Jobs6bW6SVd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI](https://open.spotify.com/album/2uN9icB3V4A5Tp7MiIvW2l) | 3:11 |
 
-Snapshot ID: `Z85j3AAAAADm1DtuYNeznQiS3rlpI0vz`
+Snapshot ID: `Z+1IVwAAAABFhCzhJAnKsgB/jxkN/RwH`

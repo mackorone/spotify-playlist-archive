@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Min Jiwoon(\ubbfc\uc9c0\uc6b4))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: zin)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1933,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "noon",
+        "url": "https://open.spotify.com/album/3EQZefbQ3F7YGkAEE5KADa"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "bite",
+      "url": "https://open.spotify.com/track/0yhpZBoFUo41e6zoCnM2K6"
+    },
+    {
+      "album": {
         "name": "Bite",
         "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
       },
@@ -2596,7 +2614,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 227173,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
@@ -6297,6 +6315,28 @@
     },
     {
       "album": {
+        "name": "hey",
+        "url": "https://open.spotify.com/album/0Hoy3juXkjilRG9jycxRk7"
+      },
+      "artists": [
+        {
+          "name": "zin",
+          "url": "https://open.spotify.com/artist/7KPRlWVq4NZrXWmHTseuTW"
+        },
+        {
+          "name": "Khakii",
+          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165417,
+      "name": "hey",
+      "url": "https://open.spotify.com/track/4lMrTO101YGnotMbVcpbtt"
+    },
+    {
+      "album": {
         "name": "SOULBYSEL Compilation 04",
         "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
       },
@@ -8470,7 +8510,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 185386,
       "name": "LOVE AGAIN (Feat. Leellamarz, HOON)",
       "url": "https://open.spotify.com/track/2NyYklpPwyGIIyklakqk9X"
@@ -12260,7 +12300,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
@@ -14716,6 +14756,28 @@
       "duration_ms": 272000,
       "name": "TWO BOYS WERE WALKIN' ON A WOOD (Feat. Horim)",
       "url": "https://open.spotify.com/track/7rCOLQGqKnYAGPXar4Fl1P"
+    },
+    {
+      "album": {
+        "name": "two of us (feat. YOUHA)",
+        "url": "https://open.spotify.com/album/2cqYhymhDY22ELCLHUYELX"
+      },
+      "artists": [
+        {
+          "name": "THE NEED",
+          "url": "https://open.spotify.com/artist/1Fiav0wxfiy9DWTlshBV1Z"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164324,
+      "name": "two of us (feat. YOUHA)",
+      "url": "https://open.spotify.com/track/0BFIHfswRjrBYPSEAp2rsb"
     },
     {
       "album": {

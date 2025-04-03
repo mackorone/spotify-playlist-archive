@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa Yeboyah.
 
-1,028 songs - 2 day 3 hr 16 min
+1,030 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-17 | 2025-01-24 |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-23 |  |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-08 | 2024-11-16 |
+| [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 | 2025-04-02 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-02 | 2024-09-27 |
 | [feelslikeimfallinginlove \- Zerb x Coldplay](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [feelslikeimfallinginlove \(Zerb x Coldplay\)](https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI) | 3:56 | 2024-08-01 | 2024-09-24 |
 | [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 | 2024-07-18 | 2024-07-27 |
@@ -340,7 +341,7 @@
 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-03 | 2025-01-03 |
 | [HORSE MOM](https://open.spotify.com/track/3OnGfPJyPy1vlK3BTE7cun) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [HORSE MOM](https://open.spotify.com/album/53NveX5n9BNu6cTXSsuYcf) | 3:10 | 2024-07-25 | 2024-08-09 |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-07-02 | 2024-09-27 |
-| [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 | 2025-03-14 |  |
+| [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 | 2025-03-14 | 2025-04-03 |
 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 | 2024-10-10 | 2025-02-07 |
 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 | 2025-02-06 | 2025-02-14 |
 | [Hukun](https://open.spotify.com/track/0t95tJTw8xfS1ezcyjw4fq) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Hukun](https://open.spotify.com/album/2EqT5LZtSDZGDC8RjyOsnU) | 3:22 | 2024-11-21 | 2024-11-29 |
@@ -546,6 +547,7 @@
 | [MASCARA](https://open.spotify.com/track/0eWwlgVgwX8BB2LfMaG30V) | [SMURDHY](https://open.spotify.com/artist/6bSsc7d3xjgKCIaoRe9QtR), [A.J](https://open.spotify.com/artist/6smuGDiJJZxj1Ox8WnAOpj) | [MASCARA](https://open.spotify.com/album/5lpb2ojJLrQ3D7BwqBojxl) | 1:59 | 2025-03-14 | 2025-03-21 |
 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 | 2025-03-06 | 2025-03-21 |
 | [Massive Thrills](https://open.spotify.com/track/0D5UtNKtwEeoo474oIRQ9n) | [New Ro](https://open.spotify.com/artist/2jiSoFLrMAKlWl6bAc2kfu) | [Massive Thrills](https://open.spotify.com/album/6ZdexqQmLqN9ZU46x3RymS) | 4:02 | 2024-07-04 | 2024-07-12 |
+| [matkailija](https://open.spotify.com/track/2sbTWep9ms9gtk0FmqHxOT) | [sane](https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax) | [matkailija](https://open.spotify.com/album/6S7eOl52vURhj8kisoxMey) | 2:39 | 2025-04-02 |  |
 | [Mayday Apua](https://open.spotify.com/track/4RAL4j9EoJN9RaKYBUv30p) | [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny), [Nohanna](https://open.spotify.com/artist/7ETcq70dPNljIpPubYX85X) | [Mayday Apua](https://open.spotify.com/album/09iUDkJPG6LM3kX0hXMzMh) | 3:01 | 2025-03-14 | 2025-03-21 |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-07-02 | 2024-08-22 |
 | [Me ollaan nuoriso pt.2 \(feat\. MD$\)](https://open.spotify.com/track/5LhoiY5ynoyZrto4jao4fV) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Me ollaan nuoriso pt.2 \(feat\. MD$\)](https://open.spotify.com/album/3Mi1VyGwqs05ow8jqg2Iwl) | 3:02 | 2025-02-13 | 2025-02-28 |
@@ -865,7 +867,7 @@
 | [Taaksepäin](https://open.spotify.com/track/2ogjktR7okwyXT8muIGFfa) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Taaksepäin](https://open.spotify.com/album/3S0uY1lN3m1mwY0uDOGm2D) | 3:02 | 2024-12-12 | 2025-01-03 |
 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 | 2024-09-19 | 2024-12-03 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-07-02 | 2024-08-19 |
-| [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-13 |  |
+| [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-13 | 2025-04-03 |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-07-02 | 2024-09-27 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-12 | 2024-12-03 |
 | [Talviklassikko](https://open.spotify.com/track/2IxGkiAebe0JvS83eW5gVE) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Talviklassikko](https://open.spotify.com/album/6IT9JzmJEqHNR7Xhzowu18) | 4:10 | 2024-12-05 | 2024-12-13 |

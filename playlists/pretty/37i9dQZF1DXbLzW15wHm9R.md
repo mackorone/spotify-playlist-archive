@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Anora
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,514 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,501 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Feel Alive \- \(from "A Minecraft Movie"\)](https://open.spotify.com/track/1b0glc1z1S4pDyU9WCKohN) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I Feel Alive \(from "A Minecraft Movie"\)](https://open.spotify.com/album/06GP0d361nDvlMMr8FDSM1) | 4:06 |
+| 1 | [I Feel Alive from “A Minecraft Movie”](https://open.spotify.com/track/1b0glc1z1S4pDyU9WCKohN) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I Feel Alive \(from "A Minecraft Movie"\)](https://open.spotify.com/album/06GP0d361nDvlMMr8FDSM1) | 4:06 |
 | 2 | [Waiting On A Wish \- From "Disney's Snow White"](https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Waiting On A Wish \(From "Disney's Snow White"\)](https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS) | 4:51 |
 | 3 | [Fantastic \(demo version\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6FWSbeXZ5EzDBVxTnJ0rf8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/1CxQei6YVHL6PaunOZzsum) | 2:30 |
 | 4 | [35mm](https://open.spotify.com/track/19u2oRqyuvib863dxpDWam) | [Moretti](https://open.spotify.com/artist/3ktQgk9MvFpkUTLIC9QYra), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [OPUS: The Moretti EP](https://open.spotify.com/album/0sQ6SIFkUL0q6uWqwt6PeG) | 3:28 |

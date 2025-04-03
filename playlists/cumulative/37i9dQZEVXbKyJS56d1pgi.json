@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158114,
+      "name": "1 de Abril",
+      "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -11376,6 +11394,10 @@
           "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
         },
         {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        },
+        {
           "name": "FamousKyo",
           "url": "https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw"
         }
@@ -16100,7 +16122,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 158608,
       "name": "Lei Anti O.R.U.A.M",
       "url": "https://open.spotify.com/track/3iDZj9V0RSElRwVgtmMYgJ"

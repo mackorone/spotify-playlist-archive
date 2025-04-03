@@ -3031,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg"
+      },
+      "artists": [
+        {
+          "name": "David Isner",
+          "url": "https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157302,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC"
+    },
+    {
+      "album": {
         "name": "DayBreak",
         "url": "https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo"
       },
@@ -3802,6 +3820,24 @@
       "duration_ms": 180000,
       "name": "El Viso",
       "url": "https://open.spotify.com/track/5RQZ7FhisZezFYIaFKawOX"
+    },
+    {
+      "album": {
+        "name": "Elys",
+        "url": "https://open.spotify.com/album/3ueM6PUUzuMvqcyWTpInkL"
+      },
+      "artists": [
+        {
+          "name": "Dorian Skye",
+          "url": "https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Elys",
+      "url": "https://open.spotify.com/track/1GsZaVvJ8K8vrB3QSZElgw"
     },
     {
       "album": {
@@ -6794,7 +6830,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 136578,
       "name": "Last call",
       "url": "https://open.spotify.com/track/207wR8oMI5Q6jX6DjNNXSc"

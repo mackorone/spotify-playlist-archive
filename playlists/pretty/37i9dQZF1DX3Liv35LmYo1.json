@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 771,
+  "num_followers": 778,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Memories In Flight",
-        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
+        "name": "In Response",
+        "url": "https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa"
       },
       "artists": [
         {
-          "name": "Sampology",
-          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        },
+        {
+          "name": "Jack Vanzet",
+          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
         }
       ],
-      "duration_ms": 229399,
-      "name": "Memories In Flight",
-      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
+      "duration_ms": 214920,
+      "name": "In Response",
+      "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -739,22 +743,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "In Response",
-        "url": "https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa"
+        "name": "Memories In Flight",
+        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
       },
       "artists": [
         {
-          "name": "Thrupence",
-          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
-        },
-        {
-          "name": "Jack Vanzet",
-          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
+          "name": "Sampology",
+          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
         }
       ],
-      "duration_ms": 214920,
-      "name": "In Response",
-      "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
+      "duration_ms": 229399,
+      "name": "Memories In Flight",
+      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
     },
     {
       "added_at": "2023-08-31 14:00:00",

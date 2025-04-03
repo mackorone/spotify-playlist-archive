@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 35086,
+  "num_followers": 35090,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAABYu4PsFAR2yyltqoFHzfdq",
+  "snapshot_id": "Z+ssgAAAAADFikNryasG/UrOmGsHJ1Xy",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros Musicales",
-        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 181453,
-      "name": "El Odio De Dos Hermanos",
-      "url": "https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0"
+      "duration_ms": 171146,
+      "name": "La Patrulla 05",
+      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 171146,
-      "name": "La Patrulla 05",
-      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
+      "duration_ms": 207673,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 207673,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF"
+      "duration_ms": 181453,
+      "name": "El Odio De Dos Hermanos",
+      "url": "https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Pal Jefe",
-        "url": "https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "La Cuerva De La Petaca",
-      "url": "https://open.spotify.com/track/7wnQcqvcRvDWThWabN9BMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 215186,
       "name": "El Capitan Fantasma",
       "url": "https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Pal Jefe",
+        "url": "https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "La Cuerva De La Petaca",
+      "url": "https://open.spotify.com/track/7wnQcqvcRvDWThWabN9BMs"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
-        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 188440,
-      "name": "El Rico Pobre",
-      "url": "https://open.spotify.com/track/1ECgAz9uzij134mOSvARmb"
+      "duration_ms": 142160,
+      "name": "El Taxista Enamorado",
+      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vienen Los Recuerdos",
-        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
       },
       "artists": [
         {
@@ -308,25 +308,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 142160,
-      "name": "El Taxista Enamorado",
-      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "El Vengador de los Federales",
-      "url": "https://open.spotify.com/track/0eW4F1miVLHZD4d14nIBMZ"
+      "duration_ms": 188440,
+      "name": "El Rico Pobre",
+      "url": "https://open.spotify.com/track/1ECgAz9uzij134mOSvARmb"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 183626,
       "name": "Se Vende Esta Casa",
       "url": "https://open.spotify.com/track/3gkodEP1PBS8fAhBJyW1xE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "El Vengador de los Federales",
+      "url": "https://open.spotify.com/track/0eW4F1miVLHZD4d14nIBMZ"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 157701,
-      "name": "De Esta Sierra a la Otra Sierra",
-      "url": "https://open.spotify.com/track/4Ka9s1TF4VVTATe9TufX87"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Tumbas",
         "url": "https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 168520,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 157701,
+      "name": "De Esta Sierra a la Otra Sierra",
+      "url": "https://open.spotify.com/track/4Ka9s1TF4VVTATe9TufX87"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
-        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Cheque Al Portador",
-      "url": "https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 174506,
       "name": "Pescadores De Ensenada",
       "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Cheque Al Portador",
+      "url": "https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv"
     },
     {
       "added_at": null,

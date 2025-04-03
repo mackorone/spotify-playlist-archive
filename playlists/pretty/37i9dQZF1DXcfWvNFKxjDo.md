@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Korolova, Julia Sanina
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,974 likes - 83 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,967 likes - 83 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 16 | [Undertheker](https://open.spotify.com/track/7sedwDZpxuRgJipH9gMQCa) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Nico K.I.Z](https://open.spotify.com/artist/49U1wR2eateFtB7cxd4ncm), [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Undertheker](https://open.spotify.com/album/59y8AGwcK63oZMFSI5UYvP) | 2:04 |
 | 17 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 |
 | 18 | [Hold Me \- HUGEL Remix](https://open.spotify.com/track/0seRK4ZwnDsM2mNhbjmA3e) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Hold Me \(HUGEL Remix\)](https://open.spotify.com/album/4urqiH5imumvebwWjvkbGD) | 3:49 |
-| 19 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
+| 19 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
 | 20 | [Survivor](https://open.spotify.com/track/4nmDomuAvG6XqQxLPzwXDQ) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Survivor](https://open.spotify.com/album/1Hkhc4IyT1nBWFRnXa3rY6) | 2:02 |
 | 21 | [Love is Gonna Save Us](https://open.spotify.com/track/3FalZDi95sW3TW5JvOFsPc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Love is Gonna Save Us](https://open.spotify.com/album/2pQnpla2pzezunSSprrdCQ) | 3:26 |
 | 22 | [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 |

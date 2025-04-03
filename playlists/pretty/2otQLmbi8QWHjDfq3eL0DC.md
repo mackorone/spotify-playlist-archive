@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,334,923 likes - 105 songs - 4 hr 59 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,334,850 likes - 105 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 41 | [Do It Right](https://open.spotify.com/track/0wgIqen83GTxBaEsVtKpnk) | [Tommy Gold](https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR) | [Do It Right](https://open.spotify.com/album/2NNgPDwgQsKckTzFpI7vuU) | 4:09 |
 | 42 | [Wrong For Me](https://open.spotify.com/track/1lSDRaA8wcru8fYC8QAMmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Wrong For Me](https://open.spotify.com/album/6kJpok0ZOZ2sMbGUJgOswC) | 3:25 |
 | 43 | [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H) | 3:32 |
-| 44 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
+| 44 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
 | 45 | [Lights](https://open.spotify.com/track/3rDOyXJIF0RIgFJsdP8D1B) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto), [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Lights](https://open.spotify.com/album/4MeSQ5psZg9Z3wW2Bqhn36) | 2:35 |
 | 46 | [Talk About Us](https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Talk About Us](https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU) | 2:17 |
 | 47 | [Gotta Believe](https://open.spotify.com/track/2AVFP9aEYlPQ40V0lkGhE4) | [Damian Force](https://open.spotify.com/artist/4dmhJ3CFcc3u3GV8EgLj6I), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Gotta Believe](https://open.spotify.com/album/1tjCBVq2IVdbNppCix2RnB) | 2:54 |

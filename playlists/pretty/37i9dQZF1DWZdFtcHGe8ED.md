@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Municipal Waste
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,650 likes - 200 songs - 14 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,705 likes - 200 songs - 14 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 181 | [Burn the Sky](https://open.spotify.com/track/0JMc364YMZ68bMn1OoBm3D) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Burn the Sky](https://open.spotify.com/album/6FI3I1yEUAQT2A1qmh3QOx) | 4:26 |
 | 182 | [Can't Help but Hate](https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Can't Help but Hate](https://open.spotify.com/album/4YabiXOQ78hhNLxhq8OAmA) | 1:26 |
 | 183 | [Snob \(feat\. Jasta\)](https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59), [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP) | [Snob \(feat\. Jasta\)](https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ) | 4:33 |
-| 184 | [The Affair of the Poisons](https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n) | 4:55 |
-| 185 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 |
+| 184 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 |
+| 185 | [The Affair of the Poisons](https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n) | 4:55 |
 | 186 | [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 |
 | 187 | [Malicious Souls](https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4) | [Vulture](https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF) | [Malicious Souls](https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS) | 3:17 |
 | 188 | [Perpetual Blood Oath](https://open.spotify.com/track/1uH1Vkb8bPqgHVdXUMm9Zl) | [Protector](https://open.spotify.com/artist/4LfucwWOrS5NHbgxwtYbH3) | [Excessive Outburst of Depravity](https://open.spotify.com/album/1rRn36ZY7U5Phm8u3854d7) | 4:13 |
@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 191 | [Here Comes The Incubus](https://open.spotify.com/track/6dr0Y8ExuoZtJdjw9gwmxV) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Here Comes The Incubus](https://open.spotify.com/album/3z8zibgis2sJvZM3o7LjxK) | 4:25 |
 | 192 | [Ethereal Nightmare](https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ) | [Hatriot](https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh) | [Ethereal Nightmare](https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4) | 6:05 |
 | 193 | [As We Breach](https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [As We Breach](https://open.spotify.com/album/513Lp3HTQfozEabGEGaG9f) | 4:52 |
-| 194 | [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 |
-| 195 | [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 |
+| 194 | [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 |
+| 195 | [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 |
 | 196 | [Witching Hour](https://open.spotify.com/track/1V36Hxv16qWjGvnK2FV4cO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Witching Hour](https://open.spotify.com/album/5pBhA2ZnRbP16R4mQ6xh9z) | 3:03 |
 | 197 | [Illusion of Existence](https://open.spotify.com/track/1T7pML1JBYs1IQ50uE2wwy) | [Refore](https://open.spotify.com/artist/4MmDues4Gop2TTlDJLQNBF) | [Illusion of Existence](https://open.spotify.com/album/5QJVXAmX39ddZtJNwq3vnq) | 3:53 |
 | 198 | [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 |

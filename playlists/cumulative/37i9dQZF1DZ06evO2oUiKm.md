@@ -4,7 +4,7 @@
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 40 min
+56 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Dancing Through Life](https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG) | [Jonathan Bailey](https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Ethan Slater](https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K), [Marissa Bode](https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 9:47 | 2024-12-14 |  |
 | [Day Off](https://open.spotify.com/track/6C9jl5IVnFSBL5fNdED0PP) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:20 | 2024-12-20 | 2024-12-30 |
 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 | 2024-12-14 |  |
-| [Everything's Alright](https://open.spotify.com/track/2D0D658P6lylzWeiBxXgrD) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Morgan James & Company](https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG) | [She Is Risen: Volume 2](https://open.spotify.com/album/72jbyvIFtaHSX1AVanSt4H) | 4:16 | 2025-02-07 |  |
+| [Everything's Alright](https://open.spotify.com/track/2D0D658P6lylzWeiBxXgrD) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Morgan James & Company](https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG) | [She Is Risen: Volume 2](https://open.spotify.com/album/72jbyvIFtaHSX1AVanSt4H) | 4:16 | 2025-02-07 | 2025-04-03 |
 | [Everything's Alright](https://open.spotify.com/track/63V7zJBnSrPEqKJtcJtruQ) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Morgan James & Company](https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG) | [Jesus Christ Superstar: Highlights From the All\-Female Studio Cast Recording](https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn) | 4:16 | 2024-12-14 | 2025-02-07 |
+| [Everything's Alright](https://open.spotify.com/track/3xO030eZebHF82IMjz626q) | [Morgan James](https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5) | [She Is Risen, Vol\. 2](https://open.spotify.com/album/1HfkVtVSe4OQqpFLSmT94X) | 4:16 | 2025-04-03 |  |
 | [Fly Before You Fall](https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond the Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV) | 3:03 | 2025-02-08 |  |
 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 | 2024-12-14 | 2025-02-08 |
 | [Glowing Up](https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:52 | 2025-01-04 |  |

@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Sidewalks and Skeletons, Sky Ferreira and more
+> With Pastel Ghost, Sidewalks and Skeletons, Mareux and more
 
 1,811 songs - 4 day 15 hr 27 min
 

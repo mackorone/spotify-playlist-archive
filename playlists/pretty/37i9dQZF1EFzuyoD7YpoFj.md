@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400 likes - 405 songs - 21 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 405 songs - 21 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 101 | [I'm in Love](https://open.spotify.com/track/7KfDFBUpW8QA2etcR0Og8X) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Most Things Haven't Worked Out](https://open.spotify.com/album/5kJYRgdltMekWMls3mEBSE) | 8:38 |
 | 102 | [You'd Be So Nice To Come Home To \- Remastered 1998](https://open.spotify.com/track/5cNTrq3s5Us1aibaLQfXCi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:04 |
 | 103 | [Overture & Rock Island](https://open.spotify.com/track/6wQV5L5nZRFCQ5gXDunRvL) | [Meredith Willson](https://open.spotify.com/artist/1n55BzpMYv8IRkyM1UZXMY) | [The Music Man \(Original Broadway Cast\)](https://open.spotify.com/album/6dvaPRObKpF6fC8DMBxKH4) | 5:29 |
-| 104 | [Come To The Supermarket \(In Old Peking\)](https://open.spotify.com/track/2ow3kvWNcnOf3DrPppaCzL) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Barbra Streisand Album: Arranged and Conducted by Peter Matz](https://open.spotify.com/album/6lJaBPh4nMloLfWh2SQI6x) | 1:55 |
-| 105 | [There's No Cure Like Travel / Bon Voyage](https://open.spotify.com/track/16yp5qRfetwD96yOdTdF61) | ['Anything Goes' New Broadway Cast Ensemble](https://open.spotify.com/artist/66t5xqw9MdEEgfUmKs6DOD) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:54 |
+| 104 | [There's No Cure Like Travel / Bon Voyage](https://open.spotify.com/track/16yp5qRfetwD96yOdTdF61) | ['Anything Goes' New Broadway Cast Ensemble](https://open.spotify.com/artist/66t5xqw9MdEEgfUmKs6DOD) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:54 |
+| 105 | [Come To The Supermarket \(In Old Peking\)](https://open.spotify.com/track/2ow3kvWNcnOf3DrPppaCzL) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Barbra Streisand Album: Arranged and Conducted by Peter Matz](https://open.spotify.com/album/6lJaBPh4nMloLfWh2SQI6x) | 1:55 |
 | 106 | [The Laziest Gal In Town](https://open.spotify.com/track/6ANXBK3HVFEnBjw0UqjrwH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Broadway\-Blues\-Ballads](https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J) | 2:16 |
 | 107 | [Josephine \(The Lost Songs\)](https://open.spotify.com/track/5MEIc0gOS48wHhnUvV0pr1) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [The Lost Songs](https://open.spotify.com/album/0QBuM64k3OJLgTO1OwP9wn) | 4:06 |
 | 108 | [FRIENDSHIP](https://open.spotify.com/track/0mNnK7dRqfHyZyoCMHGMLU) | [H Jungle With t](https://open.spotify.com/artist/5tzXe29CBmoCiUGwpfYAct) | [FRIENDSHIP](https://open.spotify.com/album/7FYhyvoCHvbGmHEk20TBJJ) | 4:47 |
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 221 | [Everything I Love](https://open.spotify.com/track/3wfmbgaGrmNZxCs2NWgGP9) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 4:18 |
 | 222 | [Kathleen \- Live Acoustic](https://open.spotify.com/track/3SC8x0PyR3qTcqoWZ0cMbz) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Friends In The Corner EP](https://open.spotify.com/album/4HgR3HFuMXAEXF8gT2xa6B) | 3:57 |
 | 223 | [Hotel Balcony](https://open.spotify.com/track/2Y5DJlXI8AO3MAe16BkTAH) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:09 |
-| 224 | [You've Got That Thing](https://open.spotify.com/track/7xi2gV9IonISkkw416fImy) | [Ted Lewis](https://open.spotify.com/artist/2h7jCpFL30Uw8mziW89bGM) | [Some of These Days](https://open.spotify.com/album/0v7CYtEkWAO7moX7N03qgP) | 3:02 |
-| 225 | [What Shall I Do?](https://open.spotify.com/track/1GY2cVK5560DDDhIHAfeYW) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/7q81lXpJzqmVWcVaWUMr1D) | 5:11 |
+| 224 | [What Shall I Do?](https://open.spotify.com/track/1GY2cVK5560DDDhIHAfeYW) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/7q81lXpJzqmVWcVaWUMr1D) | 5:11 |
+| 225 | [You've Got That Thing](https://open.spotify.com/track/7xi2gV9IonISkkw416fImy) | [Ted Lewis](https://open.spotify.com/artist/2h7jCpFL30Uw8mziW89bGM) | [Some of These Days](https://open.spotify.com/album/0v7CYtEkWAO7moX7N03qgP) | 3:02 |
 | 226 | [So Near and Yet So Far](https://open.spotify.com/track/6AC7UynRLE48GlJWEAWICV) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Songbooks](https://open.spotify.com/album/5LdHsGaNecatmBABHpbdoZ) | 3:21 |
 | 227 | [Restaurant Interior](https://open.spotify.com/track/4HfXk62xUdirEN5GL78iNu) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:53 |
 | 228 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/1UcNcfaDiPbm05TGKoSfTt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:31 |
@@ -414,4 +414,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 404 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 405 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbtpIQAAAAD0/Aox5Lt2Q37giI9rG38m`
+Snapshot ID: `AbtutgAAAACP2Oh9hPVW3V012O75/BHk`

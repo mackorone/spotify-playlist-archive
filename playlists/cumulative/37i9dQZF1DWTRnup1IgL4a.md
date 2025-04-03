@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-292 songs - 12 hr 28 min
+294 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Crimson sunset](https://open.spotify.com/track/0MaFpCeo9BL7M9arKLdThw) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Crimson sunset](https://open.spotify.com/album/4elmegwwSrsoIqpqL0ZLYg) | 2:37 | 2024-06-21 |  |
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-09 | 2023-08-26 |
 | [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-22 | 2023-08-26 |
+| [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 | 2025-04-02 |  |
 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 | 2025-02-24 |  |
 | [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2021-12-09 | 2023-03-18 |
 | [Devotion](https://open.spotify.com/track/6jEZ4J76ZXnj49JZrMCTIM) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Devotion](https://open.spotify.com/album/6ygOd5rPLlHFTzQS2CMpmk) | 2:45 | 2023-08-10 |  |
@@ -79,7 +80,7 @@
 | [Ephemeral](https://open.spotify.com/track/3K6gdJlyZHsaYktMMHZo95) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Ephemeral](https://open.spotify.com/album/2nrjemHCDyyVFdL054h0km) | 2:56 | 2021-12-09 | 2023-02-25 |
 | [Españoleta](https://open.spotify.com/track/49TT0zKYwZerufoxgYiohS) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Sleep and Relaxation](https://open.spotify.com/album/6GHknBEoAGG3UmypRtRLRy) | 2:05 | 2021-12-09 | 2023-03-18 |
 | [Estrella clara](https://open.spotify.com/track/7IJ4FPYqUabB1cbWrMYn0q) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Estrella clara](https://open.spotify.com/album/761mDMnpM2KsejP3TuTtUn) | 1:37 | 2022-10-07 | 2023-08-26 |
-| [Evening Journey](https://open.spotify.com/track/4ForBTWXJeVh21NIkHIKIb) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Evening Journey](https://open.spotify.com/album/6ollQ0gNM6L3TqEb3tfAQw) | 3:42 | 2024-11-06 |  |
+| [Evening Journey](https://open.spotify.com/track/4ForBTWXJeVh21NIkHIKIb) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Evening Journey](https://open.spotify.com/album/6ollQ0gNM6L3TqEb3tfAQw) | 3:42 | 2024-11-06 | 2025-04-03 |
 | [Eventide](https://open.spotify.com/track/63Zw5WXjM3OWMu0m6wRtk8) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Eventide](https://open.spotify.com/album/0KLP3M9mwfduSGbhX1ypyB) | 2:34 | 2022-11-18 |  |
 | [Everytime](https://open.spotify.com/track/3A4LIH23q9wvMPbeXqqM0p) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Everytime](https://open.spotify.com/album/0GyjxgnC0a3HuoR7Gu5L48) | 2:16 | 2024-05-03 |  |
 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2022-10-14 | 2024-05-24 |
@@ -91,7 +92,7 @@
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-03-18 |
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-24 |  |
 | [Foggy Morning](https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Foggy Morning](https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj) | 3:05 | 2021-12-09 | 2022-05-27 |
-| [For T.](https://open.spotify.com/track/48PAdzQXHcM3A7pJICW6Co) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [For T.](https://open.spotify.com/album/2wYyGrlkOK0hLJ5a6yREzD) | 2:40 | 2024-09-10 |  |
+| [For T.](https://open.spotify.com/track/48PAdzQXHcM3A7pJICW6Co) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [For T.](https://open.spotify.com/album/2wYyGrlkOK0hLJ5a6yREzD) | 2:40 | 2024-09-10 | 2025-04-03 |
 | [Four Green Fields](https://open.spotify.com/track/2JXjDpgRuv1qkVw2XPPptE) | [Alain LaFontaine](https://open.spotify.com/artist/6WyfaTdxOnKaMAseLi5McX) | [Four Green Fields](https://open.spotify.com/album/5NzdLrmxTDHNKx5LKth9to) | 2:04 | 2024-04-19 |  |
 | [Fragments of Euphoria](https://open.spotify.com/track/5OD8nTv8JgpKgoynKK0uKX) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Fragments of Euphoria](https://open.spotify.com/album/45y293r9gbGgELK6bXWJWu) | 2:02 | 2024-04-19 |  |
 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 | 2024-05-24 |  |
@@ -235,6 +236,7 @@
 | [Softly Falling \- Guitar Version](https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [Softly Falling \- Guitar Version](https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr) | 2:17 | 2022-07-01 | 2023-06-09 |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 | 2023-08-26 |
 | [Sol está se pondo](https://open.spotify.com/track/4svcQB6U0H6ECujHIafvwV) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Sol está se pondo](https://open.spotify.com/album/7yE3u8mjqgn2Qt6azXlnyU) | 2:43 | 2021-12-09 |  |
+| [Solencia Nocturne](https://open.spotify.com/track/2swYTnezehl0rgydF9jK8Z) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Solencia Nocturne](https://open.spotify.com/album/4jSkEZB6wGW680SvjP1RL2) | 2:50 | 2025-04-02 |  |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-08-26 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-02-22 |  |
 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-16 | 2024-07-18 |
@@ -254,7 +256,7 @@
 | [The Crossing](https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Crossing](https://open.spotify.com/album/5RVA2zv3ramQfUrXPd8FpX) | 3:15 | 2021-12-09 | 2024-04-20 |
 | [The Distance Between Us](https://open.spotify.com/track/10rJjLMJjQKlp13S3nKGn4) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Distance Between Us](https://open.spotify.com/album/3oaWXUwuoQoPAU5FzQC589) | 2:11 | 2023-01-06 |  |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 | 2023-12-15 |
-| [The Future Awaits](https://open.spotify.com/track/1iPleApKYAInftNLAwHcnH) | [Gian Moran](https://open.spotify.com/artist/5toExbFLGir8olBcwFIVs4) | [The Future Awaits](https://open.spotify.com/album/61oaJQN7f1Cgo30GjmctBG) | 2:45 | 2025-02-24 |  |
+| [The Future Awaits](https://open.spotify.com/track/1iPleApKYAInftNLAwHcnH) | [Gian Moran](https://open.spotify.com/artist/5toExbFLGir8olBcwFIVs4) | [The Future Awaits](https://open.spotify.com/album/61oaJQN7f1Cgo30GjmctBG) | 2:45 | 2025-02-24 | 2025-04-03 |
 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 | 2025-02-19 |  |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 |  |
 | [The Night Becomes You](https://open.spotify.com/track/68ydkLTVa26AVu91mwGXYE) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Night Becomes You](https://open.spotify.com/album/6zL2qydauP0PTEYCGlNAme) | 2:56 | 2022-10-07 | 2024-07-30 |

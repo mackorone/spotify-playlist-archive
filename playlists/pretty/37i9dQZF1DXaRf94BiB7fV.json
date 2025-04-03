@@ -1,13 +1,61 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover: Hanu Dixit, Artwork: Isu Kim",
-  "num_followers": 56595,
+  "description": "The best new music by independent artists and labels in India. Cover: Abhishek Gaur, Artwork: Isu Kim",
+  "num_followers": 56596,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+OfBQAAAAD9vyE1C/O+2WODrFTbTLeS",
+  "snapshot_id": "Z+1P2QAAAABbfnIZEc1oGcYj3nrs0JgS",
   "tracks": [
+    {
+      "added_at": "2025-04-02 14:55:21",
+      "album": {
+        "name": "Aagosh",
+        "url": "https://open.spotify.com/album/3NbN0EOEkyhKC4wuzo3rcw"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Gaur",
+          "url": "https://open.spotify.com/artist/1bFjJGx0Kn8WXy4nAcr6wO"
+        }
+      ],
+      "duration_ms": 351457,
+      "name": "Aagosh",
+      "url": "https://open.spotify.com/track/0XPUYDbqewp5L9sRVpDTWd"
+    },
+    {
+      "added_at": "2025-04-02 14:55:21",
+      "album": {
+        "name": "Sawariya",
+        "url": "https://open.spotify.com/album/1HZpTP1T1zQxZsNuoado3T"
+      },
+      "artists": [
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Sawariya",
+      "url": "https://open.spotify.com/track/2iujd6n2PNsKSmIMJ9qWlu"
+    },
+    {
+      "added_at": "2025-04-02 14:55:21",
+      "album": {
+        "name": "me",
+        "url": "https://open.spotify.com/album/7HOa4qCtTST3bzWZgR60zK"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "the man",
+      "url": "https://open.spotify.com/track/15rG4s2FEQkHVOrbEf8G9z"
+    },
     {
       "added_at": "2025-03-26 06:30:29",
       "album": {
@@ -1607,22 +1655,6 @@
     {
       "added_at": "2025-03-26 06:30:29",
       "album": {
-        "name": "Maalik",
-        "url": "https://open.spotify.com/album/52tKZY6rPc7KCcWB1MEBuZ"
-      },
-      "artists": [
-        {
-          "name": "Nawazishein",
-          "url": "https://open.spotify.com/artist/6NzyJwnJyzqEGckUegHVmd"
-        }
-      ],
-      "duration_ms": 247422,
-      "name": "Maalik",
-      "url": "https://open.spotify.com/track/1GUpzvrpcy4adJ4Mmc4zxN"
-    },
-    {
-      "added_at": "2025-03-26 06:30:29",
-      "album": {
         "name": "Yahin",
         "url": "https://open.spotify.com/album/0RufBWNxRWfkgsYlOF55Tn"
       },
@@ -1643,58 +1675,6 @@
       "duration_ms": 186122,
       "name": "Yahin",
       "url": "https://open.spotify.com/track/7B9J1anTS3WRHwMtJI7SYW"
-    },
-    {
-      "added_at": "2025-03-26 06:30:29",
-      "album": {
-        "name": "Seven Sins",
-        "url": "https://open.spotify.com/album/162dZczSorrRcf9AyihZqo"
-      },
-      "artists": [
-        {
-          "name": "Jaimin",
-          "url": "https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv"
-        },
-        {
-          "name": "Subharaj Ghosh",
-          "url": "https://open.spotify.com/artist/5znY5jCX8yWmrCVPtt41yt"
-        },
-        {
-          "name": "Patrick Fitzsimons",
-          "url": "https://open.spotify.com/artist/6l0GSABXC9KkNHpf8meR68"
-        },
-        {
-          "name": "Arjun Chakraborty",
-          "url": "https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX"
-        },
-        {
-          "name": "Arka Chakraborty",
-          "url": "https://open.spotify.com/artist/5fPPNRzVGJXXfut3gx9nsj"
-        },
-        {
-          "name": "Bibhubrata Acharjee",
-          "url": "https://open.spotify.com/artist/36yoNloaHq5SuLGeTsmbd8"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Seven Sins",
-      "url": "https://open.spotify.com/track/7xEnWrwd9KodDfS2xCpfIs"
-    },
-    {
-      "added_at": "2025-03-26 06:30:29",
-      "album": {
-        "name": "These Waters",
-        "url": "https://open.spotify.com/album/30EDaokm0ui4zQniBHqvMO"
-      },
-      "artists": [
-        {
-          "name": "Clint Lewis",
-          "url": "https://open.spotify.com/artist/6lMbQMVnTJWRwir2eV7LHQ"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "These Waters",
-      "url": "https://open.spotify.com/track/04dFYHAl2Dkjtdhgr6Nj6h"
     },
     {
       "added_at": "2025-03-26 06:30:29",

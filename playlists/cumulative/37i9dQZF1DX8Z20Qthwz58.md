@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8Z20Qthwz58.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Z20Qthwz58) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Z20Qthwz58)
 
-### [d r e a m l i k e ㄲ ㅜ ㅁ](https://open.spotify.com/playlist/37i9dQZF1DX8Z20Qthwz58)
+### [d r e a m l i k e](https://open.spotify.com/playlist/37i9dQZF1DX8Z20Qthwz58)
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
@@ -27,7 +27,7 @@
 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 | 2023-02-08 |  |
 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 | 2023-02-08 |  |
 | [Dandelion](https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:30 | 2024-09-04 |  |
-| [Dawn Dawn](https://open.spotify.com/track/6TK9YzaUfHyIeZut3tarH7) | [SCENE](https://open.spotify.com/artist/46154Xyo0gnQW6wRaT185C) | [Every Day, Every Night](https://open.spotify.com/album/6WkIhj0kzLpUkTStXx3KLK) | 2:57 | 2025-02-11 |  |
+| [Dawn Dawn](https://open.spotify.com/track/6TK9YzaUfHyIeZut3tarH7) | [SCENE](https://open.spotify.com/artist/46154Xyo0gnQW6wRaT185C) | [Every Day, Every Night](https://open.spotify.com/album/6WkIhj0kzLpUkTStXx3KLK) | 2:57 | 2025-02-11 | 2025-04-03 |
 | [dear a.i](https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [DEAR A.I](https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy) | 2:29 | 2024-08-10 |  |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2023-05-02 |  |
 | [Diver](https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI) | 3:10 | 2024-02-20 | 2024-03-09 |
@@ -51,7 +51,7 @@
 | [Hangang Chillin'](https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Hangang Chillin'](https://open.spotify.com/album/0mm29Ew2iUYiyLKVyi2HBE) | 2:45 | 2024-05-14 |  |
 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-04-02 |  |
 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 | 2024-06-28 |  |
-| [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-01-24 |  |
+| [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-01-24 | 2025-04-03 |
 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 | 2024-10-08 |  |
 | [I Fxxking Love You](https://open.spotify.com/track/0amQL57HiAFWSO6Yz64tD1) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:03 | 2023-02-08 | 2024-04-19 |
 | [I really hope I arrive there safe](https://open.spotify.com/track/1ukIW0JX8N4kcoAukgTY3E) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [I really hope I arrive there safe](https://open.spotify.com/album/1cKRNSzDDoayMXWoIZNtNm) | 4:52 | 2023-05-02 | 2024-03-09 |
@@ -95,7 +95,7 @@
 | [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 | 2023-02-08 |  |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 |  |
 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 | 2023-07-07 |  |
-| [Scared That III Miss U](https://open.spotify.com/track/1A2SwGzzM1QE7NZNkL0vMR) | [8+acid](https://open.spotify.com/artist/6oSCCJpjyFN3noOkPepyH7) | [Scared That III Miss U](https://open.spotify.com/album/3QKI4zCckpLSlLyozjyVU4) | 3:22 | 2024-09-13 |  |
+| [Scared That III Miss U](https://open.spotify.com/track/1A2SwGzzM1QE7NZNkL0vMR) | [8+acid](https://open.spotify.com/artist/6oSCCJpjyFN3noOkPepyH7) | [Scared That III Miss U](https://open.spotify.com/album/3QKI4zCckpLSlLyozjyVU4) | 3:22 | 2024-09-13 | 2025-04-03 |
 | [SEOUL CITY POP](https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23) | 3:22 | 2023-02-08 | 2024-03-09 |
 | [SEOUL CITY POP](https://open.spotify.com/track/3CtGzaZ6XGzDDRQi3QbaoC) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/1iGX1LXCxtFyhskgXcx1qs) | 3:22 | 2024-08-05 |  |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-08-25 | 2024-03-28 |

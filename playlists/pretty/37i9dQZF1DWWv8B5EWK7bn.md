@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,550 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,573 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 84 | [New World \- Edit](https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o) | [Tindersticks](https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5) | [Always a Stranger](https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI) | 3:47 |
 | 85 | [Where To Put The Pain](https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Where To Put The Pain](https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai) | 3:54 |
 | 86 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
-| 87 | [Windows Open](https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs) | 5:18 |
-| 88 | [Nothing's Wrong](https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli) | 3:49 |
+| 87 | [Nothing's Wrong](https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli) | 3:49 |
+| 88 | [Windows Open](https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs) | 5:18 |
 | 89 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 |
 | 90 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
 | 91 | [Life Drummer](https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Life Drummer](https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ) | 2:38 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 93 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
 | 94 | [A Time To Blossom](https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW) | [Modern Cosmology](https://open.spotify.com/artist/0yxsIy3WjwZlMNjBdvvHXF), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [A Time To Blossom](https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g) | 7:18 |
 | 95 | [Island Family \- uh Remix](https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [Island Family \(Deluxe Edition\)](https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc) | 4:29 |
-| 96 | [Highlight](https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Highlight](https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU) | 3:17 |
-| 97 | [Taste The Air \- Julia Holter Mix](https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Taste The Air \(Julia Holter Mix\)](https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc) | 3:23 |
+| 96 | [Taste The Air \- Julia Holter Mix](https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Taste The Air \(Julia Holter Mix\)](https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc) | 3:23 |
+| 97 | [Highlight](https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Highlight](https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU) | 3:17 |
 | 98 | [An Embroidery](https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [An Embroidery](https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy) | 4:09 |
 | 99 | [Pagano](https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE) | [Siniestra Pandora](https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U) | [Elegía](https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj) | 3:47 |
 | 100 | [Stranidei](https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Vandali / Stranidei](https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI) | 4:05 |

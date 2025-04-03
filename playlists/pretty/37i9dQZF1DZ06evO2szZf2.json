@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAAAlYx61B5kT+UPCp1QHSPiI",
+  "snapshot_id": "Z+ssgAAAAAC8nL4Xi/LH2pVVoSC7KlGX",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empurra Empurra",
+        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 240118,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa na Marina",
         "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 135047,
       "name": "Festa na Marina (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empurra Empurra",
-        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 240118,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 38 Carregado",
         "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
       },
@@ -615,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Press\u00e3o Mundial Continua",
         "url": "https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ"
       },
@@ -631,34 +631,6 @@
       "duration_ms": 119376,
       "name": "Pede que Eu Te Dou (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ritmado 1.0 (feat. Mc Dricka)",
-        "url": "https://open.spotify.com/album/4sU7OcNOIq8MZtiq6dfv1y"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Mc Binn",
-          "url": "https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE"
-        },
-        {
-          "name": "Veiga no Beat",
-          "url": "https://open.spotify.com/artist/7Iojib0lifaGJnw2oip1pu"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 147072,
-      "name": "Ritmado 1.0 (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/1SITB4RMgsuEt50sXFhXDT"
     },
     {
       "added_at": null,
@@ -723,6 +695,34 @@
       "duration_ms": 103105,
       "name": "Se o Port\u00e3o Tiver Trancado",
       "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ritmado 1.0 (feat. Mc Dricka)",
+        "url": "https://open.spotify.com/album/4sU7OcNOIq8MZtiq6dfv1y"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Binn",
+          "url": "https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE"
+        },
+        {
+          "name": "Veiga no Beat",
+          "url": "https://open.spotify.com/artist/7Iojib0lifaGJnw2oip1pu"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 147072,
+      "name": "Ritmado 1.0 (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/1SITB4RMgsuEt50sXFhXDT"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Mandrake",
-      "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 38 Carregado Arrochadeira",
         "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 108387,
       "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Mandrake",
+      "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"
     },
     {
       "added_at": null,
@@ -951,30 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Elas",
-        "url": "https://open.spotify.com/album/6His16JzwBQ9Dx3a7VPm4n"
+        "name": "Seu Bigodin",
+        "url": "https://open.spotify.com/album/1i2GBSSt27S0AdeZMyJlk4"
       },
       "artists": [
         {
-          "name": "DJ Wallace NK",
-          "url": "https://open.spotify.com/artist/2ZZuZ6UcrdTleUPtc0rwBI"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "DJ FB",
-          "url": "https://open.spotify.com/artist/2eX2oCDQyJ79iSoIgTBtJt"
+          "name": "Dj Kevin Armstrong",
+          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Minha Bunda N\u00e3o Para",
-      "url": "https://open.spotify.com/track/6bqE6YvhWnTWHPAb0SRlmH"
+      "duration_ms": 113777,
+      "name": "Seu Bigodin",
+      "url": "https://open.spotify.com/track/4zmbRguBOA4QEf1ehps1l1"
     },
     {
       "added_at": null,
@@ -1003,6 +995,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Elas",
+        "url": "https://open.spotify.com/album/6His16JzwBQ9Dx3a7VPm4n"
+      },
+      "artists": [
+        {
+          "name": "DJ Wallace NK",
+          "url": "https://open.spotify.com/artist/2ZZuZ6UcrdTleUPtc0rwBI"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "DJ FB",
+          "url": "https://open.spotify.com/artist/2eX2oCDQyJ79iSoIgTBtJt"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Minha Bunda N\u00e3o Para",
+      "url": "https://open.spotify.com/track/6bqE6YvhWnTWHPAb0SRlmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretinha do Peitin e do Bund\u00e3o",
         "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 168922,
       "name": "Pretinha do Peitin e do Bund\u00e3o",
       "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seu Bigodin",
-        "url": "https://open.spotify.com/album/1i2GBSSt27S0AdeZMyJlk4"
-      },
-      "artists": [
-        {
-          "name": "Dj Kevin Armstrong",
-          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 113777,
-      "name": "Seu Bigodin",
-      "url": "https://open.spotify.com/track/4zmbRguBOA4QEf1ehps1l1"
     },
     {
       "added_at": null,
@@ -1091,6 +1091,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Olha e Me Respeita",
+        "url": "https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Me Olha e Me Respeita",
+      "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -1143,18 +1159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Olha e Me Respeita",
-        "url": "https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4"
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
       },
       "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Me Olha e Me Respeita",
-      "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
     },
     {
       "added_at": null,
@@ -1191,26 +1211,6 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
     },
     {
       "added_at": null,
@@ -1471,6 +1471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nois Bate com a Polpa da Bunda",
+        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Nois Bate com a Polpa da Bunda",
+      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Porque Elas Te Preferem",
         "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 160000,
       "name": "Porque Elas Te Preferem",
       "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nois Bate com a Polpa da Bunda",
-        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
-      },
-      "artists": [
-        {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Nois Bate com a Polpa da Bunda",
-      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
     },
     {
       "added_at": null,

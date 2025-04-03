@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "12 Mejores \u00c9xitos con",
+        "url": "https://open.spotify.com/album/6aJTJ4ab0HAdCjF2tY4xs2"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "La Criminal",
+      "url": "https://open.spotify.com/track/23j4mLQPGhJkGzafDm4krB"
+    },
+    {
+      "album": {
         "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
         "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
       },
@@ -1126,10 +1144,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 164906,
       "name": "Que Bonita Chaparrita",
       "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
+    },
+    {
+      "album": {
+        "name": "12 Mejores \u00c9xitos con",
+        "url": "https://open.spotify.com/album/6aJTJ4ab0HAdCjF2tY4xs2"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Qu\u00e9 Bonita Chaparrita",
+      "url": "https://open.spotify.com/track/3LPgAGgjiJAx5cvNiavJMA"
     },
     {
       "album": {
@@ -1367,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "12 Mejores \u00c9xitos con",
+        "url": "https://open.spotify.com/album/6aJTJ4ab0HAdCjF2tY4xs2"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161040,
+      "name": "Una L\u00e1grima y un Recuerdo",
+      "url": "https://open.spotify.com/track/3JP49yrhK9kGXifQhGQEx4"
+    },
+    {
+      "album": {
         "name": "15 Boleros de Colecci\u00f3n, vol. 2",
         "url": "https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS"
       },
@@ -1378,7 +1432,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 162600,
       "name": "Una L\u00e1grima y un Recuerdo",
       "url": "https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX"

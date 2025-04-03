@@ -2,7 +2,7 @@
 
 ### [Hyper Focus Noise](https://open.spotify.com/playlist/37i9dQZF1DX6iSJxWbeWLf)
 
-> Noise, Waves, Rain...<br/>a stimulating mix to get your brain into the right flow.
+> Get your brain waves aligned and productive with white noise
 
 100 songs - 5 hr 12 min
 

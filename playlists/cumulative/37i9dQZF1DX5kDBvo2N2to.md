@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-260 songs - 14 hr 34 min
+261 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 | 2024-08-22 | 2024-09-29 |
 | [C'est La Vie](https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Dance Melancholia](https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX) | 3:22 | 2024-06-28 | 2024-09-13 |
 | [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 | 2024-06-28 | 2024-08-16 |
-| [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-28 |  |
+| [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-28 | 2025-04-03 |
 | [Cardio](https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Cardio](https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC) | 3:08 | 2024-06-28 | 2025-01-17 |
 | [Catch Me](https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf) | [Ellen Benediktson](https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8) | [Catch Me](https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq) | 2:57 | 2024-11-08 |  |
 | [Ce Soir?](https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Ce Soir?](https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1) | 3:18 | 2024-08-22 | 2024-11-09 |
@@ -96,6 +96,7 @@
 | [GALAXER](https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [GALAXER](https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI) | 3:09 | 2024-06-28 | 2024-09-20 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 |  |
 | [GEN Z](https://open.spotify.com/track/1jcyd0Qq7rJroTz6ImNnIS) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [GEN Z](https://open.spotify.com/album/2CboZV6emhWjGOKJK5kFg0) | 2:50 | 2025-03-07 | 2025-03-14 |
+| [Genom Eld & Vatten](https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Genom Eld & Vatten](https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5) | 3:06 | 2025-04-02 |  |
 | [Gimme](https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Gimme](https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae) | 3:04 | 2024-10-24 | 2025-01-19 |
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-07 |  |
 | [glöm det](https://open.spotify.com/track/4OLwEZqfG8GyJkjH6frFSW) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [glöm det](https://open.spotify.com/album/3L66LCj1nrl49zNx8BRRHq) | 3:19 | 2025-03-13 |  |

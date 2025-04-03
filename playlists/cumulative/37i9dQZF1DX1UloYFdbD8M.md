@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: The Down Troddence
 
-301 songs - 19 hr 33 min
+302 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Dooram](https://open.spotify.com/track/73JZxTtYEusW3W7sJgkvdc) | [Aravind Chandrasekhar](https://open.spotify.com/artist/5WCtTjYGnQT0zeflxOyPKw) | [Dooram](https://open.spotify.com/album/7lt4WELBY6unUEaS1S89W0) | 1:36 | 2024-02-13 | 2024-03-01 |
 | [Duniyaav](https://open.spotify.com/track/3MS0WFDWxwJ3DNG4NUewEN) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [BSM](https://open.spotify.com/artist/2KTMQdrxtZNOFAz2jxxth3) | [Duniyaav](https://open.spotify.com/album/0FZItbmrkQxcQ2buwitxE0) | 2:17 | 2024-03-08 | 2024-05-25 |
 | [Eda Mone Kollam Poli Alle](https://open.spotify.com/track/27FIzrQe7xWSCvcfwAGAS3) | [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk), [S\. Sreesanth](https://open.spotify.com/artist/4L9lPMNvEdreunDkSgARg6) | [Eda Mone Kollam Poli Alle](https://open.spotify.com/album/0LUyeasRyRHZSea1b9t14K) | 2:51 | 2024-09-04 | 2025-04-02 |
+| [Ejjathi \- From "Ayaktihis"](https://open.spotify.com/track/0APH1Jj5zZCC75WxTpCzbr) | [The Down Troddence](https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX) | [Ejjathi \(From "Ayaktihis"\)](https://open.spotify.com/album/5lgPxMNps0pcGuuIQ0iX1T) | 4:46 | 2025-04-02 |  |
 | [Embran \- Live](https://open.spotify.com/track/3GvKXNTlMlVUI8eCh7clLW) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Embran \(Live\)](https://open.spotify.com/album/2wlYJLa7aHN6e6jsnIjL82) | 3:48 | 2024-09-12 |  |
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 | 2024-04-04 |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 | 2024-07-13 |
@@ -218,7 +219,7 @@
 | [PALAAYANAM](https://open.spotify.com/track/6c7ceJAZjXqVYTgT4VUh5U) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [PALAAYANAM](https://open.spotify.com/album/0QQBIFPpgVnHl60JZlaq5t) | 3:45 | 2025-01-17 |  |
 | [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 | 2024-07-16 |
 | [Pande](https://open.spotify.com/track/4YRVb6Ppv2zTN9obOzmDSZ) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Pande](https://open.spotify.com/album/7ymtCchQnro2Bc4c1v2TDc) | 3:13 | 2024-05-20 |  |
-| [Panimathi](https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Precious Peter](https://open.spotify.com/artist/6qb784Bx7lh1vIfrR55r81) | [Panimathi](https://open.spotify.com/album/6W9y8ofX3WacudRQ1fkZyz) | 3:12 | 2024-07-22 |  |
+| [Panimathi](https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Precious Peter](https://open.spotify.com/artist/6qb784Bx7lh1vIfrR55r81) | [Panimathi](https://open.spotify.com/album/6W9y8ofX3WacudRQ1fkZyz) | 3:12 | 2024-07-22 | 2025-04-03 |
 | [Panimathimukhi \- Anilatharala](https://open.spotify.com/track/1voUJLt8701cO62ecgIG6h) | [Ashwathi Hari](https://open.spotify.com/artist/18Huo8X4RsqJ2WHHA7ha2Y) | [Panimathimukhi \- Anilatharala](https://open.spotify.com/album/3vgsy4uegWGgMfCduSThw9) | 4:30 | 2024-09-17 | 2025-02-14 |
 | [Parayathe Parayunna](https://open.spotify.com/track/0q5vrVopEWT359duzBEBPV) | [Nikhil Chandran](https://open.spotify.com/artist/5PNeVXZSF6jNVjvA9NGk9B) | [Parayathe Parayunna](https://open.spotify.com/album/6Hgtk1jJYSi8Fe3GxtzkyA) | 4:17 | 2022-06-23 | 2023-07-28 |
 | [Parudeesa](https://open.spotify.com/track/6sp4cNauunLTbcBXBTV59N) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Parudeesa](https://open.spotify.com/album/5j3jXf1zZCbqNNEsFQxTfS) | 5:24 | 2022-12-27 | 2024-12-11 |

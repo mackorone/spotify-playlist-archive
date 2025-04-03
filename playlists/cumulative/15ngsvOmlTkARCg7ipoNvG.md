@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,954 songs - 1 day 15 hr 41 min
+1,956 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1666,6 +1666,7 @@
 | [Sunset In Winter \- Nature Version](https://open.spotify.com/track/143QE9gWjBXrMvLtladC4t) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Sunset In Winter \(Nature Version\)](https://open.spotify.com/album/511m6BlFckjb0tmgUdF0eh) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Sunset In Winter Arr\. For Strings](https://open.spotify.com/track/5Qjgf3on4S58CECIWMVNuw) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Sunset In Winter Arr\. For Strings](https://open.spotify.com/album/6mpnn5IqnNiEJ0W6SZltGd) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Sunset Yellow Coast](https://open.spotify.com/track/5nGUKTzCPUZ9xXscrSTYTV) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Tenderness](https://open.spotify.com/album/5cqsHPHamgtgv6JUuuKW8j) | 1:02 | 2022-02-11 |  |
+| [Sunsets](https://open.spotify.com/track/7feLILWJTHTbxKwSFl3UHZ) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Sunsets](https://open.spotify.com/album/5eUo6DPMYaR4rayfqDzhTO) | 1:00 | 2025-04-02 |  |
 | [Sunshine](https://open.spotify.com/track/5vEuNl0rC6CGWh6rAzX2iE) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Sunshine](https://open.spotify.com/album/3Ot3lma2YBy3YlZHBXqlO1) | 2:12 | 2022-01-12 | 2024-01-30 |
 | [Sunshine \- Cello Version](https://open.spotify.com/track/1uWSnTOYzUDfuuhnY2Ab37) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Sunshine](https://open.spotify.com/album/3Ot3lma2YBy3YlZHBXqlO1) | 2:12 | 2022-01-12 | 2023-04-09 |
 | [Sunshine Lullaby](https://open.spotify.com/track/3XX1IQkjpB7hdb67cztMXV) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:19 | 2022-01-20 | 2024-01-30 |
@@ -1941,6 +1942,7 @@
 | [Wondering](https://open.spotify.com/track/6xeXeb4l8gJBILgbWj8c2H) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Stillness](https://open.spotify.com/album/7eegP3dh7y7zGSuvwCOTFv) | 1:24 | 2024-01-29 |  |
 | [Wonderland](https://open.spotify.com/track/124HZk1PljgBVFTBeJczM6) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wonderland](https://open.spotify.com/album/2zUt0TAi7tYeptoXl2AC8G) | 1:12 | 2024-02-09 | 2024-02-13 |
 | [Wonderland At Midnight](https://open.spotify.com/track/3EsbXTVKb8ZN7iQlyEvgnc) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Orange Glow](https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk) | 1:01 | 2022-02-11 |  |
+| [Worthy](https://open.spotify.com/track/62cQJUHF05Se3aIFScc319) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Worthy](https://open.spotify.com/album/2SuufSnzBNMfiAjbGJYMGp) | 1:00 | 2025-04-02 |  |
 | [Yearning For Light](https://open.spotify.com/track/2aVROvqkZsK1M7pLMSY8fm) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:05 | 2022-02-03 |  |
 | [Yearning For Now](https://open.spotify.com/track/4IlQg6mWed2rB5QcrGmvpt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Cello Stories, Vol\. 2](https://open.spotify.com/album/53CIzwL27czsF48PT9MXXI) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Yearning For Now Reimagined](https://open.spotify.com/track/6hjKTpzupxm1O4aSiHXteJ) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Cello Stories, Vol\. 2](https://open.spotify.com/album/53CIzwL27czsF48PT9MXXI) | 1:03 | 2024-02-09 | 2024-02-13 |

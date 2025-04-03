@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 696151,
+  "num_followers": 696434,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAADkg8gwSXBeXSVSohIjqTFe",
+  "snapshot_id": "Z+ssgAAAAACtbAphHCvfKLTE+K7BulY/",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 375386,
-      "name": "GONE, GONE / THANK YOU",
-      "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"
+      "duration_ms": 177226,
+      "name": "RUNNING OUT OF TIME",
+      "url": "https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 177226,
-      "name": "RUNNING OUT OF TIME",
-      "url": "https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo"
+      "duration_ms": 375386,
+      "name": "GONE, GONE / THANK YOU",
+      "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"
     },
     {
       "added_at": null,
@@ -779,26 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alfredo",
-        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 282560,
-      "name": "Something to Rap About (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
+      "duration_ms": 204364,
+      "name": "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)",
+      "url": "https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR"
     },
     {
       "added_at": null,
@@ -883,22 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+        "name": "Alfredo",
+        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         },
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 204364,
-      "name": "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)",
-      "url": "https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR"
+      "duration_ms": 282560,
+      "name": "Something to Rap About (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ NASKA in cover
+> musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Plant in cover
 
 1,285 songs - 2 day 10 hr 56 min
 
@@ -419,7 +419,7 @@
 | [FATTO DI TE](https://open.spotify.com/track/6Y2XR3kcsMBYxBvspr0hu8) | [FLUOSEXXX](https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u) | [FATTO DI TE](https://open.spotify.com/album/0cjqoMuxXUk8WoweYG3TwO) | 1:55 | 2025-02-27 |  |
 | [FBI](https://open.spotify.com/track/6VJjQSnDSeJZ9h9Aajveuk) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [FBI](https://open.spotify.com/album/37PmLgUh4GAogBMMvoISaM) | 2:50 | 2023-04-27 | 2023-06-02 |
 | [FCCM](https://open.spotify.com/track/4bMFlGc7K3FiUblr9UPxi4) | [Millefiori](https://open.spotify.com/artist/55kBWp4unj7SX6URMMyakp) | [FCCM](https://open.spotify.com/album/7tbU04PZre3LmQEeCvG1R1) | 3:14 | 2023-03-23 | 2023-05-12 |
-| [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-03-28 | 2024-06-07 |
+| [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-03-28 |  |
 | [felice mai](https://open.spotify.com/track/3JvU1JEGpu0e5i0125VfMu) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE) | [felice mai](https://open.spotify.com/album/7beqXpXRHfAUBucwWHhGx8) | 3:01 | 2025-03-27 |  |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-12 | 2024-01-05 |
 | [Felpa rosa](https://open.spotify.com/track/0Ikf7umBSrbBlaKCZOBjcF) | [Positive](https://open.spotify.com/artist/5gTEF9XXWhko4kb8kvYUi6) | [Felpa rosa](https://open.spotify.com/album/4YrjvqoaeZBMIHJQu4I7N6) | 2:44 | 2024-06-13 | 2024-07-27 |

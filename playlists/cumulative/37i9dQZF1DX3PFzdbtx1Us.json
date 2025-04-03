@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Counting the Days",
+        "url": "https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43"
+      },
+      "artists": [
+        {
+          "name": "Erjos",
+          "url": "https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168089,
+      "name": "Counting the Days",
+      "url": "https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d"
+    },
+    {
+      "album": {
         "name": "Countryside Mansion",
         "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
       },
@@ -2760,7 +2778,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 105770,
       "name": "Inside the Moon",
       "url": "https://open.spotify.com/track/64vVXe441Mo6VmJJw6Ab2d"
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 69291,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP"
@@ -6178,10 +6196,28 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 119866,
       "name": "The Light",
       "url": "https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax"
+    },
+    {
+      "album": {
+        "name": "The Mighty Ocean",
+        "url": "https://open.spotify.com/album/481dJbM3TjoBdOawFxqiMi"
+      },
+      "artists": [
+        {
+          "name": "Richard Sauzal",
+          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170473,
+      "name": "The Mighty Ocean",
+      "url": "https://open.spotify.com/track/3Fjin8fnhoA4cuz7WLVHC5"
     },
     {
       "album": {

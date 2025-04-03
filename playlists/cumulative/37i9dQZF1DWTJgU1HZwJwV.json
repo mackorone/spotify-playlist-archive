@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 140927,
       "name": "Cloud Drift",
       "url": "https://open.spotify.com/track/09knApoYuzaX1vrxTYeo0A"
@@ -3108,7 +3108,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 106500,
       "name": "For Maria",
       "url": "https://open.spotify.com/track/6wF7xHW9hOUx6QQdLMPwHn"
@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 118835,
       "name": "In the arms of today",
       "url": "https://open.spotify.com/track/7MZC4MokONv8i0HjhU1iRt"
@@ -4656,7 +4656,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 101317,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/6ZbYf49MLjiJYf7XnO2zuQ"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 110382,
       "name": "Lightning-bent tree",
       "url": "https://open.spotify.com/track/10tLJDajMTayeBvNBjBbjy"
@@ -6143,6 +6143,24 @@
     },
     {
       "album": {
+        "name": "Once Upon a Summer",
+        "url": "https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177358,
+      "name": "Once Upon a Summer",
+      "url": "https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97"
+    },
+    {
+      "album": {
         "name": "Retrouvailles",
         "url": "https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf"
       },
@@ -7548,7 +7566,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 112482,
       "name": "See me clearly",
       "url": "https://open.spotify.com/track/74B9UwoACQuEgPVtoQ51Qf"
@@ -7786,6 +7804,24 @@
       "duration_ms": 167250,
       "name": "Simple life",
       "url": "https://open.spotify.com/track/2tb68oGZwNXeh70uAsr3Wj"
+    },
+    {
+      "album": {
+        "name": "Skopje",
+        "url": "https://open.spotify.com/album/3M4XSfTycOnadZIECHG14V"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162124,
+      "name": "Skopje",
+      "url": "https://open.spotify.com/track/0cEpSarBhZNqu46vwjPPXK"
     },
     {
       "album": {
@@ -9532,7 +9568,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 138929,
       "name": "Waking up Together",
       "url": "https://open.spotify.com/track/23nKAenI7gT7WGbBajVvNU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Zerb, Ape Drums, Jeremih
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,014 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,999 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 10 | [Must to Be Like This \- Mixed](https://open.spotify.com/track/4qdD4w9wdBJ2eDUiM9QpYn) | [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [Summer 2025 \(DJ Mix\)](https://open.spotify.com/album/7CpCkDbt5jT1m3FtzxNL6D) | 4:57 |
 | 11 | [Milango \- Curol Remix](https://open.spotify.com/track/6tj119TR26rB6u7f4H3hiD) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Milango \(Curol Remix\)](https://open.spotify.com/album/3TBV6T0fz209gc4qOyPTNf) | 4:04 |
 | 12 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
-| 13 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
+| 13 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
 | 14 | [I Will Follow](https://open.spotify.com/track/29RByvLFG24kqlzRD6rdNF) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [I Will Follow](https://open.spotify.com/album/53rLWX6TWSXr5t3efCz3a7) | 2:33 |
 | 15 | [The Feeling](https://open.spotify.com/track/5PVHVg0FZBB45nlCR43aSx) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [The Feeling](https://open.spotify.com/album/4x8FhD1sVZn6vf3xcrUc3c) | 3:33 |
 | 16 | [Stars](https://open.spotify.com/track/5KOwqkrqfK0DYU5L3BeYPt) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Stars](https://open.spotify.com/album/3tN8t9bnRuyGz62yhddWwV) | 6:06 |

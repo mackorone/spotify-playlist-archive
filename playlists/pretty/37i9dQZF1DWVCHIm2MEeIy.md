@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,936 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,100 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 73 | [Along Came Polly \(Konstantin Sibold, ZAC, CARMEE Remix\)](https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [CARMEE](https://open.spotify.com/artist/6OHONEQPRKD9oYckcnnKdq) | [Along Came Polly \(Konstantin Sibold, ZAC, CARMEE Remix\)](https://open.spotify.com/album/7md037HhJVbNKMR6V2y4JE) | 5:05 |
 | 74 | [Beyond Us \- Hatshepsut Version, Alex Wann Remix](https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Beyond Us \(Hatshepsut Version, Alex Wann Remix\)](https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp) | 3:39 |
 | 75 | [Hare Ram](https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/03dSjOT6fqiQ9HfrjKKgar) | 3:19 |
-| 76 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
-| 77 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
+| 76 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
+| 77 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
 | 78 | [Lola's Theme \- Tripolism Remix](https://open.spotify.com/track/4tDDGi78yN261vDDaOQlGD) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Lola's Theme \(Tripolism Remix\)](https://open.spotify.com/album/75NCYiWBnt9eptrKPv13NX) | 3:39 |
 | 79 | [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 |
 | 80 | [Who You Talking To ? \- Radio\-Edit](https://open.spotify.com/track/44MUfjvDTzTHnosJSORMa1) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Who You Talking To ?](https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc) | 2:47 |

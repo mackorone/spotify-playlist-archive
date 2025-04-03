@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Peso Pluma on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,020 likes - 150 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,012 likes - 150 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

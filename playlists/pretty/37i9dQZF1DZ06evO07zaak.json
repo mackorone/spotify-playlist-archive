@@ -1,12 +1,12 @@
 {
   "description": "This is Pink Floyd. The essential tracks, all in one playlist.",
-  "num_followers": 1503307,
+  "num_followers": 1503496,
   "original_name": "This Is Pink Floyd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAAC4ZF1d2WCByCsDeG9HG7ga",
+  "snapshot_id": "Z+ssgAAAAACc/hOtWcQEV82Q/VJjaWXp",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
       "duration_ms": 249441,
       "name": "The Fletcher Memorial Home",
       "url": "https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obscured by Clouds",
+        "url": "https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "Wot's...Uh the Deal",
+      "url": "https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY"
     },
     {
       "added_at": null,

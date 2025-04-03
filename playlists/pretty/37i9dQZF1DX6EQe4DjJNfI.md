@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Rael
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,507 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,516 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 66 | [sexysong.mp3](https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Arcanjo Beat](https://open.spotify.com/artist/6Ya4Wxa4p2uiMTmCAIj91V) | [sexysong.mp3](https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52) | 2:17 |
 | 67 | [slow](https://open.spotify.com/track/6bkFPYYHfZ6jzWPh6eREKK) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c), [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Kino Osheanic](https://open.spotify.com/artist/1xpFujR2lkwHcgf5Vkr196) | [slow](https://open.spotify.com/album/39P9PBpBliszL4BGl9KkI8) | 3:01 |
 | 68 | [Açaí e Amendoím](https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw) | [Nevess](https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy), [Caslu](https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP) | [Açaí e Amendoím](https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ) | 3:13 |
-| 69 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 |
-| 70 | [Localização](https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Localização](https://open.spotify.com/album/4nHJtZDehFW2uIFVLYMmDy) | 2:51 |
+| 69 | [Localização](https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Localização](https://open.spotify.com/album/4nHJtZDehFW2uIFVLYMmDy) | 2:51 |
+| 70 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 |
 | 71 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 72 | [Milão](https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX) | [Milão](https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl) | 3:19 |
 | 73 | [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 |

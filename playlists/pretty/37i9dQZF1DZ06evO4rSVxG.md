@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,885 likes - 39 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,889 likes - 39 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 22 | [For The Love Of You](https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:37 |
 | 23 | [My Ex\-Girlfriend](https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:52 |
 | 24 | [Tossin' & Turnin'](https://open.spotify.com/track/1FhB7G89CAjBBSKw8k2wOS) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:50 |
-| 25 | [Annie May](https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 5:46 |
+| 25 | [House Party II \(I Don't Know What You Come To Do\) \- Radio Edit](https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 5:21 |
 | 26 | [Baby Doll](https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:42 |
 | 27 | [Leavin'](https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 5:15 |
-| 28 | [House Party II \(I Don't Know What You Come To Do\) \- Radio Edit](https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 5:21 |
+| 28 | [Annie May](https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 5:46 |
 | 29 | [Waiting For You](https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:13 |
 | 30 | [Who's Lovin You](https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:21 |
 | 31 | [Sky's The Limit](https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:38 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 38 | [Born Not To Know](https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:45 |
 | 39 | [Addicted to You \(feat\. Feddy Moe, Bosten Black, Uncl DJ & Tony Toni Tone\)](https://open.spotify.com/track/6U2xE3ZuMOJcWRTqiLDFxf) | [Mac Rell](https://open.spotify.com/artist/7vWUQcdfwm0m7fL70IW9Z0), [Feddy Moe](https://open.spotify.com/artist/4tOrYOaovyBBNRXIW6rPrm), [Bosten Black](https://open.spotify.com/artist/3uRWEE4AsIQMhMqUBmvL7Q), [Uncl DJ](https://open.spotify.com/artist/3jE7KVL4FfuxT3fWNq53Wi), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Kick n Game Like Soccer](https://open.spotify.com/album/3g0Efg9A3iqVssZyW8jD5X) | 3:45 |
 
-Snapshot ID: `Z+nbAAAAAADTTVNNmkw+JSRe51qt6/N0`
+Snapshot ID: `Z+ssgAAAAAC9OZeqXlbX23jhV6xIrdbh`

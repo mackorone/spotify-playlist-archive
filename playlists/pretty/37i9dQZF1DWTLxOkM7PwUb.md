@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,630 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,639 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 90 | [La Playita](https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [La Playita](https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN) | 2:45 |
 | 91 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
 | 92 | [Llegué Tarde](https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Llegué Tarde](https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW) | 2:57 |
-| 93 | [A fuego \- Bizarrap Remix](https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [A fuego \(Bizarrap Remix\)](https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap) | 3:59 |
-| 94 | [Beibi](https://open.spotify.com/track/6aguaDgP2NVtL3w2DK2IdR) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [45](https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l) | 3:09 |
+| 93 | [Beibi](https://open.spotify.com/track/6aguaDgP2NVtL3w2DK2IdR) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [45](https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l) | 3:09 |
+| 94 | [A fuego \- Bizarrap Remix](https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [A fuego \(Bizarrap Remix\)](https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap) | 3:59 |
 | 95 | [Lovely](https://open.spotify.com/track/0YK1xpP7b0cUqsz9ufibY9) | [Oky](https://open.spotify.com/artist/1BFHETdKcBBY0RzwN7Vk8X) | [Lovely](https://open.spotify.com/album/4BihoPW5Pzt56iZUxVltfS) | 3:49 |
 | 96 | [Como Nadie](https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Como Nadie](https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX) | 2:16 |
 | 97 | [3 Am](https://open.spotify.com/track/6R3iF0udMuVWpA7RECJPYd) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc) | [3 Am](https://open.spotify.com/album/67eQL3vf8NK05q8rAwiDyu) | 3:10 |

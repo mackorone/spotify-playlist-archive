@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Laura Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,814 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,851 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,10 +100,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 90 | [chamomile](https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25) | [chamomile](https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj) | 4:02 |
 | 91 | [I Lost You When the Rain Sang a Song \- Original Mix](https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2) | [Seven24](https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7), [Soty](https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ) | [Leave No Path Untaken](https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU) | 2:40 |
 | 92 | [Sospiro](https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 10:50 |
-| 93 | [Ocean](https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey…](https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW) | 4:28 |
-| 94 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 |
-| 95 | [Montjuïc](https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c) | [Gi Gi](https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r), [Mi Mi](https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX) | [Lumino Pleco](https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta) | 8:11 |
-| 96 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
+| 93 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 |
+| 94 | [Montjuïc](https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c) | [Gi Gi](https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r), [Mi Mi](https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX) | [Lumino Pleco](https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta) | 8:11 |
+| 95 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
+| 96 | [Ocean](https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey…](https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW) | 4:28 |
 | 97 | [Hannah](https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW) | [Jay Chakravorty](https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY) | [A Map With No Memory](https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U) | 3:13 |
 | 98 | [Lungs](https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD) | [anthéne](https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Seasons Shifting](https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV) | 4:20 |
 | 99 | [Epic Mirage](https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Grand Views](https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1) | 5:06 |

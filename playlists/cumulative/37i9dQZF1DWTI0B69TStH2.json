@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najlepsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: <a href=\u201cspotify:artist:5hE1IPeVSiRpzsHBBBpzy4\u201d> Joulie Fox</a>",
+  "description": "Najlepsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: <a href=\"spotify:artist:5hE1IPeVSiRpzsHBBBpzy4\">Joulie Fox</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -14590,6 +14590,24 @@
       "duration_ms": 209640,
       "name": "GB RAM",
       "url": "https://open.spotify.com/track/6hUMax5T0K5vrdbzBDI5MF"
+    },
+    {
+      "album": {
+        "name": "Gdy czytasz w my\u015blach",
+        "url": "https://open.spotify.com/album/4I2hjSPGFZefG3ESM9DNjo"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Tomczak",
+          "url": "https://open.spotify.com/artist/0o54rxa8ThqyrIhVrQ495r"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Gdy czytasz w my\u015blach",
+      "url": "https://open.spotify.com/track/3FvlduH528Ob6V9mFCex5Y"
     },
     {
       "album": {
@@ -47358,7 +47376,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 165161,
       "name": "Szybowce",
       "url": "https://open.spotify.com/track/22HfwNEqN3XPZqY2r6O4id"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,807 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,826 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 11 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 |
 | 12 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 |
 | 13 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 |
-| 14 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
-| 15 | [7 Lagos](https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [7 Lagos](https://open.spotify.com/album/6yeerJKt7Cd0hbl4gIFTEc) | 2:58 |
-| 16 | [Fading Lines](https://open.spotify.com/track/75N2Huk7utLJmehDAcLJIK) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Fading Lines](https://open.spotify.com/album/1OZzE0cb6ysnQqY0vPfFd3) | 2:04 |
+| 14 | [Fading Lines](https://open.spotify.com/track/75N2Huk7utLJmehDAcLJIK) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Fading Lines](https://open.spotify.com/album/1OZzE0cb6ysnQqY0vPfFd3) | 2:04 |
+| 15 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
+| 16 | [7 Lagos](https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [7 Lagos](https://open.spotify.com/album/6yeerJKt7Cd0hbl4gIFTEc) | 2:58 |
 | 17 | [Pedacinhos do Ceu \- Laid\-back Chorinho Cover](https://open.spotify.com/track/1RK5gURQXdDOJwr9mSmTYj) | [Sandro Rebel](https://open.spotify.com/artist/6wirKUVyFpkpWR5ZZjECq8) | [Chorinho Alegre](https://open.spotify.com/album/0XgWIggXCqXxZu6eNoewje) | 4:43 |
 | 18 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 |
 | 19 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 98 | [Verano](https://open.spotify.com/track/4AIi8Q87OYukdx1K27k5D1) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Moods](https://open.spotify.com/album/7iMQJdh4iX3SbvA7x9HxID) | 4:30 |
 | 99 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `Z+KTTAAAAADb+N0XQxmWTPHXKuBJM2Hp`
+Snapshot ID: `Z+1LgAAAAAC67FTKMXk5JjFy9WFzJRMP`

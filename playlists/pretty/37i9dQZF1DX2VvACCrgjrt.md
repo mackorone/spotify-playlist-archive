@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 with Matroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,883 likes - 125 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,155 likes - 125 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

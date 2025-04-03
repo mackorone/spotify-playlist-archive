@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,897 likes - 34 songs - 2 hr 3 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,899 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,16 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 32 | [CRANK](https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:27 |
 | 33 | [Explain](https://open.spotify.com/track/3J216Nn7CBDSnFk5S9gKXW) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Loneliest In The Morning](https://open.spotify.com/album/2LGJoiH5Vjj7t7B49vYKHm) | 2:12 |
 | 34 | [Mother](https://open.spotify.com/track/5LYiV6wYgkKgkzyqyI7DyO) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Loneliest In The Morning](https://open.spotify.com/album/2LGJoiH5Vjj7t7B49vYKHm) | 2:30 |
+| 35 | [Bouge\-toi](https://open.spotify.com/track/52E5gMJk3PTV9ycMjJWmei) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 4:09 |
+| 36 | [A Quiet Week In The House](https://open.spotify.com/track/6Iha5SXfSKDqngjosbLe7Q) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 5:39 |
+| 37 | [I´am Walking Alone](https://open.spotify.com/track/0TC9Bkr8YOv0Nn8JcmitTO) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 4:54 |
+| 38 | [Haverford Impromptu \#1](https://open.spotify.com/track/2lHvKGSQZzm2PlP4N5KpRy) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Haverford College, Jan\. 25th, 1980 \(Solo Rhodes Piano\)](https://open.spotify.com/album/0jVth1ufo1rI9gD7yCIQQQ) | 3:21 |
+| 39 | [Alalaké](https://open.spotify.com/track/4GdTt8CIuuj5Ya7V0wStxX) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Guinée an XI \- Le rendez\-vous annuel des grands](https://open.spotify.com/album/2OJ65rj90aCDM5A2S4xmco) | 4:05 |
+| 40 | [It's Only Life](https://open.spotify.com/track/37NZAyGzfxl9X6xwtBv4io) | [The Feelies](https://open.spotify.com/artist/4UETUdF77BfyJ7fEFVztr3) | [Only Life](https://open.spotify.com/album/4yYqj4CONT4M5yF9xfXevj) | 2:57 |
+| 41 | [Drowned Village](https://open.spotify.com/track/4SSUj17CepR1nj96g9iYVL) | [Magician](https://open.spotify.com/artist/0JttrTRwrzj8udpkzr8asp), [Barbara Thompson](https://open.spotify.com/artist/05GSCSTkwnHANf3ykSvMgt) | [Magician](https://open.spotify.com/album/25Mizgs3iThJHZsC2XSOQI) | 3:52 |
+| 42 | [Diamonds and Gems](https://open.spotify.com/track/3W9d5rNGDNC3plYtX76Qy8) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 3:07 |
+| 43 | [The Whistling Song](https://open.spotify.com/track/6hsR1xniCFGjgYLMUlf67K) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 4:31 |
+| 44 | [Extinguish](https://open.spotify.com/track/41pTeGMKh9H9OXGDPSZCfM) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 3:46 |
+| 45 | [Let the Moon Get Into It](https://open.spotify.com/track/1stYzcsEDzXXKyjQ2zyLx5) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 6:29 |
 
-Snapshot ID: `AAAMGreGVq3S7tqyiGlUv4UjEz4AhYz3`
+Snapshot ID: `AAAMI+wOeUEDdrV8PsbD8SBXaaPPNJUq`

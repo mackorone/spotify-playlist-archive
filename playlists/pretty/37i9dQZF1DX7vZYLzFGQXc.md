@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: can't be blue\(캔트비블루\)\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 고고학 \(Gogohawk\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,217 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,220 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 |
-| 2 | [Fancy Car \(Feat\. Jhunnit\)](https://open.spotify.com/track/6S6NplSxaMgbLJMzX8zfz5) | [Noducksoon](https://open.spotify.com/artist/5edtUlKuXuqzKiwlzADBT8), [Jhunnit](https://open.spotify.com/artist/6aO0qbEy27EtuZj0pojedr) | [UNBOILED](https://open.spotify.com/album/6qNNhZOqHMKmpydjXJYaSG) | 2:53 |
-| 3 | [Kryptonite \(feat\. Henni\)](https://open.spotify.com/track/50dcsUaL1DEzuh8QlNuEpF) | [Chloe Char](https://open.spotify.com/artist/3kP9joDEb8O36na2Gd6mFJ), [Benny Char](https://open.spotify.com/artist/0fP10sGDcpc0dcfe1QoNhS), [Henni](https://open.spotify.com/artist/6nt5cp1v7eC6VFSo00EIKz) | [Kryptonite](https://open.spotify.com/album/1OF8oRoz4dzUfBrGDghif4) | 3:01 |
-| 4 | [fireworks](https://open.spotify.com/track/7Fo28nzhklLaZSEYOE6cSh) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [01](https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE) | 3:21 |
-| 5 | [Dumb](https://open.spotify.com/track/6CLcxDLxnChdDSSoIsJqgX) | [Van Siian](https://open.spotify.com/artist/0SwcwKadddF2A0gHCeyJMQ) | [Dumb](https://open.spotify.com/album/7wBpWUasqHnQw3IucEwEio) | 3:45 |
-| 6 | [Pillow Talk](https://open.spotify.com/track/6YJHfDYkNnXGwBEN72TMpZ) | [JAYN LEE](https://open.spotify.com/artist/7eyeL4ApWZsWOutz8dc4Hr) | [Pillow Talk](https://open.spotify.com/album/2cUG7LiEbjQNpYbfLi5rVx) | 3:12 |
-| 7 | [MBTI \(feat\. JEONAIN\)](https://open.spotify.com/track/00ngsIo6DNIRty1ARrAeDk) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [MBTI \(feat\. JEONAIN\)](https://open.spotify.com/album/24Sw3o1rDxEav4eqz20jMp) | 2:39 |
-| 8 | [Call your name](https://open.spotify.com/track/5TF0MWq0CHsWHo9lhPcbl5) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Jaerim](https://open.spotify.com/artist/7y31yRp7OIg6lwePiyyQV6) | [Call your name](https://open.spotify.com/album/55yikgItwCuIMSlcK8VZib) | 2:39 |
-| 9 | [Extreme Bleach](https://open.spotify.com/track/0JdUg7FfklB2FHgZ3Yn5mM) | [Itska](https://open.spotify.com/artist/6r3RQIpERgCi087N6biCHz) | [Extreme Bleach](https://open.spotify.com/album/4WkHuU1dfsgsBFe2Wp2hgx) | 3:27 |
-| 10 | [Closer to You](https://open.spotify.com/track/0f78hTHehX5B1xRC6nzyy7) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Closer to You](https://open.spotify.com/album/2f8wq99BQFEyyOo16NDzPT) | 2:40 |
-| 11 | [Baby](https://open.spotify.com/track/1xElISpzdP2wz17SK3u8zi) | [EZUZ](https://open.spotify.com/artist/0oDjOdBqcKXG83xXwbp8Ca) | [Baby](https://open.spotify.com/album/4x1Kssq9UDnq87Y3NSgVhK) | 3:06 |
-| 12 | [Plain](https://open.spotify.com/track/6qbOM4pmAkhH6CtzKErZZI) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Plain](https://open.spotify.com/album/5rLjepB7ooj5Uq1YC7zL4f) | 2:39 |
-| 13 | [Toy](https://open.spotify.com/track/68igdaLUHiu7Ma96plkRSQ) | [Option](https://open.spotify.com/artist/0vRLS4Q68chVJeEGar8342), [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [1st EP 'Option'](https://open.spotify.com/album/2obt5puKnVPmLEHL3CttWl) | 2:51 |
-| 14 | [earlymorningtrap](https://open.spotify.com/track/2uN8k3k5p9CdXODwXpzfbE) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [earlymorningtrap](https://open.spotify.com/album/7ih0wLgT3oDgJ91GetD2c8) | 3:34 |
-| 15 | [Trauma](https://open.spotify.com/track/7KE80Djfl8WR02D89E1hXS) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.07](https://open.spotify.com/album/0X7Z8bDpZkDzIoIv3JXf4n) | 4:04 |
+| 1 | [Trauma](https://open.spotify.com/track/7KE80Djfl8WR02D89E1hXS) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.07](https://open.spotify.com/album/0X7Z8bDpZkDzIoIv3JXf4n) | 4:04 |
+| 2 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 |
+| 3 | [Fancy Car \(Feat\. Jhunnit\)](https://open.spotify.com/track/6S6NplSxaMgbLJMzX8zfz5) | [Noducksoon](https://open.spotify.com/artist/5edtUlKuXuqzKiwlzADBT8), [Jhunnit](https://open.spotify.com/artist/6aO0qbEy27EtuZj0pojedr) | [UNBOILED](https://open.spotify.com/album/6qNNhZOqHMKmpydjXJYaSG) | 2:53 |
+| 4 | [Kryptonite \(feat\. Henni\)](https://open.spotify.com/track/50dcsUaL1DEzuh8QlNuEpF) | [Chloe Char](https://open.spotify.com/artist/3kP9joDEb8O36na2Gd6mFJ), [Benny Char](https://open.spotify.com/artist/0fP10sGDcpc0dcfe1QoNhS), [Henni](https://open.spotify.com/artist/6nt5cp1v7eC6VFSo00EIKz) | [Kryptonite](https://open.spotify.com/album/1OF8oRoz4dzUfBrGDghif4) | 3:01 |
+| 5 | [fireworks](https://open.spotify.com/track/7Fo28nzhklLaZSEYOE6cSh) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [01](https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE) | 3:21 |
+| 6 | [Dumb](https://open.spotify.com/track/6CLcxDLxnChdDSSoIsJqgX) | [Van Siian](https://open.spotify.com/artist/0SwcwKadddF2A0gHCeyJMQ) | [Dumb](https://open.spotify.com/album/7wBpWUasqHnQw3IucEwEio) | 3:45 |
+| 7 | [Pillow Talk](https://open.spotify.com/track/6YJHfDYkNnXGwBEN72TMpZ) | [JAYN LEE](https://open.spotify.com/artist/7eyeL4ApWZsWOutz8dc4Hr) | [Pillow Talk](https://open.spotify.com/album/2cUG7LiEbjQNpYbfLi5rVx) | 3:12 |
+| 8 | [MBTI \(feat\. JEONAIN\)](https://open.spotify.com/track/00ngsIo6DNIRty1ARrAeDk) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [MBTI \(feat\. JEONAIN\)](https://open.spotify.com/album/24Sw3o1rDxEav4eqz20jMp) | 2:39 |
+| 9 | [Call your name](https://open.spotify.com/track/5TF0MWq0CHsWHo9lhPcbl5) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Jaerim](https://open.spotify.com/artist/7y31yRp7OIg6lwePiyyQV6) | [Call your name](https://open.spotify.com/album/55yikgItwCuIMSlcK8VZib) | 2:39 |
+| 10 | [Extreme Bleach](https://open.spotify.com/track/0JdUg7FfklB2FHgZ3Yn5mM) | [Itska](https://open.spotify.com/artist/6r3RQIpERgCi087N6biCHz) | [Extreme Bleach](https://open.spotify.com/album/4WkHuU1dfsgsBFe2Wp2hgx) | 3:27 |
+| 11 | [Closer to You](https://open.spotify.com/track/0f78hTHehX5B1xRC6nzyy7) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Closer to You](https://open.spotify.com/album/2f8wq99BQFEyyOo16NDzPT) | 2:40 |
+| 12 | [Baby](https://open.spotify.com/track/1xElISpzdP2wz17SK3u8zi) | [EZUZ](https://open.spotify.com/artist/0oDjOdBqcKXG83xXwbp8Ca) | [Baby](https://open.spotify.com/album/4x1Kssq9UDnq87Y3NSgVhK) | 3:06 |
+| 13 | [Plain](https://open.spotify.com/track/6qbOM4pmAkhH6CtzKErZZI) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Plain](https://open.spotify.com/album/5rLjepB7ooj5Uq1YC7zL4f) | 2:39 |
+| 14 | [Toy](https://open.spotify.com/track/68igdaLUHiu7Ma96plkRSQ) | [Option](https://open.spotify.com/artist/0vRLS4Q68chVJeEGar8342), [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [1st EP 'Option'](https://open.spotify.com/album/2obt5puKnVPmLEHL3CttWl) | 2:51 |
+| 15 | [earlymorningtrap](https://open.spotify.com/track/2uN8k3k5p9CdXODwXpzfbE) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [earlymorningtrap](https://open.spotify.com/album/7ih0wLgT3oDgJ91GetD2c8) | 3:34 |
 | 16 | [Chantepleure](https://open.spotify.com/track/3uFqbKQm8939lVJf14iOtl) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Chantepleure](https://open.spotify.com/album/6Fx1xlTCQNFEoNfRExjrXt) | 3:42 |
 | 17 | [Wings](https://open.spotify.com/track/2X9h9oIzIjv82bTLYDIvjQ) | [LETO](https://open.spotify.com/artist/285lBSkYP90rbAfrASyMnQ) | [Wings](https://open.spotify.com/album/6BnVGBspQY6A12s8mXHqSS) | 3:59 |
 | 18 | [Sea of Appointment](https://open.spotify.com/track/7dcMLsjqmakRo6g0pIWchU) | [Ruru](https://open.spotify.com/artist/4flinhIhFYE7Ehy3fFBg3l) | [Sea of Appointment](https://open.spotify.com/album/6xGnE1503rLhAYYc0A9ejd) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Nobody else \(With LOUISE\)](https://open.spotify.com/track/2o8vkJLA7GI72yuXmbtYoX) | [DOF](https://open.spotify.com/artist/6N0yR9mf6opmDEH7tuPpwC), [LOUISE](https://open.spotify.com/artist/0JTWr5TGRM4zNinrV4Mj3v) | [DOF ep \#all](https://open.spotify.com/album/5zHfqaSMhvj51chbs7KDd0) | 3:42 |
 | 50 | [dadada](https://open.spotify.com/track/3eGpNMyY97pDI0OJDq6Rj2) | [omm..](https://open.spotify.com/artist/5XoZp1EeBLUAiEyOqFdOEc) | [vacant room](https://open.spotify.com/album/7hnnoW6HSGre1ktjIj6jvb) | 2:55 |
 
-Snapshot ID: `Z+oA3AAAAAARLSQ4fBT0orQoaoZZxpDa`
+Snapshot ID: `Z+3t4wAAAABJrPM9KuTybDTrzDlDhf6k`

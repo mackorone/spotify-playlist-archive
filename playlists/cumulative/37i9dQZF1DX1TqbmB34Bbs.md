@@ -2,7 +2,7 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: MARK, HAECHAN\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: EK\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
 1,247 songs - 2 day 21 hr 4 min
 

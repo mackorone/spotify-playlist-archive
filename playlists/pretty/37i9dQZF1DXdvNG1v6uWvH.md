@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist frá Ariana Grande, Birnir og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,201 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,201 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 96 | [shortest day on the beach](https://open.spotify.com/track/3KbVZlInw4HU2TD3rl9vMh) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV), [re:treat](https://open.spotify.com/artist/4RpXImfXn7MswsilaMi8OF) | [longest day on the beach](https://open.spotify.com/album/0yrDVStpgEO9ZM3By7REEP) | 2:06 |
 | 97 | [On my Mind](https://open.spotify.com/track/6YejsW2SEeISYMpUvCD45f) | [The Perfumist](https://open.spotify.com/artist/6tliw5g3UJwx3NNfKXiYq4) | [On my Mind](https://open.spotify.com/album/4aMmZLw3vv42RM5C99r74B) | 3:11 |
 | 98 | [Bastard](https://open.spotify.com/track/1cgTrpKtampzDh4Lt4mB8W) | [Brynja Rán](https://open.spotify.com/artist/4ru6DsYY6QIegPYyD0AZOt) | [Bastard](https://open.spotify.com/album/7h4qPjnkPRjFtOuotMUzHD) | 3:06 |
-| 99 | [Tupperware People](https://open.spotify.com/track/5RZgxofQeKI9nMGdElGP0z) | [Babylon Twist](https://open.spotify.com/artist/6YAOE1BSUdzwGvmKNM7bDz) | [SCI\-FI SAMURAI](https://open.spotify.com/album/5PM1zuCw3TQkImnWfAsfpS) | 2:47 |
-| 100 | [Five Years From Now](https://open.spotify.com/track/03GV7gKXNjfOLl9SdzRLM7) | [Ragnar Olafsson](https://open.spotify.com/artist/0ceRs3GSji9kQCDtW42N65) | [Mexico](https://open.spotify.com/album/6KhZNvBTDSVF9a4J8PG0Xh) | 2:59 |
+| 99 | [Kveðjum Framtíðina](https://open.spotify.com/track/0IyPwkNg6ZG2Fh584jUuuf) | [Villainous Blue](https://open.spotify.com/artist/0vKF0Fy0odfqxBQKx5ZKA8), [ÍÐILL](https://open.spotify.com/artist/6IaWdQvyAcCQiFL9MF9Q9j) | [Dead not Dead](https://open.spotify.com/album/5lH6ntqvqk1PgniMOK8shf) | 3:41 |
+| 100 | [Tupperware People](https://open.spotify.com/track/5RZgxofQeKI9nMGdElGP0z) | [Babylon Twist](https://open.spotify.com/artist/6YAOE1BSUdzwGvmKNM7bDz) | [SCI\-FI SAMURAI](https://open.spotify.com/album/5PM1zuCw3TQkImnWfAsfpS) | 2:47 |
 
 Snapshot ID: `Z+Ye2wAAAAD3L0UKMeSNpnCCsXGriyhm`

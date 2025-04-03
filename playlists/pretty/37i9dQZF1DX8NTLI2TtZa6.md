@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,440,159 likes - 212 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,440,215 likes - 212 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 18 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
 | 19 | [Token](https://open.spotify.com/track/0hB3bysyufVO1pUCj1rYwS) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Token](https://open.spotify.com/album/4uL1RDBqy4Ji6D8UaEUwlE) | 3:16 |
 | 20 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
-| 21 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 |
-| 22 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 |
-| 23 | [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 |
-| 24 | [Hope Eternal](https://open.spotify.com/track/6GvQPlQorNwMFqDS3DkLbU) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Hope Eternal](https://open.spotify.com/album/4ROGSC2ytUc4aDKP2tyMOJ) | 2:48 |
-| 25 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 |
-| 26 | [Solitude](https://open.spotify.com/track/0wYhXfdHMChwBwEP8KFDqk) | [Christopher Somnus Brooks](https://open.spotify.com/artist/2IAikbE8ZfcZX1sUZeka5v) | [Solitude](https://open.spotify.com/album/1NPTMlQPtfUfYWhtAPKgdv) | 3:03 |
-| 27 | [Mornings](https://open.spotify.com/track/0fX0L4RnzpvrOyr4vvQtuS) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Mornings](https://open.spotify.com/album/6JlPldHRWwO1MXDMznRzBC) | 2:33 |
-| 28 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 |
-| 29 | [Floating in Between](https://open.spotify.com/track/26uNq6Q320YkGvrgmYb09t) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Floating in Between](https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I) | 2:12 |
-| 30 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 |
+| 21 | [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 |
+| 22 | [Hope Eternal](https://open.spotify.com/track/6GvQPlQorNwMFqDS3DkLbU) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Hope Eternal](https://open.spotify.com/album/4ROGSC2ytUc4aDKP2tyMOJ) | 2:48 |
+| 23 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 |
+| 24 | [Solitude](https://open.spotify.com/track/0wYhXfdHMChwBwEP8KFDqk) | [Christopher Somnus Brooks](https://open.spotify.com/artist/2IAikbE8ZfcZX1sUZeka5v) | [Solitude](https://open.spotify.com/album/1NPTMlQPtfUfYWhtAPKgdv) | 3:03 |
+| 25 | [Floating in Between](https://open.spotify.com/track/26uNq6Q320YkGvrgmYb09t) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Floating in Between](https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I) | 2:12 |
+| 26 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 |
+| 27 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 |
+| 28 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 |
+| 29 | [Mornings](https://open.spotify.com/track/0fX0L4RnzpvrOyr4vvQtuS) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Mornings](https://open.spotify.com/album/6JlPldHRWwO1MXDMznRzBC) | 2:33 |
+| 30 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 |
 | 31 | [Resplendent](https://open.spotify.com/track/0MeQbzpMevEuSdp5oWXuRO) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Resplendent](https://open.spotify.com/album/4gMyqPbXXeFmQadOrKK6GN) | 2:33 |
 | 32 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 |
 | 33 | [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 211 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 |
 | 212 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 |
 
-Snapshot ID: `Z+QkDgAAAACtli9kWLat0yjDF+Uqk0rW`
+Snapshot ID: `Z+z8iwAAAAA1BJxexSEjmF4lZc3wv1Hx`

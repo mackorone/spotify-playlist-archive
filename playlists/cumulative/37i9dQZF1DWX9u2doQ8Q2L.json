@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 198280,
       "name": "All Right",
       "url": "https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o"
@@ -10964,7 +10964,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 167616,
       "name": "Lady",
       "url": "https://open.spotify.com/track/1wi50gwaeaIfA9UuC3N6b1"
@@ -15940,7 +15940,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 157026,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
@@ -29904,6 +29904,24 @@
       "duration_ms": 353220,
       "name": "\u672a\u6765\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/6cYzQkwsO6StfGaSdH1nmk"
+    },
+    {
+      "album": {
+        "name": "\u672a\u6765\u5730\u56f32025",
+        "url": "https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360247,
+      "name": "\u672a\u6765\u5730\u56f32025",
+      "url": "https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8"
     },
     {
       "album": {

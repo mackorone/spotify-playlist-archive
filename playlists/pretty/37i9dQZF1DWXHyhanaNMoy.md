@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Architrackz
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,851 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,857 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 20 | [LOCO](https://open.spotify.com/track/0RFKcBCPsVGCNIHGnqRjiG) | [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [LOCO](https://open.spotify.com/album/4zVuEw4jPoHd4OUgsqRJOH) | 2:14 |
 | 21 | [Carrousel](https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Carrousel](https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt) | 2:10 |
 | 22 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 |
-| 23 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
+| 23 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 24 | [Spanje](https://open.spotify.com/track/5pFxWvLViHHkKBFiln1vij) | [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR), [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Spanje](https://open.spotify.com/album/2wu6po7eDveSp9XYYNjeqF) | 2:21 |
 | 25 | [Narcos](https://open.spotify.com/track/310uX0CtnHdFhbTAjADKBs) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Foxii](https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv), [Travon John](https://open.spotify.com/artist/2VM6HZlcBPRoyj8O2N233m) | [Narcos](https://open.spotify.com/album/2bRRFf3Q4ZA9ji74oCIDf6) | 2:09 |
 | 26 | [Shirt To Impress](https://open.spotify.com/track/0bI16kL50SYC8XY6982cB1) | [La June](https://open.spotify.com/artist/3hHBl5FjVlul5vOJ8cj72f), [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [Shirt To Impress](https://open.spotify.com/album/5f6ujgFNJeb6WW5gKTv7tl) | 2:27 |

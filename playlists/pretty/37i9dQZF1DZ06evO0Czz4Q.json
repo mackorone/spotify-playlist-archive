@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 131038,
+  "num_followers": 131064,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAADzBvXA5+GSd1wLrSki83hh",
+  "snapshot_id": "Z+ssgAAAAAAPleYYgHCON6euL8oQWbQb",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 382920,
-      "name": "Forever, for Always, for Love",
-      "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
       },
@@ -767,22 +751,6 @@
       "duration_ms": 373800,
       "name": "Because It's Really Love",
       "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "The Impossible Dream",
-      "url": "https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM"
     },
     {
       "added_at": null,
@@ -803,6 +771,38 @@
       "duration_ms": 446013,
       "name": "I (Who Have Nothing) (with Martha Wash)",
       "url": "https://open.spotify.com/track/77Uzw2YBK5lL5jW6oUsYXU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 315880,
+      "name": "The Impossible Dream",
+      "url": "https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 382920,
+      "name": "Forever, for Always, for Love",
+      "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,239 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,265 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 94 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
 | 95 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 |
 | 96 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
-| 97 | [Brainwave Technology](https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Brainwave Technology](https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf) | 6:47 |
-| 98 | [MWLHWOF\-4](https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx) | [James Emrick](https://open.spotify.com/artist/246T2idxs2MWDrX6ntZNBm) | [Actoma](https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3) | 3:29 |
+| 97 | [MWLHWOF\-4](https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx) | [James Emrick](https://open.spotify.com/artist/246T2idxs2MWDrX6ntZNBm) | [Actoma](https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3) | 3:29 |
+| 98 | [Brainwave Technology](https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Brainwave Technology](https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf) | 6:47 |
 | 99 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
 | 100 | [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 |
 

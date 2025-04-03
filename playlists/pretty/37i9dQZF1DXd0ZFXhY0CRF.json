@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Rico Nasty",
-  "num_followers": 768924,
+  "num_followers": 768945,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Janis",
-        "url": "https://open.spotify.com/album/294SMYuchjGEbo3bko8QVt"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2RWraN4ZkuqjcNQAlBNGEH"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Love Abuser (Save Me)",
         "url": "https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 187460,
       "name": "Love Abuser (Save Me)",
       "url": "https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Janis",
+        "url": "https://open.spotify.com/album/294SMYuchjGEbo3bko8QVt"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2RWraN4ZkuqjcNQAlBNGEH"
     }
   ],
   "unique_name": "Women of Rock",

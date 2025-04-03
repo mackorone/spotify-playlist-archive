@@ -4,7 +4,7 @@
 
 > Solo musica indipendente italiana, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:2xP0ZgiHfJOP8dzz3ij10b">Bordeaux</a>
 
-1,523 songs - 3 day 3 hr 29 min
+1,524 songs - 3 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,7 +854,7 @@
 | [MOTEL](https://open.spotify.com/track/3Jquzk12GLSvr0AoRgJL5G) | [MASTERKILO](https://open.spotify.com/artist/3wWcy4oQmiH9EINlX08fDW) | [MOTEL](https://open.spotify.com/album/7529drDPBVyz7qnupUsg5x) | 2:32 | 2022-08-26 | 2022-09-12 |
 | [motori](https://open.spotify.com/track/7rtne4qSZRCtHShB8yiWeB) | [fefè](https://open.spotify.com/artist/52wYExoftAantCAUjSLWUr) | [motori](https://open.spotify.com/album/4Cr84DvmsMTMRZCdGwtc5C) | 2:55 | 2023-01-05 | 2023-02-17 |
 | [Mountain Mama](https://open.spotify.com/track/58Rr9zyZETlh66EvM6OxMk) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Mountain Mama](https://open.spotify.com/album/0CxhWLSLnzl9RnZ6tnjl0y) | 2:02 | 2025-02-18 |  |
-| [Mountains](https://open.spotify.com/track/3f5Gku3uhFB8NnUWJywfxq) | [Gaia Rollo](https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv) | [Mountains](https://open.spotify.com/album/7EBzr54n5Ehztv2uidEcUD) | 4:27 | 2025-02-18 |  |
+| [Mountains](https://open.spotify.com/track/3f5Gku3uhFB8NnUWJywfxq) | [Gaia Rollo](https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv) | [Mountains](https://open.spotify.com/album/7EBzr54n5Ehztv2uidEcUD) | 4:27 | 2025-02-18 | 2025-04-03 |
 | [multa](https://open.spotify.com/track/4yt0GAqL091yBYXp7gz44b) | [Bilu](https://open.spotify.com/artist/7kCdQlFzI23kq4VDOKNOws) | [multa](https://open.spotify.com/album/02v7LA7wO1rOF4jMnbbrvT) | 1:59 | 2023-11-21 | 2024-01-25 |
 | [Multiverso](https://open.spotify.com/track/3UBvSItkXDQIGg6TH8Lviu) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Astroturismo](https://open.spotify.com/album/75TpL6WmXZoSvRp16o0gKN) | 4:43 | 2022-01-06 | 2022-02-18 |
 | [musica col computer](https://open.spotify.com/track/2Fgh9deb1vLIFKI7hOtyHV) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1), [b.estye](https://open.spotify.com/artist/2YaXROXiWeqPA4fG5od6bU) | [musica col computer](https://open.spotify.com/album/2xCv85lAAeFBPGRhRRvkGZ) | 2:30 | 2024-06-18 | 2024-07-19 |
@@ -1160,6 +1160,7 @@
 | [Revolver](https://open.spotify.com/track/5l0X6rFDo4hKZzs7cJTRqA) | [Jann](https://open.spotify.com/artist/1LV2dU8v9YafKzmL5Od175), [Lamb](https://open.spotify.com/artist/1jyG2mHUtXwSNdtEh7ldCm) | [Revolver](https://open.spotify.com/album/1GkRICQxPixKx5E7eS8iER) | 2:59 | 2022-04-19 | 2022-04-27 |
 | [RICCI](https://open.spotify.com/track/5t7YErUpV2VUm2xNHJlx5Z) | [Diego Se77e](https://open.spotify.com/artist/6BoYsdnimBfJjEIE8zvinE) | [RICCI](https://open.spotify.com/album/2VuqUJSDkuiip9Z5QEjsKk) | 3:26 | 2022-02-17 | 2022-03-18 |
 | [RICORDI \(?\)](https://open.spotify.com/track/3PNdQmkF5Z7UopHJII0tn5) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [RICORDI \(?\)](https://open.spotify.com/album/5J9Y597V7UTIN1l1UGUaaj) | 2:20 | 2023-01-19 | 2023-02-17 |
+| [RILASCIO](https://open.spotify.com/track/6uTTta3r7CctLeexSVHd4B) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Luvi](https://open.spotify.com/artist/0cPBV0vRFQYE3ikRRh3Xr0), [Rx](https://open.spotify.com/artist/4cBr49Vh3Y4I2Ty5E3gakQ), [Asci](https://open.spotify.com/artist/5S0PqlD3F615EmYSZXztyl), [cupido](https://open.spotify.com/artist/5VJIiHHvYSPDLm3te8gJhM) | [RILASCIO](https://open.spotify.com/album/47Ya71TLlCDMnuqxO36E7u) | 3:08 | 2025-04-02 |  |
 | [Rimani Invisibile](https://open.spotify.com/track/3ruhEj0WWsInGCOdpE14fT) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Estratti di luce](https://open.spotify.com/album/0dJkc5uKTpFVSqzxroRpAx) | 2:30 | 2024-02-21 | 2024-03-21 |
 | [RIP](https://open.spotify.com/track/1ypk28iGe0k4xBlr1LPHH3) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [RIP](https://open.spotify.com/album/7GlSRm0BwDf9CBtXvvofJi) | 3:20 | 2022-05-27 | 2022-07-23 |
 | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl), [Orelle](https://open.spotify.com/artist/759n9HvatPa0PARbAtn6Cs), [Martina Primavera](https://open.spotify.com/artist/1f7xLN7zodIwUg2W2McjNn) | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/album/4FrLdV5HORBNYmyFTHgQhF) | 2:56 | 2023-10-10 | 2023-11-08 |

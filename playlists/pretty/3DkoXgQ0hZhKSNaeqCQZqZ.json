@@ -1,13 +1,65 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 537,
+  "num_followers": 539,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADYjV+DPF1f29G911opIsh3WvLJ8g6",
+  "snapshot_id": "AAADZVbQgyI+cBmSPQNRdqAsNyUYnKgC",
   "tracks": [
+    {
+      "added_at": "2025-04-03 02:02:19",
+      "album": {
+        "name": "SOS!",
+        "url": "https://open.spotify.com/album/5vPjPuJju1zgLsLXuti8n0"
+      },
+      "artists": [
+        {
+          "name": "Reivan",
+          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
+        }
+      ],
+      "duration_ms": 220577,
+      "name": "SOS! (Wishing I Wasn't Me)",
+      "url": "https://open.spotify.com/track/5qldUW98OrRk7OAYPoWgvf"
+    },
+    {
+      "added_at": "2025-04-03 01:54:29",
+      "album": {
+        "name": "In Flux",
+        "url": "https://open.spotify.com/album/0UyM7Rn7PZNt1UghxPvnWE"
+      },
+      "artists": [
+        {
+          "name": "JAMIEvx",
+          "url": "https://open.spotify.com/artist/0gL0yv87B01UdAXjrkjSIP"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "Korrent City Streets",
+      "url": "https://open.spotify.com/track/4GDi16UNFP1jxo5hTjQvMu"
+    },
+    {
+      "added_at": "2025-04-03 01:54:10",
+      "album": {
+        "name": "The Parts of Me That Only I Can See",
+        "url": "https://open.spotify.com/album/6rFeD0BD2DM5Qu5OualnSN"
+      },
+      "artists": [
+        {
+          "name": "TWYLIGHT",
+          "url": "https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO"
+        },
+        {
+          "name": "Fordus",
+          "url": "https://open.spotify.com/artist/1YaR1iwmSwt6sufwqUobYP"
+        }
+      ],
+      "duration_ms": 331000,
+      "name": "sorry, i zoned out",
+      "url": "https://open.spotify.com/track/1BgXNabnEjcbCocOJnpGSu"
+    },
     {
       "added_at": "2025-03-27 00:43:38",
       "album": {

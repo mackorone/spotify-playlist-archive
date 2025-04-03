@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: Uwade
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Rachel Bobbitt
 
-1,605 songs - 3 day 23 hr 42 min
+1,612 songs - 4 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Chapters](https://open.spotify.com/track/0pKGktONBSFB7faPMXMcXf) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Chapters](https://open.spotify.com/album/266ym29rkt2PNY7rA3BSQs) | 3:14 | 2023-08-30 | 2023-11-11 |
 | [Chardonnay](https://open.spotify.com/track/35XWfqYojCyXpNEeB5TbId) | [The Namby Pamby](https://open.spotify.com/artist/0bX0QBtGt7PyHCEdZad1Sz) | [Marketplace](https://open.spotify.com/album/4FhY7u29l7rxgK1jUvBwib) | 3:08 | 2022-11-23 | 2024-01-11 |
 | [Chet Baker](https://open.spotify.com/track/6tm5Zn7g9c1jJjjHqZEFvw) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Chet Baker](https://open.spotify.com/album/5nX1kv8aXXyNYNeeLbqmjX) | 4:21 | 2023-02-15 | 2023-03-30 |
+| [Chinatown](https://open.spotify.com/track/4pP71WCpN3S1QQzenhQuzK) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [Chinatown](https://open.spotify.com/album/6JMB9OIe8MmQQEmy4eW37o) | 4:01 | 2025-04-02 |  |
 | [Chloe](https://open.spotify.com/track/00N1bt6M23xVek6x28qPMq) | [Rossa Murray & the blowin' winds](https://open.spotify.com/artist/4M0FHorc9Coefb8RhmOey7) | [Chloe](https://open.spotify.com/album/1qn7pFUKW2bl9cYF1oV5gD) | 4:40 | 2022-05-25 | 2022-08-25 |
 | [Chlorine](https://open.spotify.com/track/5CXuuQf9yNf6EbPKwtD6hu) | [Jean Ryden](https://open.spotify.com/artist/6ZvIGv5XREa8Vo3VnvmYL5) | [Chlorine](https://open.spotify.com/album/2RLot6S6zqLl3mc87wWgRn) | 2:16 | 2023-07-12 | 2023-09-15 |
 | [Choose](https://open.spotify.com/track/0ALBvFlwYodhGu6COmVspJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Choose](https://open.spotify.com/album/5uXVaWOm6gjQLj4KQL3Cyc) | 2:50 | 2023-04-20 | 2023-06-08 |
@@ -364,6 +365,7 @@
 | [Demons](https://open.spotify.com/track/7pbcnvtJd5xKgYil9gRf6Z) | [Nap Eyes](https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7) | [Demons](https://open.spotify.com/album/5lZbk8VSLTxuaE2itouQVC) | 6:36 | 2024-06-19 | 2024-09-12 |
 | [Deny Me](https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Deny Me](https://open.spotify.com/album/4603uGOYACGfWZho5limbs) | 5:07 | 2022-11-09 | 2022-12-01 |
 | [departure hall](https://open.spotify.com/track/5RhlpOZGOsOnzVEZLmjWZG) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [departure hall](https://open.spotify.com/album/0YgBekUUGHVNTuOJayZl4t) | 3:47 | 2022-05-25 | 2022-08-04 |
+| [departure time](https://open.spotify.com/track/5lwdrVvj3pjXyoiaifx7Pn) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [departure time](https://open.spotify.com/album/4965cFIF0z594PyvYPIXyv) | 3:50 | 2025-04-02 |  |
 | [Devil on the Dresser](https://open.spotify.com/track/5q01RMBLUJkQrHKAoQacek) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Deep Sleeper](https://open.spotify.com/album/0ZzHsXQH3iXMEawIaXw4zm) | 3:20 | 2024-05-08 | 2024-07-18 |
 | [Diamonds](https://open.spotify.com/track/5ibRQNS2RMKMu7aX7OzYGv) | [Amanda Fields](https://open.spotify.com/artist/2PnfLtYzDVahZb1FGldOOH) | [What, When and Without](https://open.spotify.com/album/4foD6VsVsEsbGn1faz18KC) | 3:50 | 2023-03-08 | 2023-04-13 |
 | [Diamonds](https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Diamonds](https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM) | 3:52 | 2023-06-02 | 2023-07-27 |
@@ -409,11 +411,13 @@
 | [drowning in your love](https://open.spotify.com/track/4qZGaFDrX4pYMClCGlG5kR) | [Mindboy](https://open.spotify.com/artist/0O81hfxitNZJvLBpyZ1jou) | [drowning in your love](https://open.spotify.com/album/3B0jh24EECOAyAabED5Dkw) | 1:53 | 2023-03-15 | 2023-04-27 |
 | [Drunk Again](https://open.spotify.com/track/1X5neZzSKeILZSfrfDnwSl) | [Boxtrod](https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx) | [Drunk Again](https://open.spotify.com/album/3eA5mXkG8NHiynlR7ZySqv) | 3:19 | 2024-08-07 | 2024-12-05 |
 | [Dry Eyes](https://open.spotify.com/track/08oiePkn271VCiyDDFiAfQ) | [Wim Tapley](https://open.spotify.com/artist/0hBKnsxER0S51JUH21uYLi) | [Dry Eyes](https://open.spotify.com/album/2e0jRpAAEWrK4kVQvVWBst) | 4:29 | 2023-01-18 | 2023-03-09 |
+| [Duel](https://open.spotify.com/track/2BeBp0IazmkqGVc0PxxDye) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Duel](https://open.spotify.com/album/5fi1Z4VzXeNAYg4BxNCWgR) | 2:55 | 2025-04-02 |  |
 | [Dusty](https://open.spotify.com/track/3kavspqVUQ3BzioDJvJW6T) | [Niall Summerton](https://open.spotify.com/artist/2zRvncAdD7Dl1ppBuXC3xv) | [Dusty](https://open.spotify.com/album/3mz5L0uezes0dqCRSAu8zu) | 2:37 | 2022-10-26 | 2022-12-01 |
 | [Dyan](https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 2:38 | 2022-11-30 | 2023-01-12 |
 | [Early Days](https://open.spotify.com/track/1pDjppzeG3220uCiGTwz5C) | [Rogue Valley](https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7) | [Shell Game](https://open.spotify.com/album/0DQhxZFCsR5gfZYDq6mhqQ) | 3:40 | 2023-10-18 | 2023-12-11 |
 | [Early Promise](https://open.spotify.com/track/0O39ah7SfbeDcAM5YeBQLl) | [Family Stereo](https://open.spotify.com/artist/4HUyWDdAowsbbtJQQEn5RT) | [Early Promise](https://open.spotify.com/album/3sxMbcOc1l1c1Ua2f5moes) | 3:03 | 2024-04-03 | 2024-06-06 |
 | [Easier to Run](https://open.spotify.com/track/4qgGTNSyVE3kc4G2yIVKom) | [Libby Rodenbough](https://open.spotify.com/artist/3ZDFswjQ5rBdZcqXGRcTJ7) | [Easier to Run](https://open.spotify.com/album/3QHleFmhPztx32chj1TPr9) | 3:17 | 2023-03-08 | 2023-04-13 |
+| [Easter Island](https://open.spotify.com/track/69u13cqyVRR4vlMkcsT81C) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Easter Island](https://open.spotify.com/album/7pkN6MaALNNnR2edSQwzpS) | 2:47 | 2025-04-02 |  |
 | [Easy Kill](https://open.spotify.com/track/2uvLSa0yqELzhyi5QpTvbJ) | [Salt Water Baby](https://open.spotify.com/artist/2MKCNIDwizYWkhSGwKotAj) | [Easy Kill](https://open.spotify.com/album/5Iw9VIeKWeUUNnnDhfL8k1) | 3:14 | 2023-01-11 | 2023-03-09 |
 | [Easy Street](https://open.spotify.com/track/2gru7tFhiQQ2XHYBZlAus2) | [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E) | [Easy Street](https://open.spotify.com/album/6nFylBBNvvWG6UgpzsKkf3) | 3:39 | 2024-03-27 | 2024-06-06 |
 | [EC](https://open.spotify.com/track/1tcHeyygqS0RkNh6hq6j9W) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 1:53 | 2023-04-12 | 2023-05-11 |
@@ -484,6 +488,7 @@
 | [Favorite Kind of High](https://open.spotify.com/track/556Fu8XOuzSrpZ8Pg6ERTW) | [Sun Child](https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX) | [Favorite Kind of High](https://open.spotify.com/album/0L7jKWeMm89p7p3jqmM0SN) | 3:38 | 2023-04-05 | 2024-01-11 |
 | [favourite](https://open.spotify.com/track/2YN0psh4Z6dyJry641H1J2) | [nicole amoroso](https://open.spotify.com/artist/1YJQ6X2HtbL1xNTfPm0Ft7) | [favourite](https://open.spotify.com/album/2an9vO3qE0VZa1ZQDQUkRh) | 2:48 | 2023-02-01 | 2023-03-23 |
 | [Fear of flying](https://open.spotify.com/track/0segsxWN3hD8MCmfdjipSb) | [Dissimilar South](https://open.spotify.com/artist/6P7ZagxXhdNsDPYFZ4tKKr) | [Tricky Things](https://open.spotify.com/album/5ggWqwML1X6enjuFs9zbLB) | 3:54 | 2022-05-25 | 2022-09-09 |
+| [fear of heights](https://open.spotify.com/track/6d0k9MWSKeYeVF6lVi4YYg) | [Camille Cano](https://open.spotify.com/artist/7nylhQShw6vjJgdpyHa4vY) | [fear of heights](https://open.spotify.com/album/4z7AqNt1U8ixlbidzIGErC) | 2:53 | 2025-04-02 |  |
 | [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 | 2024-05-31 | 2024-07-25 |
 | [Feels Like Falling](https://open.spotify.com/track/7uV8cjskWaXNpe5Umc3Lro) | [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Feels Like Falling](https://open.spotify.com/album/3Ll2u7QAMbgRTd1C05LKmS) | 3:08 | 2023-02-15 | 2023-04-06 |
 | [feels like i'm changing](https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [juliet](https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh) | 2:49 | 2024-09-11 | 2025-01-16 |
@@ -543,6 +548,7 @@
 | [From Nowhere](https://open.spotify.com/track/2LR8l3p4kITNITh11PgxzD) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [From Nowhere](https://open.spotify.com/album/2MhVy3Us4MNPZg8bidrsPV) | 3:07 | 2024-11-20 |  |
 | [From: Your Flower](https://open.spotify.com/track/2tHHtvfSiqPhYOYoFu4Nc9) | [Lilly Myers](https://open.spotify.com/artist/7B2E74uB1zohFyMc02CZOL) | [From: Your Flower](https://open.spotify.com/album/1VVOHDPjCf10wznNUXvFWe) | 3:46 | 2023-03-01 | 2023-04-06 |
 | [Funeral](https://open.spotify.com/track/4DQ66ejPkLZ73qixnY0K8H) | [Tele Novella](https://open.spotify.com/artist/3yxZJMBn5A2OMEGO7Tvg72) | [Poet's Tooth](https://open.spotify.com/album/2onl84mqt63gcfmMeSGZPX) | 3:52 | 2023-10-11 | 2023-12-11 |
+| [Furthest Limb](https://open.spotify.com/track/1uLYk1vhKYC2ArQ7V4V1mg) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Furthest Limb](https://open.spotify.com/album/4q0vKaIfYgf3EIqqRLjd3o) | 3:40 | 2025-04-02 |  |
 | [Game of Chance \(By Another Name\)](https://open.spotify.com/track/6yanRjxcYvnZaCQtvryvDe) | [PM Warson](https://open.spotify.com/artist/7DTApEkTcmjUQlXBfQgNPK) | [Dig Deep Repeat](https://open.spotify.com/album/6NMPRZcCf1jislUlYea6C9) | 3:53 | 2022-05-25 | 2022-08-25 |
 | [garbage truck](https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [talk soon](https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF) | 2:11 | 2022-07-20 | 2023-01-12 |
 | [Garden In The Sky](https://open.spotify.com/track/2DNIxbixiKsHDEll7nBnbD) | [KATYA](https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ) | [Garden In The Sky](https://open.spotify.com/album/2rz4IeiRzPpl9j2U7gtETg) | 3:36 | 2024-03-20 | 2024-05-23 |
@@ -1356,6 +1362,7 @@
 | [Take Hold](https://open.spotify.com/track/54whhMrWnF7wlggVA3o5Z6) | [Wylder](https://open.spotify.com/artist/3NC9z86LKq4XWgrkpGcgJy) | [Take Hold](https://open.spotify.com/album/4t0nbJCVIRUDWCEfYFoEZj) | 3:29 | 2022-05-25 | 2022-07-21 |
 | [Take My Heart](https://open.spotify.com/track/5dfWFfYDxKotlANr4jFaes) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Take My Heart](https://open.spotify.com/album/50vcz0ruVgrmxVAEdxD2vy) | 2:53 | 2023-08-09 | 2023-10-13 |
 | [Take My Heart \(I'll Take Yours Too\)](https://open.spotify.com/track/6Me6CyCLDhQ1gblxeK9RaI) | [The Heavy Hours](https://open.spotify.com/artist/6yleOdwl6VVCt4ZBi7khse) | [Gardens](https://open.spotify.com/album/2pbvUCAkFZISLiNKVByyLy) | 4:56 | 2022-11-30 | 2023-01-12 |
+| [Takes](https://open.spotify.com/track/5FxSwaBgl0oHeGMZoXWW19) | [Jia\*](https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy) | [Yes, No Question \(Deluxe\)](https://open.spotify.com/album/4HXTgf7nZRXoHPXVdRmOI0) | 2:32 | 2025-04-02 |  |
 | [Talamanca](https://open.spotify.com/track/1f2o76aJKHGCeMx5vH7iyP) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:20 | 2022-05-25 | 2023-01-12 |
 | [Tall Boy](https://open.spotify.com/track/7qcJoUaUpoE01mJjWi4U1k) | [Close Talker](https://open.spotify.com/artist/4xyP3FGvSmDPFy9rsOifMh), [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Tall Boy](https://open.spotify.com/album/5A3jNX3ZP3DepmTViId4qj) | 5:14 | 2024-02-28 | 2024-05-09 |
 | [Tangerine](https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Nose Job](https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi) | 4:31 | 2024-05-22 | 2025-01-16 |

@@ -1,13 +1,49 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9698519,
+  "num_followers": 9703974,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z91xegAAAABR+/Rb0/OzZWAtP+uCqVDW",
+  "snapshot_id": "Z+yrCQAAAAD8KWaHz/br1brLL4tBtJcx",
   "tracks": [
+    {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+    },
+    {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "Funk de Beleza",
+        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
+      },
+      "artists": [
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        }
+      ],
+      "duration_ms": 145115,
+      "name": "Funk de Beleza - Slowed",
+      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
+    },
     {
       "added_at": "2024-10-04 13:19:49",
       "album": {
@@ -83,26 +119,6 @@
     {
       "added_at": "2025-02-28 15:27:21",
       "album": {
-        "name": "Funk de Beleza",
-        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
-      },
-      "artists": [
-        {
-          "name": "Nateki",
-          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
-        },
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        }
-      ],
-      "duration_ms": 145115,
-      "name": "Funk de Beleza - Slowed",
-      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
-    },
-    {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
         "name": "MTG - RITMO ZELDA",
         "url": "https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
-    },
-    {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "PASSO BEM SOLTO",
-        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
-      },
-      "artists": [
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        }
-      ],
-      "duration_ms": 116072,
-      "name": "PASSO BEM SOLTO - Slowed",
-      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
       "added_at": "2024-07-12 15:05:31",
@@ -243,6 +243,30 @@
       "duration_ms": 165107,
       "name": "Slide da Treme Mel\u00f3dica v2",
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
+    },
+    {
+      "added_at": "2025-03-21 14:02:34",
+      "album": {
+        "name": "MONTAGEM LADRAO",
+        "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        },
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        },
+        {
+          "name": "Itamar Mc",
+          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+        }
+      ],
+      "duration_ms": 75240,
+      "name": "MONTAGEM LADRAO",
+      "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
     },
     {
       "added_at": "2024-05-17 14:03:55",
@@ -333,36 +357,20 @@
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
-      "added_at": "2024-10-25 15:19:02",
+      "added_at": "2025-02-28 15:27:21",
       "album": {
-        "name": "UH VEI VEI",
-        "url": "https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y"
+        "name": "BOUNCE FUNK",
+        "url": "https://open.spotify.com/album/3lBDDIwmkYQiPwbCdbokle"
       },
       "artists": [
         {
-          "name": "KREZUS",
-          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+          "name": "SAPFIR",
+          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
         }
       ],
-      "duration_ms": 90461,
-      "name": "UH VEI VEI",
-      "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
-    },
-    {
-      "added_at": "2023-12-01 14:11:37",
-      "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+      "duration_ms": 81290,
+      "name": "BOUNCE FUNK",
+      "url": "https://open.spotify.com/track/0TimfLIiUYUoDg0pwkoAMS"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -379,6 +387,22 @@
       "duration_ms": 88629,
       "name": "Not My Problem Funk",
       "url": "https://open.spotify.com/track/3Vn1b7EolQzTqoJCCEnS3Q"
+    },
+    {
+      "added_at": "2024-10-25 15:19:02",
+      "album": {
+        "name": "UH VEI VEI",
+        "url": "https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y"
+      },
+      "artists": [
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "UH VEI VEI",
+      "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
     },
     {
       "added_at": "2024-10-25 14:00:00",
@@ -415,6 +439,42 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2025-04-02 03:12:09",
+      "album": {
+        "name": "REAL MOONSHINE FUNK",
+        "url": "https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D"
+      },
+      "artists": [
+        {
+          "name": "DJ ROBE",
+          "url": "https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP"
+        },
+        {
+          "name": "TRXSHBXY",
+          "url": "https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ"
+        }
+      ],
+      "duration_ms": 94299,
+      "name": "REAL MOONSHINE FUNK - Super Slowed",
+      "url": "https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO"
+    },
+    {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2025-01-17 15:31:38",
@@ -645,28 +705,20 @@
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
     },
     {
-      "added_at": "2025-03-21 14:02:34",
+      "added_at": "2025-04-02 03:12:09",
       "album": {
-        "name": "MONTAGEM LADRAO",
-        "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
       },
       "artists": [
         {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        },
-        {
           "name": "MXZI",
           "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        },
-        {
-          "name": "Itamar Mc",
-          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
         }
       ],
-      "duration_ms": 75240,
-      "name": "MONTAGEM LADRAO",
-      "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
+      "duration_ms": 71392,
+      "name": "MONTAGEM TOMADA",
+      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -687,30 +739,6 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
-    },
-    {
-      "added_at": "2024-12-13 05:45:00",
-      "album": {
-        "name": "EVOLUTION FUNK VOL. I",
-        "url": "https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp"
-      },
-      "artists": [
-        {
-          "name": "satirin",
-          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
-        },
-        {
-          "name": "FUNK DEMON",
-          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
-        },
-        {
-          "name": "EVO",
-          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
-        }
-      ],
-      "duration_ms": 144437,
-      "name": "MATUSHKA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
     },
     {
       "added_at": "2023-10-06 14:17:07",
@@ -743,22 +771,6 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
-    },
-    {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "BOUNCE FUNK",
-        "url": "https://open.spotify.com/album/3lBDDIwmkYQiPwbCdbokle"
-      },
-      "artists": [
-        {
-          "name": "SAPFIR",
-          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
-        }
-      ],
-      "duration_ms": 81290,
-      "name": "BOUNCE FUNK",
-      "url": "https://open.spotify.com/track/0TimfLIiUYUoDg0pwkoAMS"
     },
     {
       "added_at": "2024-12-13 05:45:00",
@@ -821,6 +833,30 @@
       "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
     },
     {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "EVOLUTION FUNK VOL. I",
+        "url": "https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        },
+        {
+          "name": "FUNK DEMON",
+          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "duration_ms": 144437,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
+    },
+    {
       "added_at": "2022-06-10 07:37:37",
       "album": {
         "name": "NEON BLADE",
@@ -851,26 +887,6 @@
       "duration_ms": 114951,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
-    },
-    {
-      "added_at": "2024-12-13 05:45:00",
-      "album": {
-        "name": "ACIDO",
-        "url": "https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee"
-      },
-      "artists": [
-        {
-          "name": "UdieNnx",
-          "url": "https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 75697,
-      "name": "ACIDO",
-      "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
     },
     {
       "added_at": "2023-09-15 14:15:29",
@@ -927,6 +943,26 @@
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "ACIDO",
+        "url": "https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee"
+      },
+      "artists": [
+        {
+          "name": "UdieNnx",
+          "url": "https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 75697,
+      "name": "ACIDO",
+      "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
     },
     {
       "added_at": "2022-12-30 05:01:00",
@@ -1023,34 +1059,6 @@
       "duration_ms": 199450,
       "name": "AVANGARD - Slowed",
       "url": "https://open.spotify.com/track/36KN8cwJgQmIOYaUS0Lvvu"
-    },
-    {
-      "added_at": "2023-05-05 15:57:14",
-      "album": {
-        "name": "Life in Rio",
-        "url": "https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "NUEKI",
-          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
-        },
-        {
-          "name": "Crazy Mano",
-          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
-        },
-        {
-          "name": "TOLCHONOV",
-          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
-        }
-      ],
-      "duration_ms": 94418,
-      "name": "Life in Rio",
-      "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
     },
     {
       "added_at": "2022-10-14 08:20:18",
@@ -1189,22 +1197,6 @@
       "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
     },
     {
-      "added_at": "2023-02-10 16:54:18",
-      "album": {
-        "name": "RAPTURE",
-        "url": "https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 164577,
-      "name": "RAPTURE",
-      "url": "https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"
-    },
-    {
       "added_at": "2023-06-09 13:51:36",
       "album": {
         "name": "FRESH",
@@ -1275,6 +1267,34 @@
       "duration_ms": 78710,
       "name": "Turu R9 - Slowed",
       "url": "https://open.spotify.com/track/4aMdNP3vuboq7t8BPZ4rE1"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "Life in Rio",
+        "url": "https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        }
+      ],
+      "duration_ms": 94418,
+      "name": "Life in Rio",
+      "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
     },
     {
       "added_at": "2023-08-18 14:41:07",
@@ -1761,22 +1781,6 @@
       "url": "https://open.spotify.com/track/55o52oV9jNgEJDDrQsaky1"
     },
     {
-      "added_at": "2023-06-16 13:47:05",
-      "album": {
-        "name": "REI DO BRASIL",
-        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
-      },
-      "artists": [
-        {
-          "name": "Seek",
-          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
-        }
-      ],
-      "duration_ms": 97846,
-      "name": "REI DO BRASIL",
-      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
-    },
-    {
       "added_at": "2025-02-14 15:00:38",
       "album": {
         "name": "ECOS DO ABISMO",
@@ -1811,30 +1815,6 @@
       "duration_ms": 109668,
       "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
       "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
-    },
-    {
-      "added_at": "2024-09-20 15:04:16",
-      "album": {
-        "name": "KRUSHKRUSH!",
-        "url": "https://open.spotify.com/album/4vCqBNdvoJ3plUj2mqonx6"
-      },
-      "artists": [
-        {
-          "name": "Hussain Ali",
-          "url": "https://open.spotify.com/artist/6jisxxsMSH9OExkRD3YkwG"
-        },
-        {
-          "name": "CXRRUPTION",
-          "url": "https://open.spotify.com/artist/1DB5pMW7dF7wlBy15XhOoE"
-        },
-        {
-          "name": "DJ Agi",
-          "url": "https://open.spotify.com/artist/0SxD3ZSoGheh1nhp98gzEh"
-        }
-      ],
-      "duration_ms": 66798,
-      "name": "KRUSHKRUSH!",
-      "url": "https://open.spotify.com/track/53Bs51qBpjJscUEQbmn9gk"
     },
     {
       "added_at": "2024-09-06 15:23:15",
@@ -1907,6 +1887,22 @@
       "duration_ms": 114593,
       "name": "The Automotivo Infernal 1.0 - Purple",
       "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
+    },
+    {
+      "added_at": "2023-06-16 13:47:05",
+      "album": {
+        "name": "REI DO BRASIL",
+        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        }
+      ],
+      "duration_ms": 97846,
+      "name": "REI DO BRASIL",
+      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
     }
   ],
   "unique_name": "phonk",

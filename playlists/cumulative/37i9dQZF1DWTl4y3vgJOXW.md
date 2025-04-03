@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Ja Morant and Steph Curry
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry
 
 796 songs - 1 day 17 hr 0 min
 

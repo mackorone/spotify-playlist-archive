@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-856 songs - 1 day 12 hr 56 min
+857 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Fortnight ago](https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fortnight ago](https://open.spotify.com/album/2pDbN5sRfuZUA7W7gCAciD) | 2:03 | 2023-05-12 |  |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-05-26 |  |
 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 | 2024-05-24 | 2025-03-11 |
+| [Fulfilled](https://open.spotify.com/track/5bDTr8O5GBM8zhrLZidCL5) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Fulfilled](https://open.spotify.com/album/7CzUiAzMrlFzPGrZ9EDcBL) | 2:47 | 2025-04-02 |  |
 | [Full Of Life](https://open.spotify.com/track/3J27JxJCR0M6KgacpLfVAC) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Full Of Life](https://open.spotify.com/album/2TNQtjdGUSaiq5FIA2ZL1p) | 2:23 | 2024-11-06 |  |
 | [Gabriel's Oboe](https://open.spotify.com/track/6DFN75dhFdP6DAoN825wnA) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm) | [Once Upon A Time \(Great Movie Melodies by Ennio Morricone\)](https://open.spotify.com/album/3oAzWbsDHCeNDd4GlBzusG) | 2:59 | 2022-06-03 | 2022-06-17 |
 | [Galtymore](https://open.spotify.com/track/4NkVCOn4HmV6EvxIpAjInt) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Galtymore](https://open.spotify.com/album/52jTyKeU3kMpaUYrOyHaW2) | 1:57 | 2022-03-18 | 2023-08-19 |
@@ -849,7 +850,7 @@
 | [Winter In Tarifa](https://open.spotify.com/track/1sgGFGC1iftGshE6fH03yL) | [Álvaro Mondo Fernández](https://open.spotify.com/artist/2V18SFrY5UqNXeFLJZlYX9) | [Winter In Tarifa](https://open.spotify.com/album/52S7cB4WieRJMibAj4w2Cv) | 2:05 | 2022-10-28 | 2023-05-13 |
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-03-10 |  |
 | [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-01-13 | 2024-09-04 |
-| [Wishes](https://open.spotify.com/track/7EK4UOqDPX6BJa2RkrtA1X) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Wishes](https://open.spotify.com/album/6pXAbcUwXLaSvR8ge32fGv) | 3:09 | 2024-06-07 |  |
+| [Wishes](https://open.spotify.com/track/7EK4UOqDPX6BJa2RkrtA1X) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Wishes](https://open.spotify.com/album/6pXAbcUwXLaSvR8ge32fGv) | 3:09 | 2024-06-07 | 2025-04-03 |
 | [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-01-13 | 2023-09-08 |
 | [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2022-07-01 | 2024-06-08 |
 | [Wistful Night](https://open.spotify.com/track/2UkU2CEKN1Td4C9F9hpmXQ) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Wistful Night](https://open.spotify.com/album/0xulObkLw0qNGAxzwDkjeg) | 3:02 | 2024-08-13 |  |

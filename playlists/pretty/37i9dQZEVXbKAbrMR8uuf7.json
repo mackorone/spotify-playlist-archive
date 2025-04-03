@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
-  "num_followers": 155075,
+  "num_followers": 155083,
   "original_name": "Top 50 - Dominican Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L39WoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L4CoIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "La Nena",
+        "url": "https://open.spotify.com/album/65MahQD30Fr4WuANjeBQs5"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "La Nena",
+      "url": "https://open.spotify.com/track/4aR1PWvBRZTJ417mf8Eib3"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Las Solteras",
         "url": "https://open.spotify.com/album/4jbSb5IgmGmIH0cO9KLprF"
@@ -45,83 +61,7 @@
       "url": "https://open.spotify.com/track/0uCxwSSsVIva5pYUoninV7"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 235336,
-      "name": "VeLD\u00c1",
-      "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "mi refe",
-        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 159404,
-      "name": "mi refe",
-      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "sobelove",
-        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 131827,
-      "name": "sobelove",
-      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "OTRO SISTEMA",
         "url": "https://open.spotify.com/album/3CXBq0m4ywCu5JS5I9vlL0"
@@ -141,7 +81,23 @@
       "url": "https://open.spotify.com/track/6Z3FEo2Q2rF6CwWXl3iCAJ"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -165,7 +121,83 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 235336,
+      "name": "VeLD\u00c1",
+      "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "mi refe",
+        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 159404,
+      "name": "mi refe",
+      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "PA QUE LO BAILES (BAILALO ROCKY)",
+        "url": "https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 125548,
+      "name": "PA QUE LO BAILES (BAILALO ROCKY)",
+      "url": "https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Glizzy Zaza",
         "url": "https://open.spotify.com/album/4pycmaHLYMKIgSzYiFEHzY"
@@ -189,7 +221,39 @@
       "url": "https://open.spotify.com/track/6oRMg2IUaM9Ussg6pS30la"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "L NAMA",
         "url": "https://open.spotify.com/album/6yHoEYxfnkRej1t54zCs2P"
@@ -213,39 +277,7 @@
       "url": "https://open.spotify.com/track/4P49dOJLCHJh0HPYorW5IF"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -261,27 +293,23 @@
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "PARTY",
-        "url": "https://open.spotify.com/album/7b2cwa7xyN8K9ZNBieSChT"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/08PygRV72H6UbPziPxf941"
       },
       "artists": [
         {
-          "name": "Royal X",
-          "url": "https://open.spotify.com/artist/7CeWU6iooJWfNWrYfP41Na"
-        },
-        {
-          "name": "B One El Productor De Oro",
-          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+          "name": "Yari M",
+          "url": "https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf"
         }
       ],
-      "duration_ms": 107841,
-      "name": "PARTY",
-      "url": "https://open.spotify.com/track/32gDR83eto3QEdBJHPJaEq"
+      "duration_ms": 158372,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/0Mv8tLl5YjMCu3JUY7yxsv"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "De Regalo",
         "url": "https://open.spotify.com/album/7xxsYX2wlWpNkKeIZvcpbg"
@@ -305,23 +333,55 @@
       "url": "https://open.spotify.com/track/1ILjmBTvFF3ExlByvAycOZ"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "PA QUE LO BAILES (BAILALO ROCKY)",
-        "url": "https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 125548,
-      "name": "PA QUE LO BAILES (BAILALO ROCKY)",
-      "url": "https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B"
+      "duration_ms": 156364,
+      "name": "VOY A LLeVARTE PA PR",
+      "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "KLOuFRENS",
+      "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "Lil Naay Pa Tripea",
+        "url": "https://open.spotify.com/album/24y5GSGg8u1t9o7TCyUsZZ"
+      },
+      "artists": [
+        {
+          "name": "Lillmusic.in",
+          "url": "https://open.spotify.com/artist/3UdYS3dXLszm1tb2IlvHtk"
+        }
+      ],
+      "duration_ms": 133770,
+      "name": "Lil Naay Pa Tripea",
+      "url": "https://open.spotify.com/track/20VrNT97LUbZ5Hor3J4UhU"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "DE LA CALLE",
         "url": "https://open.spotify.com/album/5s3leJRV7x2JmTYpftMSlT"
@@ -349,95 +409,27 @@
       "url": "https://open.spotify.com/track/4kTcJQj1drXzf0pkylO4AJ"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 156364,
-      "name": "VOY A LLeVARTE PA PR",
-      "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "KLOuFRENS",
-      "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
         },
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 170365,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "Lil Naay Pa Tripea",
-        "url": "https://open.spotify.com/album/24y5GSGg8u1t9o7TCyUsZZ"
-      },
-      "artists": [
-        {
-          "name": "Lillmusic.in",
-          "url": "https://open.spotify.com/artist/3UdYS3dXLszm1tb2IlvHtk"
-        }
-      ],
-      "duration_ms": 133770,
-      "name": "Lil Naay Pa Tripea",
-      "url": "https://open.spotify.com/track/20VrNT97LUbZ5Hor3J4UhU"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6hhPKXYczOspHXHXsuWgSX"
-      },
-      "artists": [
-        {
-          "name": "Little Homie",
-          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
-        },
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 153837,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/4EmOvfpI6RsyNk4qRGVZxJ"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "A 200",
         "url": "https://open.spotify.com/album/4dgrkQvkwZiqgQfkHpoUSY"
@@ -465,63 +457,83 @@
       "url": "https://open.spotify.com/track/4fk9Ufhqn1jllnTSddki62"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6hhPKXYczOspHXHXsuWgSX"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
         },
         {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
         }
       ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+      "duration_ms": 153837,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4EmOvfpI6RsyNk4qRGVZxJ"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 191018,
-      "name": "Qu\u00e9 Pasar\u00eda...",
-      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "frente al mar",
-        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+        "name": "Juguete",
+        "url": "https://open.spotify.com/album/4DPeS9ttivsTffSYPmBLGv"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
         }
       ],
-      "duration_ms": 165178,
-      "name": "frente al mar",
-      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
+      "duration_ms": 169411,
+      "name": "Juguete",
+      "url": "https://open.spotify.com/track/3vuElNsrvp6f7XzrF6HqyT"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fKcb9qZKVT1OCNPAF06lJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "duration_ms": 105116,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/63eveao20g2PIDRXVIeF7e"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
@@ -541,23 +553,59 @@
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fKcb9qZKVT1OCNPAF06lJ"
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
       "artists": [
         {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 105116,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/63eveao20g2PIDRXVIeF7e"
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "frente al mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 165178,
+      "name": "frente al mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "Fundien con nosotros",
+        "url": "https://open.spotify.com/album/74Hoc1gy76FmIS0Jw5H3qm"
+      },
+      "artists": [
+        {
+          "name": "OSII",
+          "url": "https://open.spotify.com/artist/2TqO6dFhLYkcbFfc6PWLkg"
+        }
+      ],
+      "duration_ms": 132941,
+      "name": "Fundien con nosotros",
+      "url": "https://open.spotify.com/track/5D2tI6AklNQHcgZEs2OTby"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
@@ -577,7 +625,31 @@
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 232149,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Solcito",
         "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
@@ -597,43 +669,7 @@
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "Eso E Eso",
-        "url": "https://open.spotify.com/album/73BeExpT5QHGLFJM17Rcxq"
-      },
-      "artists": [
-        {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
-        },
-        {
-          "name": "Shadow Blow",
-          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
-        }
-      ],
-      "duration_ms": 113125,
-      "name": "Eso E Eso",
-      "url": "https://open.spotify.com/track/1N7DEhFD6dPSPyOqwTdJnU"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "La Nena",
-        "url": "https://open.spotify.com/album/65MahQD30Fr4WuANjeBQs5"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "La Nena",
-      "url": "https://open.spotify.com/track/4aR1PWvBRZTJ417mf8Eib3"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
@@ -653,43 +689,35 @@
       "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "WOAHH (feat. Clarent)",
+        "url": "https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
-        }
-      ],
-      "duration_ms": 187507,
-      "name": "WELTiTA",
-      "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "Baby Supreme",
-        "url": "https://open.spotify.com/album/09Hq70Db0Sl2vNyRcusPtG"
-      },
-      "artists": [
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
         {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Baby Supreme",
-      "url": "https://open.spotify.com/track/1YmiIGgmqWApEBLS1KT5ek"
+      "duration_ms": 259333,
+      "name": "WOAHH (feat. Clarent)",
+      "url": "https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Private Suite (Vol. 2)",
         "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
@@ -721,7 +749,51 @@
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "WELTiTA",
+      "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/13SsnfFMRGxrPeOQkUeRqP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "duration_ms": 138515,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3oN3f5utpgU6XxKTg4MmDs"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Private Suite (Vol. 2)",
         "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
@@ -737,35 +809,23 @@
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "WOAHH (feat. Clarent)",
-        "url": "https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M"
+        "name": "H.I.M.",
+        "url": "https://open.spotify.com/album/6ZQICkkwdOzHuS8OHYIGxF"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 259333,
-      "name": "WOAHH (feat. Clarent)",
-      "url": "https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm"
+      "duration_ms": 130459,
+      "name": "H.I.M.",
+      "url": "https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "PPC",
         "url": "https://open.spotify.com/album/4V5HyefyVSF15kOhuy11up"
@@ -785,7 +845,27 @@
       "url": "https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "Eso E Eso",
+        "url": "https://open.spotify.com/album/73BeExpT5QHGLFJM17Rcxq"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        },
+        {
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+        }
+      ],
+      "duration_ms": 113125,
+      "name": "Eso E Eso",
+      "url": "https://open.spotify.com/track/1N7DEhFD6dPSPyOqwTdJnU"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "La Patrulla",
         "url": "https://open.spotify.com/album/4iPUAL1LLPnd3jTjn3PbWn"
@@ -813,7 +893,23 @@
       "url": "https://open.spotify.com/track/6Q3f0PpLowVMddWQfF0TlA"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 137191,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Bala",
         "url": "https://open.spotify.com/album/1HibTEnRacx8M6wPy9eMDL"
@@ -833,43 +929,7 @@
       "url": "https://open.spotify.com/track/1om4NP5OCxtkFq8rdRcXNl"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222568,
-      "name": "EL CL\u00faB",
-      "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "PANTI",
-        "url": "https://open.spotify.com/album/3e2XuMqaMvLP3qIGU7Ha3y"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        },
-        {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
-        }
-      ],
-      "duration_ms": 167852,
-      "name": "PANTI",
-      "url": "https://open.spotify.com/track/1BNzMJ3cpGleoMeDsSZ6p2"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "Priti",
         "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
@@ -889,67 +949,27 @@
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "Juguete",
-        "url": "https://open.spotify.com/album/4DPeS9ttivsTffSYPmBLGv"
+        "name": "PANTI",
+        "url": "https://open.spotify.com/album/3e2XuMqaMvLP3qIGU7Ha3y"
       },
       "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        },
         {
           "name": "Amenazzy",
           "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Juguete",
-      "url": "https://open.spotify.com/track/3vuElNsrvp6f7XzrF6HqyT"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "GIRASOLES",
-        "url": "https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
         }
       ],
-      "duration_ms": 275121,
-      "name": "Nota",
-      "url": "https://open.spotify.com/track/3HPaGfBzwJGMKv6fPxWgPi"
+      "duration_ms": 167852,
+      "name": "PANTI",
+      "url": "https://open.spotify.com/track/1BNzMJ3cpGleoMeDsSZ6p2"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "Silla",
-        "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
-      },
-      "artists": [
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
-        }
-      ],
-      "duration_ms": 141355,
-      "name": "Silla",
-      "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
@@ -969,56 +989,48 @@
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
-      "added_at": "2025-04-01 13:33:03",
+      "added_at": "2025-04-02 13:40:36",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/6cEDQDne0kL7kW8KP2LiYc"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "111",
-      "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "En Honor Al Que Ama",
-        "url": "https://open.spotify.com/album/5Fto1VFi4UvBlM5GJcdHYy"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 164794,
-      "name": "Pr\u00e9stame",
-      "url": "https://open.spotify.com/track/6u3u92DhUeTXr3zomJyfjL"
-    },
-    {
-      "added_at": "2025-04-01 13:33:03",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Flamen Beretta",
+          "url": "https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE"
         },
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
         }
       ],
-      "duration_ms": 200680,
-      "name": "PERFuMITO NUEVO",
-      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
+      "duration_ms": 188969,
+      "name": "Leyenda",
+      "url": "https://open.spotify.com/track/3CiLKA28ADlogEKaUOmPRX"
+    },
+    {
+      "added_at": "2025-04-02 13:40:36",
+      "album": {
+        "name": "Baby Supreme",
+        "url": "https://open.spotify.com/album/09Hq70Db0Sl2vNyRcusPtG"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Baby Supreme",
+      "url": "https://open.spotify.com/track/1YmiIGgmqWApEBLS1KT5ek"
     }
   ],
   "unique_name": "Top 50 - Dominican Republic",

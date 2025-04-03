@@ -2,7 +2,7 @@
 
 ### [Bridgerton Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5Hl0iWtr5b3)
 
-> Even a wallflower can bloom...Listen to the music from Bridgerton, new season now streaming on Netflix.
+> Even a wallflower can bloom...Listen to the music from Bridgerton.
 
 111 songs - 5 hr 47 min
 

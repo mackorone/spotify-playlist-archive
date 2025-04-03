@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 162570,
       "name": "Elise's Autumn",
       "url": "https://open.spotify.com/track/03sZBPPuTTAYBvGv2jWw6L"
@@ -4207,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "Once Upon a Summer",
+        "url": "https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177358,
+      "name": "Once Upon a Summer",
+      "url": "https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97"
+    },
+    {
+      "album": {
         "name": "One Step Forward",
         "url": "https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e"
       },
@@ -6238,6 +6256,24 @@
       "duration_ms": 50014,
       "name": "Twins",
       "url": "https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA"
+    },
+    {
+      "album": {
+        "name": "Unanchored",
+        "url": "https://open.spotify.com/album/5kR8Q9cvTarslNQpAw8ayJ"
+      },
+      "artists": [
+        {
+          "name": "Julian Rivers",
+          "url": "https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155386,
+      "name": "Unanchored",
+      "url": "https://open.spotify.com/track/163bwlnpGFSj3TCCFk2rT1"
     },
     {
       "album": {

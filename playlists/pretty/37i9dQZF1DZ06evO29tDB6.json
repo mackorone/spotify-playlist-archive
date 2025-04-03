@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 139751,
+  "num_followers": 139796,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAABEuK9uBr5CkkNl861nQbWJ",
+  "snapshot_id": "Z+ssgAAAAADKOP/+fDSWWJuGWwaFFWz0",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 224906,
       "name": "Sara",
       "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 283906,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dama De Los Callejones",
-        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Dama De Los Callejones",
-      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 203573,
       "name": "Triste canci\u00f3n de amor (con El Tri)",
       "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dama De Los Callejones",
+        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 190093,
+      "name": "Dama De Los Callejones",
+      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 7 hr 58 min
+153 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Feels Like Home](https://open.spotify.com/track/0Y1HzOAyIj8O6N3lnKmi2l) | [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Feels Like Home](https://open.spotify.com/album/31QEjfkSaLZPHpchsT997H) | 4:07 | 2022-05-25 |  |
 | [Fever](https://open.spotify.com/track/3QlC75jqpGZSpIi2xM0mfl) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Fever](https://open.spotify.com/album/2HEnmzQD2rjlbGzFnMhbxO) | 2:09 | 2023-12-13 |  |
 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 | 2022-05-25 |  |
-| [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 | 2022-09-03 |  |
+| [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 | 2022-09-03 | 2025-04-03 |
+| [Funeral](https://open.spotify.com/track/5OnpQJvF3btoiNmupKRTR0) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:26 | 2025-04-02 |  |
 | [Get It Right](https://open.spotify.com/track/3Thw5feG3I2MP5TrToBcPU) | [HANNIE](https://open.spotify.com/artist/7vp58vF08Hg9TbDrYH2nAh) | [Get It Right](https://open.spotify.com/album/54oz9xG2H5FgYci2I8RQnK) | 2:54 | 2022-12-12 |  |
 | [Give and Take](https://open.spotify.com/track/0ZmaOPRpl5f0zCseXw6Ppo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK) | 2:45 | 2024-11-11 | 2025-01-10 |
 | [Give and Take](https://open.spotify.com/track/4o1XGDEeTSjCHDwk2WOVqY) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Give And Take](https://open.spotify.com/album/1uOPjG1f6x1vEh8SQHQ8XS) | 2:45 | 2024-08-03 | 2024-11-11 |
@@ -115,7 +116,8 @@
 | [React](https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq) | 3:24 | 2022-05-25 | 2022-10-14 |
 | [React](https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz) | 3:24 | 2023-04-17 |  |
 | [React](https://open.spotify.com/track/2KHWuIEL5peYokB3HoLY4m) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/1kApiZqAxZ1xwJQNwwyl7T) | 3:24 | 2022-10-13 | 2023-04-18 |
-| [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 | 2022-07-24 |  |
+| [Rothko](https://open.spotify.com/track/07gbs1Gb4Lu3swfgPzYLBk) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 2:58 | 2025-04-02 |  |
+| [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 | 2022-07-24 | 2025-04-03 |
 | [Rotten Peaches](https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:20 | 2024-09-29 |  |
 | [Run to You \(feat\. Grace Ackerman\)](https://open.spotify.com/track/4PNuUWj7DOnkz6VvegoOjG) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run to You \(feat\. Grace Ackerman\)](https://open.spotify.com/album/7phKRhiBZZzaif1y1ldZEb) | 2:59 | 2022-05-25 |  |
 | [Running](https://open.spotify.com/track/2uIqAH4YQ7oD8rPVujlTZf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Animosity](https://open.spotify.com/album/7wrg3K3lEMEXcIovV4OYB6) | 2:53 | 2022-05-25 |  |

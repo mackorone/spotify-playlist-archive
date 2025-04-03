@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa J.Karjalainen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,047 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,048 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 2 | [Aamuihmiset](https://open.spotify.com/track/6ZaEw9vOMaKvg3WYkDQHOu) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Suomalaista muotoiluu](https://open.spotify.com/album/75be1pSUYClB92gUh4E9Ar) | 3:14 |
 | 3 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
 | 4 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
-| 5 | [Sun Silmistä Aurinko Nousee](https://open.spotify.com/track/2x9WxOczWrn52S5vrn9dHO) | [Max Olavi & Elävät Kuvat](https://open.spotify.com/artist/280wSk35Poeg85y2oxb5xe), [Jepa Lambert](https://open.spotify.com/artist/0x2sRpqcE6H2nZeYT6Gb1w) | [Sun Silmistä Aurinko Nousee](https://open.spotify.com/album/5GKYWz1g4HXTsBFWv8lv1e) | 3:32 |
-| 6 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
-| 7 | [Kauan eläköön rakkaus](https://open.spotify.com/track/7xFKbIs8CD0tyeOMjD7zg9) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Kauan eläköön rakkaus](https://open.spotify.com/album/3zxo9n3JW093mTb5FkwXRD) | 3:06 |
-| 8 | [Jyväskylä Skyline](https://open.spotify.com/track/3AWBu6hGvJCeZFIVXlvtKa) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Jyväskylä Skyline](https://open.spotify.com/album/67APCrt7mapUnBNMswBIDU) | 3:51 |
-| 9 | [Viimeiseen asti](https://open.spotify.com/track/1EVJeUT6GhtSm6tHTFRnMA) | [CVPRI](https://open.spotify.com/artist/3dsY7ij3CllLbA9KgCB4iz) | [Viimeiseen asti](https://open.spotify.com/album/2kbw6137jLSBvg3fyxcvrC) | 4:04 |
-| 10 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 |
-| 11 | [Sä et pala](https://open.spotify.com/track/5ncn9IqY3gAMuDc3Rr3iJU) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Sä et pala](https://open.spotify.com/album/1rc7FiJRhA4SPwUKvVTLcN) | 2:34 |
-| 12 | [Kevään valo](https://open.spotify.com/track/6sGjjjmN08ipX3ga90GrNX) | [Marko Haavisto & Poutahaukat](https://open.spotify.com/artist/4Rk9sQrI4C6qnkJHBDpm2F) | [Kevään valo](https://open.spotify.com/album/47AV1ZDXS2UAUt2Eb2BQJ1) | 3:04 |
+| 5 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
+| 6 | [Viimeiseen asti](https://open.spotify.com/track/1EVJeUT6GhtSm6tHTFRnMA) | [CVPRI](https://open.spotify.com/artist/3dsY7ij3CllLbA9KgCB4iz) | [Viimeiseen asti](https://open.spotify.com/album/2kbw6137jLSBvg3fyxcvrC) | 4:04 |
+| 7 | [Sun Silmistä Aurinko Nousee](https://open.spotify.com/track/2x9WxOczWrn52S5vrn9dHO) | [Max Olavi & Elävät Kuvat](https://open.spotify.com/artist/280wSk35Poeg85y2oxb5xe), [Jepa Lambert](https://open.spotify.com/artist/0x2sRpqcE6H2nZeYT6Gb1w) | [Sun Silmistä Aurinko Nousee](https://open.spotify.com/album/5GKYWz1g4HXTsBFWv8lv1e) | 3:32 |
+| 8 | [Kauan eläköön rakkaus](https://open.spotify.com/track/7xFKbIs8CD0tyeOMjD7zg9) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Kauan eläköön rakkaus](https://open.spotify.com/album/3zxo9n3JW093mTb5FkwXRD) | 3:06 |
+| 9 | [Kevään valo](https://open.spotify.com/track/6sGjjjmN08ipX3ga90GrNX) | [Marko Haavisto & Poutahaukat](https://open.spotify.com/artist/4Rk9sQrI4C6qnkJHBDpm2F) | [Kevään valo](https://open.spotify.com/album/47AV1ZDXS2UAUt2Eb2BQJ1) | 3:04 |
+| 10 | [Jyväskylä Skyline](https://open.spotify.com/track/3AWBu6hGvJCeZFIVXlvtKa) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Jyväskylä Skyline](https://open.spotify.com/album/67APCrt7mapUnBNMswBIDU) | 3:51 |
+| 11 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 |
+| 12 | [Sä et pala](https://open.spotify.com/track/5ncn9IqY3gAMuDc3Rr3iJU) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Sä et pala](https://open.spotify.com/album/1rc7FiJRhA4SPwUKvVTLcN) | 2:34 |
 | 13 | [Kun rauhoitun](https://open.spotify.com/track/7ApRZvQU79NXrfDKRr3eYT) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kun rauhoitun](https://open.spotify.com/album/6qFGNHC5Bp2o1sta556Fjt) | 4:31 |
 | 14 | [Kyy](https://open.spotify.com/track/4v3T7xch9GZrsAbvgU07uH) | [Tiikerin vuosi](https://open.spotify.com/artist/7esAy854QfmKAM5g5YZcSt) | [Kyy](https://open.spotify.com/album/0ZQv5jRc1pauxjDPTqJ1sy) | 3:21 |
 | 15 | [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Kaikki hyvin \(feat\. Pikku G\)](https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp) | [Leo Stillman](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Ihmiset & ongelmat](https://open.spotify.com/album/65XJMEVfqyrETikUgxreps) | 2:43 |
 | 80 | [Tää ei hajoo](https://open.spotify.com/track/6rSRbR53rRzVSnDXV2Hr1N) | [Indica](https://open.spotify.com/artist/1Nc6H2qbH5SljekjNBTX7m) | [Tää ei hajoo / Kieroja aarioita](https://open.spotify.com/album/6XhSAiVeoGAs8z0j40zIn2) | 3:07 |
 
-Snapshot ID: `Z+mHwgAAAAANopXRNXct8hLZojDdGgQZ`
+Snapshot ID: `Z+2ifQAAAABlGbh5dz9zpYjeORwIU/AN`

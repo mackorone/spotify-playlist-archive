@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-989 songs - 2 day 16 hr 32 min
+990 songs - 2 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [Won't You Be My Neighbor?](https://open.spotify.com/track/7IEmcrgqtcB20yTzoSs0tX) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf), [Jordan Hull](https://open.spotify.com/artist/34hNaRFSpaudofxFZMmfY5), [Spaceface](https://open.spotify.com/artist/3rcMe5nRZ2Z6Qbx1OB0vIz) | [Won't You Be My Neighbor?](https://open.spotify.com/album/1ra6sk8RtS0Xo6z9nthGoO) | 2:34 | 2021-04-02 | 2022-04-21 |
 | [Wonder](https://open.spotify.com/track/42hEVvUMjG0DLPHEfsByso) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Laughing Matter](https://open.spotify.com/album/7bW72XJFGvtFYpq8To57rs) | 6:22 | 2021-04-02 | 2022-04-19 |
 | [Work This Time](https://open.spotify.com/track/6ilAaPHhxDFaaNS65fzQwF) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/3DZKitIBszx0EZ7xZ3zJcW) | 4:36 | 2021-04-02 | 2022-07-06 |
+| [Year of the Snake](https://open.spotify.com/track/2Rmfz4WlSPbzy98kcwDifU) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Year of the Snake](https://open.spotify.com/album/1jIjimyK38j4huVvIIicf3) | 3:06 | 2025-04-02 |  |
 | [Yellow Fingers](https://open.spotify.com/track/4SPMemOle4kTPBV9wltXvY) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD) | [Yellow Fingers](https://open.spotify.com/album/18SI9jrH0T78CVO7PHbqjZ) | 3:30 | 2021-07-19 | 2022-05-08 |
 | [Yellowblack](https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Yellowblack](https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx) | 2:34 | 2021-08-20 | 2022-04-20 |
 | [Yesterday Will Come](https://open.spotify.com/track/1mHHWXTO9MH6MAhWP3affu) | [Caleb Landry Jones](https://open.spotify.com/artist/736HHrEfkWjQB7zYV2aeXV) | [Gadzooks Vol\. 1](https://open.spotify.com/album/1bxTpPW3AmuuQjhLeshRSX) | 3:23 | 2021-10-08 | 2022-04-16 |

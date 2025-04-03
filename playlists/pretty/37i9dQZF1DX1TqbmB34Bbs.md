@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: MARK, HAECHAN\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: EK\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,353 likes - 200 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,358 likes - 200 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 199 | [Flip Freestyle \(feat\. KOR KASH\)](https://open.spotify.com/track/250ZFib9Eeqgfe0M0E3MT2) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [KOR KASH](https://open.spotify.com/artist/6opErDv4ZN3ZgbaovBUStM) | [ESCAPE](https://open.spotify.com/album/2i6JiVgJUwNU7Zh5PEa4FU) | 3:29 |
 | 200 | [홍길동 \(Hong Gil\-Dong\)](https://open.spotify.com/track/7qhwOzOPNbrbpccPdFeJx9) | [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [Nochang](https://open.spotify.com/artist/2V2yYJyuABpj7WqTqmXftV) | [Already There](https://open.spotify.com/album/5QNax6kPK4vO8uSnUZ29GZ) | 3:37 |
 
-Snapshot ID: `Z+ujVwAAAAA2g6W6uYD0Zk5taP0hRwd9`
+Snapshot ID: `Z+3cnQAAAACA8sL3CLTp9eF39H+VHthb`

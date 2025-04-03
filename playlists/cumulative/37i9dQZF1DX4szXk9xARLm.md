@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-129 songs - 6 hr 50 min
+130 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 | 2024-03-10 | 2025-03-14 |
 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 | 2024-03-10 | 2025-03-14 |
 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 | 2024-03-12 | 2025-02-28 |
-| [Safen Ala Al Ayam](https://open.spotify.com/track/2u5spfhhfyWf5VeDuse0nP) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Safen Ala Al Ayam \(Mosalsal Dar Almansyeen\)](https://open.spotify.com/album/3is6HtqKma80wLKHSY4GKS) | 3:27 | 2025-03-03 |  |
+| [Safen Ala Al Ayam](https://open.spotify.com/track/2u5spfhhfyWf5VeDuse0nP) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Safen Ala Al Ayam \(Mosalsal Dar Almansyeen\)](https://open.spotify.com/album/3is6HtqKma80wLKHSY4GKS) | 3:27 | 2025-03-03 | 2025-04-03 |
 | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 | 2025-03-03 |  |
 | [Sayed Alaqareb Intro](https://open.spotify.com/track/3Yhes3SPh9D70CMNA76y9I) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Sayed Alaqareb Intro](https://open.spotify.com/album/5WeNZAlFYcfNiVywGQWzMz) | 3:49 | 2024-03-12 | 2025-02-28 |
 | [Serrek](https://open.spotify.com/track/2P6663NWulwljND7qHu910) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Serrek](https://open.spotify.com/album/1CCZubOoiB5X0xdJCVvnOU) | 3:51 | 2024-03-10 | 2025-03-07 |
@@ -135,6 +135,7 @@
 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 | 2025-02-27 |  |
 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2024-03-10 | 2025-03-14 |
 | [يا حلولو \- تتر بدايه مسلسل صفاره](https://open.spotify.com/track/6pFOK3WsFJbrPdZkm46KoN) | [Ahmed Amin](https://open.spotify.com/artist/3ZH8mm61aosyZjnCbkT2r4), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [يا حلولو \(تتر بدايه مسلسل صفاره\)](https://open.spotify.com/album/6Oy4MU2GODcNcOnKyBsroF) | 2:25 | 2024-03-10 | 2025-03-04 |
+| [يا ولاد ال \- من مسلسل اش اش](https://open.spotify.com/track/4VdlIQ9IFEza00UT9YRzMT) | [Aziz Elshafei](https://open.spotify.com/artist/0wyILTtZ9scXK6VAc07yLo), [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [يا ولاد ال](https://open.spotify.com/album/5TQ857HPa4xzX9NRFHRsbX) | 3:52 | 2025-04-02 |  |
 | [ياساتر \- تتر مسلسل يوتيرن](https://open.spotify.com/track/4dXTPZWeidbo3JOPqa6Zjv) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [ياساتر \(تتر مسلسل يوتيرن\)](https://open.spotify.com/album/78u5iHbe5J8ZdISmRI1ymr) | 3:56 | 2024-03-10 | 2024-03-13 |
 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 | 2025-03-18 |  |
 

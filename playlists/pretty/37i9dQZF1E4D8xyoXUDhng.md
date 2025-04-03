@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Terrell Grice, Sunday Service Choir, Donald Lawrence & Company and more
+> With Sunday Service Choir, Tramaine Hawkins, Terrell Grice and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 240 likes - 50 songs - 4 hr 20 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [The Shepherd Song](https://open.spotify.com/track/6wtauQXvf4MfIuxH5wmTso) | [Mississippi Children's Choir](https://open.spotify.com/artist/6jWosXUd9GUshdTV9iC1Rn) | [Children of the King](https://open.spotify.com/album/0VfKV563O4ivmoKQCBkU55) | 5:03 |
 | 50 | [Holy Spirit v1.1](https://open.spotify.com/track/2TLZ1vVlNHMjEBa0h0It4F) | [New Jersey Mass Choir](https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH) | [Classic Gold: At Their Best](https://open.spotify.com/album/6EEceRkxSjrXrwJdWbciFr) | 3:48 |
 
-Snapshot ID: `Z+ycJwAAAAAluqj6QOeq7ckAd5h4WGbQ`
+Snapshot ID: `Z+3/gwAAAACrh9B03oLrbDZTIs7JZDnj`

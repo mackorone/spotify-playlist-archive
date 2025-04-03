@@ -4,13 +4,13 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-280 songs - 11 hr 51 min
+282 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A brotherly bond](https://open.spotify.com/track/6DReunGeNcEntHHBqFXVK3) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A brotherly bond](https://open.spotify.com/album/1EO0TG4JY9dnJe7KXi0vL3) | 2:04 | 2023-10-18 | 2024-09-11 |
 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 | 2023-10-18 |  |
-| [A Little Dream](https://open.spotify.com/track/1nmXVqN8SnGqzKhI7K1BOo) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [A Little Dream](https://open.spotify.com/album/2j1dty1Exslu8K9rycLO21) | 2:28 | 2025-03-25 |  |
+| [A Little Dream](https://open.spotify.com/track/1nmXVqN8SnGqzKhI7K1BOo) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [A Little Dream](https://open.spotify.com/album/2j1dty1Exslu8K9rycLO21) | 2:28 | 2025-03-25 | 2025-04-03 |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-10-18 | 2024-09-11 |
 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 | 2024-03-25 |  |
 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-10-18 | 2024-09-11 |
@@ -113,7 +113,7 @@
 | [From the Seas and the Streams](https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [From the Seas and the Streams](https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc) | 2:29 | 2023-11-08 |  |
 | [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 | 2025-03-18 |  |
 | [Garden Of Dreams](https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Garden Of Dreams](https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B) | 2:49 | 2023-10-18 | 2024-10-02 |
-| [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 | 2025-01-14 |  |
+| [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 | 2025-01-14 | 2025-04-03 |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-10-18 |  |
 | [Harsa](https://open.spotify.com/track/4ynhellTDGYbADxBswSGAS) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Harsa](https://open.spotify.com/album/52TFBADvgZIXGoLIoTs4z6) | 2:04 | 2023-10-18 |  |
 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 | 2023-10-18 | 2024-12-14 |
@@ -249,6 +249,7 @@
 | [The Pond](https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Pond](https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw) | 2:28 | 2024-09-24 |  |
 | [The Portrait](https://open.spotify.com/track/6gzx7vC8xDp7jawrF0OIIJ) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [The Portrait](https://open.spotify.com/album/3Gf8cw74M2kiaAhc4Y9iVx) | 2:02 | 2023-10-18 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-10-18 |  |
+| [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 | 2025-04-02 |  |
 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 | 2025-02-26 |  |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-10-18 |  |
 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-05 |  |
@@ -282,6 +283,7 @@
 | [Wieder Zusammen](https://open.spotify.com/track/7AqrZZG9hEeOJs9i6wzxFb) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Wieder Zusammen](https://open.spotify.com/album/7HI3M3BnOgeumeF5sfwo6j) | 3:11 | 2023-10-18 |  |
 | [Wind In My Hair](https://open.spotify.com/track/4N82ErjM4xuWYsRfPBqACk) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Wind In My Hair](https://open.spotify.com/album/2voHslwBPDj7eM3WJmy9pJ) | 2:05 | 2024-05-01 |  |
 | [Winona](https://open.spotify.com/track/3E8FaarMpFzi6HiSRUWSrV) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Winona](https://open.spotify.com/album/79UbHE7JTha6egAQMu4aiy) | 2:51 | 2023-10-18 |  |
+| [Within Reach](https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Within Reach](https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog) | 2:33 | 2025-04-02 |  |
 | [Without You](https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Without You](https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR) | 2:37 | 2023-10-18 |  |
 | [Woman traveling alone](https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Woman traveling alone](https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1) | 2:06 | 2023-10-18 | 2024-10-16 |
 | [Words Unspoken](https://open.spotify.com/track/6SDXe5YGDRwYncOl7pAEcu) | [Tomas Wilhelm](https://open.spotify.com/artist/6qibUXoNUClS6TmVSMHQ29) | [Words Unspoken](https://open.spotify.com/album/22IKWQ82aEqdzZWNF4MgD8) | 2:56 | 2023-10-18 |  |

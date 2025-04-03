@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 193160,
+  "num_followers": 193192,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAAApDok0FnkByO1NMDx9zzjN",
+  "snapshot_id": "Z+ssgAAAAACQND6I9um12mG/GSuHPiPZ",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 238906,
-      "name": "The Lady Don't Mind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
+      "duration_ms": 219826,
+      "name": "Wild Wild Life",
+      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -276,41 +276,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 219826,
-      "name": "Wild Wild Life",
-      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Creatures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Stay up Late - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Swamp - 2005 Remaster",
-      "url": "https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l"
+      "duration_ms": 238906,
+      "name": "The Lady Don't Mind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
     },
     {
       "added_at": null,
@@ -331,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Swamp - 2005 Remaster",
+      "url": "https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 332093,
       "name": "(Nothing But) Flowers - 2005 Remaster",
       "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Stay up Late - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of Talking Heads",
-        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Blind - 2003 Remaster",
-      "url": "https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music",
         "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best of Talking Heads",
+        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Blind - 2003 Remaster",
+      "url": "https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 255800,
       "name": "Creatures of Love - 2005 Remaster",
       "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 271813,
       "name": "Love for Sale - 2005 Remaster",
       "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "The Girl Wants to Be with the Girls - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 210013,
       "name": "Memories Can't Wait - 2005 Remaster",
       "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "The Girl Wants to Be with the Girls - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn"
     }
   ],
   "unique_name": "This Is Talking Heads",

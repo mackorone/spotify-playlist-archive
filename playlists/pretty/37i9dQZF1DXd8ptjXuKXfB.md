@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon\. Hallgass még több TNT zenét a <a href="https://open.spotify.com/playlist/37i9dQZF1DX7x8PM5aMA4f">100% Retró </a>lejátszási listában!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,249 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,260 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

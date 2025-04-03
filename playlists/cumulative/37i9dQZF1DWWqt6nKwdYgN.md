@@ -2,7 +2,7 @@
 
 ### [Rimas Frescas ](https://open.spotify.com/playlist/37i9dQZF1DWWqt6nKwdYgN)
 
-> ¡Lo más fresco del hip\-hop en español! MC Davo y Sandro Malandro en portada
+> ¡Lo más fresco del hip\-hop en español! Adán Cruz en portada
 
 795 songs - 1 day 19 hr 41 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,809 likes - 265 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,857 likes - 265 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,9 +236,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 226 | [Loco Enamorado](https://open.spotify.com/track/5ZnQdZ3Gg7zsJeuhkng8C7) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Loco Enamorado](https://open.spotify.com/album/5GIXdsfc9E6sA31YFUp384) | 2:40 |
 | 227 | [Cada Noche](https://open.spotify.com/track/7KiDbUVG7iJeFoEaHC3oja) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Cada Noche](https://open.spotify.com/album/1W8mhbDRuIVtsNAcDB7pJZ) | 3:25 |
 | 228 | [1000 KM](https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj), [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [1000 KM](https://open.spotify.com/album/20q9WdJWeO6p1FJF0a5hmO) | 2:37 |
-| 229 | [Lento](https://open.spotify.com/track/1eDUEqKdkt5rMTf43l6bHO) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/53tylmJHr857yvMZv0ruBz) | 3:14 |
+| 229 | [Thinking Bout You](https://open.spotify.com/track/4OGKdvRKqajEX7cSvkvw8g) | [k onda](https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Thinking Bout You](https://open.spotify.com/album/0advBD6G2tNaiJl6zaoLmg) | 2:22 |
 | 230 | [AFRODISIACO](https://open.spotify.com/track/2mB8alPfoXyO1cOzjxL5ng) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [FOTOS DE FAMILIA Vol\. 1](https://open.spotify.com/album/3JqqNRyCHjYOlFEhLDiV94) | 2:48 |
-| 231 | [Thinking Bout You](https://open.spotify.com/track/4OGKdvRKqajEX7cSvkvw8g) | [k onda](https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Thinking Bout You](https://open.spotify.com/album/0advBD6G2tNaiJl6zaoLmg) | 2:22 |
+| 231 | [Lento](https://open.spotify.com/track/1eDUEqKdkt5rMTf43l6bHO) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/53tylmJHr857yvMZv0ruBz) | 3:14 |
 | 232 | [Balada](https://open.spotify.com/track/7otmcwp4mIqNLm12UJRg9k) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bitácoras Callejeras, Vol\. 2](https://open.spotify.com/album/6CZNH0qfdnTQQFf3PXWejf) | 4:20 |
 | 233 | [Tenemos Que Admitirlo](https://open.spotify.com/track/06eonGKdzSinzB7CSSF8hM) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/1T2CE7PJA6h7hdVgV74uyU) | 3:31 |
 | 234 | [Lumbre](https://open.spotify.com/track/5HNUAiuRtopnLuKL1WFCE2) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Lumbre](https://open.spotify.com/album/6kfLdeS27w0ZgWqFze5Y25) | 3:52 |

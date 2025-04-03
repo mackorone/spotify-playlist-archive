@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 ### [Hyper Focus Noise](https://open.spotify.com/playlist/37i9dQZF1DX6iSJxWbeWLf)
 
-> Noise, Waves, Rain...<br/>a stimulating mix to get your brain into the right flow.
+> Get your brain waves aligned and productive with white noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,878 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,013 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 | 55 | [White Heaven](https://open.spotify.com/track/6QC5r7XJPiyn92rOWpLkc6) | [Ambinima](https://open.spotify.com/artist/1DtkBjA8TFpAlXxOHxCqta) | [Placid Noise](https://open.spotify.com/album/2BOzypucqC7iyUbofB6gWn) | 2:59 |
 | 56 | [Pink Noise for Sleeping](https://open.spotify.com/track/2ex3O9bv4muJcuVI3BQbtj) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Pink Noise Sleep](https://open.spotify.com/album/4B143uGP1Wwhb5xO95nvaS) | 3:39 |
 
-Snapshot ID: `Z+v43QAAAABtUiN2wV+YYw2WMwNRDwPa`
+Snapshot ID: `Z+1AvwAAAAAdt3HwtX4Va5wQudVObzy7`

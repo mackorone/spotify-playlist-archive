@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 39 min
+91 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [No Se Toca](https://open.spotify.com/track/1JNWhyAuTvjgJvmi6Psct4) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 2:32 | 2023-11-10 | 2024-05-26 |
 | [PARA OLVIDARME DE TI](https://open.spotify.com/track/35KAbrp0kn0kqjTVL7qHjE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:40 | 2023-11-10 | 2024-07-16 |
 | [PERREITO PA LLORAR](https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [PERREITO PA LLORAR](https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv) | 3:33 | 2024-12-01 |  |
-| [PESADILLAS](https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [PESADILLAS](https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid) | 3:15 | 2024-09-15 |  |
+| [PESADILLAS](https://open.spotify.com/track/2wyfWuw4KgzAqGKS2jBQqE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:15 | 2025-04-03 |  |
+| [PESADILLAS](https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [PESADILLAS](https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid) | 3:15 | 2024-09-15 | 2025-04-03 |
 | [Piketaison](https://open.spotify.com/track/6Oqk95NE1dakJBbO2ZaYxv) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [CL34N](https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD) | 3:01 | 2023-11-10 | 2025-01-23 |
 | [Problema](https://open.spotify.com/track/4qqKKWNXXPbRX2eEi1pP8i) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MALA](https://open.spotify.com/album/3YI2j0vFoKKdOPmJQ02ByH) | 3:01 | 2023-11-10 | 2024-05-11 |
 | [Q SOMOS?](https://open.spotify.com/track/1I1vYVy6wQvL3PHtVgv4gv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:29 | 2025-03-30 |  |

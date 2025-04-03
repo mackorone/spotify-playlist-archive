@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 ### [Rimas Frescas ](https://open.spotify.com/playlist/37i9dQZF1DWWqt6nKwdYgN)
 
-> ¡Lo más fresco del hip\-hop en español! MC Davo y Sandro Malandro en portada
+> ¡Lo más fresco del hip\-hop en español! Adán Cruz en portada
 
 [Spotify](https://open.spotify.com/user/spotify) - 17,893 likes - 50 songs - 2 hr 41 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 49 | [Promesa](https://open.spotify.com/track/1ULOeihjY4389dlbpz7YG9) | [Keenwan](https://open.spotify.com/artist/4PFLDBt40fJC0OvKfYqaa5), [Boombass music](https://open.spotify.com/artist/2SqNLf7AbNpOMBYvoqtudI) | [Promesa](https://open.spotify.com/album/5olbCQIkjprPZotnePn0CR) | 4:01 |
 | 50 | [DIAVLO](https://open.spotify.com/track/7Lqg10QrEZnW9b8bq0u34j) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [DIAVLO](https://open.spotify.com/album/6Fysv8Y6bcXtHK8tK9drMB) | 3:37 |
 
-Snapshot ID: `Z+Y69wAAAAAhnfikHxB3vRGsD2uSlJDV`
+Snapshot ID: `Z+27KwAAAAAFrp3SzTgIJe+2n0FralHy`

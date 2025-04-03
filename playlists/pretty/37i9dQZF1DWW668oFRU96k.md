@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: KSHMR x Izzy Bisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,838 likes - 97 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,854 likes - 97 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 17 | [Heal](https://open.spotify.com/track/2k4qRPGx4efmwB5sS4gfI0) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ), [EMSKI](https://open.spotify.com/artist/3UqDUfl2fG8ygrFRlgHVZK) | [Heal](https://open.spotify.com/album/6UzulyT7sW0NqxQxQYlJCO) | 4:29 |
 | 18 | [More Than Words](https://open.spotify.com/track/77WkWeipMtvlV6alXW9AuL) | [Nil Martorell](https://open.spotify.com/artist/1JJhMriYbHMseShsl4OM8t), [DVRCH](https://open.spotify.com/artist/3tJmn1IipZo16QbpKWBZgl), [DFAN](https://open.spotify.com/artist/64FjKSniZ7gToESZ969iEZ) | [More Than Words](https://open.spotify.com/album/5fg1Wn8ILvzbZDvC0eAr4E) | 3:17 |
 | 19 | [Been There Before](https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [LIVI](https://open.spotify.com/artist/1zgMn2RP87AwuP9B9z79Fo) | [Been There Before](https://open.spotify.com/album/6cxXtXjXkiXSSpEMHQkh8p) | 3:08 |
-| 20 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
+| 20 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
 | 21 | [インターステラー（ミレニアム）](https://open.spotify.com/track/1FWwKCt6pPO1GfklNj51dC) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [インターステラー（ミレニアム）](https://open.spotify.com/album/2kStrD47dZ0ZMAZPhzXGoF) | 5:21 |
 | 22 | [Everyday](https://open.spotify.com/track/64tDMV2iINdMB52cXlPFy3) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Everyday](https://open.spotify.com/album/0QuTBXFSaMXTvy7aVhhdnV) | 2:20 |
 | 23 | [Angels](https://open.spotify.com/track/7fc4OLUDFGSbfBfwp6gWua) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Angels](https://open.spotify.com/album/0B3yz5yzZuwPVcsTkGieaJ) | 2:27 |

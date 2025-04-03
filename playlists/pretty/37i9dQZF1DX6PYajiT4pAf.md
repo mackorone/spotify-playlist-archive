@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo, Emilia x TINI x Nicki Nicole, Feid, Dei V y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,245 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,274 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 48 | [FP DE PELUQUERIA](https://open.spotify.com/track/1bEa64A3TLkg8tiBxzCxJ4) | [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [FP DE PELUQUERIA](https://open.spotify.com/album/53yVrVEyOozZHAw3o53wt8) | 2:16 |
 | 49 | [Luna](https://open.spotify.com/track/5PbC2MLiiyPP6gIYEN8ygh) | [Sosad.97](https://open.spotify.com/artist/7Dhtrm0gyXdmDvvc5zAh4w), [Pratss](https://open.spotify.com/artist/1qWFKva5JPXcOUVC2sccAb) | [Luna](https://open.spotify.com/album/1QLOcdN3ODNRkfn9zHGbLV) | 2:49 |
 | 50 | [Amor Con Ropa](https://open.spotify.com/track/2sAKPeKyYrwBAYBuavhltc) | [Robledo](https://open.spotify.com/artist/5VyXOfvTQljStUXx1coETY), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Amor Con Ropa](https://open.spotify.com/album/6IYZwRKfjOiVBA7cTrZY13) | 2:28 |
-| 51 | [Tal vez](https://open.spotify.com/track/4BdBaKVptpdEPT4yhmCyGZ) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Tal vez](https://open.spotify.com/album/0eEf6BblPnfbpTZslxzvCq) | 3:48 |
+| 51 | [tal vez](https://open.spotify.com/track/4BdBaKVptpdEPT4yhmCyGZ) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [tal vez](https://open.spotify.com/album/0eEf6BblPnfbpTZslxzvCq) | 3:48 |
 | 52 | [Ya sé](https://open.spotify.com/track/38ydHYk2vT3UNNxG5GbhJs) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Ya sé](https://open.spotify.com/album/5UHaZk8kkzkb6Gs5DPYWqH) | 3:06 |
 | 53 | [Un día genial](https://open.spotify.com/track/0QiSx6ahUCXVJxV2lsHKOO) | [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [SUPERBUCLE](https://open.spotify.com/album/03hjX2nPz9hbMhVaxkgVrE) | 3:15 |
 | 54 | [EGOÍSTA \(feat\. RUSLANA\)](https://open.spotify.com/track/6hJetn2IK04LzoiBFJ3a9U) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [EGOÍSTA \(feat\. RUSLANA\)](https://open.spotify.com/album/7McSKavSIVRQ6hk4YzxKZz) | 2:58 |

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-1,419 songs - 3 day 3 hr 40 min
+1,420 songs - 3 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,7 +1089,7 @@
 | [Stand up!](https://open.spotify.com/track/17zLOxvNG5ZFu5Z4v1hXUK) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/3HYPEGFRro4HjxFmwicYxA) | 3:30 | 2022-06-30 | 2022-07-29 |
 | [Stand up!](https://open.spotify.com/track/2ClyPFwO5yo28GMXLR3Hlg) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/77pHPrgDNRpwfpIz1H1tH4) | 3:30 | 2022-07-28 | 2022-08-20 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-03 | 2024-01-19 |
-| [Star \(prod.LOGOS\)](https://open.spotify.com/track/0hOZNu7W8cI1Mf5qLhBmhT) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [LOGOS](https://open.spotify.com/artist/6K4uiMkjEU95mAxbKUcd82) | [Star](https://open.spotify.com/album/1U7TBNZQc0GMPVzrYRm1VO) | 3:14 | 2025-03-06 |  |
+| [Star \(prod.LOGOS\)](https://open.spotify.com/track/0hOZNu7W8cI1Mf5qLhBmhT) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [LOGOS](https://open.spotify.com/artist/6K4uiMkjEU95mAxbKUcd82) | [Star](https://open.spotify.com/album/1U7TBNZQc0GMPVzrYRm1VO) | 3:14 | 2025-03-06 | 2025-04-03 |
 | [Star Signs](https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Star Signs](https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv) | 2:40 | 2024-11-12 | 2025-03-12 |
 | [Starlight 〜君に届くまで...〜](https://open.spotify.com/track/1063HKJblWTIoYGoc5qOgz) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [Proxima](https://open.spotify.com/album/5wgV4qqmXF54eFFHYxNlAz) | 3:08 | 2023-12-26 | 2024-01-10 |
 | [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-29 | 2024-10-11 |
@@ -1282,6 +1282,7 @@
 | [Walk](https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [WALK \- The 6th Album](https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML) | 3:11 | 2024-07-15 | 2024-10-16 |
 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2024-12-13 | 2025-03-07 |
 | [WANNABE \- Japanese ver.](https://open.spotify.com/track/1F6lnQwfiEzq7ikNnODitc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [WANNABE \(Japanese ver.\)](https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q) | 3:11 | 2021-12-23 | 2022-01-07 |
+| [WANT](https://open.spotify.com/track/4G8rbofCc2vyGZ3pbCHiUH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [WANT](https://open.spotify.com/album/5Nz1GLdhSyy88BOSOpoNap) | 3:31 | 2025-04-03 |  |
 | [Wasteland](https://open.spotify.com/track/4bml9BznT3E0sX4xpa0voN) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Wasteland](https://open.spotify.com/album/3gerGX9iUd6cEwLNGCrh6u) | 3:02 | 2023-06-06 | 2023-07-26 |
 | [WATCH IT](https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.2 Sixth Sense](https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX) | 2:59 | 2023-11-20 | 2024-01-10 |
 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 | 2023-05-16 | 2023-06-21 |

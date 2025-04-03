@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: LANA \*👉 <a href="https://spice.eplus.jp/articles/336590">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: LANA \*👉 <a href="https://spice.eplus.jp/articles/336775">SPICE連動記事</a>をSPICEでチェック!
 
-10,045 songs - 26 day 2 hr 17 min
+10,047 songs - 26 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [2025/3/19 サザンオールスターズがニューアルバムをリリース！Early NoiseアーティストLavtの新曲も！さかいゆう、帝国喫茶、コレサワのニューアルバムもピックアップ！](https://open.spotify.com/episode/7a5ub58z4WoAtjlB1V2Z4r) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:29 | 2025-03-19 | 2025-03-26 |
 | [2025/3/26 m\-floが鈴木真海子を迎えた新曲をリリース！千葉雄喜のニューアルバムも！音田雅則のEPやFirst Love is Never Returnedの新曲もピックアップ！『Spotify Early Noise Night \#17』で行ったアーティストインタビューもあり！](https://open.spotify.com/episode/5EUutpzn0LRofTqti5rRPD) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 43:04 | 2025-03-26 | 2025-04-02 |
 | [2025/3/5 AAAMYYYが鎮座DOPENESSとNeetzを迎えた新曲をリリース！女王蜂のニューアルバムも！君島大空のニューEP、G\-k.i.dのソロ新曲、冨田ラボの新曲もピックアップ！この1週間の音楽ニュースも深堀り！](https://open.spotify.com/episode/0T6FmQgdyXosPxc3EqnOFg) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:11 | 2025-03-05 | 2025-03-12 |
+| [2025/4/2 LANAがカバー！HANAのメジャーデビューソングも！Young Cocoのニューアルバム、JO1のベスト・アルバム、デビュー45周年を迎えた松田聖子の新曲もリリースに！](https://open.spotify.com/episode/6A2CpC1KzxagbuS5DSzEnp) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:27 | 2025-04-02 |  |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/0t6GDvannAPMhpYV9KQvhd) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4NQWLV27zjKf450cF0HtGp) | 5:12 | 2023-09-12 | 2023-09-14 |
@@ -7791,6 +7792,7 @@
 | [ネットルーザー](https://open.spotify.com/track/2CZmZ95P9ZD28BKynvSeIf) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [ネットルーザー](https://open.spotify.com/album/6VnuHv0ekAZIIwuYWVXejC) | 4:05 | 2024-08-27 | 2024-09-04 |
 | [ネバネバ](https://open.spotify.com/track/4QQlTvHOnbZyRxRLcIvwjS) | [MORISAKI WIN](https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi) | [ネバネバ](https://open.spotify.com/album/27QAp7OoubLCKpZ47A7TSh) | 3:23 | 2024-10-22 | 2024-10-30 |
 | [ネバーアンダースタンド](https://open.spotify.com/track/2holacC9fyoJwCYjHyb5Qb) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [Friend Chord](https://open.spotify.com/album/3E960t2SiUHefL78jhb2cz) | 3:48 | 2025-01-21 | 2025-01-29 |
+| [ネビュラロマンス](https://open.spotify.com/track/3SjRQkgA5VdldUK6WKy9O7) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス](https://open.spotify.com/album/4vx6ucRcqp4VtMQxm3NJrO) | 4:02 | 2025-04-02 |  |
 | [ネーブルオレンジ](https://open.spotify.com/track/1cWXVFFapByktCPp27NNyh) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [ネーブルオレンジ](https://open.spotify.com/album/1tJywbO1SNXw8KdmdA38T1) | 5:32 | 2025-03-11 | 2025-03-19 |
 | [ノイズラジオ](https://open.spotify.com/track/5K1s4kjDphRKYDQ2U1Ka59) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [ノイズラジオ](https://open.spotify.com/album/64CnkI3V5AIKgz1i3p75a2) | 4:33 | 2023-12-19 | 2023-12-21 |
 | [ノスタルジア](https://open.spotify.com/track/5LcDuMPZLDdrTPRWyiCQZC) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ノスタルジア](https://open.spotify.com/album/0I7taaii2mCMOEJx0vuqSW) | 5:09 | 2024-02-13 | 2024-02-21 |

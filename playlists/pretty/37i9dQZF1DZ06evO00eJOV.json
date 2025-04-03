@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36476,
+  "num_followers": 36485,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAACo2SVG8/FWScp2MSuNVSOC",
+  "snapshot_id": "Z+ssgAAAAAApQ6wunSDDUvxrJiJePCEq",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Life Is Going On",
+      "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Life Is Going On",
-      "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 297840,
-      "name": "Kenang Bohle",
-      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 229240,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 297840,
+      "name": "Kenang Bohle",
+      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Some Volume",
-        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 301986,
-      "name": "Matshidiso",
-      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+      "duration_ms": 270133,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gimme Some Volume",
+        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Matshidiso",
+      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits 1964-2004",
         "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 208706,
       "name": "Ama-Gents",
       "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 355066,
-      "name": "Ntsware - Ndibambe",
-      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 245249,
-      "name": "Sum' Bulala",
-      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
+      "duration_ms": 355066,
+      "name": "Ntsware - Ndibambe",
+      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 331466,
       "name": "Party Time - Kuya Ngokuthi Ungubani",
       "url": "https://open.spotify.com/track/1BNqCfgKVNePaG8AKR1qzw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 245249,
+      "name": "Sum' Bulala",
+      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Mbulali Wami",
-      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 306933,
       "name": "Mali",
       "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Mbulali Wami",
+      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refe Matla",
-        "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
-      },
-      "artists": [
-        {
-          "name": "Pure Gold",
-          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
-        },
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 296733,
-      "name": "Dikonyana",
-      "url": "https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hamba Sathane",
         "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 279866,
       "name": "Elakho Likhona (La Hao Le Teng)",
       "url": "https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Refe Matla",
+        "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
+      },
+      "artists": [
+        {
+          "name": "Pure Gold",
+          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 296733,
+      "name": "Dikonyana",
+      "url": "https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "Ngohlala Ngi Nje",
-      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hamba Sathane",
         "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "Ngohlala Ngi Nje",
+      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Too Late For Mama",
         "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
       },
@@ -739,58 +739,6 @@
       "duration_ms": 331497,
       "name": "Good Black Woman",
       "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Ngizobuya",
-      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "Uyang'Embarasa",
-      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hamba Sathane",
-        "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        },
-        {
-          "name": "Pure Gold",
-          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
-        }
-      ],
-      "duration_ms": 275480,
-      "name": "O Lemenemene",
-      "url": "https://open.spotify.com/track/34VLLIFr9h9MKRwdWlJZHl"
     },
     {
       "added_at": null,
@@ -815,6 +763,58 @@
       "duration_ms": 236560,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hamba Sathane",
+        "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        },
+        {
+          "name": "Pure Gold",
+          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "O Lemenemene",
+      "url": "https://open.spotify.com/track/34VLLIFr9h9MKRwdWlJZHl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Uyang'Embarasa",
+      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Ngizobuya",
+      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
     },
     {
       "added_at": null,

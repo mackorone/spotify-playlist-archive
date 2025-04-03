@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 103000,
       "name": "April Snow",
       "url": "https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 90250,
       "name": "As Morning Dawns",
       "url": "https://open.spotify.com/track/3T3d7TsbpAPTxhh1f3gSQO"
@@ -4337,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/3LjweJuLvim2fLusH2IiX3"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "Moments of Clarity",
+      "url": "https://open.spotify.com/track/3rwxUxeudZfmAJ80o2tk5C"
+    },
+    {
+      "album": {
         "name": "More Than Yesterday",
         "url": "https://open.spotify.com/album/27MZUFtc98oIebovnNxmVp"
       },
@@ -4420,7 +4438,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 116125,
       "name": "Morning Sunshine",
       "url": "https://open.spotify.com/track/5rsWf7mkphWxE4cssWhRxM"
@@ -4690,7 +4708,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 158894,
       "name": "Ocean Pictures",
       "url": "https://open.spotify.com/track/7ts8hnrKzGffpFt418kehA"
@@ -5806,7 +5824,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 110687,
       "name": "Strolling",
       "url": "https://open.spotify.com/track/5VCXMTgWi94jTU2wqKHQ1P"
@@ -6116,6 +6134,24 @@
       "duration_ms": 121624,
       "name": "The Butterfly\u00b4s Waltz",
       "url": "https://open.spotify.com/track/0gOYdJiVrxVtnsGSVP91Gq"
+    },
+    {
+      "album": {
+        "name": "The crane",
+        "url": "https://open.spotify.com/album/4UoNEIcwZt7VlH7Eqr82tp"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154250,
+      "name": "The Crane",
+      "url": "https://open.spotify.com/track/0hp4fowNFdt5jlnwVq20QD"
     },
     {
       "album": {
@@ -6436,7 +6472,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 105949,
       "name": "Thinking about it",
       "url": "https://open.spotify.com/track/0J9rvtU9iZoFj7waxghpP0"

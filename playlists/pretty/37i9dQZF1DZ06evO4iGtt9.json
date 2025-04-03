@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 7840,
+  "num_followers": 7846,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAAAwPlupkrxgNNKPnm7ZqCFe",
+  "snapshot_id": "Z+ssgAAAAADPOSl5hWFqRsyO3vVr/MfB",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
         "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 194871,
       "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
       "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "Born to Win",
-      "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
     },
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 158320,
+      "name": "Buru",
+      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 203280,
       "name": "Dance",
       "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 158320,
-      "name": "Buru",
-      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 190266,
       "name": "Malonogede",
       "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "Don Dada",
-      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 174334,
-      "name": "BLESSINGS (feat. Eugy Official)",
-      "url": "https://open.spotify.com/track/6p5R7T8haqjv3F8cYFRSEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
@@ -775,6 +755,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 174334,
+      "name": "BLESSINGS (feat. Eugy Official)",
+      "url": "https://open.spotify.com/track/6p5R7T8haqjv3F8cYFRSEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Ukwu (Bonus)",
+      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Like The Way",
         "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 231106,
       "name": "M.O.N.E.Y",
       "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Ukwu (Bonus)",
-      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chop Life",
-        "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "Chop Life",
-      "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solidstar",
         "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 218305,
       "name": "My Body",
       "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chop Life",
+        "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "Chop Life",
+      "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
     },
     {
       "added_at": null,

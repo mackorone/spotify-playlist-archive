@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,864 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,862 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 98 | [AlgeVita](https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [AlgeVita](https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt) | 2:34 |
 | 99 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
 | 100 | [Après la nuit](https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [J'ai brodé mon cœur](https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP) | 0:34 |
-| 101 | [Erreur](https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Erreur](https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7) | 3:19 |
-| 102 | [J'en raffole](https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d) | [Kelzk](https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'en raffole](https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa) | 3:45 |
+| 101 | [J'en raffole](https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d) | [Kelzk](https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'en raffole](https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa) | 3:45 |
+| 102 | [Erreur](https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Erreur](https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7) | 3:19 |
 | 103 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |
 | 104 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 |
 | 105 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 115 | [Il a plu il a neigé](https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0) | [Navet Confit](https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D), [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Désolé mouvement geste](https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7) | 4:10 |
 | 116 | [Sorry](https://open.spotify.com/track/6p84e47BuGYmh282V13y4H) | [Dylan Dylan](https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY), [Emma Wizz](https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE) | [Sorry](https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo) | 3:43 |
 | 117 | [Où est passé mon contour](https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1) | [Sandra Contour](https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H) | [Où est passé mon contour](https://open.spotify.com/album/14179pvxliO47am5SkoCLw) | 3:01 |
-| 118 | [Du love à revendre](https://open.spotify.com/track/5eTbAP2VvIXo4atQgwSwSY) | [ALICE](https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x) | [Du love à revendre](https://open.spotify.com/album/1zGu1T6rv7Hp931DxGEtRy) | 4:04 |
-| 119 | [LA LA LA](https://open.spotify.com/track/3JIxKFRguGFlGAGwla497a) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [Chercheur de lumières](https://open.spotify.com/album/2STVRCEnziOB3BpCHqEtmZ) | 2:57 |
+| 118 | [LA LA LA](https://open.spotify.com/track/3JIxKFRguGFlGAGwla497a) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [Chercheur de lumières](https://open.spotify.com/album/2STVRCEnziOB3BpCHqEtmZ) | 2:57 |
+| 119 | [Du love à revendre](https://open.spotify.com/track/5eTbAP2VvIXo4atQgwSwSY) | [ALICE](https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x) | [Du love à revendre](https://open.spotify.com/album/1zGu1T6rv7Hp931DxGEtRy) | 4:04 |
 | 120 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
 | 121 | [Penelope](https://open.spotify.com/track/1mAZTJqs348uZYYfmAmbyv) | [Blondes Naturelles](https://open.spotify.com/artist/10yfd9E6pNEIpYouUSS0vD) | [Penelope](https://open.spotify.com/album/5JEWDUwn6YWx2F54qGgwt5) | 2:59 |
 | 122 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 |

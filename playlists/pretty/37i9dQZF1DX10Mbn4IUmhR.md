@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR?si=80w1ZhZASaynZaLiPU0RKQ"> Ariana Grande</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,932 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,937 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

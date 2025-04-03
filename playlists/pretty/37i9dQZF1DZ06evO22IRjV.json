@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30191,
+  "num_followers": 30192,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nbAAAAAAB1hcNpaIr394U999sWK/sj",
+  "snapshot_id": "Z+ssgAAAAACEWjVeaqiTiyuCtm0e5y77",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS",
-        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 91786,
-      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
-      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLACK & WHITE",
         "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 222226,
       "name": "Hey!!!",
       "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30e2\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "\u30e2\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Don't Wanna Die in the Paradise",
         "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 217333,
       "name": "I Don't Wanna Die in the Paradise",
       "url": "https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30e2\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "\u30e2\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
-        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "\u9065\u304b\u5f7c\u65b9",
-      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 209527,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
     },
     {
       "added_at": null,

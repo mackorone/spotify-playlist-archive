@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 
 > La playlist ufficiale del rap show di Netflix, la nuova stagione è uscita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,044 likes - 36 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,069 likes - 36 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-326 songs - 17 hr 13 min
+329 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Kid Again](https://open.spotify.com/track/71xsIJOqLiH544H7RbeHrc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:55 | 2024-12-06 |  |
 | [kittycat heartthrob](https://open.spotify.com/track/73GMBtu2AqtWZ6idye6sqc) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [kittycat heartthrob](https://open.spotify.com/album/3jePWfQ33qxjwB9MDAYfOR) | 2:48 | 2023-06-14 |  |
 | [Koi](https://open.spotify.com/track/3XtSSTaxwntJrzsiArZQHt) | [silverism](https://open.spotify.com/artist/7ofEwjKaoYr5I4S9glSWPr) | [Koi](https://open.spotify.com/album/7BCHUJWYCG8ywLhpS0MNPZ) | 3:39 | 2024-02-09 |  |
+| [Korrent City Streets](https://open.spotify.com/track/4GDi16UNFP1jxo5hTjQvMu) | [JAMIEvx](https://open.spotify.com/artist/0gL0yv87B01UdAXjrkjSIP) | [In Flux](https://open.spotify.com/album/0UyM7Rn7PZNt1UghxPvnWE) | 4:33 | 2025-04-03 |  |
 | [Last Knight \(Final Girl\)](https://open.spotify.com/track/4KgcyoJSoDq8FuQsewrvNi) | [Sergeant Hare Apollo](https://open.spotify.com/artist/0KsMGLqXgzIqQp9QWg1PRQ) | [Last Knight \(Final Girl\)](https://open.spotify.com/album/53IpGt3nY72iJFneRIdpJB) | 3:52 | 2024-11-18 |  |
 | [LDR](https://open.spotify.com/track/4cX5v8mjtmvMJivWTJlQE5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:02 | 2024-06-15 |  |
 | [LIFE](https://open.spotify.com/track/23Hhl3U1b2FxRMc2zo6IR8) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU), [Filterocity](https://open.spotify.com/artist/3raEjNj1yydwtfhnkJ9PkJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [EQUINOX](https://open.spotify.com/album/2HcUhzatJKAn13ejeI1idU) | 3:37 | 2024-02-09 |  |
@@ -277,6 +278,8 @@
 | [someone special](https://open.spotify.com/track/67s2DeBt7fAQ7RqAIP99tD) | [Blueberry](https://open.spotify.com/artist/0YojyCH6OZsxIXzNMRY12Z) | [someone special](https://open.spotify.com/album/77AJxNfFKAwpTiNyDVLjYV) | 2:54 | 2024-05-28 |  |
 | [something new](https://open.spotify.com/track/0JtDlZYd3rcmJNAT5JWeA8) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL), [mopearound](https://open.spotify.com/artist/0XzFJD8UCjI0vkRofftT8Y), [Exobolt](https://open.spotify.com/artist/5FdGHOu3JjJbZ5jcPcI9Km) | [something new](https://open.spotify.com/album/3ngY5oSa4mUFC6ThZk2cdc) | 5:35 | 2024-06-09 |  |
 | [something to hold](https://open.spotify.com/track/3XGmJg7p3an829jy9GqwtQ) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [partners](https://open.spotify.com/album/6ZiZe0XmjcnIycBJCYynbo) | 2:12 | 2025-01-25 |  |
+| [sorry, i zoned out](https://open.spotify.com/track/1BgXNabnEjcbCocOJnpGSu) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO), [Fordus](https://open.spotify.com/artist/1YaR1iwmSwt6sufwqUobYP) | [The Parts of Me That Only I Can See](https://open.spotify.com/album/6rFeD0BD2DM5Qu5OualnSN) | 5:31 | 2025-04-03 |  |
+| [SOS! \(Wishing I Wasn't Me\)](https://open.spotify.com/track/5qldUW98OrRk7OAYPoWgvf) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [SOS!](https://open.spotify.com/album/5vPjPuJju1zgLsLXuti8n0) | 3:40 | 2025-04-03 |  |
 | [south](https://open.spotify.com/track/0RGO0OK4kV9bKviTFjcllk) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [south](https://open.spotify.com/album/2F7xWlv89FfERq4uTBiACU) | 1:25 | 2025-03-07 |  |
 | [Spider Bites](https://open.spotify.com/track/4QYiQ5PpL19NoGabu2zFNE) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Spider Bites](https://open.spotify.com/album/1k0KDOkgfGA0Nwov5ncseo) | 3:31 | 2023-12-05 |  |
 | [spinnin round my head](https://open.spotify.com/track/7DSWwFavn5AqUs9Mg2FkrQ) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [spinnin round my head](https://open.spotify.com/album/4k1EN8sYA2ujbVVbohtd5p) | 1:51 | 2025-01-25 |  |

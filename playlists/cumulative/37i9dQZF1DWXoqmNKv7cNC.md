@@ -2,7 +2,7 @@
 
 ### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
-> ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
+> ¡Mujeres mexicanas a todo volumen! Yeri Mua en portada 💚
 
 1,359 songs - 3 day 2 hr 12 min
 

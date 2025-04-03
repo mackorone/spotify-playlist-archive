@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-383 songs - 17 hr 18 min
+385 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Echoes of the Past](https://open.spotify.com/track/2St2TvHIluz7NkdgTcEMEv) | [Xavier Carrington](https://open.spotify.com/artist/0JDZapKabh58jXFvcSqZRB) | [Echoes of the Past](https://open.spotify.com/album/6EZc29CJCqoxrDqMUzxVBQ) | 2:36 | 2024-06-14 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 | 2023-04-28 |
 | [Electric Bell](https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl) | [Flynn Simmons](https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go) | [Electric Bell](https://open.spotify.com/album/7L7ZULdyivBdSeHQHbcTq9) | 1:56 | 2022-05-13 | 2022-06-10 |
-| [Elise's Autumn](https://open.spotify.com/track/03sZBPPuTTAYBvGv2jWw6L) | [Cassian Haines](https://open.spotify.com/artist/6q2o3TWKwqqVzVO9aGstM7) | [Elise's Autumn](https://open.spotify.com/album/2euPNgFzRFotvaAP4jWzUU) | 2:42 | 2024-11-26 |  |
+| [Elise's Autumn](https://open.spotify.com/track/03sZBPPuTTAYBvGv2jWw6L) | [Cassian Haines](https://open.spotify.com/artist/6q2o3TWKwqqVzVO9aGstM7) | [Elise's Autumn](https://open.spotify.com/album/2euPNgFzRFotvaAP4jWzUU) | 2:42 | 2024-11-26 | 2025-04-03 |
 | [End of Summer](https://open.spotify.com/track/0OwNmUxckzrNFjHGEf90Od) | [Ivan Nevau](https://open.spotify.com/artist/4Y1du6z4ekLOKho3kj1pLD) | [End of Summer](https://open.spotify.com/album/05fPHnXgdmvtMf1nDn1wck) | 2:15 | 2024-09-25 |  |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2022-05-13 | 2022-07-15 |
 | [Evening Stroll](https://open.spotify.com/track/5MV9mc5YjwVuWoZZDc1cB1) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Evening Stroll](https://open.spotify.com/album/0b40NntOGFAMvyJS2ytJGd) | 3:28 | 2022-06-10 | 2022-07-22 |
@@ -241,6 +241,7 @@
 | [Old friends not forgotten](https://open.spotify.com/track/6iB4Hb9KrgjoS2ZATwdXW2) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Old friends not forgotten](https://open.spotify.com/album/1dU4wnsmAgWL5bg4Vd2t3T) | 2:02 | 2024-05-10 |  |
 | [Old Harbor Road](https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-05-13 | 2023-06-23 |
+| [Once Upon a Summer](https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Once Upon a Summer](https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk) | 2:57 | 2025-04-02 |  |
 | [One Step Forward](https://open.spotify.com/track/40UcSAp9GZFzUnczV5tlJc) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [One Step Forward](https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e) | 2:19 | 2024-11-11 |  |
 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 | 2022-05-13 | 2022-05-27 |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-05-13 | 2024-05-10 |
@@ -354,6 +355,7 @@
 | [Transient Clouds](https://open.spotify.com/track/0mDXzY5kBcJEc5Ko75BVJX) | [Nesima](https://open.spotify.com/artist/530XbBVaksvDN09nLsbwER) | [Spring in My Head](https://open.spotify.com/album/1C9NbVsvBeLOD46KO0H3sz) | 2:56 | 2022-05-13 | 2023-02-25 |
 | [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 |  |
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2022-05-13 | 2022-06-10 |
+| [Unanchored](https://open.spotify.com/track/163bwlnpGFSj3TCCFk2rT1) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Unanchored](https://open.spotify.com/album/5kR8Q9cvTarslNQpAw8ayJ) | 2:35 | 2025-04-02 |  |
 | [Under Taken](https://open.spotify.com/track/1dFl3je4swK3FmYJF12RmK) | [Sisters Of Marks](https://open.spotify.com/artist/58Hsg5UY4DmFIaVODTfVls) | [Sisters Of Marks](https://open.spotify.com/album/5OicysjUS20tN8e6k6dAym) | 2:56 | 2022-05-13 | 2022-06-10 |
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2022-05-13 | 2022-06-10 |
 | [Until Eternity](https://open.spotify.com/track/0Ln2XQp3zJpRsAqDvTJhgA) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Until Eternity](https://open.spotify.com/album/1N1czqs5ixWciPe4b6f8VO) | 2:01 | 2023-01-06 |  |

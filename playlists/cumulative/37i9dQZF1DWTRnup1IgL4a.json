@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg"
+      },
+      "artists": [
+        {
+          "name": "David Isner",
+          "url": "https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157302,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC"
+    },
+    {
+      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 222179,
       "name": "Evening Journey",
       "url": "https://open.spotify.com/track/4ForBTWXJeVh21NIkHIKIb"
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 160989,
       "name": "For T.",
       "url": "https://open.spotify.com/track/48PAdzQXHcM3A7pJICW6Co"
@@ -4099,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "Solencia Nocturne",
+        "url": "https://open.spotify.com/album/4jSkEZB6wGW680SvjP1RL2"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170515,
+      "name": "Solencia Nocturne",
+      "url": "https://open.spotify.com/track/2swYTnezehl0rgydF9jK8Z"
+    },
+    {
+      "album": {
         "name": "Sommersby",
         "url": "https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH"
       },
@@ -4452,7 +4488,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 165681,
       "name": "The Future Awaits",
       "url": "https://open.spotify.com/track/1iPleApKYAInftNLAwHcnH"

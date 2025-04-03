@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp?si=mgEuGcu\_RBCLL6wEkKRbKw">MÖRDA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,811 likes - 60 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,822 likes - 60 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

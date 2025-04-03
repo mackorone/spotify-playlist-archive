@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,809 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,087 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 84 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 |
 | 85 | [Hands of Love](https://open.spotify.com/track/5thzPpq4bX8deK5qYzcbx5) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/31baJpqQCjXr2tG7Bo8WrJ) | 3:35 |
 | 86 | [Charukeshi](https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI) | [Ambient](https://open.spotify.com/artist/3J3ZL8cDJpD90GxfzsQG69) | [Meditation: Calming Music for the Mind](https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k) | 3:56 |
-| 87 | [Goddess Evocation](https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:39 |
-| 88 | [For Elena](https://open.spotify.com/track/7iDHiEu0h4M6OMoVrrzjFb) | [Trevor H Oswalt](https://open.spotify.com/artist/52Jpr73eTCxjWBzhLyg1qk), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music to Be Born To](https://open.spotify.com/album/2Q7wXQthhk3QPt3wNelnWi) | 6:22 |
-| 89 | [Savasana](https://open.spotify.com/track/2A78rXxV5JqAdHGVGG4QHC) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Pamanyungan](https://open.spotify.com/album/1OlZjnAiLGv7MqlHG12hVH) | 8:32 |
+| 87 | [Savasana](https://open.spotify.com/track/2A78rXxV5JqAdHGVGG4QHC) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Pamanyungan](https://open.spotify.com/album/1OlZjnAiLGv7MqlHG12hVH) | 8:32 |
+| 88 | [Goddess Evocation](https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:39 |
+| 89 | [For Elena](https://open.spotify.com/track/7iDHiEu0h4M6OMoVrrzjFb) | [Trevor H Oswalt](https://open.spotify.com/artist/52Jpr73eTCxjWBzhLyg1qk), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music to Be Born To](https://open.spotify.com/album/2Q7wXQthhk3QPt3wNelnWi) | 6:22 |
 | 90 | [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 |
 | 91 | [The Hierophant](https://open.spotify.com/track/5fWtbghCtnvCD92Qdp1vWO) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw) | [The Spirit of Yoga](https://open.spotify.com/album/4j1FyRXikLSkVFdLEq56d6) | 15:13 |
 | 92 | [Closing Meditation](https://open.spotify.com/track/1d25xxmGKe134EkAn9s6AG) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live in Love, Vol\. 2](https://open.spotify.com/album/4jBwmGefP4zLBpJ3UN1gC2) | 6:00 |

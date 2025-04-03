@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-171 songs - 7 hr 42 min
+173 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2022-01-19 |  |
 | [Contrarium](https://open.spotify.com/track/6tKXlqopEqZM7Z8CRsAJqv) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Contrarium](https://open.spotify.com/album/1mvbBV8QQiCehqTYFrnQFU) | 2:09 | 2022-01-19 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2022-01-19 |  |
-| [Dawn Of Day](https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Dawn Of Day](https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx) | 4:04 | 2022-03-03 |  |
+| [Dawn Of Day](https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Dawn Of Day](https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx) | 4:04 | 2022-03-03 | 2025-04-03 |
 | [Daylight](https://open.spotify.com/track/1HwD9MgE9Uqv7YSHgZ5PBE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Daylight](https://open.spotify.com/album/47xd2MThv6TaiTB7tqYJ28) | 3:35 | 2022-01-19 | 2024-12-18 |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2022-01-19 |  |
 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 | 2022-01-19 | 2024-12-18 |
@@ -47,9 +47,10 @@
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2022-01-19 |  |
 | [Epiphania](https://open.spotify.com/track/3ZkHsyYw4go5gyXNhTzXB7) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Epiphania](https://open.spotify.com/album/3qouyLfbJvV6Q4rNjgzuc7) | 2:26 | 2022-02-16 |  |
 | [Et øyeblikk](https://open.spotify.com/track/4wwtlq6dqi0ztt989n4yiQ) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Et øyeblikk](https://open.spotify.com/album/3Th1olVBm5YAxu68k1q4Qn) | 2:41 | 2022-01-19 |  |
-| [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2022-01-19 |  |
+| [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2022-01-19 | 2025-04-03 |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-01-19 | 2022-02-03 |
 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 | 2022-02-02 |  |
+| [Flowering](https://open.spotify.com/track/7oCVDZqvjlw33dW9oLfdOx) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Flowering](https://open.spotify.com/album/2Gr0p2XdggIdbfAwYLDww7) | 2:43 | 2025-04-02 |  |
 | [Forgiveness](https://open.spotify.com/track/0sDQdDOiYsL5Dzk1nxAJx2) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/0DMxxCIZOqkOczbtnzPP6L) | 2:15 | 2022-07-27 | 2023-02-15 |
 | [Forgiveness](https://open.spotify.com/track/2NoXn9TM5FaSOiQyUW8nGb) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/64fE93vuSuTXASPp1ItvYV) | 2:15 | 2023-02-14 | 2024-04-19 |
 | [Forgiveness](https://open.spotify.com/track/4nAMkbTM9SlANHZPLOQjL6) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/2LOFsoK01oNsHb5pwmhQYa) | 2:15 | 2022-01-19 |  |
@@ -99,13 +100,13 @@
 | [New Beginning](https://open.spotify.com/track/1tAh9ygOksyZaC8IPdhICH) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 3:05 | 2022-01-19 |  |
 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2022-01-19 | 2024-12-18 |
 | [Nominous](https://open.spotify.com/track/2pi8vhUQXXwMpSuyVGdVfS) | [Vanessa Rigby](https://open.spotify.com/artist/0LyoDVhMC4AxoR29bYM1g1) | [Nominous](https://open.spotify.com/album/5hJSvHathEOf5KVHSlxvoC) | 2:11 | 2022-01-19 | 2025-01-30 |
-| [Nord](https://open.spotify.com/track/3LP2FRhLNVlAql83ked0n3) | [SUBLIMINIS](https://open.spotify.com/artist/4LOpZBJ55Oh85OA2LdrpeQ) | [Nord](https://open.spotify.com/album/4kjHjy6zfNSsmGdbj0VBdD) | 2:22 | 2022-01-19 |  |
+| [Nord](https://open.spotify.com/track/3LP2FRhLNVlAql83ked0n3) | [SUBLIMINIS](https://open.spotify.com/artist/4LOpZBJ55Oh85OA2LdrpeQ) | [Nord](https://open.spotify.com/album/4kjHjy6zfNSsmGdbj0VBdD) | 2:22 | 2022-01-19 | 2025-04-03 |
 | [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 | 2022-07-27 |  |
 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 | 2022-07-27 | 2024-10-23 |
 | [Oceans of dreams](https://open.spotify.com/track/4nuOT2R4KCUKaSPxWYWr0b) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Oceans of dreams](https://open.spotify.com/album/1S28M9KkO2lyyzMroR4JDW) | 2:14 | 2025-03-07 |  |
 | [Oculis](https://open.spotify.com/track/3rkfPXBvaNLZNzwrWZ0Dmd) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Oculis](https://open.spotify.com/album/1bPneybtqTRAZ9UZaehET0) | 2:58 | 2022-01-19 | 2025-01-08 |
-| [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 | 2022-03-17 |  |
-| [Over skyerne](https://open.spotify.com/track/4FHNG73v2Ws7QQqR2kvIUp) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Over skyerne](https://open.spotify.com/album/0ezMCGxdXrQbfDQDxjhaoL) | 2:51 | 2022-01-19 |  |
+| [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 | 2022-03-17 | 2025-04-03 |
+| [Over skyerne](https://open.spotify.com/track/4FHNG73v2Ws7QQqR2kvIUp) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Over skyerne](https://open.spotify.com/album/0ezMCGxdXrQbfDQDxjhaoL) | 2:51 | 2022-01-19 | 2025-04-03 |
 | [Pale Aurora](https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Pale Aurora](https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c) | 2:38 | 2025-01-29 |  |
 | [Paracosm](https://open.spotify.com/track/50u27CJ2G7hJnVzlW5yOQa) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Paracosm](https://open.spotify.com/album/7A2SrK0PkccqXKTmFHA6xF) | 3:36 | 2022-01-19 |  |
 | [Patchwork](https://open.spotify.com/track/4PwKiWYEuMoWfHz15vwEqF) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Contrarium](https://open.spotify.com/album/1mvbBV8QQiCehqTYFrnQFU) | 2:28 | 2022-01-19 | 2025-01-08 |
@@ -133,7 +134,7 @@
 | [Short and Peaceful](https://open.spotify.com/track/3hNo5tuFvOT5O9EjUKQYdD) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Note of Reflections](https://open.spotify.com/album/7yqwhrAIh7IaolxlwcMfw8) | 2:15 | 2022-01-19 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2022-01-19 |  |
 | [Sincerity](https://open.spotify.com/track/6LmFMurSx0pVsZCuHolQ1r) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Piano and My Heart](https://open.spotify.com/album/6LueQAU32JLzLcf4ONiAsi) | 2:54 | 2022-01-19 | 2025-01-08 |
-| [Slow Minor Reflection \(Rework\)](https://open.spotify.com/track/75xVb6hYBS7w1bd6rtoxQw) | [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [Slow Minor Reflection \(Rework\)](https://open.spotify.com/album/4pfbotQd3HJUKguN4dUsAC) | 2:49 | 2025-03-28 |  |
+| [Slow Minor Reflection \(Rework\)](https://open.spotify.com/track/75xVb6hYBS7w1bd6rtoxQw) | [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [Slow Minor Reflection \(Rework\)](https://open.spotify.com/album/4pfbotQd3HJUKguN4dUsAC) | 2:49 | 2025-03-28 | 2025-04-03 |
 | [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 | 2023-04-05 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-01-19 | 2024-11-14 |
 | [Solitude](https://open.spotify.com/track/23xaPw50MI2yuX666Jiyag) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Solitude](https://open.spotify.com/album/5UYaZ6FoT2W2RlU9H2lrZt) | 2:39 | 2022-01-19 | 2024-12-18 |
@@ -170,6 +171,7 @@
 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 | 2022-01-19 |  |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-01-19 |  |
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2022-01-19 |  |
+| [Water Drops](https://open.spotify.com/track/5837KEORGlanUg7OmwUyZ3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Water Drops](https://open.spotify.com/album/3LAwOUJFJH3y0eb5okmWO2) | 2:18 | 2025-04-02 |  |
 | [Waves](https://open.spotify.com/track/3Q4SprlTUVDg4HkH0e9vQR) | [Astrid Evans](https://open.spotify.com/artist/4f3z31SdUpS0auVOk6h2Vj) | [Waves](https://open.spotify.com/album/3BkQQlkS7ROeILw3aoJ2zu) | 2:24 | 2024-02-02 | 2025-03-05 |
 | [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-01-26 | 2024-04-19 |
 | [We Will Make It](https://open.spotify.com/track/7yVh5SkxIS6OpNlL8gf2Qx) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [We Will Make It](https://open.spotify.com/album/3XY93ClwPSOcghbPeDkGzr) | 2:08 | 2022-01-19 | 2025-01-30 |

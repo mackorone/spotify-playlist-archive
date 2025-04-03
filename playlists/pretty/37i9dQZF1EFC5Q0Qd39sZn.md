@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,677 likes - 572 songs - 1 day 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,678 likes - 572 songs - 1 day 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 155 | [Here In My Heart](https://open.spotify.com/track/13rVu8eRwoCb14fAHea824) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [New Inside](https://open.spotify.com/album/6JjjIH7QBynrssqyphngYi) | 4:08 |
 | 156 | [Wrap U Around Me](https://open.spotify.com/track/7yaSV1A46vEcTM27dpd8EC) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:22 |
 | 157 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
-| 158 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 |
-| 159 | [You Were Loved](https://open.spotify.com/track/5NGVnEhrimV9vYwPRxsM3i) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:10 |
+| 158 | [You Were Loved](https://open.spotify.com/track/5NGVnEhrimV9vYwPRxsM3i) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:10 |
+| 159 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 |
 | 160 | [I'm Still Breathing](https://open.spotify.com/track/7r3ZDv5CoIvWH0fDWMizJQ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:15 |
 | 161 | [Every Time You Walk Away](https://open.spotify.com/track/0tUYkDafsrHR12unxfFQ5D) | [D.A\. Wallach](https://open.spotify.com/artist/0NrYD7GlHbFixu0iknQ2xn) | [Time Machine](https://open.spotify.com/album/2Dobv4jeXllRUhEb8Ite5e) | 3:13 |
 | 162 | [Takin' Back My Heart](https://open.spotify.com/track/2ROJCBdOLQNp01eRXjsPG8) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 4:32 |
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 192 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
 | 193 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
 | 194 | [I Bow Out](https://open.spotify.com/track/2VgaALs0kKa9EG76A7T7uB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:29 |
-| 195 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 |
-| 196 | [Emotional Fire](https://open.spotify.com/track/4kQrlvq96vwdZx1OwOTaNS) | [Denise](https://open.spotify.com/artist/0c2b43v45DAQa34Xbzbx7H) | [Emotional Fire](https://open.spotify.com/album/3lyRFZvFmRFxMfAoiYyz1S) | 5:36 |
+| 195 | [Emotional Fire](https://open.spotify.com/track/4kQrlvq96vwdZx1OwOTaNS) | [Denise](https://open.spotify.com/artist/0c2b43v45DAQa34Xbzbx7H) | [Emotional Fire](https://open.spotify.com/album/3lyRFZvFmRFxMfAoiYyz1S) | 5:36 |
+| 196 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 |
 | 197 | [Rosie](https://open.spotify.com/track/3lf07xbXUAdsYlSJpRYQOp) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/1iHo9sJ9iZ8JKQDJMwAGyj) | 4:50 |
 | 198 | [Superhuman](https://open.spotify.com/track/4eMiknze54I87MoQ9yemCq) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/1DVit0dyCMSGJ4urswE5Sf) | 4:10 |
 | 199 | [No Quiero Estar Solo \- I Don't Want To Live Without Your Love](https://open.spotify.com/track/045UJJgTyiur8Nb43cgHdB) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Tesoros De Colección](https://open.spotify.com/album/4FXrmGk8amalcdXTBy33Il) | 3:50 |
@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 264 | [Through the Storm \(with Elton John\)](https://open.spotify.com/track/2xTzFWaVvNzmz1JXbhOt64) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Through the Storm](https://open.spotify.com/album/0K8kAGeIofQOUkWiMOYr8P) | 4:21 |
 | 265 | [Inside](https://open.spotify.com/track/3N6rgE1UZj3g3T3bKPKnpB) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/0aj4GGjLOlbmUgv4SZQaqU) | 4:12 |
 | 266 | [Borrowed Angels](https://open.spotify.com/track/4uaQpLvejMjjW5ve8JbAXl) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 4:03 |
-| 267 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
-| 268 | [Porque Me Amaste \(Because You Loved Me\)](https://open.spotify.com/track/1cGZBNNjsMHvn6QCcxSOVw) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:21 |
+| 267 | [Porque Me Amaste \(Because You Loved Me\)](https://open.spotify.com/track/1cGZBNNjsMHvn6QCcxSOVw) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:21 |
+| 268 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
 | 269 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 |
 | 270 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
 | 271 | [As Long As I Can Dream](https://open.spotify.com/track/2WukpFZIJd3HiF0Aos3eXE) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 4:50 |
@@ -296,8 +296,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 286 | [Explain It to My Heart \- 2009 Remaster](https://open.spotify.com/track/6wpw0KbDjLRjAG0Gp0AGxX) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:47 |
 | 287 | [Compass](https://open.spotify.com/track/04V4N1KAybtHjv5TiT6YTX) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/2HwasEZzIj3QfRc5n5HDQs) | 4:21 |
 | 288 | [Every Road Leads Back to You](https://open.spotify.com/track/2Rqjs2uSnjmbpAMG4T4G64) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [For the Boys \(Music from the Motion Picture\)](https://open.spotify.com/album/478uzZcKkV2fmQx6hmNYIv) | 3:47 |
-| 289 | [Nothing Hurts Like Love](https://open.spotify.com/track/72HPQqLjTB273IrE7cnHNx) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/2IGzeXqhpPyj3hsblRnUA1) | 3:04 |
-| 290 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
+| 289 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
+| 290 | [Nothing Hurts Like Love](https://open.spotify.com/track/72HPQqLjTB273IrE7cnHNx) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/2IGzeXqhpPyj3hsblRnUA1) | 3:04 |
 | 291 | [Better Me](https://open.spotify.com/track/0Q0cmtyVIj6rzDRMsRbkkx) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Calling All Hearts \(Deluxe\)](https://open.spotify.com/album/78lzpyeBeywyc6h9SCFrAO) | 3:55 |
 | 292 | [If I Was A River](https://open.spotify.com/track/4rR7VsNybSF84FRMho7DGU) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/3btFeEZj2oDNbNKK2YHr6a) | 5:20 |
 | 293 | [Moonlight \- DJ THT Edit](https://open.spotify.com/track/50m1SoDGafprzaJkqV3dtr) | [Jens O.](https://open.spotify.com/artist/1DDMrVXQt53FwOcxBQvjwh), [Ti\-mo](https://open.spotify.com/artist/73JwGHDxXzf3LpzZTqz2GG) | [Moonlight](https://open.spotify.com/album/3HSV7iYeObvpqCWJCzCA2V) | 3:20 |
@@ -581,4 +581,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 571 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 572 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `AbtpIQAAAABcxVfzMO+R5Elw9xo67LST`
+Snapshot ID: `AbtuwAAAAAB0mINR/+wT47c7Lg2ScSnP`

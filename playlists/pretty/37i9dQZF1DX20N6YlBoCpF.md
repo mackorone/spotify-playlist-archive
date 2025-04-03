@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Tuimeltrein, Dodo Nyoka, JAN JAN JAN, Renier West, Ray Dylan en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,298 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,300 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 4 | [Haar Naam Is Afrikaans](https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Haar Naam Is Afrikaans](https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN) | 3:24 |
 | 5 | [Ek Voel](https://open.spotify.com/track/5vTSSSIZxY6lWg2T2rKoSJ) | [Renier West](https://open.spotify.com/artist/6w6boCjphrBbeyvDWgRD9w) | [Ek Voel](https://open.spotify.com/album/7GbFcysOOQMUGfY9ye5Aap) | 3:44 |
 | 6 | [Soen Beter As Wat Jy Kook](https://open.spotify.com/track/0A5ghkFs1MvcX5hfA7SkVN) | [ADAM](https://open.spotify.com/artist/486zoG8VpR4C1iQRLG4ywt) | [Soen Beter As Wat Jy Kook](https://open.spotify.com/album/6AntjrajsVQwgNTQYmSA0n) | 2:51 |
-| 7 | [Karolis \(Sensasie Remix\)](https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Hokaai](https://open.spotify.com/album/6JQ57szEJM2faKvkX56CWH) | 3:10 |
+| 7 | [Karolis \(Sensasie Remix\) \(feat\. Sensasie\)](https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Hokaai](https://open.spotify.com/album/6JQ57szEJM2faKvkX56CWH) | 3:10 |
 | 8 | [Help 'n Bietjie](https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Help 'n Bietjie](https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ) | 3:18 |
 | 9 | [Jessica \(2025\)](https://open.spotify.com/track/13e6WQBbCtO7K37F6qkzIk) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Jessica \(2025\)](https://open.spotify.com/album/1XdjAkzisbcsO6F4Ehl6FA) | 3:55 |
 | 10 | [Die Ruimte](https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Die Ruimte](https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql) | 2:58 |

@@ -1,16 +1,16 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain](/playlists/plain/37i9dQZF1DWUSHGSJhLype) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUSHGSJhLype)
 
-### [PURO SUCO DO VERÃO](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
+### [PURO SUCO DO BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: DG e Batidão Stronda, J\. Eskine, Mc Davi, MC G15
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,075 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,148 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mãe Solteira](https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Mãe Solteira](https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y) | 2:24 |
 | 2 | [Resenha do Arrocha](https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [Resenha do Arrocha](https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt) | 5:54 |
-| 3 | [Fui Mlk](https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [FamousKyo](https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw) | [Fui Mlk](https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r) | 2:54 |
+| 3 | [Fui Mlk](https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [FamousKyo](https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw) | [Fui Mlk](https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r) | 2:54 |
 | 4 | [Sei Que Tu Me Odeia](https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:40 |
 | 5 | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F) | 1:58 |
 | 6 | [Nossas Fotos](https://open.spotify.com/track/7fW5TnCdNFhdPw7C2QakEO) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Nossas Fotos](https://open.spotify.com/album/3aVb56y4Uwa70qqEnlq4yi) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 74 | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT) | 1:57 |
 | 75 | [5 da Manhã \- Ao Vivo](https://open.spotify.com/track/1ACqzmTSro4ZaP08zENzyy) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [No Doze \(Ao Vivo\)](https://open.spotify.com/album/1jDYmb8gnCdgzMXvq1dSza) | 2:33 |
 
-Snapshot ID: `Z9Q2aQAAAABx5eGvJgUOqzGKXtOGYm4z`
+Snapshot ID: `Z+1fCwAAAADxVJwAYIsngsJHpvJ3VPn4`

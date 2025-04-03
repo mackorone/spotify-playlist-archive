@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our our March newsletter...</a> Cover: Hannah Cohen
 
-3,261 songs - 7 day 9 hr 32 min
+3,262 songs - 7 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1401,6 +1401,7 @@
 | [I Really Loved You](https://open.spotify.com/track/5ITa9AzlEG9b7gdY6LHvYU) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [My Life As A Teenage Robot](https://open.spotify.com/album/4at3Tbo8bXjoqO52EtrWUO) | 3:28 | 2019-10-25 | 2020-05-29 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 | 2023-11-11 |
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-11-01 | 2025-02-12 |
+| [I REMEMBER WHEN I WOKE UP](https://open.spotify.com/track/33QbyrTLRtBxgMzuNQsW5P) | [Kellan Christopher Cragg](https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq) | [WRONG BALLOON](https://open.spotify.com/album/15x3ySOZ2wxq5WsnlqPUZn) | 2:32 | 2025-04-02 |  |
 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-10-04 | 2025-01-18 |
 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/63NhLtWQ6UxCRIu1k8uSwQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [I think about it all the time featuring bon iver](https://open.spotify.com/album/3fLeZG6kziJwK5J0brDjuc) | 3:20 | 2024-10-15 | 2025-01-18 |
 | [I Think I Left the Stove On](https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5) | 3:22 | 2022-07-15 | 2022-09-09 |
@@ -1585,7 +1586,7 @@
 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 | 2025-02-05 |  |
 | [kiss me outro \(st0pid b0y\)](https://open.spotify.com/track/18OQipa6OHeGjHLkKBCVdy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [kiss me outro \(st0pid b0y\)](https://open.spotify.com/album/6aS49Qv8Y7coDHvmDi1CC6) | 2:21 | 2024-12-13 | 2025-01-17 |
 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 | 2020-05-29 | 2021-01-12 |
-| [Kitchen](https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:52 | 2024-12-20 |  |
+| [Kitchen](https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:52 | 2024-12-20 | 2025-04-03 |
 | [Kneepads](https://open.spotify.com/track/4nrMhdklAbLUkHRv1H7YkA) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Welcome to the Witching Hour](https://open.spotify.com/album/2gUR7ulwZBk5lmGHkwlhKX) | 2:35 | 2021-03-19 | 2021-11-13 |
 | [Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [The Snow Strippers](https://open.spotify.com/album/0cE44CtxepzcW0uP2Gx7xA) | 3:06 | 2023-11-07 | 2024-01-11 |
 | [Know You](https://open.spotify.com/track/4O0BeqEIU7KU2l8gQiO1eD) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Know You](https://open.spotify.com/album/6vkyH88dDtIfuhLNYXerEZ) | 3:25 | 2020-09-10 | 2021-04-10 |

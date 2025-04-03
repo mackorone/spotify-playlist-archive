@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWU6Rfto8Ppm.md) - [plain]
 
 > Reggaetón de antes y de siempre en compañía de Plan B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,683,248 likes - 200 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,683,754 likes - 200 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,6 +207,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWU6Rfto8Ppm.md) - [plain]
 | 197 | [Si la Vieras Bailar](https://open.spotify.com/track/7c7ajSiiY93LrpBoEBCFgB) | [Barbero 507](https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec) | [Si la Vieras Bailar](https://open.spotify.com/album/0e2L6CIVU5ZN2xjSmJCSLd) | 3:56 |
 | 198 | [Quiero Saber](https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 2:55 |
 | 199 | [En MI Piel](https://open.spotify.com/track/6IBY9rP6OpEyibe3RxlqBq) | [Fainal & Shako](https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD) | [The Hitmakers, Vol\. 1](https://open.spotify.com/album/7lOFMaGJP3waQdBRAFPAoz) | 3:53 |
-| 200 | [Te Pintaron Pajaritos](https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m) | 2:52 |
+| 200 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 |
 
 Snapshot ID: `Z8B1rQAAAABn1IWbxFb09xmTccT3wPGe`

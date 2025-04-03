@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With FM\-84, Ollie Wride, Gunship and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,810 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,822 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Summer Love](https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Summer Love](https://open.spotify.com/album/4Zl1Yj7CrI9eu3IqYSosCd) | 3:35 |
 | 50 | [I Recall \(feat\. Preston Knight\)](https://open.spotify.com/track/7twMy6xI9y6KeQAuYTtDYt) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Preston Knight](https://open.spotify.com/artist/3Y4jOIxBAW7KfdVXgV7jEQ) | [End of the Night](https://open.spotify.com/album/5RF60Ao2uqDcPTVq8vu9tX) | 4:43 |
 
-Snapshot ID: `Z+yrswAAAACQ5i108pBofurd9gt7wfja`
+Snapshot ID: `Z+3cCwAAAACrjlHTmIhD2TX9W2RGZMqG`

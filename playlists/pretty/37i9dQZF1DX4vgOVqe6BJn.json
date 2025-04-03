@@ -1,6 +1,6 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 196709,
+  "num_followers": 196712,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,30 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 223991,
+      "name": "On Your Own (feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/256Ew29R9ESFknfVXuJvSC"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
         "name": "Spitting Off the Edge of the World",
         "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
       },
@@ -1571,30 +1595,6 @@
       "duration_ms": 238440,
       "name": "Aquamarine (feat. Michael Kiwanuka)",
       "url": "https://open.spotify.com/track/1WS1Q9G8vj0gPN2aOkZ80A"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 223991,
-      "name": "On Your Own (feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/256Ew29R9ESFknfVXuJvSC"
     },
     {
       "added_at": "2023-01-25 16:56:24",

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Himonshu Parikh,  and other exciting artists.
 
-1,018 songs - 2 day 7 hr 32 min
+1,019 songs - 2 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Heartrate](https://open.spotify.com/track/5eIpJTGFOmhTvqhoSUgatA) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Alawn](https://open.spotify.com/artist/63v5XfKCQ3evu4ySkziIEZ) | [Heartrate](https://open.spotify.com/album/1T2eznFNyLN4vDATnHpcRy) | 2:42 | 2024-12-13 | 2025-01-11 |
 | [Heaven Made Ishq](https://open.spotify.com/track/1Hdb1FkpQG4gv4Y2lMGqqR) | [Vinay Katoch](https://open.spotify.com/artist/0X7ulxroScmdiJuVS2nAce) | [Heaven Made Ishq](https://open.spotify.com/album/7kCEhdHENF145d0HDSPiUU) | 3:44 | 2023-10-13 | 2023-11-18 |
 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 | 2024-08-23 | 2024-11-09 |
-| [Hey Aisha](https://open.spotify.com/track/5MBc50q8DgItOwgeHx5zav) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Hey Aisha](https://open.spotify.com/album/23ikRwidyOtMo336MTwyBS) | 2:42 | 2025-03-21 |  |
+| [Hey Aisha](https://open.spotify.com/track/5MBc50q8DgItOwgeHx5zav) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Hey Aisha](https://open.spotify.com/album/23ikRwidyOtMo336MTwyBS) | 2:42 | 2025-03-21 | 2025-04-03 |
 | [Hiraeth](https://open.spotify.com/track/4pTzZRo3JVA61E4ZoMYCbC) | [HEMANSHI](https://open.spotify.com/artist/2xdamRjIF9E9zAI11rT0Vx) | [Hiraeth](https://open.spotify.com/album/4ouPdUvSeHtwPlQ4h25ByJ) | 3:24 | 2024-09-20 | 2024-10-19 |
 | [Hissa](https://open.spotify.com/track/2qJZtHjoPd4kTW9yks7fQI) | [Kartik Sachdeva](https://open.spotify.com/artist/2rTtNkwWNAdHbfPhmCzCFx), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Hissa](https://open.spotify.com/album/2p0uXXaoRE4veYx6XOQi9k) | 2:42 | 2024-04-26 | 2024-06-29 |
 | [Ho Jo Tu Saamne Mere](https://open.spotify.com/track/2KUL4RwUKHRHnKJ8HnQi34) | [Mohit dogra](https://open.spotify.com/artist/0YhaFoYZeuu2Bnuf2EnjVH), [JUNAID AHMED](https://open.spotify.com/artist/1BvmJTLuPCi65qVZ3QsSih), [Shreya Bajpai](https://open.spotify.com/artist/5KseHb3FbamXt1d0P5SS4N) | [Ho Jo Tu Saamne Mere](https://open.spotify.com/album/1HZfKhqALlkOlGE6DxxDZd) | 3:17 | 2024-02-10 | 2024-03-02 |
@@ -368,6 +368,7 @@
 | [Intezaar](https://open.spotify.com/track/4yIoCve220GOx7x17Wk69B) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Intezaar](https://open.spotify.com/album/1Rk9eLLCjJifVY4zGufZqS) | 4:41 | 2023-07-28 | 2023-08-25 |
 | [Intezar](https://open.spotify.com/track/2yuZXpAlfirFjU2K9sDBk6) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Hitesh Lokhande](https://open.spotify.com/artist/42p0pfvWpQs8e4MJb3FFsl) | [Intezar](https://open.spotify.com/album/3PKvtaCmyp3dWVxo8fcd23) | 2:52 | 2024-05-03 | 2024-06-15 |
 | [Intezar \- Female Version](https://open.spotify.com/track/0wt8pr8qikMMN8r8F9gqLB) | [Srishti Bhandari](https://open.spotify.com/artist/0wZVnB36ng3hXHxkBReBpG) | [Intezar \(Female Version\)](https://open.spotify.com/album/2PqNVihrebsSQ6qfV8kVbD) | 3:07 | 2024-06-21 | 2024-07-27 |
+| [Is It Okay?](https://open.spotify.com/track/2KTzGihwWGpWXi3ysoAnW8) | [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Anahita Dawar](https://open.spotify.com/artist/5QBO7zupabRkodbX53gLug) | [Is It Okay?](https://open.spotify.com/album/5ATVhjWHv6fKepQnjYPPRb) | 3:32 | 2025-03-27 |  |
 | [Ishaare](https://open.spotify.com/track/33ZSjdEUt5LmAgF1DRizHF) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [Finding Joy](https://open.spotify.com/album/0eAenznPhLMhCpuKNmcNJW) | 1:53 | 2025-03-21 |  |
 | [Ishq](https://open.spotify.com/track/7d4xV9QurriaLxYwxbUZxa) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ishq](https://open.spotify.com/album/6ZQ8vCY94TRUNz5B6SAscW) | 4:14 | 2024-04-19 | 2024-06-15 |
 | [Ishq Rang Reza](https://open.spotify.com/track/5wEfczCkc17dZ3mQu8meA1) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Poorvi Koutish](https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p) | [Ishq Rang Reza](https://open.spotify.com/album/7iOpJU0Ky0R4YmkNARz5LP) | 2:47 | 2024-11-29 | 2024-12-14 |

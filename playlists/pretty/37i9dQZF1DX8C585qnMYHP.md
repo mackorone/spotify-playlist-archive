@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,027 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,037 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 81 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 |
 | 82 | [EVER](https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [THE QUANTA SERIES](https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29) | 6:29 |
 | 83 | [Echo Drift](https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT) | 3:19 |
-| 84 | [Abyss Glow](https://open.spotify.com/track/0W6s0iYw82X92CofYQShX5) | [Guenter Råler](https://open.spotify.com/artist/6udMDUWc1J0Kr8bZ45nk4W) | [Abyss Glow](https://open.spotify.com/album/2fODU8uraYB5IUL5ZD5FDC) | 7:09 |
-| 85 | [Väter und Söhne](https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy) | [Alex Kaminski](https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7) | [Väter und Söhne](https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW) | 5:53 |
+| 84 | [Väter und Söhne](https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy) | [Alex Kaminski](https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7) | [Väter und Söhne](https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW) | 5:53 |
+| 85 | [Abyss Glow](https://open.spotify.com/track/0W6s0iYw82X92CofYQShX5) | [Guenter Råler](https://open.spotify.com/artist/6udMDUWc1J0Kr8bZ45nk4W) | [Abyss Glow](https://open.spotify.com/album/2fODU8uraYB5IUL5ZD5FDC) | 7:09 |
 | 86 | [hope's return](https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [hope's return](https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q) | 1:43 |
 | 87 | [Sweat](https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Sweat](https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J) | 2:53 |
 | 88 | [Nowhere](https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Nowhere](https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh) | 3:49 |
 | 89 | [005 MAGIK](https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm) | [ONYX GARDEN](https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx) | [FLOATING / 005 MAGIK](https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa) | 3:36 |
 | 90 | [Night Plotters](https://open.spotify.com/track/6dmczsqgtAQ7O8PXX9vD0l) | [SabaSaba](https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV) | [Unknown City](https://open.spotify.com/album/5k23jNmflDH7hiCQ3KQco2) | 3:14 |
-| 91 | [Up and Down](https://open.spotify.com/track/42swVwBM6DiiIJnQMj53UE) | [Kmonvish Lawan](https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9), [Rafiq Ridzwan](https://open.spotify.com/artist/79UiNuRg5UYL08XAHrOsdm) | [Up and Down](https://open.spotify.com/album/1HhAH62fbCeoVMwvFARiwP) | 3:16 |
-| 92 | [Air in the Dark](https://open.spotify.com/track/6C2RgC32elJb8ktvWvUEIZ) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [Air in the Dark](https://open.spotify.com/album/7mm77HNHmOZ0WGqIfWnctD) | 3:43 |
+| 91 | [Air in the Dark](https://open.spotify.com/track/6C2RgC32elJb8ktvWvUEIZ) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [Air in the Dark](https://open.spotify.com/album/7mm77HNHmOZ0WGqIfWnctD) | 3:43 |
+| 92 | [Up and Down](https://open.spotify.com/track/42swVwBM6DiiIJnQMj53UE) | [Kmonvish Lawan](https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9), [Rafiq Ridzwan](https://open.spotify.com/artist/79UiNuRg5UYL08XAHrOsdm) | [Up and Down](https://open.spotify.com/album/1HhAH62fbCeoVMwvFARiwP) | 3:16 |
 | 93 | [AMB005](https://open.spotify.com/track/4ylbp6v81OzyWEcla9nqMM) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB005](https://open.spotify.com/album/0jKG73qcfRcWA8pHx4ibeT) | 5:58 |
 | 94 | [Sailor \(for fin\)](https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt) | [Giulia Impache](https://open.spotify.com/artist/37QS09rahGmzedxYYv93tb) | [IN:titolo](https://open.spotify.com/album/1IfDRUJl02s8omCCPnhg0Y) | 5:19 |
 | 95 | [500 ascended](https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: House of Protection
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,272 likes - 260 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,244 likes - 260 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,9 +227,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 217 | [Funeral Pyre](https://open.spotify.com/track/2oJwPMsHAMmsfpPFWEDrpP) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [Funeral Pyre](https://open.spotify.com/album/5R7ydNkplsFRSalqmiUjnE) | 4:00 |
 | 218 | [Shoot](https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Shoot](https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ) | 2:07 |
 | 219 | [Limousine](https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Limousine](https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh) | 3:21 |
-| 220 | [You Will Never Get Me](https://open.spotify.com/track/42MMJB5rgQu5X0P4nA8W6a) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl), [Justice Tripp](https://open.spotify.com/artist/008UbL8nKPVp5qTOVzG6S2) | [You Will Never Get Me](https://open.spotify.com/album/3YXZGlXuZHRdttyYShJRGn) | 2:19 |
+| 220 | [Weird Punx](https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L) | 2:34 |
 | 221 | [BED OF NAILS](https://open.spotify.com/track/2D3DJWvbt96sgDYR8rHcpR) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [BED OF NAILS](https://open.spotify.com/album/5hNrR9DKWi3HDavme0qTkd) | 4:13 |
-| 222 | [Weird Punx](https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L) | 2:34 |
+| 222 | [You Will Never Get Me](https://open.spotify.com/track/42MMJB5rgQu5X0P4nA8W6a) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl), [Justice Tripp](https://open.spotify.com/artist/008UbL8nKPVp5qTOVzG6S2) | [You Will Never Get Me](https://open.spotify.com/album/3YXZGlXuZHRdttyYShJRGn) | 2:19 |
 | 223 | [Pathetic Apathetic](https://open.spotify.com/track/5OcMcGcKszTIqQCL5Ibx1Y) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [Pathetic Apathetic](https://open.spotify.com/album/6idGcmlGvvwJaE778FO6UX) | 3:35 |
 | 224 | [Ceremonia](https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE) | 2:58 |
 | 225 | [Idiot Box](https://open.spotify.com/track/015kSVnGm0KHrcHFf5o1ND) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Idiot Box](https://open.spotify.com/album/6JWMghtrHlYLNYOp45X7Qe) | 4:58 |
@@ -253,13 +253,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 243 | [Shadowlight](https://open.spotify.com/track/1U292iuwphTOCGq1npE5Az) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [Shadowlight](https://open.spotify.com/album/638ZLO2U7xHjasPm6zroiT) | 3:26 |
 | 244 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 |
 | 245 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 |
-| 246 | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/album/77saHZy6WPP1JjEVPr4e74) | 3:41 |
-| 247 | [MILF](https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [MILF](https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO) | 2:00 |
+| 246 | [MILF](https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [MILF](https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO) | 2:00 |
+| 247 | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/album/77saHZy6WPP1JjEVPr4e74) | 3:41 |
 | 248 | [The Mirror](https://open.spotify.com/track/0635umlrKge8mAyC3bhDh4) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [The Mirror](https://open.spotify.com/album/7bwYqda70nBp9i4n3R0Vuj) | 3:01 |
 | 249 | [Punk's Dead](https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM) | 3:12 |
 | 250 | [A Good Day](https://open.spotify.com/track/5gq34LCZc9cFd8G9dozu1N) | [Voodoo Bloo](https://open.spotify.com/artist/7KvGcDcUQV7YpyuQHaW5IO) | [Dead\-end Rodeo](https://open.spotify.com/album/4q7uK6eP7CXcfH96FqBiVD) | 3:20 |
-| 251 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 |
-| 252 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 |
+| 251 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 |
+| 252 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 |
 | 253 | [Love, Lies & Alibis](https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ) | [The Calamatix](https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys) | [Love, Lies & Alibis](https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF) | 2:08 |
 | 254 | [Descend](https://open.spotify.com/track/21gzflUH729pjKczveSrHU) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Descend](https://open.spotify.com/album/4tnun5NPcqNyEBaWacXb97) | 3:40 |
 | 255 | [HAPPY](https://open.spotify.com/track/3kveKispNPTfBTsBkd5bUv) | [Tropic Gold](https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP) | [HAPPY](https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6) | 3:36 |

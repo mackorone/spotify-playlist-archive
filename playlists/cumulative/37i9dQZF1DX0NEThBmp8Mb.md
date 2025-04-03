@@ -2,7 +2,7 @@
 
 ### [Babygirl Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0NEThBmp8Mb)
 
-> This Christmas get exactly what you want...Listen to the music from Babygirl, now in theaters.
+> This Christmas get exactly what you want...Listen to the music from Babygirl.
 
 22 songs - 59 min 29 sec
 

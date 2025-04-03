@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-512 songs - 1 day 4 hr 45 min
+513 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Hum do kabhi](https://open.spotify.com/track/1MUPtJOk8iAPcPTS2KcmU2) | [Somnathan](https://open.spotify.com/artist/3K4ygWBl8SBDTyxCNgNgom) | [Hum do kabhi](https://open.spotify.com/album/0i07X1bVxUbW11DAakvXz9) | 3:21 | 2024-12-06 | 2024-12-22 |
 | [Hum Dono](https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 3:41 | 2023-11-28 | 2024-04-01 |
 | [Hum Yun Chale](https://open.spotify.com/track/37NYkKo9phEN8iWLiesBvK) | [MANN CHAUHAN](https://open.spotify.com/artist/0WyHzkinmJ49pV1UbRFNeF), [Dev S Chauhan](https://open.spotify.com/artist/62dn6lr4zmXJY8vVMFm58S) | [Hum Yun Chale](https://open.spotify.com/album/0CFjV3EBk6xQ3kAySqwh1z) | 3:46 | 2024-10-24 | 2025-01-18 |
-| [Humnasheen \(Acoustic\)](https://open.spotify.com/track/3cFD0MJGAKav9Hpum2ZjwX) | [Suddipta Borthakur](https://open.spotify.com/artist/1SNo36nyvDNd9lcuNTQh6D), [KENXU](https://open.spotify.com/artist/4U1YiYeYugLOXPa3QnCOkP) | [Humnasheen \(Acoustic\)](https://open.spotify.com/album/2C0xPWdulOBWUWWX5A4IYO) | 3:47 | 2025-02-28 |  |
+| [Humnasheen \(Acoustic\)](https://open.spotify.com/track/3cFD0MJGAKav9Hpum2ZjwX) | [Suddipta Borthakur](https://open.spotify.com/artist/1SNo36nyvDNd9lcuNTQh6D), [KENXU](https://open.spotify.com/artist/4U1YiYeYugLOXPa3QnCOkP) | [Humnasheen \(Acoustic\)](https://open.spotify.com/album/2C0xPWdulOBWUWWX5A4IYO) | 3:47 | 2025-02-28 | 2025-04-03 |
 | [Humnava \(Reprise\)](https://open.spotify.com/track/5soQc8BLjpCkIMScA6bqyf) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Humnava \(Reprise\)](https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw) | 3:42 | 2023-06-23 | 2024-02-10 |
 | [Humrahi](https://open.spotify.com/track/6WtDu65rYAFGg4qQjg90j4) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Humrahi](https://open.spotify.com/album/7rF1PE7i0Ejsx9lSq6Eyw5) | 4:03 | 2024-05-15 |  |
 | [Humsafar](https://open.spotify.com/track/516SWZ5y1twlrP0IYDGPk0) | [Rudra](https://open.spotify.com/artist/5EO6SxkYfoyhOFwfy9HEUq) | [Humsafar](https://open.spotify.com/album/5bMPgMjeFLzBmXTu8UkBum) | 2:42 | 2024-03-18 | 2024-06-01 |
@@ -354,6 +354,7 @@
 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 | 2023-07-07 | 2023-07-15 |
 | [Parindey](https://open.spotify.com/track/1hB2v1jDsLe9ApvDYJ0twe) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Parindey](https://open.spotify.com/album/2gMzRhTnjzT8VD5Qy5Ao0q) | 3:01 | 2023-05-17 | 2023-08-29 |
 | [Pariyon Ki Duniya](https://open.spotify.com/track/4PnZwswnElBV5JemrOnSuM) | [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY), [Nastya Saraswati](https://open.spotify.com/artist/0jtyiGiZtoSVHLgK4Qxz3Q) | [Pariyon Ki Duniya](https://open.spotify.com/album/7MUReK6TwvioU10WVkZLiZ) | 3:01 | 2024-05-17 | 2024-09-06 |
+| [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 | 2025-04-02 |  |
 | [Parwaah](https://open.spotify.com/track/5CeWyGt9oMtsBBOLtYRTl5) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Parwaah](https://open.spotify.com/album/0bxsenYWUkYi3nEDuPefhd) | 4:22 | 2023-05-17 | 2023-06-24 |
 | [Parwaaz](https://open.spotify.com/track/4ZKNx6PVTkX5zUtPUHX2tW) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Parwaaz](https://open.spotify.com/album/10SbTpq2BTnqjnkbhkUDL8) | 4:11 | 2024-02-09 | 2024-03-12 |
 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 | 2023-05-17 | 2023-08-10 |

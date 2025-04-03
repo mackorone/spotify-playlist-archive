@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Song Sohee\(송소희\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 로이킴\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-597 songs - 1 day 15 hr 3 min
+598 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Around You](https://open.spotify.com/track/1FDmOfHoU1hXFxHjWMPObq) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Around You](https://open.spotify.com/album/28DDo4pRZosbVFpZxGnJbn) | 3:59 | 2022-07-04 | 2022-07-23 |
 | [As always](https://open.spotify.com/track/2vwbkdH4deV947bonfeKI4) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [As always](https://open.spotify.com/album/6tMA69q44j87tm123uSouo) | 3:49 | 2024-06-05 | 2024-08-13 |
 | [As Autumn Brings Cold Wind](https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [As Autumn Brings Cold Wind](https://open.spotify.com/album/45hrhqXvP86clCVmptlKBA) | 4:19 | 2023-10-05 | 2023-11-10 |
+| [As Is](https://open.spotify.com/track/5cr5ffcY53WvwLnsnlgcvY) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [As Is](https://open.spotify.com/album/0aSUdhZA53QNrR3uERvnFU) | 4:06 | 2025-04-02 |  |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2021-12-27 | 2022-07-24 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-20 | 2025-03-20 |
 | [Autumn Night](https://open.spotify.com/track/05f49QdY08agCPBn5ihwt2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:04 | 2022-03-24 | 2022-04-20 |
@@ -392,7 +393,7 @@
 | [Our unrequited love story \(Korean Ver.\)](https://open.spotify.com/track/4bAtJo9xcOBlWO6nAxbkRZ) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Our unrequited love story](https://open.spotify.com/album/0suBDEQUPriV1qzaWkfjX2) | 3:35 | 2023-12-01 | 2023-12-14 |
 | [Over the window \(feat\. Paul Kim\)](https://open.spotify.com/track/1TsMSWZHdljgsgIqAH7JuT) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Over the window](https://open.spotify.com/album/3JKlj3W1hKvqICDM3pGXPF) | 4:01 | 2023-12-14 | 2024-01-13 |
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-29 | 2022-04-15 |
-| [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 | 2024-02-27 |  |
+| [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 | 2024-02-27 | 2025-04-03 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2021-12-20 |  |
 | [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 | 2025-03-15 |
 | [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2023-12-20 | 2024-01-02 |

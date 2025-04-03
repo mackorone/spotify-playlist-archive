@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 61587,
+  "num_followers": 61585,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Run Rudolph Run - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 155846,
-      "name": "Run Rudolph Run - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "Holiday Road - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 182360,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Run Rudolph Run - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 155846,
+      "name": "Run Rudolph Run - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Holidays",
-        "url": "https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        }
-      ],
-      "duration_ms": 104793,
-      "name": "Dance of the Sugar Plum Fairy",
-      "url": "https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "On attendait No\u00ebl",
         "url": "https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 226786,
       "name": "On attendait No\u00ebl",
       "url": "https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "duration_ms": 104793,
+      "name": "Dance of the Sugar Plum Fairy",
+      "url": "https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        },
-        {
-          "name": "Lili-Ann De Francesco",
-          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "Six heures d'avion nous s\u00e9parent",
         "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
       },
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        },
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
         "name": "No\u00ebl brille encore",
         "url": "https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 206666,
       "name": "No\u00ebl brille encore",
       "url": "https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Les Plus Beaux Noels Du Monde",
+        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mouskouri",
+          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Petit gar\u00e7on",
+      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Les Plus Beaux Noels Du Monde",
-        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+        "name": "Qu\u00e9bec love : La collection",
+        "url": "https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8"
       },
       "artists": [
         {
-          "name": "Nana Mouskouri",
-          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+          "name": "Tex Lecor",
+          "url": "https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek"
         }
       ],
-      "duration_ms": 169640,
-      "name": "Petit gar\u00e7on",
-      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
+      "duration_ms": 182026,
+      "name": "No\u00ebl au camp",
+      "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Qu\u00e9bec love : La collection",
-        "url": "https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8"
+        "name": "Encore (Bonus Album)",
+        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
       },
       "artists": [
         {
-          "name": "Tex Lecor",
-          "url": "https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek"
+          "name": "Brigitte",
+          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
         }
       ],
-      "duration_ms": 182026,
-      "name": "No\u00ebl au camp",
-      "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
+      "duration_ms": 146426,
+      "name": "No\u00ebl blanc",
+      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1595,22 +1611,6 @@
       "duration_ms": 207720,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
-        "name": "Encore (Bonus Album)",
-        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
-      },
-      "artists": [
-        {
-          "name": "Brigitte",
-          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
-        }
-      ],
-      "duration_ms": 146426,
-      "name": "No\u00ebl blanc",
-      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Chansons tristes pour No\u00ebl",
-        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+        "name": "Le ciel \u00e9tait blanc / Ribbons",
+        "url": "https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1"
       },
       "artists": [
         {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+          "name": "Mirabelle",
+          "url": "https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m"
+        },
+        {
+          "name": "Laurence H\u00e9lie",
+          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
         }
       ],
-      "duration_ms": 189186,
-      "name": "Pour la premi\u00e8re fois, No\u00ebl sera gris",
-      "url": "https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw"
+      "duration_ms": 266933,
+      "name": "Le ciel \u00e9tait blanc",
+      "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-421 songs - 18 hr 41 min
+422 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Anji](https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:13 | 2021-12-10 | 2022-04-06 |
 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 | 2021-12-10 | 2023-06-10 |
 | [Another Perspective](https://open.spotify.com/track/7hx5wUFiy40D5nviyVCNdh) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Another Perspective](https://open.spotify.com/album/3p8nGt4Dn5go0hOypGZCDR) | 3:16 | 2023-12-15 | 2024-04-06 |
-| [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 |  |
+| [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 | 2025-04-03 |
 | [Aquamarine](https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Aquamarine](https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn) | 2:39 | 2023-10-27 | 2024-07-18 |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-03-03 |  |
 | [Arrival at Eight](https://open.spotify.com/track/3kxSndcN8vYmIJiZvyhj8J) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Arrival at Eight](https://open.spotify.com/album/6wRfEhLfpsIBuHVPDofp0E) | 3:38 | 2022-11-18 | 2023-09-01 |
@@ -125,7 +125,7 @@
 | [Fairplex](https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Fairplex](https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu) | 2:07 | 2023-08-11 |  |
 | [Fairytale](https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Fairytale](https://open.spotify.com/album/4f3CoCIOgJGOPgdZLu8ycA) | 2:28 | 2023-10-27 | 2024-06-28 |
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-03-10 | 2024-06-28 |
-| [Falling whisper](https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Falling whisper](https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj) | 2:45 | 2025-03-25 |  |
+| [Falling whisper](https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Falling whisper](https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj) | 2:45 | 2025-03-25 | 2025-04-03 |
 | [Felicitas](https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Felicitas](https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT) | 2:45 | 2024-02-23 |  |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-06-10 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-26 | 2023-06-16 |
@@ -177,7 +177,7 @@
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-10 | 2022-04-22 |
 | [Is It Worth The Sacrifice](https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Is It Worth The Sacrifice](https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ) | 3:46 | 2022-11-18 |  |
 | [Junto Contigo](https://open.spotify.com/track/5Hb0hG9ulwZBV7FuTnQMia) | [Nonô Ferreira](https://open.spotify.com/artist/1BHWBUxqmSIEyToEj6Wews) | [Junto Contigo](https://open.spotify.com/album/0CQXxwOMNTzGvnvtX54HuL) | 2:14 | 2022-10-28 |  |
-| [Kaleidoscope World](https://open.spotify.com/track/3DUnJflhjIE88YwHPDSQ6Q) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Kaleidoscope World](https://open.spotify.com/album/41fqFGFhc7liXIp6xz0GSO) | 1:46 | 2024-12-10 |  |
+| [Kaleidoscope World](https://open.spotify.com/track/3DUnJflhjIE88YwHPDSQ6Q) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Kaleidoscope World](https://open.spotify.com/album/41fqFGFhc7liXIp6xz0GSO) | 1:46 | 2024-12-10 | 2025-04-03 |
 | [Kapri](https://open.spotify.com/track/3iNj8HFlWjJLQsSoj30Umh) | [Bill Soeder](https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn) | [Kapri](https://open.spotify.com/album/0tBA9ZTyLoZ7FHkSM11msZ) | 3:06 | 2024-11-20 |  |
 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-31 | 2023-08-26 |
 | [Kenmore](https://open.spotify.com/track/4XA5ebDvEQWnJjx8FADGvv) | [Dax Warner](https://open.spotify.com/artist/4IsX7IbImt8clMeZtsIEQ9) | [Kenmore](https://open.spotify.com/album/1mMxcoGF5nnH8dsecanu0B) | 3:12 | 2023-08-11 |  |
@@ -211,7 +211,7 @@
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-03-10 | 2023-06-16 |
 | [Lost Intentions](https://open.spotify.com/track/7f7sBSR4G1LySZ1hhpc1ux) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Lost Intentions](https://open.spotify.com/album/4o0RSC1qJQLGorvbBnMHrO) | 2:49 | 2024-07-18 |  |
 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 | 2023-03-10 |  |
-| [Low\-lying Indiana](https://open.spotify.com/track/5NYLrenhF9CwDOgun0jdP0) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Low\-lying Indiana](https://open.spotify.com/album/3Z5FUnIVf3Vo4sSJBs8AEV) | 1:52 | 2025-01-20 |  |
+| [Low\-lying Indiana](https://open.spotify.com/track/5NYLrenhF9CwDOgun0jdP0) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Low\-lying Indiana](https://open.spotify.com/album/3Z5FUnIVf3Vo4sSJBs8AEV) | 1:52 | 2025-01-20 | 2025-04-03 |
 | [Lumen](https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Lumen](https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD) | 2:36 | 2023-08-24 | 2023-09-20 |
 | [Lute](https://open.spotify.com/track/2NdSxdafeYHyE0UT2tu2CR) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Odoacer](https://open.spotify.com/album/6Zgfn2b9hQTXgN4tOVuau3) | 2:57 | 2022-03-03 | 2023-03-10 |
 | [Lux Brumalis](https://open.spotify.com/track/2QrxZvUD1JpMLREXy3D44T) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Lux Brumalis](https://open.spotify.com/album/7xfHnRzqnzx8rQNClgi6Pm) | 2:47 | 2023-12-15 |  |
@@ -295,7 +295,7 @@
 | [Rippling Waters](https://open.spotify.com/track/2CJYWfBlOJ9WWoi5ynPMDf) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Rippling Waters](https://open.spotify.com/album/6vbPmAiYbJaGwsE3Ieli13) | 2:23 | 2023-10-13 | 2025-03-06 |
 | [Road To Pappy's](https://open.spotify.com/track/4e9rBrNPDRoXqlT2anxvmu) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Road To Pappy's](https://open.spotify.com/album/17n0YzedIGhgxEKFgvNZmf) | 2:33 | 2023-05-26 | 2023-06-16 |
 | [Saint Michel](https://open.spotify.com/track/1vx0RMtjAs0ZiLKXTsIxzA) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Saint Michel](https://open.spotify.com/album/5B6U8Kx1LppXVW0FivQdLS) | 2:47 | 2024-02-23 |  |
-| [Salt Water](https://open.spotify.com/track/4qO8z8SUzeYLBeG3Mp7aqV) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Salt Water](https://open.spotify.com/album/4MnldJg70rWC1FR5wlKtcu) | 2:46 | 2024-10-09 |  |
+| [Salt Water](https://open.spotify.com/track/4qO8z8SUzeYLBeG3Mp7aqV) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Salt Water](https://open.spotify.com/album/4MnldJg70rWC1FR5wlKtcu) | 2:46 | 2024-10-09 | 2025-04-03 |
 | [Sanremo](https://open.spotify.com/track/242E5RUG5gjHgZa7PjOUNg) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Sanremo](https://open.spotify.com/album/6rgFGj3GbupAuYNeG38r7f) | 2:34 | 2023-11-24 | 2024-01-12 |
 | [Sans Toi](https://open.spotify.com/track/0gYgdEiS0wNp4OFllLrpr3) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi \- Guitar](https://open.spotify.com/album/38NCkRjEp9lwz3GmRQOyeq) | 2:18 | 2023-01-20 | 2024-06-07 |
 | [Santorini](https://open.spotify.com/track/0rx4tPhXaiVrpglMzVLVbj) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Santorini](https://open.spotify.com/album/0Ipg8tK3kvzke2pNfPVFSz) | 2:09 | 2023-10-13 |  |
@@ -361,6 +361,7 @@
 | [The Mystic Road](https://open.spotify.com/track/6n3iSlWrYxHHazT3mpt8o4) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Mystic Road](https://open.spotify.com/album/7qosCuQM11X2959HiZ6gxI) | 2:08 | 2024-09-03 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-04-05 | 2022-07-22 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-10 | 2022-07-22 |
+| [The Relaxing One](https://open.spotify.com/track/2sDcb2ggGJeUZTMAVwl0D8) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Relaxing One](https://open.spotify.com/album/5SCMUBbunDL4RnEdb8wtWp) | 2:36 | 2025-04-02 |  |
 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 | 2024-05-10 |  |
 | [The Story's Not Over](https://open.spotify.com/track/4xezVAKUPJHq7BQarlvLyz) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [The Story's Not Over](https://open.spotify.com/album/2VDKfqYkAocJbbpzdJcHVk) | 3:07 | 2024-05-10 |  |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-28 | 2023-08-26 |
@@ -377,7 +378,7 @@
 | [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 | 2021-12-10 | 2024-04-20 |
 | [To The Brim](https://open.spotify.com/track/0DbVOryVKBRdOFgfhPYok4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [To The Brim](https://open.spotify.com/album/0v0QEp2zydw5qHPNWwVebn) | 2:09 | 2025-01-07 |  |
 | [Together Again](https://open.spotify.com/track/163pGELrVriFgvYwdiOHlW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Together Again](https://open.spotify.com/album/14Iv2IpxEhAsdqehdpbHfc) | 2:31 | 2024-06-28 |  |
-| [Too Soon to Tell](https://open.spotify.com/track/45kY29wtAE6MMJcvCXZYhP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Too Soon to Tell](https://open.spotify.com/album/0GUNid0wDuvNNWVuq16wbr) | 1:42 | 2025-02-19 |  |
+| [Too Soon to Tell](https://open.spotify.com/track/45kY29wtAE6MMJcvCXZYhP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Too Soon to Tell](https://open.spotify.com/album/0GUNid0wDuvNNWVuq16wbr) | 1:42 | 2025-02-19 | 2025-04-03 |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [Transcriptions](https://open.spotify.com/track/3ATzG4vitn9sofXnijDnC4) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Transcriptions](https://open.spotify.com/album/3hupzNirqWswKUEO17rz6s) | 2:50 | 2024-05-10 |  |
 | [Translucent](https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Translucent](https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz) | 3:16 | 2024-01-12 |  |

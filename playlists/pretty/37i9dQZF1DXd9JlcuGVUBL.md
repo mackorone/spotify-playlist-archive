@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=1PQpu\_uVQGe\-BJVRB48E5Q">Doda Nyoka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,128 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,150 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

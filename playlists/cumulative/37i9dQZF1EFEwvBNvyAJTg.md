@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 12 hr 45 min
+233 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [in the car](https://open.spotify.com/track/5zNJ8sfjLHdmhRlJxNjGfl) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2 \(og version\)](https://open.spotify.com/album/15h14WTWpQpFWjaw81uD0N) | 2:09 | 2024-06-13 |  |
 | [Invisible Girl](https://open.spotify.com/track/3JLsOYOM8yuEuOSzdE7p6k) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [Ten](https://open.spotify.com/album/7mFPFmUxUnFh4HhL97ff0z) | 3:33 | 2025-01-09 |  |
 | [Joyride](https://open.spotify.com/track/1nWLk91OyxUSJNYNNExTkK) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 | 2024-06-13 |  |
+| [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 | 2025-04-02 |  |
 | [Just Got Paid](https://open.spotify.com/track/5CpkVOosLFc83LbwqO6hnI) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:38 | 2024-06-13 |  |
 | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/track/3xmfi7nXVWFFN706CBTAyP) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/album/6Pp51kxuCHKcHMhopNfMNo) | 3:52 | 2024-06-13 |  |
 | [Kite](https://open.spotify.com/track/41FeK6ujXWI509FfrRJ72L) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 2:45 | 2024-10-27 |  |

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> REDDY\(레디\)\)
 
-1,487 songs - 3 day 8 hr 37 min
+1,490 songs - 3 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [BROKEN FERRARI](https://open.spotify.com/track/0HDCRQtvg8z1HxKW7uk4G7) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [BROKEN FERRARI](https://open.spotify.com/album/5TDBEuR0ozKPTH2NQPjYkW) | 3:35 | 2022-03-09 | 2022-06-12 |
 | [BRUISE \(Feat\. Skinny Brown, Loopy\)](https://open.spotify.com/track/45pjYjmR1qekpLX5SviYXZ) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [루피 \(Loopy\)](https://open.spotify.com/artist/1m9RWAAMDiUdOo9WDW9JoP) | [BRUISE](https://open.spotify.com/album/7Ci64GT3vPXALHb9j7rEAh) | 4:17 | 2022-12-09 | 2023-01-18 |
 | [Brunch](https://open.spotify.com/track/2rCE9eozHmfoqFVPOPHtCe) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Eat it when u nneed it](https://open.spotify.com/album/5OiW24T1l7SUyerZnskqKN) | 2:59 | 2022-02-17 | 2022-06-05 |
+| [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-04-03 |  |
 | [Bubble Gum](https://open.spotify.com/track/3JrvloWdt3aQNvHz9eGTqc) | [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY) | [Bubble Gum](https://open.spotify.com/album/6PdpK07kj9Uf5Bs2Xm0isj) | 3:04 | 2022-10-23 | 2022-12-10 |
 | [Buck](https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [DIFF](https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B) | 2:04 | 2023-04-18 | 2023-11-04 |
 | [Bucket List \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0ZUa8tF0zbGNvnST6xKHUg) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Time Machine](https://open.spotify.com/album/5zKdvQXlzgQfpHtfinxUgZ) | 3:41 | 2022-11-10 | 2023-01-20 |
@@ -800,6 +801,7 @@
 | [Mart Invader](https://open.spotify.com/track/0dCKPWSmorx6OEW1PLcTF5) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mart Invader](https://open.spotify.com/album/7pRaiXDCEMFZxJKTL2Mjbj) | 2:42 | 2021-12-18 | 2022-07-05 |
 | [Mask on](https://open.spotify.com/track/6taiSlVSCGtZp71I09QnFL) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 2:40 | 2024-10-30 | 2025-03-19 |
 | [MAYBACH \(Feat\. CK & SC4F\)](https://open.spotify.com/track/4maK1oiwgxl4hL05tsGLRI) | [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ), [Ck](https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy), [SC4F](https://open.spotify.com/artist/3fXOlqV4AdU7A1VCDrXeoY) | [MAYBACH](https://open.spotify.com/album/0cTFbqEuLkQcrwyfwhDNFk) | 2:52 | 2023-01-02 | 2023-01-11 |
+| [maybe baby](https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [E](https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw) | 1:52 | 2025-04-03 |  |
 | [MAYBE I'M KCRAZY](https://open.spotify.com/track/3G44OrPcpP7NG8yb92bhnr) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [ALBUM ON THE WAY!](https://open.spotify.com/album/04XXB9lcA6N9UN4CmsAh2g) | 3:00 | 2023-05-18 | 2023-08-05 |
 | [MAYBE I'M KCRAZY](https://open.spotify.com/track/4KxMY7nKaCv1ryEtkrSUVE) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [ALBUM ON THE WAY!](https://open.spotify.com/album/3ppYEmWUioDc87tFyuah0S) | 3:00 | 2023-08-04 | 2023-09-15 |
 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 | 2021-12-18 | 2022-07-08 |
@@ -1278,6 +1280,7 @@
 | [Thorn \(Prod\. CODE KUNST\)](https://open.spotify.com/track/2ERZ0YZSFysdePb3G7t0p4) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Show Me The Money 10 Episode 2](https://open.spotify.com/album/1wp620RExm0tih8QSvfmf0) | 4:38 | 2021-12-21 | 2022-07-06 |
 | [THOTTIE \(feat\. sokodomo, XINSAYNE\)](https://open.spotify.com/track/6NaL6ahqxlcDGE50ukIA8O) | [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [NOMINATE](https://open.spotify.com/album/0Wuc3nyECbctfSVlH2eK6p) | 3:03 | 2024-01-05 | 2024-05-03 |
 | [Threat](https://open.spotify.com/track/6oWLg1RKq5KzFmIYHqy2z5) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 2:34 | 2022-11-07 | 2022-11-17 |
+| [THRILL \(Feat\. Lancey Foux, HAON\)](https://open.spotify.com/track/14v97othGxLzfMQPoVZEUW) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [THRILL](https://open.spotify.com/album/3hiaYofJ24EjwuUG5s6zIG) | 2:14 | 2025-04-03 |  |
 | [Thursday Brown](https://open.spotify.com/track/6z8xmqi3uPfzo1qCuEbTII) | [Legit Goons](https://open.spotify.com/artist/4HwHRZI8xz6Zy9vOksqw7R) | [Family Sitcom](https://open.spotify.com/album/62BUY2uTamG4A0bP8fdoSG) | 3:55 | 2022-06-18 | 2022-06-21 |
 | [Thursday Night](https://open.spotify.com/track/35RJJaoJr1Bqjj6VpbbSqY) | [Heo Daniel](https://open.spotify.com/artist/7rm9HHTVczNfUIXiKdLK8m) | [Hideournight](https://open.spotify.com/album/6Re11JZ1ikN625JT2KyNgh) | 2:45 | 2022-02-08 | 2022-06-30 |
 | [Tic Tac?](https://open.spotify.com/track/50V9V62d0byssOftbpH0ZK) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Giggles](https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP) | 2:15 | 2024-01-25 | 2024-04-19 |

@@ -20859,6 +20859,24 @@
     },
     {
       "album": {
+        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/4vx6ucRcqp4VtMQxm3NJrO"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242163,
+      "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3SjRQkgA5VdldUK6WKy9O7"
+    },
+    {
+      "album": {
         "name": "\u30ce\u30fc\u30e1\u30a4\u30af\u30b9\u30bf\u30fc (feat. \u8a69\u7fbd)",
         "url": "https://open.spotify.com/album/2Kn1t6oSfWXfBwgGRJh9e8"
       },

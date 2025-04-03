@@ -1807,6 +1807,26 @@
     {
       "added_at": "2025-03-28 04:00:27",
       "album": {
+        "name": "Dead not Dead",
+        "url": "https://open.spotify.com/album/5lH6ntqvqk1PgniMOK8shf"
+      },
+      "artists": [
+        {
+          "name": "Villainous Blue",
+          "url": "https://open.spotify.com/artist/0vKF0Fy0odfqxBQKx5ZKA8"
+        },
+        {
+          "name": "\u00cd\u00d0ILL",
+          "url": "https://open.spotify.com/artist/6IaWdQvyAcCQiFL9MF9Q9j"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Kve\u00f0jum Framt\u00ed\u00f0ina",
+      "url": "https://open.spotify.com/track/0IyPwkNg6ZG2Fh584jUuuf"
+    },
+    {
+      "added_at": "2025-03-28 04:00:27",
+      "album": {
         "name": "SCI-FI SAMURAI",
         "url": "https://open.spotify.com/album/5PM1zuCw3TQkImnWfAsfpS"
       },
@@ -1819,22 +1839,6 @@
       "duration_ms": 167192,
       "name": "Tupperware People",
       "url": "https://open.spotify.com/track/5RZgxofQeKI9nMGdElGP0z"
-    },
-    {
-      "added_at": "2025-03-28 04:00:27",
-      "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/6KhZNvBTDSVF9a4J8PG0Xh"
-      },
-      "artists": [
-        {
-          "name": "Ragnar Olafsson",
-          "url": "https://open.spotify.com/artist/0ceRs3GSji9kQCDtW42N65"
-        }
-      ],
-      "duration_ms": 179680,
-      "name": "Five Years From Now",
-      "url": "https://open.spotify.com/track/03GV7gKXNjfOLl9SdzRLM7"
     }
   ],
   "unique_name": "New Music Friday Iceland",

@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Terrell Grice, Sunday Service Choir, Donald Lawrence & Company and more
+> With Sunday Service Choir, Tramaine Hawkins, Terrell Grice and more
 
 1,727 songs - 5 day 10 hr 32 min
 

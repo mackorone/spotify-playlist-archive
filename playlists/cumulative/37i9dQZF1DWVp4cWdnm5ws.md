@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2025.
 
-259 songs - 15 hr 33 min
+261 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Serve](https://open.spotify.com/track/1EEv8UZMGJ9rG3N1Ilo5bz) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu) | [Serve](https://open.spotify.com/album/3gqsWIpaaH4dlSB7hx5PRc) | 3:13 | 2025-03-27 |  |
 | [SEXBOMB GIRL](https://open.spotify.com/track/5TZATzxD16hCmPiuokUgaa) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [SEXBOMB GIRL](https://open.spotify.com/album/50iZdZCELPzNbVFDSgb9zF) | 3:27 | 2021-11-25 | 2022-03-25 |
 | [SHAWTY SHAWTY](https://open.spotify.com/track/5SEWzxCJqkfWVBKdaMIbQa) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [Playaz & Pimps](https://open.spotify.com/album/5bGjTqPu5sDi3EjZhkNn0Y) | 3:12 | 2025-03-27 | 2025-03-29 |
+| [SHAWTY SHAWTY](https://open.spotify.com/track/6AKUMZhi69CG2Z27HsR8KR) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [PLAYAZ & PIMPS](https://open.spotify.com/album/3A7CxUsBfY3K61H2b4TGlt) | 3:14 | 2025-04-02 |  |
 | [SHOWER MUSIC](https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [HAPPY ACCIDENTS VOL\. 1](https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE) | 3:12 | 2023-08-28 | 2024-04-03 |
 | [SIGA](https://open.spotify.com/track/1TeuLilP2MQIup1Xd2Me5B) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [SIGA](https://open.spotify.com/album/0K22wqjAcKBoQXMa8LtV6H) | 3:51 | 2025-03-27 |  |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-04-02 | 2025-03-28 |
@@ -249,6 +250,7 @@
 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-29 | 2025-03-28 |
 | [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 | 2022-03-24 | 2022-10-15 |
 | [Twin Flames](https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 3:38 | 2022-09-29 | 2022-12-01 |
+| [UH HUH](https://open.spotify.com/track/3pzgriUFOjQEtdoz1rOLZf) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [PLAYAZ & PIMPS](https://open.spotify.com/album/3A7CxUsBfY3K61H2b4TGlt) | 2:28 | 2025-04-02 |  |
 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 | 2025-03-27 |  |
 | [Ulap](https://open.spotify.com/track/0en1kxNAvVQxLpbteRTG7L) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/6ciETtX9ufaXBFRClmnnNG) | 6:45 | 2021-11-25 | 2022-03-25 |
 | [Up!](https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Up!](https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN) | 3:52 | 2022-04-01 | 2022-12-01 |

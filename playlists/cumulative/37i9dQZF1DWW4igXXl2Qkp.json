@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:5IQcgEvxwvq8kwy4iWCiBC\">Flau'jae</a> ",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:4v5hbcPtrVfLlI011eQrER\">Kee Nola</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 113016,
       "name": "bengis",
       "url": "https://open.spotify.com/track/3GX9w8qZtp10XqWDElImhA"
@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 129826,
       "name": "BOSS COFFEE",
       "url": "https://open.spotify.com/track/0TFScVZuG1q3YV0oQ60HL1"
@@ -4588,6 +4588,32 @@
       "duration_ms": 129826,
       "name": "BOSS COFFEE",
       "url": "https://open.spotify.com/track/1fDVeBcdA8jRwQojyyhN24"
+    },
+    {
+      "album": {
+        "name": "BOSS COFFEE Remix (feat. Lord Sko & LIFEOFTHOM)",
+        "url": "https://open.spotify.com/album/4vOYSnDmDlP5vbIYFhTqcp"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        },
+        {
+          "name": "LIFEOFTHOM",
+          "url": "https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me"
+        },
+        {
+          "name": "Lord Sko",
+          "url": "https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156541,
+      "name": "BOSS COFFEE Remix (feat. Lord Sko & LIFEOFTHOM)",
+      "url": "https://open.spotify.com/track/3gIArUlHrH4lZrqyjHfSdi"
     },
     {
       "album": {
@@ -4848,6 +4874,28 @@
       "duration_ms": 153155,
       "name": "BRENTWOOD",
       "url": "https://open.spotify.com/track/25fmkoTuBXsegcr2GftcmE"
+    },
+    {
+      "album": {
+        "name": "Bring The Drums In (feat. BabyChiefDoit)",
+        "url": "https://open.spotify.com/album/2lNCLpfApl18ECLTIBrFYv"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160575,
+      "name": "Bring The Drums In (feat. BabyChiefDoit)",
+      "url": "https://open.spotify.com/track/6O32ch9iADcpgPqVJdo9V1"
     },
     {
       "album": {
@@ -12223,6 +12271,24 @@
     },
     {
       "album": {
+        "name": "HAWK 'EM",
+        "url": "https://open.spotify.com/album/5ehzQiccJQZdCbZv9a3WEc"
+      },
+      "artists": [
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123575,
+      "name": "HAWK 'EM",
+      "url": "https://open.spotify.com/track/5dvltJIfwqg3TYR0ZkO9R1"
+    },
+    {
+      "album": {
         "name": "Hazard Lights, Pt. 2 (Pill Thoughts)",
         "url": "https://open.spotify.com/album/1WwdSv798WuEyfFWEvmLMZ"
       },
@@ -17109,6 +17175,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream Summer",
+        "url": "https://open.spotify.com/album/4p14cbIgdUtNfqDyYHgxPv"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124298,
+      "name": "Luv My Man",
+      "url": "https://open.spotify.com/track/4I07mS7W50temZuHDBpj3F"
+    },
+    {
+      "album": {
         "name": "M$",
         "url": "https://open.spotify.com/album/1DpDSmXLK4vb9FhLCvvblA"
       },
@@ -17565,6 +17649,24 @@
     },
     {
       "album": {
+        "name": "Tumblr Music",
+        "url": "https://open.spotify.com/album/6vgN0oswKj4PcDVbS0APkS"
+      },
+      "artists": [
+        {
+          "name": "Nine Vicious",
+          "url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140894,
+      "name": "Margiela Steppin",
+      "url": "https://open.spotify.com/track/3YxDPen2KjoWk2xProdZib"
+    },
+    {
+      "album": {
         "name": "Abstruse (Deluxe)",
         "url": "https://open.spotify.com/album/3WGE4jssBqaGr9LHNKGPy9"
       },
@@ -17692,6 +17794,24 @@
       "duration_ms": 174656,
       "name": "MASTIFF!",
       "url": "https://open.spotify.com/track/2vdzHoQXipWY0vLf4Z491r"
+    },
+    {
+      "album": {
+        "name": "Match?/Slow Dancing to Liv.e",
+        "url": "https://open.spotify.com/album/2EAO7lRqzwYUhY6QOXck3K"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129121,
+      "name": "Match?",
+      "url": "https://open.spotify.com/track/1TxkjvUKYPy7bmor1zPJEY"
     },
     {
       "album": {
@@ -18298,7 +18418,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 116171,
       "name": "mockingbird pov - Leave Remix",
       "url": "https://open.spotify.com/track/4qND68XHzQ2mZ4eMxBV24W"
@@ -21727,6 +21847,24 @@
     },
     {
       "album": {
+        "name": "Magenta",
+        "url": "https://open.spotify.com/album/45Ll7i9q1MygDJtw6Nrtva"
+      },
+      "artists": [
+        {
+          "name": "saveaj",
+          "url": "https://open.spotify.com/artist/3D0dxmpnWREvNCxjsY1Bjv"
+        }
+      ],
+      "date_added": "2025-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195180,
+      "name": "paralyzed",
+      "url": "https://open.spotify.com/track/7ALAN1JLs1BvstZ90CcikU"
+    },
+    {
+      "album": {
         "name": "participate",
         "url": "https://open.spotify.com/album/12lYkxzDtnoNee3BIJK1Yl"
       },
@@ -22544,7 +22682,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 140368,
       "name": "Prada or Celine",
       "url": "https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a"
@@ -25624,7 +25762,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 151746,
       "name": "Slime Bidness",
       "url": "https://open.spotify.com/track/4iNqOoA3gfO8HmrQjEB16J"
@@ -26590,7 +26728,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 182391,
       "name": "STAY SAFE",
       "url": "https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n"
@@ -32232,7 +32370,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 164651,
       "name": "YN Flow - Remix",
       "url": "https://open.spotify.com/track/7KL4qXaduHm0OSV5dXwf4q"

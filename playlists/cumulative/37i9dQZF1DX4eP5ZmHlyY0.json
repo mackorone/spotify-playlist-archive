@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "ETERNALT",
+        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "All My Poetry",
+      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
+    },
+    {
+      "album": {
         "name": "+Alpha\uff08Special Edition\uff09",
         "url": "https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx"
       },
@@ -1876,6 +1894,24 @@
       "duration_ms": 171000,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y"
+    },
+    {
+      "album": {
+        "name": "winderlust",
+        "url": "https://open.spotify.com/album/2gmtQpnflHMcFkHyAlxh3O"
+      },
+      "artists": [
+        {
+          "name": "w-inds.",
+          "url": "https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "FAKE IT",
+      "url": "https://open.spotify.com/track/1kBFfTzRCD1yeqpUgEw9dC"
     },
     {
       "album": {
@@ -3632,7 +3668,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 191706,
       "name": "Last Festival",
       "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
@@ -3978,7 +4014,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 142364,
       "name": "LOVE / HATE",
       "url": "https://open.spotify.com/track/08nRL1drNzWuYvxfTplhgS"
@@ -4234,7 +4270,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 210225,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/5yH5ZOM6rzDisQrahixgM9"
@@ -5336,6 +5372,24 @@
       "duration_ms": 170344,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4vm5bCxVwCryUz9YbaIdSJ"
+    },
+    {
+      "album": {
+        "name": "Party Goes On",
+        "url": "https://open.spotify.com/album/4qp3313b5TCH7NQ2IAqPNU"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176256,
+      "name": "Party Goes On",
+      "url": "https://open.spotify.com/track/7DtIdfMyHkleorjPK3mSni"
     },
     {
       "album": {
@@ -7364,7 +7418,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 203524,
       "name": "Tricky",
       "url": "https://open.spotify.com/track/3G6rXjTd5dzChNH3xTeTZj"
@@ -7962,7 +8016,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 152903,
       "name": "Who's the Liar",
       "url": "https://open.spotify.com/track/1MtXjXTlaK4Lh0iBphDyqy"
@@ -9120,7 +9174,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-03",
       "duration_ms": 205240,
       "name": "\u5b58\u5728\u8a3c\u660e",
       "url": "https://open.spotify.com/track/5r155xSpSZOrYZett0N7hX"
