@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 197594,
       "name": "Believe (triple j Like A Version) - Cover Version",
       "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Benny",
       "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 281640,
       "name": "Bird in Paradise",
       "url": "https://open.spotify.com/track/7IjOninBTGNdGfZ3g1Xidh"
@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Close Proximity",
+        "url": "https://open.spotify.com/album/25Ka8Q4ZBwMLCBnRM4Enrp"
+      },
+      "artists": [
+        {
+          "name": "Chitra",
+          "url": "https://open.spotify.com/artist/1zjwHxjhMPXp4nrWwL9hwM"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206911,
+      "name": "Close Proximity",
+      "url": "https://open.spotify.com/track/34nCjUuPCn57m76m7QYVYe"
+    },
+    {
+      "album": {
         "name": "Clothes Off",
         "url": "https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma"
       },
@@ -702,6 +720,24 @@
       "duration_ms": 188688,
       "name": "Clothes Off",
       "url": "https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ"
+    },
+    {
+      "album": {
+        "name": "Like Love",
+        "url": "https://open.spotify.com/album/5sZBCDhQ1XkWmR8OxT4aFL"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Coast Is Clear",
+      "url": "https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck"
     },
     {
       "album": {
@@ -788,7 +824,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 184417,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
@@ -854,6 +890,24 @@
       "duration_ms": 183377,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+    },
+    {
+      "album": {
+        "name": "Desire to Stay",
+        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Desire to Stay",
+      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
     },
     {
       "album": {
@@ -984,7 +1038,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
@@ -1078,7 +1132,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
@@ -1208,7 +1262,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 204620,
       "name": "Everyone Will See It",
       "url": "https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO"
@@ -1526,7 +1580,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 177781,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb"
@@ -1566,7 +1620,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 224971,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq"
@@ -1812,7 +1866,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 179161,
       "name": "Know You Love Me",
       "url": "https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh"
@@ -2550,7 +2604,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
@@ -2604,7 +2658,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 235534,
       "name": "Parched",
       "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
@@ -2911,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/20qSwY5Of1dCr5cjx9zYzp"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225167,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/4t2JCPEeCHZeRfsyVBNEZd"
+    },
+    {
+      "album": {
         "name": "Running Out",
         "url": "https://open.spotify.com/album/4e4HuGGMBput0CxfwBUOoQ"
       },
@@ -2922,7 +2994,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 189232,
       "name": "Running Out",
       "url": "https://open.spotify.com/track/2k5IHV4mdDun3M4IgI8HTe"
@@ -2948,7 +3020,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 172151,
       "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
       "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
@@ -3020,7 +3092,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
@@ -3092,7 +3164,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 216587,
       "name": "Shangri-La",
       "url": "https://open.spotify.com/track/2PnLnsEBUVNnxj9H9d7pjZ"
@@ -3128,7 +3200,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 234715,
       "name": "Shut You Out",
       "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
@@ -3434,7 +3506,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 137760,
       "name": "swim back",
       "url": "https://open.spotify.com/track/0YWKQfm1v9AkvgjjbqEbaj"
@@ -3600,7 +3672,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 192103,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
@@ -3886,7 +3958,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
@@ -3908,7 +3980,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 189112,
       "name": "We Could Be Love",
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"

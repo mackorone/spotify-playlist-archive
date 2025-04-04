@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,570 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,741 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 74 | [Needed You](https://open.spotify.com/track/7jeNDxcVWuexlp92tFlpBo) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Needed You](https://open.spotify.com/album/61A8H7HWSGoqszTaWx5Btk) | 3:48 |
 | 75 | [I Wanna Go](https://open.spotify.com/track/0EkO6IEUFlbfxLDoDVieOt) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [I Wanna Go](https://open.spotify.com/album/3YbiInRvYkmmWq6DHrYsn9) | 2:47 |
 
-Snapshot ID: `Z+XYdQAAAACeZErBwP+dfRccW+9SlVO4`
+Snapshot ID: `Z+8FBQAAAAB/cn8QUZCnb5tUFEcsE2X/`

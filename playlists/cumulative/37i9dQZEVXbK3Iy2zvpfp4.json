@@ -5254,7 +5254,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
@@ -12816,7 +12816,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 201266,
       "name": "DIM",
       "url": "https://open.spotify.com/track/2nt2xZTzSeXYiMzHlZHGUf"
@@ -26064,7 +26064,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 169239,
       "name": "JIZVY",
       "url": "https://open.spotify.com/track/5haqyK5BYQLLjyJyKy74fB"
@@ -26562,7 +26562,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 106463,
       "name": "KATE MOSS",
       "url": "https://open.spotify.com/track/6L7YBeIaRiLNkoeaCdHXF0"
@@ -28868,6 +28868,32 @@
       "duration_ms": 203294,
       "name": "life imitates life",
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
+    },
+    {
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
     },
     {
       "album": {
@@ -32448,7 +32474,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 207873,
       "name": "messy",
       "url": "https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"
@@ -38602,7 +38628,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 104117,
       "name": "oh my little baby boy hardstyle",
       "url": "https://open.spotify.com/track/1iBE7fs8NagqHIeKSAv4N4"
@@ -38620,7 +38646,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 122491,
       "name": "oh my little baby boy hardstyle - slowed",
       "url": "https://open.spotify.com/track/7L07mkBPbCRgD8D8owBaGg"
@@ -42664,7 +42690,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 149118,
       "name": "Pre v\u00e1s hr\u00e1m",
       "url": "https://open.spotify.com/track/5pltfpIVFmQdLbb1H20HeD"
@@ -54532,6 +54558,24 @@
     {
       "album": {
         "name": "Trap Royalty",
+        "url": "https://open.spotify.com/album/4L5UyAU9wOBjoKTS1RZ8Iw"
+      },
+      "artists": [
+        {
+          "name": "very cool tutorials",
+          "url": "https://open.spotify.com/artist/15AcC9c53zJObzwpvgY5yO"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73231,
+      "name": "Trap Royalty",
+      "url": "https://open.spotify.com/track/165YYCNnhsCAYphFGtrfyY"
+    },
+    {
+      "album": {
+        "name": "Trap Royalty",
         "url": "https://open.spotify.com/album/2ZoqaPh5rrEAzk2VJrP92z"
       },
       "artists": [
@@ -54542,7 +54586,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 73231,
       "name": "Trap Royalty",
       "url": "https://open.spotify.com/track/5MV9Uf9hoW7ZSxs8w5ybRh"
@@ -61648,7 +61692,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 164309,
       "name": "\u043d\u0435 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u044f\u0439\u0441\u044f",
       "url": "https://open.spotify.com/track/6KBc9W1riUD5zXv29eIVop"

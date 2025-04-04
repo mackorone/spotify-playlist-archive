@@ -10698,7 +10698,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 133846,
       "name": "Cada Vez Mais Gostosa",
       "url": "https://open.spotify.com/track/6v6MmJlw7elqJUty23mvS4"
@@ -25206,7 +25206,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 222271,
       "name": "FOME",
       "url": "https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re"
@@ -41108,7 +41108,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 108923,
       "name": "MTG Perna Bamba X Piranhas do Helipa",
       "url": "https://open.spotify.com/track/07YFNeWYEuQ4XQfDd8571k"
@@ -45708,7 +45708,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 259742,
       "name": "O Vaso Que Lhe Apraz",
       "url": "https://open.spotify.com/track/1ba3sCN1ypPpFjaLAYH3em"
@@ -45939,6 +45939,24 @@
     },
     {
       "album": {
+        "name": "Presenting Bertha Tillman",
+        "url": "https://open.spotify.com/album/2ITTUdZCFYz2oDvg2f75EU"
+      },
+      "artists": [
+        {
+          "name": "Bertha Tillman",
+          "url": "https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Oh My Angel",
+      "url": "https://open.spotify.com/track/021LdJsjuCHyLbtAA33Vbf"
+    },
+    {
+      "album": {
         "name": "Goodies Old Is New: Come Dance With Me",
         "url": "https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy"
       },
@@ -45950,7 +45968,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 142853,
       "name": "Oh My Angel",
       "url": "https://open.spotify.com/track/6WGFdJ3lRB7e0VDNEzpiAh"
@@ -55422,10 +55440,6 @@
         {
           "name": "Mc Leoa",
           "url": "https://open.spotify.com/artist/1H0yPNL8brH9Vh27WQTQoz"
-        },
-        {
-          "name": "Canal Remix",
-          "url": "https://open.spotify.com/artist/3JiigcyaVtbOCONeS5mXMd"
         }
       ],
       "date_added": "2025-03-11",

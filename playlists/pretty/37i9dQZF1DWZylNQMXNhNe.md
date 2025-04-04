@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,872 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,857 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 57 | [ARROCHA O NÓ](https://open.spotify.com/track/5ixl6ksErzwIkmSHZ2LAA2) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [ARROCHA O NÓ](https://open.spotify.com/album/74o7mwocj2QW0ZM1rFlQV6) | 2:12 |
 | 58 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/0vPKkAQAh4L7wpNmAemr5E) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 3:12 |
 | 59 | [Me Bate](https://open.spotify.com/track/4nIbgRXB46ucTtEYnSSMKN) | [A Travestis](https://open.spotify.com/artist/00Jb0oU8RUPJgKTWKsNCxw), [lia mersi](https://open.spotify.com/artist/4SphBMSSyBqb1HR4o0TOze) | [Me Bate](https://open.spotify.com/album/0HdsFRrZcOP2YsviiLZkSx) | 1:51 |
-| 60 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [MEL](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |
+| 60 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [Candy Mel](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |
 
 Snapshot ID: `ZwU3wAAAAAB43IPuZTazkh1nI2+obwTy`

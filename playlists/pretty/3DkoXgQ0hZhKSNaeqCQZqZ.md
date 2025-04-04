@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 539 likes - 327 songs - 17 hr 22 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 542 likes - 327 songs - 17 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

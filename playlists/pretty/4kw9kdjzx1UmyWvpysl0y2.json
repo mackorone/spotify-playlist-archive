@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125470,
+  "num_followers": 125469,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT4086wvrrKrAt4YXlC41FBMbfVpfP",
+  "snapshot_id": "AAAT5GrN5AatR8UH3SlnIJvSrGalqQg0",
   "tracks": [
+    {
+      "added_at": "2025-04-03 15:13:05",
+      "album": {
+        "name": "Save Me Now / On Fire",
+        "url": "https://open.spotify.com/album/3wePhn0VEJJY7e0fB3QvZ4"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        },
+        {
+          "name": "Why So Low",
+          "url": "https://open.spotify.com/artist/4udkcJD4btZYw9AOlCBDMK"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Save Me Now",
+      "url": "https://open.spotify.com/track/58Kp1bn21XaEkZY2C42Atk"
+    },
     {
       "added_at": "2025-04-02 14:20:08",
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Feel Good" de Charlotte Cardin est le Grand Hit de la semaine.
+> "Maman" de Louane est le Grand Hit de la semaine.
 
-239 songs - 12 hr 15 min
+241 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 | 2024-05-09 | 2024-07-27 |
 | [C'est ça la vie](https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 2:29 | 2024-07-25 | 2025-01-24 |
 | [Capitaine \(feat\. Styleto\)](https://open.spotify.com/track/084wxZBvCg1vToPvQqqaow) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:33 | 2024-02-22 | 2024-04-05 |
+| [Ce qui me va](https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 2:35 | 2025-04-03 |  |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 | 2024-10-04 |
 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 | 2023-09-28 | 2024-04-26 |
 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-02-08 | 2024-07-27 |
@@ -77,11 +78,11 @@
 | [Et si c'était nous deux ?](https://open.spotify.com/track/5WoHKaZ9NNIPGjQ5B62u5V) | [Molière l'opéra urbain](https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd), [Shaïna Pronzola](https://open.spotify.com/artist/245ftfXZvHuYLnkiZwKxav), [Vike](https://open.spotify.com/artist/7Gvpw62202IqvJ3uyruHWI) | [Molière, le spectacle musical](https://open.spotify.com/album/6ISb3wobXqDACYpA9QARal) | 3:05 | 2024-02-29 | 2024-04-19 |
 | [Et un jour une femme](https://open.spotify.com/track/6vB93dZmNfYrNuk2vsmb7f) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Et un jour une femme](https://open.spotify.com/album/1Kc8wvRqOBiwtBYpRu2leY) | 5:18 | 2023-09-28 | 2024-02-02 |
 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-05-09 | 2024-09-06 |
-| [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 | 2024-03-28 |  |
+| [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 | 2024-03-28 | 2025-04-04 |
 | [Feel Good](https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:43 | 2024-04-18 |  |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-11-09 | 2024-02-23 |
 | [Flash](https://open.spotify.com/track/3EfttFhRYALpOcWbHBR0fZ) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Fil Rouge](https://open.spotify.com/album/657eSseT00fReQMUiSEinS) | 3:13 | 2024-01-11 | 2024-04-26 |
-| [Forts](https://open.spotify.com/track/5B6QmbcKgBgxH7hTbItDM8) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [INSIDE OUT MVMT](https://open.spotify.com/album/30wfO7BWBORF5xmFF0NEqZ) | 3:11 | 2024-12-05 |  |
+| [Forts](https://open.spotify.com/track/5B6QmbcKgBgxH7hTbItDM8) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [INSIDE OUT MVMT](https://open.spotify.com/album/30wfO7BWBORF5xmFF0NEqZ) | 3:11 | 2024-12-05 | 2025-04-04 |
 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2024-01-11 | 2024-02-23 |
 | [Fuguer](https://open.spotify.com/track/14EyAVX55liO55GZUr6LOQ) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 3:06 | 2023-10-05 | 2023-12-15 |
 | [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 | 2024-09-12 |  |
@@ -176,6 +177,7 @@
 | [Merveille](https://open.spotify.com/track/0NuqaUaWYvsd9bbPkeC7YV) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [Merveille](https://open.spotify.com/album/5VSUcPO9tV48OXEescmNG7) | 3:25 | 2024-07-25 | 2025-02-28 |
 | [Mieux comme ça ? \(feat\. Petit K\)](https://open.spotify.com/track/0aKBA3rWo1eBw6I9K1wXvg) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif), [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:00 | 2023-09-28 | 2023-12-09 |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-11-16 | 2024-07-19 |
+| [Monstre](https://open.spotify.com/track/0JblwOSvvELRtCYQDRke9R) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Monstre](https://open.spotify.com/album/3LVYLbTaOzMoGSRANhdEGu) | 2:41 | 2025-04-03 |  |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-05-16 | 2024-09-06 |
 | [Ne saute pas](https://open.spotify.com/track/52PntWUVJcnAWm1lk0XYnU) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:56 | 2024-06-13 | 2024-10-25 |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-05-23 | 2025-03-07 |

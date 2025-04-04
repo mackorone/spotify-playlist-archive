@@ -1,15 +1,31 @@
 {
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: LE SSERAFIM",
-  "num_followers": 354832,
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Ariana Grande",
+  "num_followers": 354898,
   "original_name": "Hot Hits Japan: \u6d0b\u697d&\u90a6\u697d\u30d2\u30c3\u30c4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Vn/gAAAAC3vxBh3VV4/4LAz8G4j2HP",
+  "snapshot_id": "Z+6ihgAAAABwAc6bvc4YbQsIm+efpiFU",
   "tracks": [
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
+    {
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "IS THIS LOVE",
         "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "PLAYERS",
         "url": "https://open.spotify.com/album/6OtUkMrwUzUzhPqvKiRIVe"
@@ -57,39 +73,7 @@
       "url": "https://open.spotify.com/track/30GGgQDoRSBsjck9tMmDDP"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
-      "album": {
-        "name": "\u602a\u7363",
-        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 252722,
-      "name": "\u602a\u7363",
-      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
-    },
-    {
-      "added_at": "2025-03-27 15:00:13",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "Garden Of Eden",
-      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
-    },
-    {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
@@ -105,23 +89,39 @@
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "ME:I",
-          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 173413,
-      "name": "MUSE",
-      "url": "https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv"
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
+      "album": {
+        "name": "\u602a\u7363",
+        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 252722,
+      "name": "\u602a\u7363",
+      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
+    },
+    {
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "masshiro (pure white)",
         "url": "https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Puppets Can't Control You",
         "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Dark Hero",
         "url": "https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/2pPZuMAbrKIxxRCYhhOojm"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "doppelg\u00e4nger",
         "url": "https://open.spotify.com/album/7CMTY6yUZDGVoc4GIi7qRZ"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/7FgkqIH50E6masvuz4EOPy"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "\u308f\u305f\u3057\u306b\u82b1\u675f",
         "url": "https://open.spotify.com/album/2QNHCEUiNTXtcHSjoVWvNl"
@@ -269,7 +269,23 @@
       "url": "https://open.spotify.com/track/1vLQ5s4eumtmUcov4cP9jt"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
+      "album": {
+        "name": "Almond Chocolate",
+        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Almond Chocolate",
+      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
+    },
+    {
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
@@ -341,23 +357,23 @@
       "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
-        "name": "Almond Chocolate",
-        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Almond Chocolate",
-      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
+      "duration_ms": 173413,
+      "name": "MUSE",
+      "url": "https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "\u30c0\u30fc\u30ea\u30f3",
         "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "BOW AND ARROW",
         "url": "https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Call Me When You Break Up (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "ReawakeR",
         "url": "https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/4u8StBMFVwcS6f1GiKoJfV"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
         "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Eureka",
         "url": "https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Plazma",
         "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Drop",
         "url": "https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Whiplash - The 5th Mini Album",
         "url": "https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "\u7206\u901f\u8ad6\u7406ness",
         "url": "https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Channel U",
         "url": "https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Sketch",
         "url": "https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU"
@@ -609,23 +625,23 @@
       "url": "https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -641,7 +657,23 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
         "url": "https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "Rock this Party",
         "url": "https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf"
@@ -729,23 +761,7 @@
       "url": "https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-    },
-    {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -765,23 +781,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 224136,
-      "name": "Cry For Me",
-      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
-    },
-    {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "50%",
         "url": "https://open.spotify.com/album/03VDTiSvAajPkP9NuMg2Nx"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "THANK YOU SO MUCH",
         "url": "https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/5buIf0b9AIjkx4zioVnDGu"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
         "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
@@ -829,55 +829,7 @@
       "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
     },
     {
-      "added_at": "2025-03-27 15:00:13",
-      "album": {
-        "name": "ASIAN STATE OF MIND",
-        "url": "https://open.spotify.com/album/1yI8yr0okERnFdggVKJWrn"
-      },
-      "artists": [
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KR$NA",
-          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
-        },
-        {
-          "name": "Masiwei",
-          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
-        },
-        {
-          "name": "VannDa",
-          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
-        }
-      ],
-      "duration_ms": 333765,
-      "name": "ASIAN STATE OF MIND",
-      "url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S"
-    },
-    {
-      "added_at": "2025-03-27 15:00:13",
-      "album": {
-        "name": "THRIFTED",
-        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "THRIFTED",
-      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
-    },
-    {
-      "added_at": "2025-03-27 15:00:13",
+      "added_at": "2025-04-03 15:00:22",
       "album": {
         "name": "DRESSING ROOM",
         "url": "https://open.spotify.com/album/62vPIWYn3mQVY6U4AL7kjb"
@@ -891,6 +843,38 @@
       "duration_ms": 174260,
       "name": "DRESSING ROOM",
       "url": "https://open.spotify.com/track/3g9tqI1NfqjErbTAQk6vne"
+    },
+    {
+      "added_at": "2025-04-03 15:00:22",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "added_at": "2025-04-03 15:00:22",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     }
   ],
   "unique_name": "Hot Hits Japan: \u6d0b\u697d&\u90a6\u697d\u30d2\u30c3\u30c4",

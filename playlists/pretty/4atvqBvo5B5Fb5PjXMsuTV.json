@@ -1,13 +1,77 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Apr 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Apr 22:03 UTC.",
   "num_followers": 91,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAQyu5fuqTI9yNSg0msukjEQKty6ogY",
+  "snapshot_id": "AAAQ0NWL0iNa02ktxSEqSucfZb6I3Y+B",
   "tracks": [
+    {
+      "added_at": "2025-04-03 18:04:11",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
+    },
+    {
+      "added_at": "2025-04-03 22:03:41",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 200204,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
+    },
+    {
+      "added_at": "2025-04-03 18:04:11",
+      "album": {
+        "name": "Adult Swim",
+        "url": "https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 144640,
+      "name": "Adult Swim",
+      "url": "https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU"
+    },
+    {
+      "added_at": "2025-04-03 13:04:06",
+      "album": {
+        "name": "Anthracite",
+        "url": "https://open.spotify.com/album/3LDHBma2nnBG5hxLJ2Vg05"
+      },
+      "artists": [
+        {
+          "name": "Humanity's Last Breath",
+          "url": "https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Anthracite",
+      "url": "https://open.spotify.com/track/5BwHokGRtZBsse06TzWrP4"
+    },
     {
       "added_at": "2025-04-02 18:03:58",
       "album": {
@@ -755,70 +819,6 @@
       "duration_ms": 249400,
       "name": "Rabbit Hole - Cowards, Pt. 1",
       "url": "https://open.spotify.com/track/4Zy7UaHmzAxD3V1qNkTaIq"
-    },
-    {
-      "added_at": "2025-03-26 04:04:52",
-      "album": {
-        "name": "Clean Heart",
-        "url": "https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Clean Heart",
-      "url": "https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS"
-    },
-    {
-      "added_at": "2025-03-25 09:04:25",
-      "album": {
-        "name": "BACK ROAD SWANGIN",
-        "url": "https://open.spotify.com/album/02C2nrhLxsjf8ams7XNy8U"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "BACK ROAD SWANGIN",
-      "url": "https://open.spotify.com/track/6PY1lAbBPAVotsHEfBgxNf"
-    },
-    {
-      "added_at": "2025-03-25 04:04:44",
-      "album": {
-        "name": "GODSTAINED",
-        "url": "https://open.spotify.com/album/47pWWT0JyRpY7Fo2Wat8aY"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 205250,
-      "name": "GODSTAINED",
-      "url": "https://open.spotify.com/track/2IbtNIdNlVelpPNaRYEZdJ"
-    },
-    {
-      "added_at": "2025-03-27 19:05:10",
-      "album": {
-        "name": "Hole In A Frame / Pants",
-        "url": "https://open.spotify.com/album/2UlP6ggb5jkWOOQROaPRaX"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 183392,
-      "name": "Hole In A Frame",
-      "url": "https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs"
     }
   ],
   "unique_name": "New Singles Now",

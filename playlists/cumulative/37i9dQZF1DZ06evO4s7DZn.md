@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 13 min
+112 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Cuando los Frijoles Bailan](https://open.spotify.com/track/5Bw0TMUnKPQjgrylJehdFq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:25 | 2022-06-26 | 2022-07-14 |
 | [Cuando los Frijoles Bailan](https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:25 | 2023-01-15 |  |
 | [De Punta a Punta](https://open.spotify.com/track/5wzPYuHhdRdqMFerU4bGVS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:56 | 2022-08-30 | 2023-03-30 |
-| [De Que Me Sirve](https://open.spotify.com/track/20WWOcsooLMpsxCroHVAEP) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 2:17 | 2022-06-01 |  |
+| [De Que Me Sirve](https://open.spotify.com/track/20WWOcsooLMpsxCroHVAEP) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 2:17 | 2022-06-01 | 2025-04-04 |
 | [Dime Porqué](https://open.spotify.com/track/2GQCB6gEcgPUYF2N9Zbqxd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [De Punta a Punta](https://open.spotify.com/album/46DnLQAff2uArOWpr0fRl9) | 2:13 | 2022-08-26 | 2023-09-22 |
 | [Dulce Veneno \(En Vivo\)](https://open.spotify.com/track/33ohDUP2ekfFkKMsSnfXPS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 1](https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a) | 3:42 | 2022-06-01 | 2022-08-27 |
 | [El Amor De Mi Vida \(En Vivo\)](https://open.spotify.com/track/7oM97CJuWWbqVl1LB4929o) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 1](https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a) | 3:44 | 2022-06-01 | 2022-08-27 |
@@ -68,6 +68,7 @@
 | [Maria \(En Vivo\)](https://open.spotify.com/track/2h365HybcKLxGGyyTphQhy) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 2](https://open.spotify.com/album/3FEiGlYvGOUMf4w0HA0EDr) | 3:29 | 2022-06-01 | 2022-08-27 |
 | [Medias Negras](https://open.spotify.com/track/1lL1b0bvPS9CrGiKrLIlFq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 2:36 | 2022-06-01 | 2022-12-30 |
 | [Medias Negras](https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 2:38 | 2022-12-29 |  |
+| [Merezco Tu Olvido](https://open.spotify.com/track/18ioQcnn3CE7WL7yDA3MGR) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 3:16 | 2025-04-04 |  |
 | [Mi Amor Bendito](https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:04 | 2022-06-01 |  |
 | [Mi Primer Amor](https://open.spotify.com/track/0yJqmBLDWBGsCqjTR26B2V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:30 | 2022-06-01 | 2022-08-27 |
 | [Mi Ultima Parranda \(En Vivo\)](https://open.spotify.com/track/7n9VbJdI8uT7Wh3qi0eWdd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 3:33 | 2022-06-02 | 2022-08-27 |

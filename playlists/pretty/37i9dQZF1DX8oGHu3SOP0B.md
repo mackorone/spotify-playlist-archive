@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: Miteennn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,131 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,133 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 26 | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/track/1QEcjyNgnbMKGx3O3cyql3) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/album/6RbkOgLaSyRje54Rsv7D8B) | 3:12 |
 | 27 | [กลิ่นไอฝน](https://open.spotify.com/track/5zww7lAbXlB9BDS7EY7jhB) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [กลิ่นไอฝน](https://open.spotify.com/album/0y3fI7uqVbqc7EkWBpTsxS) | 4:06 |
 | 28 | [คาถาหาเธอ \(Horogals\)](https://open.spotify.com/track/4SatXpXNJu3T4AHlbNQ4Ei) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [คาถาหาเธอ \(Horogals\)](https://open.spotify.com/album/4F0Tcc9CLuXjzq2SvhQv9F) | 3:00 |
-| 29 | [LOCKET](https://open.spotify.com/track/71P3Y2hELetjmUbFdyMYhX) | [MOLY GROVES](https://open.spotify.com/artist/4Fr3ZjzDJzZJLGW2BzGFfm) | [LOCKET](https://open.spotify.com/album/2f2uJSsM3VkryfLhcTaWwr) | 3:30 |
+| 29 | [Locket](https://open.spotify.com/track/71P3Y2hELetjmUbFdyMYhX) | [MOLY GROVES](https://open.spotify.com/artist/4Fr3ZjzDJzZJLGW2BzGFfm) | [Locket](https://open.spotify.com/album/2f2uJSsM3VkryfLhcTaWwr) | 3:30 |
 | 30 | [หลับไม่ฝัน \(Sleep Tight\)](https://open.spotify.com/track/3Zm6ydHdqWKx4PkqMOddIq) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [หลับไม่ฝัน \(Sleep Tight\)](https://open.spotify.com/album/6Z1bPXBVelf3jQc4esbRo5) | 2:50 |
 | 31 | [จบลงตรงนี้และตลอดไป](https://open.spotify.com/track/5kNwTnSRpm4UG4NHhWtoMY) | [mhuenploy](https://open.spotify.com/artist/6lO1YhcMpNzqMqmYQwKsB4) | [จบลงตรงนี้และตลอดไป](https://open.spotify.com/album/2watOKPOs38MlyYbakBlWB) | 3:47 |
 | 32 | [Happy Ending](https://open.spotify.com/track/3jlENhhEfTrOkKC204YXg5) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [YUM](https://open.spotify.com/album/4rCwoAHh3to9CHlM1T5d0y) | 3:06 |

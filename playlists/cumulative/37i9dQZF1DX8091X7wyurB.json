@@ -886,7 +886,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 674065,
       "name": "Baba Oh - Live",
       "url": "https://open.spotify.com/track/3ZZpK1Yv87X1acytRWKZZl"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
@@ -3709,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "He Still Can",
+        "url": "https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy"
+      },
+      "artists": [
+        {
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440000,
+      "name": "He Still Can",
+      "url": "https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn"
+    },
+    {
+      "album": {
         "name": "He Who Is To Come",
         "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
       },
@@ -5326,7 +5344,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 200689,
       "name": "Kumama",
       "url": "https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7"
@@ -8266,7 +8284,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 447552,
       "name": "Sleeping Giant - Live",
       "url": "https://open.spotify.com/track/2Fd0Rb6CLlylofYzCXMu5b"
@@ -9064,6 +9082,24 @@
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "album": {
+        "name": "This Is Kingdom Come (Elohim Adonai) [Live]",
+        "url": "https://open.spotify.com/album/34drgnu2kuFnIrtY6VOAuB"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309003,
+      "name": "This Is Kingdom Come (Elohim Adonai) - Live",
+      "url": "https://open.spotify.com/track/20knkm8oYfnUisdTkIjHSQ"
     },
     {
       "album": {

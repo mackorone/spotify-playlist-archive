@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: G Nako
+> Get your fill of vibes straight out of Tanzania\. Cover: Harmonize & Miri Ben\-Ari
 
-523 songs - 1 day 5 hr 55 min
+524 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Far Away](https://open.spotify.com/track/57PEYoPJxjMy35SNHtvwmf) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Far Away](https://open.spotify.com/album/6IZQtDq5yQhutjBTIN3E15) | 3:02 | 2023-10-19 | 2023-12-08 |
 | [Fashion Killer](https://open.spotify.com/track/1j5hSr4QLeAdAFyr6sbZUT) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Fashion Killer](https://open.spotify.com/album/0xpHYjPOkLSP0LtnXvCPhj) | 2:17 | 2024-08-02 | 2024-12-20 |
 | [Final](https://open.spotify.com/track/5mFGSbg87MiGcbyvJ1CyZU) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Final](https://open.spotify.com/album/1tIams5EiCYLSlutOW04rU) | 3:00 | 2021-10-29 | 2022-03-04 |
+| [Finally \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/track/6EzI363irSPtlAmjpR0irr) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Finally \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/album/0wmmR8fK5GkdHwGc9hnUkT) | 3:28 | 2025-04-04 |  |
 | [Finesse \(East African Mix\) \- feat\. Rayvanny & Theecember](https://open.spotify.com/track/1mKt6MgYyZv6h8aTxX4ng8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [Finesse \(East African Mix\) \[feat\. Rayvanny & Theecember\]](https://open.spotify.com/album/1eo8bkskV4VPzTLvKidTbE) | 2:35 | 2022-06-30 | 2023-01-13 |
 | [Fly Away](https://open.spotify.com/track/56y1MbtIRUbWUsR7pBE5ub) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Fly Away](https://open.spotify.com/album/16fg1IYAkOpS2hdzltwys7) | 2:47 | 2023-11-17 | 2024-05-10 |
 | [Fofofo \(feat\. Young Lunya\)](https://open.spotify.com/track/4kvGwxShHMb2sslstdMcau) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fofofo \(feat\. Young Lunya\)](https://open.spotify.com/album/2T9whvgRUn0rG84dz9h5CU) | 3:50 | 2022-08-18 | 2022-09-24 |
@@ -275,7 +276,7 @@
 | [My Way](https://open.spotify.com/track/6XdVKBJLMLl2v26lPJIoS0) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Made For Us](https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR) | 3:28 | 2022-10-27 | 2023-06-16 |
 | [Na Enjoy \(feat\. Darassa\)](https://open.spotify.com/track/1NshVUwUc5B163Z2wfkLJK) | [Ruby Afrika](https://open.spotify.com/artist/0LJ10K0IJWJ3kLT2lWe7wW), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Na Enjoy \(feat\. Darassa\)](https://open.spotify.com/album/44zwMeBG6iizss8HvneIQ1) | 3:37 | 2021-06-25 | 2022-01-14 |
 | [Naanzaje](https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Naanzaje](https://open.spotify.com/album/2PtTNJNz9aIkxIYPXPgYnD) | 3:19 | 2021-09-16 | 2022-11-18 |
-| [Nafunga Mwaka](https://open.spotify.com/track/1M3ICM2DALtaw0FKnXlnTa) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nafunga Mwaka](https://open.spotify.com/album/1VcdR7v9dKUUZ2IWUi7ur2) | 2:55 | 2024-12-05 |  |
+| [Nafunga Mwaka](https://open.spotify.com/track/1M3ICM2DALtaw0FKnXlnTa) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nafunga Mwaka](https://open.spotify.com/album/1VcdR7v9dKUUZ2IWUi7ur2) | 2:55 | 2024-12-05 | 2025-04-04 |
 | [Nakuja](https://open.spotify.com/track/35KK909BtLG8ozuGhJNkhd) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Nakuja](https://open.spotify.com/album/4iaHJ3zRqwOELpHOZzFTqV) | 3:04 | 2023-01-19 | 2023-04-28 |
 | [Nakuja \(feat\. Marioo, Darassa & Maua Sama\) \- Remix](https://open.spotify.com/track/5X0Y53r6h3CDzTl7nsbdPA) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nakuja \(feat\. Marioo, Darassa & Maua Sama\) \[Remix\]](https://open.spotify.com/album/2MIMHlmrVh5RpxUsIlwaqi) | 3:38 | 2023-07-06 | 2023-11-24 |
 | [Nakumpenda](https://open.spotify.com/track/262sNgqKP7SVpyDODmKdV7) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [jd muliki](https://open.spotify.com/artist/2cqAJuc0T3yYDGM1HJlvrl) | [Nakumpenda](https://open.spotify.com/album/0tkAhCJgYZdKLiCIzQQJpO) | 3:26 | 2022-02-04 | 2022-06-03 |
@@ -509,7 +510,7 @@
 | [Wololo](https://open.spotify.com/track/2T3VV5Z3JkWLQl9qEAvqXd) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Wololo](https://open.spotify.com/album/75wI90vteHYUkb6tP4bOSA) | 3:53 | 2024-04-18 | 2024-11-08 |
 | [Wote](https://open.spotify.com/track/7vYxNbbyISaUiZ3Q5wkGFG) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Made For Us](https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR) | 3:31 | 2023-01-12 | 2023-09-15 |
 | [Wote](https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Love Season](https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg) | 3:10 | 2025-02-06 |  |
-| [X](https://open.spotify.com/track/4IVrEIN3BFgcBpLKwrCfpA) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [X](https://open.spotify.com/album/6SsLGdymO8vnLXNqRWiQ4Q) | 3:14 | 2025-02-06 |  |
+| [X](https://open.spotify.com/track/4IVrEIN3BFgcBpLKwrCfpA) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [X](https://open.spotify.com/album/6SsLGdymO8vnLXNqRWiQ4Q) | 3:14 | 2025-02-06 | 2025-04-04 |
 | [Yako Wapi](https://open.spotify.com/track/3EIGn3wZiw5PZw66eHwBuq) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Yako Wapi](https://open.spotify.com/album/6RCoSr3PynLjqURiK99QRK) | 3:35 | 2025-01-23 |  |
 | [Yalaiti \(feat\. Sabah Salum\)](https://open.spotify.com/track/1njIXeYvGPfkbyW9OXUCQE) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Sabah Salum](https://open.spotify.com/artist/5oP4uabOkPBwa7nQgcmfqk) | [Yalaiti \(feat\. Sabah Salum\)](https://open.spotify.com/album/4TtVxE5tQGvLYMtRARphQ7) | 3:25 | 2023-12-08 | 2024-05-03 |
 | [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/track/3vmvMTCmHkboHfqaFWB5ae) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/album/7cBairg5UxvBZOLTmiYQo0) | 3:17 | 2023-09-21 | 2024-08-02 |

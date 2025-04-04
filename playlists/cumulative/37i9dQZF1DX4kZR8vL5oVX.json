@@ -13919,6 +13919,24 @@
     },
     {
       "album": {
+        "name": "Si on sombre ce sera beau",
+        "url": "https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174986,
+      "name": "Les ogres",
+      "url": "https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV"
+    },
+    {
+      "album": {
         "name": "Les copines d'abord (Hommage \u00e0 Brassens)",
         "url": "https://open.spotify.com/album/6l6GR5SqaUT3wqWCCLWXS5"
       },
@@ -24094,7 +24112,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 182826,
       "name": "Text Back",
       "url": "https://open.spotify.com/track/4VLwNuffbdkapeykr0ZD8V"

@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: soap
+> ✨giovane✨pop✨z✨ Cover: Nicolò Filippucci
 
-667 songs - 1 day 6 hr 56 min
+671 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [DOVE TI TROVI TU](https://open.spotify.com/track/7nmgB57lnBQ2cmk3TFXseY) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [DOVE TI TROVI TU](https://open.spotify.com/album/1iYQ3bXd1fj9LVPukNf9KE) | 3:57 | 2025-01-14 |  |
 | [DUE ALTALENE](https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [DUE ALTALENE](https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl) | 3:17 | 2024-02-07 | 2024-06-01 |
 | [E LA TESTA GIRA \(Devastante\)](https://open.spotify.com/track/1lXwIAOoKmxn1nCZbQoNpR) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [E LA TESTA GIRA \(Devastante\)](https://open.spotify.com/album/3EjnSZE9vQMmTx184wpwpW) | 2:33 | 2023-07-13 | 2023-09-15 |
+| [E POI SEI ARRIVATA TU](https://open.spotify.com/track/0fsMDfsrI4AsvBDLUGoUPh) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [E POI SEI ARRIVATA TU](https://open.spotify.com/album/5WS3iOeSRG9RmjkPP37Uz6) | 3:08 | 2025-04-03 |  |
 | [Eden](https://open.spotify.com/track/5g4T5isfIVXluT1waVljLv) | [MURWI](https://open.spotify.com/artist/74Xc17AXn5iG9hWakDfZ4d), [JWar](https://open.spotify.com/artist/0qAbbuu4T1Kq9r3gweW2ZC) | [Eden](https://open.spotify.com/album/1x7yiMfx90DawzXL0sqhZi) | 1:56 | 2023-03-30 | 2023-04-07 |
 | [effetto vuoto](https://open.spotify.com/track/2vX89NuNGOB4jPgstw3TJb) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [effetto vuoto](https://open.spotify.com/album/1FJBy3FzaWRdaxjjYPomUz) | 3:05 | 2023-11-23 | 2023-12-16 |
 | [ESTATE 80](https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 2:47 | 2024-06-13 | 2024-10-25 |
@@ -210,6 +211,7 @@
 | [FINALMENTE](https://open.spotify.com/track/6bhLObRoJeIAp3s0QPGmlp) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [FINALMENTE](https://open.spotify.com/album/0VZ156wg0MKf6BUE3Q2a4f) | 2:34 | 2024-12-12 | 2025-01-17 |
 | [Fine Settembre](https://open.spotify.com/track/6hzdvxKpOM6Ot7CEPvfa9a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 3:31 | 2023-09-28 | 2023-11-17 |
 | [finiscimi](https://open.spotify.com/track/2c0lqanQ7Yz8f7VaAfgqqt) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [finiscimi](https://open.spotify.com/album/0KPFdlJaeqxhaiif2mcXP3) | 3:11 | 2024-02-07 | 2024-04-05 |
+| [FINO A SPEGNERTI \(feat\. Tancredi\)](https://open.spotify.com/track/6Zr1V97HE1XTIxdAKNPgtx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [RONDINE](https://open.spotify.com/album/5XPz7jpDxXyzMVuFUPFAGo) | 2:50 | 2025-04-03 |  |
 | [FINO ALLE 6](https://open.spotify.com/track/3tXM57Khcgj7Az8sW7pWnA) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy) | [FINO ALLE 6](https://open.spotify.com/album/4xQGwlG5pBrTxg3gsRglDX) | 2:50 | 2023-12-15 | 2024-02-02 |
 | [Finta Nostalgia](https://open.spotify.com/track/0HgYbQTaAgxC3M2JlBR2Rn) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Finta Nostalgia](https://open.spotify.com/album/3gK3RvsiYudYqt8s2YujEg) | 3:10 | 2024-10-24 | 2025-01-10 |
 | [Fiore Sulla Luna](https://open.spotify.com/track/6Sinn7z9DmUQPY3oQcMKcV) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Fiore Sulla Luna](https://open.spotify.com/album/6Kz7JnUf9h5yqQDtt6R5Ag) | 2:27 | 2023-08-31 | 2023-09-29 |
@@ -420,6 +422,7 @@
 | [NUVOLA](https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [NUVOLA](https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk) | 2:49 | 2023-12-12 | 2024-06-21 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2023-03-23 | 2023-05-05 |
 | [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 | 2025-01-14 |  |
+| [OBIETTIVO](https://open.spotify.com/track/5YkdsdRoT1ARl7BM2IMSdm) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [OBIETTIVO](https://open.spotify.com/album/2GFPtig6DRFxRiQupQxNfS) | 2:14 | 2025-04-03 |  |
 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 | 2024-10-17 | 2025-03-07 |
 | [Occhi viola \(seule\)](https://open.spotify.com/track/3rFWW6YoD0XJz4XGDtplnG) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Occhi viola \(seule\)](https://open.spotify.com/album/7ht5w4V4rbfh6BWXvjiRDD) | 2:33 | 2025-03-06 |  |
 | [ODIAMI](https://open.spotify.com/track/2e8mCMd3Dihg0EkFzeRS61) | [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [ODIAMI](https://open.spotify.com/album/02kvSxum7hIbUSSmmc3qxh) | 2:48 | 2024-01-18 | 2024-02-23 |
@@ -559,6 +562,7 @@
 | [Soraya](https://open.spotify.com/track/0xDhwzzCx7eamMB11VBgOo) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Soraya](https://open.spotify.com/album/2y65ScAlc5MUfUa72fQcdo) | 3:00 | 2023-11-09 | 2024-02-02 |
 | [Sorprendente](https://open.spotify.com/track/1wv9Chm0IsQrIXX8ZF1wWJ) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Sorprendente](https://open.spotify.com/album/1oO2S8sc0hsaRHrZSdY0lq) | 3:05 | 2024-10-17 | 2024-11-29 |
 | [SORRIDI](https://open.spotify.com/track/2BJaqUsL1o6iTQ9hdE47Gt) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [SORRIDI](https://open.spotify.com/album/4Kp4ZIviktMIGIOK2eyfs8) | 2:38 | 2024-12-12 | 2025-04-01 |
+| [Sotto la pelle](https://open.spotify.com/track/7f0cI43BGlj9fOWEl6zZgG) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [Sotto la pelle](https://open.spotify.com/album/03EYIOoPBkfNPCUl5qOt6A) | 2:54 | 2025-04-03 |  |
 | [sottosopra \(feat\. bnkr44\)](https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [tutti i colori del buio](https://open.spotify.com/album/25q60nNytACtJUStVbphJX) | 2:33 | 2024-10-03 |  |
 | [Sottoterra](https://open.spotify.com/track/5DxNp6C2ft0DA8bqcIgDeB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Sottoterra](https://open.spotify.com/album/7pP33aj7Qqqp5CoDTcbokd) | 2:32 | 2023-03-23 | 2023-03-31 |
 | [SPAZZATURA](https://open.spotify.com/track/3aXhGOFc8XRsUoxdlftnsj) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH), [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f) | [SPAZZATURA](https://open.spotify.com/album/70wjp9z48HRgGssIKlrmzC) | 3:03 | 2024-05-31 | 2024-06-14 |

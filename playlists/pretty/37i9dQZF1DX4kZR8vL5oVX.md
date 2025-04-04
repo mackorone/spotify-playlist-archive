@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Bamby \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,612 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,630 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 22 | [Ordinary](https://open.spotify.com/track/1UjGqPkcwYCJz4siKYoQwu) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 2:09 |
 | 23 | [Ok très bien \(feat\. Louane\)](https://open.spotify.com/track/08kYnV0Acua0D1LxkElDXP) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:39 |
 | 24 | [Bend Your Back \- A COLORS SHOW](https://open.spotify.com/track/2HZi15KL2f3tQQPe0RKWq4) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Bend Your Back \- A COLORS SHOW](https://open.spotify.com/album/1EvPift4GR1Ndh7dZedjYn) | 2:30 |
-| 25 | [Text Back](https://open.spotify.com/track/4VLwNuffbdkapeykr0ZD8V) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [What if I break up with u ?](https://open.spotify.com/album/7LxUCbMeIYevtmkQUymwnm) | 3:02 |
-| 26 | [Aux Deux Fêlés](https://open.spotify.com/track/5N7ocYESHbZu5gKOBNh7pH) | [Moona](https://open.spotify.com/artist/5PXOHFvMnDtfEG8Lsu0eSd) | [Aux Deux Fêlés](https://open.spotify.com/album/5YRcKoRm5iLbxSmOWPFKu3) | 2:25 |
-| 27 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/5cjh58WGH7rads54ZGZ4cM) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Mauvaise idée \(Au pays des Merveilles\)](https://open.spotify.com/album/4IeHU1yMrCPJ09yoLn7thf) | 2:51 |
-| 28 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 |
-| 29 | [Mes copines](https://open.spotify.com/track/502XEEZqqDiJ6N2em8ZhJQ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [La Favorite](https://open.spotify.com/album/60cnL4NlNjkEQWRgPYlrmG) | 2:51 |
-| 30 | [Encore](https://open.spotify.com/track/0kEJMP9Dtn4BV6oBQt2STI) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [ENCORE](https://open.spotify.com/album/1EK3ArOlQEaQCqBOlx59V0) | 1:57 |
-| 31 | [Courage \- Edit](https://open.spotify.com/track/6Kn3Vf0MFVCPTiB1jVxXMj) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/2Oikyyu7haPirWi37FN3cr) | 3:00 |
+| 25 | [Aux Deux Fêlés](https://open.spotify.com/track/5N7ocYESHbZu5gKOBNh7pH) | [Moona](https://open.spotify.com/artist/5PXOHFvMnDtfEG8Lsu0eSd) | [Aux Deux Fêlés](https://open.spotify.com/album/5YRcKoRm5iLbxSmOWPFKu3) | 2:25 |
+| 26 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/5cjh58WGH7rads54ZGZ4cM) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Mauvaise idée \(Au pays des Merveilles\)](https://open.spotify.com/album/4IeHU1yMrCPJ09yoLn7thf) | 2:51 |
+| 27 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 |
+| 28 | [Mes copines](https://open.spotify.com/track/502XEEZqqDiJ6N2em8ZhJQ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [La Favorite](https://open.spotify.com/album/60cnL4NlNjkEQWRgPYlrmG) | 2:51 |
+| 29 | [Encore](https://open.spotify.com/track/0kEJMP9Dtn4BV6oBQt2STI) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [ENCORE](https://open.spotify.com/album/1EK3ArOlQEaQCqBOlx59V0) | 1:57 |
+| 30 | [Courage \- Edit](https://open.spotify.com/track/6Kn3Vf0MFVCPTiB1jVxXMj) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/2Oikyyu7haPirWi37FN3cr) | 3:00 |
+| 31 | [Les ogres](https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 2:54 |
 | 32 | [2006](https://open.spotify.com/track/34o8IGkPFR8A3VHnGZ1LXT) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [2006](https://open.spotify.com/album/57JWNK68TONeQJVIbYR3sw) | 2:35 |
 | 33 | [Le masque \(feat\. Adèle Castillon\)](https://open.spotify.com/track/1luSPxob2uYwhKzLp528RH) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Murmure](https://open.spotify.com/album/5jKENL1OARcOuBb2cHs92j) | 2:37 |
 | 34 | [Lonely Fan](https://open.spotify.com/track/4e6CNsNtnpfgVhlKUEfomN) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Lonely Fan](https://open.spotify.com/album/7jgupLW3ICDhL22HwxlqTM) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Le Même Corps](https://open.spotify.com/track/17iC3cV5gjwpIj9gPWtO2a) | [George Ka](https://open.spotify.com/artist/4pIlSs2li5kl1x89fYslAO) | [Le Même Corps](https://open.spotify.com/album/2g7LgiEiObgCIvczNPZVhm) | 3:32 |
 | 50 | [Abracadabra](https://open.spotify.com/track/5SX7TEQCLl2QrwEiWrPGPr) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS IV \(Paranormal\)](https://open.spotify.com/album/114sobgv1Nm082hj7Tdlur) | 3:20 |
 
-Snapshot ID: `Z+x+DQAAAAD8imGQvqBNWGHpqMKefSp0`
+Snapshot ID: `Z+4+hQAAAAAKdESlCdbVseFebekL+26o`

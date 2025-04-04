@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,088 songs - 4 day 15 hr 47 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,092 songs - 4 day 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2095,6 +2095,10 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2085 | [You've Seen the Butcher](https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:31 |
 | 2086 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/7I6DOsv8I8mZC88CkvmrsE) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(UK Edition\)](https://open.spotify.com/album/3RIRsDECFJX0nNnbgQM21G) | 2:23 |
 | 2087 | [Wanna See U](https://open.spotify.com/track/1gqJjjCl9kepWReQclosRu) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Wanna See Houston](https://open.spotify.com/album/6EV96sexRlM3AxZNXMiWzP) | 5:21 |
-| 2088 | [ASTRO](https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm), [zaichkou888](https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte) | [ASTRO](https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC) | 2:24 |
+| 2088 | [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 |
+| 2089 | [ASTRO](https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm), [zaichkou888](https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte) | [ASTRO](https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC) | 2:24 |
+| 2090 | [1991](https://open.spotify.com/track/0UTmS76yJwuCpiKEn16uN5) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:30 |
+| 2091 | [take it offff](https://open.spotify.com/track/4FT34LPn1NfZizeWQ7G6Oz) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [take it offff](https://open.spotify.com/album/4bLX9szK5qIl3f9qzRs49O) | 2:10 |
+| 2092 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
 
-Snapshot ID: `AAAD9XMQqhugPpUzo7GpCxjuYM1DMan1`
+Snapshot ID: `AAAD+tIqr5WOKjoaOMScvjCjoNaqCSH6`

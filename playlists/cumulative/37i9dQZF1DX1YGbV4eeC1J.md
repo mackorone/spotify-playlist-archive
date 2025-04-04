@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Centano
+> What is your love language? Say it in Swahili\.  Cover: Mocco Genius
 
-284 songs - 16 hr 3 min
+285 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bado](https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Bado](https://open.spotify.com/album/2L9Ap65owutg0v7TKoOhIV) | 3:34 | 2024-02-01 | 2024-05-17 |
 | [BamBam](https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:30 | 2024-03-14 | 2024-03-22 |
 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 | 2024-01-11 |  |
+| [Basi Nambie](https://open.spotify.com/track/5FhsWTCMQonSGlyMzlqiaS) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Basi Nambie](https://open.spotify.com/album/6EvCZYZyxhx8wgQA4S5Xyi) | 2:40 | 2025-04-04 |  |
 | [Be My Rescue](https://open.spotify.com/track/5MUyb4L8hZ37XgaQG8uaXo) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Sweet Sour Serenade](https://open.spotify.com/album/5vpuiuqaKIxzCDAzjXCS3t) | 3:08 | 2024-11-07 | 2025-02-07 |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Boda](https://open.spotify.com/track/4hfhjbfhRTBpvOYXJfC1YL) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Boda](https://open.spotify.com/album/1htUwvLb7Y834xXsMEKibn) | 3:03 | 2025-02-27 |  |
@@ -82,7 +83,7 @@
 | [I Belong To You](https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [I Belong To You](https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1) | 2:52 | 2023-11-10 | 2024-02-23 |
 | [I Do](https://open.spotify.com/track/0xKkw3VN1fEFWK8BGsyEBM) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 3:01 | 2024-07-04 | 2024-07-06 |
 | [I Do](https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [I Do](https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo) | 3:19 | 2024-09-26 |  |
-| [I Love You](https://open.spotify.com/track/2Mt3Sq3zpBmZj6pkkttzQs) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Love You](https://open.spotify.com/album/3beOuf8HSVjiWzl47doPX6) | 3:10 | 2024-11-22 |  |
+| [I Love You](https://open.spotify.com/track/2Mt3Sq3zpBmZj6pkkttzQs) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Love You](https://open.spotify.com/album/3beOuf8HSVjiWzl47doPX6) | 3:10 | 2024-11-22 | 2025-04-04 |
 | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD) | 4:08 | 2022-05-26 | 2024-02-02 |
 | [I Need You](https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Need You](https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm) | 3:05 | 2023-08-31 | 2024-02-16 |
 | [I Need You](https://open.spotify.com/track/65r5JlLLlCPfpAAQH1Nsv8) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Need You](https://open.spotify.com/album/3uRFdty1rcadmo53p0ydVZ) | 3:06 | 2022-08-04 | 2023-03-11 |
@@ -186,7 +187,7 @@
 | [Nikupe](https://open.spotify.com/track/3nBM9r7MO6wt01ArmJN3qk) | [Dayna Nyange](https://open.spotify.com/artist/6boNchRYpMDrSO2PDuQ7nU), [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikupe](https://open.spotify.com/album/65ETlCyBOkiigBCXDkHAdl) | 3:14 | 2025-01-09 | 2025-01-24 |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Nimekoma](https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Nimekoma](https://open.spotify.com/album/1Go8LYTNXNRO02aWTh4dvM) | 3:33 | 2024-09-20 | 2024-12-20 |
-| [Nimepatikana](https://open.spotify.com/track/2iZ0SlISjg9i0zkEEeRzzo) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Nimepatikana](https://open.spotify.com/album/4ZBApehQPw0RRhNMVvEtdp) | 2:43 | 2024-10-31 |  |
+| [Nimepatikana](https://open.spotify.com/track/2iZ0SlISjg9i0zkEEeRzzo) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Nimepatikana](https://open.spotify.com/album/4ZBApehQPw0RRhNMVvEtdp) | 2:43 | 2024-10-31 | 2025-04-04 |
 | [Nimepona](https://open.spotify.com/track/5QBOkEw7DDaZ8PQ2TuGxrY) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nimepona](https://open.spotify.com/album/2rxqrKuaUCUkV4kej5LlJQ) | 3:23 | 2023-03-02 | 2023-09-22 |
 | [Nini Mapenzi](https://open.spotify.com/track/6DZbkBCNOJCrdeelhTt11E) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Nini Mapenzi](https://open.spotify.com/album/5s6OQh8EnErELs3qq0YMoY) | 3:24 | 2024-06-07 | 2024-09-13 |
 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 | 2022-05-26 | 2023-07-14 |

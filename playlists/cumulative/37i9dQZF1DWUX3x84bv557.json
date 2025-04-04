@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Alles",
+        "url": "https://open.spotify.com/album/0TNfJxH3EANHb9AZNyq2aY"
+      },
+      "artists": [
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Alles",
+      "url": "https://open.spotify.com/track/7dJlOVVw2ZCOOYpOnfbphl"
+    },
+    {
+      "album": {
         "name": "Alles Al",
         "url": "https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP"
       },
@@ -2916,7 +2938,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 162400,
       "name": "Dag & Nacht",
       "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
@@ -4338,7 +4360,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 202142,
       "name": "Droom Maar",
       "url": "https://open.spotify.com/track/7KrwyBsiThP1CLJnLyQ0cF"
@@ -5494,7 +5516,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 207428,
       "name": "Goud",
       "url": "https://open.spotify.com/track/6gzppTl4uBIxrIad6N1qHK"
@@ -5516,6 +5538,24 @@
       "duration_ms": 212510,
       "name": "Grijze Haren",
       "url": "https://open.spotify.com/track/0nlXGknakf5Y7Xa8r4nRtC"
+    },
+    {
+      "album": {
+        "name": "In je eentje lukt het nooit, maar is dat niet iets moois?",
+        "url": "https://open.spotify.com/album/79v6kGnaQqAJQdyRChD19U"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191511,
+      "name": "Groeipijn",
+      "url": "https://open.spotify.com/track/324iqe9RN3LSeR8qq5IiGH"
     },
     {
       "album": {
@@ -6902,6 +6942,24 @@
       "duration_ms": 161538,
       "name": "Hypnose",
       "url": "https://open.spotify.com/track/4QxCCHF8fViAhGXU6Omezh"
+    },
+    {
+      "album": {
+        "name": "Iconisch",
+        "url": "https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141141,
+      "name": "Iconisch",
+      "url": "https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut"
     },
     {
       "album": {
@@ -9537,6 +9595,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/22ikVNQHXB7K4tvbOGX4ra"
+      },
+      "artists": [
+        {
+          "name": "Wime",
+          "url": "https://open.spotify.com/artist/3W4uJqK2m91h5qAkhv4VVc"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184157,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/37BuHIlkygMmspF5OpThAL"
+    },
+    {
+      "album": {
         "name": "Maar Niet Met Jou Erbij",
         "url": "https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey"
       },
@@ -9874,7 +9950,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 191000,
       "name": "Merci",
       "url": "https://open.spotify.com/track/2ucacgpSBS5IwOXvDnCvWs"
@@ -10622,6 +10698,24 @@
       "duration_ms": 120612,
       "name": "Niemand voor Elkaar",
       "url": "https://open.spotify.com/track/5M4k2zgIC4lO7W94GD0nWv"
+    },
+    {
+      "album": {
+        "name": "Niemand Zijn",
+        "url": "https://open.spotify.com/album/0wxdbS9KKnDCh9HncVMUJg"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167187,
+      "name": "Niemand Zijn",
+      "url": "https://open.spotify.com/track/13yhctWhqjE3HHWGnlXIkc"
     },
     {
       "album": {
@@ -12479,6 +12573,24 @@
     },
     {
       "album": {
+        "name": "Schaduw",
+        "url": "https://open.spotify.com/album/4KVeWwQwJwNiraWbHiWxXF"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130871,
+      "name": "Schaduw",
+      "url": "https://open.spotify.com/track/5xQcNZGSNdRm1jvucovIo6"
+    },
+    {
+      "album": {
         "name": "Scherpst van de Snede",
         "url": "https://open.spotify.com/album/5iQQAvHZdNYCyDmV5ZVMU8"
       },
@@ -12508,7 +12620,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 179750,
       "name": "Scherven",
       "url": "https://open.spotify.com/track/14h13moB369WHcbOOjOY0z"
@@ -13108,7 +13220,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 169978,
       "name": "Spijt",
       "url": "https://open.spotify.com/track/1Lod5JKUe0OhF6nY80M482"
@@ -13820,6 +13932,24 @@
       "duration_ms": 163833,
       "name": "Terugweg",
       "url": "https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs"
+    },
+    {
+      "album": {
+        "name": "That\u2019s Life",
+        "url": "https://open.spotify.com/album/51LOKi2MGxL2zz7CABENn9"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170534,
+      "name": "That\u2019s Life",
+      "url": "https://open.spotify.com/track/3dhJ95PwhjILl4ubUUJ3GW"
     },
     {
       "album": {
@@ -15890,7 +16020,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 201750,
       "name": "Weer Verliefd",
       "url": "https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf"

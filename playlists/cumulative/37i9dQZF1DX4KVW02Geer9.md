@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Joe Armon\-Jones
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 黒田卓也
 
-272 songs - 19 hr 36 min
+273 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Ra](https://open.spotify.com/track/65QqzOBCUjxbAV1fu1XVJv) | [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO) | [Ra](https://open.spotify.com/album/6WltOBGyDNg24XAZP9IUbo) | 5:24 | 2024-12-13 | 2025-01-25 |
 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 | 2024-06-27 | 2024-09-20 |
 | [Road to Ilha Grande](https://open.spotify.com/track/6vV2uc1YEmS7IXxPauGzJa) | [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Road to Ilha Grande](https://open.spotify.com/album/71caZmzyY8y1YRvSaLQK6D) | 5:54 | 2024-06-27 | 2024-11-08 |
+| [Rock With You](https://open.spotify.com/track/3XdUIOw2vuzo8MC2aaSifj) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Rock With You](https://open.spotify.com/album/3znUwosEsjcKgqoMlUMVl6) | 4:50 | 2025-04-03 |  |
 | [Rumba Roy](https://open.spotify.com/track/1eVXW0c6PT1iwP0HDN7vVF) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Grande\-Terre](https://open.spotify.com/album/77VpcoLff1MKzDPZQ4rSyu) | 6:52 | 2024-10-17 | 2025-02-21 |
 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/4qeYJlD4CZFWfe8PNbVnBr) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/38tjI9MwZC7uSqnAdRrvdX) | 3:58 | 2024-06-27 | 2024-07-05 |
 | [S.Y.P.T\. \(Show Your PentaTonic\)](https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [TAPES of ACES \- Side A](https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC) | 6:49 | 2024-06-27 | 2025-01-17 |

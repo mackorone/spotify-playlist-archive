@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Hanzi
 
-2,014 songs - 4 day 22 hr 4 min
+2,016 songs - 4 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1758,6 +1758,7 @@
 | [Vì Đã Thích Em Rồi](https://open.spotify.com/track/3Q89CQNkscCXi2GSx6S6kv) | [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Vì Đã Thích Em Rồi](https://open.spotify.com/album/4c6z38F9HvLw1pSXJi9ae7) | 3:39 | 2024-07-31 | 2024-08-23 |
 | [Vòng Lặp](https://open.spotify.com/track/6pEC97KdEEMsVheQNwKzLy) | [RIO](https://open.spotify.com/artist/4dH6uW4FU977FDuTcCHGUf) | [Vòng Lặp](https://open.spotify.com/album/1igtgqe1IElnHRIe6AbymS) | 2:44 | 2023-07-20 | 2023-09-15 |
 | [Vòng Lặp Thời Gian](https://open.spotify.com/track/558wJVz1cUJcYdE4mEt2Hq) | [Nsta](https://open.spotify.com/artist/7N1y3zllMyTEh7WSRaiu3F), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI), [Datruth](https://open.spotify.com/artist/53AP82q0xJ8K0SLkrfxN8l) | [Vòng Lặp Thời Gian](https://open.spotify.com/album/0DXnmkm5w0oHzI8evFLVGI) | 3:16 | 2025-02-21 | 2025-03-15 |
+| [Vòng Xoay](https://open.spotify.com/track/23od43lDmzA2OwMD2JUPr5) | [CZS BXNJI](https://open.spotify.com/artist/0GhfvhW8iwQHZ4hu2Fq7ld), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Vòng Xoay](https://open.spotify.com/album/38pxWRPGWC43xdMTixFznN) | 3:05 | 2025-04-03 |  |
 | [Vòng Xoay](https://open.spotify.com/track/0yRLlOcwxCJn86661YeaOJ) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Vòng Xoay](https://open.spotify.com/album/4pmqRQmc3kcgJJz1reF2RO) | 2:56 | 2023-11-29 | 2024-05-15 |
 | [Vòng Xoay](https://open.spotify.com/track/6vpBwdPBDQwGmcXSw35RhP) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Vòng Xoay](https://open.spotify.com/album/4rnUxTfcedtf8mMwmrQyFE) | 2:56 | 2023-02-17 | 2023-03-30 |
 | [Vô Cực Nhớ Em](https://open.spotify.com/track/1WS11AeGT9BQ7nrrKHT9GS) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Vô Cực Nhớ Em](https://open.spotify.com/album/01fM98W1HGDAZRTC6YoMW7) | 4:00 | 2022-08-08 | 2022-09-28 |
@@ -1969,6 +1970,7 @@
 | [Đầu To](https://open.spotify.com/track/31HwayLskRLAbNRISnylKt) | [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq), [A.C Xuân Tài](https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE) | [Đầu To](https://open.spotify.com/album/6ECnLHuvUXhu331tIyD1eS) | 3:03 | 2022-06-02 | 2022-06-22 |
 | [ĐẬM SÂU](https://open.spotify.com/track/0frxC5D0uIjToqh6OlVmro) | [Lor](https://open.spotify.com/artist/2F7Jz1oc6c64rzPk6tnwV9), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [ĐẬM SÂU](https://open.spotify.com/album/75JUMhyjihZANZzbe5ZvvV) | 3:21 | 2022-10-10 | 2022-10-21 |
 | [Đập Vỡ Tan Hết](https://open.spotify.com/track/6wXJwN6Kl3EUoN6VfOn6LT) | [Teddy K](https://open.spotify.com/artist/7bCKw3CJqfEUmdpEuNFjLt) | [Đập Vỡ Tan Hết](https://open.spotify.com/album/3EEp4WaJx32XrSilOoCkCs) | 4:00 | 2023-12-28 | 2024-01-19 |
+| [Đậu thần](https://open.spotify.com/track/6QokXuBpqoMXAKAtA9YXin) | [Dreamwork](https://open.spotify.com/artist/65aZV0VGC3Fk2AC4VO7tCw) | [Bán thời gian](https://open.spotify.com/album/2QzRhVsJ2KkVbB7XxG45Ai) | 2:59 | 2025-04-03 |  |
 | [Đắm Say](https://open.spotify.com/track/3N5czkNQEpX8zD6MCSsnZ7) | [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [Đắm Say](https://open.spotify.com/album/3EiLsFu60L1vXBw1X8aYdl) | 3:43 | 2022-01-06 | 2022-03-11 |
 | [Đến Bên Anh Được Không](https://open.spotify.com/track/7zRHS0s4rfu9xsSnSl1XWw) | [Oliu](https://open.spotify.com/artist/5bQKHU2peXIxfcBa1LVdS1), [B4OK](https://open.spotify.com/artist/5TexKi2w4DnGsRxBgytISX) | [Đến Bên Anh Được Không](https://open.spotify.com/album/49U71HS8LJdlDsWFNwPPBy) | 3:06 | 2022-10-20 | 2023-02-01 |
 | [Đến Cuối Cùng](https://open.spotify.com/track/7oIV5VYA8bnk4t2lXEpCh6) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Đến Cuối Cùng](https://open.spotify.com/album/0LABLAFxtIjn7u5X62tkxC) | 4:28 | 2024-06-24 | 2024-08-30 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-951 songs - 2 day 5 hr 48 min
+952 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Same Thing](https://open.spotify.com/track/14jeV71SdC9avzYP9MsrhR) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Same Thing](https://open.spotify.com/album/2erULkeRVJ8bYVqF2tTmYZ) | 3:41 | 2023-02-07 | 2023-04-27 |
 | [Sapphire](https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Sapphire](https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56) | 3:13 | 2023-01-11 | 2023-03-25 |
 | [Save Me](https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Save Me](https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G) | 3:24 | 2022-08-15 | 2022-10-28 |
+| [Save Me Now](https://open.spotify.com/track/58Kp1bn21XaEkZY2C42Atk) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu), [Why So Low](https://open.spotify.com/artist/4udkcJD4btZYw9AOlCBDMK) | [Save Me Now / On Fire](https://open.spotify.com/album/3wePhn0VEJJY7e0fB3QvZ4) | 2:58 | 2025-04-03 |  |
 | [Save You \- VIP](https://open.spotify.com/track/0zmwNHAsHvtcBSmixRLHiU) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Save You \(VIP\)](https://open.spotify.com/album/09JWbZi0y87fUvhHlPT33Y) | 3:20 | 2024-08-30 | 2024-11-22 |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 | 2023-06-09 |

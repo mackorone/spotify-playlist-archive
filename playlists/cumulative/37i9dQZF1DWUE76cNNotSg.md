@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-557 songs - 1 day 10 hr 50 min
+558 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Friends](https://open.spotify.com/track/7oEO6TfBGcyJw8ZpP8e8i2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Friends](https://open.spotify.com/album/4jStOidSdXoVBPdgVUj0po) | 3:26 | 2020-12-22 | 2022-04-21 |
 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 | 2020-12-22 | 2022-11-13 |
 | [Gipsy](https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Haj](https://open.spotify.com/artist/05WNscDcYnsCEMH42h1ehL) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:28 | 2022-05-13 | 2022-06-04 |
+| [Girl](https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Girl](https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa) | 3:24 | 2025-04-03 |  |
 | [Gisèle](https://open.spotify.com/track/2vRsa6uWv4CVbmLcYlWbOZ) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/1LgDq3nCqIdL0f8NyRflJG) | 3:16 | 2020-12-22 | 2022-06-15 |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2020-12-22 | 2024-04-19 |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-13 | 2024-05-11 |
@@ -209,7 +210,7 @@
 | [Horizon \- Poolside Remix](https://open.spotify.com/track/1pZLRkzmhVCNMtvsSNq4Bp) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Horizon \(Poolside Remix\)](https://open.spotify.com/album/2Wm1dPwEOiM0uOHpj8oy3D) | 5:51 | 2020-12-22 | 2022-04-18 |
 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 | 2023-11-10 |  |
 | [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2021-03-19 | 2022-12-24 |
-| [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 | 2020-12-22 |  |
+| [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 | 2020-12-22 | 2025-04-04 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-26 |  |
 | [hyperspeed](https://open.spotify.com/track/3km6muXi6ToiRirTJLkgzr) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [hyperspeed](https://open.spotify.com/album/55fj2jwBrgsuw4JmT5jusG) | 3:18 | 2022-07-08 | 2022-07-29 |
 | [Hémisphère](https://open.spotify.com/track/2xIUT6emYrLwuQLhLBf7PH) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/500EIkxZ1MFSKHESVxWR0k) | 7:13 | 2020-12-22 | 2022-04-18 |

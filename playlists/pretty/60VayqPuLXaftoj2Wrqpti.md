@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,927 likes - 73 songs - 4 hr 41 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,930 likes - 73 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 7 | [Orgiastic](https://open.spotify.com/track/38X4MG5A4RlPfrxoWYr82C) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Orgiastic](https://open.spotify.com/album/4ZRURSZl95uRkONSOj6m02) | 5:05 |
 | 8 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
 | 9 | [Stretch the Struggle](https://open.spotify.com/track/3VhuUDIxvpevwovHS4NDPO) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Big Dog](https://open.spotify.com/album/4iWJZ8fvIWxEH7oz7hpwOo) | 3:34 |
-| 10 | [Amid the Blackout of the NIght](https://open.spotify.com/track/4OITTIGNWwXz58zz1T07YS) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [Amid the Blackout of the NIght](https://open.spotify.com/album/5xOmqAnYfEnUTKsHzUb7xe) | 9:40 |
+| 10 | [Amid the Blackout of the NIght](https://open.spotify.com/track/4OITTIGNWwXz58zz1T07YS) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [Amid the Blackout of the Night](https://open.spotify.com/album/5xOmqAnYfEnUTKsHzUb7xe) | 9:40 |
 | 11 | [Stand Up](https://open.spotify.com/track/16YXGbFMzLXiwBIx5KzTzG) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [Stand Up](https://open.spotify.com/album/7of8fScRyXLjBFV5IYUdMf) | 2:50 |
 | 12 | [Jealous Boy](https://open.spotify.com/track/3geXvdkUWdzqvnGxhOX71J) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Jealous Boy](https://open.spotify.com/album/0StxH90kbEk6wIMmuZSjr0) | 2:39 |
 | 13 | [Mikey Told Me](https://open.spotify.com/track/382NL9HkjBFQqT0URyMuR9) | [bug crush](https://open.spotify.com/artist/1Sgo3vIsRHa4VDrSr1J9Jq) | [Mikey Told Me](https://open.spotify.com/album/5NclFUB0Wf24BYUx2ccFMH) | 3:08 |

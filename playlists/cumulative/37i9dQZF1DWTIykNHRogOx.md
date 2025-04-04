@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo : Ours
+> Les  meilleures nouveautés de la chanson française\. Photo : Terrenoire
 
-152 songs - 8 hr 19 min
+154 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [c'était mieux avant](https://open.spotify.com/track/0QOsuZVhlKiY0m5LR6jgAu) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [c'était mieux avant](https://open.spotify.com/album/6s1GZPMUWtSDp5Z8j1ka5E) | 2:17 | 2024-07-18 | 2024-09-20 |
 | [CE QU'ILS DEVIENNENT](https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [PEAU NEUVE \(Édition Deluxe\)](https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny) | 3:20 | 2025-01-09 |  |
 | [Ce que j'aime \(feat\. Nikola\)](https://open.spotify.com/track/0FUBEByQyhya0tLMuJs7xR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:26 | 2024-10-10 | 2025-03-07 |
+| [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 | 2025-04-03 |  |
 | [Chevaleresse](https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz) | [Babx](https://open.spotify.com/artist/7MCsMOkbdDHqJ4WAGuXdDZ) | [Chevaleresse](https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl) | 3:49 | 2025-01-23 | 2025-03-21 |
 | [Comment fais\-tu pour vivre ? \- version guitare](https://open.spotify.com/track/0a0FoOFwLFgsPNYH3VjN5t) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [De ton vivant](https://open.spotify.com/album/2jqy3gATiuA0IbJoYAG3lZ) | 3:42 | 2025-01-30 |  |
 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-01-09 |  |
@@ -38,7 +39,7 @@
 | [Ensemble \- feat\. Charlotte Cardin](https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:52 | 2024-11-28 |  |
 | [Ex æquo](https://open.spotify.com/track/1APeKWbOHLEygigClkqJn3) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex æquo](https://open.spotify.com/album/465QdjgM6b3VJQo8CgGfPz) | 3:57 | 2025-02-20 |  |
 | [Exister](https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Exister](https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8) | 3:19 | 2024-08-29 | 2025-01-17 |
-| [Famille](https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m) | 3:15 | 2025-01-30 |  |
+| [Famille](https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m) | 3:15 | 2025-01-30 | 2025-04-04 |
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-10 | 2025-01-10 |
 | [Fille lacrymale](https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD) | 2:40 | 2025-01-09 |  |
 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 | 2025-01-16 |  |
@@ -74,6 +75,7 @@
 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 | 2024-06-27 | 2024-08-30 |
 | [La vague](https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO) | [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [L'essence vagabonde](https://open.spotify.com/album/0HGBzlMjWbzrdtbs9ktYv9) | 3:32 | 2024-06-27 | 2024-08-23 |
 | [Laisse couler](https://open.spotify.com/track/3x4kQexQGMdT0T1IFxwdyv) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Laisse couler](https://open.spotify.com/album/4omSbwBIdouiHCGBliOInR) | 4:34 | 2025-02-27 |  |
+| [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 | 2025-04-03 |  |
 | [Le cœur qui bat](https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Le cœur qui bat \(Bande originale du film\)](https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz) | 2:38 | 2024-09-19 | 2025-01-31 |
 | [Le fil](https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Âge Fleuve](https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP) | 3:02 | 2025-03-20 |  |
 | [Le Grand Sommeil](https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Le Grand Sommeil](https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR) | 3:04 | 2024-06-27 | 2025-01-10 |
@@ -159,6 +161,6 @@
 | [À quoi tu penses ?](https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ) | [À quoi tu penses ?](https://open.spotify.com/album/4OBljJluufDECpKXqDs27P) | 3:20 | 2025-01-30 |  |
 | [Éclaircie sur le jardin](https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [L’impermanence](https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN) | 2:25 | 2024-12-05 | 2025-01-31 |
 | [Été 19](https://open.spotify.com/track/2ZQkK63KQfTp9PzUH9bgok) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Une autre vie](https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA) | 2:59 | 2024-11-21 | 2025-01-17 |
-| [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 | 2024-09-26 |  |
+| [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 | 2024-09-26 | 2025-04-04 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

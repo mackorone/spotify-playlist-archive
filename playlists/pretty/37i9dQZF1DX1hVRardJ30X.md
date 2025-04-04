@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Dei V & Omar Courtz, Feid & Ty Dolla $ign, Emilia, TINI & Nicki Nicole and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,720 likes - 56 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,737 likes - 56 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 24 | [Fetiche](https://open.spotify.com/track/09hUwQCau24tHaTVKgLiFn) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Fetiche](https://open.spotify.com/album/1YJQFqXUo8shoHKP4ksfu2) | 3:15 |
 | 25 | [Trepando Paredes](https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Trepando Paredes](https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC) | 3:53 |
 | 26 | [VIDEITOS](https://open.spotify.com/track/1x4z2luZqpOWwuf0YCgAJx) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [VIDEITOS](https://open.spotify.com/album/71ifoxCElILTyRlcjmyatA) | 2:09 |
-| 27 | [RITO II](https://open.spotify.com/track/7cq780hLZUChB0qFBVesGM) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [RITO II](https://open.spotify.com/album/55HC7bzQ8fFs3v2DVjVOX1) | 4:12 |
+| 27 | [RITO II](https://open.spotify.com/track/7cq780hLZUChB0qFBVesGM) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [RITO II](https://open.spotify.com/album/55HC7bzQ8fFs3v2DVjVOX1) | 4:12 |
 | 28 | [Merce](https://open.spotify.com/track/5Ja9x0aKnHN29WNAu3E4RQ) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Merce](https://open.spotify.com/album/5EPjpOnfCzLQfqwhndNVZt) | 2:21 |
 | 29 | [Sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 |
 | 30 | [Mata Problema](https://open.spotify.com/track/77y9hQmtoYCvZ7Z0XmMxax) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Mata Problema](https://open.spotify.com/album/4GdK86JDxwjRYqDYCDXy1z) | 3:02 |

@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "CLICKBAIT",
+        "url": "https://open.spotify.com/album/6E3B8nI1boK9d7aFHUohWP"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160431,
+      "name": "CLICKBAIT",
+      "url": "https://open.spotify.com/track/6KxI6NASKcMLfX6Hgr2F7p"
+    },
+    {
+      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -2950,6 +2968,24 @@
       "duration_ms": 150387,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/4ENTAdTmgoZ2pID2eciubD"
+    },
+    {
+      "album": {
+        "name": "Despedida",
+        "url": "https://open.spotify.com/album/2iYLGQ5pypH737g75mx4yf"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143384,
+      "name": "Despedida",
+      "url": "https://open.spotify.com/track/110BAOGkDSP4T5hUUius1q"
     },
     {
       "album": {
@@ -4056,6 +4092,24 @@
       "duration_ms": 197046,
       "name": "En Los Espejos",
       "url": "https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz"
+    },
+    {
+      "album": {
+        "name": "en mi balcon",
+        "url": "https://open.spotify.com/album/5YahJL2QGbpuBRk4qivluq"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174389,
+      "name": "en mi balcon",
+      "url": "https://open.spotify.com/track/5i8iq8jm968xuFzJoKv13q"
     },
     {
       "album": {
@@ -5998,7 +6052,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 164745,
       "name": "La Pelirroja",
       "url": "https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9"
@@ -7390,7 +7444,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
@@ -11468,7 +11522,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 131827,
       "name": "sobelove",
       "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"

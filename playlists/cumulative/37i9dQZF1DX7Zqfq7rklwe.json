@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista. Kannessa The Rasmus.",
+  "description": "Suomen suurin ja paras rock-soittolista. Kannessa The Ghost.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 222960,
       "name": "By a Monster\u2019s Hand",
       "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 246826,
       "name": "Dangerous Ground",
       "url": "https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj"
@@ -1034,6 +1034,24 @@
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
+    },
+    {
+      "album": {
+        "name": "Enough Is Enough",
+        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169133,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
       "album": {
@@ -1643,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+        "url": "https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258239,
+      "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+      "url": "https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV"
+    },
+    {
+      "album": {
         "name": "Razorblade Romance",
         "url": "https://open.spotify.com/album/4TGbiYOokXYDtgnw7yKC5N"
       },
@@ -1787,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/63EgbeBz8p7kHnIXI8bhCk"
+      },
+      "artists": [
+        {
+          "name": "Beyond Awareness",
+          "url": "https://open.spotify.com/artist/4QLBCc2W2uxqr6ZbBMjMBs"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200581,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/3R24Bjf4NEG1f1Uk0jZLsd"
+    },
+    {
+      "album": {
         "name": "Like The Phoenix I Will Rise",
         "url": "https://open.spotify.com/album/5RA8SJWi2dIIfj1ro21f8z"
       },
@@ -1892,6 +1946,24 @@
       "duration_ms": 203186,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf"
+    },
+    {
+      "album": {
+        "name": "DEATHMATCH",
+        "url": "https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR"
+      },
+      "artists": [
+        {
+          "name": "LUNA KILLS",
+          "url": "https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201342,
+      "name": "love u",
+      "url": "https://open.spotify.com/track/71TlsrOr3eHZgdDDsNjOhv"
     },
     {
       "album": {
@@ -2568,6 +2640,24 @@
       "duration_ms": 391147,
       "name": "Roses from the Deep",
       "url": "https://open.spotify.com/track/5Qv3gqhjXOZd9AFbR7ywXr"
+    },
+    {
+      "album": {
+        "name": "Running to You",
+        "url": "https://open.spotify.com/album/5ALki6UvIzJh0velsJFYQn"
+      },
+      "artists": [
+        {
+          "name": "H.E.A.T",
+          "url": "https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Running to You",
+      "url": "https://open.spotify.com/track/65Rl7g8LMrODfPQoofsepx"
     },
     {
       "album": {
@@ -3648,7 +3738,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 186395,
       "name": "WAVES",
       "url": "https://open.spotify.com/track/2dVHgqeH5WIiNZnKEYIKOy"

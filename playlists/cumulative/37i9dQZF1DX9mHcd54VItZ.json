@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=7X1_tHmfSle3dzFG6qztgg\">Francois van Coke</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz?si=abIEmNk2THesRLZSunEpdw\">JaeXlynne</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 163303,
       "name": "031",
       "url": "https://open.spotify.com/track/3wU1yl2Fy9spQUVp8rx8hW"
+    },
+    {
+      "album": {
+        "name": "1959",
+        "url": "https://open.spotify.com/album/1Jtpx4jGtV14M1PlDnbVVz"
+      },
+      "artists": [
+        {
+          "name": "JaeXlynne",
+          "url": "https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163571,
+      "name": "1959",
+      "url": "https://open.spotify.com/track/4aJkAL9bzx96YiY2GRUAeB"
     },
     {
       "album": {
@@ -636,6 +654,24 @@
       "duration_ms": 166834,
       "name": "As Ek Jou Hoor Lag",
       "url": "https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO"
+    },
+    {
+      "album": {
+        "name": "As Ek Weet Hoe",
+        "url": "https://open.spotify.com/album/6n28TRByeJbf127qzic7Qg"
+      },
+      "artists": [
+        {
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171313,
+      "name": "As Ek Weet Hoe",
+      "url": "https://open.spotify.com/track/6fSMqjzoFbtLglXIPEfUq9"
     },
     {
       "album": {
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 223666,
       "name": "BROKE ME",
       "url": "https://open.spotify.com/track/0A9JSrai6uQgAW9f3cy0Zc"
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 219928,
       "name": "Conservative",
       "url": "https://open.spotify.com/track/2BPQUoW5auDctU1jftm7qL"
@@ -2367,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/41XH4xbMwOAKWLKqWenVXM"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/7CU6O8HC6JXMs2N8z3hTHZ"
+    },
+    {
+      "album": {
         "name": "Dead Weight",
         "url": "https://open.spotify.com/album/2wmfuymectP3TLRP50kko3"
       },
@@ -2588,6 +2642,24 @@
       "duration_ms": 158627,
       "name": "Die Dood Is Blou",
       "url": "https://open.spotify.com/track/5v6s3vYnADMh18n2lX4K4I"
+    },
+    {
+      "album": {
+        "name": "Die Drie Varkies",
+        "url": "https://open.spotify.com/album/0AUyCXdFxs9hHfc5T0Ng7B"
+      },
+      "artists": [
+        {
+          "name": "Jakkie Louw",
+          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167819,
+      "name": "Die Drie Varkies",
+      "url": "https://open.spotify.com/track/18wDnlP7jU4fUWTyGDYdY9"
     },
     {
       "album": {
@@ -4496,7 +4568,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 193986,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
@@ -4688,7 +4760,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 325302,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3YxaZkRXWlYmZzyZY5KjiP"
@@ -5477,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Keep you here",
+        "url": "https://open.spotify.com/album/35vJcTu8WqS3A4Uie8Vfsr"
+      },
+      "artists": [
+        {
+          "name": "Phil Higgins",
+          "url": "https://open.spotify.com/artist/1qStsFr93Vdc1UhLWhwXFq"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189532,
+      "name": "Keep you here",
+      "url": "https://open.spotify.com/track/05qFXEqMQcfktikZlWIqye"
+    },
+    {
+      "album": {
         "name": "Droombrief",
         "url": "https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf"
       },
@@ -5622,6 +5712,28 @@
       "duration_ms": 218096,
       "name": "Knip die Tou",
       "url": "https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl"
+    },
+    {
+      "album": {
+        "name": "Kom Breek My Hart",
+        "url": "https://open.spotify.com/album/6wl8RZFUmPiWWdxwquIUNN"
+      },
+      "artists": [
+        {
+          "name": "MJ Nel",
+          "url": "https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A"
+        },
+        {
+          "name": "Howie Combrink",
+          "url": "https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Kom Breek My Hart",
+      "url": "https://open.spotify.com/track/2EbfzMZg81Zl8NJ3IG8dFA"
     },
     {
       "album": {
@@ -5903,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188083,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5"
+    },
+    {
+      "album": {
         "name": "Leave This Town",
         "url": "https://open.spotify.com/album/5JK1A5Cwstbtxyr8kppd96"
       },
@@ -6066,7 +6196,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 216533,
       "name": "Like You Madly",
       "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
@@ -7412,6 +7542,24 @@
       "duration_ms": 196213,
       "name": "Ooaa",
       "url": "https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8"
+    },
+    {
+      "album": {
+        "name": "Oomblikke",
+        "url": "https://open.spotify.com/album/6Ih7B6GysEzXLF5JyFjkn0"
+      },
+      "artists": [
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "Oomblikke",
+      "url": "https://open.spotify.com/track/47P7U6gMmo7kY55TkdLpu7"
     },
     {
       "album": {
@@ -9934,7 +10082,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 212853,
       "name": "Ten Seconds",
       "url": "https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi"
@@ -10872,7 +11020,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 211038,
       "name": "Verf My Rooi",
       "url": "https://open.spotify.com/track/5Pk46zq6cbJ4w2fJfgDDqV"
@@ -11388,7 +11536,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 164474,
       "name": "What's the Fuss?",
       "url": "https://open.spotify.com/track/0TusRkPXLy4akqGO8CH1uo"

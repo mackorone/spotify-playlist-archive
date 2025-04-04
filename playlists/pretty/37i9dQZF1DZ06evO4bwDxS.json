@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 524280,
+  "num_followers": 525080,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+ssgAAAAABGWCj7q70LTtbr7hsamBnb",
+  "snapshot_id": "Z+x+AAAAAABUP5z4GkgxByP3BgCTN3xO",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 177500,
       "name": "Skin",
       "url": "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
     },
     {
       "added_at": null,

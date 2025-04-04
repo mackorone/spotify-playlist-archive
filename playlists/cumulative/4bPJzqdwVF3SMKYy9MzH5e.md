@@ -4,7 +4,7 @@
 
 > 
 
-2,105 songs - 4 day 16 hr 50 min
+2,109 songs - 4 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [16 Mirrors](https://open.spotify.com/track/5reWDqtIJUihfccbvQZx6C) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 1:27 | 2022-04-14 |  |
 | [180db\_ \[130\]](https://open.spotify.com/track/2VfEcR59Czu8ii3u6kKeP8) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 3:11 | 2022-04-03 |  |
 | [19](https://open.spotify.com/track/4jAif33FWQlOCwGKoHXbXg) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [19](https://open.spotify.com/album/4H59aVCV5LwfpvSaiLEBau) | 3:48 | 2021-08-05 |  |
+| [1991](https://open.spotify.com/track/0UTmS76yJwuCpiKEn16uN5) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:30 | 2025-04-03 |  |
 | [1992 \- Sped Up Mix](https://open.spotify.com/track/476c8bUBACCdxVUto9sbxA) | [No\_4mat](https://open.spotify.com/artist/0KWgRtUbQXSiICkWp7g213) | [1992 \(Sped Up + Slowed Mixes\)](https://open.spotify.com/album/46pdmAc5MqLcOWz5c7aQzk) | 1:29 | 2025-03-20 |  |
 | [1999 She](https://open.spotify.com/track/3giGHzw3cwE2xraZpRMY3p) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [1999 She](https://open.spotify.com/album/7CchnvrH1SKYlklfOGKmxb) | 2:46 | 2021-08-05 |  |
 | [2 + 2 = 5](https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:19 | 2021-08-24 |  |
@@ -581,6 +582,7 @@
 | [Empire \(Let Them Sing\)](https://open.spotify.com/track/1DbdQp5dwuawBGmxSHw6Fr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:45 | 2021-08-05 |  |
 | [Empty Portrait](https://open.spotify.com/track/47adJXiYLsDisW7nBCRzK0) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 2:25 | 2021-08-24 |  |
 | [Empty Promise](https://open.spotify.com/track/4d7NJGdMwpVbTqq8tzICoK) | [Windowshopping](https://open.spotify.com/artist/0y0oVfboNhPRm14rOzNann) | [Ethereal Plane: Large Body of Water](https://open.spotify.com/album/0MW7Wb9Va23pzz7NI76aS3) | 1:45 | 2023-04-23 |  |
+| [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 | 2025-04-03 |  |
 | [End of the Summer](https://open.spotify.com/track/3qlWyv2wrWHPNfDVbxXh4s) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 1:48 | 2022-11-06 |  |
 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-07-05 |  |
 | [enemy](https://open.spotify.com/track/51qNCY0lUymE88LPDUqFXd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:42 | 2022-04-03 |  |
@@ -1629,6 +1631,7 @@
 | [She's My Collar \(feat\. Kali Uchis\)](https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:29 | 2022-10-08 |  |
 | [She's So Nice](https://open.spotify.com/track/0Dfctnkk9xIikDKJ06uwzo) | [Pink Guy](https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD) | [Pink Season](https://open.spotify.com/album/3l5PdpQHvUOXlq1w9PftPu) | 2:43 | 2021-08-05 |  |
 | [SHELF](https://open.spotify.com/track/5cV1dQURza6qPuS2PVB5tM) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [BEST HOUSE ON A BAD BLOCK](https://open.spotify.com/album/20S2pxu7617ZzH7lJA4kKL) | 3:01 | 2021-08-05 |  |
+| [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2025-04-03 |  |
 | [shhh](https://open.spotify.com/track/6kh9HwHs4jdVtwejIHdEVV) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:38 | 2024-02-10 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-02-04 |  |
 | [Shitstorm](https://open.spotify.com/track/6uHUVWJbF8G2GADlzfeDRz) | [Strapping Young Lad](https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy) | [Alien](https://open.spotify.com/album/6SS8I9qRTwh0tMdAYoTbat) | 4:22 | 2022-04-03 |  |
@@ -1779,6 +1782,7 @@
 | [Tacata](https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Tacata](https://open.spotify.com/album/1iuFJ9W479sVjcEqdjqMS8) | 1:54 | 2023-12-28 |  |
 | [Tag, You're It](https://open.spotify.com/track/3u1FiuSpfsgVnekEMXgMwJ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:09 | 2021-08-05 |  |
 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 | 2021-08-05 |  |
+| [take it offff](https://open.spotify.com/track/4FT34LPn1NfZizeWQ7G6Oz) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [take it offff](https://open.spotify.com/album/4bLX9szK5qIl3f9qzRs49O) | 2:10 | 2025-04-03 |  |
 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 | 2022-10-28 |  |
 | [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-23 |  |
 | [talk is overrated](https://open.spotify.com/track/7cflqPPi3zWfLFRRBTWeh6) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [idle](https://open.spotify.com/album/77EcAn5H4pGamI8JiwvP4T) | 3:09 | 2021-08-05 |  |

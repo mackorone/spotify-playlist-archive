@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Adult Swim",
+        "url": "https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144640,
+      "name": "Adult Swim",
+      "url": "https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU"
+    },
+    {
+      "album": {
         "name": "aigre-doux",
         "url": "https://open.spotify.com/album/1Wom06jbs8fva9g4mZfB6N"
       },

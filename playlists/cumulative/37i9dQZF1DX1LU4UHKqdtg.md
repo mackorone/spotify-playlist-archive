@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-1,420 songs - 3 day 3 hr 44 min
+1,422 songs - 3 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-04-27 |
 | [Dilly Dally](https://open.spotify.com/track/38dDP2uFYXr9fo4EkGQSbE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/5vLpVxSJdRGciJ1FTY4qiX) | 3:31 | 2023-12-05 | 2023-12-15 |
 | [Dilly Dally](https://open.spotify.com/track/624rJzJltnse63XfM1XlXn) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1) | 3:31 | 2023-12-05 | 2023-12-07 |
+| [DIM](https://open.spotify.com/track/7vC62GHKlmmR4JiewhYcre) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [DIM ∞](https://open.spotify.com/album/7FnEL1BCbrNeAwbBABcSl0) | 3:21 | 2025-04-03 |  |
 | [Dirty Dancing \(feat\. Joshua, DK & Dino of SEVENTEEN\) \- Dem Jointz Remix](https://open.spotify.com/track/6KfYVOicblNB8CaDZwbxiT) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Dirty Dancing \(Dem Jointz Remix\)](https://open.spotify.com/album/4MHZnwMTrnhgoSJKe1KSqP) | 3:36 | 2023-08-31 | 2023-10-28 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2023-09-06 |
 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 | 2024-07-09 | 2024-10-11 |
@@ -636,7 +637,7 @@
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-09 | 2022-10-19 |
 | [Kiss me Baby](https://open.spotify.com/track/4j9oSggZykTGFCNqJ3PNRm) | [E'LAST](https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y) | [iDENTIFICATION](https://open.spotify.com/album/0gnFa9WBs7N50tOtNMRi5Z) | 3:19 | 2023-10-17 | 2023-11-23 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-27 | 2023-05-10 |
-| [Klaxon](https://open.spotify.com/track/32Zr1pnXLBLzj34RynRYpz) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5dwzsNcntYNMFan9LvRxJM) | 2:55 | 2024-07-09 |  |
+| [Klaxon](https://open.spotify.com/track/32Zr1pnXLBLzj34RynRYpz) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5dwzsNcntYNMFan9LvRxJM) | 2:55 | 2024-07-09 | 2025-04-04 |
 | [Knock On My Door](https://open.spotify.com/track/0hAvf6Lzo1rYcq7aOtdohj) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Knock On My Door](https://open.spotify.com/album/1cNekjNeCf2CaHdiJk0S44) | 2:25 | 2023-03-21 | 2023-05-10 |
 | [KNOW ABOUT ME](https://open.spotify.com/track/719MkAinn7QVNoibvtkSHW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/3ypVkFQVBorVyk2hdaYs4w) | 2:45 | 2025-03-17 |  |
 | [La Vida Loca](https://open.spotify.com/track/5YazeJ15q1Mypr9ZYLJaT9) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [La Vida Loca](https://open.spotify.com/album/7v5WJg3N0QQYC9BIlDnB0Z) | 3:07 | 2022-08-09 | 2022-10-12 |
@@ -1007,7 +1008,7 @@
 | [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-07 | 2025-01-18 |
 | [Second](https://open.spotify.com/track/06airWVL4vpd8lNKQP9wMx) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 3:38 | 2022-05-16 | 2022-07-20 |
 | [See that?](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:02 | 2024-08-23 | 2024-11-12 |
-| [See you in hell](https://open.spotify.com/track/0ho6WKE45zywTVph0deBpq) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [I Did: Bloom \(Deluxe\)](https://open.spotify.com/album/2haRGdLvimDfNlDBW1LAt1) | 3:13 | 2025-01-17 |  |
+| [See you in hell](https://open.spotify.com/track/0ho6WKE45zywTVph0deBpq) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [I Did: Bloom \(Deluxe\)](https://open.spotify.com/album/2haRGdLvimDfNlDBW1LAt1) | 3:13 | 2025-01-17 | 2025-04-04 |
 | [Selfish](https://open.spotify.com/track/2stDO2K4MFsZmGJKN17oB3) | [Nicole](https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS) | [Selfish](https://open.spotify.com/album/7JV69xualLezqeKOIkoP7k) | 3:35 | 2023-05-09 | 2023-05-31 |
 | [Selfish](https://open.spotify.com/track/4NQ2EqWimM05dRSdHrmkdf) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [SELFISH](https://open.spotify.com/album/3vjPlBK3ASSMLfQwuiHspd) | 3:28 | 2022-11-14 | 2023-01-27 |
 | [Sense of the season](https://open.spotify.com/track/412DrXpXmFGobrIepZgp6v) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Day dream](https://open.spotify.com/album/44eGqQq9uIqt3JL3h6LdfG) | 3:32 | 2024-02-13 | 2024-02-21 |
@@ -1229,6 +1230,7 @@
 | [TRIGGER](https://open.spotify.com/track/2VhmgfllXg5YGG9blUJ3YZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [TRIGGER](https://open.spotify.com/album/75MbAlPMa5vekilWtXzVGo) | 2:47 | 2022-10-13 | 2022-12-03 |
 | [TRIGGER](https://open.spotify.com/track/41B7FamCASDTknlXUhcb76) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 9TH MINI ALBUM \[TRIGGER\]](https://open.spotify.com/album/6aBgONIIYJr8ondQP2gjOO) | 3:14 | 2024-10-29 | 2025-01-08 |
 | [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-20 | 2024-01-26 |
+| [Trouble Trouble](https://open.spotify.com/track/2H1H6nUXJQ7KmT8hvYbIZd) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Trouble Trouble](https://open.spotify.com/album/2hk0q1ifsHtoBhIUZRSyH5) | 3:03 | 2025-04-03 |  |
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-29 | 2023-10-18 |
 | [Tsuki \(Lunatic\)](https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Tsuki \(Lunatic\)](https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc) | 3:16 | 2024-08-06 | 2024-09-20 |
 | [TTYL](https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [TTYL](https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg) | 3:03 | 2024-10-11 | 2025-01-09 |

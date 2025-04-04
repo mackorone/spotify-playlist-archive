@@ -2,9 +2,9 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Crayon
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Oxlade
 
-740 songs - 1 day 12 hr 29 min
+741 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 | 2024-03-07 |
 | [Do You](https://open.spotify.com/track/5vy09xIeMnSBMzSMFORP4G) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Do You](https://open.spotify.com/album/1j6xa8mWcw6FdKzRIkRmkg) | 2:16 | 2021-10-14 | 2022-03-01 |
 | [Doing Me](https://open.spotify.com/track/4optsmphrYWvFh027612MA) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Migz](https://open.spotify.com/artist/2ofat3YqNTinjd9GPgl7lV), [Ariel](https://open.spotify.com/artist/5sZBnbApV6GuQTOPx8xTD7) | [Feels Like Home \(Mixtape Vol.1\)](https://open.spotify.com/album/6iplwWv18qHohOXMh4Leff) | 3:14 | 2023-10-20 | 2023-11-03 |
+| [DOINGZ](https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA: Deluxe Edition](https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB) | 2:41 | 2025-04-04 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh) | 3:04 | 2023-12-08 | 2024-02-22 |
 | [Don't Let Me Down](https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG) | 3:04 | 2024-03-01 | 2024-04-19 |
 | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS) | 5:38 | 2023-08-31 | 2023-09-29 |
@@ -725,7 +726,7 @@
 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2022-03-24 | 2023-05-08 |
 | [Wine](https://open.spotify.com/track/37qgtEIrjqThh27zo0ERdf) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th) | 3:50 | 2022-03-24 | 2022-07-29 |
 | [Wine Am Go Low \- Hindi Remix](https://open.spotify.com/track/5eqzktOqj3obA4DU95Hy8k) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Wine Am Go Low](https://open.spotify.com/album/7G2T41VZU77u0ux8cNaEEx) | 3:12 | 2022-11-04 | 2022-11-26 |
-| [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 |  |
+| [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 | 2025-04-04 |
 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 | 2022-02-21 | 2023-03-31 |
 | [Wiv Me](https://open.spotify.com/track/6EgoeyPDtXViE8cKxxMFlr) | [Adenikè](https://open.spotify.com/artist/4VqDEs9cvGAzwLDA5yNtmM), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj) | [Wiv Me](https://open.spotify.com/album/7yIWOcU8AkGbredgy9eH0q) | 3:42 | 2021-11-25 | 2022-02-25 |
 | [Woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 | 2022-05-19 | 2022-07-29 |

@@ -741,6 +741,28 @@
     },
     {
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4mecnJXaCjRfSldm7lu2Pb"
+      },
+      "artists": [
+        {
+          "name": "Juan Hansen",
+          "url": "https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo"
+        },
+        {
+          "name": "Santor",
+          "url": "https://open.spotify.com/artist/4Ao6INsRciBdfNr5WBOYlr"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235527,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4JGTKryQQhMcMKIJUOO4Tq"
+    },
+    {
+      "album": {
         "name": "Bye Bye (Juan Hansen Remix)",
         "url": "https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98"
       },

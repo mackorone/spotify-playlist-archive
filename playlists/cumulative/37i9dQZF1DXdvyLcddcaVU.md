@@ -4,7 +4,7 @@
 
 > \#fyp
 
-700 songs - 1 day 12 hr 50 min
+701 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Love Me](https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 4:15 | 2024-01-05 | 2024-05-18 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-03-07 | 2025-03-22 |
 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 | 2023-10-27 | 2024-03-23 |
-| [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 | 2025-02-14 |  |
+| [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 | 2025-02-14 | 2025-04-04 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-08 | 2023-09-26 |
 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 | 2025-02-21 | 2025-03-22 |
 | [lucy & les chanteurs pour dames](https://open.spotify.com/track/1vHyrtMZ71kLl8cdUVSk5k) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo), [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [lucy & les chanteurs pour dames](https://open.spotify.com/album/7K8tMuEQrHoL1vG0bZfYYV) | 4:00 | 2023-11-24 | 2024-01-13 |
@@ -651,6 +651,7 @@
 | [Titulaires](https://open.spotify.com/track/1OToHVdN93nhrEJcMEax6C) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [OCHO](https://open.spotify.com/album/5WWp49ZHB34eMwy5n856Jj) | 4:00 | 2023-03-24 | 2023-08-26 |
 | [TNF](https://open.spotify.com/track/0Vfir5TGvFgsctQJY9CnBM) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:17 | 2024-09-06 | 2025-01-18 |
 | [Toko dombi](https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Toko dombi](https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i) | 2:40 | 2024-03-22 | 2024-06-22 |
+| [Toto et Ninetta](https://open.spotify.com/track/4DMSNaJcSirQN31BSf2BeZ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:31 | 2025-04-03 |  |
 | [Totopika](https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Totopika](https://open.spotify.com/album/2RnvdenjPNouk7sUE3aPzg) | 2:19 | 2025-03-21 |  |
 | [Tout l'monde s'en fout](https://open.spotify.com/track/7syABtsvHvD3nO7OG91Ani) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [JesuispasséchezSo](https://open.spotify.com/album/0lhoVQfxS85IViefuzVTxl) | 2:28 | 2024-09-27 | 2025-01-18 |
 | [Tout ou rien du tout](https://open.spotify.com/track/2oYeOallQ7RGp2fGGE5C5p) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Poison ou Antidote \(Miel Book Edition\)](https://open.spotify.com/album/275OdcSSXdxWeVxLPOGzl6) | 3:26 | 2024-12-13 | 2025-03-22 |

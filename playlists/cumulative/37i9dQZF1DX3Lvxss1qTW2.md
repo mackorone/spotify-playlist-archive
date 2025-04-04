@@ -2,7 +2,7 @@
 
 ### [Bubblin'](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. <br/>Cover:  Bayanni
+> The future hits of today\. <br/>Cover:  Famous Pluto
 
 336 songs - 15 hr 39 min
 

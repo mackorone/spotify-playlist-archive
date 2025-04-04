@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT?si=62\_gAMRWRnGgH45cIcnQXQ">Dr Dope</a>
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=0LW\-b38KSByGXzkB8DJPxg">DJ Tira</a>
 
-354 songs - 1 day 7 hr 26 min
+355 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Loluthando](https://open.spotify.com/track/6XCzC2gTsp20Qrm5TALZ0i) | [Queen Lolly](https://open.spotify.com/artist/2JPVX80uOm2qkTsfiEZWts), [Ba Bethe Gashoazen](https://open.spotify.com/artist/3zpCN7HsWkXL57ZKlb4Vcr) | [Loluthando](https://open.spotify.com/album/6ocHrPCICNOGux2kg4lc3H) | 4:35 | 2022-05-05 | 2023-08-25 |
 | [London Gin \(EDM\)](https://open.spotify.com/track/3EKdjtKrQ6rtqaFrRfXm6c) | [BlaQ Zombies](https://open.spotify.com/artist/0hRJjbeLC6NJ3ErYbmUoKz), [GqoMLorD](https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5) | [London Gin \(EDM\)](https://open.spotify.com/album/4iMRDu8ACme4caM3C7f9Op) | 5:43 | 2023-04-27 | 2023-05-26 |
 | [Lost Snce](https://open.spotify.com/track/68cb8DGXUx4mlQYRvRTBgk) | [GoldFunk](https://open.spotify.com/artist/79eL1Bg36ZKX83gE3y0L4B), [Sekdlalu Bandiilee](https://open.spotify.com/artist/3VpHT9QCzzMBVC8d7V3gVH) | [Lost Snce](https://open.spotify.com/album/1z6vmpcldkRTCtOr2eG6NH) | 5:22 | 2024-12-12 | 2024-12-20 |
+| [Love Don't Let Me Go](https://open.spotify.com/track/6lR0GklzqMLK2jOth0mFRg) | [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc), [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG) | [Love Don't Let Me Go](https://open.spotify.com/album/3q3OR9inFa2hDS6nJM9Zhb) | 4:03 | 2025-04-03 |  |
 | [Lucifer](https://open.spotify.com/track/5fcVkQiu2NARgxw6IRgoJA) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [Lucifer](https://open.spotify.com/album/1TbxeK3lQ7MLLTiCi71P6o) | 4:42 | 2021-09-23 | 2022-11-08 |
 | [Madicine](https://open.spotify.com/track/4YP3377cfQvIIISl6dE2Li) | [Sekdlalu Bandiilee](https://open.spotify.com/artist/3VpHT9QCzzMBVC8d7V3gVH), [GqoMLorD](https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5) | [Madicine](https://open.spotify.com/album/1pKZeLep4Ok2EG592pUMDc) | 5:36 | 2024-11-15 | 2025-01-24 |
 | [Madness 2.0](https://open.spotify.com/track/7AqWa5WlyKIXwCyZsftcEv) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Cultivated Soulz](https://open.spotify.com/artist/4ZMUXzBPjPoaREix08wxtc) | [Ushuniii Against The World II](https://open.spotify.com/album/01yfJoSu1gqlk5wM9l5LZZ) | 5:48 | 2023-08-24 | 2024-12-06 |

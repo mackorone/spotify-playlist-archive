@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 麗英
+> 感受女聲力量。Cover: 麗英小朋友
 
-474 songs - 1 day 4 hr 15 min
+476 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 | 2024-06-27 |  |
 | [Too Good To Be](https://open.spotify.com/track/5JNVm6rU198iNVhBgJeZ2L) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [INTRODUCTION to PAIN](https://open.spotify.com/album/5eact0ykt1XvT6nCWedW3b) | 3:07 | 2024-06-27 |  |
 | [Topic Killa](https://open.spotify.com/track/1qQLgV33JgUeQmiUAqVTSr) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [Topic Killa](https://open.spotify.com/album/1F3qeB3z7DGp0N99YX0y5M) | 2:58 | 2024-06-27 |  |
+| [Trouble Trouble](https://open.spotify.com/track/2H1H6nUXJQ7KmT8hvYbIZd) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Trouble Trouble](https://open.spotify.com/album/2hk0q1ifsHtoBhIUZRSyH5) | 3:03 | 2025-04-03 |  |
 | [TXT OR CALL](https://open.spotify.com/track/2KTPd1X17SzSJbyjfJW0Sx) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [TXT OR CALL](https://open.spotify.com/album/4WztQlLQZA7tBAyAaSVvRT) | 3:06 | 2024-06-27 |  |
 | [Unfamiliar City](https://open.spotify.com/track/6ifU8TVuad0XdG9AxzBbX8) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Unfamiliar City](https://open.spotify.com/album/2top45rqhgC5JyBtUaTmWA) | 3:22 | 2024-10-17 |  |
 | [Vanish Mode](https://open.spotify.com/track/0cfUsP81Dh0lERwoxpP5pp) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Vanish Mode](https://open.spotify.com/album/4swc89sddgQGk4i07ihKpy) | 3:10 | 2024-06-27 |  |
@@ -277,6 +278,7 @@
 | [天氣之女](https://open.spotify.com/track/6FsfLl1iG0zrbXfiJHl00y) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [天氣之女](https://open.spotify.com/album/1qyTHpCoEhSgSF4bQK1y1F) | 3:24 | 2024-06-27 |  |
 | [奇異小姐](https://open.spotify.com/track/5hb1TiQaIVSOrmhPJpXFfd) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [奇異小姐](https://open.spotify.com/album/1ebYCGrJWdsrzz1hiZ5CDV) | 3:44 | 2024-06-27 |  |
 | [女一](https://open.spotify.com/track/36uFp4Tu85AHSVi6HsqdH9) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [女一](https://open.spotify.com/album/1b39BRMJrjWrENOq4GXcPd) | 3:08 | 2024-09-19 |  |
+| [女神](https://open.spotify.com/track/7ekSbqtyGMF10BVmVrshZt) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq), [Yumi 鍾柔美](https://open.spotify.com/artist/0s9Jv5Tyi7qmUEPZcWHigA) | [女神](https://open.spotify.com/album/0UKKdVDjJGeT3zRUlMpvBC) | 4:04 | 2025-04-03 |  |
 | [好想約你](https://open.spotify.com/track/0x6o3UbrmjM8VdrHHTPVzn) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [好想約你](https://open.spotify.com/album/7edAxppHOZayxUVNQ49AV3) | 3:18 | 2024-06-27 |  |
 | [威廉](https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [威廉](https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t) | 5:05 | 2024-06-27 |  |
 | [孤島 \- 劇集《旁觀者》主題曲](https://open.spotify.com/track/5gVYg7bkbQxK0aemnXBbJB) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [孤島 \(劇集《旁觀者》主題曲\)](https://open.spotify.com/album/5dJZaBBUhpg3jZYTNax4bA) | 3:28 | 2024-06-27 |  |

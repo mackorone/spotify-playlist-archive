@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "blue jean",
+        "url": "https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276611,
+      "name": "blue jean",
+      "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
+    },
+    {
+      "album": {
         "name": "Joni Was Right Pt. II",
         "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
       },
@@ -2525,6 +2543,28 @@
     },
     {
       "album": {
+        "name": "How long",
+        "url": "https://open.spotify.com/album/1jwBRA70U1w5cGfZdajTfS"
+      },
+      "artists": [
+        {
+          "name": "Joel Sundkvist",
+          "url": "https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM"
+        },
+        {
+          "name": "Ar\u00fcna",
+          "url": "https://open.spotify.com/artist/3wxpakEyvBC9NXree33C3Z"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "How long",
+      "url": "https://open.spotify.com/track/65dGvhhSg65PUUpTTJdwIb"
+    },
+    {
+      "album": {
         "name": "Sumie",
         "url": "https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr"
       },
@@ -3860,7 +3900,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
@@ -5764,7 +5804,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 179273,
       "name": "When You Touch The Sky",
       "url": "https://open.spotify.com/track/0bxlJWWvXMV83KNgb543uQ"

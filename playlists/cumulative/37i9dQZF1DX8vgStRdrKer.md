@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=vifkgyFKR6mKTqLFn5uJvg>Prinx Emmanuel</a>
 
-275 songs - 22 hr 22 min
+276 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 | 2024-07-19 |  |
 | [Covenant Keeping God](https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Covenant Keeping God](https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp) | 13:56 | 2025-02-28 |  |
 | [Cover me](https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Cover me](https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs) | 2:37 | 2024-05-24 | 2024-06-07 |
-| [Daily II](https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Daily II](https://open.spotify.com/album/1yYpLXtxqLgN4Mo9Wbwz11) | 3:19 | 2025-02-28 |  |
+| [Daily II](https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Daily II](https://open.spotify.com/album/1yYpLXtxqLgN4Mo9Wbwz11) | 3:19 | 2025-02-28 | 2025-04-04 |
 | [Darling Jesus \- Special Version](https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus \(Special Version\)](https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa) | 3:26 | 2024-02-09 | 2024-10-04 |
 | [DAY OF THE LORD](https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC) | [REFUGE WRSHP](https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE) | [DAY OF THE LORD](https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL) | 7:07 | 2024-04-26 | 2024-05-16 |
 | [Deliverance](https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Deliverance](https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw) | 3:44 | 2024-03-01 | 2024-05-04 |
@@ -77,6 +77,7 @@
 | [En Toi](https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [En Toi](https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh) | 3:13 | 2024-04-12 | 2024-05-24 |
 | [Ephphatha](https://open.spotify.com/track/7ny949XutTsiuf3nHSQ30g) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Ephphatha](https://open.spotify.com/album/7conlllzLwMtLnBndRiF29) | 3:52 | 2024-01-26 | 2024-02-16 |
 | [Ever Present Help](https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Archbishop Benson Idahosa](https://open.spotify.com/artist/5KnKKG1eEW3o6Hf159ZZh9) | [Ever Present Help](https://open.spotify.com/album/2QBRXDYPqNvpKnWm2DBh7u) | 5:29 | 2025-02-07 | 2025-03-16 |
+| [Everything](https://open.spotify.com/track/2e9ot5pidJZvqsIric6Z62) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Everything](https://open.spotify.com/album/1NQc5ubtTXZryou282B19i) | 2:38 | 2025-04-04 |  |
 | [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-16 |  |
 | [Eyinju](https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F) | [Nifemi David](https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt) | [Eyinju](https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4) | 4:17 | 2024-02-16 | 2024-04-03 |
 | [Fade Away](https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Fade Away](https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT) | 8:27 | 2024-11-08 |  |

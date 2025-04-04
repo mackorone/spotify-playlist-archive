@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: yama
 
-1,248 songs - 3 day 10 hr 16 min
+1,250 songs - 3 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [foundyou](https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [foundyou](https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz) | 4:51 | 2025-02-04 | 2025-03-05 |
 | [Freak](https://open.spotify.com/track/1yGEIIMUatyH7gpClnvoUA) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Freak](https://open.spotify.com/album/79HgHXXuZmT3n4wUnbsZTD) | 2:32 | 2024-07-30 | 2024-12-04 |
 | [Freaks](https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Freaks](https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0) | 2:13 | 2022-06-07 | 2022-09-30 |
+| [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 | 2025-04-03 |  |
 | [From Noon Till Dawn](https://open.spotify.com/track/1JvKz4nqanQxbc8behZqbM) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC), [田中邦和](https://open.spotify.com/artist/6KN1LZmCvjzsIsOl5ntwuK) | [21st CENTURY ROCK BAND](https://open.spotify.com/album/10c8wTjSC2XV3aUMa5VgqG) | 3:49 | 2024-04-03 | 2024-04-24 |
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2022-07-05 | 2023-06-28 |
 | [Fuel](https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fuel](https://open.spotify.com/album/15oIT9GDMhJWTQUELHM6Vs) | 3:29 | 2022-05-17 | 2023-05-10 |
@@ -1064,7 +1065,7 @@
 | [小さな風景](https://open.spotify.com/track/7Ii4WNeFLTFFiJuKRkcPsX) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:42 | 2022-06-14 | 2022-06-22 |
 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 | 2023-07-06 | 2023-07-19 |
 | [少年少女](https://open.spotify.com/track/1AwfJENb63nQKuIWiuh0cy) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [少年少女](https://open.spotify.com/album/5ugjgbvqSNYigkw9gemwmC) | 3:28 | 2022-05-12 | 2022-06-05 |
-| [岐路](https://open.spotify.com/track/17t6acsp6qAo3zrvTVJvXr) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [岐路](https://open.spotify.com/album/72EaB9BSyVJmPXJkRCSaSu) | 3:16 | 2025-01-28 |  |
+| [岐路](https://open.spotify.com/track/17t6acsp6qAo3zrvTVJvXr) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [岐路](https://open.spotify.com/album/72EaB9BSyVJmPXJkRCSaSu) | 3:16 | 2025-01-28 | 2025-04-04 |
 | [希望を鳴らせ](https://open.spotify.com/track/4DRHvWmMLFZkkbd0rwqDkG) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [希望を鳴らせ](https://open.spotify.com/album/2XlmRic9iwoVLR5YwI2Gzh) | 4:12 | 2022-05-10 | 2022-07-28 |
 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 | 2023-09-12 | 2025-01-26 |
 | [幸せのために生きているだけさ](https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [幸せのために生きているだけさ](https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd) | 4:07 | 2024-01-30 | 2025-01-22 |
@@ -1118,6 +1119,7 @@
 | [月見草](https://open.spotify.com/track/2r9pdXhX8ii5tN18RceY2E) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [PORTRAIT](https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg) | 3:54 | 2024-02-27 | 2024-03-06 |
 | [朝焼け](https://open.spotify.com/track/0zWMYryiunqAzp8VyfwaUe) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [朝焼け](https://open.spotify.com/album/7zfZ3p822fHKy43zCNqnaP) | 4:15 | 2022-05-17 | 2022-06-11 |
 | [未恋](https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [未恋](https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i) | 3:08 | 2025-01-21 | 2025-02-26 |
+| [未来地図2025](https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [未来地図2025](https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ) | 6:00 | 2025-04-03 |  |
 | [杉並の少年](https://open.spotify.com/track/7zKFMDQ8CQNQaEHhXBPSRN) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 3:33 | 2024-01-23 | 2024-01-31 |
 | [東へ西へ](https://open.spotify.com/track/6iYAdrE8loWBu9bX2Mbfil) | [Leo Imai](https://open.spotify.com/artist/052wDw54ZAwrWQraLblXZb) | [Eastward Westward](https://open.spotify.com/album/04gsYjYupPQFCTpiSQcMhp) | 4:34 | 2023-04-20 | 2023-05-10 |
 | [東京に雨が降っている](https://open.spotify.com/track/76ea36A908cqljwII0DJc2) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [ENTERTAINMENT!](https://open.spotify.com/album/4gSTAHiTJ88bQs08VFXBET) | 3:06 | 2022-05-17 | 2022-05-25 |
@@ -1128,7 +1130,7 @@
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-05-10 | 2022-11-09 |
 | [水割りをうすくつくっていつまでも](https://open.spotify.com/track/0KlLXIG5ZtKrSqDN2IOKt5) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [水割りをうすくつくっていつまでも](https://open.spotify.com/album/1V2e27tAPHcBPNvh0VStNn) | 3:14 | 2024-02-20 | 2024-02-22 |
 | [水色と空色](https://open.spotify.com/track/3ng50f0XnhrTWF8ooA8wzJ) | [Fumiya Fujii](https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS) | [水色と空色](https://open.spotify.com/album/55BY83icZvzWxKSShP7Bb9) | 4:41 | 2022-05-24 | 2022-06-01 |
-| [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 | 2024-05-28 |  |
+| [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 | 2024-05-28 | 2025-04-04 |
 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 | 2022-07-28 | 2022-08-31 |
 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2023-09-26 |  |
 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 | 2024-01-25 |

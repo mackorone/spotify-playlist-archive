@@ -4391,6 +4391,28 @@
     },
     {
       "album": {
+        "name": "Esa Vez",
+        "url": "https://open.spotify.com/album/4dQsev0fvagBCT3zvIF6l2"
+      },
+      "artists": [
+        {
+          "name": "Santa Griega",
+          "url": "https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu"
+        },
+        {
+          "name": "Dj Aciz",
+          "url": "https://open.spotify.com/artist/2v1wZqTrySSsqVp97A31DC"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258480,
+      "name": "Esa Vez",
+      "url": "https://open.spotify.com/track/668gQmoLsTVoSxPTBuzX6B"
+    },
+    {
+      "album": {
         "name": "Escapism. / The Thrill Is Gone.",
         "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
       },
@@ -9704,7 +9726,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"

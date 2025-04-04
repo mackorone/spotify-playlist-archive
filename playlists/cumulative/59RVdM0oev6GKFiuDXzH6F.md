@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-957 songs - 2 day 0 hr 53 min
+959 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Concentrate](https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Concentrate](https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP) | 2:43 | 2024-04-12 | 2024-04-26 |
 | [Concrete Jungle](https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Concrete Jungle](https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ) | 2:36 | 2023-05-01 | 2023-05-24 |
 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 | 2024-02-02 | 2024-09-26 |
+| [Cool 'N Calm](https://open.spotify.com/track/7puBhOuLu7ftK0X19t0gRr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Cool 'N Calm](https://open.spotify.com/album/38V1SjBIRIN2ZJtM4LowSp) | 3:35 | 2025-04-03 |  |
 | [Cotton Candy Clouds \(feat\. Trevor Dering\) \[BEAUZ Remix\]](https://open.spotify.com/track/5hOlKZBNH1f6YwtIScUvEJ) | [Valntn](https://open.spotify.com/artist/1sdnOXw9epamqw5ERPK8T5), [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Trevor Dering](https://open.spotify.com/artist/2CBKZUJVsx1kf3xqanzKSR) | [Cotton Candy Clouds \(feat\. Trevor Dering\) \[BEAUZ Remix\]](https://open.spotify.com/album/646MiF1Ulxw59wxRVO5SmX) | 2:05 | 2024-04-19 | 2024-04-26 |
 | [Count You In \(feat\. Robbie Rosen\)](https://open.spotify.com/track/6WmdnApx0bEZhC9rjltEvO) | [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Count You In \(feat\. Robbie Rosen\)](https://open.spotify.com/album/3RB0lPm48YtzcAJnvTMMAH) | 2:44 | 2024-12-05 | 2025-03-14 |
 | [Crank That](https://open.spotify.com/track/2ez15htfMruYGZAGpIUjit) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Crank That](https://open.spotify.com/album/3Sn7J040OsJ7aXC4t7WNV0) | 2:36 | 2023-03-03 | 2024-10-11 |
@@ -408,6 +409,7 @@
 | [Into Thin Air](https://open.spotify.com/track/2koDJeQc5I6VueQOaqDEQT) | [Quivver](https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD) | [Into Thin Air EP](https://open.spotify.com/album/1lvXuF0fPwyNt53UmX4XvY) | 3:48 | 2025-03-07 |  |
 | [It Ain't Safe](https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [It Ain't Safe](https://open.spotify.com/album/6HQwDAc3znaAWHtuMVhB7E) | 3:47 | 2024-06-28 | 2024-09-26 |
 | [It Can Be Better Now](https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Welt](https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r) | [Hero / It Can Be Better Now](https://open.spotify.com/album/7MMKbbtCfQNZvghKM5V3bd) | 3:11 | 2024-12-05 | 2025-01-09 |
+| [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 | 2025-04-03 |  |
 | [It's A Vibe](https://open.spotify.com/track/6MQQus7RpPd8ctQUnUwTnf) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [It's A Vibe](https://open.spotify.com/album/7InXXMcMWLaiVa1D6ToHy8) | 2:50 | 2024-01-26 | 2024-10-11 |
 | [It's What We Love](https://open.spotify.com/track/0AQZwPA4V1iy7asuBIettY) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [It's What We Love](https://open.spotify.com/album/1RIaxv4MF5nhzqA7qnIRGo) | 3:38 | 2023-09-15 | 2023-12-14 |
 | [Jack](https://open.spotify.com/track/1XuxI8toTPpAfO5TxWQoo4) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Jack](https://open.spotify.com/album/7lKWL8ShCAr7ZVdCtAmUai) | 3:09 | 2024-10-21 | 2025-01-09 |

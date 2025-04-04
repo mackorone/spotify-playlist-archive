@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Sherifflazone
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Ino Casablanca
 
-196 songs - 10 hr 6 min
+200 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 | 2022-11-24 | 2023-09-09 |
 | [Les gens qui doutent](https://open.spotify.com/track/7fsnHdB8abooTvR7bkhWXh) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Les gens qui doutent](https://open.spotify.com/album/4qa4kWwOe8wH1SRrE4kx7U) | 3:16 | 2022-04-14 | 2022-06-11 |
 | [Les visages et les odeurs](https://open.spotify.com/track/1wWlrjujdwAy7BC3EamVTU) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Les visages et les odeurs](https://open.spotify.com/album/5Jm4aY0hAgdP67HoSUSZwc) | 3:00 | 2024-01-18 | 2024-04-11 |
+| [Les étoiles](https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Les étoiles](https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8) | 2:43 | 2025-04-03 |  |
 | [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 | 2024-04-10 |  |
 | [Ma meilleure vie](https://open.spotify.com/track/1qKrfVLSMse9xdSqccbidX) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Ma meilleure vie](https://open.spotify.com/album/6I3kI8W6fauUBxhvstGwDj) | 4:20 | 2021-12-02 | 2022-02-08 |
 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 | 2023-06-22 | 2024-01-19 |
@@ -131,13 +132,16 @@
 | [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2021-12-02 |  |
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-06-10 | 2024-01-19 |
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 | 2023-04-12 |
+| [Moussolou](https://open.spotify.com/track/11lvplrugi4lTMK0ndfMYB) | [Saaro](https://open.spotify.com/artist/7EhNT3E3h56XbuohaGE0Z1) | [Moussolou](https://open.spotify.com/album/5u204VNM3IBKt7SltaiclN) | 2:35 | 2025-04-03 |  |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-03-11 |  |
 | [Muse](https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Muse](https://open.spotify.com/album/7qhBt3pifRbw80VktPuqWY) | 3:46 | 2022-01-14 | 2022-11-25 |
 | [MÉDICALE](https://open.spotify.com/track/0deOyyvJxyvTTJudDyIFqp) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:26 | 2023-11-17 | 2024-04-19 |
 | [MÉDICALE](https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:26 | 2023-07-11 |  |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-07 | 2023-10-14 |
 | [Nature morte](https://open.spotify.com/track/5NEE9NJOdRrKPMhXFB0XFM) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Nature morte](https://open.spotify.com/album/1cHS4x8PaBByKNW0FPcrIy) | 2:11 | 2023-03-10 | 2024-04-11 |
+| [Nothing Ever Changes](https://open.spotify.com/track/2OL7obe1J70lqOitrZKHQw) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [OUT OF CONTROL, INTO THE WALL](https://open.spotify.com/album/3eBWV87VNtnMg6myhRbeYe) | 5:04 | 2025-04-03 |  |
 | [Nouveau départ](https://open.spotify.com/track/0z2patdc6alfUwUi5dko35) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:36 | 2023-09-08 | 2024-01-19 |
+| [NOUVO GROOVE](https://open.spotify.com/track/6YG2IJB93if1Cv8QxNHesA) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [TAMARA](https://open.spotify.com/album/34mc5ZeDyl2n0Jv1kXDn8M) | 2:38 | 2025-04-03 |  |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-11-24 | 2024-03-12 |
 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 | 2022-06-10 | 2022-09-30 |
 | [On m'a dit](https://open.spotify.com/track/6Dpj5zpd4nKpvervwskEBH) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous](https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr) | 3:28 | 2023-04-11 | 2023-09-09 |

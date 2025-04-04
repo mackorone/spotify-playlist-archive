@@ -4,7 +4,7 @@
 
 > 
 
-178 songs - 9 hr 33 min
+179 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Away](https://open.spotify.com/track/2NaGl56lq71UMzDSI8jmJ3) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 2:42 | 2023-05-26 |  |
 | [Back to Myself](https://open.spotify.com/track/1ElyI0fk1FJAscrGs3F8Wu) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Back to Myself](https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e) | 3:00 | 2024-12-10 |  |
 | [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2023-09-02 |  |
-| [Batman](https://open.spotify.com/track/6m1aafQX1Y1Mr6dzNLVkiW) | [stellar!\*](https://open.spotify.com/artist/28VaZ8XkvVhwZqVgwvHCDz) | [Batman](https://open.spotify.com/album/2vRYwB6h2ZJ9hPRGOTtBvw) | 1:39 | 2023-01-13 |  |
+| [Batman](https://open.spotify.com/track/6m1aafQX1Y1Mr6dzNLVkiW) | [stellar!\*](https://open.spotify.com/artist/28VaZ8XkvVhwZqVgwvHCDz) | [Batman](https://open.spotify.com/album/2vRYwB6h2ZJ9hPRGOTtBvw) | 1:39 | 2023-01-13 | 2025-04-04 |
 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2023-05-26 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-12-01 |  |
 | [Black Out Days](https://open.spotify.com/track/2IWtloZYQDcP8Ashwx8QEF) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:47 | 2023-01-13 |  |
@@ -111,6 +111,7 @@
 | [Monolithic](https://open.spotify.com/track/71Z5pRSM9oHMa59WW5ifHq) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host](https://open.spotify.com/album/7rCZkblbmpN2sd7OPDCYct) | 3:39 | 2023-09-02 |  |
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2023-09-21 |  |
 | [Must I Die Alone](https://open.spotify.com/track/5ep2yEklcNmthqmCByaZUD) | [Steady Rollin](https://open.spotify.com/artist/2f7imcAJGFFABC2Y7dHtK2) | [Stories](https://open.spotify.com/album/05j9IHFwDZzciV90kl10F6) | 3:38 | 2025-02-24 | 2025-03-04 |
+| [My Whole Life](https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Learning to Live](https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs) | 3:05 | 2025-04-03 |  |
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2023-09-07 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-09-08 |  |
 | [Nice Knowing You](https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Nice Knowing You](https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF) | 3:35 | 2025-03-18 |  |

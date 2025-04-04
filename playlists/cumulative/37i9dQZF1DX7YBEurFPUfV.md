@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-127 songs - 7 hr 16 min
+128 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 | 2024-10-31 |  |
 | [LOUMNI](https://open.spotify.com/track/0ENM5reWF2EpNb3msvqCQ0) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:50 | 2025-02-27 |  |
 | [Machefounich \| ماشافونيش](https://open.spotify.com/track/2lXA71K1NU6XMFaMUNOSFm) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Machefounich \| ماشافونيش](https://open.spotify.com/album/2SkGb7EeKzUq2PUQYZzQZK) | 2:59 | 2025-02-01 |  |
-| [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2024-02-24 |  |
+| [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2024-02-24 | 2025-04-04 |
 | [MALADIE](https://open.spotify.com/track/1H9LBYPwEAR0du08prGBGA) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [MALADIE](https://open.spotify.com/album/0i19bbIr56jXJpFiThxq9D) | 3:46 | 2024-05-03 | 2024-11-22 |
 | [MANNENI](https://open.spotify.com/track/6DTfaZr5t4Ab32OrmTlhTJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [MANNENI](https://open.spotify.com/album/2vJbcsQ4YTONc1Tkq0U0dk) | 4:00 | 2024-02-24 | 2024-12-06 |
 | [Mata7kich](https://open.spotify.com/track/4vSMMlTaIk53HeRtn1Yhg5) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Mata7kich](https://open.spotify.com/album/1J2UZknu6mll6gHAD3YtpP) | 3:15 | 2024-02-24 | 2024-08-02 |
@@ -89,6 +89,7 @@
 | [MERENGUE](https://open.spotify.com/track/3QqhtC6ID1MfSVNxg9x33p) | [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Mahdi Machfar](https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [MERENGUE](https://open.spotify.com/album/7fhrmMITLrEEyCCsQS8HLw) | 3:12 | 2024-09-13 | 2024-09-19 |
 | [Messyeba](https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Feelings](https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at) | 4:43 | 2024-07-26 | 2025-03-13 |
 | [Messyeba](https://open.spotify.com/track/5PQEjCkpBTcu7ckIHzlFZm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Messyeba](https://open.spotify.com/album/4d91F4YGzWFnzeCWW7xvRr) | 4:43 | 2024-02-24 | 2024-07-17 |
+| [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 | 2025-04-03 |  |
 | [MONDAY](https://open.spotify.com/track/2rXwQZu39IkjjlnVOGdLev) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [MONDAY](https://open.spotify.com/album/7bHuP10BZyK6zUjqnMPJTU) | 2:52 | 2024-06-05 | 2024-08-21 |
 | [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 | 2024-10-10 |  |
 | [N3awed fel 3am](https://open.spotify.com/track/707GkvPkCHMVdPIXzWlv3g) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl), [L'vibe](https://open.spotify.com/artist/2nhBiQjksWJvRoNf9H2fZa) | [Side Effects](https://open.spotify.com/album/0BNTa2AYTosb561nNUWG4S) | 2:46 | 2025-02-17 |  |

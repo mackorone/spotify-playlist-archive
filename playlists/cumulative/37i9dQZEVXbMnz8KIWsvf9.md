@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,101 songs - 2 day 16 hr 21 min
+1,104 songs - 2 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Dandelion](https://open.spotify.com/track/5mPBrrQ8JDnu7JEHqGoUJV) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/4frUEjTX05dL5d2OG5a28J) | 2:30 | 2024-08-17 | 2024-08-21 |
 | [Dangerous](https://open.spotify.com/track/56vA4AoGec8ae9nmdprBBI) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [TEN \- The 1st Mini Album](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) | 2:55 | 2024-02-14 | 2024-02-29 |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-16 | 2023-06-12 |
-| [DAY ONE](https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 4:31 | 2024-09-20 |  |
+| [DAY ONE](https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 4:31 | 2024-09-20 | 2025-04-04 |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-08 | 2024-09-21 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-09-19 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-17 | 2021-05-23 |
@@ -190,7 +190,7 @@
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-08-15 | 2021-09-19 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-05-23 | 2021-07-26 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-06-11 | 2022-10-05 |
-| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-15 |  |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-15 | 2025-04-04 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-28 | 2024-03-02 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-02-12 |
@@ -798,6 +798,7 @@
 | [คิดไม่ออก](https://open.spotify.com/track/1I9oRSMpN2K0xYivVr0AhF) | [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [คิดไม่ออก](https://open.spotify.com/album/6pcnTpwlGq2hfODdsHGBz1) | 3:20 | 2021-03-30 | 2021-07-04 |
 | [คุยคนเดียวเก่ง](https://open.spotify.com/track/4DqaFHKqAsnBn9DfLWhRpW) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:22 | 2021-07-23 | 2021-07-28 |
 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 | 2022-05-14 | 2022-06-26 |
+| [คู่ชีวิต](https://open.spotify.com/track/6L6MkqgAgCdlEMAXUE9j3V) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [the lords of misery](https://open.spotify.com/album/2Sskpd9faVmGlfLaRpq4C2) | 5:37 | 2025-04-03 |  |
 | [ค้าง \(STILL\)](https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ค้าง \(STILL\) \- Single](https://open.spotify.com/album/7IX2i9DpXH6GO3VcD9PFTC) | 4:09 | 2024-12-14 | 2024-12-28 |
 | [งานเต้นรำ](https://open.spotify.com/track/3jQEXiy7AtzDMiilrYlO0H) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:49 | 2023-04-21 | 2025-02-05 |
 | [ง้อ \(ALRIGHT\)](https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ง้อ \(ALRIGHT\) \- Single](https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w) | 3:05 | 2024-08-24 | 2024-09-20 |
@@ -826,6 +827,7 @@
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 | 2023-04-13 |
 | [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-30 | 2022-12-20 |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2021-03-27\* | 2022-02-02 |
+| [ช่างมัน](https://open.spotify.com/track/3sKlbOuJnyz5g019B8jTk8) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [Cocktail](https://open.spotify.com/album/5O7LfIjeadyAOW4k2swGUp) | 4:41 | 2025-04-03 |  |
 | [ซับ](https://open.spotify.com/track/0Qk8RUwooCGKghG9yClG3O) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [ว่าน วันวาน](https://open.spotify.com/artist/0QScRPnsnAmEpN7w3p1Joo) | [ซับ](https://open.spotify.com/album/1c96H5AfNuK1rbtQ54PjR7) | 4:46 | 2021-03-27\* | 2021-09-12 |
 | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI) | 3:33 | 2025-03-20 |  |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-05-25 | 2024-01-09 |
@@ -866,7 +868,7 @@
 | [ที่รักใจเย็น](https://open.spotify.com/track/6rgF7lJWhf0jR5ZEJk3cY5) | [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Williams](https://open.spotify.com/artist/0rnxDMQvlw7WzIofQuaXmT) | [URDAWG](https://open.spotify.com/album/1ZQJQ3EAzClG99jCmLefKh) | 3:23 | 2024-03-17 | 2024-12-25 |
 | [ที่สุดของฉัน](https://open.spotify.com/track/1icYoiOpJDRqYdSvTSK7v4) | [2021 ราตรี \(2021 Ratri\)](https://open.spotify.com/artist/0bc8YINhSnzAEHTbhK8hGR) | [ที่สุดของฉัน](https://open.spotify.com/album/0QZpUpgDgcumPb5i5a3bAN) | 4:05 | 2021-03-27\* | 2021-04-26 |
 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 | 2023-09-04 | 2023-09-18 |
-| [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 | 2024-10-04 |  |
+| [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 | 2024-10-04 | 2025-04-04 |
 | [ที่ไม่รัก](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 | 2022-12-02 | 2023-06-02 |
 | [ทุกความทรงจำ](https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:35 | 2024-12-23 | 2024-12-28 |
 | [ทุกความทรงจำ](https://open.spotify.com/track/5eJs6NSVDkiUNlBdS0JaUV) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/27nP4zAn3p2RibkJwUTMrj) | 4:35 | 2024-12-27 | 2025-01-09 |
@@ -1096,6 +1098,7 @@
 | [ไม่อยากให้เธอไม่สบาย \(You\)](https://open.spotify.com/track/41gOavqVGct6Yl7WSaIJ7O) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่อยากให้เธอไม่สบาย \(You\)](https://open.spotify.com/album/1FJhwr3tbJgaciU31oHgzC) | 4:30 | 2023-06-04 | 2023-06-25 |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-01-02 | 2024-11-13 |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/4oCZ6UlTx0WFolzaHLJWym) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [PROUD](https://open.spotify.com/album/1h8V3w6OBa9rc2bXmEwKB2) | 3:10 | 2024-11-12 | 2025-04-02 |
+| [ไม่เป็นรอง](https://open.spotify.com/track/156vW59aySrZRah9fGpNJk) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:52 | 2025-04-03 |  |
 | [ไม่เป็นรอง](https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ไม่เป็นรอง \- Single](https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8) | 4:53 | 2023-04-05 | 2024-02-07 |
 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 | 2024-06-13 | 2025-02-03 |
 | [ไม่ให้ไป](https://open.spotify.com/track/3qT2Jn6s5k5dluHNqThi1X) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป](https://open.spotify.com/album/28dy93d5fLZFNkBKpuhtpQ) | 4:00 | 2025-02-02 |  |

@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Sophie Straat
 
-178 songs - 9 hr 17 min
+179 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Het Vliegt Voorbij](https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Vliegt Voorbij](https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl) | 2:43 | 2025-03-07 |  |
 | [Hotel de Goudfazanten](https://open.spotify.com/track/3k10pBkw1BbRf7gUmWARQM) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Hotel de Goudfazanten](https://open.spotify.com/album/5c3FvmDVsg3K2dNpWZGS6X) | 3:21 | 2024-10-11 | 2025-01-11 |
 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 | 2024-06-26 | 2024-09-10 |
+| [hou me vast](https://open.spotify.com/track/3mbLs5eGlWr6PYG1NksRMx) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [hou me vast](https://open.spotify.com/album/2Ngl789gVEnr65lLcY4cgO) | 3:51 | 2025-04-03 |  |
 | [Huisje Boompje Hypotheek](https://open.spotify.com/track/1FFpBCHbDsFFoEODQvG9g1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Huisje Boompje Hypotheek](https://open.spotify.com/album/3Ga4adTPm86fH9534gf98J) | 3:04 | 2024-06-26 | 2024-07-27 |
 | [i miss u \[brood\]](https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [i miss u \[brood\]](https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp) | 2:19 | 2025-03-13 |  |
 | [IJs](https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Half](https://open.spotify.com/album/7iioVMREgJtTMow2rRnbUt) | 2:32 | 2024-06-26 | 2024-08-30 |
@@ -127,7 +128,7 @@
 | [Onderaan](https://open.spotify.com/track/5Pj28CGATQQ78LsVJ1ug5d) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Onderaan](https://open.spotify.com/album/4AcHfI9uHulK73ES6fyE0r) | 4:33 | 2025-02-07 | 2025-03-02 |
 | [Onzichtbaar](https://open.spotify.com/track/6MadE1DxKrKN5QeUz5dz4M) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Onzichtbaar](https://open.spotify.com/album/5wHDgUd0gH8yXuiezp97pf) | 2:47 | 2025-01-16 | 2025-03-09 |
 | [Oog om Oog \(feat\. Spinvis\)](https://open.spotify.com/track/58eFsIty3d3vyNRmM9q9T7) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Oog om Oog \(feat\. Spinvis\)](https://open.spotify.com/album/5x5WE4VmjdXv7kLI1HIdOG) | 4:22 | 2024-06-26 | 2024-10-10 |
-| [Opslaan](https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik) | [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8) | [Opslaan](https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1) | 3:09 | 2025-03-13 |  |
+| [Opslaan](https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik) | [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8) | [Opslaan](https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1) | 3:09 | 2025-03-13 | 2025-04-04 |
 | [Perfect voor een Ander](https://open.spotify.com/track/7g5D5cjHsmhb9yE1w43EB8) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Perfect voor een Ander](https://open.spotify.com/album/5xoTPUULJamW9d0p05zTMX) | 2:51 | 2024-07-05 | 2024-11-15 |
 | [platland](https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC) | 3:26 | 2024-08-29 |  |
 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 | 2024-09-09 | 2025-03-08 |

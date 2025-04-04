@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Fire Force”! ©大久保篤・講談社／特殊消防隊動画広報課
 
-114 songs - 5 hr 35 min
+115 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Work rhythm](https://open.spotify.com/track/7ipDHNFODjuJTKScmY9iN9) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:24 | 2022-07-08 | 2024-04-19 |
 | [アラウンド８](https://open.spotify.com/track/0PjkeIcFaLG1glNdHvJHlU) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:40 | 2023-03-14 |  |
 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 | 2022-07-08 |  |
+| [ウルサイレン](https://open.spotify.com/track/3dc5cRVGlxugq50mdfUlvw) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [ILL SWAG GAGA](https://open.spotify.com/artist/0aDq1adfK1gC9phu0eqGtc) | [ウルサイレン](https://open.spotify.com/album/5IPJuEuH17QovE846wIuBa) | 3:08 | 2025-04-03 |  |
 | [グスタフ本田](https://open.spotify.com/track/7ojAd7qtfcDxIMkZ74qyzn) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊2〜TVアニメ「炎炎ノ消防隊 弐ノ章」オリジナルサウンドトラック〜](https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW) | 2:13 | 2023-03-14 |  |
 | [ジョーカー](https://open.spotify.com/track/1Ntz1FY42ZT4Uvq9QmsQ2I) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 3:13 | 2023-03-14 |  |
 | [ダークヒーロー](https://open.spotify.com/track/498EdGItidP2AOT7G8oJzk) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊2〜TVアニメ「炎炎ノ消防隊 弐ノ章」オリジナルサウンドトラック〜](https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW) | 2:35 | 2023-03-14 |  |
@@ -78,7 +79,7 @@
 | [レオナルド・バーンズ](https://open.spotify.com/track/4oYgZYWsNcd7UeapA5L4oZ) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 3:10 | 2023-03-14 |  |
 | [ワークスリズム](https://open.spotify.com/track/1QSFlhOVNVr15C3FzcfbST) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:24 | 2023-03-14 |  |
 | [不退転ノ覚悟](https://open.spotify.com/track/3rkPpQ44nCYRR6iuv6Ly1u) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊2〜TVアニメ「炎炎ノ消防隊 弐ノ章」オリジナルサウンドトラック〜](https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW) | 2:59 | 2023-03-14 |  |
-| [与エラレタ使命](https://open.spotify.com/track/18SpsJqwmQ90fGXJepxFu7) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 1:57 | 2023-03-14 |  |
+| [与エラレタ使命](https://open.spotify.com/track/18SpsJqwmQ90fGXJepxFu7) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 1:57 | 2023-03-14 | 2025-04-04 |
 | [伝導者](https://open.spotify.com/track/4TOBotGOteAH8gdGjviNcW) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊2〜TVアニメ「炎炎ノ消防隊 弐ノ章」オリジナルサウンドトラック〜](https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW) | 2:51 | 2023-03-14 |  |
 | [傀儡閃火](https://open.spotify.com/track/0oGky8ghAxr4zOGB7kRrgj) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊2〜TVアニメ「炎炎ノ消防隊 弐ノ章」オリジナルサウンドトラック〜](https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW) | 2:23 | 2023-03-14 |  |
 | [共闘喧嘩](https://open.spotify.com/track/5z38AHqnjEEow2dfcIWBmp) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊2〜TVアニメ「炎炎ノ消防隊 弐ノ章」オリジナルサウンドトラック〜](https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW) | 2:45 | 2023-03-14 |  |

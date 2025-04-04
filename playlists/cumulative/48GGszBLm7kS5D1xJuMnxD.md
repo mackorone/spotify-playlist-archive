@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Can't Get No\) Satisfaction \- \(Original Single Mono Version\)](https://open.spotify.com/track/1b6AW6uDrtrUN0Y6GJR45j) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1965\-1967](https://open.spotify.com/album/1IeXdR2ptc5Jhxmko89CgE) | 3:42 | 2013-06-27 |  |
+| [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/1b6AW6uDrtrUN0Y6GJR45j) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1965\-1967](https://open.spotify.com/album/1IeXdR2ptc5Jhxmko89CgE) | 3:42 | 2013-06-27 |  |
 | [A Walk In The Black Forest J](https://open.spotify.com/track/4rAxYVfwQx1Sk77Psc2LRu) | [Horst Jankowsky](https://open.spotify.com/artist/7AEQz8yPD7qxiRLZ8DohoD) | [P.S\. I Love You](https://open.spotify.com/album/7qBzCPrySYyZKOcJHmuBUG) | 2:52 | 2013-06-27 |  |
 | [Baby, I'm Yours](https://open.spotify.com/track/5GInJChhrHyXmwb4tQFJJG) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [The Bridges Of Madison County Original Sound Track](https://open.spotify.com/album/1RHPDIiqVdvY2zIyWJF9IH) | 2:32 | 2013-06-27 |  |
 | [Back In My Arms Again](https://open.spotify.com/track/5QU93rrOcI1wq3lSveWktO) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 2:53 | 2013-06-27 |  |

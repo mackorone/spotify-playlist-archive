@@ -2,7 +2,7 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: illiomote
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 石橋英子 Eiko Ishibashi
 
 2,312 songs - 6 day 0 hr 24 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19946,
+  "num_followers": 19948,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+ssgAAAAACJmUUlcSMKUy2/rl2km57C",
+  "snapshot_id": "Z+x+AAAAAADaNjoS2dtn8MN1DIYPHCqO",
   "tracks": [
     {
       "added_at": null,
@@ -1075,22 +1075,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL"
+        "name": "Tall Shade",
+        "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
       },
       "artists": [
+        {
+          "name": "Patrice",
+          "url": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
+        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         }
       ],
-      "duration_ms": 153992,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"
+      "duration_ms": 179750,
+      "name": "Tall Shade",
+      "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
     }
   ],
   "unique_name": "This Is Mr Eazi",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Linkin Park au top des meilleurs morceaux rock du moment.",
+  "description": "Mumford & Sons au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206559,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ"
+    },
+    {
+      "album": {
         "name": "Chicago",
         "url": "https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K"
       },
@@ -1588,6 +1606,28 @@
       "duration_ms": 189897,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF"
+    },
+    {
+      "album": {
+        "name": "D\u00e9sol\u00e9 (feat. JJ Wilde)",
+        "url": "https://open.spotify.com/album/7rc8TzbmpfblcaKQ3M4hh4"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        },
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182062,
+      "name": "D\u00e9sol\u00e9 (feat. JJ Wilde)",
+      "url": "https://open.spotify.com/track/79JYhum5bquBcCQdwNc1Xm"
     },
     {
       "album": {
@@ -3146,7 +3186,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 187639,
       "name": "Like You Did Before",
       "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
@@ -4119,6 +4159,28 @@
     },
     {
       "album": {
+        "name": "Prisoner of Beauty",
+        "url": "https://open.spotify.com/album/0FQawKjtZ22suCj37hO2EJ"
+      },
+      "artists": [
+        {
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+        },
+        {
+          "name": "Bobby Gillespie",
+          "url": "https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292757,
+      "name": "Prisoner of Beauty",
+      "url": "https://open.spotify.com/track/5Yvhku4TRlkZ1AHJQFqthr"
+    },
+    {
+      "album": {
         "name": "MONO",
         "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
       },
@@ -5045,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "Stare At The Void",
+        "url": "https://open.spotify.com/album/7MsTZUHYSSRsjLT7TX5ljY"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "Stare At The Void",
+      "url": "https://open.spotify.com/track/6hMfBQep2z22t7jKxY9sEF"
+    },
+    {
+      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -5276,7 +5356,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 168124,
       "name": "Superplayer",
       "url": "https://open.spotify.com/track/03Z5aikKbRb2LpjXu9D28X"
@@ -5456,7 +5536,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 219389,
       "name": "TAKE ME IN",
       "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
@@ -5618,7 +5698,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"

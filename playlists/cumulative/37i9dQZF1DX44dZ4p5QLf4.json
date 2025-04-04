@@ -6415,6 +6415,28 @@
     },
     {
       "album": {
+        "name": "One Call Away",
+        "url": "https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107333,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO"
+    },
+    {
+      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe"
       },
@@ -7726,7 +7748,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 207030,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/1BaTMmPhEfTRn7HtL1Jsie"

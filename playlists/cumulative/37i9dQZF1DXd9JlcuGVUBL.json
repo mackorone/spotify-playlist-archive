@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=1PQpu_uVQGe-BJVRB48E5Q\">Doda Nyoka</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR?si=pZ_UaHelShSJE5e1Ke81rg\">Lisie Basson</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Bell Bottoms Up",
+        "url": "https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212386,
+      "name": "Bell Bottoms Up",
+      "url": "https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I"
+    },
+    {
+      "album": {
         "name": "Bettie Steyn",
         "url": "https://open.spotify.com/album/0XrBBBIemMh42oYyyDUtoV"
       },
@@ -474,7 +492,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 158400,
       "name": "Casino",
       "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
@@ -857,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Dis Jou O\u00eb",
+        "url": "https://open.spotify.com/album/1fZFFTzDZaogQuooIGwSZi"
+      },
+      "artists": [
+        {
+          "name": "Lisie Basson",
+          "url": "https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165361,
+      "name": "Dis Jou O\u00eb",
+      "url": "https://open.spotify.com/track/4EprqQU8UwkxKBVtK2LTh3"
+    },
+    {
+      "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/2E8IL9o71dUdFJqoZH7jfb"
       },
@@ -908,6 +944,24 @@
       "duration_ms": 164767,
       "name": "Feelin' Country (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
+    },
+    {
+      "album": {
+        "name": "Finish This Drink",
+        "url": "https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "Finish This Drink",
+      "url": "https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O"
     },
     {
       "album": {
@@ -1180,7 +1234,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 243799,
       "name": "Help Ourselves (feat. Harper O'Neill)",
       "url": "https://open.spotify.com/track/5gKMbPGJHRknIgZAWddU3T"
@@ -1209,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "hold on!",
+        "url": "https://open.spotify.com/album/48VMqiCGrtac9dxZ8UVwlf"
+      },
+      "artists": [
+        {
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "hold on!",
+      "url": "https://open.spotify.com/track/0XKQ1R0PW1Rv2iBg5ni9RV"
+    },
+    {
+      "album": {
         "name": "Household",
         "url": "https://open.spotify.com/album/2FZWouLd9aPwZB8PyPiPKn"
       },
@@ -1220,7 +1292,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 171813,
       "name": "Household",
       "url": "https://open.spotify.com/track/6MB7n0DXS9aEFcHkM3L9ff"
@@ -1358,7 +1430,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 165333,
       "name": "I Hate Whiskey",
       "url": "https://open.spotify.com/track/30tE9El5bERNsT8Fkl1yLT"
@@ -1406,6 +1478,24 @@
       "duration_ms": 173499,
       "name": "I Wish You Would (ft. Midland)",
       "url": "https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo"
+    },
+    {
+      "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/4ijhjy4kYBMZ18iaOhJxaV"
+      },
+      "artists": [
+        {
+          "name": "John Casey",
+          "url": "https://open.spotify.com/artist/4zWpC2DxzDParrBvS2TSst"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148547,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/1UBai22ByneMdJXF7XwuM8"
     },
     {
       "album": {
@@ -1745,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Me Most Nights",
+        "url": "https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159853,
+      "name": "Me Most Nights",
+      "url": "https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh"
+    },
+    {
+      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -1930,7 +2038,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 136653,
       "name": "Nou Toer Ons!",
       "url": "https://open.spotify.com/track/1wZk7ligZw39FwHsvXCNGx"
@@ -2266,7 +2374,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 202560,
       "name": "She Hurts Like Tequila",
       "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
@@ -2332,6 +2440,28 @@
       "duration_ms": 224127,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
+    },
+    {
+      "album": {
+        "name": "Smoke & Embers",
+        "url": "https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        },
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227693,
+      "name": "Smoke & Embers",
+      "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
     },
     {
       "album": {
@@ -2458,7 +2588,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 205666,
       "name": "Spanish Moss",
       "url": "https://open.spotify.com/track/0S9V5vYfmGbs4LZg6H30iu"

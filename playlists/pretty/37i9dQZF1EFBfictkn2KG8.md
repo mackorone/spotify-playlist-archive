@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 26 | [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 |
 | 27 | [Whenever](https://open.spotify.com/track/2v0RhlOnfy6qBIU3zvFJKq) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:35 |
 | 28 | [Twenty One](https://open.spotify.com/track/3iAD8b8HXY4M7jyrU90mgS) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Twenty One](https://open.spotify.com/album/0tOTP7MnvbpTUbg55rKXzq) | 2:08 |
-| 29 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 |
-| 30 | [Looking 4 Love](https://open.spotify.com/track/16PmdK3tuq8vlJrEXGJlqB) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5) | [Looking 4 Love](https://open.spotify.com/album/1wUKnR8UdzL4lDhWGbWTj5) | 2:22 |
+| 29 | [Looking 4 Love](https://open.spotify.com/track/16PmdK3tuq8vlJrEXGJlqB) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5) | [Looking 4 Love](https://open.spotify.com/album/1wUKnR8UdzL4lDhWGbWTj5) | 2:22 |
+| 30 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 |
 | 31 | [Northern Lights](https://open.spotify.com/track/5RfewpRbpiihMwWPQxTnB3) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Northern Lights](https://open.spotify.com/album/3jcyaJQYwvcVKyyK5eNNCe) | 2:35 |
 | 32 | [Boem Boem Boem](https://open.spotify.com/track/2qf5GS2a5ewZqK5oRT3dAE) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Boem Boem Boem](https://open.spotify.com/album/5M5YCUfUxyzmZjGHq7HLPy) | 2:12 |
 | 33 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 42 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 43 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AbtutgAAAAB+zatvcBx4fonO0rZpkNkp`
+Snapshot ID: `Abt0kgAAAAB3alEHZ6ROlG9QwL9VcQ56`

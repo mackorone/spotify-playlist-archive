@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,567 songs - 17 day 4 hr 18 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,569 songs - 17 day 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4160,7 +4160,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 4150 | [Ace](https://open.spotify.com/track/06fNR3xo4ksfvM4UTeEoZJ) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/2A4T1kP7W7UrEd9PBVCdWf) | [Room 25](https://open.spotify.com/album/3mpA4v2tvEM5aAYtNGnbzD) | 3:02 |
 | 4151 | [Shadow Man \(feat\. Phoelix, Smino & Saba\)](https://open.spotify.com/track/1h2LHhmyAXi8tPNLi806JA) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 5:11 |
 | 4152 | [Come On \(feat\. Sadat X\) \- 2005 Remaster](https://open.spotify.com/track/7kgsCXovBYFMmb9eBMbWvn) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Born Again](https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6) | 4:37 |
-| 4153 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
+| 4153 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 4154 | [Digital Dope](https://open.spotify.com/track/0lMdefFBuqbZ9NJzZesqVD) | [NugLife](https://open.spotify.com/artist/3gkvPVQi7D6qstqC5urqvP), [The Underachievers](https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N) | [NUGLIFE 2020](https://open.spotify.com/album/609sXFlLHVfyO0lyFJw0dL) | 2:06 |
 | 4155 | [SkyIs Falling \(feat\. C.L\. Smooth\)](https://open.spotify.com/track/1uPCr8mi8pzL9NLRrJ3XPP) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:41 |
 | 4156 | [After Hanabi \-Listen To My Beats\-](https://open.spotify.com/track/3GFiNXCDyjCw14IRQIQszu) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 5:23 |
@@ -4708,7 +4708,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 4698 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
 | 4699 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 |
 | 4700 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
-| 4701 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
+| 4701 | [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
 | 4702 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
 | 4703 | [コンプリケイション](https://open.spotify.com/track/13KTQJsPEoOScrf2vyZ6tK) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [DRRROOKiEZ!!\-ROOKiEZ is PUNK'D respect for DRRR!!\-](https://open.spotify.com/album/24uYkbrd01Rl9m0s2TTLmJ) | 4:47 |
 | 4704 | [アイロニックマイロジック \(feat\. つずな\)](https://open.spotify.com/track/4qnKnbVuAyshyVVeuFTLC0) | [Room97](https://open.spotify.com/artist/108nJRZjRbGcX9TXqKLDpg), [つずな](https://open.spotify.com/artist/4OolY76b96632hWfTPrbuq) | [MY WORLD+](https://open.spotify.com/album/30eXgV7IFPE8Aeac03vYVn) | 4:23 |
@@ -6575,5 +6575,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6565 | [Flamingo](https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Flamingo](https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq) | 3:17 |
 | 6566 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 | 6567 | [Lady Picture Show](https://open.spotify.com/track/6y1I8cGzw6KWy2zPA572Jq) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 4:06 |
+| 6568 | [Safe and Sound](https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave of Mystery](https://open.spotify.com/album/3rLiil7YBkoGXLrFtwYcju) | 3:12 |
+| 6569 | [Great Gatsby](https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:26 |
 
-Snapshot ID: `AAAECVsVj4FZYAqr3VTlGurDJfRR/vzP`
+Snapshot ID: `AAAEC8OV+rEIyh4HAY8x2OrPQLhpZfNG`

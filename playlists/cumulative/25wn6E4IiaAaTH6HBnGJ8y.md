@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2020-02-12 |  |
+| [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2020-02-12 |  |
 | [1 Hell of a Life](https://open.spotify.com/track/3DV3fcJ1Cgc5lVAdvw73Kx) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dum and Dummer](https://open.spotify.com/album/5QNIFVnhZn80T3EteDzvgW) | 2:39 | 2020-09-19 |  |
 | [4 AM](https://open.spotify.com/track/1nX9KhK3Fff27SnrIor2Yb) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 4:15 | 2020-09-25 |  |
 | [6 Days](https://open.spotify.com/track/5ilKR6ucV43TXQFLoLVpsb) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Colonel Bagshot](https://open.spotify.com/artist/1tmpv57VTq9XG346FRsgqW) | [ONE](https://open.spotify.com/album/6SR1pa617ollNQjRM2RyRp) | 4:20 | 2020-03-21 |  |

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: JO1
 
-508 songs - 1 day 4 hr 38 min
+509 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A2Z](https://open.spotify.com/track/5LnOxZHrMEhsfFNDRdYm2B) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [A2Z](https://open.spotify.com/album/2vKHhkgrdmovL4o0Sfr4lN) | 2:39 | 2024-02-13 | 2024-04-17 |
 | [Ace In The Hole](https://open.spotify.com/track/4p6xTqUf2JWIfKYqsSArxi) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Ace In The Hole](https://open.spotify.com/album/05rxFaDkVxQgQpAQrhbKQg) | 3:30 | 2024-03-05 | 2024-03-13 |
 | [Add Love Song](https://open.spotify.com/track/3Zux43tmJ0IhNonmOGsxqO) | [CUBERS](https://open.spotify.com/artist/5b0vNm8SlsmAMchGD7akjQ) | [Add Love Song](https://open.spotify.com/album/02aaaAxq4hIMsoOJb2V4e2) | 5:27 | 2024-03-12 | 2024-04-10 |
+| [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-03 |  |
 | [aigre\-doux](https://open.spotify.com/track/7MQRzWGNbrsbbJxlxFJ6MR) | [長妻怜央 & 安井謙太郎 from 7ORDER](https://open.spotify.com/artist/24p9nQZKkZpT2kI4eRwmjN) | [aigre\-doux](https://open.spotify.com/album/1Wom06jbs8fva9g4mZfB6N) | 3:17 | 2024-02-06 | 2024-02-14 |
 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 | 2025-04-03 |  |
 | [Alpha](https://open.spotify.com/track/4NP5Q238mC9FJly7eREWB8) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:40 | 2024-08-13 | 2024-12-23 |

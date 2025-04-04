@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 손예지\(Son Yeji\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SZN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,497 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,524 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 |
 | 51 | [LaSalle Ave](https://open.spotify.com/track/1JpvGHw0UOQJxycLniNIgK) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Neighborhood](https://open.spotify.com/album/1QPHLEYD3GTZiFDyctAAVt) | 3:25 |
 
-Snapshot ID: `Z+ySMAAAAADvlTeWYswyDqOANw4etat+`
+Snapshot ID: `Z+4mGgAAAAAZ5E+QyaysWsJZLcnudcNA`

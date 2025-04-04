@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Local artists you need to watch, handpicked by our editors. Cover: Djanaba",
+  "description": "Local artists you need to watch, handpicked by our editors. Cover: Larissa Lambert",
   "name": "RADAR AU & NZ",
   "tracks": [
     {
@@ -226,6 +226,24 @@
       "duration_ms": 271742,
       "name": "All Good",
       "url": "https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF"
+    },
+    {
+      "album": {
+        "name": "All I Am",
+        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182099,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
     },
     {
       "album": {
@@ -786,7 +804,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 163733,
       "name": "Blame Me",
       "url": "https://open.spotify.com/track/5eRSBJ5HF7g5IzDhY45Ryi"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 158803,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0oVRIHra1TOOzJIAPTElSw"
@@ -1112,6 +1130,24 @@
       "duration_ms": 185393,
       "name": "Candy",
       "url": "https://open.spotify.com/track/79hX5auHsaio6gDOQcmeDy"
+    },
+    {
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157414,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
     },
     {
       "album": {
@@ -2080,7 +2116,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 148988,
       "name": "Free As Hell",
       "url": "https://open.spotify.com/track/06uJf6Re1meuruxWc4UT6p"
@@ -2474,7 +2510,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 232978,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
@@ -3268,7 +3304,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 230975,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo"
@@ -3401,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor"
+      },
+      "artists": [
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153991,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF"
+    },
+    {
+      "album": {
         "name": "kill[h]er",
         "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
       },
@@ -3510,7 +3564,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 253951,
       "name": "Lead You On",
       "url": "https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L"
@@ -3672,7 +3726,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 233325,
       "name": "Look The Part",
       "url": "https://open.spotify.com/track/75PLIR0WByILv6ZqXC06Ck"
@@ -4411,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Backflips in a Restaurant",
+        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165522,
+      "name": "Need You Around",
+      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
+    },
+    {
+      "album": {
         "name": "NEVERMIND",
         "url": "https://open.spotify.com/album/56SM0geyRsda5hgHqPQlWd"
       },
@@ -4626,7 +4698,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 151005,
       "name": "One Time",
       "url": "https://open.spotify.com/track/1Wvx69Bc0NZH7oQolv1SRq"
@@ -5121,6 +5193,24 @@
     },
     {
       "album": {
+        "name": "RACER",
+        "url": "https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160724,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D"
+    },
+    {
+      "album": {
         "name": "Raise It",
         "url": "https://open.spotify.com/album/4sEJD3PPa4sZBycQszlr9e"
       },
@@ -5248,6 +5338,24 @@
       "duration_ms": 139636,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4BAIKNDhzBhO90nKPEVP4b"
+    },
+    {
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167849,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU"
     },
     {
       "album": {
@@ -5459,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/20qSwY5Of1dCr5cjx9zYzp"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225167,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/4t2JCPEeCHZeRfsyVBNEZd"
+    },
+    {
+      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/7iUpyRmyLJbkHaa1s68f2x"
       },
@@ -5474,6 +5600,24 @@
       "duration_ms": 197356,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/3078LZDJY0jGDcLupjBFRP"
+    },
+    {
+      "album": {
+        "name": "Running Out",
+        "url": "https://open.spotify.com/album/4e4HuGGMBput0CxfwBUOoQ"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189232,
+      "name": "Running Out",
+      "url": "https://open.spotify.com/track/2k5IHV4mdDun3M4IgI8HTe"
     },
     {
       "album": {
@@ -5692,6 +5836,24 @@
       "duration_ms": 210897,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/3sk8IBi4DhEAzmTtMdxc0t"
+    },
+    {
+      "album": {
+        "name": "Share You",
+        "url": "https://open.spotify.com/album/0kwD3pMz5FwarKsOtHmAll"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201316,
+      "name": "Share You",
+      "url": "https://open.spotify.com/track/7ulE16PJt58DKhD1qRUKv1"
     },
     {
       "album": {
@@ -6514,7 +6676,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 134224,
       "name": "THE FIRST TEST",
       "url": "https://open.spotify.com/track/6rNjVOudfdBJKmWKLbz16p"
@@ -6957,6 +7119,24 @@
     },
     {
       "album": {
+        "name": "Vol.1 Learning In Public",
+        "url": "https://open.spotify.com/album/5GIiOmeOFqnAFT9SiOes6H"
+      },
+      "artists": [
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199993,
+      "name": "TUNDRA",
+      "url": "https://open.spotify.com/track/1kX24LMs0Q1DxFpb10n6qr"
+    },
+    {
+      "album": {
         "name": "Underneath",
         "url": "https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ"
       },
@@ -7042,7 +7222,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 166939,
       "name": "VERTIGO",
       "url": "https://open.spotify.com/track/2P3GcdQbx6rEhRMTJaM3Hk"

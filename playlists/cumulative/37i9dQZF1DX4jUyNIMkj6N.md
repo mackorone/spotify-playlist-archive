@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-334 songs - 20 hr 11 min
+336 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Birthday](https://open.spotify.com/track/2yhPIn9HwI88aw4H7ZFrw0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Birthday](https://open.spotify.com/album/1Glahl7MCjz4HFgurt3GCP) | 4:07 | 2022-06-09 | 2022-07-29 |
 | [Bloodshed](https://open.spotify.com/track/3S7y6iLyXfLZjRzyHvqB4x) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Bloodshed](https://open.spotify.com/album/2DjLVPwQLO6RqxQebJpZX3) | 3:35 | 2024-04-18 | 2024-07-27 |
 | [Bloom](https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Bloom](https://open.spotify.com/album/59C2lGdk4mSKHV3zlrLOk4) | 3:41 | 2024-04-18 |  |
+| [blue jean](https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [blue jean](https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR) | 4:36 | 2025-04-03 |  |
 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 | 2023-09-01 |
 | [Bluebelle mountain](https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:20 | 2021-12-02 | 2022-07-29 |
 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 | 2023-04-27 | 2025-03-07 |
@@ -144,6 +145,7 @@
 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 | 2024-02-22 | 2024-10-18 |
 | [House by the Sea](https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Set The House on Fire](https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP) | 3:38 | 2021-12-02 | 2022-06-10 |
 | [How Can I Know](https://open.spotify.com/track/4WMbHn5MP9t5D1WTmLgHd5) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [How Can I Know](https://open.spotify.com/album/6CEfPLzkQ0Qju7dOoDd6sx) | 3:40 | 2022-06-09 | 2022-07-01 |
+| [How long](https://open.spotify.com/track/65dGvhhSg65PUUpTTJdwIb) | [Joel Sundkvist](https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM), [Arüna](https://open.spotify.com/artist/3wxpakEyvBC9NXree33C3Z) | [How long](https://open.spotify.com/album/1jwBRA70U1w5cGfZdajTfS) | 2:48 | 2025-04-03 |  |
 | [Hunting Sky](https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr) | 3:15 | 2021-12-02 | 2022-07-16 |
 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 | 2022-07-14 | 2023-09-08 |
 | [Hymn](https://open.spotify.com/track/2MXX8H5R8UMmI5oYzgqrYA) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [Hymn](https://open.spotify.com/album/5TXCV14ZfHcQrJTruMbQNp) | 5:35 | 2023-11-30 | 2024-03-15 |
@@ -216,7 +218,7 @@
 | [Old Man](https://open.spotify.com/track/7KyWGpLukZ6Nur6kup0386) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Old Man](https://open.spotify.com/album/26csqloo1s3vGsaSeJyNer) | 3:33 | 2022-12-01 | 2023-01-05 |
 | [One Day at a Time](https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y) | [One Day at a Time](https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c) | 2:32 | 2022-11-17 | 2023-05-01 |
 | [Only Stupid Kids Get Bored](https://open.spotify.com/track/3oVd52XTxdQvg46Z25DHqc) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:50 | 2021-12-02 | 2022-07-29 |
-| [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-06 |  |
+| [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-06 | 2025-04-04 |
 | [Our Friends Don't Think I Deserve You](https://open.spotify.com/track/62fSokXCylmrzxySNTPjrq) | [Nora Legrand](https://open.spotify.com/artist/7G7qvIAfp8DKYAlQH8XH3N) | [Our Friends Don't Think I Deserve You](https://open.spotify.com/album/2LkbmuEzm415toSaCaBzmC) | 2:18 | 2024-05-16 | 2024-06-05 |
 | [Out in the Backyard](https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [Out in the Backyard](https://open.spotify.com/album/5agiqfFKIiceHwD2E44Zdr) | 3:40 | 2023-11-23 | 2023-12-23 |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 |  |
@@ -318,7 +320,7 @@
 | [What Hurts the Most \(Is Knowing You Want to Leave\)](https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [What Hurts the Most \(Is Knowing You Want to Leave\)](https://open.spotify.com/album/7JXDlE2NdHxGcF55Q0whhI) | 4:31 | 2021-12-02 | 2022-07-17 |
 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 | 2022-07-14 | 2023-11-24 |
 | [When the Mourning Comes](https://open.spotify.com/track/2SzMpHEriq3fn4RxXvHHdf) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I saw her from here/I saw here from her](https://open.spotify.com/album/1NozolJ5KtborXl2kQBQJW) | 3:44 | 2021-12-02 | 2022-07-29 |
-| [When You Touch The Sky](https://open.spotify.com/track/0bxlJWWvXMV83KNgb543uQ) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [When You Touch The Sky](https://open.spotify.com/album/3g37CMgco7Cock6BsoSAJO) | 2:59 | 2024-11-07 |  |
+| [When You Touch The Sky](https://open.spotify.com/track/0bxlJWWvXMV83KNgb543uQ) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [When You Touch The Sky](https://open.spotify.com/album/3g37CMgco7Cock6BsoSAJO) | 2:59 | 2024-11-07 | 2025-04-04 |
 | [While He Is Still Asleep](https://open.spotify.com/track/11QGYpsukruD6f85WSDyQD) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [While He Is Still Asleep](https://open.spotify.com/album/1KGp59EIwjR3kh4eRHAHjM) | 3:13 | 2022-03-17 | 2022-07-29 |
 | [While I Was Asleep](https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/5R7mene0tcfZatcJGwSgeh) | 3:27 | 2021-12-02 | 2022-07-17 |
 | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/track/2BJistpeWs0hLtCfAgTqeZ) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/album/1hAYAyoKGVinR7S1ETybdu) | 2:57 | 2022-02-17 | 2022-07-29 |

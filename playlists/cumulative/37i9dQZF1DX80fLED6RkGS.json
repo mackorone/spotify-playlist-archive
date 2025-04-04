@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Ochungulo family",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Chris Kaiga",
   "name": "Gengetone Fire",
   "tracks": [
+    {
+      "album": {
+        "name": "1 Times 3",
+        "url": "https://open.spotify.com/album/7if6nuP1rsF6bntyJaSmx3"
+      },
+      "artists": [
+        {
+          "name": "ItsDeco",
+          "url": "https://open.spotify.com/artist/70Y7KimRLLx8N6ekMAiTas"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193216,
+      "name": "1 Times 3",
+      "url": "https://open.spotify.com/track/3JS0cvcUCSxGlINLYMm7Ho"
+    },
     {
       "album": {
         "name": "Abdala",
@@ -850,7 +872,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 128681,
       "name": "Beshte Yangu",
       "url": "https://open.spotify.com/track/5d2ysP6ebjPYQFRkxacK3r"
@@ -1599,6 +1621,32 @@
     },
     {
       "album": {
+        "name": "Chill Guy",
+        "url": "https://open.spotify.com/album/19P8sH78EKaWUczfBIIgl2"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Iphoolish",
+          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
+        },
+        {
+          "name": "Fidel Rayd",
+          "url": "https://open.spotify.com/artist/5gjuJ3cbWR2QWDOJy1av6x"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Chill Guy",
+      "url": "https://open.spotify.com/track/4fX1m5VOKMSX2n2diOAama"
+    },
+    {
+      "album": {
         "name": "Chingri",
         "url": "https://open.spotify.com/album/1AiSsGlNTqmeUuSMAiMXCD"
       },
@@ -2008,6 +2056,24 @@
       "duration_ms": 178775,
       "name": "Denda",
       "url": "https://open.spotify.com/track/6S7JsMpwiTEdO1RWA1uISr"
+    },
+    {
+      "album": {
+        "name": "Denge",
+        "url": "https://open.spotify.com/album/4ZNebXdmXCqH2Xy0KxB65N"
+      },
+      "artists": [
+        {
+          "name": "Daney B",
+          "url": "https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Denge",
+      "url": "https://open.spotify.com/track/38ehxoJfxjfkQb3mw21hq5"
     },
     {
       "album": {
@@ -3734,7 +3800,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 184798,
       "name": "Khartoum",
       "url": "https://open.spotify.com/track/6HExKbPw3TLaw6DYzH3oY5"
@@ -5613,6 +5679,32 @@
     },
     {
       "album": {
+        "name": "Mwazzara",
+        "url": "https://open.spotify.com/album/6lPsMAVhKrEgpQ3gJBPcGC"
+      },
+      "artists": [
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        },
+        {
+          "name": "Cedo",
+          "url": "https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Mwazzara",
+      "url": "https://open.spotify.com/track/2xnWcSGPkMxer6nRITC0HJ"
+    },
+    {
+      "album": {
         "name": "My Jaber (Friday)",
         "url": "https://open.spotify.com/album/08G7jGyKaXD4krU6WrpOFX"
       },
@@ -7170,7 +7262,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 140834,
       "name": "Position",
       "url": "https://open.spotify.com/track/3VrKl2d7BARsapf9IELR6x"
@@ -8660,7 +8752,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 206520,
       "name": "Teremka",
       "url": "https://open.spotify.com/track/7d97FjHfKqehjD9sUyCwbl"

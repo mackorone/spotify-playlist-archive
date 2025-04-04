@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 
 > Il meglio dell'indie italiano nel 2024, secondo i nostri Editor! Cover: Pinguini Tattici Nucleari
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,175 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,182 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 | 4 | [Filippo Leroy](https://open.spotify.com/track/19PVhId3pxPm0FA6QJXyoa) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:03 |
 | 5 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
 | 6 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 |
-| 7 | [Nabucodonosor](https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood) | [I Cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP), [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [I CANI BAUSTELLE](https://open.spotify.com/album/44WyneGoslmOdCMz1gavBO) | 4:19 |
+| 7 | [Nabucodonosor](https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP), [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [I CANI BAUSTELLE](https://open.spotify.com/album/44WyneGoslmOdCMz1gavBO) | 4:19 |
 | 8 | [Tu sei il mattino](https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Tu sei il mattino](https://open.spotify.com/album/0sbGgrjOyEt7maAqras9N3) | 3:08 |
 | 9 | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq) | 3:35 |
 | 10 | [LA MACCHINA](https://open.spotify.com/track/3Shhi6otR1WYLtgwMCWjF8) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:44 |

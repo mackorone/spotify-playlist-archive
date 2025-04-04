@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 우효\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 스텔라장 \(Stella Jang\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-916 songs - 2 day 7 hr 55 min
+919 songs - 2 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2021-12-21 | 2022-07-22 |
 | [Better Better](https://open.spotify.com/track/4BC3Yz9D5BS1APX5IP4ZP9) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ma Lil Planet](https://open.spotify.com/album/0u9OtiNg7h34f5qc9VLVVn) | 3:10 | 2025-03-04 |  |
 | [Better Me](https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [BE](https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX) | 3:20 | 2022-03-31 | 2022-04-21 |
+| [Betty Boop♥ \(collab\. ULKIN CANVAS\)](https://open.spotify.com/track/6wgQeSCttPKaIRJgwK3EJn) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Betty Boop♥ \(collab\. ULKIN CANVAS\)](https://open.spotify.com/album/0sUQyZG2rfJH6tASxHks3p) | 2:17 | 2025-04-03 |  |
 | [Beyond the Nights](https://open.spotify.com/track/3ABjDPEgS3IfmWkGcgbzvC) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Beyond the Nights](https://open.spotify.com/album/3J1ybIIdZkqPGxNmfzPPy0) | 3:56 | 2022-03-03 | 2022-07-15 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-01-27 | 2022-02-17 |
 | [Bike](https://open.spotify.com/track/3B763uTyzLSz398fi7FIYe) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:44 | 2021-12-21 | 2022-04-13 |
@@ -824,6 +825,7 @@
 | [Walk](https://open.spotify.com/track/1DLRADcDkzhnTTAxyo5AXn) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY) | [UU](https://open.spotify.com/album/0HJYPPI7xfr7qNcmmZhxp1) | 3:44 | 2022-03-31 | 2022-04-22 |
 | [Walk Together](https://open.spotify.com/track/48utiw5Ps2jshja8m2ejx6) | [Soo Been](https://open.spotify.com/artist/6tjD4GsFk6KjsZhlDrn962) | [Walk Together](https://open.spotify.com/album/6RNALrjPptXXKC6uzunXou) | 3:30 | 2022-03-31 | 2022-04-16 |
 | [Walk with you 같이 걸을래](https://open.spotify.com/track/2UXTBTLGB572yUsYsbuQoE) | [LEEXLEE](https://open.spotify.com/artist/640S32LHSQAW3kFPU7tbCi) | [Walk with you 같이 걸을래](https://open.spotify.com/album/47BUJLXDMvTPUChfhFIypW) | 3:26 | 2022-03-31 | 2022-04-21 |
+| [WALKMAN](https://open.spotify.com/track/6Y8iqKIk4LckcPQV5lohVU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA II](https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx) | 4:12 | 2025-04-03 |  |
 | [Waltz](https://open.spotify.com/track/2AMniaV0Jq30zdZY5UH79m) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Waltz](https://open.spotify.com/album/3ezuyHHWaJSJjPh0KzFvuh) | 3:58 | 2022-03-31 | 2022-04-17 |
 | [Wandering](https://open.spotify.com/track/2qDoBvu7ro7yTB2K6xGyZK) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Journey](https://open.spotify.com/album/5Ndzga5l9NNmpAZTp9hxM9) | 4:15 | 2023-02-28 | 2023-03-28 |
 | [Want U 2 Know](https://open.spotify.com/track/2GVjWKUdmJIpdHFQQt9NLv) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Want U 2 Know](https://open.spotify.com/album/0bO9A3V6xf4LFqwFSB7XWY) | 4:13 | 2025-02-12 |  |
@@ -921,6 +923,7 @@
 | [오월의 나무](https://open.spotify.com/track/4SvybiKZukEaXOk4xA2laz) | [Lucite Tokki](https://open.spotify.com/artist/5AXPLM73kNsbt3lh5bysN9) | [오월의 나무](https://open.spotify.com/album/7eyIv9fDkaHtnVtJGj5It4) | 3:43 | 2022-03-31 | 2022-04-02 |
 | [오키나와 Okinawa](https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [오키나와 Okinawa](https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M) | 5:48 | 2021-12-12 | 2022-07-29 |
 | [잊고 살았던 것들](https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [잊고 살았던 것들](https://open.spotify.com/album/3ntu3EDxTwnlUKnglHiUlh) | 3:06 | 2022-03-03 | 2022-06-10 |
+| [집데이트 Home Date](https://open.spotify.com/track/7oZaH7O6NslcxHl2Dbimvm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Home Date](https://open.spotify.com/album/0x79ov1mXMlwJKpgYhjjsx) | 2:33 | 2025-04-03 |  |
 | [편지](https://open.spotify.com/track/4vCFXfI59csHOHeLuy3OC7) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [편지](https://open.spotify.com/album/6d5eWLmLanYAJCFmFb4OQx) | 3:13 | 2024-11-20 | 2025-01-31 |
 | [포말 Acid Rain](https://open.spotify.com/track/1Ch8Wjmw92ijwDidEO28Mz) | [SHIRTS BOY FRANK](https://open.spotify.com/artist/1v9klSxIYqwmZIHnQ6a1Wk) | [아무도 모르게 피어난 Blooms](https://open.spotify.com/album/1MvUUp1QPeATh9UUUZNVvF) | 2:59 | 2022-03-31 | 2022-04-16 |
 | [황홀한 실종 The Marvelous Absence](https://open.spotify.com/track/1OZkopZBHTl2a68prXyEmJ) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [황홀한 실종 The Marvelous Absence](https://open.spotify.com/album/0En1BFq5Q0eFCw1W3zfluw) | 3:02 | 2022-12-06 | 2022-12-14 |

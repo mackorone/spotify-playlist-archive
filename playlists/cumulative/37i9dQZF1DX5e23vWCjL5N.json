@@ -1931,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Viscerale",
+        "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Idiocracy (feat. Gemitaiz)",
+      "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
+    },
+    {
+      "album": {
         "name": "KLOAKA",
         "url": "https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF"
       },

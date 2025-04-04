@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-172 songs - 11 hr 7 min
+173 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Gal Mukdi](https://open.spotify.com/track/4AQw1pwzUrucO5OOMLIrV6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Gal Mukdi](https://open.spotify.com/album/2hYgj4AQhL4f45jmUaIrmx) | 2:53 | 2024-01-19 | 2025-01-14 |
 | [Gangster Disco](https://open.spotify.com/track/79seu23FNymmrr6YCWg75p) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Gangster Disco](https://open.spotify.com/album/6C0sEFSyuNWk03faNZZJ7J) | 3:40 | 2023-08-18 |  |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-08-18 |  |
+| [GULAB XX](https://open.spotify.com/track/0HPYbPgdKlcwutDKIsq54L) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 1:19 | 2025-04-03 |  |
 | [Hai Hai \(Original Mix\)](https://open.spotify.com/track/4g8bzs2j3D72vm0wcguZ2q) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj), [Ms Scandalous](https://open.spotify.com/artist/28BHtfPgUuB1w2hGu3j0mZ) | [Essential Desi](https://open.spotify.com/album/1xSOkSOQZcrwGFYYib8Bri) | 4:33 | 2023-08-18 | 2025-03-21 |
 | [Harkalay \- ZOH Remix](https://open.spotify.com/track/1x3hsLBTGYKXrGvZTMppOX) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD), [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU) | [Harkalay \(ZOH Remix\)](https://open.spotify.com/album/226vTBjEMGfbVbGIsf3KTT) | 3:25 | 2024-08-09 |  |
 | [Heer](https://open.spotify.com/track/1jREKnMWRUAxZiISw5nyDB) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Heer](https://open.spotify.com/album/3pNYtX26xOEfZr0zi3vO4e) | 3:36 | 2024-02-23 |  |

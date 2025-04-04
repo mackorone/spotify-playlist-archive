@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: HEINS.
 
-294 songs - 18 hr 43 min
+295 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Kekasih Kota](https://open.spotify.com/track/4Ngdsb2TlpF9PS4fa9vcl9) | [Fis Duo](https://open.spotify.com/artist/1S1HBUme1d0j93zSkkMILE) | [Kekasih Kota](https://open.spotify.com/album/2CNWRq13QMqziGrVtdjVjh) | 8:36 | 2024-06-27 | 2024-07-05 |
 | [Kelak Kau Bertumbuh](https://open.spotify.com/track/3ENf2swPbxu2ml3wIQgD8q) | [Jazeed](https://open.spotify.com/artist/7KL0E0rwZuLjkKzleQgzPq) | [Kelak Kau Bertumbuh](https://open.spotify.com/album/2ANuIXyZcKdyfFmlsA3QhZ) | 2:58 | 2024-08-29 | 2024-11-01 |
 | [Kembali Ke Awal](https://open.spotify.com/track/5ualIpatKacgFzCy50nWzV) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Kembali Ke Awal](https://open.spotify.com/album/5FhKphNRotrPi8fi8te6WW) | 3:10 | 2024-08-29 |  |
+| [Kita Cari Waktu Lain](https://open.spotify.com/track/3lx7iCuGrbtrKfUZfnWOx9) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Kita Cari Waktu Lain](https://open.spotify.com/album/440K7PNNM4ZYvor4vDoDML) | 3:38 | 2025-04-03 |  |
 | [Kontemplasi](https://open.spotify.com/track/7hHiaXpGgst4M1JPvuJCR5) | [Pure](https://open.spotify.com/artist/685Hd4pDVo14EZM9xCbZGr) | [Kontemplasi](https://open.spotify.com/album/18XuaiOkj3Vc1pICPR8KA0) | 3:39 | 2024-06-27 | 2024-07-05 |
 | [Labirin Pikiran](https://open.spotify.com/track/6geMi4peZEz7wLyiwGhIbN) | [Budiraya](https://open.spotify.com/artist/5pHCbLQj6BRrqQXBShicgy) | [Labirin Pikiran](https://open.spotify.com/album/2P42a3gPX8ZCNJFTXjum89) | 4:04 | 2024-06-27 | 2024-07-05 |
 | [Lagu Lama](https://open.spotify.com/track/5pXbx9GLA7G7VOSVFEBJFW) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [Lagu Lama](https://open.spotify.com/album/6gtIruxboZVfDgE2JKREwM) | 3:33 | 2024-06-27 | 2024-07-25 |

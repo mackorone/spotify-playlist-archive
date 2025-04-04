@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Israel Salazar
 
-324 songs - 1 day 7 hr 59 min
+325 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 | 2022-09-09 |  |
 | [Eu Cuido De Você](https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Eu Cuido De Você](https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL) | 5:01 | 2022-09-09 | 2023-03-25 |
 | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d) | 4:41 | 2023-07-14 | 2023-08-05 |
-| [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft) | 6:18 | 2023-01-13 |  |
+| [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft) | 6:18 | 2023-01-13 | 2025-04-04 |
 | [Eu Quero Ser Grato](https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Eu Quero Ser Grato](https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0) | 3:12 | 2024-11-30 |  |
 | [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 | 2023-09-01 |  |
 | [Eu Te Entrego o Meu Dia](https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Te Entrego o Meu Dia](https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p) | 3:19 | 2025-01-24 |  |
@@ -131,6 +131,7 @@
 | [Existe Uma Força](https://open.spotify.com/track/3oDLoqywfchRMne1pUMU97) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Existe Uma Força](https://open.spotify.com/album/0GxF0Y9XuVBKiAYCNtcAEG) | 5:56 | 2023-06-23 | 2023-07-15 |
 | [Farol](https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Farol](https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww) | 3:58 | 2022-11-25 | 2022-12-10 |
 | [Faz Arder](https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB) | [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Faz Arder](https://open.spotify.com/album/2PxsAb7mPbxyvAu9a49M0S) | 1:58 | 2023-09-01 | 2023-10-07 |
+| [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 | 2025-04-03 |  |
 | [Fidelidade](https://open.spotify.com/track/2u8PtILUXbasNdynPbHvYs) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fidelidade](https://open.spotify.com/album/1KUWEpW2R8syhvrtMswME6) | 4:07 | 2023-06-16 | 2023-07-22 |
 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 | 2024-12-06 |  |
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-09 | 2024-12-28 |

@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-56 songs - 5 hr 12 min
+57 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Stop](https://open.spotify.com/track/21L1dVOTGhvAKvBXXnTIHj) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 0:30 | 2024-04-05 | 2024-07-02 |
 | [Summer '68](https://open.spotify.com/track/5MZALWjwQRX0RsZt31HlNP) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Atom Heart Mother](https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY) | 5:28 | 2022-09-17 | 2022-10-13 |
 | [Take It Back](https://open.spotify.com/track/325toqbCzE1g1pYIED7U4C) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 6:12 | 2022-10-04 |  |
+| [Terminal Frost](https://open.spotify.com/track/4hO2y5DRbeMppklIroS1O8) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 6:15 | 2025-04-04 |  |
 | [The Final Cut](https://open.spotify.com/track/5y1Uc72BAKxaleTEXpcJJq) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:42 | 2022-09-17 |  |
 | [The Fletcher Memorial Home](https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:09 | 2025-02-23 |  |
 | [The Great Gig in the Sky](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 4:43 | 2022-09-17 |  |

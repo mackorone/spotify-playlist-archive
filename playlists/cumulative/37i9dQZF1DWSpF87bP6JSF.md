@@ -2,7 +2,7 @@
 
 ### [La Lista Pop](https://open.spotify.com/playlist/37i9dQZF1DWSpF87bP6JSF)
 
-> Los éxitos del pop latino con Sebastián Yatra en portada.
+> Los éxitos del pop latino con Danny Ocean y Sech en portada.
 
 594 songs - 1 day 6 hr 34 min
 

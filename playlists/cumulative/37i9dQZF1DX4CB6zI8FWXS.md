@@ -2,9 +2,9 @@
 
 ### [Groovin' R&B](https://open.spotify.com/playlist/37i9dQZF1DX4CB6zI8FWXS)
 
-> R&Bの最新話題曲をまとめてお届けします。cover: Jessie Reyez
+> R&Bの最新話題曲をまとめてお届けします。cover: SiR
 
-801 songs - 1 day 18 hr 55 min
+802 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 | 2024-02-15 | 2024-03-08 |
 | [Our Destination](https://open.spotify.com/track/4bA0WPhGGbbAHNz0DRPg0H) | [Tomoko Nia](https://open.spotify.com/artist/3KsYG0LJISq8jaL3ckUXeo) | [Our Destination](https://open.spotify.com/album/7rqsSXssi9xlffxuxR7CEg) | 3:50 | 2024-01-25 | 2024-02-23 |
 | [Out Loud](https://open.spotify.com/track/15VIke18Jg3sR0L27rZbqF) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ) | [Out Loud](https://open.spotify.com/album/0YWyMh3H0q7PR9OA77Ks5a) | 3:52 | 2024-07-18 | 2024-10-04 |
+| [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 | 2025-04-03 |  |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-07 | 2024-01-19 |
 | [Overrated](https://open.spotify.com/track/38dUmWtzDY9VqJYEF2hGOg) | [Jeff Darko](https://open.spotify.com/artist/3sBwgjV04Bb5QrEvOZp1Nd), [Caesar](https://open.spotify.com/artist/6TlSyoLPJijSVzFpPL9nOi) | [Overrated](https://open.spotify.com/album/4AhWRskp1ipaXqNCV7Ovbi) | 4:20 | 2024-10-03 | 2024-10-18 |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-23 | 2023-04-07 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Una celebración al fuego, el ritmo y la tierra 🔥 ¡Nos vemos en Tequila, Jalisco el 3 de Mayo! <a href="https://www.akamba.mx/"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,777 likes - 20 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,779 likes - 20 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blind](https://open.spotify.com/track/7rWS1umX04r7zzWnGNDu8w) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/6LPZgo0gjHTMmOwzMSUqAV) | 6:16 |
-| 2 | [Miracle](https://open.spotify.com/track/13tuBuNjlmNUJvhtKc2GGo) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 5:02 |
+| 2 | [Miracle](https://open.spotify.com/track/13tuBuNjlmNUJvhtKc2GGo) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 5:02 |
 | 3 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
 | 4 | [Lowkey](https://open.spotify.com/track/4M10NvfwzXoBjGTT7DXyK6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:43 |
 | 5 | [Time](https://open.spotify.com/track/1a8eu0ojjmrh6rNeitEEaC) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Subliminal Sessions 2017 \(Mixed by Erick Morillo\)](https://open.spotify.com/album/4JpnpOay7vT3Xj2y3YNUX4) | 4:11 |

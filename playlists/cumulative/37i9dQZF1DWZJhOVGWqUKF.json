@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Linkin Park",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Rise Against",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 186905,
       "name": "ANGEL SONG (feat. David Draiman)",
       "url": "https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 175000,
       "name": "Angry Cry",
       "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Candy Coated Heart",
+        "url": "https://open.spotify.com/album/5wyjBTrimlxlQwkB7EKvb4"
+      },
+      "artists": [
+        {
+          "name": "Attic Stories",
+          "url": "https://open.spotify.com/artist/6WLBHcOEiXfOt5mrREFth2"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202960,
+      "name": "Candy Coated Heart",
+      "url": "https://open.spotify.com/track/2nsYPF7QI3C1jLxSYKe9Qw"
+    },
+    {
+      "album": {
         "name": "carnage",
         "url": "https://open.spotify.com/album/3Mx4yeCppE8MhqT4SWxUui"
       },
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 200483,
       "name": "Creatures of Chaos",
       "url": "https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 219678,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/1QQsgLecQ0pakWP3vBdQnf"
@@ -2461,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "Fight Alone",
+        "url": "https://open.spotify.com/album/4jp9GnDugbgpD4fXtF5MN9"
+      },
+      "artists": [
+        {
+          "name": "Maelf\u00f8y",
+          "url": "https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp"
+        },
+        {
+          "name": "Artemis Rising",
+          "url": "https://open.spotify.com/artist/3pqRgTAehQPjpsJsZkGOWh"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251142,
+      "name": "Fight Alone",
+      "url": "https://open.spotify.com/track/2MvYE4oQMnuJIbub8zj8nW"
+    },
+    {
+      "album": {
         "name": "Last Legends",
         "url": "https://open.spotify.com/album/6v2mSLE5CO0qXmxdIEAnLq"
       },
@@ -2987,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "Hangover",
+        "url": "https://open.spotify.com/album/52TdT8pXQ0aKFD1rHULiR5"
+      },
+      "artists": [
+        {
+          "name": "Bad Loverz",
+          "url": "https://open.spotify.com/artist/3Z4scvNZyLu70b20EEKEw1"
+        },
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213093,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/5RlFdaQWmFfxHMZ30rYzdv"
+    },
+    {
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -3042,7 +3104,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 148920,
       "name": "Happy Faces",
       "url": "https://open.spotify.com/track/1WNkSnta7kH0CQXxFzE46o"
@@ -3723,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+        "url": "https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258239,
+      "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+      "url": "https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
       },
@@ -3752,7 +3832,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 222000,
       "name": "INCOMPLETE",
       "url": "https://open.spotify.com/track/0ampO6lT0n4BBgmj0Eo59M"
@@ -3908,7 +3988,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 223375,
       "name": "KILLING ME",
       "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
@@ -3966,7 +4046,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 173742,
       "name": "KNOCK YOUR LIGHTS OUT",
       "url": "https://open.spotify.com/track/0ht10AkEELRB7YKvBfO8ux"
@@ -5409,6 +5489,24 @@
     },
     {
       "album": {
+        "name": "The Cost Of Compromise",
+        "url": "https://open.spotify.com/album/4vK1RSLYXmd39BNL9eTOv6"
+      },
+      "artists": [
+        {
+          "name": "LEAVE.",
+          "url": "https://open.spotify.com/artist/2rkUSY6802n0uDKGe9z4kI"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213447,
+      "name": "Perfect Tragedy",
+      "url": "https://open.spotify.com/track/7DXjsb4WncbcyAOwxJj52Y"
+    },
+    {
+      "album": {
         "name": "Perfume Of The Timeless",
         "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
       },
@@ -5589,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200204,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
+    },
+    {
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
       },
@@ -5679,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "Rain in the River",
+        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "Rain in the River",
+      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
+    },
+    {
+      "album": {
         "name": "Distortion",
         "url": "https://open.spotify.com/album/33UKM7bqokrSxxX14MO9Jp"
       },
@@ -5694,6 +5828,24 @@
       "duration_ms": 218794,
       "name": "Rays of Light",
       "url": "https://open.spotify.com/track/2DXX1Lc4GZzpT24UtdKvdE"
+    },
+    {
+      "album": {
+        "name": "Regeneration",
+        "url": "https://open.spotify.com/album/6xONzKPV921Q1n3viacows"
+      },
+      "artists": [
+        {
+          "name": "Kadavar",
+          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241739,
+      "name": "Regeneration",
+      "url": "https://open.spotify.com/track/3QfvsNPck9ax7SyZVyO341"
     },
     {
       "album": {
@@ -6137,6 +6289,24 @@
     },
     {
       "album": {
+        "name": "Snakes",
+        "url": "https://open.spotify.com/album/0mGAZ7mgLE7EH11RgdrsN3"
+      },
+      "artists": [
+        {
+          "name": "Red Ocean",
+          "url": "https://open.spotify.com/artist/0c3hIYA5fVYtCekz5T8y3n"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179646,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/0GWS3bI0wLNxXevlluE7CR"
+    },
+    {
+      "album": {
         "name": "SNO",
         "url": "https://open.spotify.com/album/63kkyZzO8cICAPTiXT8TMc"
       },
@@ -6510,7 +6680,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 197646,
       "name": "Suffocate",
       "url": "https://open.spotify.com/track/2XyMqXoCief3SnnNxEMJ9s"
@@ -7074,7 +7244,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 272181,
       "name": "To the Unknown",
       "url": "https://open.spotify.com/track/0EVEBQzQkAbFeGGkAMEUM7"
@@ -7240,6 +7410,28 @@
       "duration_ms": 137546,
       "name": "Underdogs - Single Edit",
       "url": "https://open.spotify.com/track/3mGQ2WEpynSr1hLP2QRpIr"
+    },
+    {
+      "album": {
+        "name": "Unhappy Hour (with Weathers)",
+        "url": "https://open.spotify.com/album/24XAIeZ1xI2lbBVWa5JC28"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Unhappy Hour (with Weathers)",
+      "url": "https://open.spotify.com/track/4Rcte2OZhcYAAXFopuqxxe"
     },
     {
       "album": {

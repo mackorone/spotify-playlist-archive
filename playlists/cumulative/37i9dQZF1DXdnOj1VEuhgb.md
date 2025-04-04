@@ -2,7 +2,7 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Modd x Aksan
+> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: BLOK3 x Ati242
 
 577 songs - 1 day 2 hr 16 min
 

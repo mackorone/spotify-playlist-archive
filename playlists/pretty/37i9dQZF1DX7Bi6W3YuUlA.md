@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,337 likes - 86 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,357 likes - 86 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

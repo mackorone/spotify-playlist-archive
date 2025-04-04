@@ -4,7 +4,7 @@
 
 > Known as the Nation's Little Sister in South Korea.
 
-88 songs - 5 hr 29 min
+89 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 | 2022-03-17 |  |
 | [Meaning of you](https://open.spotify.com/track/3ucfniv4fLB3RPA6N9iLM2) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:15 | 2022-03-17 |  |
 | [Merry Christmas ahead \(feat.Chundung\)](https://open.spotify.com/track/6I9Y6PHTWv72fgQV3tIHt0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Chundung](https://open.spotify.com/artist/52KEoFZCGGap8hZHtOgENt) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 4:28 | 2022-03-17 |  |
+| [Midnight Walk](https://open.spotify.com/track/799r6wVHx3xbMs1XT8MaG9) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [When Life Gives you Tangerines OST from the Netflix Series \- Chapter 3](https://open.spotify.com/album/4HAR2j5k5ZFxlqDsYamKVk) | 3:14 | 2025-04-03 |  |
 | [Modern Times](https://open.spotify.com/track/38Dwg8OrUClCZl2wzUKrmi) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 3:25 | 2022-03-17 |  |
 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 | 2022-03-17 |  |
 | [My old story](https://open.spotify.com/track/2jDnaEpQI6xjahWZzeVyaM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:33 | 2022-03-17 |  |

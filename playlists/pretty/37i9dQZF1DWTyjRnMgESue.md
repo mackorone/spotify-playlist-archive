@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: The Army,  The Navy
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,030 likes - 92 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,048 likes - 92 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

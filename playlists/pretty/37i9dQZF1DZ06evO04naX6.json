@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 171620,
+  "num_followers": 171634,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+ssgAAAAABidCQjAx9wWgFUwVj6j28F",
+  "snapshot_id": "Z+x+AAAAAAAwNa75EkuUYrYBxR8b5OyH",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEXO ES LA MODA",
-        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165901,
-      "name": "SEXO ES LA MODA",
-      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De L\u00edder a Leyenda",
         "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 199026,
       "name": "Moviendo Caderas (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEXO ES LA MODA",
+        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 165901,
+      "name": "SEXO ES LA MODA",
+      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
     },
     {
       "added_at": null,
@@ -903,38 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
-        "url": "https://open.spotify.com/album/5QhzMGj6w23BP4CU8asn8Q"
-      },
-      "artists": [
-        {
-          "name": "Soyneel",
-          "url": "https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Alejandro Armes",
-          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
-      "url": "https://open.spotify.com/track/163giDjTwAwnIb9ME3zZl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -1019,6 +987,38 @@
       "duration_ms": 201769,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
+        "url": "https://open.spotify.com/album/5QhzMGj6w23BP4CU8asn8Q"
+      },
+      "artists": [
+        {
+          "name": "Soyneel",
+          "url": "https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
+      "url": "https://open.spotify.com/track/163giDjTwAwnIb9ME3zZl4"
     },
     {
       "added_at": null,

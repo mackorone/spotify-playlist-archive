@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Abdul & The Coffee Theory
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Yotari
 
-415 songs - 1 day 3 hr 15 min
+417 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Ingin Bermesra](https://open.spotify.com/track/38qE0X83vhdDpUHwoy7SnK) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Ingin Bermesra](https://open.spotify.com/album/1FNOaQjQmXkUhavMa8gTD7) | 3:48 | 2025-03-20 |  |
 | [Ini Panggung Sandiwara](https://open.spotify.com/track/5Myzlwe1UqFUeMMCP5WbUX) | [Sarwendah](https://open.spotify.com/artist/5UBkLLBPICz1UoMehxUN86) | [Ini Panggung Sandiwara](https://open.spotify.com/album/5xrCorNSSyFkMWaSjocK83) | 4:00 | 2025-03-06 |  |
 | [Ironi](https://open.spotify.com/track/190I0SRAUoxqrGK9nDnIpq) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [Ironi](https://open.spotify.com/album/1ogXr29ImTamdjmOZCCyxt) | 3:19 | 2024-06-27 | 2024-08-02 |
+| [Istikharah Cinta \(Assalamualaikum Beijing 2: Lost in Ningxia Original Motion Pictures Soundtrack\)](https://open.spotify.com/track/0kZEZTiuPctUO1DyeScczO) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo) | [Istikharah Cinta \(Assalamualaikum Beijing 2: Lost in Ningxia Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/1qNPPSdkpnc57vQDzBrvS8) | 4:05 | 2025-04-03 |  |
 | [Iya Lagi](https://open.spotify.com/track/2Mi1SY9Meu5kOBUbO8q3bk) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Iya Lagi](https://open.spotify.com/album/7s4N4WQgAh6XriikwXlJg1) | 3:01 | 2025-02-13 |  |
 | [Jahat Sekali](https://open.spotify.com/track/2CazsQWcpzxqTq1sjHiV6x) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [Jahat Sekali](https://open.spotify.com/album/7uGeYMbJ1fAcPRywmZbVFv) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [Jangan Dipaksa](https://open.spotify.com/track/18lmQvoPSexDUEdiYzE6de) | [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jangan Dipaksa](https://open.spotify.com/album/29oMitH15yroytvMybIlg6) | 3:46 | 2024-06-27 | 2024-09-27 |
@@ -410,6 +411,7 @@
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |
+| [UH! \(ghosted\)](https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ) | [UH! \(ghosted\)](https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF) | 3:14 | 2025-04-03 |  |
 | [Ulurkan](https://open.spotify.com/track/0lXjMEFfyD6aXWT5T2l9bv) | [Bragi](https://open.spotify.com/artist/0sKPWtHbmPXRBZDocnmjNG), [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Ulurkan](https://open.spotify.com/album/4QTM1LD57CyUbGs8DltyBG) | 3:30 | 2024-09-05 | 2024-10-11 |
 | [Untuk Dikenang](https://open.spotify.com/track/3ysXeMcA70M7v5fJXywJJR) | [Pongki Barata](https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack), [The Dangerous Band](https://open.spotify.com/artist/6ESLP0LzmoAcDZd8ILvitQ) | [Untuk Dikenang](https://open.spotify.com/album/2DhwbTaWboVQqGiqTAjacK) | 3:50 | 2024-09-05 | 2025-01-10 |
 | [Untuk Selalu Senang](https://open.spotify.com/track/7d5MSiGff1HYAvjVdQkhmh) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini & Sampai Kapanpun](https://open.spotify.com/album/0ikkz9CCu9uM54Mcguh1rA) | 4:11 | 2025-01-16 |  |

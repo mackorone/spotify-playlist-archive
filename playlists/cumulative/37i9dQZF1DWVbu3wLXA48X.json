@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Perfume Genius",
+  "description": "Current indie tunes from Asia and around the world. Cover: Djo",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/5XnRUJSX2KwP5ijkterivr"
       },
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 281401,
       "name": "be mine",
       "url": "https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66"
@@ -5899,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "catch these fists",
+        "url": "https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188514,
+      "name": "catch these fists",
+      "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
+    },
+    {
+      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -6138,6 +6174,24 @@
       "duration_ms": 236965,
       "name": "Chaos Calls",
       "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
+    },
+    {
+      "album": {
+        "name": "Ginkgo",
+        "url": "https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188417,
+      "name": "Chapel of Salt",
+      "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
     },
     {
       "album": {
@@ -7894,7 +7948,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 152297,
       "name": "Daria",
       "url": "https://open.spotify.com/track/2tkgYtgyl5CVafEr8ev25S"
@@ -8562,7 +8616,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 161350,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/227u5UMtxhLQGWqDbkE0Oc"
@@ -13821,6 +13875,24 @@
     },
     {
       "album": {
+        "name": "Forever Howlong",
+        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257547,
+      "name": "Goodbye (Don\u2019t Tell Me)",
+      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+    },
+    {
+      "album": {
         "name": "Goodbye To Love (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/6t1mm9i8L7rHsucCObxRbF"
       },
@@ -13976,7 +14048,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 237489,
       "name": "Green",
       "url": "https://open.spotify.com/track/6WbhQCkDF5z1UosH9tOP3C"
@@ -14066,7 +14138,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 264205,
       "name": "Guericke's Unicorn",
       "url": "https://open.spotify.com/track/30P4n3zltqpxxCbeSijIcc"
@@ -14852,7 +14924,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 228750,
       "name": "Hell suite, Pt. II",
       "url": "https://open.spotify.com/track/1rQz1sbJCB2m2M6BUiQqB7"
@@ -17218,7 +17290,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 243008,
       "name": "In Love With A Memory",
       "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
@@ -17736,7 +17808,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 210803,
       "name": "It's Amazing To Be Young",
       "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
@@ -18657,6 +18729,24 @@
     },
     {
       "album": {
+        "name": "Last Girls At The Party",
+        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "Last Girls At The Party",
+      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
+    },
+    {
+      "album": {
         "name": "last great american summer",
         "url": "https://open.spotify.com/album/4gnhFRs1UbrvYed4RluGt9"
       },
@@ -19442,7 +19532,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
@@ -21132,7 +21222,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 184933,
       "name": "Mega Circuit",
       "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
@@ -21942,7 +22032,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 192753,
       "name": "More More More",
       "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
@@ -26587,6 +26677,24 @@
     },
     {
       "album": {
+        "name": "Potion",
+        "url": "https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167823,
+      "name": "Potion",
+      "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
+    },
+    {
+      "album": {
         "name": "Prada / Rakata",
         "url": "https://open.spotify.com/album/77PE5FgPHyF4uUyaZMszch"
       },
@@ -26814,7 +26922,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 168483,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/3d1QCZB5J4zWMMXZ8WkFBm"
@@ -29024,7 +29132,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 187996,
       "name": "Searching",
       "url": "https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6"
@@ -29703,6 +29811,24 @@
     },
     {
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
+    },
+    {
+      "album": {
         "name": "Silverhair Express (Chang Kiha Remix)",
         "url": "https://open.spotify.com/album/0J8UYJiB4zkBIvzQUkpu3x"
       },
@@ -30304,6 +30430,24 @@
       "duration_ms": 191026,
       "name": "Smoking Weed Alone",
       "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
+    },
+    {
+      "album": {
+        "name": "Snacks & Wine",
+        "url": "https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210543,
+      "name": "Snacks & Wine",
+      "url": "https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn"
     },
     {
       "album": {
@@ -35367,6 +35511,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176897,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
+    },
+    {
+      "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
       },
@@ -36984,7 +37146,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 203293,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
@@ -39196,6 +39358,24 @@
       "duration_ms": 157582,
       "name": "Y\u00eau Nh\u1ea5t (feat. RPT PhongKhin)",
       "url": "https://open.spotify.com/track/3ZAfDSOBPiUupvPmAzZ3cI"
+    },
+    {
+      "album": {
+        "name": "Zarigani",
+        "url": "https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273535,
+      "name": "Zarigani",
+      "url": "https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ"
     },
     {
       "album": {

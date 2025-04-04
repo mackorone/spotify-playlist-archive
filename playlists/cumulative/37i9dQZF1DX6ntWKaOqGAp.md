@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 羊文学
 
-2,113 songs - 5 day 12 hr 47 min
+2,116 songs - 5 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-18 | 2023-09-06 |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 | 2023-07-12 |
 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-06-06 | 2023-07-21 |
-| [Border=Border](https://open.spotify.com/track/6LZ71zIItQtb5e4LTKN8R8) | [TenTwenty](https://open.spotify.com/artist/3RNu8rbQ2lnxmJb1SkkTS5) | [Border=Border](https://open.spotify.com/album/0ikUEF4eHuxcfkKEJWokRU) | 2:49 | 2025-03-18 |  |
+| [Border=Border](https://open.spotify.com/track/6LZ71zIItQtb5e4LTKN8R8) | [TenTwenty](https://open.spotify.com/artist/3RNu8rbQ2lnxmJb1SkkTS5) | [Border=Border](https://open.spotify.com/album/0ikUEF4eHuxcfkKEJWokRU) | 2:49 | 2025-03-18 | 2025-04-04 |
 | [Botanical Dance Club](https://open.spotify.com/track/1OIcnzPAAU0ymTNmKV1R7C) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Botanical Dance Club](https://open.spotify.com/album/7AEy6qfbauDknxgypT3nNY) | 1:58 | 2025-01-09 | 2025-01-15 |
 | [BOY](https://open.spotify.com/track/4UShpOJdauir54vMuaFLEV) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:54 | 2024-04-02 | 2024-10-09 |
 | [Boy Fearless](https://open.spotify.com/track/4vLGPct3789wquUob4c6Uk) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Boy Fearless](https://open.spotify.com/album/34pC1BrMnoLUPicCEgsM2H) | 3:18 | 2024-09-10 | 2024-09-18 |
@@ -173,7 +173,7 @@
 | [Catch The Miracle](https://open.spotify.com/track/0veerJcFJTSumChnxuLD0i) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Catch The Miracle](https://open.spotify.com/album/2jHtSMczXw6jiUfFL64Vjz) | 5:24 | 2023-08-31 | 2023-10-04 |
 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 | 2025-02-18 |  |
 | [chang\[e\]](https://open.spotify.com/track/3hbJjQi1g77z5KlqKAavSh) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [chang\[e\]](https://open.spotify.com/album/2nXObGMB8IDoWNzZF45PQD) | 3:14 | 2024-10-22 | 2025-01-15 |
-| [charon](https://open.spotify.com/track/3sCTXfizd45P9OVCwNY1b3) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [viraha](https://open.spotify.com/album/1MR2rQMIwHEY0ArIX6RqaR) | 3:36 | 2025-02-25 |  |
+| [charon](https://open.spotify.com/track/3sCTXfizd45P9OVCwNY1b3) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [viraha](https://open.spotify.com/album/1MR2rQMIwHEY0ArIX6RqaR) | 3:36 | 2025-02-25 | 2025-04-04 |
 | [charon](https://open.spotify.com/track/69YwNmEyRLwT9b92Mzzoyi) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [charon](https://open.spotify.com/album/4Ek52lnfKg3amniAROTb5F) | 3:36 | 2025-02-06 | 2025-02-26 |
 | [Chasing Angel](https://open.spotify.com/track/3tDu1JqgNP4ZzxIFJKxwwA) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Chasing Angel](https://open.spotify.com/album/1VoYAOMPUdiFji6Wfc2yHj) | 4:53 | 2025-01-21 | 2025-01-29 |
 | [chasing shadows](https://open.spotify.com/track/4WHz9iiduN9cJ3QysDrRSP) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [Nature and Computers](https://open.spotify.com/album/2wkyePDEqzYoOoro3TvThK) | 3:40 | 2024-09-17 | 2024-10-09 |
@@ -314,6 +314,7 @@
 | [FREEDOM](https://open.spotify.com/track/5Ar1pSMJ6wG8zhWMeuYlJy) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [SLEEPLESS](https://open.spotify.com/album/66VUhMXoi6ED9kfbJyFMMB) | 3:14 | 2025-04-01 |  |
 | [FRESH](https://open.spotify.com/track/03y9cmDvorte1vYP5PYkzM) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/7pEhMISZ0qA1CZWkrcGxYM) | 3:41 | 2023-06-08 | 2023-06-10 |
 | [FRESH](https://open.spotify.com/track/2fo7LTsIyhYkhpLC7KStNg) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 3:41 | 2023-06-08 | 2023-06-21 |
+| [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 | 2025-04-03 |  |
 | [Fukan Romance](https://open.spotify.com/track/4qUBjqmstuHK8DfdfKpkWk) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Fukan Romance](https://open.spotify.com/album/4BZryJ7vxw9BkS1lIfwXZy) | 3:30 | 2024-03-19 | 2024-04-19 |
 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-21 | 2023-03-29 |
 | [Fusen Sanka](https://open.spotify.com/track/4TOSbBEsPsUhoZTPCkFlPk) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 4:14 | 2023-01-13 | 2023-02-10 |
@@ -755,6 +756,7 @@
 | [Reach Out](https://open.spotify.com/track/5ozd2TezfmXoIFgZq7KvdW) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Reach Out](https://open.spotify.com/album/03uYYeOl8dteReR2wtgpxz) | 3:45 | 2023-05-16 | 2023-06-28 |
 | [REACHING FOR THE SKY](https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [REACHING FOR THE SKY](https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo) | 3:55 | 2025-01-28 | 2025-03-12 |
 | [READY GO\-GO](https://open.spotify.com/track/4z0ohK23rJ5vbf0T6R8L2s) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [READY GO\-GO](https://open.spotify.com/album/26pPmBKfNkUStu1szwPBeS) | 2:57 | 2024-10-08 | 2024-11-06 |
+| [Ready to Rock](https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Ready to Rock](https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05) | 3:26 | 2025-04-03 |  |
 | [realitYhurts.](https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [realitYhurts.](https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y) | 2:31 | 2025-01-07 | 2025-04-02 |
 | [realize](https://open.spotify.com/track/4fp4rmsiI1S36clWllu3Eq) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [realize](https://open.spotify.com/album/5OyXlqVzqZO0NdSFN82ST3) | 3:51 | 2024-07-30 | 2024-08-21 |
 | [Record Dogs](https://open.spotify.com/track/22BJYbV3ldjwzgKnnHu3l2) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Record Dogs](https://open.spotify.com/album/5bwnn9spG9n2BR9Y6xpOyZ) | 3:20 | 2024-04-23 | 2024-09-04 |
@@ -1292,6 +1294,7 @@
 | [オワラナイ](https://open.spotify.com/track/2355W95j0FiTZLtoOvkieU) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [オワラナイ](https://open.spotify.com/album/0cdAV4bwFBQ03TchF7qFgI) | 4:33 | 2023-04-06 | 2023-04-26 |
 | [オン・ザ・フロントライン](https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [オン・ザ・フロントライン](https://open.spotify.com/album/1pq42uX8b2tbs5K1HvW5MP) | 3:27 | 2024-04-16 | 2024-05-29 |
 | [オーダーメイド](https://open.spotify.com/track/1pxOoSLFcKScOKv76RANVb) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [オーダーメイド](https://open.spotify.com/album/798BONgcfhhvsgwYAlB6SV) | 3:58 | 2023-03-21 | 2023-04-21 |
+| [オーバードライヴ](https://open.spotify.com/track/2r4MQ3lZ9c2bndQSD2e3jE) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [オーバードライヴ](https://open.spotify.com/album/0xMaTxhXR8xgzvqISm31KH) | 3:15 | 2025-04-03 |  |
 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 | 2023-11-14 | 2023-12-06 |
 | [オールドルーキー](https://open.spotify.com/track/0umqlfEgW9657chmk74mCq) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [僕の唄で君に永遠を](https://open.spotify.com/album/3fYag5ejBnBb2VYZsAcvqg) | 4:17 | 2023-01-24 | 2023-01-26 |
 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 | 2025-01-09 | 2025-03-19 |
@@ -1373,7 +1376,7 @@
 | [ジャンクワーカー](https://open.spotify.com/track/6cEFg4V4f0Rre6xnSDN3yA) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ジャンクワーカー](https://open.spotify.com/album/14XLXObGSkk7V83y88WFsR) | 3:28 | 2024-07-30 | 2024-08-07 |
 | [ジャンヌ・ダルクによろしく](https://open.spotify.com/track/6Ml2pFUdOxfmLmKMbJM9Ou) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ジャンヌ・ダルクによろしく](https://open.spotify.com/album/4Nf7lVjQa2vi4Ad18oqiD4) | 3:49 | 2024-09-10 | 2024-11-13 |
 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 | 2024-03-07 | 2024-05-10 |
-| [スイートピー](https://open.spotify.com/track/0K8YQCXjT5QCOJrdZFimG9) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [スイートピー](https://open.spotify.com/album/6Py14Bzgq3wiuUVdy6QGDS) | 4:12 | 2025-03-11 |  |
+| [スイートピー](https://open.spotify.com/track/0K8YQCXjT5QCOJrdZFimG9) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [スイートピー](https://open.spotify.com/album/6Py14Bzgq3wiuUVdy6QGDS) | 4:12 | 2025-03-11 | 2025-04-04 |
 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 | 2024-07-09 | 2024-08-30 |
 | [スクールボーイ](https://open.spotify.com/track/1Eb9z5jcDZnRfNiMraPHfk) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [HEART](https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz) | 4:00 | 2023-02-14 | 2023-03-08 |
 | [スケッチ](https://open.spotify.com/track/1DwIDURG65LanONj5bHuSk) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [スケッチ](https://open.spotify.com/album/6Xhv9jzU1DZ2rkdqyfVxOo) | 3:34 | 2025-01-30 | 2025-02-19 |

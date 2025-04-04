@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: Adja
 
-521 songs - 1 day 6 hr 30 min
+522 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 | 2021-12-16 | 2022-10-29 |
 | [OBIA](https://open.spotify.com/track/5WyyPzEmOHUXeeU6MaY7u7) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [OBIA](https://open.spotify.com/album/5EsVcjcNIwW7Bv7ZtiyKmW) | 4:03 | 2024-12-20 |  |
 | [On the Run](https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On the Run](https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8) | 3:51 | 2023-03-02 | 2024-05-24 |
+| [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 | 2025-04-03 |  |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-14 | 2025-01-24 |
 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 |  |
 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-08-29 |  |
@@ -387,7 +388,7 @@
 | [Security Code](https://open.spotify.com/track/2ZOIl2JPKxTKNqJboeSrWd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 3:35 | 2022-10-28 | 2023-12-12 |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2023-10-06 | 2024-10-05 |
 | [Send My Love](https://open.spotify.com/track/543xswdRTjGmimDJk9AlZN) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [What We Call Life](https://open.spotify.com/album/6Ifae2tRjg49lTQ9390iOD) | 4:04 | 2022-12-12 | 2024-02-10 |
-| [Serotonin](https://open.spotify.com/track/1BaTMmPhEfTRn7HtL1Jsie) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [SLAYERZ BALL](https://open.spotify.com/album/6aX540Hj2pA7DShuj9HnRH) | 3:27 | 2024-06-07 |  |
+| [Serotonin](https://open.spotify.com/track/1BaTMmPhEfTRn7HtL1Jsie) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [SLAYERZ BALL](https://open.spotify.com/album/6aX540Hj2pA7DShuj9HnRH) | 3:27 | 2024-06-07 | 2025-04-04 |
 | [she just wanna see me rn](https://open.spotify.com/track/132NmIOKCUGXSXQCno3WSB) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 1:48 | 2024-11-13 |  |
 | [SHIMMER](https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [SHIMMER](https://open.spotify.com/album/53RPlxQAShRuRumHbOw9Iu) | 3:38 | 2023-10-06 | 2024-07-02 |
 | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/album/7tOJroeUUAj21SaBgC1DZe) | 6:27 | 2021-12-16 | 2022-12-03 |

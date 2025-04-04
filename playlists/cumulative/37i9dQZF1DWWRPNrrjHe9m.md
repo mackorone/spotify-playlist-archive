@@ -4,7 +4,7 @@
 
 > 
 
-224 songs - 14 hr 23 min
+224 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,12 +182,12 @@
 | [고마워 미안해 Together forever](https://open.spotify.com/track/6zfiLeiHXoaNV8aHIc8FpQ) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Christmas in SMTOWN.com](https://open.spotify.com/album/7ccOMxO0n9DjSfLBHhWMDT) | 4:09 | 2022-12-14 |  |
 | [고요한 밤 그대와 난 The Day 1030](https://open.spotify.com/track/1lkuyLwe2EDD1RY8OjfIXz) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Winter Vacation in SMTOWN.com](https://open.spotify.com/album/5aBuzpJ2UNoPwQhee47UQk) | 3:59 | 2022-12-14 |  |
 | [그것뿐이에요 Just You](https://open.spotify.com/track/1aVdGtMcb2KXKGBFykVQsp) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [06 WINTER SMTOWN](https://open.spotify.com/album/7GecM6HV4Q6EV95PTin5AK) | 4:18 | 2022-12-14 |  |
-| [그대에게 To You](https://open.spotify.com/track/5dUZijuHKrx796VCtuR5Os) | [Moon Hee Jun](https://open.spotify.com/artist/1uHaKj3oPZtDLQZWEUvb6X) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 3:36 | 2022-12-14 |  |
+| [그대에게 To You](https://open.spotify.com/track/5dUZijuHKrx796VCtuR5Os) | [Moon Hee Jun](https://open.spotify.com/artist/1uHaKj3oPZtDLQZWEUvb6X) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 3:27 | 2022-12-14 |  |
 | [그대와 영원히](https://open.spotify.com/track/1hebtycuFG20DJHY73JqET) | [Moon Hee Jun](https://open.spotify.com/artist/1uHaKj3oPZtDLQZWEUvb6X) | [2002 Winter Vacation in SMTOWN.com](https://open.spotify.com/album/4pdwJZhAyJ16LurCp7hG4a) | 4:31 | 2022-12-14 |  |
 | [그림으로 떠나는 여행 \(Sung by KANGTA, DANA, 지훈, 진영 & Jiyeon\)](https://open.spotify.com/track/5ZS6KpVY3zkK1nOtK5M5ZN) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 4:00 | 2022-12-14 |  |
 | [그해 겨울](https://open.spotify.com/track/4CCyn6u7XXxnoBGgshUPBa) | [Chu Ga Yeoul](https://open.spotify.com/artist/3tuHP4RqpelUWKAi2rEkBR) | [2002 Winter Vacation in SMTOWN.com](https://open.spotify.com/album/4pdwJZhAyJ16LurCp7hG4a) | 4:01 | 2022-12-14 |  |
 | [기도 Prayer](https://open.spotify.com/track/3RAOFMprad3Sbwp1tBtNoH) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Winter Vacation in SMTOWN.com](https://open.spotify.com/album/5aBuzpJ2UNoPwQhee47UQk) | 4:22 | 2022-12-14 |  |
-| [기억속의 꿈 Dream of memory](https://open.spotify.com/track/0pQrzBZZuu6LdI9b4JmI9I) | [Chu Ga Yeoul](https://open.spotify.com/artist/3tuHP4RqpelUWKAi2rEkBR) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 3:27 | 2022-12-14 |  |
+| [기억속의 꿈 Dream of memory](https://open.spotify.com/track/0pQrzBZZuu6LdI9b4JmI9I) | [Chu Ga Yeoul](https://open.spotify.com/artist/3tuHP4RqpelUWKAi2rEkBR) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 3:36 | 2022-12-14 |  |
 | [내가 그대 없이 When we'll be together](https://open.spotify.com/track/0qa3SalI2BQBtEZjKjcfkE) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [06 WINTER SMTOWN](https://open.spotify.com/album/7GecM6HV4Q6EV95PTin5AK) | 4:10 | 2022-12-14 |  |
 | [내일이 찾아오면](https://open.spotify.com/track/60z0EyDv4iWOYocLnWOL0s) | [Moon Hee Jun](https://open.spotify.com/artist/1uHaKj3oPZtDLQZWEUvb6X) | [2002 SUMMER VACATION in SMTOWN.COM](https://open.spotify.com/album/59KnIxsURaQ1wabZZpyf67) | 3:48 | 2022-12-14 |  |
 | [너 없이 Without you](https://open.spotify.com/track/0A5NrwvVptSqfJyYkh3Sb2) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2006 Summer Smtown](https://open.spotify.com/album/2DWlSJ0MVDJKq11VNCeHcT) | 3:51 | 2022-12-14 |  |
@@ -211,7 +211,7 @@
 | [여행을 떠나요 \- Instrumental](https://open.spotify.com/track/2TvfkkEaIoxY3T1Pdt84Qz) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2007 SUMMER SMTOWN](https://open.spotify.com/album/4qzrwiuf1gp4tgeVnsh6Q2) | 3:35 | 2022-12-14 |  |
 | [여행을 떠나요 Let's go on a trip!](https://open.spotify.com/track/1ILjWwQy8UpKBW1YnDrnmA) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2007 SUMMER SMTOWN](https://open.spotify.com/album/4qzrwiuf1gp4tgeVnsh6Q2) | 3:33 | 2022-12-14 |  |
 | [연가](https://open.spotify.com/track/0WxitrRhxKHZ3rylkRvbux) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 4:01 | 2022-12-14 |  |
-| [연인처럼 Feel Like…](https://open.spotify.com/track/3P71LJpuAocVonMUgHzUM6) | [Shoo](https://open.spotify.com/artist/4t7PNA5yGqx5G1Hf6f9uHp) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 3:47 | 2022-12-14 |  |
+| [연인처럼 Feel Like…](https://open.spotify.com/track/3P71LJpuAocVonMUgHzUM6) | [Shoo](https://open.spotify.com/artist/4t7PNA5yGqx5G1Hf6f9uHp) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 4:12 | 2022-12-14 |  |
 | [오아시스 Oasis](https://open.spotify.com/track/6NBOjRZIkE7MViAWSh93DV) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2006 Summer Smtown](https://open.spotify.com/album/2DWlSJ0MVDJKq11VNCeHcT) | 4:00 | 2022-12-14 |  |
 | [오직 좋은 사랑뿐](https://open.spotify.com/track/6jHSr6bU1XOfmkUIBkPa6F) | [YOO YOUNG JIN](https://open.spotify.com/artist/10hnt5byoob9FKHUN8Awfa) | [2003 SUMMER VACATION in SMTOWN.com](https://open.spotify.com/album/0A6CX7pGtRVxSrRWZxkeZl) | 3:41 | 2022-12-14 |  |
 | [울면 안돼 Santa Claus is comin' to town](https://open.spotify.com/track/5fbm5DOHvEbcJlCIP0wkSX) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Winter Vacation in SMTOWN.com](https://open.spotify.com/album/5aBuzpJ2UNoPwQhee47UQk) | 3:35 | 2022-12-14 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: illiomote
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 石橋英子 Eiko Ishibashi
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,407 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,422 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 74 | [ウインクでおめかし](https://open.spotify.com/track/69wq2CZcZ7990DQB0AUKFT) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ウインクでおめかし](https://open.spotify.com/album/1ciDRa9ytqUauxDT7DO3k3) | 2:28 |
 | 75 | [Just Another Day](https://open.spotify.com/track/6LNfxO2Yuw8gc6GnEqcHT3) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Just Another Day](https://open.spotify.com/album/3PSDb2DIcuOjStPUC8r9Gl) | 2:51 |
 
-Snapshot ID: `Z+wKxwAAAAD/oqcRtgkL8mH6frgA6MsF`
+Snapshot ID: `Z+6ovAAAAADeMY5o0yklDnBu76Pb3HAT`

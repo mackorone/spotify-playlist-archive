@@ -2,9 +2,9 @@
 
 ### [The ACS](https://open.spotify.com/playlist/37i9dQZF1DXdeMORbC1XNa)
 
-> A perfect link up to soundtrack your day\. Cover: Burna Boy
+> A perfect link up to soundtrack your day\. Cover: Oxlade
 
-575 songs - 1 day 5 hr 57 min
+576 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [DND](https://open.spotify.com/track/1IiQweiewfxYZ8Z78AtQnR) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [DND](https://open.spotify.com/album/6c6tV7K0jycgYp5KXwlP25) | 3:03 | 2023-07-27 | 2023-08-04 |
 | [DO ME JEJE](https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:00 | 2022-03-21 | 2022-07-18 |
 | [Dog Mout](https://open.spotify.com/track/5nWeo7ARPdLB2yJLEgH2D5) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Dog Mout](https://open.spotify.com/album/7i2e8sYjRNrJqNVKgmxaKo) | 3:32 | 2022-11-21 | 2023-02-01 |
+| [DOINGZ](https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA: Deluxe Edition](https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB) | 2:41 | 2025-04-04 |  |
 | [Don't Be Shy \(feat\. Obongjayar\)](https://open.spotify.com/track/1MCE6rlOVO4jnrXBFB8ah5) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 2:58 | 2021-12-20 | 2022-07-06 |
 | [Don't Play Me](https://open.spotify.com/track/11zDwAkUczHN72NmK4nPHf) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Don't Play Me](https://open.spotify.com/album/2b6HGhyzxE01dI93MlNWv9) | 3:32 | 2021-12-20 | 2022-07-17 |
 | [Don't You Know](https://open.spotify.com/track/3OfW40yFLQLliMnWaz8DEu) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Don't You Know](https://open.spotify.com/album/5LMPPzAnCQSipNb8RzfVXi) | 3:38 | 2021-12-20 | 2022-06-11 |
@@ -387,7 +388,7 @@
 | [Oyoyo](https://open.spotify.com/track/1yIoCeM9JpmPQCZSreLHbb) | [WES7AR 22](https://open.spotify.com/artist/59CCuGR6B2a60Qrp3Wwsm8) | [Oyoyo](https://open.spotify.com/album/1fGSlBkLeEI3GptqXrHxrQ) | 2:30 | 2022-08-18 | 2022-09-17 |
 | [Ozumba Mbadiwe](https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Ozumba Mbadiwe](https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs) | 3:32 | 2022-05-06 | 2022-07-26 |
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-06-20 | 2023-05-15 |
-| [Pano Tona](https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Pano Tona](https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot) | 2:54 | 2024-11-22 |  |
+| [Pano Tona](https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Pano Tona](https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot) | 2:54 | 2024-11-22 | 2025-04-04 |
 | [Party](https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Party](https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO) | 3:53 | 2021-12-20 | 2022-07-25 |
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 | 2023-05-15 | 2023-08-07 |
 | [Party Up](https://open.spotify.com/track/4IG5X1dTPwhJ2RtBCSiDlJ) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [3 Th3 Album](https://open.spotify.com/album/6XkGudg5M9Nf1l5N4JKpRH) | 3:37 | 2021-12-20 | 2022-07-29 |

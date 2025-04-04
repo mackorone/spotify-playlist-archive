@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-292 songs - 17 hr 13 min
+293 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Boladona](https://open.spotify.com/track/5ylZRbTn28rfKILSrBRKM2) | [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Boladona](https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo) | 2:06 | 2022-10-07 | 2023-08-25 |
 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 | 2021-10-15 | 2024-10-23 |
 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 | 2021-10-15 | 2024-10-23 |
+| [Búfalo do Marajó](https://open.spotify.com/track/76tnBMbH2D5HbvZ3g5ZRSI) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [Borogodó 2](https://open.spotify.com/album/19zfL8aj6RlLqajsgOwQKo) | 2:38 | 2025-04-04 |  |
 | [Búfalo do Marajó](https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU) | [Banda 007 Oficial](https://open.spotify.com/artist/5ZdRKRLaP4OvypaRak6Rr9) | [Búfalo do Marajó](https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv) | 2:51 | 2024-10-22 |  |
 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 | 2021-10-15 | 2024-10-23 |
 | [Cafeína](https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Cafeína](https://open.spotify.com/album/5NmVr6admdym5ik1G7v5Lo) | 3:11 | 2021-10-15 | 2022-07-29 |
@@ -168,7 +169,7 @@
 | [Morena De Angola](https://open.spotify.com/track/2197m72oqAuxBiSIV5cQ72) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Brasil Mestiço](https://open.spotify.com/album/3IByK5jqmLWKhrtjrb8xun) | 3:26 | 2021-10-15 | 2024-10-23 |
 | [Muito Tempo É Pouco](https://open.spotify.com/track/36Jj3HligzIUyAjdYKdojp) | [Indy Naíse](https://open.spotify.com/artist/0iRR5TUiGCZubAIWjgXGxg) | [Muito Tempo É Pouco](https://open.spotify.com/album/04IdYNUqErbJwksywf5sZ1) | 4:11 | 2021-10-15 | 2022-07-25 |
 | [Mulher](https://open.spotify.com/track/7mZNraR0ErZzC3ox3gXkwH) | [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN) | [Abre Caminho](https://open.spotify.com/album/2KRO3sBLjKAfQaWHGCS83z) | 3:04 | 2021-10-15 | 2022-07-29 |
-| [Mulher da Amazônia](https://open.spotify.com/track/2nkppTrdoS5Dztms7DvoJ0) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Mulher da Amazônia](https://open.spotify.com/album/2TCChPcM5XBSiEajXQhlgJ) | 3:41 | 2025-02-14 |  |
+| [Mulher da Amazônia](https://open.spotify.com/track/2nkppTrdoS5Dztms7DvoJ0) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Mulher da Amazônia](https://open.spotify.com/album/2TCChPcM5XBSiEajXQhlgJ) | 3:41 | 2025-02-14 | 2025-04-04 |
 | [Mulher do Fim do Mundo](https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe) | 4:37 | 2021-10-15 | 2023-12-30 |
 | [Mulherão](https://open.spotify.com/track/4PGj9FewxLbgej4UEIBJ2r) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Sol a Sol](https://open.spotify.com/album/39aZor21FBRhjgkXcZI13t) | 3:53 | 2021-10-15 | 2022-07-28 |
 | [Musa da Babilônia](https://open.spotify.com/track/6RiNKcMoJlHVPrRag1bL5F) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw) | [Rebujo](https://open.spotify.com/album/6z6Ap5lqHAIwgLJPv2HKu7) | 3:36 | 2021-10-15 | 2022-07-29 |

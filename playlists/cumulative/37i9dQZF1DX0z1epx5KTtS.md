@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Safarel Obiang
+> African dance party music from the continent to Paris\. Photo : 3xdavs
 
-226 songs - 12 hr 40 min
+228 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
 | [DANI AGN'](https://open.spotify.com/track/00W5q1hvkgyUKC6METOcwh) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [DANI AGN'](https://open.spotify.com/album/7re6sfBf6dnhpw7qff5mbY) | 2:54 | 2024-11-28 | 2025-01-24 |
 | [Danse comme nicapol](https://open.spotify.com/track/1ERTZRnikTXqFzWlvYjidK) | [Juncko](https://open.spotify.com/artist/4tKswSKzVZ0hQ35Fo5TLes) | [Danse comme nicapol](https://open.spotify.com/album/7cOvEs8WATDI5f6mrShnCy) | 2:47 | 2024-08-01 |  |
-| [Debout couler](https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Debout couler](https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl) | 3:40 | 2024-03-07 |  |
+| [Debout couler](https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Debout couler](https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl) | 3:40 | 2024-03-07 | 2025-04-04 |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-16 | 2022-08-05 |
 | [Demain](https://open.spotify.com/track/3TQGj5SEtcmTDNo6bgRsd3) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Elus De Dieu \(Deluxe\)](https://open.spotify.com/album/2Jd8cTkftvmpqWUIIScr1x) | 3:56 | 2023-09-21 | 2024-09-20 |
 | [Descend un peu](https://open.spotify.com/track/0Yc6JRXXgNzj6zOtQEv7f3) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [Descend un peu](https://open.spotify.com/album/1GsntAdgmlPTwI5vRcM0fU) | 3:42 | 2021-12-20 | 2022-09-30 |
@@ -77,6 +77,7 @@
 | [DJAKOTO](https://open.spotify.com/track/4bbLwc6FSnibrV6iZeJ2hM) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz), [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j) | [DJAKOTO](https://open.spotify.com/album/6UylXYPAXpU6Ohpm2Y8Ad5) | 2:48 | 2022-12-08 | 2023-05-19 |
 | [Djeneba Djaba](https://open.spotify.com/track/6Pt5lnHwIUAfnEXItAjmfp) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Djeneba Djaba](https://open.spotify.com/album/4y5SQcEOQN25EhFMYt3XpD) | 2:59 | 2024-11-07 |  |
 | [Do Do Do](https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Do Do Do](https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT) | 3:49 | 2023-03-23 | 2024-12-06 |
+| [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma facon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 | 2025-04-03 |  |
 | [Donne\-lui l'argent](https://open.spotify.com/track/35QFvkmNkPjDa3H3EacJLr) | [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Donne\-lui l'argent](https://open.spotify.com/album/1kwf8zg7guVu0jG40TL8oi) | 3:01 | 2021-12-20 | 2022-06-03 |
 | [Donnez nous un peu](https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Donnez nous un peu](https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu) | 3:51 | 2022-01-21 | 2023-07-28 |
 | [Dora Dance](https://open.spotify.com/track/7JnUwdaJ0FZWfJOCwDglWg) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Dora Dance](https://open.spotify.com/album/74wMcfUmeLcddiJZcvV2xy) | 3:00 | 2022-09-01 | 2023-01-06 |
@@ -182,6 +183,7 @@
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 | 2022-12-09 |
 | [Où je mets tu piles](https://open.spotify.com/track/3zvjkJ8WF9T2odHvI6AWrT) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Où je mets tu piles](https://open.spotify.com/album/4afn5I3WUgxOSwNUktom5H) | 2:26 | 2025-03-06 |  |
 | [Papa arrive](https://open.spotify.com/track/1623sw26SCie7IvE1yUKCp) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Lumière](https://open.spotify.com/album/6DbZeMqndcEBZiJT65WbbI) | 2:56 | 2023-10-19 | 2023-12-01 |
+| [Passer à coté](https://open.spotify.com/track/4L1HVDYcQdB30NwIjHWJhy) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [Passer à coté](https://open.spotify.com/album/6O8hSo39PIBT9LrEdQJ80F) | 2:17 | 2025-04-03 |  |
 | [Petit feu](https://open.spotify.com/track/6L02e6ZEAzKLaeCalrae46) | [Dj Lewis](https://open.spotify.com/artist/2SFw569GOt4rT22zKB38tI), [Team de Poy](https://open.spotify.com/artist/5ENFgPSRpmOpf02X0b4COs) | [CHANGEMENT](https://open.spotify.com/album/1t8v9ob5LHoe880FILPwf2) | 3:24 | 2024-11-14 | 2025-01-31 |
 | [petite position](https://open.spotify.com/track/1QbjKkAwxDQ49KtplR54Gz) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [zagpa le requin](https://open.spotify.com/artist/2a77lQyTgbEF3iGy1Dl8V9) | [petite position](https://open.spotify.com/album/6sqTDg1fnpCzNcC1zryqsM) | 3:27 | 2024-01-11 | 2024-03-08 |
 | [Piment](https://open.spotify.com/track/7gB92KifQkXumaRUvxMRNN) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz) | [GRINTA](https://open.spotify.com/album/1vEPXP3H5oAg8OOYdKF3pX) | 2:44 | 2022-12-15 | 2023-01-27 |
@@ -207,7 +209,7 @@
 | [Taper créer](https://open.spotify.com/track/1ZPME9JuSBEOhVaer4B1tS) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Azazou Satelite](https://open.spotify.com/artist/4IvJKBoOsYWf433rkicglV), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Taper créer](https://open.spotify.com/album/2iuajfWtOwWWEe29NqiXiY) | 2:59 | 2024-11-14 | 2025-03-07 |
 | [Taper dedans](https://open.spotify.com/track/1shncRrvTSTQtK8hgGFL7m) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Taper dedans](https://open.spotify.com/album/6h8Pa5WVQy0SkwVHw6DDxP) | 2:40 | 2023-12-14 | 2024-04-05 |
 | [Tchayeh](https://open.spotify.com/track/6DXBVqs3KRJtdp4XxJxLRk) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Tchayeh](https://open.spotify.com/album/15ILd1c6laBM0aiS7s1lHF) | 2:56 | 2024-07-25 | 2024-11-08 |
-| [Tchokoroba](https://open.spotify.com/track/2JkqP8VfGQNXXWdNJcnHsO) | [Rémy Adan](https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo) | [Tchokoroba](https://open.spotify.com/album/2jLzAMi7FjfcUbgOYXHv6I) | 2:46 | 2025-02-06 |  |
+| [Tchokoroba](https://open.spotify.com/track/2JkqP8VfGQNXXWdNJcnHsO) | [Rémy Adan](https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo) | [Tchokoroba](https://open.spotify.com/album/2jLzAMi7FjfcUbgOYXHv6I) | 2:46 | 2025-02-06 | 2025-04-04 |
 | [Tchoutchou Kpangor](https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Tchoutchou Kpangor](https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07) | 3:43 | 2023-06-15 | 2024-10-11 |
 | [TCHÔKÔRÔBA](https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [TCHÔKÔRÔBA](https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL) | 3:06 | 2023-02-02 | 2023-07-07 |
 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 | 2023-09-28 | 2023-11-24 |

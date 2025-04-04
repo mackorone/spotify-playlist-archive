@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=mnAM9ohtSzyTtCjrkrTwrw">Umafikizolo</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV?si=2muZB6SNQTWZ3\-D1SqV40w">AMASINAMUVA AMASHA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,904 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,097 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gucci](https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci \(Deleted\)](https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8) | 4:07 |
-| 2 | [Inja Kabi Lena](https://open.spotify.com/track/0UUJITwaCJnhBECKzJmNTW) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Inja Kabi Lena](https://open.spotify.com/album/4HhLwMC4pyd1GPF3wLb9Ce) | 5:45 |
-| 3 | [Uvume Kanjani?](https://open.spotify.com/track/1SBdVvoxfFvuO6BVY9WqnI) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Uvume Kanjani?](https://open.spotify.com/album/1EQ6FllXqVYFKGVjRKtDRp) | 4:44 |
-| 4 | [Angikwazi ukukhuluma](https://open.spotify.com/track/0fzMIBpjLCRJuO7aI0p6Hw) | [Masinga Sgqoko Sembongolo](https://open.spotify.com/artist/5ssLPfawWSCiruDOdpBU6C) | [Angikwazi ukukhuluma](https://open.spotify.com/album/209RZxH1Ba0Gu0wzxMkq15) | 4:28 |
-| 5 | [Rush Hour](https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Rush Hour](https://open.spotify.com/album/2mIgt4Y26nVZB7S4RQJ3ma) | 4:31 |
-| 6 | [My Dululu](https://open.spotify.com/track/2pdid5w8VxdgMmYlp7r17z) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Mnqobi yazo](https://open.spotify.com/artist/4iKk928O7ApC51cf4q2mpO) | [My Dululu](https://open.spotify.com/album/6xIXv9IaFF5tPXwWCukLZ7) | 4:55 |
-| 7 | [Awuhlabe Kabili](https://open.spotify.com/track/5nVQ2bPZjV9wlD2hboLe6l) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Take Your Time](https://open.spotify.com/album/0whjCAjxrHgpDBdngBhv1U) | 4:53 |
-| 8 | [Ngathi Nguye](https://open.spotify.com/track/3bqCtq5RcPzULlyqkFGVJ7) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [Umashotana](https://open.spotify.com/artist/0bQK92L70k52lgVCQX0mNp) | [Ngathi Nguye](https://open.spotify.com/album/3cZik7oHU3G5MuEiXtnS6k) | 6:23 |
-| 9 | [Sengize Ngamthola](https://open.spotify.com/track/6U6mnSkN3dWoY0H0k1Og2M) | [AMASINAMUVA AMASHA](https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV), [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [Sengize Ngamthola](https://open.spotify.com/album/0xNTVdgtDwuo5D4FxjJqeS) | 6:01 |
-| 10 | [Inyoka Endala](https://open.spotify.com/track/1xASR9koYP3vxECKR4OmGB) | [Falabo](https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw) | [Inyoka Endala](https://open.spotify.com/album/2M1zuqGr01bzTg0GJGwN0v) | 4:15 |
-| 11 | [Wayengenalutho](https://open.spotify.com/track/6VBfzBgHu8tFeeg2ZQO4gH) | [MENZI MUSIC](https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q) | [Sizesiguge](https://open.spotify.com/album/4r0xxU4MBpXVrNOcJRfUEI) | 5:12 |
-| 12 | [Sigade Umzila](https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Impisi Iyalaya \(Deleted\)](https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT) | 3:25 |
+| 2 | [Uvume Kanjani?](https://open.spotify.com/track/1SBdVvoxfFvuO6BVY9WqnI) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Uvume Kanjani?](https://open.spotify.com/album/1EQ6FllXqVYFKGVjRKtDRp) | 4:44 |
+| 3 | [Sengize Ngamthola](https://open.spotify.com/track/6U6mnSkN3dWoY0H0k1Og2M) | [AMASINAMUVA AMASHA](https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV), [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [Sengize Ngamthola](https://open.spotify.com/album/0xNTVdgtDwuo5D4FxjJqeS) | 6:01 |
+| 4 | [Sigade Umzila](https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Impisi Iyalaya \(Deleted\)](https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT) | 3:25 |
+| 5 | [Angikwazi ukukhuluma](https://open.spotify.com/track/0fzMIBpjLCRJuO7aI0p6Hw) | [Masinga Sgqoko Sembongolo](https://open.spotify.com/artist/5ssLPfawWSCiruDOdpBU6C) | [Angikwazi ukukhuluma](https://open.spotify.com/album/209RZxH1Ba0Gu0wzxMkq15) | 4:28 |
+| 6 | [Rush Hour](https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Rush Hour](https://open.spotify.com/album/2mIgt4Y26nVZB7S4RQJ3ma) | 4:31 |
+| 7 | [Inja Kabi Lena](https://open.spotify.com/track/0UUJITwaCJnhBECKzJmNTW) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Inja Kabi Lena](https://open.spotify.com/album/4HhLwMC4pyd1GPF3wLb9Ce) | 5:45 |
+| 8 | [My Dululu](https://open.spotify.com/track/2pdid5w8VxdgMmYlp7r17z) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Mnqobi yazo](https://open.spotify.com/artist/4iKk928O7ApC51cf4q2mpO) | [My Dululu](https://open.spotify.com/album/6xIXv9IaFF5tPXwWCukLZ7) | 4:55 |
+| 9 | [Awuhlabe Kabili](https://open.spotify.com/track/5nVQ2bPZjV9wlD2hboLe6l) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Take Your Time](https://open.spotify.com/album/0whjCAjxrHgpDBdngBhv1U) | 4:53 |
+| 10 | [Ngathi Nguye](https://open.spotify.com/track/3bqCtq5RcPzULlyqkFGVJ7) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [Umashotana](https://open.spotify.com/artist/0bQK92L70k52lgVCQX0mNp) | [Ngathi Nguye](https://open.spotify.com/album/3cZik7oHU3G5MuEiXtnS6k) | 6:23 |
+| 11 | [Inyoka Endala](https://open.spotify.com/track/1xASR9koYP3vxECKR4OmGB) | [Falabo](https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw) | [Inyoka Endala](https://open.spotify.com/album/2M1zuqGr01bzTg0GJGwN0v) | 4:15 |
+| 12 | [Wayengenalutho](https://open.spotify.com/track/6VBfzBgHu8tFeeg2ZQO4gH) | [MENZI MUSIC](https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q) | [Sizesiguge](https://open.spotify.com/album/4r0xxU4MBpXVrNOcJRfUEI) | 5:12 |
 | 13 | [Ingoma Yami](https://open.spotify.com/track/7D4L8U9A7aXiveWURPTWRT) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK), [Proud](https://open.spotify.com/artist/4HqpRY96WEihkALTCJWf1B), [Dee R](https://open.spotify.com/artist/37SSMC2YqEFtW8o4yzkDLF), [Cwenga Bass](https://open.spotify.com/artist/69NnlRckDxjd87vXxuMr5S) | [Ingoma Yami](https://open.spotify.com/album/4muR1XrReEmHA8MmSPrf04) | 5:00 |
 | 14 | [Ncono Siyeke](https://open.spotify.com/track/79r4mAwHBAB1x5QnImlUM6) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Shenge wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Ncono Siyeke](https://open.spotify.com/album/5CYakL1xQm6XjQ8Zjb5p9T) | 4:59 |
 | 15 | [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 69 | [Inja Nodogo](https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inja Nogodo](https://open.spotify.com/album/1i1JkpUl5vILSSLKwsVHAO) | 4:15 |
 | 70 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 |
 
-Snapshot ID: `Z+qXNgAAAACkG1mL+MHqoDwdtMY5Pw9y`
+Snapshot ID: `Z+8TDAAAAACIFVVni+185eWBwfjlGRFP`

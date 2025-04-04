@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: YT
+> Discover your new favourite artists from UK&IE\. Cover: Lawrence Hart
 
-303 songs - 16 hr 18 min
+304 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 | 2022-05-06 |  |
 | [For You](https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [For You](https://open.spotify.com/album/5Gna2Z9JhoRjYR2CmIBB2r) | 5:37 | 2022-02-18 |  |
 | [Fortune Green](https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Fortune Green](https://open.spotify.com/album/4QeB3eT7TwAaeIsqKMTW7o) | 2:24 | 2024-07-04 |  |
+| [Fucking Mega](https://open.spotify.com/track/6tqvEXCweWY131rD6EeD4D) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Come In Out Of The Rain](https://open.spotify.com/album/6jZhhKMNsN5C6LpypG7SdO) | 4:51 | 2025-04-04 |  |
 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 | 2022-09-22 |  |
 | [Garden](https://open.spotify.com/track/4nCQ22BkCrnLwNlJUUneTc) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:55 | 2022-11-30 | 2024-04-19 |
 | [GeorgianFlip.](https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK) | [Comma, Fullstop.](https://open.spotify.com/album/6Uf0LdHwZCaGJUyAel8KjY) | 2:18 | 2024-10-10 |  |

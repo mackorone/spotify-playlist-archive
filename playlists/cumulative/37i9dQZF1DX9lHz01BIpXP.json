@@ -141,6 +141,32 @@
     },
     {
       "album": {
+        "name": "Afshow",
+        "url": "https://open.spotify.com/album/5XjsebsD9pxGH7JstadAK6"
+      },
+      "artists": [
+        {
+          "name": "Interlecc Za",
+          "url": "https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv"
+        },
+        {
+          "name": "23Baby",
+          "url": "https://open.spotify.com/artist/56xSkXzHYtM5CGeiG1pWp8"
+        },
+        {
+          "name": "Profit CPT",
+          "url": "https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220943,
+      "name": "Afshow",
+      "url": "https://open.spotify.com/track/3jSnGNt8JzF0YsSanwH3z0"
+    },
+    {
+      "album": {
         "name": "Against the grain",
         "url": "https://open.spotify.com/album/4RQHyyQwhkWVrwbiIbkn9B"
       },
@@ -837,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Die dog",
+        "url": "https://open.spotify.com/album/6hJ8q2qVzqDwhaj5m5Y5Rv"
+      },
+      "artists": [
+        {
+          "name": "Ama vrant",
+          "url": "https://open.spotify.com/artist/6VMxeGjGUjqqhfIzcvPfSm"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165172,
+      "name": "Die dog",
+      "url": "https://open.spotify.com/track/3joOWQZLziJIIv1ZnFUncm"
+    },
+    {
+      "album": {
         "name": "DIE LANIE",
         "url": "https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe"
       },
@@ -1342,7 +1386,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 162212,
       "name": "Funds up",
       "url": "https://open.spotify.com/track/2YlQMXoBxIFbkuEsmbLOLb"
@@ -1848,7 +1892,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 309003,
       "name": "Is Dope",
       "url": "https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL"
@@ -2436,7 +2480,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 177293,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/3cC0Khy2TABeES30VNoejv"
@@ -2636,7 +2680,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 194037,
       "name": "Nikes & Jordans (Original)",
       "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
@@ -3626,7 +3670,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 231079,
       "name": "Teveel (Deur Gegaan)",
       "url": "https://open.spotify.com/track/3lFDrq71yKNvjfiPE6CiHr"
@@ -3746,7 +3790,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 167500,
       "name": "Tyd Saam",
       "url": "https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z"

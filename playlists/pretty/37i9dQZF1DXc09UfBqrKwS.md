@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 
 > hora d hacer la meme
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,925 likes - 236 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,928 likes - 236 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 | 180 | [Cassiopeia](https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh) | [Elysian Lotus](https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w) | [Cassiopeia](https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6) | 2:55 |
 | 181 | [Sapphire](https://open.spotify.com/track/51Cpam4lnqxkLXtK269TrB) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Sapphire](https://open.spotify.com/album/4l0y18K5CgfM8DlyUU4rCp) | 3:26 |
 | 182 | [Blanket](https://open.spotify.com/track/7xJebntmrp0BbrI3WHMgyS) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Blanket](https://open.spotify.com/album/3AUkBHAVbpPFqWX7scwSVv) | 3:14 |
-| 183 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
+| 183 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
 | 184 | [Aeternus](https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Aeternus](https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad) | 3:06 |
 | 185 | [Permanence](https://open.spotify.com/track/7pj05Z3J520aOzLdH3sAAz) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Permanence](https://open.spotify.com/album/2OwEKuCKehvTMSyOg4Q7y1) | 3:00 |
 | 186 | [Fulfilled](https://open.spotify.com/track/6MyMsRVJSk0lplNc2S1ib1) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Fulfilled](https://open.spotify.com/album/6oX4wwwqlA1hi4ELRlkOHV) | 2:59 |

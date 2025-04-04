@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 958 likes - 315 songs - 16 hr 1 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 958 likes - 318 songs - 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -323,5 +323,8 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 313 | [Bittersweet](https://open.spotify.com/track/0aNUvgmRUtGKlrv3PmK1Or) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Bittersweet](https://open.spotify.com/album/0R6UxUN5XLDJmFNVhUYuUl) | 4:15 |
 | 314 | [LDR \- MetaHumanBoi Remix](https://open.spotify.com/track/0TcQoDpXC8NFGpb3JN5Qpe) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [MetaHumanBoi](https://open.spotify.com/artist/3DsBpdDLkW2CpH7kHqcxWo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:36 |
 | 315 | [I miss you](https://open.spotify.com/track/6gvSJdfqtKD1OT3C6lyhWN) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I miss you](https://open.spotify.com/album/3HhltlZ4wbbRm2Mit9E5hv) | 4:18 |
+| 316 | [Fight on Through](https://open.spotify.com/track/2Pv4WyIPcMsyhxANGXCICp) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Fight on Through](https://open.spotify.com/album/4X4lTn5QeXf6m1FFwP9e5A) | 2:47 |
+| 317 | [Linger in the Rain](https://open.spotify.com/track/2ZdLhmKydlxXLXL1Hlo4Ex) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Linger in the Rain](https://open.spotify.com/album/3whFAKu7WRtkGPRSoCRrva) | 5:00 |
+| 318 | [Swing Jazz Rock & Roll](https://open.spotify.com/track/0ESvycLD9csoJpgNEYBLR8) | [The Lazy Tails](https://open.spotify.com/artist/7GmTFT9mv4s0VHTti5GRGi) | [Swing Jazz Rock & Roll](https://open.spotify.com/album/1TAWhgs53Q9ngdpjCHp7WW) | 3:18 |
 
-Snapshot ID: `AAABbV3WEMu+LHA4oxeSX3pP1L8XboB6`
+Snapshot ID: `AAABcHzzrew00NNfueXz2jQHQRKneqcs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like this\. cover: Noah Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,425,827 likes - 144 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,425,752 likes - 144 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

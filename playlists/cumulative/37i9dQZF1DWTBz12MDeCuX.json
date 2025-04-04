@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Filow, Ikkimel",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Gustav, Zartmann",
   "name": "me right now",
   "tracks": [
     {
@@ -4639,6 +4639,28 @@
     },
     {
       "album": {
+        "name": "Babyboy",
+        "url": "https://open.spotify.com/album/3hx4m1ygYymqQrKnUnpMyT"
+      },
+      "artists": [
+        {
+          "name": "Baran Kok",
+          "url": "https://open.spotify.com/artist/0h5l8UYxSk3xeGGlSXgpIZ"
+        },
+        {
+          "name": "penglord",
+          "url": "https://open.spotify.com/artist/2DTVU6DwbfC2wMt3YIdiv4"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112511,
+      "name": "Babyboy",
+      "url": "https://open.spotify.com/track/3f1zH0kPrJxlsDm3yrKfWX"
+    },
+    {
+      "album": {
         "name": "babyboy",
         "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
       },
@@ -7978,6 +8000,32 @@
       "duration_ms": 158709,
       "name": "Call",
       "url": "https://open.spotify.com/track/50aAZPbkB0yhfMQptxa8Dv"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/4urWBYrDSzRPBJ5tCRMoHU"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2JRM49IbbQ0CAcFoTi2rLM"
     },
     {
       "album": {
@@ -11882,7 +11930,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -22358,7 +22406,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 99844,
       "name": "Im Doing Fine",
       "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
@@ -22874,7 +22922,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
@@ -24722,7 +24770,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 139163,
       "name": "Kippen + Schlechter Wein",
       "url": "https://open.spotify.com/track/6WrxkzUIrCUfKXo6DxKibh"
@@ -26514,6 +26562,24 @@
       "duration_ms": 135050,
       "name": "Liebe Gr\u00fc\u00dfe",
       "url": "https://open.spotify.com/track/2490ZIWKhabJ0or3Dor2xC"
+    },
+    {
+      "album": {
+        "name": "prettiest ex EP",
+        "url": "https://open.spotify.com/album/5RUUOWGLeLb4hnMSjiJWz2"
+      },
+      "artists": [
+        {
+          "name": "DUEJA",
+          "url": "https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125260,
+      "name": "liebe in meinem kopf",
+      "url": "https://open.spotify.com/track/38X5JaDuCxyghTnL35klIX"
     },
     {
       "album": {
@@ -37472,7 +37538,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 145881,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/2Ed4yjHpp9ROmpA945aP9b"
@@ -38898,6 +38964,32 @@
       "duration_ms": 171378,
       "name": "Sch\u00f6neberg/Kreuzberg",
       "url": "https://open.spotify.com/track/35TlBvEYl8Ajm4kyzpOsI5"
+    },
+    {
+      "album": {
+        "name": "sch\u00f6nhauser EP",
+        "url": "https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120584,
+      "name": "sch\u00f6nhauser (feat. Gustav)",
+      "url": "https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj"
     },
     {
       "album": {
@@ -46173,6 +46265,24 @@
     },
     {
       "album": {
+        "name": "Unsicher",
+        "url": "https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138032,
+      "name": "Unsicher",
+      "url": "https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ"
+    },
+    {
+      "album": {
         "name": "Unsinn",
         "url": "https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68"
       },
@@ -50466,6 +50576,24 @@
       "duration_ms": 113562,
       "name": "Without You",
       "url": "https://open.spotify.com/track/70iMhwrs7qZg64GiW8sMew"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e4ume in Beton",
+        "url": "https://open.spotify.com/album/2ILs9pESvatu09JTqp87Cl"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163359,
+      "name": "Wo bist du",
+      "url": "https://open.spotify.com/track/2UWuZkYZH9urjcC3UD4MtQ"
     },
     {
       "album": {

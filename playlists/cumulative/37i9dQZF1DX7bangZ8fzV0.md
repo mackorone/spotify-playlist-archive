@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C?si=EzjDN6nzQSuKRiGQLcXlOg">Wentzel</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=VHknqYzaSjWwvvRs8qreUg">JAN JAN JAN</a>
 
-270 songs - 14 hr 58 min
+272 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
 | [Inge 2](https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:41 | 2023-08-17 |  |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-07-21 |  |
-| [Jan Asseblief](https://open.spotify.com/track/1BbgTIFrI7uNHg189LjkqJ) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Jan Asseblief](https://open.spotify.com/album/1rGDaJtxnzwDDPBgKpg3M2) | 2:58 | 2024-11-14 |  |
+| [Jan Asseblief](https://open.spotify.com/track/1BbgTIFrI7uNHg189LjkqJ) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Jan Asseblief](https://open.spotify.com/album/1rGDaJtxnzwDDPBgKpg3M2) | 2:58 | 2024-11-14 | 2025-04-04 |
+| [Jannaman](https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Jannaman](https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss) | 3:25 | 2025-04-03 |  |
 | [Jannie Bloemfontein](https://open.spotify.com/track/67H3zHKazVQaEbTPhxYO5Y) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Jannie Bloemfontein](https://open.spotify.com/album/25Ar72ANXBJmlwYqh56d8u) | 2:31 | 2023-04-06 | 2023-04-28 |
 | [Jinne Maar Dis Lekker](https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma) | [Ché](https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90) | [Jinne Maar Dis Lekker](https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ) | 3:06 | 2023-02-02 | 2023-05-12 |
 | [John Deere Hoed](https://open.spotify.com/track/0Dt6zGwAJJLnAgRkVmvSiu) | [Fanus Pienaar](https://open.spotify.com/artist/3L3YdChQhiqC36EgmDuUge) | [John Deere Hoed](https://open.spotify.com/album/6ClZGnn2DfZ4clTakd59Bl) | 3:32 | 2023-06-08 | 2023-09-22 |
@@ -125,6 +126,7 @@
 | [Kalahari Ferrari](https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kalahari Ferrari](https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP) | 3:22 | 2023-12-08 | 2024-08-16 |
 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 | 2024-10-03 |  |
 | [Kannie Sonder Jou Nie](https://open.spotify.com/track/1J0nJQxgno6jiHKAhdAO2G) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Jy Ken My Naam](https://open.spotify.com/album/5qKLrFVXNqfps1WvLPF4wF) | 3:26 | 2021-12-02 | 2022-12-24 |
+| [Karolis \(Sensasie Remix\) \(feat\. Sensasie\)](https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Hokaai](https://open.spotify.com/album/6JQ57szEJM2faKvkX56CWH) | 3:10 | 2025-04-03 |  |
 | [Keeza](https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 2:58 | 2024-10-17 |  |
 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 | 2023-03-09 | 2024-10-18 |
 | [Khaki](https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Khaki](https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3) | 3:06 | 2023-06-22 | 2025-03-14 |
@@ -171,7 +173,7 @@
 | [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 | 2023-03-03 | 2023-05-12 |
 | [Marakas](https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Marakas](https://open.spotify.com/album/5PW1QI5M5ghXWrnYP9X4bs) | 4:01 | 2023-08-03 | 2023-09-01 |
 | [Marie](https://open.spotify.com/track/2jVwAnPHfeVeUyEEk4ERFU) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Marie](https://open.spotify.com/album/3GOXoNZKODuAhlhXBVAQHy) | 3:21 | 2022-09-08 | 2022-10-14 |
-| [Meisie](https://open.spotify.com/track/4Wl61saOR6rwgVcXQuKYQ1) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Meisie](https://open.spotify.com/album/11ZDOCvUNFJbbrQgaG4A3M) | 2:35 | 2024-12-22 |  |
+| [Meisie](https://open.spotify.com/track/4Wl61saOR6rwgVcXQuKYQ1) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Meisie](https://open.spotify.com/album/11ZDOCvUNFJbbrQgaG4A3M) | 2:35 | 2024-12-22 | 2025-04-04 |
 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 | 2024-07-11 |  |
 | [Meisies Soos Jy](https://open.spotify.com/track/67N0nsJvvBnvDYzh9ajNWF) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Meisies Soos Jy](https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla) | 4:10 | 2022-04-22 | 2022-11-25 |
 | [Moegdans](https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Moegdans](https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq) | 3:21 | 2023-09-21 |  |

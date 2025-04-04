@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 ### [Bubblin'](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. <br/>Cover:  Bayanni
+> The future hits of today\. <br/>Cover:  Famous Pluto
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,910 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,946 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 59 | [I'll Be There](https://open.spotify.com/track/1VWqPyX82pCN4PTID10Ssg) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [I'll Be There](https://open.spotify.com/album/3dV6dktBCe7l03Ju0WCaPS) | 3:21 |
 | 60 | [247](https://open.spotify.com/track/73QW0R1GUPpsRe2aBwkHhR) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [247](https://open.spotify.com/album/06C6RolgHPTQkDjilqsGHN) | 3:25 |
 
-Snapshot ID: `Z+qAkwAAAACbQb+DR+dve7WkHJZGH41+`
+Snapshot ID: `Z+8/4gAAAAA1mq5XNhgDHK/xzN/nZxC5`

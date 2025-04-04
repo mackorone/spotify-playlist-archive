@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Cíntia
 
-714 songs - 1 day 13 hr 56 min
+715 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Convite](https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Par Perfeito](https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP) | 2:33 | 2024-08-09 | 2025-01-24 |
 | [Coração de Prata](https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Coração de Prata](https://open.spotify.com/album/2dSNU471jKPFqhF2cmvey7) | 2:56 | 2023-01-06 | 2023-01-19 |
 | [Coração Dormente](https://open.spotify.com/track/2huId19fBOPEzLbcIFok7a) | [Calalo](https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs) | [Coração Dormente](https://open.spotify.com/album/0BCWwL9UBCjQcqj2BoLp7m) | 2:59 | 2023-05-11 | 2023-06-02 |
-| [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 | 2023-10-05 |  |
+| [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 | 2023-10-05 | 2025-04-04 |
 | [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 | 2024-03-15 | 2024-04-12 |
 | [Corre](https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y) | [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx), [R7ALNESS](https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885) | [Corre](https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq) | 3:05 | 2024-01-12 | 2024-02-16 |
 | [Credo](https://open.spotify.com/track/5QRdKPh18pJHdlIRjqEr8d) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Credo](https://open.spotify.com/album/6QKiftBhtPna757ems3oE2) | 3:35 | 2024-06-20 | 2024-08-02 |
@@ -346,6 +346,7 @@
 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-07-07 |  |
 | [Licor](https://open.spotify.com/track/2sDi2QrFLpQEWbBNmE8Suc) | [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [Licor De Jaca](https://open.spotify.com/album/5TGbNOBIR8jdm5cVOYJcfK) | 3:26 | 2022-11-25 | 2023-02-03 |
 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 | 2023-12-08 | 2024-04-19 |
+| [Liga Quando A Festa Acabar](https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Liga Quando A Festa Acabar](https://open.spotify.com/album/0dxvk23gepW1r9YaiRMj2G) | 3:09 | 2025-04-03 |  |
 | [Linda](https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Linda](https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH) | 2:32 | 2023-07-27 | 2024-02-16 |
 | [Lisabonna](https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Lisabonna](https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a) | 3:14 | 2023-05-18 | 2023-06-09 |
 | [LIT](https://open.spotify.com/track/4w6xHix3sJfZAW3n1BJZfu) | [ROCKY](https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [LEVELZ](https://open.spotify.com/album/32RrH6Kb6pNxDxAwqGayxp) | 3:40 | 2025-02-07 | 2025-03-01 |

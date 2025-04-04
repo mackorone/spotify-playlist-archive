@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Photo : Disiz",
+  "description": "Photo : Tsew The Kid",
   "name": "Vice Versa",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 186493,
       "name": "Allo la lune",
       "url": "https://open.spotify.com/track/6cz0ynmReFlfZ3aUqiFnWo"
+    },
+    {
+      "album": {
+        "name": "Amoureuse",
+        "url": "https://open.spotify.com/album/4L5eH3XhpdBLat8JOyPtCS"
+      },
+      "artists": [
+        {
+          "name": "Tsew The Kid",
+          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150053,
+      "name": "Amoureuse",
+      "url": "https://open.spotify.com/track/3rrYJegUcvKTRCaiQz6rXn"
     },
     {
       "album": {
@@ -884,7 +902,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 232120,
       "name": "Liverpool",
       "url": "https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2"
@@ -1137,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Oseille",
+        "url": "https://open.spotify.com/album/44pYbjn9iuJ5MjI5a3kh7R"
+      },
+      "artists": [
+        {
+          "name": "Susano\u00f4",
+          "url": "https://open.spotify.com/artist/3IPF34odrFxmKBZUciuUyE"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Oseille",
+      "url": "https://open.spotify.com/track/4aFJfUvZ8LUT0sK2hZTh97"
+    },
+    {
+      "album": {
         "name": "Pansement",
         "url": "https://open.spotify.com/album/3m3BNRCXasXTyPf2qjsTkZ"
       },
@@ -1152,6 +1188,24 @@
       "duration_ms": 126859,
       "name": "Pansement",
       "url": "https://open.spotify.com/track/31MUDXdxaJ1S2KTg1LyEf3"
+    },
+    {
+      "album": {
+        "name": "PAR LE PASS\u00c9",
+        "url": "https://open.spotify.com/album/4f0B2oVlpPJWP21l4Mysjl"
+      },
+      "artists": [
+        {
+          "name": "Pitt",
+          "url": "https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "PAR LE PASS\u00c9",
+      "url": "https://open.spotify.com/track/11LStUTufeEHuc6TidcH3N"
     },
     {
       "album": {
@@ -1556,7 +1610,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 137535,
       "name": "Vampire",
       "url": "https://open.spotify.com/track/45bESNPtGOmWKI6Y5AziuI"
@@ -1596,7 +1650,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 193820,
       "name": "\u00c0 mes d\u00e9mons Pt. 2",
       "url": "https://open.spotify.com/track/1RkPNKaOA4NYTj1tkR5BEx"

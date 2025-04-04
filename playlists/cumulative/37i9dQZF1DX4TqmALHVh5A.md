@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Miki
+> La scène française branchée sur courant alternatif\. Photo :THÉA
 
-276 songs - 14 hr 54 min
+277 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,12 +49,13 @@
 | [Calme\-toi bouge tes genoux](https://open.spotify.com/track/5YOjTNyz3YvHeGEbDYiCSB) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Calme\-toi bouge tes genoux](https://open.spotify.com/album/4DpOlFFpUpEZj5ODQu48Ba) | 3:09 | 2024-04-04 | 2024-04-19 |
 | [caméléon](https://open.spotify.com/track/16t191oUr541iQTZrbqYuM) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [caméléon](https://open.spotify.com/album/63VHMWKqWMclz52WGkOt16) | 3:37 | 2024-04-18 | 2024-11-22 |
 | [Catch Me](https://open.spotify.com/track/3aAmbkmw4wGiCAIn1Ktwlv) | [Balm](https://open.spotify.com/artist/4hI6ww0nRIy2qtXh48yKlp) | [Lavender](https://open.spotify.com/album/4nCf0hlINNS0mF6LeK0Cmh) | 3:43 | 2023-09-28 | 2024-01-19 |
-| [CAVALE! CAVALE!](https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [CAVALE! CAVALE!](https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ) | 2:29 | 2024-11-07 |  |
+| [CAVALE! CAVALE!](https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [CAVALE! CAVALE!](https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ) | 2:29 | 2024-11-07 | 2025-04-04 |
 | [Ce monde où tu n'existes pas](https://open.spotify.com/track/1rBhr3qkZxueavxEc5xnov) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 3:17 | 2023-11-16 | 2024-09-06 |
 | [Ce que la lune éclaire](https://open.spotify.com/track/3m5pD1dbGn5UoWUAiKyg8A) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Ce que la lune éclaire](https://open.spotify.com/album/6I9VmoqM3N8NtEotua9LVH) | 3:45 | 2023-09-28 | 2023-10-06 |
 | [Cendrier](https://open.spotify.com/track/4YEU26a5jxNdgMZZyKcqbv) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Cendrier](https://open.spotify.com/album/7eoZifUGGHBHRgIP0U0mqu) | 3:24 | 2023-12-08 | 2024-01-12 |
 | [Champion](https://open.spotify.com/track/6vVR1PuILHNXSHTyPCmFRA) | [Peripl](https://open.spotify.com/artist/4myBn9VPUfvCJr305YdA3d) | [Champion](https://open.spotify.com/album/7i2eqObriiJ8tiASLahqAk) | 2:58 | 2024-10-17 | 2024-11-08 |
 | [Charlie,](https://open.spotify.com/track/74SY7jgiZ1WdpBDlv3WNeI) | [candeur cyclone](https://open.spotify.com/artist/0NJFzO3y97bCHFdaNWJU5U) | [teenage dirtbag](https://open.spotify.com/album/2wYyly7HKXiF0U0aT4qMqR) | 3:48 | 2024-11-21 |  |
+| [Chorale](https://open.spotify.com/track/3U9VO4OhI4ZmhN00h3g5Bx) | [EMILE](https://open.spotify.com/artist/2zcvrNK2SY1epxOBTgfEF4) | [Chorale](https://open.spotify.com/album/3qnt1aMwMqwuTZxNCf1n6A) | 3:42 | 2025-04-03 |  |
 | [Christiane F](https://open.spotify.com/track/20qFSAGLPpDxaQJYd1fB7G) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Christiane F](https://open.spotify.com/album/73RKng65JeReqOgTTLGspF) | 2:31 | 2023-09-28 | 2023-11-17 |
 | [Chromé total](https://open.spotify.com/track/732rPfESdrlQjJoeqtSOgm) | [Scuffles](https://open.spotify.com/artist/2FLeI069itvCLf9YBn6CpQ) | [Chromé total](https://open.spotify.com/album/1ZkKO0IVqwv6kO3M9d8yWK) | 3:12 | 2023-10-19 | 2024-04-05 |
 | [Cl0ckW0rk](https://open.spotify.com/track/5w8XK7wdcdsIp76zLtc3aR) | [Apple Jelly](https://open.spotify.com/artist/587AadegoSQQn1WdhSCnSZ) | [Cl0ckW0rk EP](https://open.spotify.com/album/2aMSVdnr1U8YJKdbjLqHfr) | 3:01 | 2023-10-05 | 2023-11-17 |

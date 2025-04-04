@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=Bcz-5Qg9RJSvtysyXHAJxw\">Zamajobe</a> ",
+  "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO?si=xNsTekhYSbq9QpHhQwG4zA\">Riky Rick</a> ",
   "name": "SA Gold",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 233133,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/66jV20vtuXNoFGl9IKQfJJ"
@@ -350,6 +350,24 @@
       "duration_ms": 160880,
       "name": "Born in a Taxi",
       "url": "https://open.spotify.com/track/3fJ75JKYcfOerkRGj29Plh"
+    },
+    {
+      "album": {
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+      },
+      "artists": [
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240061,
+      "name": "Boss Zonke",
+      "url": "https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM"
     },
     {
       "album": {
@@ -1743,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+      },
+      "artists": [
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248146,
+      "name": "Nafukwa (Fok Julle Naaiers)",
+      "url": "https://open.spotify.com/track/43nqAOOjecTtyOVmAI27RX"
+    },
+    {
+      "album": {
         "name": "Ndawo Yami",
         "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
       },
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 339133,
       "name": "Roba Letheka",
       "url": "https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv"
@@ -2632,6 +2668,28 @@
       "duration_ms": 330605,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR"
+    },
+    {
+      "album": {
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+      },
+      "artists": [
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "ZANO",
+          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274053,
+      "name": "Sondela (feat. Zano)",
+      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
     },
     {
       "album": {
@@ -3404,7 +3462,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 221746,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/7yL2pYvu2CmbRMsPKHKd5J"

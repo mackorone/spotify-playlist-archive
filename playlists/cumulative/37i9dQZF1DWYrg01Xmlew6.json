@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Le-One in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Luch\u00e8 in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -156,7 +156,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 166473,
       "name": "28 Febbraio (feat. DDM 80146)",
       "url": "https://open.spotify.com/track/2U8V7znA9iBZbMXCVx7iQV"
@@ -3879,6 +3879,28 @@
     },
     {
       "album": {
+        "name": "Lauryn (feat. Im Envy)",
+        "url": "https://open.spotify.com/album/3Tgg5AfK9iNBS98nZX33EB"
+      },
+      "artists": [
+        {
+          "name": "BigMadWolf",
+          "url": "https://open.spotify.com/artist/0SpnEvoZverwQVYtU9RrkE"
+        },
+        {
+          "name": "Im Envy",
+          "url": "https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154062,
+      "name": "Lauryn (feat. Im Envy)",
+      "url": "https://open.spotify.com/track/32TLeomM3Dmauqi06pzHyK"
+    },
+    {
+      "album": {
         "name": "DON DADA",
         "url": "https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu"
       },
@@ -5190,7 +5212,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 135446,
       "name": "NIENT'",
       "url": "https://open.spotify.com/track/4mvwSiraeuWHTaVUNJacCh"
@@ -8850,6 +8872,24 @@
       "duration_ms": 161212,
       "name": "TUTT E SBAGL",
       "url": "https://open.spotify.com/track/0buNokncaTlwjJR0LPOnG4"
+    },
+    {
+      "album": {
+        "name": "TUTT QUANT",
+        "url": "https://open.spotify.com/album/0BwscNDwR81hcalAmUkEY7"
+      },
+      "artists": [
+        {
+          "name": "Erness",
+          "url": "https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131489,
+      "name": "TUTT QUANT",
+      "url": "https://open.spotify.com/track/60N3n4VFwoNEnUYsRp8lZp"
     },
     {
       "album": {

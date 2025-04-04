@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Arvin曾傲棐同學
 
-254 songs - 14 hr 42 min
+255 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 | 2024-03-28 | 2025-03-28 |
 | [日出的缺口](https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [日出的缺口](https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as) | 3:16 | 2022-10-20 | 2023-04-14 |
 | [是 Am](https://open.spotify.com/track/7uMHJYzGXsSPeeFrGEIxjI) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [是 Am](https://open.spotify.com/album/0bMv2UDQtyg5ww8D61LrVX) | 6:29 | 2024-07-18 | 2025-03-28 |
+| [時間的碎片](https://open.spotify.com/track/1ZcQPyUh1gnOQM2xyzVkxj) | [Arvin曾傲棐](https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h) | [時間的碎片](https://open.spotify.com/album/4ylOjobPfhlgoeizP6uUvp) | 3:39 | 2025-04-03 |  |
 | [時間計](https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [時間計](https://open.spotify.com/album/2jvVEaHcTs3q3F3WA77RZT) | 3:27 | 2023-01-19 | 2023-05-12 |
 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 | 2024-03-28 | 2025-03-28 |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 | 2023-04-14 |

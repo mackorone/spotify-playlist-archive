@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Linkin Park",
+  "description": "The UK's biggest rock playlist. Cover: Scowl",
   "name": "The Rock List",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 156076,
       "name": "90 Seconds To Midnight",
       "url": "https://open.spotify.com/track/2AiR5oaCmZX5pEQwZda4IY"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 222667,
       "name": "A Question of You",
       "url": "https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 160573,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 179858,
       "name": "All the Noise",
       "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 153209,
       "name": "B.A.B.E.",
       "url": "https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z"
@@ -2777,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+    },
+    {
+      "album": {
         "name": "CAROLINE",
         "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 274012,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG"
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 138533,
       "name": "Cuntology 101",
       "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
@@ -4451,6 +4469,24 @@
     },
     {
       "album": {
+        "name": "face.",
+        "url": "https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "face.",
+      "url": "https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA"
+    },
+    {
+      "album": {
         "name": "faceplant",
         "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
       },
@@ -4582,6 +4618,24 @@
       "duration_ms": 172965,
       "name": "Fangtasy",
       "url": "https://open.spotify.com/track/2ws9oLOmP7FfiKnj29BPZ5"
+    },
+    {
+      "album": {
+        "name": "Are We All Angels",
+        "url": "https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209972,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/5KYtpMiqtObbbgsevOnFOi"
     },
     {
       "album": {
@@ -5270,6 +5324,28 @@
       "duration_ms": 187322,
       "name": "Friends With Benefits",
       "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
+    },
+    {
+      "album": {
+        "name": "from me to u (feat. Poppy)",
+        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204526,
+      "name": "from me to u (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
     },
     {
       "album": {
@@ -7144,7 +7220,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 204118,
       "name": "I'm Not Dying To Be Here",
       "url": "https://open.spotify.com/track/3KtbuP205Bjvseg2oSIIdp"
@@ -7300,6 +7376,24 @@
       "duration_ms": 212329,
       "name": "In The Silence",
       "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/2SDpVychsWa7E65pM61pjL"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146483,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/0oOmvjUwty6SzGqUhwlE99"
     },
     {
       "album": {
@@ -11082,7 +11176,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 262805,
       "name": "People Ruin Paintings",
       "url": "https://open.spotify.com/track/2CqvMjkMP1YXLVdK0zBLCQ"
@@ -11392,7 +11486,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 200045,
       "name": "POP POP POP (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/5gGHRgEQ2wfgjKRyPaOG2P"
@@ -13090,7 +13184,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 225125,
       "name": "Someone Who Can",
       "url": "https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K"
@@ -13202,7 +13296,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 203211,
       "name": "Sour Milk",
       "url": "https://open.spotify.com/track/2RZ7FUkeNqfZmIyjeB9P63"
@@ -13798,6 +13892,24 @@
       "duration_ms": 167287,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "album": {
+        "name": "Swallow This",
+        "url": "https://open.spotify.com/album/5Qs7xaSy2n64WKlwe8bA3H"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222797,
+      "name": "Swallow This",
+      "url": "https://open.spotify.com/track/2E7DeUw137nP81KgHWns9D"
     },
     {
       "album": {
@@ -16632,6 +16744,32 @@
       "duration_ms": 242662,
       "name": "YOUtopia",
       "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
+    },
+    {
+      "album": {
+        "name": "YUNG & RICH",
+        "url": "https://open.spotify.com/album/2Q2dzQ4wltauw8nXcQGih4"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        },
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        },
+        {
+          "name": "bodyimage",
+          "url": "https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189554,
+      "name": "YUNG & RICH",
+      "url": "https://open.spotify.com/track/5zAnxOpYIkNZw84zzBylJZ"
     },
     {
       "album": {

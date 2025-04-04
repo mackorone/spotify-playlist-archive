@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Playboi Carti",
+  "description": "Your shortcut to the best new Hip Hop. Cover: The 046",
   "name": "A1",
   "tracks": [
     {
@@ -866,7 +866,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 230540,
       "name": "BABY I'M BACK - Remix",
       "url": "https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 236666,
       "name": "Big Dawgs (Remix) [with A$AP Rocky]",
       "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
@@ -2901,6 +2901,32 @@
     },
     {
       "album": {
+        "name": "Drop Top Down",
+        "url": "https://open.spotify.com/album/2EkJsPsm2ZgYQrTD2Tqvp1"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Drop Top Down",
+      "url": "https://open.spotify.com/track/4MVuezmJ0vh071qLHWEeTO"
+    },
+    {
+      "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
       },
@@ -2920,7 +2946,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
@@ -3790,6 +3816,24 @@
       "duration_ms": 178723,
       "name": "FWG",
       "url": "https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq"
+    },
+    {
+      "album": {
+        "name": "G.U.S.U",
+        "url": "https://open.spotify.com/album/7nyyUB04VF3IKGERYxknoB"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198431,
+      "name": "G.U.S.U",
+      "url": "https://open.spotify.com/track/7upRYFw7oGgCzQtqAdtsp1"
     },
     {
       "album": {
@@ -4898,7 +4942,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 251826,
       "name": "Hustle Hard",
       "url": "https://open.spotify.com/track/4qSn5AOjai0wplOnIr3Kze"
@@ -5128,7 +5172,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 136190,
       "name": "Ight",
       "url": "https://open.spotify.com/track/4QvJwWlSXYXiDhjAh97KnK"
@@ -5252,6 +5296,24 @@
       "duration_ms": 176133,
       "name": "ISSA PARTY (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
+    },
+    {
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/4Kf53rJMirogBxNIDzQVSe"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/56Tn1NezPK8I82vgZ38FzR"
     },
     {
       "album": {
@@ -5402,6 +5464,24 @@
       "duration_ms": 189115,
       "name": "Jordan 1s",
       "url": "https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor"
+      },
+      "artists": [
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153991,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF"
     },
     {
       "album": {
@@ -5758,7 +5838,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 143811,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
@@ -6244,7 +6324,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 134579,
       "name": "Million Dreams",
       "url": "https://open.spotify.com/track/1vBJfOXGFx63YZcrYwq7ZR"
@@ -6357,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Money Reserve",
+        "url": "https://open.spotify.com/album/67MKmAYMm6bBVdjiVDkuh0"
+      },
+      "artists": [
+        {
+          "name": "Chillinit",
+          "url": "https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171670,
+      "name": "Money Reserve",
+      "url": "https://open.spotify.com/track/5p1rsEcknj2hGS0q3lFrlb"
+    },
+    {
+      "album": {
         "name": "Drop 7",
         "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
@@ -6408,7 +6506,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 212054,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/6Lo7ml7DFnDw2XNlv5c84p"
@@ -6816,7 +6914,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 155754,
       "name": "No Sweat",
       "url": "https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz"
@@ -6874,6 +6972,24 @@
       "duration_ms": 135063,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
+    },
+    {
+      "album": {
+        "name": "Not DnD",
+        "url": "https://open.spotify.com/album/5nXALqgifsW7RIwETUl9Ns"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "Not DnD",
+      "url": "https://open.spotify.com/track/3nYxjneoVeJSeibS7QILSu"
     },
     {
       "album": {
@@ -7044,7 +7160,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 90760,
       "name": "on one tonight",
       "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
@@ -7484,7 +7600,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189281,
-      "name": "PHONE CALL",
+      "name": "Phone Call (feat. Mabel)",
       "url": "https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg"
     },
     {
@@ -8208,7 +8324,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 166250,
       "name": "RNZ\u014c SZN",
       "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
@@ -8860,7 +8976,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162253,
-      "name": "SPINNIN (Segway Remix)",
+      "name": "Spinnin (feat. Nemzzz) - Segway Remix",
       "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
     },
     {
@@ -9026,7 +9142,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 233085,
       "name": "STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)",
       "url": "https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B"
@@ -9602,7 +9718,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 148159,
       "name": "Thought I Was Dead",
       "url": "https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB"
@@ -9762,7 +9878,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 256000,
       "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -10570,7 +10686,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 202522,
       "name": "WASSA",
       "url": "https://open.spotify.com/track/4hrqUMXWFIvyUbvckqk974"
@@ -10742,7 +10858,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"

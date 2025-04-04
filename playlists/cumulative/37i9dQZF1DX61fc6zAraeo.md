@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-216 songs - 9 hr 48 min
+217 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Flavour](https://open.spotify.com/track/6zfTdxrOhR5RmOoEQz3Jo5) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Flavour](https://open.spotify.com/album/1SWliD4g7XztMc0JHcHCwO) | 3:04 | 2024-03-06 | 2024-06-07 |
 | [For The People](https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [For The People](https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo) | 2:17 | 2024-02-07 |  |
 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 | 2024-02-07 | 2024-03-08 |
+| [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 | 2025-04-03 |  |
 | [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 | 2024-07-04 | 2025-02-08 |
 | [Glad You Came](https://open.spotify.com/track/5qC4mPqxfp9LDPsO7GhseX) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Glad You Came](https://open.spotify.com/album/5EuYe9bOkj023Gk2sD2mZt) | 2:19 | 2024-09-09 |  |
 | [Good Lie](https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Good Lie](https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB) | 2:51 | 2025-02-07 |  |
@@ -142,7 +143,7 @@
 | [Nothing In Common](https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Nothing In Common](https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39) | 3:00 | 2024-02-07 | 2024-12-04 |
 | [Nothing Left To Say](https://open.spotify.com/track/3MxZYK11pAciPApseszdNu) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Nothing Left To Say](https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP) | 2:53 | 2024-03-13 | 2025-03-21 |
 | [Oldskool Sound](https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Oldskool Sound](https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx) | 3:36 | 2024-05-23 |  |
-| [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 | 2025-01-27 |  |
+| [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 | 2025-01-27 | 2025-04-04 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2024-06-18 | 2024-07-05 |
 | [On My Love \- Hypaton Remix](https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [On My Love \(Hypaton Remix\)](https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU) | 3:11 | 2024-02-07 | 2024-06-13 |
 | [On The Floor](https://open.spotify.com/track/4Qqana5ADRXtMeomuPoN4M) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [HOLA!](https://open.spotify.com/artist/6CSvy2n6DeLrJtriClVQwI) | [On The Floor](https://open.spotify.com/album/6MmoaGPj6xSeaaQBtlCul8) | 2:08 | 2024-02-07 | 2024-03-08 |

@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 157040,
       "name": "All I See Is You",
       "url": "https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 234966,
       "name": "Badass High School Band",
       "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 204411,
       "name": "California Sober (Feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 168933,
       "name": "Don't Blame It On Me",
       "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Enough Is Enough",
+        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169133,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "album": {
         "name": "Dom Sa \u2013 Ett glas till",
         "url": "https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74"
       },
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "F\u00f6rloraren",
       "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 172166,
       "name": "Ge En Sol",
       "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 210520,
       "name": "Har p\u00e5 k\u00e4nn",
       "url": "https://open.spotify.com/track/2jlC60WVWghOGflEo0kt9L"
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 183333,
       "name": "Have The Heart (Feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
@@ -1944,7 +1962,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 281776,
       "name": "Hem till Dalarna",
       "url": "https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D"
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 223777,
       "name": "High When You Hold Me",
       "url": "https://open.spotify.com/track/0p6GPkRsbJhDYBXJFuufIr"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 222864,
       "name": "Home (Truckstops and Airports)",
       "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 200655,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 200932,
       "name": "I Wrote Your Name (Upon My Heart)",
       "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 164700,
       "name": "Isn\u2019t That Enough",
       "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
@@ -2767,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Korset",
+        "url": "https://open.spotify.com/album/4j0rXpsNxmIEKq5Ln2qHCH"
+      },
+      "artists": [
+        {
+          "name": "Staffan Hellstrand",
+          "url": "https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189386,
+      "name": "Korset",
+      "url": "https://open.spotify.com/track/41bitrPNojeptAll8T0AQj"
+    },
+    {
+      "album": {
         "name": "Kyrie Eleison",
         "url": "https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA"
       },
@@ -2800,7 +2836,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 279303,
       "name": "K\u00e4nner ni igen er",
       "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 186920,
       "name": "Living Comes With Dying",
       "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
@@ -3006,7 +3042,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 179085,
       "name": "Living La Vida",
       "url": "https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX"
@@ -3126,6 +3162,24 @@
       "duration_ms": 231346,
       "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
       "url": "https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4"
+    },
+    {
+      "album": {
+        "name": "L\u00f6ften",
+        "url": "https://open.spotify.com/album/6NzPAIljksxn9B6OqfAJWO"
+      },
+      "artists": [
+        {
+          "name": "Patrik Isaksson",
+          "url": "https://open.spotify.com/artist/79XSzUC0yAPPoxiuss55qC"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284800,
+      "name": "L\u00f6ften",
+      "url": "https://open.spotify.com/track/1FoM1Ru3Rm19LUvkjTn0k4"
     },
     {
       "album": {
@@ -3480,7 +3534,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 346133,
       "name": "No More Blues",
       "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
@@ -3538,7 +3592,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 174946,
       "name": "Now or Never (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
@@ -3582,7 +3636,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
@@ -3925,6 +3979,24 @@
     },
     {
       "album": {
+        "name": "Rain in the River",
+        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "Rain in the River",
+      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
+    },
+    {
+      "album": {
         "name": "Regnbl\u00f6ta skor",
         "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
       },
@@ -3936,7 +4008,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 150733,
       "name": "Regnbl\u00f6ta skor",
       "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
@@ -3954,7 +4026,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
@@ -4080,7 +4152,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 251362,
       "name": "R\u00e4dd f\u00f6r hundar",
       "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
@@ -4286,7 +4358,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 354600,
       "name": "Silverregn",
       "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
@@ -4304,7 +4376,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 172838,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
@@ -4412,7 +4484,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 257359,
       "name": "Solens alla \u00e4nglar",
       "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
@@ -4708,7 +4780,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 172333,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
@@ -4912,7 +4984,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 214783,
       "name": "S\u00e4llskapssjuk",
       "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
@@ -5190,7 +5262,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
@@ -5614,7 +5686,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
@@ -5834,7 +5906,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 167200,
       "name": "WILDSIDE",
       "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
@@ -5852,7 +5924,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 213905,
       "name": "Will You Run Away With Me",
       "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Guldlokk & kingtommi",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  KALASET",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 162695,
       "name": "All I need",
       "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
+    },
+    {
+      "album": {
+        "name": "Alt hvad jeg vil",
+        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224980,
+      "name": "Alt hvad jeg vil",
+      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
       "album": {
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 190004,
       "name": "I nat er i nat",
       "url": "https://open.spotify.com/track/6hWPrZS18QcAsOQIHU18dD"
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 189069,
       "name": "Kom Jeg Lidt For T\u00e6t P\u00e5",
       "url": "https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55"
@@ -2058,6 +2076,24 @@
       "duration_ms": 145414,
       "name": "Life Witness",
       "url": "https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF"
+    },
+    {
+      "album": {
+        "name": "Lige Meget Hvor Langt Du Er",
+        "url": "https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258797,
+      "name": "Lige Meget Hvor Langt Du Er",
+      "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"
     },
     {
       "album": {
@@ -2566,7 +2602,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 182860,
       "name": "Sang Til Min Far",
       "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
@@ -3050,7 +3086,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 189831,
       "name": "Til Enden Og Tilbage (feat. Ungklang)",
       "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"

@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Marracash
 
-219 songs - 11 hr 27 min
+220 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Guess Who's Back](https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Guess Who's Back](https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr) | 3:13 | 2022-04-15 | 2022-08-23 |
 | [HATTORI HANZO \(feat\. Madame\)](https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:46 | 2024-03-07 | 2025-01-31 |
 | [Hyundai \(feat\. Nitro & Vegas Jones\)](https://open.spotify.com/track/3T7gz5HBmHlkAWcUJqbMAS) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Hyundai \(feat\. Nitro & Vegas Jones\)](https://open.spotify.com/album/63DSYQz1kJNpQvzzd8pXkO) | 2:43 | 2024-11-14 | 2024-12-14 |
+| [Idiocracy \(feat\. Gemitaiz\)](https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Viscerale](https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT) | 2:43 | 2025-04-03 |  |
 | [IL BUIO NELLE MANI](https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [KLOAKA](https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF) | 2:30 | 2025-01-16 | 2025-01-31 |
 | [Imputati \(feat\. Emis Killa\)](https://open.spotify.com/track/3ARfNckt7RhPitskCY5vQk) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:14 | 2024-03-29 | 2025-01-31 |
 | [IN HEAVEN \(feat\. Ernia\)](https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 3:26 | 2023-04-06 | 2023-11-07 |

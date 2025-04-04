@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-339 songs - 18 hr 22 min
+345 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Boxer](https://open.spotify.com/track/1MYmqPMb3nYRtqo5l3mosX) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:22 | 2022-03-18 |  |
 | [Broken Compass](https://open.spotify.com/track/1HIak6kcz3MRcMuMjKEMiY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:41 | 2022-03-18 |  |
 | [Broken Compass](https://open.spotify.com/track/5IqYohaBtPHl30pE07RGqO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:41 | 2022-03-18 | 2024-04-19 |
+| [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/4Sz5KwMxHQnJPf64wJW5aq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 2:53 | 2025-04-03 |  |
 | [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 | 2023-09-05 |  |
 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / ソリクン \-Japanese ver.\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 | 2022-03-18 |  |
 | [Can't Stop \(Seungmin, I.N\)](https://open.spotify.com/track/2kJBakUhqFBNT2wNZQQaZY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:29 | 2023-11-10 |  |
@@ -82,6 +83,7 @@
 | [Christmas Love](https://open.spotify.com/track/6kc4TYfDwwxd5ihBAxVF9L) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 3:06 | 2024-11-12 |  |
 | [Chronosaurus](https://open.spotify.com/track/4ugyIuBiZNcbaWQFnpVHqb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:20 | 2022-03-18 |  |
 | [Chronosaurus](https://open.spotify.com/track/58epKNTOOt4RDWObkR9e43) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:20 | 2022-03-18 | 2024-04-19 |
+| [CINEMA \(Lee Know & Seungmin\)](https://open.spotify.com/track/2StQuhn6KdemQlwsvLgwBy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:41 | 2025-04-03 |  |
 | [CIRCUS](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) | 3:14 | 2022-06-09 |  |
 | [CIRCUS \(Korean Ver.\)](https://open.spotify.com/track/3JeLa5o0NxQjQHhVYaTLV0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:14 | 2022-10-07 | 2024-04-19 |
 | [CIRCUS \(Korean version\)](https://open.spotify.com/track/6MqXGSU0kh2auxtZivJ9kT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:14 | 2023-11-10 |  |
@@ -111,6 +113,7 @@
 | [Drive \(Bang Chan, Lee Know\)](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:44 | 2022-12-21 |  |
 | [Easy](https://open.spotify.com/track/2AeLlfB0vLKz7nukzQ97ri) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:03 | 2022-03-18 |  |
 | [Easy](https://open.spotify.com/track/4s9diT9GXpI7QiysMkoANG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:03 | 2022-03-18 | 2024-04-19 |
+| [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 | 2025-04-03 |  |
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-03-18 |  |
 | [Ex](https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:37 | 2022-03-18 | 2024-04-19 |
 | [Fairytale](https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 2:52 | 2022-06-21 |  |
@@ -128,6 +131,7 @@
 | [GET LIT](https://open.spotify.com/track/2Gq5ruFhVSunkos4YpWwsH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS) | 2:51 | 2023-11-10 |  |
 | [GET LIT](https://open.spotify.com/track/7dqUVy6c69qzuAtIFbNeZ8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:51 | 2023-06-02 | 2024-04-19 |
 | [GIANT](https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:54 | 2024-11-12 |  |
+| [GIANT \(Korean Ver.\)](https://open.spotify.com/track/7EnXcPK6xBxQr7hOFRLQIi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 2:53 | 2025-04-03 |  |
 | [Give Me Your TMI](https://open.spotify.com/track/3dqyF94Z2VfLUCwnwipYFS) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:18 | 2023-11-10 |  |
 | [Give Me Your TMI](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:18 | 2022-10-07 | 2024-04-19 |
 | [GO LIVE](https://open.spotify.com/track/1M9qmt6EFa0RJJV8C7Y3HO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 1:50 | 2022-03-18 |  |
@@ -210,6 +214,7 @@
 | [MOUNTAINS](https://open.spotify.com/track/6jTOFMDc15rrTj9ZN0b7eN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:07 | 2024-07-19 |  |
 | [Muddy Water \(Changbin, Hyunjin, HAN, Felix\)](https://open.spotify.com/track/0oHn3CGVerdfLqIrN6CT42) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:17 | 2022-03-18 | 2024-04-19 |
 | [Muddy Water \(Changbin, Hyunjin, HAN, Felix\)](https://open.spotify.com/track/64naasHUvHELX6sIP4Ckme) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:17 | 2022-03-18 |  |
+| [My Destiny](https://open.spotify.com/track/1HYUurIQFLGkgBqE8fd7XH) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [The potato lab, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6RkPSIVZIFbt50t5bIFiQG) | 3:50 | 2025-04-03 |  |
 | [My Pace](https://open.spotify.com/track/4yJUQqcnYkDafFzguSbZAl) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:10 | 2022-03-18 | 2024-04-19 |
 | [My Pace](https://open.spotify.com/track/77S3DRpDbkxHW1ZVTVyF9w) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:10 | 2022-03-18 |  |
 | [My Side](https://open.spotify.com/track/0H4OkBB1np7bWkCP4EnkiB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:36 | 2022-03-18 |  |
@@ -306,6 +311,7 @@
 | [TOP \("Tower of God" OP\)](https://open.spotify.com/track/4yosBfkEtlSLxH7n4PonsI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:05 | 2022-03-18 | 2024-04-19 |
 | [TOPLINE](https://open.spotify.com/track/60ji0V9GfeOSsxavGuFxxG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [5\-STAR](https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS) | 3:23 | 2023-11-10 |  |
 | [TOPLINE \(Feat\. Tiger JK\)](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:23 | 2023-06-02 | 2024-04-19 |
+| [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 | 2025-04-03 |  |
 | [twilight](https://open.spotify.com/track/45X5lVLg9ki8b1KcR7CWRA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:12 | 2024-07-19 |  |
 | [U](https://open.spotify.com/track/2i8ccVGWNGHuJ13Yh997ni) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:43 | 2024-12-13 |  |
 | [ULTRA \(Changbin\)](https://open.spotify.com/track/5LiRLjFqwPNR8WBmlsbQW6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:27 | 2024-12-13 |  |

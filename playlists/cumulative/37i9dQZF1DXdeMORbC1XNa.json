@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A perfect link up to soundtrack your day. Cover: Burna Boy",
+  "description": "A perfect link up to soundtrack your day. Cover: Oxlade",
   "name": "The ACS",
   "tracks": [
     {
@@ -2874,6 +2874,24 @@
       "duration_ms": 212846,
       "name": "Dog Mout",
       "url": "https://open.spotify.com/track/5nWeo7ARPdLB2yJLEgH2D5"
+    },
+    {
+      "album": {
+        "name": "OFA: Deluxe Edition",
+        "url": "https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161351,
+      "name": "DOINGZ",
+      "url": "https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8"
     },
     {
       "album": {
@@ -7946,7 +7964,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 174107,
       "name": "Pano Tona",
       "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"

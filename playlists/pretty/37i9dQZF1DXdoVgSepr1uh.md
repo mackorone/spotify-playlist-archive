@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Lauty Gram, con lo nuevo y lo viejo del reggaetón 🇦🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,729 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,730 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 2 | [SEXO ES LA MODA](https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SEXO ES LA MODA](https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD) | 2:45 |
 | 3 | [Te Quise Tanto](https://open.spotify.com/track/0ulWwGUbQJyuwWkUxmyQGX) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [Te Quise Tanto](https://open.spotify.com/album/6NH0jyxniSAdsoOcEiuKyk) | 3:34 |
 | 4 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
-| 5 | [Dimelo Mami](https://open.spotify.com/track/1MCArCVJUgBUrBnzUoZqmq) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 2:34 |
-| 6 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 |
-| 7 | [No Digas Nada](https://open.spotify.com/track/1u7RQ0tlhqWwesiwHu2DUY) | [Lucas Zambrano](https://open.spotify.com/artist/7qEQDruOpCI3XJfZCBYtxi) | [No Digas Nada](https://open.spotify.com/album/66BmWa6eWgWDNLCJ1bmnEJ) | 2:26 |
+| 5 | [Dime Dime](https://open.spotify.com/track/493Jk3GBrI5ELVtc6jtGui) | [Renzo ED](https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Dime Dime](https://open.spotify.com/album/14jY8Unpn7B8HgWwkYORZR) | 2:49 |
+| 6 | [Dimelo Mami](https://open.spotify.com/track/1MCArCVJUgBUrBnzUoZqmq) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 2:34 |
+| 7 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 |
 | 8 | [Me Tienta](https://open.spotify.com/track/1KD5aeaFOow68mfzB3wadQ) | [Beltran3k](https://open.spotify.com/artist/0ygzXUlnept7S2C6MR8fT6), [Kennel](https://open.spotify.com/artist/2uIpj8CUtY8Pt4S5LeJLKe), [FUTURE BEATS](https://open.spotify.com/artist/6Y6LEiyvXx2tTKggz1jF5q) | [Me Tienta](https://open.spotify.com/album/6FQDyfJSIZKgOYwiLTYMKP) | 3:13 |
 | 9 | [COMO YO](https://open.spotify.com/track/0Og7eYHkLv6k3bRu2LH80I) | [Motta WS](https://open.spotify.com/artist/03x1CdLth8gMPrk97uQ3i3), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [COMO YO](https://open.spotify.com/album/2ClVBOtCglZe92r1lHJfzj) | 2:13 |
 | 10 | [Pa Lante](https://open.spotify.com/track/61cNy9tps8CjQGy3qsAycB) | [Eliz](https://open.spotify.com/artist/1jagX6wMpCUYSNQGvF0D11), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Pa Lante](https://open.spotify.com/album/3EibP03c4ajIgGg3U6fNbX) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 99 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 |
 | 100 | [Me Enseñaste \(Remix\)](https://open.spotify.com/track/2jQmMjSbzPPNpuJjQIw1m2) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Me Enseñaste \(Remix\)](https://open.spotify.com/album/5yIiJZNML36zpZwECrtRL9) | 4:00 |
 
-Snapshot ID: `Z+a5eQAAAADiH0cSRwToqKLDYJCg8kOE`
+Snapshot ID: `Z+9LQAAAAAChQ2qjKgIp64xFJAK8G7Q8`

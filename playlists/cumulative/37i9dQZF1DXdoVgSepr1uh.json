@@ -1211,6 +1211,28 @@
     },
     {
       "album": {
+        "name": "Dime Dime",
+        "url": "https://open.spotify.com/album/14jY8Unpn7B8HgWwkYORZR"
+      },
+      "artists": [
+        {
+          "name": "Renzo ED",
+          "url": "https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169224,
+      "name": "Dime Dime",
+      "url": "https://open.spotify.com/track/493Jk3GBrI5ELVtc6jtGui"
+    },
+    {
+      "album": {
         "name": "Dime D\u00f3nde",
         "url": "https://open.spotify.com/album/2dAGcCM4RdkYzQXih5gg7c"
       },
@@ -3514,7 +3536,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 146750,
       "name": "No Digas Nada",
       "url": "https://open.spotify.com/track/1u7RQ0tlhqWwesiwHu2DUY"

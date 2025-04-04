@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "radio vega",
+        "url": "https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "ancora (feat. Geolier)",
+      "url": "https://open.spotify.com/track/7dOicN7jFw9HSdorxASiPu"
+    },
+    {
+      "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
       },
@@ -228,6 +250,32 @@
       "duration_ms": 516786,
       "name": "Battle Royale",
       "url": "https://open.spotify.com/track/2Dy8UvEAQSzHUivMvPR7hx"
+    },
+    {
+      "album": {
+        "name": "radio vega",
+        "url": "https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "bop (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/1T4VPFAMqougBy1JqOLYln"
     },
     {
       "album": {
@@ -430,7 +478,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 174532,
       "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL"
@@ -474,7 +522,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 134571,
       "name": "Danza del Ghetto (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/2uTE3ilwfZWtMdarjkStGs"
@@ -514,7 +562,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 168960,
       "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
@@ -974,7 +1022,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 127200,
       "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj"
@@ -1164,7 +1212,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 139047,
       "name": "Ossimoro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/7J9YW7pJ50Z2ow1VvDMTrf"
@@ -1266,7 +1314,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 196551,
       "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc"
@@ -1462,7 +1510,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 138240,
       "name": "Sexting (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3CrXZGiIvYNHnlijI0qz6H"
@@ -1808,7 +1856,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 123356,
       "name": "Vetro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/30hSNULGkp6OgCsQ9TpNDS"
@@ -1886,7 +1934,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 109500,
       "name": "Zig Zag (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/0dZIit1w1ke7tCto0J2gma"

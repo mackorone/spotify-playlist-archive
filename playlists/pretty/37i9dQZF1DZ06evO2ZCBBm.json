@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 47227,
+  "num_followers": 47232,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+ssgAAAAABb9C1cwLkTkqV4zMVhlFJs",
+  "snapshot_id": "Z+x+AAAAAADIkSFd4/L+JAoCm3pEMcrN",
   "tracks": [
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
+      "duration_ms": 133518,
+      "name": "Pinky Swear",
+      "url": "https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 133518,
-      "name": "Pinky Swear",
-      "url": "https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9"
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
       "duration_ms": 157489,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Cathedral Bell",
-      "url": "https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg"
     }
   ],
   "unique_name": "This Is The Used",

@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-789 songs - 1 day 10 hr 15 min
+790 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Miracle](https://open.spotify.com/track/25eUoeaRmrhl82hllLHLau) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Miracle](https://open.spotify.com/album/32YlG5aLf8UbMLCzvWRLxc) | 2:45 | 2024-02-04 | 2024-04-11 |
 | [Miss a Thing](https://open.spotify.com/track/74JoJh1W94YJfQmnxyQE36) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Miss a Thing](https://open.spotify.com/album/46fffKThWU6zXKL3x9qQCF) | 1:56 | 2025-01-24 | 2025-02-21 |
 | [Miss California \(DeejaVu Remix\)](https://open.spotify.com/track/5iiI3Aw0AruRfiZItxEHRx) | [Le Boeuf](https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH), [J.None](https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe), [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30) | [Miss California \(DeejaVu Remix\)](https://open.spotify.com/album/2sFp6y92TdXxw1bxwRuu7e) | 2:34 | 2023-11-12 | 2024-01-15 |
+| [Miss The Way](https://open.spotify.com/track/43YUXe0cscj0tGOELIWDMs) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Miss The Way](https://open.spotify.com/album/3E8gGlKpQfni1NOjZrY4tw) | 2:21 | 2025-04-03 |  |
 | [Miss You More](https://open.spotify.com/track/0hRSKEiWSEyV2QxlvHXQ76) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Miss You More](https://open.spotify.com/album/2UdGZSzgknpdaG9LzqOwDR) | 2:21 | 2024-06-23 | 2024-09-02 |
 | [Missing You Tonight](https://open.spotify.com/track/5iwBlTItm9brcyD9gkd95x) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Abraham Colona](https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev) | [Missing You Tonight](https://open.spotify.com/album/6GzOvD3i4HrgWTjsaYZCLW) | 2:46 | 2024-05-12 | 2024-07-14 |
 | [Moi Lolita](https://open.spotify.com/track/6MxjZH3zS3co7KPP3i6ikQ) | [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [Moi Lolita](https://open.spotify.com/album/15HzRZBcOabZ0chCz2jUhS) | 3:12 | 2024-09-20 | 2024-11-05 |

@@ -4,7 +4,7 @@
 
 > Flow sudamericano con Rvfv & YSY A.
 
-1,568 songs - 3 day 7 hr 21 min
+1,570 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [BALOTELLI](https://open.spotify.com/track/0mE7hM5xSTFGhP9VRVqLuw) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [BALOTELLI](https://open.spotify.com/album/4FbztfP2zgyTD1SOxfpJmr) | 2:18 | 2024-06-14 | 2024-06-22 |
 | [BALOTELLI](https://open.spotify.com/track/5yKTrdDTMcQREhIwBikjGI) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 2:53 | 2024-05-31 | 2024-06-08 |
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-12-27 | 2022-05-10 |
+| [Bando](https://open.spotify.com/track/0CyJuu1z03pJtWI7loX9va) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Jowa](https://open.spotify.com/artist/5ljLrsS46u9DD1e2rWvcc5) | [Bando](https://open.spotify.com/album/61SFJyZpNmvtOb32mtROrD) | 2:15 | 2025-04-04 |  |
 | [Bandolero](https://open.spotify.com/track/3jLAgYzUfr2Jk25JijeV8R) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Pobvio](https://open.spotify.com/artist/5K7DnZFhwHZLGI8fCavJfU) | [Bandolero](https://open.spotify.com/album/7f6HCkAvYqYfgKKQYWStyE) | 3:02 | 2021-12-27 | 2022-03-22 |
 | [Bandolero](https://open.spotify.com/track/0KqY0uSz8HxJB5rmFCF2Gr) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bandolero](https://open.spotify.com/album/026UFJWTzeCJ32avk7HBur) | 3:28 | 2023-06-16 | 2023-06-28 |
 | [Barrio De La Caña](https://open.spotify.com/track/1Cqta1TEi91tIWpFHU0pe7) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Barrio De La Caña](https://open.spotify.com/album/2lVWi7zoePKDbkeTa5LvSi) | 2:13 | 2024-04-26 | 2024-05-03 |
@@ -362,6 +363,7 @@
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-09-09 | 2024-03-09 |
 | [Cómo Estás BB?](https://open.spotify.com/track/6PvIUWGrOYsThHZMaTyBHc) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [FEFE WAV](https://open.spotify.com/artist/6t4GgZDk0RVM2dTfMLMOUi) | [Cómo Estás BB?](https://open.spotify.com/album/4cJALLwUA2Ua8767udoJFL) | 2:54 | 2023-06-30 | 2023-07-08 |
 | [Cómo Estás?](https://open.spotify.com/track/0m8tCUvlPfx5bU1CHA73aR) | [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d), [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9) | [Cómo Estás?](https://open.spotify.com/album/2VEcetqb7yEZD9arTcyW8b) | 3:04 | 2023-03-10 | 2023-03-18 |
+| [Cómo Estás?](https://open.spotify.com/track/0211nQrNumFzPxsQKa5Eaj) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [Mozart Muzik](https://open.spotify.com/artist/2wCROATzLTy6FpYVkE9OH8) | [Cómo Estás?](https://open.spotify.com/album/10gjIC12PM1btFGJ5tkL8f) | 2:58 | 2025-04-04 |  |
 | [Cómo Te Explico?](https://open.spotify.com/track/2ouBjgKseCiYoGBAJm3S7B) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Cómo Te Explico?](https://open.spotify.com/album/5LaLUUh2nUdBK8DoNSgX1n) | 2:42 | 2022-04-08 | 2022-05-05 |
 | [Daikiri](https://open.spotify.com/track/1yHx7Mu7JfPEpR6yRAbtcq) | [Pablo Feliu](https://open.spotify.com/artist/3cXTpQLIUC0ANH1Ne9THCG) | [Daikiri](https://open.spotify.com/album/6jMP8O6JrV5RsCl7DXqgBs) | 2:12 | 2024-06-07 | 2024-06-15 |
 | [DAILY](https://open.spotify.com/track/3FalT15qUp8ONFqLt0Sz9D) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [DAILY](https://open.spotify.com/album/617heENgtA9uMLuQMqGpTg) | 2:24 | 2024-04-26 | 2024-05-03 |

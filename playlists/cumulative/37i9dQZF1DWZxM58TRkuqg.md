@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Noah, Ramengvrl
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: .Feast
 
-340 songs - 22 hr 33 min
+342 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,9 @@
 | [New Feeling](https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [New Feeling](https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs) | 4:17 | 2024-06-27 | 2024-08-16 |
 | [Ngeluwihi](https://open.spotify.com/track/1BhClhu3KbdPLTPJFbBMwV) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Ngeluwihi](https://open.spotify.com/album/09OTA5eXLEKQAMnrvOJgq3) | 3:26 | 2024-01-26 | 2024-02-16 |
 | [Nina](https://open.spotify.com/track/0daEJMXc3b4ZMTnvtHpuTt) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Membangun & Menghancurkan](https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86) | 4:37 | 2024-09-13 | 2025-02-14 |
+| [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 | 2025-04-03 |  |
 | [Nothing More Than That](https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:33 | 2025-02-13 |  |
+| [o,Tuan](https://open.spotify.com/track/2WXXgjU6foIi4FBIPDMf9t) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Membangun & Menghancurkan](https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86) | 5:05 | 2025-04-03 |  |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-05-30 | 2024-08-09 |
 | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 | 2024-10-18 | 2025-02-14 |
 | [Orang Yang Berbeda](https://open.spotify.com/track/5ckkWPG0Y9kgyGKW5kCGWN) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Orang Yang Berbeda](https://open.spotify.com/album/0BSRjafG6lC4yF8LGEos4v) | 4:40 | 2024-04-11 | 2024-07-27 |

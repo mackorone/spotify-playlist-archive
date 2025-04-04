@@ -2,9 +2,9 @@
 
 ### [Naija Drill ](https://open.spotify.com/playlist/37i9dQZF1DWYbHpYmILnhE)
 
-> Drilling through Naij\. Cover: Pretty Boy D\-O
+> Drilling through Naij\. Cover: EESKAY
 
-90 songs - 4 hr 5 min
+91 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [On God Oh Boss](https://open.spotify.com/track/1qfE3ZIV3lkzXYUdZsXBtW) | [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Brown Roofs](https://open.spotify.com/album/0oqFYMzBIZbaymc5fYAvma) | 2:10 | 2024-08-30 | 2024-11-09 |
 | [Oppress](https://open.spotify.com/track/4WEhcjvsgEUGdfR3Jjv9uJ) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [UGLY \(U Gatts Love Yourself\)](https://open.spotify.com/album/11VnAHPIjMYw4u4AHYy6On) | 3:42 | 2024-06-28 |  |
 | [OYO \(On Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 | 2025-02-21 |  |
-| [PARA](https://open.spotify.com/track/26xlOtYwps4ooJ3UAmrSPq) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [PARA](https://open.spotify.com/album/1jwDZ3zWdPzSLewL0jh1fA) | 2:44 | 2024-06-28 |  |
+| [PARA](https://open.spotify.com/track/26xlOtYwps4ooJ3UAmrSPq) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [PARA](https://open.spotify.com/album/1jwDZ3zWdPzSLewL0jh1fA) | 2:44 | 2024-06-28 | 2025-04-04 |
 | [Perfect Timing](https://open.spotify.com/track/7xgcrkdoh6EObUoMq7hvvh) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61) | 3:28 | 2024-06-28 |  |
 | [Popping Tonight](https://open.spotify.com/track/4veszAy3oVExaFiLZxrskN) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Before The Feast](https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI) | 2:04 | 2024-06-28 | 2025-02-22 |
 | [Puff Puff Pass](https://open.spotify.com/track/4IUJeJoEnzeVbBHQybYqMS) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Puff Puff Pass](https://open.spotify.com/album/3Kn0IGNPhsQnO3PZCNPVYo) | 2:31 | 2024-06-28 | 2025-04-01 |
@@ -85,6 +85,7 @@
 | [She Knows \(Blasé\)](https://open.spotify.com/track/7vNF37TITkdgRLvn6kxb68) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Elizabeth Olowo](https://open.spotify.com/artist/1CHnKmjSG9LuRn8RelTwlH) | [She Knows \(Blasé\)](https://open.spotify.com/album/1L2BWHFLzWV6ss8FioQjb6) | 2:54 | 2024-09-27 | 2024-10-26 |
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2024-06-28 |  |
 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 | 2024-06-28 |  |
+| [State of Emergency](https://open.spotify.com/track/0pmfw4IpWaZiJgsbem44NQ) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [State of Emergency](https://open.spotify.com/album/4wnlTFN0tEyLJOueNBq8a0) | 2:08 | 2025-04-04 |  |
 | [Steady Trapping](https://open.spotify.com/track/1ZU2go4uBwksTVkzcuZG2E) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p), [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Dreams & Nightmares](https://open.spotify.com/album/6I3ypVZhhbabSe5hfPbjMr) | 3:30 | 2024-06-28 | 2024-09-28 |
 | [Step](https://open.spotify.com/track/7eZNZXw3NsyPeJUikNIHt5) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw) | [Step](https://open.spotify.com/album/6lt1qnLYoSpLAytP1VwxB4) | 2:44 | 2024-06-28 | 2024-08-31 |
 | [Stupid Queue](https://open.spotify.com/track/19JQWCJndFP2Uzko2VoUip) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [Stupid Queue](https://open.spotify.com/album/3HgyG6mDPtlRQUvGYaP8AB) | 2:02 | 2024-06-28 | 2024-07-27 |

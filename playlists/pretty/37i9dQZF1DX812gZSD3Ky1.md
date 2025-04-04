@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน:  JENNIE, Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,496 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,506 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 18 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 19 | [If You Can](https://open.spotify.com/track/07IUPfjv4HuwXzABFASN3P) | [MellaMay](https://open.spotify.com/artist/0L8p9tE4xoYkTUZ3HSOOG0) | [If You Can](https://open.spotify.com/album/0iZ9gFR1szo7FS4YisdSAM) | 3:32 |
 | 20 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
-| 21 | [LOCKET](https://open.spotify.com/track/71P3Y2hELetjmUbFdyMYhX) | [MOLY GROVES](https://open.spotify.com/artist/4Fr3ZjzDJzZJLGW2BzGFfm) | [LOCKET](https://open.spotify.com/album/2f2uJSsM3VkryfLhcTaWwr) | 3:30 |
+| 21 | [Locket](https://open.spotify.com/track/71P3Y2hELetjmUbFdyMYhX) | [MOLY GROVES](https://open.spotify.com/artist/4Fr3ZjzDJzZJLGW2BzGFfm) | [Locket](https://open.spotify.com/album/2f2uJSsM3VkryfLhcTaWwr) | 3:30 |
 | 22 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 23 | [WHERE DO WE GO?](https://open.spotify.com/track/188rOZlQ5NZfqTwHj0GHdU) | [jum:p](https://open.spotify.com/artist/2rdBW9RiXfyXgQGi36ubov) | [WHERE DO WE GO?](https://open.spotify.com/album/3csZQj8UAqgCKhnQupPQi2) | 3:40 |
 | 24 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |

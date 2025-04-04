@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,600 likes - 216 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,586 likes - 216 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 155 | [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 |
 | 156 | [Within Reach](https://open.spotify.com/track/3exsS4AVm9MhF7iW7R0WqT) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Within Reach](https://open.spotify.com/album/3wMJEOI1QZm6yFxjrXWbPR) | 2:15 |
 | 157 | [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 |
-| 158 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
+| 158 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
 | 159 | [Shine](https://open.spotify.com/track/131a48LbaLB1vIM0YBukSU) | [Majah Thur](https://open.spotify.com/artist/5vN4R8d2SYwCmNx4l70OaL) | [Shine](https://open.spotify.com/album/2tTf8Fd6uT5r845f4mMzEK) | 2:50 |
 | 160 | [Aerial](https://open.spotify.com/track/5ziRszGYU31KUp4AfHh4Yc) | [Levineci](https://open.spotify.com/artist/6htu8VXfPQRzB7bIsyWsqe) | [Aerial](https://open.spotify.com/album/2dIn22xee7AGSCWqeXBTNb) | 2:50 |
 | 161 | [Deep In Mind](https://open.spotify.com/track/6U40RErQpgOmeBHA7WiCn5) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [First Light](https://open.spotify.com/album/0bS7YuVn3QCeHZVNfiYAxw) | 2:34 |

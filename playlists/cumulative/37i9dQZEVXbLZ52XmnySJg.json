@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
@@ -12334,7 +12334,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 129772,
       "name": "Lofar",
       "url": "https://open.spotify.com/track/2L5fXA2pNlTXJvQTeMZn4z"
@@ -14474,7 +14474,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -16976,7 +16976,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 298771,
       "name": "Pehli Dafa",
       "url": "https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1"
@@ -17231,36 +17231,6 @@
     },
     {
       "album": {
-        "name": "Pistol Bole Gi (feat. Kay D & Aarohi Raghav)",
-        "url": "https://open.spotify.com/album/7fSSEqBQdN8dplcet7gsgQ"
-      },
-      "artists": [
-        {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Sheenam Katholic",
-          "url": "https://open.spotify.com/artist/5GSBzF7y5fq4zb27LQ2jZY"
-        },
-        {
-          "name": "Kay D",
-          "url": "https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm"
-        },
-        {
-          "name": "Aarohi Raghav",
-          "url": "https://open.spotify.com/artist/5oOf2Wv94U1v1wbaXyKi48"
-        }
-      ],
-      "date_added": "2025-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147169,
-      "name": "Pistol Bole Gi (feat. Kay D & Aarohi Raghav)",
-      "url": "https://open.spotify.com/track/3PWfXDaGLxwN9UJDHMEyKi"
-    },
-    {
-      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },
@@ -17464,7 +17434,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 331489,
       "name": "Premalo (From \"Court\")",
       "url": "https://open.spotify.com/track/09aG8t0WBF266vlVoZJktP"
@@ -17494,7 +17464,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 331489,
       "name": "Premalo (From \"Court\")",
       "url": "https://open.spotify.com/track/02Ck2nLoW3TpgGV6uwvK5Z"
@@ -20316,7 +20286,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 249707,
       "name": "Subhanallah",
       "url": "https://open.spotify.com/track/0GQngE2rOYvlKwEQjTAsP8"
@@ -21403,6 +21373,36 @@
     },
     {
       "album": {
+        "name": "Teri Ramjhol Bole Gi (feat. Kay D & Aarohi Raghav)",
+        "url": "https://open.spotify.com/album/7fSSEqBQdN8dplcet7gsgQ"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Sheenam Katholic",
+          "url": "https://open.spotify.com/artist/5GSBzF7y5fq4zb27LQ2jZY"
+        },
+        {
+          "name": "Kay D",
+          "url": "https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm"
+        },
+        {
+          "name": "Aarohi Raghav",
+          "url": "https://open.spotify.com/artist/5oOf2Wv94U1v1wbaXyKi48"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Teri Ramjhol Bole Gi (feat. Kay D & Aarohi Raghav)",
+      "url": "https://open.spotify.com/track/3PWfXDaGLxwN9UJDHMEyKi"
+    },
+    {
+      "album": {
         "name": "Thaa",
         "url": "https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm"
       },
@@ -22162,7 +22162,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/1798CxIpbFCXGKbfWarbTL"
@@ -22192,7 +22192,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/4Lo6I7kkHWgAVRmdILLhig"

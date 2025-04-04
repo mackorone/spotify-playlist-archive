@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,999 likes - 199 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,046 likes - 199 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

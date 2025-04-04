@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom 🍃 cover: Noah Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,181 likes - 128 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,269 likes - 128 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

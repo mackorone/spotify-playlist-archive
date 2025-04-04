@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Agostinho",
+        "url": "https://open.spotify.com/album/5G8saCNQ1VuJpm5XSFaqX4"
+      },
+      "artists": [
+        {
+          "name": "Mimicat",
+          "url": "https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154328,
+      "name": "Agostinho",
+      "url": "https://open.spotify.com/track/7F0LILCIzPxUvk8RdSoZNd"
+    },
+    {
+      "album": {
         "name": "Agosto",
         "url": "https://open.spotify.com/album/4LFDZ4pCM49hjqBZiNTKkO"
       },
@@ -828,7 +846,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 175911,
       "name": "Chuva - Acoustic",
       "url": "https://open.spotify.com/track/1J5dd7iOYWZovD8riV4HoS"
@@ -2835,6 +2853,28 @@
     },
     {
       "album": {
+        "name": "Nada Demais (feat. Rita Onofre)",
+        "url": "https://open.spotify.com/album/1GcjJY1RDYWsSJXnifdXrQ"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Caixinha",
+          "url": "https://open.spotify.com/artist/6Ji4dWE4lgaPMko8PLJV5n"
+        },
+        {
+          "name": "Rita Onofre",
+          "url": "https://open.spotify.com/artist/7vVA69an2aWJ4q8lY5KC9Z"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154722,
+      "name": "Nada Demais (feat. Rita Onofre)",
+      "url": "https://open.spotify.com/track/0H9nEqO1DybOjbFUE5Oay2"
+    },
+    {
+      "album": {
         "name": "Nas Pontas dos P\u00e9s",
         "url": "https://open.spotify.com/album/5n4oUABzSQyhbknyo8MnBX"
       },
@@ -3422,7 +3462,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 196693,
       "name": "PRIMAVERA",
       "url": "https://open.spotify.com/track/2gwjSaICLjXKNBodfe18ja"
@@ -4240,7 +4280,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 178591,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/2ff0DqG4icPsm0N6M4em6h"

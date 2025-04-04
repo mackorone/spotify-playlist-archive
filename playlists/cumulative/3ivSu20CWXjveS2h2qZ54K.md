@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,609 songs - 8 day 7 hr 46 min
+3,610 songs - 8 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1882,6 +1882,7 @@
 | [Los Bares](https://open.spotify.com/track/2gMFlLXv72q9CvyxS7Tlqx) | [Conjunto Amistá](https://open.spotify.com/artist/7dZxQ5ZCpXuQEKdXvWKOoX) | [Los Bares](https://open.spotify.com/album/3G1fDvGOp6jdcGjXUfHnXX) | 3:13 | 2025-02-14 | 2025-02-22 |
 | [Los Demonios del Fuego](https://open.spotify.com/track/4dJL5AWYbE85n97RBiPL10) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Los Demonios del Fuego](https://open.spotify.com/album/6ouK4muTBRxJN2TWkLDtCI) | 2:55 | 2024-12-06 | 2024-12-14 |
 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 | 2024-08-30 | 2024-09-07 |
+| [Los Managers](https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Los Managers](https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT) | 3:43 | 2025-04-03 |  |
 | [Los Mandamientos de Amor](https://open.spotify.com/track/2yp9Gi0jaCyc0GeBgCvFTd) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Los Mandamientos de Amor](https://open.spotify.com/album/6NtiupRzjzLiQ4kmKQTKxo) | 3:35 | 2024-10-25 | 2024-11-09 |
 | [Los Tiguerones También Lloran](https://open.spotify.com/track/6ZRdZcMAfc9ruSBOIdY7gM) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Chicho Severino](https://open.spotify.com/artist/1wTD4g0RwsDBhGj16YQJeu) | [Los Tiguerones También Lloran](https://open.spotify.com/album/0gLjcmGeWgbwdhmByUXdxH) | 2:27 | 2025-03-21 | 2025-03-29 |
 | [Lose Yourself](https://open.spotify.com/track/1aY01tu4m9PTJKq93DLm2T) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6) | 3:30 | 2024-10-11 | 2024-10-19 |

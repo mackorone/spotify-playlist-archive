@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Đông Nhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,750 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,754 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:30 |
+| 1 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:25 |
 | 2 | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/track/5SzRpDS2jfB3Zl6uQL5HCQ) | [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/album/0PEvJe4NJCGRkOZkIPTeQX) | 4:27 |
 | 3 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 4 | [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 |

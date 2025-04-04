@@ -4,7 +4,7 @@
 
 > 
 
-111 songs - 4 hr 30 min
+112 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [MICROWAVE TEA!](https://open.spotify.com/track/2yVf0mR0duiGRNjRsxFMcR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Xo Dru](https://open.spotify.com/artist/3jh91hTsuN0i1Hx7sxeDNv) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:07 | 2025-03-28 |  |
 | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/track/17iGTeBSC6VtWESUk1YqYh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [takihasdied](https://open.spotify.com/artist/78f6bSDCZQUs8wvPREBGLE) | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/album/53J2OTEVQhPTRaA8qyNaLt) | 2:05 | 2025-03-06 |  |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2024-12-31 |  |
-| [NASTYWERKKKK!](https://open.spotify.com/track/7kvQptbfqq5b4MWRQOMrZC) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [NASTYWERKKKK!](https://open.spotify.com/album/0eFoFhftAdNeb0vtTJ0iSB) | 2:19 | 2025-03-09 |  |
+| [NASTYWERKKKK!](https://open.spotify.com/track/7kvQptbfqq5b4MWRQOMrZC) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [NASTYWERKKKK!](https://open.spotify.com/album/0eFoFhftAdNeb0vtTJ0iSB) | 2:19 | 2025-03-09 | 2025-04-04 |
 | [NEW BANZ!](https://open.spotify.com/track/7F7Gc8zj61NN1v0PLDxUef) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:54 | 2024-12-08 |  |
 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 | 2025-02-26 |  |
 | [Nodding Off](https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:45 | 2025-03-14 |  |
@@ -119,5 +119,6 @@
 | [WOA!](https://open.spotify.com/track/4pBZbCEiabXZrWfSFpm7Bs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 2:26 | 2024-12-08 |  |
 | [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 | 2025-02-14 |  |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2025-02-26 |  |
+| [поговори со мной ольга](https://open.spotify.com/track/444pwWgwj1BAzRMdUsaL8Y) | [Nochnye Snaipery](https://open.spotify.com/artist/2GUwb2rxMKePzxDi94EEoZ) | [4 \[изобретение музыки\]](https://open.spotify.com/album/36jHbUizCZU6rukdJLJ3Io) | 2:51 | 2025-04-04 |  |
 
 \*This playlist was first scraped on 2025-03-24. Prior content cannot be recovered.

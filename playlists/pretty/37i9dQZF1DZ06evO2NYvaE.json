@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 40046,
+  "num_followers": 40089,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+ssgAAAAAD7gcZJG2Ylx0JGKiwgfl8O",
+  "snapshot_id": "Z+x+AAAAAAAvAaXBql8Lg7Z16/87ceWK",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
       },
       "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 147533,
-      "name": "TYG (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO"
+      "duration_ms": 224075,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
     },
     {
       "added_at": null,
@@ -343,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
       },
       "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 224075,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
+      "duration_ms": 147533,
+      "name": "TYG (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO"
     },
     {
       "added_at": null,

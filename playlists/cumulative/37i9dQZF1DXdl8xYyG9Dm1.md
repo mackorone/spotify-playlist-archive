@@ -2,9 +2,9 @@
 
 ### [Afro Bars ](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
 
-> The latest straight bars and Afro\-Trap\. Cover: M.anifest
+> The latest straight bars and Afro\-Trap\. Cover: Riky Rick
 
-339 songs - 17 hr 41 min
+340 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Change My Gear](https://open.spotify.com/track/42GXRc2VxjLAzuHmbLcaDP) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Rich And Wacko](https://open.spotify.com/album/6No6i6W4UOm0oJw0PCKs8c) | 4:40 | 2024-05-08 | 2024-09-13 |
 | [Charlie's Angels](https://open.spotify.com/track/0thXdHSRz4oipklVWo2Tsc) | [Tshego Santana](https://open.spotify.com/artist/3PrUYgxlKgT2RfX4WkeKw1) | [Dating Pool/Charlie's Angels](https://open.spotify.com/album/6pOHClu8mqlT0spze7XucT) | 3:20 | 2025-03-21 | 2025-03-29 |
 | [CINDERELLA GIRL \(WHERE YOU DEY\) \[feat\. Ludacris\]](https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [CINDERELLA GIRL \(WHERE YOU DEY\) \[feat\. Ludacris\]](https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR) | 3:35 | 2023-05-11 | 2024-05-11 |
+| [Cishe Ngaposta \(feat\. 25K, Focalistic, Blxckie, K.Keed, Blue Pappi & Lowfeye\)](https://open.spotify.com/track/0xIfAKsvzEFc0sY250davF) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [Boss Zonke Forever](https://open.spotify.com/album/1OxiVsJTxKRHkkQhBaCdgb) | 4:56 | 2025-04-04 |  |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-07 | 2024-04-19 |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 | 2022-07-07 | 2024-07-27 |
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-10-14 | 2024-07-27 |
@@ -248,7 +249,7 @@
 | [PLAYBACK](https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [PLAYBACK](https://open.spotify.com/album/2fw1To7qooV4L4wFqfDbtA) | 3:12 | 2021-10-14 | 2022-03-08 |
 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 | 2024-07-05 | 2025-04-01 |
 | [Prada](https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Prada](https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5) | 2:55 | 2023-01-19 | 2023-10-13 |
-| [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 | 2025-03-31 |  |
+| [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 | 2025-03-31 | 2025-04-04 |
 | [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-14 | 2025-03-15 |
 | [Problem No Dey Finish](https://open.spotify.com/track/2N7hk4ffi927drqdKkbQSy) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Problem No Dey Finish](https://open.spotify.com/album/59LCfOZU4rPfSa08GVGvQ2) | 2:01 | 2021-11-25 | 2022-09-17 |
 | [Problems](https://open.spotify.com/track/11JTSUxWm8c8tFywaTEboq) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Moeazy](https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI), [Lil Reamy](https://open.spotify.com/artist/1nmSigiY3nL3Zx8N9dbMVe) | [Problems](https://open.spotify.com/album/5uXduFpRFnUKAFs0QtXS1q) | 2:11 | 2024-03-07 | 2024-03-29 |

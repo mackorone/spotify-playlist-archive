@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: motty & S3BZS
 
-234 songs - 23 hr 6 min
+235 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Buenos Aires \(en la cara\)](https://open.spotify.com/track/6sn9Dgxbh4FBDrxs2EOhrr) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Lucca Saettone](https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp), [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL) | [Buenos Aires \(en la cara\)](https://open.spotify.com/album/40Q0V0xD8JZ1ueBT7qlPb3) | 3:14 | 2025-02-28 | 2025-03-20 |
 | [Bugs & Blossoms \- Original Mix](https://open.spotify.com/track/3gLlJl105YAouFQnFGgiH8) | [Juan Deminicis](https://open.spotify.com/artist/7DN8Db1uGrW7eUDjKf3Bfi) | [Bugs & Blossoms](https://open.spotify.com/album/7gc7INYiV83GH367pAisSr) | 6:54 | 2020-09-04 | 2023-11-18 |
 | [Burning Out](https://open.spotify.com/track/5nCJMCIHpv4rFqSkDWomK0) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Burning Out](https://open.spotify.com/album/1IPfJ6zicr61LjjhlttpHX) | 4:22 | 2023-11-17 |  |
+| [By Your Side](https://open.spotify.com/track/4JGTKryQQhMcMKIJUOO4Tq) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo), [Santor](https://open.spotify.com/artist/4Ao6INsRciBdfNr5WBOYlr) | [By Your Side](https://open.spotify.com/album/4mecnJXaCjRfSldm7lu2Pb) | 3:55 | 2025-04-04 |  |
 | [Bye Bye \- Juan Hansen Remix](https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Bye Bye \(Juan Hansen Remix\)](https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98) | 6:07 | 2023-11-17 | 2025-03-20 |
 | [CABEZAS DEL TIEMPO](https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Tomy Sainz](https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:12 | 2023-11-17 | 2025-03-20 |
 | [Call Her Mine](https://open.spotify.com/track/2WblHW95MQejldIcGxvzvm) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Call Her Mine](https://open.spotify.com/album/1nc7r0bfrbXxoHVZfQukBl) | 2:30 | 2024-03-01 | 2025-03-20 |

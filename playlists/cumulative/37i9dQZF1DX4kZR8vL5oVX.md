@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Bamby \(du titre \#1 au \#16\).
 
-1,496 songs - 3 day 5 hr 56 min
+1,497 songs - 3 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,6 +771,7 @@
 | [Les moulins de mon coeur](https://open.spotify.com/track/0AtVsAr0Pr2Om1gPkv8RJ4) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Les moulins de mon coeur](https://open.spotify.com/album/5zxKj9ufwWaDbd3u6ul2RF) | 2:43 | 2022-11-30 | 2023-01-04 |
 | [Les moulins de mon coeur](https://open.spotify.com/track/7CBSoJuzqFSaCctcxi1kjt) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0PkFLOzGD37G1gjsIPdPVa) | 2:43 | 2022-03-07 | 2022-04-06 |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2025-01-07 | 2025-03-05 |
+| [Les ogres](https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 2:54 | 2025-04-03 |  |
 | [Les passantes](https://open.spotify.com/track/7vqrL7kG7jbTZHCTzhnipL) | [Les copines d'abord](https://open.spotify.com/artist/5q7UuldWDRLqoxc5rqlHCU), [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Les copines d'abord \(Hommage à Brassens\)](https://open.spotify.com/album/6l6GR5SqaUT3wqWCCLWXS5) | 4:52 | 2022-01-05 | 2022-02-02 |
 | [Les rayons du soleil](https://open.spotify.com/track/2910CL97fOZuktipcMhRCp) | [Adeline Lovo](https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6) | [Les rayons du soleil](https://open.spotify.com/album/2YnlIGarVOdyCr9pyIJPU2) | 3:08 | 2022-09-06 | 2022-10-05 |
 | [Les Reasons Why \- Edit](https://open.spotify.com/track/4Erd0zRY34zU1qI0WM8dTG) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Les Reasons Why \(Edit\)](https://open.spotify.com/album/3bX7CnB6dCLtaiHXBfW9Wq) | 2:58 | 2022-11-08 | 2022-12-01 |
@@ -1329,7 +1330,7 @@
 | [Tenez\-les](https://open.spotify.com/track/37ESM3vFbqd9AufCc2Lo8E) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Tenez\-les](https://open.spotify.com/album/33rtoexxM8t9yLuqCIJOO9) | 3:03 | 2023-01-31 | 2024-01-10 |
 | [Tes yeux vertiges](https://open.spotify.com/track/5K38bxdYDCLujfhET17nZ0) | [Barbara Rivage](https://open.spotify.com/artist/18BLp9REGpjbS7TuMZWCI0) | [Tes yeux vertiges](https://open.spotify.com/album/0kr8aNY2VZ9o2m75NxxNz6) | 4:04 | 2022-04-05 | 2022-05-04 |
 | [Tesla](https://open.spotify.com/track/1V2g6V6Ip6ZTS3WL9upwYi) | [Olga Kiav](https://open.spotify.com/artist/0SbgqOJyJPlo0nENeZEOXJ) | [Tesla](https://open.spotify.com/album/1j5x4eHpf4QTvNZxy4Gd2a) | 2:02 | 2023-11-07 | 2023-11-30 |
-| [Text Back](https://open.spotify.com/track/4VLwNuffbdkapeykr0ZD8V) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [What if I break up with u ?](https://open.spotify.com/album/7LxUCbMeIYevtmkQUymwnm) | 3:02 | 2025-04-02 |  |
+| [Text Back](https://open.spotify.com/track/4VLwNuffbdkapeykr0ZD8V) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [What if I break up with u ?](https://open.spotify.com/album/7LxUCbMeIYevtmkQUymwnm) | 3:02 | 2025-04-02 | 2025-04-04 |
 | [The Ballad Of Lucy Jordan](https://open.spotify.com/track/4gj5Wv7rAJYhBrGPu01mxD) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Broken English](https://open.spotify.com/album/3H0cWLh4X4x5TB8TTkE3LE) | 4:09 | 2024-08-06 | 2024-09-04 |
 | [The Best](https://open.spotify.com/track/4OeFQtRyT7vsLnRTv7t8YT) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [All The Best](https://open.spotify.com/album/64PNGg3YLgOkJ2ySlbrmPZ) | 5:30 | 2024-08-06 | 2024-09-04 |
 | [the end.](https://open.spotify.com/track/107WqQJ4jDCZPzni6qb58v) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls : le salon](https://open.spotify.com/album/16yfLwmzCO9eVfLh8veI43) | 3:02 | 2024-11-05 | 2024-12-04 |

@@ -2,9 +2,9 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: CROOKS INC.
+> No tags, no labels \- just free form\. Cover: Oscar Jerome
 
-478 songs - 1 day 0 hr 35 min
+479 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Lena](https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Lena](https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM) | 3:25 | 2024-06-27 | 2024-10-11 |
 | [Leon the Professional](https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Leon the Professional](https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l) | 3:01 | 2022-07-17 | 2024-10-04 |
 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-01 |  |
+| [Limits](https://open.spotify.com/track/4CmdJFgdhp5RVcjLh2q3YS) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Fork](https://open.spotify.com/album/6tdqVDZQJdk1Joub1My6yt) | 4:45 | 2025-04-04 |  |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-15 | 2024-10-04 |
 | [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 | 2022-07-17 | 2022-07-20 |
 | [Lockdown](https://open.spotify.com/track/52pfiQ1SaxKC6LcLmvDD97) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Lockdown](https://open.spotify.com/album/4zOjFy0gQWpl8fMtM7GrEU) | 4:25 | 2025-02-14 |  |
@@ -412,7 +413,7 @@
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-27 | 2024-10-05 |
 | [Sweet Boys Turned Sour](https://open.spotify.com/track/31QmFXYklf0s872nAp3GUg) | [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ) | [Sweet Boys Turned Sour](https://open.spotify.com/album/6Gr9Upfd4Xf8rIgIbCfVVn) | 3:12 | 2024-04-26 | 2024-06-28 |
 | [Take a Trip](https://open.spotify.com/track/36tukOcb9HLucoY7hmZjxd) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i) | [Take a Trip](https://open.spotify.com/album/1M2cYEp1MdaWmuEz2OHFsG) | 2:52 | 2022-07-17 | 2022-08-23 |
-| [Take Me Down](https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Take Me Down](https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib) | 2:06 | 2024-12-13 |  |
+| [Take Me Down](https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Take Me Down](https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib) | 2:06 | 2024-12-13 | 2025-04-04 |
 | [Tears on my Window](https://open.spotify.com/track/12rcDYCeuZkKeDQnzRDfjN) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Tears on my Window](https://open.spotify.com/album/13v7Y0LKRPMzeIaRoFGH4e) | 3:11 | 2022-06-24 | 2022-07-24 |
 | [Tekky](https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Krept](https://open.spotify.com/artist/59u6HvxEwrOg7jrPhqxFWF) | [Tekky](https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA) | 1:58 | 2023-05-15 | 2023-08-20 |
 | [Tell Nobody](https://open.spotify.com/track/2tVDJV4m7XhHR1JO4DQQKR) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Tell Nobody](https://open.spotify.com/album/4ywZzKzeST3zTSCwd3UN7X) | 2:49 | 2024-10-03 | 2024-10-28 |

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Leonie Meijer
 
-201 songs - 12 hr 19 min
+202 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 | 2025-02-27 |  |
 | [Ik Was Amper 16 Jaar](https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Ik Was Amper 16 Jaar](https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA) | 3:18 | 2024-10-24 |  |
 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/5Txs0Hcm3Tr2tA5OOaGqDK) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/6h8rFFOtR2m6N8d4FKCYkW) | 3:54 | 2023-02-10 | 2024-01-26 |
-| [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 | 2024-04-11 |  |
+| [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 | 2024-04-11 | 2025-04-04 |
 | [Ik zou iets willen zeggen](https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Ik zou iets willen zeggen](https://open.spotify.com/album/5QpPrVWPuqnY7EnIboBkQI) | 3:48 | 2023-02-10 | 2023-04-07 |
 | [In De Wolken](https://open.spotify.com/track/1Km2FZBYTywUP04iPfLC0Q) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [In De Wolken](https://open.spotify.com/album/2ofvL42TbMchm7UhUzy1XK) | 4:31 | 2023-11-09 | 2024-03-20 |
 | [Je leeft maar 1 keer](https://open.spotify.com/track/6Q2TJRM3fR7E6uZfhmcUvw) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Je leeft maar 1 keer](https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz) | 2:54 | 2023-03-08 | 2024-01-26 |
@@ -180,6 +180,7 @@
 | [Verbinding Verbroken](https://open.spotify.com/track/62DcDrTg5pddwjRQq3vEUZ) | [Engel](https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Veertig](https://open.spotify.com/album/6B911gvHF7vDnwS0a8RQCD) | 1:58 | 2023-05-11 | 2023-09-15 |
 | [Verder Zonder Jou](https://open.spotify.com/track/2Qq0UJWcKa90A4Hq112htV) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Verder Zonder Jou](https://open.spotify.com/album/5XguRj0UnO5UfoXNssNxHY) | 3:26 | 2023-09-07 |  |
 | [Verdwijnen](https://open.spotify.com/track/5zLzSpToBAVDR6a8u4ambI) | [Rosann](https://open.spotify.com/artist/3dE7on3BB65SgLwpiloMsT) | [Verdwijnen](https://open.spotify.com/album/5ZP298nZZ4vNkoXDErzjmd) | 3:51 | 2023-11-09 | 2024-10-23 |
+| [Vleugels](https://open.spotify.com/track/76PrxZSe0reQXibUtdyotI) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Dag en Nacht](https://open.spotify.com/album/7ubp1a9BSWo40XNZv2GJyz) | 3:13 | 2025-04-03 |  |
 | [Vlinder](https://open.spotify.com/track/362Fn7IfHPGrP1H1tY5AtS) | [Rowwen Hèze](https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1) | [Dageraad](https://open.spotify.com/album/0YdZyGjxsgcdIJZtha5dq6) | 3:50 | 2023-02-10 | 2023-03-09 |
 | [Volle Maan](https://open.spotify.com/track/1OTxZKTXca1A0zSegz5Yns) | [Juliet](https://open.spotify.com/artist/3Mkbqj2WtM4AmVP2unrm55) | [Naakt Door De Stad](https://open.spotify.com/album/6MajXKEXTDRkFCaU1stRN5) | 2:52 | 2023-02-10 | 2023-03-18 |
 | [Voor Altijd](https://open.spotify.com/track/5dDnmGYIcTqvxtG35mnxAS) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Voor Altijd](https://open.spotify.com/album/6AuFFENZVU0n13Y21WyFZP) | 2:32 | 2023-02-10 | 2023-04-07 |

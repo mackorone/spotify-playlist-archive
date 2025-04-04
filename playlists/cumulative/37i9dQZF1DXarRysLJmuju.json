@@ -32183,6 +32183,24 @@
     },
     {
       "album": {
+        "name": "SUBTITLE",
+        "url": "https://open.spotify.com/album/73wEMmC3vdqqRdDfM4lh0l"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178511,
+      "name": "SUBTITLE",
+      "url": "https://open.spotify.com/track/4PUVFsRvS2YtU0Pr9euHDb"
+    },
+    {
+      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/27eDRScCURk8HRqIY0mPqM"
       },

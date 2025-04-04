@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> La Mano 1.9 au top de la première playlist de rap français.
+> Rim'k & SDM au top de la première playlist de rap français.
 
-316 songs - 16 hr 14 min
+317 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-04-28 | 2023-02-03 |
 | [Dernière ligne droite \(feat\. Laylow\)](https://open.spotify.com/track/25ph3mbSI8iOkaNGPtrUwk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Autobahn](https://open.spotify.com/album/7IDykeUjRruv9YKVWt33KX) | 3:13 | 2023-06-01 | 2023-12-01 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-25 | 2023-05-19 |
+| [DIEU MERCI](https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 4:20 | 2025-04-03 |  |
 | [DIS\-MOI \(feat\. SDM\)](https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:55 | 2023-11-23 | 2024-04-19 |
 | [Dolce Camara](https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:58 | 2024-02-22 | 2025-02-21 |
 | [Dougie](https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih) | 2:21 | 2024-07-18 | 2024-12-20 |
@@ -121,7 +122,7 @@
 | [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 2\)](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 | 2024-04-04 | 2025-03-14 |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 | 2022-09-23 |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-06-02 | 2023-03-25 |
-| [GAUCHE DROITE](https://open.spotify.com/track/3g1CbQIhd6HeCg6bzy3jDB) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [GAUCHE DROITE](https://open.spotify.com/album/41IZhPYwPPIhejAcFiaIOW) | 3:25 | 2025-03-06 |  |
+| [GAUCHE DROITE](https://open.spotify.com/track/3g1CbQIhd6HeCg6bzy3jDB) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [GAUCHE DROITE](https://open.spotify.com/album/41IZhPYwPPIhejAcFiaIOW) | 3:25 | 2025-03-06 | 2025-04-04 |
 | [Gaza](https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb) | [Un jour de paix](https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA), [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Gaza](https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP) | 4:33 | 2023-12-14 | 2024-02-09 |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2022-12-01 | 2023-06-30 |
 | [GOGETA](https://open.spotify.com/track/7qyTPWGS7llsgSbwXDDW7e) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [GOGETA](https://open.spotify.com/album/2OTTq3fLrommVqcfGplayX) | 2:48 | 2023-06-08 | 2023-07-07 |

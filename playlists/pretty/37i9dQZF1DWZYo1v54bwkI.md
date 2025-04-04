@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,834 likes - 205 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,081 likes - 205 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 96 | [Eternal](https://open.spotify.com/track/1NsNGC9U0aAh8x7bekqYfc) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Eternal](https://open.spotify.com/album/1w0DIMjPSIXA6jSHUTZlRF) | 2:50 |
 | 97 | [Visualizing](https://open.spotify.com/track/1aakOkX34CbmgrGERegFqW) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Visualizing](https://open.spotify.com/album/5BDh4c51PD8OYA10o2hpMr) | 2:41 |
 | 98 | [Numinous](https://open.spotify.com/track/6som0XayxBrwmVHOksh3Uo) | [Jinada Shane](https://open.spotify.com/artist/68NrWmdXRB6u5Fq28KmbcA) | [Numinous](https://open.spotify.com/album/17xpfnXnvEVzwErYEpVYsa) | 2:48 |
-| 99 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
+| 99 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
 | 100 | [Preternatural](https://open.spotify.com/track/3mkRzhmzKRAESPmMojVFKk) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Preternatural](https://open.spotify.com/album/2lQM7ljrnh0EvkNycXoscN) | 2:51 |
 | 101 | [Coherence](https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1) | [Distant Dreams](https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY) | [Coherence](https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14) | 3:04 |
 | 102 | [Soft Orange](https://open.spotify.com/track/4ppEHoUyU8H9NH7tf1941Y) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Soft Orange](https://open.spotify.com/album/7pKK1FMRuAkgUkIO6zsGDt) | 2:44 |

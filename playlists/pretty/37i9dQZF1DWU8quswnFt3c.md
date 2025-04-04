@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,354 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,365 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 42 | [Tourment d’amour](https://open.spotify.com/track/1ePGj5Nuo4Q7GZ2AvnZQKb) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 3:20 |
 | 43 | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/track/5NHTGOuIM4GnLCoPTYnlvW) | [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD), [Estratosfera](https://open.spotify.com/artist/4bmyQalHgw8xZFJ116P3ir), [Qiri](https://open.spotify.com/artist/4I9SixgrOaKltrQkY8o43u) | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/album/6LlR84Vm0bGpNxU1ZKE5Tr) | 4:24 |
 | 44 | [TALK2ME](https://open.spotify.com/track/6wEBSQtojMMC0dSqJ8PY40) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [TALK2ME](https://open.spotify.com/album/6iGvIHnOxyuZLJLSv4oOn6) | 3:26 |
-| 45 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:30 |
+| 45 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:25 |
 | 46 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
 | 47 | [Ambulance](https://open.spotify.com/track/585AnHpC4c13rIhnsoioyg) | [Cece Natalie](https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F) | [Miss Behaves](https://open.spotify.com/album/7EfN2vmlrsZTFkWYLI3f3e) | 2:26 |
 | 48 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |

@@ -4,7 +4,7 @@
 
 > Lauty Gram, con lo nuevo y lo viejo del reggaetón 🇦🇷
 
-280 songs - 13 hr 24 min
+281 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [DEMASIAO](https://open.spotify.com/track/5QEGGxXA9ZecOBWnl4OjXx) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DEMASIAO](https://open.spotify.com/album/41lRIKXwYbfJIxkd4Dz0bL) | 2:55 | 2023-08-11 | 2023-09-09 |
 | [Demoniaca](https://open.spotify.com/track/6gy9Yq41AuEnRO6xGWg08M) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Demoniaca](https://open.spotify.com/album/5NvVz9LHHLlweQN4TX6Dc0) | 2:20 | 2023-12-08 | 2024-02-24 |
 | [Deseo](https://open.spotify.com/track/3m5GNXrG2lD855oNa1WiYw) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Deseo](https://open.spotify.com/album/3SEImr1IJWKC5ZQC4Bz0OG) | 3:56 | 2023-06-23 |  |
+| [Dime Dime](https://open.spotify.com/track/493Jk3GBrI5ELVtc6jtGui) | [Renzo ED](https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Dime Dime](https://open.spotify.com/album/14jY8Unpn7B8HgWwkYORZR) | 2:49 | 2025-04-04 |  |
 | [Dime Dónde](https://open.spotify.com/track/4cvNRoECGS2sUiw5Q5RRsb) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Dime Dónde](https://open.spotify.com/album/2dAGcCM4RdkYzQXih5gg7c) | 3:00 | 2022-05-24 |  |
 | [Dimelo Mami](https://open.spotify.com/track/1MCArCVJUgBUrBnzUoZqmq) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 2:34 | 2024-07-03 |  |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-26 | 2023-04-01 |
@@ -175,7 +176,7 @@
 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 | 2024-11-15 |  |
 | [Móntate](https://open.spotify.com/track/19vWrX2vCODKV5cPK8DpAN) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Hazze](https://open.spotify.com/artist/6I4wcPs18A8lyviDCZsVH6) | [Móntate](https://open.spotify.com/album/3kwz5RqbMhHNqgAnl5avUV) | 2:58 | 2022-05-24 | 2023-02-18 |
 | [NAMORE](https://open.spotify.com/track/64SYEHUUlSpAxQtRuMlmDy) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [NAMORE](https://open.spotify.com/album/2JNOFTWXIFcEm5q0onRTGt) | 2:39 | 2024-02-23 |  |
-| [No Digas Nada](https://open.spotify.com/track/1u7RQ0tlhqWwesiwHu2DUY) | [Lucas Zambrano](https://open.spotify.com/artist/7qEQDruOpCI3XJfZCBYtxi) | [No Digas Nada](https://open.spotify.com/album/66BmWa6eWgWDNLCJ1bmnEJ) | 2:26 | 2025-03-28 |  |
+| [No Digas Nada](https://open.spotify.com/track/1u7RQ0tlhqWwesiwHu2DUY) | [Lucas Zambrano](https://open.spotify.com/artist/7qEQDruOpCI3XJfZCBYtxi) | [No Digas Nada](https://open.spotify.com/album/66BmWa6eWgWDNLCJ1bmnEJ) | 2:26 | 2025-03-28 | 2025-04-04 |
 | [No Fue Culpa Mia](https://open.spotify.com/track/5R8UcwccsUN90aEYDFTNnW) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 3:10 | 2024-06-07 |  |
 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 | 2022-05-24 |  |
 | [No Me Quieren](https://open.spotify.com/track/4rcYqqMOw48muBddStyu2A) | [7Darytra](https://open.spotify.com/artist/0RFfwOPf7zMXv0UqZNXjsp), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [No Me Quieren](https://open.spotify.com/album/4BU0pbp5BjbXqUzfUtMg7a) | 2:33 | 2024-02-16 | 2024-11-15 |

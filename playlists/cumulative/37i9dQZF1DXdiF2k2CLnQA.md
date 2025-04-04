@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-270 songs - 17 hr 12 min
+272 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Avenge The Fallen](https://open.spotify.com/track/3mEBAyCxcdvLi4AmrHx0vg) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Avenge The Fallen](https://open.spotify.com/album/05kFGCVd0J5UC8ZzaSTfLv) | 3:28 | 2024-08-08 | 2024-12-20 |
 | [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-03-20 |  |
 | [Bad Choices](https://open.spotify.com/track/4owIs1SnK0EtEY0nOOQFUj) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Birthday](https://open.spotify.com/album/41iAihj3VUoUpOLRMReypO) | 3:25 | 2024-08-01 | 2025-03-28 |
-| [Bad Time for Love](https://open.spotify.com/track/27PyX2WsEY7JMZBEEQUVtA) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Bad Time for Love](https://open.spotify.com/album/6Cc54t0AWjwnYxTDfYNa2C) | 3:01 | 2025-03-06 |  |
+| [Bad Time for Love](https://open.spotify.com/track/27PyX2WsEY7JMZBEEQUVtA) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Bad Time for Love](https://open.spotify.com/album/6Cc54t0AWjwnYxTDfYNa2C) | 3:01 | 2025-03-06 | 2025-04-04 |
 | [Beautiful Disaster](https://open.spotify.com/track/156pbk1UdF3CP6hiG9Szjh) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Beautiful Disaster](https://open.spotify.com/album/42k0w1OlvshAChVmMlYxHS) | 3:32 | 2024-06-27 | 2024-09-20 |
 | [Between You, God, the Devil and the Dead](https://open.spotify.com/track/0C01QjJmB1vnld4KsCdKHj) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Between You, God, the Devil and the Dead](https://open.spotify.com/album/31tP8ekB4GHSHdWdDCEgtV) | 5:39 | 2024-09-19 | 2025-03-14 |
 | [Big Buck](https://open.spotify.com/track/7550bj9cCmDLxRjCnR2bjE) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Big Buck](https://open.spotify.com/album/0u3qKDOok16eC5hkZZMJsE) | 3:33 | 2024-08-22 | 2024-09-20 |
@@ -47,7 +47,7 @@
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-08 | 2024-09-07 |
 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 | 2024-12-19 |  |
 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 | 2024-06-27 | 2024-08-30 |
-| [By a Monster’s Hand](https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster’s Hand](https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV) | 3:42 | 2025-03-06 |  |
+| [By a Monster’s Hand](https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster’s Hand](https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV) | 3:42 | 2025-03-06 | 2025-04-04 |
 | [By Design](https://open.spotify.com/track/19mCBWbK2QUL7vNVx8gRYV) | [Amongst Liars](https://open.spotify.com/artist/3ZwxX5XIpWy4E7xzf9ZqMu), [Felin](https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP) | [By Design](https://open.spotify.com/album/6vq49SapId7PB5sQcgETud) | 3:37 | 2024-06-27 | 2025-03-21 |
 | [Call of the Night](https://open.spotify.com/track/57QjQeKO0GqG004JoqZyTZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Call of the Night](https://open.spotify.com/album/7e7XJxVyMLTYPjQlnLOLMM) | 3:34 | 2025-01-09 | 2025-02-14 |
 | [Call of the Wild](https://open.spotify.com/track/5Cy6DbexweGRwp3AfKOP1U) | [Crazy Lixx](https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC) | [Call Of The Wild](https://open.spotify.com/album/29XfzrtqwBuZiGZg0TpTpN) | 4:12 | 2024-09-06 | 2024-10-18 |
@@ -129,6 +129,7 @@
 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 | 2025-02-20 |  |
 | [If I Die Tomorrow](https://open.spotify.com/track/04NEtP8O4nY7Yo7dMsCKqV) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/09FfLWLJiHt0dbVCxzmARW) | 3:42 | 2025-01-16 |  |
 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 | 2024-06-27 | 2025-03-14 |
+| [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 | 2025-04-03 |  |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-06-27 | 2024-08-30 |
 | [Is It Victory](https://open.spotify.com/track/3BgBY4bzuPpk3W9prz9YP4) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Is It Victory](https://open.spotify.com/album/49KLWetmqTtgfOiNGaeo3E) | 2:46 | 2024-06-27 | 2024-11-08 |
 | [It All Goes Away in the End](https://open.spotify.com/track/4k6m9bL6oJ7I1Z4c5RqUBr) | [Liar Thief Bandit](https://open.spotify.com/artist/6C9FgQz7w2yRvAiv1jkbbi) | [It All Goes Away in the End](https://open.spotify.com/album/160VrklzKoBgKT574qEqyC) | 3:21 | 2024-06-27 | 2025-01-10 |
@@ -190,6 +191,7 @@
 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-27 | 2025-01-24 |
 | [Run to the Hills \- 1998 Remastered Version](https://open.spotify.com/track/2JS1iE5A5RHvUPH5Zl9jlF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number Of The Beast \(1998 Remastered Edition\)](https://open.spotify.com/album/6q5MEna6Fg46powSoeZJe3) | 3:53 | 2024-06-27 |  |
 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-06-27 | 2024-09-07 |
+| [Running to You](https://open.spotify.com/track/65Rl7g8LMrODfPQoofsepx) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Running to You](https://open.spotify.com/album/5ALki6UvIzJh0velsJFYQn) | 3:03 | 2025-04-03 |  |
 | [San Antonio](https://open.spotify.com/track/7JkuYydpzSlK7MYEFvOzCY) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [San Antonio](https://open.spotify.com/album/6POggEzmQS7Egbc8JGAAwS) | 3:03 | 2024-06-27 | 2024-09-27 |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-05 |  |
 | [Say](https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Say](https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM) | 4:22 | 2024-06-27 | 2025-03-14 |

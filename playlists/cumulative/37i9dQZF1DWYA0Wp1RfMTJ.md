@@ -1,0 +1,46 @@
+[pretty](/playlists/pretty/37i9dQZF1DWYA0Wp1RfMTJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYA0Wp1RfMTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYA0Wp1RfMTJ)
+
+### [Blue Box アオのハコ ](https://open.spotify.com/playlist/37i9dQZF1DWYA0Wp1RfMTJ)
+
+> Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
+
+34 songs - 2 hr 6 min
+
+| Title | Artist(s) | Album | Length | Added | Removed |
+|---|---|---|---|---|---|
+| [1 on 1](https://open.spotify.com/track/7COvUGnWFcl87jeSt6LkJO) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:12 | 2025-04-03 |  |
+| [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 | 2025-04-03 |  |
+| [「アオのハコ」スペシャルボイスコメント（上田麗奈、鬼頭明里）](https://open.spotify.com/track/1FzOFyPSEqAY7q6CpYM3wA) | [アオのハコ](https://open.spotify.com/artist/0ynuDsM1fzRQTRSVogDu6q) | [「アオのハコ」スペシャルボイスコメント（上田麗奈、鬼頭明里）](https://open.spotify.com/album/3oVwwPZBcsRNcRSPjTlMz2) | 0:48 | 2025-04-03 |  |
+| [【 第1回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【上田麗奈＆千葉翔也】](https://open.spotify.com/episode/5gekpPK1nkDGS40yarbbhE) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 53:51 | 2025-04-03 |  |
+| [ありがとう](https://open.spotify.com/track/5gqzBK4RFM9Jwq6qA4uG1p) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:53 | 2025-04-03 |  |
+| [いつもの風景](https://open.spotify.com/track/0izJEHPw6rpHoPhBEg9coq) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:38 | 2025-04-03 |  |
+| [おしゃべり](https://open.spotify.com/track/0pcNzZ6MJrbaVFhJXvQCEs) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:46 | 2025-04-03 |  |
+| [なになに恋バナ！？](https://open.spotify.com/track/7eXNccT3Ku0d1V4WhbkRg4) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:30 | 2025-04-03 |  |
+| [なんだって〜！？](https://open.spotify.com/track/1l1V2HmdvG30JMtZjzjFTb) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:33 | 2025-04-03 |  |
+| [ふたりの関係](https://open.spotify.com/track/2kpxIs0C2XUtTwt0P2I49s) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:53 | 2025-04-03 |  |
+| [やっぱ悔しい](https://open.spotify.com/track/3VmPQ4vD8JY2m3T6UkIjph) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:26 | 2025-04-03 |  |
+| [アオのハコ](https://open.spotify.com/track/72kiqjfioZZOROQYCOLjkX) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:52 | 2025-04-03 |  |
+| [アオハル](https://open.spotify.com/track/56RFATKhftqgehXruXuhc0) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:59 | 2025-04-03 |  |
+| [ガチンコ勝負](https://open.spotify.com/track/1OQdNZqGZTsbxd1gjeDDfj) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:13 | 2025-04-03 |  |
+| [コントラスト](https://open.spotify.com/track/6YDX87CQy67xv0J6aMOCKu) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [コントラスト](https://open.spotify.com/album/5VtSwjOsoLTjnuAPwsDlSS) | 4:18 | 2025-04-03 |  |
+| [ティーンエイジブルー](https://open.spotify.com/track/1VX0XkhIHTO2CuZo1FbYp6) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ティーンエイジブルー](https://open.spotify.com/album/4LDyey8znnd2Y6jLr5Vjtj) | 3:45 | 2025-04-03 |  |
+| [ミサンガ](https://open.spotify.com/track/24HBKpumwvrkHNp1ge2oI1) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:35 | 2025-04-03 |  |
+| [一進一退](https://open.spotify.com/track/4VyHOVzmX4JPIpyQCnL1SA) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:37 | 2025-04-03 |  |
+| [動揺](https://open.spotify.com/track/6okyNsGpALAJTsStp6pbZ8) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:22 | 2025-04-03 |  |
+| [千夏](https://open.spotify.com/track/22K7jIKlLslWHaCeaEiTwD) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:02 | 2025-04-03 |  |
+| [同居生活](https://open.spotify.com/track/7LMWh8Uiuq54tQFPg3ewzf) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:59 | 2025-04-03 |  |
+| [大切な言葉](https://open.spotify.com/track/3QvMkUqm8SHyJHNdDbbgHy) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:12 | 2025-04-03 |  |
+| [好きな人の言葉](https://open.spotify.com/track/6jxVxyUm3aGpxhFdTa6nxF) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:44 | 2025-04-03 |  |
+| [恋色 \- inst ver](https://open.spotify.com/track/7LcuntOuUHjeXwglZ5WdGh) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:53 | 2025-04-03 |  |
+| [放課後](https://open.spotify.com/track/40zLoiTOOGEXMzdln9kLhR) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:20 | 2025-04-03 |  |
+| [毎朝一番に会いたい人](https://open.spotify.com/track/3m0pGUTpYIJNTe4d4vDCoL) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:13 | 2025-04-03 |  |
+| [溢れた気持ち](https://open.spotify.com/track/2ez7gkR2vYvvVISOxKuUTm) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:54 | 2025-04-03 |  |
+| [無防備すぎる](https://open.spotify.com/track/1JTAM0rO0TneGXnc1ztfEF) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:31 | 2025-04-03 |  |
+| [然らば](https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [然らば](https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08) | 3:57 | 2025-04-03 |  |
+| [空回り](https://open.spotify.com/track/7kQdYyGmbwuaLW6mOvi33p) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:43 | 2025-04-03 |  |
+| [自己嫌悪タイム](https://open.spotify.com/track/3WMeQ6jKJAx2nQGtuNdMmo) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:31 | 2025-04-03 |  |
+| [苦しい時](https://open.spotify.com/track/2mkGabvnF9paSPBTZJPNW3) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:09 | 2025-04-03 |  |
+| [話しかけるチャンス](https://open.spotify.com/track/1H1xvZAY13Sbss6nOeqpXB) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:03 | 2025-04-03 |  |
+| [諦めたくないなって](https://open.spotify.com/track/7A61Xac9ywPg6OtwiSeooy) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:18 | 2025-04-03 |  |
+
+\*This playlist was first scraped on 2025-04-04. Prior content cannot be recovered.

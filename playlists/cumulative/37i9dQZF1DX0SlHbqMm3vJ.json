@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Crayon",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Oxlade",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -3646,6 +3646,24 @@
       "duration_ms": 194057,
       "name": "Doing Me",
       "url": "https://open.spotify.com/track/4optsmphrYWvFh027612MA"
+    },
+    {
+      "album": {
+        "name": "OFA: Deluxe Edition",
+        "url": "https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161351,
+      "name": "DOINGZ",
+      "url": "https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8"
     },
     {
       "album": {
@@ -14682,7 +14700,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 194785,
       "name": "Winter & Summer",
       "url": "https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt"

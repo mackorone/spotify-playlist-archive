@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-279 songs - 15 hr 56 min
+280 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Go Go Wonderland](https://open.spotify.com/track/5WIuky12ctllWM8lAGFfVo) | [noiseless\-world](https://open.spotify.com/artist/1fzPkOEEMTM3S2RWteQjTj) | [2018](https://open.spotify.com/album/4j6gQbX2DOnPnP4gi5FdBu) | 3:55 | 2023-12-24 |  |
 | [Good Night](https://open.spotify.com/track/2Aeq6X8PmiZrzdC5WptzIL) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Play the world](https://open.spotify.com/album/4mnu3y4nJjpnT24fRUPlMD) | 3:57 | 2024-02-06 |  |
 | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/22GIffkfqo45pTLyGXrRHX) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/2DtL6aukVKA4gPalst5JtC) | 2:49 | 2023-11-17 |  |
+| [HAREBARE](https://open.spotify.com/track/6qRXiDBpqYSNziFaHLl8tV) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [HAREBARE](https://open.spotify.com/album/65MUZrDqQenpzqBgcaJPNk) | 3:08 | 2025-04-03 |  |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-11-25 |  |
 | [Hatsukoisou \- Selfcover](https://open.spotify.com/track/10FzsPAEgBULrpWLyEoOzO) | [FLG4](https://open.spotify.com/artist/63MKBngdiEGvCJhGfCDjMD) | [Hatsukoisou \(Selfcover\)](https://open.spotify.com/album/3an0xFEBWz03yNv8tON518) | 2:51 | 2024-07-29 |  |
 | [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr\. Asyu](https://open.spotify.com/artist/1RJXUJYZGrX9fGK92SjecX) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 | 2024-12-08 |  |

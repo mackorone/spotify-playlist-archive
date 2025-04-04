@@ -1,13 +1,77 @@
 {
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Sherifflazone",
-  "num_followers": 107522,
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Ino Casablanca",
+  "num_followers": 107531,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mPlgAAAAAZwlXChO3Sk4Sj7NAFuPvp",
+  "snapshot_id": "Z+5HEwAAAABi84ijLcLpnwvttM/otSnk",
   "tracks": [
+    {
+      "added_at": "2025-04-03 08:30:11",
+      "album": {
+        "name": "Moussolou",
+        "url": "https://open.spotify.com/album/5u204VNM3IBKt7SltaiclN"
+      },
+      "artists": [
+        {
+          "name": "Saaro",
+          "url": "https://open.spotify.com/artist/7EhNT3E3h56XbuohaGE0Z1"
+        }
+      ],
+      "duration_ms": 155364,
+      "name": "Moussolou",
+      "url": "https://open.spotify.com/track/11lvplrugi4lTMK0ndfMYB"
+    },
+    {
+      "added_at": "2025-04-03 08:30:11",
+      "album": {
+        "name": "TAMARA",
+        "url": "https://open.spotify.com/album/34mc5ZeDyl2n0Jv1kXDn8M"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "duration_ms": 158516,
+      "name": "NOUVO GROOVE",
+      "url": "https://open.spotify.com/track/6YG2IJB93if1Cv8QxNHesA"
+    },
+    {
+      "added_at": "2025-04-03 08:30:11",
+      "album": {
+        "name": "Les \u00e9toiles",
+        "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "duration_ms": 163363,
+      "name": "Les \u00e9toiles",
+      "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
+    },
+    {
+      "added_at": "2025-04-03 08:30:11",
+      "album": {
+        "name": "OUT OF CONTROL, INTO THE WALL",
+        "url": "https://open.spotify.com/album/3eBWV87VNtnMg6myhRbeYe"
+      },
+      "artists": [
+        {
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
+        }
+      ],
+      "duration_ms": 304624,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/2OL7obe1J70lqOitrZKHQw"
+    },
     {
       "added_at": "2025-01-16 23:00:38",
       "album": {

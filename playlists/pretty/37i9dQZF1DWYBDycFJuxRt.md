@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: LANA \*👉 <a href="https://spice.eplus.jp/articles/336775">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,932 likes - 66 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,022 likes - 66 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Fernweh",
+        "url": "https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124730,
+      "name": "Fernweh",
+      "url": "https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a"
+    },
+    {
+      "album": {
         "name": "Finding The Heavens",
         "url": "https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ"
       },

@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-224 songs - 10 hr 39 min
+225 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Enfantillages pittoresques: II\. Berceuse](https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Satie: Complete Piano Works, Vol\. 2/2](https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex) | 1:17 | 2021-11-09 | 2023-10-25 |
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2023-09-29 |  |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2023-09-29 |  |
+| [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 | 2025-04-04 |  |
 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 | 2022-01-28 |  |
 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 | 2024-05-01 |  |
 | [For Children Vol\. 1, Sz\. 42: No\. 3 Quasi adagio](https://open.spotify.com/track/2b12Hb86ANOA56DvXXHao6) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Lars Vogt](https://open.spotify.com/artist/3xYzk2kbx3IEGo2YPeoggv) | [Larcher, Schumann & Bartók…For Children](https://open.spotify.com/album/0Pjj3RQJOAxMk26duV8NEP) | 0:56 | 2021-11-09 | 2023-10-25 |

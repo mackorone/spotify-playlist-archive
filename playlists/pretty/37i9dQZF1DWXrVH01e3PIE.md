@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Bhavi en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,594 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,584 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 14 | [Vivo Fresh](https://open.spotify.com/track/4BWwoRrK8TgoTJFscf10YL) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc) | [Vivo Fresh](https://open.spotify.com/album/2KUPifGAYUMJyEYhzLPnrh) | 3:00 |
 | 15 | [NO DIGAS QUE NO](https://open.spotify.com/track/3USLFvkIu4ycyWKnYnKlU1) | [Deelen](https://open.spotify.com/artist/7cjoCFnn11DttcLJfXHvxd), [TMG](https://open.spotify.com/artist/2yuptA14ZS9sTbjwS25Y5e), [almeja](https://open.spotify.com/artist/71gzy96nNKcRdymNSLp5Rh) | [NO DIGAS QUE NO](https://open.spotify.com/album/7FMDcazJBXFOesAPO6Lfh9) | 4:10 |
 | 16 | [Doly Flackko // Round 14](https://open.spotify.com/track/4r0feBhC3HDC6Of74uPxnv) | [Room41](https://open.spotify.com/artist/06y9BCJYP2wpYn61S4USLy), [Doly Flackko](https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH) | [Doly Flackko // Round 14](https://open.spotify.com/album/6IRrNqHs29XKQ6juBmV1Uy) | 2:46 |
-| 17 | [AMERICA](https://open.spotify.com/track/6KXafM7CmZruqv4nNxbIN9) | [busdrago](https://open.spotify.com/artist/7sFSlwizMUOAvRgu4FJxvT), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p) | [America](https://open.spotify.com/album/5FaJ9rd0ThEFn6xW7QmUjB) | 1:53 |
+| 17 | [America](https://open.spotify.com/track/6KXafM7CmZruqv4nNxbIN9) | [busdrago](https://open.spotify.com/artist/7sFSlwizMUOAvRgu4FJxvT), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p) | [America](https://open.spotify.com/album/5FaJ9rd0ThEFn6xW7QmUjB) | 1:53 |
 | 18 | [ROMCOM](https://open.spotify.com/track/0slW4JzTzoSWKSQdzbsVEN) | [Canals](https://open.spotify.com/artist/5RxLAt9nYq8Ww3Bg5kmXOn) | [ROMCOM](https://open.spotify.com/album/7rUN9ZsuVBmz4SF37JyUOZ) | 2:27 |
 | 19 | [RETRO 90](https://open.spotify.com/track/0ibNwd67Emyl0GU1wwjghq) | [almeja](https://open.spotify.com/artist/71gzy96nNKcRdymNSLp5Rh), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o) | [RETRO 90](https://open.spotify.com/album/2ktIsjGjaKfiU23mABNY4O) | 3:15 |
 | 20 | [TOP](https://open.spotify.com/track/7D0MKc1BOovF3nzvPbzbpB) | [Piku](https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz), [Koro Beats](https://open.spotify.com/artist/76m7RJJu4NnBjvHHBjCc3X) | [TOP](https://open.spotify.com/album/5sIwtX6VZqRbgokXAcAtl5) | 2:39 |

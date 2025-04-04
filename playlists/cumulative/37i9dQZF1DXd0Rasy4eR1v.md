@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: HAVI
+> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Afusic
 
 1,020 songs - 2 day 6 hr 50 min
 

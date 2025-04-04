@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-213 songs - 12 hr 43 min
+215 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Life's More Beautiful Than Hard](https://open.spotify.com/track/5SsFZdvxDeNAN4QV45aSYS) | [Sylvia Aimee](https://open.spotify.com/artist/1RDuJ4WLsdSCAuft8dwt5P), [Amber Kamminga](https://open.spotify.com/artist/2KGHUlIdPqK6lHBqaKCGYY), [Angie Flare](https://open.spotify.com/artist/1n3PqShxg0oEVPxJUToico), [Kimmy June](https://open.spotify.com/artist/1sKzVtXJLtrK6BGTKVJzGK) | [Identity](https://open.spotify.com/album/20lrrvbJIj9p8hlWXNpqdA) | 2:52 | 2023-06-29 | 2025-01-17 |
 | [Lightyears Better](https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Lightyears Better](https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd) | 3:04 | 2023-02-23 | 2023-06-16 |
 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 | 2025-02-03 |  |
-| [Little Miss Blue Eyes](https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Fortunes & Willows](https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x) | 4:04 | 2024-04-11 |  |
+| [Little Miss Blue Eyes](https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Fortunes & Willows](https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x) | 4:04 | 2024-04-11 | 2025-04-04 |
 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 | 2023-02-23 | 2024-06-28 |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2023-02-23 | 2023-05-07 |
 | [Lost & Found](https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Lost & Found](https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV) | 2:38 | 2023-02-23 | 2024-09-13 |
@@ -131,9 +131,10 @@
 | [Mortality Blues](https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mortality Blues](https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ) | 3:15 | 2024-08-01 | 2025-04-01 |
 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 | 2025-02-07 |  |
 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 | 2025-01-23 | 2025-03-20 |
+| [My Heart Won't](https://open.spotify.com/track/3tsrRpdoFqH23NaR7y9NP1) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [My Heart Won't](https://open.spotify.com/album/6goMgkbUroDzepAl91MivL) | 2:46 | 2025-04-03 |  |
 | [My Love Is On The Run](https://open.spotify.com/track/1HUPYoXCbnhQnwsKbZBwzQ) | [Damiën Van Elburg](https://open.spotify.com/artist/5AfiMBS3lNh5qbmqpTgMmO) | [Peace of Mind](https://open.spotify.com/album/6npPpBrnnwLpUJwbFULGjs) | 3:21 | 2023-05-11 | 2023-06-16 |
 | [Nighttime Walk](https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [Nighttime Walk](https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48) | 5:36 | 2023-10-05 | 2024-08-02 |
-| [Not Cause I Wanted To](https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Not Cause I Wanted To](https://open.spotify.com/album/6eZygmRQkhCOX8ShR5uXmU) | 3:33 | 2025-03-20 |  |
+| [Not Cause I Wanted To](https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Not Cause I Wanted To](https://open.spotify.com/album/6eZygmRQkhCOX8ShR5uXmU) | 3:33 | 2025-03-20 | 2025-04-04 |
 | [Not So Precious Memories](https://open.spotify.com/track/2NVtDHMYLzw5jQUShn9gDd) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Not So Precious Memories](https://open.spotify.com/album/5dho5K7jU61eQfwdsgAk9f) | 2:48 | 2025-01-16 | 2025-02-04 |
 | [Nothing Can Hurt Me Today](https://open.spotify.com/track/3SaDPZcQByxcTCRVP5dwiE) | [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Nothing Can Hurt Me Today](https://open.spotify.com/album/1u2dRTYzBBiuPszo2LZfV2) | 2:58 | 2024-07-19 | 2025-02-04 |
 | [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2025-02-03 |  |
@@ -207,6 +208,7 @@
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2023-02-23 | 2024-06-28 |
 | [Wanna Be Big Bad Johnny Cash](https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 3:21 | 2024-11-14 |  |
 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-05-25 |  |
+| [We're All Gonna Die](https://open.spotify.com/track/7Bl1yuT1E6CQwxCXk7SHjd) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x), [Leadbeaters](https://open.spotify.com/artist/0NCAW9dP1JyZg0idsKw8Uf) | [We're All Gonna Die](https://open.spotify.com/album/09n8vdHEqXunDGkwvIMc19) | 3:32 | 2025-04-03 |  |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-09 |  |
 | [What Kind of Woman](https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [What Kind of Woman](https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG) | 3:34 | 2023-02-23 | 2024-08-30 |
 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2024-09-26 |  |

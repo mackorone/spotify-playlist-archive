@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6mW4IoTlAYKNN7U87ta3G3.md) - [plain]
 
 > Celebrating 90 years of Decca Records.
 
-[Decca Records](https://open.spotify.com/user/deccarecords) - 925 likes - 55 songs - 3 hr 14 min
+[Decca Records](https://open.spotify.com/user/deccarecords) - 926 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
+| 1 | [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
 | 2 | [This Time Of Year](https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [This Time Of Year](https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP) | 3:42 |
 | 3 | [Fall On Me](https://open.spotify.com/track/3wtIJv1PVcwGdNVeIfGNOd) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Sì \(Deluxe\)](https://open.spotify.com/album/0givKRBkCXLZOuDFwlYHQz) | 4:18 |
 | 4 | [Winter Wonderland](https://open.spotify.com/track/1nPyzMYDJgkIHQ4u34bYlo) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [Winter Wonderland](https://open.spotify.com/album/7hlNtKddCKxh5Uo8PViDfh) | 3:03 |

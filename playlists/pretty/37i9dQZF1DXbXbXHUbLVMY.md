@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,371 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,369 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 79 | [Dreams](https://open.spotify.com/track/4e6yJydi3ONicrZ8gXsCCv) | [Tommy Tee](https://open.spotify.com/artist/4ihTfE4MtCrKerRYHU7e4p), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Dreams](https://open.spotify.com/album/45fNa0CxkPKwJrFXdzcZRf) | 2:58 |
 | 80 | [Over mitt lik \(feat\. Molly Hammar\)](https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Skulle Bare Visst](https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv) | 2:43 |
 
-Snapshot ID: `Z+XYewAAAABEb3/M/0Jco7CrsqA8HoS0`
+Snapshot ID: `Z+8FCgAAAAAYR+lR892UN4BDl3GaqfVM`

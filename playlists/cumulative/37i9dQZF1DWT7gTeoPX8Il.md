@@ -4,7 +4,7 @@
 
 > layan je
 
-282 songs - 18 hr 36 min
+284 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2024-01-18 | 2025-03-20 |
 | [Bertahan Demi Cinta](https://open.spotify.com/track/5002v9QNZDwdyb1XEbE14x) | [Fazura](https://open.spotify.com/artist/4P0JsOTEOJEAGLAGo3R1Yf), [Fattah Amin](https://open.spotify.com/artist/4yJ33lTnKh4Kiwrk2e64HH) | [Bertahan Demi Cinta](https://open.spotify.com/album/0UkpScQ932ewZAuPNPZMC2) | 3:59 | 2024-10-17 | 2024-12-13 |
 | [Bertahan Terluka](https://open.spotify.com/track/1pAum8mSIFYHL009Ke9pT6) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:00 | 2024-01-25 | 2024-04-19 |
+| [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 | 2025-04-03 |  |
 | [Bila Rasaku Ini Rasamu](https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:32 | 2024-12-12 |  |
 | [Bimbang](https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 3:38 | 2024-05-10 | 2024-05-17 |
 | [Bimbang Serumpun Kasih Terbuang](https://open.spotify.com/track/4uvJC4WMRE0g2hpvZhIO07) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Fareez Fauzi](https://open.spotify.com/artist/44egeaQFX2Ix8J1kUIYYRk) | [Bimbang Serumpun Kasih Terbuang](https://open.spotify.com/album/4ypQxWOOBy3FmI8aPwXADj) | 5:26 | 2024-07-25 | 2024-08-31 |
@@ -139,6 +140,7 @@
 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 | 2024-02-01 | 2024-02-23 |
 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 | 2024-04-26 | 2024-10-04 |
 | [Kau Buat Aku](https://open.spotify.com/track/6M3Exry9bC7ZZle6691Dqh) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Kau Buat Aku](https://open.spotify.com/album/1UgQUFV7xMjA5T4PQs24kv) | 2:55 | 2024-02-01 | 2024-02-23 |
+| [Kau Selalu Di Hati](https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Symphony From The Heart](https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL) | 4:11 | 2025-04-03 |  |
 | [Kebohonganmu](https://open.spotify.com/track/03jan0LOKGCHmDui5I7WdF) | [Mierul Hazly](https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp) | [Kebohonganmu](https://open.spotify.com/album/2Rn7m9nlTtHtn1AwMn031K) | 3:25 | 2024-02-29 | 2024-03-08 |
 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 | 2024-07-25 | 2024-08-31 |
 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 | 2024-01-25 |  |
@@ -162,7 +164,7 @@
 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 | 2024-12-12 | 2025-01-17 |
 | [Luka Ini](https://open.spotify.com/track/0QGSp7NwxBAkNrKQgcwNLL) | [Apex Tajudin](https://open.spotify.com/artist/2XJ2ePxUF5CnYf2VRPo6la) | [Luka Ini](https://open.spotify.com/album/1eJ3N1DvQ57WVh6VVlQUrj) | 3:45 | 2024-06-07 | 2024-06-21 |
 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 | 2024-09-27 | 2024-10-18 |
-| [Lumrah Cinta](https://open.spotify.com/track/73s6H3dbBU9cAYdLhiDXD3) | [PUTERI KHAREEZA](https://open.spotify.com/artist/17Cl089Yw28vjfKElTVFp7) | [Lumrah Cinta](https://open.spotify.com/album/0roclBSIpwkNP1WAGSOCu0) | 3:44 | 2025-03-13 |  |
+| [Lumrah Cinta](https://open.spotify.com/track/73s6H3dbBU9cAYdLhiDXD3) | [PUTERI KHAREEZA](https://open.spotify.com/artist/17Cl089Yw28vjfKElTVFp7) | [Lumrah Cinta](https://open.spotify.com/album/0roclBSIpwkNP1WAGSOCu0) | 3:44 | 2025-03-13 | 2025-04-04 |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-24 | 2024-06-07 |
 | [Makna Cintamu](https://open.spotify.com/track/6F1IbZ1FLEvcB6SgwsjXEE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [Makna Cintamu](https://open.spotify.com/album/4brON09cjQSouC6PUfRcFW) | 2:49 | 2024-06-07 | 2024-06-21 |
 | [Masa Lalu](https://open.spotify.com/track/3VgPPdCVUKW1Sf67qeHxaC) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Masa Lalu](https://open.spotify.com/album/1M7qOVd97il4l6vpmBnJAm) | 3:23 | 2024-06-07 | 2024-06-21 |
@@ -279,7 +281,7 @@
 | [Tetap Di Sini](https://open.spotify.com/track/2VC3pcCC1nMBRq2y1JbDHy) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Janji](https://open.spotify.com/album/57YvxSlmYaHXgmYKIWvIEq) | 5:41 | 2024-12-12 | 2025-01-17 |
 | [Tetap Ku Cinta](https://open.spotify.com/track/7CyIlxl56oUCWtjfnH4S6Q) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L), [Jovita Pearl](https://open.spotify.com/artist/3HLbQCbpfIofxRwCieidX5) | [Tetap Ku Cinta](https://open.spotify.com/album/0nj0CwcVuXt7iJJAwqdouH) | 4:49 | 2024-06-07 | 2024-06-21 |
 | [tiba\-tiba jumat lagi](https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [tiba\-tiba jumat lagi](https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7) | 4:09 | 2024-01-25 | 2024-02-02 |
-| [Tipu Helah](https://open.spotify.com/track/4xAwNQVjZKgej1D0Rd1hrO) | [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Tipu Helah](https://open.spotify.com/album/6MxV1OgGoiXQ1Ufkaqak5q) | 3:10 | 2025-03-06 |  |
+| [Tipu Helah](https://open.spotify.com/track/4xAwNQVjZKgej1D0Rd1hrO) | [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Tipu Helah](https://open.spotify.com/album/6MxV1OgGoiXQ1Ufkaqak5q) | 3:10 | 2025-03-06 | 2025-04-04 |
 | [Trauma](https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma](https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z) | 3:38 | 2024-01-18 | 2024-04-19 |
 | [Tunggulah Sebentar](https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Bertumbuh](https://open.spotify.com/album/5NsLnUV8d8Ppiwwlr0RRX9) | 4:13 | 2024-02-22 | 2024-03-01 |
 | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/track/6657DgGU1WPHIopNQ6O4B8) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/album/4Zxcug5c4qmcsYg52BH2yM) | 3:28 | 2024-04-26 | 2024-05-11 |

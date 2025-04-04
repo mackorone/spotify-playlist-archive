@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Acetone",
+        "url": "https://open.spotify.com/album/7scQVrEtlwLlH35SvkHgnu"
+      },
+      "artists": [
+        {
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263614,
+      "name": "Acetone",
+      "url": "https://open.spotify.com/track/5e8ytXfDMAOfXmppQrPbxo"
+    },
+    {
+      "album": {
         "name": "The Yellow Chapter",
         "url": "https://open.spotify.com/album/20X24Co7k0ySrKdWCRvWPO"
       },
@@ -140,6 +158,24 @@
       "duration_ms": 220000,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5koR0ccU16Uknn5Rvm93g2"
+    },
+    {
+      "album": {
+        "name": "Slow Crush",
+        "url": "https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210926,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
     },
     {
       "album": {
@@ -288,6 +324,24 @@
       "duration_ms": 245226,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/33Y2KCwOb0PRF0qCgat5GO"
+    },
+    {
+      "album": {
+        "name": "Best Behaviour",
+        "url": "https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196001,
+      "name": "Best Behaviour",
+      "url": "https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y"
     },
     {
       "album": {
@@ -580,7 +634,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 194296,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu"
@@ -2042,7 +2096,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
@@ -2192,6 +2246,28 @@
       "duration_ms": 187038,
       "name": "Just Don't Know",
       "url": "https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf"
+    },
+    {
+      "album": {
+        "name": "KAVAFIED",
+        "url": "https://open.spotify.com/album/6XXFEoCUDmrONzj2qLNGgq"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Revus",
+          "url": "https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184632,
+      "name": "KAVAFIED",
+      "url": "https://open.spotify.com/track/78Mrv1y0tVzrhNRpv9BcXj"
     },
     {
       "album": {
@@ -2366,6 +2442,24 @@
       "duration_ms": 172730,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
+    },
+    {
+      "album": {
+        "name": "Loline",
+        "url": "https://open.spotify.com/album/6ApXM9SJJDq9eu2jEqIm0x"
+      },
+      "artists": [
+        {
+          "name": "The Bats",
+          "url": "https://open.spotify.com/artist/2YvNi4oPdBgD45gc1UycxW"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Loline",
+      "url": "https://open.spotify.com/track/0oo9cY4TGyFZ06mp4PmYhv"
     },
     {
       "album": {
@@ -2586,7 +2680,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
@@ -3216,7 +3310,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 107232,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
@@ -3492,7 +3586,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 218210,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2MYMNxgkus7t4gKLMXdpTH"
@@ -3517,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Rere Mai Ng\u0101 Rau",
+        "url": "https://open.spotify.com/album/3XgkHq1vYcZp0J1bFphBWS"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162858,
+      "name": "Rere Mai Ng\u0101 Rau",
+      "url": "https://open.spotify.com/track/34ESB2OV6E9ar7G4yzw15J"
+    },
+    {
+      "album": {
         "name": "REVOLUTION",
         "url": "https://open.spotify.com/album/71GEPHVPN4pmJgFGEbw9CA"
       },
@@ -3536,7 +3648,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 222417,
       "name": "REVOLUTION",
       "url": "https://open.spotify.com/track/1bmjkyWq7qhgHZHQoom7uJ"

@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Alubarika",
+        "url": "https://open.spotify.com/album/6UE6hOPE7sgGHFzAfWYvW3"
+      },
+      "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/6WJlYrrcn8LSuyf7SXrzKH"
+    },
+    {
+      "album": {
         "name": "AMAPIANO",
         "url": "https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 158105,
       "name": "Concussion - Remix",
       "url": "https://open.spotify.com/track/2eBk5x3MJ5wmd2tSYzpCv0"
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 381484,
       "name": "Gedlela (feat. Kabelo Sings & Key note)",
       "url": "https://open.spotify.com/track/4SnsV0PFEszDt8V2GD42WS"
@@ -2600,7 +2618,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 382334,
       "name": "Hade Boss",
       "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 204142,
       "name": "LOVE SZN (feat. Andrae TSC & Yumbs)",
       "url": "https://open.spotify.com/track/36EG2rg9RAS910WbXRlt2V"
@@ -6551,6 +6569,40 @@
     },
     {
       "album": {
+        "name": "Tiririka",
+        "url": "https://open.spotify.com/album/7oyyemdUhbh9PlH2nFacD6"
+      },
+      "artists": [
+        {
+          "name": "Chino Kidd",
+          "url": "https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm"
+        },
+        {
+          "name": "Lintonto",
+          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
+        },
+        {
+          "name": "Xman Rsa",
+          "url": "https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730"
+        },
+        {
+          "name": "Mfana Kah Gogo",
+          "url": "https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1"
+        },
+        {
+          "name": "Deestar ZA",
+          "url": "https://open.spotify.com/artist/5ZARmkqYyIt7cGbTJflwEI"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329612,
+      "name": "Tiririka",
+      "url": "https://open.spotify.com/track/1hKxlx2R2O4C4KEUOY2FfS"
+    },
+    {
+      "album": {
         "name": "Toku",
         "url": "https://open.spotify.com/album/3DOxTWi2PFLXCwXBC6F9LY"
       },
@@ -6652,7 +6704,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 334319,
       "name": "Ukhala Ngani",
       "url": "https://open.spotify.com/track/1RP2cxYxr7pGjqdCvE1gcj"
@@ -7288,7 +7340,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 322403,
       "name": "Yey 2.0",
       "url": "https://open.spotify.com/track/3HgddH7pSKltHv2FQ6XViy"

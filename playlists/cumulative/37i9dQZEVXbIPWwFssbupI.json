@@ -881,6 +881,28 @@
     },
     {
       "album": {
+        "name": "4 Kamp\u00e9 II",
+        "url": "https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "4 Kamp\u00e9 II",
+      "url": "https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
       },
@@ -1514,7 +1536,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -12018,7 +12040,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 260252,
       "name": "DIEU MERCI",
       "url": "https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp"
@@ -13224,7 +13246,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 248000,
       "name": "EL GEMANO",
       "url": "https://open.spotify.com/track/5PYjKcfxLccf3aHwUv0XcY"
@@ -22480,7 +22502,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -32344,6 +32366,24 @@
       "duration_ms": 209615,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/58oi1CSV51rrMXjFth6KB3"
+    },
+    {
+      "album": {
+        "name": "Pichichi",
+        "url": "https://open.spotify.com/album/4yqsxc2ITcS7kG8dFhe58E"
+      },
+      "artists": [
+        {
+          "name": "Josas",
+          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178319,
+      "name": "Pichichi",
+      "url": "https://open.spotify.com/track/6eyghhEYVokzeUZnYmCxjI"
     },
     {
       "album": {

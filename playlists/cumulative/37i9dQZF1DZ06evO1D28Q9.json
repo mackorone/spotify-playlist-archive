@@ -108,6 +108,24 @@
     {
       "album": {
         "name": "Chato",
+        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187634,
+      "name": "Chato",
+      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
+    },
+    {
+      "album": {
+        "name": "Chato",
         "url": "https://open.spotify.com/album/1x6B5bqEHFsuQpbmVX5mEf"
       },
       "artists": [
@@ -122,7 +140,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 187634,
       "name": "Chato",
       "url": "https://open.spotify.com/track/0ZOE62MG5rUfwBHvooAaN5"
@@ -152,7 +170,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 258656,
       "name": "Coroa de Flores",
       "url": "https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ"
@@ -318,7 +336,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 262400,
       "name": "Fofoqueiro",
       "url": "https://open.spotify.com/track/1L32CFDyMZXNiJQg82t9rD"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 219753,
       "name": "Reencontro",
       "url": "https://open.spotify.com/track/19czMTeb4NPu3tr2Mo4wQM"

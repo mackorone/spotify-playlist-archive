@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > \[Festival Dates: May 3\] Meet the lineup of HIPHOPPLAYA FESTIVAL 2025, the largest hip\-hop festival in Korea! \(5월 3일 열리는 한국 최대 규모의 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2025의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,371 likes - 42 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,386 likes - 42 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 16 | [Body \(Feat\. Sik\-K\)](https://open.spotify.com/track/079SEIMEJQsLIaE8QYqvCh) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Sorry I’m Late](https://open.spotify.com/album/4jAS9dmF3PQmns8L00w3bv) | 2:55 |
 | 17 | [Dedication \(feat\. Jay Park\)](https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Homecoming](https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD) | 2:46 |
 | 18 | [ROUND ONE \(feat\. HAON\)](https://open.spotify.com/track/5p4mFIr9YEmNZ1awOSpl1F) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [ROUND ONE \(feat\. HAON\)](https://open.spotify.com/album/0TLp0mC5luHaCsK4mJejqL) | 2:31 |
-| 19 | [Bellboy \(feat\. Sik\-K & Coogie\)](https://open.spotify.com/track/3cblwqqZDK2q7SYPQiRZm6) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [GXXD](https://open.spotify.com/album/1nRuTx2r9qrsHLZ4eWtxDb) | 3:11 |
+| 19 | [Bellboy \(Feat\. Sik\-K, Coogie\)](https://open.spotify.com/track/3cblwqqZDK2q7SYPQiRZm6) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [GXXD](https://open.spotify.com/album/1nRuTx2r9qrsHLZ4eWtxDb) | 3:11 |
 | 20 | [TRAP \(feat\. Jimmy Paige\)](https://open.spotify.com/track/4UeC5HQcDIPTdEDi51WAhX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK) | [TRAP \(feat\. Jimmy Paige\)](https://open.spotify.com/album/1FYx5UOTJ4nb5MoLwnWPrW) | 3:54 |
 | 21 | [CHOOM SA WEE \(춤사위\)\(Feat\. MOON, Blase\)](https://open.spotify.com/track/5c6BxucSy5S3sycLIpVqOy) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 3:09 |
 | 22 | [METEOR](https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:17 |

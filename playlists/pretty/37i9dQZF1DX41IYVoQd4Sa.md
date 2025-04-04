@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : שקל וגלעד כהנא
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,730 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,737 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 59 | [מה אמיתי](https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [מה אמיתי](https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx) | 3:03 |
 | 60 | [My Favorite](https://open.spotify.com/track/2qZe91uEYF5ALh5M7Nm7XX) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Work In Progress](https://open.spotify.com/artist/7pHBxGkkgqsCGVALLT6EMp) | [Work in Progress](https://open.spotify.com/album/2vN8V0sPEQZNd3ylKuxmTH) | 3:34 |
 
-Snapshot ID: `Z+XKgAAAAADIejl7fQRwu//vcAFdRPfb`
+Snapshot ID: `Z+73EAAAAADMoBgxsbSZWIu5TnoX/4bD`

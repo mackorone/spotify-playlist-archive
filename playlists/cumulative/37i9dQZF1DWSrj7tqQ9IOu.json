@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Peter Dallas",
+  "description": "The best French indie tracks right now. Cover : Bolivard",
   "name": "Made in France",
   "tracks": [
     {
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Assis",
+        "url": "https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161644,
+      "name": "Assis",
+      "url": "https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8"
+    },
+    {
+      "album": {
         "name": "Au Revoir",
         "url": "https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd"
       },
@@ -780,6 +798,24 @@
       "duration_ms": 223160,
       "name": "Avec toi",
       "url": "https://open.spotify.com/track/7Id3qONAw6sXE92FlfZEWI"
+    },
+    {
+      "album": {
+        "name": "Ouin Ouin",
+        "url": "https://open.spotify.com/album/6NTeF6XRu53keQdtmWQHLu"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209716,
+      "name": "A\u00efe",
+      "url": "https://open.spotify.com/track/1oZk78se9YNAdK9uU9Ul78"
     },
     {
       "album": {
@@ -1047,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "BONHEUR SAMPLER",
+        "url": "https://open.spotify.com/album/3yKbtw4VszA2OhHpbRsRLV"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176632,
+      "name": "BONHEUR SAMPLER",
+      "url": "https://open.spotify.com/track/6JLMqJY2JRRzeBQPZVLX0x"
+    },
+    {
+      "album": {
         "name": "Bonifacio",
         "url": "https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA"
       },
@@ -1080,7 +1134,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 180000,
       "name": "Bonsa\u00ef",
       "url": "https://open.spotify.com/track/53zqXpNLN6WHnYChphcm8Z"
@@ -3068,7 +3122,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 176730,
       "name": "family and friends",
       "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
@@ -3360,7 +3414,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 140248,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
@@ -3480,6 +3534,24 @@
       "duration_ms": 213542,
       "name": "Fus\u00e9es",
       "url": "https://open.spotify.com/track/6mBfTCdaTey7pnim9lhgBs"
+    },
+    {
+      "album": {
+        "name": "Bolivardisme",
+        "url": "https://open.spotify.com/album/5qebWU1XafDFaDlDEL1ET5"
+      },
+      "artists": [
+        {
+          "name": "Bolivard",
+          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165742,
+      "name": "Futurisme",
+      "url": "https://open.spotify.com/track/0ZuqDR3Yl6UqyNJRZ4DT2o"
     },
     {
       "album": {
@@ -3622,7 +3694,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 150546,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4tMGLfiJ5lrd9i5HibUaMG"
@@ -4546,7 +4618,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 256320,
       "name": "Instant Magique",
       "url": "https://open.spotify.com/track/4Rq211xDDfyUGgNDnTBDzr"
@@ -5717,6 +5789,28 @@
     },
     {
       "album": {
+        "name": "Le fil",
+        "url": "https://open.spotify.com/album/6zTZl7sQZaMbEXJn2qImRp"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        },
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "Le fil (feat. Cassandra Jenkins)",
+      "url": "https://open.spotify.com/track/1kXKd5gFgy9DEVcjs8zEg5"
+    },
+    {
+      "album": {
         "name": "le moment pr\u00e9sent",
         "url": "https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4"
       },
@@ -6804,7 +6898,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 151819,
       "name": "Moralisme",
       "url": "https://open.spotify.com/track/2A550rKJOoFpZWR5mplHIy"
@@ -6920,6 +7014,24 @@
       "duration_ms": 210720,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/3giUzhSFQSqgPW1As0qFDr"
+    },
+    {
+      "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/6OUJxofNyMo3qiiCOV5y9S"
+      },
+      "artists": [
+        {
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/2oyBvQDVgsiiZ9i0cusjbR"
     },
     {
       "album": {
@@ -9229,6 +9341,24 @@
     },
     {
       "album": {
+        "name": "Something special about us",
+        "url": "https://open.spotify.com/album/7KavkQsl9JzNNcaDGIC0bB"
+      },
+      "artists": [
+        {
+          "name": "Les Filles & Christopher",
+          "url": "https://open.spotify.com/artist/3e50327fCwO1HRUjipDkaJ"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181244,
+      "name": "Something special about us",
+      "url": "https://open.spotify.com/track/7s3VuYUfntWORZOGxO2LYE"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/2AhOvs6A2RVg3IoVtCeMI1"
       },
@@ -9820,7 +9950,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 145093,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7jSlSSgWxKkFctkSpYUHTv"

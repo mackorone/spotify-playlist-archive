@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 
 > El nuevo sonido de la canción sudamericana de la mano de Sofía Álvez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,705 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,716 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 | 33 | [Todo cambia](https://open.spotify.com/track/2RbCzyjatT607S4Q8uDEkg) | [Dos Más Uno](https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Todo cambia](https://open.spotify.com/album/1GAh1A5U9gi8BZSsfb2GBx) | 4:08 |
 | 34 | [Soy lo que Doy](https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Soy lo que Doy](https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X) | 3:37 |
 | 35 | [Máquinas de hacer todo al mismo tiempo](https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [NUNCA DA IGUAL](https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu) | 3:39 |
-| 36 | [Vals de la Luna \(Vivo en Madrid\)](https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Liniers](https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb) | [Vals de la Luna \(Vivo en Madrid\)](https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb) | 4:24 |
+| 36 | [Vals de la Luna \(Vivo en Madrid\)](https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Liniers](https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb) | [Vals de la Luna \(Vivo en Madrid\)](https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb) | 4:05 |
 | 37 | [Alabanza](https://open.spotify.com/track/3eYYMWH1rnLqBwLqSMBhCB) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Alabanza](https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH) | 3:24 |
 | 38 | [los ausentes](https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [los ausentes](https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9) | 2:59 |
 | 39 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |

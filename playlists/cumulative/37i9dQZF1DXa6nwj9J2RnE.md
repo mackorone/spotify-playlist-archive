@@ -4,7 +4,7 @@
 
 > edgy en met karakter\. cover: Winne
 
-193 songs - 10 hr 11 min
+194 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [De Constructie](https://open.spotify.com/track/3g017qh4UEXI197SLGOTHH) | [Manu](https://open.spotify.com/artist/4dJKsG8SJJ6f8Ov5eKp41r), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [De Herontdekking van de Hemel](https://open.spotify.com/album/172ilQwAfgCFlnRLgFw21K) | 3:29 | 2024-06-13 | 2025-03-13 |
 | [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 | 2023-02-23 | 2023-11-02 |
 | [De Game](https://open.spotify.com/track/6YsPVmEVQLHKv8ekF7Kkom) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Narco X Styn, Vol\. 2](https://open.spotify.com/album/6od93VFVENEY1ONPaZxXSt) | 3:56 | 2024-10-24 |  |
-| [De Legende \- Remix](https://open.spotify.com/track/5Ep1X8TNHwnhgRs6ucPimo) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD), [Hessel Du Mark](https://open.spotify.com/artist/4NvjzlewQiiQArGcgQFPBK) | [De Legende \(Remix\)](https://open.spotify.com/album/7bD60iAiWriljgSndqBJql) | 3:48 | 2025-03-12 |  |
+| [De Legende \- Remix](https://open.spotify.com/track/5Ep1X8TNHwnhgRs6ucPimo) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD), [Hessel Du Mark](https://open.spotify.com/artist/4NvjzlewQiiQArGcgQFPBK) | [De Legende \(Remix\)](https://open.spotify.com/album/7bD60iAiWriljgSndqBJql) | 3:48 | 2025-03-12 | 2025-04-04 |
 | [De Leven](https://open.spotify.com/track/1RA3cTcU9xGnT5GNi6y7dO) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/2d0wssa9SabKowuZXc0gKn) | 4:04 | 2023-02-23 | 2023-09-01 |
 | [De Leven](https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf) | 2:41 | 2023-11-07 | 2024-07-12 |
 | [Dit Is Alles](https://open.spotify.com/track/5au9uaIhhA51N27U68JXve) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Dit Is Alles](https://open.spotify.com/album/2MwKnMone5os6yTkqCWxXG) | 3:35 | 2023-02-23 | 2023-05-06 |
@@ -130,6 +130,7 @@
 | [PIJNSTILLERS](https://open.spotify.com/track/7mNXDtOxk8XTx9o73FXySS) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [PIJNSTILLERS / BLAKKA BOY](https://open.spotify.com/album/1gVkIkZN6xBqPhBK72CnHG) | 2:53 | 2025-01-09 | 2025-03-01 |
 | [Piramide](https://open.spotify.com/track/0vUfd8TGyDlK8lTa9mxywv) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:51 | 2024-11-14 |  |
 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 | 2024-06-21 | 2024-09-10 |
+| [Rattenvangers \(feat\. Narco Polo\)](https://open.spotify.com/track/63Um882mx8VU63sIPSUnaQ) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb), [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW) | [Rattenvangers \(feat\. Narco Polo\)](https://open.spotify.com/album/56Bs2R9n1BtUYsgyD0Up9E) | 2:46 | 2025-04-03 |  |
 | [READY!](https://open.spotify.com/track/5oQi3yIhmG09qf9vAN09qJ) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [de vluGtlaan](https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4) | 2:19 | 2025-02-28 |  |
 | [round and round](https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [round and round](https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c) | 3:22 | 2024-03-28 | 2024-10-25 |
 | [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 | 2024-09-12 |  |

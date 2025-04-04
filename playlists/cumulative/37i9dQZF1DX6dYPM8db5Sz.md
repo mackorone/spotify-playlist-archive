@@ -2,9 +2,9 @@
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V?si=qWQfpmFCRbGTazBKW4yHxg">tan sholto</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=oNVyS44XSJ\-NNzpj3g\_HZw">Tyler Page</a>
 
-1,091 songs - 2 day 14 hr 0 min
+1,098 songs - 2 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-11 | 2024-08-16 |
 | [Alone](https://open.spotify.com/track/0XcAatyr3iOOemDg7SgVUn) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [Alone](https://open.spotify.com/album/5g0ipxNZptnRDqax2UJBGw) | 3:41 | 2023-07-28 | 2023-09-08 |
 | [Alone At Last](https://open.spotify.com/track/0RAg0cxBDe3QyVs3omhabP) | [Run Into Waves](https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ) | [Alone At Last](https://open.spotify.com/album/5Ouc8dsexIm7HTxk9jtgzc) | 3:36 | 2024-08-15 | 2024-10-26 |
+| [Altar](https://open.spotify.com/track/7aIRCUpkz7vzWqyLABgAaY) | [Justin Prins](https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C) | [Altar](https://open.spotify.com/album/6Goz3vRkcBn9DO2dQK91d1) | 2:48 | 2025-04-03 |  |
 | [Always Sunny in My Head](https://open.spotify.com/track/6ecHuWdQ1q1WVMgKp2Z9ni) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Always Sunny in My Head](https://open.spotify.com/album/4frHK8EKoxISElK0XjVQEO) | 3:44 | 2023-07-13 | 2023-08-25 |
 | [Amplified](https://open.spotify.com/track/7iAvEBj3p8VtXmMd68jdQx) | [Thara](https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU) | [Amplified](https://open.spotify.com/album/1xUtyGK2EC9lMtx54FpI4c) | 3:22 | 2023-09-01 | 2023-11-25 |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-01-16 |  |
@@ -248,6 +249,7 @@
 | [Director in the Dark](https://open.spotify.com/track/55yCGBhMJPzyCxWHwJJcWd) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Director in the Dark](https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt) | 3:35 | 2023-04-06 | 2023-06-23 |
 | [Dirty Girls](https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Dirty Girls](https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP) | 2:53 | 2024-06-07 | 2024-07-12 |
 | [Distant](https://open.spotify.com/track/3mN6HCcfdlzPBKnLCiBCqj) | [imissyou](https://open.spotify.com/artist/6Fu69FtaW5bFGaHI6NSSER) | [Distant](https://open.spotify.com/album/52Cs7MmTab3frO1ga5Ky3Q) | 2:48 | 2024-03-15 | 2024-03-30 |
+| [Dive](https://open.spotify.com/track/79v6lbFcOlIKm6BnNIf1pZ) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6) | [Dive](https://open.spotify.com/album/65bDPuBrlz7usKv88b3prE) | 2:55 | 2025-04-03 |  |
 | [Divina](https://open.spotify.com/track/09Z9HFT2Uh7MWmmuqSCXkw) | [James Speechly](https://open.spotify.com/artist/27vIyx3eOF94LAPd1GdGdo) | [Divina](https://open.spotify.com/album/4IFijvs2Xg64D8YA61Ixwx) | 3:30 | 2023-06-15 | 2023-07-07 |
 | [Dizzy](https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [Dizzy](https://open.spotify.com/album/3nw8WU1ZFdsdguO8xzspPt) | 3:20 | 2023-03-16 | 2023-05-19 |
 | [Do It Again](https://open.spotify.com/track/7CKgqXbgl5wngmvCgWVD3J) | [THE BLACK GREG](https://open.spotify.com/artist/0N36JTw1rW47LDXtlc4Edt) | [Do It Again](https://open.spotify.com/album/4uWssK0aDkP8gwd9psKyzh) | 3:12 | 2023-10-06 | 2023-12-22 |
@@ -274,6 +276,7 @@
 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-20 |  |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-14 |  |
 | [Dust Over Dunes](https://open.spotify.com/track/6SAta2wxm50bSPp8iwOYFu) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Dust Over Dunes](https://open.spotify.com/album/6M7uEQsfVaHB89fiyRByHB) | 3:41 | 2024-08-01 | 2024-10-05 |
+| [Dusty](https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:05 | 2025-04-03 |  |
 | [Earthship](https://open.spotify.com/track/4r0LGPrLCKkIHcRcLAbdYz) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [Earthling](https://open.spotify.com/album/6GroWBzRHe8gqtsT5nsSuI) | 4:59 | 2023-12-14 | 2024-01-12 |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-24 |  |
 | [Eat You Up](https://open.spotify.com/track/5Jfh0EBXSFeoMCFG28Ekx7) | [Joneaux](https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv) | [Eat You Up](https://open.spotify.com/album/6cj7vtmOQrzSmZ3RwYdx5v) | 1:50 | 2025-03-14 |  |
@@ -440,6 +443,7 @@
 | [I Need You](https://open.spotify.com/track/1TOXyfF6p6coOOhmevQe70) | [Olivia Amupala](https://open.spotify.com/artist/1RlTOd1g0mfnU32C4avYRA) | [I Need You](https://open.spotify.com/album/0Uw7uhLCXBQN2zYlxM6VQ7) | 3:01 | 2023-11-17 | 2024-01-12 |
 | [I Play the Drums](https://open.spotify.com/track/2rPQAyoogFEk3Ie4whxfu7) | [Yo Grapes](https://open.spotify.com/artist/7rwiN8Fkuy6Pa9lGiIGyBY) | [I Play the Drums](https://open.spotify.com/album/7sNYDSdQ3BkIpKn4hdO0fE) | 3:40 | 2024-01-11 | 2024-02-10 |
 | [I Probably Love You](https://open.spotify.com/track/37meDLSNHtlpjjwRYavOus) | [Sulene](https://open.spotify.com/artist/3H0Mdkhat3ZJFgKxLHEymg) | [I Probably Love You](https://open.spotify.com/album/25O5cnVA8BXaic8QtRhlIe) | 2:47 | 2023-11-30 | 2024-01-12 |
+| [I REMEMBER WHEN I WOKE UP](https://open.spotify.com/track/33QbyrTLRtBxgMzuNQsW5P) | [Kellan Christopher Cragg](https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq) | [WRONG BALLOON](https://open.spotify.com/album/15x3ySOZ2wxq5WsnlqPUZn) | 2:32 | 2025-04-03 |  |
 | [I See the World](https://open.spotify.com/track/6df5JX0hccxo2cpazqg2oK) | [Wynand Fourie](https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN) | [I See the World](https://open.spotify.com/album/3byhhNXrAwqtGyPOPOY2Tz) | 2:30 | 2024-08-09 | 2024-10-18 |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2024-01-11 | 2024-02-10 |
 | [i wanna be yours.](https://open.spotify.com/track/5XNIBSzBjv2MWXoZHnxSlL) | [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [i wanna be yours.](https://open.spotify.com/album/6KrtCjfCu21Vi4DysHxvPf) | 2:03 | 2024-06-27 | 2024-07-27 |
@@ -502,6 +506,7 @@
 | [Karma Arcade](https://open.spotify.com/track/0J9bAWjeOafeNtKO6DqeXx) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Karma Arcade](https://open.spotify.com/album/6LpMhbgNRNHVlon4bkHakM) | 4:00 | 2023-03-02 | 2023-05-05 |
 | [Keep On Calling](https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Heavyweight Champion](https://open.spotify.com/album/4lwGU1857xh1ukKDey2zJl) | 2:23 | 2024-10-17 | 2025-01-25 |
 | [Keep On Rollin'](https://open.spotify.com/track/06IJd0vms8dzPpYqWEnB7Q) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Keep On Rollin'](https://open.spotify.com/album/5gVwKSOlH9LvdB9fPCUMEJ) | 2:46 | 2024-07-26 | 2024-08-24 |
+| [Keep you here](https://open.spotify.com/track/05qFXEqMQcfktikZlWIqye) | [Phil Higgins](https://open.spotify.com/artist/1qStsFr93Vdc1UhLWhwXFq) | [Keep you here](https://open.spotify.com/album/35vJcTu8WqS3A4Uie8Vfsr) | 3:09 | 2025-04-03 |  |
 | [Key to the Comet](https://open.spotify.com/track/1lv5oeIB7rGsiL52Q24VxI) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [Key to the Comet](https://open.spotify.com/album/7vcsdAmWX7eMYuiysE3IfB) | 4:31 | 2023-05-25 | 2023-07-07 |
 | [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 | 2025-02-06 |  |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-18 | 2024-08-30 |
@@ -862,8 +867,10 @@
 | [Stardust](https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa) | [Hanukug](https://open.spotify.com/artist/0mHXobgLsjgAyj32UXRwpj) | [Stardust](https://open.spotify.com/album/27eAjlHZCuJ5LhlTaT29C0) | 2:06 | 2022-11-10 | 2023-01-27 |
 | [Starling](https://open.spotify.com/track/1PoNbA1Kjk3z05uRCS2SKq) | [James Speechly](https://open.spotify.com/artist/27vIyx3eOF94LAPd1GdGdo) | [Divina](https://open.spotify.com/album/6A3jAcuHDo0ZXkYVFOY5Ck) | 2:20 | 2024-02-15 | 2024-03-30 |
 | [Starting Over](https://open.spotify.com/track/4JTtMnkEaOaqzjSMt7PMj0) | [Elné](https://open.spotify.com/artist/1Eio90q1NlMKd7aOSk2IuN) | [I Can't Hide Me Anymore](https://open.spotify.com/album/2pJQo4qVjG6mve8LNkFdv9) | 3:27 | 2023-10-26 | 2023-12-22 |
+| [Stay](https://open.spotify.com/track/5wQFpg6qoJSKy0J0IxADS0) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Light](https://open.spotify.com/album/4expJ8yHkfBI9WRu33XSRR) | 3:24 | 2025-04-03 |  |
 | [Stay as You Are](https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts](https://open.spotify.com/album/6FXpqniKCmEFhn4eYSgvWy) | 3:22 | 2023-03-09 | 2023-06-16 |
 | [Stay Strong](https://open.spotify.com/track/6ECc4KeITr0ck2IIQWpdkM) | [Moahi](https://open.spotify.com/artist/1cEbEpwes9nZ08ydjkdQh4) | [Stay Strong](https://open.spotify.com/album/67GYBpTEgbmXgtO6sATjBH) | 3:43 | 2023-05-18 | 2023-07-07 |
+| [STAY WITH ME!](https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [STAY WITH ME!](https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J) | 3:07 | 2025-04-03 |  |
 | [Stereoscope](https://open.spotify.com/track/5oancP3AQtHfh7BuYZYknB) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Stereoscope](https://open.spotify.com/album/0e7E2Z3qltALEjHohVyJgC) | 3:55 | 2022-12-15 | 2023-02-10 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-01-11 | 2024-07-05 |
 | [Still A RockStar](https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Still A RockStar](https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2) | 2:26 | 2023-09-15 | 2023-12-08 |

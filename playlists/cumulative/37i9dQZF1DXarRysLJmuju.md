@@ -4,7 +4,7 @@
 
 > The latest in pop\. Cover: j\-hope
 
-2,063 songs - 4 day 8 hr 10 min
+2,064 songs - 4 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1685,6 +1685,7 @@
 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-04 | 2023-11-25 |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-17 | 2024-03-02 |
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-15 | 2022-08-06 |
+| [SUBTITLE](https://open.spotify.com/track/4PUVFsRvS2YtU0Pr9euHDb) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [SUBTITLE](https://open.spotify.com/album/73wEMmC3vdqqRdDfM4lh0l) | 2:58 | 2025-03-28 |  |
 | [Sucker](https://open.spotify.com/track/38RJVU2LTPjW7xiXqCUlDn) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sucker](https://open.spotify.com/album/27eDRScCURk8HRqIY0mPqM) | 2:55 | 2022-04-15 | 2022-05-20 |
 | [Sugar Daddy](https://open.spotify.com/track/4ywh217pSCJxEa3o2Z9Oke) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Sugar Daddy](https://open.spotify.com/album/4xlG43RYizJYwN6oQBaln0) | 2:52 | 2024-09-20 | 2024-10-26 |
 | [Sugar Mommy](https://open.spotify.com/track/2ybt16XNtZG4fXFVK90g2Q) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Sugar Mommy](https://open.spotify.com/album/2074KMpzJXo7rExlh55WSv) | 2:07 | 2023-07-14 | 2023-09-16 |

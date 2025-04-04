@@ -1053,6 +1053,44 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30eb\u30b5\u30a4\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/5IPJuEuH17QovE846wIuBa"
+      },
+      "artists": [
+        {
+          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
+          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
+        },
+        {
+          "name": "peko",
+          "url": "https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg"
+        },
+        {
+          "name": "KOPERU",
+          "url": "https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7"
+        },
+        {
+          "name": "TAKE-M",
+          "url": "https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL"
+        },
+        {
+          "name": "KennyDoes",
+          "url": "https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc"
+        },
+        {
+          "name": "ILL SWAG GAGA",
+          "url": "https://open.spotify.com/artist/0aDq1adfK1gC9phu0eqGtc"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188025,
+      "name": "\u30a6\u30eb\u30b5\u30a4\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/3dc5cRVGlxugq50mdfUlvw"
+    },
+    {
+      "album": {
         "name": "\u708e\u708e\u30ce\u97f3\u697d\u968a2\u301cTV\u30a2\u30cb\u30e1\u300c\u708e\u708e\u30ce\u6d88\u9632\u968a \u5f10\u30ce\u7ae0\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u301c",
         "url": "https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW"
       },
@@ -1280,7 +1318,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 117208,
       "name": "\u4e0e\u30a8\u30e9\u30ec\u30bf\u4f7f\u547d",
       "url": "https://open.spotify.com/track/18SpsJqwmQ90fGXJepxFu7"

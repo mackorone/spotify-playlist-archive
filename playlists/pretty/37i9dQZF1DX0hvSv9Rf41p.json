@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Skrillex",
-  "num_followers": 981623,
+  "num_followers": 981814,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+2fKgAAAAAjgao9RYXKqZT8QBO3gTD6",
+  "snapshot_id": "Z+7BiAAAAACdTjKO3a7e8CL3805lxQD7",
   "tracks": [
     {
       "added_at": "2025-04-01 17:26:32",
@@ -47,6 +47,22 @@
     {
       "added_at": "2025-03-28 04:00:50",
       "album": {
+        "name": "OMEN",
+        "url": "https://open.spotify.com/album/08l9hwOKLZT7J3UazDDgzc"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Protocol",
+      "url": "https://open.spotify.com/track/2JqvYABtzlyJ7XI2KOW0QV"
+    },
+    {
+      "added_at": "2025-03-28 04:00:50",
+      "album": {
         "name": "Crash Out",
         "url": "https://open.spotify.com/album/6owfK8zHCY2EzDO8OvQ1eD"
       },
@@ -63,66 +79,6 @@
       "duration_ms": 226758,
       "name": "Crash Out",
       "url": "https://open.spotify.com/track/5uWbuRqGSBmFtzC7hIyfVr"
-    },
-    {
-      "added_at": "2025-03-28 04:00:50",
-      "album": {
-        "name": "OMEN",
-        "url": "https://open.spotify.com/album/08l9hwOKLZT7J3UazDDgzc"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Protocol",
-      "url": "https://open.spotify.com/track/2JqvYABtzlyJ7XI2KOW0QV"
-    },
-    {
-      "added_at": "2025-03-14 04:00:26",
-      "album": {
-        "name": "Innocence 2025",
-        "url": "https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        },
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Innocence 2025",
-      "url": "https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73"
-    },
-    {
-      "added_at": "2025-04-02 12:09:21",
-      "album": {
-        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
-        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Nakeesha",
-          "url": "https://open.spotify.com/artist/5sgnIfDgfyN7I6LSdWtvoP"
-        }
-      ],
-      "duration_ms": 57599,
-      "name": "WHILE YOU WERE SLEEPING VIP",
-      "url": "https://open.spotify.com/track/2MX61zLIo9LohKn8cGTqY8"
     },
     {
       "added_at": "2025-03-21 04:01:01",
@@ -143,6 +99,50 @@
       "duration_ms": 215172,
       "name": "Lock In",
       "url": "https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7"
+    },
+    {
+      "added_at": "2025-04-03 17:12:40",
+      "album": {
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
+        },
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP"
+        }
+      ],
+      "duration_ms": 76800,
+      "name": "TEARS LOST DROP",
+      "url": "https://open.spotify.com/track/26wNzedjBGoERhSb3mzEdl"
+    },
+    {
+      "added_at": "2025-03-14 04:00:26",
+      "album": {
+        "name": "Innocence 2025",
+        "url": "https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Innocence 2025",
+      "url": "https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73"
     },
     {
       "added_at": "2025-03-21 04:01:01",
@@ -237,38 +237,6 @@
       "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
     },
     {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "STRANGERS",
-        "url": "https://open.spotify.com/album/5Z4UjrSSLEUjeKcXc4yJbI"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 218482,
-      "name": "STRANGERS",
-      "url": "https://open.spotify.com/track/5CNKAURJl6Z6RdiJxg5xYm"
-    },
-    {
-      "added_at": "2025-03-07 05:12:24",
-      "album": {
-        "name": "Return to the Spectrum of Intergalactic Happiness",
-        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 253260,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
-    },
-    {
       "added_at": "2025-04-02 12:09:21",
       "album": {
         "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
@@ -307,6 +275,38 @@
       "duration_ms": 172682,
       "name": "WONKY",
       "url": "https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw"
+    },
+    {
+      "added_at": "2025-03-21 04:01:01",
+      "album": {
+        "name": "STRANGERS",
+        "url": "https://open.spotify.com/album/5Z4UjrSSLEUjeKcXc4yJbI"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "STRANGERS",
+      "url": "https://open.spotify.com/track/5CNKAURJl6Z6RdiJxg5xYm"
+    },
+    {
+      "added_at": "2025-03-07 05:12:24",
+      "album": {
+        "name": "Return to the Spectrum of Intergalactic Happiness",
+        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 253260,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
     },
     {
       "added_at": "2025-03-21 04:01:01",
@@ -407,6 +407,30 @@
       "duration_ms": 199714,
       "name": "RED DOT",
       "url": "https://open.spotify.com/track/0mSs4Qnr4l7uV0ju1VvSDQ"
+    },
+    {
+      "added_at": "2025-04-02 12:09:21",
+      "album": {
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Nakeesha",
+          "url": "https://open.spotify.com/artist/5sgnIfDgfyN7I6LSdWtvoP"
+        }
+      ],
+      "duration_ms": 57599,
+      "name": "WHILE YOU WERE SLEEPING VIP",
+      "url": "https://open.spotify.com/track/2MX61zLIo9LohKn8cGTqY8"
     },
     {
       "added_at": "2025-03-07 05:12:24",
@@ -1771,26 +1795,6 @@
       "duration_ms": 108669,
       "name": "No Brakes",
       "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/34fP85Y5eJYIGMjjb7V8t9"
     },
     {
       "added_at": "2024-10-11 14:09:12",

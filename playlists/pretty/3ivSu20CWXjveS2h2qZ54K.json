@@ -1,13 +1,49 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6771,
+  "num_followers": 6770,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACyphPNDTDdmJzmvvw9f7pr9Vi33C57",
+  "snapshot_id": "AACyqOax657YBhCOqu+Rgnulee/eQIEN",
   "tracks": [
+    {
+      "added_at": "2025-04-03 11:58:23",
+      "album": {
+        "name": "Los Managers",
+        "url": "https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 223621,
+      "name": "Los Managers",
+      "url": "https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4"
+    },
+    {
+      "added_at": "2025-03-31 09:34:19",
+      "album": {
+        "name": "Pompeya",
+        "url": "https://open.spotify.com/album/245BGxtR13VK9P8fDZW1Uh"
+      },
+      "artists": [
+        {
+          "name": "Amateur",
+          "url": "https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2"
+        },
+        {
+          "name": "Alondra Bentley",
+          "url": "https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3"
+        }
+      ],
+      "duration_ms": 241832,
+      "name": "Pompeya",
+      "url": "https://open.spotify.com/track/06Y1gReJMsH7X2obxr9LhV"
+    },
     {
       "added_at": "2025-03-28 06:18:08",
       "album": {
@@ -39,26 +75,6 @@
       "duration_ms": 161326,
       "name": "SIN AUTOTUNE",
       "url": "https://open.spotify.com/track/2xkAMFdKwbFFfY5jMEhi42"
-    },
-    {
-      "added_at": "2025-03-31 09:34:19",
-      "album": {
-        "name": "Pompeya",
-        "url": "https://open.spotify.com/album/245BGxtR13VK9P8fDZW1Uh"
-      },
-      "artists": [
-        {
-          "name": "Amateur",
-          "url": "https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2"
-        },
-        {
-          "name": "Alondra Bentley",
-          "url": "https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3"
-        }
-      ],
-      "duration_ms": 241832,
-      "name": "Pompeya",
-      "url": "https://open.spotify.com/track/06Y1gReJMsH7X2obxr9LhV"
     },
     {
       "added_at": "2025-03-30 15:16:58",

@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-123 songs - 6 hr 55 min
+124 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abiria 57](https://open.spotify.com/track/1ADsOgfWWPQ4DWdGNGaEgC) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Abiria 57](https://open.spotify.com/album/3YEf58ED9yoANNvtI31pEn) | 3:16 | 2024-06-13 |  |
 | [African Girl](https://open.spotify.com/track/6VZGwceCEs3wdSKcA5YUWU) | [Naomi Wachira](https://open.spotify.com/artist/6UzW9COOI8GxiDEmlStQEH) | [African Girl](https://open.spotify.com/album/6xk50pJfC0JtA7YsWpqE1x) | 4:50 | 2023-06-30 | 2024-04-19 |
 | [African Girl](https://open.spotify.com/track/7lIHLAlNyxdQUymJfGZxs7) | [Naomi Wachira](https://open.spotify.com/artist/6UzW9COOI8GxiDEmlStQEH) | [African Girl](https://open.spotify.com/album/1H84MYd0SJJdOIsOsXJzX6) | 4:50 | 2024-04-12 | 2024-05-17 |
+| [All Gone](https://open.spotify.com/track/7h2PMXnFCUTR8xeZlscQbR) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Six](https://open.spotify.com/album/1QRnVC8V3WrDLqHedi3SMZ) | 4:15 | 2025-04-04 |  |
 | [Alone](https://open.spotify.com/track/37AdCBQAIQAYc37U3xXjO4) | [Don Ngatia](https://open.spotify.com/artist/1tV9xvbUpzKbOGcI1zG6ZP) | [Alone](https://open.spotify.com/album/15hUe2rUYK9WwO86pQ1J0h) | 5:55 | 2023-06-30 | 2023-09-02 |
 | [Another Man](https://open.spotify.com/track/0W1MXhgqSfscPkvz2ESYHs) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:30 | 2024-04-26 | 2024-11-02 |
 | [Another Mess I Make](https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nkatha Muthoni](https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P) | [Another Mess I Make](https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8) | 4:17 | 2025-03-14 |  |
@@ -32,7 +33,7 @@
 | [Digestive's Story](https://open.spotify.com/track/6g0lgD3zfOYcXD8rVqwsK0) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Digestive's Story](https://open.spotify.com/album/4MY8oKLiXztJ1DbR2DJCFk) | 2:48 | 2024-05-16 |  |
 | [Divine Intervention \- Acoustic](https://open.spotify.com/track/0ROiUmUgUIuTRjS6VBdwHU) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Divine Intervention \(Acoustic\)](https://open.spotify.com/album/2i1wqhJanmXnoTDiIpDCQo) | 3:03 | 2024-05-30 | 2024-11-22 |
 | [Dream Awake](https://open.spotify.com/track/7M5R2ZlSmpqDsCJfulhN6Z) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Sun & Moon](https://open.spotify.com/album/6f22BsAjuWxAKdEbJCuQ6X) | 4:28 | 2023-06-30 | 2024-04-19 |
-| [Dream Awake \- Pop](https://open.spotify.com/track/2MPZ4bskYV3v7MfOGfPjwe) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Sun & Moon](https://open.spotify.com/album/5F4bIQW01SVG9xdFF3G1fq) | 4:28 | 2024-04-12 |  |
+| [Dream Awake \- Pop](https://open.spotify.com/track/2MPZ4bskYV3v7MfOGfPjwe) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Sun & Moon](https://open.spotify.com/album/5F4bIQW01SVG9xdFF3G1fq) | 4:28 | 2024-04-12 | 2025-04-04 |
 | [Enemy](https://open.spotify.com/track/6F5eJTix3ms5lvH71omyS3) | [TornPockets](https://open.spotify.com/artist/6pUEc7BVEFA6b6hUw4RMxA), [ach13ng'](https://open.spotify.com/artist/7nXNiHraAkhLlIMCFaBGc0) | [Enemy](https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF) | 3:31 | 2023-06-30 |  |
 | [Eyes Kubwa](https://open.spotify.com/track/28zuGbSlhWOAqnh6NQYCsE) | [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV), [Sumgii](https://open.spotify.com/artist/2Qvj1it0OQswQ4zu836oWw) | [Eyes Kubwa](https://open.spotify.com/album/0OzxUgftqnlSp7RmWDj0cC) | 4:11 | 2024-02-08 |  |
 | [Faith](https://open.spotify.com/track/5XyjPieJxZ3nkaAYotAQ2r) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/1TsOQ7nu8nuEPYTZ3Xx6qK) | 3:33 | 2023-12-15 | 2024-04-19 |

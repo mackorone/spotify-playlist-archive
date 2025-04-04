@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-403 songs - 21 hr 36 min
+405 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,8 +223,10 @@
 | [Mermaid datni l'darha](https://open.spotify.com/track/5DUguL7lB4cREG7LUjntlU) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [ODE.](https://open.spotify.com/album/0pZ3DLUZg5QWIFHTpRUmWM) | 3:16 | 2022-12-13 | 2023-05-10 |
 | [Mesh assef](https://open.spotify.com/track/0IpW4bdat4oWMYc1zLGkaW) | [Kahareb](https://open.spotify.com/artist/4aTviAzgeJt2fOMZF1FXnB) | [Mesh assef](https://open.spotify.com/album/7ebyUIpo86c9WqIYZfeSQI) | 3:36 | 2022-09-20 | 2022-09-28 |
 | [Mesh Gaya](https://open.spotify.com/track/3ztuvByx4cybDWeKGJ4uZ6) | [Malak Badawi](https://open.spotify.com/artist/3M5I3VKr6qexIoscSAWaUm) | [Mesh Gaya](https://open.spotify.com/album/6glWVUQgbdgoVsyByML0O6) | 2:36 | 2024-05-22 | 2024-09-12 |
+| [Midas](https://open.spotify.com/track/5EwdW98DhJckM8MzojNH41) | [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [Midas](https://open.spotify.com/album/2NuV7kBaa2ONFpvg0LkA6a) | 2:40 | 2025-04-03 |  |
 | [Midnight Blooms](https://open.spotify.com/track/7vcMs6ZC0TZyrN6BDyf8vg) | [Hotboxgroove](https://open.spotify.com/artist/2iOmWTulb3nP3FQ9DYtLLV) | [Midnight Blooms](https://open.spotify.com/album/7vDLOjrrS0JH2YQYmcUCw8) | 8:12 | 2022-11-01 | 2023-04-05 |
 | [Minka Saraqtani](https://open.spotify.com/track/7JyLPlBYSSHfhRnhJ8cJv1) | [Abboud](https://open.spotify.com/artist/1rT9fLtyq8iz8Jegn7L4Uc) | [Minka Saraqtani](https://open.spotify.com/album/0Llctk7c1Hql62KSKRsrnU) | 4:32 | 2022-09-20 | 2022-10-12 |
+| [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 | 2025-04-03 |  |
 | [Miskeen](https://open.spotify.com/track/0HmCXt2AJVvEYPDu3vJVsY) | [Asayel](https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS), [Hyper249](https://open.spotify.com/artist/3T7CEZ4h8vXO8kEftlggOI) | [Miskeen](https://open.spotify.com/album/2depylvdwDuSDuO3H5JHOE) | 4:10 | 2024-11-06 |  |
 | [Mister Mister](https://open.spotify.com/track/6xNpNuWJfdDtcFCzjJfruu) | [Xriss](https://open.spotify.com/artist/3vxW6vSOonNDvW91Fo2Z8f) | [Mister Mister](https://open.spotify.com/album/32hgw2xnCA8AHcXQLVrgm0) | 2:32 | 2022-10-11 | 2022-10-26 |
 | [Moments](https://open.spotify.com/track/0B8DuVlgb2GRcOZYe4TaPX) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0) | [Moments](https://open.spotify.com/album/2sEbYwgynqVfqCXuMgLZIj) | 3:50 | 2024-06-26 | 2024-10-02 |
@@ -360,7 +362,7 @@
 | [wahda wahda](https://open.spotify.com/track/3KH0IjtA8fu6Bf8c0ZNIuS) | [Dalia Farid](https://open.spotify.com/artist/2wXTaB5Y0W3bn7h2ATpc3p) | [wahda wahda](https://open.spotify.com/album/4pooryV8kJkRZnc6rHEqg4) | 2:26 | 2024-02-07 | 2024-07-10 |
 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 | 2023-04-05 | 2023-08-02 |
 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 | 2023-04-26 | 2023-09-07 |
-| [WARDA \(hold my hand\)](https://open.spotify.com/track/2Wx4inmqG5SPMJ9w1Bt65h) | [Sara Selina](https://open.spotify.com/artist/1wAuFuBFLTt9xpVGIipLd9) | [LISTEN, Pt\. 2](https://open.spotify.com/album/1WMKvV3nNuEfQefWJoZLHf) | 2:50 | 2024-11-26 |  |
+| [WARDA \(hold my hand\)](https://open.spotify.com/track/2Wx4inmqG5SPMJ9w1Bt65h) | [Sara Selina](https://open.spotify.com/artist/1wAuFuBFLTt9xpVGIipLd9) | [LISTEN, Pt\. 2](https://open.spotify.com/album/1WMKvV3nNuEfQefWJoZLHf) | 2:50 | 2024-11-26 | 2025-04-04 |
 | [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 | 2023-08-01 | 2024-01-17 |
 | [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-06 | 2023-08-20 |
 | [way too much](https://open.spotify.com/track/4W64FXQzz1vEvs4xH3wOal) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [way too much](https://open.spotify.com/album/1PkiCzZ4rpTLpcVRUqItrZ) | 1:58 | 2023-07-18 | 2024-02-21 |
@@ -402,7 +404,7 @@
 | [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 | 2022-09-20 | 2022-11-09 |
 | [عيدلي](https://open.spotify.com/track/3BdZArn7DZxrnaczmAne39) | [Good Company](https://open.spotify.com/artist/3ulWaH4088h2Yeop0R1lh5), [Tararu](https://open.spotify.com/artist/52TAwlnhIQrzlSW4Tsc6dK) | [عيدلي](https://open.spotify.com/album/5b5S0FbQ748DB4XiV9AhYl) | 2:49 | 2023-03-21 | 2023-04-12 |
 | [كراكيب](https://open.spotify.com/track/5I2IZjU6D2v9UuIeGrGkN8) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51) | [كراكيب](https://open.spotify.com/album/1mcJnk6CUvsGgHuGADXKdV) | 2:38 | 2022-12-13 | 2023-03-15 |
-| [ما في دراما](https://open.spotify.com/track/1QNVvnsVd7xuROBW0zsfp7) | [Nurzy](https://open.spotify.com/artist/5kdhUtn46gU4rHVSbHRVEE) | [ما في دراما](https://open.spotify.com/album/1LqhYqrtXru7BtclhJtdeL) | 4:00 | 2024-10-01 |  |
+| [ما في دراما](https://open.spotify.com/track/1QNVvnsVd7xuROBW0zsfp7) | [Nurzy](https://open.spotify.com/artist/5kdhUtn46gU4rHVSbHRVEE) | [ما في دراما](https://open.spotify.com/album/1LqhYqrtXru7BtclhJtdeL) | 4:00 | 2024-10-01 | 2025-04-04 |
 | [مجنون](https://open.spotify.com/track/4je5q99T5Gg0paKTyzxZPR) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh), [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz), [Fifty El Ostora](https://open.spotify.com/artist/4aEt8rS0Xd5a5jdbwpoivO) | [مجنون](https://open.spotify.com/album/7jp81cUoWCnJeIFXyQ6YJF) | 3:02 | 2024-09-11 | 2025-01-23 |
 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 | 2022-10-04 | 2022-11-16 |
 | [مش فكراك](https://open.spotify.com/track/42ENvcce0GTKKp9VkQTH64) | [Nourine](https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K) | [مش فكراك](https://open.spotify.com/album/1S6tg4sPr8vWLdpDZ0kN0y) | 2:58 | 2024-05-14 | 2024-09-12 |

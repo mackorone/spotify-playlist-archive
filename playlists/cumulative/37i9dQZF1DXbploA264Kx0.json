@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: J.Sheon\nx SHUZO",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: DEW",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 192490,
       "name": "2am Calls",
       "url": "https://open.spotify.com/track/3h0IvDPAvhhKkO7OlvK4No"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 168125,
       "name": "ASO",
       "url": "https://open.spotify.com/track/2lmEyHZNkQ9SzZIsg8mk4i"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 133636,
       "name": "I reach for the stars",
       "url": "https://open.spotify.com/track/6Dy6M7uQWa5QxRSPFPecRQ"
@@ -2835,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "LaLaLa",
+        "url": "https://open.spotify.com/album/6G9D2BOpiHgWKm6LinbJHS"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265700,
+      "name": "LaLaLa",
+      "url": "https://open.spotify.com/track/3fCtwx5lKzuAFY6nwE2gEN"
+    },
+    {
+      "album": {
         "name": "Lasagna",
         "url": "https://open.spotify.com/album/6yVljc0D012bFU5rYyG7ou"
       },
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 216818,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/07wmygzJZ8HG3j9Iu0YCIQ"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 144375,
       "name": "No Escape",
       "url": "https://open.spotify.com/track/6GRjTnlquPIRQsUC0Qfti0"
@@ -3748,7 +3766,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 216542,
       "name": "ok to be not ok",
       "url": "https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk"
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 263804,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/6EA43PyKpZyt5dRNfWm8KZ"
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 217533,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/0SbQAxOciLnTM5tdi84vR8"
@@ -5100,6 +5118,28 @@
       "duration_ms": 259648,
       "name": "S\u00f8ul\u043ca\u0442e - Remix",
       "url": "https://open.spotify.com/track/6iw67Qocm9GfffN5vgdiSO"
+    },
+    {
+      "album": {
+        "name": "take us away",
+        "url": "https://open.spotify.com/album/5Pr0k1TVabziKdDIWKqQTr"
+      },
+      "artists": [
+        {
+          "name": "Dizparity",
+          "url": "https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce"
+        },
+        {
+          "name": "SOPHY",
+          "url": "https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196090,
+      "name": "take us away",
+      "url": "https://open.spotify.com/track/7Hf4V2ClfHgh6TosGb1RMD"
     },
     {
       "album": {

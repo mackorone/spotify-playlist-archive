@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  JVSAN
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Rebecca Reijman
 
-316 songs - 18 hr 23 min
+318 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [\[STILL ON\] REPEAT](https://open.spotify.com/track/6ZPBJ8uWEAiit8PcVk4uOS) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [\[STILL ON\] REPEAT](https://open.spotify.com/album/3Y3xfXevhPYBy4YqJpbCwU) | 4:10 | 2024-06-27 | 2024-09-27 |
 | [^ANOTHER:night.a.w.y.o.m.m^ \(Mardial ver.\)](https://open.spotify.com/track/02Ef340mhGp7N2LgvZlimQ) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md) | [ka/la+ANOTHER:night.](https://open.spotify.com/album/4TIfjh93QtACuWOns7xtzx) | 3:32 | 2025-01-23 |  |
 | [A Man, a Bottle, and a Prayer](https://open.spotify.com/track/6Bhtdq0Rut7PCWOpdRxQ0W) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [The Fool](https://open.spotify.com/album/16h1902jiZgsdH3MN5DUoU) | 3:30 | 2024-10-24 | 2025-01-24 |
+| [A Proper Gander](https://open.spotify.com/track/2aWoIcnR6VgTO7lgaFWXCd) | [Prime Manifez](https://open.spotify.com/artist/2PRy6vElGqZHlWrShjYOCP) | [Vincestyle Tape](https://open.spotify.com/album/1xGoBQyLytsR0aGLRA4EmI) | 3:24 | 2025-04-03 |  |
 | [a.way \(with Jin Min Ho\)](https://open.spotify.com/track/0S9zODk7VYgZZMlfoXlypk) | [BLEUR](https://open.spotify.com/artist/7hWuIb3WTuXRN6QCYKs9L3), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [a.way \(with Jin Min Ho\)](https://open.spotify.com/album/1RPAZp71VRzy3tFQ1kx9ti) | 3:41 | 2024-10-03 | 2025-01-24 |
 | [Adam & Eve](https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Adam & Eve](https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss) | 3:25 | 2024-12-12 |  |
 | [After All](https://open.spotify.com/track/0wSdGTI9Uc8zKNSyzoyIzV) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [After All](https://open.spotify.com/album/0FXuhf7oz9QFTYKET9a5uF) | 2:35 | 2024-06-27 | 2024-09-27 |
@@ -250,6 +251,7 @@
 | [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 |  |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-06-27 | 2025-01-24 |
 | [Shadows of Goodbye](https://open.spotify.com/track/4FcnID6A9ecLg6K8JVOB3C) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX), [Leo Hartley](https://open.spotify.com/artist/6ih6ExFcIl58uv2jBLEEp2) | [Shadows of Goodbye](https://open.spotify.com/album/711Hf4CHjqtFATdDZifiOh) | 3:15 | 2024-10-31 | 2025-01-24 |
+| [She Told Me Everything](https://open.spotify.com/track/43bd6diCww6vwmHc6kAmbw) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [She Told Me Everything](https://open.spotify.com/album/0wl3QHxUnisiTMoRQFuT0w) | 3:22 | 2025-04-03 |  |
 | [Sheepish](https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Sheepish](https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS) | 3:03 | 2024-10-17 | 2025-01-24 |
 | [Shell Of A Man](https://open.spotify.com/track/6V2FEvybZVpO9Q6GoHnF5O) | [Audi Kirana](https://open.spotify.com/artist/4oYiHw3MUvsD71zQuqx84C) | [Shell Of A Man](https://open.spotify.com/album/6K5a00me4cDHnuCUpi3tTv) | 4:09 | 2024-11-21 |  |
 | [Silver Linings](https://open.spotify.com/track/6XeTC7wUIiDBU08LITgAZZ) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB) | [Silver Linings](https://open.spotify.com/album/3WwII3mLrRfFS4JUxcfnjU) | 3:19 | 2025-02-20 |  |

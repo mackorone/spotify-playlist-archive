@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 <a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> 🔥
+> 🔥 <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> 🔥
 
-304 songs - 13 hr 7 min
+305 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,5 +312,6 @@
 | [Zoo \(feat\. Branco\)](https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Zoo \(feat\. Branco\)](https://open.spotify.com/album/5Fev5JoZyULNiMeVArH7RA) | 2:30 | 2023-09-21 | 2024-02-23 |
 | [Zugzwang](https://open.spotify.com/track/3YxUsqFWqZDRICQ7Epg3qb) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Liberosis](https://open.spotify.com/album/5BX8fA8Jiaw8ZwoIIQ3xT2) | 3:20 | 2024-10-24 | 2024-11-08 |
 | [Året Ud \(feat\. KESI & Noah Carter\)](https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Året Ud \(feat\. KESI & Noah Carter\)](https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl) | 2:29 | 2024-04-18 | 2025-01-10 |
+| [Ævle](https://open.spotify.com/track/6cyxrvUTs1W5yMh5JF8qoL) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [SAB TIL VERDEN](https://open.spotify.com/album/1bxZdPEMqoInhzuYDuNgEM) | 2:53 | 2025-04-03 |  |
 
 \*This playlist was first scraped on 2023-09-26. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: LoSin",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JAS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -578,7 +578,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 170026,
       "name": "4 Tage",
       "url": "https://open.spotify.com/track/2JbUf7ErfadMQ7WMIFLBq2"
@@ -2820,6 +2820,46 @@
       "duration_ms": 175573,
       "name": "Blumen",
       "url": "https://open.spotify.com/track/4KQlhvy3r7aMWvgdEhgZ7J"
+    },
+    {
+      "album": {
+        "name": "Blumen aus Metall",
+        "url": "https://open.spotify.com/album/5ruFbp1f7HBCdxHD8U0is2"
+      },
+      "artists": [
+        {
+          "name": "Akryl",
+          "url": "https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Blumen aus Metall",
+      "url": "https://open.spotify.com/track/67fg0iyO7n7neiV2zj8qJZ"
+    },
+    {
+      "album": {
+        "name": "Blumen gekauft",
+        "url": "https://open.spotify.com/album/0SQvVx6B69OwKi1gBqkFjU"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/0IjbUcVMZvRFlPIydc3GbY"
+        },
+        {
+          "name": "snoid",
+          "url": "https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144613,
+      "name": "Blumen gekauft",
+      "url": "https://open.spotify.com/track/2ur2wsbg0wZqwl9Xnqe8UL"
     },
     {
       "album": {
@@ -6684,7 +6724,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 191074,
       "name": "Funken",
       "url": "https://open.spotify.com/track/3UK14tJPljA8ZQKICKe7cz"
@@ -7700,7 +7740,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 129934,
       "name": "gro\u00dfstadtherz",
       "url": "https://open.spotify.com/track/4O4bnVhIh1OLPELRb5DTna"
@@ -7726,6 +7766,24 @@
       "duration_ms": 160563,
       "name": "gr\u00e4sslich h\u00e4sslich",
       "url": "https://open.spotify.com/track/2SrPZScn5PVljO9htWWTdk"
+    },
+    {
+      "album": {
+        "name": "Gr\u00f6sste Angst",
+        "url": "https://open.spotify.com/album/323WdML3dUHTDZxlPspdjT"
+      },
+      "artists": [
+        {
+          "name": "Fredrik",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172003,
+      "name": "Gr\u00f6sste Angst",
+      "url": "https://open.spotify.com/track/7aMUwjmG5CmIESRIz2onpY"
     },
     {
       "album": {
@@ -8555,6 +8613,24 @@
     },
     {
       "album": {
+        "name": "h\u00e4nge fest",
+        "url": "https://open.spotify.com/album/1GpyKe5gxMqlscSBdxNaJw"
+      },
+      "artists": [
+        {
+          "name": "Leocardo DiNaprio",
+          "url": "https://open.spotify.com/artist/6oB4vi2HIyph0htfDjToR6"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "h\u00e4nge fest",
+      "url": "https://open.spotify.com/track/5bSKnDc0itwwZ5PYfj2sJ7"
+    },
+    {
+      "album": {
         "name": "Trettmann",
         "url": "https://open.spotify.com/album/03iNJiD9tUpIdBLvHYwZwT"
       },
@@ -8574,6 +8650,24 @@
       "duration_ms": 177746,
       "name": "H\u00e4tten wir sein k\u00f6nnen",
       "url": "https://open.spotify.com/track/4jzPnqCTNdlMNMn9BW1RdI"
+    },
+    {
+      "album": {
+        "name": "H\u00f6henflug",
+        "url": "https://open.spotify.com/album/6bRWYDNv4JRt2YBFksMIki"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127317,
+      "name": "H\u00f6henflug",
+      "url": "https://open.spotify.com/track/59mWhcCe79JH9zHSbYNKTk"
     },
     {
       "album": {
@@ -8806,7 +8900,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 170653,
       "name": "Ich Hab Nur So Getan",
       "url": "https://open.spotify.com/track/3VDdRqwmE21tVFPfqtgQAa"
@@ -10068,7 +10162,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 144973,
       "name": "Katowice",
       "url": "https://open.spotify.com/track/532PZtZQYK4yAr3yaheCIH"
@@ -10296,6 +10390,24 @@
       "duration_ms": 118823,
       "name": "keine war gro\u00dfartig",
       "url": "https://open.spotify.com/track/5iUugnkpBWQC33yhnEw3tq"
+    },
+    {
+      "album": {
+        "name": "Keine Zeit/Selbstmitleid",
+        "url": "https://open.spotify.com/album/4IfKrwMwA3WFuKlxTljiFp"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171546,
+      "name": "Keine Zeit/Selbstmitleid",
+      "url": "https://open.spotify.com/track/6iG5sYycr1fzTajS770BzE"
     },
     {
       "album": {
@@ -10707,6 +10819,24 @@
     },
     {
       "album": {
+        "name": "krepppapier",
+        "url": "https://open.spotify.com/album/44r2GytHCTpgSxSdFOCk9v"
+      },
+      "artists": [
+        {
+          "name": "Keule",
+          "url": "https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158812,
+      "name": "krepppapier",
+      "url": "https://open.spotify.com/track/7HQDr2SyD5KNmBPEizb3lW"
+    },
+    {
+      "album": {
         "name": "KRYPTOHERZ",
         "url": "https://open.spotify.com/album/7djGTRofvMe1aGvlF7vHUU"
       },
@@ -10946,7 +11076,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 136342,
       "name": "lass es gehen (feat. Max Raabe)",
       "url": "https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8"
@@ -12326,7 +12456,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 207055,
       "name": "meer",
       "url": "https://open.spotify.com/track/2mAYwrPVtapUpFbr8sRRAL"
@@ -12858,7 +12988,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 227166,
       "name": "morgen",
       "url": "https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3"
@@ -13068,7 +13198,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 179748,
       "name": "Nachtbus",
       "url": "https://open.spotify.com/track/7KGorm6PPaGm786knkyzrn"
@@ -13954,7 +14084,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 208875,
       "name": "Oliver",
       "url": "https://open.spotify.com/track/4R7N00838t63FrG3jwj7rM"
@@ -15378,7 +15508,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 169896,
       "name": "ruf nach mir",
       "url": "https://open.spotify.com/track/4nji8zmK7jkznIcGmrRoiC"
@@ -15552,7 +15682,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 131315,
       "name": "Sanduhr",
       "url": "https://open.spotify.com/track/0hab3VhPV6LIWZbOgwm67L"
@@ -15998,6 +16128,32 @@
       "duration_ms": 145150,
       "name": "Sch\u00f6n/Scheisse",
       "url": "https://open.spotify.com/track/0EcO8AnnMVDQYL7T8RzG1R"
+    },
+    {
+      "album": {
+        "name": "sch\u00f6nhauser EP",
+        "url": "https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120584,
+      "name": "sch\u00f6nhauser (feat. Gustav)",
+      "url": "https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj"
     },
     {
       "album": {
@@ -16482,7 +16638,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 167294,
       "name": "Silberfische",
       "url": "https://open.spotify.com/track/6GmasoDkBzH9D7GfRzDFSI"
@@ -17238,6 +17394,24 @@
       "duration_ms": 244023,
       "name": "Stabil",
       "url": "https://open.spotify.com/track/6Ifx1tcIsAUV7Qqqu2pULB"
+    },
+    {
+      "album": {
+        "name": "Stacheldraht",
+        "url": "https://open.spotify.com/album/6Uwf57Ku4yU8jVhj7gwpBu"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119500,
+      "name": "Stacheldraht",
+      "url": "https://open.spotify.com/track/5gNyaLC1N2tRebbJ5yafRv"
     },
     {
       "album": {
@@ -18670,10 +18844,28 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 180040,
       "name": "unendlichkeit",
       "url": "https://open.spotify.com/track/5MB5Rsv1zV55oChldxIlpj"
+    },
+    {
+      "album": {
+        "name": "unendlichsch\u00f6nversagt",
+        "url": "https://open.spotify.com/album/1gHVnewnM4dCuxkp9HJfAl"
+      },
+      "artists": [
+        {
+          "name": "georgustav",
+          "url": "https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "unendlichsch\u00f6nversagt",
+      "url": "https://open.spotify.com/track/3ccJnVUwGjvTs1pCeiaLxz"
     },
     {
       "album": {
@@ -18794,6 +18986,24 @@
       "duration_ms": 213185,
       "name": "Unsere Stadt",
       "url": "https://open.spotify.com/track/3EnPa26fIejr2zmzbK9D6U"
+    },
+    {
+      "album": {
+        "name": "Unsicher",
+        "url": "https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138032,
+      "name": "Unsicher",
+      "url": "https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ"
     },
     {
       "album": {
@@ -19195,6 +19405,24 @@
     },
     {
       "album": {
+        "name": "Vielleicht EP",
+        "url": "https://open.spotify.com/album/0GX9gqWk8CG4QgJBuMX7CX"
+      },
+      "artists": [
+        {
+          "name": "jaschu",
+          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Vielleicht",
+      "url": "https://open.spotify.com/track/6SdNtgmRMqLORL388GtIw4"
+    },
+    {
+      "album": {
         "name": "Vielleicht",
         "url": "https://open.spotify.com/album/7adRb6DHpCHuXntk5Z6CTY"
       },
@@ -19329,6 +19557,24 @@
     },
     {
       "album": {
+        "name": "von dir getr\u00e4umt",
+        "url": "https://open.spotify.com/album/1zZ41BZ4lVL09jVLVvY2mA"
+      },
+      "artists": [
+        {
+          "name": "Liebestrunken",
+          "url": "https://open.spotify.com/artist/3gvRLEBCD3TSdqvHNScTTY"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175100,
+      "name": "von dir getr\u00e4umt",
+      "url": "https://open.spotify.com/track/7xHcOAeui7OO0JF2gZH5zN"
+    },
+    {
+      "album": {
         "name": "Vor die Hunde",
         "url": "https://open.spotify.com/album/6Qvu65AReaZABJLBIgmYXh"
       },
@@ -19430,7 +19676,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 211956,
       "name": "Waldbrand",
       "url": "https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD"
@@ -20465,6 +20711,24 @@
     },
     {
       "album": {
+        "name": "wiedersehen",
+        "url": "https://open.spotify.com/album/6PIf15ANdrJPslqDR55Z6X"
+      },
+      "artists": [
+        {
+          "name": "GRETA",
+          "url": "https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168370,
+      "name": "wiedersehen",
+      "url": "https://open.spotify.com/track/4auPzExxaWRKYPiy6D96Wt"
+    },
+    {
+      "album": {
         "name": "MINI",
         "url": "https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e"
       },
@@ -20686,6 +20950,24 @@
       "duration_ms": 180000,
       "name": "Wisch&Tipp",
       "url": "https://open.spotify.com/track/2UkCafENd1PZfIaLd27NVi"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e4ume in Beton",
+        "url": "https://open.spotify.com/album/2ILs9pESvatu09JTqp87Cl"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163359,
+      "name": "Wo bist du",
+      "url": "https://open.spotify.com/track/2UWuZkYZH9urjcC3UD4MtQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp?si=mgEuGcu_RBCLL6wEkKRbKw\">M\u00d6RDA</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp?si=mgEuGcu_RBCLL6wEkKRbKw\">Malumz On Decks</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -5147,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "Cultivate",
+        "url": "https://open.spotify.com/album/1Wi0y3j5tZ715saVfAj5LU"
+      },
+      "artists": [
+        {
+          "name": "DAMEN",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241716,
+      "name": "Cultivate",
+      "url": "https://open.spotify.com/track/7sCfwSH2lA1KcyGvKgk05l"
+    },
+    {
+      "album": {
         "name": "D2MA 2",
         "url": "https://open.spotify.com/album/10AS3bpEwNTAEzokQgJT3E"
       },
@@ -6443,6 +6461,28 @@
     },
     {
       "album": {
+        "name": "Humelela",
+        "url": "https://open.spotify.com/album/7abcyNlCWwFcjJyLNrNSFn"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "SYKES",
+          "url": "https://open.spotify.com/artist/0jQCL3PGTu3kvhLPkxocws"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378448,
+      "name": "Emaweni",
+      "url": "https://open.spotify.com/track/4iwQtGPYthkR4O2w9w6Ge6"
+    },
+    {
+      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/0knYXe2AfWcjSpuhI6Ob3s"
       },
@@ -7466,7 +7506,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 215583,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
@@ -11831,6 +11871,36 @@
     },
     {
       "album": {
+        "name": "Kamweretho",
+        "url": "https://open.spotify.com/album/69cfR9Rdbe7TBqppvRk12t"
+      },
+      "artists": [
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        },
+        {
+          "name": "Soultronixx",
+          "url": "https://open.spotify.com/artist/5peiJgR8i9v88d3Gebhiha"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388173,
+      "name": "Kamweretho - Soultronixx Remix",
+      "url": "https://open.spotify.com/track/758giWRZzVK6NlDb4KV6Qe"
+    },
+    {
+      "album": {
         "name": "Kandongueiro Voador",
         "url": "https://open.spotify.com/album/2mdebiLSvtTfml7r2L62LM"
       },
@@ -13774,6 +13844,28 @@
       "duration_ms": 442760,
       "name": "Lutar - Chronical Deep Clap Back",
       "url": "https://open.spotify.com/track/3O1VFIfue3HJskTTPUou7g"
+    },
+    {
+      "album": {
+        "name": "Ma Tnsani (Yalla Habibi)",
+        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "Aya",
+          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Ma Tnsani (Yalla Habibi)",
+      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
     },
     {
       "album": {
@@ -16915,6 +17007,28 @@
     },
     {
       "album": {
+        "name": "On My Way (feat. Children of Zeus)",
+        "url": "https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "On My Way (feat. Children of Zeus)",
+      "url": "https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg"
+    },
+    {
+      "album": {
         "name": "One Night/All Night",
         "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
       },
@@ -17190,6 +17304,24 @@
       "duration_ms": 345228,
       "name": "Oudara - Club Mix",
       "url": "https://open.spotify.com/track/0QX9AiK3RhrJuJEHBlpYVd"
+    },
+    {
+      "album": {
+        "name": "Ourea",
+        "url": "https://open.spotify.com/album/1qR7Zo8wA5Ww8sKE5qzhn7"
+      },
+      "artists": [
+        {
+          "name": "Protoculture",
+          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239996,
+      "name": "Ourea - Original Mix",
+      "url": "https://open.spotify.com/track/0JL49qsbFinwkkgmO5lKsM"
     },
     {
       "album": {
@@ -20798,7 +20930,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 299822,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6liVqLO60pM5HCWE59YC38"
@@ -21570,7 +21702,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 146341,
       "name": "Tantalizing",
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
@@ -22212,6 +22344,24 @@
       "duration_ms": 456097,
       "name": "The Hi",
       "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
+    },
+    {
+      "album": {
+        "name": "East Blues 2",
+        "url": "https://open.spotify.com/album/3Rkh4DDfGTKj1lqMWrchc4"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320326,
+      "name": "The Humming Song",
+      "url": "https://open.spotify.com/track/5tQDSCeqM9bsl7alu7usD7"
     },
     {
       "album": {
@@ -24392,6 +24542,32 @@
       "duration_ms": 325176,
       "name": "uZosala",
       "url": "https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf"
+    },
+    {
+      "album": {
+        "name": "Qhayiya Lam",
+        "url": "https://open.spotify.com/album/6Bu2xAgHnhNnQr74bvXg5s"
+      },
+      "artists": [
+        {
+          "name": "Malumz on Decks",
+          "url": "https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS"
+        },
+        {
+          "name": "Gumz",
+          "url": "https://open.spotify.com/artist/1Sxp7YrEejs1PuyqZoBMrl"
+        },
+        {
+          "name": "Valamehlo",
+          "url": "https://open.spotify.com/artist/06mzjEzZRq3OzpHnwB7l3o"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349388,
+      "name": "Valamehlo (feat. Valamehlo)",
+      "url": "https://open.spotify.com/track/08UlRHLoUzngaulk4GGeC0"
     },
     {
       "album": {

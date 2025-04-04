@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298 likes - 86 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 299 likes - 86 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 69 | [Angel Numbers](https://open.spotify.com/track/4r6TS1gNXxga38z2Nq5qYn) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Ascension / Angel Numbers](https://open.spotify.com/album/5aoGr2wIbfjVy85rCHWE4j) | 2:32 |
 | 70 | [The Things They Did for Me Out of Love](https://open.spotify.com/track/2QriXzI1vNbV0dXEJkO8x1) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:44:00 |
 | 71 | [Nocebo](https://open.spotify.com/track/4Jjl0nWNOIG9GiVR7WPbCr) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Bordello](https://open.spotify.com/album/2yGK3WB3D9I3paGskTo8ZW) | 5:42 |
-| 72 | [All Night](https://open.spotify.com/track/7JFQPt9qzY7U0NMPCdXE83) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Mayhem](https://open.spotify.com/artist/3n2IwUzU4qAAITPTGtoQWp) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 2:57 |
-| 73 | [Car Song](https://open.spotify.com/track/5E9rFVAGmdtA7ueCNqLlmW) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [MC Boing](https://open.spotify.com/artist/76PsQmabD32wQz48hYBV8F) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 1:31 |
+| 72 | [Car Song](https://open.spotify.com/track/5E9rFVAGmdtA7ueCNqLlmW) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [MC Boing](https://open.spotify.com/artist/76PsQmabD32wQz48hYBV8F) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 1:31 |
+| 73 | [All Night](https://open.spotify.com/track/7JFQPt9qzY7U0NMPCdXE83) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Mayhem](https://open.spotify.com/artist/3n2IwUzU4qAAITPTGtoQWp) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 2:57 |
 | 74 | [Do You Remember](https://open.spotify.com/track/26ETISqSBZl159lQO5AtZk) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:23 |
 | 75 | [Piano Song](https://open.spotify.com/track/7rHv6aeboZ8axyZa0IfObt) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [MC Boing](https://open.spotify.com/artist/76PsQmabD32wQz48hYBV8F) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 1:40 |
 | 76 | [Touch Me](https://open.spotify.com/track/6iZvJ74nmkm6vOLeMV9cSP) | [Eva Tolkin](https://open.spotify.com/artist/3Vo834c5EcKKZfy5ZvaP5I) | [Truthfully](https://open.spotify.com/album/1lDsZ4rzV1kVybsGAkaFuQ) | 3:14 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 85 | [Yeva's Lullaby](https://open.spotify.com/track/62Rfsh1COhNtFZQWJnGP8o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 6:53 |
 | 86 | [The Circle Unbroken](https://open.spotify.com/track/6RH3wzlXIQNsuZUShs174m) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:17 |
 
-Snapshot ID: `AbtutgAAAABK9lnJafoQWpMxJG+O+bDx`
+Snapshot ID: `Abt0iAAAAAARhHiZurmSOhofgyxHTmqj`

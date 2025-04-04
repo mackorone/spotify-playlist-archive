@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: X CLUB.
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Lawrence Hart
 
-1,280 songs - 3 day 22 hr 57 min
+1,281 songs - 3 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [fruit machine](https://open.spotify.com/track/4HkM0WDGGmdDRDx5MRpGHZ) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [fruit machine](https://open.spotify.com/album/6Db83GXGxNuhXnMoYnM3Lj) | 3:00 | 2025-03-05 | 2025-03-30 |
 | [Fuck what u heard](https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Fuck what u heard](https://open.spotify.com/album/31kvCru828NJSvrG2FymOR) | 3:40 | 2023-04-27 | 2023-08-12 |
 | [Fucked Up](https://open.spotify.com/track/5KjSqJiqmt89tOqGTxWgB4) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Sail the Seven Seas](https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ) | 2:54 | 2023-12-14 | 2024-02-09 |
+| [Fucking Mega](https://open.spotify.com/track/6tqvEXCweWY131rD6EeD4D) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Come In Out Of The Rain](https://open.spotify.com/album/6jZhhKMNsN5C6LpypG7SdO) | 4:51 | 2025-04-03 |  |
 | [Funkbraska](https://open.spotify.com/track/1EQsyPa6VmFXwggNfQ4obS) | [Nebraska](https://open.spotify.com/artist/1r7iu4v645R7o3bARTQGtn) | [Funkbraska](https://open.spotify.com/album/0HQ0oc0R5tY0mSGSH14Te1) | 5:41 | 2023-10-26 | 2024-01-12 |
 | [Funky AI](https://open.spotify.com/track/3Sq5zbmZzhW3QB4Gt83pNU) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [Piano Bros EP](https://open.spotify.com/album/32Ya62oQWz4YOXGjVrRSiU) | 3:47 | 2024-02-22 | 2024-05-10 |
 | [Fuse Beat 01 \- Extended Mix Remastered](https://open.spotify.com/track/7D0U3neXHqE1Vr56FcSFp2) | [Dazzle Drums](https://open.spotify.com/artist/4uDHKttZHqeHquQcd7tiX2) | [Fuse Beat](https://open.spotify.com/album/4NQwry35x0bGXXMQ0Osm4y) | 7:44 | 2024-12-19 | 2025-01-31 |
@@ -695,7 +696,7 @@
 | [Love I Need](https://open.spotify.com/track/6BomNE32DLXqFhXWNO62gQ) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [Love I Need](https://open.spotify.com/album/38TpzEe9DaIBZMhLfxaCB5) | 6:41 | 2025-03-29 |  |
 | [Love Is Emotion](https://open.spotify.com/track/3IhWvRkKuh03tCoPu0RavK) | [Keita Sano](https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn) | [Love Is Emotion](https://open.spotify.com/album/1IRbkyv9JQQVf8WySlkQkI) | 6:28 | 2023-03-16 | 2023-05-05 |
 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 | 2025-01-30 | 2025-03-07 |
-| [Love U Bring](https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Love U Bring](https://open.spotify.com/album/2Q1jYDR25sGrFDg8xmoOnU) | 4:00 | 2025-02-21 |  |
+| [Love U Bring](https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Love U Bring](https://open.spotify.com/album/2Q1jYDR25sGrFDg8xmoOnU) | 4:00 | 2025-02-21 | 2025-04-04 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-11 | 2024-03-15 |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2023-12-07 | 2023-12-15 |
 | [Lovin You](https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Lovin You](https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL) | 2:43 | 2023-06-15 | 2023-08-18 |

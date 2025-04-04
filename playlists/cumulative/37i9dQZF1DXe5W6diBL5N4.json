@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: LUCY) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: \uce74\uc774 (KAI)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "New Music K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -274,6 +274,24 @@
       "duration_ms": 169142,
       "name": "(The Cherry Trees)",
       "url": "https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p"
+    },
+    {
+      "album": {
+        "name": "*23#",
+        "url": "https://open.spotify.com/album/15uJ8X6mpANIsd4hKDnFYj"
+      },
+      "artists": [
+        {
+          "name": "SOONHO",
+          "url": "https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165159,
+      "name": "*23#",
+      "url": "https://open.spotify.com/track/5BUGHq4fMLs8D3Wv3QVIuZ"
     },
     {
       "album": {
@@ -1440,7 +1458,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 204250,
       "name": "15 Years Old",
       "url": "https://open.spotify.com/track/1ksJA4Yme39NKgn82SvLsp"
@@ -3512,6 +3530,24 @@
       "duration_ms": 187500,
       "name": "5PACE (feat. VINXEN)",
       "url": "https://open.spotify.com/track/0wsjBPgQr1dVorwumKVAoY"
+    },
+    {
+      "album": {
+        "name": "6 roses",
+        "url": "https://open.spotify.com/album/61aBTbDHPeb3lMH31lGy4W"
+      },
+      "artists": [
+        {
+          "name": "JUNGSOOMIN",
+          "url": "https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "6 roses",
+      "url": "https://open.spotify.com/track/6So6l8lHFVqDdeRkYaNx9U"
     },
     {
       "album": {
@@ -6570,7 +6606,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 208320,
       "name": "Above All, It was Love",
       "url": "https://open.spotify.com/track/4yoIq4LSAzpERS0g6fyHD1"
@@ -7220,6 +7256,24 @@
       "duration_ms": 213468,
       "name": "Adult",
       "url": "https://open.spotify.com/track/3IfzODjwp39Ov9BnUG8ecS"
+    },
+    {
+      "album": {
+        "name": "Adult Swim",
+        "url": "https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144640,
+      "name": "Adult Swim",
+      "url": "https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU"
     },
     {
       "album": {
@@ -11598,7 +11652,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 221293,
       "name": "Anorexia nervosa",
       "url": "https://open.spotify.com/track/6f3Jg51kv5EL4Y60QAdNLn"
@@ -20888,6 +20942,24 @@
       "duration_ms": 144000,
       "name": "Better Year",
       "url": "https://open.spotify.com/track/6vaMtE36zYgbVIla2hEpJm"
+    },
+    {
+      "album": {
+        "name": "Betty Boop\u2665 (collab. ULKIN CANVAS)",
+        "url": "https://open.spotify.com/album/0sUQyZG2rfJH6tASxHks3p"
+      },
+      "artists": [
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137161,
+      "name": "Betty Boop\u2665 (collab. ULKIN CANVAS)",
+      "url": "https://open.spotify.com/track/6wgQeSCttPKaIRJgwK3EJn"
     },
     {
       "album": {
@@ -34824,7 +34896,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 160125,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/0f78hTHehX5B1xRC6nzyy7"
@@ -45104,7 +45176,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 177302,
       "name": "DM me (With Yun Seul)",
       "url": "https://open.spotify.com/track/0kT6Njo4W1tOlaj4R4gzlV"
@@ -88713,6 +88785,24 @@
     },
     {
       "album": {
+        "name": "I'll Love The Evening",
+        "url": "https://open.spotify.com/album/2zEtNsBuYeX2FaI7F9h1vd"
+      },
+      "artists": [
+        {
+          "name": "YeonJeong",
+          "url": "https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206852,
+      "name": "I'll Love The Evening",
+      "url": "https://open.spotify.com/track/5qyqBLwT9Uce1x4HY1qhFM"
+    },
+    {
+      "album": {
         "name": "I'll never love you again",
         "url": "https://open.spotify.com/album/4KuQvV9gQEKlxenz6A5nkv"
       },
@@ -94813,6 +94903,28 @@
     },
     {
       "album": {
+        "name": "VOLCANO",
+        "url": "https://open.spotify.com/album/2mOrIcxamOhiC3lbni6wX2"
+      },
+      "artists": [
+        {
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260092,
+      "name": "Is This Love? (Feat. HYNN)",
+      "url": "https://open.spotify.com/track/29o5GFLi4laztl2X9zsQ6c"
+    },
+    {
+      "album": {
         "name": "Is this love?",
         "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
       },
@@ -97670,7 +97782,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 138000,
       "name": "jamesdean",
       "url": "https://open.spotify.com/track/4DZuYuFyBligBmr7HDUi6t"
@@ -122670,7 +122782,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 156293,
       "name": "MMI",
       "url": "https://open.spotify.com/track/3vUgH1OgQowlmhIvXiHb5t"
@@ -165281,6 +165393,24 @@
     },
     {
       "album": {
+        "name": "Sleepless Night",
+        "url": "https://open.spotify.com/album/2SbIruPjGLiPuzNZhgjd7S"
+      },
+      "artists": [
+        {
+          "name": "Raina",
+          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "Sleepless Night",
+      "url": "https://open.spotify.com/track/4viWtPGajHWahUcqPJNA48"
+    },
+    {
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/3HSFQph9zIzBRB9Nvwe6a2"
       },
@@ -170653,6 +170783,24 @@
     },
     {
       "album": {
+        "name": "Way Back Love, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7EmShrOClzkIRcqTj8n1nu"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Spring Is Gone by chance",
+      "url": "https://open.spotify.com/track/4F0Q14hV91Ni5DF0mHwJDI"
+    },
+    {
+      "album": {
         "name": "Spring Night",
         "url": "https://open.spotify.com/album/3tJwgbBJPO4VHQ8GjxSS2T"
       },
@@ -170994,6 +171142,24 @@
       "duration_ms": 253605,
       "name": "Springtime in Chernobyl",
       "url": "https://open.spotify.com/track/1CNKD2is5x9QP2iJd6HEOy"
+    },
+    {
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/7JS09Qd3apofqwhmccNKQM"
+      },
+      "artists": [
+        {
+          "name": "OmO",
+          "url": "https://open.spotify.com/artist/0qd4ZITXi1pNRIuhUst0h7"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/6K6JMGJw6v6j4GTX3fYiqO"
     },
     {
       "album": {
@@ -180156,7 +180322,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 202360,
       "name": "SYZYGY",
       "url": "https://open.spotify.com/track/3x8ujKTYufyFe7ZhNvo9LX"
@@ -200768,6 +200934,24 @@
       "duration_ms": 178594,
       "name": "Walkin\u2019 Down the Street!",
       "url": "https://open.spotify.com/track/2J0KLhMwR3AevgYSUXcwpF"
+    },
+    {
+      "album": {
+        "name": "STELLA II",
+        "url": "https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252524,
+      "name": "WALKMAN",
+      "url": "https://open.spotify.com/track/6Y8iqKIk4LckcPQV5lohVU"
     },
     {
       "album": {
@@ -224458,7 +224642,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 251403,
       "name": "\uc0ac\ub791\ud588\ub358 \ub098\uc758 \uadf8\ub300",
       "url": "https://open.spotify.com/track/0u7NbbabDI9A2GUdPpDbXI"

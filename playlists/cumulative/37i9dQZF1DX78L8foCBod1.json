@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "NV",
+        "url": "https://open.spotify.com/album/6NebdhrFtfzmuCqMTxXoU3"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157790,
+      "name": "Ditty - NV",
+      "url": "https://open.spotify.com/track/5RsahemEpfCPpRXu7pdiih"
+    },
+    {
+      "album": {
         "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
         "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
       },

@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-396 songs - 23 hr 19 min
+397 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [小美滿 \(電影《熱辣滾燙》熱辣陪伴曲\)](https://open.spotify.com/track/2SBFE0qlDBhzus5b3qqxBM) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [小美滿 \(電影《熱辣滾燙》熱辣陪伴曲\)](https://open.spotify.com/album/5WL0s3YJehp8GqmJRZu0Sq) | 3:34 | 2024-03-04 |  |
 | [小酒窩](https://open.spotify.com/track/2cQWS025v0hpWsR8lcaACt) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [鄭容和 首張華語EP "和.唱"](https://open.spotify.com/album/7LYSbkkGXM783wqn60YDqi) | 3:34 | 2022-06-06 | 2022-07-28 |
 | [小鹿亂跑中 \(feat\. 詹量淵\)](https://open.spotify.com/track/0tWzpcQaxrH7U9KAM9q6lS) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a), [詹量淵](https://open.spotify.com/artist/02ur8u5FBITdCunLs7J0lO) | [小鹿亂跑中 \(feat\. 詹量淵\)](https://open.spotify.com/album/6q0FtIpzWtP4MozETMIive) | 3:06 | 2022-10-18 | 2022-10-25 |
-| [少一个人](https://open.spotify.com/track/7o8B9n3gm0hMCQu1kqzWu1) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [少一个人](https://open.spotify.com/album/1WzUnYlmVhnp4b1UmL1Qoi) | 3:20 | 2025-03-27 |  |
+| [少一个人](https://open.spotify.com/track/7o8B9n3gm0hMCQu1kqzWu1) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [少一个人](https://open.spotify.com/album/1WzUnYlmVhnp4b1UmL1Qoi) | 3:20 | 2025-03-27 | 2025-04-04 |
 | [就想和你在一起](https://open.spotify.com/track/2MOb7OFN5oT15Fq7gvA2Rw) | [Bo Wen](https://open.spotify.com/artist/3VrQh6QZDpQxT4FjeSC6pK), [蔡卓宜](https://open.spotify.com/artist/7BIwfYlgEqQDGaFufasqwi) | [我可否将人生比作一场竞技](https://open.spotify.com/album/4fNoLqoUAfMmo8CBfbUxzN) | 3:35 | 2022-06-20 | 2022-06-22 |
 | [就是愛妳](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:21 | 2022-06-06 |  |
 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 | 2022-06-27 |  |
@@ -257,6 +257,7 @@
 | [我多喜欢你](https://open.spotify.com/track/1ZW6Zxs0a1dFtaaPe8lc94) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0), [Jeii Pong庞捷忆](https://open.spotify.com/artist/2BmVlw5akh7VgB728Yq1x2) | [我多喜欢你](https://open.spotify.com/album/13h94ukOHOL68UN2tY8iIQ) | 3:04 | 2022-06-06 | 2022-07-29 |
 | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl) | [Wang Jun Qi](https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub) | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj) | 3:19 | 2022-07-25 |  |
 | [我好喜歡你 \- 電視劇《我好喜歡你》片尾曲](https://open.spotify.com/track/0MjmEm3cEKW65S3E3gdiST) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086), [沈月](https://open.spotify.com/artist/1CFB64CMCUZEEdKbEzugJy) | [我好喜歡你 \(電視劇《我好喜歡你》片尾曲\)](https://open.spotify.com/album/2IIse0JWuGOBh1xDhelIid) | 3:54 | 2022-06-27 | 2022-07-23 |
+| [我好想你](https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [我好想你](https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq) | 3:03 | 2025-04-03 |  |
 | [我是你的半截诗](https://open.spotify.com/track/33BvvsKlwLSy0RTjY2w1ZJ) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [我是你的半截诗](https://open.spotify.com/album/2bViqUAwFprKKlkDLivFIs) | 4:33 | 2024-03-18 | 2024-05-07 |
 | [我會很愛你](https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我會很愛你](https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx) | 3:35 | 2023-10-08 |  |
 | [我會很愛妳](https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086) | [多出來的自由](https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg) | 3:33 | 2024-04-15 |  |

@@ -1,13 +1,29 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 125702,
+  "num_followers": 125712,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+VL3gAAAADzI9OyQFMdxCdoqzhkWzKx",
+  "snapshot_id": "Z+6GXgAAAAAkYWVj5UOjM5Pk8gss4moc",
   "tracks": [
+    {
+      "added_at": "2025-04-03 13:00:14",
+      "album": {
+        "name": "Like Love",
+        "url": "https://open.spotify.com/album/5sZBCDhQ1XkWmR8OxT4aFL"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Coast Is Clear",
+      "url": "https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck"
+    },
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
+      "added_at": "2025-04-03 13:00:14",
+      "album": {
+        "name": "Close Proximity",
+        "url": "https://open.spotify.com/album/25Ka8Q4ZBwMLCBnRM4Enrp"
+      },
+      "artists": [
+        {
+          "name": "Chitra",
+          "url": "https://open.spotify.com/artist/1zjwHxjhMPXp4nrWwL9hwM"
+        }
+      ],
+      "duration_ms": 206911,
+      "name": "Close Proximity",
+      "url": "https://open.spotify.com/track/34nCjUuPCn57m76m7QYVYe"
+    },
+    {
       "added_at": "2025-03-04 23:20:58",
       "album": {
         "name": "With You",
@@ -71,22 +103,6 @@
       "duration_ms": 189806,
       "name": "With You",
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -141,56 +157,20 @@
       "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
     },
     {
-      "added_at": "2025-03-20 14:34:44",
+      "added_at": "2025-04-03 13:00:14",
       "album": {
-        "name": "swim back",
-        "url": "https://open.spotify.com/album/3cDgILtgz96vq7J2D5NVpY"
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/20qSwY5Of1dCr5cjx9zYzp"
       },
       "artists": [
         {
-          "name": "Montaigne",
-          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
         }
       ],
-      "duration_ms": 137760,
-      "name": "swim back",
-      "url": "https://open.spotify.com/track/0YWKQfm1v9AkvgjjbqEbaj"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
-    },
-    {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 169941,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e"
+      "duration_ms": 225167,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/4t2JCPEeCHZeRfsyVBNEZd"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -207,22 +187,6 @@
       "duration_ms": 182733,
       "name": "doing my best",
       "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
-    },
-    {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Running Out",
-        "url": "https://open.spotify.com/album/4e4HuGGMBput0CxfwBUOoQ"
-      },
-      "artists": [
-        {
-          "name": "The Moving Stills",
-          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
-        }
-      ],
-      "duration_ms": 189232,
-      "name": "Running Out",
-      "url": "https://open.spotify.com/track/2k5IHV4mdDun3M4IgI8HTe"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -249,22 +213,6 @@
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Bird in Paradise",
-        "url": "https://open.spotify.com/album/4pLn7PExHV2Z66zFu4xDQc"
-      },
-      "artists": [
-        {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "Bird in Paradise",
-      "url": "https://open.spotify.com/track/7IjOninBTGNdGfZ3g1Xidh"
-    },
-    {
       "added_at": "2025-03-04 23:20:58",
       "album": {
         "name": "Movie Scene",
@@ -279,94 +227,6 @@
       "duration_ms": 180661,
       "name": "Movie Scene",
       "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 213258,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
-    },
-    {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Shangri-La",
-        "url": "https://open.spotify.com/album/4zsMUZ7yhV6dy8Ey6tuPQW"
-      },
-      "artists": [
-        {
-          "name": "Meg Washington",
-          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
-        }
-      ],
-      "duration_ms": 216587,
-      "name": "Shangri-La",
-      "url": "https://open.spotify.com/track/2PnLnsEBUVNnxj9H9d7pjZ"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Hyunjin",
-          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
-        }
-      ],
-      "duration_ms": 172151,
-      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
-    },
-    {
-      "added_at": "2025-03-20 14:34:44",
-      "album": {
-        "name": "Spend My Nights",
-        "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Spend My Nights",
-      "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -403,22 +263,18 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Room For You",
-        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 183373,
-      "name": "Room For You",
-      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
+      "duration_ms": 213258,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -491,22 +347,22 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU"
+        "name": "Room For You",
+        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         },
         {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
+      "duration_ms": 183373,
+      "name": "Room For You",
+      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
     },
     {
       "added_at": "2025-03-13 13:00:38",
@@ -523,22 +379,6 @@
       "duration_ms": 167849,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU"
-    },
-    {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Backflips in a Restaurant",
-        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 165522,
-      "name": "Need You Around",
-      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -563,26 +403,6 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "We Could Be Love",
-        "url": "https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 189112,
-      "name": "We Could Be Love",
-      "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
     },
     {
       "added_at": "2025-03-13 13:00:38",
@@ -635,30 +455,6 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "it's Franky baby!",
-        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 221602,
-      "name": "Give Thanks, Give Praise",
-      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -687,6 +483,46 @@
       "duration_ms": 192647,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "it's Franky baby!",
+        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "duration_ms": 221602,
+      "name": "Give Thanks, Give Praise",
+      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Backflips in a Restaurant",
+        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 165522,
+      "name": "Need You Around",
+      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -803,6 +639,38 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Sugarcat",
+        "url": "https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 174119,
+      "name": "Sugarcat",
+      "url": "https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -851,6 +719,22 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
+        "name": "How to Kill Houseplants",
+        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 208797,
+      "name": "How to Kill Houseplants",
+      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
         "name": "Electric Feel (Spotify Singles)",
         "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
       },
@@ -863,38 +747,6 @@
       "duration_ms": 176800,
       "name": "Electric Feel - Spotify Singles",
       "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
-    },
-    {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Sugarcat",
-        "url": "https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 174119,
-      "name": "Sugarcat",
-      "url": "https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "One Bad Day",
-        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "One Bad Day",
-      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -911,6 +763,22 @@
       "duration_ms": 195486,
       "name": "Peripheral Lover",
       "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Golden Wolf",
+        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "Golden Wolf",
+      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -963,42 +831,6 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Golden Wolf",
-        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "Golden Wolf",
-      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Op Shop Lover",
-        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 150421,
-      "name": "Op Shop Lover",
-      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
         "name": "Ask That God",
         "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
@@ -1031,22 +863,6 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "How to Kill Houseplants",
-        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 208797,
-      "name": "How to Kill Houseplants",
-      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
         "name": "No Cure For Love",
         "url": "https://open.spotify.com/album/3stGOTd46n9pCg1Lj3INZV"
       },
@@ -1063,22 +879,6 @@
       "duration_ms": 232868,
       "name": "No Cure For Love",
       "url": "https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Believe (triple j Like A Version) [Cover Version]",
-        "url": "https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 197594,
-      "name": "Believe (triple j Like A Version) - Cover Version",
-      "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1183,38 +983,6 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
-      },
-      "artists": [
-        {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
-        }
-      ],
-      "duration_ms": 192103,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
         "name": "Please Don't Move To Melbourne",
         "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
       },
@@ -1247,6 +1015,38 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
+        "name": "Parched",
+        "url": "https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 235534,
+      "name": "Parched",
+      "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
         "name": "Young Free & Reckless",
         "url": "https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38"
       },
@@ -1259,6 +1059,206 @@
       "duration_ms": 192876,
       "name": "Young Free & Reckless",
       "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Desire to Stay",
+        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Desire to Stay",
+      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
+    },
+    {
+      "added_at": "2025-03-20 14:34:44",
+      "album": {
+        "name": "Shut You Out",
+        "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "duration_ms": 234715,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Know You Love Me",
+        "url": "https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Know You Love Me",
+      "url": "https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Benny",
+      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Everyone Will See It",
+        "url": "https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 204620,
+      "name": "Everyone Will See It",
+      "url": "https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 124401,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 177781,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb"
+    },
+    {
+      "added_at": "2025-03-20 14:34:44",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 169941,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "TOY",
+        "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "duration_ms": 184417,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 224971,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq"
+    },
+    {
+      "added_at": "2025-03-20 14:34:44",
+      "album": {
+        "name": "Spend My Nights",
+        "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Spend My Nights",
+      "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
     }
   ],
   "unique_name": "The Local List",

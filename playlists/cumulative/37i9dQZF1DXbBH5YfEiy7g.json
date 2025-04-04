@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "He Still Can",
+        "url": "https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy"
+      },
+      "artists": [
+        {
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440000,
+      "name": "He Still Can",
+      "url": "https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn"
+    },
+    {
+      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/4ea005A4r8WqKflyDr5liE"
       },
@@ -938,6 +956,28 @@
       "duration_ms": 278886,
       "name": "Make a Way - Live",
       "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
+    },
+    {
+      "album": {
+        "name": "Back To The Altar",
+        "url": "https://open.spotify.com/album/1uhkqqgkXLi1A9KwAjAhoS"
+      },
+      "artists": [
+        {
+          "name": "NTETHE",
+          "url": "https://open.spotify.com/artist/267bYuNaozmRH8pQoRuL15"
+        },
+        {
+          "name": "Putuma Tiso",
+          "url": "https://open.spotify.com/artist/2SRBorwvHv62tsEn2nA5Xm"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362418,
+      "name": "Mawudunyiswe",
+      "url": "https://open.spotify.com/track/11qVrOyuvp9ggKQgUGhsm4"
     },
     {
       "album": {
@@ -1526,7 +1566,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 464090,
       "name": "Ri Do Ima (Bishop RC Madzinge Tribute) - Live",
       "url": "https://open.spotify.com/track/0oP1vYqdbr6iLHtmyy25cM"
@@ -1964,7 +2004,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 630480,
       "name": "Uyalalela (Live)",
       "url": "https://open.spotify.com/track/0EXa43pAwb2RrqVoGLcRnm"

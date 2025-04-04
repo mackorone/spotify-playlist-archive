@@ -4338,7 +4338,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 216734,
       "name": "La Luna y T\u00fa",
       "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
@@ -7239,6 +7239,28 @@
     },
     {
       "album": {
+        "name": "Querido Rey",
+        "url": "https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168376,
+      "name": "Querido Rey",
+      "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"
+    },
+    {
+      "album": {
         "name": "Quien",
         "url": "https://open.spotify.com/album/5Es5LYoZJpBrTlYq4D9JwF"
       },
@@ -7882,7 +7904,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
@@ -7944,6 +7966,28 @@
       "duration_ms": 260769,
       "name": "Si Tu Amor No Vuelve / Coraz\u00f3n de Acero",
       "url": "https://open.spotify.com/track/47dnVU6GPbn6IP9wVWl5Z6"
+    },
+    {
+      "album": {
+        "name": "Siempre Te Amar\u00e9",
+        "url": "https://open.spotify.com/album/5hBzllmbT50u4SaoR6eEpi"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189005,
+      "name": "Siempre Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/36x26xwtCVlkB5GOXWHPkD"
     },
     {
       "album": {

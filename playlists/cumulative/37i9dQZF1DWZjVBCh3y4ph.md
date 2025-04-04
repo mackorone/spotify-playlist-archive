@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Meryl x Kalipsxau
+> Les hits zouk du moment\. Photo : Kim
 
-228 songs - 12 hr 13 min
+230 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Call me](https://open.spotify.com/track/2s37iiK7ml88l5Jk2L98Ca) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Call me](https://open.spotify.com/album/0yHbDb4pyNwuLTqvBXGgEP) | 2:37 | 2024-07-04 | 2024-09-13 |
 | [Caresse](https://open.spotify.com/track/7t7sDVNiFNVdmULGJ8HB1A) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71) | [Caresse](https://open.spotify.com/album/1hy3yEUGl5nXixgIiQnjJu) | 3:05 | 2025-02-13 | 2025-03-28 |
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 | 2024-10-25 |
+| [Chouchou des nanas](https://open.spotify.com/track/2Z08p878IwLZbXK8JVyt4L) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Reine](https://open.spotify.com/album/1EeNyCbW7tysQZiGzoc1h3) | 2:33 | 2025-04-03 |  |
 | [City Road](https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [City Road](https://open.spotify.com/album/6soACghzfAs1FQ2m48lGG1) | 2:14 | 2024-01-04 | 2024-06-14 |
 | [Coeur Noir](https://open.spotify.com/track/2POhFt7cVOzqLYNuLOfQH0) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Coeur Noir](https://open.spotify.com/album/334Q8mA07Ahjjj9nrj2TPF) | 3:39 | 2023-09-28 | 2023-10-06 |
 | [Collé](https://open.spotify.com/track/3Vdl4iclRWImLvre3nDY8G) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Collé](https://open.spotify.com/album/1XE6i9H8Un1Q9vTkk0pV1q) | 3:02 | 2025-01-23 | 2025-03-14 |
@@ -184,13 +185,14 @@
 | [Si tu savais](https://open.spotify.com/track/1tWOUTMDkSLVGsoWbSrDAt) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Dawatcha](https://open.spotify.com/artist/5oMhDTLFrufyB6PWSaoSoy) | [Si tu savais](https://open.spotify.com/album/1A7j6Vx7yFNrQMDXVw7Tqm) | 3:41 | 2024-10-24 | 2025-02-21 |
 | [Si tu t'en vas](https://open.spotify.com/track/26mX0WpDrqeTT1pjtxLnox) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Si tu t'en vas](https://open.spotify.com/album/1sAElG5MK6ieLEHZbYqoET) | 3:21 | 2025-01-30 |  |
 | [Si Tu Veux](https://open.spotify.com/track/7lA4SlMXFBT3OJVKrnNAvW) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Si Tu Veux](https://open.spotify.com/album/0ok2Xye0qGH2xEEiHK4Jgk) | 3:05 | 2025-03-13 |  |
-| [Sincère](https://open.spotify.com/track/54Zqj7bYgFYCUPLJw7bzBG) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U), [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh) | [Sincère](https://open.spotify.com/album/0mrxUNC3CCGWumGxueh8Jn) | 2:07 | 2025-02-06 |  |
+| [Sincère](https://open.spotify.com/track/54Zqj7bYgFYCUPLJw7bzBG) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U), [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh) | [Sincère](https://open.spotify.com/album/0mrxUNC3CCGWumGxueh8Jn) | 2:07 | 2025-02-06 | 2025-04-04 |
 | [SIWO](https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [SIWO](https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr) | 3:49 | 2025-01-02 |  |
 | [Sonje Mwen](https://open.spotify.com/track/4moodqGELYeoH8KJuJAMJy) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd), [Tayoo](https://open.spotify.com/artist/5cuJlJjmnzoiLcqYJ9Z0gn), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Sonje Mwen](https://open.spotify.com/album/5oKlINDbr58NjRWqtVONzC) | 3:34 | 2023-09-28 | 2023-10-20 |
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-09-28 | 2024-04-05 |
 | [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 | 2024-02-08 | 2024-05-10 |
 | [Souvenirs](https://open.spotify.com/track/0TOnPFmemQUysyQNhpkjeC) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Souvenirs](https://open.spotify.com/album/3G71vcAF2KHnkgsQ9Dii4q) | 3:31 | 2024-11-07 |  |
 | [Special](https://open.spotify.com/track/2rvru02W2D0mmzpwajOreE) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [6](https://open.spotify.com/album/6pRlml1MmNwD7ZkP3ZcQn9) | 2:25 | 2024-12-05 | 2025-01-31 |
+| [Spéciale](https://open.spotify.com/track/18e6XXh8hUe5ioMOxOvzxJ) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW) | [Spéciale](https://open.spotify.com/album/4sm8nPesabjg9KPhLzEGLH) | 2:55 | 2025-04-03 |  |
 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 | 2023-10-05 | 2023-11-24 |
 | [STOP CA](https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0) | [Naya Subtil](https://open.spotify.com/artist/4VPAcrsBL7hbHYw3teVnyC) | [STOP CA](https://open.spotify.com/album/5eafYCtCmWYZNrpgRr3Y96) | 4:33 | 2023-12-21 | 2024-01-12 |
 | [Succomber](https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Succomber](https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs) | 4:07 | 2024-04-11 | 2025-03-14 |
@@ -206,7 +208,7 @@
 | [To fè mo mal](https://open.spotify.com/track/2HmsV1hijQLIqdasSbNdQC) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [To fè mo mal](https://open.spotify.com/album/4Avd3PFG9e9I4PuOPE0nie) | 2:54 | 2025-01-02 | 2025-01-31 |
 | [Toi et moi](https://open.spotify.com/track/4dxfZwSiDftKzoqJv7F47Y) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Hybride](https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK) | 2:54 | 2024-12-05 |  |
 | [Tolere w](https://open.spotify.com/track/2qHYQULQh8bN0bb31JKXeG) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk), [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef) | [Tolere w](https://open.spotify.com/album/5IfNKfgGX5QRWm0mK0CFz3) | 4:39 | 2024-11-07 | 2025-03-21 |
-| [Tomber love](https://open.spotify.com/track/0G24rSpriKt2jc9ANQI2Km) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG) | [Tomber love](https://open.spotify.com/album/7fEca0cl1jgloryQ0BwrOc) | 2:49 | 2025-02-13 |  |
+| [Tomber love](https://open.spotify.com/track/0G24rSpriKt2jc9ANQI2Km) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG) | [Tomber love](https://open.spotify.com/album/7fEca0cl1jgloryQ0BwrOc) | 2:49 | 2025-02-13 | 2025-04-04 |
 | [Ton amour](https://open.spotify.com/track/2iEdw5ymM0dVzaeZHEq4JI) | [Nk Divine](https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD), [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [DESTINÉE chapitre II in ut regium](https://open.spotify.com/album/1jnGuJq0cEPWYWsGPFaUCH) | 2:32 | 2024-07-25 | 2024-08-30 |
 | [TON PIED MON PIED](https://open.spotify.com/track/27Dsm5M4o01VCzFrTMHx7b) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TON PIED MON PIED](https://open.spotify.com/album/5vRxSbGuUdaGP4WR5uSlE1) | 2:55 | 2024-06-20 | 2024-07-19 |
 | [Tou Sa Ki Fo](https://open.spotify.com/track/3DZJQP0BrrpSWKPT8KXMQh) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Tou Sa Ki Fo](https://open.spotify.com/album/7cBHtC6kiiKJbmg4fFBco1) | 2:52 | 2023-09-28 | 2024-02-09 |

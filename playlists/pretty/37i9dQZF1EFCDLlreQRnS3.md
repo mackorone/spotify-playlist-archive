@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 66 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 |
 | 67 | [Never Know](https://open.spotify.com/track/5fjRSefWrhhF55YMG7mHL7) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:58 |
 | 68 | [Give It Up](https://open.spotify.com/track/29MyHIVuh2jrMIxFOVK4b0) | [Yann Lauren](https://open.spotify.com/artist/2X8aqXXVsPW1HhrAtjgXeF), [Wolfskind](https://open.spotify.com/artist/1TBWWvhaT8b4ItnaIPrVNH), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Give It Up](https://open.spotify.com/album/0AQktZu7BXdcQzAtx9uLbM) | 2:39 |
-| 69 | [LEGGO](https://open.spotify.com/track/3GeDEcWeEkTewqtgk5RXTn) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:24 |
-| 70 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
+| 69 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
+| 70 | [LEGGO](https://open.spotify.com/track/3GeDEcWeEkTewqtgk5RXTn) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:24 |
 | 71 | [All For You](https://open.spotify.com/track/230iFQRVSL6Mqc91qs4zGe) | [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [All For You](https://open.spotify.com/album/06saY5xxNI3oocnCAaUngb) | 3:00 |
 | 72 | [Crying in the Swimming Pool](https://open.spotify.com/track/1TBtBOCF94xbvzM4Xtc4zY) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Crying in the Swimming Pool](https://open.spotify.com/album/0Y8zDzAD669zCOi5vur5kE) | 3:12 |
 | 73 | [I Like You](https://open.spotify.com/track/50tWrsyrKBu9UHamSxZdea) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 3:17 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 127 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 128 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `Abtu6AAAAAA0HupoUW9gvK5gj6SeaVQX`
+Snapshot ID: `Abt0iAAAAAC9s4LVicl7mxYKssUpMaYs`

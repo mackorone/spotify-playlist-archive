@@ -4,7 +4,7 @@
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 1 min
+51 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,12 +35,13 @@
 | [Jet Lag \(feat\. Young Scooter\)](https://open.spotify.com/track/2OsDoAzo5SGq10qwmKSQBv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 4:31 | 2025-04-01 |  |
 | [Jugg King](https://open.spotify.com/track/16sEtZx6F2InPzybZIn96X) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 3:29 | 2025-04-01 |  |
 | [Life](https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 3:04 | 2025-04-01 |  |
+| [Life Support](https://open.spotify.com/track/6ccAG3Mvu2qPtfqTjvt2VF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 4:10 | 2025-04-04 |  |
 | [Made It](https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fast Lane Juugin](https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX) | 4:26 | 2025-04-01 |  |
 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 | 2025-04-01 |  |
 | [Muddy \(feat\. Young Dolph & Young Scooter\)](https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap House 3](https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL) | 4:15 | 2025-04-01 |  |
 | [Never Broke Again \(feat\. YoungBoy Never Broken Again\)](https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Recipe](https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE) | 2:56 | 2025-04-01 |  |
 | [No Features \(feat\. Kodak Black\)](https://open.spotify.com/track/0jxJiq2bVLGlqLoqhdGZqz) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Recipe](https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE) | 3:28 | 2025-04-01 |  |
-| [No More Stressing \(feat\. Guap Tarantino\)](https://open.spotify.com/track/2fa0nzL5PUqErsZpxf8Irk) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Guap Tarantino](https://open.spotify.com/artist/6nhrSIBO7uf6WWFkmkrQkf) | [Trap Hero](https://open.spotify.com/album/1vzGCtwOa0n13u4xdSXSIF) | 2:58 | 2025-04-01 |  |
+| [No More Stressing \(feat\. Guap Tarantino\)](https://open.spotify.com/track/2fa0nzL5PUqErsZpxf8Irk) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Guap Tarantino](https://open.spotify.com/artist/6nhrSIBO7uf6WWFkmkrQkf) | [Trap Hero](https://open.spotify.com/album/1vzGCtwOa0n13u4xdSXSIF) | 2:58 | 2025-04-01 | 2025-04-04 |
 | [Number Game](https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 | 2025-04-01 |  |
 | [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 | 2025-04-01 |  |
 | [Outro](https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [WAKA FLACKA](https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 2:29 | 2025-04-01 |  |

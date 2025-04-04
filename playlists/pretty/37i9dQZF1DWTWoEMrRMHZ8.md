@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Josyara
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,615 likes - 84 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,626 likes - 84 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

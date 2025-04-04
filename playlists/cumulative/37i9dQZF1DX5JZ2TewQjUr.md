@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 區子琳 Paula
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: fee\. 小朋友
 
-1,369 songs - 3 day 5 hr 14 min
+1,372 songs - 3 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Shadow Sheep](https://open.spotify.com/track/5GjT4jQtNeVTPUEC1fnE3C) | [Oh! Sheep](https://open.spotify.com/artist/6J1qygxBY60B6lwIBTYTTU) | [Shadow Sheep](https://open.spotify.com/album/3qIwpdhgVfcIRNu25QqyZH) | 3:37 | 2023-05-11 | 2023-09-01 |
 | [Shall We Dance](https://open.spotify.com/track/2iLzrjQXYYOUuiFFHO83oQ) | [INTROVERSE](https://open.spotify.com/artist/71md0yuGVfBVCun7P4AyKn) | [Shall We Dance](https://open.spotify.com/album/48hGFXBUSEgwg1nlsaFBQc) | 4:04 | 2024-02-01 | 2024-05-10 |
 | [Shame](https://open.spotify.com/track/32aahq3gaQz6F3oDxoYwFU) | [Iris](https://open.spotify.com/artist/58nF7N65RtuhrcWuA5tU7O) | [Shame](https://open.spotify.com/album/3VUKYevo8yXCCIi18z6OR5) | 3:08 | 2024-09-26 | 2025-02-14 |
+| [she is so lovely](https://open.spotify.com/track/5wyKAMb0Cru2dux43Ms1Gy) | [fee.](https://open.spotify.com/artist/0doNlR4itw8RyaQ9cw3yZo) | [she is so lovely](https://open.spotify.com/album/1EDvqlnChoWSHeK9Vt6gXM) | 2:58 | 2025-04-03 |  |
 | [She's Not The One](https://open.spotify.com/track/3E7WLP6R6uNg3SIYCtMMan) | [Am.ok](https://open.spotify.com/artist/7sScZEc4lJXRPmrPWobyU6) | [She's Not The One](https://open.spotify.com/album/5FbRDNYH6mm2m6OOecnF6t) | 4:25 | 2023-09-07 | 2023-12-01 |
 | [shining star](https://open.spotify.com/track/6vPHRUbdk8footyUuDDBj2) | [Kudos Lam](https://open.spotify.com/artist/2HeMjjQtquPvkToAGftuS7) | [shining star](https://open.spotify.com/album/6oi5sKlz0WhAcv5HpjSmF7) | 3:05 | 2024-08-15 | 2024-12-13 |
 | [SHOTGUN](https://open.spotify.com/track/0wznQcXqhJhR7eX6hAfjLv) | [Potlim](https://open.spotify.com/artist/5uYT7MuoKJtXYjrjOfHTCm), [Lai Kei](https://open.spotify.com/artist/35T5iqhntCprz61MWcrgiB), [FreezLhy](https://open.spotify.com/artist/5LOJ11BmQxqHkx0Hilc4pz) | [SHOTGUN](https://open.spotify.com/album/4m7s8U7u5rA2cB36SgNGcm) | 2:52 | 2023-08-31 | 2023-12-01 |
@@ -777,6 +778,7 @@
 | [TAITAI \(太太\)](https://open.spotify.com/track/7Gt2XwekPAYXZW79aU835U) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [TAITAI \(太太\)](https://open.spotify.com/album/2TWcKtOpTtyUOjzK9K98EQ) | 3:18 | 2022-12-29 | 2023-05-26 |
 | [Take Me Away](https://open.spotify.com/track/5Kfb3wI5TljirWNXzcYq9y) | [WARM HOUSE.](https://open.spotify.com/artist/6FkLFvKugd9UPs1bSawnQR) | [Take Me Away](https://open.spotify.com/album/56zne7LIQd97f5WLVfRUxG) | 3:48 | 2024-04-11 | 2024-11-15 |
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 | 2022-09-09 |
+| [take us away](https://open.spotify.com/track/7Hf4V2ClfHgh6TosGb1RMD) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [take us away](https://open.spotify.com/album/5Pr0k1TVabziKdDIWKqQTr) | 3:16 | 2025-04-03 |  |
 | [Talking to You](https://open.spotify.com/track/5zxPEIu4SAsmYYaygyxzjf) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Talking to You](https://open.spotify.com/album/0HvlM2fAW2M6nxFZ7HWKqD) | 3:19 | 2022-07-28 | 2022-11-04 |
 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 | 2023-02-02 | 2023-07-14 |
 | [technicolor](https://open.spotify.com/track/5aEVLEya6k9h7PeAM5Cyak) | [Sam Pine](https://open.spotify.com/artist/0EmUUx1L72uMsgErnSmV4X), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [technicolor](https://open.spotify.com/album/119gPm0T0aDqZ8KlVGttMB) | 2:45 | 2023-11-30 | 2024-02-16 |
@@ -907,6 +909,7 @@
 | [You and I](https://open.spotify.com/track/5FWcHUJMy7wWD2SByZk8Hd) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [You and I](https://open.spotify.com/album/1leHwKjenNuvX4CmoUtRcl) | 4:20 | 2023-05-04 | 2023-09-01 |
 | [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 | 2024-09-20 | 2025-02-14 |
 | [You Can't Stop Me](https://open.spotify.com/track/0jHtBuOZX2wcHTJSC2Rxby) | [石裂符](https://open.spotify.com/artist/2z5PPOztYLholwAHp3teQq) | [You Can't Stop Me](https://open.spotify.com/album/0qxlt4shCfMU822W22rX6t) | 3:19 | 2023-12-21 | 2024-05-10 |
+| [You Exist in my Song](https://open.spotify.com/track/1Knu40L5MlyhwQUT989caF) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Midnight 海倫](https://open.spotify.com/artist/1jmmXb8XfNRasDjZkk8H4a) | [Drenched 2](https://open.spotify.com/album/1Ie8Z9yVrJgZLY1hxJkY7q) | 3:24 | 2025-04-03 |  |
 | [You gone](https://open.spotify.com/track/5nEPLPhekRKuG6I3fDaBwC) | [SID22](https://open.spotify.com/artist/687Afh5UMC1dbKeH8WwD51) | [You gone](https://open.spotify.com/album/3f8mtMGqgvfJyjLSFqFVru) | 2:54 | 2023-01-12 | 2023-02-03 |
 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/2ufCmx9ku6zzEsscj9YLL8) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/album/31fT2pyLNdEDKOqx7EMUYM) | 3:04 | 2024-02-08 | 2024-05-10 |
 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2023-06-29 | 2023-11-03 |

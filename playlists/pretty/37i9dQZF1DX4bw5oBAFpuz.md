@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,758 likes - 250 songs - 14 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,777 likes - 250 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 249 | [Beach House \- Acoustic](https://open.spotify.com/track/3glDKUTH8sQ1Cwlh0OY1OC) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Beach House \(Acoustic\)](https://open.spotify.com/album/7sSzWkRHmUv2lqt9keqCFi) | 3:43 |
 | 250 | [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 |
 
-Snapshot ID: `Z9yl3gAAAADLfyPWWjGlGGhY1z1FtrYu`
+Snapshot ID: `Z+8FDAAAAADJHOmVewr4v7HgZIxQY7jA`

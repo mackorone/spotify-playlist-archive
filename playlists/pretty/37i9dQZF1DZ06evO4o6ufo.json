@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 77354,
+  "num_followers": 77401,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+ssgAAAAACfLwpn7zqdiFCGkhbXv8F4",
+  "snapshot_id": "Z+x+AAAAAABectPnFnfjYZ6mZdVKQ1dT",
   "tracks": [
     {
       "added_at": null,
@@ -718,11 +718,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 178175,
-      "name": "El Puente Roto (En Vivo)",
-      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
+      "duration_ms": 169745,
+      "name": "El Dos Letras De Jalisco (En Vivo)",
+      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
     },
     {
       "added_at": null,
@@ -790,15 +794,11 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 169745,
-      "name": "El Dos Letras De Jalisco (En Vivo)",
-      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
+      "duration_ms": 178175,
+      "name": "El Puente Roto (En Vivo)",
+      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
     },
     {
       "added_at": null,

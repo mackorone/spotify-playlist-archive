@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569 likes - 273 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,570 likes - 273 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 214 | [Outro](https://open.spotify.com/track/2CMxhRS1MSXTSfE0EPWsdl) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 3:35 |
 | 215 | [This Time Around](https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:55 |
 | 216 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
-| 217 | [Mosh Pit](https://open.spotify.com/track/6U1PuS5d1FzwmiNKpfJPfi) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Blac Sheep 2](https://open.spotify.com/album/5NTVmrFFTFpEQ75W69UbHW) | 2:25 |
-| 218 | [Stingray](https://open.spotify.com/track/6p7gyitCI9KXoojALDkJN6) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED \(Deluxe\)](https://open.spotify.com/album/0FQ3i3pmGkdbGzXfVImtXf) | 2:58 |
+| 217 | [Stingray](https://open.spotify.com/track/6p7gyitCI9KXoojALDkJN6) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED \(Deluxe\)](https://open.spotify.com/album/0FQ3i3pmGkdbGzXfVImtXf) | 2:58 |
+| 218 | [Mosh Pit](https://open.spotify.com/track/6U1PuS5d1FzwmiNKpfJPfi) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Blac Sheep 2](https://open.spotify.com/album/5NTVmrFFTFpEQ75W69UbHW) | 2:25 |
 | 219 | [Codeine Habits \(feat\. 42 Dugg\)](https://open.spotify.com/track/33cBfvOqyjmRFeyFGVEq0S) | [Blacc Zacc](https://open.spotify.com/artist/2VdDGrsKkzCfR9AG6w5O92), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [803 Legend](https://open.spotify.com/album/6AcLuAHaFPq6G64kc6HmZg) | 3:27 |
 | 220 | [ONE CALL](https://open.spotify.com/track/3aLYg8zf6MTycBri2zlWLJ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:26 |
 | 221 | [BoNjOuR](https://open.spotify.com/track/4WHU0x1SAjRd6KGnhVdGoj) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH) | [F.A.C.T.S.](https://open.spotify.com/album/3U2PmvVkO4gvoC0CBrpNm7) | 2:30 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 272 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 273 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbtutgAAAAAn1FWTkNwDLg+X6gkY63iy`
+Snapshot ID: `Abt0kgAAAABcDO5ltJTNMPsp9WcPaG6k`

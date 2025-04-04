@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19:  SERIOUS BACON",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 214821,
       "name": "BANG!",
       "url": "https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn"
@@ -9414,6 +9414,28 @@
       "duration_ms": 220120,
       "name": "\u0e2b\u0e49\u0e32\u0e21\u0e43\u0e08\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/3xVsS8m92jEGMh3DXGe1PW"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e4a\u0e30! (Huh!)",
+        "url": "https://open.spotify.com/album/4Lg5B5UZVS5peimZFp8XOl"
+      },
+      "artists": [
+        {
+          "name": "FLIRT",
+          "url": "https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ"
+        },
+        {
+          "name": "PRAESUN",
+          "url": "https://open.spotify.com/artist/6A44sxjXbXiPQvb7GaUF0g"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u0e2b\u0e4a\u0e30! (Huh!)",
+      "url": "https://open.spotify.com/track/7ijSTwXKu4SoVJS7BPxPSt"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: X CLUB.",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Lawrence Hart",
   "name": "Altar JP",
   "tracks": [
     {
@@ -9093,6 +9093,24 @@
     },
     {
       "album": {
+        "name": "Come In Out Of The Rain",
+        "url": "https://open.spotify.com/album/6jZhhKMNsN5C6LpypG7SdO"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291720,
+      "name": "Fucking Mega",
+      "url": "https://open.spotify.com/track/6tqvEXCweWY131rD6EeD4D"
+    },
+    {
+      "album": {
         "name": "Funkbraska",
         "url": "https://open.spotify.com/album/0HQ0oc0R5tY0mSGSH14Te1"
       },
@@ -14058,7 +14076,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 240413,
       "name": "Love U Bring",
       "url": "https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc6b0\ud6a8) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc2a4\ud154\ub77c\uc7a5 (Stella Jang)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1558,6 +1558,24 @@
       "duration_ms": 200357,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5"
+    },
+    {
+      "album": {
+        "name": "Betty Boop\u2665 (collab. ULKIN CANVAS)",
+        "url": "https://open.spotify.com/album/0sUQyZG2rfJH6tASxHks3p"
+      },
+      "artists": [
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137161,
+      "name": "Betty Boop\u2665 (collab. ULKIN CANVAS)",
+      "url": "https://open.spotify.com/track/6wgQeSCttPKaIRJgwK3EJn"
     },
     {
       "album": {
@@ -15301,6 +15319,24 @@
     },
     {
       "album": {
+        "name": "STELLA II",
+        "url": "https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252524,
+      "name": "WALKMAN",
+      "url": "https://open.spotify.com/track/6Y8iqKIk4LckcPQV5lohVU"
+    },
+    {
+      "album": {
         "name": "Waltz",
         "url": "https://open.spotify.com/album/3ezuyHHWaJSJjPh0KzFvuh"
       },
@@ -17100,6 +17136,24 @@
       "duration_ms": 186044,
       "name": "\uc78a\uace0 \uc0b4\uc558\ub358 \uac83\ub4e4",
       "url": "https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W"
+    },
+    {
+      "album": {
+        "name": "Home Date",
+        "url": "https://open.spotify.com/album/0x79ov1mXMlwJKpgYhjjsx"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153413,
+      "name": "\uc9d1\ub370\uc774\ud2b8 Home Date",
+      "url": "https://open.spotify.com/track/7oZaH7O6NslcxHl2Dbimvm"
     },
     {
       "album": {

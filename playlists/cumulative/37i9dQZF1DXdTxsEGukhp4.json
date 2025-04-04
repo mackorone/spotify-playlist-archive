@@ -7413,6 +7413,28 @@
     },
     {
       "album": {
+        "name": "\u6fc0\u30a2\u30c4",
+        "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
+      },
+      "artists": [
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162025,
+      "name": "\u30d0\u30ca\u30ca\u30dc\u30fc\u30c8 (feat. Elle Teresa)",
+      "url": "https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD"
+    },
+    {
+      "album": {
         "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u6c7a\u6226",
         "url": "https://open.spotify.com/album/7cIIvrxI6MPsrdzo2gB1S7"
       },
@@ -8042,7 +8064,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 161693,
       "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU - Japanese Ver.",
       "url": "https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S"

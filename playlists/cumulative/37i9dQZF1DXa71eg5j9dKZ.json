@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: DJ Seinfeld",
+  "description": "The home for alternative electronic music. Cover: ATRIP",
   "name": "Altar",
   "tracks": [
     {
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 308946,
       "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
       "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
@@ -6812,7 +6812,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 161280,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/3Gio3NipQKvvxDHKgQRRXm"
@@ -7739,6 +7739,24 @@
     },
     {
       "album": {
+        "name": "Come In Out Of The Rain",
+        "url": "https://open.spotify.com/album/6jZhhKMNsN5C6LpypG7SdO"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291720,
+      "name": "Fucking Mega",
+      "url": "https://open.spotify.com/track/6tqvEXCweWY131rD6EeD4D"
+    },
+    {
+      "album": {
         "name": "Fuse",
         "url": "https://open.spotify.com/album/779o4JQ4O4f77qc2DD7JeA"
       },
@@ -8410,7 +8428,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-04",
       "duration_ms": 191065,
       "name": "Got to Change",
       "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
@@ -9026,6 +9044,24 @@
       "duration_ms": 211226,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1BX7vT2Pc6FNFblmhnp6ke"
+    },
+    {
+      "album": {
+        "name": "KLUBPARTEI",
+        "url": "https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233750,
+      "name": "HERZSCHLAG",
+      "url": "https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A"
     },
     {
       "album": {
@@ -13218,6 +13254,24 @@
       "duration_ms": 285081,
       "name": "Moebius",
       "url": "https://open.spotify.com/track/2d8gocaOLCy3jhH10IDjbD"
+    },
+    {
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198003,
+      "name": "Mojo",
+      "url": "https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน:  SERIOUS BACON
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BUS
 
-677 songs - 1 day 15 hr 59 min
+678 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
 | [ambulance](https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [ambulance](https://open.spotify.com/album/2TJb5ZrRwdPjo0GzDCJeo2) | 3:29 | 2022-09-29 | 2022-10-13 |
 | [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 | 2024-01-04 |
-| [BANG!](https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [BANG!](https://open.spotify.com/album/5mPMtvMVqTKpYVdfqJPmOp) | 3:34 | 2025-03-20 |  |
+| [BANG!](https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [BANG!](https://open.spotify.com/album/5mPMtvMVqTKpYVdfqJPmOp) | 3:34 | 2025-03-20 | 2025-04-04 |
 | [Barbie \(Oops! Oops!\)](https://open.spotify.com/track/7rxclG8zeoSUdquI4aPLWu) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [Barbie \(Oops! Oops!\) \- Single](https://open.spotify.com/album/2xNpxsrXEwOGkAjarvT6p2) | 2:56 | 2023-09-08 | 2023-09-16 |
 | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 | 2022-09-02 | 2022-09-09 |
 | [Be Your Luve](https://open.spotify.com/track/2n834KRCGkngJdbDhDXMBO) | [BUILD](https://open.spotify.com/artist/2Jp5KBkpzm1dRFal9Nlmvm) | [Be Your Luve](https://open.spotify.com/album/6PYYMxIIDZpdGbKsya7xrL) | 3:24 | 2023-09-08 | 2023-09-14 |
@@ -506,6 +506,7 @@
 | [ห้องแห่งความลับ](https://open.spotify.com/track/5jniDwjvBr0L70gvtLoLE5) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้องแห่งความลับ](https://open.spotify.com/album/3OCN0ekRQ9jKpGKIhFR3lU) | 3:31 | 2024-03-14 | 2024-03-27 |
 | [ห้ามใจไม่อยู่](https://open.spotify.com/track/2hteglfTJmJmqac9pXz7rb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้ามใจไม่อยู่](https://open.spotify.com/album/0WoTqqnZsmcudqviK2jBcN) | 3:40 | 2022-05-26 | 2022-07-29 |
 | [ห้ามใจไม่อยู่](https://open.spotify.com/track/3xVsS8m92jEGMh3DXGe1PW) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้ามใจไม่อยู่](https://open.spotify.com/album/2oBrpIpHLArLyXiMLx4Knq) | 3:40 | 2022-07-28 | 2022-11-16 |
+| [ห๊ะ! \(Huh!\)](https://open.spotify.com/track/7ijSTwXKu4SoVJS7BPxPSt) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ), [PRAESUN](https://open.spotify.com/artist/6A44sxjXbXiPQvb7GaUF0g) | [ห๊ะ! \(Huh!\)](https://open.spotify.com/album/4Lg5B5UZVS5peimZFp8XOl) | 3:30 | 2025-04-03 |  |
 | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy) | 3:42 | 2022-07-22 | 2022-07-29 |
 | [อยากชวนเธอมาสนิท \(PASSERBY\)](https://open.spotify.com/track/0Owt9EMT0meybf6Nb5PgLl) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [อยากชวนเธอมาสนิท \(PASSERBY\) \- Single](https://open.spotify.com/album/4NEDDZd9neIQfphG2fxA61) | 3:02 | 2024-04-25 | 2024-05-11 |
 | [อยากมีเธอใกล้ๆ](https://open.spotify.com/track/02mE5JW89debQbxtBSPA9p) | [KIN](https://open.spotify.com/artist/1gRcxKiJMYrZX0Zo8s6J2B), [TAD ATLAS](https://open.spotify.com/artist/2vC8accMrT7OyYGa1O35V2) | [อยากมีเธอใกล้ๆ \- Single](https://open.spotify.com/album/0nYAogCAbmHB9bI3wEG8WQ) | 3:21 | 2024-08-29 | 2024-09-06 |
